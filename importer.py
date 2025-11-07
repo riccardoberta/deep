@@ -32,9 +32,11 @@ class Importer:
         self.data_dir = Path(data_dir)
         self.logger = logger
 
-    def run(self) -> Tuple[Path, List[Dict[str, Any]]]:
+    def run(self) -> Tuple[Path, List[Dict[str, Any]], Dict[str, Any]]:
         members = Aggregate(self.input_csv).load_members()
         run_dir = self._next_run_directory(self.data_dir)
+        source_dir = run_dir / "source"
+        source_dir.mkdir(parents=True, exist_ok=True)
 
         scopus_client: Optional[ScopusClient] = None
         if self.fetch_scopus:
@@ -69,14 +71,24 @@ class Importer:
             unige_raw = unige_map.get(str(member.unige_id)) if member.unige_id else None
 
             payload = self._build_payload(member, scopus_payload, unige_raw)
-            json_path = self._member_json_path(run_dir, member)
-            json_path.parent.mkdir(parents=True, exist_ok=True)
+            json_path = self._member_json_path(source_dir, member)
             with json_path.open("w", encoding="utf-8") as handle:
                 json.dump(payload, handle, indent=2, ensure_ascii=False)
 
             payloads.append(payload)
 
-        return run_dir, payloads
+        metadata = {
+            "input_csv": str(Path(self.input_csv).resolve()),
+            "year_windows": [int(value) for value in self.year_windows],
+            "fetch_scopus": bool(self.fetch_scopus),
+            "fetch_unige": bool(self.fetch_unige),
+            "created_at": datetime.utcnow().isoformat(),
+            "source_count": len(payloads),
+        }
+        metadata_path = run_dir / "metadata.json"
+        metadata_path.write_text(json.dumps(metadata, indent=2), encoding="utf-8")
+
+        return run_dir, payloads, metadata
 
     def _log(self, message: str) -> None:
         if self.logger:
@@ -309,7 +321,7 @@ class Importer:
         run_dir.mkdir(parents=True, exist_ok=False)
         return run_dir
 
-    def _member_json_path(self, run_dir: Path, member: Member) -> Path:
+    def _member_json_path(self, base_dir: Path, member: Member) -> Path:
         surname_slug = self._slugify(member.surname)
         name_slug = self._slugify(member.name)
-        return run_dir / f"{surname_slug}_{name_slug}_{member.scopus_id}.json"
+        return base_dir / f"{surname_slug}_{name_slug}_{member.scopus_id}.json"

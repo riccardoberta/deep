@@ -11,7 +11,7 @@ class DataPreparation:
         run_dir: Path,
         input_csv: str,
     ) -> Path:
-        output_dir = run_dir / "output"
+        output_dir = run_dir / "elaborations"
         output_dir.mkdir(parents=True, exist_ok=True)
         summary_name = f"{Path(input_csv).stem}_results.csv"
         summary_path = output_dir / summary_name

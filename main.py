@@ -4,21 +4,32 @@ import json
 import os
 import queue
 import re
-import subprocess
-import sys
 import threading
 import tkinter as tk
 from dataclasses import dataclass
 from pathlib import Path
 from tkinter import filedialog, messagebox, ttk
 from tkinter.scrolledtext import ScrolledText
-from typing import Any, Dict, Iterable, List
+from typing import Any, Dict, Iterable, List, Optional
 
 from dotenv import load_dotenv
 
+from collaborations import CollaborationBuilder
 from data_preparation import DataPreparation
 from export import Exporter
 from importer import Importer
+
+try:  # pragma: no cover - optional visualisation deps
+    import networkx as nx
+except Exception:  # pragma: no cover
+    nx = None
+
+try:  # pragma: no cover - optional visualisation deps
+    from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+    from matplotlib.figure import Figure
+except Exception:  # pragma: no cover
+    FigureCanvasTkAgg = None
+    Figure = None
 
 load_dotenv()
 
@@ -54,7 +65,7 @@ def _load_settings() -> AppSettings:
     data_dir = Path(os.getenv("DATA_DIR", "data")).expanduser()
 
     return AppSettings(
-        input_csv=os.getenv("INPUT_CSV", "./input/TEST.csv"),
+        input_csv=os.getenv("INPUT_CSV", "./input/DITEN.xlsx"),
         year_windows=os.getenv("YEAR_WINDOWS", "15,10,5"),
         sleep_seconds=sleep_seconds,
         fetch_scopus=_env_bool("FETCH_SCOPUS", True),
@@ -86,33 +97,37 @@ class Application:
             except tk.TclError:
                 self.icon_image = None
 
-        self.run_dir_var = tk.StringVar(value=self._default_run_dir())
-
         self.current_payloads: List[dict] | None = None
-        self.current_run_dir: Path | None = None
+        self.current_run_dir: Path | None = self._latest_run_dir_path()
+        self.current_metadata: Dict[str, Any] | None = None
         self.data_preparer = DataPreparation()
         self.exporter = Exporter()
+        self.run_label_var = tk.StringVar(value=self._format_run_label(self.current_run_dir))
         # Background workers push log messages through this queue to avoid UI freezes.
         self.import_log_queue: queue.Queue[str] = queue.Queue()
         self._import_log_scheduled = False
         self._import_running = False
-        self._suspend_run_dir_trace = False
         self.member_payload_lookup: Dict[str, Dict[str, Any]] = {}
         self.magnifier_icon = self._build_magnifier_icon()
+        self._collaboration_cache: Dict[str, Dict[str, Any]] = {}
+        self._collaboration_positions: Dict[str, Dict[str, tuple[float, float]]] = {}
 
         self._build_ui()
-        self.run_dir_var.trace_add("write", self._on_run_dir_var_changed)
+        self._refresh_latest_run()
 
     def _build_ui(self) -> None:
         notebook = ttk.Notebook(self.root)
         notebook.pack(fill="both", expand=True, padx=10, pady=5)
 
         import_tab = ttk.Frame(notebook)
+        elaborating_tab = ttk.Frame(notebook)
         export_tab = ttk.Frame(notebook)
         notebook.add(import_tab, text="Importing")
+        notebook.add(elaborating_tab, text="Elaborating")
         notebook.add(export_tab, text="Exploring")
 
         self._build_import_tab(import_tab)
+        self._build_elaborating_tab(elaborating_tab)
         self._build_export_tab(export_tab)
 
     def _build_import_tab(self, parent: tk.Widget) -> None:
@@ -142,19 +157,49 @@ class Application:
         self.import_log_text = ScrolledText(import_log_frame, wrap="word", height=12)
         self.import_log_text.pack(fill="both", expand=True)
 
+    def _build_elaborating_tab(self, parent: tk.Widget) -> None:
+        """Compose the controls used to build derived artefacts from the latest run."""
+
+        actions_frame = tk.LabelFrame(parent, text="Elaboration Tasks", padx=10, pady=10)
+        actions_frame.pack(fill="x", padx=5, pady=5)
+
+        tk.Button(
+            actions_frame,
+            text="Prepare Results CSV",
+            command=self.prepare_results_csv,
+            width=22,
+        ).pack(side="left", padx=5)
+
+        tk.Button(
+            actions_frame,
+            text="Build Collaboration Graph",
+            command=self.build_collaboration_graph,
+            width=26,
+        ).pack(side="left", padx=5)
+
+        log_frame = tk.LabelFrame(parent, text="Elaboration Log", padx=5, pady=5)
+        log_frame.pack(fill="both", expand=True, padx=5, pady=5)
+        self.elaboration_log_text = ScrolledText(log_frame, wrap="word", height=12)
+        self.elaboration_log_text.pack(fill="both", expand=True)
+
     def _build_export_tab(self, parent: tk.Widget) -> None:
         """Compose the widgets used when exploring previously imported runs."""
 
-        run_frame = tk.LabelFrame(parent, text="Working Folder", padx=10, pady=10)
+        run_frame = tk.LabelFrame(parent, text="Current Run", padx=10, pady=10)
         run_frame.pack(fill="x", padx=5, pady=5)
-        tk.Entry(run_frame, textvariable=self.run_dir_var, width=50).grid(row=0, column=0, sticky="we", padx=5)
-        tk.Button(run_frame, text="Select", command=self._browse_run_dir).grid(row=0, column=1, padx=5)
-        tk.Button(run_frame, text="Open", command=self._open_run_dir).grid(row=0, column=2, padx=5)
+        tk.Label(run_frame, textvariable=self.run_label_var, anchor="w").grid(row=0, column=0, sticky="we", padx=5)
+        tk.Button(run_frame, text="Reload Latest Run", command=self._refresh_latest_run, width=20).grid(row=0, column=1, padx=5)
         run_frame.columnconfigure(0, weight=1)
 
         export_actions = tk.Frame(parent)
         export_actions.pack(fill="x", padx=5, pady=5)
         tk.Button(export_actions, text="Start Export", command=self.start_export, width=15).pack(side="left", padx=5)
+        tk.Button(
+            export_actions,
+            text="View Collaborations",
+            command=self._open_collaborations_window,
+            width=18,
+        ).pack(side="left", padx=5)
 
         members_frame = tk.LabelFrame(parent, text="Members", padx=5, pady=5)
         members_frame.pack(fill="both", expand=True, padx=5, pady=5)
@@ -193,65 +238,12 @@ class Application:
         self.export_log_text = ScrolledText(export_log_frame, wrap="word", height=10)
         self.export_log_text.pack(fill="both", expand=True)
 
-    def _default_run_dir(self) -> str:
-        """Return the most recent run directory or an empty string if none exist."""
-
-        base = self.data_dir
-        if not base.is_dir():
-            return ""
-
-        pattern = re.compile(r"^(\d{4}_\d{2}_\d{2})_(\d+)$")
-        candidates: List[tuple[str, int, Path]] = []
-        for child in base.iterdir():
-            if child.is_dir():
-                match = pattern.match(child.name)
-                if match:
-                    date_token = match.group(1)
-                    index = int(match.group(2))
-                    candidates.append((date_token, index, child))
-
-        if not candidates:
-            return ""
-
-        candidates.sort(key=lambda item: (item[0], item[1]), reverse=True)
-        return str(candidates[0][2])
-
     def _browse_csv(self) -> None:
         """Prompt the user for a CSV file."""
 
         file_path = filedialog.askopenfilename(title="Select input CSV", filetypes=[("CSV files", "*.csv"), ("All files", "*.*")])
         if file_path:
             self.input_var.set(file_path)
-
-    def _browse_run_dir(self) -> None:
-        """Prompt the user for a working folder."""
-
-        directory = filedialog.askdirectory(title="Select working folder", initialdir=str(self.data_dir))
-        if directory:
-            self.run_dir_var.set(directory)
-
-    def _open_run_dir(self) -> None:
-        """Open the currently selected working folder using the platform file explorer."""
-
-        directory = self.run_dir_var.get()
-        if not directory:
-            messagebox.showwarning("Working folder", "Select a valid working folder first.")
-            return
-
-        path = Path(directory)
-        if not path.is_dir():
-            messagebox.showwarning("Working folder", "Select a valid working folder first.")
-            return
-
-        try:
-            if sys.platform.startswith("win"):
-                os.startfile(str(path))  # type: ignore[attr-defined]
-            elif sys.platform == "darwin":
-                subprocess.run(["open", str(path)], check=False)
-            else:
-                subprocess.run(["xdg-open", str(path)], check=False)
-        except Exception as exc:  # pragma: no cover - GUI feedback only
-            messagebox.showerror("Working folder", f"Unable to open folder: {exc}")
 
     def start_import(self) -> None:
         if self._import_running:
@@ -298,24 +290,16 @@ class Application:
         )
 
         try:
-            run_dir, payloads = importer.run()
+            run_dir, payloads, metadata = importer.run()
         except Exception as exc:
             message = f"⚠️ Import failed: {exc}"
             self._enqueue_import_log(message)
             self.root.after(0, lambda: self._on_import_failure("Import failed", str(exc)))
             return
 
-        try:
-            summary_path = self.data_preparer.prepare(payloads, run_dir, input_csv)
-        except Exception as exc:
-            message = f"⚠️ Data preparation failed: {exc}"
-            self._enqueue_import_log(message)
-            self.root.after(0, lambda: self._on_import_failure("Data preparation failed", str(exc)))
-            return
-
         self.root.after(
             0,
-            lambda: self._on_import_success(run_dir, payloads, summary_path),
+            lambda: self._on_import_success(run_dir, payloads, metadata),
         )
 
     def _on_import_failure(self, title: str, message: str) -> None:
@@ -328,17 +312,17 @@ class Application:
         self,
         run_dir: Path,
         payloads: List[Dict[str, Any]],
-        summary_path: Path,
+        metadata: Dict[str, Any],
     ) -> None:
         """Update UI state and log messages after a successful import cycle."""
 
         self.current_run_dir = run_dir
         self.current_payloads = payloads
-        self._suspend_run_dir_trace = True
-        self.run_dir_var.set(str(run_dir))
-        self._suspend_run_dir_trace = False
+        self.current_metadata = metadata
+        self.run_label_var.set(self._format_run_label(run_dir))
         self._update_member_table(payloads)
-        self._enqueue_import_log(f"Summary CSV: {summary_path}")
+        self._enqueue_import_log(f"Raw payloads stored under: {run_dir / 'source'}")
+        self._enqueue_import_log("Use the Elaborating tab to prepare CSVs or graphs.")
         self._enqueue_import_log("✅ Import completed")
         self._finalize_import()
 
@@ -348,54 +332,16 @@ class Application:
         self._import_running = False
         self.import_button.config(state="normal")
 
-    def _on_run_dir_var_changed(self, *_: Any) -> None:
-        """Reload member data when the user selects a different working folder."""
-
-        if self._suspend_run_dir_trace or self._import_running:
-            return
-        directory = self.run_dir_var.get().strip()
-        if not directory:
-            self._clear_member_table()
-            return
-        path = Path(directory)
-        if not path.is_dir():
-            self._clear_member_table()
-            return
-        try:
-            payloads = self._load_payloads_from_json(path)
-        except Exception:
-            self._clear_member_table()
-            return
-        self.current_run_dir = path
-        self.current_payloads = payloads
-        self._update_member_table(payloads)
-
     def start_export(self) -> None:
-        run_dir_str = self.run_dir_var.get().strip()
-        if not run_dir_str:
-            messagebox.showwarning("Missing run directory", "Select a run directory first.")
+        run_dir = self._require_current_run_dir()
+        if run_dir is None:
             return
 
-        run_dir = Path(run_dir_str)
-        if not run_dir.is_dir():
-            messagebox.showerror("Run directory not found", f"{run_dir} does not exist.")
+        if not self._ensure_run_payloads():
             return
 
-        if self.current_run_dir and run_dir.resolve() == self.current_run_dir.resolve() and self.current_payloads is not None:
-            payloads = self.current_payloads
-        else:
-            try:
-                payloads = self._load_payloads_from_json(run_dir)
-            except Exception as exc:
-                messagebox.showerror("Export failed", str(exc))
-                self._append_export_log(f"⚠️ Export failed: {exc}")
-                return
-            self.current_run_dir = run_dir
-            self.current_payloads = payloads
-
-        self._update_member_table(payloads)
         try:
-            markdown_dir = self.exporter.export(payloads, run_dir)
+            markdown_dir = self.exporter.export(self.current_payloads, run_dir)
         except Exception as exc:
             messagebox.showerror("Export failed", str(exc))
             self._append_export_log(f"⚠️ Export failed: {exc}")
@@ -405,7 +351,11 @@ class Application:
 
     def _load_payloads_from_json(self, run_dir: Path) -> List[Dict[str, Any]]:
         payloads: List[Dict[str, Any]] = []
-        for path in sorted(run_dir.glob("*.json")):
+        source_dir = run_dir / "source"
+        if not source_dir.is_dir():
+            raise RuntimeError(f"No source directory found under {run_dir}.")
+
+        for path in sorted(source_dir.glob("*.json")):
             try:
                 payloads.append(json.loads(path.read_text(encoding="utf-8")))
             except Exception as exc:
@@ -463,6 +413,348 @@ class Application:
         self.export_log_text.insert("end", f"{message}\n")
         self.export_log_text.see("end")
         self.root.update_idletasks()
+
+    def _append_elaboration_log(self, message: str) -> None:
+        """Append a single message to the elaboration log widget."""
+
+        self.elaboration_log_text.insert("end", f"{message}\n")
+        self.elaboration_log_text.see("end")
+        self.root.update_idletasks()
+
+    def prepare_results_csv(self) -> None:
+        """Generate the aggregated CSV for the latest run."""
+
+        run_dir = self._require_current_run_dir()
+        if run_dir is None:
+            return
+        if not self._ensure_run_payloads():
+            return
+
+        metadata = self._ensure_metadata()
+        input_csv = metadata.get("input_csv") or self.input_var.get()
+        if not input_csv:
+            messagebox.showwarning("Missing input CSV", "Unable to determine the source CSV for this run.")
+            return
+
+        try:
+            summary_path = self.data_preparer.prepare(self.current_payloads, run_dir, input_csv)
+        except Exception as exc:
+            messagebox.showerror("CSV preparation failed", str(exc))
+            self._append_elaboration_log(f"⚠️ CSV preparation failed: {exc}")
+            return
+
+        self._append_elaboration_log(f"✅ Results CSV saved to {summary_path}")
+
+    def build_collaboration_graph(self) -> None:
+        """Generate collaboration JSON/GraphML files for the latest run."""
+
+        run_dir = self._require_current_run_dir()
+        if run_dir is None:
+            return
+        if not self._ensure_run_payloads():
+            return
+
+        metadata = self._ensure_metadata()
+        windows = metadata.get("year_windows")
+        if not windows:
+            try:
+                windows = list(self._parse_year_windows(self.year_windows_var.get()))
+            except ValueError:
+                windows = []
+
+        builder = CollaborationBuilder(windows or [], logger=self._append_elaboration_log)
+        try:
+            result = builder.build(self.current_payloads, run_dir)
+        except Exception as exc:
+            messagebox.showerror("Collaboration build failed", str(exc))
+            self._append_elaboration_log(f"⚠️ Collaboration build failed: {exc}")
+            return
+
+        cache_key = self._collaboration_cache_key(run_dir)
+        self._collaboration_cache.pop(cache_key, None)
+        self._collaboration_positions.pop(cache_key, None)
+
+        json_path = result.get("json")
+        graph_path = result.get("graphml")
+        if json_path:
+            self._append_elaboration_log(f"✅ Collaboration JSON saved to {json_path}")
+        if graph_path:
+            self._append_elaboration_log(f"✅ GraphML saved to {graph_path}")
+        else:
+            self._append_elaboration_log("ℹ️ Install networkx to export GraphML files.")
+
+    def _open_collaborations_window(self) -> None:
+        """Open a toplevel window with an interactive collaboration graph."""
+
+        if nx is None or FigureCanvasTkAgg is None or Figure is None:
+            messagebox.showinfo(
+                "Dependency missing",
+                "Install networkx and matplotlib to view the collaboration graph.",
+            )
+            return
+
+        run_dir = self._require_current_run_dir()
+        if run_dir is None:
+            return
+
+        json_path = run_dir / "elaborations" / "collaborations.json"
+        if not json_path.exists():
+            messagebox.showinfo(
+                "Collaborations unavailable",
+                "No collaboration data found for this run. Build the collaboration graph first.",
+            )
+            return
+
+        try:
+            data = self._load_collaboration_data(run_dir)
+        except Exception as exc:
+            messagebox.showerror("Unable to load collaborations", str(exc))
+            return
+
+        window_options = data.get("windows") or [{"key": "overall", "label": "Overall"}]
+        label_to_key = {option["label"]: option["key"] for option in window_options}
+        labels = list(label_to_key.keys())
+        selected_label = tk.StringVar(value=labels[0])
+
+        dialog = tk.Toplevel(self.root)
+        dialog.title("Collaboration Graph")
+        dialog.geometry("920x680")
+        dialog.transient(self.root)
+
+        control_frame = tk.Frame(dialog)
+        control_frame.pack(fill="x", padx=10, pady=5)
+        ttk.Label(control_frame, text="Time window:").pack(side="left")
+        window_selector = ttk.Combobox(
+            control_frame,
+            state="readonly",
+            textvariable=selected_label,
+            values=labels,
+            width=30,
+        )
+        window_selector.pack(side="left", padx=6)
+
+        figure = Figure(figsize=(7.5, 5.6), dpi=100)
+        axis = figure.add_subplot(111)
+        canvas = FigureCanvasTkAgg(figure, master=dialog)
+        canvas.get_tk_widget().pack(fill="both", expand=True, padx=10, pady=5)
+
+        def refresh_graph(*_: Any) -> None:
+            label = selected_label.get()
+            window_key = label_to_key.get(label, window_options[0]["key"])
+            self._draw_collaboration_graph(axis, canvas, data, window_key, label, run_dir)
+
+        window_selector.bind("<<ComboboxSelected>>", refresh_graph)
+        refresh_graph()
+
+    def _draw_collaboration_graph(
+        self,
+        axis: Any,
+        canvas: FigureCanvasTkAgg,
+        data: Dict[str, Any],
+        window_key: str,
+        window_label: str,
+        run_dir: Path,
+    ) -> None:
+        axis.clear()
+        nodes = data.get("nodes") or []
+        edges = data.get("edges") or []
+
+        graph = nx.Graph()
+        for node in nodes:
+            h_index_map = node.get("h_index", {})
+            value = self._safe_float(h_index_map.get(window_key))
+            if not value:
+                value = self._safe_float(h_index_map.get("overall"))
+            graph.add_node(
+                node["id"],
+                label=node.get("label") or node["id"],
+                h_index=value,
+            )
+
+        for edge in edges:
+            weight_map = edge.get("weight", {})
+            weight = self._safe_float(weight_map.get(window_key))
+            if weight <= 0:
+                continue
+            graph.add_edge(edge["source"], edge["target"], weight=weight)
+
+        if graph.number_of_nodes() == 0:
+            axis.text(0.5, 0.5, "No members available", ha="center", va="center")
+            axis.axis("off")
+            canvas.draw_idle()
+            return
+
+        cache_key = self._collaboration_cache_key(run_dir)
+        positions = self._collaboration_positions.get(cache_key)
+        if positions is None or not positions:
+            positions = self._build_collaboration_positions(run_dir, data)
+
+        node_sizes = [max(200.0, attr.get("h_index", 0) * 60.0) for _, attr in graph.nodes(data=True)]
+        edge_widths = [max(0.5, attr.get("weight", 1) * 0.6) for _, _, attr in graph.edges(data=True)]
+
+        nx.draw_networkx_edges(graph, positions, ax=axis, width=edge_widths, alpha=0.55, edge_color="#9AA7BF")
+        nx.draw_networkx_nodes(
+            graph,
+            positions,
+            ax=axis,
+            node_size=node_sizes,
+            node_color="#4F81BD",
+            alpha=0.9,
+            linewidths=0.6,
+            edgecolors="#1F3D60",
+        )
+        nx.draw_networkx_labels(graph, positions, ax=axis, font_size=8)
+
+        axis.set_title(f"Collaborations – {window_label}")
+        axis.axis("off")
+        canvas.draw_idle()
+
+    def _build_collaboration_positions(self, run_dir: Path, data: Dict[str, Any]) -> Dict[str, tuple[float, float]]:
+        cache_key = self._collaboration_cache_key(run_dir)
+        positions = self._collaboration_positions.get(cache_key)
+        if positions is not None:
+            return positions
+
+        base_graph = nx.Graph()
+        for node in data.get("nodes") or []:
+            base_graph.add_node(node["id"])
+        for edge in data.get("edges") or []:
+            weight_map = edge.get("weight", {})
+            weight = sum(self._safe_float(value) for value in weight_map.values())
+            if weight <= 0:
+                continue
+            base_graph.add_edge(edge["source"], edge["target"], weight=weight)
+
+        if base_graph.number_of_nodes() == 0:
+            positions = {}
+        else:
+            positions = nx.spring_layout(base_graph, weight="weight", seed=42)
+        self._collaboration_positions[cache_key] = positions
+        return positions
+
+    def _load_collaboration_data(self, run_dir: Path) -> Dict[str, Any]:
+        cache_key = self._collaboration_cache_key(run_dir)
+        cached = self._collaboration_cache.get(cache_key)
+        if cached is not None:
+            return cached
+        path = run_dir / "elaborations" / "collaborations.json"
+        data = json.loads(path.read_text(encoding="utf-8"))
+        if not data.get("windows"):
+            data["windows"] = [{"key": "overall", "label": "Overall"}]
+        self._collaboration_cache[cache_key] = data
+        return data
+
+    def _collaboration_cache_key(self, run_dir: Path) -> str:
+        return str(run_dir.resolve())
+
+    @staticmethod
+    def _safe_float(value: Any) -> float:
+        try:
+            return float(value)
+        except (TypeError, ValueError):
+            return 0.0
+
+    def _latest_run_dir_path(self) -> Optional[Path]:
+        base = self.data_dir
+        if not base.is_dir():
+            return None
+        pattern = re.compile(r"^(\d{4}_\d{2}_\d{2})_(\d+)$")
+        candidates: List[tuple[str, int, Path]] = []
+        for child in base.iterdir():
+            if child.is_dir():
+                match = pattern.match(child.name)
+                if match:
+                    candidates.append((match.group(1), int(match.group(2)), child))
+        if not candidates:
+            return None
+        candidates.sort(key=lambda item: (item[0], item[1]), reverse=True)
+        return candidates[0][2]
+
+    def _format_run_label(self, run_dir: Optional[Path]) -> str:
+        return f"Latest run: {run_dir}" if run_dir else "Latest run: none"
+
+    def _refresh_latest_run(self) -> None:
+        latest = self._latest_run_dir_path()
+        if latest is None:
+            self.current_run_dir = None
+            self.current_payloads = None
+            self.current_metadata = None
+            self.run_label_var.set(self._format_run_label(None))
+            self._clear_member_table()
+            return
+
+        if self.current_run_dir and self.current_run_dir.resolve() == latest.resolve():
+            self.run_label_var.set(self._format_run_label(latest))
+            if self.current_payloads is None:
+                self._reload_current_run_payloads()
+            return
+
+        self.current_run_dir = latest
+        self.current_payloads = None
+        self.current_metadata = None
+        self.run_label_var.set(self._format_run_label(latest))
+        self._reload_current_run_payloads()
+
+    def _reload_current_run_payloads(self) -> None:
+        run_dir = self.current_run_dir
+        if run_dir is None:
+            self._clear_member_table()
+            self.run_label_var.set(self._format_run_label(None))
+            return
+        try:
+            payloads = self._load_payloads_from_json(run_dir)
+        except Exception as exc:
+            self._append_export_log(f"⚠️ Unable to load run: {exc}")
+            messagebox.showerror("Run load failed", str(exc))
+            self.current_payloads = None
+            self.current_metadata = None
+            self._clear_member_table()
+            return
+        self.current_payloads = payloads
+        self.current_metadata = self._load_run_metadata(run_dir)
+        self._update_member_table(payloads)
+        self.run_label_var.set(self._format_run_label(run_dir))
+
+    def _load_run_metadata(self, run_dir: Path) -> Dict[str, Any]:
+        path = run_dir / "metadata.json"
+        if not path.exists():
+            return {}
+        try:
+            return json.loads(path.read_text(encoding="utf-8"))
+        except Exception:
+            return {}
+
+    def _require_current_run_dir(self) -> Optional[Path]:
+        run_dir = self.current_run_dir
+        if run_dir is None:
+            messagebox.showwarning("No run available", "Run an import before continuing.")
+            return None
+        return run_dir
+
+    def _ensure_run_payloads(self) -> bool:
+        run_dir = self.current_run_dir
+        if run_dir is None:
+            messagebox.showwarning("No run available", "Run an import before continuing.")
+            return False
+        if self.current_payloads is not None:
+            return True
+        try:
+            self.current_payloads = self._load_payloads_from_json(run_dir)
+        except Exception as exc:
+            messagebox.showerror("Unable to load run", str(exc))
+            return False
+        if self.current_metadata is None:
+            self.current_metadata = self._load_run_metadata(run_dir)
+        self._update_member_table(self.current_payloads)
+        return True
+
+    def _ensure_metadata(self) -> Dict[str, Any]:
+        run_dir = self.current_run_dir
+        if run_dir is None:
+            return {}
+        if self.current_metadata is None:
+            self.current_metadata = self._load_run_metadata(run_dir)
+        return self.current_metadata or {}
 
     def _update_member_table(self, payloads: Iterable[Dict[str, Any]]) -> None:
         """Populate the member treeview with the supplied payloads sorted by surname."""
