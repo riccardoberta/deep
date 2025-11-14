@@ -1,0 +1,1104 @@
+{
+  "surname": "Pastorino",
+  "name": "Martina",
+  "unit": "ICT",
+  "email": "martina.pastorino@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/UUFCXl5o",
+  "website": "",
+  "unige_id": "425541",
+  "scopus_id": "57222463026",
+  "role": "Ricercatore",
+  "grade": "Ricercatore t.d. art. 24 c. 3 lett. A Legge 240/10 (t.pieno)",
+  "ssd": "IINF-03/A (Telecomunicazioni)",
+  "location": [],
+  "career": [
+    {
+      "role": "DR",
+      "from": "2020-11-01 00:00:00.0000000",
+      "to": "2023-10-31 00:00:00.0000000"
+    },
+    {
+      "role": "CB",
+      "from": "2021-03-02 00:00:00.0000000",
+      "to": "2024-02-20 00:00:00.0000000"
+    },
+    {
+      "role": "AR",
+      "from": "2023-11-02 00:00:00.0000000",
+      "to": "2024-11-30 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2024-12-01 00:00:00.0000000",
+      "to": "2027-11-30 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {
+    "2025": [
+      {
+        "course": "TELECOMMUNICATIONS (118118)",
+        "degree": "LM-28 - ELECTRICAL ENGINEERING FOR ENERGY TRANSITION"
+      },
+      {
+        "course": "MACHINE LEARNING FOR PATTERN RECOGNITION (104852)",
+        "degree": "LM-27 - INTERNET AND MULTIMEDIA ENGINEERING"
+      }
+    ],
+    "2024": [
+      {
+        "course": "REMOTE SENSING (80048)",
+        "degree": "LM-30 - ENERGY ENGINEERING"
+      },
+      {
+        "course": "MACHINE LEARNING FOR PATTERN RECOGNITION (104852)",
+        "degree": "LM-27 - INTERNET AND MULTIMEDIA ENGINEERING"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 5,
+      "total_products": 18,
+      "journals": 8,
+      "conferences": 9,
+      "citations": 117,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 5,
+      "total_products": 18,
+      "journals": 8,
+      "conferences": 9,
+      "citations": 117,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 5,
+      "total_products": 18,
+      "journals": 8,
+      "conferences": 9,
+      "citations": 117,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 5,
+      "total_products": 18,
+      "journals": 8,
+      "conferences": 9,
+      "citations": 117,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-105008195264",
+      "title": "Multisource methodology for traffic analysis zone definition based on the fusion of Remote Sensing, OpenStreetMap, and Floating Car Data",
+      "doi": "10.1016/j.jtrangeo.2025.104324",
+      "venue": "Journal of Transport Geography",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "128",
+      "issue_id": null,
+      "pages": null,
+      "issn": "09666923",
+      "eIssn": null,
+      "source_id": "29295",
+      "authors": "Castiglione Marisdea; Gallo Federico; Pastorino Martina; Moser Gabriele; Nigro Marialisa; Sacco Nicola",
+      "author_ids": "57435152800;57219260268;57222463026;7101795745;36158289300;35615294600",
+      "authorAffiliationIds": "60012630;60025153;60025153;60025153;60012630;60025153",
+      "corresponding": "Castiglione M.",
+      "keywords": "Floating Car Data (FCD) | OpenStreetMap | Satellite images | Spatial clustering | Traffic analysis zones",
+      "abstract": "The choice of an appropriate Traffic Analysis Zone (TAZ) system is a critical step of travel demand modelling that is often overlooked. Studies have approached this process with the goal of favouring the homogeneity of socio-economic and geographic characteristics of the zones, also possibly taking into account the minimisation of the number of intrazonal trips. However, beyond the application of general guidelines and individual experience to specific case studies, the definition of a formal approach is still an unsolved issue. Nevertheless, the rapid ICT development and the novel big data sources allow to enhance traditional models by exploiting additional land use and spatio-temporal mobility features. This paper proposes a multisource data-driven method to support TAZ definition by identifying, through a clustering approach, zones that are homogeneous from the point of view of activities, network characteristics, and land-cover. To this end, in the proposed approach, satellite remote sensing image segmentation, OpenStreetMap layers, and Floating Car Data (FCD) are jointly exploited to define a TAZ configuration, which can be directly used as a support for planning purposes. The procedure is experimentally validated with a case study associated with the EUR district of the city of Rome, Italy, using satellite Sentinel-2 imagery, the corresponding OpenStreetMap data, and an FCD set containing more than 1.500.000 trips.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Geography, Planning and Development",
+              "percentile": 93,
+              "rank": 53,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Science (all)",
+              "percentile": 87,
+              "rank": 30,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Transportation",
+              "percentile": 81,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85211914595",
+      "title": "Probabilistic Fusion Framework Combining CNNs and Graphical Models for Multiresolution Satellite and UAV Image Classification",
+      "doi": "10.1007/978-3-031-78166-7_19",
+      "venue": "Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "15302 LNCS",
+      "issue_id": null,
+      "pages": "287-303",
+      "issn": "03029743",
+      "eIssn": "16113349",
+      "source_id": "25674",
+      "authors": "Pastorino Martina; Moser Gabriele; Guerra Fabien; Serpico Sebastiano B.; Zerubia Josiane",
+      "author_ids": "57222463026;7101795745;59342817500;7005306316;56211628500",
+      "authorAffiliationIds": "60025153-60032385;60025153;60102127;60025153;60032385",
+      "corresponding": "Pastorino M.",
+      "keywords": "deep learning | graphical models | multiresolution imagery | probabilistic fusion | semantic segmentation | UAVs | wildfires",
+      "abstract": "Image classification - or semantic segmentation - from input multiresolution imagery is a demanding task. In particular, when dealing with images of the same scene collected at the same time by very different acquisition systems, for example multispectral sensors onboard satellites and unmanned aerial vehicles (UAVs), the difference between the involved spatial resolutions can be very large and multiresolution information fusion is particularly challenging. This work proposes two novel multiresolution fusion approaches, based on deep convolutional networks, Bayesian modeling, and probabilistic graphical models, addressing the challenging case of input imagery with very diverse spatial resolutions. The first method aims to fuse the multimodal multiresolution imagery via a posterior probability decision fusion framework, after computing posteriors on the multiresolution data separately through deep neural networks or decision tree ensembles. The optimization of the parameters of the model is fully automated by also developing an approximate formulation of the expectation maximization (EM) algorithm. The second method aims to perform the fusion of the multimodal multiresolution information through a pyramidal tree structure, where the imagery can be inserted, modeled, and analyzed at its native resolutions. The application is to the semantic segmentation of areas affected by wildfires for burnt area mapping and management. The experimental validation is conducted with UAV and satellite data of the area of Marseille, France. The code is available at https://github.com/Ayana-Inria/BAS_UAV_satellite_fusion.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 48,
+              "rank": 70,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 46,
+              "rank": 129,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105017851383",
+      "title": "Deep Diffusion Models and Unsupervised Hyperspectral Unmixing for Realistic Abundance Map Synthesis",
+      "doi": "10.1109/CVPRW67362.2025.00286",
+      "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": "3029-3037",
+      "issn": "21607508",
+      "eIssn": "21607516",
+      "source_id": "20100195041",
+      "authors": "Pastorino Martina; Alibani Michael; Acito Nicola; Moser Gabriele",
+      "author_ids": "57222463026;57206664240;8390872300;7101795745",
+      "authorAffiliationIds": "60025153;60028868;60028868;60025153",
+      "corresponding": "Pastorino M.",
+      "keywords": null,
+      "abstract": "This paper presents a novel methodology for generating realistic abundance maps from hyperspectral imagery using an unsupervised, deep-learning-driven approach. Our framework integrates blind linear hyperspectral unmixing with state-of-the-art diffusion models to enhance the realism and diversity of synthetic abundance maps. First, we apply blind unmixing to extract endmembers and abundance maps directly from raw hyperspectral data. These abundance maps then serve as inputs to a diffusion model, which acts as a generative engine to synthesize highly realistic spatial distributions. Diffusion models have recently revolutionized image synthesis by offering superior performance, flexibility, and stability, making them well-suited for high-dimensional spectral data. By leveraging this combination of physically interpretable unmixing and deep generative modeling, our approach enables the simulation of hyperspectral sensor outputs under diverse imaging con-ditions-critical for data augmentation, algorithm benchmarking, and model evaluation in hyperspectral analysis. Notably, our method is entirely unsupervised, ensuring adaptability to different datasets without the need for labeled training data. We validate our approach using real hyperspectral imagery from the PRISMA space mission for Earth observation, demonstrating its effectiveness in producing realistic synthetic abundance maps that capture the spatial and spectral characteristics of natural scenes.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 94,
+              "rank": 54,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Vision and Pattern Recognition",
+              "percentile": 92,
+              "rank": 13,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105007297563",
+      "title": "Investigating the Potential of Deep Learning Approaches in the Reconstruction of VNIR-SWIR Hyperspectral Data From Multispectral Imagery",
+      "doi": "10.1109/JSTARS.2025.3575518",
+      "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "18",
+      "issue_id": null,
+      "pages": "14215-14227",
+      "issn": "19391404",
+      "eIssn": "21511535",
+      "source_id": "17700155033",
+      "authors": "Alibani Michael; Pastorino Martina; Moser Gabriele; Acito Nicola",
+      "author_ids": "57206664240;57222463026;7101795745;8390872300",
+      "authorAffiliationIds": "60028868;60025153;60025153;60028868",
+      "corresponding": "Alibani M.",
+      "keywords": "Deep learning (DL) | hyperspectral (HS) data | spectral reconstruction (SR)",
+      "abstract": "Hyperspectral (HS) satellite data are of considerable importance for applications such as environmental monitoring and precision agriculture, given the richness of the spectral information they contain. However, HS data typically exhibit limited spatial resolution and are less readily available than multispectral (MS) data. This study, which aims to simulate data with high spectral and spatial resolution, explores the use of attention-based spectral reconstruction (SR) techniques, specifically MST++, MIRNet, AWAN, and Restormer, to derive HS data in the visible near infrared (VNIR) and short-wave infrared (SWIR) from MS imagery. High-resolution MS and HS image pairs are generated from AVIRIS-NG aerial data and employed for training procedures, thereby enabling the reconstruction of HS data that closely resembles the original measurements. The results indicate that SR techniques can considerably enhance the utility of existing MS datasets for HS-dependent applications. Such techniques can effectively be employed to synthesize high-resolution HS data from MS inputs, thereby facilitating the potential for developing a comprehensive end-to-end sensor simulator. This is particularly advantageous in the context of simulating data from a mission that has not yet become operational, as exemplified by the PRISMA-2G data, which could be simulated, for example, from Sentinel-2 data.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Atmospheric Science",
+              "percentile": 87,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computers in Earth Sciences",
+              "percentile": 86,
+              "rank": 11,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105005026374",
+      "title": "Multiresolution Fusion and Classification of Hyperspectral and Panchromatic Remote Sensing Images",
+      "doi": "10.1109/WACVW65960.2025.00062",
+      "venue": "Proceedings 2025 IEEE Cvf Winter Conference on Applications of Computer Vision Workshops Wacvw 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": "507-516",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101295029",
+      "authors": "Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane",
+      "author_ids": "57222463026;7101795745;7005306316;56211628500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60110693",
+      "corresponding": "Pastorino M.",
+      "keywords": "classification | crf | fcn | hyperspectral imagery | multiresolution fusion",
+      "abstract": "This paper proposes a supervised method for the joint classification and fusion of multiresolution panchromatic and hyperspectral data based on the combination of probabilistic graphical models (PGMs) and deep learning methods. The idea is to exploit the spatial and spectral information contained in panchromatic and hyperspectral images at different resolutions with the aim to generate a classification map at the spatial resolution of the panchromatic channel, while exploiting the richness of the spectral information provided by the hyperspectral channels. The proposed technique is based on deep learning, with FCN-type architectures, and PGMs, through the definition of a conditional random field (CRF) model approximating the behavior of the ideal fully connected CRF in a computationally tractable manner. The neural architecture aims to integrate hyperspectral and panchromatic data at the corresponding spatial resolution and generate posterior probability estimates, while the CRF incorporates information associated with not only local but also long-distance spatio-spectral relationships. The algorithm has been experimentally validated with PRISMA data from the Italian Space Agency with promising results.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85204874432",
+      "title": "A Multiresolution Fusion Framework based on Probabilistic Graphical Modeling for Burnt Zones Mapping from Satellite and UAV Imagery",
+      "doi": "10.1109/IGARSS53475.2024.10641389",
+      "venue": "International Geoscience and Remote Sensing Symposium IGARSS",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "7919-7923",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "82000",
+      "authors": "Pastorino Martina; Moser Gabriele; Guerra Fabien; Serpico Sebastiano B.; Zerubia Josiane",
+      "author_ids": "57222463026;7101795745;59342817500;7005306316;56211628500",
+      "authorAffiliationIds": "60025153-60032385;60025153;60102127;60025153;60032385",
+      "corresponding": "Pastorino M.",
+      "keywords": "fires | probabilistic fusion | satellite images | Semantic segmentation | UAV",
+      "abstract": "This paper tackles the semantic segmentation of zones affected by forest fires by the introduction of methods fusing multimodal imagery collected from unmanned aerial vehicles (UAVs) and satellite platforms. The multiresolution fusion task is especially challenging in this case because the difference between the involved spatial resolutions is very large - a situation that is normally not addressed by traditional multiresolution schemes. Two novel multiresolution fusion approaches, based on Bayesian and probabilistic graphical fusion models and integrated with a deep fully convolutional network and with the expectation-maximization algorithm, are proposed. The application is to a real case of fire zone mapping and management in the area of Marseille, France.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85202774976",
+      "title": "CRFNet: A Deep Convolutional Network to Learn the Potentials of a CRF for the Semantic Segmentation of Remote Sensing Images",
+      "doi": "10.1109/TGRS.2024.3452631",
+      "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "62",
+      "issue_id": null,
+      "pages": null,
+      "issn": "01962892",
+      "eIssn": "15580644",
+      "source_id": "17360",
+      "authors": "Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane",
+      "author_ids": "57222463026;7101795745;7005306316;56211628500",
+      "authorAffiliationIds": "60025153-60032385;60025153;60025153;60032385",
+      "corresponding": "Pastorino M.",
+      "keywords": "Conditional random fields (CRFs) | convolutional neural network (CNN) | fully convolutional network (FCN) | remote sensing | semantic segmentation",
+      "abstract": "This article presents a method for the automatic learning of the potentials of a stochastic model, in particular a conditional random field (CRF), in a non-parametric fashion. The proposed model is based on a neural architecture, in order to leverage the modeling capabilities of deep learning (DL) approaches to directly learn semantic and spatial information from the input data. Specifically, the methodology is based on fully convolutional networks and fully connected neural networks. The idea is to access the multiscale information intrinsically extracted in the intermediate layers of a fully convolutional network through the integration of fully connected neural networks at different scales, while favoring the interpretability of the hidden layers as posterior probabilities. The potentials of the CRF are learned through an additional convolutional layer, whose kernel models the local spatial information considered. The loss function is computed as a linear combination of cross-entropy losses, accounting for the multiscale and the spatial information. To evaluate the capabilities of the proposed approach for the semantic segmentation of remote sensing images, the experimental validation was conducted with the ISPRS 2-D semantic labeling challenge Vaihingen and Potsdam datasets and with the IEEE GRSS data fusion contest Zeebruges dataset. As the ground truths of these benchmark datasets are spatially exhaustive, they have been modified to approximate the spatially sparse ground truths common in real remote sensing applications. The results are significant, as the proposed approach obtains higher average classification accuracies than recent state-of-The-Art techniques considered in this article. The code is available at https://github.com/Ayana-Inria/CRFNet-RS.",
+      "citations": 8,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Earth and Planetary Sciences (all)",
+              "percentile": 97,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 96,
+              "rank": 37,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Earth and Planetary Sciences (all)",
+              "percentile": 96,
+              "rank": 7,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 95,
+              "rank": 48,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85196080332",
+      "title": "Multimission, Multifrequency, and Multiresolution SAR Image Classification Through Hierarchical Markov Models and Convolutional Networks",
+      "doi": "10.1109/LGRS.2024.3414284",
+      "venue": "IEEE Geoscience and Remote Sensing Letters",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "21",
+      "issue_id": null,
+      "pages": null,
+      "issn": "1545598X",
+      "eIssn": "15580571",
+      "source_id": "17259",
+      "authors": "Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane",
+      "author_ids": "57222463026;7101795745;7005306316;56211628500",
+      "authorAffiliationIds": "60025153-60032385;60025153;60025153;60032385",
+      "corresponding": "Pastorino M.",
+      "keywords": "Classification | CNN | fully convolutional network (FCN) | Markov random field (MRF) | multifrequency | multimission | multiresolution | probabilistic graphical model (PGM) | synthetic aperture radar (SAR) imagery",
+      "abstract": "The availability of multimodal remotely sensed images calls for the development of methods capable to jointly exploit the information deriving from images acquired at different spatial resolutions, frequencies, and bands, taking advantage from their possible complementary features. This letter proposes to address this task in the case of multimission synthetic aperture radar (SAR) images, through a combination of fully convolutional networks (FCNs), hierarchical probabilistic graphical models (PGMs), and decision tree ensembles. The objective is to model the multimodal information collected at multiple spatial resolutions by distinct space missions with SAR payloads through the nonparametric formulation of FCNs and decision trees, and the spatial and multiresolution modeling capabilities of FCNs and hierarchical PGMs. The experimental validation is conducted with multimission SAR imagery acquired at X-, L-, and C-band, respectively, by COSMO-SkyMed, SAOCOM, and Sentinel-1 over Northern Italy. The results suggest the advantages of incorporating multifrequency radar acquisitions to reach accurate classification maps and the multimodal fusion capabilities of the proposed methodology.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Geotechnical Engineering and Engineering Geology",
+              "percentile": 91,
+              "rank": 22,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 91,
+              "rank": 90,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Geotechnical Engineering and Engineering Geology",
+              "percentile": 88,
+              "rank": 27,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 129,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85190155954",
+      "title": "Learning CRF potentials through fully convolutional networks for satellite image semantic segmentation",
+      "doi": "10.1109/SITIS61268.2023.00023",
+      "venue": "Proceedings 17th International Conference on Signal Image Technology and Internet Based Systems Sitis 2023",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": "93-98",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101213846",
+      "authors": "Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane",
+      "author_ids": "57222463026;7101795745;7005306316;56211628500",
+      "authorAffiliationIds": "60025153-60032385;60025153;60025153;60032385",
+      "corresponding": "Pastorino M.",
+      "keywords": "CNN | CRF | FCN | satellite images | semantic segmentation",
+      "abstract": "This paper introduces a method to automatically learn the unary and pairwise potentials of a conditional random field (CRF) from the input data in a non-parametric fashion, within the framework of the semantic segmentation of remote sensing images. The proposed model is based on fully convolutional networks (FCNs) and fully connected neural networks (FCNNs) to extensively exploit the semantic and spatial information contained in the input data and in the intermediate layers of an FCN. The idea of the model is twofold: first to learn the statistics of a CRF via a convolutional layer, whose kernel defines the clique of interest, and, second, to favor the interpretability of the intermediate layers as posterior probabilities through the FCNNs. The method was tested with the ISPRS 2D Semantic Labeling Challenge Vaihingen dataset, after modifying the ground truths to approximate the ones found in realistic remote sensing applications, characterized by scarce and spatially non-exhaustive annotations. The results confirm the effectiveness of the proposed technique for the semantic segmentation of satellite images.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85177999060",
+      "title": "Classification of Multimission SAR Images Based on Probabilistic Graphical Models and Convolutional Neural Networks",
+      "doi": "10.1109/IGARSS52108.2023.10283356",
+      "venue": "International Geoscience and Remote Sensing Symposium IGARSS",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": "2023-July",
+      "issue_id": null,
+      "pages": "1420-1423",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "82000",
+      "authors": "Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane",
+      "author_ids": "57222463026;7101795745;7005306316;56211628500",
+      "authorAffiliationIds": "60025153-60032385;60025153;60025153;60032385",
+      "corresponding": "Pastorino M.",
+      "keywords": "CNN | FCN | MRF | multimodal SAR imagery | multisensor | PGM | semantic segmentation",
+      "abstract": "The problem of the semantic segmentation of multimodal images is characterized by the challenge of jointly exploiting information deriving from images possibly acquired at different spatial resolutions, frequencies, and bands. This paper proposes to address this task in the case of multimission synthetic aperture radar (SAR) images, through a combination of fully convolutional networks (FCNs), hierarchical probabilistic graphical models (PGMs), and decision tree ensembles. The objective is to model the spatial and multiresolution information contained in multimodal remote sensing images collected by distinct space missions with SAR payloads. The experimental validation is conducted with COSMO-SkyMed and SAOCOM images over Northern Italy. The results show that the proposed methodology is capable to reach accurate classification maps from input multimission SAR imagery.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85136386550",
+      "title": "Multimodal Fusion of Mobility Demand Data and Remote Sensing Imagery for Urban Land-Use and Land-Cover Mapping",
+      "doi": "10.3390/rs14143370",
+      "venue": "Remote Sensing",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "14",
+      "issue_id": "14",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20724292",
+      "source_id": "86430",
+      "authors": "Pastorino Martina; Gallo Federico; Di Febbraro Angela; Moser Gabriele; Sacco Nicola; Serpico Sebastiano B.",
+      "author_ids": "57222463026;57219260268;57207860581;7101795745;35615294600;7005306316",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Pastorino M.",
+      "keywords": "data fusion | Markov random fields | mobility demand | transport zones | urban land-use mapping",
+      "abstract": "This paper aims at exploring the potentiality of the multimodal fusion of remote sensing imagery with information coming from mobility demand data in the framework of land-use mapping in urban areas. After a discussion on the function of mobility demand data, a probabilistic fusion framework is developed to take advantage of remote sensing and transport data, and their joint use for urban land-use and land-cover applications in urban and surrounding areas. Two different methods are proposed within this framework, the first based on pixelwise probabilistic decision fusion and the second on the combination with a region-based multiscale Markov random field. The experimental validation is conducted on a case study associated with the city of Genoa, Italy.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Earth and Planetary Sciences (all)",
+              "percentile": 94,
+              "rank": 12,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Earth and Planetary Sciences (all)",
+              "percentile": 90,
+              "rank": 18,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85146639359",
+      "title": "FULLY CONVOLUTIONAL AND FEEDFORWARD NETWORKS FOR THE SEMANTIC SEGMENTATION OF REMOTELY SENSED IMAGES",
+      "doi": "10.1109/ICIP46576.2022.9897336",
+      "venue": "Proceedings International Conference on Image Processing Icip",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": "1876-1880",
+      "issn": "15224880",
+      "eIssn": null,
+      "source_id": "144684",
+      "authors": "Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane",
+      "author_ids": "57222463026;7101795745;7005306316;56211628500",
+      "authorAffiliationIds": "60025153-60032385;60025153;60025153;60032385",
+      "corresponding": "Pastorino M.",
+      "keywords": "CNN | FCN | feedforward networks | multiresolution satellite images | semantic segmentation",
+      "abstract": "This paper presents a novel semantic segmentation method of very high resolution remotely sensed images based on fully convolutional networks (FCNs) and feedforward neural networks (FFNNs). The proposed model aims to exploit the intrinsic multiscale information extracted at different convolutional blocks in an FCN by the integration of FFNNs, thus incorporating information at different scales. The purpose is to obtain accurate classification results with realistic data sets characterized by sparse ground truth (GT) data by taking benefit from multiscale and long-range spatial information. The final loss function is computed as a linear combination of the weighted cross-entropy losses of the FFNNs and of the FCN. The modeling of spatial-contextual information is further addressed by the introduction of an additional loss term which allows to integrate spatial information between neighboring pixels. The experimental validation is conducted with the ISPRS 2D Semantic Labeling Challenge data set over the city of Vaihingen, Germany. The results are promising, as the proposed approach obtains higher average classification results than the state-of-the-art techniques considered, especially in the case of scarce, suboptimal GTs.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Vision and Pattern Recognition",
+              "percentile": 62,
+              "rank": 64,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 60,
+              "rank": 78,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Software",
+              "percentile": 50,
+              "rank": 247,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85140383164",
+      "title": "Semantic Segmentation of SAR Images Through Fully Convolutional Networks and Hierarchical Probabilistic Graphical Models",
+      "doi": "10.1109/IGARSS46834.2022.9883111",
+      "venue": "International Geoscience and Remote Sensing Symposium IGARSS",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "2022-July",
+      "issue_id": null,
+      "pages": "1047-1050",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "82000",
+      "authors": "Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane",
+      "author_ids": "57222463026;7101795745;7005306316;56211628500",
+      "authorAffiliationIds": "60025153-60032385;60025153;60025153;60032385",
+      "corresponding": "Pastorino M.",
+      "keywords": "CNN | FCN | hierarchical Markov models | PGM | SAR imagery | semantic segmentation",
+      "abstract": "This paper addresses the semantic segmentation of synthetic aperture radar (SAR) images through the combination of ful-ly convolutional networks (FCN s), hierarchical probabilistic graphical models (PGMs), and decision tree ensembles. The idea is to incorporate long-range spatial information together with the multiresolution information extracted by FCN s, through the multiresolution graph topology on which hierar-chical PGMs can be efficiently formulated. The objective is to obtain accurate classification results with small datasets and reduce problems of spatial inconsistency. The experimental validation is conducted with several COSMO-SkyMed satel-lite images over Northern Italy. The results are significant, as the proposed method obtains more accurate classification results than the standard FCN s considered.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85122849520",
+      "title": "Semantic Segmentation of Remote-Sensing Images Through Fully Convolutional Neural Networks and Hierarchical Probabilistic Graphical Models",
+      "doi": "10.1109/TGRS.2022.3141996",
+      "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "60",
+      "issue_id": null,
+      "pages": null,
+      "issn": "01962892",
+      "eIssn": "15580644",
+      "source_id": "17360",
+      "authors": "Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane",
+      "author_ids": "57222463026;7101795745;7005306316;56211628500",
+      "authorAffiliationIds": "60025153-60110693;60025153;60025153;60110693",
+      "corresponding": "Pastorino M.",
+      "keywords": "Convolutional neural network (CNN) | fully convolutional network (FCN) | hierarchical Markov model | multiscale analysis | probabilistic graphical model (PGM) | remote sensing | semantic segmentation",
+      "abstract": "Deep learning (DL) is currently the dominant approach to image classification and segmentation, but the performances of DL methods are remarkably influenced by the quantity and quality of the ground truth (GT) used for training. In this article, a DL method is presented to deal with the semantic segmentation of very-high-resolution (VHR) remote-sensing data in the case of scarce GT. The main idea is to combine a specific type of deep convolutional neural networks (CNNs), namely fully convolutional networks (FCNs), with probabilistic graphical models (PGMs). Our method takes advantage of the intrinsic multiscale behavior of FCNs to deal with multiscale data representations and to connect them to a hierarchical Markov model (e.g., making use of a quadtree). As a consequence, the spatial information present in the data is better exploited, allowing a reduced sensitivity to GT incompleteness to be obtained. The marginal posterior mode (MPM) criterion is used for inference in the proposed framework. To assess the capabilities of the proposed method, the experimental validation is conducted with the ISPRS 2D Semantic Labeling Challenge datasets on the cities of Vaihingen and Potsdam, with some modifications to simulate the spatially sparse GTs that are common in real remote-sensing applications. The results are quite significant, as the proposed approach exhibits a higher producer accuracy than the standard FCNs considered and especially mitigates the impact of scarce GTs on minority classes and small spatial details.",
+      "citations": 39,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Earth and Planetary Sciences (all)",
+              "percentile": 97,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 96,
+              "rank": 37,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Earth and Planetary Sciences (all)",
+              "percentile": 96,
+              "rank": 8,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 92,
+              "rank": 59,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85119626513",
+      "title": "Evaluating LoRaWAN connectivity in a marine scenario",
+      "doi": "10.3390/jmse9111218",
+      "venue": "Journal of Marine Science and Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "9",
+      "issue_id": "11",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20771312",
+      "source_id": "21100830140",
+      "authors": "Pensieri Sara; Viti Federica; Moser Gabriele; Serpico Sebastiano Bruno; Maggiolo Luca; Pastorino Martina; Solarna David; Cambiaso Andrea; Carraro Carlo; Degano Cristiana; Mainenti Ilaria; Seghezza Silvia; Bozzano Roberto",
+      "author_ids": "35311650600;9270376500;7101795745;7005306316;57207878137;57222463026;57192703421;57349573900;57349709100;6602277633;56422305300;55838166900;6602292250",
+      "authorAffiliationIds": "60021199;60021199;60025153;60025153;60025153;60025153;60025153;127278704;127279421;101838253;101838253;123796635;60021199",
+      "corresponding": "Pensieri S.",
+      "keywords": "Internet of things (IoT) | LoRaWAN | Low power wide area network (LPWAN) | Marine technology",
+      "abstract": "The growing need for interoperability among the different oceanic monitoring systems to deliver services able to answer the requirements of stakeholders and end-users led to the development of a low-cost machine-to-machine communication system able to guarantee data reliability over marine paths. In this framework, an experimental evaluation of the performance of long-range (LoRa) technology in a fully operational marine scenario has been proposed. In-situ tests were carried out exploiting the availability of (i) a passenger vessel and (ii) a research vessel operating in the Ligurian basin (North-Western Mediterranean Sea) both hosting end-nodes, and (iii) gateways positioned on mountains and hills in the inland areas. Packet loss ratio, packet reception rate, received signal strength indicator, signal to noise, and expected signal power ratio were chosen as metrics in line of sight and not the line of sight conditions. The reliability of Long Range Wide Area Network (LoRaWAN) transmission over the sea has been demonstrated up to more than 110 km in a free space scenario and for more than 20 km in a coastal urban environment.",
+      "citations": 14,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 75,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 73,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 72,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 57,
+              "rank": 42,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 51,
+              "rank": 159,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 49,
+              "rank": 121,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85102777777",
+      "title": "Multisensor and multiresolution remote sensing image classification through a causal hierarchical markov framework and decision tree ensembles",
+      "doi": "10.3390/rs13050849",
+      "venue": "Remote Sensing",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "13",
+      "issue_id": "5",
+      "pages": "1-25",
+      "issn": null,
+      "eIssn": "20724292",
+      "source_id": "86430",
+      "authors": "Pastorino Martina; Montaldo Alessandro; Fronda Luca; Hedhli Ihsen; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane",
+      "author_ids": "57222463026;57212479880;57212479749;56422415400;7101795745;7005306316;56211628500",
+      "authorAffiliationIds": "60025153-60110693;60025153;60025153;60032619;60025153;60025153;60110693",
+      "corresponding": "Pastorino M.",
+      "keywords": "Causal Markov model | Decision tree ensemble | Hierarchical Markov random field | Markov chain | Markov mesh random field | Multimodal data fusion | Multiresolution and multisensor fusion | Remote sensing | Semantic image segmentation",
+      "abstract": "In this paper, a hierarchical probabilistic graphical model is proposed to tackle joint classification of multiresolution and multisensor remote sensing images of the same scene. This problem is crucial in the study of satellite imagery and jointly involves multiresolution and multisensor image fusion. The proposed framework consists of a hierarchical Markov model with a quadtree structure to model information contained in different spatial scales, a planar Markov model to account for contextual spatial information at each resolution, and decision tree ensembles for pixelwise modeling. This probabilistic graphical model and its topology are especially fit for application to very high resolution (VHR) image data. The theoretical properties of the proposed model are analyzed: the causality of the whole framework is mathematically proved, granting the use of time-efficient inference algorithms such as the marginal posterior mode criterion, which is non-iterative when applied to quadtree structures. This is mostly advantageous for classification methods linked to multiresolution tasks formulated on hierarchical Markov models. Within the proposed framework, two multimodal classification algorithms are developed, that incorporate Markov mesh and spatial Markov chain concepts. The results obtained in the experimental validation conducted with two datasets containing VHR multispectral, panchromatic, and radar satellite images, verify the effectiveness of the proposed framework. The proposed approach is also compared to previous methods that are based on alternate strategies for multimodal fusion.",
+      "citations": 34,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Earth and Planetary Sciences (all)",
+              "percentile": 94,
+              "rank": 12,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Earth and Planetary Sciences (all)",
+              "percentile": 91,
+              "rank": 17,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85123166099",
+      "title": "Hierarchical Probabilistic Graphical Models and Deep Convolutional Neural Networks for Remote Sensing Image Classification",
+      "doi": "10.23919/EUSIPCO54536.2021.9616179",
+      "venue": "European Signal Processing Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": "2021-August",
+      "issue_id": null,
+      "pages": "1740-1744",
+      "issn": "22195491",
+      "eIssn": null,
+      "source_id": "21100204301",
+      "authors": "Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane",
+      "author_ids": "57222463026;7101795745;7005306316;56211628500",
+      "authorAffiliationIds": "60025153-60110693;60025153;60025153;60110693",
+      "corresponding": "Pastorino M.",
+      "keywords": "CNN | Hierarchical PGM | Multiresolution | Remote sensing | Semantic segmentation",
+      "abstract": "The method presented in this paper for semantic segmentation of multiresolution remote sensing images involves convolutional neural networks (CNNs), in particular fully convolutional networks (FCNs), and hierarchical probabilistic graphical models (PGMs). These approaches are combined to overcome the limitations in classification accuracy of CNNs for small or non-exhaustive ground truth (GT) datasets. Hierarchical PGMs, e.g., hierarchical Markov random fields (MRFs), are structured output learning models that exploit information contained at different image scales. This perfectly matches the intrinsically multiscale behavior of the processes of a CNN (e.g., pooling layers). The framework consists of a hierarchical MRF on a quadtree and a planar Markov model on each layer, modeling the interactions among pixels and accounting for both the multiscale and the spatial-contextual information. The marginal posterior mode criterion is used for inference. The adopted FCN is the U-Net and the experimental validation is conducted on the ISPRS 2D Semantic Labeling Challenge Vaihingen dataset, with some modifications to approach the case of scarce GTs and to assess the classification accuracy of the proposed technique. The proposed framework attains a higher recall compared to the considered FCNs, progressively more relevant as the training set is further from the ideal case of exhaustive GTs.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 44,
+              "rank": 109,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 42,
+              "rank": 573,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85114557018",
+      "title": "SEMANTIC SEGMENTATION OF REMOTE SENSING IMAGES COMBINING HIERARCHICAL PROBABILISTIC GRAPHICAL MODELS AND DEEP CONVOLUTIONAL NEURAL NETWORKS",
+      "doi": "10.1109/IGARSS47720.2021.9553253",
+      "venue": "International Geoscience and Remote Sensing Symposium IGARSS",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": "2021-July",
+      "issue_id": null,
+      "pages": "8672-8675",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "82000",
+      "authors": "Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane",
+      "author_ids": "57222463026;7101795745;7005306316;56211628500",
+      "authorAffiliationIds": "60025153-60110693;60025153;60025153;60110693",
+      "corresponding": "Pastorino M.",
+      "keywords": "CNN | FCN | Hierarchical Markov models | Multiresolution images | PGM | Semantic segmentation",
+      "abstract": "In this paper, a novel method to deal with the semantic segmentation of very high resolution remote sensing data is presented. Recent advances in deep learning (DL), especially convolutional neural networks (CNNs) and fully convolutional networks (FCNs), have shown outstanding performances in this task. However, the map accuracy depends on the quantity and quality of ground truth (GT) used to train them. At the same time, probabilistic graphical models (PGMs) have sparked even more interest in the past few years, because of the ever-growing need for structured predictions. The novel method proposed in this paper combines DL and PGMs to perform remote sensing image classification. FCNs can be exploited to deal with multiscale data through the integration with a hierarchical Markov model. The marginal posteri- or mode (MPM) criterion for inference is used in the proposed framework. Experimental validation is conducted on the ISPRS 2D Semantic Labeling Challenge Vaihingen dataset. The results are significant, as the proposed method has a higher recall than the standard FCNs considered and allows mitigating the impact of incomplete or suboptimal GT, especially with regard to the discrimination of minoritary classes.",
+      "citations": 2,
+      "quartile": null
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1265302",
+      "authors": "Pastorino, Martina; Alibani, Michael; Acito, Nicola; Moser, Gabriele",
+      "legacy_id": 661470,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Deep Diffusion Models and Unsupervised Hyperspectral Unmixing for Realistic Abundance Map Synthesis",
+      "doi": "10.1109/cvprw67362.2025.00286",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1229686",
+      "authors": "Pastorino, M.; Moser, G.; Guerra, F.; Serpico, S. B.; Zerubia, J.",
+      "legacy_id": 612915,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Probabilistic Fusion Framework Combining CNNs and Graphical Models for Multiresolution Satellite and UAV Image Classification",
+      "scopus_id": "2-s2.0-85211914595",
+      "doi": "10.1007/978-3-031-78166-7_19",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1265300",
+      "authors": "Pastorino, Martina; Moser, Gabriele; Serpico, Sebastiano B.; Zerubia, Josiane",
+      "legacy_id": 661467,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Multiresolution Fusion and Classification of Hyperspectral and Panchromatic Remote Sensing Images",
+      "scopus_id": "2-s2.0-105005026374",
+      "doi": "10.1109/wacvw65960.2025.00062",
+      "isi_id": "WOS:001510213100053",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1265303",
+      "authors": "Castiglione, Marisdea; Gallo, Federico; Pastorino, Martina; Moser, Gabriele; Nigro, Marialisa; Sacco, Nicola",
+      "legacy_id": 661471,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Multisource methodology for traffic analysis zone definition based on the fusion of Remote Sensing, OpenStreetMap, and Floating Car Data",
+      "scopus_id": "2-s2.0-105008195264",
+      "doi": "10.1016/j.jtrangeo.2025.104324",
+      "isi_id": "WOS:001516912900001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1265301",
+      "authors": "Alibani, Michael; Pastorino, Martina; Moser, Gabriele; Acito, Nicola",
+      "legacy_id": 661468,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Investigating the Potential of Deep Learning Approaches in the Reconstruction of VNIR-SWIR Hyperspectral Data From Multispectral Imagery",
+      "scopus_id": "2-s2.0-105007297563",
+      "doi": "10.1109/jstars.2025.3575518",
+      "isi_id": "WOS:001508110200004",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220706",
+      "authors": "Pastorino, M.; Moser, G.; Guerra, F.; Serpico, S. B.; Zerubia, J.",
+      "legacy_id": 599351,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "A Multiresolution Fusion Framework based on Probabilistic Graphical Modeling for Burnt Zones Mapping from Satellite and UAV Imagery",
+      "scopus_id": "2-s2.0-85204874432",
+      "doi": "10.1109/IGARSS53475.2024.10641389",
+      "isi_id": "WOS:001415226902170",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220702",
+      "authors": "Pastorino, M.; Moser, G.; Serpico, S. B.; Zerubia, J.",
+      "legacy_id": 599330,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Multimission, Multifrequency, and Multiresolution SAR Image Classification Through Hierarchical Markov Models and Convolutional Networks",
+      "scopus_id": "2-s2.0-85196080332",
+      "doi": "10.1109/LGRS.2024.3414284",
+      "isi_id": "WOS:001256485700002",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1232115",
+      "authors": "Pastorino, Martina; Moser, Gabriele; Serpico, Sebastiano B.; Zerubia, Josiane",
+      "legacy_id": 617335,
+      "year": 2024,
+      "miur_type": "268",
+      "title": "Convolutional Neural Networks Meet Markov Random Fields for Semantic Segmentation of Remote Sensing Images",
+      "doi": "10.1201/9781003382010-14",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220700",
+      "authors": "Pastorino, Martina; Moser, Gabriele; Serpico, Sebastiano B.; Zerubia, Josiane",
+      "legacy_id": 599328,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "CRFNet: A Deep Convolutional Network to Learn the Potentials of a CRF for the Semantic Segmentation of Remote Sensing Images",
+      "scopus_id": "2-s2.0-85202774976",
+      "doi": "10.1109/TGRS.2024.3452631",
+      "isi_id": "WOS:001317811700008",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "6",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1177995",
+      "authors": "Pastorino, Martina; Moser, Gabriele; Serpico, Sebastiano B.; Zerubia, Josiane",
+      "legacy_id": 551379,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Learning CRF potentials through fully convolutional networks for satellite image semantic segmentation",
+      "scopus_id": "2-s2.0-85190155954",
+      "doi": "10.1109/sitis61268.2023.00023",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1155735",
+      "authors": "Pastorino, Martina",
+      "ssd": "Settore ING-INF/03 - Telecomunicazioni",
+      "legacy_id": 520405,
+      "year": 2023,
+      "miur_type": "-2",
+      "title": "Probabilistic graphical models and deep learning methods for remote sensing image analysis",
+      "doi": "10.15167/pastorino-martina_phd2023-12-11",
+      "type": "Tesi di dottorato"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1156761",
+      "authors": "Pastorino, M.; Moser, G.; Serpico, S. B.; Zerubia, J.",
+      "legacy_id": 522257,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Classification of Multimission SAR Images Based on Probabilistic Graphical Models and Convolutional Neural Networks",
+      "scopus_id": "2-s2.0-85177999060",
+      "doi": "10.1109/IGARSS52108.2023.10283356",
+      "isi_id": "WOS:001098971601179",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1146055",
+      "authors": "Pastorino, M.; Moser, G.; Serpico, S. B.; Zerubia, J.",
+      "legacy_id": 506845,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "FULLY CONVOLUTIONAL AND FEEDFORWARD NETWORKS FOR THE SEMANTIC SEGMENTATION OF REMOTELY SENSED IMAGES",
+      "scopus_id": "2-s2.0-85146639359",
+      "doi": "10.1109/ICIP46576.2022.9897336",
+      "isi_id": "WOS:001058109501192",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "5",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102956",
+      "authors": "Pastorino, M.; Moser, G.; Serpico, S. B.; Zerubia, J.",
+      "legacy_id": 446509,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Semantic Segmentation of SAR Images Through Fully Convolutional Networks and Hierarchical Probabilistic Graphical Models",
+      "scopus_id": "2-s2.0-85140383164",
+      "doi": "10.1109/IGARSS46834.2022.9883111",
+      "isi_id": "WOS:000920916601072",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1094175",
+      "authors": "Pastorino, M; Gallo, F; Di Febbraro, A; Moser, G; Sacco, N; Serpico, Sb",
+      "legacy_id": 433353,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Multimodal Fusion of Mobility Demand Data and Remote Sensing Imagery for Urban Land-Use and Land-Cover Mapping",
+      "scopus_id": "2-s2.0-85136386550",
+      "doi": "10.3390/rs14143370",
+      "isi_id": "WOS:000833267900001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1093200",
+      "authors": "Pastorino, M.; Moser, G.; Serpico, S. B.; Zerubia, J.",
+      "legacy_id": 432220,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Semantic Segmentation of Remote-Sensing Images Through Fully Convolutional Neural Networks and Hierarchical Probabilistic Graphical Models",
+      "scopus_id": "2-s2.0-85122849520",
+      "doi": "10.1109/TGRS.2022.3141996",
+      "isi_id": "WOS:000770073000002",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "30",
+      "citations_scopus": "39"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1044610",
+      "authors": "Pastorino, M.; Montaldo, A.; Fronda, L.; Hedhli, I.; Moser, G.; Serpico, S. B.; Zerubia, J.",
+      "legacy_id": 377308,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "Multisensor and multiresolution remote sensing image classification through a causal hierarchical markov framework and decision tree ensembles",
+      "scopus_id": "2-s2.0-85102777777",
+      "doi": "10.3390/rs13050849",
+      "isi_id": "WOS:000628502100001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "25",
+      "citations_scopus": "34"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1093194",
+      "authors": "Pastorino, M.; Moser, G.; Serpico, S. B.; Zerubia, J.",
+      "legacy_id": 432213,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "SEMANTIC SEGMENTATION OF REMOTE SENSING IMAGES COMBINING HIERARCHICAL PROBABILISTIC GRAPHICAL MODELS AND DEEP CONVOLUTIONAL NEURAL NETWORKS",
+      "scopus_id": "2-s2.0-85114557018",
+      "doi": "10.1109/IGARSS47720.2021.9553253",
+      "isi_id": "WOS:001250139808179",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1093195",
+      "authors": "Pastorino, M.; Moser, G.; Serpico, S. B.; Zerubia, J.",
+      "legacy_id": 432214,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "Hierarchical Probabilistic Graphical Models and Deep Convolutional Neural Networks for Remote Sensing Image Classification",
+      "scopus_id": "2-s2.0-85123166099",
+      "doi": "10.23919/EUSIPCO54536.2021.9616179",
+      "isi_id": "WOS:000764066600344",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1093197",
+      "authors": "Pensieri, S.; Viti, F.; Moser, G.; Serpico, S. B.; Maggiolo, L.; Pastorino, M.; Solarna, D.; Cambiaso, A.; Carraro, C.; Degano, C.; Mainenti, I.; Seghezza, S.; Bozzano, R.",
+      "legacy_id": 432217,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "Evaluating LoRaWAN connectivity in a marine scenario",
+      "scopus_id": "2-s2.0-85119626513",
+      "doi": "10.3390/jmse9111218",
+      "isi_id": "WOS:000834271000001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "9",
+      "citations_scopus": "14"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:17:47.385983"
+}

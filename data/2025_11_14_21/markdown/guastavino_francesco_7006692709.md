@@ -1,0 +1,3559 @@
+# Guastavino Francesco
+
+## Overview
+- **Unit:** ELE
+- **Role:** Professore ordinario
+- **Grade:** Prof.Ordinario Legge 240/10 - t.pieno - classe 2
+- **SSD:** IIND-08/A (Convertitori, macchine e azionamenti elettrici)
+- **Scopus ID:** 7006692709
+- **UNIGE ID:** 054472
+- **Retrieved at:** 2025-11-14T15:14:57.332653
+
+## Contact
+- **Email:** francesco.guastavino@unige.it
+- **Phone:** +39 010 33 52229
+- **Page:** https://rubrica.unige.it/personale/VUZDX11r
+- **Locations:** Opera Pia - padiglione D (ED_161450401), 1° piano, US_161450401.I.024
+
+## Career
+- PA, 2012-05-01 → 2019-11-30
+- PO, 2019-12-01 → 2222-02-02
+
+## Responsibilities
+- **Title:** Componente della Commissione paritetica docenti-studenti di scuola
+  - **Unit:** Scuola politecnica
+  - **Period:** 2025-11-01 → 2027-10-31
+
+## Teaching
+### 2025
+- Materiali E Tecnologie Elettriche Innovative (111142), L-9 - Ingegneria Elettrica
+- Materiali E Tecnologie Elettriche Innovative (111142), L-9 - Ingegneria Elettrica
+- Costruzione E Diagnostica Dei Componenti Elettromeccanici (86833), Lm-28 - Ingegneria Elettrica
+- Costruzione E Diagnostica Dei Componenti Elettromeccanici (86833), Lm-28 - Ingegneria Elettrica
+- Electric Machines And Maintenance (101140), L-28 - Maritime Science And Technology
+
+### 2024
+- Tecnologie Per Gli Apparati Elettrici (86822), L-9 - Ingegneria Elettrica
+- Costruzione E Diagnostica Dei Componenti Elettromeccanici (86833), Lm-28 - Ingegneria Elettrica
+- Costruzione E Diagnostica Dei Componenti Elettromeccanici (86833), Lm-28 - Ingegneria Elettrica
+- Electric Machines And Maintenance (101140), L-28 - Maritime Science And Technology
+
+### 2023
+- Tecnologie Per Gli Apparati Elettrici (86822), L-9 - Ingegneria Elettrica
+- Costruzione E Diagnostica Dei Componenti Elettromeccanici (86833), Lm-28 - Ingegneria Elettrica
+- Electric Machines And Maintenance (101140), L-28 - Maritime Science And Technology
+
+### 2022
+- Tecnologie Per Gli Apparati Elettrici (86822), L-9 - Ingegneria Elettrica
+- Costruzione E Diagnostica Dei Componenti Elettromeccanici (86833), Lm-28 - Ingegneria Elettrica
+- Electric Machines And Maintenance (101140), L-28 - Maritime Science And Technology
+
+### 2021
+- Tecnologie Per Gli Apparati Elettrici (86822), L-9 - Ingegneria Elettrica
+- Costruzione E Diagnostica Dei Componenti Elettromeccanici (86833), Lm-28 - Ingegneria Elettrica
+- Electric Machines And Maintenance (101140), L-28 - Maritime Science And Technology
+
+### 2020
+- Tecnologie Per Gli Apparati Elettrici (86822), L-9 - Ingegneria Elettrica
+- Costruzione E Diagnostica Dei Componenti Elettromeccanici (86833), Lm-28 - Ingegneria Elettrica
+
+## Scopus Metrics
+- absolute; Docs: 183; Journals: 33; Conferences: 150; Citations: 1437; H-index: 18
+- 15 years (2010-2025); Docs: 74; Journals: 15; Conferences: 59; Citations: 455; H-index: 11
+- 10 years (2015-2025); Docs: 40; Journals: 8; Conferences: 32; Citations: 127; H-index: 6
+- 05 years (2020-2025); Docs: 19; Journals: 6; Conferences: 13; Citations: 53; H-index: 4
+
+## Scopus Products
+1.
+   - **Title:** Partial Discharge Inception Voltage Monitoring of Enameled Wires under Thermal Stress over Time
+   - **Venue:** Energies
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3390/en17184578
+   - **Scopus ID:** 2-s2.0-85204938095
+   - **eISSN:** 19961073
+   - **Volume:** 17
+   - **Issue:** 18
+   - **Authors:** Khan Ishtiaq; Guastavino Francesco; Della Giovanna Laura; Torello Eugenia
+   - **Keywords:** electrical aging | electrical insulation | nano-filler enamel | partial discharge inception voltage
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2024:
+     - Control and Optimization (Q1, rank 15, percentile 90)
+     - Engineering (miscellaneous) (Q1, rank 39, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 173, percentile 82)
+     - Energy Engineering and Power Technology (Q1, rank 73, percentile 75)
+     - Fuel Technology (Q2, rank 38, percentile 71)
+     - Energy (miscellaneous) (Q2, rank 32, percentile 68)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 105, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 58900081000;7006692709;55515720400;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Khan I.
+2.
+   - **Title:** Effects of a DC Offset on Lifetime and PD Activity during AC Aging Tests on Enameled Twisted Pairs
+   - **Venue:** IEEE Transactions on Dielectrics and Electrical Insulation
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/TDEI.2024.3353704
+   - **Scopus ID:** 2-s2.0-85182944471
+   - **ISSN:** 10709878
+   - **eISSN:** 15584135
+   - **Volume:** 31
+   - **Issue:** 3
+   - **Pages:** 1533-1540
+   - **Authors:** Guastavino F.; Giovanna L. Della; Gallesi F.; Torello E.
+   - **Keywords:** Aging | electrical insulation | HVdc | lifetime estimation | partial discharges (PDs) | wire
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 204, percentile 79)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 219, percentile 77)
+   - **Source Id:** 17343
+   - **Author Ids:** 7006692709;55515720400;57215699439;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+3.
+   - **Title:** Transient Earth Voltage Sensor Measurements as a Nonintrusive Tool for Partial Discharge Analysis in Switchgears
+   - **Venue:** IEEE Transactions on Dielectrics and Electrical Insulation
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/TDEI.2024.3470755
+   - **Scopus ID:** 2-s2.0-85205935562
+   - **ISSN:** 10709878
+   - **eISSN:** 15584135
+   - **Volume:** 31
+   - **Issue:** 6
+   - **Pages:** 2930-2937
+   - **Authors:** Guastavino F.; Giovanna L. Della; Gallesi F.; Torello E.
+   - **Keywords:** Partial discharge (PD) measurement | PDs | switchgear | transient earth voltage (TEV) sensor
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 204, percentile 79)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 219, percentile 77)
+   - **Source Id:** 17343
+   - **Author Ids:** 7006692709;55515720400;57215699439;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+4.
+   - **Title:** HVDC Defect Identification: Partial Discharges Signal Acquisition and Machine Learning Classification
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CEIDP61745.2024.10907670
+   - **Scopus ID:** 2-s2.0-105000458328
+   - **ISSN:** 00849162
+   - **Authors:** Guastavino F.; Khan I. A.; Torello E.; Raza M. H.; Della Giovanna L.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+     2024:
+     - Electrical and Electronic Engineering (Q3, rank 705, percentile 27)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 247, percentile 19)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;58900081000;6701506640;59699742400;55515720400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+5.
+   - **Title:** A Comparative Study of Conducted and Irradiated Signals for PD Pattern Recognition
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CEIDP61745.2024.10907291
+   - **Scopus ID:** 2-s2.0-105000374004
+   - **ISSN:** 00849162
+   - **Authors:** Guastavino F.; Della Giovanna L.; Khan I. A.; Raza M. H.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+     2024:
+     - Electrical and Electronic Engineering (Q3, rank 705, percentile 27)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 247, percentile 19)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;55515720400;58900081000;59699742400;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+6.
+   - **Title:** Investigations of the Electrical Tree Growth at Different Voltages and Frequencies
+   - **Venue:** IEEE Transactions on Dielectrics and Electrical Insulation
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1109/TDEI.2023.3321560
+   - **Scopus ID:** 2-s2.0-85174851556
+   - **ISSN:** 10709878
+   - **eISSN:** 15584135
+   - **Volume:** 30
+   - **Issue:** 6
+   - **Pages:** 2490-2497
+   - **Authors:** Gallesi Federico; Guastavino Francesco; Torello Eugenia; Nett Isabella; Soppe Bastian; Vocke Jan
+   - **Keywords:** Electrical treeing | high frequency (HF) | high voltage direct current (HVdc) cable | HVdc systems | partial discharge (PD) | PD measurement
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 204, percentile 79)
+     2023:
+     - Electrical and Electronic Engineering (Q2, rank 211, percentile 73)
+   - **Source Id:** 17343
+   - **Author Ids:** 57215699439;7006692709;6701506640;57222150275;57195533286;57219841303
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60016653;60016653;60016653
+   - **Corresponding:** Gallesi F.
+7.
+   - **Title:** Partial Discharge Measurement to Predict the Lifetime of High Frequency High Voltage Transformers
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CEIDP51414.2023.10410556
+   - **Scopus ID:** 2-s2.0-85185712546
+   - **ISSN:** 00849162
+   - **Authors:** Guastavino F.; Giovanna L. Della; Galbiati S.; Massa B.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;55515720400;58046226700;58046075700;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60305174;60305174;60025153
+   - **Corresponding:** Guastavino F.
+8.
+   - **Title:** Study of the Partial Discharge Inception Voltage Variation over Time on Enameled Wires Subjected to Thermal-Electrical Stress
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/CEIDP51414.2023.10410540
+   - **Scopus ID:** 2-s2.0-85185705807
+   - **ISSN:** 00849162
+   - **Authors:** Guastavino F.; Torello E.; Giovanna L. Della; Khan I.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;6701506640;55515720400;58900081000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+9.
+   - **Title:** On-Line PD Monitoring of Coils Subjected to Electric-Thermal Combined Ageing
+   - **Venue:** Insucon 2023 Proceedings of the 14th Insucon International Electrical Insulation Conference
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85163715571
+   - **Pages:** 232-235
+   - **Authors:** Ferraris M.; Guastavino F.
+   - **Source Id:** 21101162614
+   - **Author Ids:** 57202094381;7006692709
+   - **Authoraffiliationids:** 120708514;60025153
+   - **Corresponding:** Ferraris M.
+10.
+   - **Title:** Insulation System Characterization of High Frequency High Voltage Transformers
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CEIDP55452.2022.9985332
+   - **Scopus ID:** 2-s2.0-85145878507
+   - **ISSN:** 00849162
+   - **Volume:** 2022-November
+   - **Pages:** 333-336
+   - **Authors:** Guastavino F.; Galbiati S.; Massa B.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;58046226700;58046075700;6701506640
+   - **Authoraffiliationids:** 60025153;60305174;60305174;60025153
+   - **Corresponding:** Guastavino F.
+11.
+   - **Title:** Combined Electrical and Thermal Stress on Twisted Pairs: Study of the Variation over Time of the Partial Discharges Inception Voltage
+   - **Venue:** Icd 2022 IEEE 2022 4th International Conference on Dielectrics Proceedings
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICD53806.2022.9863619
+   - **Scopus ID:** 2-s2.0-85138312410
+   - **Pages:** 364-367
+   - **Authors:** Guastavino F.; Torello E.
+   - **Source Id:** 21101108600
+   - **Author Ids:** 7006692709;6701506640
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Guastavino F.
+12.
+   - **Title:** Online predictive maintenance monitoring adopting convolutional neural networks
+   - **Venue:** Energies
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.3390/en14154711
+   - **Scopus ID:** 2-s2.0-85112043577
+   - **eISSN:** 19961073
+   - **Volume:** 14
+   - **Issue:** 15
+   - **Authors:** Gianoglio Christian; Ragusa Edoardo; Gastaldo Paolo; Gallesi Federico; Guastavino Francesco
+   - **Keywords:** Convolutional neural networks | Partial discharges | Predictive maintenance
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2021:
+     - Control and Optimization (Q1, rank 18, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 19, percentile 83)
+     - Subject (Q1, rank 51, percentile 76)
+     - Energy (miscellaneous) (Q2, rank 10, percentile 72)
+     - Electrical and Electronic Engineering (Q2, rank 201, percentile 71)
+     - Energy Engineering and Power Technology (Q2, rank 73, percentile 69)
+     - Fuel Technology (Q2, rank 38, percentile 65)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 58)
+   - **Source Id:** 62932
+   - **Author Ids:** 56580140000;56580248800;35612596100;57215699439;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Gianoglio C.
+13.
+   - **Title:** A review on the comparison of conventional and corona resistant nanofilled enamels
+   - **Venue:** Proceedings 2021 IEEE Workshop on Electrical Machines Design Control and Diagnosis Wemdcd 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/WEMDCD51469.2021.9425646
+   - **Scopus ID:** 2-s2.0-85106633024
+   - **Pages:** 213-218
+   - **Authors:** Guastavino Francesco; Briano Luca; Gallesi Federico; Torello Eugenia
+   - **Keywords:** Breakdown Voltage Tests | Electrical Ageing Tests | Nanocomposite Material | Partial Discharges | Type I Insulating Systems
+   - **Source Id:** 21101046636
+   - **Author Ids:** 7006692709;57215695506;57215699439;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+14.
+   - **Title:** Variation over Time of Partial Discharge Inception Voltage Due to Combined Electrical and Thermal Stress on Twisted Pairs
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/CEIDP50766.2021.9705328
+   - **Scopus ID:** 2-s2.0-85126064915
+   - **ISSN:** 00849162
+   - **Volume:** 2021-December
+   - **Pages:** 543-546
+   - **Authors:** Briano L.; Gallesi F.; Guastavino F.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 57215695506;57215699439;7006692709;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Briano L.
+15.
+   - **Title:** PD Pattern Analysis Relevant to PWM-like Voltage Waveforms
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/CEIDP50766.2021.9705345
+   - **Scopus ID:** 2-s2.0-85126018440
+   - **ISSN:** 00849162
+   - **Volume:** 2021-December
+   - **Pages:** 299-302
+   - **Authors:** Briano L.; Bruzzone A.; Gallesi F.; Guastavino F.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 57215695506;58402050900;57215699439;7006692709;6701506640
+   - **Authoraffiliationids:** 60025153;60336246;60025153;60025153;60025153
+   - **Corresponding:** Briano L.
+16.
+   - **Title:** Preliminary Investigations of the Electrical Tree Growth at Frequencies of 50 Hz and 2.2 kHz by means of Partial Discharge Analysis
+   - **Venue:** 2021 Electrical Insulation Conference Eic 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/EIC49891.2021.9612380
+   - **Scopus ID:** 2-s2.0-85123348064
+   - **Pages:** 469-472
+   - **Authors:** Gallesi Federico; Guastavino Francesco; Nett Isabella; Puffer Ralf; Soppe Bastian; Vocke Jan
+   - **Keywords:** Cross-Linked Polyethylene (XLPE) | Electrical Treeing | High Frequency | Partial Discharge
+   - **Source Id:** 21101073692
+   - **Author Ids:** 57215699439;7006692709;57222150275;56058449900;57195533286;57219841303
+   - **Authoraffiliationids:** 60025153;60025153;60016653;60016653;60016653;60016653
+   - **Corresponding:** Gallesi F.
+17.
+   - **Title:** Effect of Thermal Stress over the Partial Discharge Inception Voltage on Twisted Pairs
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/CEIDP49254.2020.9437431
+   - **Scopus ID:** 2-s2.0-85107197970
+   - **ISSN:** 00849162
+   - **Volume:** 2020-October
+   - **Pages:** 366-368
+   - **Authors:** Guastavino F.; Briano L.; Gallesi F.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;57215695506;57215699439;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+18.
+   - **Title:** Comparison of PD Patterns Obtained by Conventional Conducted Signals Measurement and TEV Sensor during Electrical Ageing Tests
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/CEIDP49254.2020.9437528
+   - **Scopus ID:** 2-s2.0-85107183971
+   - **ISSN:** 00849162
+   - **Volume:** 2020-October
+   - **Pages:** 547-550
+   - **Authors:** Guastavino F.; Briano L.; Bruzzone A.; Gallesi F.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;57215695506;58402050900;57215699439;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+19.
+   - **Title:** Unsupervised monitoring system for predictive maintenance of high voltage apparatus
+   - **Venue:** Energies
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.3390/en13051109
+   - **Scopus ID:** 2-s2.0-85081613972
+   - **eISSN:** 19961073
+   - **Volume:** 13
+   - **Issue:** 5
+   - **Authors:** Gianoglio Christian; Ragusa Edoardo; Bruzzone Andrea; Gastaldo Paolo; Zunino Rodolfo; Guastavino Francesco
+   - **Keywords:** Embedded systems | Partial discharges | Predictive maintenance
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2020:
+     - Control and Optimization (Q1, rank 17, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 13, percentile 83)
+     - Electrical and Electronic Engineering (Q2, rank 183, percentile 73)
+     - Energy (miscellaneous) (Q2, rank 7, percentile 72)
+     - Energy Engineering and Power Technology (Q2, rank 62, percentile 72)
+     - Fuel Technology (Q2, rank 33, percentile 67)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 69, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 56580140000;56580248800;58402050900;35612596100;7006338311;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Gianoglio C.
+20.
+   - **Title:** DC component effect on Electrical Ageing tests
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CEIDP47102.2019.9009777
+   - **Scopus ID:** 2-s2.0-85081661179
+   - **ISSN:** 00849162
+   - **Volume:** 2019-October
+   - **Pages:** 393-396
+   - **Authors:** Guastavino F.; Briano L.; Gallesi F.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;57215695506;57215699439;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+21.
+   - **Title:** Corona resistant insulating systems characterization for low voltage rotating machine
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/CEIDP47102.2019.9009901
+   - **Scopus ID:** 2-s2.0-85081646877
+   - **ISSN:** 00849162
+   - **Volume:** 2019-October
+   - **Pages:** 694-697
+   - **Authors:** Guastavino F.; Briano L.; Gallesi F.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;57215695506;57215699439;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+22.
+   - **Title:** Tensor based algorithm for automatic partial discharges pattern classification
+   - **Venue:** 2019 21st European Conference on Power Electronics and Applications EPE 2019 Ecce Europe
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.23919/EPE.2019.8915039
+   - **Scopus ID:** 2-s2.0-85076701659
+   - **Authors:** Gianoglio Christian; Ragusa Edoardo; Bruzzone Andrea; Gastaldo Paolo; Torello Eugenia; Guastavino Francesco
+   - **Keywords:** Artificial Intelligence | Diagnostics | Insulation | Noise
+   - **Source Id:** 21100939561
+   - **Author Ids:** 56580140000;56580248800;58402050900;35612596100;6701506640;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Gianoglio C.
+23.
+   - **Title:** Electrical treeing in nanocomposite based on LDPE/EVA blends
+   - **Venue:** IEEE Transactions on Dielectrics and Electrical Insulation
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/TDEI.2019.008000
+   - **Scopus ID:** 2-s2.0-85070468747
+   - **ISSN:** 10709878
+   - **eISSN:** 15584135
+   - **Volume:** 26
+   - **Issue:** 4
+   - **Pages:** 1287-1292
+   - **Authors:** Giovanna L. Della; Guastavino F.; Torello E.; Hoyos M.; Tiemblo P.
+   - **Keywords:** accelerated aging | dielectrics materials | electrical treeing | nanocomposites materials | partial discharges
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 204, percentile 79)
+     2019:
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 82)
+   - **Source Id:** 17343
+   - **Author Ids:** 55515720400;7006692709;6701506640;23018428300;7004068140
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028902;60028902
+   - **Corresponding:** Giovanna L.D.
+24.
+   - **Title:** Electrical Aging Tests on Conventional and Nanofilled Impregnation Resins
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/CEIDP.2018.8544725
+   - **Scopus ID:** 2-s2.0-85059783216
+   - **ISSN:** 00849162
+   - **Volume:** 2018-October
+   - **Pages:** 156-158
+   - **Authors:** Guastavino F.; Gianoglio C.; Torello E.; Ferraris M.; Gianelli W.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;56580140000;6701506640;57202094381;14030230300
+   - **Authoraffiliationids:** 60025153;60025153;60025153;120708514;120708514
+   - **Corresponding:** Guastavino F.
+25.
+   - **Title:** Influence of DC Component on Partial Discharge Activity
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CEIDP.2018.8544901
+   - **Scopus ID:** 2-s2.0-85059770556
+   - **ISSN:** 00849162
+   - **Volume:** 2018-October
+   - **Pages:** 535-537
+   - **Authors:** Guastavino F.; Bruzzone A.; Gianoglio C.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;58402050900;56580140000;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+26.
+   - **Title:** Hardware Friendly Neural Network for the PD Classification
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/CEIDP.2018.8544825
+   - **Scopus ID:** 2-s2.0-85059743044
+   - **ISSN:** 00849162
+   - **Volume:** 2018-October
+   - **Pages:** 538-541
+   - **Authors:** Gianoglio C.; Guastavino F.; Ragusa E.; Bruzzone A.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 56580140000;7006692709;56580248800;58402050900;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Gianoglio C.
+27.
+   - **Title:** A Predictive Maintenance Remote System based on Partial Discharges Measurements on Wind Turbines
+   - **Venue:** 2018 IEEE 2nd International Conference on Dielectrics Icd 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICD.2018.8468535
+   - **Scopus ID:** 2-s2.0-85055894392
+   - **Authors:** Guastavino F.; Gianoglio C.; Torello E.; Cordano D.; Bruzzone A.
+   - **Keywords:** Automated acquisition system | PDs monitoring | Wind turbines
+   - **Source Id:** 21100884089
+   - **Author Ids:** 7006692709;56580140000;6701506640;56716555600;58402050900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+28.
+   - **Title:** Comparison between PD Acquisition System Measurements Using Different Number of Bits for the Quantization
+   - **Venue:** 2018 IEEE 2nd International Conference on Dielectrics Icd 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICD.2018.8468450
+   - **Scopus ID:** 2-s2.0-85055893907
+   - **Authors:** Guastavino F.; Gianoglio C.; Torello E.; Cordano D.; Bruzzone A.
+   - **Keywords:** Clustering | PDs recognition | Quantization
+   - **Source Id:** 21100884089
+   - **Author Ids:** 7006692709;56580140000;6701506640;56716555600;58402050900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+29.
+   - **Title:** Behaviour of Conventional and Nanofilled Impregnation Resins when Subjected to PD Activity
+   - **Venue:** 2018 IEEE 2nd International Conference on Dielectrics Icd 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ICD.2018.8468410
+   - **Scopus ID:** 2-s2.0-85055877987
+   - **Authors:** Guastavino F.; Gianoglio C.; Torello E.; Ferraris M.; Gianelli W.
+   - **Keywords:** Nanofilled impregnating resins | Partial discharges
+   - **Source Id:** 21100884089
+   - **Author Ids:** 7006692709;56580140000;6701506640;57202094381;14030230300
+   - **Authoraffiliationids:** 60025153;60025153;60025153;121531765;121531765
+   - **Corresponding:** Guastavino F.
+30.
+   - **Title:** PDIV and RPDIV on different temperatures on different kind of type I insulating system
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/CEIDP.2017.8257591
+   - **Scopus ID:** 2-s2.0-85045191714
+   - **ISSN:** 00849162
+   - **Volume:** 2017-October
+   - **Pages:** 369-372
+   - **Authors:** Guastavino F.; Rossi F.; Gianoglio C.; Torello E.; Cordano D.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;57199786105;56580140000;6701506640;56716555600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+31.
+   - **Title:** Relevance of quantization in PDs activity measurements in presence of environmental noise
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/CEIDP.2017.8257592
+   - **Scopus ID:** 2-s2.0-85045182153
+   - **ISSN:** 00849162
+   - **Volume:** 2017-October
+   - **Pages:** 373-376
+   - **Authors:** Guastavino F.; Cordano D.; Rossi F.; Gianoglio C.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;56716555600;57199786105;56580140000;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+32.
+   - **Title:** Comparison of conducted and irradiated PD acquisition systems
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/CEIDP.2017.8257589
+   - **Scopus ID:** 2-s2.0-85045181340
+   - **ISSN:** 00849162
+   - **Volume:** 2017-October
+   - **Pages:** 365-368
+   - **Authors:** Guastavino F.; Cordano D.; Gianoglio C.; Rossi F.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;56716555600;56580140000;57199786105;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+33.
+   - **Title:** UHF sensor for PD detection on wind turbines
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/CEIDP.2016.7785685
+   - **Scopus ID:** 2-s2.0-85009822258
+   - **ISSN:** 00849162
+   - **Volume:** 2016-December
+   - **Pages:** 255-258
+   - **Authors:** Guastavino F.; Cordano D.; Torello E.; Rossi F.; Garzone V. C.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;56716555600;6701506640;57199786105;57192989831
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;118990043
+   - **Corresponding:** Guastavino F.
+34.
+   - **Title:** PD evolution of conventional and corona resistant enamels
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/CEIDP.2016.7785686
+   - **Scopus ID:** 2-s2.0-85009743229
+   - **ISSN:** 00849162
+   - **Volume:** 2016-December
+   - **Pages:** 259-262
+   - **Authors:** Guastavino F.; Cordano D.; Torello E.; Della Giovanna L.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;56716555600;6701506640;55515720400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+35.
+   - **Title:** Surface PD evolution of conventional and nanocomposite enamels
+   - **Venue:** Proceedings of the 2016 IEEE International Conference on Dielectrics Icd 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/ICD.2016.7547727
+   - **Scopus ID:** 2-s2.0-84988359634
+   - **Volume:** 2
+   - **Pages:** 760-763
+   - **Authors:** Guastavino F.; Torello E.; Cordano D.; Giovanna L. Della
+   - **Keywords:** electrical aging | electrical insulation | enamel insulated wires | partial discharges | PWM
+   - **Source Id:** 21100779040
+   - **Author Ids:** 7006692709;6701506640;56716555600;55515720400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+36.
+   - **Title:** Aging tests on type i insulating systems applying pulsed waveform
+   - **Venue:** Proceedings of the 2016 IEEE International Conference on Dielectrics Icd 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ICD.2016.7547665
+   - **Scopus ID:** 2-s2.0-84987899022
+   - **Volume:** 1
+   - **Pages:** 556-560
+   - **Authors:** Guastavino F.; Cordano D.; Torello E.; Giovanna L. Della
+   - **Source Id:** 21100779040
+   - **Author Ids:** 7006692709;56716555600;6701506640;55515720400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+37.
+   - **Title:** Dielectric properties of epoxy/montmorillonite nanocomposites and nanostructured epoxy/SiO2/Montmorillonite Microcomposites
+   - **Venue:** Polymer Composites
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1002/pc.23161
+   - **Scopus ID:** 2-s2.0-85028196116
+   - **ISSN:** 02728397
+   - **eISSN:** 15480569
+   - **Volume:** 37
+   - **Issue:** 1
+   - **Pages:** 115-124
+   - **Authors:** Couderc Hugues; Fréchette Michel; David Éric; Savoie Sylvio; Guastavino Francesco; Thelakkaday Abdul Salam; Coletti Gianfranco; Fina Alberto
+   - **Quartile:**
+     2025:
+     - Chemistry (all) (Q1, rank 85, percentile 79)
+     - Ceramics and Composites (Q1, rank 29, percentile 78)
+     - Materials Chemistry (Q1, rank 77, percentile 76)
+     - Polymers and Plastics (Q1, rank 40, percentile 76)
+     2016:
+     - Ceramics and Composites (Q1, rank 23, percentile 77)
+     - Materials Chemistry (Q2, rank 73, percentile 71)
+     - Polymers and Plastics (Q2, rank 46, percentile 67)
+     - Chemistry (all) (Q2, rank 121, percentile 67)
+   - **Source Id:** 14433
+   - **Author Ids:** 22949680200;7006063459;7101678245;6603787384;7006692709;57195454689;7007111656;57206310420
+   - **Authoraffiliationids:** 60026786;60022089;60026786;60022089;60025153;60025153;60025153;60012162
+   - **Corresponding:** Couderc H.
+38.
+   - **Title:** Electrical treeing characterisation of nanocomposite blends
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/CEIDP.2015.7352124
+   - **Scopus ID:** 2-s2.0-84959573817
+   - **ISSN:** 00849162
+   - **Volume:** 2015-December
+   - **Pages:** 816-819
+   - **Authors:** Guastavino F.; Della Giovanna Leoncini; Torello E.; Hoyos M.; Magro P. Tiemblo
+   - **Keywords:** electrical treeing | nanocomposite | partial discharges
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;55515720400;6701506640;23018428300;56191541800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028902;60028902
+   - **Corresponding:** Guastavino F.
+39.
+   - **Title:** Electrical aging tests on nanocomposite polymer blends based on LDPE
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/CEIDP.2015.7352136
+   - **Scopus ID:** 2-s2.0-84959526890
+   - **ISSN:** 00849162
+   - **Volume:** 2015-December
+   - **Pages:** 812-815
+   - **Authors:** Guastavino F.; Giovanna L. Della; Torello E.; Garcia N.; Magro P. Tiemblo
+   - **Keywords:** aging | LDPE | nanocomposite | polyolefins
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;55515720400;6701506640;57219718610;56191541800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028902;60028902
+   - **Corresponding:** Guastavino F.
+40.
+   - **Title:** Electrical aging tests on different kind of insulating systems adopted for induction stator motor
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/CEIDP.2015.7352068
+   - **Scopus ID:** 2-s2.0-84959516872
+   - **ISSN:** 00849162
+   - **Volume:** 2015-December
+   - **Pages:** 808-811
+   - **Authors:** Guastavino F.; Cordano D.; Torello E.; Secondo G.
+   - **Keywords:** corona resistant enameled wires | electronic converters | stator winding insulation
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;56716555600;6701506640;6603592830
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60102057
+   - **Corresponding:** Guastavino F.
+41.
+   - **Title:** Electrical treeing in LDPE-EVA blend based nanocomposites
+   - **Venue:** 2014 IEEE Conference on Electrical Insulation and Dielectric Phenomena CEIDP 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/CEIDP.2014.6995879
+   - **Scopus ID:** 2-s2.0-84936818582
+   - **Pages:** 780-783
+   - **Authors:** Guastavino F.; Della Giovanna L.; Torello E.; Hoyos M.; Tiemblo Magro P.
+   - **Source Id:** 21100398486
+   - **Author Ids:** 7006692709;55515720400;6701506640;23018428300;56716343400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028902;60028902
+   - **Corresponding:** Guastavino F.
+42.
+   - **Title:** LDPE/EVA nanocomposite lifetime studies
+   - **Venue:** 2014 IEEE Conference on Electrical Insulation and Dielectric Phenomena CEIDP 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/CEIDP.2014.6995736
+   - **Scopus ID:** 2-s2.0-84936817494
+   - **Pages:** 784-787
+   - **Authors:** Guastavino F.; Della Giovanna L.; Torello E.; Garcia N.; Tiemblo Magro P.
+   - **Source Id:** 21100398486
+   - **Author Ids:** 7006692709;55515720400;6701506640;57219718610;56716343400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028902;60028902
+   - **Corresponding:** Guastavino F.
+43.
+   - **Title:** Electrical aging test and repetitive partial discharge inception voltage on random wire wound winding insulation
+   - **Venue:** 2014 IEEE Conference on Electrical Insulation and Dielectric Phenomena CEIDP 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/CEIDP.2014.6995806
+   - **Scopus ID:** 2-s2.0-84936804293
+   - **Pages:** 510-513
+   - **Authors:** Guastavino F.; Porcile F.; Ratto A.; Cordano D.; Secondo G.
+   - **Source Id:** 21100398486
+   - **Author Ids:** 7006692709;55549244400;36941984700;56716555600;6603592830
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;127238147
+   - **Corresponding:** Guastavino F.
+44.
+   - **Title:** Aging tests on nanostructured enamels for winding wire insulation
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.1109/TIE.2014.2301736
+   - **Scopus ID:** 2-s2.0-84900530631
+   - **ISSN:** 02780046
+   - **Volume:** 61
+   - **Issue:** 10
+   - **Pages:** 5550-5557
+   - **Authors:** Guastavino Francesco; Ratto Alessandro; Torello Eugenia; Biondi Giovanna
+   - **Keywords:** Accelerated aging | Electrical insulation | Induction motors | Nanostructured materials | Partial discharges (pds) | Variable speed drives (vsds)
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+     2014:
+     - Control and Systems Engineering (Q1, rank 1, percentile 99)
+     - Subject (Q1, rank 3, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 4, percentile 99)
+   - **Source Id:** 26053
+   - **Author Ids:** 7006692709;36941984700;6701506640;24398197000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;
+   - **Corresponding:** Guastavino F.
+45.
+   - **Title:** Insulation properties of LDPE nanocomposites obtained by the dispersion of different nanoparticles
+   - **Venue:** IEEE Transactions on Dielectrics and Electrical Insulation
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1109/TDEI.2013.004222
+   - **Scopus ID:** 2-s2.0-84898684881
+   - **ISSN:** 10709878
+   - **Volume:** 21
+   - **Issue:** 2
+   - **Pages:** 444-451
+   - **Authors:** Guastavino F.; Torello E.; Squarcia S.; Tiemblo P.; Garcia N.
+   - **Keywords:** electrical ageing | Nanomaterials | polymeric nanocomposites
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 204, percentile 79)
+     2014:
+     - Electrical and Electronic Engineering (Q1, rank 140, percentile 78)
+   - **Source Id:** 17343
+   - **Author Ids:** 7006692709;6701506640;57213983844;7004068140;57219718610
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028902;60028902
+   - **Corresponding:** Guastavino F.
+46.
+   - **Title:** Electrical ageing test on random wire wound stator insulation applying voltage pulses
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/CEIDP.2013.6748225
+   - **Scopus ID:** 2-s2.0-84901743736
+   - **ISSN:** 00849162
+   - **Pages:** 206-209
+   - **Authors:** Guastavino F.; Porcile F.; Ratto A.; Della Giovanna L.; Secondo G.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;55549244400;36941984700;55515720400;6603592830
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60102057
+   - **Corresponding:** Guastavino F.
+47.
+   - **Title:** Dielectric characterization of gas mixtures as electrical insulating for high voltage components and appliances
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/CEIDP.2013.6748295
+   - **Scopus ID:** 2-s2.0-84901741980
+   - **ISSN:** 00849162
+   - **Pages:** 1008-1011
+   - **Authors:** Guastavino F.; Ratto A.; Porcile F.; Torello E.; Santinelli D.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;36941984700;55549244400;6701506640;56191520500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;
+   - **Corresponding:** Guastavino F.
+48.
+   - **Title:** Electrical behavior of nanocomposites based on LDPE-EVA blend
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/CEIDP.2013.6748263
+   - **Scopus ID:** 2-s2.0-84901741724
+   - **ISSN:** 00849162
+   - **Pages:** 788-791
+   - **Authors:** Guastavino F.; Della Giovanna L.; Porcile F.; Torello E.; Magro P. Tiemblo; Nuñez M. Hoyos
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;55515720400;55549244400;6701506640;56191541800;56191549200
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60028902;60028902
+   - **Corresponding:** Guastavino F.
+49.
+   - **Title:** Processing LDPE-EVA blend with montmorillonite and silica nanoparticles
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/CEIDP.2013.6748289
+   - **Scopus ID:** 2-s2.0-84901741338
+   - **ISSN:** 00849162
+   - **Pages:** 547-550
+   - **Authors:** Guastavino F.; Della Giovanna L.; Ratto A.; Torello E.; Magro P. Tiemblo; Garcia N. Garcia
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;55515720400;36941984700;6701506640;56191541800;57219718610
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60028902;60028902
+   - **Corresponding:** Guastavino F.
+50.
+   - **Title:** New high voltage pulse generator for Type i wire wound winding of electrical machines
+   - **Venue:** Proceedings of IEEE International Conference on Solid Dielectrics Icsd
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICSD.2013.6619745
+   - **Scopus ID:** 2-s2.0-84891615709
+   - **ISSN:** 15535282
+   - **eISSN:** 21591687
+   - **Pages:** 295-297
+   - **Authors:** Guastavino F.; Porcile F.; Ratto A.; Torello E.
+   - **Keywords:** pulse generator | stator windings tests
+   - **Source Id:** 21100278102
+   - **Author Ids:** 7006692709;55549244400;36941984700;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+51.
+   - **Title:** Effect of clay dispersion methods on the mechano-dynamical and electrical properties of epoxy-organoclay nanocomposites
+   - **Venue:** Polymer Bulletin
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1007/s00289-012-0815-x
+   - **Scopus ID:** 2-s2.0-84878492288
+   - **ISSN:** 01700839
+   - **Volume:** 70
+   - **Issue:** 2
+   - **Pages:** 489-506
+   - **Authors:** Thelakkadan A. S.; Coletti G.; Guastavino F.; Fina A.
+   - **Keywords:** Glass transition | Mechanical properties | Nanocomposites | Organoclay
+   - **Quartile:**
+     2025:
+     - Condensed Matter Physics (Q1, rank 57, percentile 87)
+     - Chemistry (all) (Q1, rank 77, percentile 81)
+     - Materials Chemistry (Q1, rank 68, percentile 79)
+     - Polymers and Plastics (Q1, rank 35, percentile 79)
+     2013:
+     - Materials Chemistry (Q2, rank 82, percentile 66)
+     - Polymers and Plastics (Q2, rank 48, percentile 65)
+     - Chemistry (all) (Q2, rank 136, percentile 62)
+     - Condensed Matter Physics (Q2, rank 174, percentile 55)
+   - **Source Id:** 21445
+   - **Author Ids:** 35737911700;7007111656;7006692709;57206310420
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60012162
+   - **Corresponding:** Thelakkadan A.S.
+52.
+   - **Title:** Partial discharges measurements on conventional and nanocomposite enameled wires varying the ambient conditions
+   - **Venue:** Proceedings of IEEE International Conference on Solid Dielectrics Icsd
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ICSD.2013.6619755
+   - **Scopus ID:** 2-s2.0-84891606929
+   - **ISSN:** 15535282
+   - **eISSN:** 21591687
+   - **Pages:** 298-301
+   - **Authors:** Guastavino F.; Ratto A.; Torello E.; Della Giovanna L.; Biondi G.; Loggi G.
+   - **Keywords:** electrical aging | insulating enamels | nanocomposite material | partial discharges
+   - **Source Id:** 21100278102
+   - **Author Ids:** 7006692709;36941984700;6701506640;55515720400;24398197000;54393619900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;105887890;105887890
+   - **Corresponding:** Guastavino F.
+53.
+   - **Title:** Diagnosis of common defects inside cast Resin current transformers by digital partial discharges acquisition
+   - **Venue:** Proceedings 2012 20th International Conference on Electrical Machines ICEM 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ICElMach.2012.6350101
+   - **Scopus ID:** 2-s2.0-84870814308
+   - **Pages:** 1647-1652
+   - **Authors:** Guastavino F.; Torello E.; Ratto A.; Dardano A.; Secci M.; Ferraro F.; Pistone D.
+   - **Keywords:** Current Transformers | Dielectric Breakdown | Partial Discharges
+   - **Source Id:** 21100223114
+   - **Author Ids:** 7006692709;6701506640;36941984700;24464904600;55329909900;55329372900;55329260400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60336246;113250823;113250823;113250823
+   - **Corresponding:** Guastavino F.
+54.
+   - **Title:** Surface partial discharges aging on thin polymeric nanocomposite films
+   - **Venue:** Proceedings 2012 20th International Conference on Electrical Machines ICEM 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICElMach.2012.6350131
+   - **Scopus ID:** 2-s2.0-84870779959
+   - **Pages:** 1836-1840
+   - **Authors:** Guastavino F.; Ratto A.; Della Giovanna L.; Gómez-Elvira J. M.; Garcia N.
+   - **Keywords:** accelerate aging | insulation | nanocomposites | partial discharges | surface discharges | syndiotactic polypropylene
+   - **Source Id:** 21100223114
+   - **Author Ids:** 7006692709;36941984700;55515720400;6701642152;57219718610
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028902;60028902
+   - **Corresponding:** Guastavino F.
+55.
+   - **Title:** Electrical aging tests on conventional and nanocomposite enamelled wires varying both the relative humidity and the applied voltage amplitude
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/CEIDP.2012.6378842
+   - **Scopus ID:** 2-s2.0-84872091760
+   - **ISSN:** 00849162
+   - **Pages:** 561-564
+   - **Authors:** Guastavino F.; Della Giovanna L.; Porcile F.; Ratto A.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;55515720400;55549244400;36941984700;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+56.
+   - **Title:** Syndiotactic polypropylene based nanocomposites: Short and long term electrical characterisation
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/CEIDP.2012.6378843
+   - **Scopus ID:** 2-s2.0-84872070531
+   - **ISSN:** 00849162
+   - **Pages:** 565-568
+   - **Authors:** Guastavino F.; Ratto A.; Della Giovanna L.; Gòmez-Elvira J. M.; Garcìa N.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;36941984700;55515720400;6701642152;57219718610
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028902;60028902
+   - **Corresponding:** Guastavino F.
+57.
+   - **Title:** Comparison between conventional and nanofilled enamels under different environmental conditions
+   - **Venue:** IEEE Electrical Insulation Magazine
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.1109/MEI.2012.6232008
+   - **Scopus ID:** 2-s2.0-84863737632
+   - **ISSN:** 08837554
+   - **Volume:** 28
+   - **Issue:** 4
+   - **Pages:** 35-41
+   - **Authors:** Guastavino F.; Ratto A.
+   - **Keywords:** aging tests | enamel insulated wires | environmental factors | life estimation | nanocompositematerials | partial discharges | twisted pairs
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 407, percentile 59)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 164, percentile 47)
+     2012:
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 77)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 49, percentile 74)
+   - **Source Id:** 17258
+   - **Author Ids:** 7006692709;36941984700
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Guastavino F.
+58.
+   - **Title:** Life tests on twisted pairs in presence of partial discharges: Influence of the voltage waveform
+   - **Venue:** IEEE Transactions on Dielectrics and Electrical Insulation
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 62
+   - **DOI:** 10.1109/TDEI.2012.6148501
+   - **Scopus ID:** 2-s2.0-84857319844
+   - **ISSN:** 10709878
+   - **Volume:** 19
+   - **Issue:** 1
+   - **Pages:** 45-52
+   - **Authors:** Guastavino Francesco; Dardano Andrea
+   - **Keywords:** Aging tests | Enamel insulated wires | Life estimation | Partial discharges | Pulsed power supplies | Twisted pairs
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 204, percentile 79)
+     2012:
+     - Electrical and Electronic Engineering (Q1, rank 132, percentile 78)
+   - **Source Id:** 17343
+   - **Author Ids:** 7006692709;24464904600
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Guastavino F.
+59.
+   - **Title:** Thermomechanical and electrical characterization of epoxy-organoclay nanocomposites
+   - **Venue:** Polymer Engineering and Science
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1002/pen.22164
+   - **Scopus ID:** 2-s2.0-84859783009
+   - **ISSN:** 00323888
+   - **eISSN:** 15482634
+   - **Volume:** 52
+   - **Issue:** 5
+   - **Pages:** 1037-1046
+   - **Authors:** Thelakkadan A. S.; Coletti G.; Guastavino F.; Fina A.
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 67, percentile 80)
+     - Chemistry (all) (Q2, rank 128, percentile 68)
+     - Materials Chemistry (Q2, rank 127, percentile 61)
+     - Polymers and Plastics (Q2, rank 66, percentile 61)
+     2012:
+     - Polymers and Plastics (Q1, rank 33, percentile 76)
+     - Materials Chemistry (Q2, rank 68, percentile 71)
+     - Chemistry (all) (Q2, rank 117, percentile 67)
+   - **Source Id:** 13695
+   - **Author Ids:** 35737911700;7007111656;7006692709;57206310420
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60012162
+   - **Corresponding:** Thelakkadan A.S.
+60.
+   - **Title:** Morphologic analysis and diagnosis of defects inside cast resin medium voltage current transformers insulation by digital partial discharges acquisitions
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CEIDP.2011.6232702
+   - **Scopus ID:** 2-s2.0-84864688436
+   - **ISSN:** 00849162
+   - **Pages:** 493-496
+   - **Authors:** Guastavino F.; Torello E.; Squarcia S.; Dardano A.; Secci M.; Ferraro F.; Pistone D.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;6701506640;57213983844;24464904600;55329909900;55329372900;55329260400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60336246;112988895;112988895;112988895
+   - **Corresponding:** Guastavino F.
+61.
+   - **Title:** Comparison among the PD resistance behavior of different enameled wires when subjected to PWM voltage
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/CEIDP.2011.6232659
+   - **Scopus ID:** 2-s2.0-84864677136
+   - **ISSN:** 00849162
+   - **Pages:** 314-317
+   - **Authors:** Guastavino F.; Ratto A.; Dardano A.; Torello E.; Biondi G.; Loggi G.; Ceci A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;36941984700;24464904600;6701506640;24398197000;54393619900;54392714000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;112435440;112435440;112435440
+   - **Corresponding:** Guastavino F.
+62.
+   - **Title:** Influence of semi-crystalline morphology on the electrical breakdown properties of sPP based materials
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/CEIDP.2011.6232766
+   - **Scopus ID:** 2-s2.0-84864668627
+   - **ISSN:** 00849162
+   - **Pages:** 756-759
+   - **Authors:** Guastavino F.; Thelakkadan A. S.; Dardano A.; Coletti G.; Gómez-Elvira J. M.; Tiemblo P.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;35737911700;24464904600;7007111656;6701642152;7004068140
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60028902;60028902
+   - **Corresponding:** Guastavino F.
+63.
+   - **Title:** Electrical aging tests on enameled wire exposed to gamma irradiation
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/CEIDP.2011.6232727
+   - **Scopus ID:** 2-s2.0-84864664633
+   - **ISSN:** 00849162
+   - **Pages:** 595-598
+   - **Authors:** Guastavino F.; Ratto A.; Coletti G.; Dardano A.; Torello E.; Di Maio P. A.; D'Aleo F.; Miccichè G.; Becchi F.; Talpone F.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;36941984700;7007111656;24464904600;6701506640;8044455000;23017730300;6508317517;59427324600;57199337629
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60017697;60017697;60083751;112780645;112988221
+   - **Corresponding:** Guastavino F.
+64.
+   - **Title:** Dielectric properties of epoxy/Montmorillonite nanocomposites and nanostructured epoxy/SiO 2/Montmorillonite microcomposites
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/CEIDP.2011.6232667
+   - **Scopus ID:** 2-s2.0-84864663953
+   - **ISSN:** 00849162
+   - **Pages:** 346-352
+   - **Authors:** Couderc H.; Savoie S.; Fréchette M.; David E.; Guastavino F.; Thelakkadan A. S.; Coletti G.; Fina A.
+   - **Keywords:** Dielectric Spectroscopy | nanostructured composites | relaxation phenomena
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 22949680200;6603787384;7006063459;7101678245;7006692709;35737911700;7007111656;57206310420
+   - **Authoraffiliationids:** 60022089-60026786;60022089;60022089;60026786;60025153;60025153;60025153;60012162
+   - **Corresponding:** Couderc H.
+65.
+   - **Title:** Mechanical properties of polypropylene nano-composites: An investigation about the correlation with space charge measurements
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CEIDP.2011.6232748
+   - **Scopus ID:** 2-s2.0-84864648015
+   - **ISSN:** 00849162
+   - **Pages:** 680-683
+   - **Authors:** Guastavino F.; Torello E.; Coletti G.; Vuluga Z.; Panaitescu D. M.; Iancu S.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;6701506640;7007111656;22954489900;18234267000;6602934233
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60014457;60014457;60014457
+   - **Corresponding:** Guastavino F.
+66.
+   - **Title:** Electrical aging tests on different nanostructured enamels subjected to severe voltage waveforms
+   - **Venue:** Sdemped 2011 8th IEEE Symposium on Diagnostics for Electrical Machines Power Electronics and Drives
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/DEMPED.2011.6063636
+   - **Scopus ID:** 2-s2.0-81255197112
+   - **Pages:** 278-282
+   - **Authors:** Guastavino Francesco; Ratto Alessandro; Torello Eugenia; Biondi Giovanna; Loggi Giovanni; Ceci Andrea
+   - **Keywords:** Dielectric breakdown | Nanomaterials | Partial discharges
+   - **Source Id:** 20500195085
+   - **Author Ids:** 7006692709;36941984700;6701506640;24398197000;54393619900;54392714000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;112435440;112435440;112435440
+   - **Corresponding:** Guastavino F.
+67.
+   - **Title:** PD activity inside random wire wound motor stator insulation and early failures: A case study analysis
+   - **Venue:** Sdemped 2011 8th IEEE Symposium on Diagnostics for Electrical Machines Power Electronics and Drives
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/DEMPED.2011.6063637
+   - **Scopus ID:** 2-s2.0-81255197111
+   - **Pages:** 283-287
+   - **Authors:** Guastavino F.; Dardano A.; Torello E.; Massa G. F.
+   - **Keywords:** Electrical insulation | Partial Discharges | Pulse width modulation | Rotating Machines
+   - **Source Id:** 20500195085
+   - **Author Ids:** 7006692709;24464904600;6701506640;56969575500
+   - **Authoraffiliationids:** 60025153;60336246;60025153;60122276
+   - **Corresponding:** Guastavino F.
+68.
+   - **Title:** Effect of the nature of clay on the thermo-mechanodynamical and electrical properties of epoxy/clay nanocomposites
+   - **Venue:** Polymer Composites
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 22
+   - **DOI:** 10.1002/pc.21176
+   - **Scopus ID:** 2-s2.0-80052965723
+   - **ISSN:** 02728397
+   - **eISSN:** 15480569
+   - **Volume:** 32
+   - **Issue:** 10
+   - **Pages:** 1499-1504
+   - **Authors:** Thelakkadan A. S.; Coletti G.; Guastavino F.; Fina A.
+   - **Quartile:**
+     2025:
+     - Chemistry (all) (Q1, rank 85, percentile 79)
+     - Ceramics and Composites (Q1, rank 29, percentile 78)
+     - Materials Chemistry (Q1, rank 77, percentile 76)
+     - Polymers and Plastics (Q1, rank 40, percentile 76)
+     2011:
+     - Ceramics and Composites (Q2, rank 22, percentile 72)
+     - Polymers and Plastics (Q2, rank 38, percentile 72)
+     - Materials Chemistry (Q2, rank 76, percentile 67)
+     - Chemistry (all) (Q2, rank 135, percentile 61)
+   - **Source Id:** 14433
+   - **Author Ids:** 35737911700;7007111656;7006692709;57206310420
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60012162
+   - **Corresponding:** Thelakkadan A.
+69.
+   - **Title:** Short-medium term behaviour of polypropylene and its nanocomposites
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/CEIDP.2010.5723999
+   - **Scopus ID:** 2-s2.0-79952973679
+   - **ISSN:** 00849162
+   - **Authors:** Guastavino Francesco; Coletti G.; Ratto A.; Squarcia S.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;7007111656;36941984700;57213983844;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+70.
+   - **Title:** Thermo-mechanical and electrical characterization of epoxy/nanoclay composites
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/CEIDP.2010.5723997
+   - **Scopus ID:** 2-s2.0-79952947572
+   - **ISSN:** 00849162
+   - **Authors:** Guastavino F.; Coletti G.; Dardano A.; Fina A.; Thelakkadan A. S.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;7007111656;24464904600;57206310420;35737911700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60012162;60025153
+   - **Corresponding:** Guastavino F.
+71.
+   - **Title:** Influence of the rise time and of the temperature on the PD inception voltage of enameled wires
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/CEIDP.2010.5724000
+   - **Scopus ID:** 2-s2.0-79952947166
+   - **ISSN:** 00849162
+   - **Authors:** Guastavino F.; Cotella G.; Dardano A.; Massa G. F.; Ratto A.; Squarcia S.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;37074315000;24464904600;56969575500;36941984700;57213983844;6701506640
+   - **Authoraffiliationids:** 60025153;60122276;60025153;60122276;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+72.
+   - **Title:** Electro-thermal aging tests on different kinds of enamelled wires
+   - **Venue:** Proceedings of the 2010 IEEE International Conference on Solid Dielectrics Icsd 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/ICSD.2010.5568020
+   - **Scopus ID:** 2-s2.0-77958054831
+   - **Authors:** Guastavino F.; Ratto A.; Squarcia S.; Torello E.
+   - **Keywords:** Electrical aging tests | Enamelled wires | Life curve | Motor winding wires | Nanocomposite enamel | Partial discharges activity | Twisted pair specimens
+   - **Source Id:** 19700181332
+   - **Author Ids:** 7006692709;36941984700;57213983844;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+73.
+   - **Title:** An experimental study about electrical treeing inside LDPE nanocomposites
+   - **Venue:** Proceedings of the 2010 IEEE International Conference on Solid Dielectrics Icsd 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ICSD.2010.5568056
+   - **Scopus ID:** 2-s2.0-77958038972
+   - **Authors:** Guastavino F.; Dardano A.; Squarcia S.; Tiemblo P.; Guzman J.; Garcia N.
+   - **Source Id:** 19700181332
+   - **Author Ids:** 7006692709;24464904600;57213983844;7004068140;7101664390;57219718610
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028902;60028902;60028902
+   - **Corresponding:** Guastavino F.
+74.
+   - **Title:** Nanodielectrics: A panacea for solving all electrical insulation problems?
+   - **Venue:** Proceedings of the 2010 IEEE International Conference on Solid Dielectrics Icsd 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 60
+   - **DOI:** 10.1109/ICSD.2010.5568067
+   - **Scopus ID:** 2-s2.0-77958037530
+   - **Authors:** Fréchette Michel F.; Vijh Ashok; Utracki Leszek; Trudeau Michel L.; Sami Abdelkalek; Laurent Christian; Morshuis Peter; Andritsch Thomas; Kochetov Roman; Vaughan Alun; David Éric; Castellon Jérôme; Fabiani Davide; Gubanski Stanislaw; Kindersberger Josef; Reed Clive; Krivda Andrej; Fothergill John; Dodd Steven; Guastavino Francesco; Alamdari Houshang
+   - **Source Id:** 19700181332
+   - **Author Ids:** 7006063459;7007011271;7005074766;7004474420;56849047100;55588495500;57201812661;24773377500;57192368296;7103182718;7101678245;57194754995;7003857283;57192786395;6601997579;7402210462;6701691274;7006794655;57210453593;7006692709;10939155900
+   - **Authoraffiliationids:** 60022089;60022089;60009839;60022089;60026786;60122689;60006288;60006288;60006288;60025225;60026786;60108488;60028218;60000990;60019722;;60004881;60033125;60033125;60025153;60032619
+   - **Corresponding:** Fréchette M.F.
+75.
+   - **Title:** Twisted pair specimens insulated by conventional and nanocomposite enamel: Life curves and PD patterns
+   - **Venue:** 2009 9th IEEE Conference on Nanotechnology IEEE Nano 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-77951003224
+   - **Pages:** 183-186
+   - **Authors:** Guastavino Francesco; Ratto Alessandro; Coletti Gianfranco
+   - **Keywords:** Lifetime plots | Nanocomposite enamel | Partial discharges activity | PD patterns
+   - **Source Id:** 19700170827
+   - **Author Ids:** 7006692709;36941984700;7007111656
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+76.
+   - **Title:** Electrical treeing in LDPE nanocomposite materials
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/CEIDP.2009.5377745
+   - **Scopus ID:** 2-s2.0-77949325551
+   - **ISSN:** 00849162
+   - **Pages:** 697-700
+   - **Authors:** Guastavino F.; Dardano A.; Squarcia S.; Tiemblo P.; Guzman J.; Benito E.; Garcia N.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;24464904600;57213983844;7004068140;7101664390;24740825500;57219718610
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028902;60028902;;60028902
+   - **Corresponding:** Guastavino F.
+77.
+   - **Title:** Electrical tracking in cycloaliphatic epoxy based nanostructured composites
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/CEIDP.2009.5377719
+   - **Scopus ID:** 2-s2.0-77949297980
+   - **ISSN:** 00849162
+   - **Pages:** 701-704
+   - **Authors:** Guastavino F.; Thelakkadan A. S.; Coletti G.; Ratto A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;35737911700;7007111656;36941984700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+78.
+   - **Title:** Partial discharge measurements during the degradation of nanocomposite twisted pair specimens
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/CEIDP.2009.5377743
+   - **Scopus ID:** 2-s2.0-77949288281
+   - **ISSN:** 00849162
+   - **Pages:** 693-696
+   - **Authors:** Guastavino F.; Squarcia S.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;57213983844;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+79.
+   - **Title:** Electrical aging test on twisted pair specimens under different environmental conditions
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/CEIDP.2009.5377744
+   - **Scopus ID:** 2-s2.0-77949281129
+   - **ISSN:** 00849162
+   - **Pages:** 81-84
+   - **Authors:** Guastavino F.; Dardano A.; Ratto A.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;24464904600;36941984700;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+80.
+   - **Title:** Breakdown and electrical aging tests on different nanocomposite materials
+   - **Venue:** 2009 IEEE Electrical Insulation Conference Eic 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/EIC.2009.5166403
+   - **Scopus ID:** 2-s2.0-70449704938
+   - **Pages:** 529-533
+   - **Authors:** Guastavino F.; Dardano A.; Squarcia S.; Tiemblo P.; Guzman J.; Benito E.; Garcia N.
+   - **Source Id:** 19400158494
+   - **Author Ids:** 7006692709;24464904600;57213983844;7004068140;7101664390;24740825500;57219718610
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028902;60028902;60028902;60028902
+   - **Corresponding:** Guastavino F.
+81.
+   - **Title:** Life tests of a conventional enamel varying the environmental conditions
+   - **Venue:** 2009 IEEE Electrical Insulation Conference Eic 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/EIC.2009.5166354
+   - **Scopus ID:** 2-s2.0-70449638133
+   - **Pages:** 259-261
+   - **Authors:** Guastavino F.; Ratto A.; Torello E.
+   - **Source Id:** 19400158494
+   - **Author Ids:** 7006692709;36941984700;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+82.
+   - **Title:** Electrical ageing test on conventional and nanocomposite enamels: PD patterns analysis
+   - **Venue:** 2009 IEEE Electrical Insulation Conference Eic 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/EIC.2009.5166404
+   - **Scopus ID:** 2-s2.0-70449629530
+   - **Pages:** 537-541
+   - **Authors:** Guastavino F.; Coletti G.; Ratto A.; Torello E.
+   - **Source Id:** 19400158494
+   - **Author Ids:** 7006692709;7007111656;36941984700;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+83.
+   - **Title:** Electrical treeing in EVA-boehmite and EVA-montmorillonite nanocomposites
+   - **Venue:** 2009 IEEE Electrical Insulation Conference Eic 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/EIC.2009.5166375
+   - **Scopus ID:** 2-s2.0-70449625452
+   - **Pages:** 382-386
+   - **Authors:** Guastavino F.; Dardano A.; Montanari G. C.; Testa L.; Bellucci F.
+   - **Source Id:** 19400158494
+   - **Author Ids:** 7006692709;24464904600;35498452800;24470492900;55059293600
+   - **Authoraffiliationids:** 60025153;60025153;60028218;60017697;101038199
+   - **Corresponding:** Guastavino F.
+84.
+   - **Title:** Effect of water adsorption on the dielectric properties of polymer nanocomposites
+   - **Venue:** Proceedings of the International Symposium on Electrical Insulating Materials
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 22
+   - **DOI:** 10.1109/ISEIM.2008.4664470
+   - **Scopus ID:** 2-s2.0-58049132579
+   - **Pages:** 510-513
+   - **Authors:** Fabiani D.; Montanari G. C.; Testa L.; Schifani R.; Guastavino F.; Bellucci F.; Deorsola F.
+   - **Source Id:** 86120
+   - **Author Ids:** 7003857283;35498452800;24470492900;7004136119;7006692709;55059293600;6507411337
+   - **Authoraffiliationids:** 60028218;60028218;60017697;60017697;60025153;60012162;60012162
+   - **Corresponding:** Fabiani D.
+85.
+   - **Title:** PD pattern dependence on relative humidity in twisted pairs
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/CEIDP.2008.4772872
+   - **Scopus ID:** 2-s2.0-65949121377
+   - **ISSN:** 00849162
+   - **Pages:** 421-424
+   - **Authors:** Guastavino F.; Torello E.; Dardano A.; Coletti G.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;6701506640;24464904600;7007111656
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+86.
+   - **Title:** Life tests on twisted pair specimens insulated by nanofilled enamel
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/CEIDP.2008.4772873
+   - **Scopus ID:** 2-s2.0-65949114270
+   - **ISSN:** 00849162
+   - **Pages:** 678-681
+   - **Authors:** Guastavino F.; Torello E.; Dardano A.; Ratto A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;6701506640;24464904600;36941984700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+87.
+   - **Title:** Comparison between different electric signal fire resistant cables behaviour during fire tests
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/CEIDP.2008.4772874
+   - **Scopus ID:** 2-s2.0-65949093717
+   - **ISSN:** 00849162
+   - **Pages:** 103-106
+   - **Authors:** Guastavino F.; Ratto A.; Celentano M.; Zucchelli A.; Michelato P.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;36941984700;24773229900;56990901500;6603938020
+   - **Authoraffiliationids:** 60025153;60025153;107062044;107062044;60115856
+   - **Corresponding:** Guastavino F.
+88.
+   - **Title:** Measuring partial discharges under pulsed voltage conditions
+   - **Venue:** IEEE Transactions on Dielectrics and Electrical Insulation
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 75
+   - **DOI:** 10.1109/TDEI.2008.4712668
+   - **Scopus ID:** 2-s2.0-58149117477
+   - **ISSN:** 10709878
+   - **Volume:** 15
+   - **Issue:** 6
+   - **Pages:** 1640-1648
+   - **Authors:** Guastavino F.; Dardano A.; Torello E.
+   - **Keywords:** Electrical insulation | Enamel insulated wires | Partial discharges | Pulse width modulation | Short-Risetime repetitive voltage impulses | Switching transients
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 204, percentile 79)
+   - **Source Id:** 17343
+   - **Author Ids:** 7006692709;24464904600;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+89.
+   - **Title:** A comparison of the short and long term behaviour of nanostructured enamels with the performances of conventional insulation
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1109/ELINSL.2008.4570417
+   - **Scopus ID:** 2-s2.0-52049107052
+   - **ISSN:** 01642006
+   - **Pages:** 659-662
+   - **Authors:** Guastavino F.; Torello E.; Dardano A.; Bono S.; Pellegrini M.; Vignati L.
+   - **Source Id:** 17273
+   - **Author Ids:** 7006692709;6701506640;24464904600;24476037300;24830557500;24831111500
+   - **Authoraffiliationids:** 100501929;100501929;100501929;60102057;60102057;60102057
+   - **Corresponding:** Guastavino F.
+90.
+   - **Title:** Partial discharge activity in presence of pulsed waveforms
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1109/ELINSL.2008.4570342
+   - **Scopus ID:** 2-s2.0-52049094313
+   - **ISSN:** 01642006
+   - **Pages:** 336-339
+   - **Authors:** Guastavino F.; Dardano A.; Ratto A.; Torello E.
+   - **Source Id:** 17273
+   - **Author Ids:** 7006692709;24464904600;36941984700;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+91.
+   - **Title:** Electrical strength in ramp voltage AC tests of LDPE and its nanocomposites with silica and fibrous and laminar silicates
+   - **Venue:** Journal of Polymer Science Part B Polymer Physics
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 36
+   - **DOI:** 10.1002/polb.21464
+   - **Scopus ID:** 2-s2.0-47049114095
+   - **ISSN:** 08876266
+   - **Volume:** 46
+   - **Issue:** 13
+   - **Pages:** 1301-1311
+   - **Authors:** Hoyos M.; García N.; Navarro R.; Dardano A.; Ratto A.; Guastavino F.; Tiemblo P.
+   - **Keywords:** Dielectric properties | Nanocomposites | Nanoparticles | Organoclay | Particle nucleation | Polyethylene (PE)
+   - **Source Id:** 25915
+   - **Author Ids:** 23018428300;57219718610;55840796100;24464904600;36941984700;7006692709;7004068140
+   - **Authoraffiliationids:** 60028902;60028902;60025153;60025153;60028902;60025153;60028902
+   - **Corresponding:** Hoyos M.
+92.
+   - **Title:** The development of electrical treeing in LDPE and its nanocomposites with spherical silica and fibrous and laminar silicates
+   - **Venue:** Journal of Physics D Applied Physics
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 41
+   - **DOI:** 10.1088/0022-3727/41/12/125208
+   - **Scopus ID:** 2-s2.0-47249140740
+   - **ISSN:** 00223727
+   - **eISSN:** 13616463
+   - **Volume:** 41
+   - **Issue:** 12
+   - **Authors:** Tiemblo Pilar; Hoyos Mario; Gómez-Elvira Jose Manuel; GuzmÁn Julio; García Nuria; Dardano Andrea; Guastavino Francesco
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q1, rank 9, percentile 83)
+     - Condensed Matter Physics (Q2, rank 117, percentile 73)
+     - Surfaces, Coatings and Films (Q2, rank 39, percentile 72)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 96, percentile 69)
+   - **Source Id:** 28570
+   - **Author Ids:** 7004068140;23018428300;6701642152;7101664390;57219718610;24464904600;7006692709
+   - **Authoraffiliationids:** 60028902;60028902;60028902;;60028902;60025153;60025153
+   - **Corresponding:** Tiemblo P.
+93.
+   - **Title:** Resistance to surface partial discharges of LDPE nanocomposites
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/CEIDP.2007.4451483
+   - **Scopus ID:** 2-s2.0-51249123109
+   - **ISSN:** 00849162
+   - **Pages:** 244-247
+   - **Authors:** Guastavino F.; Dardano A.; Ratto A.; Torello E.; Hoyos M.; Gómez-Elvira J. M.; Tiemblo P.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;24464904600;36941984700;6701506640;23018428300;6701642152;7004068140
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60028902;60028902;60028902
+   - **Corresponding:** Guastavino F.
+94.
+   - **Title:** Electrical treeing inception and growth in LDPE nanocomposites
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/CEIDP.2007.4451482
+   - **Scopus ID:** 2-s2.0-51249102758
+   - **ISSN:** 00849162
+   - **Pages:** 240-243
+   - **Authors:** Guastavino F.; Dardano A.; Torello E.; Hoyos M.; Gómez-Elvira J. M.; Tiemblo P.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;24464904600;6701506640;23018428300;6701642152;7004068140
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028902;60028902;60028902
+   - **Corresponding:** Guastavino F.
+95.
+   - **Title:** Realization of different electric signal fire resistant cables and carrying out of a "real scale" test. Analysis and discussion of the obtained results
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/CEIDP.2007.4451545
+   - **Scopus ID:** 2-s2.0-51249093053
+   - **ISSN:** 00849162
+   - **Pages:** 85-88
+   - **Authors:** Guastavino F.; Coletti G.; Ratto A.; Michelato P.; Celentano M.; Zucchelli A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;7007111656;36941984700;6603938020;24773229900;56990901500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60115856;;
+   - **Corresponding:** Guastavino F.
+96.
+   - **Title:** Characterization of nanofilled epoxy varnish subjected to surface partial discharges
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/CEIDP.2007.4451546
+   - **Scopus ID:** 2-s2.0-51249092600
+   - **ISSN:** 00849162
+   - **Pages:** 267-270
+   - **Authors:** Guastavino F.; Balbo M.; Coletti G.; Zunino F.; Oldrati A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;24773058900;7007111656;24774067200;24773554000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60073836;60073836
+   - **Corresponding:** Guastavino F.
+97.
+   - **Title:** Partial discharge tests using CIGRE method II upon nanocomposite epoxy resins
+   - **Venue:** 2007 International Conference on Solid Dielectrics Icsd
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1109/ICSD.2007.4290822
+   - **Scopus ID:** 2-s2.0-47349126383
+   - **Pages:** 341-344
+   - **Authors:** Di Lorenzo Del Casale M.; Schifani R.; Testa L.; Montanari G. C.; Motori A.; Patuelli F.; Guastavino F.; Deorsola F.
+   - **Source Id:** 11900154362
+   - **Author Ids:** 6603319751;7004136119;24470492900;35498452800;7004091660;15753812200;7006692709;6507411337
+   - **Authoraffiliationids:** 60017697;60017697;60017697;60028218;60028218;60028218;60025153;60012162
+   - **Corresponding:** Di Lorenzo Del Casale M.
+98.
+   - **Title:** A study about electrical treeing in different EVA-layered silicate nanostructured compounds
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 17
+   - **Scopus ID:** 2-s2.0-34249749949
+   - **ISSN:** 01642006
+   - **Volume:** 2007
+   - **Pages:** 478-481
+   - **Authors:** Guastavino F.; Dardano A.; Montanari G. C.; Deorsola F.; Di Lorenzo Del Casale M.
+   - **Source Id:** 17273
+   - **Author Ids:** 7006692709;24464904600;35498452800;6507411337;6603319751
+   - **Authoraffiliationids:** 60025153;60025153;60028218;60012162;60017697
+   - **Corresponding:** Guastavino F.
+99.
+   - **Title:** PD measurements during the degradation of twisted pair enameled wires subjected to repetitive voltage impulses
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-34249720548
+   - **ISSN:** 01642006
+   - **Volume:** 2007
+   - **Pages:** 147-150
+   - **Authors:** Guastavino F.; Dardano A.; Ratto A.; Torello E.
+   - **Source Id:** 17273
+   - **Author Ids:** 7006692709;24464904600;36941984700;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+100.
+   - **Title:** Insulating system characterisation of high temperature superconductor flat cables
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-34249707853
+   - **ISSN:** 01642006
+   - **Volume:** 2007
+   - **Pages:** 38-41
+   - **Authors:** Guastavino F.; Coletti G.; Torello E.; Brambilla R.; Martini L.
+   - **Source Id:** 17273
+   - **Author Ids:** 7006692709;7007111656;6701506640;7005207753;7101858216
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60081911;60081911
+   - **Corresponding:** Guastavino F.
+101.
+   - **Title:** An experimental study about the fire resistance of low voltage cables
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-34249669205
+   - **ISSN:** 01642006
+   - **Volume:** 2007
+   - **Pages:** 174-177
+   - **Authors:** Guastavino F.; Coletti G.; Ratto A.; Torello E.; Michelato P.; Celentano M.; Zucchelli A.
+   - **Source Id:** 17273
+   - **Author Ids:** 7006692709;7007111656;36941984700;6701506640;6603938020;24773229900;56990901500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60115856;;
+   - **Corresponding:** Guastavino F.
+102.
+   - **Title:** Life prediction of XLPE subjected to distorted voltages in presence of bush-like electrical treeing
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/CEIDP.2006.312034
+   - **Scopus ID:** 2-s2.0-50549103907
+   - **ISSN:** 00849162
+   - **Pages:** 724-727
+   - **Authors:** Guastavino F.; Coletti G.; Dardano A.; Ratto A.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;7007111656;24464904600;36941984700;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+103.
+   - **Title:** Electrical tree growth in EVA-layered silicate nanocomposites
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/CEIDP.2006.311927
+   - **Scopus ID:** 2-s2.0-50549095279
+   - **ISSN:** 00849162
+   - **Pages:** 294-297
+   - **Authors:** Guastavino F.; Dardano A.; Montanari G. C.; Deorsola F.; Testa L.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;24464904600;35498452800;6507411337;24470492900
+   - **Authoraffiliationids:** 60025153;60025153;60028218;60012162;60017697
+   - **Corresponding:** Guastavino F.
+104.
+   - **Title:** AC electrical strength measurements on LDPE nanocomposites
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/CEIDP.2006.311936
+   - **Scopus ID:** 2-s2.0-38949098507
+   - **ISSN:** 00849162
+   - **Pages:** 329-332
+   - **Authors:** Guastavino F.; Ratto A.; Torello E.; Hoyos M.; García N.; Reinecke H.; Benito E.; Tiemblo P.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;36941984700;6701506640;23018428300;57219718610;57216805533;24740825500;7004068140
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028902;60028902;60028902;60028902;60028902
+   - **Corresponding:** Guastavino F.
+105.
+   - **Title:** Electrical treeing in EVA-layered silicate nanocomposites
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/CEIDP.2005.1560734
+   - **Scopus ID:** 2-s2.0-33845910911
+   - **ISSN:** 00849162
+   - **Volume:** 2005
+   - **Pages:** 519-522
+   - **Authors:** Guastavino F.; Coletti G.; Dardano A.; Montanari G. C.; Deorsola F.; Di Lorenzo Del Casale M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;7007111656;24464904600;35498452800;6507411337;6603319751
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028218;60012162;60017697
+   - **Corresponding:** Guastavino F.
+106.
+   - **Title:** An experimental study about the surface behaviour, under electrical stress in contaminated wet conditions, of different nanostructured polymers
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/CEIDP.2005.1560650
+   - **Scopus ID:** 2-s2.0-33845883011
+   - **ISSN:** 00849162
+   - **Volume:** 2005
+   - **Pages:** 179-182
+   - **Authors:** Guastavino F.; Dardano A.; Torello E.; Camino G.; Lavaselli M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;24464904600;6701506640;7006382696;15754320800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60012162;60012162
+   - **Corresponding:** Guastavino F.
+107.
+   - **Title:** Risks of damage to electronics with reference to charged clothing
+   - **Venue:** Journal of Electrostatics
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1016/j.elstat.2005.03.023
+   - **Scopus ID:** 2-s2.0-20944443286
+   - **ISSN:** 03043886
+   - **Volume:** 63
+   - **Issue:** 6-10
+   - **Pages:** 603-608
+   - **Authors:** Paasi Jaakko; Fast L.; Kalliohaka T.; Smallwood J.; Börjesson A.; Haase J.; Vogel C.; Lemaire P.; Coletti G.; Guastavino F.; Peltoniemi T.; Reina G.
+   - **Keywords:** Electrostatic discharge | ESD protective clothing | ESD sensitive devices
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 420, percentile 57)
+     - Condensed Matter Physics (Q3, rank 237, percentile 46)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 167, percentile 46)
+     - Surfaces, Coatings and Films (Q3, rank 78, percentile 43)
+     - Biotechnology (Q3, rank 181, percentile 43)
+   - **Source Id:** 18041
+   - **Author Ids:** 56233979000;7003758211;6602919991;55463138200;6701413660;7103007216;7201444445;36900058900;7007111656;7006692709;23985601300;8344305700
+   - **Authoraffiliationids:** 60033191;60079072;60033191;100445556;100825042;60077426;60077426;;60025153;60025153;60026638;101021265
+   - **Corresponding:** Paasi J.
+108.
+   - **Title:** A study about partial discharge measurements performed applying to insulating systems square voltages with different rise times
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/CEIDP.2005.1560709
+   - **Scopus ID:** 2-s2.0-33845912942
+   - **ISSN:** 00849162
+   - **Volume:** 2005
+   - **Pages:** 418-421
+   - **Authors:** Guastavino F.; Coletti G.; Ratto A.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;7007111656;36941984700;6701506640
+   - **Authoraffiliationids:** 60004718-60025153;60004718;60004718;60004718
+   - **Corresponding:** Guastavino F.
+109.
+   - **Title:** Electrical characterization of polymer-layered silicate nanocomposites
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 16
+   - **DOI:** 10.1109/CEIDP.2005.1560649
+   - **Scopus ID:** 2-s2.0-33750909242
+   - **ISSN:** 00849162
+   - **Volume:** 2005
+   - **Pages:** 175-178
+   - **Authors:** Guastavino F.; Dardano A.; Ratto A.; Torello E.; Tiemblo P.; Hoyos M.; Gómez-Elvira J. M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;24464904600;36941984700;6701506640;7004068140;23018428300;6701642152
+   - **Authoraffiliationids:** 60004718-60025153;60004718;60004718;60004718;60028902;60028902;60028902
+   - **Corresponding:** Guastavino F.
+110.
+   - **Title:** Electric strength, space charge and surface discharge characterization of nanostructured epoxy-silicate insulating materials
+   - **Venue:** Proceedings of the International Symposium on Electrical Insulating Materials
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 18
+   - **DOI:** 10.1109/iseim.2005.193376
+   - **Scopus ID:** 2-s2.0-25644443268
+   - **Volume:** 1
+   - **Pages:** 206-209
+   - **Authors:** Montanari G. C.; Ciani F.; Testa L.; Guastavino F.; Coletti G.; Mulhaupt R.
+   - **Source Id:** 86120
+   - **Author Ids:** 35498452800;9737620500;24470492900;7006692709;7007111656;35597328700
+   - **Authoraffiliationids:** 60028218;60028218;60017697;60025153;60025153;60025641
+   - **Corresponding:** Montanari G.C.
+111.
+   - **Title:** Dielectric spectroscopy analysis of EVA-silicate nanocomposite insulating materials
+   - **Venue:** Proceedings of the International Symposium on Electrical Insulating Materials
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/iseim.2005.193389
+   - **Scopus ID:** 2-s2.0-25644435719
+   - **Volume:** 1
+   - **Pages:** 247-250
+   - **Authors:** Montanari G. C.; Motori A.; Saccani A.; Di Lorenzo Del Casale M.; Schifani R.; Testa L.; Guastavino F.; Camino G.
+   - **Source Id:** 86120
+   - **Author Ids:** 35498452800;7004091660;55984872200;6603319751;7004136119;24470492900;7006692709;7006382696
+   - **Authoraffiliationids:** 60028218;60028218;60028218;60017697;60017697;60017697;60025153;60012162
+   - **Corresponding:** Montanari G.C.
+112.
+   - **Title:** Medium term aging characterization of enamelled wires for high frequency applications
+   - **Venue:** IEEE Transactions on Dielectrics and Electrical Insulation
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 27
+   - **DOI:** 10.1109/TDEI.2005.1453457
+   - **Scopus ID:** 2-s2.0-22744457631
+   - **ISSN:** 10709878
+   - **Volume:** 12
+   - **Issue:** 3
+   - **Pages:** 524-529
+   - **Authors:** Guastavino F.; Coletti G.; Torello E.
+   - **Keywords:** Aging | Enameled wires | High frequency | Insulation | Multiple stresses | Partial discharges | Phenomenological model
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 204, percentile 79)
+   - **Source Id:** 17343
+   - **Author Ids:** 7006692709;7007111656;6701506640
+   - **Authoraffiliationids:** 60004718;60004718;60004718
+   - **Corresponding:** Guastavino F.
+113.
+   - **Title:** Life tests on twisted pairs subjected to PWM-like voltages
+   - **Venue:** Proceedings of the 2004 IEEE International Conference on Solid Dielectrics Icsd 2004
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 21
+   - **Scopus ID:** 2-s2.0-10044267810
+   - **Volume:** 2
+   - **Pages:** 860-863
+   - **Authors:** Guastavino F.; Coletti G.; Dardano A.; Torello E.
+   - **Source Id:** 86391
+   - **Author Ids:** 7006692709;7007111656;24464904600;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+114.
+   - **Title:** A measuring procedure to study the charge release capability of ESD composite textiles
+   - **Venue:** Proceedings of the 2004 IEEE International Conference on Solid Dielectrics Icsd 2004
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-10044245051
+   - **Volume:** 2
+   - **Pages:** 578-581
+   - **Authors:** Coletti G.; Guastavino F.; Torello E.
+   - **Source Id:** 86391
+   - **Author Ids:** 7007111656;7006692709;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Coletti G.
+115.
+   - **Title:** Identification of electrical tree growth in insulation systems by Fuzzy logic techniques based on partial discharge acquisition
+   - **Venue:** Proceedings of the 2004 IEEE International Conference on Solid Dielectrics Icsd 2004
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **Scopus ID:** 2-s2.0-10044228520
+   - **Volume:** 2
+   - **Pages:** 661-664
+   - **Authors:** Conti M.; Cavallini A.; Montanari G. C.; Guastavino F.
+   - **Source Id:** 86391
+   - **Author Ids:** 57197870395;35498315700;35498452800;7006692709
+   - **Authoraffiliationids:** 60028218;60028218;60028218;60025153
+   - **Corresponding:** Conti M.
+116.
+   - **Title:** Microscopic and nanoscopic EVA composite investigation: Electrical properties and effect of purification treatment
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 26
+   - **Scopus ID:** 2-s2.0-17744390867
+   - **ISSN:** 00849162
+   - **Pages:** 318-321
+   - **Authors:** Montanari Gian Carlo; Cavallini A.; Guastavino F.; Coletti G.; Schifani R.; Di Lorenzo Del Casale M.; Camino G.; Deorsola F.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 35498452800;35498315700;7006692709;7007111656;7004136119;6603319751;7006382696;6507411337
+   - **Authoraffiliationids:** 60028218;60028218;60025153;60025153;60017697;60017697;60012162;60012162
+   - **Corresponding:** Montanari G.C.
+117.
+   - **Title:** Partial discharges measurements performed on cryogenic joints
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-17744387549
+   - **ISSN:** 00849162
+   - **Pages:** 458-461
+   - **Authors:** Guastavino Francesco; Ferrari P.; Mariani M.; Martini L.; Matrone A.; Ottonello L.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;57050616500;57206531751;7101858216;23005174400;55684260700;6701506640
+   - **Authoraffiliationids:** 60025153;60073836;60073836;60083358;60073836;60073836;60025153
+   - **Corresponding:** Guastavino F.
+118.
+   - **Title:** Some experiments about the triboelectric performances of composite textiles
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-17744376778
+   - **ISSN:** 00849162
+   - **Pages:** 85-88
+   - **Authors:** Guastavino F.; Coletti G.; Dardano A.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;7007111656;24464904600;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+119.
+   - **Title:** Electrical characterization of multi-layered Printed Circuit Boards
+   - **Venue:** Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-17744372568
+   - **ISSN:** 00849162
+   - **Pages:** 588-591
+   - **Authors:** Guastavino Francesco; Centurioni L.; Coletti G.; Ratto A.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;7003826749;7007111656;36941984700;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+120.
+   - **Title:** Electrical treeing inception and growth in XLPE in presence of harmonics
+   - **Venue:** Proceedings of the 2004 IEEE International Conference on Solid Dielectrics Icsd 2004
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **Scopus ID:** 2-s2.0-15844364209
+   - **Volume:** 1
+   - **Pages:** 363-366
+   - **Authors:** Guastavino F.; Centurioni L.; Dardano A.; Torello E.
+   - **Source Id:** 86391
+   - **Author Ids:** 7006692709;7003826749;24464904600;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+121.
+   - **Title:** Electrostatic testing of ESD-protective clothing for electronics industry
+   - **Venue:** Institute of Physics Conference Series
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **Scopus ID:** 2-s2.0-4944256334
+   - **ISSN:** 09513248
+   - **Volume:** 178
+   - **Pages:** 239-246
+   - **Authors:** Paasi J.; Nurmi S.; Kalliohaka T.; Coletti G.; Guastavino F.; Fast L.; Nilsson A.; Lemaire P.; Laperre J.; Vogel C.; Haase J.; Peltoniemi T.; Reina G.; Börjesson A.; Smallwood J.
+   - **Source Id:** 28059
+   - **Author Ids:** 56233979000;6601955112;6602919991;7007111656;7006692709;7003758211;55368768500;36900058900;6604098476;7201444445;7103007216;23985601300;8344305700;6701413660;55463138200
+   - **Authoraffiliationids:** 60033191;60033191;60033191;60025153;60025153;60079072;60079072;;;60077426;60077426;60026638;101021265;100825042;100445556
+   - **Corresponding:** Paasi J.
+122.
+   - **Title:** Partial Discharges Mechanisms under Different Voltage Waveforms
+   - **Venue:** Electrical Insulation Conference and Electrical Manufacturing and Coil Winding Conference and Exhibition
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-1542747978
+   - **Pages:** 353-357
+   - **Authors:** Guastavino F.; Torello E.; Di Lorenzo del Casale M.; Egiziano L.
+   - **Source Id:** 60560
+   - **Author Ids:** 7006692709;6701506640;6603319751;7003775909
+   - **Authoraffiliationids:** 60025153;60025153;60007061;60007061
+   - **Corresponding:** Guastavino F.
+123.
+   - **Title:** A new Approach to Obtain Data About the Charge Decay in Samples of Textiles for ESD Garments
+   - **Venue:** Electrical Insulation Conference and Electrical Manufacturing and Coil Winding Conference and Exhibition
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-1542642601
+   - **Pages:** 481-484
+   - **Authors:** Coletti G.; Guastavino F.; Torello E.
+   - **Source Id:** 60560
+   - **Author Ids:** 7007111656;7006692709;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Coletti G.
+124.
+   - **Title:** Introduction of a Severity Voltage Parameter in a PD Testing Procedure of Enamelled Wire Twisted Pairs
+   - **Venue:** Electrical Insulation Conference and Electrical Manufacturing and Coil Winding Conference and Exhibition
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-1542432929
+   - **Pages:** 359-362
+   - **Authors:** Guastavino F.; Coletti G.; Dardano A.; Torello E.
+   - **Source Id:** 60560
+   - **Author Ids:** 7006692709;7007111656;24464904600;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+125.
+   - **Title:** A comparison between the static performances of two different families of composite dielectric fabrics used in ESD protective clothing
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0242675999
+   - **ISSN:** 00849162
+   - **Pages:** 100-103
+   - **Authors:** Coletti G.; Guastavino Francesco; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7007111656;7006692709;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Coletti G.
+126.
+   - **Title:** PD patterns in CIGRE II cells subjected to PWM voltages
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0242494219
+   - **ISSN:** 00849162
+   - **Pages:** 604-607
+   - **Authors:** Guastavino Francesco; Torello E.; Di Lorenzo del Casale M.; Schifani R.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;6701506640;6603319751;7004136119
+   - **Authoraffiliationids:** 60025153;60025153;60017697;60017697
+   - **Corresponding:** Guastavino F.
+127.
+   - **Title:** Voltage distortion effects on insulation systems behaviour in ASD motors
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-0242578549
+   - **ISSN:** 00849162
+   - **Pages:** 608-611
+   - **Authors:** Guastavino F.; Torello E.; Di Lorenzo del Casale M.; Egiziano L.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;6701506640;6603319751;7003775909
+   - **Authoraffiliationids:** 60004718;60004718;60007061;60007061
+   - **Corresponding:** Guastavino F.
+128.
+   - **Title:** An experimental study about the treeing phenomena in XLPE subjected to distorted voltages
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **Scopus ID:** 2-s2.0-0242410839
+   - **ISSN:** 00849162
+   - **Pages:** 600-603
+   - **Authors:** Guastavino Francesco; Centurioni L.; Coletti G.; Dardano A.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;7003826749;7007111656;24464904600;6701506640
+   - **Authoraffiliationids:** 60025153-60004718;60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+129.
+   - **Title:** Tree growth monitoring by means of digital partial discharge measurements
+   - **Venue:** IEEE Transactions on Dielectrics and Electrical Insulation
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 48
+   - **DOI:** 10.1109/TDEI.2003.1176563
+   - **Scopus ID:** 2-s2.0-0037300807
+   - **ISSN:** 10709878
+   - **Volume:** 10
+   - **Issue:** 1
+   - **Pages:** 65-72
+   - **Authors:** Guastavino F.; Cerutti B.
+   - **Keywords:** Electrical treeing | Ethylvinylacetate | Life prediction | Partial discharges | Polymers | Tree growth | XLPE
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 204, percentile 79)
+   - **Source Id:** 17343
+   - **Author Ids:** 7006692709;6603252996
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Guastavino F.
+130.
+   - **Title:** A new test to characterise low voltage cables subjected to thermal and mechanical stresses
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0036438332
+   - **ISSN:** 00849162
+   - **Pages:** 873-877
+   - **Authors:** Guastavino Francesco; Centurioni L.; Torello E.; Zaopo A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;7003826749;6701506640;6603589494
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60083942
+   - **Corresponding:** Guastavino F.
+131.
+   - **Title:** Twisted pairs specimens subjected to several waveform voltages in presence of partial discharges
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **Scopus ID:** 2-s2.0-0036438312
+   - **ISSN:** 00849162
+   - **Pages:** 450-453
+   - **Authors:** Guastavino Francesco; Coletti G.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;7007111656;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+132.
+   - **Title:** Influence of different square voltage waveforms on the partial discharges behaviour during tests on twisted pair specimens
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 18
+   - **Scopus ID:** 2-s2.0-0036075774
+   - **ISSN:** 01642006
+   - **Pages:** 36-39
+   - **Authors:** Coletti G.; Guastavino F.; Torello E.
+   - **Source Id:** 17273
+   - **Author Ids:** 7007111656;7006692709;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Coletti G.
+133.
+   - **Title:** An investigation about the PD degradation of thin polymer films and its correlation with surface charge decay measurements
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **Scopus ID:** 2-s2.0-0036072820
+   - **ISSN:** 01642006
+   - **Pages:** 371-374
+   - **Authors:** Centurioni L.; Guastavino F.; Torello E.
+   - **Source Id:** 17273
+   - **Author Ids:** 7003826749;7006692709;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Centurioni L.
+134.
+   - **Title:** About surface partial discharges tests on samples of polymer films subjected to several distorted voltages
+   - **Venue:** IEEE International Conference on Conduction and Breakdown in Solid Dielectrics
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0035201917
+   - **Pages:** 324-328
+   - **Authors:** Guastavino F.; Cerutti B.; Torello E.
+   - **Source Id:** 35036
+   - **Author Ids:** 7006692709;6603252996;6701506640
+   - **Authoraffiliationids:** 100501929;100501929;100501929
+   - **Corresponding:** Guastavino F.
+135.
+   - **Title:** About the charge decay properties of pet films aged by means of surface partial discharges
+   - **Venue:** IEEE International Conference on Conduction and Breakdown in Solid Dielectrics
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-0035193604
+   - **Pages:** 175-178
+   - **Authors:** Centurioni L.; Coletti G.; Guastavino F.; Torello E.
+   - **Source Id:** 35036
+   - **Author Ids:** 7003826749;7007111656;7006692709;6701506640
+   - **Authoraffiliationids:** 100501929;100501929;100501929;100501929
+   - **Corresponding:** Centurioni L.
+136.
+   - **Title:** High frequency and high voltage tests on electric motors stator windings
+   - **Venue:** IEEE International Conference on Conduction and Breakdown in Solid Dielectrics
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-0035193345
+   - **Pages:** 268-271
+   - **Authors:** Guastavino F.; Cerutti B.; Bona S.; Colombo C.; Mariani A.
+   - **Source Id:** 35036
+   - **Author Ids:** 7006692709;6603252996;7004182460;57197340823;57225305084
+   - **Authoraffiliationids:** 100501929;100501929;100501929;100501929;100501929
+   - **Corresponding:** Guastavino F.
+137.
+   - **Title:** Charge decay monitoring on polymer films aged by exposure to surface partial discharges
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0035186231
+   - **ISSN:** 00849162
+   - **Pages:** 201-204
+   - **Authors:** Centurioni L.; Guastavino F.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7003826749;7006692709;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Centurioni L.
+138.
+   - **Title:** Enamelled twisted pairs specimens: Quasi-square voltage rise time influence on life-tests values
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1109/CEIDP.2001.963519
+   - **Scopus ID:** 2-s2.0-0035175953
+   - **ISSN:** 00849162
+   - **Pages:** 197-200
+   - **Authors:** Guastavino F.; Coletti G.; Cerutti B.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;7007111656;6603252996
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+139.
+   - **Title:** An experimental study about the weight of the (dv/dt) factor characterizing inverter-like voltages during pre-selection tests on copper enameled wires for adjustable speed drives motors
+   - **Venue:** Proceedings of the IEEE Power Engineering Society Transmission and Distribution Conference
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1109/PESS.2000.867374
+   - **Scopus ID:** 2-s2.0-0038491620
+   - **ISSN:** 21608555
+   - **eISSN:** 21608563
+   - **Volume:** 4
+   - **Pages:** 2446-2448
+   - **Authors:** Guastavino F.; Coletti G.; Cerutti B.; Torello E.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 670, percentile 32)
+   - **Source Id:** 87075
+   - **Author Ids:** 7006692709;7007111656;6603252996;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+140.
+   - **Title:** An experimental optimization of preliminary tests on enameled-copper wires adopted for motor windings of PWM controlled solid state drives
+   - **Venue:** Proceedings of the IEEE Power Engineering Society Transmission and Distribution Conference
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1109/PESS.2000.867375
+   - **Scopus ID:** 2-s2.0-0038153128
+   - **ISSN:** 21608555
+   - **eISSN:** 21608563
+   - **Volume:** 4
+   - **Pages:** 2449-2452
+   - **Authors:** Centurioni L.; Guastavino F.; Cerutti B.; Loffari V.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 670, percentile 32)
+   - **Source Id:** 87075
+   - **Author Ids:** 7003826749;7006692709;6603252996;6504496520
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Centurioni L.
+141.
+   - **Title:** Identification and separation of multiple and concurrent partial discharge phenomena
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1109/CEIDP.2000.884046
+   - **Scopus ID:** 2-s2.0-0034506615
+   - **ISSN:** 00849162
+   - **Volume:** 2
+   - **Pages:** 665-669
+   - **Authors:** Candela R.; Schifani R.; Cerutti B.; Guastavino F.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7004278081;7004136119;6603252996;7006692709
+   - **Authoraffiliationids:** 60017697;60017697;60025153;60025153
+   - **Corresponding:** Candela R.
+142.
+   - **Title:** Study about the influence of the rise-time of quasi-square voltages on the aging by partial discharges of a polymeric film
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0033726574
+   - **ISSN:** 01642006
+   - **Pages:** 21-23
+   - **Authors:** Centurioni L.; Coletti G.; Guastavino F.
+   - **Source Id:** 17273
+   - **Author Ids:** 7003826749;7007111656;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Centurioni L.
+143.
+   - **Title:** Insulation life tests of multiple insulated wire cables in presence of high frequency and high temperature
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1109/ELINSL.2000.845448
+   - **Scopus ID:** 2-s2.0-0033726572
+   - **ISSN:** 01642006
+   - **Pages:** 89-92
+   - **Authors:** Cerutti B.; Coletti G.; Guastavino F.; Gemme C.
+   - **Source Id:** 17273
+   - **Author Ids:** 6603252996;7007111656;7006692709;56227821800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60102057
+   - **Corresponding:** Cerutti B.
+144.
+   - **Title:** Study of extruded power cable insulation anisotropy by means of electrical treeing growth tests
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0033352895
+   - **ISSN:** 00849162
+   - **Volume:** 2
+   - **Pages:** 524-527
+   - **Authors:** Guastavino F.; Torello E.; Lonzar C.; Strignano A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006692709;6701506640;6504325193;6504450892
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Guastavino F.
+145.
+   - **Title:** Characterisation of insulated conductors for high frequency applications
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-0033343210
+   - **ISSN:** 00849162
+   - **Volume:** 2
+   - **Pages:** 573-576
+   - **Authors:** Cerutti B.; Guastavino F.; Castagnini A.; Gemme C.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 6603252996;7006692709;6602386144;56227821800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Cerutti B.
+146.
+   - **Title:** Experimental study to investigate the effects of Partial Discharges (PD), of electric field and of relative humidity during surface PD tests on thin polymer films
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-0033335912
+   - **ISSN:** 00849162
+   - **Volume:** 1
+   - **Pages:** 239-242
+   - **Authors:** Centurioni L.; Coletti G.; Guastavino F.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7003826749;7007111656;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Centurioni L.
+147.
+   - **Title:** Experimental application of digital PD measurements to the diagnostics of railway system drives insulating systems
+   - **Venue:** IEEE International Conference on Conduction Breakdown in Solid Dielectrics
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0032289922
+   - **Pages:** 131-134
+   - **Authors:** Centurioni L.; Coletti G.; Guastavino F.; Colombo A.
+   - **Source Id:** 35036
+   - **Author Ids:** 7003826749;7007111656;7006692709;57197648465
+   - **Authoraffiliationids:** 100501929;100501929;100501929;100501929
+   - **Corresponding:** Centurioni L.
+148.
+   - **Title:** Electrical tree tests: Probabilistic inference and insulating material evaluation
+   - **Venue:** IEEE Transactions on Dielectrics and Electrical Insulation
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 16
+   - **DOI:** 10.1109/94.729696
+   - **Scopus ID:** 2-s2.0-0032181958
+   - **ISSN:** 10709878
+   - **Volume:** 5
+   - **Issue:** 5
+   - **Pages:** 734-740
+   - **Authors:** Bozzo R.; Guastavino F.; Montanari G. C.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 204, percentile 79)
+   - **Source Id:** 17343
+   - **Author Ids:** 7006475772;7006692709;35498452800
+   - **Authoraffiliationids:** 60025153;60025153;60028218
+   - **Corresponding:** Bozzo R.
+149.
+   - **Title:** Aging diagnosis of insulation systems by PD measurements: Extraction of partial discharge features in electrical treeing
+   - **Venue:** IEEE Transactions on Dielectrics and Electrical Insulation
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 45
+   - **DOI:** 10.1109/94.660788
+   - **Scopus ID:** 2-s2.0-0031998112
+   - **ISSN:** 10709878
+   - **Volume:** 5
+   - **Issue:** 1
+   - **Pages:** 118-124
+   - **Authors:** Bozzo R.; Gemme C.; Guastavino F.; Cacciari M.; Contin A.; Montanari G. C.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 204, percentile 79)
+   - **Source Id:** 17343
+   - **Author Ids:** 7006475772;56227821800;7006692709;7006961732;35355608400;35498452800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60004969;60018363;60028218
+   - **Corresponding:** Bozzo R.
+150.
+   - **Title:** Charge decay on polymers subjected to ageing by partial discharges
+   - **Venue:** Polymer International
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1002/(sici)1097-0126(199805)46:1<47::aid-pi984>3.0.co;2-d
+   - **Scopus ID:** 2-s2.0-0032070741
+   - **ISSN:** 09598103
+   - **Volume:** 46
+   - **Issue:** 1
+   - **Pages:** 47-53
+   - **Authors:** Centurioni L.; Guastavino F.; Tiemblo P.; Yang G. M.; Sessler G. M.
+   - **Keywords:** Ageing | Charge decay | Partial discharges | Polymeric films
+   - **Quartile:**
+     2025:
+     - Organic Chemistry (Q1, rank 39, percentile 82)
+     - Polymers and Plastics (Q1, rank 42, percentile 75)
+     - Materials Chemistry (Q1, rank 82, percentile 75)
+   - **Source Id:** 14456
+   - **Author Ids:** 7003826749;7006692709;7004068140;7405753075;7005759119
+   - **Authoraffiliationids:** 60025153;60025153;60028902;60011226;60011226
+   - **Corresponding:** Centurioni L.
+151.
+   - **Title:** Studies about the electrical treeing growth based on the evolution of the PD patterns
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0031621055
+   - **ISSN:** 01642006
+   - **Volume:** 2
+   - **Pages:** 415-419
+   - **Authors:** Bozzo R.; Coletti G.; Guastavino F.
+   - **Source Id:** 17273
+   - **Author Ids:** 7006475772;7007111656;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+152.
+   - **Title:** About the degradation of polymer films due to surface partial discharges at different humidity levels
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-0031617433
+   - **ISSN:** 01642006
+   - **Volume:** 1
+   - **Pages:** 190-193
+   - **Authors:** Centurioni L.; Coletti G.; Guastavino F.; Torello E.
+   - **Source Id:** 17273
+   - **Author Ids:** 7003826749;7007111656;7006692709;6701506640
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Centurioni L.
+153.
+   - **Title:** Effect of humidity on the time to breakdown of polymers subject to partial discharges
+   - **Venue:** Polymer Engineering and Science
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1002/pen.10171
+   - **Scopus ID:** 2-s2.0-0031598981
+   - **ISSN:** 00323888
+   - **Volume:** 38
+   - **Issue:** 1
+   - **Pages:** 119-126
+   - **Authors:** Guastavino F.; Tiemblo P.
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 67, percentile 80)
+     - Chemistry (all) (Q2, rank 128, percentile 68)
+     - Materials Chemistry (Q2, rank 127, percentile 61)
+     - Polymers and Plastics (Q2, rank 66, percentile 61)
+   - **Source Id:** 13695
+   - **Author Ids:** 7006692709;7004068140
+   - **Authoraffiliationids:** 60025153;60028902
+   - **Corresponding:** Guastavino F.
+154.
+   - **Title:** Compression of PD patterns by means of neural networks
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0031383746
+   - **ISSN:** 00849162
+   - **Volume:** 2
+   - **Pages:** 504-507
+   - **Authors:** Bozzo R.; Coletti G.; Gemme C.; Guastavino F.; Sciutto Luca
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006475772;7007111656;56227821800;7006692709;6507924722
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+155.
+   - **Title:** Investigation of aging rate in polymer films subjected to surface discharges under distorted voltage
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **Scopus ID:** 2-s2.0-0031378245
+   - **ISSN:** 00849162
+   - **Volume:** 2
+   - **Pages:** 435-438
+   - **Authors:** Bozzo R.; Gemme C.; Guastavino F.; Montanari G. C.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006475772;56227821800;7006692709;35498452800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+156.
+   - **Title:** Non-conventional characterization of MV measurement transformers solid insulation systems through analyses of digitally acquired PD patterns
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0031353074
+   - **ISSN:** 00849162
+   - **Volume:** 1
+   - **Pages:** 238-240
+   - **Authors:** Bozzo R.; Centurioni L.; Coletti G.; Gemme C.; Guastavino F.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006475772;7003826749;7007111656;56227821800;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+157.
+   - **Title:** Models for life prediction in surface PD on polymer films
+   - **Venue:** IEEE Transactions on Dielectrics and Electrical Insulation
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.1109/94.595246
+   - **Scopus ID:** 2-s2.0-0031121197
+   - **ISSN:** 10709878
+   - **Volume:** 4
+   - **Issue:** 2
+   - **Pages:** 189-196
+   - **Authors:** Guastavino F.; Tiemblo P.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 204, percentile 79)
+   - **Source Id:** 17343
+   - **Author Ids:** 7006692709;7004068140
+   - **Authoraffiliationids:** 60025153;60028902
+   - **Corresponding:** Guastavino F.
+158.
+   - **Title:** Application of design of experiment techniques to measurement procedures. An example of optimisation applied to the digital measurement of partial discharges.
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IMTC.1997.603993
+   - **Scopus ID:** 2-s2.0-0030682286
+   - **ISSN:** 10915281
+   - **Volume:** 1
+   - **Pages:** 470-475
+   - **Authors:** Bozzo R.; Coletti G.; Gemme C.; Guastavino F.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 7006475772;7007111656;56227821800;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+159.
+   - **Title:** Localisation of partial discharge sites on power generator bars by means of ultrasonic measurements
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/IMTC.1997.604034
+   - **Scopus ID:** 2-s2.0-0030648083
+   - **ISSN:** 10915281
+   - **Volume:** 1
+   - **Pages:** 658-663
+   - **Authors:** Bozzo R.; Gemme C.; Guastavino F.; Guerra G.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 7006475772;56227821800;7006692709;7103294872
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60102057
+   - **Corresponding:** Bozzo R.
+160.
+   - **Title:** Design Of Experiments (DOE) procedures for the optimization of a digital partial discharge measurement system
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0030407105
+   - **ISSN:** 00849162
+   - **Volume:** 1
+   - **Pages:** 64-68
+   - **Authors:** Bozzo R.; Coletti G.; Gemme C.; Guastavino F.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006475772;7007111656;56227821800;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+161.
+   - **Title:** Dependence of fingerprints relevant to PDs on degradation time and test voltage
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0030403910
+   - **ISSN:** 00849162
+   - **Volume:** 2
+   - **Pages:** 500-503
+   - **Authors:** Bozzo R.; Gemme C.; Guastavino F.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006475772;56227821800;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+162.
+   - **Title:** Lifetime dependence on relative humidity of polymers subjected to PD aging
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-0030403896
+   - **ISSN:** 00849162
+   - **Volume:** 2
+   - **Pages:** 838-841
+   - **Authors:** Bozzo R.; Gemme C.; Guastavino F.; Tiemblo P.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006475772;56227821800;7006692709;7004068140
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+163.
+   - **Title:** Analysis of the probability distributions of charge in electrical trees generated by needle tests
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-0030385489
+   - **ISSN:** 00849162
+   - **Volume:** 2
+   - **Pages:** 770-772
+   - **Authors:** Bozzo R.; Contin A.; Gemme C.; Guastavino F.; Montanari G. C.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006475772;35355608400;56227821800;7006692709;35498452800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+164.
+   - **Title:** Measuring the degradation level of polymer films subjected to partial discharges
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0029716765
+   - **ISSN:** 01642006
+   - **Volume:** 2
+   - **Pages:** 509-512
+   - **Authors:** Bozzo R.; Gemme C.; Guastavino F.; Tiemblo P.
+   - **Source Id:** 17273
+   - **Author Ids:** 7006475772;56227821800;7006692709;7004068140
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+165.
+   - **Title:** Diagnostic by means of neural networks having inputs derived from the statistical analysis of PD patterns
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-0029699596
+   - **ISSN:** 01642006
+   - **Volume:** 1
+   - **Pages:** 389-392
+   - **Authors:** Bozzo R.; Gemme C.; Guastavino F.; Sciutto L.
+   - **Source Id:** 17273
+   - **Author Ids:** 7006475772;56227821800;7006692709;6507924722
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+166.
+   - **Title:** Study of surface partial discharge patterns relevant to the endurance of polymer films by means of a neural network
+   - **Venue:** IEEE International Conference on Conduction Breakdown in Solid Dielectrics
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0029540438
+   - **Pages:** 334-338
+   - **Authors:** Centurioni L.; Bozzo R.; Gemme C.; Guastavino F.
+   - **Source Id:** 21100512342
+   - **Author Ids:** 7003826749;7006475772;56227821800;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Centurioni L.
+167.
+   - **Title:** Influence of digital measurement system characteristics on PD patterns
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-0029518052
+   - **ISSN:** 00849162
+   - **Pages:** 347-352
+   - **Authors:** Bozzo R.; Gemme C.; Guastavino F.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006475772;56227821800;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+168.
+   - **Title:** Effects of temperature on the tree growth phenomena and relevant PD
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **Scopus ID:** 2-s2.0-0029518046
+   - **ISSN:** 00849162
+   - **Pages:** 69-72
+   - **Authors:** Bozzo R.; Gemme C.; Guastavino F.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006475772;56227821800;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+169.
+   - **Title:** Water absorption effects on prebreakdown phenomena under divergent electrical field conditions
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0029516926
+   - **ISSN:** 00849162
+   - **Pages:** 65-68
+   - **Authors:** Bozzo R.; Gemme C.; Guastavino F.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006475772;56227821800;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+170.
+   - **Title:** Stochastic analysis of partial discharge patterns deriving from electrical tree measurements
+   - **Venue:** IEEE International Conference on Conduction Breakdown in Solid Dielectrics
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-0029512355
+   - **Pages:** 381-385
+   - **Authors:** Bozzo R.; Contin A.; Cacciari M.; Guastavino F.; Gemme C.; Montanari G. C.
+   - **Source Id:** 21100512342
+   - **Author Ids:** 7006475772;35355608400;7006961732;7006692709;56227821800;35498452800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+171.
+   - **Title:** PD Detection and Localization by means of Acoustic Measurements on Hydogenerator Stator Bars
+   - **Venue:** IEEE Transactions on Dielectrics and Electrical Insulation
+   - **Year:** 1995
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 24
+   - **DOI:** 10.1109/94.407030
+   - **Scopus ID:** 2-s2.0-0029356716
+   - **ISSN:** 10709878
+   - **Volume:** 2
+   - **Issue:** 4
+   - **Pages:** 660-666
+   - **Authors:** Bozzo R.; Guastavino F.; Guerra G.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 204, percentile 79)
+   - **Source Id:** 17343
+   - **Author Ids:** 7006475772;7006692709;7103294872
+   - **Authoraffiliationids:** 60025153;60025153;60102057
+   - **Corresponding:** Bozzo R.
+172.
+   - **Title:** Application of probability distribution to the measurements of partial discharges deriving from tree-growth tests
+   - **Venue:** Conference on Electrical Insulation and Dielectric Phenomena CEIDP Annual Report
+   - **Year:** 1994
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0028734124
+   - **ISSN:** 00849162
+   - **Pages:** 112-117
+   - **Authors:** Bozzo R.; Contin A.; Guastavino F.; Montanari G. C.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 691, percentile 30)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 238, percentile 23)
+   - **Source Id:** 18789
+   - **Author Ids:** 7006475772;35355608400;7006692709;35498452800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+173.
+   - **Title:** Validation of a simulation model for the calculation of polarization currents in polypropylene films
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 1994
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0028576325
+   - **ISSN:** 01642006
+   - **Pages:** 356-359
+   - **Authors:** Albertini M.; Albini A.; Esposti G. F.Degli; Guastavino F.
+   - **Source Id:** 17273
+   - **Author Ids:** 59628581100;35587483800;6602167952;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Albertini M.
+174.
+   - **Title:** Frequency acceleration of surface partial discharge tests on thin polymer films
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 1994
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0028574675
+   - **ISSN:** 01642006
+   - **Pages:** 352-355
+   - **Authors:** Albertini M.; Coletti G.; Gemme C.; Guastavino F.
+   - **Source Id:** 17273
+   - **Author Ids:** 59628581100;7007111656;56227821800;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Albertini M.
+175.
+   - **Title:** Stochastic procedures for the investigation of tree growth in insulating materials for H.V. applications
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 1994
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **Scopus ID:** 2-s2.0-0028557836
+   - **ISSN:** 01642006
+   - **Pages:** 269-272
+   - **Authors:** Bozzo R.; Guastavino F.; Cacciari M.; Contin A.; Montanari G. C.
+   - **Source Id:** 17273
+   - **Author Ids:** 7006475772;7006692709;7006961732;35355608400;35498452800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+176.
+   - **Title:** Measuring the Endurance of Films in Partial Discharges
+   - **Venue:** IEEE Transactions on Electrical Insulation
+   - **Year:** 1993
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 19
+   - **DOI:** 10.1109/14.249378
+   - **Scopus ID:** 2-s2.0-0027809842
+   - **ISSN:** 00189367
+   - **Volume:** 28
+   - **Issue:** 6
+   - **Pages:** 1050-1056
+   - **Authors:** Bozzo R.; Centurioni L.; Guastavino F.
+   - **Source Id:** 34833
+   - **Author Ids:** 7006475772;7003826749;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+177.
+   - **Title:** Surface discharge resistance testing of dielectrics
+   - **Venue:** Proceedings of the 4th International Conference on Conduction and Breakdown in Solid Dielectrics Icsd 1992
+   - **Year:** 1992
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICSD.1992.224983
+   - **Scopus ID:** 2-s2.0-85030235834
+   - **Pages:** 160-165
+   - **Authors:** Coletti G.; Fruth B.; Guastavino F.; Guerra G.
+   - **Source Id:** 21100910905
+   - **Author Ids:** 7007111656;57209222052;7006692709;7103294872
+   - **Authoraffiliationids:** 60025153;100801485;60025153;60102057
+   - **Corresponding:** Coletti G.
+178.
+   - **Title:** Breakdown phenomena in power integrated packages
+   - **Venue:** Proceedings of the 4th International Conference on Conduction and Breakdown in Solid Dielectrics Icsd 1992
+   - **Year:** 1992
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICSD.1992.225017
+   - **Scopus ID:** 2-s2.0-84941868654
+   - **Pages:** 492-497
+   - **Authors:** Albertini M.; Bozzo R.; Guastavino F.
+   - **Source Id:** 21100910905
+   - **Author Ids:** 59628581100;7006475772;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Albertini M.
+179.
+   - **Title:** Evaluation of insulating materials on the basis of electrical treeing and breakdown tests
+   - **Venue:** Proceedings of the 4th International Conference on Conduction and Breakdown in Solid Dielectrics Icsd 1992
+   - **Year:** 1992
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ICSD.1992.225024
+   - **Scopus ID:** 2-s2.0-84936786134
+   - **Pages:** 539-544
+   - **Authors:** Bozzo R.; Guastavino F.; Montanari G. C.
+   - **Source Id:** 21100910905
+   - **Author Ids:** 7006475772;7006692709;35498452800
+   - **Authoraffiliationids:** 60025153;60025153;60028218
+   - **Corresponding:** Bozzo R.
+180.
+   - **Title:** Optimisation of partial discharge testing techniques
+   - **Venue:** Proceedings of the 4th International Conference on Conduction and Breakdown in Solid Dielectrics Icsd 1992
+   - **Year:** 1992
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICSD.1992.224987
+   - **Scopus ID:** 2-s2.0-11744380434
+   - **Pages:** 193-199
+   - **Authors:** Guastavino F.; Guerra G.
+   - **Source Id:** 21100910905
+   - **Author Ids:** 7006692709;7103294872
+   - **Authoraffiliationids:** 60025153;60102057
+   - **Corresponding:** Guastavino F.
+181.
+   - **Title:** Evaluation of surface behaviour of insulating materials in presence of decomposed SF6
+   - **Venue:** undefined
+   - **Year:** 1989
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0024900775
+   - **Pages:** 336-341
+   - **Authors:** Centurioni L.; Coletti G.; Guastavino F.; Tommasini D.
+   - **Source Id:** 4500151809
+   - **Author Ids:** 7003826749;7007111656;7006692709;6603915928
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Centurioni L.
+182.
+   - **Title:** Model of the electrical breakdown process due to electrical treeing growth
+   - **Venue:** undefined
+   - **Year:** 1989
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0024886179
+   - **Pages:** 412-416
+   - **Authors:** Bozzo R.; Guastavino F.; Tommasini D.
+   - **Source Id:** 4500151809
+   - **Author Ids:** 7006475772;7006692709;6603915928
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+183.
+   - **Title:** Charging phenomena in polypropylene films
+   - **Venue:** undefined
+   - **Year:** 1989
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0024886168
+   - **Pages:** 148-152
+   - **Authors:** Albini A.; Degli Esposti G.; Guastavino F.; Tommasini D.
+   - **Source Id:** 4500151809
+   - **Author Ids:** 35587483800;6602675247;7006692709;6603915928
+   - **Authoraffiliationids:** 60015197;60015197;60015197;60015197
+   - **Corresponding:** Albini A.

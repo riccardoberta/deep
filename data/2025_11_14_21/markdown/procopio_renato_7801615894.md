@@ -1,0 +1,4916 @@
+# Procopio Renato
+
+## Overview
+- **Unit:** ELE
+- **Role:** Professore ordinario
+- **Grade:** Prof.Ordinario Legge 240/10 - t.pieno - classe 0
+- **SSD:** IIND-08/B (Sistemi elettrici per l'energia)
+- **Scopus ID:** 7801615894
+- **UNIGE ID:** 700365
+- **Retrieved at:** 2025-11-14T15:15:48.577624
+
+## Contact
+- **Email:** renato.procopio@unige.it
+- **Phone:** +39 010 33 52721
+- **Page:** https://rubrica.unige.it/personale/UkNHWFxs
+- **Locations:** Campus di Savona - palazzina Delfino (ED_171000105), piano Terra, US_171000105.T.016
+
+## Career
+- RU, 2012-05-01 → 2015-03-08
+- PA, 2015-03-09 → 2024-10-31
+- PO, 2024-11-01 → 2222-02-02
+
+## Responsibilities
+- **Title:** Delegato del Rettore
+  - **Unit:** Università Degli Studi Di Genova
+  - **Period:** 2025-11-01 → 2026-10-31
+
+## Teaching
+### 2025
+- Sistemi Elettrici Industriali (86832), Lm-28 - Ingegneria Elettrica
+- Componenti E Sistemi Per La Produzione Elettrica (66320), L-9 - Ingegneria Dell'Energia
+- Power Systems Modelling And Control (65887), Lm-30 R - Energy Engineering
+- Electromagnetic Power System Transients (118102), Lm-28 - Electrical Engineering For Energy Transition
+
+### 2024
+- Sistemi Elettrici Industriali (86832), Lm-28 - Ingegneria Elettrica
+- Sistemi Elettrici Industriali (86832), Lm-28 - Ingegneria Elettrica
+- Power Systems Modelling And Control (65887), Lm-30 - Energy Engineering
+- Componenti E Sistemi Per La Produzione Elettrica (66320), L-9 - Ingegneria Dell'Energia
+
+### 2023
+- Sistemi Elettrici Industriali (86832), Lm-28 - Ingegneria Elettrica
+- Power Systems Modelling And Control (65887), Lm-30 - Energy Engineering
+- Componenti E Sistemi Per La Produzione Elettrica (66320), L-9 - Ingegneria Meccanica - Energia E Produzione
+
+### 2022
+- Sistemi Elettrici Industriali (86832), Lm-28 - Ingegneria Elettrica
+- Power Systems Modelling And Control (65887), Lm-30 - Energy Engineering
+- Componenti E Sistemi Per La Produzione Elettrica (66320), L-9 - Ingegneria Meccanica - Energia E Produzione
+
+### 2021
+- Sistemi Elettrici Industriali (86832), Lm-28 - Ingegneria Elettrica
+- Power Systems Modelling And Control (65887), Lm-30 - Energy Engineering
+- Componenti E Sistemi Per La Produzione Elettrica (66320), L-9 - Ingegneria Meccanica - Energia E Produzione
+- Cooperazione Allo Sviluppo (108849), Corsi Di Ateneo
+
+### 2020
+- Sistemi Elettrici Industriali (86832), Lm-28 - Ingegneria Elettrica
+- Power Systems Modelling And Control (65887), Lm-30 - Energy Engineering
+- Componenti E Sistemi Per La Produzione Elettrica (66320), L-9 - Ingegneria Meccanica - Energia E Produzione
+
+## Scopus Metrics
+- absolute; Docs: 227; Journals: 113; Conferences: 113; Citations: 3266; H-index: 33
+- 15 years (2010-2025); Docs: 190; Journals: 95; Conferences: 94; Citations: 2621; H-index: 31
+- 10 years (2015-2025); Docs: 154; Journals: 81; Conferences: 73; Citations: 1881; H-index: 24
+- 05 years (2020-2025); Docs: 97; Journals: 53; Conferences: 44; Citations: 730; H-index: 15
+
+## Scopus Products
+1.
+   - **Title:** Effects of fly ash pollution on urban photovoltaic microgrid operation
+   - **Venue:** Renewable Energy
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1016/j.renene.2025.123649
+   - **Scopus ID:** 2-s2.0-105007529304
+   - **ISSN:** 09601481
+   - **eISSN:** 18790682
+   - **Volume:** 253
+   - **Authors:** Radonjić Ivana; Petronijević Milutin P.; Dimitrijević Marko A.; Minetti Manuela; Procopio Renato
+   - **Keywords:** Grid-forming inverter | Hybrid microgrid | PV module | Soiling | Urban photovoltaics
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 9, percentile 97)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 31, percentile 90)
+   - **Source Id:** 27569
+   - **Author Ids:** 55197295400;14422928500;44260946400;57210474295;7801615894
+   - **Authoraffiliationids:** 60068806;60068806;60068806;60025153;60025153
+   - **Corresponding:** Radonjić I.
+2.
+   - **Title:** A Classification Algorithm for Revenue Range Estimation in Ancillary Service Markets
+   - **Venue:** Energies
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3390/en18195263
+   - **Scopus ID:** 2-s2.0-105019199697
+   - **eISSN:** 19961073
+   - **Volume:** 18
+   - **Issue:** 19
+   - **Authors:** La Fata Alice; Caprara Giulio; Barilli Riccardo; Procopio Renato
+   - **Keywords:** ancillary service market | bidding strategy | pattern recognition
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 60145491200;57218844168;57889358800;7801615894
+   - **Authoraffiliationids:** 60025153;133281163;133281163;60025153
+   - **Corresponding:** La Fata A.
+3.
+   - **Title:** Analytical load flow solution for radial distribution networks
+   - **Venue:** Sustainable Energy Grids and Networks
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1016/j.segan.2025.101871
+   - **Scopus ID:** 2-s2.0-105012395346
+   - **eISSN:** 23524677
+   - **Volume:** 43
+   - **Authors:** Minetti Manuela; Procopio Renato; Bonfiglio Andrea
+   - **Keywords:** Analytical load flow | Load flow analysis | Radial power distribution networks | Voltage drop formula
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 131, percentile 86)
+     - Control and Systems Engineering (Q1, rank 52, percentile 86)
+     - Energy Engineering and Power Technology (Q1, rank 63, percentile 80)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 71)
+   - **Source Id:** 21100371258
+   - **Author Ids:** 57210474295;7801615894;36607521000
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Minetti M.
+4.
+   - **Title:** The Impact of Energy Communities Virtual Islanding on the Integration of Renewables in Distribution Power Systems
+   - **Venue:** Energies
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3390/en18154084
+   - **Scopus ID:** 2-s2.0-105013092575
+   - **eISSN:** 19961073
+   - **Volume:** 18
+   - **Issue:** 15
+   - **Authors:** Bonfiglio Andrea; Bruno Sergio; La Fata Alice; Martino Maria; Procopio Renato; Velini Angelo
+   - **Keywords:** distribution system operation | energy transition | grid services | renewable energy communities | Virtual Islanding
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 36607521000;7101968133;57434749400;59210049100;7801615894;59210230800
+   - **Authoraffiliationids:** 60025153;60027299;60025153;60025153;60025153;60027299
+   - **Corresponding:** Bonfiglio A.
+5.
+   - **Title:** Optimal inertia allocation in future transmission networks: A case study on the Italian grid
+   - **Venue:** Sustainable Energy Grids and Networks
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1016/j.segan.2025.101676
+   - **Scopus ID:** 2-s2.0-86000324666
+   - **eISSN:** 23524677
+   - **Volume:** 42
+   - **Authors:** Minetti Manuela; Fresia Matteo; Procopio Renato; Bonfiglio Andrea; Denegri Gio Battista; Lisciandrello Giuseppe; Orrù Luca
+   - **Keywords:** Grid Flexibilization | System Inertia | Transmission System
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 131, percentile 86)
+     - Control and Systems Engineering (Q1, rank 52, percentile 86)
+     - Energy Engineering and Power Technology (Q1, rank 63, percentile 80)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 71)
+   - **Source Id:** 21100371258
+   - **Author Ids:** 57210474295;57224008583;7801615894;36607521000;7004649825;57219972273;57220190197
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60122257;60122257
+   - **Corresponding:** Minetti M.
+6.
+   - **Title:** Renewable energy communities virtual islanding: A decentralized service to improve distribution grid security
+   - **Venue:** Sustainable Energy Grids and Networks
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1016/j.segan.2025.101700
+   - **Scopus ID:** 2-s2.0-105001489606
+   - **eISSN:** 23524677
+   - **Volume:** 42
+   - **Authors:** Velini Angelo; Minetti Manuela; Bruno Sergio; Bonfiglio Andrea; Procopio Renato; La Scala Massimo
+   - **Keywords:** Distribution system operation | Energy transition | Grid services | Renewable energy communities | Virtual islanding
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 131, percentile 86)
+     - Control and Systems Engineering (Q1, rank 52, percentile 86)
+     - Energy Engineering and Power Technology (Q1, rank 63, percentile 80)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 71)
+   - **Source Id:** 21100371258
+   - **Author Ids:** 59210230800;57210474295;7101968133;36607521000;7801615894;56962766200
+   - **Authoraffiliationids:** 60027299;60025153;60027299;60025153;60025153;60027299
+   - **Corresponding:** Velini A.
+7.
+   - **Title:** Preliminary Breakdown Pulses (PBP): A review on available data and models
+   - **Venue:** Electric Power Systems Research
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 2
+   - **DOI:** 10.1016/j.epsr.2025.111463
+   - **Scopus ID:** 2-s2.0-85216258800
+   - **ISSN:** 03787796
+   - **Volume:** 242
+   - **Authors:** Sekehravani Ehsan Akbari; Dodge Shayan; Barmada Sami; Brignone Massimo; Formisano Alessandro; Mestriner Daniele; Nicora Martino; Procopio Renato
+   - **Keywords:** Data | Lightning | Modeling | Preliminary Breakdown Pulses (PBP) | Return Stroke (RS)
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+     - Energy Engineering and Power Technology (Q1, rank 60, percentile 81)
+   - **Source Id:** 16044
+   - **Author Ids:** 57216979388;59426639600;7004111796;8580886100;7003786952;57115575100;57210463204;7801615894
+   - **Authoraffiliationids:** 60026777;60028868;60028868;60025153;60026777;60025153;60025153;60025153
+   - **Corresponding:** Sekehravani E.A.
+8.
+   - **Title:** A deep learning based lightning location system
+   - **Venue:** Electric Power Systems Research
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1016/j.epsr.2025.111437
+   - **Scopus ID:** 2-s2.0-85216083263
+   - **ISSN:** 03787796
+   - **Volume:** 242
+   - **Authors:** Dodge Shayan; Nicora Martino; Barmada Sami; Brignone Massimo; Procopio Renato; Tucci Mauro
+   - **Keywords:** Artificial neural networks | Deep learning | Lightning current measurement | Lightning location | Lightning-induced voltage | Transmission lines
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+     - Energy Engineering and Power Technology (Q1, rank 60, percentile 81)
+   - **Source Id:** 16044
+   - **Author Ids:** 59426639600;57210463204;7004111796;8580886100;7801615894;15844640300
+   - **Authoraffiliationids:** 60028868;60025153;60028868;60025153;60025153;60028868
+   - **Corresponding:** Dodge S.
+9.
+   - **Title:** Soil water content and porosity impact on distribution lines lightning outage rate
+   - **Venue:** Electrical Engineering
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1007/s00202-024-02870-2
+   - **Scopus ID:** 2-s2.0-85211431164
+   - **ISSN:** 09487921
+   - **eISSN:** 14320487
+   - **Volume:** 107
+   - **Issue:** 5
+   - **Pages:** 6423-6433
+   - **Authors:** Colqui Jaimis S.L.; Mestriner Daniele; Moura Rodolfo A.R.; Schroeder Marco Aurélio O.; Procopio Renato; Pissolato Filho José
+   - **Keywords:** Distribution lines | Grounding modeling | Induced voltages | Lightning outage rate | Soil porosity | Soil water content | Surge arrester
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 136, percentile 79)
+     - Electrical and Electronic Engineering (Q2, rank 351, percentile 64)
+   - **Source Id:** 16065
+   - **Author Ids:** 57211901417;57115575100;56045547600;15064585600;7801615894;57212237824
+   - **Authoraffiliationids:** 60029570;60025153;60028351;60028351;60025153;60029570
+   - **Corresponding:** Colqui J.S.L.
+10.
+   - **Title:** A Gaussian Process Regression Method to Nowcast Cloud-To-Ground Lightning from Remote Sensing and Numerical Weather Modeling Data
+   - **Venue:** IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1109/JSTARS.2024.3501976
+   - **Scopus ID:** 2-s2.0-86000377434
+   - **ISSN:** 19391404
+   - **eISSN:** 21511535
+   - **Volume:** 18
+   - **Pages:** 1963-1981
+   - **Authors:** La Fata Alice; Moser Gabriele; Procopio Renato; Bernardi Marina; Fiori Elisabetta
+   - **Keywords:** Gaussian process regression | Lightning | nowcasting | numerical weather prediction | satellite infrared imagery | satellite precipitation radar
+   - **Quartile:**
+     2025:
+     - Atmospheric Science (Q1, rank 19, percentile 87)
+     - Computers in Earth Sciences (Q1, rank 11, percentile 86)
+   - **Source Id:** 17700155033
+   - **Author Ids:** 57434749400;7101795745;7801615894;56269310700;35229110700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60083358;60081917
+   - **Corresponding:** La Fata A.
+11.
+   - **Title:** Exploring the role of Energy Communities: A Comprehensive Review
+   - **Venue:** Energy Conversion and Management X
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 3
+   - **DOI:** 10.1016/j.ecmx.2025.100883
+   - **Scopus ID:** 2-s2.0-85215245402
+   - **eISSN:** 25901745
+   - **Volume:** 25
+   - **Authors:** Amin M. Asim; Procopio Renato; Invernizzi Marco; Bonfiglio Andrea; Jia Youwei
+   - **Keywords:** Energy community | Energy decentralization | Machine learning | Microgrids | Renewable energy
+   - **Quartile:**
+     2025:
+     - Nuclear Energy and Engineering (Q1, rank 6, percentile 93)
+     - Energy Engineering and Power Technology (Q1, rank 41, percentile 87)
+     - Fuel Technology (Q1, rank 27, percentile 80)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 66, percentile 78)
+   - **Source Id:** 21100896269
+   - **Author Ids:** 57201246575;7801615894;6701527755;36607521000;55511359100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60105683
+   - **Corresponding:** Amin M.A.
+12.
+   - **Title:** Impact of Inverter-Based Resources on Inertia Provision and RoCoF Limitation
+   - **Venue:** 2025 IEEE Kiel Powertech Powertech 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/PowerTech59965.2025.11180735
+   - **Scopus ID:** 2-s2.0-105019295943
+   - **Authors:** Fresia Matteo; Bonfiglio Andrea; Procopio Renato; Lisciandrello Giuseppe; Orrù Luca; Pisani Cosimo
+   - **Keywords:** Frequency support | Inverter-Based sources | Renewable energy sources | RoCoF | Synthetic inertia
+   - **Source Id:** 21101341419
+   - **Author Ids:** 57224008583;36607521000;7801615894;57219972273;57220190197;55370719100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60122257;60122257;60122257
+   - **Corresponding:** Fresia M.
+13.
+   - **Title:** A Survey of Measurements and Analyses of Preliminary Breakdown Pulses in Lightning Flashes
+   - **Venue:** Conference Proceedings 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EEEIC/ICPSEurope64998.2025.11169198
+   - **Scopus ID:** 2-s2.0-105019062078
+   - **Authors:** Barmada Sami; Bonfiglio Andrea; Brignone Massimo; Dodge Shayan; Formisano Alessandro; Procopio Renato; Sekehravani Ehsan Akbari
+   - **Keywords:** Data Analysis | Lightning | Lightning Measurments | Preliminary Breakdown Pulses | Return Stroke
+   - **Source Id:** 21101340466
+   - **Author Ids:** 7004111796;36607521000;8580886100;59426639600;7003786952;7801615894;57216979388
+   - **Authoraffiliationids:** 60028868;60025153;60025153;60028868;60026777;60025153;60001111
+   - **Corresponding:** Barmada S.
+14.
+   - **Title:** Inverter-Based Nanogrid Design with Integration of Primary, Secondary and Tertiary Controls - A Case Study
+   - **Venue:** Conference Proceedings 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EEEIC/ICPSEurope64998.2025.11168988
+   - **Scopus ID:** 2-s2.0-105019046195
+   - **Authors:** Fresia Matteo; Procopio Renato; Urazbayeva Anelya
+   - **Keywords:** Battery Energy Storage Systems | Hierarchical control | Mixed Integer Quadratically Constrained Programming | Nanogrids
+   - **Source Id:** 21101340466
+   - **Author Ids:** 57224008583;7801615894;60145442600
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Fresia M.
+15.
+   - **Title:** A Microgrid Test-Bed Architecture for Integrated Energy Systems Experimental Testing
+   - **Venue:** Conference Proceedings 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EEEIC/ICPSEurope64998.2025.11169197
+   - **Scopus ID:** 2-s2.0-105019039902
+   - **Authors:** Bonfiglio Andrea; Bracco Stefano; Procopio Renato; Robba Michela; Rossi Mansueto
+   - **Keywords:** advanced control strategies | energy management systems | laboratory prototype | Microgrid
+   - **Source Id:** 21101340466
+   - **Author Ids:** 36607521000;15049159900;7801615894;7004979187;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+16.
+   - **Title:** An Efficient Power Dispatching Strategy to Cope with Renewable Energy Sources Uncertainties
+   - **Venue:** Conference Proceedings 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EEEIC/ICPSEurope64998.2025.11169234
+   - **Scopus ID:** 2-s2.0-105019038019
+   - **Authors:** Fata Alice La; Amin M. Asim; Brignone Massimo; Invernizzi Marco; Bonfiglio Andrea; Procopio Renato
+   - **Keywords:** Energy Management System | Photovoltaic Forecasting | Receding Horizon Procedure | Recurrent Neural Network
+   - **Source Id:** 21101340466
+   - **Author Ids:** 57434749400;57201246575;8580886100;6701527755;36607521000;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Fata A.L.
+17.
+   - **Title:** Relating transmission line overvoltages and lightning location: a machine learning–based procedure
+   - **Venue:** COMPEL the International Journal for Computation and Mathematics in Electrical and Electronic Engineering
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1108/COMPEL-12-2024-0521
+   - **Scopus ID:** 2-s2.0-105017492972
+   - **ISSN:** 03321649
+   - **Authors:** Barmada Sami; Dodge Shayan; Brignone Massimo; Nicora Martino; Procopio Renato
+   - **Keywords:** Lightning location | Lightning-induced voltage | Machine learning | Transmission lines
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 262, percentile 61)
+     - Computational Theory and Mathematics (Q2, rank 93, percentile 54)
+     - Electrical and Electronic Engineering (Q2, rank 486, percentile 51)
+     - Computer Science Applications (Q3, rank 541, percentile 44)
+   - **Source Id:** 28454
+   - **Author Ids:** 7004111796;59426639600;8580886100;57210463204;7801615894
+   - **Authoraffiliationids:** 60028868;60028868;60025153;60025153;60025153
+   - **Corresponding:** Barmada S.
+18.
+   - **Title:** A Method to Include the Effects of Tortuosity in the Electromagnetic Field Expressions produced by Vertical Lightning Channels
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/TAP.2025.3605025
+   - **Scopus ID:** 2-s2.0-105015729629
+   - **ISSN:** 0018926X
+   - **eISSN:** 15582221
+   - **Authors:** Mestriner Daniele; Aramini Riccardo; Brignone Massimo; Nicora Martino; Procopio Renato; Randazzo Andrea
+   - **Keywords:** Electromagnetic fields | Lightning | Numerical models | Regularization
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+   - **Source Id:** 17337
+   - **Author Ids:** 57115575100;15759187700;8580886100;57210463204;7801615894;7006280562
+   - **Corresponding:** Mestriner D.
+19.
+   - **Title:** Cost Optimization Incorporating Photovoltaic Power Forecasts Using Neural Networks in an Energy Management System
+   - **Venue:** IEEE Conference on Technologies for Sustainability Sustech
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/SusTech63138.2025.11025673
+   - **Scopus ID:** 2-s2.0-105013073009
+   - **ISSN:** 26406829
+   - **eISSN:** 26406810
+   - **Issue:** 2025
+   - **Authors:** Amin M. Asim; La Fata Alice; Brignone Massimo; Invernizzi Marco; Procopio Renato; Petronijevic Milutin; Mitic Ivana Radonjic
+   - **Keywords:** Energy Management System | Photovoltaic Forecasting | Receding Horizon Procedure | Recurrent Neural Network
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q4, rank 169, percentile 4)
+     - Energy Engineering and Power Technology (Q4, rank 315, percentile 3)
+     - Renewable Energy, Sustainability and the Environment (Q4, rank 308, percentile 1)
+   - **Source Id:** 21101320220
+   - **Author Ids:** 57201246575;57434749400;8580886100;6701527755;7801615894;14422928500;57208649613
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60068806;60068806
+   - **Corresponding:** Amin M.A.
+20.
+   - **Title:** Assessment of the Impact of HVDC Links on Frequency Containment Capacity in a Portion of the Italian Transmission Network
+   - **Venue:** 2025 Aeit Hvdc International Conference Aeit Hvdc 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/AEITHVDC66044.2025.11079478
+   - **Scopus ID:** 2-s2.0-105012574256
+   - **Authors:** Bonfiglio Andrea; Fresia Matteo; Giannuzzi Giorgio Maria; Invernizzi Marco; Lisciandrello Giuseppe; Orrù Luca; Pisani Cosimo; Procopio Renato; Rinzo Giovanni
+   - **Keywords:** Frequency Containment | HVDC | Inverter-based Resources | Primary Frequency Regulation | Primary Regulating Energy
+   - **Source Id:** 21101318126
+   - **Author Ids:** 36607521000;57224008583;25936117900;6701527755;57219972273;57220190197;55370719100;7801615894;57201200193
+   - **Authoraffiliationids:** 60025153;60025153;60122257;60025153;60122257;60122257;60122257;60025153;60122257
+   - **Corresponding:** Bonfiglio A.
+21.
+   - **Title:** A New Efficient Approach to Estimate Overhead Distribution Lines Lightning Performance
+   - **Venue:** IEEE Transactions on Power Delivery
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/TPWRD.2025.3584383
+   - **Scopus ID:** 2-s2.0-105010141909
+   - **ISSN:** 08858977
+   - **eISSN:** 19374208
+   - **Volume:** 40
+   - **Issue:** 4
+   - **Pages:** 1802-1810
+   - **Authors:** Coelho Alex J.C.; Mestriner Daniele; Moura Rodolfo A.R.; Assis Fernando A.; Schroeder Marco Aurélio O.; Brignone Massimo; Procopio Renato
+   - **Keywords:** lightning performance | Lightning-induced voltage | Monte Carlo method | overhead distribution line | unscented transform method
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 49, percentile 85)
+   - **Source Id:** 17370
+   - **Author Ids:** 57615236600;57115575100;56045547600;57193615355;59981123400;8580886100;7801615894
+   - **Authoraffiliationids:** 60028351;60025153;60028351;60028351;60028351;60025153;60025153
+   - **Corresponding:** Coelho A.J.C.
+22.
+   - **Title:** Reconstruction of the Lightning Return-Stroke Current from the Radiated Magnetic Field
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/TAP.2025.3536797
+   - **Scopus ID:** 2-s2.0-105002681872
+   - **ISSN:** 0018926X
+   - **eISSN:** 15582221
+   - **Volume:** 73
+   - **Issue:** 4
+   - **Pages:** 2521-2532
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Procopio Renato; Randazzo Andrea; Rubinstein Marcos
+   - **Keywords:** Electromagnetic propagation | inverse problems | lightning current
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+   - **Source Id:** 17337
+   - **Author Ids:** 15759187700;8580886100;57115575100;7801615894;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;128065441
+   - **Corresponding:** Aramini R.
+23.
+   - **Title:** Vehicle-to-Home Service via Electric Vehicle Energy Storage Virtual Partitioning
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/TIA.2025.3556807
+   - **Scopus ID:** 2-s2.0-105002620196
+   - **ISSN:** 00939994
+   - **eISSN:** 19399367
+   - **Volume:** 61
+   - **Issue:** 5
+   - **Pages:** 7790-7802
+   - **Authors:** Bonfiglio Andrea; Minetti Manuela; Procopio Renato
+   - **Keywords:** Electric storage | electric vehicles | energy transition | vehicle to home | virtual storage partitioning
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+   - **Source Id:** 17361
+   - **Author Ids:** 36607521000;57210474295;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+24.
+   - **Title:** Frequency and voltage communication-less control for islanded AC microgrids: Experimental validation via rapid control prototyping
+   - **Venue:** International Journal of Electrical Power and Energy Systems
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1016/j.ijepes.2024.110313
+   - **Scopus ID:** 2-s2.0-85207651148
+   - **ISSN:** 01420615
+   - **Volume:** 162
+   - **Authors:** Rosini Alessandro; Petronijević Milutin; Filipović Filip; Bonfiglio Andrea; Procopio Renato
+   - **Keywords:** Experimental Validation | Grid Feeding Inverters | Grid Forming Inverters | Islanded Microgrids | Photovoltaic-Storage Systems | Sliding Mode Control
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 57, percentile 94)
+     - Energy Engineering and Power Technology (Q1, rank 25, percentile 92)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 52, percentile 94)
+     - Energy Engineering and Power Technology (Q1, rank 27, percentile 91)
+   - **Source Id:** 17985
+   - **Author Ids:** 57204050700;14422928500;57209321092;36607521000;7801615894
+   - **Authoraffiliationids:** 60025153;60068806;60068806;60025153;60025153
+   - **Corresponding:** Rosini A.
+25.
+   - **Title:** An energy management system to schedule the optimal participation to electricity markets and a statistical analysis of the bidding strategies over long time horizons
+   - **Venue:** Renewable Energy
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1016/j.renene.2024.120617
+   - **Scopus ID:** 2-s2.0-85193055806
+   - **ISSN:** 09601481
+   - **eISSN:** 18790682
+   - **Volume:** 228
+   - **Authors:** La Fata Alice; Brignone Massimo; Procopio Renato; Bracco Stefano; Delfino Federico; Barbero Giulia; Barilli Riccardo
+   - **Keywords:** Ancillary Services | Electricity Market | Energy Management System | Mixed Integer Linear Programming | Renewable Energy Sources
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 9, percentile 97)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 31, percentile 90)
+     2024:
+     - Engineering (all) (Q1, rank 7, percentile 98)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 28, percentile 90)
+   - **Source Id:** 27569
+   - **Author Ids:** 57434749400;8580886100;7801615894;15049159900;6603766602;57194587672;57889358800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;130476516;130476516
+   - **Corresponding:** La Fata A.
+26.
+   - **Title:** Lightning Location and Peak Current Estimation From Lightning-Induced Voltages on Transmission Lines With a Machine Learning Approach
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1109/TEMC.2024.3375452
+   - **Scopus ID:** 2-s2.0-85189165708
+   - **ISSN:** 00189375
+   - **eISSN:** 1558187X
+   - **Volume:** 66
+   - **Issue:** 3
+   - **Pages:** 890-899
+   - **Authors:** Nicora Martino; Tucci Mauro; Barmada Sami; Brignone Massimo; Procopio Renato
+   - **Keywords:** lightning location | Lightning-induced effects | machine learning (ML) | neural networks (NNs) | transients on transmission lines
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2024:
+     - Condensed Matter Physics (Q2, rank 127, percentile 71)
+     - Electrical and Electronic Engineering (Q2, rank 281, percentile 71)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 76, percentile 67)
+   - **Source Id:** 26051
+   - **Author Ids:** 57210463204;15844640300;7004111796;8580886100;7801615894
+   - **Authoraffiliationids:** 60025153;60028868;60028868;60025153;60025153
+   - **Corresponding:** Nicora M.
+27.
+   - **Title:** Design, realization and testing of a synthetic inertia controller for wind turbine power generators
+   - **Venue:** Sustainable Energy Grids and Networks
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1016/j.segan.2023.101234
+   - **Scopus ID:** 2-s2.0-85183574846
+   - **eISSN:** 23524677
+   - **Volume:** 38
+   - **Authors:** Bonfiglio Andrea; Lodi Matteo; Rosini Alessandro; Oliveri Alberto; Procopio Renato
+   - **Keywords:** FPGA | Synthetic inertia | Wind turbine generator
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 131, percentile 86)
+     - Control and Systems Engineering (Q1, rank 52, percentile 86)
+     - Energy Engineering and Power Technology (Q1, rank 63, percentile 80)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 71)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 122, percentile 87)
+     - Control and Systems Engineering (Q1, rank 52, percentile 86)
+     - Energy Engineering and Power Technology (Q1, rank 53, percentile 82)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 77, percentile 74)
+   - **Source Id:** 21100371258
+   - **Author Ids:** 36607521000;57200266678;57204050700;57200399832;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+28.
+   - **Title:** A Techno-Economic Assessment to Define Inertia Needs of the Italian Transmission Network in the 2030 Energy Scenario
+   - **Venue:** IEEE Transactions on Power Systems
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.1109/TPWRS.2023.3331178
+   - **Scopus ID:** 2-s2.0-85177074761
+   - **ISSN:** 08858950
+   - **eISSN:** 15580679
+   - **Volume:** 39
+   - **Issue:** 3
+   - **Pages:** 5050-5061
+   - **Authors:** Fresia Matteo; Minetti Manuela; Rosini Alessandro; Procopio Renato; Bonfiglio Andrea; Invernizzi Marco; Denegri Gio Battista; Lisciandrello Giuseppe; Orru Luca
+   - **Keywords:** Grid flexibilization | system inertia | transmission system
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 36, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 17, percentile 94)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 39, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 18, percentile 94)
+   - **Source Id:** 28825
+   - **Author Ids:** 57224008583;57210474295;57204050700;7801615894;36607521000;6701527755;7004649825;57219972273;57220190197
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60122257;60122257
+   - **Corresponding:** Fresia M.
+29.
+   - **Title:** Load Flow Assignments’ Definition from Day-Ahead Electricity Market Interconnection Power Flows: A Study for Transmission Networks
+   - **Venue:** Energies
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.3390/en17061391
+   - **Scopus ID:** 2-s2.0-85188744843
+   - **eISSN:** 19961073
+   - **Volume:** 17
+   - **Issue:** 6
+   - **Authors:** Fresia Matteo; Minetti Manuela; Procopio Renato; Bonfiglio Andrea; Lisciandrello Giuseppe; Orrù Luca
+   - **Keywords:** grid flexibilization | load flow | optimization algorithm | transmission system
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2024:
+     - Control and Optimization (Q1, rank 15, percentile 90)
+     - Engineering (miscellaneous) (Q1, rank 39, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 173, percentile 82)
+     - Energy Engineering and Power Technology (Q1, rank 73, percentile 75)
+     - Fuel Technology (Q2, rank 38, percentile 71)
+     - Energy (miscellaneous) (Q2, rank 32, percentile 68)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 105, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 57224008583;57210474295;7801615894;36607521000;57219972273;57220190197
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60122257;60122257
+   - **Corresponding:** Fresia M.
+30.
+   - **Title:** Structurally Tuned LSTM Networks to Nowcast Photovoltaic Power Production
+   - **Venue:** Proceedings 24th Eeeic International Conference on Environment and Electrical Engineering and 8th I and Cps Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/EEEIC/ICPSEurope61470.2024.10751363
+   - **Scopus ID:** 2-s2.0-85219483718
+   - **Authors:** La Fata Alice; Amin M. Asim; Invernizzi Marco; Procopio Renato
+   - **Keywords:** Nowcasting | Photovoltaic Power Production | Recurrent Neural Networks
+   - **Source Id:** 21101263912
+   - **Author Ids:** 57434749400;57201246575;6701527755;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** La Fata A.
+31.
+   - **Title:** Frequency-domain Expressions of the Time-Windowed Electric Fields Radiated by a Lightning Flash
+   - **Venue:** Iclp 2024 37th International Conference on Lightning Protection
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85215686103
+   - **Pages:** 708-713
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Procopio Renato; Randazzo Andrea; Rubinstein Marcos
+   - **Source Id:** 21101270624
+   - **Author Ids:** 15759187700;8580886100;57115575100;7801615894;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;127343000
+   - **Corresponding:** Aramini R.
+32.
+   - **Title:** Neural Network Based Procedure for Lightning Localization
+   - **Venue:** Iclp 2024 37th International Conference on Lightning Protection
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-85215679121
+   - **Pages:** 938-942
+   - **Authors:** Barmada Sami; Tucci Mauro; Brignone Massimo; Nicora Martino; Procopio Renato
+   - **Source Id:** 21101270624
+   - **Author Ids:** 7004111796;15844640300;8580886100;57210463204;7801615894
+   - **Authoraffiliationids:** 60028868;60028868;60025153;60025153;60025153
+   - **Corresponding:** Barmada S.
+33.
+   - **Title:** On the Use of Lightning Location System Data to Evaluate the Lightning Performance of Overhead Distribution Lines
+   - **Venue:** Iclp 2024 37th International Conference on Lightning Protection
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-85215679023
+   - **Pages:** 626-632
+   - **Authors:** Nicora Martino; Mestiner Daniele; Brignone Massimo; Procopio Renato; Bernardi Marina; Fiori Elisabetta; Piantini Alexandre
+   - **Source Id:** 21101270624
+   - **Author Ids:** 57210463204;59523315700;8580886100;7801615894;56269310700;35229110700;56045386400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60083358;60081917;60008088
+   - **Corresponding:** Nicora M.
+34.
+   - **Title:** Sensitivity Analysis on the Reconstruction of the Attenuation Function for Short Time-Windows Measurements
+   - **Venue:** Iclp 2024 37th International Conference on Lightning Protection
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85215675068
+   - **Pages:** 688-693
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Procopio Renato; Randazzo Andrea; Rubinstein Marcos
+   - **Source Id:** 21101270624
+   - **Author Ids:** 15759187700;8580886100;57115575100;7801615894;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;127343000
+   - **Corresponding:** Aramini R.
+35.
+   - **Title:** Cloud-to-Ground Lightning Nowcasting from Remote Sensing and Numerical Weather Prediction Modeling Data
+   - **Venue:** Iclp 2024 37th International Conference on Lightning Protection
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-85215660036
+   - **Pages:** 943-949
+   - **Authors:** La Fata Alice; Moser Gabriele; Procopio Renato; Bernardi Marina; Fiori Elisabetta; Lagasio Martina
+   - **Source Id:** 21101270624
+   - **Author Ids:** 57434749400;7101795745;7801615894;56269310700;35229110700;57193136041
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60083358;60081917;112224719
+   - **Corresponding:** La Fata A.
+36.
+   - **Title:** A Dynamic Controller for Reactive Power and Voltage Regulation in Islanded Microgrids
+   - **Venue:** IEEE Power and Energy Society General Meeting
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/PESGM51994.2024.10761100
+   - **Scopus ID:** 2-s2.0-85212697988
+   - **ISSN:** 19449925
+   - **eISSN:** 19449933
+   - **Authors:** Minetti Manuela; Bonfiglio Andrea; Procopio Renato; Fresia Matteo
+   - **Keywords:** droop control | Grid-Supporting inverter | Microgrid | primary regulation | reactive power sharing
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 622, percentile 37)
+     - Nuclear Energy and Engineering (Q3, rank 53, percentile 37)
+     - Energy Engineering and Power Technology (Q3, rank 208, percentile 36)
+     - Renewable Energy, Sustainability and the Environment (Q3, rank 232, percentile 25)
+     2024:
+     - Nuclear Energy and Engineering (Q3, rank 53, percentile 34)
+     - Electrical and Electronic Engineering (Q3, rank 682, percentile 29)
+     - Energy Engineering and Power Technology (Q3, rank 215, percentile 28)
+     - Renewable Energy, Sustainability and the Environment (Q4, rank 238, percentile 20)
+   - **Source Id:** 20600195623
+   - **Author Ids:** 57210474295;36607521000;7801615894;57224008583
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Minetti M.
+37.
+   - **Title:** Techno-Economic Strategies to Define Inertia Needs in Future Transmission Networks
+   - **Venue:** Proceedings 24th Eeeic International Conference on Environment and Electrical Engineering and 8th I and Cps Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/EEEIC/ICPSEurope61470.2024.10751291
+   - **Scopus ID:** 2-s2.0-85211899858
+   - **Authors:** Fresia Matteo; Bonfiglio Andrea; Procopio Renato; Lisciandrello Giuseppe; Orrù Luca
+   - **Keywords:** Inverter-based generations | Synthetic Inertia | transmission networks
+   - **Source Id:** 21101263912
+   - **Author Ids:** 57224008583;36607521000;7801615894;57219972273;57220190197
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60122257;60122257
+   - **Corresponding:** Fresia M.
+38.
+   - **Title:** Electric Vehicle Battery Virtual Partitioning Algorithm for Residential Vehicle-to-Home Service
+   - **Venue:** 2024 International Conference on Smart Energy Systems and Technologies Driving the Advances for Future Electrification Sest 2024 Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/SEST61601.2024.10694541
+   - **Scopus ID:** 2-s2.0-85207661354
+   - **Authors:** Bonfiglio Andrea; Minetti Manuela; Procopio Renato
+   - **Keywords:** Electric Storage | Energy Transition | Vehicle to Home | Virtual Storage Partitioning
+   - **Source Id:** 21101256226
+   - **Author Ids:** 36607521000;57210474295;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+39.
+   - **Title:** Optimal Sizing of Battery Energy Storage Systems for Renewable Energy Integration in Energy Communities
+   - **Venue:** Proceedings 2024 11th International Conference on Electrical Electronic and Computing Engineering Icetran 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IcETRAN62308.2024.10645110
+   - **Scopus ID:** 2-s2.0-85204074005
+   - **Authors:** Minetti Manuela; Bonfiglio Andrea; Procopio Renato; Petronijevic Milutin P.; Radonjic Ivana
+   - **Keywords:** Battery Energy Storage System | Curtailment | Optimal Sizing | Renewable Energy Community
+   - **Source Id:** 21101248521
+   - **Author Ids:** 57210474295;36607521000;7801615894;14422928500;55197295400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60068806;60068806
+   - **Corresponding:** Minetti M.
+40.
+   - **Title:** Photovoltaic Power Nowcasting Using Decision-Trees Based Algorithms and Neural Networks
+   - **Venue:** Proceedings 2024 11th International Conference on Electrical Electronic and Computing Engineering Icetran 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/IcETRAN62308.2024.10645147
+   - **Scopus ID:** 2-s2.0-85204066359
+   - **Authors:** Amin M. Asim; La Fata Alice; Procopio Renato; Invernizzi Marco; Petronijevic Milutin; Mitic Ivana Radonjic
+   - **Keywords:** day-ahead forecasting | machine learning | Photovoltaic production | recurrent neural networks
+   - **Source Id:** 21101248521
+   - **Author Ids:** 57201246575;57434749400;7801615894;6701527755;14422928500;57208649613
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60068806;60068806
+   - **Corresponding:** Amin M.A.
+41.
+   - **Title:** RoCoF Mitigation in the Italian Transmission Network: a Methodology for Inertia Optimization
+   - **Venue:** 2024 IEEE 22nd Mediterranean Electrotechnical Conference MELECON 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/MELECON56669.2024.10608532
+   - **Scopus ID:** 2-s2.0-85201729726
+   - **Pages:** 424-429
+   - **Authors:** Fresia Matteo; Minetti Manuela; Bonfiglio Andrea; Procopio Renato; Lisciandrello Giuseppe; Orrù Luca
+   - **Keywords:** Grid Flexibilization | System Inertia | Transmission System
+   - **Source Id:** 21101243574
+   - **Author Ids:** 57224008583;57210474295;36607521000;7801615894;57219972273;57220190197
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60122257;60122257
+   - **Corresponding:** Fresia M.
+42.
+   - **Title:** Vehicle-to-Home Service Via Electric Vehicle Energy Storage Virtual Partitioning
+   - **Venue:** Conference Record Industrial and Commercial Power Systems Technical Conference
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICPS60943.2024.10563283
+   - **Scopus ID:** 2-s2.0-85197917872
+   - **ISSN:** 21584893
+   - **eISSN:** 21584907
+   - **Authors:** Bonfiglio Andrea; Minetti Manuela; Procopio Renato
+   - **Keywords:** Electric Storage | Electric Vehicles | Energy Transition | Vehicle to Home | Virtual Storage Partitioning
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q3, rank 177, percentile 49)
+     2024:
+     - Engineering (all) (Q3, rank 251, percentile 27)
+   - **Source Id:** 21101233878
+   - **Author Ids:** 36607521000;57210474295;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+43.
+   - **Title:** Renewable Energy Communities Virtual Islanding: A Novel Service for Smart Distribution Networks
+   - **Venue:** Conference Record Industrial and Commercial Power Systems Technical Conference
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 18
+   - **DOI:** 10.1109/ICPS60943.2024.10563712
+   - **Scopus ID:** 2-s2.0-85197900030
+   - **ISSN:** 21584893
+   - **eISSN:** 21584907
+   - **Authors:** Bonfiglio Andrea; Bruno Sergio; Martino Maria; Minetti Manuela; Procopio Renato; Velini Angelo
+   - **Keywords:** Distribution System Operation | Energy Transition | Grid Services | Renewable Energy Communities | Virtual Islanding
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q3, rank 177, percentile 49)
+     2024:
+     - Engineering (all) (Q3, rank 251, percentile 27)
+   - **Source Id:** 21101233878
+   - **Author Ids:** 36607521000;7101968133;59210049100;57210474295;7801615894;59210230800
+   - **Authoraffiliationids:** 60025153;60027299;60025153;60025153;60025153;60027299
+   - **Corresponding:** Bonfiglio A.
+44.
+   - **Title:** Computation of the attenuation function of the lightning return-stroke current from electromagnetic fields measured in a short-duration time-window — Part II: Numerical implementation
+   - **Venue:** Electric Power Systems Research
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1016/j.epsr.2023.109410
+   - **Scopus ID:** 2-s2.0-85153090880
+   - **ISSN:** 03787796
+   - **Volume:** 221
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Pastorino Matteo; Procopio Renato; Rachidi Farhad; Randazzo Andrea; Rubinstein Marcos
+   - **Keywords:** Electromagnetic fields | Inverse problems | Lightning
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+     - Energy Engineering and Power Technology (Q1, rank 60, percentile 81)
+     2023:
+     - Electrical and Electronic Engineering (Q1, rank 158, percentile 80)
+     - Energy Engineering and Power Technology (Q1, rank 61, percentile 77)
+   - **Source Id:** 16044
+   - **Author Ids:** 15759187700;8580886100;57115575100;7004880389;7801615894;7003719604;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60028186;60025153;128065441
+   - **Corresponding:** Aramini R.
+45.
+   - **Title:** Computation of the attenuation function of the lightning return-stroke current from electromagnetic fields measured in a short-duration time-window, Part I: Theoretical investigation
+   - **Venue:** Electric Power Systems Research
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1016/j.epsr.2023.109392
+   - **Scopus ID:** 2-s2.0-85152236005
+   - **ISSN:** 03787796
+   - **Volume:** 221
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Pastorino Matteo; Procopio Renato; Rachidi Farhad; Randazzo Andrea; Rubinstein Marcos
+   - **Keywords:** Electromagnetic fields | Inverse problems | Lightning
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+     - Energy Engineering and Power Technology (Q1, rank 60, percentile 81)
+     2023:
+     - Electrical and Electronic Engineering (Q1, rank 158, percentile 80)
+     - Energy Engineering and Power Technology (Q1, rank 61, percentile 77)
+   - **Source Id:** 16044
+   - **Author Ids:** 15759187700;8580886100;57115575100;7004880389;7801615894;7003719604;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60028186;60025153;128065441
+   - **Corresponding:** Aramini R.
+46.
+   - **Title:** Lightning Electromagnetic Fields Computation: A Review of the Available Approaches
+   - **Venue:** Energies
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 15
+   - **DOI:** 10.3390/en16052436
+   - **Scopus ID:** 2-s2.0-85149725191
+   - **eISSN:** 19961073
+   - **Volume:** 16
+   - **Issue:** 5
+   - **Authors:** La Fata Alice; Nicora Martino; Mestriner Daniele; Aramini Riccardo; Procopio Renato; Brignone Massimo; Delfino Federico
+   - **Keywords:** computational effort | induced voltages | lightning
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2023:
+     - Control and Optimization (Q1, rank 19, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 36, percentile 82)
+     - Electrical and Electronic Engineering (Q2, rank 200, percentile 74)
+     - Energy Engineering and Power Technology (Q2, rank 78, percentile 71)
+     - Fuel Technology (Q2, rank 40, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 25, percentile 68)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 103, percentile 62)
+   - **Source Id:** 62932
+   - **Author Ids:** 57434749400;57210463204;57115575100;15759187700;7801615894;8580886100;6603766602
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** La Fata A.
+47.
+   - **Title:** A Simulator for Long Term Planning and Real Time Scheduling of Polygenerative Microgrids
+   - **Venue:** 2023 IEEE Belgrade Powertech Powertech 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/PowerTech55446.2023.10202738
+   - **Scopus ID:** 2-s2.0-85219490938
+   - **Authors:** La Fata Alice; Brignone Massimo; Procopio Renato; Bracco Stefano; Delfino Federico; Barilli Riccardo; Ravasi Martina; Zanellini Fabio; Petronijevic Milutin
+   - **Keywords:** Demand Response | Energy Management System | Mixed Integer Linear Programming | Renewable Energy | Storage systems
+   - **Source Id:** 21101192776
+   - **Author Ids:** 57434749400;8580886100;7801615894;15049159900;6603766602;57889358800;57936785100;12645996400;14422928500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;128573362;128573362;128573362;60068806
+   - **Corresponding:** La Fata A.
+48.
+   - **Title:** Evaluation of the Return-Stroke Current Attenuation Function from the Vertical Electric Field by Means of the Regularization of an Inverse Problem
+   - **Venue:** 17th International Symposium on Lightning Protection Sipda 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/SIPDA59763.2023.10349194
+   - **Scopus ID:** 2-s2.0-85182395942
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Pastorino Matteo; Procopio Renato; Randazzo Andrea; Rubinstein Marcos
+   - **Keywords:** attenuation function | electromagnetic fields | inverse problems | Lightning | reconstruction
+   - **Source Id:** 21101196397
+   - **Author Ids:** 15759187700;8580886100;57115575100;7004880389;7801615894;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;128065441
+   - **Corresponding:** Aramini R.
+49.
+   - **Title:** Full-Wave Analysis of Wind Turbine Transient Response to Direct Lightning Strikes
+   - **Venue:** 17th International Symposium on Lightning Protection Sipda 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/SIPDA59763.2023.10349151
+   - **Scopus ID:** 2-s2.0-85182394777
+   - **Authors:** Torchio Riccardo; Nicora Martino; Mestriner Daniele; Brignone Massimo; Procopio Renato; Alotto Piergiorgio; Rubinstein Marcos
+   - **Keywords:** Lightning | lightning at tall structures | lightning electromagnetic pulse | return stroke current | wind turbines
+   - **Source Id:** 21101196397
+   - **Author Ids:** 57191963450;57210463204;57115575100;8580886100;7801615894;35493099300;7201682529
+   - **Authoraffiliationids:** 60000481;60025153;60025153;60025153;60025153;60000481;60101868
+   - **Corresponding:** Torchio R.
+50.
+   - **Title:** An Equivalent Attenuation Function for the Computation of the Lightning Field Radiated by a Tortuous Channel
+   - **Venue:** IEEE Conference on Antenna Measurements and Applications Cama
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/CAMA57522.2023.10352872
+   - **Scopus ID:** 2-s2.0-85182276702
+   - **ISSN:** 24741760
+   - **eISSN:** 26436795
+   - **Pages:** 956-961
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Petrarca Carlo; Procopio Renato; Randazzo Andrea; Rubinstein Marcos
+   - **Keywords:** lightning | regularization | tortuosity
+   - **Quartile:**
+     2025:
+     - Radiation (Q3, rank 53, percentile 28)
+     - Instrumentation (Q3, rank 140, percentile 25)
+     - Computer Networks and Communications (Q4, rank 432, percentile 21)
+   - **Source Id:** 21101136249
+   - **Author Ids:** 15759187700;8580886100;57115575100;7004208484;7801615894;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;114851910;60025153;60025153;130704963
+   - **Corresponding:** Aramini R.
+51.
+   - **Title:** A Sliding Mode based Controller for No Inertia Islanded Microgrids
+   - **Venue:** Proceedings of 22nd International Symposium on Power Electronics Ee 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/Ee59906.2023.10346188
+   - **Scopus ID:** 2-s2.0-85182027405
+   - **Authors:** Procopio Renato; Bonfiglio Andrea; Rosini Alessandro; Petronijevic Milutin; Filipovic Filip; Incremona Gian Paolo; Ferrara Antonella
+   - **Keywords:** Frequency and voltage control | Islanded Microgrids | Sliding Mode Control
+   - **Source Id:** 21101196083
+   - **Author Ids:** 7801615894;36607521000;57204050700;14422928500;57209321092;55933915900;55845601700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60068806;60068806;60023256;60015197
+   - **Corresponding:** Procopio R.
+52.
+   - **Title:** Prediction of Cloud-to-Ground Lightning Through Gaussian Process Regression with Satellite Thermal Infrared Imagery and Numerical Weather Prediction Modeling Data
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/IGARSS52108.2023.10281600
+   - **Scopus ID:** 2-s2.0-85178338190
+   - **Volume:** 2023-July
+   - **Pages:** 2508-2511
+   - **Authors:** La Fata Alice; Farina Lorenzo; Bernardi Marina; Moser Gabriele; Procopio Renato; Fiori Elisabetta
+   - **Keywords:** Gaussian Process Regression (GPR) | Lightning | Nowcasting | Numerical Weather Prediction
+   - **Source Id:** 82000
+   - **Author Ids:** 57434749400;58737948500;56269310700;7101795745;7801615894;35229110700
+   - **Authoraffiliationids:** 60025153;60025153;60083358;60025153;60025153;60081917
+   - **Corresponding:** La Fata A.
+53.
+   - **Title:** Reconstruction of the lightning channel-base current from remote measurements of electric and magnetic field by means of regularization techniques
+   - **Venue:** 2023 International Conference on Electromagnetics in Advanced Applications Iceaa 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICEAA57318.2023.10297752
+   - **Scopus ID:** 2-s2.0-85178193042
+   - **Pages:** 187
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Pastorino Matteo; Procopio Renato; Randazzo Andrea; Rubinstein Marcos
+   - **Source Id:** 21101188848
+   - **Author Ids:** 15759187700;8580886100;57115575100;7004880389;7801615894;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;128065441
+   - **Corresponding:** Aramini R.
+54.
+   - **Title:** Lightning Electromagnetic Fields above Perfectly Conducting Ground: A review
+   - **Venue:** Proceedings 2023 IEEE International Conference on Environment and Electrical Engineering and 2023 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/EEEIC/ICPSEurope57605.2023.10194849
+   - **Scopus ID:** 2-s2.0-85174667395
+   - **Authors:** La Fata Alice; Nicora Martino; Mestriner Daniele; Aramini Riccardo; Procopio Renato; Brignone Massimo; Delfino Federico
+   - **Keywords:** induced voltages | lightning electromagnetic fields | Perfectly Conducting ground
+   - **Source Id:** 21101173009
+   - **Author Ids:** 57434749400;57210463204;57115575100;15759187700;7801615894;8580886100;6603766602
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** La Fata A.
+55.
+   - **Title:** Inertia Requirements Assessment for the Italian Transmission Network in the Future Network Scenario
+   - **Venue:** 2023 IEEE Belgrade Powertech Powertech 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 23
+   - **DOI:** 10.1109/PowerTech55446.2023.10202846
+   - **Scopus ID:** 2-s2.0-85169473933
+   - **Authors:** Bonfiglio Andrea; Fresia Matteo; Minetti Manuela; Procopio Renato; Rosini Alessandro; Lisciandrello Giuseppe; Orrù Luca
+   - **Keywords:** Grid Flexibilization | System Inertia | Transmission System
+   - **Source Id:** 21101175266
+   - **Author Ids:** 36607521000;57224008583;57210474295;7801615894;57204050700;57219972273;57220190197
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60122257;60122257
+   - **Corresponding:** Bonfiglio A.
+56.
+   - **Title:** A Comprehensive Sliding Mode Approach for Photovoltaic-Storage Islanded Microgrids
+   - **Venue:** 2023 IEEE Belgrade Powertech Powertech 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/PowerTech55446.2023.10202864
+   - **Scopus ID:** 2-s2.0-85169440078
+   - **Authors:** Bonfiglio Andrea; Procopio Renato; Rosini Alessandro; Incremona Gian Paolo; Ferrara Antonella
+   - **Keywords:** Grid Feeding Converters | Grid Forming Converters | Islanded Microgrid | Sliding Mode Control
+   - **Source Id:** 21101175266
+   - **Author Ids:** 36607521000;7801615894;57204050700;55933915900;55845601700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60023256;60015197
+   - **Corresponding:** Bonfiglio A.
+57.
+   - **Title:** A Semi-Analytical Approach to Calculate Lightning em Fields Considering Channel Tortuosity
+   - **Venue:** Proceedings 2023 IEEE International Conference on Environment and Electrical Engineering and 2023 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/EEEIC/ICPSEurope57605.2023.10194777
+   - **Scopus ID:** 2-s2.0-85168669979
+   - **Authors:** Brignone Massimo; Nicora Martino; Mestriner Daniele; Procopio Renato; Petrarca Carlo; Formisano Alessandro; Barmada Sami; Delfino Federico
+   - **Keywords:** electromagnetic fields | Lightning
+   - **Source Id:** 21101173009
+   - **Author Ids:** 8580886100;57210463204;57115575100;7801615894;7004208484;7003786952;7004111796;6603766602
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60017293;60026777;60028868;60025153
+   - **Corresponding:** Brignone M.
+58.
+   - **Title:** On the use of frequency in the primary control of fully inverter based islanded microgrids
+   - **Venue:** International Journal of Electrical Power and Energy Systems
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1016/j.ijepes.2022.108438
+   - **Scopus ID:** 2-s2.0-85132530451
+   - **ISSN:** 01420615
+   - **Volume:** 143
+   - **Authors:** Rosini Alessandro; Procopio Renato; Bonfiglio Andrea
+   - **Keywords:** Grid feeding inverters | Grid forming inverters | Islanded microgrids
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 57, percentile 94)
+     - Energy Engineering and Power Technology (Q1, rank 25, percentile 92)
+     2022:
+     - Electrical and Electronic Engineering (Q1, rank 61, percentile 91)
+     - Energy Engineering and Power Technology (Q1, rank 26, percentile 89)
+   - **Source Id:** 17985
+   - **Author Ids:** 57204050700;7801615894;36607521000
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Rosini A.
+59.
+   - **Title:** An efficient Energy Management System for long term planning and real time scheduling of flexible polygeneration systems
+   - **Venue:** Renewable Energy
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.1016/j.renene.2022.10.030
+   - **Scopus ID:** 2-s2.0-85140341631
+   - **ISSN:** 09601481
+   - **eISSN:** 18790682
+   - **Volume:** 200
+   - **Pages:** 1180-1201
+   - **Authors:** La Fata Alice; Brignone Massimo; Procopio Renato; Bracco Stefano; Delfino Federico; Barilli Riccardo; Ravasi Martina; Zanellini Fabio
+   - **Keywords:** Energy management system | Mixed integer linear programming | Renewable energy source polygeneration
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 9, percentile 97)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 31, percentile 90)
+     2022:
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 23, percentile 90)
+   - **Source Id:** 27569
+   - **Author Ids:** 57434749400;8580886100;7801615894;15049159900;6603766602;57889358800;57936785100;12645996400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;128573362;128573362;128573362
+   - **Corresponding:** La Fata A.
+60.
+   - **Title:** On the reconstruction of the attenuation function of a return-stroke current from the Fourier Transform of finite-duration measurements
+   - **Venue:** International Journal of Electrical Power and Energy Systems
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1016/j.ijepes.2022.108186
+   - **Scopus ID:** 2-s2.0-85129236133
+   - **ISSN:** 01420615
+   - **Volume:** 142
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Pastorino Matteo; Procopio Renato; Rachidi Farhad; Randazzo Andrea; Rubinstein Marcos
+   - **Keywords:** Electromagnetic fields | Inverse problems | Lightning
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 57, percentile 94)
+     - Energy Engineering and Power Technology (Q1, rank 25, percentile 92)
+     2022:
+     - Electrical and Electronic Engineering (Q1, rank 61, percentile 91)
+     - Energy Engineering and Power Technology (Q1, rank 26, percentile 89)
+   - **Source Id:** 17985
+   - **Author Ids:** 15759187700;8580886100;57115575100;7004880389;7801615894;7003719604;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60028186;60025153;128065441
+   - **Corresponding:** Aramini R.
+61.
+   - **Title:** Assessment of the Lightning Performance of overhead distribution lines based on Lightning Location Systems data
+   - **Venue:** International Journal of Electrical Power and Energy Systems
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1016/j.ijepes.2022.108230
+   - **Scopus ID:** 2-s2.0-85128990940
+   - **ISSN:** 01420615
+   - **Volume:** 142
+   - **Authors:** Nicora Martino; Mestriner Daniele; Brignone Massimo; Bernardi Marina; Procopio Renato; Fiori Elisabetta; Delfino Federico; Piantini Alexandre; Rachidi Farhad
+   - **Keywords:** Lightning Locations Systems | Lightning parameters | Lightning Performance | Monte Carlo method | Overvoltage protection
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 57, percentile 94)
+     - Energy Engineering and Power Technology (Q1, rank 25, percentile 92)
+     2022:
+     - Electrical and Electronic Engineering (Q1, rank 61, percentile 91)
+     - Energy Engineering and Power Technology (Q1, rank 26, percentile 89)
+   - **Source Id:** 17985
+   - **Author Ids:** 57210463204;57115575100;8580886100;56269310700;7801615894;35229110700;6603766602;56045386400;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60083358;60025153;102075139;60025153;60008088;60028186
+   - **Corresponding:** Nicora M.
+62.
+   - **Title:** An Efficient Method for the Computation of Electromagnetic Fields Associated With Tortuous Lightning Channels
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1109/TEMC.2022.3186726
+   - **Scopus ID:** 2-s2.0-85135207703
+   - **ISSN:** 00189375
+   - **eISSN:** 1558187X
+   - **Volume:** 64
+   - **Issue:** 5
+   - **Pages:** 1431-1441
+   - **Authors:** Brignone Massimo; Nicora Martino; Mestriner Daniele; Procopio Renato; Petrarca Carlo; Formisano Alessandro; Barmada Sami; Delfino Federico
+   - **Keywords:** Computation time | lightning channel tortuosity | lightning electromagnetic fields
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2022:
+     - Electrical and Electronic Engineering (Q2, rank 256, percentile 65)
+     - Condensed Matter Physics (Q2, rank 150, percentile 64)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 76, percentile 64)
+   - **Source Id:** 26051
+   - **Author Ids:** 8580886100;57210463204;57115575100;7801615894;7004208484;7003786952;7004111796;6603766602
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60017293;60026777;60028868;60025153
+   - **Corresponding:** Brignone M.
+63.
+   - **Title:** Do Wind Turbines Amplify the Effects of Lightning Strikes? A Full-Maxwell Modelling Approach
+   - **Venue:** IEEE Transactions on Power Delivery
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1109/TPWRD.2022.3142847
+   - **Scopus ID:** 2-s2.0-85123318624
+   - **ISSN:** 08858977
+   - **eISSN:** 19374208
+   - **Volume:** 37
+   - **Issue:** 5
+   - **Pages:** 3996-4006
+   - **Authors:** Torchio Riccardo; Nicora Martino; Mestriner Daniele; Brignone Massimo; Procopio Renato; Alotto Piergiorgio; Rubinstein Marcos
+   - **Keywords:** Lightning | lightning at tall structures | lightning electromagnetic pulse | renewable | return stroke current | wind turbines
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 49, percentile 85)
+     2022:
+     - Electrical and Electronic Engineering (Q1, rank 100, percentile 86)
+     - Energy Engineering and Power Technology (Q1, rank 40, percentile 84)
+   - **Source Id:** 17370
+   - **Author Ids:** 57191963450;57210463204;57115575100;8580886100;7801615894;35493099300;7201682529
+   - **Authoraffiliationids:** 60000481;60025153;60025153;60025153;60025153;60000481;106110786
+   - **Corresponding:** Torchio R.
+64.
+   - **Title:** A Decentralized Higher Order Sliding Mode Control for Islanded Photovoltaic-Storage Systems
+   - **Venue:** Energy
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1016/j.energy.2022.124502
+   - **Scopus ID:** 2-s2.0-85132523134
+   - **ISSN:** 03605442
+   - **Volume:** 255
+   - **Authors:** Rosini A.; Procopio R.; Bonfiglio A.; Incremona G. P.; Ferrara A.
+   - **Keywords:** Grid feeding inverters | Grid forming inverters | Islanded microgrids | Sliding mode control
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 4, percentile 99)
+     - Civil and Structural Engineering (Q1, rank 7, percentile 98)
+     - Mechanical Engineering (Q1, rank 19, percentile 97)
+     - Building and Construction (Q1, rank 7, percentile 97)
+     - Management, Monitoring, Policy and Law (Q1, rank 13, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 34, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 16, percentile 95)
+     - Pollution (Q1, rank 10, percentile 94)
+     - Industrial and Manufacturing Engineering (Q1, rank 23, percentile 94)
+     - Fuel Technology (Q1, rank 10, percentile 93)
+     - Energy (all) (Q1, rank 7, percentile 91)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 32, percentile 89)
+     2022:
+     - Modeling and Simulation (Q1, rank 5, percentile 98)
+     - Civil and Structural Engineering (Q1, rank 7, percentile 98)
+     - Building and Construction (Q1, rank 5, percentile 97)
+     - Mechanical Engineering (Q1, rank 17, percentile 97)
+     - Management, Monitoring, Policy and Law (Q1, rank 11, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 32, percentile 95)
+     - Industrial and Manufacturing Engineering (Q1, rank 17, percentile 95)
+     - Energy Engineering and Power Technology (Q1, rank 16, percentile 93)
+     - Fuel Technology (Q1, rank 8, percentile 93)
+     - Pollution (Q1, rank 12, percentile 92)
+     - Energy (all) (Q1, rank 7, percentile 90)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 28, percentile 88)
+   - **Source Id:** 29348
+   - **Author Ids:** 57204050700;7801615894;36607521000;55933915900;55845601700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60023256;60015197
+   - **Corresponding:** Rosini A.
+65.
+   - **Title:** A Prony-based approach for accelerating the lightning electromagnetic fields computation above a perfectly conducting ground
+   - **Venue:** Electric Power Systems Research
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1016/j.epsr.2022.108125
+   - **Scopus ID:** 2-s2.0-85131461531
+   - **ISSN:** 03787796
+   - **Volume:** 210
+   - **Authors:** Brignone Massimo; Procopio Renato; Nicora Martino; Mestriner Daniele; Rachidi Farhad; Rubinstein Marcos
+   - **Keywords:** Computational effort reduction | Lightning electromagnetic fields | Prony series
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+     - Energy Engineering and Power Technology (Q1, rank 60, percentile 81)
+     2022:
+     - Electrical and Electronic Engineering (Q1, rank 157, percentile 78)
+     - Energy Engineering and Power Technology (Q1, rank 61, percentile 75)
+   - **Source Id:** 16044
+   - **Author Ids:** 8580886100;7801615894;57210463204;57115575100;7003719604;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60028186;60101868
+   - **Corresponding:** Brignone M.
+66.
+   - **Title:** Attenuation of Lightning-Induced Effects on Overhead Distribution Systems in Urban Areas
+   - **Venue:** Applied Sciences Switzerland
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.3390/app12157632
+   - **Scopus ID:** 2-s2.0-85136944605
+   - **eISSN:** 20763417
+   - **Volume:** 12
+   - **Issue:** 15
+   - **Authors:** Mestriner Daniele; Marchesoni Flavia; Procopio Renato; Brignone Massimo
+   - **Keywords:** electromagnetic fields | finite element method | lightning
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 69, percentile 80)
+     - Instrumentation (Q1, rank 38, percentile 80)
+     - Fluid Flow and Transfer Processes (Q1, rank 21, percentile 79)
+     - Computer Science Applications (Q2, rank 294, percentile 70)
+     - Materials Science (all) (Q2, rank 166, percentile 64)
+     - Process Chemistry and Technology (Q2, rank 34, percentile 55)
+     2022:
+     - Engineering (all) (Q1, rank 73, percentile 75)
+     - Instrumentation (Q2, rank 42, percentile 69)
+     - Fluid Flow and Transfer Processes (Q2, rank 32, percentile 65)
+     - Computer Science Applications (Q2, rank 287, percentile 63)
+     - Materials Science (all) (Q2, rank 199, percentile 56)
+     - Process Chemistry and Technology (Q3, rank 35, percentile 49)
+   - **Source Id:** 21100829268
+   - **Author Ids:** 57115575100;57866897200;7801615894;8580886100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Mestriner D.
+67.
+   - **Title:** A Prony-Based Approach for Accelerating the Lightning Electromagnetic Fields Computation: Effect of the Soil Finite Conductivity
+   - **Venue:** Electric Power Systems Research
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1016/j.epsr.2022.108013
+   - **Scopus ID:** 2-s2.0-85129024780
+   - **ISSN:** 03787796
+   - **Volume:** 209
+   - **Authors:** Brignone Massimo; Procopio Renato; Nicora Martino; Mestriner Daniele; Rachidi Farhad; Rubinstein Marcos
+   - **Keywords:** Computational effort reduction | Finite Soil Conductivity | Lightning Electromagnetic Fields | Prony Series
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+     - Energy Engineering and Power Technology (Q1, rank 60, percentile 81)
+     2022:
+     - Electrical and Electronic Engineering (Q1, rank 157, percentile 78)
+     - Energy Engineering and Power Technology (Q1, rank 61, percentile 75)
+   - **Source Id:** 16044
+   - **Author Ids:** 8580886100;7801615894;57210463204;57115575100;7003719604;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60028186;60101868
+   - **Corresponding:** Brignone M.
+68.
+   - **Title:** Horizontal grid spacing comparison among Random Forest algorithms to nowcast Cloud-to-Ground lightning occurrence
+   - **Venue:** Stochastic Environmental Research and Risk Assessment
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1007/s00477-022-02222-1
+   - **Scopus ID:** 2-s2.0-85128471440
+   - **ISSN:** 14363240
+   - **eISSN:** 14363259
+   - **Volume:** 36
+   - **Issue:** 8
+   - **Pages:** 2195-2206
+   - **Authors:** La Fata Alice; Amato Federico; Bernardi Marina; D’Andrea Mirko; Procopio Renato; Fiori Elisabetta
+   - **Keywords:** Disaster Risk Management | Lightning | Machine Learning | Nowcasting | Random Forest
+   - **Quartile:**
+     2025:
+     - Safety, Risk, Reliability and Quality (Q1, rank 27, percentile 89)
+     - Water Science and Technology (Q1, rank 33, percentile 88)
+     - Environmental Science (all) (Q1, rank 42, percentile 82)
+     - Environmental Engineering (Q1, rank 54, percentile 76)
+     - Environmental Chemistry (Q2, rank 44, percentile 71)
+     2022:
+     - Water Science and Technology (Q1, rank 38, percentile 84)
+     - Safety, Risk, Reliability and Quality (Q1, rank 33, percentile 83)
+     - Environmental Science (all) (Q1, rank 48, percentile 79)
+     - Environmental Engineering (Q2, rank 47, percentile 74)
+     - Environmental Chemistry (Q2, rank 45, percentile 67)
+   - **Source Id:** 19010
+   - **Author Ids:** 57434749400;56293783900;56269310700;36616259200;7801615894;35229110700
+   - **Authoraffiliationids:** 60025153;60000239;60083358;102075139;60025153;102075139
+   - **Corresponding:** La Fata A.
+69.
+   - **Title:** On the Fourier Transform of Measured Electric Fields Radiated by a Lightning Return Stroke
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1109/TEMC.2022.3154648
+   - **Scopus ID:** 2-s2.0-85127513704
+   - **ISSN:** 00189375
+   - **eISSN:** 1558187X
+   - **Volume:** 64
+   - **Issue:** 4
+   - **Pages:** 1257-1264
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Pastorino Matteo; Procopio Renato; Randazzo Andrea; Rubinstein Marcos
+   - **Keywords:** Distribution theory | fast Fourier transform (FT) (FFT) | lightning
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2022:
+     - Electrical and Electronic Engineering (Q2, rank 256, percentile 65)
+     - Condensed Matter Physics (Q2, rank 150, percentile 64)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 76, percentile 64)
+   - **Source Id:** 26051
+   - **Author Ids:** 15759187700;8580886100;57115575100;7004880389;7801615894;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;106110786
+   - **Corresponding:** Aramini R.
+70.
+   - **Title:** Primary Voltage and Frequency Regulation in Inverter Based Islanded Microgrids through a Model Predictive Control Approach
+   - **Venue:** Energies
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.3390/en15145077
+   - **Scopus ID:** 2-s2.0-85136444814
+   - **eISSN:** 19961073
+   - **Volume:** 15
+   - **Issue:** 14
+   - **Authors:** Mestriner Daniele; Rosini Alessandro; Xhani Iris; Bonfiglio Andrea; Procopio Renato
+   - **Keywords:** frequency regulation | microgrids | model predictive control
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2022:
+     - Control and Optimization (Q1, rank 21, percentile 83)
+     - Engineering (miscellaneous) (Q1, rank 27, percentile 82)
+     - Electrical and Electronic Engineering (Q2, rank 197, percentile 73)
+     - Energy Engineering and Power Technology (Q2, rank 77, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 18, percentile 67)
+     - Fuel Technology (Q2, rank 39, percentile 67)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 103, percentile 56)
+   - **Source Id:** 62932
+   - **Author Ids:** 57115575100;57204050700;57854403900;36607521000;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;128490304;60025153;60025153
+   - **Corresponding:** Mestriner D.
+71.
+   - **Title:** An Advanced Droop Control Strategy for Reactive Power Assessment in Islanded Microgrids
+   - **Venue:** IEEE Transactions on Power Systems
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 33
+   - **DOI:** 10.1109/TPWRS.2021.3124062
+   - **Scopus ID:** 2-s2.0-85118685518
+   - **ISSN:** 08858950
+   - **eISSN:** 15580679
+   - **Volume:** 37
+   - **Issue:** 4
+   - **Pages:** 3014-3025
+   - **Authors:** Minetti Manuela; Rosini Alessandro; Denegri Gio Battista; Bonfiglio Andrea; Procopio Renato
+   - **Keywords:** droop control | inverter control | Microgrid | primary control | reactive power sharing
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 36, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 17, percentile 94)
+     2022:
+     - Electrical and Electronic Engineering (Q1, rank 30, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 14, percentile 94)
+   - **Source Id:** 28825
+   - **Author Ids:** 57210474295;57204050700;7004649825;36607521000;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Minetti M.
+72.
+   - **Title:** Can Frequency Be Used to Achieve Communication-Less Primary Control in Photovoltaic-Storage Islanded Microgrids?
+   - **Venue:** 2022 Workshop on Blockchain for Renewables Integration Blorin 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/BLORIN54731.2022.10028415
+   - **Scopus ID:** 2-s2.0-85148332300
+   - **Pages:** 102-106
+   - **Authors:** Rosini Alessandro; Procopio Renato; Bonfiglio Andrea
+   - **Keywords:** Grid-Feeding converter | Grid-Forming converter | Islanded Microgrid | Primary Frequency Control
+   - **Source Id:** 21101136298
+   - **Author Ids:** 57204050700;7801615894;36607521000
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Rosini A.
+73.
+   - **Title:** Impact of Considering Surger Arresters to Reduce Lightning Induced Voltage: Emphasis on the Grounding Modeling
+   - **Venue:** 2022 Workshop on Communication Networks and Power Systems Wcnps 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/WCNPS56355.2022.9969679
+   - **Scopus ID:** 2-s2.0-85145434688
+   - **Authors:** Nobre Icaro Augusto; Colqui Jaimis S.L.; Mestriner Daniele; Procopio Renato; Brignone Massimo; Moura Rodolfo A.R.; Schroeder Marco A.O.; Resende Ursula C.; Filho Jose Pissolato
+   - **Keywords:** distribution lines | grounding modeling | Lightning induced voltages | shield wire | surge arresters
+   - **Source Id:** 21101129798
+   - **Author Ids:** 58040099000;57211901417;57115575100;7801615894;8580886100;56045547600;15064585600;15064798700;57212237824
+   - **Authoraffiliationids:** 129035900;60029570;60025153;60025153;60025153;60028351;60028351;129035900;60029570
+   - **Corresponding:** Nobre I.A.
+74.
+   - **Title:** Real-Time Power System Laboratories at the University of Genoa
+   - **Venue:** 2022 Aeit International Annual Conference Aeit 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.23919/AEIT56783.2022.9951786
+   - **Scopus ID:** 2-s2.0-85143621135
+   - **Authors:** Bonfiglio Andrea; Bracco Stefano; D'Agostino Fabio; Delfino Federico; Laiolo Paola; Invernizzi Marco; Massucco Stefano; Procopio Renato; Saviozzi Matteo; Silvestro Federico
+   - **Keywords:** Power Laboratories | Power Systems | Real Time Simulation
+   - **Source Id:** 21101125262
+   - **Author Ids:** 36607521000;15049159900;56553864200;6603766602;56576462300;6701527755;6603357712;7801615894;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+75.
+   - **Title:** A Contribution to Reactive Power Control in Inverter Based Islanded Microgrids
+   - **Venue:** IEEE Power and Energy Society General Meeting
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/PESGM48719.2022.9916941
+   - **Scopus ID:** 2-s2.0-85141509462
+   - **ISSN:** 19449925
+   - **eISSN:** 19449933
+   - **Volume:** 2022-July
+   - **Authors:** Rosini Alessandro; Minetti Manuela; Denegri Gio Battista; Procopio Renato; Bonfiglio Andrea
+   - **Keywords:** Droop control | Inverter control | Microgrid | Primary Control | Reactive Power Sharing
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 622, percentile 37)
+     - Nuclear Energy and Engineering (Q3, rank 53, percentile 37)
+     - Energy Engineering and Power Technology (Q3, rank 208, percentile 36)
+     - Renewable Energy, Sustainability and the Environment (Q3, rank 232, percentile 25)
+   - **Source Id:** 20600195623
+   - **Author Ids:** 57204050700;57210474295;7004649825;7801615894;36607521000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Rosini A.
+76.
+   - **Title:** A Simplified Method for the Evaluation of Lightning-Induced Overvoltage Peaks with Frequency-Dependent Soil Parameters
+   - **Venue:** 2022 IEEE International Conference on Environment and Electrical Engineering and 2022 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/EEEIC/ICPSEurope54979.2022.9854555
+   - **Scopus ID:** 2-s2.0-85138008714
+   - **Authors:** Moura Rodolfo A.R.; Mestriner Daniele; Procopio Renato; Schroeder Marco A.O.; Assis Fernando A.; Nicora Martino; Delfino Federico
+   - **Keywords:** frequency-dependent electrical parameters of the soil | lightning | lightning-induced overvoltage | overhead distribution lines
+   - **Source Id:** 21101107964
+   - **Author Ids:** 56045547600;57115575100;7801615894;15064585600;57193615355;57210463204;6603766602
+   - **Authoraffiliationids:** 60028351;60025153;60025153;60028351;60028351;60025153;60025153
+   - **Corresponding:** Moura R.A.R.
+77.
+   - **Title:** Lightning-Induced Overvoltage Peaks Considering Soil Parameters Frequency-Dependence: New Approach with Dominant Frequency Associated with Lightning Current Front Time
+   - **Venue:** Proceedings of International Conference on Harmonics and Quality of Power Ichqp
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICHQP53011.2022.9808740
+   - **Scopus ID:** 2-s2.0-85133768366
+   - **ISSN:** 15406008
+   - **eISSN:** 21640610
+   - **Volume:** 2022-May
+   - **Authors:** Moura Rodolfo A.R.; Mestriner Daniele; Procopio Renato; Schroeder Marco A.O.; Assis Fernando A.; Delfino Federico
+   - **Keywords:** Frequency-dependent electrical parameters of soil | induced voltage | lightning | overhead line
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q3, rank 354, percentile 35)
+     - Energy Engineering and Power Technology (Q3, rank 213, percentile 34)
+     - Electrical and Electronic Engineering (Q3, rank 654, percentile 34)
+     - Fuel Technology (Q3, rank 92, percentile 32)
+     - Signal Processing (Q3, rank 132, percentile 32)
+   - **Source Id:** 21100228510
+   - **Author Ids:** 56045547600;57115575100;7801615894;15064585600;57193615355;6603766602
+   - **Authoraffiliationids:** 60028351;60025153;60025153;60025153;60025153;60028351
+   - **Corresponding:** Moura R.A.R.
+78.
+   - **Title:** Estimation of the Lightning Performance of Overhead Lines Accounting for Different Types of Strokes and Multiple Strike Points
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1109/TEMC.2021.3060139
+   - **Scopus ID:** 2-s2.0-85102641007
+   - **ISSN:** 00189375
+   - **eISSN:** 1558187X
+   - **Volume:** 63
+   - **Issue:** 6
+   - **Pages:** 2015-2023
+   - **Authors:** Nicora Martino; Mestriner Daniele; Brignone Massimo; Procopio Renato; Fiori Elisabetta; Piantini Alexandre; Rachidi Farhad
+   - **Keywords:** Lightning parameters | lightning performance | Monte Carlo method | overvoltage protection | power distribution lines
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2021:
+     - Condensed Matter Physics (Q2, rank 126, percentile 69)
+     - Electrical and Electronic Engineering (Q2, rank 215, percentile 69)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 70, percentile 66)
+   - **Source Id:** 26051
+   - **Author Ids:** 57210463204;57115575100;8580886100;7801615894;35229110700;56045386400;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;102075139;60008088;60028186
+   - **Corresponding:** Nicora M.
+79.
+   - **Title:** An Efficient Methodology for the Evaluation of the Lightning Performance of Overhead Lines
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 19
+   - **DOI:** 10.1109/TEMC.2021.3054427
+   - **Scopus ID:** 2-s2.0-85100937032
+   - **ISSN:** 00189375
+   - **eISSN:** 1558187X
+   - **Volume:** 63
+   - **Issue:** 4
+   - **Pages:** 1137-1145
+   - **Authors:** Mestriner Daniele; Brignone Massimo; Procopio Renato; Nicora Martino; Fiori Elisabetta; Piantini Alexandre; Rachidi Farhad
+   - **Keywords:** Lightning electromagnetic pulse | lightning-induced effect and protection | return stroke channel models
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2021:
+     - Condensed Matter Physics (Q2, rank 126, percentile 69)
+     - Electrical and Electronic Engineering (Q2, rank 215, percentile 69)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 70, percentile 66)
+   - **Source Id:** 26051
+   - **Author Ids:** 57115575100;8580886100;7801615894;57210463204;35229110700;56045386400;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Mestriner D.
+80.
+   - **Title:** A 10-year study on the lightning activity in Italy using data from the SIRF network
+   - **Venue:** Atmospheric Research
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.1016/j.atmosres.2021.105552
+   - **Scopus ID:** 2-s2.0-85102572946
+   - **ISSN:** 01698095
+   - **Volume:** 256
+   - **Authors:** Nicora Martino; Mestriner Daniele; Brignone Massimo; Bernardi Marina; Procopio Renato; Fiori Elisabetta
+   - **Keywords:** Cloud-to-Ground Lightning | Lightning Location System | Lightning risk | Lightning statistics
+   - **Quartile:**
+     2025:
+     - Atmospheric Science (Q1, rank 18, percentile 88)
+     2021:
+     - Atmospheric Science (Q1, rank 14, percentile 90)
+   - **Source Id:** 12092
+   - **Author Ids:** 57210463204;57115575100;8580886100;56269310700;7801615894;35229110700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60083358;60025153;102075139
+   - **Corresponding:** Nicora M.
+81.
+   - **Title:** A review of reactive power sharing control techniques for islanded microgrids
+   - **Venue:** Renewable and Sustainable Energy Reviews
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 56
+   - **DOI:** 10.1016/j.rser.2021.110745
+   - **Scopus ID:** 2-s2.0-85100258186
+   - **ISSN:** 13640321
+   - **eISSN:** 18790690
+   - **Volume:** 141
+   - **Authors:** Rosini A.; Labella A.; Bonfiglio A.; Procopio R.; Guerrero Josep M.
+   - **Keywords:** Hierarchical control | Islanded microgrids | Microgrids | Primary control | Reactive power sharing | Voltage regulation
+   - **Quartile:**
+     2025:
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 7, percentile 97)
+     2021:
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 6, percentile 97)
+   - **Source Id:** 27567
+   - **Author Ids:** 57204050700;57114931700;36607521000;7801615894;35588010400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60022134
+   - **Corresponding:** Rosini A.
+82.
+   - **Title:** Impact of grounding modeling on lightning-induced voltages evaluation in distribution lines
+   - **Venue:** Applied Sciences Switzerland
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.3390/app11072931
+   - **Scopus ID:** 2-s2.0-85103860873
+   - **eISSN:** 20763417
+   - **Volume:** 11
+   - **Issue:** 7
+   - **Authors:** Mestriner Daniele; de Moura Rodolfo Antônio Ribeiro; Procopio Renato; Schroeder Marco Aurélio de Oliveira
+   - **Keywords:** Distribution lines | Grounding modeling | Lightning-induced overvoltages | Soil resistivity
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 69, percentile 80)
+     - Instrumentation (Q1, rank 38, percentile 80)
+     - Fluid Flow and Transfer Processes (Q1, rank 21, percentile 79)
+     - Computer Science Applications (Q2, rank 294, percentile 70)
+     - Materials Science (all) (Q2, rank 166, percentile 64)
+     - Process Chemistry and Technology (Q2, rank 34, percentile 55)
+     2021:
+     - Engineering (all) (Q2, rank 81, percentile 73)
+     - Instrumentation (Q2, rank 52, percentile 62)
+     - Computer Science Applications (Q2, rank 301, percentile 59)
+     - Fluid Flow and Transfer Processes (Q2, rank 37, percentile 58)
+     - Materials Science (all) (Q2, rank 219, percentile 51)
+     - Process Chemistry and Technology (Q3, rank 32, percentile 48)
+   - **Source Id:** 21100829268
+   - **Author Ids:** 57115575100;56045547600;7801615894;15064585600
+   - **Authoraffiliationids:** 60025153;60028351;60025153;60028351
+   - **Corresponding:** Mestriner D.
+83.
+   - **Title:** A decentralized approach for frequency and voltage regulation in islanded PV-Storage microgrids
+   - **Venue:** Electric Power Systems Research
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 38
+   - **DOI:** 10.1016/j.epsr.2020.106974
+   - **Scopus ID:** 2-s2.0-85099712458
+   - **ISSN:** 03787796
+   - **Volume:** 193
+   - **Authors:** Rosini A.; Mestriner D.; Labella A.; Bonfiglio A.; Procopio R.
+   - **Keywords:** Model Predictive Control | Photovoltaic integration | Primary frequency control | Renewable Energy Sources | Voltage regulation
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+     - Energy Engineering and Power Technology (Q1, rank 60, percentile 81)
+     2021:
+     - Electrical and Electronic Engineering (Q1, rank 128, percentile 81)
+     - Energy Engineering and Power Technology (Q1, rank 48, percentile 79)
+   - **Source Id:** 16044
+   - **Author Ids:** 57204050700;57115575100;57114931700;36607521000;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Rosini A.
+84.
+   - **Title:** Analytical Expressions for Lightning Electromagnetic Fields with Arbitrary Channel-Base Current - Part I: Theory
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1109/TEMC.2020.3018199
+   - **Scopus ID:** 2-s2.0-85095957297
+   - **ISSN:** 00189375
+   - **eISSN:** 1558187X
+   - **Volume:** 63
+   - **Issue:** 2
+   - **Pages:** 525-533
+   - **Authors:** Brignone Massimo; Procopio Renato; Mestriner Daniele; Rossi Mansueto; Delfino Federico; Rachidi Farhad; Rubinstein Marcos
+   - **Keywords:** Channel-base current | engineering models | lightning electromagnetic fields
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2021:
+     - Condensed Matter Physics (Q2, rank 126, percentile 69)
+     - Electrical and Electronic Engineering (Q2, rank 215, percentile 69)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 70, percentile 66)
+   - **Source Id:** 26051
+   - **Author Ids:** 8580886100;7801615894;57115575100;7403708681;6603766602;7003719604;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60028186;106110786
+   - **Corresponding:** Brignone M.
+85.
+   - **Title:** Analytical Expressions for Lightning Electromagnetic Fields with Arbitrary Channel-Base Current. Part II: Validation and Computational Performance
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1109/TEMC.2020.3018108
+   - **Scopus ID:** 2-s2.0-85095951500
+   - **ISSN:** 00189375
+   - **eISSN:** 1558187X
+   - **Volume:** 63
+   - **Issue:** 2
+   - **Pages:** 534-541
+   - **Authors:** Mestriner Daniele; Brignone Massimo; Procopio Renato; Rossi Mansueto; Delfino Federico; Rachidi Farhad; Rubinstein Marcos
+   - **Keywords:** Channel-base current | engineering models | lightning electromagnetic fields
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2021:
+     - Condensed Matter Physics (Q2, rank 126, percentile 69)
+     - Electrical and Electronic Engineering (Q2, rank 215, percentile 69)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 70, percentile 66)
+   - **Source Id:** 26051
+   - **Author Ids:** 57115575100;8580886100;7801615894;7403708681;6603766602;7003719604;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60028186;60101868
+   - **Corresponding:** Mestriner D.
+86.
+   - **Title:** A New Channel-Base Lightning Current Formula with Analytically Adjustable Parameters
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1109/TEMC.2020.3009273
+   - **Scopus ID:** 2-s2.0-85095942778
+   - **ISSN:** 00189375
+   - **eISSN:** 1558187X
+   - **Volume:** 63
+   - **Issue:** 2
+   - **Pages:** 542-549
+   - **Authors:** Mestriner Daniele; Brignone Massimo; Procopio Renato; Piantini Alexandre; Rachidi Farhad
+   - **Keywords:** Channel-base current (CBC) | lightning
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2021:
+     - Condensed Matter Physics (Q2, rank 126, percentile 69)
+     - Electrical and Electronic Engineering (Q2, rank 215, percentile 69)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 70, percentile 66)
+   - **Source Id:** 26051
+   - **Author Ids:** 57115575100;8580886100;7801615894;56045386400;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60008088;60028186
+   - **Corresponding:** Mestriner D.
+87.
+   - **Title:** On the Enhancement of the Flashovers on Overhead Distribution Lines Considering the Corona Discharge
+   - **Venue:** 12th International Symposium on Advanced Topics in Electrical Engineering Atee 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ATEE52255.2021.9425165
+   - **Scopus ID:** 2-s2.0-85106688400
+   - **Authors:** Nicora Martino; La Fata Alice; Procopio Renato; Fiori Elisabetta; Delfino Federico
+   - **Keywords:** EMC | Lightning Protection | Power system
+   - **Source Id:** 21101046723
+   - **Author Ids:** 57210463204;57434749400;7801615894;35229110700;6603766602
+   - **Authoraffiliationids:** 60025153;60025153;60025153;112224719;60025153
+   - **Corresponding:** Nicora M.
+88.
+   - **Title:** A Method for the Improvement of the Stability in FDTD-Based Numerical Codes Evaluating Lightning-Induced Voltages
+   - **Venue:** 2021 35th International Conference on Lightning Protection Iclp 2021 and 16th International Symposium on Lightning Protection Sipda 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICLPandSIPDA54065.2021.9627446
+   - **Scopus ID:** 2-s2.0-85123862186
+   - **Authors:** Mestriner Daniele; Brignone Massimo; Procopio Renato; Rachidi Farhad; Piantini Alexandre
+   - **Keywords:** FDTD | Lightning | Stability
+   - **Source Id:** 21101074738
+   - **Author Ids:** 57115575100;8580886100;7801615894;7003719604;56045386400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028186;60008088
+   - **Corresponding:** Mestriner D.
+89.
+   - **Title:** Cloud-to-Ground lightning nowcasting using Machine Learning
+   - **Venue:** 2021 35th International Conference on Lightning Protection Iclp 2021 and 16th International Symposium on Lightning Protection Sipda 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1109/ICLPandSIPDA54065.2021.9627428
+   - **Scopus ID:** 2-s2.0-85123855188
+   - **Authors:** La Fata Alice; Amato Federico; Bernardi Marina; D'Andrea Mirko; Procopio Renato; Fiori Elisabetta
+   - **Keywords:** Disaster Risk Management | Lightning | Machine Learning | Nowcasting | Random Forest
+   - **Source Id:** 21101074738
+   - **Author Ids:** 57434749400;56293783900;56269310700;36616259200;7801615894;35229110700
+   - **Authoraffiliationids:** 60025153;60000239;60083358;112224719;60025153;112224719
+   - **Corresponding:** La Fata A.
+90.
+   - **Title:** Lightning-induced Voltages on Overhead Distribution Lines Computed through Analytical Expressions for the Electromagnetic Fields
+   - **Venue:** 2021 35th International Conference on Lightning Protection Iclp 2021 and 16th International Symposium on Lightning Protection Sipda 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICLPandSIPDA54065.2021.9627387
+   - **Scopus ID:** 2-s2.0-85123836302
+   - **Authors:** Brignone Massimo; Procopio Renato; Mestriner Daniele; Rossi Mansueto; Delfino Federico; Rachidi Farhad; Rubinstein Marcos
+   - **Keywords:** Channel base current | Engineering models | Lightning electromagnetic fields
+   - **Source Id:** 21101074738
+   - **Author Ids:** 8580886100;7801615894;57115575100;7403708681;6603766602;7003719604;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60028186;60101868
+   - **Corresponding:** Brignone M.
+91.
+   - **Title:** The University of Genoa Savona Campus Sustainability Projects
+   - **Venue:** 6th International Forum on Research and Technology for Society and Industry Rtsi 2021 Proceedings
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/RTSI50628.2021.9597244
+   - **Scopus ID:** 2-s2.0-85123179632
+   - **Pages:** 115-120
+   - **Authors:** Laiolo Paola; Procopio Renato; Delfino Federico; Andreotti Amedeo; Angrisani Leopoldo
+   - **Keywords:** Microgrids | Research Infrastructures | Sustainability
+   - **Source Id:** 21101073249
+   - **Author Ids:** 56576462300;7801615894;6603766602;35564985300;7006649427
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60017293;60017293
+   - **Corresponding:** Laiolo P.
+92.
+   - **Title:** A transient stability approach for the analysis of droop-controlled islanded microgrids
+   - **Venue:** Electric Power Systems Research
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1016/j.epsr.2020.106509
+   - **Scopus ID:** 2-s2.0-85087519051
+   - **ISSN:** 03787796
+   - **Volume:** 187
+   - **Authors:** Mestriner D.; Labella A.; Brignone M.; Bonfiglio A.; Procopio R.
+   - **Keywords:** Microgrids | Power system modeling | Power system stability
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+     - Energy Engineering and Power Technology (Q1, rank 60, percentile 81)
+     2020:
+     - Electrical and Electronic Engineering (Q1, rank 100, percentile 85)
+     - Energy Engineering and Power Technology (Q1, rank 36, percentile 84)
+   - **Source Id:** 16044
+   - **Author Ids:** 57115575100;57114931700;8580886100;36607521000;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Mestriner D.
+93.
+   - **Title:** A Review of Lightning Location Systems: Part I-Methodologies and Techniques
+   - **Venue:** Proceedings 2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/EEEIC/ICPSEurope49358.2020.9160534
+   - **Scopus ID:** 2-s2.0-85090425412
+   - **Authors:** La Fata Alice; Tosi Irene; Brignone Massimo; Procopio Renato; Delfino Federico
+   - **Keywords:** cloud-to-ground flashes | lightning | lightning location system
+   - **Source Id:** 21101021268
+   - **Author Ids:** 57434749400;57218846251;8580886100;7801615894;6603766602
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** La Fata A.
+94.
+   - **Title:** Energy Management System for Pulau Ubin Islanded Microgrid Test-bed in Singapore
+   - **Venue:** Proceedings 2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/EEEIC/ICPSEurope49358.2020.9160658
+   - **Scopus ID:** 2-s2.0-85090423062
+   - **Authors:** Bertolotti Valentina; Procopio Renato; Rosini Alessandro; Bracco Stefano; Delfino Federico; Soh Chew Beng; Cao Shuyu; Wei Feng
+   - **Keywords:** Islanded Microgrid | power optimization | Pulau Ubin
+   - **Source Id:** 21101021268
+   - **Author Ids:** 57218843174;7801615894;57204050700;15049159900;6603766602;35202127400;7202703635;50062108000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;100379158;100379158;100379158
+   - **Corresponding:** Bertolotti V.
+95.
+   - **Title:** An MPC-sliding mode cascaded control architecture for PV grid-feeding inverters
+   - **Venue:** Energies
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.3390/en13092326
+   - **Scopus ID:** 2-s2.0-85086145212
+   - **eISSN:** 19961073
+   - **Volume:** 13
+   - **Issue:** 9
+   - **Authors:** Palmieri Alessandro; Rosini Alessandro; Procopio Renato; Bonfiglio Andrea
+   - **Keywords:** Microgrid | Model predictive control | Photovoltaic | Renewable energy | Sliding mode control
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2020:
+     - Control and Optimization (Q1, rank 17, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 13, percentile 83)
+     - Electrical and Electronic Engineering (Q2, rank 183, percentile 73)
+     - Energy (miscellaneous) (Q2, rank 7, percentile 72)
+     - Energy Engineering and Power Technology (Q2, rank 62, percentile 72)
+     - Fuel Technology (Q2, rank 33, percentile 67)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 69, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 57201775084;57204050700;7801615894;36607521000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Palmieri A.
+96.
+   - **Title:** An MPC approach for grid-forming inverters: Theory and experiment
+   - **Venue:** Energies
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.3390/en13092270
+   - **Scopus ID:** 2-s2.0-85084344465
+   - **eISSN:** 19961073
+   - **Volume:** 13
+   - **Issue:** 9
+   - **Authors:** Labella Alessandro; Filipovic Filip; Petronijevic Milutin; Bonfiglio Andrea; Procopio Renato
+   - **Keywords:** Grid-forming inverter | Microgrid | Model predictive control | Primary control
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2020:
+     - Control and Optimization (Q1, rank 17, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 13, percentile 83)
+     - Electrical and Electronic Engineering (Q2, rank 183, percentile 73)
+     - Energy (miscellaneous) (Q2, rank 7, percentile 72)
+     - Energy Engineering and Power Technology (Q2, rank 62, percentile 72)
+     - Fuel Technology (Q2, rank 33, percentile 67)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 69, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 57114931700;57209321092;14422928500;36607521000;7801615894
+   - **Authoraffiliationids:** 60025153;60068806;60068806;60025153;60025153
+   - **Corresponding:** Labella A.
+97.
+   - **Title:** On the Stability of FDTD-Based Numerical Codes to Evaluate Lightning-Induced Overvoltages in Overhead Transmission Lines
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 23
+   - **DOI:** 10.1109/TEMC.2018.2890043
+   - **Scopus ID:** 2-s2.0-85079753587
+   - **ISSN:** 00189375
+   - **eISSN:** 1558187X
+   - **Volume:** 62
+   - **Issue:** 1
+   - **Pages:** 108-115
+   - **Authors:** Brignone Massimo; Mestriner Daniele; Procopio Renato; Piantini Alexandre; Rachidi Farhad
+   - **Keywords:** Finite-difference time domain (FDTD) | lightning electromagnetic pulse | lightning-induced effects and protection | numerical methods and modeling
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2020:
+     - Electrical and Electronic Engineering (Q2, rank 174, percentile 74)
+     - Condensed Matter Physics (Q2, rank 105, percentile 74)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 54, percentile 72)
+   - **Source Id:** 26051
+   - **Author Ids:** 8580886100;57115575100;7801615894;56045386400;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60008088;60028186
+   - **Corresponding:** Brignone M.
+98.
+   - **Title:** A comprehensive inverter-bess primary control for AC microgrids
+   - **Venue:** Energies
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 44
+   - **DOI:** 10.3390/en12203810
+   - **Scopus ID:** 2-s2.0-85074927405
+   - **eISSN:** 19961073
+   - **Volume:** 12
+   - **Issue:** 20
+   - **Authors:** Fusero Michele; Tuckey Andrew; Rosini Alessandro; Serra Pietro; Procopio Renato; Bonfiglio Andrea
+   - **Keywords:** BESS | DIgSILENT PowerFactory | EMT simulations | Grid Forming | Grid Support | Grid Support | Inverter Control | Microgrid | Primary control
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2019:
+     - Control and Optimization (Q1, rank 19, percentile 81)
+     - Energy Engineering and Power Technology (Q2, rank 62, percentile 71)
+     - Electrical and Electronic Engineering (Q2, rank 208, percentile 69)
+     - Fuel Technology (Q2, rank 33, percentile 66)
+     - Energy (miscellaneous) (Q2, rank 9, percentile 63)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 72, percentile 60)
+   - **Source Id:** 62932
+   - **Author Ids:** 56415081600;59016060200;57204050700;8246669600;7801615894;36607521000
+   - **Authoraffiliationids:** 60102057;123444737;60025153;60102057;60025153;60025153
+   - **Corresponding:** Fusero M.
+99.
+   - **Title:** Load voltage direct tracking of a DC-DC buck-boost converter
+   - **Venue:** 2019 21st European Conference on Power Electronics and Applications EPE 2019 Ecce Europe
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/EPE.2019.8915197
+   - **Scopus ID:** 2-s2.0-85076692568
+   - **Authors:** Palmieri Alessandro; Bonfiglio Andrea; Invernizzi Marco; Lanzarotto Damiano; Procopio Renato
+   - **Keywords:** Converter control | Non-linear control | Non-minimum phase system | Unstable internal dynamics
+   - **Source Id:** 21100939561
+   - **Author Ids:** 57201775084;36607521000;6701527755;57195070345;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Palmieri A.
+100.
+   - **Title:** Power Management in Islanded Hybrid Diesel-Storage Microgrids
+   - **Venue:** Proceedings of 2019 IEEE Pes Innovative Smart Grid Technologies Europe Isgt Europe 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/ISGTEurope.2019.8905522
+   - **Scopus ID:** 2-s2.0-85075852956
+   - **Authors:** Rosini Alessandro; Bonfiglio Andrea; Invernizzi Marco; Procopio Renato; Serra Pietro
+   - **Keywords:** Diesel Generator | droop control | EMT simulations | Microgrid | Microgrid control
+   - **Source Id:** 21100937400
+   - **Author Ids:** 57204050700;36607521000;6701527755;7801615894;8246669600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60102057
+   - **Corresponding:** Rosini A.
+101.
+   - **Title:** A review on the return stroke engineering models attenuation function: Proposed expressions, validation and identification methods
+   - **Venue:** Electric Power Systems Research
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 21
+   - **DOI:** 10.1016/j.epsr.2019.03.019
+   - **Scopus ID:** 2-s2.0-85063387708
+   - **ISSN:** 03787796
+   - **Volume:** 172
+   - **Pages:** 230-241
+   - **Authors:** Brignone Massimo; Mestriner Daniele; Procopio Renato; Delfino Federico
+   - **Keywords:** Attenuation function | Inverse problems | Regularization techniques | Return stroke
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+     - Energy Engineering and Power Technology (Q1, rank 60, percentile 81)
+     2019:
+     - Energy Engineering and Power Technology (Q1, rank 25, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 84, percentile 87)
+   - **Source Id:** 16044
+   - **Author Ids:** 8580886100;57115575100;7801615894;6603766602
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Brignone M.
+102.
+   - **Title:** An MPC-Based approach for emergency control ensuring transient stability in power grids with steam plants
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 36
+   - **DOI:** 10.1109/TIE.2018.2870384
+   - **Scopus ID:** 2-s2.0-85054200925
+   - **ISSN:** 02780046
+   - **Volume:** 66
+   - **Issue:** 7
+   - **Pages:** 5412-5422
+   - **Authors:** Bonfiglio Andrea; Cantoni Federico; Oliveri Alberto; Procopio Renato; Rosini Alessandro; Invernizzi Marco; Storace Marco
+   - **Keywords:** Constrained optimization | Model-predictive control (MPC) | Power system emergency control
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+     2019:
+     - Control and Systems Engineering (Q1, rank 3, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 13, percentile 98)
+   - **Source Id:** 26053
+   - **Author Ids:** 36607521000;57505409900;57200399832;7801615894;57204050700;6701527755;7004134087
+   - **Authoraffiliationids:** 60025153;60025153-60032170;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+103.
+   - **Title:** A model predictive control design for power generation heavy-duty gas turbines
+   - **Venue:** Energies
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.3390/en12112182
+   - **Scopus ID:** 2-s2.0-85067173149
+   - **eISSN:** 19961073
+   - **Volume:** 12
+   - **Issue:** 11
+   - **Authors:** Rosini Alessandro; Palmieri Alessandro; Lanzarotto Damiano; Procopio Renato; Bonfiglio Andrea
+   - **Keywords:** Constrained nonlinear systems | Gas turbine control | Model predictive control | Model-based control
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2019:
+     - Control and Optimization (Q1, rank 19, percentile 81)
+     - Energy Engineering and Power Technology (Q2, rank 62, percentile 71)
+     - Electrical and Electronic Engineering (Q2, rank 208, percentile 69)
+     - Fuel Technology (Q2, rank 33, percentile 66)
+     - Energy (miscellaneous) (Q2, rank 9, percentile 63)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 72, percentile 60)
+   - **Source Id:** 62932
+   - **Author Ids:** 57204050700;57201775084;57195070345;7801615894;36607521000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Rosini A.
+104.
+   - **Title:** Lightning protection of trasmission lines: Analysis of lightning activity in Italian territory
+   - **Venue:** Proceedings 2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/EEEIC.2019.8783641
+   - **Scopus ID:** 2-s2.0-85070835523
+   - **Authors:** Nicora Martino; Brignone Massimo; Fiori Elisabetta; Rossi Mansueto; Procopio Renato; Delfino Federico
+   - **Keywords:** Channel-base current | Ground Flash Density | Lightning | Lightning measurements
+   - **Source Id:** 21100924363
+   - **Author Ids:** 57210463204;8580886100;35229110700;7403708681;7801615894;6603766602
+   - **Authoraffiliationids:** 60025153;60025153;102075139;60025153;60025153;60025153
+   - **Corresponding:** Nicora M.
+105.
+   - **Title:** Lightning Current Parameters Effects on the Induced Overvoltages in Transmission Lines
+   - **Venue:** Proceedings 2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/EEEIC.2019.8783658
+   - **Scopus ID:** 2-s2.0-85070824602
+   - **Authors:** Mestriner Daniele; Nicora Martino; Procopio Renato; Brignone Massimo; Rossi Mansueto; Delfino Federico; Fiori Elisabetta
+   - **Keywords:** Electromagnetic fields | Lightning | Lightning Induced Voltages | Statistical analysis
+   - **Source Id:** 21100924363
+   - **Author Ids:** 57115575100;57210463204;7801615894;8580886100;7403708681;6603766602;35229110700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;102075139
+   - **Corresponding:** Mestriner D.
+106.
+   - **Title:** Guest Editorial Special Section 'Advances in Lightning Modeling, Computation, and Measurement'
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Editorial
+   - **Citations:** 0
+   - **DOI:** 10.1109/TEMC.2019.2918395
+   - **Scopus ID:** 2-s2.0-85067409551
+   - **ISSN:** 00189375
+   - **Volume:** 61
+   - **Issue:** 3
+   - **Pages:** 603-605
+   - **Authors:** Procopio R.; Baba Y.; Piantini A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2019:
+     - Electrical and Electronic Engineering (Q1, rank 166, percentile 75)
+     - Condensed Matter Physics (Q2, rank 106, percentile 73)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 53, percentile 71)
+   - **Source Id:** 26051
+   - **Author Ids:** 7801615894;35551223100;56045386400
+   - **Authoraffiliationids:** 60025153;60010726;60008088
+   - **Corresponding:** Procopio R.
+107.
+   - **Title:** EM Fields Generated by a Scale Model Helical Antenna and Its Use in Validating a Code for Lightning-Induced Voltage Calculation
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1109/TEMC.2019.2911995
+   - **Scopus ID:** 2-s2.0-85067394704
+   - **ISSN:** 00189375
+   - **eISSN:** 1558187X
+   - **Volume:** 61
+   - **Issue:** 3
+   - **Pages:** 778-787
+   - **Authors:** Brignone Massimo; Mestriner Daniele; Procopio Renato; Rossi Mansueto; Piantini Alexandre; Rachidi Farhad
+   - **Keywords:** Lightning electromagnetic pulse | lightning induced effects and protection | lightning location | lightning measurement and modeling
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2019:
+     - Electrical and Electronic Engineering (Q1, rank 166, percentile 75)
+     - Condensed Matter Physics (Q2, rank 106, percentile 73)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 53, percentile 71)
+   - **Source Id:** 26051
+   - **Author Ids:** 8580886100;57115575100;7801615894;7403708681;56045386400;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60008088;60028186
+   - **Corresponding:** Brignone M.
+108.
+   - **Title:** A Sliding Mode Control Approach for Gas Turbine Power Generators
+   - **Venue:** IEEE Transactions on Energy Conversion
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 36
+   - **DOI:** 10.1109/TEC.2018.2879688
+   - **Scopus ID:** 2-s2.0-85056176939
+   - **ISSN:** 08858969
+   - **Volume:** 34
+   - **Issue:** 2
+   - **Pages:** 921-932
+   - **Authors:** Bonfiglio Andrea; Cacciacarne Stefano; Invernizzi Marco; Lanzarotto Damiano; Palmieri Alessandro; Procopio Renato
+   - **Keywords:** Feedback linearization | gas turbine | model based control | nonlinear systems | sliding mode
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 62, percentile 93)
+     - Energy Engineering and Power Technology (Q1, rank 30, percentile 90)
+     2019:
+     - Energy Engineering and Power Technology (Q1, rank 13, percentile 94)
+     - Electrical and Electronic Engineering (Q1, rank 55, percentile 91)
+   - **Source Id:** 28824
+   - **Author Ids:** 36607521000;57192958598;6701527755;57195070345;57201775084;7801615894
+   - **Authoraffiliationids:** 60025153;60073836;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+109.
+   - **Title:** Tuning and feasibility analysis of classical first-order MIMO non-linear sliding mode control design for industrial applications
+   - **Venue:** Machines
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.3390/machines7010010
+   - **Scopus ID:** 2-s2.0-85067605020
+   - **eISSN:** 20751702
+   - **Volume:** 7
+   - **Issue:** 1
+   - **Authors:** Palmieri Alessandro; Procopio Renato; Bonfiglio Andrea; Brignone Massimo; Invernizzi Marco; Morini Andrea; Veselic' Boban
+   - **Keywords:** Nonlinear systems control | Robust control | Sliding mode control | Uncertain systems
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 20, percentile 88)
+     - Mechanical Engineering (Q1, rank 165, percentile 77)
+     - Industrial and Manufacturing Engineering (Q2, rank 104, percentile 74)
+     - Electrical and Electronic Engineering (Q2, rank 256, percentile 74)
+     - Control and Systems Engineering (Q2, rank 105, percentile 72)
+     - Computer Science (miscellaneous) (Q2, rank 48, percentile 72)
+     2019:
+     - Control and Optimization (Q2, rank 26, percentile 74)
+     - Industrial and Manufacturing Engineering (Q2, rank 92, percentile 73)
+     - Computer Science (miscellaneous) (Q2, rank 19, percentile 71)
+     - Mechanical Engineering (Q2, rank 184, percentile 68)
+     - Electrical and Electronic Engineering (Q2, rank 247, percentile 63)
+     - Control and Systems Engineering (Q2, rank 95, percentile 60)
+   - **Source Id:** 21100838145
+   - **Author Ids:** 57201775084;7801615894;36607521000;8580886100;6701527755;7006658135;6602578334
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60068806
+   - **Corresponding:** Palmieri A.
+110.
+   - **Title:** Design and Implementation of a Variable Synthetic Inertia Controller for Wind Turbine Generators
+   - **Venue:** IEEE Transactions on Power Systems
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 98
+   - **DOI:** 10.1109/TPWRS.2018.2865958
+   - **Scopus ID:** 2-s2.0-85059111391
+   - **ISSN:** 08858950
+   - **Volume:** 34
+   - **Issue:** 1
+   - **Pages:** 754-764
+   - **Authors:** Bonfiglio Andrea; Invernizzi Marco; Labella Alessandro; Procopio Renato
+   - **Keywords:** Frequency support | renewable generation | synthetic inertia | wind energy
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 36, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 17, percentile 94)
+     2019:
+     - Energy Engineering and Power Technology (Q1, rank 7, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 25, percentile 96)
+   - **Source Id:** 28825
+   - **Author Ids:** 36607521000;6701527755;57114931700;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+111.
+   - **Title:** The University of Genoa Smart City Demo Site
+   - **Venue:** 2018 110th Aeit International Annual Conference Aeit 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.23919/AEIT.2018.8577374
+   - **Scopus ID:** 2-s2.0-85060314528
+   - **Authors:** Bracco Stefano; Brignone Massimo; Delfino Federico; Laiolo Paola; Procopio Renato
+   - **Keywords:** Energy Island | Living Lab | Smart City | Sustainability | Sustainable Energy
+   - **Source Id:** 21100895607
+   - **Author Ids:** 15049159900;8580886100;6603766602;56576462300;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bracco S.
+112.
+   - **Title:** Mitigation of lightning-induced overvoltages using shield wires: Application of the response surface method
+   - **Venue:** 34th International Conference on Lightning Protection Iclp 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/ICLP.2018.8503388
+   - **Scopus ID:** 2-s2.0-85056852982
+   - **Authors:** Brignone Massimo; Mestriner Daniele; Procopio Renato; Rachidi Farhad; Piantini Alexandre
+   - **Keywords:** lightning electromagnetic pulse | Lightning induced effect | lightning protection | statistical methods for EMC
+   - **Source Id:** 21100886503
+   - **Author Ids:** 8580886100;57115575100;7801615894;7003719604;56045386400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028186;60008088
+   - **Corresponding:** Brignone M.
+113.
+   - **Title:** Lightning performance and protection systems
+   - **Venue:** 2018 IEEE Symposium on Electromagnetic Compatibility Signal Integrity and Power Integrity EMC Si and Pi 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EMCSI.2018.8495220
+   - **Scopus ID:** 2-s2.0-85056584032
+   - **Authors:** Procopio Renato
+   - **Source Id:** 21100886130
+   - **Author Ids:** 7801615894
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Procopio R.
+114.
+   - **Title:** ITER Fast Discharging Units: A Black Box Model Approach for Circuital Simulations
+   - **Venue:** Proceedings 2018 IEEE International Conference on Environment and Electrical Engineering and 2018 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EEEIC.2018.8494418
+   - **Scopus ID:** 2-s2.0-85056535916
+   - **Authors:** Bonfiglio Andrea; Labella Alessandro; Mestriner Daniele; Milani Francesco; Procopio Renato; Ye Yulong
+   - **Keywords:** Black box arc model | Electric arc models | Nuclear fusion
+   - **Source Id:** 21100885800
+   - **Author Ids:** 36607521000;57114931700;57115575100;7006887353;7801615894;57220779716
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60002062;60025153;60002062
+   - **Corresponding:** Bonfiglio A.
+115.
+   - **Title:** Lightning Induced Voltages on Overhead Lines for Different Return Stroke Engineering Models
+   - **Venue:** IEEE International Symposium on Electromagnetic Compatibility
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/EMCEurope.2018.8485068
+   - **Scopus ID:** 2-s2.0-85056081720
+   - **ISSN:** 10774076
+   - **eISSN:** 21581118
+   - **Volume:** 2018-August
+   - **Pages:** 1008-1013
+   - **Authors:** Brignone Massimo; Mestriner Daniele; Procopio Renato; Javor Dario; Javor Vesna
+   - **Keywords:** engineering models | field-to-line coupling | induced voltages | lightning electromagnetic field
+   - **Source Id:** 17274
+   - **Author Ids:** 8580886100;57115575100;7801615894;57195286376;26658305900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60068806;60068806
+   - **Corresponding:** Brignone M.
+116.
+   - **Title:** Modeling and Experimental Validation of an Islanded No-Inertia Microgrid Site
+   - **Venue:** IEEE Transactions on Sustainable Energy
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 32
+   - **DOI:** 10.1109/TSTE.2018.2816401
+   - **Scopus ID:** 2-s2.0-85043773189
+   - **ISSN:** 19493029
+   - **Volume:** 9
+   - **Issue:** 4
+   - **Pages:** 1812-1821
+   - **Authors:** Bonfiglio Andrea; Delfino Federico; Labella Alessandro; Mestriner Daniele; Pampararo Fabio; Procopio Renato; Guerrero Josep M.
+   - **Keywords:** islanding | microgrids | power system modeling | Smart grids | system validation
+   - **Quartile:**
+     2025:
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 20, percentile 93)
+     2018:
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 9, percentile 94)
+   - **Source Id:** 19700177027
+   - **Author Ids:** 36607521000;6603766602;57114931700;57115575100;36782697700;7801615894;35588010400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60022134
+   - **Corresponding:** Bonfiglio A.
+117.
+   - **Title:** Evaluation of the mitigation effect of the shield wires on lightning induced overvoltages in MV distribution systems using statistical analysis
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 46
+   - **DOI:** 10.1109/TEMC.2017.2779184
+   - **Scopus ID:** 2-s2.0-85039784267
+   - **ISSN:** 00189375
+   - **Volume:** 60
+   - **Issue:** 5
+   - **Pages:** 1400-1408
+   - **Authors:** Brignone Massimo; Mestriner Daniele; Procopio Renato; Piantini Alexandre; Rachidi Farhad
+   - **Keywords:** Lightning electromagnetic pulse | lightning induced effect and protection | statistical methods for electromagnetic compatibility (EMC)
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2018:
+     - Electrical and Electronic Engineering (Q2, rank 170, percentile 74)
+     - Condensed Matter Physics (Q2, rank 125, percentile 68)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 59, percentile 66)
+   - **Source Id:** 26051
+   - **Author Ids:** 8580886100;57115575100;7801615894;56045386400;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60008088;60028186
+   - **Corresponding:** Brignone M.
+118.
+   - **Title:** Design criteria for the optimal sizing of integrated photovoltaic-storage systems
+   - **Venue:** Energy
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 43
+   - **DOI:** 10.1016/j.energy.2018.02.056
+   - **Scopus ID:** 2-s2.0-85042350941
+   - **ISSN:** 03605442
+   - **Volume:** 149
+   - **Pages:** 505-515
+   - **Authors:** Bendato Ilaria; Bonfiglio Andrea; Brignone Massimo; Delfino Federico; Pampararo Fabio; Procopio Renato; Rossi Mansueto
+   - **Keywords:** Economic analysis | Energy management | Optimal scheduling | Optimization | Smart grids
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 4, percentile 99)
+     - Civil and Structural Engineering (Q1, rank 7, percentile 98)
+     - Mechanical Engineering (Q1, rank 19, percentile 97)
+     - Building and Construction (Q1, rank 7, percentile 97)
+     - Management, Monitoring, Policy and Law (Q1, rank 13, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 34, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 16, percentile 95)
+     - Pollution (Q1, rank 10, percentile 94)
+     - Industrial and Manufacturing Engineering (Q1, rank 23, percentile 94)
+     - Fuel Technology (Q1, rank 10, percentile 93)
+     - Energy (all) (Q1, rank 7, percentile 91)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 32, percentile 89)
+     2018:
+     - Civil and Structural Engineering (Q1, rank 5, percentile 98)
+     - Building and Construction (Q1, rank 5, percentile 97)
+     - Industrial and Manufacturing Engineering (Q1, rank 15, percentile 95)
+     - Mechanical Engineering (Q1, rank 26, percentile 95)
+     - Pollution (Q1, rank 9, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 52, percentile 92)
+   - **Source Id:** 29348
+   - **Author Ids:** 56426374300;36607521000;8580886100;6603766602;36782697700;7801615894;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bendato I.
+119.
+   - **Title:** A simple strategy to optimally design and manage a photovoltaic plant integrated with a storage system for different applications
+   - **Venue:** 2017 Aeit International Annual Conference Infrastructures for Energy and ICT Opportunities for Fostering Innovation Aeit 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/AEIT.2017.8240515
+   - **Scopus ID:** 2-s2.0-85045936906
+   - **Volume:** 2017-January
+   - **Pages:** 1-6
+   - **Authors:** Bracco Stefano; Brignone Massimo; Delfino Federico; Girdinio Paola; Laiolo Paola; Procopio Renato; Rossi Mansueto
+   - **Keywords:** management | optimization | photovoltaic | planning | storage
+   - **Source Id:** 21100858105
+   - **Author Ids:** 15049159900;8580886100;6603766602;7003430835;56576462300;7801615894;7403708681
+   - **Authoraffiliationids:** 120591612;120591612;120591612-60025153;120591612;60025153;60025153;120591612
+   - **Corresponding:** Bracco S.
+120.
+   - **Title:** Definition of a sliding mode controller accounting for a reduced order model of gas turbine set
+   - **Venue:** 2017 52nd International Universities Power Engineering Conference Upec 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/UPEC.2017.8231919
+   - **Scopus ID:** 2-s2.0-85046100095
+   - **Volume:** 2017-January
+   - **Pages:** 1-6
+   - **Authors:** Bonfiglio A.; Invernizzi M.; Lanzarotto D.; Palmieri A.; Procopio R.
+   - **Keywords:** power system control | power system modelling | Sliding mode control
+   - **Source Id:** 21100858345
+   - **Author Ids:** 36607521000;6701527755;57195070345;57201775084;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+121.
+   - **Title:** The return stroke current attenuation function: Available models and identification methods from field measurements
+   - **Venue:** 2017 International Symposium on Lightning Protection Xiv Sipda 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/SIPDA.2017.8116959
+   - **Scopus ID:** 2-s2.0-85041341997
+   - **Pages:** 402-412
+   - **Authors:** Procopio Renato; Brignone Massimo
+   - **Keywords:** attenuation function | inverse problems | regularization techniques | return stroke
+   - **Source Id:** 21100849715
+   - **Author Ids:** 7801615894;8580886100
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Procopio R.
+122.
+   - **Title:** An energy management system for the savona campus smart polygeneration microgrid
+   - **Venue:** IEEE Systems Journal
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 62
+   - **DOI:** 10.1109/JSYST.2015.2419273
+   - **Scopus ID:** 2-s2.0-85030477023
+   - **ISSN:** 19328184
+   - **eISSN:** 19379234
+   - **Volume:** 11
+   - **Issue:** 3
+   - **Pages:** 1799-1809
+   - **Authors:** Bracco Stefano; Brignone Massimo; Delfino Federico; Procopio Renato
+   - **Keywords:** Energy management | energy storage | load flow (LF) | optimization methods | power generation dispatch
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 25, percentile 95)
+     - Electrical and Electronic Engineering (Q1, rank 49, percentile 95)
+     - Control and Systems Engineering (Q1, rank 25, percentile 93)
+     - Computer Science Applications (Q1, rank 68, percentile 93)
+     - Information Systems (Q1, rank 35, percentile 93)
+     2017:
+     - Electrical and Electronic Engineering (Q1, rank 66, percentile 90)
+     - Control and Systems Engineering (Q1, rank 26, percentile 89)
+   - **Source Id:** 11300153734
+   - **Author Ids:** 15049159900;8580886100;6603766602;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bracco S.
+123.
+   - **Title:** Steady-state assessments of PMSGs in wind generating units
+   - **Venue:** International Journal of Electrical Power and Energy Systems
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 47
+   - **DOI:** 10.1016/j.ijepes.2017.02.002
+   - **Scopus ID:** 2-s2.0-85013224089
+   - **ISSN:** 01420615
+   - **Volume:** 90
+   - **Pages:** 87-93
+   - **Authors:** Bonfiglio A.; Delfino F.; Gonzalez-Longatt F.; Procopio R.
+   - **Keywords:** Capability chart | Electric machines | Power system modeling and wind power generation
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 57, percentile 94)
+     - Energy Engineering and Power Technology (Q1, rank 25, percentile 92)
+     2017:
+     - Energy Engineering and Power Technology (Q1, rank 9, percentile 95)
+     - Electrical and Electronic Engineering (Q1, rank 35, percentile 94)
+   - **Source Id:** 17985
+   - **Author Ids:** 36607521000;6603766602;24922792900;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60000891;60025153
+   - **Corresponding:** Bonfiglio A.
+124.
+   - **Title:** Inertial frequency response provided by battery energy storage systems: Probabilistic assessment
+   - **Venue:** 2017 6th International Conference on Clean Electrical Power Renewable Energy Resources Impact Iccep 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/ICCEP.2017.8004847
+   - **Scopus ID:** 2-s2.0-85028503523
+   - **Pages:** 403-409
+   - **Authors:** Gonzalez-Longatt F.; Alhejaj S.; Bonfiglio A.; Procopio R.; Rueda J. L.
+   - **Keywords:** Battery energy storage system | frequency response | Monte-Carlo Simulation | probabilistic assessment
+   - **Source Id:** 21100828603
+   - **Author Ids:** 24922792900;57192573727;36607521000;7801615894;25958300100
+   - **Authoraffiliationids:** 60000891;60000891;60025153;60025153;60006288
+   - **Corresponding:** Gonzalez-Longatt F.
+125.
+   - **Title:** A two frame feedback linearization scheme for the control of fully rated wind generating units
+   - **Venue:** 2017 IEEE Manchester Powertech Powertech 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/PTC.2017.7981006
+   - **Scopus ID:** 2-s2.0-85034786860
+   - **Authors:** Bonfiglio A.; Di Grigoli L.; Procopio R.; Alhejaj S. M.; Gonzalez-Longatt F.
+   - **Keywords:** distributed energy resources | Feedback Linearization | non-linear control techniques | power systems modelling | Wind generation
+   - **Source Id:** 21100838740
+   - **Author Ids:** 36607521000;57197786063;7801615894;57192573727;24922792900
+   - **Authoraffiliationids:** 60025153;60000891;60000891;60000891;60000891
+   - **Corresponding:** Bonfiglio A.
+126.
+   - **Title:** A simplified first harmonic model for the Savona Campus Smart Polygeneration Microgrid
+   - **Venue:** Conference Proceedings 2017 17th IEEE International Conference on Environment and Electrical Engineering and 2017 1st IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 20
+   - **DOI:** 10.1109/EEEIC.2017.7977491
+   - **Scopus ID:** 2-s2.0-85026761590
+   - **Authors:** Labella Alessandro; Mestriner Daniele; Procopio Renato; Delfino Federico
+   - **Keywords:** Islanding | Mathematical model | Microgrids | Photovoltaic system | Smart grids
+   - **Source Id:** 21100826217
+   - **Author Ids:** 57114931700;57115575100;7801615894;6603766602
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Labella A.
+127.
+   - **Title:** Evaluation of lightning-induced overvoltages on a distribution system: Validation of a dedicated code using experimental results on a reduced-scale model
+   - **Venue:** Conference Proceedings 2017 17th IEEE International Conference on Environment and Electrical Engineering and 2017 1st IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1109/EEEIC.2017.7977636
+   - **Scopus ID:** 2-s2.0-85026733612
+   - **Authors:** Brignone Massimo; Ginnante Erica; Mestriner Daniele; Ruggi Laria; Procopio Renato; Piantini Alexandre; Rachidi Farhad
+   - **Keywords:** Induced voltage | Lightning | Multiconductor lines | Power systems simulator
+   - **Source Id:** 21100826217
+   - **Author Ids:** 8580886100;57195276339;57115575100;57195277352;7801615894;56045386400;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60008088;60028186
+   - **Corresponding:** Brignone M.
+128.
+   - **Title:** Definition and on-field validation of a microgrid energy management system to manage load and renewables uncertainties and system operator requirements
+   - **Venue:** Electric Power Systems Research
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 31
+   - **DOI:** 10.1016/j.epsr.2017.02.008
+   - **Scopus ID:** 2-s2.0-85013822891
+   - **ISSN:** 03787796
+   - **Volume:** 146
+   - **Pages:** 349-361
+   - **Authors:** Bendato Ilaria; Bonfiglio Andrea; Brignone Massimo; Delfino Federico; Pampararo Fabio; Procopio Renato
+   - **Keywords:** Energy management | Grid codes | Optimal scheduling | Optimization | Smart grids | Systems quality management
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+     - Energy Engineering and Power Technology (Q1, rank 60, percentile 81)
+     2017:
+     - Energy Engineering and Power Technology (Q1, rank 24, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 85)
+   - **Source Id:** 16044
+   - **Author Ids:** 56426374300;36607521000;8580886100;6603766602;36782697700;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bendato I.
+129.
+   - **Title:** A new method to evaluate the stability of a droop controlled micro grid
+   - **Venue:** 2017 10th International Symposium on Advanced Topics in Electrical Engineering Atee 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1109/ATEE.2017.7905017
+   - **Scopus ID:** 2-s2.0-85019265794
+   - **Pages:** 448-453
+   - **Authors:** Labella Alessandro; Mestriner Daniele; Procopio Renato; Brignone Massimo
+   - **Keywords:** droop control | droop stability | power sharing stability | simplified microgrid | stability
+   - **Source Id:** 21100812603
+   - **Author Ids:** 57114931700;57115575100;7801615894;8580886100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Labella A.
+130.
+   - **Title:** A real-time Energy Management System for the integration of economical aspects and system operator requirements: Definition and validation
+   - **Venue:** Renewable Energy
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 43
+   - **DOI:** 10.1016/j.renene.2016.10.061
+   - **Scopus ID:** 2-s2.0-84996656512
+   - **ISSN:** 09601481
+   - **eISSN:** 18790682
+   - **Volume:** 102
+   - **Pages:** 406-416
+   - **Authors:** Bendato Ilaria; Bonfiglio Andrea; Brignone Massimo; Delfino Federico; Pampararo Fabio; Procopio Renato
+   - **Keywords:** Energy management | Grid codes | Optimal scheduling | Optimization | Smart grids | Systems quality management
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 9, percentile 97)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 31, percentile 90)
+     2017:
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 17, percentile 89)
+   - **Source Id:** 27569
+   - **Author Ids:** 56426374300;36607521000;8580886100;6603766602;36782697700;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bendato I.
+131.
+   - **Title:** Evaluation of Power System Lightning Performance-Part II: Application to an Overhead Distribution Network
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 55
+   - **DOI:** 10.1109/TEMC.2016.2601657
+   - **Scopus ID:** 2-s2.0-85026732646
+   - **ISSN:** 00189375
+   - **Volume:** 59
+   - **Issue:** 1
+   - **Pages:** 146-153
+   - **Authors:** Brignone Massimo; Delfino Federico; Procopio Renato; Rossi Mansueto; Rachidi Farhad
+   - **Keywords:** Monte Carlo methods | overvoltage protection | power distribution lines | power system lightning effects
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2017:
+     - Electrical and Electronic Engineering (Q1, rank 166, percentile 75)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 51, percentile 70)
+     - Condensed Matter Physics (Q2, rank 120, percentile 69)
+   - **Source Id:** 26051
+   - **Author Ids:** 8580886100;6603766602;7801615894;7403708681;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60028186
+   - **Corresponding:** Brignone M.
+132.
+   - **Title:** Evaluation of Power System Lightning Performance, Part I: Model and Numerical Solution Using the PSCAD-EMTDC Platform
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 77
+   - **DOI:** 10.1109/TEMC.2016.2601640
+   - **Scopus ID:** 2-s2.0-84994045344
+   - **ISSN:** 00189375
+   - **Volume:** 59
+   - **Issue:** 1
+   - **Pages:** 137-145
+   - **Authors:** Brignone Massimo; Delfino Federico; Procopio Renato; Rossi Mansueto; Rachidi Farhad
+   - **Keywords:** Induced voltage | lightning | lightning performance | multiconductor lines | power system simulator
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2017:
+     - Electrical and Electronic Engineering (Q1, rank 166, percentile 75)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 51, percentile 70)
+     - Condensed Matter Physics (Q2, rank 120, percentile 69)
+   - **Source Id:** 26051
+   - **Author Ids:** 8580886100;6603766602;7801615894;7403708681;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60028186
+   - **Corresponding:** Brignone M.
+133.
+   - **Title:** A methodological approach to assess the impact of smarting action on electricity transmission and distribution networks related to Europe 2020 targets
+   - **Venue:** Energies
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.3390/en10020155
+   - **Scopus ID:** 2-s2.0-85016093937
+   - **eISSN:** 19961073
+   - **Volume:** 10
+   - **Issue:** 2
+   - **Authors:** Bonfiglio Andrea; Delfino Federico; Invernizzi Marco; Procopio Renato
+   - **Keywords:** Electricity transmission and distribution | Energy efficiency | Environmental impact | Power systems | Renewable generation integration
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2017:
+     - Control and Optimization (Q1, rank 18, percentile 80)
+     - Energy Engineering and Power Technology (Q2, rank 55, percentile 73)
+     - Electrical and Electronic Engineering (Q2, rank 202, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 7, percentile 63)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 67, percentile 55)
+   - **Source Id:** 62932
+   - **Author Ids:** 36607521000;6603766602;6701527755;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+134.
+   - **Title:** Modeling and maximum power point tracking control of wind generating units equipped with permanent magnet synchronous generators in presence of losses
+   - **Venue:** Energies
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 27
+   - **DOI:** 10.3390/en10010102
+   - **Scopus ID:** 2-s2.0-85016094945
+   - **eISSN:** 19961073
+   - **Volume:** 10
+   - **Issue:** 1
+   - **Authors:** Bonfiglio Andrea; Delfino Federico; Invernizzi Marco; Procopio Renato
+   - **Keywords:** Power systems modeling | Renewable power generation | Wind power
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2017:
+     - Control and Optimization (Q1, rank 18, percentile 80)
+     - Energy Engineering and Power Technology (Q2, rank 55, percentile 73)
+     - Electrical and Electronic Engineering (Q2, rank 202, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 7, percentile 63)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 67, percentile 55)
+   - **Source Id:** 62932
+   - **Author Ids:** 36607521000;6603766602;6701527755;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+135.
+   - **Title:** Electrical-loss analysis of power-split hybrid electric vehicles
+   - **Venue:** Energies
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.3390/en10122142
+   - **Scopus ID:** 2-s2.0-85041452438
+   - **eISSN:** 19961073
+   - **Volume:** 10
+   - **Issue:** 12
+   - **Authors:** Bonfiglio Andrea; Lanzarotto Damiano; Marchesoni Mario; Passalacqua Massimiliano; Procopio Renato; Repetto Matteo
+   - **Keywords:** Continuously variable transmission | Electric machine | Energy efficiency | Hybrid electric vehicle | Hybrid synergy drive | Power-split device
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2017:
+     - Control and Optimization (Q1, rank 18, percentile 80)
+     - Energy Engineering and Power Technology (Q2, rank 55, percentile 73)
+     - Electrical and Electronic Engineering (Q2, rank 202, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 7, percentile 63)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 67, percentile 55)
+   - **Source Id:** 62932
+   - **Author Ids:** 36607521000;57195070345;6701827441;57195070159;7801615894;56264520300
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+136.
+   - **Title:** Measurement Campaign and Experimental Results of an Islanded Microgrid
+   - **Venue:** Proceedings of 8th International Conference on Energy and Environment Energy Saved Today is Asset for Future Ciem 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/CIEM.2017.8120783
+   - **Scopus ID:** 2-s2.0-85041232066
+   - **Pages:** 31-35
+   - **Authors:** Labella Alessandro; Mestriner Daniele; Pampararo Fabio; Procopio Renato
+   - **Keywords:** Islanding operation | Microgrids | Oscilloscopes | Power system transients
+   - **Source Id:** 21100933089
+   - **Author Ids:** 57114931700;57115575100;36782697700;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Labella A.
+137.
+   - **Title:** Implementation of Primary Frequency Regulation on Fully Rated Wind Turbine Generators
+   - **Venue:** Proceedings of 8th International Conference on Energy and Environment Energy Saved Today is Asset for Future Ciem 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/CIEM.2017.8120815
+   - **Scopus ID:** 2-s2.0-85041186885
+   - **Pages:** 316-320
+   - **Authors:** Bonfiglio Andrea; Gonzalez-Longatt Francisco M.; Labella Alessandro; Procopio Renato
+   - **Keywords:** Frequency response | Inertia control | Power system | Wind energy | Wind turbine generator
+   - **Source Id:** 21100933089
+   - **Author Ids:** 36607521000;24922792900;57114931700;7801615894
+   - **Authoraffiliationids:** 60025153;60000891;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+138.
+   - **Title:** A Simplified Microgrid Model for the Validation of Islanded Control Logics
+   - **Venue:** Energies
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 30
+   - **DOI:** 10.3390/en10081141
+   - **Scopus ID:** 2-s2.0-85034814451
+   - **eISSN:** 19961073
+   - **Volume:** 10
+   - **Issue:** 8
+   - **Authors:** Bonfiglio Andrea; Brignone Massimo; Invernizzi Marco; Labella Alessandro; Mestriner Daniele; Procopio Renato
+   - **Keywords:** Distribute control | Droop control | Islanded microgrid | Microgrid | Microgrid model | Microgrid simulation | Storage characterization
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2017:
+     - Control and Optimization (Q1, rank 18, percentile 80)
+     - Energy Engineering and Power Technology (Q2, rank 55, percentile 73)
+     - Electrical and Electronic Engineering (Q2, rank 202, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 7, percentile 63)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 67, percentile 55)
+   - **Source Id:** 62932
+   - **Author Ids:** 36607521000;8580886100;6701527755;57114931700;57115575100;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+139.
+   - **Title:** Lightning potential index performances in multimicrophysical cloud-resolving simulations of a back-building mesoscale convective system: The Genoa 2014 event
+   - **Venue:** Journal of Geophysical Research
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 58
+   - **DOI:** 10.1002/2016JD026115
+   - **Scopus ID:** 2-s2.0-85018874960
+   - **ISSN:** 01480227
+   - **eISSN:** 21562202
+   - **Volume:** 122
+   - **Issue:** 8
+   - **Pages:** 4238-4257
+   - **Authors:** Lagasio M.; Parodi A.; Procopio R.; Rachidi F.; Fiori E.
+   - **Quartile:**
+     2017:
+     - Subject (Q1, rank 6, percentile 96)
+     - Subject (Q1, rank 5, percentile 95)
+     - Subject (Q1, rank 14, percentile 93)
+     - Subject (Q1, rank 15, percentile 92)
+     - Subject (Q1, rank 15, percentile 89)
+     - Subject (Q1, rank 35, percentile 89)
+     - Subject (Q1, rank 13, percentile 89)
+     - Subject (Q1, rank 10, percentile 88)
+     - Subject (Q1, rank 16, percentile 86)
+     - Subject (Q1, rank 15, percentile 86)
+     - Subject (Q1, rank 23, percentile 80)
+     - Subject (Q1, rank 22, percentile 80)
+     - Subject (Q2, rank 24, percentile 73)
+   - **Source Id:** 28428
+   - **Author Ids:** 57193136041;35568218100;7801615894;7003719604;35229110700
+   - **Authoraffiliationids:** 112224719;112224719;60025153;60028186;112224719
+   - **Corresponding:** Lagasio M.
+140.
+   - **Title:** Gas turbine generating units control via feedback linearization approach
+   - **Venue:** Energy
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 45
+   - **DOI:** 10.1016/j.energy.2017.01.048
+   - **Scopus ID:** 2-s2.0-85009480817
+   - **ISSN:** 03605442
+   - **Volume:** 121
+   - **Pages:** 491-512
+   - **Authors:** Bonfiglio A.; Cacciacarne S.; Invernizzi M.; Procopio R.; Schiano S.; Torre I.
+   - **Keywords:** Energy power generation | Feedback linearization | Gas cycles | Non-liner control techniques | Power systems
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 4, percentile 99)
+     - Civil and Structural Engineering (Q1, rank 7, percentile 98)
+     - Mechanical Engineering (Q1, rank 19, percentile 97)
+     - Building and Construction (Q1, rank 7, percentile 97)
+     - Management, Monitoring, Policy and Law (Q1, rank 13, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 34, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 16, percentile 95)
+     - Pollution (Q1, rank 10, percentile 94)
+     - Industrial and Manufacturing Engineering (Q1, rank 23, percentile 94)
+     - Fuel Technology (Q1, rank 10, percentile 93)
+     - Energy (all) (Q1, rank 7, percentile 91)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 32, percentile 89)
+     2017:
+     - Civil and Structural Engineering (Q1, rank 4, percentile 98)
+     - Building and Construction (Q1, rank 5, percentile 97)
+     - Industrial and Manufacturing Engineering (Q1, rank 10, percentile 97)
+     - Mechanical Engineering (Q1, rank 18, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 44, percentile 93)
+     - Pollution (Q1, rank 8, percentile 92)
+   - **Source Id:** 29348
+   - **Author Ids:** 36607521000;57192958598;6701527755;7801615894;57192960415;57192961419
+   - **Authoraffiliationids:** 60025153;60073836;60025153;60025153;60073836;60073836
+   - **Corresponding:** Bonfiglio A.
+141.
+   - **Title:** Implementation and Performance analysis of the lightning potential index as a forecasting tool
+   - **Venue:** 2016 33rd International Conference on Lightning Protection Iclp 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/ICLP.2016.7791514
+   - **Scopus ID:** 2-s2.0-85011049912
+   - **Authors:** Fiori Elisabetta; Lagasio Martina; Parodi Antonio; Procopio Renato; Smorgonskiy Alexander; Rachidi Farhad; Diendorfer Gerhard
+   - **Keywords:** Extreme events | Lightning potential index | Lightning prediction | Meteorological models | Orographic precipitation | Wrf
+   - **Source Id:** 21100793690
+   - **Author Ids:** 35229110700;57193136041;35568218100;7801615894;6508168496;7003719604;6602764855
+   - **Authoraffiliationids:** 112224719;112224719;112224719;60025153;60028186;60028186;105322163
+   - **Corresponding:** Fiori E.
+142.
+   - **Title:** Optimal thermal power production by means of an equivalent electric circuit for a thermal network: The Savona Campus Smart Polygeneration Microgrid case
+   - **Venue:** Iisa 2016 7th International Conference on Information Intelligence Systems and Applications
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/IISA.2016.7785394
+   - **Scopus ID:** 2-s2.0-85013191629
+   - **Authors:** Brignone Massimo; Delfino Federico; Fichera Matteo; Procopio Renato; Barillari Luca; Nilberto Alessandro
+   - **Keywords:** Energy Management | Optimization | Parameter Identification | Smart Cities | Smart grids | Thermal Networks
+   - **Source Id:** 21100795611
+   - **Author Ids:** 8580886100;6603766602;57193344538;7801615894;55568698600;9245207700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Brignone M.
+143.
+   - **Title:** A methodology to reduce the computational effort in the evaluation of the lightning performance of distribution networks
+   - **Venue:** Atmosphere
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.3390/atmos7110147
+   - **Scopus ID:** 2-s2.0-85000631157
+   - **eISSN:** 20734433
+   - **Volume:** 7
+   - **Issue:** 11
+   - **Authors:** Bendato Ilaria; Brignone Massimo; Delfino Federico; Procopio Renato; Rachidi Farhad
+   - **Keywords:** Critical Flashover Voltage | Lightning performance | Monte Carlo method
+   - **Quartile:**
+     2025:
+     - Environmental Science (miscellaneous) (Q2, rank 95, percentile 66)
+     - Atmospheric Science (Q2, rank 54, percentile 64)
+     2016:
+     - Environmental Science (miscellaneous) (Q3, rank 35, percentile 44)
+     - Atmospheric Science (Q3, rank 64, percentile 38)
+   - **Source Id:** 15838
+   - **Author Ids:** 56426374300;8580886100;6603766602;7801615894;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60028186
+   - **Corresponding:** Bendato I.
+144.
+   - **Title:** Experimental validation of PV Model uncertainties impact on microgrid EMS performances
+   - **Venue:** IEEE Power and Energy Society General Meeting
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/PESGM.2016.7741709
+   - **Scopus ID:** 2-s2.0-85002489746
+   - **ISSN:** 19449925
+   - **eISSN:** 19449933
+   - **Volume:** 2016-November
+   - **Authors:** Annaswamy A.; Nudell T.; Allais M.; Bonfiglio A.; Brignone M.; Cancemi C.; Delfino F.; Procopio R.; Robba M.
+   - **Keywords:** Energy Management Systems | Photovoltaic modeling | Smart Microgrids
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 622, percentile 37)
+     - Nuclear Energy and Engineering (Q3, rank 53, percentile 37)
+     - Energy Engineering and Power Technology (Q3, rank 208, percentile 36)
+     - Renewable Energy, Sustainability and the Environment (Q3, rank 232, percentile 25)
+   - **Source Id:** 20600195623
+   - **Author Ids:** 35569822700;55846033800;57192252463;36607521000;8580886100;57192254805;6603766602;7801615894;7004979187
+   - **Authoraffiliationids:** 60140949;60140949;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Annaswamy A.
+145.
+   - **Title:** Evaluation of inertial response controllers for full-rated power converter wind turbine (Type 4)
+   - **Venue:** IEEE Power and Energy Society General Meeting
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 43
+   - **DOI:** 10.1109/PESGM.2016.7741837
+   - **Scopus ID:** 2-s2.0-85002170909
+   - **ISSN:** 19449925
+   - **eISSN:** 19449933
+   - **Volume:** 2016-November
+   - **Authors:** Gonzalez-Longatt Francisco M.; Bonfiglio A.; Procopio R.; Verduci B.
+   - **Keywords:** Frequency controller | Frequency stability | Power system | Protection scheme | Wind turbine generator
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 622, percentile 37)
+     - Nuclear Energy and Engineering (Q3, rank 53, percentile 37)
+     - Energy Engineering and Power Technology (Q3, rank 208, percentile 36)
+     - Renewable Energy, Sustainability and the Environment (Q3, rank 232, percentile 25)
+   - **Source Id:** 20600195623
+   - **Author Ids:** 24922792900;36607521000;7801615894;57192257900
+   - **Authoraffiliationids:** 60000891;60025153;60025153;60025153
+   - **Corresponding:** Gonzalez-Longatt F.
+146.
+   - **Title:** A model predictive control approach for the optimization of polygeneration microgrids and demand response strategies
+   - **Venue:** Eeeic 2016 International Conference on Environment and Electrical Engineering
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/EEEIC.2016.7555621
+   - **Scopus ID:** 2-s2.0-84988355393
+   - **Authors:** Bracco Stefano; Delfino Federico; Procopio Renato; Rossi Mansueto; Robba Michela
+   - **Keywords:** Demand response | model predictive control | optimal control | polygeneration microgrids | renewable energy
+   - **Source Id:** 21100780440
+   - **Author Ids:** 15049159900;6603766602;7801615894;7403708681;7004979187
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60121711
+   - **Corresponding:** Bracco S.
+147.
+   - **Title:** Practical limit of synthetic inertia in full converter wind turbine generators: Simulation approach
+   - **Venue:** 2016 19th International Symposium on Electrical Apparatus and Technologies Siela 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 28
+   - **DOI:** 10.1109/SIELA.2016.7543007
+   - **Scopus ID:** 2-s2.0-84985947186
+   - **Authors:** Gonzalez-Longatt F.; Bonfiglio A.; Procopio R.; Bogdanov D.
+   - **Keywords:** control systems | frequency response | frequency stability | wind power | wind turbine
+   - **Source Id:** 21100777460
+   - **Author Ids:** 24922792900;36607521000;7801615894;55359685000
+   - **Authoraffiliationids:** 60000891;60025153;60025153;60004554
+   - **Corresponding:** Gonzalez-Longatt F.
+148.
+   - **Title:** Regularization techniques for the high-frequency electromagnetic field coupling problem with terminated lines
+   - **Venue:** Journal of Engineering Mathematics
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1007/s10665-015-9782-1
+   - **Scopus ID:** 2-s2.0-84924544151
+   - **ISSN:** 00220833
+   - **eISSN:** 15732703
+   - **Volume:** 96
+   - **Issue:** 1
+   - **Pages:** 73-93
+   - **Authors:** Brignone Massimo; Delfino Federico; Procopio Renato; Girdinio Paola
+   - **Keywords:** Electromagnetic coupling | Regularization theory | Terminated lines | Transmission line models
+   - **Quartile:**
+     2025:
+     - Mathematics (all) (Q1, rank 94, percentile 77)
+     - Engineering (all) (Q3, rank 181, percentile 47)
+     2016:
+     - Mathematics (all) (Q1, rank 82, percentile 75)
+     - Engineering (all) (Q2, rank 91, percentile 66)
+   - **Source Id:** 12485
+   - **Author Ids:** 8580886100;6603766602;7801615894;7003430835
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Brignone M.
+149.
+   - **Title:** Energy management in hybrid systems coupling PV and electrical storage
+   - **Venue:** Iisa 2015 6th International Conference on Information Intelligence Systems and Applications
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IISA.2015.7388080
+   - **Scopus ID:** 2-s2.0-84963812827
+   - **Authors:** Brignone Massimo; Delfino Federico; Pampararo Fabio; Procopio Renato; Rossi Mansueto; Barillari Luca
+   - **Keywords:** energy efficiency | energy management | sustainable microgrids
+   - **Source Id:** 21100455695
+   - **Author Ids:** 8580886100;6603766602;36782697700;7801615894;7403708681;55568698600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Brignone M.
+150.
+   - **Title:** Definition and experimental validation of a simplified model for a microgrid thermal network and its integration into energy management systems
+   - **Venue:** Energies
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.3390/en9110914
+   - **Scopus ID:** 2-s2.0-85016131665
+   - **eISSN:** 19961073
+   - **Volume:** 9
+   - **Issue:** 11
+   - **Authors:** Bonfiglio Andrea; Brignone Massimo; Delfino Federico; Nilberto Alessandro; Procopio Renato
+   - **Keywords:** Energy management | Optimization algorithm | Parameter identification | Smart grids | Thermal network
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2016:
+     - Subject (Q1, rank 32, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 37, percentile 80)
+     - Energy (miscellaneous) (Q2, rank 5, percentile 65)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 50, percentile 63)
+   - **Source Id:** 62932
+   - **Author Ids:** 36607521000;8580886100;6603766602;9245207700;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+151.
+   - **Title:** Approximate characterization of large Photovoltaic power plants at the Point of Interconnection
+   - **Venue:** Proceedings of the Universities Power Engineering Conference
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 23
+   - **DOI:** 10.1109/UPEC.2015.7339789
+   - **Scopus ID:** 2-s2.0-84958092976
+   - **Volume:** 2015-November
+   - **Authors:** Bonfiglio A.; Delfino F.; Invernizzi M.; Labella A.; Mestriner D.; Procopio R.; Serra P.
+   - **Keywords:** Photovoltaic Power Plants | Renewable integration
+   - **Source Id:** 69722
+   - **Author Ids:** 36607521000;6603766602;6701527755;57114931700;57115575100;7801615894;8246669600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60102057
+   - **Corresponding:** Bonfiglio A.
+152.
+   - **Title:** An equivalent electric circuit for the thermal Network of the Savona Campus Smart Polygeneration Microgrid
+   - **Venue:** 2015 IEEE Eindhoven Powertech Powertech 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/PTC.2015.7232394
+   - **Scopus ID:** 2-s2.0-84951304251
+   - **Authors:** Barillari Luca; Bracco Stefano; Brignone Massimo; Delfino Federico; Pampararo Fabio; Pacciani Carola; Procopio Renato; Rossi Mansueto; Nilberto Alessandro
+   - **Keywords:** Energy Management | Optimization Algorithm | Parameter Identification | Smart grids | Thermal Network
+   - **Source Id:** 21100431809
+   - **Author Ids:** 55568698600;15049159900;8580886100;6603766602;36782697700;57016725100;7801615894;7403708681;9245207700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Barillari L.
+153.
+   - **Title:** A two-step procedure for the energy management in smart microgrids accounting for economical and power quality issues
+   - **Venue:** 2015 IEEE 15th International Conference on Environment and Electrical Engineering Eeeic 2015 Conference Proceedings
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/EEEIC.2015.7165194
+   - **Scopus ID:** 2-s2.0-84943153053
+   - **Pages:** 395-400
+   - **Authors:** Bonfiglio Andrea; Brignone Massimo; Delfino Federico; Girdinio Paola; Pampararo Fabio; Procopio Renato
+   - **Keywords:** energy management | optimal scheduling | optimization | power quality | smart grids
+   - **Source Id:** 21100413842
+   - **Author Ids:** 36607521000;8580886100;6603766602;7003430835;36782697700;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+154.
+   - **Title:** An approximate methodology to verify the compliance of large photovoltaic power plants to system operator steady-state requirements
+   - **Venue:** Electric Power Systems Research
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1016/j.epsr.2015.05.015
+   - **Scopus ID:** 2-s2.0-84930945444
+   - **ISSN:** 03787796
+   - **Volume:** 127
+   - **Pages:** 80-92
+   - **Authors:** Bonfiglio Andrea; Delfino Federico; Invernizzi Marco; Procopio Renato; Serra Pietro
+   - **Keywords:** Photovoltaic power plants | Power plant equivalencing | Renewable generation | Renewable generation integration | Solar energy integration | System operator requirements
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+     - Energy Engineering and Power Technology (Q1, rank 60, percentile 81)
+     2015:
+     - Energy Engineering and Power Technology (Q1, rank 22, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 110, percentile 83)
+   - **Source Id:** 16044
+   - **Author Ids:** 36607521000;6603766602;6701527755;7801615894;8246669600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60102057
+   - **Corresponding:** Bonfiglio A.
+155.
+   - **Title:** A receding-horizon approach for active and reactive power flows optimization in microgrids
+   - **Venue:** 2014 IEEE Conference on Control Applications Cca Part of 2014 IEEE Multi Conference on Systems and Control Msc 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/CCA.2014.6981445
+   - **Scopus ID:** 2-s2.0-84920546202
+   - **Pages:** 867-872
+   - **Authors:** Bonfiglio A.; Bracco S.; Brignone M.; Delfino F.; Pampararo F.; Procopio R.; Robba M.; Rossi M.
+   - **Source Id:** 21101060560
+   - **Author Ids:** 36607521000;15049159900;8580886100;6603766602;36782697700;7801615894;7004979187;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60121711;60025153
+   - **Corresponding:** Bonfiglio A.
+156.
+   - **Title:** An equivalent two-port model for a transmission line of finite length accounting for high-frequency effects
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1109/TEMC.2014.2320986
+   - **Scopus ID:** 2-s2.0-84919929949
+   - **ISSN:** 00189375
+   - **Volume:** 56
+   - **Issue:** 6
+   - **Pages:** 1657-1665
+   - **Authors:** Brignone Massimo; Delfino Federico; Procopio Renato; Rossi Mansueto
+   - **Keywords:** Full-wave analysis | high-frequency (HF) coupling | terminations | transmission line (TL) models
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2014:
+     - Electrical and Electronic Engineering (Q1, rank 122, percentile 81)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 34, percentile 78)
+     - Condensed Matter Physics (Q1, rank 92, percentile 76)
+   - **Source Id:** 26051
+   - **Author Ids:** 8580886100;6603766602;7801615894;7403708681
+   - **Authoraffiliationids:** 114853576;114853576;114853576;114853576
+   - **Corresponding:** Brignone M.
+157.
+   - **Title:** Criteria for the equivalent modeling of large photovoltaic power plants
+   - **Venue:** IEEE Power and Energy Society General Meeting
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 32
+   - **DOI:** 10.1109/PESGM.2014.6939183
+   - **Scopus ID:** 2-s2.0-84930947710
+   - **ISSN:** 19449925
+   - **eISSN:** 19449933
+   - **Volume:** 2014-October
+   - **Issue:** October
+   - **Authors:** Bonfiglio A.; Delfino F.; Invernizzi M.; Procopio R.; Serra P.
+   - **Keywords:** Photovoltaic power plants | Renewables
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 622, percentile 37)
+     - Nuclear Energy and Engineering (Q3, rank 53, percentile 37)
+     - Energy Engineering and Power Technology (Q3, rank 208, percentile 36)
+     - Renewable Energy, Sustainability and the Environment (Q3, rank 232, percentile 25)
+   - **Source Id:** 20600195623
+   - **Author Ids:** 36607521000;6603766602;6701527755;7801615894;8246669600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60102057
+   - **Corresponding:** Bonfiglio A.
+158.
+   - **Title:** A semi-analytical formula for the evaluation of the indirect lightning performance of overhead power lines
+   - **Venue:** IEEE International Symposium on Electromagnetic Compatibility
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EMCEurope.2014.6930969
+   - **Scopus ID:** 2-s2.0-84908689173
+   - **ISSN:** 10774076
+   - **eISSN:** 21581118
+   - **Pages:** 560-564
+   - **Authors:** Brignone Massimo; Delfino Federico; Procopio Renato; Rossi Mansueto; Rachidi Farhad
+   - **Keywords:** lightning performance | LIOV-EMTP | power quality | probability density functions
+   - **Source Id:** 17274
+   - **Author Ids:** 8580886100;6603766602;7801615894;7403708681;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60028186
+   - **Corresponding:** Brignone M.
+159.
+   - **Title:** Improving power grids transient stability via Model Predictive Control
+   - **Venue:** Proceedings 2014 Power Systems Computation Conference Pscc 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 27
+   - **DOI:** 10.1109/PSCC.2014.7038364
+   - **Scopus ID:** 2-s2.0-84946687291
+   - **Authors:** Bonfiglio A.; Oliveri A.; Procopio R.; Delfino F.; Denegri G. B.; Invernizzi M.; Storace M.
+   - **Keywords:** emergency control | load shedding | MPC | stability
+   - **Source Id:** 21100377750
+   - **Author Ids:** 36607521000;57200399832;7801615894;6603766602;7004649825;6701527755;7004134087
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+160.
+   - **Title:** Day ahead microgrid optimization: A comparison among different models
+   - **Venue:** Opt I 2014 1st International Conference on Engineering and Applied Sciences Optimization Proceedings
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 26
+   - **Scopus ID:** 2-s2.0-84911872204
+   - **Pages:** 1153-1165
+   - **Authors:** Bonfiglio A.; Barillari L.; Bendato I.; Bracco S.; Brignone M.; Delfino F.; Pampararo F.; Procopio R.; Robba M.; Rossi M.
+   - **Keywords:** Energy storage | Micorgrids | Optimal power flow | Smartgrids
+   - **Source Id:** 21100348502
+   - **Author Ids:** 36607521000;55568698600;56426374300;15049159900;8580886100;6603766602;36782697700;7801615894;7004979187;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+161.
+   - **Title:** Optimal control of active power flows in Smart Microgrids
+   - **Venue:** 2014 IEEE Innovative Smart Grid Technologies Asia Isgt Asia 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ISGT-Asia.2014.6873853
+   - **Scopus ID:** 2-s2.0-84906674294
+   - **Pages:** 560-565
+   - **Authors:** Bonfiglio Andrea; Brignone Massimo; Delfino Federico; Pampararo Fabio; Procopio Renato; Rossi Mansueto; Robba Michela; Bracco Stefano
+   - **Keywords:** Microgrid | Optimal Control | Optimization | Power Systems | Renewable Energy Soureces (RES)
+   - **Source Id:** 21100332188
+   - **Author Ids:** 36607521000;8580886100;6603766602;36782697700;7801615894;7403708681;7004979187;15049159900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+162.
+   - **Title:** Optimal control and operation of grid-connected photovoltaic production units for voltage support in medium-voltage networks
+   - **Venue:** IEEE Transactions on Sustainable Energy
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 110
+   - **DOI:** 10.1109/TSTE.2013.2280811
+   - **Scopus ID:** 2-s2.0-84890947343
+   - **ISSN:** 19493029
+   - **Volume:** 5
+   - **Issue:** 1
+   - **Pages:** 254-263
+   - **Authors:** Bonfiglio Andrea; Brignone Massimo; Delfino Federico; Procopio Renato
+   - **Keywords:** Distributed generation | Feedback Linearization (FBL) | Losses reduction | Photovoltaic (PV) power | Pulsewidth modulation (PWM) inverter control | Voltage profile | Voltage support
+   - **Quartile:**
+     2025:
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 20, percentile 93)
+     2014:
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 9, percentile 92)
+   - **Source Id:** 19700177027
+   - **Author Ids:** 36607521000;8580886100;6603766602;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+163.
+   - **Title:** A set of KPIs to quantify environmental & technical benefits of renewing actions on transmission grids
+   - **Venue:** 2013 IEEE Grenoble Conference Powertech Powertech 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/PTC.2013.6652233
+   - **Scopus ID:** 2-s2.0-84890867435
+   - **Authors:** Bonfiglio A.; Delfino F.; Denegri G. B.; Invernizzi M.; Procopio R.; Amann G.; Bessede J. L.; Charnah R.; Luxa A.; Margarone M.; Monizza G.
+   - **Keywords:** energy resources | power distribution | power quality | power systems modelling | Power transmission
+   - **Source Id:** 21100276223
+   - **Author Ids:** 36607521000;6603766602;7004649825;6701527755;7801615894;36650448700;55903266900;6507942866;57205084075;57213411081;8968415000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;109690794;109690794;109690794;109690794;109690794;109690794
+   - **Corresponding:** Bonfiglio A.
+164.
+   - **Title:** An optimization algorithm for the operation planning of the University of Genoa smart polygeneration microgrid
+   - **Venue:** Proceedings of Irep Symposium Bulk Power System Dynamics and Control Ix Optimization Security and Control of the Emerging Power Grid Irep 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 35
+   - **DOI:** 10.1109/IREP.2013.6629397
+   - **Scopus ID:** 2-s2.0-84890466863
+   - **Authors:** Bonfiglio Andrea; Barillari Luca; Brignone Massimo; Delfino Federico; Pampararo Fabio; Procopio Renato; Rossi Mansueto; Bracco Stefano; Robba Michela
+   - **Source Id:** 21100275408
+   - **Author Ids:** 36607521000;55568698600;8580886100;6603766602;36782697700;7801615894;7403708681;15049159900;7004979187
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+165.
+   - **Title:** Definition and validation of key performance indicators to assess the effectiveness of "smarting actions" on a distribution network
+   - **Venue:** Iet Conference Publications
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1049/cp.2013.1262
+   - **Scopus ID:** 2-s2.0-84897680992
+   - **Volume:** 2013
+   - **Issue:** 615 Cp
+   - **Authors:** Bonfiglio Andrea; Delfino Federico; Denegri Gio Battista; Invernizzi Marco; Procopio Renato
+   - **Source Id:** 5400152619
+   - **Author Ids:** 36607521000;6603766602;7004649825;6701527755;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+166.
+   - **Title:** The smart microgrid pilot project of the University of Genoa: Power and communication architectures
+   - **Venue:** Aeit Annual Conference 2013 Innovation and Scientific and Technical Culture for Development Aeit 2013 Selected Proceedings Papers
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/aeit.2013.6666794
+   - **Scopus ID:** 2-s2.0-84893384882
+   - **Authors:** Bonfiglio A.; Barillari L.; Delfino F.; Pampararo F.; Procopio R.; Rossi M.; Invernizzi M.; Denegri G. B.; Bracco S.
+   - **Keywords:** Energy management system | integration of private microgrids into public distribution networks | Smart grid
+   - **Source Id:** 21101015978
+   - **Author Ids:** 36607521000;55568698600;6603766602;36782697700;7801615894;7403708681;6701527755;7004649825;15049159900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+167.
+   - **Title:** A dynamic decision model for Smart Grid real time optimal control
+   - **Venue:** 2012 IEEE International Energy Conference and Exhibition Energycon 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/EnergyCon.2012.6348221
+   - **Scopus ID:** 2-s2.0-84870845129
+   - **Pages:** 587-592
+   - **Authors:** Bonfiglio A.; Delfino F.; Minciardi R.; Procopio R.; Robba M.
+   - **Keywords:** Modeling | Optimal Control | Renewable Energy | Smart Grids
+   - **Source Id:** 21100223117
+   - **Author Ids:** 36607521000;6603766602;7005785660;7801615894;7004979187
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+168.
+   - **Title:** Power system compensation and management strategies to meet EU 2020 climate&energygoals
+   - **Venue:** IEEE Power and Energy Society General Meeting
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/PESGM.2012.6345083
+   - **Scopus ID:** 2-s2.0-84870607154
+   - **ISSN:** 19449925
+   - **eISSN:** 19449933
+   - **Authors:** Bonfiglio A.; Delfino F.; Invernizzi M.; Pampararo F.; Peveri G.; Procopio R.
+   - **Keywords:** energy resources | power distribution | power quality | power systems harmonics | power systems modeling | Power transmission
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 622, percentile 37)
+     - Nuclear Energy and Engineering (Q3, rank 53, percentile 37)
+     - Energy Engineering and Power Technology (Q3, rank 208, percentile 36)
+     - Renewable Energy, Sustainability and the Environment (Q3, rank 232, percentile 25)
+   - **Source Id:** 20600195623
+   - **Author Ids:** 36607521000;6603766602;6701527755;36782697700;55512262200;7801615894
+   - **Corresponding:** Bonfiglio A.
+169.
+   - **Title:** A technique for the optimal control and operation of grid-connected photovoltaic production units
+   - **Venue:** Proceedings of the Universities Power Engineering Conference
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 26
+   - **DOI:** 10.1109/UPEC.2012.6398657
+   - **Scopus ID:** 2-s2.0-84872875108
+   - **Authors:** Bonfiglio A.; Brignone M.; Delfino F.; Invernizzi M.; Pampararo F.; Procopio R.
+   - **Keywords:** Feedback Linearization | Generated Distribution | Losses Reduction | Photovoltaic Power | PWM Inverter Control | Voltage Profile | Voltage Support
+   - **Source Id:** 69722
+   - **Author Ids:** 36607521000;8580886100;6603766602;6701527755;36782697700;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+170.
+   - **Title:** The Smart Polygeneration Microgrid test-bed facility of Genoa University
+   - **Venue:** Proceedings of the Universities Power Engineering Conference
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 38
+   - **DOI:** 10.1109/UPEC.2012.6398656
+   - **Scopus ID:** 2-s2.0-84872837707
+   - **Authors:** Bonfiglio A.; Delfino F.; Pampararo F.; Procopio R.; Rossi M.; Barillari L.
+   - **Keywords:** IEC 61850 | Low Voltage Smart Grid | Test-Bed Facility
+   - **Source Id:** 69722
+   - **Author Ids:** 36607521000;6603766602;36782697700;7801615894;7403708681;55568698600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+171.
+   - **Title:** The use of the regularization theory for the analysis of the field-to-line coupling problem
+   - **Venue:** IEEE International Symposium on Electromagnetic Compatibility
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/EMCEurope.2012.6396724
+   - **Scopus ID:** 2-s2.0-84872514436
+   - **ISSN:** 10774076
+   - **eISSN:** 21581118
+   - **Authors:** Brignone Massimo; Delfino Federico; Procopio Renato; Rossi Mansueto; Rachidi Farhad; Tkachenko Sergei
+   - **Keywords:** full wave analysis | high-frequency coupling | radiation effects | transmission line models
+   - **Source Id:** 17274
+   - **Author Ids:** 8580886100;6603766602;7801615894;7403708681;7003719604;57197218114
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60028186;60018362
+   - **Corresponding:** Brignone M.
+172.
+   - **Title:** A feedback linearization scheme for the control of synchronous generators
+   - **Venue:** Electric Power Components and Systems
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 33
+   - **DOI:** 10.1080/15325008.2012.722581
+   - **Scopus ID:** 2-s2.0-84869847548
+   - **ISSN:** 15325008
+   - **eISSN:** 15325016
+   - **Volume:** 40
+   - **Issue:** 16
+   - **Pages:** 1842-1869
+   - **Authors:** Bonfiglio Andrea; Delfino Federico; Invernizzi Marco; Perfumo Adriano; Procopio Renato
+   - **Keywords:** feedback linearization | synchronous generators | voltage and power control
+   - **Quartile:**
+     2025:
+     - Mechanical Engineering (Q2, rank 221, percentile 69)
+     - Electrical and Electronic Engineering (Q2, rank 305, percentile 69)
+     - Energy Engineering and Power Technology (Q2, rank 113, percentile 65)
+     2012:
+     - Energy Engineering and Power Technology (Q2, rank 50, percentile 69)
+     - Mechanical Engineering (Q2, rank 165, percentile 67)
+     - Electrical and Electronic Engineering (Q2, rank 272, percentile 55)
+   - **Source Id:** 16031
+   - **Author Ids:** 36607521000;6603766602;6701527755;36617661500;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;113212708;60025153
+   - **Corresponding:** Bonfiglio A.
+173.
+   - **Title:** A synchronous generator circuital model for internal fault analysis and protection system design
+   - **Venue:** International Transactions on Electrical Energy Systems
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1002/etep.1719
+   - **Scopus ID:** 2-s2.0-84884771047
+   - **eISSN:** 20507038
+   - **Volume:** 23
+   - **Issue:** 6
+   - **Pages:** 876-900
+   - **Authors:** Delfino F.; Denegri G. B.; Invernizzi M.; Pampararo F.; Procopio R.
+   - **Keywords:** Circuit modeling | Fault diagnosis | Synchronous generators
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 41, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 200, percentile 80)
+     - Energy Engineering and Power Technology (Q1, rank 82, percentile 75)
+     2012:
+     - Energy Engineering and Power Technology (Q2, rank 51, percentile 68)
+     - Electrical and Electronic Engineering (Q2, rank 273, percentile 55)
+     - Modeling and Simulation (Q2, rank 100, percentile 51)
+   - **Source Id:** 21100241220
+   - **Author Ids:** 6603766602;7004649825;6701527755;36782697700;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+174.
+   - **Title:** Feedback linearisation oriented approach to Q-V control of grid connected photovoltaic units
+   - **Venue:** Iet Renewable Power Generation
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 33
+   - **DOI:** 10.1049/iet-rpg.2011.0075
+   - **Scopus ID:** 2-s2.0-84878375869
+   - **ISSN:** 17521416
+   - **eISSN:** 17521424
+   - **Volume:** 6
+   - **Issue:** 5
+   - **Pages:** 324-339
+   - **Authors:** Delfino F.; Denegri G. B.; Invernizzi M.; Procopio R.
+   - **Quartile:**
+     2025:
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 120, percentile 61)
+     2012:
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 7, percentile 93)
+   - **Source Id:** 5600152809
+   - **Author Ids:** 6603766602;7004649825;6701527755;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+175.
+   - **Title:** A regularization approach for high-frequency electromagnetic field-to-line coupling analysis
+   - **Venue:** Inverse Problems
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1088/0266-5611/28/9/095001
+   - **Scopus ID:** 2-s2.0-84866315620
+   - **ISSN:** 02665611
+   - **eISSN:** 13616420
+   - **Volume:** 28
+   - **Issue:** 9
+   - **Authors:** Brignone Massimo; Procopio Renato; Delfino Federico
+   - **Quartile:**
+     2025:
+     - Mathematical Physics (Q1, rank 21, percentile 77)
+     - Applied Mathematics (Q2, rank 200, percentile 70)
+     - Theoretical Computer Science (Q2, rank 58, percentile 57)
+     - Signal Processing (Q2, rank 83, percentile 57)
+     - Computer Science Applications (Q3, rank 495, percentile 49)
+     2012:
+     - Mathematical Physics (Q1, rank 3, percentile 94)
+     - Applied Mathematics (Q1, rank 46, percentile 88)
+     - Theoretical Computer Science (Q1, rank 22, percentile 81)
+     - Computer Science Applications (Q1, rank 100, percentile 78)
+     - Signal Processing (Q2, rank 19, percentile 73)
+   - **Source Id:** 28497
+   - **Author Ids:** 8580886100;7801615894;6603766602
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Brignone M.
+176.
+   - **Title:** Prony series representation for the lightning channel base current
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 39
+   - **DOI:** 10.1109/TEMC.2011.2161636
+   - **Scopus ID:** 2-s2.0-84860200637
+   - **ISSN:** 00189375
+   - **Volume:** 54
+   - **Issue:** 2
+   - **Pages:** 308-315
+   - **Authors:** Delfino Federico; Procopio Renato; Rossi Mansueto; Rachidi Farhad
+   - **Keywords:** Channel base current | electromagnetic radiation | interpolation | lightning
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2012:
+     - Electrical and Electronic Engineering (Q1, rank 90, percentile 85)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 23, percentile 84)
+     - Condensed Matter Physics (Q1, rank 64, percentile 83)
+   - **Source Id:** 26051
+   - **Author Ids:** 6603766602;7801615894;7403708681;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028186
+   - **Corresponding:** Delfino F.
+177.
+   - **Title:** A feedback linearization control scheme for the integration of wind energy conversion systems into distribution grids
+   - **Venue:** IEEE Systems Journal
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 47
+   - **DOI:** 10.1109/JSYST.2011.2163002
+   - **Scopus ID:** 2-s2.0-84857646014
+   - **ISSN:** 19328184
+   - **eISSN:** 19379234
+   - **Volume:** 6
+   - **Issue:** 1
+   - **Pages:** 85-93
+   - **Authors:** Delfino Federico; Pampararo Fabio; Procopio Renato; Rossi Mansueto
+   - **Keywords:** Direct drive | feedback linearization | permanent magnet synchronous generator | wind power
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 25, percentile 95)
+     - Electrical and Electronic Engineering (Q1, rank 49, percentile 95)
+     - Control and Systems Engineering (Q1, rank 25, percentile 93)
+     - Computer Science Applications (Q1, rank 68, percentile 93)
+     - Information Systems (Q1, rank 35, percentile 93)
+     2012:
+     - Electrical and Electronic Engineering (Q1, rank 143, percentile 76)
+     - Control and Systems Engineering (Q2, rank 49, percentile 74)
+   - **Source Id:** 11300153734
+   - **Author Ids:** 6603766602;36782697700;7801615894;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+178.
+   - **Title:** Lightning electromagnetic field calculations in presence of a conducting ground: The numerical treatment of sommerfeld’s integrals
+   - **Venue:** Lightning Electromagnetics
+   - **Year:** 2012
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.1049/PBPO062E_ch13
+   - **Scopus ID:** 2-s2.0-85014280998
+   - **Pages:** 515-565
+   - **Authors:** Delfino Federico; Procopio Renato; Rossi Mansueto
+   - **Keywords:** Conducting ground | Field waveforms | Ground electrical parameters | Ground parameters | Lightning | Lightning electromagnetic field calculations | Lightning electromagnetic field components | Sommerfeld integrals | Stratification effect | Stratified conducting ground
+   - **Source Id:** 21100798524
+   - **Author Ids:** 6603766602;7801615894;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+179.
+   - **Title:** An effective approach for high-frequency electromagnetic field-to-line coupling analysis based on regularization techniques
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.1109/TEMC.2012.2200297
+   - **Scopus ID:** 2-s2.0-84871377139
+   - **ISSN:** 00189375
+   - **Volume:** 54
+   - **Issue:** 6
+   - **Pages:** 1289-1297
+   - **Authors:** Brignone Massimo; Delfino Federico; Procopio Renato; Rossi Mansueto; Rachidi Farhad; Tkachenko Sergey V.
+   - **Keywords:** Full-wave analysis | high-frequency coupling | radiation effects | transmission line models
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2012:
+     - Electrical and Electronic Engineering (Q1, rank 90, percentile 85)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 23, percentile 84)
+     - Condensed Matter Physics (Q1, rank 64, percentile 83)
+   - **Source Id:** 26051
+   - **Author Ids:** 8580886100;6603766602;7801615894;7403708681;7003719604;57197218114
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60028186;60018362
+   - **Corresponding:** Brignone M.
+180.
+   - **Title:** Quantification of the environmental benefits provided by the application of state-of-the-art technologies to T&D grids
+   - **Venue:** Cigre 2011 Bologna Symposium the Electric Power System of the Future Integrating Supergrids and Microgrids
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-84877298988
+   - **Authors:** Bonfiglio A.; Delfino F.; Denegri G. B.; Invernizzi M.; Pampararo F.; Procopio R.
+   - **Keywords:** CO2 emission reduction | Network losses | Renewable energy integration | Smart grids
+   - **Source Id:** 21100239401
+   - **Author Ids:** 36607521000;6603766602;7004649825;6701527755;36782697700;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+181.
+   - **Title:** Power and voltage control of a synchronous machine: A comparison among different approaches
+   - **Venue:** 2011 IEEE Pes Trondheim Powertech the Power of Technology for A Sustainable Society Powertech 2011
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/PTC.2011.6019275
+   - **Scopus ID:** 2-s2.0-80053363225
+   - **Authors:** Bonfiglio A.; Delfino F.; Pampararo F.; Procopio R.
+   - **Keywords:** Feedback Linearization | Sliding Mode Control | Synchronous Generator
+   - **Source Id:** 19900195048
+   - **Author Ids:** 36607521000;6603766602;36782697700;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+182.
+   - **Title:** Rational approximation for the time domain implementation of Cooray-Rubinstein formula
+   - **Venue:** 2011 IEEE Pes Trondheim Powertech the Power of Technology for A Sustainable Society Powertech 2011
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/PTC.2011.6019451
+   - **Scopus ID:** 2-s2.0-80053350888
+   - **Authors:** Delfino Federico; Girdinio Paola; Procopio Renato; Rossi Mansueto; Rachidi Farhad
+   - **Keywords:** Electromagnetic radiation | ground wave propagation | lightning modeling | lightning return stroke
+   - **Source Id:** 19900195048
+   - **Author Ids:** 6603766602;7003430835;7801615894;7403708681;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60028186
+   - **Corresponding:** Delfino F.
+183.
+   - **Title:** Time-domain implementation of Cooray-Rubinstein formula via convolution integral and rational approximation
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 39
+   - **DOI:** 10.1109/TEMC.2011.2107325
+   - **Scopus ID:** 2-s2.0-80052056284
+   - **ISSN:** 00189375
+   - **Volume:** 53
+   - **Issue:** 3
+   - **Pages:** 755-763
+   - **Authors:** Delfino Federico; Girdinio Paola; Procopio Renato; Rossi Mansueto; Rachidi Farhad
+   - **Keywords:** Electromagnetic radiation | ground wave propagation | lightning modeling | lightning return stroke
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2011:
+     - Electrical and Electronic Engineering (Q1, rank 130, percentile 78)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 39, percentile 72)
+     - Condensed Matter Physics (Q2, rank 109, percentile 71)
+   - **Source Id:** 26051
+   - **Author Ids:** 6603766602;7003430835;7801615894;7403708681;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60028186
+   - **Corresponding:** Delfino F.
+184.
+   - **Title:** High-frequency EHV/HV autotransformer model identification from LEMP test data
+   - **Venue:** IEEE Transactions on Power Delivery
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1109/TPWRD.2009.2039151
+   - **Scopus ID:** 2-s2.0-79953168106
+   - **ISSN:** 08858977
+   - **Volume:** 26
+   - **Issue:** 2
+   - **Pages:** 714-724
+   - **Authors:** Delfino Federico; Procopio Renato; Rossi Mansueto
+   - **Keywords:** Electromagnetic transients | identification | lightning electromagnetic pulse (LEMP) tests | power autotransformer | power system simulation
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 49, percentile 85)
+     2011:
+     - Energy Engineering and Power Technology (Q1, rank 14, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 72, percentile 87)
+   - **Source Id:** 17370
+   - **Author Ids:** 6603766602;7801615894;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+185.
+   - **Title:** Lightning electromagnetic radiation over a stratified conducting ground: 2. Validity of simplified approaches
+   - **Venue:** Journal of Geophysical Research Atmospheres
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 43
+   - **DOI:** 10.1029/2010JD015078
+   - **Scopus ID:** 2-s2.0-79958834445
+   - **ISSN:** 01480227
+   - **Volume:** 116
+   - **Issue:** 11
+   - **Authors:** Shoory Abdolhamid; Rachidi Farhad; Delfino Federico; Procopio Renato; Rossi Mansueto
+   - **Quartile:**
+     2011:
+     - Subject (Q1, rank 2, percentile 98)
+     - Subject (Q1, rank 4, percentile 97)
+     - Subject (Q1, rank 3, percentile 97)
+     - Subject (Q1, rank 7, percentile 96)
+     - Subject (Q1, rank 4, percentile 95)
+     - Subject (Q1, rank 6, percentile 93)
+     - Subject (Q1, rank 5, percentile 93)
+     - Subject (Q1, rank 8, percentile 93)
+     - Subject (Q1, rank 19, percentile 92)
+     - Subject (Q1, rank 9, percentile 90)
+     - Subject (Q1, rank 9, percentile 90)
+     - Subject (Q1, rank 14, percentile 86)
+     - Subject (Q1, rank 14, percentile 81)
+   - **Source Id:** 28428
+   - **Author Ids:** 12140205500;7003719604;6603766602;7801615894;7403708681
+   - **Authoraffiliationids:** 60028186;60028186;60025153;60025153;60025153
+   - **Corresponding:** Shoory A.
+186.
+   - **Title:** Lightning electromagnetic radiation over a stratified conducting ground: Formulation and numerical evaluation of the electromagnetic fields
+   - **Venue:** Journal of Geophysical Research Atmospheres
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 40
+   - **DOI:** 10.1029/2010JD015077
+   - **Scopus ID:** 2-s2.0-79951891291
+   - **ISSN:** 01480227
+   - **Volume:** 116
+   - **Issue:** 4
+   - **Authors:** Delfino Federico; Procopio Renato; Rossi Mansueto; Shoory Abdolhamid; Rachidi Farhad
+   - **Quartile:**
+     2011:
+     - Subject (Q1, rank 2, percentile 98)
+     - Subject (Q1, rank 4, percentile 97)
+     - Subject (Q1, rank 3, percentile 97)
+     - Subject (Q1, rank 7, percentile 96)
+     - Subject (Q1, rank 4, percentile 95)
+     - Subject (Q1, rank 6, percentile 93)
+     - Subject (Q1, rank 5, percentile 93)
+     - Subject (Q1, rank 8, percentile 93)
+     - Subject (Q1, rank 19, percentile 92)
+     - Subject (Q1, rank 9, percentile 90)
+     - Subject (Q1, rank 9, percentile 90)
+     - Subject (Q1, rank 14, percentile 86)
+     - Subject (Q1, rank 14, percentile 81)
+   - **Source Id:** 28428
+   - **Author Ids:** 6603766602;7801615894;7403708681;12140205500;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028186;60028186
+   - **Corresponding:** Delfino F.
+187.
+   - **Title:** A control algorithm for the maximum power point tracking and the reactive power injection from grid-connected PV systems
+   - **Venue:** IEEE Pes General Meeting Pes 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/PES.2010.5590213
+   - **Scopus ID:** 2-s2.0-78649569121
+   - **Authors:** Delfino Federico; Denegri Gio Battista; Invernizzi Marco; Procopio Renato
+   - **Keywords:** Nonlinear systems | Photovoltaic power system | Power system modeling | Reactive power control | Voltage control
+   - **Source Id:** 19700182646
+   - **Author Ids:** 6603766602;7004649825;6701527755;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+188.
+   - **Title:** The effect of a horizontally stratified ground on lightning electromagnetic fields
+   - **Venue:** IEEE International Symposium on Electromagnetic Compatibility
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/ISEMC.2010.5711245
+   - **Scopus ID:** 2-s2.0-79952394856
+   - **ISSN:** 10774076
+   - **Pages:** 45-50
+   - **Authors:** Delfino F.; Procopio R.; Rossi M.; Shoory A.; Rachidi F.
+   - **Source Id:** 17274
+   - **Author Ids:** 6603766602;7801615894;7403708681;12140205500;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028186;60028186
+   - **Corresponding:** Delfino F.
+189.
+   - **Title:** Modeling and control of DDPM wind generators
+   - **Venue:** Proceedings of the Universities Power Engineering Conference
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-78651467585
+   - **Authors:** Delfino F.; Denegri G. B.; Invernizzi M.; Pampararo F.; Procopio R.; Rossi M.
+   - **Keywords:** Direct drive | Feedback linearization | Permanent magnet synchronous generator | Wind power
+   - **Source Id:** 69722
+   - **Author Ids:** 6603766602;7004649825;6701527755;36782697700;7801615894;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+190.
+   - **Title:** Integration of large-size photovoltaic systems into the distribution grids: A P-Q chart approach to assess reactive support capability
+   - **Venue:** Iet Renewable Power Generation
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 70
+   - **DOI:** 10.1049/iet-rpg.2009.0134
+   - **Scopus ID:** 2-s2.0-77954466620
+   - **ISSN:** 17521416
+   - **eISSN:** 17521424
+   - **Volume:** 4
+   - **Issue:** 4
+   - **Pages:** 329-340
+   - **Authors:** Delfino F.; Procopio R.; Rossi M.; Ronda G.
+   - **Quartile:**
+     2025:
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 120, percentile 61)
+   - **Source Id:** 5600152809
+   - **Author Ids:** 6603766602;7801615894;7403708681;35189588800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60102057
+   - **Corresponding:** Delfino F.
+191.
+   - **Title:** A P-Q capability chart approach to characterize grid connected PV-units
+   - **Venue:** 2009 Cigre Eee Pes Joint Symposium Integration of Wide Scale Renewable Resources into the Power Delivery System
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **Scopus ID:** 2-s2.0-84877328048
+   - **Authors:** Delfino F.; Denegri G. B.; Invernizzi M.; Procopio R.; Ronda G.
+   - **Keywords:** Ancillary services | Grid-connected PV units | Renewable in distribution systems
+   - **Source Id:** 21100239607
+   - **Author Ids:** 6603766602;7004649825;6701527755;7801615894;35189588800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+192.
+   - **Title:** An advanced nonlinear control technique for grid connected generating units - Part I: Theory
+   - **Venue:** Proceedings of the 9th Wseas Iasme International Conference on Electric Power Systems High Voltages Electric Machines Power 09
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-78149314276
+   - **Pages:** 140-146
+   - **Authors:** Bonfiglio A.; Delfino F.; Denegri G. B.; Invernizzi M.; Perfumo A.; Procopio R.
+   - **Keywords:** Feedback linearization | Synchronous generator | Voltage and power control
+   - **Source Id:** 19700182242
+   - **Author Ids:** 36607521000;6603766602;7004649825;6701527755;36617661500;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+193.
+   - **Title:** An advanced nonlinear control technique for grid connected generating units - Part II: Simulations
+   - **Venue:** Proceedings of the 9th Wseas Iasme International Conference on Electric Power Systems High Voltages Electric Machines Power 09
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-78149300937
+   - **Pages:** 147-152
+   - **Authors:** Bonfiglio A.; Delfino F.; Denegri G. B.; Invernizzi M.; Perfumo A.; Procopio R.
+   - **Keywords:** Feedback linearization | Synchronous generator | Voltage and power control
+   - **Source Id:** 19700182242
+   - **Author Ids:** 36607521000;6603766602;7004649825;6701527755;36617661500;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+194.
+   - **Title:** A P-Q capability chart approach to characterize grid connected PV-units
+   - **Venue:** 2009 Cigre IEEE Pes Joint Symposium Integration of Wide Scale Renewable Resources into the Power Delivery System Cigre Pes 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-70449331635
+   - **Authors:** Delfino F.; Denegri G. B.; Invernizzi M.; Procopio R.; Ronda G.
+   - **Keywords:** Ancillary services | Grid-connected PV units | Renewable in distribution systems
+   - **Source Id:** 19400158340
+   - **Author Ids:** 6603766602;7004649825;6701527755;7801615894;35189588800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+195.
+   - **Title:** Influence of frequency-dependent soil electrical parameters on the evaluation of lightning electromagnetic fields in air and underground
+   - **Venue:** Journal of Geophysical Research Atmospheres
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 49
+   - **DOI:** 10.1029/2008JD011127
+   - **Scopus ID:** 2-s2.0-68749090885
+   - **ISSN:** 01480227
+   - **Volume:** 114
+   - **Issue:** 11
+   - **Authors:** Delfino Federico; Procopio Renato; Rossi Mansueto; Rachidi Farhad
+   - **Source Id:** 28428
+   - **Author Ids:** 6603766602;7801615894;7403708681;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028186
+   - **Corresponding:** Delfino F.
+196.
+   - **Title:** A new method for the solution of convolution-type dual integral-equation systems occurring in engineering electromagnetics
+   - **Venue:** Journal of Engineering Mathematics
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1007/s10665-008-9245-z
+   - **Scopus ID:** 2-s2.0-58049211938
+   - **ISSN:** 00220833
+   - **eISSN:** 15732703
+   - **Volume:** 63
+   - **Issue:** 1
+   - **Pages:** 51-59
+   - **Authors:** Delfino Federico; Procopio R.; Rossi M.
+   - **Keywords:** Convolution-type integral equations | Electrostatic problems | Fourier-series expansion
+   - **Quartile:**
+     2025:
+     - Mathematics (all) (Q1, rank 94, percentile 77)
+     - Engineering (all) (Q3, rank 181, percentile 47)
+   - **Source Id:** 12485
+   - **Author Ids:** 6603766602;7801615894;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+197.
+   - **Title:** An extended modeling of synchronous generators for internal fault evaluation and protection assessment
+   - **Venue:** 42nd International Conference on Large High Voltage Electric Systems 2008 Cigre 2008
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84876772459
+   - **Authors:** Denegri G. B.; Invernizzi M.; MacCio G.; Procopio R.; Reggio U.
+   - **Keywords:** Flux | Fortescue components | Generator | Short-circuit | Turn
+   - **Source Id:** 21100238652
+   - **Author Ids:** 7004649825;6701527755;6508333746;7801615894;6506491316
+   - **Authoraffiliationids:** 60025153;60025153;60073836;60025153;60073836
+   - **Corresponding:** Denegri G.
+198.
+   - **Title:** Performance and control of photovoltaic systems supplying both primary and ancillary services
+   - **Venue:** Proceedings of the Universities Power Engineering Conference
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/UPEC.2008.4651484
+   - **Scopus ID:** 2-s2.0-68949201616
+   - **Authors:** Delfino Federico; Denegri Gio Battista; Invernizzi Marco; Procopio Renato
+   - **Source Id:** 69722
+   - **Author Ids:** 6603766602;7004649825;6701527755;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+199.
+   - **Title:** Photovoltaic generating units as reactive supply ancillary service providers
+   - **Venue:** International Journal of Emerging Electric Power Systems
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.2202/1553-779X.1872
+   - **Scopus ID:** 2-s2.0-55549090023
+   - **ISSN:** 1553779X
+   - **Volume:** 9
+   - **Issue:** 4
+   - **Authors:** Delfino Federico; Procopio Renato
+   - **Keywords:** Ancillary services | Distributed energy resources | PWM converter | Reactive power | Renewable energy resources
+   - **Quartile:**
+     2025:
+     - Energy Engineering and Power Technology (Q2, rank 147, percentile 55)
+   - **Source Id:** 4000151909
+   - **Author Ids:** 6603766602;7801615894
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Delfino F.
+200.
+   - **Title:** An integrated active and reactive power control scheme for grid-connected photovoltaic production systems
+   - **Venue:** PESC Record IEEE Annual Power Electronics Specialists Conference
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 34
+   - **DOI:** 10.1109/PESC.2008.4592142
+   - **Scopus ID:** 2-s2.0-52349108362
+   - **ISSN:** 02759306
+   - **Pages:** 1463-1468
+   - **Authors:** Delfino F.; Denegri G. B.; Invernizzi M.; Procopio R.
+   - **Source Id:** 29048
+   - **Author Ids:** 6603766602;7004649825;6701527755;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+201.
+   - **Title:** Supply-side gaming on electricity markets with physical constrained transmission network
+   - **Venue:** 2008 5th International Conference on the European Electricity Market Eem
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/EEM.2008.4579076
+   - **Scopus ID:** 2-s2.0-51749122438
+   - **Authors:** Guerci Eric; Rastegar Mohammad Ali; Cincotti Silvano; Delfino Federico; Procopio Renato; Ruga Marco
+   - **Keywords:** Agent-based computational economics | Electricity markets | Multi-agent learning
+   - **Source Id:** 12100156742
+   - **Author Ids:** 9732473300;57035685300;7003713213;6603766602;7801615894;24802573900
+   - **Authoraffiliationids:** 60025153;60025153;60000251-60025153;60025153;60025153;60025153
+   - **Corresponding:** Guerci E.
+202.
+   - **Title:** Lightning return stroke current radiation in presence of a conducting ground: 1. Theory and numerical evaluation of the electromagnetic fields
+   - **Venue:** Journal of Geophysical Research Atmospheres
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 88
+   - **DOI:** 10.1029/2007JD008553
+   - **Scopus ID:** 2-s2.0-43449114802
+   - **ISSN:** 01480227
+   - **Volume:** 113
+   - **Issue:** 5
+   - **Authors:** Delfino Federico; Procopio Renato; Rossi Mansueto
+   - **Source Id:** 28428
+   - **Author Ids:** 6603766602;7801615894;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+203.
+   - **Title:** Lightning return stroke current radiation in presence of a conducting ground: 2. Validity assessment of simplified approaches
+   - **Venue:** Journal of Geophysical Research Atmospheres
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 88
+   - **DOI:** 10.1029/2007JD008567
+   - **Scopus ID:** 2-s2.0-43449090987
+   - **ISSN:** 01480227
+   - **Volume:** 113
+   - **Issue:** 5
+   - **Authors:** Delfino Federico; Procopio Renato; Rossi Mansueto; Rachidi Farhad; Nucci Carlo Alberto
+   - **Source Id:** 28428
+   - **Author Ids:** 6603766602;7801615894;7403708681;7003719604;7006123266
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028186;60028218
+   - **Corresponding:** Delfino F.
+204.
+   - **Title:** Cooray-Rubinstein formula for the evaluation of lightning radial electric fields: Derivation and implementation in the time domain
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 81
+   - **DOI:** 10.1109/TEMC.2007.913226
+   - **Scopus ID:** 2-s2.0-40949165801
+   - **ISSN:** 00189375
+   - **Volume:** 50
+   - **Issue:** 1
+   - **Pages:** 194-197
+   - **Authors:** Caligaris Carlo; Delfino Fedirico; Procopio Renato
+   - **Keywords:** Absorbing media | Electromagnetic (EM) radiation | Ground wave propagation | Lightning | Lightning return stroke
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+   - **Source Id:** 26051
+   - **Author Ids:** 24536881100;6603766602;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Caligaris C.
+205.
+   - **Title:** The use of a static series compensator (SSC) for the mitigation of voltage sags in a radial distribution network
+   - **Venue:** 2007 IEEE Lausanne Powertech Proceedings
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/PCT.2007.4538536
+   - **Scopus ID:** 2-s2.0-50949115460
+   - **Pages:** 1492-1497
+   - **Authors:** Delfino Federico; Denegri Gio Battista; Invernizzi Marco; Procopio Renato
+   - **Keywords:** Custom power | Power quality | Voltage sags
+   - **Source Id:** 12100155509
+   - **Author Ids:** 6603766602;7004649825;6701527755;7801615894
+   - **Authoraffiliationids:** 60000251-60025153;60025153;60025153;60000251-60025153
+   - **Corresponding:** Delfino F.
+206.
+   - **Title:** An algorithm for the exact evaluation of the underground lightning electromagnetic fields
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 75
+   - **DOI:** 10.1109/TEMC.2007.897127
+   - **Scopus ID:** 2-s2.0-34347397801
+   - **ISSN:** 00189375
+   - **Volume:** 49
+   - **Issue:** 2
+   - **Pages:** 401-411
+   - **Authors:** Delfino Federico; Procopio Renato; Rossi Mansueto; Rachidi Farhad; Nucci Carlo Alberto
+   - **Keywords:** Electromagnetic propagation in absorbing media | Lightning | Modeling
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+   - **Source Id:** 26051
+   - **Author Ids:** 6603766602;7801615894;7403708681;7003719604;7006123266
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028186;60028218
+   - **Corresponding:** Delfino F.
+207.
+   - **Title:** On the computation of underground electromagnetic fields generated by lightning: A comparison between different approaches
+   - **Venue:** 2007 IEEE Lausanne Powertech Proceedings
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1109/PCT.2007.4538413
+   - **Scopus ID:** 2-s2.0-50849083143
+   - **Pages:** 772-777
+   - **Authors:** Mimouni Abdenbi; Delfino Federico; Procopio Renato; Rachidi Farhad
+   - **Keywords:** Modeling | Underground lightning electromagnetic fields
+   - **Source Id:** 12100155509
+   - **Author Ids:** 14834131900;6603766602;7801615894;7003719604
+   - **Authoraffiliationids:** 60087342-60028186;60000251-60025153;60000251-60025153;60000251-60028186
+   - **Corresponding:** Mimouni A.
+208.
+   - **Title:** An Equivalent Circuit Model For Lemp-Excited Transmission Lines
+   - **Venue:** EMC Europe 2006 Barcelona International Symposium on Electromagnetic Compatibility
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EMC.2006.10813078
+   - **Scopus ID:** 2-s2.0-86000235013
+   - **Authors:** Delfino Federico; Procopio Renato; Rossi Mansueto; Girdinio Paola
+   - **Source Id:** 21101280292
+   - **Author Ids:** 6603766602;7801615894;7403708681;7003430835
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+209.
+   - **Title:** Evaluation Of Underground Lightning Electromagnetic Fields
+   - **Venue:** EMC Europe 2006 Barcelona International Symposium on Electromagnetic Compatibility
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.23919/EMC.2006.10813048
+   - **Scopus ID:** 2-s2.0-86000225991
+   - **Authors:** Delfino F.; Procopio R.; Rossi M.; Rachidi F.; Nucci C. A.
+   - **Source Id:** 21101280292
+   - **Author Ids:** 6603766602;7801615894;7403708681;7003719604;7006123266
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60028186;60028218
+   - **Corresponding:** Delfino F.
+210.
+   - **Title:** A field-to-line coupling model for overvoltage analysis in light-rail transit DC traction power systems
+   - **Venue:** IEEE Transactions on Power Delivery
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1109/TPWRD.2005.852357
+   - **Scopus ID:** 2-s2.0-33244487177
+   - **ISSN:** 08858977
+   - **Volume:** 21
+   - **Issue:** 1
+   - **Pages:** 270-277
+   - **Authors:** Delfino Federico; Procopio Renato; Rossi Mansueto
+   - **Keywords:** Electromagnetic coupling | Electromagnetic transient propagation | Overvoltage protection
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 49, percentile 85)
+   - **Source Id:** 17370
+   - **Author Ids:** 6603766602;7801615894;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+211.
+   - **Title:** Characterization of a railways system overhead transmission line excited by a lightning electromagnetic field
+   - **Venue:** Wit Transactions on Modelling and Simulation
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-21544440645
+   - **ISSN:** 17464064
+   - **Pages:** 631-641
+   - **Authors:** Delfino F.; Procopio R.; Rossi M.
+   - **Keywords:** Lightning | Overvoltages | Transmission lines | Transportation systems
+   - **Source Id:** 144842
+   - **Author Ids:** 6603766602;7801615894;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+212.
+   - **Title:** An effective SSC control scheme for voltage sag compensation
+   - **Venue:** IEEE Transactions on Power Delivery
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 32
+   - **DOI:** 10.1109/TPWRD.2005.848762
+   - **Scopus ID:** 2-s2.0-23944522030
+   - **ISSN:** 08858977
+   - **Volume:** 20
+   - **Issue:** 3
+   - **Pages:** 2100-2107
+   - **Authors:** Delfino Bruno; Fornari Federica; Procopio Renato
+   - **Keywords:** Feedback | Feedforward | Power quality | Static Series Compensator (SSC) | Voltage sags | Voltage-source converter (VSC)
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 49, percentile 85)
+   - **Source Id:** 17370
+   - **Author Ids:** 7003935351;7004548236;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Delfino B.
+213.
+   - **Title:** SSC compensation capability of unbalanced voltage sags
+   - **Venue:** IEEE Transactions on Power Delivery
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 32
+   - **DOI:** 10.1109/TPWRD.2005.848756
+   - **Scopus ID:** 2-s2.0-23944513531
+   - **ISSN:** 08858977
+   - **Volume:** 20
+   - **Issue:** 3
+   - **Pages:** 2030-2037
+   - **Authors:** Fornari Federica; Procopio Renato; Bollen Math H.J.
+   - **Keywords:** Custom power | Phase-angle jump | Power quality | Power-electronic converters | Static series compensator (SSC) | Voltage sags | Voltage-source converter (VSC)
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 49, percentile 85)
+   - **Source Id:** 17370
+   - **Author Ids:** 7004548236;7801615894;21933300000
+   - **Authoraffiliationids:** 60025153;60025153;60172251-60007183
+   - **Corresponding:** Fornari F.
+214.
+   - **Title:** Compensation of voltage sags in a radial network feeding a thyristor bridge controlled load
+   - **Venue:** 2005 IEEE Russia Power Tech Powertech
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/PTC.2005.4524511
+   - **Scopus ID:** 2-s2.0-51549117704
+   - **Authors:** Delfino F.; Fornari F.; Massucco S.; Morini A.; Procopio R.
+   - **Source Id:** 12100156719
+   - **Author Ids:** 6603766602;7004548236;6603357712;7006658135;7801615894
+   - **Authoraffiliationids:** 60000251-60025153;60000251;60000251;60000251;60000251
+   - **Corresponding:** Delfino F.
+215.
+   - **Title:** Evaluation of capacitance matrix of a finite-length multiconductor transmission line
+   - **Venue:** IEE Proceedings Science Measurement and Technology
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1049/ip-smt:20040670
+   - **Scopus ID:** 2-s2.0-7744225363
+   - **ISSN:** 13502344
+   - **Volume:** 151
+   - **Issue:** 5
+   - **Pages:** 347-353
+   - **Authors:** Delfino F.; Procopio R.; Rossi M.
+   - **Source Id:** 17419
+   - **Author Ids:** 6603766602;7801615894;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+216.
+   - **Title:** Current and near field calculations for cellular base-station collinear array antennas
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1109/TMAG.2004.824721
+   - **Scopus ID:** 2-s2.0-2342511587
+   - **ISSN:** 00189464
+   - **Volume:** 40
+   - **Issue:** 2 Ii
+   - **Pages:** 1480-1483
+   - **Authors:** Delfino Federico; Procopio Renato; Rossi Mansueto
+   - **Keywords:** Arrays | Dipole antennas | Electric fields
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 6603766602;7801615894;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+217.
+   - **Title:** Overvoltage protection of Light Railway Transportation Systems
+   - **Venue:** 2003 IEEE Bologna Powertech Conference Proceedings
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/PTC.2003.1304746
+   - **Scopus ID:** 2-s2.0-84861511689
+   - **Volume:** 4
+   - **Pages:** 345-352
+   - **Authors:** Delfino F.; Procopio R.; Rossi M.
+   - **Keywords:** Electric traction | Electromagnetic transient propagation | Overvoltage protection
+   - **Source Id:** 21100496130
+   - **Author Ids:** 6603766602;7801615894;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+218.
+   - **Title:** Voltage sag compensation on non-linear loads
+   - **Venue:** 2003 IEEE Bologna Powertech Conference Proceedings
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/PTC.2003.1304723
+   - **Scopus ID:** 2-s2.0-84861489545
+   - **Volume:** 4
+   - **Pages:** 201-208
+   - **Authors:** Delfino B.; Fornari F.; Procopio R.
+   - **Keywords:** Feed-back | Feed-forward | Phase-Shift | Power quality | SSC | Voltage Sags | VSC
+   - **Source Id:** 21100496130
+   - **Author Ids:** 7003935351;7004548236;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Delfino B.
+219.
+   - **Title:** A full-Maxwell algorithm for the field-to-multiconductor line-coupling problem
+   - **Venue:** COMPEL the International Journal for Computation and Mathematics in Electrical and Electronic Engineering
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1108/03321640310475209
+   - **Scopus ID:** 2-s2.0-0041520744
+   - **ISSN:** 03321649
+   - **Volume:** 22
+   - **Issue:** 3
+   - **Pages:** 789-805
+   - **Authors:** Delfino Federico; Procopio Renato; Rossi Mansueto; Nervi Mario
+   - **Keywords:** Electromagnetic fields | Electromagnetics | Modelling
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 262, percentile 61)
+     - Computational Theory and Mathematics (Q2, rank 93, percentile 54)
+     - Electrical and Electronic Engineering (Q2, rank 486, percentile 51)
+     - Computer Science Applications (Q3, rank 541, percentile 44)
+   - **Source Id:** 28454
+   - **Author Ids:** 6603766602;7801615894;7403708681;7003586072
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+220.
+   - **Title:** Lightning current identification over a conducting ground plane
+   - **Venue:** Radio Science
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1029/2001RS002521
+   - **Scopus ID:** 2-s2.0-0041883649
+   - **ISSN:** 00486604
+   - **Volume:** 38
+   - **Issue:** 3
+   - **Pages:** 15/11
+   - **Authors:** Delfino Federico; Procopio Renato; Rossi Mansueto; Verolino Luigi
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q2, rank 89, percentile 55)
+     - Electrical and Electronic Engineering (Q2, rank 483, percentile 51)
+     - Condensed Matter Physics (Q3, rank 278, percentile 37)
+   - **Source Id:** 28580
+   - **Author Ids:** 6603766602;7801615894;7403708681;7003322700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60017293
+   - **Corresponding:** Delfino F.
+221.
+   - **Title:** Analysis of several methods for the response evaluation of HF field excited finite lines
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1109/TMAG.2003.810369
+   - **Scopus ID:** 2-s2.0-0038182003
+   - **ISSN:** 00189464
+   - **Volume:** 39
+   - **Issue:** 3 I
+   - **Pages:** 1606-1609
+   - **Authors:** Delfino Federico; Maradei Francescaromana; Procopio Renato; Rossi Manseuto
+   - **Keywords:** Electromagnetic (EM) compatibility | High-frequency (HF) electromagnetic field | Transmission line modeling
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 6603766602;57226721394;7801615894;7403708681
+   - **Authoraffiliationids:** 60025153;60032350;60025153;60025153
+   - **Corresponding:** Delfino F.
+222.
+   - **Title:** Technique for computing the response of a line of finite length excited by high frequency electromagnetic fields
+   - **Venue:** IEE Proceedings Science Measurement and Technology
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1049/ip-smt:20020637
+   - **Scopus ID:** 2-s2.0-0036708917
+   - **ISSN:** 13502344
+   - **Volume:** 149
+   - **Issue:** 5
+   - **Pages:** 289-292
+   - **Authors:** Delfino F.; Procopio R.; Rossi M.; Girdinio P.
+   - **Source Id:** 17419
+   - **Author Ids:** 6603766602;7801615894;7403708681;7003430835
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+223.
+   - **Title:** Evaluation of the field coupling to a line of finite length - A comparison between the dual integral equation approach and the moment method
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1109/20.996199
+   - **Scopus ID:** 2-s2.0-0036493587
+   - **ISSN:** 00189464
+   - **Volume:** 38
+   - **Issue:** 2 I
+   - **Pages:** 769-772
+   - **Authors:** Delfino Federico; Procopio Renato; Girdinio Paola; Andreotti Amedeo; Verolino Luigi
+   - **Keywords:** Electromagnetic compatibility | Transmission line modeling
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 6603766602;7801615894;7003430835;35564985300;7003322700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60017293;60017293
+   - **Corresponding:** Delfino F.
+224.
+   - **Title:** Lightning return stroke current identification via field measurements
+   - **Venue:** Electrical Engineering
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 36
+   - **DOI:** 10.1007/s002020100098
+   - **Scopus ID:** 2-s2.0-0036471171
+   - **ISSN:** 09487921
+   - **Volume:** 84
+   - **Issue:** 1
+   - **Pages:** 41-50
+   - **Authors:** Delfino F.; Procopio R.; Andreotti A.; Verolino L.
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 136, percentile 79)
+     - Electrical and Electronic Engineering (Q2, rank 351, percentile 64)
+   - **Source Id:** 16065
+   - **Author Ids:** 6603766602;7801615894;35564985300;7003322700
+   - **Authoraffiliationids:** 60025153;60025153;60017293;60017293
+   - **Corresponding:** Delfino F.
+225.
+   - **Title:** Lightning Current Identification in Presence of a Lossy Ground
+   - **Venue:** International Symposium on Electromagnetic Compatibility 2002 EMC Europe Sorrento
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EMC.2002.10880069
+   - **Scopus ID:** 2-s2.0-85219749302
+   - **Pages:** 939-944
+   - **Authors:** Delfino F.; Procopio R.; Rossi M.; Andreotti A.; Verolino L.
+   - **Source Id:** 21101278680
+   - **Author Ids:** 6603766602;7801615894;7403708681;35564985300;7003322700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60017293;60017293
+   - **Corresponding:** Delfino F.
+226.
+   - **Title:** HF Electromagnetic Field Coupling to a Transmission Line of Finite Length over a Perfectly Conducting Ground
+   - **Venue:** International Symposium on Electromagnetic Compatibility 2002 EMC Europe Sorrento
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/EMC.2002.10879847
+   - **Scopus ID:** 2-s2.0-84889291023
+   - **Pages:** 1231-1236
+   - **Authors:** Delfino F.; Procopio R.; Rossi M.; Andreotti A.; Verolino L.
+   - **Source Id:** 21101278680
+   - **Author Ids:** 6603766602;7801615894;7403708681;35564985300;7003322700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60017293;60017293
+   - **Corresponding:** Delfino F.
+227.
+   - **Title:** Evaluation of forces in magnetic materials by means of energy and co-energy methods
+   - **Venue:** European Physical Journal B
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1140/e10051-002-0005-y
+   - **Scopus ID:** 2-s2.0-0041733798
+   - **ISSN:** 14346028
+   - **Volume:** 25
+   - **Issue:** 1
+   - **Pages:** 31-38
+   - **Authors:** Delfino F.; Procopio R.; Rossi M.
+   - **Quartile:**
+     2025:
+     - Electronic, Optical and Magnetic Materials (Q3, rank 188, percentile 39)
+     - Condensed Matter Physics (Q3, rank 281, percentile 37)
+   - **Source Id:** 27542
+   - **Author Ids:** 6603766602;7801615894;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Delfino F.

@@ -3,7 +3,7 @@ from __future__ import annotations
 import os
 from dataclasses import dataclass
 from datetime import datetime, timedelta
-from typing import Any, Dict, Optional
+from typing import Any, Dict, List, Optional
 
 import requests
 from dotenv import load_dotenv
@@ -23,6 +23,7 @@ class UnigeClient:
     AUTH_URL = "https://webservices.unige.it/v3/auth"
     PERSON_URL_TEMPLATE = "https://webservices.unige.it/v3/persona/{identifier}"
     PERSON_LIST_URL = "https://webservices.unige.it/v3/persona/list"
+    IRIS_URL_TEMPLATE = "https://webservices.unige.it/v3/iris/{identifier}"
 
     def __init__(
         self,
@@ -73,6 +74,37 @@ class UnigeClient:
                 f"UNIGE persona fetch failed! status={exc.response.status_code if exc.response else 'N/A'} body={payload}"
             ) from exc
         return response.json()
+
+    def get_member_iris_products(self, identifier: str | int) -> List[Dict[str, Any]]:
+        if identifier is None or identifier == "":
+            raise ValueError("UNIGE identifier is required for IRIS lookup.")
+
+        self._ensure_token()
+        url = self.IRIS_URL_TEMPLATE.format(identifier=identifier)
+        try:
+            response = self._session.get(
+                url,
+                headers={"Authorization": f"Bearer {self._token.value}"},
+                timeout=self.timeout,
+            )
+            response.raise_for_status()
+        except requests.HTTPError as exc:
+            payload = exc.response.text if exc.response is not None else ""
+            raise RuntimeError(
+                "UNIGE IRIS fetch failed! "
+                f"status={exc.response.status_code if exc.response else 'N/A'} body={payload}"
+            ) from exc
+
+        data = response.json()
+        if isinstance(data, list):
+            return data
+        if isinstance(data, dict):
+            if isinstance(data.get("resultList"), list):
+                return data["resultList"]
+            products = data.get("products")
+            if isinstance(products, list):
+                return products
+        return []
 
     def _ensure_token(self) -> None:
         if self._token and self._token.is_valid():

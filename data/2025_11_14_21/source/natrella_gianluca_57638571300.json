@@ -1,0 +1,931 @@
+{
+  "surname": "Natrella",
+  "name": "Gianluca",
+  "unit": "ELE",
+  "email": "gianluca.natrella@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/UUpAWlpo",
+  "website": "",
+  "unige_id": "497101",
+  "scopus_id": "57638571300",
+  "role": "Ricercatore",
+  "grade": "Ricercatore t.d. art. 24 c. 3 lett. A Legge 240/10 (t.pieno)",
+  "ssd": "IIND-08/B (Sistemi elettrici per l'energia)",
+  "location": [],
+  "career": [
+    {
+      "role": "DR",
+      "from": "2020-11-01 00:00:00.0000000",
+      "to": "2023-10-31 00:00:00.0000000"
+    },
+    {
+      "role": "BE",
+      "from": "2023-11-01 00:00:00.0000000",
+      "to": "2024-06-30 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2024-08-01 00:00:00.0000000",
+      "to": "2027-07-31 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {},
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 5,
+      "total_products": 12,
+      "journals": 5,
+      "conferences": 7,
+      "citations": 141,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 5,
+      "total_products": 12,
+      "journals": 5,
+      "conferences": 7,
+      "citations": 141,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 5,
+      "total_products": 12,
+      "journals": 5,
+      "conferences": 7,
+      "citations": 141,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 5,
+      "total_products": 12,
+      "journals": 5,
+      "conferences": 7,
+      "citations": 141,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-105019317119",
+      "title": "Full Tuning of Double Input Power System Stabilizers via Surrogate Optimization",
+      "doi": "10.1109/PowerTech59965.2025.11180292",
+      "venue": "2025 IEEE Kiel Powertech Powertech 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101341419",
+      "authors": "MacCió G.; Massucco S.; Natrella G.; Saviozzi M.; Conte F.; Giannuzzi G.; Tessitore S.",
+      "author_ids": "60150796500;6603357712;57638571300;56027556100;57151673600;25936117900;57211384304",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60005308;60122257;60122257",
+      "corresponding": "MacCió G.",
+      "keywords": "Double Input Power System Stabilizer | Optimal Tuning | Power System Stabilizer",
+      "abstract": "This paper deals with the optimal tuning of Power System Stabilizers (PSSs). The considered PSS is the widely adopted double input IEEE type PSS2B. The objective is to optimally define the PSS parameters to simultaneously place the system poles within a prescribed area defined by a maximal real part and a minimum damping factor and to minimize the phase lag between system frequency and generator terminal voltage, which has a strong impact on the damping of inter-area oscillations, according to the Italian Transmission System Operator expertise. This goal is obtained by minimizing a suitably defined cost function evaluated after the computation of a linearized model of the generator connected to an infinite bus external grid under several operating conditions, in terms of both generator working point and grid impedance. The result is a highly nonlinear optimization problem, which is solved via Surrogate Optimization. Compared to the current literature, the proposed procedure considers the tuning of every parameter of the PSS, comprising both the terminal branch and the initial section, which is intended for a pre-filtering action. This part includes additional time constants that can influence the transmission system dynamic response. Simulation results prove the effectiveness of the proposed procedure.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105019039502",
+      "title": "Optimal Sizing and Operations of a Hydrogen-Based Multi-Energy Port System with Market Participation and Gas Grid Integration",
+      "doi": "10.1109/EEEIC/ICPSEurope64998.2025.11169295",
+      "venue": "Conference Proceedings 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101340466",
+      "authors": "Carcasci Carlo; Conte Francesco; D'Agostino Fabio; Guzzo Gabriele; Natrella Gianluca; Saviozzi Matteo",
+      "author_ids": "6701748483;57151673600;56553864200;57224441656;57638571300;56027556100",
+      "authorAffiliationIds": "60021859;108398862;60025153;60021859;60025153;60025153",
+      "corresponding": "Carcasci C.",
+      "keywords": "energy markets | gas network | Hydrogen | multi-energy system | port energy management",
+      "abstract": "This work addresses the optimal sizing and operations of a hydrogen-based multi-energy system in the Port of Livorno, Italy, aimed at decarbonizing maritime activities. The system includes renewable generation, batteries, electrolyzers, and hydrogen storage. Hydrogen is used both for fueling ships and for injection into the nearby gas grid, complying with hydrogen blending limits. A simulation-based optimization framework is developed to solve the plant sizing problem: the outer level recursively minimizes the Net Present Cost via surrogate optimization, while the inner level optimally schedules daily operations by solving a mixed-integer linear programming problem. The framework accounts for markets participation (electricity, gas, environmental) and technical constraints. The feasibility of the optimized hydrogen injection strategy is assessed through a steady-state isothermal fluid-dynamic model. The system is sized based on the Italian regulation assuming a 2% vol hydrogen injection limit, while operational scenarios with injection limits ranging from 2% to 20% vol are analyzed. Results show that increasing the blending limit from 2% to 20% enables a 9% rise in renewable hydrogen utilization and reduces the Levelized Cost of Hydrogen from 3.82 €/kg to 3.49 €/kg.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85194402635",
+      "title": "Experimental Validation of Electrothermal and Aging Parameter Identification for Lithium-Ion Batteries",
+      "doi": "10.3390/en17102269",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "17",
+      "issue_id": "10",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Conte Francesco; Giallongo Marco; Kaza Daniele; Natrella Gianluca; Tachibana Ryohei; Tsuji Shinji; Silvestro Federico; Vichi Giovanni",
+      "author_ids": "57151673600;57854283800;57218924925;57638571300;59147313600;59146680100;23026343700;57210078993",
+      "authorAffiliationIds": "60005308;118019107;60025153;60025153;126155770;126155770;60025153;118019107",
+      "corresponding": "Conte F.",
+      "keywords": "Li-ion battery degradation | parameter identification | performance and lifetime prediction | semi-empirical model",
+      "abstract": "Modeling and predicting the long-term performance of Li-ion batteries is crucial for the effective design and efficient operation of integrated energy systems. In this paper, we introduce a comprehensive semi-empirical model for Li-ion cells, capturing electrothermal and aging features. This model replicates the evolution of cell voltage, capacity, and internal resistance, in relation to the cell actual operating conditions, and estimates the ongoing degradation in capacity and internal resistance due to the battery use. Thus, the model articulates into two sub-models, an electrothermal one, describing the battery voltage, and an aging one, computing the ongoing degradation. We first propose an approach to identify the parameters of both sub-models. Then, we validate the identification procedure and the accuracy of the electrothermal and aging models through an experimental campaign, also comprising two real cycle load tests at different temperatures, in which real measurements collected from real Li-ion cells are used. The overall model demonstrates good performances in simulating battery characteristics and forecasting degradation. The results show a Mean Absolute Percentage Error (MAPE) lower than 1% for battery voltage and capacity, and a maximum absolute error on internal resistance that is on par with the most up-to-date empirical models. The proposed approach is therefore well-suited for implementation in system modeling, and can be employed as an informative tool for enhancing battery design and operational strategies.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 90,
+              "rank": 15,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 85,
+              "rank": 39,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 82,
+              "rank": 173,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 75,
+              "rank": 73,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 71,
+              "rank": 38,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 68,
+              "rank": 32,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 105,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85215549109",
+      "title": "Enhancing Management and Control of Renewable Energy Communities: A Practical Implementation",
+      "doi": "10.1109/SyNERGYMED62435.2024.10799371",
+      "venue": "2024 3rd International Conference on Energy Transition in the Mediterranean Area Synergy MED 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101270338",
+      "authors": "Di Fazio A. R.; Conte F.; Natrella G.",
+      "author_ids": "24437779200;57151673600;57638571300",
+      "authorAffiliationIds": "60001711;60005308;60025153",
+      "corresponding": "Di Fazio A.R.",
+      "keywords": "Battery Energy Storage Systems | Experimental Validation | Model Predictive Control | PV Systems | Renewable Energy Community | Software-in-the-Loop Simulation",
+      "abstract": "Renewable Energy Communities are integral to the European Commission's energy transition agenda. These communities foster the participation of citizens, local authorities, and enterprises in producing, exchanging, and consuming renewable energy locally. The community members benefit from various financial incentives, including payments for excess renewable production, a premium tariff for renewable shared energy, and the refund of part of the electricity bill. However, high penetration of renewable energy sources can challenge grid stability, necessitating the adoption of flexibility strategies like battery systems and demand-side management. This paper presents a prototype of a tool for the real-time optimal management of renewable energy communities in which renewable generation, electrical loads and batteries are present. The community management tool implements: algorithms for forecasting load consumption and renewable generation; and algorithms for the optimal management of controllable resources.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85207428013",
+      "title": "Day-Ahead Programming of Energy Communities Participating in Pay-as-Bid Service Markets",
+      "doi": "10.1109/PESGM51994.2024.10688872",
+      "venue": "IEEE Power and Energy Society General Meeting",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "19449925",
+      "eIssn": "19449933",
+      "source_id": "20600195623",
+      "authors": "Conte F.; Massucco S.; Natrella G.; Saviozzi M.; Silvestro F.",
+      "author_ids": "57151673600;6603357712;57638571300;56027556100;23026343700",
+      "authorAffiliationIds": "60005308;60025153;60025153;60025153;60025153",
+      "corresponding": "Conte F.",
+      "keywords": "day-ahead programming | Renewable Energy Community | scenario-based optimization | service market",
+      "abstract": "This paper proposes an optimal strategy for a Renewable Energy Community participating in the Italian pay-as-bid ancillary services market. The community is composed by a group of residential customers sharing a common facility equipped with a photovoltaic power plant and a battery energy storage system. This battery is employed to maximize the community cash flow obtained by the participation in the services market. A scenario-based optimization problem is defined to size the bids to be submitted to the market and to define the corresponding optimal battery energy exchange profile for the day ahead. The proposed optimization scheme is able to take into account the probability of acceptance of the service market bids and the uncertainties in the forecasts of photovoltaic generation and energy demands. Results prove the effectiveness of the approach and the economic advantages of participating in the service market.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 37,
+              "rank": 622,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Nuclear Energy and Engineering",
+              "percentile": 37,
+              "rank": 53,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 36,
+              "rank": 208,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 25,
+              "rank": 232,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Nuclear Energy and Engineering",
+              "percentile": 34,
+              "rank": 53,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 29,
+              "rank": 682,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 28,
+              "rank": 215,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 20,
+              "rank": 238,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85146670642",
+      "title": "Modelling and optimal management of renewable energy communities using reversible solid oxide cells",
+      "doi": "10.1016/j.apenergy.2023.120657",
+      "venue": "Applied Energy",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "334",
+      "issue_id": null,
+      "pages": null,
+      "issn": "03062619",
+      "eIssn": null,
+      "source_id": "28801",
+      "authors": "Bianchi F. R.; Bosio B.; Conte F.; Massucco S.; Mosaico G.; Natrella G.; Saviozzi M.",
+      "author_ids": "57214116004;55888255600;57151673600;6603357712;57208723957;57638571300;56027556100",
+      "authorAffiliationIds": "60025153;60025153;60005308;60025153;60025153;60025153;60025153",
+      "corresponding": "Bianchi F.R.",
+      "keywords": "Green Hydrogen | Renewable Energy Communities | Reversible Solid Oxide Cells | Stochastic Model Predictive Control",
+      "abstract": "The use of reversible solid oxide cells within a renewable energy community results a promising application which permits to balance the temporal mismatch between renewable energy production and users’ demand through hydrogen as energy vector. Differently from batteries and supercapacitors, this technology is characterized by a high stored energy density and a negligible daily self-discharge. Nevertheless, the system management is more complex requiring cell behaviour optimization and hydrogen storage control. Here this work proposes a control algorithm for reversible solid oxide cell operation coupled to renewable energy sources within a renewable energy community formed by an aggregation of fifteen residential customers. Based on forecasts of loads and renewable energy production, the proposed algorithm, a stochastic model predictive control, can optimize system operation aiming at economic benefit maximization. The transition between the fuel cell mode for power generation and the electrolysis mode for energy storage through hydrogen production was set considering the available renewable energy, the power demand of community members and the energy sell-back price in order to increase the auto-consumed amount as well as to favour the electricity exchange within the renewable energy community. Since the reversible solid oxide cell is the key-point in such a system, SIMFC-SIMEC (SIMulation of Fuel Cells and Electrolysis Cells), a physically based 2D model, allowed an effective prediction of cell behaviour deriving the efficiency of electricity and hydrogen production from local physicochemical feature and working parameter gradients on each stacked cell plane.",
+      "citations": 46,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Management, Monitoring, Policy and Law",
+              "percentile": 98,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 98,
+              "rank": 14,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Building and Construction",
+              "percentile": 98,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy (all)",
+              "percentile": 94,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 93,
+              "rank": 22,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Building and Construction",
+              "percentile": 99,
+              "rank": 1,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Management, Monitoring, Policy and Law",
+              "percentile": 98,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 98,
+              "rank": 12,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy (all)",
+              "percentile": 95,
+              "rank": 4,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 94,
+              "rank": 15,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85136013988",
+      "title": "A new hybrid AI optimal management method for renewable energy communities",
+      "doi": "10.1016/j.egyai.2022.100197",
+      "venue": "Energy and AI",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "10",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "26665468",
+      "source_id": "21101047378",
+      "authors": "Conte Francesco; D'Antoni Federico; Natrella Gianluca; Merone Mario",
+      "author_ids": "57151673600;59170855000;57638571300;56102657200",
+      "authorAffiliationIds": "60005308;60005308;60025153;60005308",
+      "corresponding": "Conte F.",
+      "keywords": "Artificial Intelligence | Battery Energy Storage System management | Deep learning | Model Predictive Control | Renewable Energy Community",
+      "abstract": "In this study, we propose a hybrid AI optimal method to improve the efficiency of energy management in a smart grid such as Renewable Energy Community. This method adopts a Time Delay Neural Network to forecast the future values of the energy features in the community. Then, these forecasts are used by a stochastic Model Predictive Control to optimize the community operations with a proper control strategy of Battery Energy Storage System. The results of the predictions performed on a public dataset with a prediction horizon of 24 h return a Mean Absolute Error of 1.60 kW, 2.15 kW, and 0.30 kW for photovoltaic generation, total energy consumption, and common services, respectively. The model predictive control fed with such predictions generates maximum income compared to the competitors. The total income is increased by 18.72% compared to utilizing the same management system without exploiting predictions from a forecasting method.",
+      "citations": 47,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 96,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 92,
+              "rank": 37,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy (all)",
+              "percentile": 90,
+              "rank": 8,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 95,
+              "rank": 8,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 88,
+              "rank": 35,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy (all)",
+              "percentile": 86,
+              "rank": 10,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85130515093",
+      "title": "Exergetic Analysis of DME Synthesis from CO2 and Renewable Hydrogen",
+      "doi": "10.3390/en15103516",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "15",
+      "issue_id": "10",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "De Falco Marcello; Natrella Gianluca; Capocelli Mauro; Popielak Paulina; Sołtysik Marcelina; Wawrzyńczak Dariusz; Majchrzak-Kucęba Izabela",
+      "author_ids": "22940372300;57638571300;57105937300;57703435700;57217081924;35301378800;56292151900",
+      "authorAffiliationIds": "60005308;60025153;60005308;60009913;60009913;60009913;60009913",
+      "corresponding": "De Falco M.",
+      "keywords": "carbon capture and utilization | exergy analysis | methanol and DME production",
+      "abstract": "Carbon Capture and Utilization (CCU) is a viable solution to valorise the CO<inf>2</inf> captured from industrial plants’ flue gas, thus avoiding emitting it and synthesizing products with high added value. On the other hand, using CO<inf>2</inf> as a reactant in chemical processes is a challenging task, and a rigorous analysis of the performance is needed to evaluate the real impact of CCU technologies in terms of efficiency and environmental footprint. In this paper, the energetic performance of a DME and methanol synthesis process fed by 25% of the CO<inf>2</inf> captured from a natural gas combined cycle (NGCC) power plant and by the green hydrogen produced through an electrolyser was evaluated. The remaining 75% of the CO<inf>2</inf> was compressed and stored underground. The process was assessed by means of an exergetic analysis and compared to post-combustion Carbon Capture and Storage (CCS), where 100% of the CO<inf>2</inf> captured was stored underground. Through the exergy analysis, the quality degradation of energy was quantified, and the sources of irreversibility were detected. The carbon-emitting source was a 189 MW Brayton–Joule power plant, which was mainly responsible for exergy destruction. The CCU configuration showed a higher exergy efficiency than the CCS, but higher exergy destruction per non-emitted carbon dioxide. In the DME/methanol production plant, the main contribution to exergy destruction was given by the distillation column separating the reactor outlet stream and, in particular, the top-stage condenser was found to be the component with the highest irreversibility (45% of the total). Additionally, the methanol/DME synthesis reactor destroyed a significant amount of exergy (24%). Globally, DME/methanol synthesis from CO<inf>2</inf> and green hydrogen is feasible from an exergetic point of view, with 2.276 MJ of energy gained per 1 MJ of exergy destroyed.",
+      "citations": 12,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 83,
+              "rank": 21,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 82,
+              "rank": 27,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 73,
+              "rank": 197,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 69,
+              "rank": 77,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 67,
+              "rank": 18,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 67,
+              "rank": 39,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 56,
+              "rank": 103,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85143587755",
+      "title": "Methods and Tools for the Management of Renewable Energy Communities: the ComER project",
+      "doi": "10.23919/AEIT56783.2022.9951776",
+      "venue": "2022 Aeit International Annual Conference Aeit 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101125262",
+      "authors": "Rita Di Fazio Anna; Losi Arturo; Russo Mario; Cacace Filippo; Conte Francesco; Iannello Giulio; Natrella Gianluca; Saviozzi Matteo",
+      "author_ids": "24437779200;7004596459;56186338900;12239653700;57151673600;6701387714;57638571300;56027556100",
+      "authorAffiliationIds": "60001711;60001711;60001711;60005308;60005308;60005308;60025153;60025153",
+      "corresponding": "Rita Di Fazio A.",
+      "keywords": "Energy Communities | Renewables | Self-Consumption Management and Control",
+      "abstract": "Renewable Energy Communities (RECs) have been officially introduced into the European legislation through the Clean Energy for all Europeans package. A REC is defined as an association of citizens, commercial activities, enterprises, and local authorities that own small-scale power plants based on Renewable Energy Sources (RESs). The community has the objective of maximizing the share of renewable energy, i.e. the self-consumption of the energy generated by the community RES power plants and to generally optimize the use of electrical energy. This paper describes the ComER project, developed by the University of Cassino and the Campus Bio-Medico University of Rome. The project focuses on the main technical problems to face for the realization of a REC. The principal objective is to develop methods and tools necessary for the management and control of RECs. In particular, this paper describes the rules established for RECs in the Italian legislations, the organization of the ComER project, the adopted solutions and the first obtained results.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85141492983",
+      "title": "Optimal Management of a Smart Port with Shore-Connection and Hydrogen Supplying by Stochastic Model Predictive Control",
+      "doi": "10.1109/PESGM48719.2022.9916817",
+      "venue": "IEEE Power and Energy Society General Meeting",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "2022-July",
+      "issue_id": null,
+      "pages": null,
+      "issn": "19449925",
+      "eIssn": "19449933",
+      "source_id": "20600195623",
+      "authors": "Conte F.; D'Agostino F.; Kaza D.; Massucco S.; Natrella G.; Silvestro F.",
+      "author_ids": "57151673600;56553864200;57218924925;6603357712;57638571300;23026343700",
+      "authorAffiliationIds": "60005308;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Conte F.",
+      "keywords": "Cold-Ironing | Hydrogen | Multi-Energy Systems | Smart Port | Stochastic Model Predictive Control",
+      "abstract": "The paper proposes an optimal management strategy for a Smart Port equipped with renewable generation and composed by an electrified quay, operating Cold-Ironing, and a Hydrogen-based quay, supplying Zero-Emission Ships. One Battery Energy Storage System and one Hydrogen Energy Storage System are used to manage renewable energy sources and to supply electric and hydrogen-fueled ships. A model predictive control based algorithm is designed to define the best economic strategy to be followed during operations. The control algorithm takes into account the uncertainties of renewable energy generation using stochastic optimization. The performance of the approach is tested on a potential future Smart Port equipped with wind and photovoltaic generation.",
+      "citations": 17,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 37,
+              "rank": 622,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Nuclear Energy and Engineering",
+              "percentile": 37,
+              "rank": 53,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 36,
+              "rank": 208,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 25,
+              "rank": 232,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85135098261",
+      "title": "Optimal Management of Renewable Generation and Uncertain Demand with Reverse Fuel Cells by Stochastic Model Predictive Control",
+      "doi": "10.1109/PMAPS53380.2022.9810605",
+      "venue": "2022 17th International Conference on Probabilistic Methods Applied to Power Systems Pmaps 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101098702",
+      "authors": "Conte F.; Mosaico G.; Natrella G.; Saviozzi M.; Bianchi F. R.",
+      "author_ids": "57151673600;57208723957;57638571300;56027556100;57214116004",
+      "authorAffiliationIds": "60005308;60025153;60025153;60025153;60025153",
+      "corresponding": "Conte F.",
+      "keywords": "Fuel Cells | Hydrogen | Renewable Energy Communities | Stochastic Model Predictive Control",
+      "abstract": "This paper proposes a control strategy for a Reverse Fuel Cell used to manage a Renewable Energy Community. A two-stage scenario-based Model Predictive Control algorithm is designed to define the best economic strategy to be followed during operation. Renewable energy generation and users' demand are forecasted by a suitably defined Discrete Markov Chain based method. The control algorithm is able to take into account the uncertainties of forecasts and the nonlinear behaviour of the Reversible Fuel Cell. The performance of proposed approach is tested on a Renewable Energy Community composed by an aggregation of industrial buildings equipped with PV.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85116057808",
+      "title": "How to give a renewed chance to natural gas as feed for the production of hydrogen: Electric MSR coupled with CO2 mineralization",
+      "doi": "10.1016/j.clet.2021.100280",
+      "venue": "Cleaner Engineering and Technology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "5",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "26667908",
+      "source_id": "21101059780",
+      "authors": "Natrella Gianluca; Borgogna Alessia; Salladini Annarita; Iaquaniello Gaetano",
+      "author_ids": "57638571300;57194685941;36698159700;6603152491",
+      "authorAffiliationIds": "60005308;123658660;123658660;60005308-123658660-126966040",
+      "corresponding": "Natrella G.",
+      "keywords": "CO2 mineralization | Electrical methane steam reforming | Hydrogen production | Water electrolysis",
+      "abstract": "Recent years have seen a growing interest in water electrolysis as a way to store renewable electric energy into chemical energy, through hydrogen production. However today the share of renewable energy is still limited and there is the need to have a continuous use of H<inf>2</inf> for industrial chemicals applications. Firstly the paper discusses the use of electrolysis - connected to a conventional grid - for a continuous H<inf>2</inf> production in terms of associated CO<inf>2</inf> emissions and compares such emissions with conventional methane steam reforming (MSR). Therefore, it explores the possibility to use electrical methane steam reforming (eMSR) as a way to reduce the CO<inf>2</inf> emissions. As a way to have zero emissions, carbon mineralization of CO<inf>2</inf> is coupled - instead of in-situ carbon capture and storage technology (CCS) - to eMSR; associated relevant cost of production is evaluated for different scenarios. It appears that to minimize such production cost, carbonate minerals must be reused in the making of other industrial products, since the amount of carbonates generated by the process is quite significant.",
+      "citations": 10,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 94,
+              "rank": 17,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 91,
+              "rank": 20,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 30,
+              "rank": 80,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 26,
+              "rank": 127,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1271742",
+      "authors": "Carcasci, C.; Conte, F.; D'Agostino, F.; Guzzo, G.; Natrella, G.; Saviozzi, M.",
+      "legacy_id": 668936,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Optimal Sizing and Operations of a Hydrogen-Based Multi-Energy Port System with Market Participation and Gas Grid Integration",
+      "scopus_id": "2-s2.0-105019039502",
+      "doi": "10.1109/EEEIC/ICPSEurope64998.2025.11169295",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1271741",
+      "authors": "Maccio, G.; Massucco, S.; Natrella, G.; Saviozzi, M.; Conte, F.; Giannuzzi, G.; Tessitore, S.",
+      "legacy_id": 668939,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Full Tuning of Double Input Power System Stabilizers via Surrogate Optimization",
+      "scopus_id": "2-s2.0-105019317119",
+      "doi": "10.1109/PowerTech59965.2025.11180292",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1230715",
+      "authors": "Conte, F.; Massucco, S.; Natrella, G.; Saviozzi, M.; Silvestro, F.",
+      "legacy_id": 614632,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Day-Ahead Programming of Energy Communities Participating in Pay-as-Bid Service Markets",
+      "scopus_id": "2-s2.0-85207428013",
+      "doi": "10.1109/PESGM51994.2024.10688872",
+      "isi_id": "WOS:001345803901172",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1203435",
+      "authors": "Conte, Francesco; Giallongo, Marco; Kaza, Daniele; Natrella, Gianluca; Tachibana, Ryohei; Tsuji, Shinji; Silvestro, Federico; Vichi, Giovanni",
+      "legacy_id": 578106,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Experimental Validation of Electrothermal and Aging Parameter Identification for Lithium-Ion Batteries",
+      "scopus_id": "2-s2.0-85194402635",
+      "doi": "10.3390/en17102269",
+      "isi_id": "WOS:001232981400001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1163415",
+      "authors": "Natrella, Gianluca",
+      "ssd": "Settore ING-IND/33 - Sistemi Elettrici per L'Energia",
+      "legacy_id": 531525,
+      "year": 2024,
+      "miur_type": "-2",
+      "title": "Modeling and Optimal Management of Energy Storage Technologies in Smart Energy Systems",
+      "doi": "10.15167/natrella-gianluca_phd2024-03-04",
+      "type": "Tesi di dottorato"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1140175",
+      "authors": "Bianchi, F. R.; Bosio, B.; Conte, F.; Massucco, S.; Mosaico, G.; Natrella, G.; Saviozzi, M.",
+      "legacy_id": 500166,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Modelling and optimal management of renewable energy communities using reversible solid oxide cells",
+      "scopus_id": "2-s2.0-85146670642",
+      "doi": "10.1016/j.apenergy.2023.120657",
+      "isi_id": "WOS:000963238700001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "40",
+      "citations_scopus": "46"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102643",
+      "authors": "Conte, F.; Mosaico, G.; Natrella, G.; Saviozzi, M.; Bianchi, F. R.",
+      "legacy_id": 446109,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Optimal Management of Renewable Generation and Uncertain Demand with Reverse Fuel Cells by Stochastic Model Predictive Control",
+      "scopus_id": "2-s2.0-85135098261",
+      "doi": "10.1109/PMAPS53380.2022.9810605",
+      "isi_id": "WOS:000853744900048",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102644",
+      "authors": "Rita Di Fazio, Anna; Losi, Arturo; Russo, Mario; Cacace, Filippo; Conte, Francesco; Iannello, Giulio; Natrella, Gianluca; Saviozzi, Matteo",
+      "legacy_id": 446110,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Methods and Tools for the Management of Renewable Energy Communities: the ComER project",
+      "scopus_id": "2-s2.0-85143587755",
+      "doi": "10.23919/AEIT56783.2022.9951776",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1232375",
+      "authors": "Conte, Francesco; D'Antoni, Federico; Natrella, Gianluca; Merone, Mario",
+      "legacy_id": 617667,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "A new hybrid AI optimal management method for renewable energy communities",
+      "scopus_id": "2-s2.0-85136013988",
+      "doi": "10.1016/j.egyai.2022.100197",
+      "isi_id": "WOS:001062456100008",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "32",
+      "citations_scopus": "46"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1094396",
+      "authors": "Conte, F.; D'Agostino, F.; Kaza, D.; Massucco, S.; Natrella, G.; Silvestro, F.",
+      "legacy_id": 433656,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Optimal Management of a Smart Port with Shore-Connection and Hydrogen Supplying by Stochastic Model Predictive Control",
+      "scopus_id": "2-s2.0-85141492983",
+      "doi": "10.1109/PESGM48719.2022.9916817",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "17"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1232396",
+      "authors": "Natrella, Gianluca; Borgogna, Alessia; Salladini, Annarita; Iaquaniello, Gaetano",
+      "legacy_id": 617670,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "How to give a renewed chance to natural gas as feed for the production of hydrogen: Electric MSR coupled with CO2 mineralization",
+      "scopus_id": "2-s2.0-85116057808",
+      "doi": "10.1016/j.clet.2021.100280",
+      "isi_id": "WOS:000980938000021",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "8",
+      "citations_scopus": "10"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:15:45.388635"
+}

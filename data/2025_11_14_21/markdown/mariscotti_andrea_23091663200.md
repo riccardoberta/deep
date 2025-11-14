@@ -1,0 +1,4792 @@
+# Mariscotti Andrea
+
+## Overview
+- **Unit:** ELE
+- **Role:** Ricercatore
+- **Grade:** Ricercatore DPR 232/11 art.2 - t.pieno - cl. 5
+- **SSD:** IMIS-01/B (Misure elettriche ed elettroniche)
+- **Scopus ID:** 23091663200
+- **UNIGE ID:** 055761
+- **Retrieved at:** 2025-11-14T15:16:02.327775
+
+## Contact
+- **Email:** andrea.mariscotti@unige.it
+- **Phone:** +39 010 33 52169
+- **Page:** https://rubrica.unige.it/personale/VUZCXFxo
+- **Locations:** Opera Pia - padiglione D (ED_161450401), 1° piano, US_161450401.I.015
+
+## Career
+- RU, 2012-05-01 → 2222-02-02
+
+## Responsibilities
+- **Title:** Membro della Giunta di dipartimento
+  - **Unit:** Dipartimento di ingegneria navale, elettrica, elettronica e delle telecomunicazioni - DITEN
+  - **Period:** 2024-11-01 → 2027-10-31
+
+## Teaching
+### 2025
+- Misure Elettriche (106718), L-9 - Ingegneria Elettrica
+- Misure Elettriche Ed Elettroniche (67753), L/Snt3 - Tecniche Di Laboratorio Biomedico
+
+### 2024
+- Misure Elettriche (106718), L-9 - Ingegneria Elettrica
+- Misure Elettriche Ed Elettroniche (67753), L/Snt3 - Tecniche Di Laboratorio Biomedico
+
+### 2023
+- Misure Elettriche (106718), L-9 - Ingegneria Elettrica
+- Misure Elettriche Ed Elettroniche (67753), L/Snt3 - Tecniche Di Laboratorio Biomedico
+
+### 2022
+- Misure Elettriche (84371), L-9 - Ingegneria Elettrica
+- Misure Elettriche Ed Elettroniche (67753), L/Snt3 - Tecniche Di Laboratorio Biomedico
+
+### 2021
+- Misure Elettriche (84371), L-9 - Ingegneria Elettrica
+
+## Scopus Metrics
+- absolute; Docs: 215; Journals: 110; Conferences: 103; Citations: 3080; H-index: 29
+- 15 years (2010-2025); Docs: 156; Journals: 82; Conferences: 72; Citations: 1943; H-index: 24
+- 10 years (2015-2025); Docs: 97; Journals: 63; Conferences: 33; Citations: 1083; H-index: 20
+- 05 years (2020-2025); Docs: 69; Journals: 51; Conferences: 18; Citations: 672; H-index: 17
+
+## Scopus Products
+1.
+   - **Title:** Unsupervised Segmentation and Classification of Waveform-Distortion Data Using Non-Active Current
+   - **Venue:** Energies
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3390/en18133536
+   - **Scopus ID:** 2-s2.0-105010313814
+   - **eISSN:** 19961073
+   - **Volume:** 18
+   - **Issue:** 13
+   - **Authors:** Mariscotti Andrea; Salles Rafael S.; Rönnberg Sarah K.
+   - **Keywords:** anomaly detection | deep learning | electromobility | energy efficiency | load signature | non-intrusive load monitoring | traction power systems
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 23091663200;57219744052;25926063600
+   - **Authoraffiliationids:** 60025153;60007183;60007183
+   - **Corresponding:** Mariscotti A.
+2.
+   - **Title:** MetSuperCap: Metrology for static and dynamic characterisation of supercapacitors
+   - **Venue:** Measurement Sensors
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1016/j.measen.2024.101434
+   - **Scopus ID:** 2-s2.0-85212867842
+   - **eISSN:** 26659174
+   - **Volume:** 38
+   - **Authors:** Zucca Mauro; Al-Zubaidi-R-Smith Nawfal; Bartova Lucie; van den Brom Helko; Callegaro Luca; Cultrera Alessandro; Fast Lars; Girimonte Aldo; Hassanzadeh Melika; Mariscotti Andrea; Masouras Athanasios; Medved Juan; Musumeci Salvatore; Nicol Giovanna; Ouameur Mohamed; Rietveld Gert
+   - **Keywords:** Circuit models | Energy storage | Measurement standards | Measurement uncertainty | Supercapacitors | Traceability
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 21, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 141, percentile 85)
+     - Industrial and Manufacturing Engineering (Q1, rank 61, percentile 85)
+     - Mechanics of Materials (Q1, rank 63, percentile 84)
+     - Electronic, Optical and Magnetic Materials (Q1, rank 53, percentile 83)
+   - **Source Id:** 21101055722
+   - **Author Ids:** 7004060971;57655768200;59321360500;56962785900;55876974900;55943703200;7003758211;57221951559;58695983100;23091663200;57193353526;57973426900;54679939000;55692595000;56901273900;6701390225
+   - **Authoraffiliationids:** 60073835;60111731;110585673;112828664;60073835;60073835;60107281;131670576;60073835-60012162;60025153;130174336;60073835-60012162;60012162;60258352;60084316;60020599
+   - **Corresponding:** Zucca M.
+3.
+   - **Title:** New radio-seismic indicator for ELF seismic precursors detectability
+   - **Venue:** Egyptian Journal of Remote Sensing and Space Science
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1016/j.ejrs.2024.10.003
+   - **Scopus ID:** 2-s2.0-85210388233
+   - **ISSN:** 11109823
+   - **eISSN:** 20902476
+   - **Volume:** 28
+   - **Issue:** 1
+   - **Pages:** 12-20
+   - **Authors:** Mariscotti Andrea; Romero Renato
+   - **Keywords:** Earthquake | ELF band | Magnetic field | Seismic precursor
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 10, percentile 95)
+   - **Source Id:** 19700183014
+   - **Author Ids:** 23091663200;57805202300
+   - **Authoraffiliationids:** 60025153;
+   - **Corresponding:** Mariscotti A.
+4.
+   - **Title:** Testing non-linearity and saturation of a RF current probe
+   - **Venue:** Proceedings of the International Symposium on Electromagnetic Compatibility EMC Europe
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EMCEurope61644.2025.11176345
+   - **Scopus ID:** 2-s2.0-105019258717
+   - **ISSN:** 23250356
+   - **eISSN:** 23250364
+   - **Issue:** 2025
+   - **Pages:** 1019-1024
+   - **Authors:** Mariscotti Andrea; Mayerhofer Michael
+   - **Keywords:** current probe | electromagnetic compatibility | non-linearity | saturation | test fixture
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 161, percentile 14)
+     - Radiation (Q4, rank 63, percentile 14)
+     - Energy Engineering and Power Technology (Q4, rank 281, percentile 13)
+     - Electrical and Electronic Engineering (Q4, rank 894, percentile 10)
+   - **Source Id:** 21101264260
+   - **Author Ids:** 23091663200;60148473400
+   - **Authoraffiliationids:** 60025153;133285567
+   - **Corresponding:** Mariscotti A.
+5.
+   - **Title:** Aggregation of Low-Frequency Conducted Emissions in DC Grids with Wireless Power Transfer Chargers
+   - **Venue:** Proceedings of the International Symposium on Electromagnetic Compatibility EMC Europe
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EMCEurope61644.2025.11176362
+   - **Scopus ID:** 2-s2.0-105019237304
+   - **ISSN:** 23250356
+   - **eISSN:** 23250364
+   - **Issue:** 2025
+   - **Pages:** 1031-1035
+   - **Authors:** Sandrolini Leonardo; Simonazzi Mattia; Mariscotti Andrea
+   - **Keywords:** aggregation | conducted emissions | DC grids | electromagnetic compatibility | supraharmonics | wireless power transfer
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 161, percentile 14)
+     - Radiation (Q4, rank 63, percentile 14)
+     - Energy Engineering and Power Technology (Q4, rank 281, percentile 13)
+     - Electrical and Electronic Engineering (Q4, rank 894, percentile 10)
+   - **Source Id:** 21101264260
+   - **Author Ids:** 6508327262;57218559225;23091663200
+   - **Authoraffiliationids:** 60028218;60028218;60025153
+   - **Corresponding:** Sandrolini L.
+6.
+   - **Title:** Preliminary research on the use of portable vector network analyzers working with two measurement coils to determine the impedance of networks that are difficult to access
+   - **Venue:** 2025 Asia Pacific International Symposium and Exhibition on Electromagnetic Compatibility Apemc 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/APEMC62958.2025.11051533
+   - **Scopus ID:** 2-s2.0-105011150948
+   - **Pages:** 249-252
+   - **Authors:** Wojciechowski Marcin; Büyük Serdar; Mariscotti Andrea; Štibernik Klemen; Hovorova Kateryna
+   - **Keywords:** current injection probes | EMC standards | VNA applications | wideband impedance measurement
+   - **Source Id:** 21101314090
+   - **Author Ids:** 57211542737;58058411200;23091663200;59473857100;58660905800
+   - **Authoraffiliationids:** 60085057;60079019;60025153;112751567;60085057
+   - **Corresponding:** Wojciechowski M.
+7.
+   - **Title:** Data-driven assessment of VI diagrams for inference on pantograph quantities waveform distortion in AC railways
+   - **Venue:** Computers and Electrical Engineering
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1016/j.compeleceng.2024.109730
+   - **Scopus ID:** 2-s2.0-85205289816
+   - **ISSN:** 00457906
+   - **Volume:** 120
+   - **Authors:** Salles Rafael S.; De Oliveira Roger A.; Rönnberg Sarah K.; Mariscotti Andrea
+   - **Keywords:** Dimension reduction | Guideway transportation | Load monitoring | Pattern analysis | Power quality | Power system harmonics
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 30, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 81, percentile 91)
+     - Computer Science (all) (Q1, rank 24, percentile 90)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 92, percentile 90)
+     - Control and Systems Engineering (Q1, rank 37, percentile 90)
+     - Computer Science (all) (Q1, rank 27, percentile 88)
+   - **Source Id:** 18159
+   - **Author Ids:** 57219744052;57213769312;25926063600;23091663200
+   - **Authoraffiliationids:** 60007183;60007183;60007183;60025153
+   - **Corresponding:** Salles R.S.
+8.
+   - **Title:** Accuracy and Uncertainty of Position Detection of Moving Objects by Resonator Arrays
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3390/electronics13153099
+   - **Scopus ID:** 2-s2.0-85200784108
+   - **eISSN:** 20799292
+   - **Volume:** 13
+   - **Issue:** 15
+   - **Authors:** Simonazzi Mattia; Sandrolini Leonardo; Mariscotti Andrea
+   - **Keywords:** capacitors | inductive position sensor | magneto-inductive waves | position sensing | resonator array | uncertainty
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 228, percentile 76)
+     - Signal Processing (Q1, rank 44, percentile 76)
+     - Control and Systems Engineering (Q1, rank 93, percentile 75)
+     - Computer Networks and Communications (Q2, rank 137, percentile 73)
+     - Hardware and Architecture (Q2, rank 62, percentile 72)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 57218559225;6508327262;23091663200
+   - **Authoraffiliationids:** 60028218;60028218;60025153
+   - **Corresponding:** Simonazzi M.
+9.
+   - **Title:** Estimation of Railway Line Impedance at Low Frequency Using Onboard Measurements Only
+   - **Venue:** Energies
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.3390/en17153739
+   - **Scopus ID:** 2-s2.0-85200761158
+   - **eISSN:** 19961073
+   - **Volume:** 17
+   - **Issue:** 15
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** energy consumption | impedance | impedance measurement | power system harmonics | railways | rolling stock | uncertainty
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2024:
+     - Control and Optimization (Q1, rank 15, percentile 90)
+     - Engineering (miscellaneous) (Q1, rank 39, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 173, percentile 82)
+     - Energy Engineering and Power Technology (Q1, rank 73, percentile 75)
+     - Fuel Technology (Q2, rank 38, percentile 71)
+     - Energy (miscellaneous) (Q2, rank 32, percentile 68)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 105, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+10.
+   - **Title:** Diagnostics on Power Electronics Converters by Means of Autoregressive Modelling
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3390/electronics13153083
+   - **Scopus ID:** 2-s2.0-85200718290
+   - **eISSN:** 20799292
+   - **Volume:** 13
+   - **Issue:** 15
+   - **Authors:** Diversi Roberto; Sandrolini Leonardo; Simonazzi Mattia; Speciale Nicolò; Mariscotti Andrea
+   - **Keywords:** autoregressive model | conducted emissions | data-driven techniques | diagnostics | electromagnetic compatibility | SMPS | wireless power transfer
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 228, percentile 76)
+     - Signal Processing (Q1, rank 44, percentile 76)
+     - Control and Systems Engineering (Q1, rank 93, percentile 75)
+     - Computer Networks and Communications (Q2, rank 137, percentile 73)
+     - Hardware and Architecture (Q2, rank 62, percentile 72)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 6603352445;6508327262;57218559225;6603032612;23091663200
+   - **Authoraffiliationids:** 60028218;60028218;60028218;60028218;60025153
+   - **Corresponding:** Diversi R.
+11.
+   - **Title:** Interference with Signaling Track Circuits Caused by Rolling Stock: Uncertainty and Variability on a Test Case
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.3390/electronics13142875
+   - **Scopus ID:** 2-s2.0-85199594243
+   - **eISSN:** 20799292
+   - **Volume:** 13
+   - **Issue:** 14
+   - **Authors:** Bhagat Sahil; Mariscotti Andrea
+   - **Keywords:** data acquisition | electrical measurements | interference | railways | rolling stock | signal processing | spectral analysis | uncertainty
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 228, percentile 76)
+     - Signal Processing (Q1, rank 44, percentile 76)
+     - Control and Systems Engineering (Q1, rank 93, percentile 75)
+     - Computer Networks and Communications (Q2, rank 137, percentile 73)
+     - Hardware and Architecture (Q2, rank 62, percentile 72)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 57376543200;23091663200
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bhagat S.
+12.
+   - **Title:** Power Grids and Instrument Transformers up to 150 kHz: A Review of Literature and Standards
+   - **Venue:** Sensors
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 8
+   - **DOI:** 10.3390/s24134148
+   - **Scopus ID:** 2-s2.0-85198399329
+   - **eISSN:** 14248220
+   - **Volume:** 24
+   - **Issue:** 13
+   - **Authors:** Agazar Mohamed; D’Avanzo Giovanni; Frigo Guglielmo; Giordano Domenico; Iodice Claudio; Letizia Palma Sara; Luiso Mario; Mariscotti Andrea; Mingotti Alessandro; Munoz Fabio; Palladini Daniele; Rietveld Gert; van den Brom Helko
+   - **Keywords:** grid impedance | high-frequency distortion | instrument transformers | measurements | medium voltage | power quality | power system | supra-harmonics
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2024:
+     - Instrumentation (Q1, rank 21, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 145, percentile 85)
+     - Analytical Chemistry (Q1, rank 30, percentile 81)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 44, percentile 81)
+     - Information Systems (Q1, rank 91, percentile 80)
+     - Biochemistry (Q1, rank 86, percentile 80)
+   - **Source Id:** 130124
+   - **Author Ids:** 56382418900;57871509700;35195756700;55188273000;58169003200;57200854705;21934307200;23091663200;57193855733;57337764700;57211293838;6701390225;56962785900
+   - **Authoraffiliationids:** 60084316;60104176;107232735;60073835;60026777;60073835;60026777;60025153;60028218;107009221;60104176;107009221-60020599;107009221
+   - **Corresponding:** Agazar M.
+13.
+   - **Title:** The Effects of Supraharmonic Distortion in MV and LV AC Grids
+   - **Venue:** Sensors
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 20
+   - **DOI:** 10.3390/s24082465
+   - **Scopus ID:** 2-s2.0-85191411165
+   - **eISSN:** 14248220
+   - **Volume:** 24
+   - **Issue:** 8
+   - **Authors:** Mariscotti Andrea; Mingotti Alessandro
+   - **Keywords:** accuracy | aging | distortion | disturbance | power losses | power quality | supraharmonics
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2024:
+     - Instrumentation (Q1, rank 21, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 145, percentile 85)
+     - Analytical Chemistry (Q1, rank 30, percentile 81)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 44, percentile 81)
+     - Information Systems (Q1, rank 91, percentile 80)
+     - Biochemistry (Q1, rank 86, percentile 80)
+   - **Source Id:** 130124
+   - **Author Ids:** 23091663200;57193855733
+   - **Authoraffiliationids:** 60025153;60028218
+   - **Corresponding:** Mariscotti A.
+14.
+   - **Title:** A portable VNA-based system for grid impedance measurements
+   - **Venue:** Proceedings of the International Symposium on Electromagnetic Compatibility EMC Europe
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/EMCEurope59828.2024.10722179
+   - **Scopus ID:** 2-s2.0-85212240503
+   - **ISSN:** 23250356
+   - **eISSN:** 23250364
+   - **Issue:** 2024
+   - **Pages:** 464-469
+   - **Authors:** Büyük S.; Mariscotti A.; Štibernik K.; Şen O.; Wojciechowski M.
+   - **Keywords:** electromagnetic interference | impedance measurement | network analyzers | power systems | probes
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 161, percentile 14)
+     - Radiation (Q4, rank 63, percentile 14)
+     - Energy Engineering and Power Technology (Q4, rank 281, percentile 13)
+     - Electrical and Electronic Engineering (Q4, rank 894, percentile 10)
+     2024:
+     - Instrumentation (Q4, rank 163, percentile 6)
+     - Radiation (Q4, rank 64, percentile 5)
+     - Energy Engineering and Power Technology (Q4, rank 284, percentile 5)
+     - Electrical and Electronic Engineering (Q4, rank 924, percentile 4)
+   - **Source Id:** 21101264260
+   - **Author Ids:** 58058411200;23091663200;59473857100;56406209900;57211542737
+   - **Authoraffiliationids:** 60079019;60025153;132049569;60079019;121701904
+   - **Corresponding:** Büyük S.
+15.
+   - **Title:** Wide-Frequency Equivalent Circuit Modelling of a DC/DC Converter for Conducted Emissions
+   - **Venue:** Proceedings of the International Symposium on Electromagnetic Compatibility EMC Europe
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EMCEurope59828.2024.10722719
+   - **Scopus ID:** 2-s2.0-85212208832
+   - **ISSN:** 23250356
+   - **eISSN:** 23250364
+   - **Issue:** 2024
+   - **Pages:** 798-803
+   - **Authors:** Mariscotti Andrea; Sandrolini Leonardo; Simonazzi Mattia
+   - **Keywords:** conducted emissions | DC grid | electric vehicles | electromagnetic compatibility | equivalent impedance | power converters | Supraharmonics
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 161, percentile 14)
+     - Radiation (Q4, rank 63, percentile 14)
+     - Energy Engineering and Power Technology (Q4, rank 281, percentile 13)
+     - Electrical and Electronic Engineering (Q4, rank 894, percentile 10)
+     2024:
+     - Instrumentation (Q4, rank 163, percentile 6)
+     - Radiation (Q4, rank 64, percentile 5)
+     - Energy Engineering and Power Technology (Q4, rank 284, percentile 5)
+     - Electrical and Electronic Engineering (Q4, rank 924, percentile 4)
+   - **Source Id:** 21101264260
+   - **Author Ids:** 23091663200;6508327262;57218559225
+   - **Authoraffiliationids:** 60025153;60028218;60028218
+   - **Corresponding:** Mariscotti A.
+16.
+   - **Title:** Time-Domain Power Theory Applied to Waveform Distortion Assessment of AC Railways
+   - **Venue:** 2024 14th IEEE International Workshop on Applied Measurements for Power Systems Amps 2024 Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/AMPS62611.2024.10706685
+   - **Scopus ID:** 2-s2.0-85207841987
+   - **Authors:** Mariscotti Andrea; Salles Rafael S.; Rönnberg Sarah K.
+   - **Keywords:** electric transportation systems | power quality | power system harmonics | supraharmonics
+   - **Source Id:** 21101256281
+   - **Author Ids:** 23091663200;57219744052;25926063600
+   - **Authoraffiliationids:** 60025153;60007183;60007183
+   - **Corresponding:** Mariscotti A.
+17.
+   - **Title:** The project 'Metrology for Static and Dynamic Characterization of Supercapacitors' - MetSuperCap
+   - **Venue:** CPEM Digest Conference on Precision Electromagnetic Measurements
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CPEM61406.2024.10646148
+   - **Scopus ID:** 2-s2.0-85203553441
+   - **ISSN:** 05891485
+   - **Authors:** Zucca M.; Al-Zubaidi-R-Smith N.; Bartova L.; Van Den Brom H.; Callegaro L.; Cultrera A.; Fast L.; Grandinetti B.; Hassanzadeh M.; Mariscotti A.; Masouras A.; Musumeci S.; Nicol G.; Ouameur M.; Rietveld G.
+   - **Keywords:** Batteries | characterization | energy storage | measurement | measurement techniques | supercapacitors
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 150, percentile 20)
+     - Electrical and Electronic Engineering (Q4, rank 858, percentile 14)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 290, percentile 6)
+     2024:
+     - Instrumentation (Q4, rank 163, percentile 6)
+     - Electrical and Electronic Engineering (Q4, rank 924, percentile 4)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 301, percentile 1)
+   - **Source Id:** 52214
+   - **Author Ids:** 7004060971;57655768200;59321360500;56962785900;55876974900;55943703200;7003758211;59320499500;58695983100;23091663200;57193353526;54679939000;55692595000;56901273900;6701390225
+   - **Authoraffiliationids:** 60073835;60111731;110585673;112828664;60073835;60073835;60107281;131670576;60073835-60012162;60025153;130174336;60012162;60258352;60084316;60020599
+   - **Corresponding:** Zucca M.
+18.
+   - **Title:** Metrology for Electric Vehicle Charging Systems: an Overview of the European Research Project
+   - **Venue:** 2024 IEEE International Workshop on Metrology for Automotive Metroautomotive 2024 Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/METROAUTOMOTIVE61329.2024.10615697
+   - **Scopus ID:** 2-s2.0-85202573381
+   - **Pages:** 118-123
+   - **Authors:** Femine Antonio Delle; Iodice Claudio; Kučera Jan; Dierikx Erik; Mariscotti Andrea; Torres Iván Higuero; de Aguilar Javier Díaz; Van Wijk Thijs
+   - **Keywords:** Automotive | Charging Systems | Distortion | Electric Vehicle | Grid Impedance | Measurements | Metrology
+   - **Source Id:** 21101245233
+   - **Author Ids:** 21933667400;58169003200;56768981000;24483014400;23091663200;57221257737;6506219839;57202989203
+   - **Authoraffiliationids:** 60026777;60026777;60040926;60070767;60025153;60102591;60019778;129405566
+   - **Corresponding:** Femine A.D.
+19.
+   - **Title:** Metrology support for enhanced energy efficiency in DC transportation systems
+   - **Venue:** CPEM Digest Conference on Precision Electromagnetic Measurements
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/CPEM61406.2024.10646053
+   - **Scopus ID:** 2-s2.0-85200743258
+   - **ISSN:** 05891485
+   - **Authors:** Giordano Domenico; Fernandez Jorge Quintana; Gallo Daniele; Hallstrom Jari; Istrate Daniela; Iordache Marius; Mariscotti Andrea; Rietveld Gert; Rovira Jorge; Venugopal Prasanth; Zhao Wei
+   - **Keywords:** Calibration | DC-AC power converter | Energy efficiency | Energy Measurement | Rail transportation
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 150, percentile 20)
+     - Electrical and Electronic Engineering (Q4, rank 858, percentile 14)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 290, percentile 6)
+     2024:
+     - Instrumentation (Q4, rank 163, percentile 6)
+     - Electrical and Electronic Engineering (Q4, rank 924, percentile 4)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 301, percentile 1)
+   - **Source Id:** 52214
+   - **Author Ids:** 55188273000;57207799508;57578324200;6603797402;55583225700;59321365800;23091663200;6701390225;57197795288;57337600000;59320929100
+   - **Authoraffiliationids:** 112471434;124821641;60026777;60033191;131670551;126042646;129979881;129808876-131669959;131670213;129808876;131669959
+   - **Corresponding:** Giordano D.
+20.
+   - **Title:** Measures and Prescriptions to Reduce Stray Current in the Design of New Track Corridors
+   - **Venue:** Energies
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 10
+   - **DOI:** 10.3390/en16176252
+   - **Scopus ID:** 2-s2.0-85170523445
+   - **eISSN:** 19961073
+   - **Volume:** 16
+   - **Issue:** 17
+   - **Authors:** Vranešić Katarina; Bhagat Sahil; Mariscotti Andrea; Vail Robert
+   - **Keywords:** corrosion | DC power system | stray current | stray current mitigation | urban railway track
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2023:
+     - Control and Optimization (Q1, rank 19, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 36, percentile 82)
+     - Electrical and Electronic Engineering (Q2, rank 200, percentile 74)
+     - Energy Engineering and Power Technology (Q2, rank 78, percentile 71)
+     - Fuel Technology (Q2, rank 40, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 25, percentile 68)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 103, percentile 62)
+   - **Source Id:** 62932
+   - **Author Ids:** 57199849346;57376543200;23091663200;37075923200
+   - **Authoraffiliationids:** 60103661;60025153;60025153;60074952
+   - **Corresponding:** Vranešić K.
+21.
+   - **Title:** Uncertainty of Standardized Track Insulation Measurement Methods for Stray Current Assessment
+   - **Venue:** Sensors
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.3390/s23135900
+   - **Scopus ID:** 2-s2.0-85164844256
+   - **ISSN:** 14248220
+   - **Volume:** 23
+   - **Issue:** 13
+   - **Authors:** Bhagat Sahil; Bongiorno Jacopo; Mariscotti Andrea
+   - **Keywords:** DC power systems | guideway electric transportation systems | stray current | test methods | uncertainty
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2023:
+     - Instrumentation (Q1, rank 24, percentile 83)
+     - Electrical and Electronic Engineering (Q1, rank 163, percentile 79)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 48, percentile 78)
+     - Analytical Chemistry (Q1, rank 36, percentile 77)
+     - Information Systems (Q1, rank 91, percentile 77)
+     - Biochemistry (Q2, rank 133, percentile 69)
+   - **Source Id:** 130124
+   - **Author Ids:** 57376543200;56450849900;23091663200
+   - **Authoraffiliationids:** 60025153;121884954;60025153
+   - **Corresponding:** Bhagat S.
+22.
+   - **Title:** Resonator Arrays for Linear Position Sensors
+   - **Venue:** Journal of Low Power Electronics and Applications
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.3390/jlpea13020041
+   - **Scopus ID:** 2-s2.0-85163680229
+   - **eISSN:** 20799268
+   - **Volume:** 13
+   - **Issue:** 2
+   - **Authors:** Simonazzi Mattia; Sandrolini Leonardo; Mariscotti Andrea
+   - **Keywords:** inductive sensors | position sensor
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 355, percentile 64)
+     2023:
+     - Electrical and Electronic Engineering (Q2, rank 366, percentile 54)
+   - **Source Id:** 21100332242
+   - **Author Ids:** 57218559225;6508327262;23091663200
+   - **Authoraffiliationids:** 60028218;60028218;60025153
+   - **Corresponding:** Simonazzi M.
+23.
+   - **Title:** Influence of Infrastructure and Operating Conditions on Energy Performance of DC Transit Systems
+   - **Venue:** Energies
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.3390/en16103975
+   - **Scopus ID:** 2-s2.0-85160590631
+   - **eISSN:** 19961073
+   - **Volume:** 16
+   - **Issue:** 10
+   - **Authors:** Bhagat Sahil; Bongiorno Jacopo; Mariscotti Andrea
+   - **Keywords:** energy conversion | energy efficiency | power system simulation | rail transportation | traction power supply
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2023:
+     - Control and Optimization (Q1, rank 19, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 36, percentile 82)
+     - Electrical and Electronic Engineering (Q2, rank 200, percentile 74)
+     - Energy Engineering and Power Technology (Q2, rank 78, percentile 71)
+     - Fuel Technology (Q2, rank 40, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 25, percentile 68)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 103, percentile 62)
+   - **Source Id:** 62932
+   - **Author Ids:** 57376543200;56450849900;23091663200
+   - **Authoraffiliationids:** 60025153;121884954;60025153
+   - **Corresponding:** Bhagat S.
+24.
+   - **Title:** Opera 2015 Project: Accurate Measurement Equipment for Earthquake Electromagnetic Emissions and Radio Seismic Indicator
+   - **Venue:** Sensors
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.3390/s23052379
+   - **Scopus ID:** 2-s2.0-85149771106
+   - **ISSN:** 14248220
+   - **Volume:** 23
+   - **Issue:** 5
+   - **Authors:** Romero Renato; Feletti Luca; Re Claudio; Mariscotti Andrea
+   - **Keywords:** amplifier | antenna | earthquake | earthquake sensing | electric field | ELF band | magnetic field | radio seismic indicator | seismic activity | seismic precursor
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2023:
+     - Instrumentation (Q1, rank 24, percentile 83)
+     - Electrical and Electronic Engineering (Q1, rank 163, percentile 79)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 48, percentile 78)
+     - Analytical Chemistry (Q1, rank 36, percentile 77)
+     - Information Systems (Q1, rank 91, percentile 77)
+     - Biochemistry (Q2, rank 133, percentile 69)
+   - **Source Id:** 130124
+   - **Author Ids:** 57805202300;58289978400;58135592100;23091663200
+   - **Authoraffiliationids:** ;;129282033;60025153
+   - **Corresponding:** Romero R.
+25.
+   - **Title:** The Electrical Behaviour of Railway Pantograph Arcs
+   - **Venue:** Energies
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 14
+   - **DOI:** 10.3390/en16031465
+   - **Scopus ID:** 2-s2.0-85147855381
+   - **eISSN:** 19961073
+   - **Volume:** 16
+   - **Issue:** 3
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** current collection | disturbance | electric arc | electrified transportation systems | pantograph | railway
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2023:
+     - Control and Optimization (Q1, rank 19, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 36, percentile 82)
+     - Electrical and Electronic Engineering (Q2, rank 200, percentile 74)
+     - Energy Engineering and Power Technology (Q2, rank 78, percentile 71)
+     - Fuel Technology (Q2, rank 40, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 25, percentile 68)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 103, percentile 62)
+   - **Source Id:** 62932
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+26.
+   - **Title:** Psophometric Indices Analysis For Waveform Distortion From Rolling Stocks In Electrified Traction Systems
+   - **Venue:** Iet Conference Proceedings
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1049/icp.2023.0995
+   - **Scopus ID:** 2-s2.0-85181531926
+   - **eISSN:** 27324494
+   - **Pages:** 1685-1689
+   - **Authors:** Salles Rafael S.; Rönnberg Sarah K.; Mariscotti Andrea
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q4, rank 329, percentile 5)
+     2023:
+     - Engineering (all) (Q4, rank 286, percentile 7)
+   - **Source Id:** 21101162960
+   - **Author Ids:** 57219744052;25926063600;23091663200
+   - **Authoraffiliationids:** 102014211;102014211;60025153
+   - **Corresponding:** Salles R.S.
+27.
+   - **Title:** Variability of Conducted Emissions of EV Chargers due to Mutual Effects on a DC Grid
+   - **Venue:** IEEE International Symposium on Electromagnetic Compatibility
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/EMCEurope57790.2023.10274375
+   - **Scopus ID:** 2-s2.0-85174638050
+   - **ISSN:** 10774076
+   - **eISSN:** 21581118
+   - **Volume:** 2023-September
+   - **Authors:** Bhagat Sahil; Mariscotti Andrea; Simonazzi Mattia; Sandrolini Leonardo
+   - **Keywords:** DC grid | distortion | electric vehicle | electromagnetic compatibility | EV charger | supraharmonics
+   - **Source Id:** 17274
+   - **Author Ids:** 57376543200;23091663200;57218559225;6508327262
+   - **Authoraffiliationids:** 60025153;60025153;60028218;60028218
+   - **Corresponding:** Bhagat S.
+28.
+   - **Title:** Simple Energy-Based Method for Estimating the Equivalent Circuit Parameters of Electrolytic Capacitors
+   - **Venue:** IEEE International Symposium on Electromagnetic Compatibility
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/EMCEurope57790.2023.10274166
+   - **Scopus ID:** 2-s2.0-85174636471
+   - **ISSN:** 10774076
+   - **eISSN:** 21581118
+   - **Volume:** 2023-September
+   - **Authors:** Sandrolini Leonardo; Simonazzi Mattia; Mariscotti Andrea; Pasini Gaetano
+   - **Keywords:** conducted emissions | DC-bus | electrolytic capacitors | Electromagnetic compatibility | ESL | ESR | power converters
+   - **Source Id:** 17274
+   - **Author Ids:** 6508327262;57218559225;23091663200;7005033206
+   - **Authoraffiliationids:** 60028218;60028218;60025153;60028218
+   - **Corresponding:** Sandrolini L.
+29.
+   - **Title:** Energy Efficiency Improvement with Reversible Substations for Electrified Transportation Systems
+   - **Venue:** Open Transportation Journal
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.2174/18744478-v17-e230109-2022-13
+   - **Scopus ID:** 2-s2.0-85149109655
+   - **eISSN:** 18744478
+   - **Volume:** 17
+   - **Authors:** Mariscotti Andrea; Giordano Domenico; Signorino Davide
+   - **Keywords:** Electric braking | Electrified transportation system | Energy efficiency | Metros | Railways | Regenerated energy | Reversible substation
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q3, rank 204, percentile 46)
+     - Transportation (Q3, rank 104, percentile 34)
+     2023:
+     - Transportation (Q3, rank 90, percentile 36)
+     - Modeling and Simulation (Q3, rank 216, percentile 33)
+   - **Source Id:** 21100201912
+   - **Author Ids:** 23091663200;55188273000;57204847153
+   - **Authoraffiliationids:** 60025153;60073835;60073835
+   - **Corresponding:** Mariscotti A.
+30.
+   - **Title:** Uncertainty and Sensitivity of the Feature Selective Validation (FSV) Method
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.3390/electronics11162532
+   - **Scopus ID:** 2-s2.0-85137402361
+   - **eISSN:** 20799292
+   - **Volume:** 11
+   - **Issue:** 16
+   - **Authors:** Bongiorno Jacopo; Mariscotti Andrea
+   - **Keywords:** electromagnetic modeling | FSV method | IEEE standards | simulation | uncertainty | validation | verification
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+     2022:
+     - Control and Systems Engineering (Q2, rank 92, percentile 68)
+     - Electrical and Electronic Engineering (Q2, rank 248, percentile 66)
+     - Computer Networks and Communications (Q2, rank 129, percentile 66)
+     - Signal Processing (Q2, rank 48, percentile 61)
+     - Hardware and Architecture (Q2, rank 68, percentile 60)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 56450849900;23091663200
+   - **Authoraffiliationids:** 128544533;60025153
+   - **Corresponding:** Bongiorno J.
+31.
+   - **Title:** Supraharmonic Emissions from DC Grid Connected Wireless Power Transfer Converters
+   - **Venue:** Energies
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.3390/en15145229
+   - **Scopus ID:** 2-s2.0-85136272479
+   - **eISSN:** 19961073
+   - **Volume:** 15
+   - **Issue:** 14
+   - **Authors:** Mariscotti Andrea; Sandrolini Leonardo; Simonazzi Mattia
+   - **Keywords:** DC grid | distortion | electric vehicle | electromagnetic compatibility | microgrid | supraharmonics | transients | wireless power transfer
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2022:
+     - Control and Optimization (Q1, rank 21, percentile 83)
+     - Engineering (miscellaneous) (Q1, rank 27, percentile 82)
+     - Electrical and Electronic Engineering (Q2, rank 197, percentile 73)
+     - Energy Engineering and Power Technology (Q2, rank 77, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 18, percentile 67)
+     - Fuel Technology (Q2, rank 39, percentile 67)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 103, percentile 56)
+   - **Source Id:** 62932
+   - **Author Ids:** 23091663200;6508327262;57218559225
+   - **Authoraffiliationids:** 60025153;60028218;60028218
+   - **Corresponding:** Mariscotti A.
+32.
+   - **Title:** Non-Intrusive Load Monitoring Applied to AC Railways
+   - **Venue:** Energies
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.3390/en15114141
+   - **Scopus ID:** 2-s2.0-85131858840
+   - **eISSN:** 19961073
+   - **Volume:** 15
+   - **Issue:** 11
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** AC railways | classification | clustering | disaggregation | distortion | harmonics | load monitoring | power quality
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2022:
+     - Control and Optimization (Q1, rank 21, percentile 83)
+     - Engineering (miscellaneous) (Q1, rank 27, percentile 82)
+     - Electrical and Electronic Engineering (Q2, rank 197, percentile 73)
+     - Energy Engineering and Power Technology (Q2, rank 77, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 18, percentile 67)
+     - Fuel Technology (Q2, rank 39, percentile 67)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 103, percentile 56)
+   - **Source Id:** 62932
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+33.
+   - **Title:** Harmonic and Supraharmonic Emissions of Plug-In Electric Vehicle Chargers
+   - **Venue:** Smart Cities
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 31
+   - **DOI:** 10.3390/smartcities5020027
+   - **Scopus ID:** 2-s2.0-85129190076
+   - **eISSN:** 26246511
+   - **Volume:** 5
+   - **Issue:** 2
+   - **Pages:** 496-521
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** distortion | electric vehicle charger | electric vehicles | harmonics | low-voltage grid | power quality | supraharmonics
+   - **Quartile:**
+     2025:
+     - Urban Studies (Q1, rank 5, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 64, percentile 93)
+     - Artificial Intelligence (Q1, rank 56, percentile 88)
+     2022:
+     - Urban Studies (Q1, rank 14, percentile 94)
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 86)
+     - Artificial Intelligence (Q1, rank 62, percentile 79)
+   - **Source Id:** 21101068929
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+34.
+   - **Title:** Receiver–Coil Location Detection in a Dynamic Wireless Power Transfer System for Electric Vehicle Charging
+   - **Venue:** Sensors
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 24
+   - **DOI:** 10.3390/s22062317
+   - **Scopus ID:** 2-s2.0-85126629253
+   - **ISSN:** 14248220
+   - **Volume:** 22
+   - **Issue:** 6
+   - **Authors:** Simonazzi Mattia; Sandrolini Leonardo; Mariscotti Andrea
+   - **Keywords:** Circuit modeling | Position sensing | Resonant circuits | Resonator array | Wireless power transfer | WPT
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2022:
+     - Instrumentation (Q1, rank 18, percentile 87)
+     - Electrical and Electronic Engineering (Q1, rank 146, percentile 80)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 47, percentile 77)
+     - Analytical Chemistry (Q1, rank 32, percentile 77)
+     - Information Systems (Q1, rank 87, percentile 77)
+     - Biochemistry (Q2, rank 151, percentile 64)
+   - **Source Id:** 130124
+   - **Author Ids:** 57218559225;6508327262;23091663200
+   - **Authoraffiliationids:** 60028218;60028218;60025153
+   - **Corresponding:** Simonazzi M.
+35.
+   - **Title:** Waveform and Spectral Characteristics of Supraharmonic Unsymmetrical Conducted EMI of Switched-Mode Power Supplies
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.3390/electronics11040591
+   - **Scopus ID:** 2-s2.0-85124467188
+   - **eISSN:** 20799292
+   - **Volume:** 11
+   - **Issue:** 4
+   - **Authors:** Sandrolini Leonardo; Mariscotti Andrea
+   - **Keywords:** Conducted emissions | Electromagnetic compatibility | Electromagnetic interference | Supraharmonics | Switched-mode power supplies | Transients
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+     2022:
+     - Control and Systems Engineering (Q2, rank 92, percentile 68)
+     - Electrical and Electronic Engineering (Q2, rank 248, percentile 66)
+     - Computer Networks and Communications (Q2, rank 129, percentile 66)
+     - Signal Processing (Q2, rank 48, percentile 61)
+     - Hardware and Architecture (Q2, rank 68, percentile 60)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 6508327262;23091663200
+   - **Authoraffiliationids:** 60028218;60025153
+   - **Corresponding:** Sandrolini L.
+36.
+   - **Title:** Dynamic Stray Current Measuring Methods In Urban Areas
+   - **Venue:** Baltic Journal of Road and Bridge Engineering
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.7250/bjrbe.2022-17.583
+   - **Scopus ID:** 2-s2.0-85144596759
+   - **ISSN:** 1822427X
+   - **eISSN:** 18224288
+   - **Volume:** 17
+   - **Issue:** 4
+   - **Pages:** 146-170
+   - **Authors:** Vranešić Katarina; Serdar Marijana; Lakušić Stjepan; Kolář Václav; Mariscotti Andrea
+   - **Keywords:** rail current | rail potential | stray current | stray current corrosion | stray current mapper | stray current measurement | urban tracks
+   - **Quartile:**
+     2025:
+     - Building and Construction (Q3, rank 138, percentile 43)
+     - Civil and Structural Engineering (Q3, rank 266, percentile 36)
+     2022:
+     - Building and Construction (Q3, rank 120, percentile 40)
+     - Civil and Structural Engineering (Q3, rank 230, percentile 34)
+   - **Source Id:** 12300154909
+   - **Author Ids:** 57199849346;35796293400;7801634069;36198227300;23091663200
+   - **Authoraffiliationids:** 60103661;60103661;60103661;60018768;60025153
+   - **Corresponding:** Vranešić K.
+37.
+   - **Title:** Deep-Learning Based Transient Identification in Switched-Mode Power Supplies Conducted Emissions
+   - **Venue:** IEEE International Symposium on Electromagnetic Compatibility
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/EMCEurope51680.2022.9900994
+   - **Scopus ID:** 2-s2.0-85140258051
+   - **ISSN:** 10774076
+   - **eISSN:** 21581118
+   - **Volume:** 2022-September
+   - **Pages:** 410-414
+   - **Authors:** Simonazzi Mattia; Sandrolini Leonardo; Iotti Marcello; Mariscotti Andrea
+   - **Keywords:** Artificial Intelligence | Conducted Emissions | Deep Learning | Electromagnetic Compatibility | Neural Networks
+   - **Source Id:** 17274
+   - **Author Ids:** 57218559225;6508327262;57927105300;23091663200
+   - **Authoraffiliationids:** 60028218;60028218;60028218;60025153
+   - **Corresponding:** Simonazzi M.
+38.
+   - **Title:** Center-Fed Resonator Array for Increased Misalignment Tolerance in Automotive Wireless Power Transfer
+   - **Venue:** MELECON 2022 IEEE Mediterranean Electrotechnical Conference Proceedings
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/MELECON53508.2022.9842937
+   - **Scopus ID:** 2-s2.0-85136387577
+   - **Pages:** 775-779
+   - **Authors:** Simonazzi Mattia; Sandrolini Leonardo; Campanini Alessandro; Alberto Jose; Mariscotti Andrea
+   - **Keywords:** electric vehicle charging | inverter | resonator array | Wireless power transfer inductive power transfer
+   - **Source Id:** 21101102123
+   - **Author Ids:** 57218559225;6508327262;57384919800;56884343200;23091663200
+   - **Authoraffiliationids:** 60028218;60028218;60028218;60000015;60025153
+   - **Corresponding:** Simonazzi M.
+39.
+   - **Title:** Influence of Impedance Interaction & Comparability on Spectral Aggregation (2-150 kHz) in DC Grids
+   - **Venue:** IEEE International Symposium on Electromagnetic Compatibility
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/EMCEurope51680.2022.9900988
+   - **Scopus ID:** 2-s2.0-85136273708
+   - **ISSN:** 10774076
+   - **eISSN:** 21581118
+   - **Volume:** 2022-September
+   - **Pages:** 788-792
+   - **Authors:** Khilnani A. D.; Pena-Quintal A. E.; Ballukja E.; Sumner Mark; Thomas David W.P.; Sandrolini L.; Mariscotti A.
+   - **Keywords:** DC grids | Electromagnetic Compatibility | Impedance Interaction | Power Quality | Spectral Aggregation
+   - **Source Id:** 17274
+   - **Author Ids:** 57220186798;57189573772;57220186997;14632813800;55727340000;6508327262;23091663200
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60015138;60028218;60025153
+   - **Corresponding:** Khilnani A.D.
+40.
+   - **Title:** Analytics of Waveform Distortion Variations in Railway Pantograph Measurements by Deep Learning
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 20
+   - **DOI:** 10.1109/TIM.2022.3197801
+   - **Scopus ID:** 2-s2.0-85136013724
+   - **ISSN:** 00189456
+   - **eISSN:** 15579662
+   - **Volume:** 71
+   - **Authors:** Salles Rafael S.; De Oliveira Roger Alves; Ronnberg Sarah K.; Mariscotti Andrea
+   - **Keywords:** Autoencoder | clustering | deep learning (DL) | pattern analysis | power quality (PQ) | power system harmonics | unsupervised learning
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+     2022:
+     - Instrumentation (Q1, rank 12, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 122, percentile 83)
+   - **Source Id:** 15361
+   - **Author Ids:** 57219744052;57213769312;25926063600;23091663200
+   - **Authoraffiliationids:** 60007183;60007183;60007183;60025153
+   - **Corresponding:** Salles R.S.
+41.
+   - **Title:** Waveform Distortion Emission Assessment on Pantograph Measurements from Low-Frequency Railway Electrification
+   - **Venue:** Proceedings of International Conference on Harmonics and Quality of Power Ichqp
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/ICHQP53011.2022.9808806
+   - **Scopus ID:** 2-s2.0-85133771737
+   - **ISSN:** 15406008
+   - **eISSN:** 21640610
+   - **Volume:** 2022-May
+   - **Authors:** Salles Rafael S.; Ronnberg Sarah K.; Mariscotti Andrea
+   - **Keywords:** AC traction grid | Guideway transportation systems | Power quality | Power system harmonics
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q3, rank 354, percentile 35)
+     - Energy Engineering and Power Technology (Q3, rank 213, percentile 34)
+     - Electrical and Electronic Engineering (Q3, rank 654, percentile 34)
+     - Fuel Technology (Q3, rank 92, percentile 32)
+     - Signal Processing (Q3, rank 132, percentile 32)
+   - **Source Id:** 21100228510
+   - **Author Ids:** 57219744052;25926063600;23091663200
+   - **Authoraffiliationids:** 60007183;60007183;60025153
+   - **Corresponding:** Salles R.S.
+42.
+   - **Title:** Variability Caused by Setup and Operating Conditions for Conducted EMI of Switched Mode Power Supplies Over the 2-1000 kHz Interval
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 23
+   - **DOI:** 10.1109/TIM.2022.3162291
+   - **Scopus ID:** 2-s2.0-85128485633
+   - **ISSN:** 00189456
+   - **eISSN:** 15579662
+   - **Volume:** 71
+   - **Authors:** Mariscotti Andrea; Sandrolini Leonardo; Pasini Gaetano
+   - **Keywords:** AC-DC power converters | conducted emissions | electromagnetic interference | supraharmonics | test conditions | uncertainty | variability
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+     2022:
+     - Instrumentation (Q1, rank 12, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 122, percentile 83)
+   - **Source Id:** 15361
+   - **Author Ids:** 23091663200;6508327262;7005033206
+   - **Authoraffiliationids:** 60025153;60028218;60028218
+   - **Corresponding:** Mariscotti A.
+43.
+   - **Title:** Review and Evaluation of Stray Current Mitigation for Urban Rail Transit
+   - **Venue:** Diangong Jishu Xuebao Transactions of China Electrotechnical Society
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 20
+   - **DOI:** 10.19595/j.cnki.1000-6753.tces.210923
+   - **Scopus ID:** 2-s2.0-85121385363
+   - **ISSN:** 10006753
+   - **Volume:** 36
+   - **Issue:** 23
+   - **Pages:** 4851-4863
+   - **Authors:** Bhagat Sahil; Yang Xiaofeng; Wang Miao; Mariscotti Andrea
+   - **Keywords:** Corrosion | Negative resistance converter | Stray current | Stray current collection | Stray current mitigation | Urban rail transit
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 194, percentile 80)
+     2021:
+     - Electrical and Electronic Engineering (Q2, rank 248, percentile 65)
+   - **Source Id:** 15504
+   - **Author Ids:** 57376543200;37125429200;55547054200;23091663200
+   - **Authoraffiliationids:** 127378930;60022381;60022381;60025153
+   - **Corresponding:** Bhagat S.
+44.
+   - **Title:** Power quality phenomena, standards, and proposed metrics for dc grids
+   - **Venue:** Energies
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 46
+   - **DOI:** 10.3390/en14206453
+   - **Scopus ID:** 2-s2.0-85116880860
+   - **eISSN:** 19961073
+   - **Volume:** 14
+   - **Issue:** 20
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** DC grid | Distortion | Electromagnetic compatibility | Inrush | Microgrid | Power quality | Pulsed power loads | Resonance | Ripple | Supraharmonics | Transients
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2021:
+     - Control and Optimization (Q1, rank 18, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 19, percentile 83)
+     - Subject (Q1, rank 51, percentile 76)
+     - Energy (miscellaneous) (Q2, rank 10, percentile 72)
+     - Electrical and Electronic Engineering (Q2, rank 201, percentile 71)
+     - Energy Engineering and Power Technology (Q2, rank 73, percentile 69)
+     - Fuel Technology (Q2, rank 38, percentile 65)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 58)
+   - **Source Id:** 62932
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+45.
+   - **Title:** Assessment of human exposure (Including interference to implantable devices) to low-frequency electromagnetic field in modern microgrids, power systems and electric transports
+   - **Venue:** Energies
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 26
+   - **DOI:** 10.3390/en14206789
+   - **Scopus ID:** 2-s2.0-85117582155
+   - **eISSN:** 19961073
+   - **Volume:** 14
+   - **Issue:** 20
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Dosimetry | Electric vehicle | Electromagnetic field | Exposure assessment | Hearing aid | Human exposure | Implantable medical device | Measurement standard | Microgrid | Pacemaker | Railway transportation | Uncertainty
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2021:
+     - Control and Optimization (Q1, rank 18, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 19, percentile 83)
+     - Subject (Q1, rank 51, percentile 76)
+     - Energy (miscellaneous) (Q2, rank 10, percentile 72)
+     - Electrical and Electronic Engineering (Q2, rank 201, percentile 71)
+     - Energy Engineering and Power Technology (Q2, rank 73, percentile 69)
+     - Fuel Technology (Q2, rank 38, percentile 65)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 58)
+   - **Source Id:** 62932
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+46.
+   - **Title:** Methods and instruments for stray current verification in DC rapid transit and railway systems
+   - **Venue:** International Journal of Electrical and Computer Engineering
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.11591/ijece.v11i5.pp3727-3735
+   - **Scopus ID:** 2-s2.0-85096234910
+   - **ISSN:** 20888708
+   - **Volume:** 11
+   - **Issue:** 5
+   - **Pages:** 3727-3735
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Corrosion | Electrical measurements | Railways | Stray current | Track insulation
+   - **Quartile:**
+     2021:
+     - Computer Science (all) (Q2, rank 77, percentile 66)
+     - Electrical and Electronic Engineering (Q2, rank 328, percentile 53)
+   - **Source Id:** 21100373959
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+47.
+   - **Title:** Variability of EMI Measurement for Switched Mode Power Supplies EMI in the 2-1000 kHz Range
+   - **Venue:** Amps 2021 2021 11th IEEE International Workshop on Applied Measurements for Power Systems Proceedings
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/AMPS50177.2021.9586031
+   - **Scopus ID:** 2-s2.0-85119058650
+   - **Authors:** Mariscotti Andrea; Sandrolini Leonardo
+   - **Keywords:** AC-DC power converters | Conducted emissions | Electromagnetic interference | Supraharmonics | Uncertainty
+   - **Source Id:** 21101065474
+   - **Author Ids:** 23091663200;6508327262
+   - **Authoraffiliationids:** 60025153;60028218
+   - **Corresponding:** Mariscotti A.
+48.
+   - **Title:** Detection of harmonic overvoltage and resonance in AC railways using measured pantograph electrical quantities
+   - **Venue:** Energies
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 28
+   - **DOI:** 10.3390/en14185645
+   - **Scopus ID:** 2-s2.0-85114661865
+   - **eISSN:** 19961073
+   - **Volume:** 14
+   - **Issue:** 18
+   - **Authors:** Mariscotti Andrea; Sandrolini Leonardo
+   - **Keywords:** Electrified railway | Fourier transform | Harmonic resonance | Overvoltage | Power quality | Traction power supply
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2021:
+     - Control and Optimization (Q1, rank 18, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 19, percentile 83)
+     - Subject (Q1, rank 51, percentile 76)
+     - Energy (miscellaneous) (Q2, rank 10, percentile 72)
+     - Electrical and Electronic Engineering (Q2, rank 201, percentile 71)
+     - Energy Engineering and Power Technology (Q2, rank 73, percentile 69)
+     - Fuel Technology (Q2, rank 38, percentile 65)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 58)
+   - **Source Id:** 62932
+   - **Author Ids:** 23091663200;6508327262
+   - **Authoraffiliationids:** 60025153;60028218
+   - **Corresponding:** Mariscotti A.
+49.
+   - **Title:** Electrical Safety and Stray Current Protection with Platform Screen Doors in DC Rapid Transit
+   - **Venue:** IEEE Transactions on Transportation Electrification
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1109/TTE.2021.3051102
+   - **Scopus ID:** 2-s2.0-85099537301
+   - **eISSN:** 23327782
+   - **Volume:** 7
+   - **Issue:** 3
+   - **Pages:** 1724-1732
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Electrical safety | guideway transportation system | stray current | touch voltage | traction power supplies
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 73, percentile 92)
+     - Automotive Engineering (Q1, rank 12, percentile 91)
+     - Transportation (Q1, rank 16, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 35, percentile 89)
+     2021:
+     - Automotive Engineering (Q1, rank 8, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 75, percentile 89)
+     - Transportation (Q1, rank 14, percentile 88)
+     - Energy Engineering and Power Technology (Q1, rank 28, percentile 88)
+   - **Source Id:** 21100854649
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+50.
+   - **Title:** Review of models and measurement methods for compliance of electromagnetic emissions of electric machines and drives
+   - **Venue:** Acta Imeko
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.21014/acta_imeko.v10i2.1066
+   - **Scopus ID:** 2-s2.0-85109573342
+   - **ISSN:** 0237028X
+   - **eISSN:** 2221870X
+   - **Volume:** 10
+   - **Issue:** 2
+   - **Pages:** 162-173
+   - **Authors:** Mariscotti Andrea; Sandrolini Leonardo
+   - **Keywords:** Electric machinery | Electromagnetic compatibility | Electromagnetic emissions | Power converters | Uncertainty
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q2, rank 88, percentile 53)
+     - Electrical and Electronic Engineering (Q2, rank 482, percentile 51)
+     - Mechanical Engineering (Q3, rank 373, percentile 49)
+     2021:
+     - Mechanical Engineering (Q3, rank 409, percentile 32)
+     - Electrical and Electronic Engineering (Q3, rank 506, percentile 28)
+     - Instrumentation (Q4, rank 107, percentile 21)
+   - **Source Id:** 21100407601
+   - **Author Ids:** 23091663200;6508327262
+   - **Authoraffiliationids:** 60025153;60028218
+   - **Corresponding:** Mariscotti A.
+51.
+   - **Title:** Power quality metrics for DC grids with pulsed power loads
+   - **Venue:** Acta Imeko
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.21014/acta_imeko.v10i2.1065
+   - **Scopus ID:** 2-s2.0-85109537714
+   - **ISSN:** 0237028X
+   - **eISSN:** 2221870X
+   - **Volume:** 10
+   - **Issue:** 2
+   - **Pages:** 153-161
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** DC grid | Power quality | Pulsed power load
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q2, rank 88, percentile 53)
+     - Electrical and Electronic Engineering (Q2, rank 482, percentile 51)
+     - Mechanical Engineering (Q3, rank 373, percentile 49)
+     2021:
+     - Mechanical Engineering (Q3, rank 409, percentile 32)
+     - Electrical and Electronic Engineering (Q3, rank 506, percentile 28)
+     - Instrumentation (Q4, rank 107, percentile 21)
+   - **Source Id:** 21100407601
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+52.
+   - **Title:** Impact of short-time fourier transform parameters on the accuracy of EMI spectra estimates in the 2-150 kHz supraharmonic interval
+   - **Venue:** Electric Power Systems Research
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 29
+   - **DOI:** 10.1016/j.epsr.2021.107130
+   - **Scopus ID:** 2-s2.0-85102128905
+   - **ISSN:** 03787796
+   - **Volume:** 195
+   - **Authors:** Sandrolini Leonardo; Mariscotti Andrea
+   - **Keywords:** AC-DC power converters | Conducted emissions | Discrete Fourier Transform | Electromagnetic compatibility | Electromagnetic interference | Power Quality | Smart grids | Supraharmonics
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+     - Energy Engineering and Power Technology (Q1, rank 60, percentile 81)
+     2021:
+     - Electrical and Electronic Engineering (Q1, rank 128, percentile 81)
+     - Energy Engineering and Power Technology (Q1, rank 48, percentile 79)
+   - **Source Id:** 16044
+   - **Author Ids:** 6508327262;23091663200
+   - **Authoraffiliationids:** 60028218;60025153
+   - **Corresponding:** Sandrolini L.
+53.
+   - **Title:** Experimental characterisation of active and non‐active harmonic power flow of ac rolling stock and interaction with the supply network
+   - **Venue:** Iet Electrical Systems in Transportation
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 16
+   - **DOI:** 10.1049/els2.12009
+   - **Scopus ID:** 2-s2.0-85099788499
+   - **ISSN:** 20429738
+   - **eISSN:** 20429746
+   - **Volume:** 11
+   - **Issue:** 2
+   - **Pages:** 109-120
+   - **Authors:** Mariscotti Andrea
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 246, percentile 75)
+     2021:
+     - Electrical and Electronic Engineering (Q1, rank 177, percentile 75)
+   - **Source Id:** 19900194817
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 116154744-60025153
+   - **Corresponding:** Mariscotti A.
+54.
+   - **Title:** Critical review of emc standards for the measurement of radiated electromagnetic emissions from transit line and rolling stock
+   - **Venue:** Energies
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 23
+   - **DOI:** 10.3390/en14030759
+   - **Scopus ID:** 2-s2.0-85105517503
+   - **eISSN:** 19961073
+   - **Volume:** 14
+   - **Issue:** 3
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Antennas | Electromagnetic compatibility | Electromagnetic radiation | Measurement stan-dards | Railway transportation | Repeatability | Reproducibility | Transients | Uncertainty
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2021:
+     - Control and Optimization (Q1, rank 18, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 19, percentile 83)
+     - Subject (Q1, rank 51, percentile 76)
+     - Energy (miscellaneous) (Q2, rank 10, percentile 72)
+     - Electrical and Electronic Engineering (Q2, rank 201, percentile 71)
+     - Energy Engineering and Power Technology (Q2, rank 73, percentile 69)
+     - Fuel Technology (Q2, rank 38, percentile 65)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 58)
+   - **Source Id:** 62932
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+55.
+   - **Title:** Impact of rail impedance intrinsic variability on railway system operation, EMC and safety
+   - **Venue:** International Journal of Electrical and Computer Engineering
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 28
+   - **DOI:** 10.11591/ijece.v11i1.pp17-26
+   - **Scopus ID:** 2-s2.0-85091145129
+   - **ISSN:** 20888708
+   - **Volume:** 11
+   - **Issue:** 1
+   - **Pages:** 17-26
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Induced voltage | Inductance | Resistance | Running rails | Stray current | Track circuits
+   - **Quartile:**
+     2021:
+     - Computer Science (all) (Q2, rank 77, percentile 66)
+     - Electrical and Electronic Engineering (Q2, rank 328, percentile 53)
+   - **Source Id:** 21100373959
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+56.
+   - **Title:** Signal transformations for analysis of supraharmonic EMI caused by switched-mode power supplies
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.3390/electronics9122088
+   - **Scopus ID:** 2-s2.0-85097389072
+   - **eISSN:** 20799292
+   - **Volume:** 9
+   - **Issue:** 12
+   - **Pages:** 1-21
+   - **Authors:** Sandrolini Leonardo; Mariscotti Andrea
+   - **Keywords:** Conducted emissions | Discrete Wavelet Transform | Electromagnetic compatibility | Electromagnetic interference | Empirical Mode Decomposition | Harmonics | Switched-Mode Power Supplies | Transients | Wavelet Packet Transform
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+     2020:
+     - Control and Systems Engineering (Q2, rank 123, percentile 52)
+     - Computer Networks and Communications (Q2, rank 161, percentile 51)
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 51)
+     - Signal Processing (Q3, rank 59, percentile 45)
+     - Hardware and Architecture (Q3, rank 94, percentile 40)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 6508327262;23091663200
+   - **Authoraffiliationids:** 60028218;60025153
+   - **Corresponding:** Sandrolini L.
+57.
+   - **Title:** Stray current protection and monitoring systems: Characteristic quantities, assessment of performance and verification
+   - **Venue:** Sensors Switzerland
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 24
+   - **DOI:** 10.3390/s20226610
+   - **Scopus ID:** 2-s2.0-85096234567
+   - **ISSN:** 14248220
+   - **Volume:** 20
+   - **Issue:** 22
+   - **Pages:** 1-30
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Corrosion | Impressed potentials | Railway transportation | Stray current | Stray current monitoring | Stray current protection | Uncertainty
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2020:
+     - Instrumentation (Q1, rank 13, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 80)
+     - Information Systems (Q1, rank 69, percentile 79)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 42, percentile 78)
+     - Analytical Chemistry (Q1, rank 29, percentile 76)
+     - Biochemistry (Q2, rank 133, percentile 67)
+   - **Source Id:** 130124
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+58.
+   - **Title:** Discussion of electrical and electromagnetic impact on environment and users of electrified transports
+   - **Venue:** 2020 IEEE Vehicle Power and Propulsion Conference Vppc 2020 Proceedings
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/VPPC49601.2020.9330960
+   - **Scopus ID:** 2-s2.0-85102000950
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Electrical safety | Electromagnetic fields | Electromagnetic interference | Environmental pollution | Health and safety | Rail transportation | Stray current
+   - **Source Id:** 21101039431
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+59.
+   - **Title:** How pantograph electric arcs affect energy efficiency in DC railway vehicles
+   - **Venue:** 2020 IEEE Vehicle Power and Propulsion Conference Vppc 2020 Proceedings
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/VPPC49601.2020.9330954
+   - **Scopus ID:** 2-s2.0-85101961383
+   - **Authors:** Mariscotti Andrea; Giordano Domenico; Femine Antonio Delle; Gallo Daniele; Signorino Davide
+   - **Keywords:** Electric arc | Energy consumption | Power Quality | Power supply transient | Power system transients | Rail transportation | Rolling Stock
+   - **Source Id:** 21101039431
+   - **Author Ids:** 23091663200;55188273000;21933667400;57578324200;57204847153
+   - **Authoraffiliationids:** 60025153;60026777;60073835;60073835;60012162
+   - **Corresponding:** Mariscotti A.
+60.
+   - **Title:** Power Quality Analysis (0-2kHz) in DC/DC Converters under Steady State and Transient Conditions
+   - **Venue:** Proceedings of the 2020 International Symposium on Electromagnetic Compatibility EMC Europe EMC Europe 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/EMCEUROPE48519.2020.9245758
+   - **Scopus ID:** 2-s2.0-85097150736
+   - **Authors:** Khilnani A. D.; Niewiadomski K.; Rose C.; Sumner M.; Thomas D. W.P.; Ballukja E.; Sandrolini L.; Mariscotti A.
+   - **Keywords:** APD | Conducted Emissions | DC microgrids | LFSD | Low Frequency | Power Quality
+   - **Source Id:** 21101029716
+   - **Author Ids:** 57220186798;57194083340;57196544130;14632813800;55727340000;57220186997;6508327262;23091663200
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60015138;60015138;60015138;60015138
+   - **Corresponding:** Khilnani A.D.
+61.
+   - **Title:** Impact of Harmonic Power Terms on the Energy Measurement in AC Railways
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.1109/TIM.2020.2992167
+   - **Scopus ID:** 2-s2.0-85089875806
+   - **ISSN:** 00189456
+   - **eISSN:** 15579662
+   - **Volume:** 69
+   - **Issue:** 9
+   - **Pages:** 6731-6738
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Electric transportation systems | energy consumption | power quality (PQ) | power system harmonics | uncertainty
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+     2020:
+     - Instrumentation (Q1, rank 10, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 127, percentile 81)
+   - **Source Id:** 15361
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+62.
+   - **Title:** Dataset of measured and commented pantograph electric arcs in DC railways
+   - **Venue:** Data in Brief
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Data Paper
+   - **Citations:** 17
+   - **DOI:** 10.1016/j.dib.2020.105978
+   - **Scopus ID:** 2-s2.0-85088259422
+   - **eISSN:** 23523409
+   - **Volume:** 31
+   - **Authors:** Signorino Davide; Giordano Domenico; Mariscotti Andrea; Gallo Daniele; Femine Antonio Delle; Balic Fabio; Quintana Jorge; Donadio Lorenzo; Biancucci Alfredo
+   - **Keywords:** Electric arc | Measurement of electrical quantities | Pantograph | Power quality | Railways | Rolling stock
+   - **Quartile:**
+     2025:
+     - Multidisciplinary (Q2, rank 54, percentile 73)
+     2020:
+     - Multidisciplinary (Q2, rank 32, percentile 71)
+   - **Source Id:** 21100372856
+   - **Author Ids:** 57204847153;55188273000;23091663200;57578324200;21933667400;57218197896;57218207497;8260817700;57211987567
+   - **Authoraffiliationids:** 60073835-60012162;60073835-60012162;60025153-116154744;60026777;60026777;112688762;112688762;108142861;108142861
+   - **Corresponding:** Signorino D.
+63.
+   - **Title:** Uncertainty of the energy measurement function deriving from distortion power terms for a 16.7 Hz railway
+   - **Venue:** Acta Imeko
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.21014/acta_imeko.v9i2.764
+   - **Scopus ID:** 2-s2.0-85090886032
+   - **ISSN:** 0237028X
+   - **eISSN:** 2221870X
+   - **Volume:** 9
+   - **Issue:** 2
+   - **Pages:** 25-31
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Electric transportation systems | Energy consumption | Power quality | Power system harmonics | Rail transportation
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q2, rank 88, percentile 53)
+     - Electrical and Electronic Engineering (Q2, rank 482, percentile 51)
+     - Mechanical Engineering (Q3, rank 373, percentile 49)
+     2020:
+     - Mechanical Engineering (Q3, rank 393, percentile 34)
+     - Electrical and Electronic Engineering (Q3, rank 483, percentile 30)
+     - Instrumentation (Q4, rank 97, percentile 24)
+   - **Source Id:** 21100407601
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 116154744
+   - **Corresponding:** Mariscotti A.
+64.
+   - **Title:** Experimental characterization of pantograph arcs and transient conducted phenomena in DC railways
+   - **Venue:** Acta Imeko
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 21
+   - **DOI:** 10.21014/acta_imeko.v9i2.761
+   - **Scopus ID:** 2-s2.0-85088253366
+   - **ISSN:** 0237028X
+   - **eISSN:** 2221870X
+   - **Volume:** 9
+   - **Issue:** 2
+   - **Pages:** 10-17
+   - **Authors:** Mariscotti Andrea; Giordano Domenico
+   - **Keywords:** Arc discharge | Electric arc | Power quality | Rail transportation
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q2, rank 88, percentile 53)
+     - Electrical and Electronic Engineering (Q2, rank 482, percentile 51)
+     - Mechanical Engineering (Q3, rank 373, percentile 49)
+     2020:
+     - Mechanical Engineering (Q3, rank 393, percentile 34)
+     - Electrical and Electronic Engineering (Q3, rank 483, percentile 30)
+     - Instrumentation (Q4, rank 97, percentile 24)
+   - **Source Id:** 21100407601
+   - **Author Ids:** 23091663200;55188273000
+   - **Authoraffiliationids:** 116154744;60073835
+   - **Corresponding:** Mariscotti A.
+65.
+   - **Title:** Data sets of measured pantograph voltage and current of European AC railways
+   - **Venue:** Data in Brief
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Data Paper
+   - **Citations:** 26
+   - **DOI:** 10.1016/j.dib.2020.105477
+   - **Scopus ID:** 2-s2.0-85084063978
+   - **eISSN:** 23523409
+   - **Volume:** 30
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Harmonics | Measurement of electrical quantities | Power quality | Railways | Rolling stock
+   - **Quartile:**
+     2025:
+     - Multidisciplinary (Q2, rank 54, percentile 73)
+     2020:
+     - Multidisciplinary (Q2, rank 32, percentile 71)
+   - **Source Id:** 21100372856
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+66.
+   - **Title:** Filter transients onboard DC rolling stock and exploitation for the estimate of the line impedance
+   - **Venue:** I2mtc 2020 International Instrumentation and Measurement Technology Conference Proceedings
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/I2MTC43012.2020.9128903
+   - **Scopus ID:** 2-s2.0-85088299434
+   - **Authors:** Mariscotti Andrea; Giordano Domenico; Femine Antonio Delle; Signorino Davide
+   - **Keywords:** Harmonics | Power Quality | Power supply transient | Railways | Rolling stock
+   - **Source Id:** 21101017723
+   - **Author Ids:** 23091663200;55188273000;21933667400;57204847153
+   - **Authoraffiliationids:** 112979197;60073835;60026777;60073835
+   - **Corresponding:** Mariscotti A.
+67.
+   - **Title:** Behavior of single-point harmonic producer indicators in electrified ac railways
+   - **Venue:** Metrology and Measurement Systems
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.24425/mms.2020.134844
+   - **Scopus ID:** 2-s2.0-85099775230
+   - **ISSN:** 08608229
+   - **eISSN:** 23001941
+   - **Volume:** 27
+   - **Issue:** 4
+   - **Pages:** 641-657
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Distortion power | Electric transportation systems | Harmonic source | Power quality | Power system harmonics | Railways
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q3, rank 106, percentile 43)
+     - Control and Systems Engineering (Q3, rank 227, percentile 40)
+     2020:
+     - Control and Systems Engineering (Q2, rank 130, percentile 50)
+     - Instrumentation (Q3, rank 66, percentile 48)
+   - **Source Id:** 19200156954
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+68.
+   - **Title:** Comparison of normative limits for electromagnetic emissions of electric machines and drives to use in different applications
+   - **Venue:** 24th Imeko Tc4 International Symposium and 22nd International Workshop on ADC and DAC Modelling and Testing
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85096802932
+   - **Pages:** 473-478
+   - **Authors:** Mariscotti Andrea
+   - **Source Id:** 21101028548
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+69.
+   - **Title:** Overview of the requisites to define steady and transient power quality indexes for DC grids
+   - **Venue:** 24th Imeko Tc4 International Symposium and 22nd International Workshop on ADC and DAC Modelling and Testing
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-85096754735
+   - **Pages:** 117-122
+   - **Authors:** Mariscotti Andrea
+   - **Source Id:** 21101028548
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+70.
+   - **Title:** Characterization of active power flow at harmonics for AC and DC railway vehicles
+   - **Venue:** 2019 IEEE Vehicle Power and Propulsion Conference Vppc 2019 Proceedings
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1109/VPPC46532.2019.8952310
+   - **Scopus ID:** 2-s2.0-85078781519
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Energy consumption | Power Quality | Power system harmonics | Rail transportation
+   - **Source Id:** 21100953523
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 116154744
+   - **Corresponding:** Mariscotti A.
+71.
+   - **Title:** Normative framework for the assessment of the radiated electromagnetic emissions from traction power supply and rolling stock
+   - **Venue:** 2019 IEEE Vehicle Power and Propulsion Conference Vppc 2019 Proceedings
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/VPPC46532.2019.8952487
+   - **Scopus ID:** 2-s2.0-85078781111
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Electromagnetic compatibility | Electromagnetic radiation | Electromagnetic transients | Measurement standards | Rail transportation | Repeatability | Reproducibility | Uncertainty
+   - **Source Id:** 21100953523
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 116154744
+   - **Corresponding:** Mariscotti A.
+72.
+   - **Title:** Pantograph-To-OHL Arc: Conducted Effects in DC Railway Supply System
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 40
+   - **DOI:** 10.1109/TIM.2019.2902805
+   - **Scopus ID:** 2-s2.0-85072624751
+   - **ISSN:** 00189456
+   - **eISSN:** 15579662
+   - **Volume:** 68
+   - **Issue:** 10
+   - **Pages:** 3861-3870
+   - **Authors:** Crotti Gabriella; Femine Antonio Delle; Gallo Daniele; Giordano Domenico; Landi Carmine; Luiso Mario; Mariscotti Andrea; Roccato Paolo Emilio
+   - **Keywords:** Current measurement | direct current (DC) railway system | electric arc | pantograph-catenary | power system measurements | predictive maintenance | rail transportation | voltage measurement
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+     2019:
+     - Instrumentation (Q1, rank 7, percentile 94)
+     - Electrical and Electronic Engineering (Q1, rank 95, percentile 85)
+   - **Source Id:** 15361
+   - **Author Ids:** 55964016400;21933667400;57578324200;55188273000;7005139018;21934307200;23091663200;22986120100
+   - **Authoraffiliationids:** 60073835;60026777;60026777;60073835;60026777;60026777;116154744;60073835
+   - **Corresponding:** Crotti G.
+73.
+   - **Title:** Behaviour of spectral active power terms for the swiss 15 kV 16.7 Hz railway system
+   - **Venue:** Amps 2019 2019 10th IEEE International Workshop on Applied Measurements for Power Systems Proceedings
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/AMPS.2019.8897777
+   - **Scopus ID:** 2-s2.0-85075603565
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Electric transportation systems | Energy consumption | Power Quality | Power system harmonics
+   - **Source Id:** 21100936617
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 112979197
+   - **Corresponding:** Mariscotti A.
+74.
+   - **Title:** Power quality event analysis in 25 kV 50 Hz AC railway system networks
+   - **Venue:** Amps 2019 2019 10th IEEE International Workshop on Applied Measurements for Power Systems Proceedings
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/AMPS.2019.8897765
+   - **Scopus ID:** 2-s2.0-85075594570
+   - **Authors:** Seferi Yljon; Clarkson Paul; Blair Steven M.; Mariscotti Andrea; Stewart Brian G.
+   - **Keywords:** Power quality | Power system transients | Railway transportation power systems | Voltage interruption
+   - **Source Id:** 21100964564
+   - **Author Ids:** 57209270946;23049081500;36006297900;23091663200;9744477400
+   - **Authoraffiliationids:** 60024724;60010785;60024724;112979197;60024724
+   - **Corresponding:** Seferi Y.
+75.
+   - **Title:** Techniques for the Analysis of Time-Domain Conducted Emissions of SMPS in Smart Grids
+   - **Venue:** Proceedings 2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/EEEIC.2019.8783345
+   - **Scopus ID:** 2-s2.0-85070839174
+   - **Authors:** Mariscotti Andrea; Sandrolini Leonardo
+   - **Keywords:** AC-DC power converters | Conducted emissions | Discrete Fourier Tranform | Electromagnetic compatibility | Electromagnetic interference | Empirical Mode Decomposition | Smart grids
+   - **Source Id:** 21100924363
+   - **Author Ids:** 23091663200;6508327262
+   - **Authoraffiliationids:** 123001661;60028218
+   - **Corresponding:** Mariscotti A.
+76.
+   - **Title:** Electrical characteristics of pantograph arcs in DC railways: Infrastructure influence
+   - **Venue:** 2019 Imeko Tc4 International Symposium Electrical and Electronic Measurements Promote Industry 4 0
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **Scopus ID:** 2-s2.0-85080043631
+   - **Pages:** 155-159
+   - **Authors:** Mariscotti A.; Giordano D.
+   - **Keywords:** Arc discharge | Electric arc | Power Quality | Rail transportation
+   - **Source Id:** 21100984920
+   - **Author Ids:** 23091663200;55188273000
+   - **Authoraffiliationids:** 116154744;60073835
+   - **Corresponding:** Mariscotti A.
+77.
+   - **Title:** Self and mutual capacitance of conductors in air and lossy earth with application to electrified railways
+   - **Venue:** Archives of Electrical Engineering
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.24425/aee.2019.130688
+   - **Scopus ID:** 2-s2.0-85076463955
+   - **ISSN:** 14274221
+   - **eISSN:** 23002506
+   - **Volume:** 68
+   - **Issue:** 4
+   - **Pages:** 859-873
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Capacitance | Electrified rail systems | Electromagnetic coupling | Electromagnetic modeling
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 579, percentile 42)
+     2019:
+     - Electrical and Electronic Engineering (Q3, rank 391, percentile 41)
+   - **Source Id:** 50094
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+78.
+   - **Title:** Relevance of harmonic active power terms for energy consumption in some railway systems
+   - **Venue:** 2019 Imeko Tc4 International Symposium Electrical and Electronic Measurements Promote Industry 4 0
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **Scopus ID:** 2-s2.0-85075613706
+   - **Pages:** 117-121
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Energy consumption | Power Quality | Power system harmonics | Rail transportation
+   - **Source Id:** 21100984920
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 116154744
+   - **Corresponding:** Mariscotti A.
+79.
+   - **Title:** Discussion of power quality metrics suitable for DC power distribution and smart grids
+   - **Venue:** 2019 Imeko Tc4 International Symposium Electrical and Electronic Measurements Promote Industry 4 0
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **Scopus ID:** 2-s2.0-85070820261
+   - **Pages:** 150-154
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** DC distribution network | DC smart grid | Power Quality
+   - **Source Id:** 21100984920
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 116154744
+   - **Corresponding:** Mariscotti A.
+80.
+   - **Title:** Variability of measured railway track conductance due to test setup
+   - **Venue:** Acta Imeko
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.21014/acta_imeko.v7i4.573
+   - **Scopus ID:** 2-s2.0-85060390578
+   - **ISSN:** 0237028X
+   - **eISSN:** 2221870X
+   - **Volume:** 7
+   - **Issue:** 4
+   - **Pages:** 21-25
+   - **Authors:** Bongiorno Jacopo; Mariscotti Andrea
+   - **Keywords:** Conductivity measurement | DC power systems | Electric variables measurement | Grounding | Guideway transportation power systems | Guideway transportation testing | Stray current
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q2, rank 88, percentile 53)
+     - Electrical and Electronic Engineering (Q2, rank 482, percentile 51)
+     - Mechanical Engineering (Q3, rank 373, percentile 49)
+     2018:
+     - Mechanical Engineering (Q3, rank 339, percentile 42)
+     - Electrical and Electronic Engineering (Q3, rank 416, percentile 37)
+     - Instrumentation (Q3, rank 86, percentile 31)
+   - **Source Id:** 21100407601
+   - **Author Ids:** 56450849900;23091663200
+   - **Authoraffiliationids:** 60025153;116154744
+   - **Corresponding:** Bongiorno J.
+81.
+   - **Title:** Accurate Measurements of Energy, Efficiency and Power Quality in the Electric Railway System
+   - **Venue:** CPEM 2018 Conference on Precision Electromagnetic Measurements
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 33
+   - **DOI:** 10.1109/CPEM.2018.8500811
+   - **Scopus ID:** 2-s2.0-85057011044
+   - **Authors:** Giordano D.; Clarkson P.; Gamacho F.; Van Den Brom H. E.; Donadio L.; Fernandez-Cardador A.; Spalvieri C.; Gallo D.; Istrate D.; De Santiago Laporte A.; Mariscotti A.; Mester C.; Navarro N.; Porzio M.; Roscoe A.; Sira M.
+   - **Keywords:** Electric power and energy measurement | measurement standards | power quality | power system simulation | railway systems | signal processing
+   - **Source Id:** 21100887400
+   - **Author Ids:** 55188273000;23049081500;57204761056;56962785900;8260817700;55293075100;22636117100;57578324200;55583225700;57202609457;23091663200;57202600668;57202470865;6701327369;7003672472;36519822000
+   - **Authoraffiliationids:** 112471434;60010785;121671622;114821045;121671841;60024311;60212149;121671466;60084316;105552656;121671752;100369884;120667308;121672245;60024724;60040926
+   - **Corresponding:** Giordano D.
+82.
+   - **Title:** Pantograph-To-OHL Arc: Conducted Effects in DC Railway Supply System
+   - **Venue:** 9th IEEE International Workshop on Applied Measurements for Power Systems Amps 2018 Proceedings
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 24
+   - **DOI:** 10.1109/AMPS.2018.8494897
+   - **Scopus ID:** 2-s2.0-85057425122
+   - **Authors:** Crotti G.; Giordano D.; Roccato P.; Delle Femine A.; Gallo D.; Landi C.; Luiso M.; Mariscotti A.
+   - **Keywords:** DC railway system | Electric arc | pantograph-catenary | predictive maintenance | rail transportation
+   - **Source Id:** 21100888130
+   - **Author Ids:** 55964016400;55188273000;22986120100;21933667400;57578324200;7005139018;21934307200;23091663200
+   - **Authoraffiliationids:** 60073835;60073835;60073835;60026777;60026777;60026777;60026777;112979197
+   - **Corresponding:** Crotti G.
+83.
+   - **Title:** Track insulation verification and measurement
+   - **Venue:** Matec Web of Conferences
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1051/matecconf/201818001008
+   - **Scopus ID:** 2-s2.0-85063183162
+   - **eISSN:** 2261236X
+   - **Volume:** 180
+   - **Authors:** Bongiorno Jacopo; Mariscotti Andrea
+   - **Source Id:** 21100316064
+   - **Author Ids:** 56450849900;23091663200
+   - **Authoraffiliationids:** 60025153;116154744
+   - **Corresponding:** Bongiorno J.
+84.
+   - **Title:** Variability and consistency of Feature Selective Validation (FSV) method implementation
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1109/TEMC.2016.2615285
+   - **Scopus ID:** 2-s2.0-85028861800
+   - **ISSN:** 00189375
+   - **Volume:** 59
+   - **Issue:** 5
+   - **Pages:** 1474-1481
+   - **Authors:** Bongiorno Jacopo; Mariscotti Andrea
+   - **Keywords:** Electromagnetic modeling | feature selective validation (FSV) | IEEE standards | simulation | validation
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2017:
+     - Electrical and Electronic Engineering (Q1, rank 166, percentile 75)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 51, percentile 70)
+     - Condensed Matter Physics (Q2, rank 120, percentile 69)
+   - **Source Id:** 26051
+   - **Author Ids:** 56450849900;23091663200
+   - **Authoraffiliationids:** 60025153;116154744
+   - **Corresponding:** Bongiorno J.
+85.
+   - **Title:** Power Quality Conditioning in Railway Electrification: A Comparative Study
+   - **Venue:** IEEE Transactions on Vehicular Technology
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 55
+   - **DOI:** 10.1109/TVT.2017.2661820
+   - **Scopus ID:** 2-s2.0-85029535174
+   - **ISSN:** 00189545
+   - **Volume:** 66
+   - **Issue:** 8
+   - **Pages:** 6653-6662
+   - **Authors:** Langerudy Adel Tabakhpour; Mariscotti Andrea; Abolhassani Mohammad A.
+   - **Keywords:** Guideway transportation power systems | power distribution | power electronic converters | power quality | power system harmonics | reactive power
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 63, percentile 93)
+     - Automotive Engineering (Q1, rank 9, percentile 93)
+     - Computer Networks and Communications (Q1, rank 38, percentile 93)
+     2017:
+     - Aerospace Engineering (Q1, rank 4, percentile 97)
+     - Subject (Q1, rank 16, percentile 96)
+     - Automotive Engineering (Q1, rank 5, percentile 94)
+     - Electrical and Electronic Engineering (Q1, rank 64, percentile 90)
+   - **Source Id:** 17393
+   - **Author Ids:** 57190346001;23091663200;57195674049
+   - **Authoraffiliationids:** 60012835;116154744;60032053-60033461
+   - **Corresponding:** Langerudy A.
+86.
+   - **Title:** Variability of track to ground conductance measurement
+   - **Venue:** 22nd Imeko Tc4 International Symposium and 20th International Workshop on ADC Modelling and Testing 2017 Supporting World Development Through Electrical and Electronic Measurements
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-85046459097
+   - **Volume:** 2017-September
+   - **Pages:** 106-109
+   - **Authors:** Bongiorno Jacopo; Mariscotti Andrea
+   - **Keywords:** DC power systems | Electric variables measurement | Grounding | Guideway transportation testing | Measurement variability | Soil resistivity measurement | Stray current | Track to earth conductance measurement
+   - **Source Id:** 21100858677
+   - **Author Ids:** 56450849900;23091663200
+   - **Authoraffiliationids:** 60025153;116154744
+   - **Corresponding:** Bongiorno J.
+87.
+   - **Title:** Low-frequency coupling: Phenomena in electic transportation systems
+   - **Venue:** IEEE Electrification Magazine
+   - **Year:** 2016
+   - **Type:** Trade Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1109/MELE.2016.2584959
+   - **Scopus ID:** 2-s2.0-84994153879
+   - **ISSN:** 23255897
+   - **eISSN:** 23255889
+   - **Volume:** 4
+   - **Issue:** 3
+   - **Pages:** 15-22
+   - **Authors:** Bongiorno J.; Boschetti G.; Mariscotti A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 253, percentile 74)
+     - Energy Engineering and Power Technology (Q2, rank 95, percentile 71)
+     2016:
+     - Energy Engineering and Power Technology (Q2, rank 51, percentile 73)
+     - Electrical and Electronic Engineering (Q2, rank 196, percentile 70)
+   - **Source Id:** 21100374317
+   - **Author Ids:** 56450849900;55582947900;23091663200
+   - **Authoraffiliationids:** 60025153;60025153;116154744
+   - **Corresponding:** Bongiorno J.
+88.
+   - **Title:** Statistical distributions of validation performance indexes for experimental data uncertainty
+   - **Venue:** Proceedings of the 18th Mediterranean Electrotechnical Conference Intelligent and Efficient Technologies and Services for the Citizen MELECON 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/MELCON.2016.7495360
+   - **Scopus ID:** 2-s2.0-84979238893
+   - **Authors:** Bongiorno Jacopo; Mariscotti Andrea
+   - **Keywords:** Modeling | Simulation | Uncertainty | Validation
+   - **Source Id:** 21100469368
+   - **Author Ids:** 56450849900;23091663200
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bongiorno J.
+89.
+   - **Title:** Tuning of a railway power quality conditioner
+   - **Venue:** Proceedings of the 18th Mediterranean Electrotechnical Conference Intelligent and Efficient Technologies and Services for the Citizen MELECON 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/MELCON.2016.7495328
+   - **Scopus ID:** 2-s2.0-84979207649
+   - **Authors:** Langerudy Adel Tabakhpour; Mariscotti Andrea
+   - **Keywords:** Inverters | Optimization | Power conditioning | Power Quality | Railway static power conditioner | Traction power supplies
+   - **Source Id:** 21100469368
+   - **Author Ids:** 57190346001;23091663200
+   - **Authoraffiliationids:** 60012835;60025153
+   - **Corresponding:** Langerudy A.T.
+90.
+   - **Title:** Evaluation of stray current from a DC-electrified railway with integrated electric-electromechanical modeling and traffic simulation
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 85
+   - **DOI:** 10.1109/TIA.2015.2429642
+   - **Scopus ID:** 2-s2.0-84958212898
+   - **ISSN:** 00939994
+   - **Volume:** 51
+   - **Issue:** 6
+   - **Pages:** 5431-5441
+   - **Authors:** Ogunsola Ade; Sandrolini Leonardo; Mariscotti Andrea
+   - **Keywords:** corrosion | dc electrified railway | grounding | guideway transportation power systems | Stray current
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+     2015:
+     - Industrial and Manufacturing Engineering (Q1, rank 26, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 103, percentile 84)
+     - Control and Systems Engineering (Q1, rank 36, percentile 83)
+   - **Source Id:** 17361
+   - **Author Ids:** 12767103100;6508327262;23091663200
+   - **Authoraffiliationids:** 60020277;60028218;116154744
+   - **Corresponding:** Ogunsola A.
+91.
+   - **Title:** The variability of microstrips formulas as a source of uncertainty in microwave setups
+   - **Venue:** Measurement Journal of the International Measurement Confederation
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1016/j.measurement.2015.05.014
+   - **Scopus ID:** 2-s2.0-84929630387
+   - **ISSN:** 02632241
+   - **Volume:** 73
+   - **Pages:** 33-54
+   - **Authors:** Bongiorno Jacopo; Mariscotti Andrea
+   - **Keywords:** Dielectric permittivity | Microstrip | Printed Circuit Board | Sensitivity analysis | Uncertainty
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 15, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 115, percentile 88)
+     2015:
+     - Subject (Q1, rank 84, percentile 91)
+     - Subject (Q1, rank 60, percentile 85)
+     - Subject (Q1, rank 28, percentile 84)
+     - Subject (Q2, rank 111, percentile 72)
+   - **Source Id:** 15424
+   - **Author Ids:** 56450849900;23091663200
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bongiorno J.
+92.
+   - **Title:** Distribution of stray current based on 3-Dimensional earth model
+   - **Venue:** Electrical Systems for Aircraft Railway and Ship Propulsion Esars
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/ESARS.2015.7101440
+   - **Scopus ID:** 2-s2.0-84946207868
+   - **ISSN:** 21659400
+   - **eISSN:** 21659427
+   - **Volume:** 2015-May
+   - **Authors:** Jabbehdari S.; Mariscotti A.
+   - **Keywords:** 3-Dimensional earth model | grounding systems | stray current
+   - **Source Id:** 21100228516
+   - **Author Ids:** 57212264218;23091663200
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Jabbehdari S.
+93.
+   - **Title:** Statistical characterization of the 2.45 GHz propagation channel aboard trains
+   - **Venue:** Acta Imeko
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.21014/acta_imeko.v4i1.162
+   - **Scopus ID:** 2-s2.0-84941615016
+   - **ISSN:** 0237028X
+   - **eISSN:** 2221870X
+   - **Volume:** 4
+   - **Issue:** 1
+   - **Pages:** 44-52
+   - **Authors:** Liccardo Annalisa; Mariscotti Andrea; Marrese Attilio; Pasquino Nicola; Lo Moriello Rosario Schiano
+   - **Keywords:** Coherence bandwidth | Delay spread | Multipath propagation | Path loss | Radio propagation channel | Statistical analysis of measurement data
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q2, rank 88, percentile 53)
+     - Electrical and Electronic Engineering (Q2, rank 482, percentile 51)
+     - Mechanical Engineering (Q3, rank 373, percentile 49)
+     2015:
+     - Mechanical Engineering (Q4, rank 454, percentile 14)
+     - Electrical and Electronic Engineering (Q4, rank 592, percentile 10)
+     - Instrumentation (Q4, rank 94, percentile 10)
+   - **Source Id:** 21100407601
+   - **Author Ids:** 14631935200;23091663200;55321440500;6507068664;6507721996
+   - **Authoraffiliationids:** 60017293;60025153;60017293;60017293;60017293
+   - **Corresponding:** Liccardo A.
+94.
+   - **Title:** Robust estimates for validation performance indexes of electric network models
+   - **Venue:** International Review of Electrical Engineering
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.15866/iree.v10i5.7277
+   - **Scopus ID:** 2-s2.0-84957805566
+   - **ISSN:** 18276660
+   - **eISSN:** 25332244
+   - **Volume:** 10
+   - **Issue:** 5
+   - **Pages:** 607-615
+   - **Authors:** Bongiorno Jacopo; Mariscotti Andrea
+   - **Keywords:** Electric networks | Electrical simulation | Guideway transportation systems | Validation
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 203, percentile 69)
+     - Automotive Engineering (Q2, rank 49, percentile 63)
+     - Instrumentation (Q2, rank 77, percentile 59)
+     - Electrical and Electronic Engineering (Q2, rank 439, percentile 56)
+     - Energy (all) (Q3, rank 42, percentile 46)
+     - Energy (miscellaneous) (Q3, rank 64, percentile 40)
+     2015:
+     - Electrical and Electronic Engineering (Q2, rank 262, percentile 60)
+   - **Source Id:** 17700154922
+   - **Author Ids:** 56450849900;23091663200
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bongiorno J.
+95.
+   - **Title:** Accuracy of railway track conductance and joint efficiency measurement methods
+   - **Venue:** Acta Imeko
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.21014/acta_imeko.v4i4.270
+   - **Scopus ID:** 2-s2.0-84951743803
+   - **ISSN:** 0237028X
+   - **eISSN:** 2221870X
+   - **Volume:** 4
+   - **Issue:** 4
+   - **Pages:** 82-87
+   - **Authors:** Bongiorno Jacopo; Mariscotti Andrea
+   - **Keywords:** Conductivity measurement | DC power systems | Electric variables measurement | Grounding | Guideway transportation power systems | Guideway transportation testing | Stray current | Uncertainty
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q2, rank 88, percentile 53)
+     - Electrical and Electronic Engineering (Q2, rank 482, percentile 51)
+     - Mechanical Engineering (Q3, rank 373, percentile 49)
+     2015:
+     - Mechanical Engineering (Q4, rank 454, percentile 14)
+     - Electrical and Electronic Engineering (Q4, rank 592, percentile 10)
+     - Instrumentation (Q4, rank 94, percentile 10)
+   - **Source Id:** 21100407601
+   - **Author Ids:** 56450849900;23091663200
+   - **Authoraffiliationids:** 60025153;116154744
+   - **Corresponding:** Bongiorno J.
+96.
+   - **Title:** Validation of electric transportation system simulation models using multiple performance indexes based on scale and slope evaluation
+   - **Venue:** International Journal of Mathematics and Computers in Simulation
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84947283454
+   - **ISSN:** 19980159
+   - **Volume:** 9
+   - **Pages:** 168-180
+   - **Authors:** Bongiorno Jacopo; Mariscotti Andrea; Pasquino Nicola
+   - **Keywords:** Electric networks | Modeling | Simulation | Uncertainty | Validation
+   - **Quartile:**
+     2015:
+     - Applied Mathematics (Q3, rank 221, percentile 45)
+     - Modeling and Simulation (Q3, rank 129, percentile 42)
+     - Computational Theory and Mathematics (Q3, rank 72, percentile 29)
+   - **Source Id:** 17700156720
+   - **Author Ids:** 56450849900;23091663200;6507068664
+   - **Authoraffiliationids:** 60025153;112979197;60017293
+   - **Corresponding:** Bongiorno J.
+97.
+   - **Title:** Evaluation of performances of indexes used for validation of simulation models based on real cases
+   - **Venue:** International Journal of Mathematical Models and Methods in Applied Sciences
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 16
+   - **Scopus ID:** 2-s2.0-84926477037
+   - **ISSN:** 19980140
+   - **Volume:** 9
+   - **Pages:** 29-43
+   - **Authors:** Bongiorno Jacopo; Mariscotti Andrea
+   - **Keywords:** Electric networks | Modeling | Performance index | Simulation | Validation
+   - **Quartile:**
+     2015:
+     - Applied Mathematics (Q4, rank 314, percentile 22)
+     - Modeling and Simulation (Q4, rank 173, percentile 22)
+     - Mathematical Physics (Q4, rank 38, percentile 20)
+     - Computational Mathematics (Q4, rank 92, percentile 19)
+   - **Source Id:** 18100156703
+   - **Author Ids:** 56450849900;23091663200
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bongiorno J.
+98.
+   - **Title:** Experimental validation of the electric network model of the Italian 2x25 kV 50 Hz railway
+   - **Venue:** 20th Imeko Tc4 Symposium on Measurements of Electrical Quantities Research on Electrical and Electronic Measurement for the Economic Upturn Together with 18th Tc4 International Workshop on ADC and Dca Modeling and Testing Iwadc 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **Scopus ID:** 2-s2.0-84918839359
+   - **Pages:** 964-970
+   - **Authors:** Bongiorno Jacopo; Mariscotti Andrea
+   - **Source Id:** 21100356014
+   - **Author Ids:** 56450849900;23091663200
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bongiorno J.
+99.
+   - **Title:** Recent results on the power quality of italian 2x25 kV 50 Hz railways
+   - **Venue:** 20th Imeko Tc4 Symposium on Measurements of Electrical Quantities Research on Electrical and Electronic Measurement for the Economic Upturn Together with 18th Tc4 International Workshop on ADC and Dca Modeling and Testing Iwadc 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-84918784979
+   - **Pages:** 953-957
+   - **Authors:** Bongiorno Jacopo; Mariscotti Andrea
+   - **Source Id:** 21100356014
+   - **Author Ids:** 56450849900;23091663200
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bongiorno J.
+100.
+   - **Title:** Optimizing the energy efficiency of electric transportation systems operation using a genetic algorithm
+   - **Venue:** International Review of Electrical Engineering
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.15866/iree.v9i4.1532
+   - **Scopus ID:** 2-s2.0-84914670317
+   - **ISSN:** 18276660
+   - **eISSN:** 25332244
+   - **Volume:** 9
+   - **Issue:** 4
+   - **Pages:** 783-791
+   - **Authors:** Boschett Giorgio; Mariscotti Andrea
+   - **Keywords:** Electromechanical simulation | Genetic algorithm | Guideway transportation systems | Optimization | Speed profile
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 203, percentile 69)
+     - Automotive Engineering (Q2, rank 49, percentile 63)
+     - Instrumentation (Q2, rank 77, percentile 59)
+     - Electrical and Electronic Engineering (Q2, rank 439, percentile 56)
+     - Energy (all) (Q3, rank 42, percentile 46)
+     - Energy (miscellaneous) (Q3, rank 64, percentile 40)
+     2014:
+     - Electrical and Electronic Engineering (Q2, rank 226, percentile 65)
+   - **Source Id:** 17700154922
+   - **Author Ids:** 56437696800;23091663200
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Boschett G.
+101.
+   - **Title:** Variability of pantograph impedance curves in DC traction systems and comparison with experimental results
+   - **Venue:** Przeglad Elektrotechniczny
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.12915/pe.2014.06.33
+   - **Scopus ID:** 2-s2.0-84906986283
+   - **ISSN:** 00332097
+   - **Volume:** 90
+   - **Issue:** 6
+   - **Pages:** 178-183
+   - **Authors:** Bongiorno Jacopo; Mariscotti Andrea
+   - **Keywords:** DC locomotive | DC traction systems | Modelling | Pantograph impedance | Simulation
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 783, percentile 21)
+     2014:
+     - Electrical and Electronic Engineering (Q3, rank 471, percentile 27)
+   - **Source Id:** 18700
+   - **Author Ids:** 56450849900;23091663200
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bongiorno J.
+102.
+   - **Title:** A connection-oriented network infrastructure of heterogeneous metering nodes
+   - **Venue:** International Review of Electrical Engineering
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84905995082
+   - **ISSN:** 18276660
+   - **eISSN:** 25332244
+   - **Volume:** 9
+   - **Issue:** 3
+   - **Pages:** 566-573
+   - **Authors:** Canepa M.; Delucchi F.; Mariscotti A.; Zieger C.
+   - **Keywords:** Electric variables measurement | Energy measurement | Intelligent sensors | Interconnected systems | Measurement system | Power quality | Uncertain systems
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 203, percentile 69)
+     - Automotive Engineering (Q2, rank 49, percentile 63)
+     - Instrumentation (Q2, rank 77, percentile 59)
+     - Electrical and Electronic Engineering (Q2, rank 439, percentile 56)
+     - Energy (all) (Q3, rank 42, percentile 46)
+     - Energy (miscellaneous) (Q3, rank 64, percentile 40)
+     2014:
+     - Electrical and Electronic Engineering (Q2, rank 226, percentile 65)
+   - **Source Id:** 17700154922
+   - **Author Ids:** 55137792100;56323505600;23091663200;56323374900
+   - **Authoraffiliationids:** 60025153;114582610;60025153;114582610
+   - **Corresponding:** Canepa M.
+103.
+   - **Title:** Power quality metering unit with networking capability
+   - **Venue:** IEEE Eurocon 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EUROCON.2013.6625079
+   - **Scopus ID:** 2-s2.0-84888635021
+   - **Pages:** 831-836
+   - **Authors:** Canepa Michele; Mariscotti Andrea
+   - **Keywords:** Electric variables measurement | Energy measurement | Intelligent sensors | Interconnected systems | Measurement system data handling | Power quality
+   - **Source Id:** 21100269002
+   - **Author Ids:** 55137792100;23091663200
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Canepa M.
+104.
+   - **Title:** Evaluating stray current from DC electrified transit systems with lumped parameter and multi-layer soil models
+   - **Venue:** IEEE Eurocon 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 31
+   - **DOI:** 10.1109/EUROCON.2013.6625131
+   - **Scopus ID:** 2-s2.0-84888612140
+   - **Pages:** 1187-1192
+   - **Authors:** Fichera Fabio; Mariscotti Andrea; Ogunsola Ade
+   - **Keywords:** Corrosion | Electromagnetic conductive interference | Guideway transportation power systems | Power distribution electromagnetic interference | Stray current
+   - **Source Id:** 21100269002
+   - **Author Ids:** 55942905700;23091663200;12767103100
+   - **Authoraffiliationids:** 60025153;60025153;60020277
+   - **Corresponding:** Fichera F.
+105.
+   - **Title:** A magnetic field probe for hostile environments
+   - **Venue:** 19th Imeko Tc4 Symposium Measurements of Electrical Quantities 2013 and 17th International Workshop on ADC and DAC Modelling and Testing
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84894165029
+   - **Pages:** 362-366
+   - **Authors:** Canepa M.; Mariscotti A.
+   - **Keywords:** Electronic circuit design | Guideway Transportation Systems | Magnetic field | Portable instrumentation
+   - **Source Id:** 21100286830
+   - **Author Ids:** 55137792100;23091663200
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Canepa M.
+106.
+   - **Title:** Characterization of the propagation channel aboard trains
+   - **Venue:** 19th Imeko Tc4 Symposium Measurements of Electrical Quantities 2013 and 17th International Workshop on ADC and DAC Modelling and Testing
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-84894147603
+   - **Pages:** 339-344
+   - **Authors:** Mariscotti Andrea; Marrese Attilio; Pasquino Nicola; Moriello Rosario Schiano Lo
+   - **Source Id:** 21100286830
+   - **Author Ids:** 23091663200;55321440500;6507068664;6507721996
+   - **Authoraffiliationids:** 60025153;60017293;60017293;60017293
+   - **Corresponding:** Mariscotti A.
+107.
+   - **Title:** Characterization of the radio propagation channel aboard trains for optimal coverage at 2.45GHz
+   - **Venue:** Proceedings M and N 2013 2013 IEEE International Workshop on Measurements and Networking
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1109/IWMN.2013.6663802
+   - **Scopus ID:** 2-s2.0-84892539034
+   - **Pages:** 195-199
+   - **Authors:** Mariscotti Andrea; Marrese Attilio; Pasquino Nicola; Schiano Lo Moriello Rosario
+   - **Keywords:** coherence bandwidth | delay spread | multipath propagation | path loss | radio propagation channel | reliability | telecommunication system
+   - **Source Id:** 21100283705
+   - **Author Ids:** 23091663200;55321440500;6507068664;6507721996
+   - **Authoraffiliationids:** 60025153;60017293;60017293;60017293
+   - **Corresponding:** Mariscotti A.
+108.
+   - **Title:** Variability and uncertainty of Track Circuit band-pass modeling for interference evaluation
+   - **Venue:** Acta Imeko
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.21014/acta_imeko.v2i1.53
+   - **Scopus ID:** 2-s2.0-85075226718
+   - **ISSN:** 0237028X
+   - **eISSN:** 2221870X
+   - **Volume:** 2
+   - **Issue:** 1
+   - **Pages:** 32-39
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Conducted Interference | Guideway transportation systems | Power quality | Spectral analysis | Supply transients | Time domain analysis
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q2, rank 88, percentile 53)
+     - Electrical and Electronic Engineering (Q2, rank 482, percentile 51)
+     - Mechanical Engineering (Q3, rank 373, percentile 49)
+   - **Source Id:** 21100407601
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+109.
+   - **Title:** Classification of transient EM noises depending on their effect on the quality of GSM-R reception
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 30
+   - **DOI:** 10.1109/TEMC.2013.2239998
+   - **Scopus ID:** 2-s2.0-84886600492
+   - **ISSN:** 00189375
+   - **Volume:** 55
+   - **Issue:** 5
+   - **Pages:** 867-874
+   - **Authors:** Dudoyer Stephen; Deniau Virginie; Ambellouis Sebastien; Heddebaut Marc; Mariscotti Andrea
+   - **Keywords:** Classification | descriptor | GSM-R | railway | transient EM noises
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2013:
+     - Atomic and Molecular Physics, and Optics (Q1, rank 25, percentile 84)
+     - Electrical and Electronic Engineering (Q1, rank 104, percentile 83)
+     - Condensed Matter Physics (Q1, rank 66, percentile 83)
+   - **Source Id:** 26051
+   - **Author Ids:** 35776095100;24466454100;35615149100;6603598419;23091663200
+   - **Authoraffiliationids:** 60104665;60104665;60104665;60104665;60025153
+   - **Corresponding:** Dudoyer S.
+110.
+   - **Title:** Comparison of distributed and lumped parameters stray current models
+   - **Venue:** IEEE AFRICON Conference
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/AFRCON.2013.6757735
+   - **Scopus ID:** 2-s2.0-84897409119
+   - **ISSN:** 21530025
+   - **eISSN:** 21530033
+   - **Authors:** Fichera F.; Mariscotti A.; Ogunsola A.; Sandrolini L.
+   - **Keywords:** Corrosion | Electromagnetic conductive interference | Guideway transportation power systems | Power distribution electromagnetic interference | Stray current
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 667, percentile 33)
+     - Computer Science Applications (Q3, rank 705, percentile 28)
+   - **Source Id:** 88865
+   - **Author Ids:** 55942905700;23091663200;12767103100;6508327262
+   - **Authoraffiliationids:** 60025153;60025153;60020277;60028218
+   - **Corresponding:** Fichera F.
+111.
+   - **Title:** Wide-band and narrow-band characterization of the propagation channel in trains
+   - **Venue:** International Review of Electrical Engineering
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-84889656028
+   - **ISSN:** 18276660
+   - **eISSN:** 25332244
+   - **Volume:** 8
+   - **Issue:** 5
+   - **Pages:** 1467-1472
+   - **Authors:** Mariscotti A.; Marrese A.; Pasquino N.; Bifulco P.; Liccardo A.; Schiano Lo Moriello R.
+   - **Keywords:** Multipath propagation | Propagation channel | Propagation loss | Reliability | Telecommunication system
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 203, percentile 69)
+     - Automotive Engineering (Q2, rank 49, percentile 63)
+     - Instrumentation (Q2, rank 77, percentile 59)
+     - Electrical and Electronic Engineering (Q2, rank 439, percentile 56)
+     - Energy (all) (Q3, rank 42, percentile 46)
+     - Energy (miscellaneous) (Q3, rank 64, percentile 40)
+     2013:
+     - Electrical and Electronic Engineering (Q1, rank 148, percentile 76)
+   - **Source Id:** 17700154922
+   - **Author Ids:** 23091663200;55321440500;6507068664;6602938810;14631935200;6507721996
+   - **Authoraffiliationids:** 60025153;60017293;60017293;60017293;60017293;60017293
+   - **Corresponding:** Mariscotti A.
+112.
+   - **Title:** Time and frequency characterization of radiated disturbance in telecommunication bands due to pantograph arcing
+   - **Venue:** Measurement Journal of the International Measurement Confederation
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 39
+   - **DOI:** 10.1016/j.measurement.2013.04.054
+   - **Scopus ID:** 2-s2.0-84887106009
+   - **ISSN:** 02632241
+   - **Volume:** 46
+   - **Issue:** 10
+   - **Pages:** 4342-4352
+   - **Authors:** Mariscotti Andrea; Marrese Attilio; Pasquino Nicola; Schiano Lo Moriello Rosario
+   - **Keywords:** Electromagnetic compatibility | Electromagnetic interference | Guideway transportation power systems | Mobile communication | Pantograph arcing | Radiated disturbance
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 15, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 115, percentile 88)
+     2013:
+     - Subject (Q1, rank 126, percentile 85)
+     - Subject (Q2, rank 117, percentile 70)
+     - Subject (Q2, rank 51, percentile 70)
+     - Subject (Q2, rank 157, percentile 59)
+   - **Source Id:** 15424
+   - **Author Ids:** 23091663200;55321440500;6507068664;6507721996
+   - **Authoraffiliationids:** 60025153;60017293;60017293;60017293
+   - **Corresponding:** Mariscotti A.
+113.
+   - **Title:** Electromagnetic compatibility in railways
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2013
+   - **Type:** Book Series
+   - **Subtype:** Article
+   - **Citations:** 94
+   - **DOI:** 10.1007/978-3-642-30281-7_1
+   - **Scopus ID:** 2-s2.0-84866650844
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 168 Lnee
+   - **Pages:** 1-528
+   - **Authors:** Ogunsola Ade; Mariscotti Andrea
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+     2013:
+     - Industrial and Manufacturing Engineering (Q3, rank 205, percentile 28)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 12767103100;23091663200
+   - **Authoraffiliationids:** 60020277;60025153
+   - **Corresponding:** Ogunsola A.
+114.
+   - **Title:** On the uncertainty of the bandpass filter method for the evaluation of interference on track circuits
+   - **Venue:** 20th Imeko World Congress 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-84880443351
+   - **Volume:** 1
+   - **Pages:** 708-712
+   - **Authors:** Mariscotti A.
+   - **Keywords:** Analog filters | Conducted Interference | Digital filters | Guideway Transportation Systems
+   - **Source Id:** 21100245714
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+115.
+   - **Title:** The parameters of motion mechanical equations as a source of uncertainty for traction systems simulation
+   - **Venue:** 20th Imeko World Congress 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 17
+   - **Scopus ID:** 2-s2.0-84880442646
+   - **Volume:** 2
+   - **Pages:** 897-902
+   - **Authors:** Boschetti G.; Mariscotti A.
+   - **Keywords:** Davis equation | Electromechanical simulation | Guideway transportation systems | Model validation
+   - **Source Id:** 21100245714
+   - **Author Ids:** 55582947900;23091663200
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Boschetti G.
+116.
+   - **Title:** Experimental investigation on radiated emissions generated by pantograph arcing and their effects on telecommunication bands
+   - **Venue:** 20th Imeko World Congress 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **Scopus ID:** 2-s2.0-84880436550
+   - **Volume:** 2
+   - **Pages:** 1175-1178
+   - **Authors:** Mariscotti A.; Marrese A.; Pasquino N.
+   - **Keywords:** Electromagnetic compatibility | Pantograph arcing | Radiated disturbances | Time-domain measurements
+   - **Source Id:** 21100245714
+   - **Author Ids:** 23091663200;55321440500;6507068664
+   - **Authoraffiliationids:** 60025153;60017293;60017293
+   - **Corresponding:** Mariscotti A.
+117.
+   - **Title:** Test bench for the evaluation of GSM-R operation in the presence of electric arc interference
+   - **Venue:** Electrical Systems for Aircraft Railway and Ship Propulsion Esars
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/ESARS.2012.6387486
+   - **Scopus ID:** 2-s2.0-84873472997
+   - **ISSN:** 21659400
+   - **eISSN:** 21659427
+   - **Authors:** Deniau Virginie; Dudoyer Stephen; Heddebaut Marc; Mariscotti Andrea; Marrese Attilio; Pasquino Nicola
+   - **Keywords:** Communication system testing | Guideway transportation systems | Land mobile radio cellular systems | Radiated interference | Spectral analysis
+   - **Source Id:** 21100228516
+   - **Author Ids:** 24466454100;35776095100;6603598419;23091663200;55321440500;6507068664
+   - **Authoraffiliationids:** 60104665;60104665;60104665;60025153;60017293;60017293
+   - **Corresponding:** Deniau V.
+118.
+   - **Title:** Measurement of AC side harmonics of a DC metro railway
+   - **Venue:** Electrical Systems for Aircraft Railway and Ship Propulsion Esars
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/ESARS.2012.6387403
+   - **Scopus ID:** 2-s2.0-84873467800
+   - **ISSN:** 21659400
+   - **eISSN:** 21659427
+   - **Authors:** Ogunsola Ade; Mariscotti Andrea; Sandrolini Leonardo
+   - **Source Id:** 21100228516
+   - **Author Ids:** 12767103100;23091663200;6508327262
+   - **Authoraffiliationids:** 60020277;60025153;60028218
+   - **Corresponding:** Ogunsola A.
+119.
+   - **Title:** Integrated electromechanical simulation of traction systems: Relevant factors for the analysis and estimation of energy efficiency
+   - **Venue:** Electrical Systems for Aircraft Railway and Ship Propulsion Esars
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1109/ESARS.2012.6387412
+   - **Scopus ID:** 2-s2.0-84873435175
+   - **ISSN:** 21659400
+   - **eISSN:** 21659427
+   - **Authors:** Boschetti G.; Mariscotti A.
+   - **Keywords:** Davis equation | Electromechanical simulation | Guideway transportation systems | Model validation
+   - **Source Id:** 21100228516
+   - **Author Ids:** 55582947900;23091663200
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Boschetti G.
+120.
+   - **Title:** On the common mode to differential mode transformation of conducted disturbance in double track traction lines
+   - **Venue:** Electrical Systems for Aircraft Railway and Ship Propulsion Esars
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ESARS.2012.6387484
+   - **Scopus ID:** 2-s2.0-84873420327
+   - **ISSN:** 21659400
+   - **eISSN:** 21659427
+   - **Authors:** Mariscotti A.
+   - **Keywords:** Circuit modeling | Electromagnetic reactive interference | Guideway transportation power systems | Magnetic fields | Mutual coupling
+   - **Source Id:** 21100228516
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+121.
+   - **Title:** Sensitivity analysis of multilayer earth models
+   - **Venue:** Electrical Systems for Aircraft Railway and Ship Propulsion Esars
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ESARS.2012.6387485
+   - **Scopus ID:** 2-s2.0-84873415966
+   - **ISSN:** 21659400
+   - **eISSN:** 21659427
+   - **Authors:** Jabbehdari S.; Mariscotti A.
+   - **Keywords:** Earth apparent resistivity | Grounding | Wenner four probe method
+   - **Source Id:** 21100228516
+   - **Author Ids:** 57212264218;23091663200
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Jabbehdari S.
+122.
+   - **Title:** Research of observables adapted to the analysis of em noise impacting the quality of GSM-Railway transmissions
+   - **Venue:** IEEE International Symposium on Electromagnetic Compatibility
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/EMCEurope.2012.6396912
+   - **Scopus ID:** 2-s2.0-84872550205
+   - **ISSN:** 10774076
+   - **eISSN:** 21581118
+   - **Authors:** Deniau Virginie; Dudoyer Stephen; Ambellouis Sébastien; Heddebaut Marc; Mariscotti Andrea
+   - **Keywords:** classification | EM Railway environment | EM transient disturbances | GSM-R
+   - **Source Id:** 17274
+   - **Author Ids:** 24466454100;35776095100;35615149100;6603598419;23091663200
+   - **Authoraffiliationids:** 60104665;60104665;60104665;60104665;60025153
+   - **Corresponding:** Deniau V.
+123.
+   - **Title:** Mitigation of electromagnetic interference generated by stray current from a dc rail traction system
+   - **Venue:** IEEE International Symposium on Electromagnetic Compatibility
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 19
+   - **DOI:** 10.1109/EMCEurope.2012.6396805
+   - **Scopus ID:** 2-s2.0-84872538200
+   - **ISSN:** 10774076
+   - **eISSN:** 21581118
+   - **Authors:** Mariscotti Andrea; Reggiani Ugo; Ogunsola Ade; Sandrolini Leonardo
+   - **Keywords:** Corrosion | DC Rail Traction System | Electromagnetic interference | Railway | Stray current
+   - **Source Id:** 17274
+   - **Author Ids:** 23091663200;6603923525;12767103100;6508327262
+   - **Authoraffiliationids:** 60025153;60028218;60020277;60025153
+   - **Corresponding:** Mariscotti A.
+124.
+   - **Title:** Assessment of the GSM-R susceptibility to repetitive transient disturbance
+   - **Venue:** Measurement Journal of the International Measurement Confederation
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 23
+   - **DOI:** 10.1016/j.measurement.2012.04.004
+   - **Scopus ID:** 2-s2.0-84865226842
+   - **ISSN:** 02632241
+   - **Volume:** 45
+   - **Issue:** 9
+   - **Pages:** 2226-2236
+   - **Authors:** Boschetti Giorgio; Mariscotti Andrea; Deniau Virginie
+   - **Keywords:** Bit error rate | Data correction | GSM-R | Guideway transportation systems | Radiated interference | Spectral analysis
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 15, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 115, percentile 88)
+     2012:
+     - Subject (Q1, rank 123, percentile 85)
+     - Subject (Q2, rank 119, percentile 70)
+     - Subject (Q2, rank 52, percentile 69)
+     - Subject (Q2, rank 158, percentile 59)
+   - **Source Id:** 15424
+   - **Author Ids:** 55582947900;23091663200;24466454100
+   - **Authoraffiliationids:** 60025153;60025153;60104665
+   - **Corresponding:** Boschetti G.
+125.
+   - **Title:** Estimation of stray current from a DC-electrified railway and impressed potential on a buried pipe
+   - **Venue:** IEEE Transactions on Power Delivery
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 138
+   - **DOI:** 10.1109/TPWRD.2012.2211623
+   - **Scopus ID:** 2-s2.0-84866720074
+   - **ISSN:** 08858977
+   - **Volume:** 27
+   - **Issue:** 4
+   - **Pages:** 2238-2246
+   - **Authors:** Ogunsola Ade; Mariscotti Andrea; Sandrolini Leonardo
+   - **Keywords:** Corrosion | electromagnetic conductive interference | guideway transportation power systems | power distribution electromagnetic interference | stray current
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 49, percentile 85)
+     2012:
+     - Energy Engineering and Power Technology (Q1, rank 12, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 66, percentile 89)
+   - **Source Id:** 17370
+   - **Author Ids:** 12767103100;23091663200;6508327262
+   - **Authoraffiliationids:** 60020277;60025153;60028218
+   - **Corresponding:** Ogunsola A.
+126.
+   - **Title:** Results on the power quality of French and Italian 2×25 kV 50 Hz railways
+   - **Venue:** 2012 IEEE I2mtc International Instrumentation and Measurement Technology Conference Proceedings
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 29
+   - **DOI:** 10.1109/I2MTC.2012.6229341
+   - **Scopus ID:** 2-s2.0-84864261460
+   - **Pages:** 1400-1405
+   - **Authors:** Mariscotti A.
+   - **Keywords:** Guideway transportation systems | Power quality | Spectral analysis
+   - **Source Id:** 21100206227
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+127.
+   - **Title:** Design and construction of a measurement system for the evaluation of low frequency magnetic field on-board rolling stock
+   - **Venue:** 2012 IEEE I2mtc International Instrumentation and Measurement Technology Conference Proceedings
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/I2MTC.2012.6229319
+   - **Scopus ID:** 2-s2.0-84864243801
+   - **Pages:** 1004-1009
+   - **Authors:** Imbesi Pina; Mariscotti Andrea
+   - **Keywords:** Human exposure | Magnetic fields | Magnetic measurements
+   - **Source Id:** 21100206227
+   - **Author Ids:** 55320035100;23091663200
+   - **Authoraffiliationids:** ;60025153
+   - **Corresponding:** Imbesi P.
+128.
+   - **Title:** Performance of three algorithms for the fundamental frequency estimation against 16.7 Hz railways data
+   - **Venue:** 2012 IEEE I2mtc International Instrumentation and Measurement Technology Conference Proceedings
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/I2MTC.2012.6229257
+   - **Scopus ID:** 2-s2.0-84864218397
+   - **Pages:** 339-343
+   - **Authors:** Lapuh Rado; Mariscotti Andrea
+   - **Keywords:** Frequency estimation | Guideway transportation systems | Power quality | Spectral analysis
+   - **Source Id:** 21100206227
+   - **Author Ids:** 35607481800;23091663200
+   - **Authoraffiliationids:** 109412514;60025153
+   - **Corresponding:** Lapuh R.
+129.
+   - **Title:** The frequency stability of the 50 Hz French railway
+   - **Venue:** 2012 IEEE I2mtc International Instrumentation and Measurement Technology Conference Proceedings
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/I2MTC.2012.6229163
+   - **Scopus ID:** 2-s2.0-84864209225
+   - **Pages:** 1406-1410
+   - **Authors:** Mariscotti A.; Slepicka D.
+   - **Keywords:** Frequency stability | Guideway transportation systems | Power quality | Spectral analysis | Time domain analysis
+   - **Source Id:** 21100206227
+   - **Author Ids:** 23091663200;6507530759
+   - **Authoraffiliationids:** 60025153;60013323
+   - **Corresponding:** Mariscotti A.
+130.
+   - **Title:** Time and frequency characterization of radiated disturbances in telecommunication bands due to pantograph arcing
+   - **Venue:** 2012 IEEE I2mtc International Instrumentation and Measurement Technology Conference Proceedings
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 20
+   - **DOI:** 10.1109/I2MTC.2012.6229310
+   - **Scopus ID:** 2-s2.0-84864196553
+   - **Pages:** 2178-2182
+   - **Authors:** Mariscotti Andrea; Marrese Attilio; Pasquino Nicola
+   - **Keywords:** electromagnetic compatibility measurements | pantograph arcing | radiated disturbances
+   - **Source Id:** 21100206227
+   - **Author Ids:** 23091663200;55321440500;6507068664
+   - **Authoraffiliationids:** 60025153;60017293;60017293
+   - **Corresponding:** Mariscotti A.
+131.
+   - **Title:** Characterization of power quality transient phenomena of DC railway traction supply
+   - **Venue:** Acta Imeko
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.21014/acta_imeko.v1i1.17
+   - **Scopus ID:** 2-s2.0-84866637017
+   - **ISSN:** 0237028X
+   - **eISSN:** 2221870X
+   - **Volume:** 1
+   - **Issue:** 1
+   - **Pages:** 26-35
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Conducted interference | Guideway transportation systems | Power quality | Spectral analysis | Supply transients | Time domain analysis
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q2, rank 88, percentile 53)
+     - Electrical and Electronic Engineering (Q2, rank 482, percentile 51)
+     - Mechanical Engineering (Q3, rank 373, percentile 49)
+   - **Source Id:** 21100407601
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+132.
+   - **Title:** Design optimisation to reduce the magnetic fields propagated from dc Light Rail Transit Systems
+   - **Venue:** Progress in Electromagnetics Research Symposium
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84055199024
+   - **ISSN:** 15599450
+   - **Pages:** 131-136
+   - **Authors:** Ogunsola A.; Mariscotti A.
+   - **Source Id:** 21000195302
+   - **Author Ids:** 12767103100;23091663200
+   - **Authoraffiliationids:** 60006448-106615682;60025153
+   - **Corresponding:** Ogunsola A.
+133.
+   - **Title:** Survey of models and reference data for prediction of e.m. field emissions from electrical machinery
+   - **Venue:** Sdemped 2011 8th IEEE Symposium on Diagnostics for Electrical Machines Power Electronics and Drives
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/DEMPED.2011.6063647
+   - **Scopus ID:** 2-s2.0-81255176202
+   - **Pages:** 350-355
+   - **Authors:** Mariscotti A.; Ogunsola A.; Sandrolini L.
+   - **Keywords:** Antenna measurements | Diagnostics | Electric field | Electric machines | Electromagnetic compatibility | Electromagnetic measurements | Magnetic field
+   - **Source Id:** 20500195085
+   - **Author Ids:** 23091663200;12767103100;6508327262
+   - **Authoraffiliationids:** 60025153;106615682;60028218
+   - **Corresponding:** Mariscotti A.
+134.
+   - **Title:** Analysis of frequency stability of 16.7 Hz railways
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/IMTC.2011.5944216
+   - **Scopus ID:** 2-s2.0-80051915233
+   - **ISSN:** 10915281
+   - **Pages:** 1119-1123
+   - **Authors:** Mariscotti A.; Slepicka D.
+   - **Keywords:** Frequency stability | Guideway transportation systems | Power quality | Spectral analysis | Time domain analysis
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+     2011:
+     - Electrical and Electronic Engineering (Q3, rank 328, percentile 44)
+   - **Source Id:** 15045
+   - **Author Ids:** 23091663200;6507530759
+   - **Authoraffiliationids:** 60025153;60013323
+   - **Corresponding:** Mariscotti A.
+135.
+   - **Title:** Determination of the stray capacitance of single layer solenoids
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/IMTC.2011.5944057
+   - **Scopus ID:** 2-s2.0-80051870884
+   - **ISSN:** 10915281
+   - **Pages:** 104-108
+   - **Authors:** Mariscotti A.
+   - **Keywords:** Capacitance measurement | Distributed parameter circuits | Solenoids
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+     2011:
+     - Electrical and Electronic Engineering (Q3, rank 328, percentile 44)
+   - **Source Id:** 15045
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+136.
+   - **Title:** Direct measurement of power quality over railway networks with results of a 16.7-Hz network
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 54
+   - **DOI:** 10.1109/TIM.2010.2089170
+   - **Scopus ID:** 2-s2.0-79953771067
+   - **ISSN:** 00189456
+   - **Volume:** 60
+   - **Issue:** 5
+   - **Pages:** 1604-1612
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Electric variables measurement | guideway transportation power systems | guideway transportation testing | power distribution electromagnetic interference | power quality (PQ) | power system harmonics | power system measurements
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+     2011:
+     - Instrumentation (Q1, rank 14, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 121, percentile 79)
+   - **Source Id:** 15361
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+137.
+   - **Title:** Experimental determination of the propagation of wireless signals on board a cruise ship
+   - **Venue:** Measurement Journal of the International Measurement Confederation
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 21
+   - **DOI:** 10.1016/j.measurement.2011.01.002
+   - **Scopus ID:** 2-s2.0-79952192343
+   - **ISSN:** 02632241
+   - **Volume:** 44
+   - **Issue:** 4
+   - **Pages:** 743-749
+   - **Authors:** Mariscotti A.
+   - **Keywords:** Electromagnetic measurements | Indoor propagation channel | Path loss model | UHF measurements | Wireless propagation
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 15, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 115, percentile 88)
+     2011:
+     - Subject (Q1, rank 169, percentile 78)
+     - Subject (Q2, rank 150, percentile 60)
+     - Subject (Q2, rank 63, percentile 60)
+     - Subject (Q2, rank 187, percentile 51)
+   - **Source Id:** 15424
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+138.
+   - **Title:** Application of statcom and SMES to fast bus transfer
+   - **Venue:** International Journal of Power and Energy Systems
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.2316/Journal.203.2011.1.203-4551
+   - **Scopus ID:** 2-s2.0-79952160355
+   - **ISSN:** 10783466
+   - **Volume:** 31
+   - **Issue:** 1
+   - **Pages:** 31-38
+   - **Authors:** Magro Micaela C.; Mariscotti Andrea; Pinceti Paolo
+   - **Keywords:** Feeder reconfiguration | Industrial power systems | Power system restoration
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q3, rank 446, percentile 33)
+     - Energy Engineering and Power Technology (Q3, rank 217, percentile 33)
+     - Electrical and Electronic Engineering (Q3, rank 679, percentile 32)
+     2011:
+     - Energy Engineering and Power Technology (Q3, rank 98, percentile 37)
+     - Electrical and Electronic Engineering (Q4, rank 465, percentile 21)
+     - Applied Mathematics (Q4, rank 333, percentile 12)
+   - **Source Id:** 26993
+   - **Author Ids:** 6603834120;23091663200;6602414502
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Magro M.C.
+139.
+   - **Title:** Induced voltage calculation in electric traction systems: Simplified methods, screening factors, and accuracy
+   - **Venue:** IEEE Transactions on Intelligent Transportation Systems
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 35
+   - **DOI:** 10.1109/TITS.2010.2076327
+   - **Scopus ID:** 2-s2.0-79952069348
+   - **ISSN:** 15249050
+   - **Volume:** 12
+   - **Issue:** 1
+   - **Pages:** 201-210
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Electromagnetic induction | electromagnetic reactive interference | guideway transportation power systems | power distribution electromagnetic interference
+   - **Quartile:**
+     2025:
+     - Automotive Engineering (Q1, rank 2, percentile 98)
+     - Mechanical Engineering (Q1, rank 15, percentile 98)
+     - Computer Science Applications (Q1, rank 26, percentile 97)
+     2011:
+     - Automotive Engineering (Q1, rank 1, percentile 99)
+     - Mechanical Engineering (Q1, rank 13, percentile 97)
+     - Computer Science Applications (Q1, rank 30, percentile 93)
+   - **Source Id:** 18378
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+140.
+   - **Title:** Pantograph ARC transients occurrence and GSM-R characteristics
+   - **Venue:** 18th Imeko Tc4 Symposium on Measurement of Electrical Quantities 2011 Part of Metrologia 2011
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-84921814622
+   - **Pages:** 39-43
+   - **Authors:** Boschetti Giorgio; Mariscotti Andrea; Deniau Virginie
+   - **Keywords:** GSM-R | Guideway Transportation Systems | Radiated Interference | Spectral analysis
+   - **Source Id:** 21100369090
+   - **Author Ids:** 55582947900;23091663200;24466454100
+   - **Authoraffiliationids:** 60025153;60025153;60104665
+   - **Corresponding:** Boschetti G.
+141.
+   - **Title:** DC railway line voltage Ripple for periodic and aperiodic phenomena
+   - **Venue:** 18th Imeko Tc4 Symposium on Measurement of Electrical Quantities 2011 Part of Metrologia 2011
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-84921804323
+   - **Pages:** 33-38
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Conducted Interference | Guideway Transportation Systems | Power Quality | Spectral analysis | Time domain analysis
+   - **Source Id:** 21100369090
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+142.
+   - **Title:** Measuring the stray capacitance of solenoids with a transmitting and a receiving coil
+   - **Venue:** Metrology and Measurement Systems
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.2478/v10178-011-0005-4
+   - **Scopus ID:** 2-s2.0-79955145964
+   - **ISSN:** 08608229
+   - **Volume:** 18
+   - **Issue:** 1
+   - **Pages:** 47-56
+   - **Authors:** Mariscotti A.
+   - **Keywords:** Capacitance measurement | Linear regression | Resonance condition | Stray capacitance | Uncertainty
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q3, rank 106, percentile 43)
+     - Control and Systems Engineering (Q3, rank 227, percentile 40)
+     2011:
+     - Instrumentation (Q3, rank 48, percentile 47)
+     - Control and Systems Engineering (Q3, rank 106, percentile 43)
+   - **Source Id:** 19200156954
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+143.
+   - **Title:** Statistical evaluation of measured voltage spectra in DC railways
+   - **Venue:** 17th Symposium Imeko Tc4 Measurement of Electrical Quantities 15th International Workshop on ADC Modelling and Testing and 3rd Symposium Imeko Tc19 Environmental Measurements
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **Scopus ID:** 2-s2.0-84872568965
+   - **Pages:** 161-166
+   - **Authors:** Mariscotti Andrea
+   - **Source Id:** 21100227024
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+144.
+   - **Title:** On the characterization of pantograph arc transients on GSM-R antenna
+   - **Venue:** 17th Symposium Imeko Tc4 Measurement of Electrical Quantities 15th International Workshop on ADC Modelling and Testing and 3rd Symposium Imeko Tc19 Environmental Measurements
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **Scopus ID:** 2-s2.0-84872557213
+   - **Pages:** 155-160
+   - **Authors:** Mariscotti Andrea; Deniau Virginie
+   - **Source Id:** 21100227024
+   - **Author Ids:** 23091663200;24466454100
+   - **Authoraffiliationids:** 60025153;60104665
+   - **Corresponding:** Mariscotti A.
+145.
+   - **Title:** On the measurement of the stray capacitance of single layer air solenoids
+   - **Venue:** 17th Symposium Imeko Tc4 Measurement of Electrical Quantities 15th International Workshop on ADC Modelling and Testing and 3rd Symposium Imeko Tc19 Environmental Measurements
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-84872547711
+   - **Pages:** 188-193
+   - **Authors:** Mariscotti Andrea
+   - **Source Id:** 21100227024
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+146.
+   - **Title:** Track compensation with audiofrequency track circuits
+   - **Venue:** International Conference on Electrical Systems for Aircraft Railway and Ship Propulsion Esars 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ESARS.2010.5665255
+   - **Scopus ID:** 2-s2.0-78650956766
+   - **Authors:** Ciurlo S.; Mariscotti A.
+   - **Keywords:** Circuit modeling | Guideway transportation power systems
+   - **Source Id:** 19700183180
+   - **Author Ids:** 55298189700;23091663200
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Ciurlo S.
+147.
+   - **Title:** Modeling the magnetic field emissions from a third rail system
+   - **Venue:** International Conference on Electrical Systems for Aircraft Railway and Ship Propulsion Esars 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ESARS.2010.5665256
+   - **Scopus ID:** 2-s2.0-78650939115
+   - **Authors:** Cintolesi B.; Mariscotti A.; Merlo D.; Mari M.
+   - **Keywords:** Circuit modeling | Guideway transportation power systems | Magnetic field measurement
+   - **Source Id:** 19700183180
+   - **Author Ids:** 36833388600;23091663200;36834118600;57197062911
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60073836
+   - **Corresponding:** Cintolesi B.
+148.
+   - **Title:** Voltage coupled to wayside interconnecting cables
+   - **Venue:** International Conference on Electrical Systems for Aircraft Railway and Ship Propulsion Esars 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ESARS.2010.5665242
+   - **Scopus ID:** 2-s2.0-78650931852
+   - **Authors:** Mariscotti A.
+   - **Keywords:** Electromagnetic reactive interference | Guideway transportation power systems | Power distribution interference
+   - **Source Id:** 19700183180
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+149.
+   - **Title:** Prediction and mitigation of magnetic fields propagated from DC Light Rail Transit Systems
+   - **Venue:** International Conference on Electrical Systems for Aircraft Railway and Ship Propulsion Esars 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ESARS.2010.5665253
+   - **Scopus ID:** 2-s2.0-78650925667
+   - **Authors:** Mariscotti A.; Ogunsola A.
+   - **Keywords:** Guideway transportation power systems | Magnetic field | Multiconductor transmission lines | Power distribution interference
+   - **Source Id:** 19700183180
+   - **Author Ids:** 23091663200;12767103100
+   - **Authoraffiliationids:** 60025153;108363158
+   - **Corresponding:** Mariscotti A.
+150.
+   - **Title:** A low cost capacitive bridge based on voltage drop balance
+   - **Venue:** Measurement Journal of the International Measurement Confederation
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1016/j.measurement.2010.04.007
+   - **Scopus ID:** 2-s2.0-77956057328
+   - **ISSN:** 02632241
+   - **Volume:** 43
+   - **Issue:** 9
+   - **Pages:** 1094-1098
+   - **Authors:** Mariscotti A.
+   - **Keywords:** Capacitance bridge | Capacitance measurement | Electric variables measurement | Uncertainty
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 15, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 115, percentile 88)
+   - **Source Id:** 15424
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+151.
+   - **Title:** On the propagation of wireless signals on board ships
+   - **Venue:** 2010 IEEE International Instrumentation and Measurement Technology Conference I2mtc 2010 Proceedings
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 24
+   - **DOI:** 10.1109/IMTC.2010.5488252
+   - **Scopus ID:** 2-s2.0-77957847702
+   - **Pages:** 1418-1423
+   - **Authors:** Mariscotti Andrea; Sassi Massimiliano; Qualizza Andrea; Lenardon Matteo
+   - **Keywords:** Indoor propagation channel | Path loss model | Wireless propagation
+   - **Source Id:** 19700181234
+   - **Author Ids:** 23091663200;36605086000;36605189400;36604616000
+   - **Authoraffiliationids:** 60025153;60083109;60083109;60083109
+   - **Corresponding:** Mariscotti A.
+152.
+   - **Title:** A calibration setup for AC and DC current sensors
+   - **Venue:** 2010 IEEE International Instrumentation and Measurement Technology Conference I2mtc 2010 Proceedings
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IMTC.2010.5488154
+   - **Scopus ID:** 2-s2.0-77957833093
+   - **Pages:** 1409-1413
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Calibration | Current transformer | Rogowski coil | Sensitivity | Uncertainty
+   - **Source Id:** 19700181234
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+153.
+   - **Title:** Measuring the power quality of railway networks
+   - **Venue:** 2010 IEEE International Instrumentation and Measurement Technology Conference I2mtc 2010 Proceedings
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/IMTC.2010.5488002
+   - **Scopus ID:** 2-s2.0-77957828293
+   - **Pages:** 686-690
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Electric variables measurement | Guideway transportation power systems | Power distribution interference | Power system harmonics | Power system measurements
+   - **Source Id:** 19700181234
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+154.
+   - **Title:** An active analog filter architecture ensuring unity-gain and low sensitivity
+   - **Venue:** Circuits Systems and Signal Processing
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1007/s00034-010-9168-6
+   - **Scopus ID:** 2-s2.0-77954565332
+   - **ISSN:** 0278081X
+   - **eISSN:** 15315878
+   - **Volume:** 29
+   - **Issue:** 4
+   - **Pages:** 745-756
+   - **Authors:** Mariscotti A.
+   - **Keywords:** Active filters | Filter tuning | Operational amplifiers
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 110, percentile 83)
+     - Signal Processing (Q2, rank 62, percentile 68)
+   - **Source Id:** 18780
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+155.
+   - **Title:** Modeling of audiofrequency track circuits for validation, tuning, and conducted interference prediction
+   - **Venue:** IEEE Transactions on Intelligent Transportation Systems
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 44
+   - **DOI:** 10.1109/TITS.2009.2029393
+   - **Scopus ID:** 2-s2.0-77649275329
+   - **ISSN:** 15249050
+   - **Volume:** 11
+   - **Issue:** 1
+   - **Pages:** 52-60
+   - **Authors:** Mariscotti Andrea; Ruscelli Marco; Vanti Maurizio
+   - **Keywords:** Circuit modeling | Guideway transportation power systems
+   - **Quartile:**
+     2025:
+     - Automotive Engineering (Q1, rank 2, percentile 98)
+     - Mechanical Engineering (Q1, rank 15, percentile 98)
+     - Computer Science Applications (Q1, rank 26, percentile 97)
+   - **Source Id:** 18378
+   - **Author Ids:** 23091663200;14028869200;8661387500
+   - **Authoraffiliationids:** 60025153;60073836;60025153
+   - **Corresponding:** Mariscotti A.
+156.
+   - **Title:** Assessment of electromagnetic emissions from synchronous generators and its metrological characterization
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1109/TIM.2009.2024696
+   - **Scopus ID:** 2-s2.0-76149108774
+   - **ISSN:** 00189456
+   - **Volume:** 59
+   - **Issue:** 2
+   - **Pages:** 450-457
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Antenna measurements | Electric field measurement | Electric machines | Electromagnetic compatibility (EMC) | Electromagnetic measurements | Magnetic field measurement
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+157.
+   - **Title:** Design of an emi filter for static converters with off-line simplified measurements
+   - **Venue:** IEEE Eurocon 2009 Eurocon 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/EURCON.2009.5167838
+   - **Scopus ID:** 2-s2.0-70449651985
+   - **Pages:** 1493-1497
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Attenuation | Electromagnetic interference | Passive filters | Power filters | Pulse width modulated power converters
+   - **Source Id:** 19400158497
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+158.
+   - **Title:** A rogowski winding with high voltage immunity
+   - **Venue:** IEEE Eurocon 2009 Eurocon 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/EURCON.2009.5167777
+   - **Scopus ID:** 2-s2.0-70449631327
+   - **Pages:** 1129-1133
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Coils | Current measurement | Electric field effects | High voltage techniques | Insulation
+   - **Source Id:** 19400158497
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+159.
+   - **Title:** A Helmholtz coil for high frequency high field intensity applications
+   - **Venue:** Metrology and Measurement Systems
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-70049095325
+   - **ISSN:** 08608229
+   - **Volume:** 16
+   - **Issue:** 1
+   - **Pages:** 117-127
+   - **Authors:** Cirulo Stefan; Mariscotti Andrea; Vicava Angelo
+   - **Keywords:** Calibration | Helmholtz coils | Magnetic measurements | Stray capacitance | Uncertainty
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q3, rank 106, percentile 43)
+     - Control and Systems Engineering (Q3, rank 227, percentile 40)
+   - **Source Id:** 19200156954
+   - **Author Ids:** 34874731500;23091663200;34876125900
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Cirulo S.
+160.
+   - **Title:** A magnetic field probe with MHz bandwidth and 7-decade dynamic range
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1109/TIM.2009.2015693
+   - **Scopus ID:** 2-s2.0-67949111066
+   - **ISSN:** 00189456
+   - **Volume:** 58
+   - **Issue:** 8
+   - **Pages:** 2643-2652
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Amplifier noise | Loop antennas | Magnetic fields | Magnetic measurements | Magnetic transducers
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+161.
+   - **Title:** Rail current measurement with noninvasive large dynamic probe
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1109/TIM.2009.2014508
+   - **Scopus ID:** 2-s2.0-67349114835
+   - **ISSN:** 00189456
+   - **Volume:** 58
+   - **Issue:** 5
+   - **Pages:** 1610-1616
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Amplifier noise | Magnetic field measurements | Magnetic variable measurement | Rail transportation electronics | Rail transportation power systems | Rail transportation testing | Solenoids
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+162.
+   - **Title:** A Helmholtz coil for high frequency high field intensity applications
+   - **Venue:** 16th Imeko Tc4 Int Symp Exploring New Frontiers of Instrum and Methods for Electrical and Electronic Measurements 13th Tc21 Int Workshop on ADC Modelling and Testing Joint Session Proc
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84883643690
+   - **Pages:** 842-846
+   - **Authors:** Ciurlo S.; Mariscotti A.; Viacava A.
+   - **Source Id:** 21100256104
+   - **Author Ids:** 55298189700;23091663200;57509854500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ciurlo S.
+163.
+   - **Title:** Generating high field intensity for vehicles immunity tests in the HF-VHF range
+   - **Venue:** 16th Imeko Tc4 Int Symp Exploring New Frontiers of Instrum and Methods for Electrical and Electronic Measurements 13th Tc21 Int Workshop on ADC Modelling and Testing Joint Session Proc
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84883617025
+   - **Pages:** 837-841
+   - **Authors:** Mariscotti A.
+   - **Source Id:** 21100256104
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+164.
+   - **Title:** A high impedance voltage buffer for wideband measurements
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IMTC.2008.4547196
+   - **Scopus ID:** 2-s2.0-51349151081
+   - **ISSN:** 10915281
+   - **Pages:** 1065-1068
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Bipolar transistor circuits | Buffer circuits | FET circuits | HF amplifiers | Instrument amplifiers | Voltage measurement
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+165.
+   - **Title:** A Rogowski coil for high voltage applications
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 17
+   - **DOI:** 10.1109/IMTC.2008.4547197
+   - **Scopus ID:** 2-s2.0-51349142588
+   - **ISSN:** 10915281
+   - **Pages:** 1069-1073
+   - **Authors:** Mariscotti Andrea; Vaccaro Luis
+   - **Keywords:** Current measurement | Electric field effects | Insulation | UHV insulation
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 23091663200;21935399500
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mariscotti A.
+166.
+   - **Title:** Suitability of wireless solutions for large bandwidth sensors interconnection
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IMTC.2008.4547023
+   - **Scopus ID:** 2-s2.0-51349118594
+   - **ISSN:** 10915281
+   - **Pages:** 160-164
+   - **Authors:** Codda Matteo; Mariscotti Andrea
+   - **Keywords:** Local area networks | Multisensor systems
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 36185051900;23091663200
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Codda M.
+167.
+   - **Title:** A high performance non invasive rail current sensor
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IMTC.2008.4547071
+   - **Scopus ID:** 2-s2.0-51349095068
+   - **ISSN:** 10915281
+   - **Pages:** 417-420
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Amplifier noise | Loop antennas | Magnetic measurements | Magnetic transducers | Railway transportation systems
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+168.
+   - **Title:** Genetic algorithm approach for the determination of the electrical parameters of railway traction lines
+   - **Venue:** Measurement Journal of the International Measurement Confederation
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1016/j.measurement.2006.07.007
+   - **Scopus ID:** 2-s2.0-84859763848
+   - **ISSN:** 02632241
+   - **Volume:** 41
+   - **Issue:** 2
+   - **Pages:** 169-177
+   - **Authors:** Mariscotti A.; Pozzobon P.
+   - **Keywords:** Capacitance | Conductance | Electric variables measurement | Genetic algorithm | Guideway transportation power systems | Inductance | Resistance
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 15, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 115, percentile 88)
+   - **Source Id:** 15424
+   - **Author Ids:** 23091663200;6601994662
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mariscotti A.
+169.
+   - **Title:** Measurement procedures and uncertainty evaluation for electromagnetic radiated emissions from large-power electrical machinery
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 29
+   - **DOI:** 10.1109/TIM.2007.908351
+   - **Scopus ID:** 2-s2.0-37249077876
+   - **ISSN:** 00189456
+   - **Volume:** 56
+   - **Issue:** 6
+   - **Pages:** 2452-2463
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Antenna measurements | Antennas | Electric fields | Electric machines | Electromagnetic (EM) measurements | Electromagnetic compatibility (EMC) | Magnetic fields | Measurement
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+170.
+   - **Title:** Methods for ripple index evaluation in DC low voltage distribution networks
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 92
+   - **DOI:** 10.1109/imtc.2007.379205
+   - **Scopus ID:** 2-s2.0-34648836358
+   - **ISSN:** 10915281
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Digital filters | Power quality | Spectral analysis | Time domain analysis
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+171.
+   - **Title:** Design of a pulse generator for wideband applications
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/imtc.2007.379248
+   - **Scopus ID:** 2-s2.0-34648827837
+   - **ISSN:** 10915281
+   - **Authors:** Mariscotti Andrea; Vaccaro Luis
+   - **Keywords:** Logic circuits | Microwave circuits | Pulse generation
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 23091663200;21935399500
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mariscotti A.
+172.
+   - **Title:** A large bandwidth and dynamic range magnetic field probe
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/imtc.2007.379167
+   - **Scopus ID:** 2-s2.0-34648822597
+   - **ISSN:** 10915281
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Amplifier noise | Loop antennas | Magnetic measurements | Magnetic transducers
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+173.
+   - **Title:** On Time- and Frequency-domain equivalence for compliant EMI measurements
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/imtc.2007.379171
+   - **Scopus ID:** 2-s2.0-34648822594
+   - **ISSN:** 10915281
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Electromagnetic interference | Spectral analysis | Time domain analysis
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+174.
+   - **Title:** Simplified modeling of 2 × 25-kV AT railway system for the solution of low frequency and large-scale problems
+   - **Venue:** IEEE Transactions on Power Delivery
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 60
+   - **DOI:** 10.1109/TPWRD.2006.883020
+   - **Scopus ID:** 2-s2.0-34147108057
+   - **ISSN:** 08858977
+   - **Volume:** 22
+   - **Issue:** 1
+   - **Pages:** 296-301
+   - **Authors:** Mariscotti Andrea; Pozzobon Paolo; Vanti Maurizio
+   - **Keywords:** Guideway transportation power systems | Load-flow analysis | Power distribution interference | Power system harmonics | Power system stability
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 49, percentile 85)
+   - **Source Id:** 17370
+   - **Author Ids:** 23091663200;6601994662;8661387500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Mariscotti A.
+175.
+   - **Title:** Evaluation and testing of off-the-shelf hall sensors for compliant magnetic field measurement
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/IMTC.2006.235659
+   - **Scopus ID:** 2-s2.0-36049052002
+   - **ISSN:** 10915281
+   - **Pages:** 72-75
+   - **Authors:** Mariscotti A.
+   - **Keywords:** Hall devices | Magnetic measurements | Noise measurements
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+176.
+   - **Title:** EMC testing of Fieldbus interconnected intelligent positioners
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IMTC.2006.237124
+   - **Scopus ID:** 2-s2.0-36048981497
+   - **ISSN:** 10915281
+   - **Pages:** 2171-2174
+   - **Authors:** Magro M. Caserza; Mariscotti A.; Pinceti P.
+   - **Keywords:** Automation | Electromagnetic compatibility
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 6603834120;23091663200;6602414502
+   - **Authoraffiliationids:** 60025153;60000251-60025153;60025153
+   - **Corresponding:** Magro M.C.
+177.
+   - **Title:** Definition of power quality indices for DC low voltage distribution networks
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 49
+   - **DOI:** 10.1109/IMTC.2006.235835
+   - **Scopus ID:** 2-s2.0-36048973860
+   - **ISSN:** 10915281
+   - **Pages:** 1885-1888
+   - **Authors:** Magro M. Caserza; Mariscotti A.; Pinceti P.
+   - **Keywords:** DC power systems | Industrial power system transients | Industrial power systems | Power quality
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 6603834120;23091663200;6602414502
+   - **Authoraffiliationids:** 60025153;60000251-60025153;60025153
+   - **Corresponding:** Magro M.C.
+178.
+   - **Title:** The internal impedance of traction rails for DC railways in the 1-100 kHz frequency range
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 23
+   - **DOI:** 10.1109/TIM.2006.880912
+   - **Scopus ID:** 2-s2.0-33749370541
+   - **ISSN:** 00189456
+   - **Volume:** 55
+   - **Issue:** 5
+   - **Pages:** 1616-1619
+   - **Authors:** Filippone Francesco; Mariscotti Andrea; Pozzobon Paolo
+   - **Keywords:** Electric variables measurement | Electromagnetic interference | Inductance measurement | Rail transportation power systems | Resistance measurement
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 6602887819;23091663200;6601994662
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Filippone F.
+179.
+   - **Title:** Measurement of AT electric railway system currents at power-supply frequency and validation of a multiconductor transmission-line model
+   - **Venue:** IEEE Transactions on Power Delivery
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 77
+   - **DOI:** 10.1109/TPWRD.2006.874109
+   - **Scopus ID:** 2-s2.0-33745596800
+   - **ISSN:** 08858977
+   - **Volume:** 21
+   - **Issue:** 3
+   - **Pages:** 1721-1726
+   - **Authors:** Cella Roberto; Giangaspero Giuseppe; Mariscotti Andrea; Montepagano Angelo; Pozzobon Paolo; Ruscelli Marco; Vanti Maurizio
+   - **Keywords:** Guideway transportation power systems | Power distribution interference | Power system harmonics
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 49, percentile 85)
+   - **Source Id:** 17370
+   - **Author Ids:** 57198257619;14028335900;23091663200;14028728500;6601994662;14028869200;8661387500
+   - **Authoraffiliationids:** 60073836;60073836;60025153;60073836;60025153;60073836;60025153
+   - **Corresponding:** Cella R.
+180.
+   - **Title:** The largest Italian SMES
+   - **Venue:** IEEE Transactions on Applied Superconductivity
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 30
+   - **DOI:** 10.1109/TASC.2005.869677
+   - **Scopus ID:** 2-s2.0-33746659905
+   - **ISSN:** 10518223
+   - **Volume:** 16
+   - **Issue:** 2
+   - **Pages:** 602-607
+   - **Authors:** Ottonello L.; Canepa G.; Albertelli P.; Picco E.; Florio A.; Masciarelli G.; Rossi S.; Martini L.; Pincella C.; Mariscotti A.; Torello E.; Martinolli A.; Mariani M.
+   - **Keywords:** Cryogenics | Quench protection system | Superconducting current leads | Superconducting magnet energy storage (SMES)
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 446, percentile 55)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 176, percentile 43)
+     - Condensed Matter Physics (Q3, rank 258, percentile 42)
+   - **Source Id:** 26026
+   - **Author Ids:** 55684260700;23003381400;41761164300;6601990151;7003310721;14054452700;59641700100;7101858216;57200265388;23091663200;6701506640;14054562600;57206531751
+   - **Authoraffiliationids:** 60073836;60073836;60073836;60073836;60073836;102017941;102017941;60083358;60083358;60025153;60025153;60033292;100954072
+   - **Corresponding:** Ottonello L.
+181.
+   - **Title:** Distribution of the traction return current in AT electric railway systems
+   - **Venue:** IEEE Transactions on Power Delivery
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 64
+   - **DOI:** 10.1109/TPWRD.2005.848721
+   - **Scopus ID:** 2-s2.0-23944496319
+   - **ISSN:** 08858977
+   - **Volume:** 20
+   - **Issue:** 3
+   - **Pages:** 2119-2128
+   - **Authors:** Mariscotti Andrea; Pozzobon Paolo; Vanti Maurizio
+   - **Keywords:** Guideway transportation power systems | Power distribution interference | Power system harmonics
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 49, percentile 85)
+   - **Source Id:** 17370
+   - **Author Ids:** 23091663200;6601994662;8661387500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Mariscotti A.
+182.
+   - **Title:** Experimental results on low rail-to-rail conductance values
+   - **Venue:** IEEE Transactions on Vehicular Technology
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 32
+   - **DOI:** 10.1109/TVT.2005.844667
+   - **Scopus ID:** 2-s2.0-21244433977
+   - **ISSN:** 00189545
+   - **Volume:** 54
+   - **Issue:** 3
+   - **Pages:** 1219-1222
+   - **Authors:** Mariscotti A.; Pozzobon P.
+   - **Keywords:** Conductivity | Electric variables measurement | Guideway transportation power systems
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 63, percentile 93)
+     - Automotive Engineering (Q1, rank 9, percentile 93)
+     - Computer Networks and Communications (Q1, rank 38, percentile 93)
+   - **Source Id:** 17393
+   - **Author Ids:** 23091663200;6601994662
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mariscotti A.
+183.
+   - **Title:** Discussion of "Direct harmonic analysis of the voltage source converter"
+   - **Venue:** IEEE Transactions on Power Delivery
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Note
+   - **Citations:** 0
+   - **DOI:** 10.1109/TPWRD.2004.835421
+   - **Scopus ID:** 2-s2.0-12544257300
+   - **ISSN:** 08858977
+   - **Volume:** 20
+   - **Issue:** 1
+   - **Pages:** 539
+   - **Authors:** Mariscotti A.; Lehn P.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 49, percentile 85)
+   - **Source Id:** 17370
+   - **Author Ids:** 23091663200;7005409109
+   - **Authoraffiliationids:** 60025153;60016849
+   - **Corresponding:** Mariscotti A.
+184.
+   - **Title:** Voltage sag detection based on rectified voltage processing
+   - **Venue:** IEEE Transactions on Power Delivery
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 30
+   - **DOI:** 10.1109/TPWRD.2004.829924
+   - **Scopus ID:** 2-s2.0-7244234213
+   - **ISSN:** 08858977
+   - **Volume:** 19
+   - **Issue:** 4
+   - **Pages:** 1962-1967
+   - **Authors:** Florio Andrea; Mariscotti Andrea; Mazzucchelli Maurizio
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 49, percentile 85)
+   - **Source Id:** 17370
+   - **Author Ids:** 7003310721;23091663200;15623683200
+   - **Authoraffiliationids:** 60073836;60025153;60025153
+   - **Corresponding:** Florio A.
+185.
+   - **Title:** Determination of the electrical parameters of railway traction lines: Calculation, measurement, and reference data
+   - **Venue:** IEEE Transactions on Power Delivery
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 84
+   - **DOI:** 10.1109/TPWRD.2004.835285
+   - **Scopus ID:** 2-s2.0-7244234104
+   - **ISSN:** 08858977
+   - **Volume:** 19
+   - **Issue:** 4
+   - **Pages:** 1538-1546
+   - **Authors:** Mariscotti Andrea; Pozzobon Paolo
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 49, percentile 85)
+   - **Source Id:** 17370
+   - **Author Ids:** 23091663200;6601994662
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mariscotti A.
+186.
+   - **Title:** Resistance and internal inductance of traction rails at power frequency: A survey
+   - **Venue:** IEEE Transactions on Vehicular Technology
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 40
+   - **DOI:** 10.1109/TVT.2004.830968
+   - **Scopus ID:** 2-s2.0-3943067120
+   - **ISSN:** 00189545
+   - **Volume:** 53
+   - **Issue:** 4
+   - **Pages:** 1069-1075
+   - **Authors:** Mariscotti Andrea; Pozzobon Paolo
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 63, percentile 93)
+     - Automotive Engineering (Q1, rank 9, percentile 93)
+     - Computer Networks and Communications (Q1, rank 38, percentile 93)
+   - **Source Id:** 17393
+   - **Author Ids:** 23091663200;6601994662
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mariscotti A.
+187.
+   - **Title:** Recommendations for the calculation of the total disturbing return current from electric traction vehicles
+   - **Venue:** IEEE Transactions on Power Delivery
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 39
+   - **DOI:** 10.1109/TPWRD.2003.822962
+   - **Scopus ID:** 2-s2.0-3242804455
+   - **ISSN:** 08858977
+   - **Volume:** 19
+   - **Issue:** 3
+   - **Pages:** 1190-1197
+   - **Authors:** Hemmer Bernhard; Mariscotti Andrea; Wuergler Dieter
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 49, percentile 85)
+   - **Source Id:** 17370
+   - **Author Ids:** 57217558144;23091663200;6504013712
+   - **Authoraffiliationids:** 60028673;60025153;101918746
+   - **Corresponding:** Hemmer B.
+188.
+   - **Title:** Measurement of the internal impedance of traction rails at audiofrequency
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 29
+   - **DOI:** 10.1109/TIM.2004.827321
+   - **Scopus ID:** 2-s2.0-2942599751
+   - **ISSN:** 00189456
+   - **Volume:** 53
+   - **Issue:** 3
+   - **Pages:** 792-797
+   - **Authors:** Mariscotti Andrea; Pozzobon Paolo
+   - **Keywords:** Electric variables measurement | Frequency measurement | Inductance measurement | Rail transportation power systems | Resistance measurement | Time measurement
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 23091663200;6601994662
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mariscotti A.
+189.
+   - **Title:** Time-domain measurement and spectral analysis of nonstationary low-frequency magnetic-field emissions on board of rolling stock
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 33
+   - **DOI:** 10.1109/TEMC.2004.823607
+   - **Scopus ID:** 2-s2.0-1842474460
+   - **ISSN:** 00189375
+   - **Volume:** 46
+   - **Issue:** 1
+   - **Pages:** 12-23
+   - **Authors:** Bellan Diego; Gaggelli Alessio; Maradei Francescaromana; Mariscotti Andrea; Pignari Sergio A.
+   - **Keywords:** Human exposure to electromagnetic fields | Magnetic-field measurement | Radiated emissions | Railway transportation systems
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+   - **Source Id:** 26051
+   - **Author Ids:** 6701786155;6602645267;57226721394;23091663200;6701834930
+   - **Authoraffiliationids:** 60023256;100785088;60032350;60025153;60023256
+   - **Corresponding:** Bellan D.
+190.
+   - **Title:** Detection of voltage transients to select and trigger control rules of SMES for power quality applications
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IMTC.2004.1351483
+   - **Scopus ID:** 2-s2.0-4644354097
+   - **ISSN:** 10915281
+   - **Volume:** 3
+   - **Pages:** 2010-2014
+   - **Authors:** Magro Micaela Caserza; Mariscotti Andrea; Picco Emanuele; Pinceti Paolo
+   - **Keywords:** Measurament System Data Handling | Power Quality | Signal Detection | Superconducting Magnet Energy Storage | Voltage Measurament
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 6603834120;23091663200;6601990151;6602414502
+   - **Authoraffiliationids:** 60025153;60025153;60073836;60025153
+   - **Corresponding:** Magro M.C.
+191.
+   - **Title:** Low-frequency magnetic field in DC railway substations
+   - **Venue:** IEEE Transactions on Vehicular Technology
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1109/TVT.2003.822334
+   - **Scopus ID:** 2-s2.0-1242263418
+   - **ISSN:** 00189545
+   - **Volume:** 53
+   - **Issue:** 1
+   - **Pages:** 192-198
+   - **Authors:** Mariscotti A.; Pozzobon P.
+   - **Keywords:** Electromagnetic measurements | Guideway transportation power systems | Magnetic fields | Substations
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 63, percentile 93)
+     - Automotive Engineering (Q1, rank 9, percentile 93)
+     - Computer Networks and Communications (Q1, rank 38, percentile 93)
+   - **Source Id:** 17393
+   - **Author Ids:** 23091663200;6601994662
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mariscotti A.
+192.
+   - **Title:** Distribution of the traction return current in AC and DC electric railway systems
+   - **Venue:** IEEE Transactions on Power Delivery
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 95
+   - **DOI:** 10.1109/TPWRD.2003.817786
+   - **Scopus ID:** 2-s2.0-0141917725
+   - **ISSN:** 08858977
+   - **Volume:** 18
+   - **Issue:** 4
+   - **Pages:** 1422-1432
+   - **Authors:** Mariscotti Andrea
+   - **Keywords:** Guideway transportation power systems | Power distribution interference | Power system harmonics
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 49, percentile 85)
+   - **Source Id:** 17370
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 101121194
+   - **Corresponding:** Mariscotti A.
+193.
+   - **Title:** Synthesis of line impedance expressions for railway traction systems
+   - **Venue:** IEEE Transactions on Vehicular Technology
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 54
+   - **DOI:** 10.1109/TVT.2003.808750
+   - **Scopus ID:** 2-s2.0-0038630570
+   - **ISSN:** 00189545
+   - **Volume:** 52
+   - **Issue:** 2
+   - **Pages:** 420-430
+   - **Authors:** Mariscotti Andrea; Pozzobon Paolo
+   - **Keywords:** Guideway transportation power systems | Impedance | Transmission line theory
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 63, percentile 93)
+     - Automotive Engineering (Q1, rank 9, percentile 93)
+     - Computer Networks and Communications (Q1, rank 38, percentile 93)
+   - **Source Id:** 17393
+   - **Author Ids:** 23091663200;6601994662
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mariscotti A.
+194.
+   - **Title:** Proposal of an artificial traction line network for the measurement of locomotive conducted emissions
+   - **Venue:** IEEE International Symposium on Electromagnetic Compatibility
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICSMC2.2003.1429130
+   - **Scopus ID:** 2-s2.0-64749113208
+   - **ISSN:** 10774076
+   - **eISSN:** 21581118
+   - **Volume:** 2
+   - **Pages:** 1188-1191
+   - **Authors:** Mariscotti A.; Pozzobon P.
+   - **Keywords:** Electromagnetic conductive interference | Power system harmonics | Rail transportation power systems
+   - **Source Id:** 17274
+   - **Author Ids:** 23091663200;6601994662
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mariscotti A.
+195.
+   - **Title:** Discussion of "Series expansions for line series impedances considering different specific resistances, magnetic permeabilities, and dielectric permittivities of conductors, air, and ground"
+   - **Venue:** IEEE Transactions on Power Delivery
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Note
+   - **Citations:** 2
+   - **DOI:** 10.1109/TPWRD.2003.817821
+   - **Scopus ID:** 2-s2.0-0141952071
+   - **ISSN:** 08858977
+   - **Volume:** 18
+   - **Issue:** 4
+   - **Pages:** 1592-1593
+   - **Authors:** Mariscotti Andrea; Hofmann Lutz
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 49, percentile 85)
+   - **Source Id:** 17370
+   - **Author Ids:** 23091663200;56537125000
+   - **Authoraffiliationids:** 60025153;60004935
+   - **Corresponding:** Mariscotti A.
+196.
+   - **Title:** Analysis of the DC-link current spectrum in voltage source inverters
+   - **Venue:** IEEE Transactions on Circuits and Systems I Fundamental Theory and Applications
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 47
+   - **DOI:** 10.1109/81.995663
+   - **Scopus ID:** 2-s2.0-0036539448
+   - **ISSN:** 10577122
+   - **Volume:** 49
+   - **Issue:** 4
+   - **Pages:** 484-491
+   - **Authors:** Mariscotti A.
+   - **Keywords:** Intermodulation distortion | Inverters | Pulsewidth modulated inverters | Switching functions
+   - **Source Id:** 26028
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60000251-60025153
+   - **Corresponding:** Mariscotti A.
+197.
+   - **Title:** A multi-criteria algorithm for voltage sag detection
+   - **Venue:** 12th Imeko Tc4 International Symposium Electrical Measurements and Instrumentation
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85073596927
+   - **Pages:** 177-180
+   - **Authors:** Chiumeo Riccardo; Florio Andrea; Mariscotti Andrea; Mazzucchelli Maurizio
+   - **Keywords:** Industrial power system transients | Power conditioning | Signal detection
+   - **Source Id:** 21100932824
+   - **Author Ids:** 24767698900;7003310721;23091663200;15623683200
+   - **Authoraffiliationids:** 60083358;60073836;60025153;60025153
+   - **Corresponding:** Chiumeo R.
+198.
+   - **Title:** Measurement and Analysis of Low-Frequency Magnetic Field Emissions in Rolling Stock
+   - **Venue:** International Symposium on Electromagnetic Compatibility 2002 EMC Europe Sorrento
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.23919/EMC.2002.10880071
+   - **Scopus ID:** 2-s2.0-4644307152
+   - **Pages:** 1201-1204
+   - **Authors:** Bellan B.; Betti P.; Carillo D.; Dramore M.; Drarco M.; De Capua C.; Gaggelli A.; Grandolfo M.; Maradei F.; Mariscotti A.; Pignari S.; Pozzobon P.; Rossi P.; Violi A. G.
+   - **Source Id:** 21101278680
+   - **Author Ids:** 59668471200;58886419200;7801376484;59668504100;59668533500;6701321959;6602645267;7006577497;57226721394;23091663200;6701834930;6601994662;57202031281;59668533600
+   - **Authoraffiliationids:** 60023256;132322224;132322224;60032350;60017293;60017293;132322224;60010062;60032350;60025153;60023256;60025153;60083946;132322224
+   - **Corresponding:** Bellan B.
+199.
+   - **Title:** Procedure for the measurement of the electrical parameters of railway traction lines
+   - **Venue:** 12th Imeko Tc4 International Symposium Electrical Measurements and Instrumentation
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-3242779302
+   - **Pages:** 15-19
+   - **Authors:** Mariscotti A.; Pozzobon P.
+   - **Keywords:** Electric variables measurement | Rail transportation power systems
+   - **Source Id:** 21100932824
+   - **Author Ids:** 23091663200;6601994662
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mariscotti A.
+200.
+   - **Title:** Discussion of "a systematic method for the determination of the parameters of synchronous machines from the results of frequency response tests"
+   - **Venue:** IEEE Transactions on Energy Conversion
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/60.969486
+   - **Scopus ID:** 2-s2.0-0035674580
+   - **ISSN:** 08858969
+   - **Volume:** 16
+   - **Issue:** 4
+   - **Pages:** 385
+   - **Authors:** Mariscotti A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 62, percentile 93)
+     - Energy Engineering and Power Technology (Q1, rank 30, percentile 90)
+   - **Source Id:** 28824
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+201.
+   - **Title:** Electromagnetic emissions from electical rotating machinery
+   - **Venue:** IEEE Transactions on Energy Conversion
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 26
+   - **DOI:** 10.1109/60.911406
+   - **Scopus ID:** 2-s2.0-0035275185
+   - **ISSN:** 08858969
+   - **Volume:** 16
+   - **Issue:** 1
+   - **Pages:** 68-73
+   - **Authors:** Ferrari P.; Mariscotti A.; Motta A.; Pozzobon P.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 62, percentile 93)
+     - Energy Engineering and Power Technology (Q1, rank 30, percentile 90)
+   - **Source Id:** 28824
+   - **Author Ids:** 56209915500;23091663200;23025903700;6601994662
+   - **Authoraffiliationids:** 105228733;105228733;60073836;105228733
+   - **Corresponding:** Ferrari P.
+202.
+   - **Title:** Measurement of the internal impedance of traction rails at 50 Hz
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 29
+   - **DOI:** 10.1109/19.843067
+   - **Scopus ID:** 2-s2.0-0033687509
+   - **ISSN:** 00189456
+   - **Volume:** 49
+   - **Issue:** 2
+   - **Pages:** 294-299
+   - **Authors:** Mariscotti Andrea; Pozzobon Paolo
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 23091663200;6601994662
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Mariscotti A.
+203.
+   - **Title:** Discussion ona “Power Quality Indices for Aperiodic Voltage and Currents”
+   - **Venue:** IEEE Transactions on Power Delivery
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Note
+   - **Citations:** 8
+   - **DOI:** 10.1109/61.891549
+   - **Scopus ID:** 2-s2.0-85008034242
+   - **ISSN:** 08858977
+   - **eISSN:** 19374208
+   - **Volume:** 15
+   - **Issue:** 4
+   - **Pages:** 1333-1334
+   - **Authors:** Mariscotti Andrea
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 49, percentile 85)
+   - **Source Id:** 17370
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 117913534
+   - **Corresponding:** Mariscotti A.
+204.
+   - **Title:** Track and traction line impedance expressions for deterministic and probabilistic voltage distortion analysis
+   - **Venue:** Proceedings of International Conference on Harmonics and Quality of Power Ichqp
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1109/ICHQP.2000.897745
+   - **Scopus ID:** 2-s2.0-0038366890
+   - **ISSN:** 15406008
+   - **eISSN:** 21640610
+   - **Volume:** 2
+   - **Pages:** 589-594
+   - **Authors:** Fracchia M.; Mariscotti A.; Pozzobon P.
+   - **Keywords:** Conductors | Electromagnetic interference | Electronic switching systems | Filters | Frequency | Impedance | Rail transportation | Resonance | Static power converters | Voltage
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q3, rank 354, percentile 35)
+     - Energy Engineering and Power Technology (Q3, rank 213, percentile 34)
+     - Electrical and Electronic Engineering (Q3, rank 654, percentile 34)
+     - Fuel Technology (Q3, rank 92, percentile 32)
+     - Signal Processing (Q3, rank 132, percentile 32)
+   - **Source Id:** 21100228510
+   - **Author Ids:** 7004022170;23091663200;6601994662
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Fracchia M.
+205.
+   - **Title:** Reference curves of the pantograph impedance in DC railway systems
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 28
+   - **DOI:** 10.1109/ISCAS.2000.857155
+   - **Scopus ID:** 2-s2.0-0033720436
+   - **ISSN:** 02714310
+   - **Volume:** 1
+   - **Pages:** I-555-I-558
+   - **Authors:** Ferrari P.; Mariscotti A.; Pozzobon P.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 56209915500;23091663200;6601994662
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ferrari P.
+206.
+   - **Title:** Assessment of H-field levels inside a DC railway substation
+   - **Venue:** IEEE International Symposium on Electromagnetic Compatibility
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0033714030
+   - **ISSN:** 01901494
+   - **Volume:** 1
+   - **Pages:** 175-179
+   - **Authors:** Amendolara A.; Laurenti G.; Mariscotti A.; Pozzobon P.
+   - **Source Id:** 17274
+   - **Author Ids:** 7801308902;58351617900;23091663200;6601994662
+   - **Authoraffiliationids:** 101125136;101125136;101125136;101125136
+   - **Corresponding:** Amendolara A.
+207.
+   - **Title:** Electromagnetic radiated emissions from electrical rotating machinery
+   - **Venue:** IEEE International Electric Machines and Drives Conference Iemdc 1999 Proceedings
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/IEMDC.1999.769202
+   - **Scopus ID:** 2-s2.0-84886839368
+   - **Pages:** 646-648
+   - **Authors:** Ferrari P.; Mariscotti A.; Motta A.; Pozzobon P.
+   - **Source Id:** 21100265060
+   - **Author Ids:** 56209915500;23091663200;23025903700;6601994662
+   - **Authoraffiliationids:** 60025153;60025153;60073836;60025153
+   - **Corresponding:** Ferrari P.
+208.
+   - **Title:** Measurement of the internal impedance of traction rails at 50 Hz
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0032676611
+   - **Volume:** 1
+   - **Pages:** 338-343
+   - **Authors:** Mariscotti A.; Pozzobon P.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 23091663200;6601994662
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mariscotti A.
+209.
+   - **Title:** Integrated modelling of audiofrequency track circuits
+   - **Venue:** IEE Conference Publication
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1049/cp:19990252
+   - **Scopus ID:** 2-s2.0-0032628955
+   - **ISSN:** 05379989
+   - **Issue:** 464
+   - **Pages:** 101-106
+   - **Authors:** D'Addio G.; Ferrari P.; Mariscotti A.; Pozzobon P.
+   - **Source Id:** 34914
+   - **Author Ids:** 6601969294;56209915500;23091663200;6601994662
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** D'Addio G.
+210.
+   - **Title:** On-site immunity test on supervisory control and data acquisition for industrial electrical power system
+   - **Venue:** Computer Standards and Interfaces
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1016/S0920-5489(99)00015-X
+   - **Scopus ID:** 2-s2.0-0005159181
+   - **ISSN:** 09205489
+   - **Volume:** 21
+   - **Issue:** 4
+   - **Pages:** 341-347
+   - **Authors:** Mariscotti A.; Pinceti P.
+   - **Keywords:** Electromagnetic compatibility | Industry applications | Power systems
+   - **Quartile:**
+     2025:
+     - Law (Q1, rank 10, percentile 99)
+     - Hardware and Architecture (Q1, rank 19, percentile 92)
+     - Software (Q1, rank 47, percentile 90)
+     - Computer Science (all) (Q1, rank 25, percentile 89)
+     - Computer Science Applications (Q1, rank 105, percentile 89)
+   - **Source Id:** 24303
+   - **Author Ids:** 23091663200;6602414502
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mariscotti A.
+211.
+   - **Title:** Statistical and probabilistic methods applied to dc traction system supply
+   - **Venue:** Proceedings of the International Conference on Computer Aided Design Manufacture and Operation in the Railway and Other Advanced Mass Transit Systems
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0032273254
+   - **Pages:** 501-510
+   - **Authors:** Bertini S.; Fracchia M.; Garbero M.; Mariscotti A.; Pierrat L.
+   - **Source Id:** 57559
+   - **Author Ids:** 57214011198;7004022170;6505911200;23091663200;57200641749
+   - **Authoraffiliationids:** 101454310;101454310;101454310;101454310;101454310
+   - **Corresponding:** Bertini S.
+212.
+   - **Title:** Statistical Analysis of the Measured Harmonic Disturbances on the Ac Side of a Metrorail Supply System
+   - **Venue:** Proceedings of International Conference on Harmonics and Quality of Power Ichqp
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICHQP.1998.760215
+   - **Scopus ID:** 2-s2.0-84873465228
+   - **ISSN:** 15406008
+   - **eISSN:** 21640610
+   - **Volume:** 2
+   - **Pages:** 1229-1234
+   - **Authors:** Fracchia M.; Mariscotti A.; Morrison R. E.; Pierrat L.
+   - **Keywords:** Data measurement | Metro system | Network harmonics | Statistical analysis
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q3, rank 354, percentile 35)
+     - Energy Engineering and Power Technology (Q3, rank 213, percentile 34)
+     - Electrical and Electronic Engineering (Q3, rank 654, percentile 34)
+     - Fuel Technology (Q3, rank 92, percentile 32)
+     - Signal Processing (Q3, rank 132, percentile 32)
+   - **Source Id:** 21100228510
+   - **Author Ids:** 7004022170;23091663200;7402604431;57200641749
+   - **Authoraffiliationids:** 60025153;60025153;60019578;60010649
+   - **Corresponding:** Fracchia M.
+213.
+   - **Title:** Analysis of the dc link current spectrum in force commutated inverters
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0031618381
+   - **ISSN:** 02714310
+   - **Volume:** 3
+   - **Pages:** 354-357
+   - **Authors:** Mariscotti A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+214.
+   - **Title:** Low frequency conducted disturbances compensation using a hybrid filter system
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-0031383770
+   - **Volume:** 2
+   - **Pages:** 405-410
+   - **Authors:** Mariscotti A.
+   - **Source Id:** 85690
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.
+215.
+   - **Title:** Neural network approach to static converter faults diagnosis
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0029491973
+   - **Volume:** 1
+   - **Pages:** 375-380
+   - **Authors:** Mariscotti A.
+   - **Source Id:** 85690
+   - **Author Ids:** 23091663200
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Mariscotti A.

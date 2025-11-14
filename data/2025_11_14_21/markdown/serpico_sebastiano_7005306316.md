@@ -1,0 +1,6018 @@
+# Serpico Sebastiano
+
+## Overview
+- **Unit:** ICT
+- **Role:** Professore ordinario
+- **Grade:** Prof.Ordinario DPR 232/11 art.2 - t.pieno - cl. 7
+- **SSD:** IINF-03/A (Telecomunicazioni)
+- **Scopus ID:** 7005306316
+- **UNIGE ID:** 053423
+- **Retrieved at:** 2025-11-14T15:18:01.472506
+
+## Contact
+- **Email:** sebastiano.serpico@unige.it
+- **Phone:** +39 010 33 52752
+- **Website:** http://spt.dibe.unige.it/IPRS/serpico.html
+- **Page:** https://rubrica.unige.it/personale/VUZEX1hq
+- **Locations:** Opera Pia - padiglione C (Ex CNR) (ED_161450501), 1° piano, US_161450501.I.022; Campus di Savona - palazzina Delfino (ED_171000105), 1° piano, US_171000105.I.047
+
+## Career
+- PO, 2012-05-01 → 2222-02-02
+
+## Responsibilities
+- **Title:** Presidente
+  - **Unit:** Scuola superiore dell'Università degli Studi di Genova - IANUA
+  - **Period:** 2025-02-23 → 2027-10-31
+
+- **Title:** Componente del Consiglio direttivo
+  - **Unit:** Scuola superiore dell'Università degli Studi di Genova - IANUA
+  - **Period:** 2025-02-23 → 2027-10-31
+
+## Teaching
+### 2025
+- Segnali E Sistemi Per Le Telecomunicazioni (72512), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Seminari 2025-2026 (116528), Isb Lm - Indirizzo Scienze Biomediche
+- Remote Sensing (94666), Lm-26 - Engineering For Natural Risk Management
+- Remote Sensing (94666), Lm-26 - Engineering For Natural Risk Management
+- Machine Learning For Pattern Recognition (104852), Lm-27 - Internet And Multimedia Engineering
+
+### 2024
+- Segnali E Sistemi Per Le Telecomunicazioni (72512), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Machine Learning For Pattern Recognition (104852), Lm-27 - Internet And Multimedia Engineering
+- Seminari 2024-2025 (116528), Sts Pl-In2 - Indirizzo Scienze E Tecnologie Della Sostenibilita'
+- Seminari 2024-2025 (116528), Sts Lm - Indirizzo Scienze E Tecnologie Per La Sostenibilita'
+- Seminari 2024-2025 (116528), Sts Lm - Indirizzo Scienze E Tecnologie Per La Sostenibilita'
+- Remote Sensing Of Natural Disasters (94666), Lm-26 - Engineering For Natural Risk Management
+- Remote Sensing Of Natural Disasters (94666), Lm-26 - Engineering For Natural Risk Management
+- Seminari 2024-2025 (116528), Stsi Pl - Indirizzo Scienze E Tecnologie Per La Societa' Dell'Informazione
+- Seminari 2024-2025 (116528), Sts Pl - Indirizzo Scienze E Tecnologie Della Sostenibilita'
+- Seminari 2024-2025 (116528), Isb Pl6 - Indirizzo Scienze Biomediche Cu
+
+### 2023
+- Segnali E Sistemi Per Le Telecomunicazioni (72512), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Machine Learning For Pattern Recognition (104852), Lm-27 - Internet And Multimedia Engineering
+- Remote Sensing Of Natural Disasters (94666), Lm-26 - Engineering For Natural Risk Management
+- Seminari 2023-2024 (110994), Sts Pl - Indirizzo Scienze E Tecnologie Della Sostenibilita'
+
+### 2022
+- Segnali E Sistemi Per Le Telecomunicazioni (72512), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Machine Learning For Pattern Recognition (104852), Lm-27 - Internet And Multimedia Engineering
+- Seminari 2022-2023 (110994), Isb Pl-In2 - Indirizzo Scienze Biomediche
+- Seminari 2022-2023 (110994), Isb Pl-In2 - Indirizzo Scienze Biomediche
+- Seminari 2022-2023 (110994), Sts Pl-In2 - Indirizzo Scienze E Tecnologie Della Sostenibilita'
+- Seminari 2022-2023 (110994), Sts Pl-In2 - Indirizzo Scienze E Tecnologie Della Sostenibilita'
+- Seminari 2022-2023 (110994), Stsi Pl-In2 - Indirizzo Scienze E Tecnologie Per La Societa' Dell'Informazione
+- Seminari 2022-2023 (110994), Stsi Pl-In2 - Indirizzo Scienze E Tecnologie Per La Societa' Dell'Informazione
+- Seminari 2022-2023 (110994), Iss Pl-In2 - Indirizzo Scienze Sociali
+- Seminari 2022-2023 (110994), Iss Pl-In2 - Indirizzo Scienze Sociali
+- Seminari 2022-2023 (110994), Isupac Pl-In2 - Indirizzo Studi Umanistici E Patrimonio Culturale
+- Seminari 2022-2023 (110994), Isupac Pl-In2 - Indirizzo Studi Umanistici E Patrimonio Culturale
+- Seminari 2022-2023 (110994), Isb Lm - Indirizzo Scienze Biomediche
+- Seminari 2022-2023 (110994), Isb Lm - Indirizzo Scienze Biomediche
+- Seminari 2022-2023 (110994), Sts Lm - Indirizzo Scienze E Tecnologie Per La Sostenibilita'
+- Seminari 2022-2023 (110994), Sts Lm - Indirizzo Scienze E Tecnologie Per La Sostenibilita'
+- Seminari 2022-2023 (110994), Stsi Lm - Indirizzo Scienze E Tecnologie Per La Societa' Dell'Informazione
+- Seminari 2022-2023 (110994), Stsi Lm - Indirizzo Scienze E Tecnologie Per La Societa' Dell'Informazione
+- Seminari 2022-2023 (110994), Iss Lm - Indirizzo Scienze Sociali
+- Seminari 2022-2023 (110994), Iss Lm - Indirizzo Scienze Sociali
+- Seminari 2022-2023 (110994), Isupac Lm - Indirizzo Studi Umanistici E Patrimonio Culturale
+- Seminari 2022-2023 (110994), Isupac Lm - Indirizzo Studi Umanistici E Patrimonio Culturale
+- Remote Sensing Of Natural Disasters (94666), Lm-26 - Engineering For Natural Risk Management
+- Seminari 2022-2023 (110994), Isb Pl - Indirizzo Scienze Biomediche
+- Seminari 2022-2023 (110994), Isb Pl - Indirizzo Scienze Biomediche
+- Seminari 2022-2023 (110994), Isupac Pl - Indirizzo Studi Umanistici E Patrimonio Culturale
+- Seminari 2022-2023 (110994), Isupac Pl - Indirizzo Studi Umanistici E Patrimonio Culturale
+- Seminari 2022-2023 (110994), Iss Pl - Indirizzo Scienze Sociali
+- Seminari 2022-2023 (110994), Iss Pl - Indirizzo Scienze Sociali
+- Seminari 2022-2023 (110994), Stsi Pl - Indirizzo Scienze E Tecnologie Per La Societa' Dell'Informazione
+- Seminari 2022-2023 (110994), Stsi Pl - Indirizzo Scienze E Tecnologie Per La Societa' Dell'Informazione
+- Seminari 2022-2023 (110994), Sts Pl - Indirizzo Scienze E Tecnologie Della Sostenibilita'
+- Seminari 2022-2023 (110994), Sts Pl - Indirizzo Scienze E Tecnologie Della Sostenibilita'
+
+### 2021
+- Segnali E Sistemi Per Le Telecomunicazioni (72512), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Machine Learning For Pattern Recognition (104852), Lm-27 - Internet And Multimedia Engineering
+- Remote Sensing Of Natural Disasters (94666), Lm-26 - Engineering For Natural Risk Management
+
+### 2020
+- Segnali E Sistemi Per Le Telecomunicazioni (72512), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Machine Learning For Pattern Recognition (104852), Lm-27 - Internet And Multimedia Engineering
+- Remote Sensing Of Natural Disasters (94666), Lm-26 - Engineering For Natural Risk Management
+- Prova Finale (105815), Change Management
+- Tirocinio (105776), Change Management
+
+## Scopus Metrics
+- absolute; Docs: 275; Journals: 87; Conferences: 167; Citations: 6634; H-index: 41
+- 15 years (2010-2025); Docs: 114; Journals: 33; Conferences: 72; Citations: 2167; H-index: 20
+- 10 years (2015-2025); Docs: 70; Journals: 21; Conferences: 42; Citations: 1036; H-index: 14
+- 05 years (2020-2025); Docs: 35; Journals: 12; Conferences: 21; Citations: 359; H-index: 8
+
+## Scopus Products
+1.
+   - **Title:** Manifold Learning and Deep Generative Networks for Heterogeneous Change Detection From Hyperspectral and Synthetic Aperture Radar Images
+   - **Venue:** IEEE Geoscience and Remote Sensing Letters
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1109/LGRS.2024.3496567
+   - **Scopus ID:** 2-s2.0-86000373689
+   - **ISSN:** 1545598X
+   - **eISSN:** 15580571
+   - **Volume:** 22
+   - **Authors:** Masari Ignacio; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Deep learning | dimensionality reduction | heterogeneous change detection (CD) | hyperspectral images (HSIs) | image-to-image translation | manifold learning | synthetic aperture radar (SAR)
+   - **Quartile:**
+     2025:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 22, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 90, percentile 91)
+   - **Source Id:** 17259
+   - **Author Ids:** 58736406900;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Masari I.
+2.
+   - **Title:** Probabilistic Fusion Framework Combining CNNs and Graphical Models for Multiresolution Satellite and UAV Image Classification
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2025
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-78166-7_19
+   - **Scopus ID:** 2-s2.0-85211914595
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 15302 Lncs
+   - **Pages:** 287-303
+   - **Authors:** Pastorino Martina; Moser Gabriele; Guerra Fabien; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** deep learning | graphical models | multiresolution imagery | probabilistic fusion | semantic segmentation | UAVs | wildfires
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 57222463026;7101795745;59342817500;7005306316;56211628500
+   - **Authoraffiliationids:** 60025153-60032385;60025153;60102127;60025153;60032385
+   - **Corresponding:** Pastorino M.
+3.
+   - **Title:** Multiresolution Fusion and Classification of Hyperspectral and Panchromatic Remote Sensing Images
+   - **Venue:** Proceedings 2025 IEEE Cvf Winter Conference on Applications of Computer Vision Workshops Wacvw 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/WACVW65960.2025.00062
+   - **Scopus ID:** 2-s2.0-105005026374
+   - **Pages:** 507-516
+   - **Authors:** Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** classification | crf | fcn | hyperspectral imagery | multiresolution fusion
+   - **Source Id:** 21101295029
+   - **Author Ids:** 57222463026;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60110693
+   - **Corresponding:** Pastorino M.
+4.
+   - **Title:** A Deep Learning Architecture for Unsupervised Feature Extraction from Multimission SAR Time Series
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IGARSS53475.2024.10642220
+   - **Scopus ID:** 2-s2.0-85208506096
+   - **Pages:** 8383-8387
+   - **Authors:** Masari Ignacio; Maggiolo Luca; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** deep learning | SAR image time series | unsupervised feature extraction
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2024:
+     - Earth and Planetary Sciences (all) (Q3, rank 124, percentile 37)
+     - Computer Science Applications (Q3, rank 709, percentile 25)
+   - **Source Id:** 82000
+   - **Author Ids:** 58736406900;57207878137;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Masari I.
+5.
+   - **Title:** Remote Sensing Contributions to Water-Related Risk Management within "Return", the Italian National Program on Environmental Risks in the Next Generation EU Framework
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IGARSS53475.2024.10642881
+   - **Scopus ID:** 2-s2.0-85208501960
+   - **Pages:** 3744-3748
+   - **Authors:** Rajabi Roozbeh; Besio Giovanni; Boni Giorgio; Cauteruccio Arianna; Cremonese Edoardo; Gnecco Ilaria; Moser Gabriele; Serpico Sebastiano B.; Trotter Luca
+   - **Keywords:** coastal flooding | drought risk | environmental and climate change | flood risk | Remote sensing
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2024:
+     - Earth and Planetary Sciences (all) (Q3, rank 124, percentile 37)
+     - Computer Science Applications (Q3, rank 709, percentile 25)
+   - **Source Id:** 82000
+   - **Author Ids:** 35424383300;9844111300;7004208139;57216365287;24075493900;8850728400;7101795745;7005306316;57886094900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;112224719;60025153;60025153;60025153;112224719
+   - **Corresponding:** Rajabi R.
+6.
+   - **Title:** A Multiresolution Fusion Framework based on Probabilistic Graphical Modeling for Burnt Zones Mapping from Satellite and UAV Imagery
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IGARSS53475.2024.10641389
+   - **Scopus ID:** 2-s2.0-85204874432
+   - **Pages:** 7919-7923
+   - **Authors:** Pastorino Martina; Moser Gabriele; Guerra Fabien; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** fires | probabilistic fusion | satellite images | Semantic segmentation | UAV
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2024:
+     - Earth and Planetary Sciences (all) (Q3, rank 124, percentile 37)
+     - Computer Science Applications (Q3, rank 709, percentile 25)
+   - **Source Id:** 82000
+   - **Author Ids:** 57222463026;7101795745;59342817500;7005306316;56211628500
+   - **Authoraffiliationids:** 60025153-60032385;60025153;60102127;60025153;60032385
+   - **Corresponding:** Pastorino M.
+7.
+   - **Title:** CRFNet: A Deep Convolutional Network to Learn the Potentials of a CRF for the Semantic Segmentation of Remote Sensing Images
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1109/TGRS.2024.3452631
+   - **Scopus ID:** 2-s2.0-85202774976
+   - **ISSN:** 01962892
+   - **eISSN:** 15580644
+   - **Volume:** 62
+   - **Authors:** Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** Conditional random fields (CRFs) | convolutional neural network (CNN) | fully convolutional network (FCN) | remote sensing | semantic segmentation
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2024:
+     - Earth and Planetary Sciences (all) (Q1, rank 7, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 48, percentile 95)
+   - **Source Id:** 17360
+   - **Author Ids:** 57222463026;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60025153-60032385;60025153;60025153;60032385
+   - **Corresponding:** Pastorino M.
+8.
+   - **Title:** Multimission, Multifrequency, and Multiresolution SAR Image Classification Through Hierarchical Markov Models and Convolutional Networks
+   - **Venue:** IEEE Geoscience and Remote Sensing Letters
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1109/LGRS.2024.3414284
+   - **Scopus ID:** 2-s2.0-85196080332
+   - **ISSN:** 1545598X
+   - **eISSN:** 15580571
+   - **Volume:** 21
+   - **Authors:** Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** Classification | CNN | fully convolutional network (FCN) | Markov random field (MRF) | multifrequency | multimission | multiresolution | probabilistic graphical model (PGM) | synthetic aperture radar (SAR) imagery
+   - **Quartile:**
+     2025:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 22, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 90, percentile 91)
+     2024:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 27, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 129, percentile 86)
+   - **Source Id:** 17259
+   - **Author Ids:** 57222463026;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60025153-60032385;60025153;60025153;60032385
+   - **Corresponding:** Pastorino M.
+9.
+   - **Title:** Heterogeneous change detection with PRISMA and COSMO-SkyMed Second Generation imagery for natural disaster management
+   - **Venue:** Proceedings of the European Conference on Synthetic Aperture Radar Eusar
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-85193961443
+   - **ISSN:** 21974403
+   - **Pages:** 1271-1275
+   - **Authors:** Masari Ignacio; Moser Gabriele; Serpico Sebastiano B.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q3, rank 138, percentile 26)
+     - Signal Processing (Q4, rank 156, percentile 20)
+     2024:
+     - Instrumentation (Q4, rank 135, percentile 22)
+     - Signal Processing (Q4, rank 146, percentile 20)
+   - **Source Id:** 21100814501
+   - **Author Ids:** 58736406900;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Masari I.
+10.
+   - **Title:** Learning CRF potentials through fully convolutional networks for satellite image semantic segmentation
+   - **Venue:** Proceedings 17th International Conference on Signal Image Technology and Internet Based Systems Sitis 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/SITIS61268.2023.00023
+   - **Scopus ID:** 2-s2.0-85190155954
+   - **Pages:** 93-98
+   - **Authors:** Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** CNN | CRF | FCN | satellite images | semantic segmentation
+   - **Source Id:** 21101213846
+   - **Author Ids:** 57222463026;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60025153-60032385;60025153;60025153;60032385
+   - **Corresponding:** Pastorino M.
+11.
+   - **Title:** Contextual Classification of Polarimetric Sar Data Through a Complex-Valued Kernel and Global Energy Minimization
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IGARSS52108.2023.10283464
+   - **Scopus ID:** 2-s2.0-85178329556
+   - **Volume:** 2023-July
+   - **Pages:** 5954-5957
+   - **Authors:** Masari Ignacio; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** complex-valued-kernel | MRF | PolSAR | reproducing kernel Hilbert space (RKHS) | SVM
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2023:
+     - Earth and Planetary Sciences (all) (Q3, rank 131, percentile 33)
+     - Computer Science Applications (Q4, rank 680, percentile 16)
+   - **Source Id:** 82000
+   - **Author Ids:** 58736406900;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Masari I.
+12.
+   - **Title:** Classification of Multimission SAR Images Based on Probabilistic Graphical Models and Convolutional Neural Networks
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IGARSS52108.2023.10283356
+   - **Scopus ID:** 2-s2.0-85177999060
+   - **Volume:** 2023-July
+   - **Pages:** 1420-1423
+   - **Authors:** Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** CNN | FCN | MRF | multimodal SAR imagery | multisensor | PGM | semantic segmentation
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2023:
+     - Earth and Planetary Sciences (all) (Q3, rank 131, percentile 33)
+     - Computer Science Applications (Q4, rank 680, percentile 16)
+   - **Source Id:** 82000
+   - **Author Ids:** 57222463026;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60025153-60032385;60025153;60025153;60032385
+   - **Corresponding:** Pastorino M.
+13.
+   - **Title:** Multimodal Fusion of Mobility Demand Data and Remote Sensing Imagery for Urban Land-Use and Land-Cover Mapping
+   - **Venue:** Remote Sensing
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.3390/rs14143370
+   - **Scopus ID:** 2-s2.0-85136386550
+   - **eISSN:** 20724292
+   - **Volume:** 14
+   - **Issue:** 14
+   - **Authors:** Pastorino Martina; Gallo Federico; Di Febbraro Angela; Moser Gabriele; Sacco Nicola; Serpico Sebastiano B.
+   - **Keywords:** data fusion | Markov random fields | mobility demand | transport zones | urban land-use mapping
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 12, percentile 94)
+     2022:
+     - Earth and Planetary Sciences (all) (Q1, rank 18, percentile 90)
+   - **Source Id:** 86430
+   - **Author Ids:** 57222463026;57219260268;57207860581;7101795745;35615294600;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Pastorino M.
+14.
+   - **Title:** Registration of Multisensor Images through a Conditional Generative Adversarial Network and a Correlation-Type Similarity Measure
+   - **Venue:** Remote Sensing
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.3390/rs14122811
+   - **Scopus ID:** 2-s2.0-85132264566
+   - **eISSN:** 20724292
+   - **Volume:** 14
+   - **Issue:** 12
+   - **Authors:** Maggiolo Luca; Solarna David; Moser Gabriele; Serpico Sebastiano Bruno
+   - **Keywords:** area-based registration | COBYLA | conditional generative adversarial networks (cGANs) | deep learning | image-to-image translation | multisensor image registration | ℓ2 similarity
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 12, percentile 94)
+     2022:
+     - Earth and Planetary Sciences (all) (Q1, rank 18, percentile 90)
+   - **Source Id:** 86430
+   - **Author Ids:** 57207878137;57192703421;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Maggiolo L.
+15.
+   - **Title:** Fully Convolutional And Feedforward Networks For The Semantic Segmentation Of Remotely Sensed Images
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ICIP46576.2022.9897336
+   - **Scopus ID:** 2-s2.0-85146639359
+   - **ISSN:** 15224880
+   - **Pages:** 1876-1880
+   - **Authors:** Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** CNN | FCN | feedforward networks | multiresolution satellite images | semantic segmentation
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 57222463026;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60025153-60032385;60025153;60025153;60032385
+   - **Corresponding:** Pastorino M.
+16.
+   - **Title:** Optical-SAR Decision Fusion with Markov Random Fields for High-Resolution Large-Scale Land Cover Mapping
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/IGARSS46834.2022.9884751
+   - **Scopus ID:** 2-s2.0-85141895368
+   - **Volume:** 2022-July
+   - **Pages:** 5508-5511
+   - **Authors:** Maggiolo Luca; Solarna David; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Consensus Theory | Iterated Conditional Modes | Large-scale Land Cover Mapping | Markov Random Fields | Multisensor Data fusion
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2022:
+     - Earth and Planetary Sciences (all) (Q3, rank 129, percentile 33)
+     - Computer Science Applications (Q4, rank 641, percentile 19)
+   - **Source Id:** 82000
+   - **Author Ids:** 57207878137;57192703421;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Maggiolo L.
+17.
+   - **Title:** A CNN-Transformer Knowledge Distillation for Remote Sensing Scene Classification
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/IGARSS46834.2022.9884099
+   - **Scopus ID:** 2-s2.0-85140393133
+   - **Volume:** 2022-July
+   - **Pages:** 663-666
+   - **Authors:** Nabi Mostaan; Maggiolo Luca; Moser Gabriele; Serpico Sebastiano B.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2022:
+     - Earth and Planetary Sciences (all) (Q3, rank 129, percentile 33)
+     - Computer Science Applications (Q4, rank 641, percentile 19)
+   - **Source Id:** 82000
+   - **Author Ids:** 57938174600;57207878137;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Nabi M.
+18.
+   - **Title:** Semantic Segmentation of SAR Images Through Fully Convolutional Networks and Hierarchical Probabilistic Graphical Models
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IGARSS46834.2022.9883111
+   - **Scopus ID:** 2-s2.0-85140383164
+   - **Volume:** 2022-July
+   - **Pages:** 1047-1050
+   - **Authors:** Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** CNN | FCN | hierarchical Markov models | PGM | SAR imagery | semantic segmentation
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2022:
+     - Earth and Planetary Sciences (all) (Q3, rank 129, percentile 33)
+     - Computer Science Applications (Q4, rank 641, percentile 19)
+   - **Source Id:** 82000
+   - **Author Ids:** 57222463026;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60025153-60032385;60025153;60025153;60032385
+   - **Corresponding:** Pastorino M.
+19.
+   - **Title:** A Tiling-Based Strategy for Large-Scale Multisensor Optical-Sar Image Registration
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/IGARSS46834.2022.9884048
+   - **Scopus ID:** 2-s2.0-85132299799
+   - **Volume:** 2022-July
+   - **Pages:** 127-130
+   - **Authors:** Solarna David; Maggiolo Luca; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Image registration | large scale | multisensor data | optical | synthetic aperture radar (SAR) | tiling
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2022:
+     - Earth and Planetary Sciences (all) (Q3, rank 129, percentile 33)
+     - Computer Science Applications (Q4, rank 641, percentile 19)
+   - **Source Id:** 82000
+   - **Author Ids:** 57192703421;57207878137;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Solarna D.
+20.
+   - **Title:** Semantic Segmentation of Remote-Sensing Images Through Fully Convolutional Neural Networks and Hierarchical Probabilistic Graphical Models
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 39
+   - **DOI:** 10.1109/TGRS.2022.3141996
+   - **Scopus ID:** 2-s2.0-85122849520
+   - **ISSN:** 01962892
+   - **eISSN:** 15580644
+   - **Volume:** 60
+   - **Authors:** Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** Convolutional neural network (CNN) | fully convolutional network (FCN) | hierarchical Markov model | multiscale analysis | probabilistic graphical model (PGM) | remote sensing | semantic segmentation
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2022:
+     - Earth and Planetary Sciences (all) (Q1, rank 8, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 59, percentile 92)
+   - **Source Id:** 17360
+   - **Author Ids:** 57222463026;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60025153-60110693;60025153;60025153;60110693
+   - **Corresponding:** Pastorino M.
+21.
+   - **Title:** A Semisupervised CRF Model for CNN-Based Semantic Segmentation with Sparse Ground Truth
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1109/TGRS.2021.3095832
+   - **Scopus ID:** 2-s2.0-85111563712
+   - **ISSN:** 01962892
+   - **eISSN:** 15580644
+   - **Volume:** 60
+   - **Authors:** Maggiolo Luca; Marcos Diego; Moser Gabriele; Serpico Sebastiano B.; Tuia Devis
+   - **Keywords:** Classification | clustering | conditional random field (CRF) | convolutional neural network (CNN) | semantic labeling | semisupervised learning
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2022:
+     - Earth and Planetary Sciences (all) (Q1, rank 8, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 59, percentile 92)
+   - **Source Id:** 17360
+   - **Author Ids:** 57207878137;57188665642;7101795745;7005306316;15766793800
+   - **Authoraffiliationids:** 60025153;60004156;60025153;60025153;60028186
+   - **Corresponding:** Maggiolo L.
+22.
+   - **Title:** Deep Image Translation with an Affinity-Based Change Prior for Unsupervised Multimodal Change Detection
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 133
+   - **DOI:** 10.1109/TGRS.2021.3056196
+   - **Scopus ID:** 2-s2.0-85100923654
+   - **ISSN:** 01962892
+   - **eISSN:** 15580644
+   - **Volume:** 60
+   - **Authors:** Luppino Luigi Tommaso; Kampffmeyer Michael; Bianchi Filippo Maria; Moser Gabriele; Serpico Sebastiano Bruno; Jenssen Robert; Anfinsen Stian Normann
+   - **Keywords:** Adversarial networks | affinity matrix | deep learning | heterogeneous data | image regression | multimodal image analysis | unsupervised change detection (CD)
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2022:
+     - Earth and Planetary Sciences (all) (Q1, rank 8, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 59, percentile 92)
+   - **Source Id:** 17360
+   - **Author Ids:** 57194513229;57193029170;56008499700;7101795745;7005306316;6602110548;6504079727
+   - **Authoraffiliationids:** 60021255;60021255;60021255-60114851;60025153;60025153;60021255;60021255
+   - **Corresponding:** Luppino L.T.
+23.
+   - **Title:** Hierarchical Markov random fields for high resolution land cover classification of multisensor and multiresolution image time series
+   - **Venue:** Change Detection and Image Time Series Analysis 2 Supervised Methods
+   - **Year:** 2021
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.1002/9781119882299.ch1
+   - **Scopus ID:** 2-s2.0-85147537019
+   - **Pages:** 1-32
+   - **Authors:** Hedhli Ihsen; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** Image classification | Multimission image time series | Multiple spatial resolutions | Remote sensing data fusion | Synthetic Aperture Radar
+   - **Source Id:** 21101133588
+   - **Author Ids:** 56422415400;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60032619;60025153;60025153;60110693
+   - **Corresponding:** Hedhli I.
+24.
+   - **Title:** Evaluating LoRaWAN connectivity in a marine scenario
+   - **Venue:** Journal of Marine Science and Engineering
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.3390/jmse9111218
+   - **Scopus ID:** 2-s2.0-85119626513
+   - **eISSN:** 20771312
+   - **Volume:** 9
+   - **Issue:** 11
+   - **Authors:** Pensieri Sara; Viti Federica; Moser Gabriele; Serpico Sebastiano Bruno; Maggiolo Luca; Pastorino Martina; Solarna David; Cambiaso Andrea; Carraro Carlo; Degano Cristiana; Mainenti Ilaria; Seghezza Silvia; Bozzano Roberto
+   - **Keywords:** Internet of things (IoT) | LoRaWAN | Low power wide area network (LPWAN) | Marine technology
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 29, percentile 75)
+     - Civil and Structural Engineering (Q2, rank 110, percentile 73)
+     - Water Science and Technology (Q2, rank 77, percentile 72)
+     2021:
+     - Ocean Engineering (Q2, rank 42, percentile 57)
+     - Civil and Structural Engineering (Q2, rank 159, percentile 51)
+     - Water Science and Technology (Q3, rank 121, percentile 49)
+   - **Source Id:** 21100830140
+   - **Author Ids:** 35311650600;9270376500;7101795745;7005306316;57207878137;57222463026;57192703421;57349573900;57349709100;6602277633;56422305300;55838166900;6602292250
+   - **Authoraffiliationids:** 60021199;60021199;60025153;60025153;60025153;60025153;60025153;127278704;127279421;101838253;101838253;123796635;60021199
+   - **Corresponding:** Pensieri S.
+25.
+   - **Title:** Monitoring the recovery after 2016 hurricane matthew in haiti via markovian multitemporal region-based modeling
+   - **Venue:** Remote Sensing
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.3390/rs13173509
+   - **Scopus ID:** 2-s2.0-85114556151
+   - **eISSN:** 20724292
+   - **Volume:** 13
+   - **Issue:** 17
+   - **Authors:** De Giorgi Andrea; Solarna David; Moser Gabriele; Tapete Deodato; Cigna Francesca; Boni Giorgio; Rudari Roberto; Serpico Sebastiano Bruno; Pisani Anna Rita; Montuori Antonio; Zoffoli Simona
+   - **Keywords:** Change detection | Disaster management | High-resolution images | Markov random field (MRF) | Multitemporal supervised classification | Recovery monitoring | Region-based classification
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 12, percentile 94)
+     2021:
+     - Earth and Planetary Sciences (all) (Q1, rank 17, percentile 91)
+   - **Source Id:** 86430
+   - **Author Ids:** 56195544300;57192703421;7101795745;55221777800;36720533600;7004208139;6507764404;7005306316;36873916500;36816387400;6506174014
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60031612;60031612;60025153;102075139;60025153;60031612;60031612;60031612
+   - **Corresponding:** De Giorgi A.
+26.
+   - **Title:** Multisensor and multiresolution remote sensing image classification through a causal hierarchical markov framework and decision tree ensembles
+   - **Venue:** Remote Sensing
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 34
+   - **DOI:** 10.3390/rs13050849
+   - **Scopus ID:** 2-s2.0-85102777777
+   - **eISSN:** 20724292
+   - **Volume:** 13
+   - **Issue:** 5
+   - **Pages:** 1-25
+   - **Authors:** Pastorino Martina; Montaldo Alessandro; Fronda Luca; Hedhli Ihsen; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** Causal Markov model | Decision tree ensemble | Hierarchical Markov random field | Markov chain | Markov mesh random field | Multimodal data fusion | Multiresolution and multisensor fusion | Remote sensing | Semantic image segmentation
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 12, percentile 94)
+     2021:
+     - Earth and Planetary Sciences (all) (Q1, rank 17, percentile 91)
+   - **Source Id:** 86430
+   - **Author Ids:** 57222463026;57212479880;57212479749;56422415400;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60025153-60110693;60025153;60025153;60032619;60025153;60025153;60110693
+   - **Corresponding:** Pastorino M.
+27.
+   - **Title:** Road Extraction And Road Width Estimation Via Fusion Of Aerial Optical Imagery, Geospatial Data, And Street-Level Images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/IGARSS47720.2021.9554540
+   - **Scopus ID:** 2-s2.0-85129858991
+   - **Pages:** 2413-2416
+   - **Authors:** Grillo Andrea; Krylov Vladimir A.; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** OpenStreetMap | Optical imagery | Road extraction | Road width estimation | Street-level imagery
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2021:
+     - Earth and Planetary Sciences (all) (Q3, rank 120, percentile 37)
+     - Computer Science Applications (Q3, rank 557, percentile 25)
+   - **Source Id:** 82000
+   - **Author Ids:** 57680047100;57202676994;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025059;60025153;60025153
+   - **Corresponding:** Grillo A.
+28.
+   - **Title:** Hierarchical Probabilistic Graphical Models and Deep Convolutional Neural Networks for Remote Sensing Image Classification
+   - **Venue:** European Signal Processing Conference
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.23919/EUSIPCO54536.2021.9616179
+   - **Scopus ID:** 2-s2.0-85123166099
+   - **ISSN:** 22195491
+   - **Volume:** 2021-August
+   - **Pages:** 1740-1744
+   - **Authors:** Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** CNN | Hierarchical PGM | Multiresolution | Remote sensing | Semantic segmentation
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 109, percentile 44)
+     - Electrical and Electronic Engineering (Q3, rank 573, percentile 42)
+   - **Source Id:** 21100204301
+   - **Author Ids:** 57222463026;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60025153-60110693;60025153;60025153;60110693
+   - **Corresponding:** Pastorino M.
+29.
+   - **Title:** Semantic Segmentation Of Remote Sensing Images Combining Hierarchical Probabilistic Graphical Models And Deep Convolutional Neural Networks
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IGARSS47720.2021.9553253
+   - **Scopus ID:** 2-s2.0-85114557018
+   - **Volume:** 2021-July
+   - **Pages:** 8672-8675
+   - **Authors:** Pastorino Martina; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** CNN | FCN | Hierarchical Markov models | Multiresolution images | PGM | Semantic segmentation
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2021:
+     - Earth and Planetary Sciences (all) (Q3, rank 120, percentile 37)
+     - Computer Science Applications (Q3, rank 557, percentile 25)
+   - **Source Id:** 82000
+   - **Author Ids:** 57222463026;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60025153-60110693;60025153;60025153;60110693
+   - **Corresponding:** Pastorino M.
+30.
+   - **Title:** Experimental Comparison Of Registration Methods For Multisensor Sar-Optical Data
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/IGARSS47720.2021.9553640
+   - **Scopus ID:** 2-s2.0-85114556028
+   - **Volume:** 2021-July
+   - **Pages:** 3022-3025
+   - **Authors:** Pinel-Puysségur Béatrice; Maggiolo Luca; Roux Michel; Gasnier Nicolas; Solarna David; Moser Gabriele; Serpico Sebastiano B.; Tupin Florence
+   - **Keywords:** Multi-modality registration | Optical imagery | SAR
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2021:
+     - Earth and Planetary Sciences (all) (Q3, rank 120, percentile 37)
+     - Computer Science Applications (Q3, rank 557, percentile 25)
+   - **Source Id:** 82000
+   - **Author Ids:** 54409184800;57207878137;55519256500;57197745292;57192703421;7101795745;7005306316;6603939644
+   - **Authoraffiliationids:** 60007816;60025153;60116488;60116488;60025153;60025153;60025153;60116488
+   - **Corresponding:** Pinel-Puysségur B.
+31.
+   - **Title:** Automatic Area-Based Registration of Optical and SAR Images Through Generative Adversarial Networks and a Correlation-Type Metric
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/IGARSS39084.2020.9323235
+   - **Scopus ID:** 2-s2.0-85101981992
+   - **Pages:** 2089-2092
+   - **Authors:** Maggiolo Luca; Solarna David; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** COBYLA | conditional generative adversarial network | Multisensor image registration | \ell^{2} similarity
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2020:
+     - Earth and Planetary Sciences (all) (Q3, rank 122, percentile 34)
+     - Computer Science Applications (Q4, rank 541, percentile 22)
+   - **Source Id:** 82000
+   - **Author Ids:** 57207878137;57192703421;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Maggiolo L.
+32.
+   - **Title:** Change Detection with Heterogeneous Remote Sensing Data: From Semi-Parametric Regression to Deep Learning
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/IGARSS39084.2020.9323831
+   - **Scopus ID:** 2-s2.0-85098557765
+   - **Pages:** 3892-3895
+   - **Authors:** Moser Gabriele; Anfinsen Stian N.; Luppino Luigi T.; Serpico Sebastiano B.
+   - **Keywords:** affinity matrix | deep learning | Heterogeneous change detection | image regression | image-to-image translation | multimodal data fusion
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2020:
+     - Earth and Planetary Sciences (all) (Q3, rank 122, percentile 34)
+     - Computer Science Applications (Q4, rank 541, percentile 22)
+   - **Source Id:** 82000
+   - **Author Ids:** 7101795745;6504079727;57194513229;7005306316
+   - **Authoraffiliationids:** 60025153;60021255;60021255;60025153
+   - **Corresponding:** Moser G.
+33.
+   - **Title:** Unsupervised Heterogeneous Change Detection in Radar Images by Cross-domain Affinity Matching
+   - **Venue:** IEEE National Radar Conference Proceedings
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/RadarConf2043947.2020.9266452
+   - **Scopus ID:** 2-s2.0-85098598919
+   - **ISSN:** 10975659
+   - **Volume:** 2020-September
+   - **Authors:** Anfinsen Stian N.; Luppino Luigi T.; Hansen Mads A.; Moser Gabriele; Serpico Sebastiano B.
+   - **Quartile:**
+     2020:
+     - Electrical and Electronic Engineering (Q4, rank 674, percentile 2)
+   - **Source Id:** 110583
+   - **Author Ids:** 6504079727;57194513229;57203180602;7101795745;7005306316
+   - **Authoraffiliationids:** 60021255;60021255;60021255;60025153;60025153
+   - **Corresponding:** Anfinsen S.N.
+34.
+   - **Title:** Crater Detection and Registration of Planetary Images through Marked Point Processes, Multiscale Decomposition, and Region-Based Analysis
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 19
+   - **DOI:** 10.1109/TGRS.2020.2970908
+   - **Scopus ID:** 2-s2.0-85090404702
+   - **ISSN:** 01962892
+   - **eISSN:** 15580644
+   - **Volume:** 58
+   - **Issue:** 9
+   - **Pages:** 6039-6058
+   - **Authors:** Solarna David; Gotelli Alberto; Le Moigne Jacqueline; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Crater detection | image registration | marked point process (MPP) | multiple birth and cut (MBC) | multiple birth and death (MBD) | region of interest (ROI) | segmentation | wavelets
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2020:
+     - Earth and Planetary Sciences (all) (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 47, percentile 93)
+   - **Source Id:** 17360
+   - **Author Ids:** 57192703421;57191269840;55664867700;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60016296;60025153;60025153
+   - **Corresponding:** Solarna D.
+35.
+   - **Title:** A causal hierarchical markov framework for the classification of multiresolution and multisensor remote sensing images
+   - **Venue:** ISPRS Annals of the Photogrammetry Remote Sensing and Spatial Information Sciences
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.5194/isprs-Annals-V-3-2020-269-2020
+   - **Scopus ID:** 2-s2.0-85090343334
+   - **ISSN:** 21949042
+   - **eISSN:** 21949050
+   - **Volume:** 5
+   - **Issue:** 3
+   - **Pages:** 269-277
+   - **Authors:** Montaldo A.; Fronda L.; Hedhli I.; Moser G.; Serpico S. B.; Zerubia J.
+   - **Keywords:** Causality | Hierarchical Markov random models | Markov chain | Multiresolution and multisensor fusion | Semantic image segmentation.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q3, rank 100, percentile 47)
+     - Earth and Planetary Sciences (miscellaneous) (Q3, rank 101, percentile 46)
+     - Environmental Science (miscellaneous) (Q3, rank 165, percentile 42)
+     2020:
+     - Environmental Science (miscellaneous) (Q2, rank 44, percentile 58)
+     - Earth and Planetary Sciences (miscellaneous) (Q3, rank 59, percentile 44)
+     - Instrumentation (Q3, rank 75, percentile 41)
+   - **Source Id:** 21100830113
+   - **Author Ids:** 57212479880;57212479749;56422415400;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60025153;60025153;60032619;60025153;60025153;60110693
+   - **Corresponding:** Montaldo A.
+36.
+   - **Title:** Causal Markov Mesh Hierarchical Modeling for the Contextual Classification of Multiresolution Satellite Images
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ICIP.2019.8803351
+   - **Scopus ID:** 2-s2.0-85076810666
+   - **ISSN:** 15224880
+   - **Volume:** 2019-September
+   - **Pages:** 2716-2720
+   - **Authors:** Montaldo A.; Fronda L.; Hedhli I.; Moser G.; Serpico S. B.; Zerubia J.
+   - **Keywords:** causality | hierarchical Markov random field | Markov mesh random field | Multiresolution images | semantic image segmentation
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 57212479880;57212479749;56422415400;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60025153;60025153;60032619;60025153;60025153;60032385
+   - **Corresponding:** Montaldo A.
+37.
+   - **Title:** Recovery Monitoring in Haiti after Hurricane Matthew Through Markov Random Fields and A Region-Based Approach
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IGARSS.2019.8899077
+   - **Scopus ID:** 2-s2.0-85077708493
+   - **Pages:** 9357-9360
+   - **Authors:** Giorgi Andrea De; Moser Gabriele; Boni Giorgio; Pisani Anna Rita; Tapete Deodato; Zoffoli Simona; Serpico Sebastiano B.
+   - **Keywords:** Change-detection | disaster management | Markov random field (MRF) | multitemporal supervised classification | recovery monitoring | region- based classification
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2019:
+     - Earth and Planetary Sciences (all) (Q3, rank 120, percentile 36)
+     - Computer Science Applications (Q4, rank 485, percentile 23)
+   - **Source Id:** 82000
+   - **Author Ids:** 57213188902;7101795745;7004208139;36873916500;55221777800;6506174014;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60031612;60031612;60031612;60025153
+   - **Corresponding:** Giorgi A.D.
+38.
+   - **Title:** Joint Classification of Multiresolution and Multisensor Data Using a Multiscale Markov Mesh Model
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IGARSS.2019.8898060
+   - **Scopus ID:** 2-s2.0-85077704562
+   - **Pages:** 2810-2813
+   - **Authors:** Montaldo Alessandro; Fronda Luca; Hedhli Ihsen; Moser Gabriele; Zerubia Josiane; Serpico Sebastiano B.
+   - **Keywords:** hierarchical MRF | Multiresolution and multisensor fusion | symmetric Markov mesh | tree ensemble
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2019:
+     - Earth and Planetary Sciences (all) (Q3, rank 120, percentile 36)
+     - Computer Science Applications (Q4, rank 485, percentile 23)
+   - **Source Id:** 82000
+   - **Author Ids:** 57212479880;57212479749;56422415400;7101795745;56211628500;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60032385;60025153;60032619;60025153
+   - **Corresponding:** Montaldo A.
+39.
+   - **Title:** Multiresolution and Multimodality Sar Data Fusion Based on Markov and Conditional Random Fields for Unsupervised Change Detection
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/IGARSS.2019.8898122
+   - **Scopus ID:** 2-s2.0-85077691276
+   - **Pages:** 29-32
+   - **Authors:** Solarna David; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** conditional random fields (CRF) | Markov random fields (MRF) | multimodality fusion | multiresolution fusion | synthetic aperture radar (SAR)
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2019:
+     - Earth and Planetary Sciences (all) (Q3, rank 120, percentile 36)
+     - Computer Science Applications (Q4, rank 485, percentile 23)
+   - **Source Id:** 82000
+   - **Author Ids:** 57192703421;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Solarna D.
+40.
+   - **Title:** Data-driven techniques for fault diagnosis in power generation plants based on solid oxide fuel cells
+   - **Venue:** Energy Conversion and Management
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 50
+   - **DOI:** 10.1016/j.enconman.2018.10.107
+   - **Scopus ID:** 2-s2.0-85056198581
+   - **ISSN:** 01968904
+   - **Volume:** 180
+   - **Pages:** 281-291
+   - **Authors:** Costamagna Paola; De Giorgi Andrea; Moser Gabriele; Serpico Sebastiano B.; Trucco Andrea
+   - **Keywords:** Data-driven fault diagnosis | Distributed electric generation | Fault detection and isolation | Random forest | Solid oxide fuel cells | Support vector machine
+   - **Quartile:**
+     2025:
+     - Nuclear Energy and Engineering (Q1, rank 2, percentile 98)
+     - Energy Engineering and Power Technology (Q1, rank 12, percentile 96)
+     - Fuel Technology (Q1, rank 7, percentile 95)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 21, percentile 93)
+     2019:
+     - Nuclear Energy and Engineering (Q1, rank 2, percentile 97)
+     - Energy Engineering and Power Technology (Q1, rank 6, percentile 97)
+     - Fuel Technology (Q1, rank 4, percentile 96)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 13, percentile 93)
+   - **Source Id:** 29372
+   - **Author Ids:** 7003269793;56195544300;7101795745;7005306316;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Costamagna P.
+41.
+   - **Title:** A markovian approach to unsupervised change detection with multiresolution and multimodality SAR data
+   - **Venue:** Remote Sensing
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.3390/rs10111671
+   - **Scopus ID:** 2-s2.0-85057086878
+   - **eISSN:** 20724292
+   - **Volume:** 10
+   - **Issue:** 11
+   - **Authors:** Solarna David; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Generalized Gaussian | Gram-Charlier approximation | Graph cuts | Markov random fields (MRF) | Maximum likelihood (ML) estimation | Minimum mean squared error (MMSE) estimation | Multimodality data fusion | Multiresolution data fusion | Synthetic aperture radar (SAR)
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 12, percentile 94)
+     2018:
+     - Earth and Planetary Sciences (all) (Q1, rank 16, percentile 91)
+   - **Source Id:** 86430
+   - **Author Ids:** 57192703421;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Solarna D.
+42.
+   - **Title:** Very high resolution optical image classification using watershed segmentation and a region-based kernel
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/IGARSS.2018.8518526
+   - **Scopus ID:** 2-s2.0-85064230932
+   - **Volume:** 2018-July
+   - **Pages:** 1312-1315
+   - **Authors:** De Giorgi Andrea; Moser Gabriele; Poggi Giovanni; Scarpa Giuseppe; Serpico Sebastiano B.
+   - **Keywords:** Geospatial objectbased image analysis (GEOBIA) | Kernel machines | Region-based classification | Watershed segmentation
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2018:
+     - Earth and Planetary Sciences (all) (Q3, rank 119, percentile 35)
+     - Computer Science Applications (Q4, rank 474, percentile 19)
+   - **Source Id:** 82000
+   - **Author Ids:** 56195544300;7101795745;7005255639;7004081145;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60017293;60017293;60025153
+   - **Corresponding:** De Giorgi A.
+43.
+   - **Title:** New Frontiers in Spectral-Spatial Hyperspectral Image Classification: The Latest Advances Based on Mathematical Morphology, Markov Random Fields, Segmentation, Sparse Representation, and Deep Learning
+   - **Venue:** IEEE Geoscience and Remote Sensing Magazine
+   - **Year:** 2018
+   - **Type:** Trade Journal
+   - **Subtype:** Article
+   - **Citations:** 313
+   - **DOI:** 10.1109/MGRS.2018.2854840
+   - **Scopus ID:** 2-s2.0-85054521559
+   - **ISSN:** 24732397
+   - **eISSN:** 21686831
+   - **Volume:** 6
+   - **Issue:** 3
+   - **Pages:** 10-43
+   - **Authors:** Ghamisi Pedram; Maggiori Emmanuel; Li Shutao; Souza Roberto; Tarabalka Yuliya; Moser Gabriele; De Giorgi Andrea; Fang Leyuan; Chen Yushi; Chi Mingmin; Serpico Sebastiano B.; Benediktsson Jon Atli
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 1, percentile 99)
+     - Instrumentation (Q1, rank 2, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 10, percentile 99)
+     - Computer Science (all) (Q1, rank 3, percentile 98)
+     2018:
+     - Instrumentation (Q1, rank 1, percentile 99)
+     - Computer Science (all) (Q1, rank 4, percentile 98)
+     - Earth and Planetary Sciences (all) (Q1, rank 4, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 31, percentile 95)
+   - **Source Id:** 21100338322
+   - **Author Ids:** 53663404300;56406411100;7409240361;55259204800;24512498300;7101795745;56195544300;36739090900;15059992600;18933613400;7005306316;7004494483
+   - **Authoraffiliationids:** 60000086;60032385;60032356;100367247;60032385;60025153;60025153;60032356;60019616;60009860;60009860;60071113
+   - **Corresponding:** Ghamisi P.
+44.
+   - **Title:** Remote Sensing Data Fusion: Markov Models and Mathematical Morphology for Multisensor, Multiresolution, and Multiscale Image Classification
+   - **Venue:** Signals and Communication Technology
+   - **Year:** 2018
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 12
+   - **DOI:** 10.1007/978-3-319-66330-2_7
+   - **Scopus ID:** 2-s2.0-85054301295
+   - **ISSN:** 18604862
+   - **eISSN:** 18604870
+   - **Pages:** 277-323
+   - **Authors:** Benediktsson Jon A.; Cavallaro Gabriele; Falco Nicola; Hedhli Ihsen; Krylov Vladimir A.; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 420, percentile 23)
+     - Electrical and Electronic Engineering (Q4, rank 766, percentile 23)
+     - Signal Processing (Q4, rank 151, percentile 22)
+     - Control and Systems Engineering (Q4, rank 316, percentile 17)
+     2018:
+     - Electrical and Electronic Engineering (Q4, rank 624, percentile 6)
+     - Computer Networks and Communications (Q4, rank 280, percentile 5)
+     - Control and Systems Engineering (Q4, rank 229, percentile 4)
+     - Signal Processing (Q4, rank 99, percentile 2)
+   - **Source Id:** 21100901476
+   - **Author Ids:** 7004494483;55636444100;36659188900;56422415400;57202676994;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60071113;60071113;60007174;60025153-60110693;60025153-60110693;60025153;60025153;60110693
+   - **Corresponding:** Benediktsson J.A.
+45.
+   - **Title:** Mathematical models and methods for remote sensing image analysis: An introduction
+   - **Venue:** Signals and Communication Technology
+   - **Year:** 2018
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 5
+   - **DOI:** 10.1007/978-3-319-66330-2_1
+   - **Scopus ID:** 2-s2.0-85054090531
+   - **ISSN:** 18604862
+   - **eISSN:** 18604870
+   - **Pages:** 1-36
+   - **Authors:** Moser Gabriele; Zerubia Josiane; Serpico Sebastiano B.; Benediktsson Jon A.
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 420, percentile 23)
+     - Electrical and Electronic Engineering (Q4, rank 766, percentile 23)
+     - Signal Processing (Q4, rank 151, percentile 22)
+     - Control and Systems Engineering (Q4, rank 316, percentile 17)
+     2018:
+     - Electrical and Electronic Engineering (Q4, rank 624, percentile 6)
+     - Computer Networks and Communications (Q4, rank 280, percentile 5)
+     - Control and Systems Engineering (Q4, rank 229, percentile 4)
+     - Signal Processing (Q4, rank 99, percentile 2)
+   - **Source Id:** 21100901476
+   - **Author Ids:** 7101795745;56211628500;7005306316;7004494483
+   - **Authoraffiliationids:** 60025153;60110693;60025153;60071113
+   - **Corresponding:** Moser G.
+46.
+   - **Title:** Planetary crater detection and registration using marked point processes, multiple birth and death algorithms, and region-based analysis
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/IGARSS.2017.8127459
+   - **Scopus ID:** 2-s2.0-85041829035
+   - **Volume:** 2017-July
+   - **Pages:** 2337-2340
+   - **Authors:** Solarna David; Moser Gabriele; Le Moigne Jacqueline; Serpico Sebastiano B.
+   - **Keywords:** Crater Detection | Hausdorff Distance | Image Registration | Marked Point Processes | Region-based Analysis
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2017:
+     - Earth and Planetary Sciences (all) (Q3, rank 115, percentile 37)
+     - Computer Science Applications (Q4, rank 453, percentile 20)
+   - **Source Id:** 82000
+   - **Author Ids:** 57192703421;7101795745;55664867700;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60006337;60025153
+   - **Corresponding:** Solarna D.
+47.
+   - **Title:** Robust change detection from COSMO-SkyMed and RADARSAT-2 multitemporal images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IGARSS.2017.8128186
+   - **Scopus ID:** 2-s2.0-85041827398
+   - **Volume:** 2017-July
+   - **Pages:** 5252-5255
+   - **Authors:** Garzelli Andrea; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Change detection | COSMO-SkyMed | Multifrequency SAR | Multisource data fusion | Multitemporal analysis | RADARSAT-2
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2017:
+     - Earth and Planetary Sciences (all) (Q3, rank 115, percentile 37)
+     - Computer Science Applications (Q4, rank 453, percentile 20)
+   - **Source Id:** 82000
+   - **Author Ids:** 7004594292;7101795745;7005306316
+   - **Authoraffiliationids:** 60002838;60025153;60025153
+   - **Corresponding:** Garzelli A.
+48.
+   - **Title:** Planetary crater detection and registration using marked point processes, graph cut algorithms, and wavelet transforms
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IGARSS.2017.8127457
+   - **Scopus ID:** 2-s2.0-85041806912
+   - **Volume:** 2017-July
+   - **Pages:** 2329-2332
+   - **Authors:** Gotelli Alberto; Le Moigne Jacqueline; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Area-Based Image Registration | Featured-Based Image Registration | Marked Point Processes | Multiple Birth and Cut | Mutual Information | Planetary Images
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2017:
+     - Earth and Planetary Sciences (all) (Q3, rank 115, percentile 37)
+     - Computer Science Applications (Q4, rank 453, percentile 20)
+   - **Source Id:** 82000
+   - **Author Ids:** 57191269840;55664867700;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60006337;60025153;60025153
+   - **Corresponding:** Gotelli A.
+49.
+   - **Title:** Classification of Multisensor and Multiresolution Remote Sensing Images Through Hierarchical Markov Random Fields
+   - **Venue:** IEEE Geoscience and Remote Sensing Letters
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.1109/LGRS.2017.2768398
+   - **Scopus ID:** 2-s2.0-85035754902
+   - **ISSN:** 1545598X
+   - **Volume:** 14
+   - **Issue:** 12
+   - **Pages:** 2448-2452
+   - **Authors:** Hedhli Ihsen; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** Finite mixture models | hierarchical Markov random field (MRF) | marginal posterior mode (MPM) | multifrequency fusion | multiresolution fusion | multisensor fusion | quad-tree
+   - **Quartile:**
+     2025:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 22, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 90, percentile 91)
+     2017:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 3, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 79, percentile 88)
+   - **Source Id:** 17259
+   - **Author Ids:** 56422415400;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60110693-60025153;60025153;60025153;60110693
+   - **Corresponding:** Hedhli I.
+50.
+   - **Title:** Monitoring of green, open and sealed urban space
+   - **Venue:** 2017 Joint Urban Remote Sensing Event Jurse 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/JURSE.2017.7924561
+   - **Scopus ID:** 2-s2.0-85020224250
+   - **Authors:** Jupová K.; Bartaloš T.; Soukup T.; Moser G.; Serpico S. B.; Krylov V.; De Martino M.; Manzke N.; Rochard N.
+   - **Keywords:** EO data classification | ESA Programme: Copernicus | Green and open space | Image analysis | Land Cover and Land Use | Soil sealing | Sustainable Development | Urban
+   - **Source Id:** 21100817600
+   - **Author Ids:** 57194458737;57189685548;36890129300;7101795745;7005306316;57202676994;7102899067;57190172215;57194449588
+   - **Authoraffiliationids:** 100466261;100466261;100466261;60025153;60025153;60025153;60025153;60009731;118612532
+   - **Corresponding:** Jupová K.
+51.
+   - **Title:** Multi-resolution classification of urban areas using hierarchical symmetric Markov mesh models
+   - **Venue:** 2017 Joint Urban Remote Sensing Event Jurse 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/JURSE.2017.7924567
+   - **Scopus ID:** 2-s2.0-85020204673
+   - **Authors:** Hedhli Ihsen; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Source Id:** 21100817600
+   - **Author Ids:** 56422415400;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 112072378;60025153;60025153;60032385
+   - **Corresponding:** Hedhli I.
+52.
+   - **Title:** A clustering approach to heterogeneous change detection
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2017
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 28
+   - **DOI:** 10.1007/978-3-319-59129-2_16
+   - **Scopus ID:** 2-s2.0-85020434401
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 10270 Lncs
+   - **Pages:** 181-192
+   - **Authors:** Luppino Luigi Tommaso; Anfinsen Stian Normann; Moser Gabriele; Jenssen Robert; Bianchi Filippo Maria; Serpico Sebastiano; Mercier Gregoire
+   - **Keywords:** Change detection | Clustering | Domain adaptation | Heterogeneous image sources
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+     2017:
+     - Computer Science (all) (Q2, rank 84, percentile 59)
+     - Theoretical Computer Science (Q3, rank 76, percentile 34)
+   - **Source Id:** 25674
+   - **Author Ids:** 57194513229;6504079727;7101795745;6602110548;56008499700;7005306316;59631024000
+   - **Authoraffiliationids:** 60021255;60021255;60025153;60021255;60021255;60025153;60110235
+   - **Corresponding:** Luppino L.T.
+53.
+   - **Title:** Large urban zone classification on SPOT-5 imagery with convolutional neural networks
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/IGARSS.2016.7729461
+   - **Scopus ID:** 2-s2.0-85007481179
+   - **Volume:** 2016-November
+   - **Pages:** 1796-1799
+   - **Authors:** Krylov Vladimir A.; De Martino Michaela; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** classification | Convolutional neural networks | large urban zones | optical imagery
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2016:
+     - Earth and Planetary Sciences (all) (Q3, rank 118, percentile 32)
+     - Computer Science Applications (Q4, rank 451, percentile 15)
+   - **Source Id:** 82000
+   - **Author Ids:** 57202676994;7102899067;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Krylov V.
+54.
+   - **Title:** Unsupervised change detection on synthetic aperture radar images with generalized gamma distribution
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IGARSS.2016.7729866
+   - **Scopus ID:** 2-s2.0-85007422366
+   - **Volume:** 2016-November
+   - **Pages:** 3350-3353
+   - **Authors:** Crismer Fabrizio; Moser Gabriele; Krylov Vladimir A.; Serpico Sebastiano B.
+   - **Keywords:** consistent estimator | method of log-cumulants | SAR | Unsupervised change detection
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2016:
+     - Earth and Planetary Sciences (all) (Q3, rank 118, percentile 32)
+     - Computer Science Applications (Q4, rank 451, percentile 15)
+   - **Source Id:** 82000
+   - **Author Ids:** 57192699276;7101795745;57202676994;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Crismer F.
+55.
+   - **Title:** Supervised classification of thermal infrared hyperspectral images through Bayesian, Markovian, and region-based approaches
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/IGARSS.2016.7729237
+   - **Scopus ID:** 2-s2.0-85007420674
+   - **Volume:** 2016-November
+   - **Pages:** 937-940
+   - **Authors:** Barisione Francesco; Solarna David; De Giorgi Andrea; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Markov random fields | region-based classification | Thermal infrared hyperspectral
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2016:
+     - Earth and Planetary Sciences (all) (Q3, rank 118, percentile 32)
+     - Computer Science Applications (Q4, rank 451, percentile 15)
+   - **Source Id:** 82000
+   - **Author Ids:** 57192701027;57192703421;56195544300;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Barisione F.
+56.
+   - **Title:** A New Cascade Model for the Hierarchical Joint Classification of Multitemporal and Multiresolution Remote Sensing Data
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 27
+   - **DOI:** 10.1109/TGRS.2016.2580321
+   - **Scopus ID:** 2-s2.0-84983060394
+   - **ISSN:** 01962892
+   - **Volume:** 54
+   - **Issue:** 11
+   - **Pages:** 6333-6348
+   - **Authors:** Hedhli Ihsen; Moser Gabriele; Zerubia Josiane; Serpico Sebastiano Bruno
+   - **Keywords:** Hierarchical multiresolution Markov random fields | multitemporal classification | satellite image time series
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2016:
+     - Earth and Planetary Sciences (all) (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 31, percentile 95)
+   - **Source Id:** 17360
+   - **Author Ids:** 56422415400;7101795745;56211628500;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60032385;60025153
+   - **Corresponding:** Hedhli I.
+57.
+   - **Title:** False Discovery Rate Approach to Unsupervised Image Change Detection
+   - **Venue:** IEEE Transactions on Image Processing
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1109/TIP.2016.2593340
+   - **Scopus ID:** 2-s2.0-84985952139
+   - **ISSN:** 10577149
+   - **Volume:** 25
+   - **Issue:** 10
+   - **Pages:** 4704-4718
+   - **Authors:** Krylov Vladimir A.; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** Change detection | dermatological images | false discovery rate | statistical hypothesis testing | still camera images | synthetic aperture radar images
+   - **Quartile:**
+     2025:
+     - Computer Graphics and Computer-Aided Design (Q1, rank 3, percentile 98)
+     - Software (Q1, rank 15, percentile 97)
+     2016:
+     - Computer Graphics and Computer-Aided Design (Q1, rank 2, percentile 97)
+     - Software (Q1, rank 15, percentile 96)
+   - **Source Id:** 25534
+   - **Author Ids:** 57202676994;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60032385
+   - **Corresponding:** Krylov V.
+58.
+   - **Title:** Multiresolution Supervised Classification of Panchromatic and Multispectral Images by Markov Random Fields and Graph Cuts
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 27
+   - **DOI:** 10.1109/TGRS.2016.2547027
+   - **Scopus ID:** 2-s2.0-84973542324
+   - **ISSN:** 01962892
+   - **Volume:** 54
+   - **Issue:** 9
+   - **Pages:** 5054-5070
+   - **Authors:** Moser Gabriele; De Giorgi Andrea; Serpico Sebastiano Bruno
+   - **Keywords:** Bayesian estimation | expectation-maximization (EM) | graph cuts | Markov random fields (MRF) | Multiresolution image classification
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2016:
+     - Earth and Planetary Sciences (all) (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 31, percentile 95)
+   - **Source Id:** 17360
+   - **Author Ids:** 7101795745;56195544300;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Moser G.
+59.
+   - **Title:** Contextual multi-scale image classification on quadtree
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ICIP.2016.7532578
+   - **Scopus ID:** 2-s2.0-85006747301
+   - **ISSN:** 15224880
+   - **Volume:** 2016-August
+   - **Pages:** 1349-1353
+   - **Authors:** Hedhli Ihsen; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** Causal model | Hierarchical MRF | Markov mesh | MPM | Multi-scale classification
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 56422415400;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60032385-60025153;60025153;60025153;60032385
+   - **Corresponding:** Hedhli I.
+60.
+   - **Title:** Polarimetric SAR change detection with the complex hotelling-lawley trace statistic
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 96
+   - **DOI:** 10.1109/TGRS.2016.2532320
+   - **Scopus ID:** 2-s2.0-84977938213
+   - **ISSN:** 01962892
+   - **Volume:** 54
+   - **Issue:** 7
+   - **Pages:** 3953-3966
+   - **Authors:** Akbari Vahid; Anfinsen Stian N.; Doulgeris Anthony P.; Eltoft Torbjorn; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Change detection | complex Wishart distribution | Fisher-Snedecor (FS) distribution | Hotelling-Lawley trace (HLT) statistic | likelihood ratio test (LRT) statistic | polarimetry | synthetic aperture radar (SAR)
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2016:
+     - Earth and Planetary Sciences (all) (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 31, percentile 95)
+   - **Source Id:** 17360
+   - **Author Ids:** 57073546600;6504079727;23011573300;35585249500;7101795745;7005306316
+   - **Authoraffiliationids:** 60021255;60021255;60021255;60021255;60025153;60025153
+   - **Corresponding:** Akbari V.
+61.
+   - **Title:** Foreword to the Special Issue on the 2015 ieee International Geoscience and Remote Sensing Symposium
+   - **Venue:** IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Editorial
+   - **Citations:** 0
+   - **DOI:** 10.1109/JSTARS.2016.2578098
+   - **Scopus ID:** 2-s2.0-84978237376
+   - **ISSN:** 19391404
+   - **eISSN:** 21511535
+   - **Volume:** 9
+   - **Issue:** 6
+   - **Pages:** 2101-2103
+   - **Authors:** Serpico S. B.; Pascazio V.; Bruzzone L.; Gamba P.
+   - **Quartile:**
+     2025:
+     - Atmospheric Science (Q1, rank 19, percentile 87)
+     - Computers in Earth Sciences (Q1, rank 11, percentile 86)
+     2016:
+     - Computers in Earth Sciences (Q1, rank 6, percentile 82)
+     - Atmospheric Science (Q1, rank 20, percentile 81)
+   - **Source Id:** 17700155033
+   - **Author Ids:** 7005306316;7003486376;7006892410;7007165803
+   - **Authoraffiliationids:** 60025153;60025235;60015986;60015197
+   - **Corresponding:** Serpico S.B.
+62.
+   - **Title:** New hierarchical joint classification method for SAR-optical multiresolution remote sensing data
+   - **Venue:** 2015 23rd European Signal Processing Conference Eusipco 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/EUSIPCO.2015.7362485
+   - **Scopus ID:** 2-s2.0-84963957923
+   - **Pages:** 759-763
+   - **Authors:** Hedhli Ihsen; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** hierarchical Markov random fields | multiresolution remote sensing images | Multisensor | supervised classification
+   - **Source Id:** 21100455902
+   - **Author Ids:** 56422415400;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60013373-60025153;60025153;60025153;60013373
+   - **Corresponding:** Hedhli I.
+63.
+   - **Title:** Kernel-based learning for fault detection and identification in fuel cell systems
+   - **Venue:** Handbook of Pattern Recognition and Computer Vision 5th Edition
+   - **Year:** 2015
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.1142/9789814656535_0024
+   - **Scopus ID:** 2-s2.0-85118050156
+   - **Pages:** 455-472
+   - **Authors:** Moser Gabriele; Costamagna Paola; De Giorgi Andrea; Pellaco Lissy; Trucco Andrea; Serpico Sebastiano B.
+   - **Source Id:** 21101063119
+   - **Author Ids:** 7101795745;7003269793;56195544300;56195782300;7007035725;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Moser G.
+64.
+   - **Title:** New cascade model for hierarchical joint classification of multisensor and multiresolution remote sensing data
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IGARSS.2015.7326075
+   - **Scopus ID:** 2-s2.0-84962549651
+   - **Volume:** 2015-November
+   - **Pages:** 1543-1546
+   - **Authors:** Hedhli Ihsen; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** hierarchical Markov random fields | multiresolution remote sensing images | Multisensor | supervised classification
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2015:
+     - Earth and Planetary Sciences (all) (Q3, rank 103, percentile 40)
+     - Computer Science Applications (Q4, rank 415, percentile 18)
+   - **Source Id:** 82000
+   - **Author Ids:** 56422415400;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60013373-60025153;60025153;60025153;60013373
+   - **Corresponding:** Hedhli I.
+65.
+   - **Title:** An active learning heuristic using spectral and spatial information for MRF-based classification
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IGARSS.2015.7326791
+   - **Scopus ID:** 2-s2.0-84962542079
+   - **Volume:** 2015-November
+   - **Pages:** 4356-4359
+   - **Authors:** Hu Bo; Moser Gabriele; Serpico Sebastiano B.; Li Peijun
+   - **Keywords:** active learning | Image classification | Markov random field | potential parameter estimation | spatial information
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2015:
+     - Earth and Planetary Sciences (all) (Q3, rank 103, percentile 40)
+     - Computer Science Applications (Q4, rank 415, percentile 18)
+   - **Source Id:** 82000
+   - **Author Ids:** 56421029200;7101795745;7005306316;56040925600
+   - **Authoraffiliationids:** 60014966;60025153;60025153;60014966
+   - **Corresponding:** Hu B.
+66.
+   - **Title:** Parameter optimization for Markov random field models for remote sensing image classification through sequential minimal optimization
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/IGARSS.2015.7326279
+   - **Scopus ID:** 2-s2.0-84962541873
+   - **Volume:** 2015-November
+   - **Pages:** 2346-2349
+   - **Authors:** De Giorgi Andrea; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Markov random field | Parameter optimization | sequential minimal optimization
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2015:
+     - Earth and Planetary Sciences (all) (Q3, rank 103, percentile 40)
+     - Computer Science Applications (Q4, rank 415, percentile 18)
+   - **Source Id:** 82000
+   - **Author Ids:** 56195544300;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** De Giorgi A.
+67.
+   - **Title:** Welcome from the general co-chairs
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Editorial
+   - **Citations:** 0
+   - **DOI:** 10.1109/IGARSS.2015.7325678
+   - **Scopus ID:** 2-s2.0-84962509718
+   - **Volume:** 2015-November
+   - **Pages:** xii
+   - **Authors:** Pascazio Vito; Serpico Sebastiano B.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2015:
+     - Earth and Planetary Sciences (all) (Q3, rank 103, percentile 40)
+     - Computer Science Applications (Q4, rank 415, percentile 18)
+   - **Source Id:** 82000
+   - **Author Ids:** 7003486376;7005306316
+   - **Corresponding:** Pascazio V.
+68.
+   - **Title:** The URBIS project: Vacant urban area classification and detection of changes
+   - **Venue:** 2015 Joint Urban Remote Sensing Event Jurse 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/JURSE.2015.7120532
+   - **Scopus ID:** 2-s2.0-84938839306
+   - **Authors:** Moser Gabriele; Krylov Vladimir; De Martino Michaela; Serpico Sebastiano
+   - **Source Id:** 21100403414
+   - **Author Ids:** 7101795745;57202676994;7102899067;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Moser G.
+69.
+   - **Title:** Classification of multispectral remote-sensing images by neural networks
+   - **Venue:** European Signal Processing Conference
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85113849543
+   - **ISSN:** 22195491
+   - **Authors:** Roli F.; Serpico S. B.; Bruzzone L.; Vernazza G.
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 109, percentile 44)
+     - Electrical and Electronic Engineering (Q3, rank 573, percentile 42)
+   - **Source Id:** 21100204301
+   - **Author Ids:** 57194734588;7005306316;7006892410;7005048304
+   - **Authoraffiliationids:** 60032259;60025153;60025153;60032259
+   - **Corresponding:** Roli F.
+70.
+   - **Title:** Estimation of air surface temperature from remote sensing images and pixelwise modeling of the estimation uncertainty through support vector machines
+   - **Venue:** IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1109/JSTARS.2014.2361862
+   - **Scopus ID:** 2-s2.0-84929470782
+   - **ISSN:** 19391404
+   - **eISSN:** 21511535
+   - **Volume:** 8
+   - **Issue:** 1
+   - **Pages:** 332-349
+   - **Authors:** Moser Gabriele; De Martino Michaela; Serpico Sebastiano B.
+   - **Keywords:** Air temperature estimation | Clark's approximation | expectation-maximization | nonstationary parameter estimation | Powell's algorithm | span bound | support vector machine (SVM)
+   - **Quartile:**
+     2025:
+     - Atmospheric Science (Q1, rank 19, percentile 87)
+     - Computers in Earth Sciences (Q1, rank 11, percentile 86)
+     2015:
+     - Atmospheric Science (Q1, rank 17, percentile 83)
+     - Computers in Earth Sciences (Q1, rank 5, percentile 83)
+   - **Source Id:** 17700155033
+   - **Author Ids:** 7101795745;7102899067;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Moser G.
+71.
+   - **Title:** An automated flood detection framework for very high spatial resolution imagery
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/IGARSS.2014.6947607
+   - **Scopus ID:** 2-s2.0-84911452124
+   - **Pages:** 4954-4957
+   - **Authors:** Scarsi Andrea; Emery William J.; Moser Gabriele; Pacifici Fabio; Serpico Sebastiano B.
+   - **Keywords:** flood damage | mean shift | normalized difference index | surface reflectance | Unsupervised change detection
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2014:
+     - Earth and Planetary Sciences (all) (Q3, rank 99, percentile 42)
+     - Computer Science Applications (Q4, rank 398, percentile 20)
+   - **Source Id:** 82000
+   - **Author Ids:** 56422150500;35598959400;7101795745;21934918000;7005306316
+   - **Authoraffiliationids:** 60025153;60000221;60025153;;60025153
+   - **Corresponding:** Scarsi A.
+72.
+   - **Title:** The SEAGOSS project: Monitoring coastal seawater in Italy by remote sensing data
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/IGARSS.2014.6947480
+   - **Scopus ID:** 2-s2.0-84911446521
+   - **Pages:** 4454-4457
+   - **Authors:** De Martino Michaela; Dellepiane Silvana; Gemme Laura; Moser Gabriele; Serpico Sebastiano B.; Toma Matteo; Degano Cristiana; Loiaconi Aldo; Mainenti Ilaria; Cusati Luis Alberto; Pedroncini Andrea
+   - **Keywords:** Coastal monitoring | marine circulation model | oil slicks | satellite data | Support Vector Machines
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2014:
+     - Earth and Planetary Sciences (all) (Q3, rank 99, percentile 42)
+     - Computer Science Applications (Q4, rank 398, percentile 20)
+   - **Source Id:** 82000
+   - **Author Ids:** 7102899067;7004291247;56422411700;7101795745;7005306316;56041324800;6602277633;56422493200;56422305300;56362914400;56363169900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;101838253;101838253;101838253;115905199;115905199
+   - **Corresponding:** De Martino M.
+73.
+   - **Title:** Contextual remote-sensing image classification through support vector machines, Markov random fields and graph cuts
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/IGARSS.2014.6947292
+   - **Scopus ID:** 2-s2.0-84911435752
+   - **Pages:** 3722-3725
+   - **Authors:** De Giorgi Andrea; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** graph cuts | Markov random fields | Support vector machines
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2014:
+     - Earth and Planetary Sciences (all) (Q3, rank 99, percentile 42)
+     - Computer Science Applications (Q4, rank 398, percentile 20)
+   - **Source Id:** 82000
+   - **Author Ids:** 56195544300;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** De Giorgi A.
+74.
+   - **Title:** Fusion of multitemporal and multiresolution remote sensing data and application to natural disasters
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/IGARSS.2014.6946393
+   - **Scopus ID:** 2-s2.0-84911404394
+   - **Pages:** 207-210
+   - **Authors:** Hedhli Ihsen; Moser Gabriele; Zerubia Josiane; Serpico Sebastiano B.
+   - **Keywords:** hierarchical Markov random fields | maximizer of posterior marginals | multiresolution data | Natural disasters | supervised classification
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2014:
+     - Earth and Planetary Sciences (all) (Q3, rank 99, percentile 42)
+     - Computer Science Applications (Q4, rank 398, percentile 20)
+   - **Source Id:** 82000
+   - **Author Ids:** 56422415400;7101795745;56211628500;7005306316
+   - **Authoraffiliationids:** 60032385-60025153;60025153;60032385;60025153
+   - **Corresponding:** Hedhli I.
+75.
+   - **Title:** Air surface temperature estimation from satellite thermal infrared time series and pixelwise modeling of the estimation uncertainty through support vector machines
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IGARSS.2014.6947605
+   - **Scopus ID:** 2-s2.0-84911397610
+   - **Pages:** 4946-4949
+   - **Authors:** Moser Gabriele; De Martino Michaela; Serpico Sebastiano B.
+   - **Keywords:** Air temperature estimation | Clark's approximation | expectation-maximization | nonstationary parameter estimation | span bound | support vector machine
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2014:
+     - Earth and Planetary Sciences (all) (Q3, rank 99, percentile 42)
+     - Computer Science Applications (Q4, rank 398, percentile 20)
+   - **Source Id:** 82000
+   - **Author Ids:** 7101795745;7102899067;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Moser G.
+76.
+   - **Title:** Kernel-based classification in complex-valued feature spaces for polarimetric SAR data
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/IGARSS.2014.6946661
+   - **Scopus ID:** 2-s2.0-84911360893
+   - **Pages:** 1257-1260
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Markov random field (MRF) | Polarimetric SAR | reproducing kernel Hilbert space (RKHS) | support vector machine (SVM)
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2014:
+     - Earth and Planetary Sciences (all) (Q3, rank 99, percentile 42)
+     - Computer Science Applications (Q4, rank 398, percentile 20)
+   - **Source Id:** 82000
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moser G.
+77.
+   - **Title:** New cascade model for hierarchical joint classification of multitemporal, multiresolution and multisensor remote sensing data
+   - **Venue:** 2014 IEEE International Conference on Image Processing Icip 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/ICIP.2014.7026062
+   - **Scopus ID:** 2-s2.0-84949926414
+   - **Pages:** 5247-5251
+   - **Authors:** Hedhli Ihsen; Moser Gabriele; Zerubia Josiane; Serpico Sebastiano B.
+   - **Keywords:** hierarchical multiresolution Markov random fields | Image time series | Multitemporal classification
+   - **Source Id:** 21100395901
+   - **Author Ids:** 56422415400;7101795745;56211628500;7005306316
+   - **Authoraffiliationids:** 60032385-60025153;60025153;60032385;60025153
+   - **Corresponding:** Hedhli I.
+78.
+   - **Title:** IGARSS 2015 in milan-an astounding combination of a vibrant Italian city and the magnificent EXPO [Conference Reports]
+   - **Venue:** IEEE Geoscience and Remote Sensing Magazine
+   - **Year:** 2014
+   - **Type:** Trade Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/MGRS.2014.2365852
+   - **Scopus ID:** 2-s2.0-84921928675
+   - **ISSN:** 24732397
+   - **eISSN:** 21686831
+   - **Volume:** 2
+   - **Issue:** 4
+   - **Pages:** 76-80
+   - **Authors:** Serpico Sebastiano Bruno; Pascazio Vito; Magli Enrico
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 1, percentile 99)
+     - Instrumentation (Q1, rank 2, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 10, percentile 99)
+     - Computer Science (all) (Q1, rank 3, percentile 98)
+     2014:
+     - Earth and Planetary Sciences (all) (Q1, rank 42, percentile 75)
+     - Computer Science (all) (Q2, rank 53, percentile 73)
+     - Electrical and Electronic Engineering (Q2, rank 211, percentile 67)
+     - Instrumentation (Q2, rank 33, percentile 67)
+   - **Source Id:** 21100338322
+   - **Author Ids:** 7005306316;7003486376;7003771643
+   - **Authoraffiliationids:** 60025153;60017293;60012162
+   - **Corresponding:** Serpico S.B.
+79.
+   - **Title:** Supervised classification of multisensor and multiresolution remote sensing images with a hierarchical copula-based approach
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 60
+   - **DOI:** 10.1109/TGRS.2013.2272581
+   - **Scopus ID:** 2-s2.0-84896405772
+   - **ISSN:** 01962892
+   - **Volume:** 52
+   - **Issue:** 6
+   - **Pages:** 3346-3358
+   - **Authors:** Voisin Aurelie; Krylov Vladimir A.; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** Hierarchical Markov random fields (MRFs) | multiresolution data | multisensor remote sensing images | Supervised classification
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2014:
+     - Earth and Planetary Sciences (all) (Q1, rank 3, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 36, percentile 94)
+   - **Source Id:** 17360
+   - **Author Ids:** 36659910500;57202676994;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60032385;60022148;60025153;60025153;60032385
+   - **Corresponding:** Voisin A.
+80.
+   - **Title:** A multiscale contextual approach to change detection in multisensor VHR remote sensing images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IGARSS.2013.6723567
+   - **Scopus ID:** 2-s2.0-84894261858
+   - **Pages:** 3435-3438
+   - **Authors:** Moser Gabriele; De Martino Michaela; Serpico Sebastiano B.
+   - **Keywords:** Graph cuts | Markov random fields | Multiscale segmentation | Multisensor data fusion | Region-based analysis | Unsupervised change detection
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2013:
+     - Earth and Planetary Sciences (all) (Q3, rank 93, percentile 44)
+     - Computer Science Applications (Q4, rank 388, percentile 20)
+   - **Source Id:** 82000
+   - **Author Ids:** 7101795745;7102899067;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Moser G.
+81.
+   - **Title:** Multiresolution SAR data fusion for unsupervised change detection
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/IGARSS.2013.6723003
+   - **Scopus ID:** 2-s2.0-84894251934
+   - **Pages:** 1234-1237
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.; Vernazza Gianni
+   - **Keywords:** generalized Gaussians | graph cuts | iterated conditional expectation | Markov random fields | Multiresolution fusion | unsupervised change detection
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2013:
+     - Earth and Planetary Sciences (all) (Q3, rank 93, percentile 44)
+     - Computer Science Applications (Q4, rank 388, percentile 20)
+   - **Source Id:** 82000
+   - **Author Ids:** 7101795745;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Moser G.
+82.
+   - **Title:** On the method of logarithmic cumulants for parametric probability density function estimation
+   - **Venue:** IEEE Transactions on Image Processing
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 97
+   - **DOI:** 10.1109/TIP.2013.2262285
+   - **Scopus ID:** 2-s2.0-84883337089
+   - **ISSN:** 10577149
+   - **Volume:** 22
+   - **Issue:** 10
+   - **Pages:** 3791-3806
+   - **Authors:** Krylov Vladimir A.; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** generalized gamma distribution | image classification | K-distribution | parameter estimation | Probability density function | strong consistency
+   - **Quartile:**
+     2025:
+     - Computer Graphics and Computer-Aided Design (Q1, rank 3, percentile 98)
+     - Software (Q1, rank 15, percentile 97)
+     2013:
+     - Computer Graphics and Computer-Aided Design (Q1, rank 2, percentile 97)
+     - Software (Q1, rank 14, percentile 96)
+     - Subject (Q1, rank 312, percentile 90)
+   - **Source Id:** 25534
+   - **Author Ids:** 57202676994;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60022148;60025153;60025153;60032385
+   - **Corresponding:** Krylov V.A.
+83.
+   - **Title:** Land-cover mapping by markov modeling of spatial-contextual information in very-high-resolution remote sensing images
+   - **Venue:** Proceedings of the IEEE
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 225
+   - **DOI:** 10.1109/JPROC.2012.2211551
+   - **Scopus ID:** 2-s2.0-84947648698
+   - **ISSN:** 00189219
+   - **Volume:** 101
+   - **Issue:** 3
+   - **Pages:** 631-651
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.; Benediktsson Jón Atli
+   - **Keywords:** Data fusion | land-cover mapping | Markov models | Markov random fields | remote sensing image classification
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 3, percentile 99)
+     - Computer Science (all) (Q1, rank 2, percentile 99)
+     2013:
+     - Electrical and Electronic Engineering (Q1, rank 7, percentile 98)
+   - **Source Id:** 17915
+   - **Author Ids:** 7101795745;7005306316;7004494483
+   - **Authoraffiliationids:** 60025153;60025153;60071113
+   - **Corresponding:** Moser G.
+84.
+   - **Title:** False discovery rate approach to image change detection
+   - **Venue:** 2013 IEEE International Conference on Image Processing Icip 2013 Proceedings
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICIP.2013.6738787
+   - **Scopus ID:** 2-s2.0-84897811359
+   - **Pages:** 3820-3824
+   - **Authors:** Krylov Vladimir A.; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** Change detection | false discovery rate | statistical hypothesis testing | still camera
+   - **Source Id:** 21100293204
+   - **Author Ids:** 57202676994;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60032385-60022148;60025153;60025153;60032385
+   - **Corresponding:** Krylov V.A.
+85.
+   - **Title:** Classification of very high resolution SAR images of urban areas using copulas and texture in a hierarchical Markov random field model
+   - **Venue:** IEEE Geoscience and Remote Sensing Letters
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 67
+   - **DOI:** 10.1109/LGRS.2012.2193869
+   - **Scopus ID:** 2-s2.0-84887622644
+   - **ISSN:** 1545598X
+   - **Volume:** 10
+   - **Issue:** 1
+   - **Pages:** 96-100
+   - **Authors:** Voisin Aurélie; Krylov Vladimir A.; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** Hierarchical Markov random fields (MRFs) | Supervised classification | Synthetic aperture radar (SAR) | Textural features | Urban areas | Wavelets
+   - **Quartile:**
+     2025:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 22, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 90, percentile 91)
+     2013:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 6, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 83)
+   - **Source Id:** 17259
+   - **Author Ids:** 36659910500;57202676994;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60013373;60013373;60025153;60025153;60013373
+   - **Corresponding:** Voisin A.
+86.
+   - **Title:** Combining support vector machines and Markov random fields in an integrated framework for contextual image classification
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 164
+   - **DOI:** 10.1109/TGRS.2012.2211882
+   - **Scopus ID:** 2-s2.0-84885019653
+   - **ISSN:** 01962892
+   - **Volume:** 51
+   - **Issue:** 5
+   - **Pages:** 2734-2752
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Contextual image classification | Ho-Kashyap algorithm | Markov random fields | Powell algorithm | Span bound | Support vector machines (SVMs)
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2013:
+     - Earth and Planetary Sciences (all) (Q1, rank 3, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 34, percentile 94)
+   - **Source Id:** 17360
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moser G.
+87.
+   - **Title:** A textural-contextual model for unsupervised segmentation of multipolarization synthetic aperture radar images
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 46
+   - **DOI:** 10.1109/TGRS.2012.2211367
+   - **Scopus ID:** 2-s2.0-84875698943
+   - **ISSN:** 01962892
+   - **Volume:** 51
+   - **Issue:** 4
+   - **Pages:** 2442-2453
+   - **Authors:** Akbari Vahid; Doulgeris Anthony P.; Moser Gabriele; Eltoft Torbjorn; Anfinsen Stian N.; Serpico Sebastiano B.
+   - **Keywords:** K-Wishart distribution | Markov random field (MRF) | polarimetric synthetic aperture radar (PolSAR) | stochastic expectation maximization (SEM) | unsupervised segmentation
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2013:
+     - Earth and Planetary Sciences (all) (Q1, rank 3, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 34, percentile 94)
+   - **Source Id:** 17360
+   - **Author Ids:** 57073546600;23011573300;7101795745;35585249500;6504079727;7005306316
+   - **Authoraffiliationids:** 60021255;60021255;60025153;60021255;60021255;60025153
+   - **Corresponding:** Akbari V.
+88.
+   - **Title:** Change detection with synthetic aperture radar images by Wilcoxon statistic likelihood ratio test
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/ICIP.2012.6467304
+   - **Scopus ID:** 2-s2.0-84875854142
+   - **ISSN:** 15224880
+   - **Pages:** 2093-2096
+   - **Authors:** Krylov Vladimir A.; Moser Gabriele; Voisin Aurélie; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** Change detection | hypothesis test | likelihood ratio test | synthetic aperture radar | Wilcoxon statistic
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 57202676994;7101795745;36659910500;7005306316;56211628500
+   - **Authoraffiliationids:** 60032385;60025153;60032385;60025153;60032385
+   - **Corresponding:** Krylov V.
+89.
+   - **Title:** Development and validation of multitemporal image analysis methodologies for multirisk monitoring of critical structures and infrastructures
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IGARSS.2012.6352359
+   - **Scopus ID:** 2-s2.0-84873207889
+   - **Pages:** 5506-5509
+   - **Authors:** Serpico Sebastiano B.; Bruzzone Lorenzo; Corsini Giovanni; Emery William J.; Gamba Paolo; Garzelli Andrea; Mercier Gregoire; Zerubia Josiane; Acito Nicola; Aiazzi Bruno; Bovolo Francesca; Dell'Acqua Fabio; De Martino Michaela; Diani Marco; Krylov Vladimir; Lisini Gianni; Marin Carlo; Moser Gabriele; Voisin Aurelie; Zoppetti Claudia
+   - **Keywords:** change detection | data fusion | feature extraction | infrastructures | Multirisk monitoring | urban areas
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2012:
+     - Earth and Planetary Sciences (all) (Q3, rank 91, percentile 44)
+     - Computer Science Applications (Q4, rank 394, percentile 15)
+   - **Source Id:** 82000
+   - **Author Ids:** 7005306316;7006892410;7103074007;35598959400;7007165803;7004594292;59631024000;56211628500;8390872300;7004905120;9943212600;57196114762;7102899067;7003735775;57202676994;6602456693;52663910700;7101795745;36659910500;52664578200
+   - **Authoraffiliationids:** 60025153;60015986;60028868;60000221;60015197;60002838-60002324;60104222;60032385;60028868;60002838-60002324;60015986;60015197;60025153;60028868;60032385;60015197;60015986;60025153;60032385;60002838-60002324
+   - **Corresponding:** Serpico S.B.
+90.
+   - **Title:** Unsupervised change detection with high-resolution SAR images by edge-preserving Markov random fields and graph-cuts
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/IGARSS.2012.6351112
+   - **Scopus ID:** 2-s2.0-84873158680
+   - **Pages:** 1984-1987
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** expectation-maximization | graph cuts | line processes | Markov random fields | method of log-cumulants | Unsupervised change detection
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2012:
+     - Earth and Planetary Sciences (all) (Q3, rank 91, percentile 44)
+     - Computer Science Applications (Q4, rank 394, percentile 15)
+   - **Source Id:** 82000
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moser G.
+91.
+   - **Title:** Extracting information from remote sensing data for applications to flood monitoring and damage evaluation
+   - **Venue:** Proceedings of the 2012 Tyrrhenian Workshop on Advances in Radar and Remote Sensing from Earth Observation to Homeland Security Tywrrs 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/TyWRRS.2012.6381142
+   - **Scopus ID:** 2-s2.0-84872038244
+   - **Pages:** 275-282
+   - **Authors:** Serpico Sebastiano B.; Dellepiane Silvana; Moser Gabriele; Angiati Elena; Boni Giorgio; Rudari Roberto; Candela Laura
+   - **Source Id:** 21100225602
+   - **Author Ids:** 7005306316;7004291247;7101795745;24075443000;7004208139;6507764404;8569203700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;112224719;112224719;60031612
+   - **Corresponding:** Serpico S.B.
+92.
+   - **Title:** Markov random field models for supervised land cover classification from very high resolution multispectral remote sensing images
+   - **Venue:** Proceedings of the 2012 Tyrrhenian Workshop on Advances in Radar and Remote Sensing from Earth Observation to Homeland Security Tywrrs 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/TyWRRS.2012.6381135
+   - **Scopus ID:** 2-s2.0-84872029486
+   - **Pages:** 235-242
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.; Benediktsson Jon Atli
+   - **Source Id:** 21100225602
+   - **Author Ids:** 7101795745;7005306316;7004494483
+   - **Authoraffiliationids:** 60025153;60025153;60071113
+   - **Corresponding:** Moser G.
+93.
+   - **Title:** Classification of multi-sensor remote sensing images using an adaptive hierarchical Markovian model
+   - **Venue:** European Signal Processing Conference
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-84869756266
+   - **ISSN:** 22195491
+   - **Pages:** 2511-2515
+   - **Authors:** Voisin Aurélie; Krylov Vladimir A.; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** copulas | discrete wavelet transform | hierarchical Markov random fields | multi-sensor data | Supervised classification
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 109, percentile 44)
+     - Electrical and Electronic Engineering (Q3, rank 573, percentile 42)
+   - **Source Id:** 21100204301
+   - **Author Ids:** 36659910500;57202676994;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60032385;60032385;60025153;60025153;60032385
+   - **Corresponding:** Voisin A.
+94.
+   - **Title:** Multichannel hierarchical image classification using multivariate copulas
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1117/12.917298
+   - **Scopus ID:** 2-s2.0-84857942719
+   - **ISSN:** 0277786X
+   - **Volume:** 8296
+   - **Authors:** Voisin Aurélie; Krylov Vladimir A.; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** hierarchical Markov random fields | histological images | marginal posterior mode (MPM) | mixture models | multichannel data | multivariate copulas | supervised classification | synthetic aperture radar (SAR) | wavelet transform
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+     2012:
+     - Electrical and Electronic Engineering (Q3, rank 387, percentile 37)
+     - Condensed Matter Physics (Q3, rank 274, percentile 29)
+     - Computer Science Applications (Q3, rank 343, percentile 26)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 143, percentile 25)
+     - Applied Mathematics (Q3, rank 296, percentile 25)
+   - **Source Id:** 40067
+   - **Author Ids:** 36659910500;57202676994;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60032385;60032385;60025153;60025153;60032385
+   - **Corresponding:** Voisin A.
+95.
+   - **Title:** Remote sensing of natural disasters
+   - **Venue:** Proceedings of the IEEE
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 8
+   - **DOI:** 10.1109/JPROC.2012.2205835
+   - **Scopus ID:** 2-s2.0-84867321250
+   - **ISSN:** 00189219
+   - **Volume:** 100
+   - **Issue:** 10
+   - **Pages:** 2794-2797
+   - **Authors:** Chen Kun Shan; Serpico Sebastiano B.; Smith James A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 3, percentile 99)
+     - Computer Science (all) (Q1, rank 2, percentile 99)
+     2012:
+     - Electrical and Electronic Engineering (Q1, rank 3, percentile 99)
+   - **Source Id:** 17915
+   - **Author Ids:** 57137098900;7005306316;57203533765
+   - **Authoraffiliationids:** 60024666;60025153;60006337
+   - **Corresponding:** Chen K.S.
+96.
+   - **Title:** Information extraction from remote sensing images for flood monitoring and damage evaluation
+   - **Venue:** Proceedings of the IEEE
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 66
+   - **DOI:** 10.1109/JPROC.2012.2198030
+   - **Scopus ID:** 2-s2.0-84866550700
+   - **ISSN:** 00189219
+   - **Volume:** 100
+   - **Issue:** 10
+   - **Pages:** 2946-2970
+   - **Authors:** Serpico Sebastiano B.; Dellepiane Silvana; Boni Giorgio; Moser Gabriele; Angiati Elena; Rudari Roberto
+   - **Keywords:** Damage evaluation | flood modeling | flood monitoring | image processing | pattern recognition | rapid mapping | remote sensing
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 3, percentile 99)
+     - Computer Science (all) (Q1, rank 2, percentile 99)
+     2012:
+     - Electrical and Electronic Engineering (Q1, rank 3, percentile 99)
+   - **Source Id:** 17915
+   - **Author Ids:** 7005306316;7004291247;7004208139;7101795745;24075443000;6507764404
+   - **Authoraffiliationids:** 60025153;60025153;60025153-113086164;60025153;60025153;60025153-113086164
+   - **Corresponding:** Serpico S.B.
+97.
+   - **Title:** Automatic extraction of ellipsoidal features for planetary image registration
+   - **Venue:** IEEE Geoscience and Remote Sensing Letters
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 42
+   - **DOI:** 10.1109/LGRS.2011.2161263
+   - **Scopus ID:** 2-s2.0-84655167239
+   - **ISSN:** 1545598X
+   - **Volume:** 9
+   - **Issue:** 1
+   - **Pages:** 95-99
+   - **Authors:** Troglio Giulia; Le Moigne Jacqueline; Benediktsson Jn Atli; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Crater detection | feature extraction | Hough transform | watershed segmentation
+   - **Quartile:**
+     2025:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 22, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 90, percentile 91)
+     2012:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 89, percentile 85)
+   - **Source Id:** 17259
+   - **Author Ids:** 26322168600;55664867700;7004494483;7101795745;7005306316
+   - **Authoraffiliationids:** 60071113-60025153;60006337;60071113;60025153;60071113
+   - **Corresponding:** Troglio G.
+98.
+   - **Title:** Multitemporal region-based classification of high-resolution images by Markov random fields and multiscale segmentation
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/IGARSS.2011.6048908
+   - **Scopus ID:** 2-s2.0-80955172246
+   - **Pages:** 102-105
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** high-resolution images | Markov random fields | multiscale segmentation | Multitemporal image classification | region-based classification
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2011:
+     - Earth and Planetary Sciences (all) (Q3, rank 82, percentile 47)
+     - Computer Science Applications (Q4, rank 377, percentile 16)
+   - **Source Id:** 82000
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moser G.
+99.
+   - **Title:** A K-Wishart Markov random field model for clustering of polarimetric SAR imagery
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/IGARSS.2011.6049317
+   - **Scopus ID:** 2-s2.0-80955151174
+   - **Pages:** 1357-1360
+   - **Authors:** Akbari V.; Moser G.; Doulgeris A. P.; Anfinsen S. N.; Eltoft T.; Serpico S. B.
+   - **Keywords:** expectation-maximization (EM) | K-Wishart | Markov Random Field (MRF) | Polarimetric synthetic aperture radar (PolSAR) | statistical modeling
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2011:
+     - Earth and Planetary Sciences (all) (Q3, rank 82, percentile 47)
+     - Computer Science Applications (Q4, rank 377, percentile 16)
+   - **Source Id:** 82000
+   - **Author Ids:** 57073546600;7101795745;23011573300;6504079727;35585249500;7005306316
+   - **Authoraffiliationids:** 60021255;60025153;60021255;60021255;60021255;60025153
+   - **Corresponding:** Akbari V.
+100.
+   - **Title:** Contextual high-resolution image classification by Markovian data fusion, adaptive texture extraction, and multiscale segmentation
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/IGARSS.2011.6049402
+   - **Scopus ID:** 2-s2.0-80955131974
+   - **Pages:** 1155-1158
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** adaptive texture extraction | High resolution image classification | Markov random fields | multiscale segmentation | multivariate semivariogram.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+     2011:
+     - Earth and Planetary Sciences (all) (Q3, rank 82, percentile 47)
+     - Computer Science Applications (Q4, rank 377, percentile 16)
+   - **Source Id:** 82000
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moser G.
+101.
+   - **Title:** Joint classification of panchromatic and multispectral images by multiresolution fusion through Markov random fields and graph cuts
+   - **Venue:** 17th DSP 2011 International Conference on Digital Signal Processing Proceedings
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/ICDSP.2011.6005014
+   - **Scopus ID:** 2-s2.0-80053149706
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** expectation-maximization | graph cuts | Ho-Kashyap's algorithm | Markov random fields | Multiresolution image classification
+   - **Source Id:** 19900194917
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moser G.
+102.
+   - **Title:** Multiscale unsupervised change detection on optical images by Markov random fields and Wavelets
+   - **Venue:** IEEE Geoscience and Remote Sensing Letters
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 64
+   - **DOI:** 10.1109/LGRS.2010.2102333
+   - **Scopus ID:** 2-s2.0-79959748493
+   - **ISSN:** 1545598X
+   - **Volume:** 8
+   - **Issue:** 4
+   - **Pages:** 725-729
+   - **Authors:** Moser Gabriele; Angiati Elena; Serpico Sebastiano B.
+   - **Keywords:** Besag's algorithm | discrete wavelet transforms | expectationmaximization (EM) | Markov random fields (MRFs) | multiscale change detection | unsupervised change detection
+   - **Quartile:**
+     2025:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 22, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 90, percentile 91)
+     2011:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 4, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 103, percentile 82)
+   - **Source Id:** 17259
+   - **Author Ids:** 7101795745;24075443000;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Moser G.
+103.
+   - **Title:** Supervised high-resolution dual-polarization SAR image classification by finite mixtures and copulas
+   - **Venue:** IEEE Journal on Selected Topics in Signal Processing
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 67
+   - **DOI:** 10.1109/JSTSP.2010.2103925
+   - **Scopus ID:** 2-s2.0-79957440319
+   - **ISSN:** 19324553
+   - **Volume:** 5
+   - **Issue:** 3
+   - **Pages:** 554-566
+   - **Authors:** Krylov Vladimir A.; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** Copula | dictionary-based pdf estimation | Markov random field | polarimetric synthetic aperture radar | probability density function (pdf) | supervised classification
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 1, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 13, percentile 98)
+     2011:
+     - Signal Processing (Q1, rank 1, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 16, percentile 97)
+   - **Source Id:** 5900153311
+   - **Author Ids:** 57202676994;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60007457-60110719;60025153;60025153;60110719
+   - **Corresponding:** Krylov V.
+104.
+   - **Title:** Enhanced dictionary-based SAR amplitude distribution estimation and its validation with very high-resolution data
+   - **Venue:** IEEE Geoscience and Remote Sensing Letters
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 42
+   - **DOI:** 10.1109/LGRS.2010.2053517
+   - **Scopus ID:** 2-s2.0-78650964359
+   - **ISSN:** 1545598X
+   - **Volume:** 8
+   - **Issue:** 1
+   - **Pages:** 148-152
+   - **Authors:** Krylov Vladimir A.; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** Finite mixture models | parametric estimation | probability density function estimation | stochastic expectation maximization (SEM) | synthetic aperture radar (SAR) images
+   - **Quartile:**
+     2025:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 22, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 90, percentile 91)
+     2011:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 4, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 103, percentile 82)
+   - **Source Id:** 17259
+   - **Author Ids:** 57202676994;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60007457;60025153;60025153;60110719
+   - **Corresponding:** Krylov V.
+105.
+   - **Title:** Classification of very high resolution SAR images of urban areas by dictionary-based mixture models, copulas and Markov random fields using textural features
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1117/12.865023
+   - **Scopus ID:** 2-s2.0-78649752714
+   - **ISSN:** 0277786X
+   - **Volume:** 7830
+   - **Authors:** Voisin Aurélie; Moser Gabriele; Krylov Vladimir A.; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** Copulas | Markov Random Fields | Supervised classi.cation | Synthetic Aperture Radar (SAR) | Textural features | Urban areas
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 36659910500;7101795745;57202676994;7005306316;56211628500
+   - **Authoraffiliationids:** 60032385;60025153;60032385-60007457;60025153;60032385
+   - **Corresponding:** Voisin A.
+106.
+   - **Title:** Multichannel SAR image classification by finite mixtures, copula theory and Markov random fields
+   - **Venue:** Aip Conference Proceedings
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1063/1.3573633
+   - **Scopus ID:** 2-s2.0-79954566783
+   - **ISSN:** 0094243X
+   - **eISSN:** 15517616
+   - **Volume:** 1305
+   - **Pages:** 319-326
+   - **Authors:** Krylov Vladimir A.; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** amplitude | classification | copula | dictionary | Markov random field | multichannel SAR | probability density function estimation
+   - **Quartile:**
+     2025:
+     - Physics and Astronomy (all) (Q4, rank 221, percentile 11)
+   - **Source Id:** 26916
+   - **Author Ids:** 57202676994;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60007457-60032385;60025153;60025153;60032385
+   - **Corresponding:** Krylov V.A.
+107.
+   - **Title:** A Markovian generalization of support vector machines for contextual supervised classification of hyperspectral images
+   - **Venue:** 2nd Workshop on Hyperspectral Image and Signal Processing Evolution in Remote Sensing Whispers 2010 Workshop Program
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/WHISPERS.2010.5594967
+   - **Scopus ID:** 2-s2.0-78649295409
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Band extraction | Hyperspectral image classification | Markov random fields | Support vector machines
+   - **Source Id:** 19700182426
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moser G.
+108.
+   - **Title:** High resolution SAR-image classification by Markov random fields and finite mixtures
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1117/12.838594
+   - **Scopus ID:** 2-s2.0-77952035665
+   - **ISSN:** 0277786X
+   - **Volume:** 7533
+   - **Authors:** Moser Gabriele; Krylov Vladimir; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** Amplitude probability density | Copula | Dictionary | Markov random field | SAR image classification | Stochastic expectation maximization
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7101795745;57202676994;7005306316;56211628500
+   - **Authoraffiliationids:** 60025153;60007457-60032385;60025153;60032385
+   - **Corresponding:** Moser G.
+109.
+   - **Title:** Assimilation of SVM-based estimates of land surface temperature for the retrieval of surface energy balance components
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IGARSS.2010.5654392
+   - **Scopus ID:** 2-s2.0-78650917927
+   - **Pages:** 3668-3671
+   - **Authors:** Boni Giorgio; Martina Federica; Moser Gabriele; Serpico Sebastiano B.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7004208139;57521609300;7101795745;7005306316
+   - **Authoraffiliationids:** 126813332;126813332;60025153;60025153
+   - **Corresponding:** Boni G.
+110.
+   - **Title:** Crater detection based on marked point processes
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/IGARSS.2010.5651044
+   - **Scopus ID:** 2-s2.0-78650912729
+   - **Pages:** 1378-1381
+   - **Authors:** Troglio Giulia; Benediktsson Jon A.; Moser Gabriele; Serpico Sebastiano B.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 26322168600;7004494483;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153-60071113;60071113;60025153;60025153
+   - **Corresponding:** Troglio G.
+111.
+   - **Title:** Unsupervised change detection with very high-resolution SAR images by multiscale analysis and Markov random fields
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/IGARSS.2010.5652435
+   - **Scopus ID:** 2-s2.0-78650903027
+   - **Pages:** 3082-3085
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Generalized Gaussian distribution | Markov random fields | Unsupervised change detection | Very-high resolution synthetic aperture radar | Wavelets
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moser G.
+112.
+   - **Title:** Operational evaluation of damages in flooded areas combining Cosmo-SkyMed and multispectral optical images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IGARSS.2010.5651502
+   - **Scopus ID:** 2-s2.0-78650895079
+   - **Pages:** 2414-2417
+   - **Authors:** Angiati Elena; Boni Giorgio; Candela Laura; Castelli Fabio; Dellepiane Silvana; Delogu Fabio; Pintus Fabio; Rudari Roberto; Serpico Sebastiano B.; Traverso Stefania; Versace Cosimo
+   - **Keywords:** COSMO-SkyMed | Flood damage | Flooded areas
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 24075443000;7004208139;8569203700;7102139089;7004291247;36815721600;14322478300;6507764404;7005306316;57520222000;14322604300
+   - **Authoraffiliationids:** 60025153;126813332;60031612;60021859;60025153;126813332;109902247;126813332;60025153;126813332;109901816
+   - **Corresponding:** Angiati E.
+113.
+   - **Title:** Contextual remote-sensing image classification by support vector machines and Markov random fields
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/IGARSS.2010.5651182
+   - **Scopus ID:** 2-s2.0-78650861785
+   - **Pages:** 3728-3731
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Hierarchical clustering | Markov random fields | Parameter optimization | Support vector machines
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moser G.
+114.
+   - **Title:** Unsupervised change-detection in retinal images by a multiple-classifier approach
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2010
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1007/978-3-642-12127-2_10
+   - **Scopus ID:** 2-s2.0-77952033677
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 5997 Lncs
+   - **Pages:** 94-103
+   - **Authors:** Troglio Giulia; Alberti Marina; Benediksson Jón Atli; Moser Gabriele; Serpico Sebastiano Bruno; Stefánsson Einar
+   - **Keywords:** Bioimaging | Change detection | Multiple classifiers
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 26322168600;7006310989;36019878600;7101795745;7005306316;7005607082
+   - **Authoraffiliationids:** 60025153-60071113;60025153;60071113;60025153;60025153;60071113
+   - **Corresponding:** Troglio G.
+115.
+   - **Title:** Edge-preserving classification of high-resolution remote-sensing images by Markovian data fusion
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/IGARSS.2009.5417489
+   - **Scopus ID:** 2-s2.0-77951274144
+   - **Volume:** 4
+   - **Pages:** IV765-IV768
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Edge-preserving modeling | Line processes | Markovian data-fusion | Very high resolution images
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moser G.
+116.
+   - **Title:** Automatic unsupervised classification of snow-covered areas by decision-tree classification and minimum-error thresholding
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/IGARSS.2009.5418270
+   - **Scopus ID:** 2-s2.0-77951132282
+   - **Volume:** 2
+   - **Pages:** II1000-II1003
+   - **Authors:** Macchiavello Giorgia; Moser Gabriele; Boni Giorgio; Serpico Sebastiano B.
+   - **Keywords:** Image classification | Snow | Tree data structures | Unsupervised learning
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 8203206000;7101795745;7004208139;7005306316
+   - **Authoraffiliationids:** 102075139;60025153;102075139;60025153
+   - **Corresponding:** Macchiavello G.
+117.
+   - **Title:** The opera project: EO-based flood risk management in Italy
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 17
+   - **DOI:** 10.1109/IGARSS.2009.5418250
+   - **Scopus ID:** 2-s2.0-77951099508
+   - **Volume:** 2
+   - **Pages:** II929-II932
+   - **Authors:** Boni G.; Candela L.; Castelli F.; Dellepiane S.; Palandri M.; Persi D.; Pierdicca N.; Rudari R.; Serpico S.; Siccardi F.; Versace C.
+   - **Keywords:** Satellite applications | Synthetic aperture radar | Water
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7004208139;8569203700;7102139089;7004291247;36011994500;36011946100;6701394887;6507764404;7005306316;7003346742;14322604300
+   - **Authoraffiliationids:** 102075139;60031612;60021859;60025153;60073285;108445595;60032350;102075139;60025153;102075139;
+   - **Corresponding:** Boni G.
+118.
+   - **Title:** A contextual multiscale unsupervised method for change detection with multitemporal remote-sensing images
+   - **Venue:** Isda 2009 9th International Conference on Intelligent Systems Design and Applications
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ISDA.2009.102
+   - **Scopus ID:** 2-s2.0-77949507718
+   - **Pages:** 572-577
+   - **Authors:** Moser Gabriele; Angiati Elena; Serpico Sebastiano B.
+   - **Keywords:** Besag's algorithm | Discrete wavelet transforms | Expectation-maximization | Markov random fields | Multiscale change detection | Unsupervised change detection
+   - **Source Id:** 19700167108
+   - **Author Ids:** 7101795745;24075443000;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Moser G.
+119.
+   - **Title:** Land and Sea Surface Temperature Estimation by Support Vector Regression
+   - **Venue:** Kernel Methods for Remote Sensing Data Analysis
+   - **Year:** 2009
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 4
+   - **DOI:** 10.1002/9780470748992.ch13
+   - **Scopus ID:** 2-s2.0-67651169838
+   - **Pages:** 301-325
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Generalization-error bound concepts used by PSB | Land and sea surface temperature estimation by support vector regression | Land surface temperature (LST) and sea surface temperature (SST) and role in environmental models | LST - hydrological and meteorological models and satellite infrared remote sensing | Pixelwise probability distribution of SVR error | Pointwise statistical modelling of SVR error | SEVIRI instrument on board Meteosat Second Generation (MSG) | Split-window techniques (SWTs) in multiple TIR channels | Support vector classification (SVC) | SVR framework methods - automating parameter-optimization processes
+   - **Source Id:** 21100270670
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moser G.
+120.
+   - **Title:** Unsupervised change detection from multichannel SAR data by Markovian data fusion
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 110
+   - **DOI:** 10.1109/TGRS.2009.2012407
+   - **Scopus ID:** 2-s2.0-84870949573
+   - **ISSN:** 01962892
+   - **Volume:** 47
+   - **Issue:** 7
+   - **Pages:** 2114-2128
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Change detection | Data fusion | Expectation maximization (EM) | Markov random fields (MRFs) | Multichannel SAR | Synthetic aperture radar (SAR)
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153-113259183
+   - **Corresponding:** Moser G.
+121.
+   - **Title:** Modeling the error statistics in support vector regression of surface temperature from infrared data
+   - **Venue:** IEEE Geoscience and Remote Sensing Letters
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 21
+   - **DOI:** 10.1109/LGRS.2009.2015777
+   - **Scopus ID:** 2-s2.0-67651154157
+   - **ISSN:** 1545598X
+   - **Volume:** 6
+   - **Issue:** 3
+   - **Pages:** 448-452
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Error estimation | Land surface temperature (LST) | Sea surface temperature (SST) | Supervised regression | Support vector machines (SVMs)
+   - **Quartile:**
+     2025:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 22, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 90, percentile 91)
+   - **Source Id:** 17259
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moser G.
+122.
+   - **Title:** Dictionary-based probability density function estimation for High-resolution SAR data
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1117/12.816102
+   - **Scopus ID:** 2-s2.0-65649102654
+   - **ISSN:** 0277786X
+   - **Volume:** 7246
+   - **Authors:** Krylov Vladimir; Moser Gabriele; Serpico Sebastiano B.; Zerubia Josiane
+   - **Keywords:** Nite mixture models | Parametric estimation | Probability density function (pdf) | Stochastic expectation maximization (SEM) | Synthetic aperture radar (SAR) image
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 57202676994;7101795745;7005306316;56211628500
+   - **Authoraffiliationids:** 60007457-60032385;60025153;60025153;60032385
+   - **Corresponding:** Krylov V.
+123.
+   - **Title:** Automatic parameter optimization for support vector regression for land and sea surface temperature estimation from remote sensing data
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 58
+   - **DOI:** 10.1109/TGRS.2008.2005993
+   - **Scopus ID:** 2-s2.0-61349168387
+   - **ISSN:** 01962892
+   - **Volume:** 47
+   - **Issue:** 3
+   - **Pages:** 909-921
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Generalization error bounds | Land surface temperature (LST) | Powell's method | Sea surface temperature (SST) | Supervised regression | Support vector machines (SVMs)
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153-105502276;60025153-105502276
+   - **Corresponding:** Moser G.
+124.
+   - **Title:** Contextual classification of multisensor optical-sar remote sensing images
+   - **Venue:** Handbook of Pattern Recognition and Computer Vision Fourth Edition
+   - **Year:** 2009
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 1
+   - **DOI:** 10.1142/9789814273398_0013
+   - **Scopus ID:** 2-s2.0-84962548803
+   - **Pages:** 307-328
+   - **Authors:** Moser Gabriele; Gaetano Raffaele; Poggi Gianni; Scarpa Giuseppe; Serpico Sebastiano B.
+   - **Source Id:** 21100462851
+   - **Author Ids:** 7101795745;23491959900;7005255639;7004081145;7005306316
+   - **Authoraffiliationids:** 60025153;60017293;60017293;60017293;60025153
+   - **Corresponding:** Moser G.
+125.
+   - **Title:** An a-contrario approach for unsupervised change detection in radar images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/IGARSS.2009.5417327
+   - **Scopus ID:** 2-s2.0-77951267692
+   - **Volume:** 4
+   - **Pages:** 240-243
+   - **Authors:** Robin A.; Mercier G.; Moser G.; Serpico S.
+   - **Keywords:** Change detection | Kullback-Leibler divergence | Multiscale | Radar images
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 25223456100;59631024000;7101795745;7005306316
+   - **Authoraffiliationids:** 60008134-60016218;60008134;60025153;60025153
+   - **Corresponding:** Robin A.
+126.
+   - **Title:** Automatic change detection of retinal images
+   - **Venue:** Ifmbe Proceedings
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1007/978-3-642-03891-4_75
+   - **Scopus ID:** 2-s2.0-77950163758
+   - **ISSN:** 16800737
+   - **Volume:** 25
+   - **Issue:** 11
+   - **Pages:** 281-284
+   - **Authors:** Troglio G.; Nappo A.; Benediktsson J. A.; Moser G.; Serpico S. B.; Stefansson E.
+   - **Quartile:**
+     2025:
+     - Bioengineering (Q4, rank 164, percentile 3)
+     - Biomedical Engineering (Q4, rank 326, percentile 2)
+   - **Source Id:** 19400157277
+   - **Author Ids:** 26322168600;23493146800;7004494483;7101795745;7005306316;7005607082
+   - **Authoraffiliationids:** 60025153-60071113;60025153;60071113;60025153;60025153;60071113
+   - **Corresponding:** Troglio G.
+127.
+   - **Title:** Automatic extraction of planetary image features
+   - **Venue:** Proceedings 2009 3rd IEEE International Conference on Space Mission Challenges for Information Technology Smc IT 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/SMC-IT.2009.32
+   - **Scopus ID:** 2-s2.0-70449110223
+   - **Pages:** 211-215
+   - **Authors:** Troglio G.; Benediktsson J. A.; Moser G.; Serpico S. B.; Moigne J. Le
+   - **Keywords:** Crater detection | Feature extraction | Image registration | Image segmentation
+   - **Source Id:** 19400157529
+   - **Author Ids:** 26322168600;7004494483;7101795745;7005306316;55664867700
+   - **Authoraffiliationids:** 60071113-60025153;60071113;60025153;60025153;60006337
+   - **Corresponding:** Troglio G.
+128.
+   - **Title:** An environmental decision support system for an efficient monitoring and planning of woody biomass for energy production, with remote sensing aid
+   - **Venue:** Proc Iemss 4th Biennial Meeting Int Congress on Environmental Modelling and Software Integrating Sciences and Information Technology for Environmental Assessment and Decision Making Iemss 2008
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84858315632
+   - **Volume:** 2
+   - **Pages:** 1255-1263
+   - **Authors:** Frombo F.; De Martino M.; Minciardi R.; Robba M.; Serpico S. B.
+   - **Keywords:** Environmental decision support system | Environmental modelling | Geographic information system | Remote sensing data
+   - **Source Id:** 21100199301
+   - **Author Ids:** 25642668200;7102899067;7005785660;7004979187;7005306316
+   - **Authoraffiliationids:** ;112692867;;112692867;112692867
+   - **Corresponding:** Frombo F.
+129.
+   - **Title:** Study of information content of SAR images
+   - **Venue:** 2008 IEEE Radar Conference Radar 2008
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/RADAR.2008.4720890
+   - **Scopus ID:** 2-s2.0-61849148891
+   - **Authors:** Aragone M.; Caridi A.; Serpico S. B.; Moser G.; Cerra D.; Datcu M.
+   - **Keywords:** Gauss Markov Random Fields (GMRF) | Information Theory (IT) | Sar
+   - **Source Id:** 16800154720
+   - **Author Ids:** 6508236539;36940071500;7005306316;7101795745;26666527700;7004523124
+   - **Authoraffiliationids:** 60025153;60025153;60007798;60007798;60004903;60007798-60004903
+   - **Corresponding:** Aragone M.
+130.
+   - **Title:** Unsupervised change detection from multichannel SAR data by Markov random fields
+   - **Venue:** Studies in Computational Intelligence
+   - **Year:** 2008
+   - **Type:** Book Series
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-540-79353-3_15
+   - **Scopus ID:** 2-s2.0-51849099922
+   - **ISSN:** 1860949X
+   - **Volume:** 133
+   - **Pages:** 363-388
+   - **Authors:** Serpico Sebastiano B.; Moser Gabriele
+   - **Quartile:**
+     2025:
+     - Artificial Intelligence (Q3, rank 308, percentile 37)
+   - **Source Id:** 4900152708
+   - **Author Ids:** 7005306316;7101795745
+   - **Authoraffiliationids:** 60025153-105708092;60025153-105708092
+   - **Corresponding:** Serpico S.B.
+131.
+   - **Title:** Conditional copulas for change detection in heterogeneous remote sensing images
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 189
+   - **DOI:** 10.1109/TGRS.2008.916476
+   - **Scopus ID:** 2-s2.0-53349101395
+   - **ISSN:** 01962892
+   - **Volume:** 46
+   - **Issue:** 5
+   - **Pages:** 1428-1441
+   - **Authors:** Mercier Grégoire; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Remote sensing
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 59631024000;7101795745;7005306316
+   - **Authoraffiliationids:** 60110235;60025153-105502276;60025153-105502276
+   - **Corresponding:** Mercier G.
+132.
+   - **Title:** Region-based classification of multisensor optical-sar images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/IGARSS.2008.4779661
+   - **Scopus ID:** 2-s2.0-67649813283
+   - **Volume:** 4
+   - **Issue:** 1
+   - **Pages:** 81-84
+   - **Authors:** Gaetano Raffaele; Moser Gabriele; Poggi Gianni; Scarpa Giuseppe; Serpico Sebastiano B.
+   - **Keywords:** Dependence tree | Markovian segmentation. | Multisensor image classication | Optical-SAR data fusion
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 23491959900;7101795745;7005255639;7004081145;7005306316
+   - **Authoraffiliationids:** 60017293;60025153;60017293;60017293;60025153
+   - **Corresponding:** Gaetano R.
+133.
+   - **Title:** Modelling the error statistics in support vector regression of surface temperature from infrared data
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IGARSS.2008.4779550
+   - **Scopus ID:** 2-s2.0-67649766438
+   - **Volume:** 3
+   - **Issue:** 1
+   - **Pages:** 1115-1118
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Error estimation | Land surface temperature | Sea surface temperature | Supervised regression | Support vector machines
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moser G.
+134.
+   - **Title:** Classification of high-resolution images based on MRF fusion and multiscale segmentation
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 26
+   - **DOI:** 10.1109/IGARSS.2008.4778981
+   - **Scopus ID:** 2-s2.0-66549093468
+   - **Volume:** 2
+   - **Issue:** 1
+   - **Pages:** 277-280
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Graph-based segmentation | Markov random fields | Multiscale data-fusion | Very high-resolution images
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moser G.
+135.
+   - **Title:** Automatic registration of retina images based on genetic techniques
+   - **Venue:** Proceedings of the 30th Annual International Conference of the IEEE Engineering in Medicine and Biology Society EMBS 08 Personalized Healthcare Through Technology
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/iembs.2008.4650440
+   - **Scopus ID:** 2-s2.0-61849174754
+   - **Pages:** 5419-5424
+   - **Authors:** Troglio G.; Benediktsson J. A.; Serpico S. B.; Moser G.; Karlsson R. A.; Halldorsson G. H.; Stefansson E.
+   - **Source Id:** 21100987449
+   - **Author Ids:** 26322168600;7004494483;7005306316;7101795745;16230365800;57190372296;7005607082
+   - **Authoraffiliationids:** 60025153-60071113;60071113;60025153;60025153;60071113;60071113;60071113
+   - **Corresponding:** Troglio G.
+136.
+   - **Title:** Conditional copula for change detection on heterogeneous SAR data
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 21
+   - **DOI:** 10.1109/IGARSS.2007.4423324
+   - **Scopus ID:** 2-s2.0-82355164420
+   - **Pages:** 2394-2397
+   - **Authors:** Mercier Grégoire; Moser Gabriele; Serpico Sebastiano
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 59631024000;7101795745;7005306316
+   - **Authoraffiliationids:** 60008134;60025153;60025153
+   - **Corresponding:** Mercier G.
+137.
+   - **Title:** A SVM ensemble approach for spectral-contextual classification of optical high spatial resolution imagery
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 16
+   - **DOI:** 10.1109/IGARSS.2007.4423090
+   - **Scopus ID:** 2-s2.0-80455171714
+   - **Pages:** 1489-1492
+   - **Authors:** Zortea Maciel; De Martino Michaela; Serpico Sebastiano
+   - **Keywords:** Classification | Classifier ensemble | High spatial resolution imagery | Remote sensing | Support vector machines
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 22236154700;7102899067;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Zortea M.
+138.
+   - **Title:** Multitemporal change detection by spectral and multivariate texture information
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/IGARSS.2007.4423202
+   - **Scopus ID:** 2-s2.0-79957908041
+   - **Pages:** 1922-1925
+   - **Authors:** Li Peijun; Moser Gabriele; Cheng Tao; Serpico Sebastiano B.; Ma Defeng
+   - **Keywords:** Change detection | Multitemporal data | Multivariate texture | Pseudo cross variogram
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 56040925600;7101795745;36820685200;7005306316;7402075387
+   - **Authoraffiliationids:** 60014966;60025153;60030835;60025153;60014966
+   - **Corresponding:** Li P.
+139.
+   - **Title:** Unsupervised change detection by multichannel SAR data fusion
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/IGARSS.2007.4423948
+   - **Scopus ID:** 2-s2.0-67651200980
+   - **Pages:** 4854-4857
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moser G.
+140.
+   - **Title:** High resolution COSMO/SkyMed SAR data analysis for civil protection from flooding events
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/IGARSS.2007.4422716
+   - **Scopus ID:** 2-s2.0-67651186011
+   - **Pages:** 6-9
+   - **Authors:** Boni Giorgio; Castelli Fabio; Ferraris Luca; Pierdicca Nazzareno; Serpico Sebastiano; Siccardi Franco
+   - **Keywords:** Change detection | Data fusion | Flood mapping | Fuzzy approach | Image classification | Probability density function estimation | SAR | Scattering mechanisms
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7004208139;7102139089;7004055120;6701394887;7005306316;7003346742
+   - **Authoraffiliationids:** 105502276-60025153-105503681;60021859-105503681;105502276-60025153;60032350;105502276-60025153;105502276-60025153-105503681
+   - **Corresponding:** Boni G.
+141.
+   - **Title:** Automatic land and sea surface temperature estimation from remote sensing data
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1117/12.737464
+   - **Scopus ID:** 2-s2.0-42449161919
+   - **ISSN:** 0277786X
+   - **Volume:** 6748
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Generalization error bounds | Land surface temperature | Powell's method | Sea surface temperature | Supervised regression | Support vector machines
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153-105708092;60025153-105708092
+   - **Corresponding:** Moser G.
+142.
+   - **Title:** Multiscale unsupervised change detection by Markov random fields and wavelet transforms
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1117/12.737465
+   - **Scopus ID:** 2-s2.0-42449146594
+   - **ISSN:** 0277786X
+   - **Volume:** 6748
+   - **Authors:** Moser Gabriele; Angiati Elena; Serpico Sebastiano B.
+   - **Keywords:** Besag's algorithm | Discrete wavelet transforms | Expectation-maximization | Fields | Markov random | Unsupervised multiscale change detection
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7101795745;24075443000;7005306316
+   - **Authoraffiliationids:** 60025153-105708092;60025153;60025153-105708092
+   - **Corresponding:** Moser G.
+143.
+   - **Title:** Investigation of an ensemble framework for classification of hyperspectral remote sensing data with nearly equal spectral response classes
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1117/12.738308
+   - **Scopus ID:** 2-s2.0-42449122260
+   - **ISSN:** 0277786X
+   - **Volume:** 6748
+   - **Authors:** Zortea Maciel; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** AVIRIS data | Classification | Ensemble methods | Feature reduction | Hyperspectral data | Random forests | Remote sensing | Support vector machine
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 22236154700;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153-105708092;60025153-105708092;60025153-105708092
+   - **Corresponding:** Zortea M.
+144.
+   - **Title:** A contextual change detection method for high-resolution optical images of urban areas
+   - **Venue:** 2007 Urban Remote Sensing Joint Event Urs
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/URS.2007.371784
+   - **Scopus ID:** 2-s2.0-34648822753
+   - **Authors:** Cannavacciuolo Lorenzo; Emery William; Moser Gabriele; Serpico Sebastiano B.
+   - **Source Id:** 7900153103
+   - **Author Ids:** 21933274200;35598959400;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60154476;60025153;60025153
+   - **Corresponding:** Cannavacciuolo L.
+145.
+   - **Title:** Unsupervised change detection from multichannel SAR images
+   - **Venue:** IEEE Geoscience and Remote Sensing Letters
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 63
+   - **DOI:** 10.1109/LGRS.2007.890549
+   - **Scopus ID:** 2-s2.0-34247350886
+   - **ISSN:** 1545598X
+   - **Volume:** 4
+   - **Issue:** 2
+   - **Pages:** 278-282
+   - **Authors:** Moser Gabriele; Serpico Sebastiano; Vernazza Gianni
+   - **Keywords:** Expectation-maximization (EM) | Markov random field (MRF) | Multichannel synthetic aperture radar | Unsupervised change detection
+   - **Quartile:**
+     2025:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 22, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 90, percentile 91)
+   - **Source Id:** 17259
+   - **Author Ids:** 7101795745;7005306316;7005048304
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153;60000251-60025153
+   - **Corresponding:** Moser G.
+146.
+   - **Title:** Extraction of spectral channels from hyperspectral images for classification purposes
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 136
+   - **DOI:** 10.1109/TGRS.2006.886177
+   - **Scopus ID:** 2-s2.0-33846636871
+   - **ISSN:** 01962892
+   - **Volume:** 45
+   - **Issue:** 2
+   - **Pages:** 484-495
+   - **Authors:** Serpico Sebastiano B.; Moser Gabriele
+   - **Keywords:** Feature extraction | Feature reduction | Hyperspectral images | Remote-sensing image classification | Spectral channels
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 7005306316;7101795745
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Serpico S.B.
+147.
+   - **Title:** MRF-based remote-sensing image classification with automatic model parameter estimation
+   - **Venue:** Image Processing for Remote Sensing
+   - **Year:** 2007
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-85028045709
+   - **Pages:** 39-60
+   - **Authors:** Serpico Sebastiano B.; Moser Gabriele
+   - **Source Id:** 21100888196
+   - **Author Ids:** 7005306316;7101795745
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Serpico S.B.
+148.
+   - **Title:** A spatio-spectral data fusion method for the detection of urban areas in optical high resolution images by a novel MRF model
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IGARSS.2006.647
+   - **Scopus ID:** 2-s2.0-34948847997
+   - **Pages:** 2502-2505
+   - **Authors:** Causa Federico; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** High spatial resolution | Hybrid supervised/unsupervised classification | Markov random fields | Parameter optimization
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 14030984900;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Causa F.
+149.
+   - **Title:** Land surface temperature estimation from passive satellite images using support vector machines
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/IGARSS.2006.546
+   - **Scopus ID:** 2-s2.0-34948820560
+   - **Pages:** 2109-2112
+   - **Authors:** Serpico Sebastiano B.; De Martino Michaela; Moser Gabriele; Zortea Maciel
+   - **Keywords:** Infrared satellite data | Land surface temperature | Support vector machines
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7005306316;7102899067;7101795745;22236154700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Serpico S.B.
+150.
+   - **Title:** Generalized minimum-error thresholding for unsupervised change detection from SAR amplitude imagery
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 339
+   - **DOI:** 10.1109/TGRS.2006.876288
+   - **Scopus ID:** 2-s2.0-34247344495
+   - **ISSN:** 01962892
+   - **Volume:** 44
+   - **Issue:** 10
+   - **Pages:** 2972-2982
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Change detection | Kittler and illingworth method | Method of log-cumulants (MoLC) | Parametric density estimation | Synthetic aperture radar (SAR) | Thresholding
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moser G.
+151.
+   - **Title:** Weight parameter optimization by the Ho-Kashyap algorithm in MRF models for supervised image classification
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 55
+   - **DOI:** 10.1109/TGRS.2006.881118
+   - **Scopus ID:** 2-s2.0-33845678010
+   - **ISSN:** 01962892
+   - **Volume:** 44
+   - **Issue:** 12
+   - **Pages:** 3695-3705
+   - **Authors:** Serpico Sebastiano B.; Moser Gabriele
+   - **Keywords:** Automatic parameter setting | Ho-Kashyap (HK) algorithm | Iterated conditional mode (ICM) | Markov random field (MRF) | Remote-sensing image classification
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 7005306316;7101795745
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Serpico S.B.
+152.
+   - **Title:** Feature Reduction for Classification Purpose
+   - **Venue:** Hyperspectral Data Exploitation Theory and Applications
+   - **Year:** 2006
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 3
+   - **DOI:** 10.1002/9780470124628.ch10
+   - **Scopus ID:** 2-s2.0-84885018324
+   - **Pages:** 245-274
+   - **Authors:** Serpico Sebastiano B.; Moser Gabriele; Cattoni Andrea F.
+   - **Keywords:** Feature reduction for classification purpose | Innovative feature-transformation methodology and numerical discrete search strategies | Proposed band-extraction method
+   - **Source Id:** 21100273566
+   - **Author Ids:** 7005306316;7101795745;14832346000
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Serpico S.B.
+153.
+   - **Title:** SAR amplitude probability density function estimation based on a generalized Gaussian model
+   - **Venue:** IEEE Transactions on Image Processing
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 143
+   - **DOI:** 10.1109/TIP.2006.871124
+   - **Scopus ID:** 2-s2.0-33646885204
+   - **ISSN:** 10577149
+   - **Volume:** 15
+   - **Issue:** 6
+   - **Pages:** 1429-1442
+   - **Authors:** Moser Gabriele; Zerubia Josiane; Serpico Sebastiano B.
+   - **Keywords:** Generalized Gaussian (GG) | Parametric estimation | Probability density function (PDF) | Synthetic aperture radar (SAR)
+   - **Quartile:**
+     2025:
+     - Computer Graphics and Computer-Aided Design (Q1, rank 3, percentile 98)
+     - Software (Q1, rank 15, percentile 97)
+   - **Source Id:** 25534
+   - **Author Ids:** 7101795745;56211628500;7005306316
+   - **Authoraffiliationids:** 60025153;60032385;60025153
+   - **Corresponding:** Moser G.
+154.
+   - **Title:** Cell algorithms with data inflation for non-parametric classification
+   - **Venue:** Pattern Recognition Letters
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1016/j.patrec.2005.11.001
+   - **Scopus ID:** 2-s2.0-33644859269
+   - **ISSN:** 01678655
+   - **Volume:** 27
+   - **Issue:** 7
+   - **Pages:** 781-790
+   - **Authors:** Palau Alessandro; Melgani Farid; Serpico Sebastiano B.
+   - **Keywords:** Data inflation | k-NN classifier | Non-parametric classification
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 27, percentile 86)
+     - Computer Vision and Pattern Recognition (Q1, rank 29, percentile 83)
+     - Software (Q1, rank 112, percentile 77)
+     - Artificial Intelligence (Q1, rank 124, percentile 75)
+   - **Source Id:** 24825
+   - **Author Ids:** 57520050300;35613488300;7005306316
+   - **Authoraffiliationids:** 60025153;60015986;60025153
+   - **Corresponding:** Palau A.
+155.
+   - **Title:** Mrf-based remote-sensing image classification with automatic model parameter estimation
+   - **Venue:** Signal and Image Processing for Remote Sensing
+   - **Year:** 2006
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-85056325222
+   - **Pages:** 305-326
+   - **Authors:** Serpico Sebastiano B.; Moser Gabriele
+   - **Source Id:** 21100885149
+   - **Author Ids:** 7005306316;7101795745
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Serpico S.B.
+156.
+   - **Title:** Unsupervised change-detection in color fundus images of the human retina
+   - **Venue:** Proceedings of the 7th Nordic Signal Processing Symposium Norsig 2006
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/NORSIG.2006.275211
+   - **Scopus ID:** 2-s2.0-39049154907
+   - **Pages:** 134-137
+   - **Authors:** Nappo A.; Benediktsson J. A.; Serpico S. B.; Joelsson S. R.; Moser G.; Karlsson R. A.; Halldorsson G. H.; Hardarson S. H.; Stefansson E.
+   - **Source Id:** 21100932915
+   - **Author Ids:** 23493146800;7004494483;7005306316;14031398800;7101795745;16230365800;57190372296;15056123700;7005607082
+   - **Authoraffiliationids:** 60025153;60071113;60025153;60071113;60025153;60071113;60071113;60071113;60071113
+   - **Corresponding:** Nappo A.
+157.
+   - **Title:** Unsupervised change-detection from multi-channel SAR data
+   - **Venue:** Proceedings of the 7th Nordic Signal Processing Symposium Norsig 2006
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/NORSIG.2006.275234
+   - **Scopus ID:** 2-s2.0-39049089117
+   - **Pages:** 246-249
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Source Id:** 21100932915
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moser G.
+158.
+   - **Title:** Dictionary-based stochastic expectation-maximization for SAR amplitude probability density function estimation
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 103
+   - **DOI:** 10.1109/TGRS.2005.859349
+   - **Scopus ID:** 2-s2.0-31344481921
+   - **ISSN:** 01962892
+   - **Volume:** 44
+   - **Issue:** 1
+   - **Pages:** 188-200
+   - **Authors:** Moser G.; Zerubia J.; Serpico S. B.
+   - **Keywords:** Data analysis | Dictionary-based stochastic expectation-maximization | Finite mixture model | Land-cover typology | Pixel intensity | Remote sensing | SAR amplitude probability density function estimation | Synthetic aperture radar
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 7101795745;56211628500;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Moser G.
+159.
+   - **Title:** MRF model parameter estimation for contextual supervised classification of remote-sensing images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/IGARSS.2005.1526169
+   - **Scopus ID:** 2-s2.0-33745727802
+   - **Volume:** 1
+   - **Pages:** 308-311
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.; Causa Federico
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7101795745;7005306316;14030984900
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Moser G.
+160.
+   - **Title:** Generalized minimum-error thresholding for unsupervised change detection from SAR amplitude imagery
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/IGARSS.2005.1526436
+   - **Scopus ID:** 2-s2.0-33745712974
+   - **Volume:** 3
+   - **Pages:** 2121-2124
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moser G.
+161.
+   - **Title:** Forest mapping by partially surpervised classification applied to vegetation indexes
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IGARSS.2005.1526500
+   - **Scopus ID:** 2-s2.0-33745684195
+   - **Volume:** 5
+   - **Pages:** 3128-3131
+   - **Authors:** De Martino Michaela; Serpico Sebastiano B.; Camurri Caterina
+   - **Keywords:** Multispectral satellite data | Partially supervised classification | Vegetation mapping
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7102899067;7005306316;14031286700
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** De Martino M.
+162.
+   - **Title:** Foreword to the special issue on advances in techniques for analysis of remotely sensed data
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/TGRS.2005.843752
+   - **Scopus ID:** 2-s2.0-14644403645
+   - **ISSN:** 01962892
+   - **Volume:** 43
+   - **Issue:** 3
+   - **Pages:** 411
+   - **Authors:** Richards John A.; Crawford Melba M.; Kerkes John P.; Serpico Sebastiano B.; Tilton James C.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 7403706634;7402706393;8319918700;7005306316;7005093281
+   - **Authoraffiliationids:** 60008950;60150401;60024592;60025153;60006337
+   - **Corresponding:** Richards J.A.
+163.
+   - **Title:** Partially supervised classification of remote sensing images through SVM-based probability density estimation
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 242
+   - **DOI:** 10.1109/TGRS.2004.842022
+   - **Scopus ID:** 2-s2.0-14644402381
+   - **ISSN:** 01962892
+   - **Volume:** 43
+   - **Issue:** 3
+   - **Pages:** 559-570
+   - **Authors:** Mantero Paolo; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Probability density function (pdf) estimation | Supervised classification | Support vector machines (SVMs) | Unknown classes
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 57193889525;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Mantero P.
+164.
+   - **Title:** Automatic partially supervised classification of multitemporal remotely sensed images
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1117/12.567968
+   - **Scopus ID:** 2-s2.0-17644425308
+   - **ISSN:** 0277786X
+   - **Volume:** 5573
+   - **Pages:** 126-137
+   - **Authors:** Moser Gabriele; Serpico Sebastiano B.; De Martino Michaela; Coppolino Daniele
+   - **Keywords:** Change detection | Clustering | Multitemporal classification | Partially supervised classification
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7101795745;7005306316;7102899067;8380886100
+   - **Authoraffiliationids:** 60025153;60025153;;60025153
+   - **Corresponding:** Moser G.
+165.
+   - **Title:** SAR amplitude probability density function estimation based on a generalized Gaussian scattering model
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1117/12.567853
+   - **Scopus ID:** 2-s2.0-17644373081
+   - **ISSN:** 0277786X
+   - **Volume:** 5573
+   - **Pages:** 307-318
+   - **Authors:** Moser Gabriele; Zerubia Josiane; Serpico Sebastiano B.
+   - **Keywords:** Generalized Gaussian | Parametric estimation | Probability density function | Synthetic Aperture Radar (SAR)
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7101795745;56211628500;7005306316
+   - **Authoraffiliationids:** 60025153;60110719;60025153
+   - **Corresponding:** Moser G.
+166.
+   - **Title:** Finite mixture models and stochastic Expectation-Maximization for SAR amplitude probability density function estimation based on a dictionary of parametric families
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-15944425787
+   - **Volume:** 2
+   - **Pages:** 1510-1513
+   - **Authors:** Moser Gabriele; Zerubia Josiane; Serpico Sebastiano B.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7101795745;56211628500;7005306316
+   - **Authoraffiliationids:** 60025153;60032385;60025153
+   - **Corresponding:** Moser G.
+167.
+   - **Title:** Design of spectral channels for hyperspectral image classification
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-15944368976
+   - **Volume:** 2
+   - **Pages:** 956-959
+   - **Authors:** Serpico Sebastiane B.; D'Incà Massimo; Moser Gabriele
+   - **Keywords:** Feature transformation | Hyperspectral images | Image classification | Remote sensing | Spectral channel design
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7005306316;8314704700;7101795745
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Serpico S.B.
+168.
+   - **Title:** Partially surpervised classification of optical high spatial resolution images in urban environment using spectral and textural information
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **Scopus ID:** 2-s2.0-15944368123
+   - **Volume:** 1
+   - **Pages:** 77-80
+   - **Authors:** De Martino Michaela; Macchiavello Giorgia; Serpico Sebastiano B.
+   - **Keywords:** Feature selection | High spatial resolution data | Optical texture features | Partially supervised classification
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7102899067;8203206000;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** De Martino M.
+169.
+   - **Title:** SVM-based density estimation for supervised classification of remotely sensed images with unknown classes
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1117/12.514179
+   - **Scopus ID:** 2-s2.0-1942535080
+   - **ISSN:** 0277786X
+   - **Volume:** 5238
+   - **Pages:** 386-397
+   - **Authors:** Mantero P.; Moser G.; Serpico S. B.
+   - **Keywords:** Probability density function estimation | Supervised classification | Support vector Machines | Unknown classes
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 57193889525;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Mantero P.
+170.
+   - **Title:** Partially supervised classification of remote sensing images using SVM-based probability density estimation
+   - **Venue:** 2003 IEEE Workshop on Advances in Techniques for Analysis of Remotely Sensed Data
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 21
+   - **DOI:** 10.1109/WARSD.2003.1295212
+   - **Scopus ID:** 2-s2.0-84945285861
+   - **Pages:** 327-336
+   - **Authors:** Mantero P.; Moser G.; Serpico S. B.
+   - **Keywords:** probability density function estimation | supervised classification | support vector machines | unknown classes
+   - **Source Id:** 21100420311
+   - **Author Ids:** 57193889525;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Mantero P.
+171.
+   - **Title:** Partially Supervised Contextual Classification of Multitemporal Remotely Sensed Images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-0242711394
+   - **Volume:** 2
+   - **Pages:** 1377-1379
+   - **Authors:** De Martino Michaela; Macchiavello Giorgia; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Change detection | Contextual classification | Markov Random Fields | Multitemporal classification
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7102899067;8203206000;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** De Martino M.
+172.
+   - **Title:** Classification of Optical High Resolution Images in Urban Environment Using Spectral and Textural Information
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 45
+   - **Scopus ID:** 2-s2.0-0242543183
+   - **Volume:** 1
+   - **Pages:** 467-469
+   - **Authors:** De Martino Michaela; Causa Federico; Serpico Sebastiane B.
+   - **Keywords:** Adaptive texture features | Feature selection | High resolution images | Supervised classification
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7102899067;14030984900;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** De Martino M.
+173.
+   - **Title:** A Markov Random Field Approach to Spatio-Temporal Contextual Image Classification
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 144
+   - **DOI:** 10.1109/TGRS.2003.817269
+   - **Scopus ID:** 2-s2.0-0344014352
+   - **ISSN:** 01962892
+   - **Volume:** 41
+   - **Issue:** 11 Part I
+   - **Pages:** 2478-2487
+   - **Authors:** Melgani Farid; Serpico Sebastiane B.
+   - **Keywords:** Artificial neural networks, data fusion, Markov random fields (MRFs) | Markov random field (MRF) parameter estimation | Multitemporal image classification | Spatio-temporal context
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 35613488300;7005306316
+   - **Authoraffiliationids:** 60015986;60025153
+   - **Corresponding:** Melgani F.
+174.
+   - **Title:** Radial basis function and multilayer perceptron neural networks for sea water optically active parameter estimation in case II waters: A comparison
+   - **Venue:** International Journal of Remote Sensing
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 32
+   - **DOI:** 10.1080/0143116031000103781
+   - **Scopus ID:** 2-s2.0-0142259818
+   - **ISSN:** 01431161
+   - **Volume:** 24
+   - **Issue:** 20
+   - **Pages:** 3917-3931
+   - **Authors:** Corsini G.; Diani M.; Grasso R.; De Martino M.; Mantero P.; Serpico S. B.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 45, percentile 77)
+   - **Source Id:** 22674
+   - **Author Ids:** 7103074007;7003735775;7004608286;7102899067;57193889525;7005306316
+   - **Authoraffiliationids:** 60028868;60028868;60028868;;;
+   - **Corresponding:** Corsini G.
+175.
+   - **Title:** A holographic system for subsea recording and analysis of plankton and other marine particles (HOLOMAR)
+   - **Venue:** Oceans Conference Record IEEE
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/oceans.2003.178428
+   - **Scopus ID:** 2-s2.0-12144289913
+   - **ISSN:** 01977385
+   - **Volume:** 2
+   - **Pages:** 830-837
+   - **Authors:** Watson John; Alexander S.; Chavidan V.; Craig G.; Diard A.; Foresti G. L.; Gentili S.; Hendry D. C.; Hobson P. R.; Lampitt R. S.; Nareid H.; Nebrensky J. J.; Pescetto A.; Pieroni G. G.; Player M. A.; Saw K.; Serpico S.; Tipping K.; Trucco A.
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q3, rank 84, percentile 28)
+     - Oceanography (Q4, rank 117, percentile 23)
+   - **Source Id:** 13654
+   - **Author Ids:** 35396124700;7402790968;57209898647;7101867237;6506549262;7006427233;7004229097;7006187679;35778258500;7004317264;6602567713;6602213411;6506761928;35584434700;23002014900;36800356200;7005306316;7801508249;7007035725
+   - **Authoraffiliationids:** 60015875;60015875;;60015875;100371427;60025965;60025965;60015875;60020623;60020623;60015875;60020623;60025153;60025965;60015875;60010934;60015875;60010934;60025153
+   - **Corresponding:** Watson J.
+176.
+   - **Title:** Fusion of multitemporal contextual information by neural networks for multisensor remote sensing image classification
+   - **Venue:** Integrated Computer Aided Engineering
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.3233/ica-2003-10108
+   - **Scopus ID:** 2-s2.0-0037285503
+   - **ISSN:** 10692509
+   - **Volume:** 10
+   - **Issue:** 1
+   - **Pages:** 81-90
+   - **Authors:** Melgani Farid; Serpico Sebastiano B.; Vernazza Gianni
+   - **Quartile:**
+     2025:
+     - Computational Theory and Mathematics (Q1, rank 13, percentile 93)
+     - Theoretical Computer Science (Q1, rank 11, percentile 92)
+     - Software (Q1, rank 49, percentile 90)
+     - Computer Science Applications (Q1, rank 108, percentile 89)
+     - Artificial Intelligence (Q1, rank 65, percentile 86)
+   - **Source Id:** 18197
+   - **Author Ids:** 35613488300;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Melgani F.
+177.
+   - **Title:** A comparison of feature reduction techniques for classification of hyperspectral remote-sensing data
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 60
+   - **DOI:** 10.1117/12.463524
+   - **Scopus ID:** 2-s2.0-0038627541
+   - **ISSN:** 0277786X
+   - **Volume:** 4885
+   - **Pages:** 347-358
+   - **Authors:** Serpico Sebastiano B.; D'Incà Massimo; Melgani Farid; Moser Gabriele
+   - **Keywords:** Feature extraction | Feature selection | Hyperspectral images | Image classification
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7005306316;8314704700;35613488300;7101795745
+   - **Authoraffiliationids:** 60025153;60025153;;60025153
+   - **Corresponding:** Serpico S.B.
+178.
+   - **Title:** Unsupervised change-detection methods for remote-sensing images
+   - **Venue:** Optical Engineering
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 127
+   - **DOI:** 10.1117/1.1518995
+   - **Scopus ID:** 2-s2.0-0036986484
+   - **ISSN:** 00913286
+   - **Volume:** 41
+   - **Issue:** 12
+   - **Pages:** 3288-3297
+   - **Authors:** Melgani Farid; Moser Gabriele; Serpico Sebastiano B.
+   - **Keywords:** Change detection | Expectation-maximization algorithm | Pattern classification | Remote sensing | Thresholding
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q2, rank 164, percentile 52)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 148, percentile 38)
+   - **Source Id:** 12316
+   - **Author Ids:** 35613488300;7101795745;7005306316
+   - **Authoraffiliationids:** 60015986;60025153;60025153
+   - **Corresponding:** Melgani F.
+179.
+   - **Title:** A statistical approach to the fusion of spectral and spatio-temporal contextual information for the classification of remote-sensing images
+   - **Venue:** Pattern Recognition Letters
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 65
+   - **DOI:** 10.1016/S0167-8655(02)00052-1
+   - **Scopus ID:** 2-s2.0-0036643380
+   - **ISSN:** 01678655
+   - **Volume:** 23
+   - **Issue:** 9
+   - **Pages:** 1053-1061
+   - **Authors:** Melgani Farid; Serpico Sebastiano B.
+   - **Keywords:** Data fusion | Neural networks | Remote-sensing image classification | Spatio-temporal context
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 27, percentile 86)
+     - Computer Vision and Pattern Recognition (Q1, rank 29, percentile 83)
+     - Software (Q1, rank 112, percentile 77)
+     - Artificial Intelligence (Q1, rank 124, percentile 75)
+   - **Source Id:** 24825
+   - **Author Ids:** 35613488300;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Melgani F.
+180.
+   - **Title:** Multisource data classification with dependence trees
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 31
+   - **DOI:** 10.1109/TGRS.2002.1000321
+   - **Scopus ID:** 2-s2.0-0036508255
+   - **ISSN:** 01962892
+   - **Volume:** 40
+   - **Issue:** 3
+   - **Pages:** 609-617
+   - **Authors:** Datcu Mihai; Melgani Farid; Piardi Andrea; Serpico Sebastiano B.
+   - **Keywords:** Dependence trees | Discrete probability distribution approximation | Multisource fusion | Parzen window approach | Remote sensing image classification
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 7004523124;35613488300;6506510272;7005306316
+   - **Authoraffiliationids:** 60007798;60025153;60025153;60000251-60025153
+   - **Corresponding:** Datcu M.
+181.
+   - **Title:** Image fusion techniques for remote sensing applications
+   - **Venue:** Information Fusion
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 378
+   - **DOI:** 10.1016/S1566-2535(01)00056-2
+   - **Scopus ID:** 2-s2.0-0036495833
+   - **ISSN:** 15662535
+   - **Volume:** 3
+   - **Issue:** 1
+   - **Pages:** 3-15
+   - **Authors:** Simone G.; Farina A.; Morabito F. C.; Serpico S. B.; Bruzzone L.
+   - **Keywords:** Discrete wavelet transform (DWT) | Multiscale Kalman filter (MKF) | Neural networks | Remote sensing | SAR interferometry | Synthetic aperture radar (SAR)
+   - **Quartile:**
+     2025:
+     - Hardware and Architecture (Q1, rank 2, percentile 99)
+     - Information Systems (Q1, rank 6, percentile 98)
+     - Signal Processing (Q1, rank 3, percentile 98)
+     - Software (Q1, rank 12, percentile 97)
+   - **Source Id:** 26099
+   - **Author Ids:** 7007104095;57202472103;7103166505;7005306316;7006892410
+   - **Authoraffiliationids:** 60020167;60073283;60020167;60025153;60015986
+   - **Corresponding:** Simone G.
+182.
+   - **Title:** Supervised classification of remote sensing images with unknown classes
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-0036402722
+   - **Volume:** 6
+   - **Pages:** 3486-3488
+   - **Authors:** Guerrero-Curieses Alicia; Biasiotto Alessandro; Serpico Sebastiano B.; Moser Gabriele
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 6602805591;6504581262;7005306316;7101795745
+   - **Authoraffiliationids:** 60001741;60001741;60001741;60001741
+   - **Corresponding:** Guerrero-Curieses A.
+183.
+   - **Title:** Unsupervised change detection methods for remote sensing images
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1117/12.454155
+   - **Scopus ID:** 2-s2.0-0036397203
+   - **ISSN:** 0277786X
+   - **Volume:** 4541
+   - **Pages:** 211-222
+   - **Authors:** Melgani Farid; Moser Gabriele; Serpico Sebastiano B.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 35613488300;7101795745;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Melgani F.
+184.
+   - **Title:** Partially supervised detection of changes from remote sensing images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **Scopus ID:** 2-s2.0-0036029977
+   - **Volume:** 1
+   - **Pages:** 299-301
+   - **Authors:** Moser Gabriele; Melgani Farid; Serpico Sebastiano B.; Caruso Alessandro
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7101795745;35613488300;7005306316;36804398200
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Moser G.
+185.
+   - **Title:** Fusion of radar images: State of art and perspective
+   - **Venue:** CIE International Conference of Radar Proceedings
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **Scopus ID:** 2-s2.0-0035722650
+   - **Pages:** 9-15
+   - **Authors:** Farina A.; Morabito F. C.; Serpico S.; Simone G.
+   - **Source Id:** 21100510213
+   - **Author Ids:** 57202472103;7103166505;7005306316;7007104095
+   - **Authoraffiliationids:** 60073283;60073283;60073283;60073283
+   - **Corresponding:** Farina A.
+186.
+   - **Title:** A mutual approach based on Markov random fields for multitemporal contextual classification of remote sensing images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0035570778
+   - **Volume:** 7
+   - **Pages:** 2949-2951
+   - **Authors:** Melgani Farid; Serpico Sebastiano B.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 35613488300;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Melgani F.
+187.
+   - **Title:** Fusion of multitemporal contextual information by neural networks for multisensor image classification
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **Scopus ID:** 2-s2.0-0035569241
+   - **Volume:** 7
+   - **Pages:** 2952-2954
+   - **Authors:** Melgani Farid; Serpico Sebastiano B.; Vernazza Gianni
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 35613488300;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Melgani F.
+188.
+   - **Title:** A new search algorithm for feature selection in hyperspectral remote sensing images
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 317
+   - **DOI:** 10.1109/36.934069
+   - **Scopus ID:** 2-s2.0-0035391615
+   - **ISSN:** 01962892
+   - **Volume:** 39
+   - **Issue:** 7
+   - **Pages:** 1360-1367
+   - **Authors:** Serpico Sebastiano B.; Bruzzone Lorenzo
+   - **Keywords:** Feature selection | Hyperspectral data | Remote sensing | Search algorithms
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 7005306316;7006892410
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60015986
+   - **Corresponding:** Serpico S.B.
+189.
+   - **Title:** Introduction to the special issue on analysis of hyperspectral image data
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Editorial
+   - **Citations:** 24
+   - **DOI:** 10.1109/TGRS.2001.934066
+   - **Scopus ID:** 2-s2.0-0035391737
+   - **ISSN:** 01962892
+   - **Volume:** 39
+   - **Issue:** 7
+   - **Pages:** 1343-1345
+   - **Authors:** Landgrebe David A.; Serpico Sebastiano B.; Crawford Melba M.; Singhroy Vern
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 7005781053;7005306316;7402706393;7003547975
+   - **Authoraffiliationids:** 60148444;60004718;60150401;60005603
+   - **Corresponding:** Landgrebe D.A.
+190.
+   - **Title:** Classifier fusion for multisensor image recognition
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1117/12.413886
+   - **Scopus ID:** 2-s2.0-0035050126
+   - **ISSN:** 0277786X
+   - **Volume:** 4170
+   - **Pages:** 103-110
+   - **Authors:** Roli Fabio; Giacinto Giorgio; Serpico Sebastiano B.
+   - **Keywords:** Combination of Classifiers | Multisensor Image Recognition | Pattern Recognition
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 57194734588;6701832237;7005306316
+   - **Authoraffiliationids:** 60032259;60032259;60025153
+   - **Corresponding:** Roli F.
+191.
+   - **Title:** Multisensor data classification with dependence trees
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1117/12.413891
+   - **Scopus ID:** 2-s2.0-0035046432
+   - **ISSN:** 0277786X
+   - **Volume:** 4170
+   - **Pages:** 151-159
+   - **Authors:** Piardi A.; Melgani F.; Serpico S. B.; Datcu M.
+   - **Keywords:** Dependence trees | Multisensor fusion | Non-parametric pdf estimation
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 6506510272;35613488300;7005306316;7004523124
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60007798
+   - **Corresponding:** Piardi A.
+192.
+   - **Title:** Fuzzy spatio-temporal contextual classifier for remote sensing images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-0034546019
+   - **Volume:** 6
+   - **Pages:** 2438-2440
+   - **Authors:** Serpico Sebastiano B.; Melgani Farid
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7005306316;35613488300
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Serpico S.
+193.
+   - **Title:** A technique for feature selection in multiclass problems
+   - **Venue:** International Journal of Remote Sensing
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 89
+   - **DOI:** 10.1080/014311600210740
+   - **Scopus ID:** 2-s2.0-0034651854
+   - **ISSN:** 01431161
+   - **eISSN:** 13665901
+   - **Volume:** 21
+   - **Issue:** 3
+   - **Pages:** 549-563
+   - **Authors:** Bruzzone L.; Serpico S. B.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 45, percentile 77)
+   - **Source Id:** 22674
+   - **Author Ids:** 7006892410;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bruzzone L.
+194.
+   - **Title:** Camera to record underwater particles using simultaneous in-line and off-axis hologrammetry and its associated replay facility
+   - **Venue:** Conference on Lasers and Electro Optics Europe Technical Digest
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0033714163
+   - **Pages:** 329
+   - **Authors:** Hobson P. R.; Chalvidan V.; Craig G.; Foresti G. L.; Gentili S.; Lampitt R. S.; Lucas-Leclin B.; Nareid H.; Nebrensky J. J.; Pescetto A.; Pieroni G. G.; Player M. A.; Serpico S.; Tipping K.; Trucco A.; Watson J.
+   - **Source Id:** 60644
+   - **Author Ids:** 35778258500;6506314805;7101867237;7006427233;7004229097;7004317264;6506652411;6602567713;6602213411;6506761928;35584434700;23002014900;7005306316;7801508249;7007035725;35396124700
+   - **Authoraffiliationids:** 60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623
+   - **Corresponding:** Hobson P.
+195.
+   - **Title:** A neural-statistical approach to multitemporal and multisource remote-sensing image classification
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 226
+   - **DOI:** 10.1109/36.763299
+   - **Scopus ID:** 2-s2.0-0032638011
+   - **ISSN:** 01962892
+   - **Volume:** 37
+   - **Issue:** 3 I
+   - **Pages:** 1350-1359
+   - **Authors:** Bruzzone Lorenzo; Prieto Diego Fernández; Serpico Sebastiano B.
+   - **Keywords:** Data fusion | Expectation maximization | Image classification | Multisource niultiteniporal images | Neural networks | Remote sensing
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 7006892410;6602314221;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bruzzone L.
+196.
+   - **Title:** New search algorithm for feature selection in high-dimensional remote sensing images
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1117/12.331895
+   - **Scopus ID:** 2-s2.0-84994858407
+   - **ISSN:** 0277786X
+   - **eISSN:** 1996756X
+   - **Volume:** 3500
+   - **Pages:** 34-41
+   - **Authors:** Bruzzone Lorenzo; Serpico Sebastiano B.
+   - **Keywords:** Feature selection | High-dimensional data | Hyperspectral data | Remote sensing | Search algorithms
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7006892410;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bruzzone L.
+197.
+   - **Title:** A simple upper bound to the Bayes error probability for feature selection
+   - **Venue:** Kybernetika
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0347721643
+   - **ISSN:** 00235954
+   - **Volume:** 34
+   - **Issue:** 4
+   - **Pages:** 387-392
+   - **Authors:** Bruzzone Lorenzo; Serpico Sebastiano B.
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q2, rank 59, percentile 56)
+     - Electrical and Electronic Engineering (Q2, rank 441, percentile 55)
+     - Control and Systems Engineering (Q2, rank 174, percentile 54)
+     - Information Systems (Q2, rank 233, percentile 53)
+     - Artificial Intelligence (Q2, rank 247, percentile 50)
+     - Software (Q3, rank 269, percentile 46)
+   - **Source Id:** 24449
+   - **Author Ids:** 7006892410;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bruzzone L.
+198.
+   - **Title:** Structured neural networks for signal classification
+   - **Venue:** Signal Processing
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1016/S0165-1684(97)00195-3
+   - **Scopus ID:** 2-s2.0-0031999914
+   - **ISSN:** 01651684
+   - **Volume:** 64
+   - **Issue:** 3
+   - **Pages:** 271-290
+   - **Authors:** Bruzzone L.; Roli F.; Serpico S. B.
+   - **Keywords:** Neural networks | Pattern recognition | Signal classification
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 25, percentile 87)
+     - Computer Vision and Pattern Recognition (Q1, rank 27, percentile 84)
+     - Electrical and Electronic Engineering (Q1, rank 166, percentile 83)
+     - Control and Systems Engineering (Q1, rank 71, percentile 81)
+     - Software (Q1, rank 101, percentile 79)
+   - **Source Id:** 25548
+   - **Author Ids:** 7006892410;57194734588;7005306316
+   - **Authoraffiliationids:** 60025153;60032259;60025153
+   - **Corresponding:** Bruzzone L.
+199.
+   - **Title:** A parallel network of modified 1-NN and k-NN classifiers - Application to remote-sensing image classification
+   - **Venue:** Pattern Recognition Letters
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1016/S0167-8655(97)00155-4
+   - **Scopus ID:** 2-s2.0-0031679088
+   - **ISSN:** 01678655
+   - **Volume:** 19
+   - **Issue:** 1
+   - **Pages:** 57-62
+   - **Authors:** Jóźwik Adam; Serpico Sebastiano; Roli Fabio
+   - **Keywords:** K-NN rule | Nonparametric method | Parallel classifier | Statistical pattern recognition
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 27, percentile 86)
+     - Computer Vision and Pattern Recognition (Q1, rank 29, percentile 83)
+     - Software (Q1, rank 112, percentile 77)
+     - Artificial Intelligence (Q1, rank 124, percentile 75)
+   - **Source Id:** 24825
+   - **Author Ids:** 7003546625;7005306316;57194734588
+   - **Authoraffiliationids:** 60028874;60025153;60025153
+   - **Corresponding:** Jóźwik A.
+200.
+   - **Title:** Fusion of multisensor and multitemporal data in remote-sensing image analysis
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0031642381
+   - **Volume:** 1
+   - **Pages:** 162-164
+   - **Authors:** Bruzzone Lorenzo; Serpico Sebastiano B.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7006892410;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bruzzone L.
+201.
+   - **Title:** Spatial correlation features for classification of SAR images
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1117/12.295609
+   - **Scopus ID:** 2-s2.0-57649105687
+   - **ISSN:** 0277786X
+   - **Volume:** 3217
+   - **Pages:** 245-252
+   - **Authors:** Dellepiane Silvana; Serpico Sebastiano; Vaccaro Roberto
+   - **Keywords:** Maximum likelihood | SAR | Spatial correlation | Statistical classification
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7004291247;7005306316;36747355200
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+202.
+   - **Title:** An iterative technique for the detection of land-cover transitions in multitemporal remote-sensing images
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 285
+   - **DOI:** 10.1109/36.602528
+   - **Scopus ID:** 2-s2.0-0031186955
+   - **ISSN:** 01962892
+   - **Volume:** 35
+   - **Issue:** 4
+   - **Pages:** 858-867
+   - **Authors:** Bruzzone Lorenzo; Serpico Sebastiano B.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 7006892410;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bruzzone L.
+203.
+   - **Title:** Analysis and segmentation of remote-sensing images for land-cover mapping
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 1997
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/3-540-63508-4_191
+   - **Scopus ID:** 2-s2.0-84957709875
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 1311
+   - **Pages:** 743-748
+   - **Authors:** Smits P. C.; Serpico S. B.
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 7102366572;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Smits P.
+204.
+   - **Title:** Detection of changes in remotely-sensed images by the selective use of multi-spectral information
+   - **Venue:** International Journal of Remote Sensing
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 51
+   - **DOI:** 10.1080/014311697216702
+   - **Scopus ID:** 2-s2.0-0031420167
+   - **ISSN:** 01431161
+   - **eISSN:** 13665901
+   - **Volume:** 18
+   - **Issue:** 18
+   - **Pages:** 3883-3888
+   - **Authors:** Bruzzone L.; Serpico S. B.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 45, percentile 77)
+   - **Source Id:** 22674
+   - **Author Ids:** 7006892410;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bruzzone L.
+205.
+   - **Title:** Classification of imbalanced remote-sensing data by neural networks
+   - **Venue:** Pattern Recognition Letters
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 73
+   - **DOI:** 10.1016/S0167-8655(97)00109-8
+   - **Scopus ID:** 2-s2.0-0031277930
+   - **ISSN:** 01678655
+   - **Volume:** 18
+   - **Issue:** 11-13
+   - **Pages:** 1323-1328
+   - **Authors:** Bruzzone L.; Serpico S. B.
+   - **Keywords:** Artificial neural networks | Imbalanced data set classification | Multilayer perceptron | Remote sensing
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 27, percentile 86)
+     - Computer Vision and Pattern Recognition (Q1, rank 29, percentile 83)
+     - Software (Q1, rank 112, percentile 77)
+     - Artificial Intelligence (Q1, rank 124, percentile 75)
+   - **Source Id:** 24825
+   - **Author Ids:** 7006892410;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bruzzone L.
+206.
+   - **Title:** Effects of parameter tuning and de-speckle filtering on the accuracy of SAR image classification based on gray-level co-occurrence matrix features
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-0030714418
+   - **Volume:** 2
+   - **Pages:** 764-766
+   - **Authors:** Bruzzone L.; Serpico S. B.; Vernazza G.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7006892410;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bruzzone L.
+207.
+   - **Title:** Training of neural networks for classification of imbalanced remote-sensing data
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0030688627
+   - **Volume:** 3
+   - **Pages:** 1202-1204
+   - **Authors:** Serpico S. B.; Bruzzone L.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7005306316;7006892410
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Serpico S.
+208.
+   - **Title:** Two approaches to the sample set condensation. Experiments with remote sensing images
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1117/12.262876
+   - **Scopus ID:** 2-s2.0-57849132662
+   - **ISSN:** 0277786X
+   - **Volume:** 2955
+   - **Pages:** 80-84
+   - **Authors:** Jóźwik Adam; Serpico Sebastiano B.; Roli Fabio
+   - **Keywords:** k-NN rules | Statistical pattern recognition | Training set reduction
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7003546625;7005306316;57194734588
+   - **Authoraffiliationids:** 60028874;60025153;60025153
+   - **Corresponding:** Jóźwik A.
+209.
+   - **Title:** Improving change detection accuracy by exploiting multispectral information
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1117/12.262888
+   - **Scopus ID:** 2-s2.0-57849114378
+   - **ISSN:** 0277786X
+   - **Volume:** 2955
+   - **Pages:** 208-213
+   - **Authors:** Bruzzone Lorenzo; Roli Fabio; Serpico Sebastiano Bruno
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7006892410;57194734588;7005306316
+   - **Authoraffiliationids:** 60025153;60032259;60025153
+   - **Corresponding:** Bruzzone L.
+210.
+   - **Title:** An experimental comparison of neural and statistical non-parametric algorithms for supervised classification of remote-sensing images
+   - **Venue:** Pattern Recognition Letters
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 84
+   - **DOI:** 10.1016/S0167-8655(96)00090-6
+   - **Scopus ID:** 2-s2.0-0030291988
+   - **ISSN:** 01678655
+   - **Volume:** 17
+   - **Issue:** 13
+   - **Pages:** 1331-1341
+   - **Authors:** Serpico S. B.; Bruzzone L.; Roli F.
+   - **Keywords:** Artificial neural networks | Remote-sensing image classification | Supervised classifiers
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 27, percentile 86)
+     - Computer Vision and Pattern Recognition (Q1, rank 29, percentile 83)
+     - Software (Q1, rank 112, percentile 77)
+     - Artificial Intelligence (Q1, rank 124, percentile 75)
+   - **Source Id:** 24825
+   - **Author Ids:** 7005306316;7006892410;57194734588
+   - **Authoraffiliationids:** 60025153;60025153;60032259
+   - **Corresponding:** Serpico S.B.
+211.
+   - **Title:** Classification of multisensor remote-sensing images by multiple structured neural networks
+   - **Venue:** Proceedings International Conference on Pattern Recognition
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ICPR.1996.547257
+   - **Scopus ID:** 2-s2.0-33750743554
+   - **ISSN:** 10514651
+   - **Volume:** 4
+   - **Pages:** 180-184
+   - **Authors:** Roli F.; Serpico S. B.; Bruzzone L.
+   - **Source Id:** 24282
+   - **Author Ids:** 57194734588;7005306316;7006892410
+   - **Authoraffiliationids:** 60032259;60025153;60025153
+   - **Corresponding:** Roli F.
+212.
+   - **Title:** A hybrid system for two-dimensional image recognition
+   - **Venue:** Proceedings of the IEEE
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1109/5.542414
+   - **Scopus ID:** 2-s2.0-0030291198
+   - **ISSN:** 00189219
+   - **Volume:** 84
+   - **Issue:** 11
+   - **Pages:** 1659-1680
+   - **Authors:** Roli Fabio; Serpico Sebastiano B.; Vernazzaenior Gianni
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 3, percentile 99)
+     - Computer Science (all) (Q1, rank 2, percentile 99)
+   - **Source Id:** 17915
+   - **Author Ids:** 57194734588;7005306316;54680217900
+   - **Authoraffiliationids:** 60032259-60025153;60032259;60032259
+   - **Corresponding:** Roli F.
+213.
+   - **Title:** Automatic technique for detecting land-cover transitions
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0029724018
+   - **Volume:** 2
+   - **Pages:** 1382-1384
+   - **Authors:** Serpico S. B.; Bruzzone L.; Roli F.; Gomarasca M. A.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7005306316;7006892410;57194734588;57220045797
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Serpico S.B.
+214.
+   - **Title:** Markov random field based image segmentation with adaptive neighborhoods to the detection of fine structures in SAR data
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-0029705718
+   - **Volume:** 1
+   - **Pages:** 714-716
+   - **Authors:** Smits P. C.; Dellepiane S.; Serpico S. B.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7102366572;7004291247;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Smits P.
+215.
+   - **Title:** Condensed version of the k-NN rule for remote sensing images classification
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0029515562
+   - **ISSN:** 0277786X
+   - **Volume:** 2579
+   - **Pages:** 196-198
+   - **Authors:** Jozwik Adam; Serpico Sebastiano B.; Roli Fabio
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7003546625;7005306316;57194734588
+   - **Authoraffiliationids:** 60028874;60028874;60028874
+   - **Corresponding:** Jozwik A.
+216.
+   - **Title:** Detection of land cover changes by compound classification of multitemporal images
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0029504697
+   - **ISSN:** 0277786X
+   - **Volume:** 2579
+   - **Pages:** 188-195
+   - **Authors:** Serpico Sebastiano B.; Roli Fabio; Bruzzone Lorenzo
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7005306316;57194734588;7006892410
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Serpico S.
+217.
+   - **Title:** Crack detection by a measure of texture anisotropy
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 1995
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/3-540-60298-4_341
+   - **Scopus ID:** 2-s2.0-84947804608
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 974
+   - **Pages:** 743-747
+   - **Authors:** Bruzzone L.; Roli F.; Serpico S. B.
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 7006892410;57194734588;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bruzzone L.
+218.
+   - **Title:** Land-cover classification in remote-sensing images using structured neural networks
+   - **Venue:** Earsel
+   - **Year:** 1995
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0029539309
+   - **Volume:** 4
+   - **Issue:** 3
+   - **Pages:** 107-115
+   - **Authors:** Roli F.; Serpico S. B.
+   - **Source Id:** 55891
+   - **Author Ids:** 57194734588;7005306316
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Roli F.
+219.
+   - **Title:** An Extension of the Jeffreys-Matusita Distance to Multiclass Cases for Feature Selection
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 1995
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 249
+   - **DOI:** 10.1109/36.477187
+   - **Scopus ID:** 2-s2.0-0029407869
+   - **ISSN:** 01962892
+   - **eISSN:** 15580644
+   - **Volume:** 33
+   - **Issue:** 6
+   - **Pages:** 1318-1321
+   - **Authors:** Bruzzone Lorenzo; Roli Fabio; Serpico Sebastiano B.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 7006892410;57194734588;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bruzzone L.
+220.
+   - **Title:** Classification of Multisensor Remote-Sensing Images by Structured Neural Networks
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 1995
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 131
+   - **DOI:** 10.1109/36.387573
+   - **Scopus ID:** 2-s2.0-0029307334
+   - **ISSN:** 01962892
+   - **eISSN:** 15580644
+   - **Volume:** 33
+   - **Issue:** 3
+   - **Pages:** 562-578
+   - **Authors:** Serpico Sebastiano B.; Roli Fabio
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 7005306316;57194734588
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Serpico S.B.
+221.
+   - **Title:** Experimental comparison of neural networks for the classification of multisensor remote-sensing images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0029200210
+   - **Volume:** 1
+   - **Pages:** 452-454
+   - **Authors:** Bruzzone L.; Roli F.; Serpico S. B.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7006892410;57194734588;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bruzzone L.
+222.
+   - **Title:** Adaptive probabilistic model for straight edge-extraction within a multilevel MRF framework
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-0029192623
+   - **Volume:** 1
+   - **Pages:** 458-460
+   - **Authors:** Regazzoni C. S.; Foresti G. L.; Serpico S. B.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 35513672400;7006427233;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Regazzoni C.
+223.
+   - **Title:** Network of modified 1-NN and fuzzy k-NN classifiers in application to remote sensing image recognition
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1994
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0028754263
+   - **ISSN:** 0277786X
+   - **Volume:** 2315
+   - **Pages:** 562-568
+   - **Authors:** Jozwik Adam; Serpico Sebastiano B.; Roli Fabio
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7003546625;7005306316;57194734588
+   - **Authoraffiliationids:** 105912745;105912745;105912745
+   - **Corresponding:** Jozwik A.
+224.
+   - **Title:** Feature selection for remote-sensing data classification
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1994
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0028736511
+   - **ISSN:** 0277786X
+   - **Volume:** 2315
+   - **Pages:** 569-577
+   - **Authors:** Serpico Sebastiano B.; Pellegretti Paolo; Bruzzone Lorenzo
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7005306316;7801594635;7006892410
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Serpico S.
+225.
+   - **Title:** Intelligent Control of Signal Processing Algorithms in Communications
+   - **Venue:** IEEE Journal on Selected Areas in Communications
+   - **Year:** 1994
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1109/49.339924
+   - **Scopus ID:** 2-s2.0-0028715410
+   - **ISSN:** 07338716
+   - **Volume:** 12
+   - **Issue:** 9
+   - **Pages:** 1553-1565
+   - **Authors:** Roli Fabio; Serpico Sebastiano B.; Vernazza Gianni
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 4, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 8, percentile 99)
+   - **Source Id:** 18902
+   - **Author Ids:** 57194734588;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Roli F.
+226.
+   - **Title:** Supervised Learning of Descriptions for Image Recognition Purposes
+   - **Venue:** IEEE Transactions on Pattern Analysis and Machine Intelligence
+   - **Year:** 1994
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1109/34.273712
+   - **Scopus ID:** 2-s2.0-0028282242
+   - **ISSN:** 01628828
+   - **Volume:** 16
+   - **Issue:** 1
+   - **Pages:** 92-98
+   - **Authors:** Pellegretti Paolo; Roli Fabio; Serpico Sebastiano B.; Vernazza Gianni
+   - **Keywords:** fuzzy descriptions | image classifica- | machine learning | Pattern recognition | tion | tomographical medical images
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 1, percentile 99)
+     - Computational Theory and Mathematics (Q1, rank 1, percentile 99)
+     - Software (Q1, rank 3, percentile 99)
+     - Artificial Intelligence (Q1, rank 4, percentile 99)
+     - Computer Vision and Pattern Recognition (Q1, rank 2, percentile 99)
+   - **Source Id:** 24254
+   - **Author Ids:** 7801594635;57194734588;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Pellegretti P.
+227.
+   - **Title:** Structured neural networks for the classification of multisensor remote-sensing images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1993
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0027800666
+   - **Volume:** 2
+   - **Pages:** 907-909
+   - **Authors:** Serpico S. B.; Roli F.; Pellegretti P.; Vernazza G.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7005306316;57194734588;7801594635;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Serpico S.
+228.
+   - **Title:** Generation of land-cover descriptions for the classification of multisensor remote-sensing images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1993
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0027800273
+   - **Volume:** 4
+   - **Pages:** 1701-1703
+   - **Authors:** Pellegretti Paolo; Serpico Sebastiano B.; Vernazza Gianni
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7801594635;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Pellegretti P.
+229.
+   - **Title:** Multisensor image classification by structured neural networks
+   - **Venue:** Neural Networks for Signal Processing III Proceedings of the 1993 IEEE Workshop Nnsp 1993
+   - **Year:** 1993
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/NNSP.1993.471857
+   - **Scopus ID:** 2-s2.0-85064848301
+   - **Pages:** 311-320
+   - **Authors:** Roli F.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 21100904503
+   - **Author Ids:** 57194734588;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Roli F.
+230.
+   - **Title:** Automatic acquisition of visual models for image recognition
+   - **Venue:** Proceedings International Conference on Pattern Recognition
+   - **Year:** 1992
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ICPR.1992.201516
+   - **Scopus ID:** 2-s2.0-85027666431
+   - **ISSN:** 10514651
+   - **Volume:** 1
+   - **Pages:** 95-98
+   - **Authors:** Fichera O.; Pellegretti P.; Roli F.; Serpico S. B.
+   - **Source Id:** 24282
+   - **Author Ids:** 57203372661;7801594635;57194734588;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Fichera O.
+231.
+   - **Title:** A technique for defining the architecture and weights of a neural image classifier
+   - **Venue:** ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings
+   - **Year:** 1992
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICASSP.1992.226035
+   - **Scopus ID:** 2-s2.0-85019391573
+   - **ISSN:** 15206149
+   - **Volume:** 2
+   - **Pages:** 401-404
+   - **Authors:** Re R.; Roli F.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 110544
+   - **Author Ids:** 57209759821;57194734588;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Re R.
+232.
+   - **Title:** Remote sensing data fusion by means of a region-overlapping technique
+   - **Venue:** Digest International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1991
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0026394056
+   - **Volume:** 2
+   - **Pages:** 1091-1094
+   - **Authors:** Dambra C.; Roli F.; Serpico S. B.; Wielogorski A.; Agostinelli A.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 58237414800;57194734588;7005306316;6602884784;6701393006
+   - **Corresponding:** Dambra C.
+233.
+   - **Title:** Multisensor data fusion by a region-based approach
+   - **Venue:** Proceedings ICASSP IEEE International Conference on Acoustics Speech and Signal Processing
+   - **Year:** 1991
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/icassp.1991.150938
+   - **Scopus ID:** 2-s2.0-0026370656
+   - **ISSN:** 07367791
+   - **Volume:** 4
+   - **Pages:** 2617-2620
+   - **Authors:** Agostinelli A.; Dambra C.; Serpico S.; Vernazza G.
+   - **Source Id:** 110544
+   - **Author Ids:** 6701393006;58237414800;7005306316;7005048304
+   - **Corresponding:** Agostinelli A.
+234.
+   - **Title:** Image classification by integration of neural networks and machine learning
+   - **Venue:** Proceedings ICASSP IEEE International Conference on Acoustics Speech and Signal Processing
+   - **Year:** 1991
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/icassp.1991.150876
+   - **Scopus ID:** 2-s2.0-0026369961
+   - **ISSN:** 07367791
+   - **Volume:** 4
+   - **Pages:** 2401-2404
+   - **Authors:** Serpico S. B.
+   - **Source Id:** 110544
+   - **Author Ids:** 7005306316
+   - **Corresponding:** Serpico S.B.
+235.
+   - **Title:** Sar image recognition by integration of intensity and textural information
+   - **Venue:** International Journal of Remote Sensing
+   - **Year:** 1991
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1080/01431169108955219
+   - **Scopus ID:** 2-s2.0-0026358552
+   - **ISSN:** 01431161
+   - **eISSN:** 13665901
+   - **Volume:** 12
+   - **Issue:** 9
+   - **Pages:** 1915-1932
+   - **Authors:** Dellepiane S.; Giusto D. D.; Serpico S. B.; Vernazza G.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 45, percentile 77)
+   - **Source Id:** 22674
+   - **Author Ids:** 7004291247;7004570907;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+236.
+   - **Title:** A contribution to the standardisation of bone tissue densitometry
+   - **Venue:** Minerva Medica
+   - **Year:** 1991
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0025922073
+   - **ISSN:** 00264806
+   - **Volume:** 82
+   - **Issue:** 5
+   - **Pages:** 251-254
+   - **Authors:** Cambiaso A.; Serpico S. B.; Dambra C.; Antognetti P. F.; Cetta G.; Zanaboni G.
+   - **Source Id:** 26687
+   - **Author Ids:** 57507527800;7005306316;58237414800;7003816900;7005014029;6603814695
+   - **Corresponding:** Cambiaso A.
+237.
+   - **Title:** Territorial analysis by fusion of LANDSAT and SAR data
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1991
+   - **Type:** Unknown
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1117/12.45848
+   - **Scopus ID:** 2-s2.0-0025767556
+   - **ISSN:** 0277786X
+   - **Volume:** 1492
+   - **Pages:** 206-212
+   - **Authors:** Vernazza Gianni L.; Dambra Carlo; Parizzi Francesco; Roli Fabio; Serpico Sebastiano B.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7005048304;58237414800;6603169751;57194734588;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Vernazza G.L.
+238.
+   - **Title:** MuSIP - multi-sensor image processing
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1991
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0025720352
+   - **ISSN:** 0277786X
+   - **Volume:** 1521
+   - **Pages:** 74-88
+   - **Authors:** de Salabert A.; Pike T. K.; Sawyer F. G.; Jones-Parry I. H.; Rye A. J.; Oddy C. J.; Johnson D. G.; Mason D.; Wielogorski A. L.; Plassard T.; Serpico S. B.; Hindley N.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 6507977541;7004217776;6701793996;6504751905;6603544067;6602712079;7406821467;7401469110;6602884784;6505626584;7005306316;56501900900
+   - **Authoraffiliationids:** 100351813;100351813;100351813;100351813;100351813;100351813;100351813;100351813;100351813;100351813;100351813;100351813
+   - **Corresponding:** de Salabert A.
+239.
+   - **Title:** MuSIP. Multisensor image processor. (A system for the automated fusion and analysis of multisource images)
+   - **Venue:** IEE Colloquium Digest
+   - **Year:** 1990
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0025548679
+   - **ISSN:** 09633308
+   - **Issue:** 59
+   - **Authors:** Wielogorski A. L.; Barr M. C.; Rye A. J.; Johnson D. J.; Bishop M. J.; de Salabert A.; Mason D.; Bell S.; Catros J. Y.; Serpico S. B.; Vernazza G.; Hindley N.
+   - **Source Id:** 17917
+   - **Author Ids:** 6602884784;57213336897;6603544067;57197154577;57215702914;6507977541;7401469110;58344175100;6603245889;7005306316;7005048304;56501900900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Wielogorski A.L.
+240.
+   - **Title:** Control strategies for error handling in a knowledge-based system for image processing and recognition
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1990
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0025536044
+   - **ISSN:** 0277786X
+   - **Volume:** 1293 pt 1
+   - **Pages:** 31-42
+   - **Authors:** Agazzani D.; Cerini S.; Serpico S. B.; Vernazza G.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 6506100215;6505473392;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Agazzani D.
+241.
+   - **Title:** A new adaptive approach to picture coding
+   - **Venue:** Annales Des Telecommunications
+   - **Year:** 1990
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1007/BF02995303
+   - **Scopus ID:** 2-s2.0-0041134523
+   - **ISSN:** 00034347
+   - **eISSN:** 19589395
+   - **Volume:** 45
+   - **Issue:** 9-10
+   - **Pages:** 503-518
+   - **Authors:** Giusto Daniele D.; Regazzoni Carlo S.; Serpico Sebastiano B.; Vernazza Gianni
+   - **Keywords:** Adaptive method | Block quantization | Image coding | Image recognition | Polynomial approximation | Segmentation
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 244, percentile 75)
+   - **Source Id:** 17722
+   - **Author Ids:** 7004570907;35513672400;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Giusto D.
+242.
+   - **Title:** From numeric up to symbolic processing of medical tomographic images
+   - **Venue:** Rivista Di Neuroradiologia
+   - **Year:** 1990
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0025255376
+   - **Volume:** 3
+   - **Issue:** 1
+   - **Pages:** 63-80
+   - **Authors:** Dellepiane S.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 17887
+   - **Author Ids:** 7004291247;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+243.
+   - **Title:** Developments and experimental results of K-B system for workpieces recognition
+   - **Venue:** undefined
+   - **Year:** 1989
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0024902910
+   - **Pages:** 357-360
+   - **Authors:** Dellepiane S.; Narducci A.; Serpico S. B.; Vernazza G.; Zini G.
+   - **Source Id:** 144486
+   - **Author Ids:** 7004291247;6602361176;7005306316;7005048304;7005446052
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+244.
+   - **Title:** High-performance image coding. Integration of different techniques by a knowledge-based recognition system
+   - **Venue:** Alta Frequenza
+   - **Year:** 1989
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0024667237
+   - **ISSN:** 00026557
+   - **Volume:** 58
+   - **Issue:** 3
+   - **Pages:** 277-285
+   - **Authors:** Giusto Daniele D.; Regazzoni Carlo S.; Serpico Sebastiano B.; Vernazza Gianni
+   - **Source Id:** 40401
+   - **Author Ids:** 7004570907;35513672400;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Giusto D.
+245.
+   - **Title:** Merging of different segmentation techniques for cell image recognition
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1989
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1117/12.950283
+   - **Scopus ID:** 2-s2.0-84957513834
+   - **ISSN:** 0277786X
+   - **eISSN:** 1996756X
+   - **Volume:** 1027
+   - **Pages:** 208-213
+   - **Authors:** Serpico Sebastiano B.; Vernazza Gianni; Dellepiane Silvana
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7005306316;7005048304;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Serpico S.B.
+246.
+   - **Title:** Detection of arcs in workpiece images
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 1989
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/3-540-51815-0_65
+   - **Scopus ID:** 2-s2.0-85034641749
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 399 Lncs
+   - **Pages:** 324-337
+   - **Authors:** Milano Angelo; Perotti Federico; Serpico Sebastiano B.; Vernazza Gianni
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 57197775069;57197765562;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Milano A.
+247.
+   - **Title:** A framework for processing and interpretation of three-dimensional signals from multislices
+   - **Venue:** Signal Processing
+   - **Year:** 1989
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1016/0165-1684(89)90036-4
+   - **Scopus ID:** 2-s2.0-0024771999
+   - **ISSN:** 01651684
+   - **Volume:** 18
+   - **Issue:** 3
+   - **Pages:** 239-258
+   - **Authors:** Dellepiane S.; Serpico S. B.; Vernazza G.
+   - **Keywords:** 3-D features | 3-D signals | fractals | fuzzy descriptions | knowledge-based interpretation | low-level processing
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 25, percentile 87)
+     - Computer Vision and Pattern Recognition (Q1, rank 27, percentile 84)
+     - Electrical and Electronic Engineering (Q1, rank 166, percentile 83)
+     - Control and Systems Engineering (Q1, rank 71, percentile 81)
+     - Software (Q1, rank 101, percentile 79)
+   - **Source Id:** 25548
+   - **Author Ids:** 7004291247;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+248.
+   - **Title:** Application of fractal techniques to X-ray image analysis
+   - **Venue:** Radiologia Medica
+   - **Year:** 1989
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **Scopus ID:** 2-s2.0-0024406367
+   - **ISSN:** 00338362
+   - **Volume:** 77
+   - **Issue:** 5
+   - **Pages:** 535-539
+   - **Authors:** Antognetti P. F.; Dellepiane S.; Serpico S. B.; Vernazza G.
+   - **Quartile:**
+     2025:
+     - Radiology, Nuclear Medicine and Imaging (Q1, rank 18, percentile 95)
+   - **Source Id:** 17858
+   - **Author Ids:** 7003816900;7004291247;7005306316;7005048304
+   - **Authoraffiliationids:** 60107402;60107402;60107402;60107402
+   - **Corresponding:** Antognetti P.F.
+249.
+   - **Title:** Information fusion by a knowledge-based system for SAR image interpretation
+   - **Venue:** Digest International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1988
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0024185010
+   - **Volume:** 3
+   - **Pages:** 1845-1846
+   - **Authors:** Dellepiane S.; Giusto D. D.; Serpico S. B.; Vernazza G.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q3, rank 117, percentile 41)
+     - Computer Science Applications (Q3, rank 688, percentile 29)
+   - **Source Id:** 82000
+   - **Author Ids:** 7004291247;7004570907;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+250.
+   - **Title:** Vision systems in industrial applications: an expert system for superposed mechanical parts
+   - **Venue:** Aei Automazione Energia Informazione
+   - **Year:** 1988
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0024174447
+   - **ISSN:** 00136131
+   - **Volume:** 75
+   - **Issue:** 12
+   - **Pages:** 1175-1184
+   - **Authors:** Bruzzone A.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 30317
+   - **Author Ids:** 35570770700;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bruzzone A.
+251.
+   - **Title:** Analysis and classification of SAR images by a knowledge-based approach
+   - **Venue:** Proceedings International Conference on Pattern Recognition
+   - **Year:** 1988
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0024168119
+   - **Pages:** 1207-1209
+   - **Authors:** Dellepiane S.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 24282
+   - **Author Ids:** 7004291247;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+252.
+   - **Title:** Textural analysis of 3d objects by a fractal-preserving approach
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1988
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1117/12.969021
+   - **Scopus ID:** 2-s2.0-84957501280
+   - **ISSN:** 0277786X
+   - **eISSN:** 1996756X
+   - **Volume:** 1001
+   - **Pages:** 732-738
+   - **Authors:** Dambra C.; Dellepiane S.; Regazzoni C.; Serpico S. B.; Vernazza G.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 58237414800;7004291247;35513672400;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Dambra C.
+253.
+   - **Title:** A learning system for the generation of conceptual descriptions for workpiece recognition purposes
+   - **Venue:** Proceedings IECON 1988 Robotics and Vision 1988 International Conference on Industrial Electronics
+   - **Year:** 1988
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IECON.1988.660420
+   - **Scopus ID:** 2-s2.0-85069209891
+   - **Pages:** 76-81
+   - **Authors:** Dellepiane S.; Ghiglia G.; Roli F.; Serpico S. B.; Vernazza G.
+   - **Keywords:** AI approach | Frame-based description | Inductive learning by examples | Machine learning | Statistical analysis | Structured models | Workpiece recognition
+   - **Source Id:** 21101081109
+   - **Author Ids:** 7004291247;57209977185;57194734588;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+254.
+   - **Title:** Extension of IBIS for 3D organ recognition in NMR multislices
+   - **Venue:** Pattern Recognition Letters
+   - **Year:** 1988
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1016/0167-8655(88)90048-7
+   - **Scopus ID:** 2-s2.0-38249029080
+   - **ISSN:** 01678655
+   - **Volume:** 8
+   - **Issue:** 2
+   - **Pages:** 65-72
+   - **Authors:** Dellepiane S.; Regazzoni C.; Serpico S. B.; Vernazza G.
+   - **Keywords:** 3D recognition | expert systems | knowledge-based systems | medical images | signal processing
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 27, percentile 86)
+     - Computer Vision and Pattern Recognition (Q1, rank 29, percentile 83)
+     - Software (Q1, rank 112, percentile 77)
+     - Artificial Intelligence (Q1, rank 124, percentile 75)
+   - **Source Id:** 24825
+   - **Author Ids:** 7004291247;35513672400;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+255.
+   - **Title:** Information fusion by a knowledge-based system for SAR image interpretation
+   - **Venue:** Remote Sensing Proc IGARSS 88 Symposium Edinburgh 1988 Vol 3
+   - **Year:** 1988
+   - **Type:** Book
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0024228257
+   - **Pages:** 1845-1846
+   - **Authors:** Dellepiane S.; Giusto D. D.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 21100681330
+   - **Author Ids:** 7004291247;7004570907;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+256.
+   - **Title:** Exploitation of intensity and textural information in SAR image analysis driven by a knowledge-based structure
+   - **Venue:** Alpine and Mediterranean Areas Proc 8th Earsel Symposium Capri 1988
+   - **Year:** 1988
+   - **Type:** Book
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0024149917
+   - **Pages:** 49-65
+   - **Authors:** Dellepiane S.; Giusto D. D.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 110285
+   - **Author Ids:** 7004291247;7004570907;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+257.
+   - **Title:** Fractal analysis for discrimination of overlapped structures in radiological images
+   - **Venue:** IEEE Engineering in Medicine and Biology Society Annual Conference
+   - **Year:** 1988
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/iembs.1988.94553
+   - **Scopus ID:** 2-s2.0-0024111413
+   - **Volume:** 10
+   - **Issue:** pt 1
+   - **Pages:** 349-350
+   - **Authors:** Antognetti P. F.; Dellepiane S.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 87373
+   - **Author Ids:** 7003816900;7004291247;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Antognetti P.F.
+258.
+   - **Title:** Fractal Dimension Estimation By Adaptive Mask Selection.
+   - **Venue:** ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings
+   - **Year:** 1988
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-0023776128
+   - **ISSN:** 07367791
+   - **Pages:** 1116-1119
+   - **Authors:** Arduini F.; Dambra C.; Dellepiane S.; Serpico S. B.; Vernazza G.; Viviani R.
+   - **Source Id:** 110544
+   - **Author Ids:** 6602454752;58237414800;7004291247;7005306316;7005048304;7005527114
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Arduini F.
+259.
+   - **Title:** Fuzzy-Reasoning Approach To Understanding Of 2d Nmr Images.
+   - **Venue:** IEEE Engineering in Medicine and Biology Society Annual Conference
+   - **Year:** 1987
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0023570068
+   - **Pages:** 1980-1981
+   - **Authors:** Serpico S. B.; Sturaro F.; Vernazza G.; Dellepiane S.
+   - **Source Id:** 87373
+   - **Author Ids:** 7005306316;6505732901;7005048304;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Serpico S.
+260.
+   - **Title:** Quality assessment of a new technique for recording fluoroscopic images
+   - **Venue:** Rays International Journal of Radiological Sciences
+   - **Year:** 1987
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0023553035
+   - **Volume:** 12
+   - **Issue:** 2
+   - **Pages:** 21-24
+   - **Authors:** Antognetti P. F.; Cambiso A.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 33058
+   - **Author Ids:** 7003816900;6503974522;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Antognetti P.F.
+261.
+   - **Title:** Recognition Of Partially Occluded Workpieces By A Knowledge-Based System.
+   - **Venue:** undefined
+   - **Year:** 1987
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0023548268
+   - **Pages:** 1149-1156
+   - **Authors:** Serpico S. B.; Vernazza G.; Dellepiane S.; Angela P.
+   - **Source Id:** 130662
+   - **Author Ids:** 7005306316;7005048304;7004291247;6507683685
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Serpico S.
+262.
+   - **Title:** Expert System For The Recognition Of Anatomical Organs From 3d Data-Base.
+   - **Venue:** IEEE Engineering in Medicine and Biology Society Annual Conference
+   - **Year:** 1987
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0023540501
+   - **Pages:** 933-934
+   - **Authors:** Dellepiane S.; Serpico S. B.; Vernazza G.; Bruzzone S.; Regazzoni C.
+   - **Source Id:** 87373
+   - **Author Ids:** 7004291247;7005306316;7005048304;57197922492;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+263.
+   - **Title:** Fractal-based image analysis in radiological applications
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1987
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1117/12.976530
+   - **Scopus ID:** 2-s2.0-0010830374
+   - **ISSN:** 0277786X
+   - **eISSN:** 1996756X
+   - **Volume:** 845
+   - **Pages:** 396-403
+   - **Authors:** Dellepiane S.; Serpico S. B.; Vernazza G.; Viviani R.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7004291247;7005306316;7005048304;7005527114
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+264.
+   - **Title:** Prospects of Biophysical Engineering: Biotechnologies.
+   - **Venue:** Aei Automazione Energia Informazione
+   - **Year:** 1987
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0023349594
+   - **ISSN:** 00136131
+   - **Volume:** 74
+   - **Issue:** 5
+   - **Pages:** 477-484
+   - **Authors:** Grattarola M.; Vernazza G.; Serpico S. B.; Giannetti G.; Parodi M.; Chiabrera A.
+   - **Source Id:** 30317
+   - **Author Ids:** 7005398663;7005048304;7005306316;6603378991;35508934400;7004572693
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Grattarola M.
+265.
+   - **Title:** Recognition of partially occluded workpieces by a knowledge-based system
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1987
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1117/12.968292
+   - **Scopus ID:** 2-s2.0-84958488368
+   - **ISSN:** 0277786X
+   - **eISSN:** 1996756X
+   - **Volume:** 858
+   - **Pages:** 1149-1156
+   - **Authors:** Serpico S. B.; Vernazza G.; Dellepiane S.; Angela P.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7005306316;7005048304;7004291247;6507683685
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Serpico S.B.
+266.
+   - **Title:** A knowledge-based system for biomedical image processing and recognition
+   - **Venue:** IEEE Transactions on Circuits and Systems
+   - **Year:** 1987
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 41
+   - **DOI:** 10.1109/TCS.1987.1086063
+   - **Scopus ID:** 2-s2.0-0023669958
+   - **ISSN:** 00984094
+   - **Volume:** 34
+   - **Issue:** 11
+   - **Pages:** 1399-1416
+   - **Authors:** Vernazza Gianni L.; Serpico Sebastiano B.; Dellepiane Silvana G.
+   - **Source Id:** 40260
+   - **Author Ids:** 7005048304;7005306316;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Vernazza G.L.
+267.
+   - **Title:** Problems And Prospects In Image Processing Of Two-Dimensional Gel Electrophoresis.
+   - **Venue:** Optical Engineering
+   - **Year:** 1987
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1117/12.7974132
+   - **Scopus ID:** 2-s2.0-0023382425
+   - **ISSN:** 00913286
+   - **Volume:** 26
+   - **Issue:** 7
+   - **Pages:** 661-668
+   - **Authors:** Serpico S. B.; Vernazza G.
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q2, rank 164, percentile 52)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 148, percentile 38)
+   - **Source Id:** 12316
+   - **Author Ids:** 7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Serpico S.B.
+268.
+   - **Title:** Structural Analysis In Medical Imaging.
+   - **Venue:** undefined
+   - **Year:** 1986
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-0023005148
+   - **Pages:** 522-529
+   - **Authors:** Dellepiane S.; Serpico S. B.; Venzano L.; Vernazza Gianni
+   - **Source Id:** 130841
+   - **Author Ids:** 7004291247;7005306316;6506049856;7005048304
+   - **Corresponding:** Dellepiane S.
+269.
+   - **Title:** Image Understanding And 3d Reconstruction Of Biomedical Images.
+   - **Venue:** IEEE Engineering in Medicine and Biology Society Annual Conference
+   - **Year:** 1986
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0022987561
+   - **Pages:** 1122-1125
+   - **Authors:** Beltrame F.; Bianco B.; Dellepiane S.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 87373
+   - **Author Ids:** 56917371500;7005080001;7004291247;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Beltrame F.
+270.
+   - **Title:** Approximate Reasoning And Knowledge In Nmr Image Understanding.
+   - **Venue:** Proceedings International Conference on Pattern Recognition
+   - **Year:** 1986
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0022956166
+   - **Pages:** 943-946
+   - **Authors:** Dellepiane S.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 24282
+   - **Author Ids:** 7004291247;7005306316;7005048304
+   - **Corresponding:** Dellepiane S.
+271.
+   - **Title:** Preliminary Approach To Understanding Of Biomedical Nmr Images.
+   - **Venue:** undefined
+   - **Year:** 1986
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0022947884
+   - **Pages:** 318-322
+   - **Authors:** Dellepiane S.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 130354
+   - **Author Ids:** 7004291247;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+272.
+   - **Title:** Computerized analysis of two-dimensional electrophoretic images g.Vernazza1
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1986
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1117/12.952171
+   - **Scopus ID:** 2-s2.0-84957507413
+   - **ISSN:** 0277786X
+   - **eISSN:** 1996756X
+   - **Volume:** 593
+   - **Pages:** 154-162
+   - **Authors:** Serpico S. B.; Giusto D.; Caredda A.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7005306316;7004570907;57188754889
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Serpico S.B.
+273.
+   - **Title:** Some results in multi-energy digital radiology
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1985
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1117/12.947255
+   - **Scopus ID:** 2-s2.0-0021942443
+   - **ISSN:** 0277786X
+   - **eISSN:** 1996756X
+   - **Volume:** 535
+   - **Pages:** 202-207
+   - **Authors:** Vernazza Gianni; Caratozzolo Francesco; Serpico Sebastiano B.; Geraci Sandro
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7005048304;6507884877;7005306316;7004085478
+   - **Corresponding:** Vernazza G.
+274.
+   - **Title:** Digital radiography
+   - **Venue:** Minerva Medica
+   - **Year:** 1982
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0020406929
+   - **ISSN:** 00264806
+   - **Volume:** 73
+   - **Issue:** 49-50
+   - **Pages:** 3491-3494
+   - **Authors:** Vernazza G.; Pavanelli E.; Serpico S.; Bertolini C.; Chiabrera A.; Antognetti P. F.; Mondani P.
+   - **Source Id:** 26687
+   - **Author Ids:** 7005048304;6506718762;7005306316;55441779300;7004572693;7003816900;55442538300
+   - **Authoraffiliationids:** 60025153;60025153;60025153;;;;
+   - **Corresponding:** Vernazza G.
+275.
+   - **Title:** Non-Interacting Ellipsoidal Bodies Suspensions.
+   - **Venue:** Alta Frequenza
+   - **Year:** 1982
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0020179747
+   - **ISSN:** 00026557
+   - **Volume:** 51
+   - **Issue:** 5
+   - **Pages:** 287-290
+   - **Authors:** Parodi Mauro; Serpico Sebastiano; Ridella Sandro
+   - **Source Id:** 40401
+   - **Author Ids:** 35508934400;7005306316;7006643280
+   - **Corresponding:** Parodi M.

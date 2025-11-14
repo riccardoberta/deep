@@ -1,0 +1,104 @@
+{
+  "generated_at": "2025-11-14T15:12:22.088088",
+  "windows": [
+    {
+      "key": "overall",
+      "label": "Overall",
+      "years": null
+    },
+    {
+      "key": "w15",
+      "label": "Last 15 years",
+      "years": 15
+    },
+    {
+      "key": "w10",
+      "label": "Last 10 years",
+      "years": 10
+    },
+    {
+      "key": "w5",
+      "label": "Last 5 years",
+      "years": 5
+    }
+  ],
+  "nodes": [
+    {
+      "id": "55890888700",
+      "label": "Francesco Bellotti",
+      "name": "Francesco",
+      "surname": "Bellotti",
+      "unit": "ICT",
+      "scopus_id": "55890888700",
+      "unige_id": "700208",
+      "h_index": {
+        "overall": 30,
+        "w15": 26,
+        "w10": 16,
+        "w5": 11
+      }
+    },
+    {
+      "id": "6701751695",
+      "label": "Riccardo Berta",
+      "name": "Riccardo",
+      "surname": "Berta",
+      "unit": "ICT",
+      "scopus_id": "6701751695",
+      "unige_id": "700666",
+      "h_index": {
+        "overall": 28,
+        "w15": 26,
+        "w10": 17,
+        "w5": 11
+      }
+    },
+    {
+      "id": "35612596100",
+      "label": "Paolo Gastaldo",
+      "name": "Paolo",
+      "surname": "Gastaldo",
+      "unit": "ICT",
+      "scopus_id": "35612596100",
+      "unige_id": "700386",
+      "h_index": {
+        "overall": 23,
+        "w15": 19,
+        "w10": 14,
+        "w5": 11
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "55890888700",
+      "target": "6701751695",
+      "weight": {
+        "overall": 180,
+        "w15": 156,
+        "w10": 124,
+        "w5": 80
+      }
+    },
+    {
+      "source": "35612596100",
+      "target": "55890888700",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "35612596100",
+      "target": "6701751695",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 3,
+        "w5": 3
+      }
+    }
+  ]
+}

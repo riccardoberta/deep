@@ -1,0 +1,1559 @@
+# Invernizzi Marco
+
+## Overview
+- **Unit:** ELE
+- **Role:** Professore ordinario
+- **Grade:** Prof.Ordinario DPR 232/11 art.2 - t.pieno - cl. 7
+- **SSD:** IIND-08/B (Sistemi elettrici per l'energia)
+- **Scopus ID:** 6701527755
+- **UNIGE ID:** 053485
+- **Retrieved at:** 2025-11-14T15:15:32.348087
+
+## Contact
+- **Email:** marco.invernizzi@unige.it
+- **Phone:** +39 010 33 52184
+- **Page:** https://rubrica.unige.it/personale/VUZEX1Js
+- **Locations:** Opera Pia - padiglione D (ED_161450401), 1° piano, US_161450401.I.018
+
+## Career
+- PO, 2012-05-01 → 2222-02-02
+
+## Responsibilities
+- **Title:** Presidente Advisory Board centro strategico
+  - **Unit:** Centro sicurezza, rischio e vulnerabilità
+  - **Period:** 2022-07-25 → 2025-12-31
+
+## Teaching
+### 2025
+- Generazione E Distribuzione Sostenibile Dell'Energia Elettrica (111143), L-9 - Ingegneria Elettrica
+- Impianti Elettrici Navali (66118), L-9 - Ingegneria Navale
+- Shipboard Power Systems (101131), L-28 - Maritime Science And Technology
+- Hospital Energy Systems (84341), Lm-21 - Bioengineering
+- Power Systems Analysis (118101), Lm-28 - Electrical Engineering For Energy Transition
+
+### 2024
+- Impianti Elettrici (66117), L-9 - Ingegneria Elettrica
+- Impianti Elettrici Navali (66118), L-9 - Ingegneria Navale
+- Shipboard Power Systems (101131), L-28 - Maritime Science And Technology
+
+### 2023
+- Impianti Elettrici (66117), L-9 - Ingegneria Elettrica
+- Impianti Elettrici Navali (66118), L-9 - Ingegneria Navale
+- Shipboard Power Systems (101131), L-28 - Maritime Science And Technology
+
+### 2022
+- Impianti Elettrici (66117), L-9 - Ingegneria Elettrica
+- Impianti Elettrici Navali (66118), L-9 - Ingegneria Navale
+- Shipboard Power Systems (101131), L-28 - Maritime Science And Technology
+
+### 2021
+- Impianti Elettrici (66117), L-9 - Ingegneria Elettrica
+- Impianti Elettrici Navali (66118), L-9 - Ingegneria Navale
+- Shipboard Power Systems (101131), L-28 - Maritime Science And Technology
+
+### 2020
+- Impianti Elettrici (66117), L-9 - Ingegneria Elettrica
+- Impianti Elettrici Navali (66118), L-9 - Ingegneria Navale
+- Shipboard Power Systems (101131), L-28 - Maritime Science And Technology
+
+## Scopus Metrics
+- absolute; Docs: 77; Journals: 28; Conferences: 48; Citations: 1107; H-index: 18
+- 15 years (2010-2025); Docs: 43; Journals: 17; Conferences: 26; Citations: 626; H-index: 14
+- 10 years (2015-2025); Docs: 29; Journals: 14; Conferences: 15; Citations: 438; H-index: 12
+- 05 years (2020-2025); Docs: 12; Journals: 4; Conferences: 8; Citations: 70; H-index: 5
+
+## Scopus Products
+1.
+   - **Title:** An Effective Energy Management System to Assess the Convenience of Participating in Electricity Markets
+   - **Venue:** IFAC Papersonline
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1016/j.ifacol.2025.08.107
+   - **Scopus ID:** 2-s2.0-105016595058
+   - **ISSN:** 24058971
+   - **eISSN:** 24058963
+   - **Volume:** 59
+   - **Issue:** 9
+   - **Pages:** 25-30
+   - **Authors:** Martino M.; Invernizzi M.
+   - **Keywords:** Ancillary Service Markets | Energy Management System | Mixed Integer Linear Programming
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q3, rank 218, percentile 42)
+   - **Source Id:** 21100456158
+   - **Author Ids:** 59210049100;6701527755
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Martino M.
+2.
+   - **Title:** Exploring the role of Energy Communities: A Comprehensive Review
+   - **Venue:** Energy Conversion and Management X
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 3
+   - **DOI:** 10.1016/j.ecmx.2025.100883
+   - **Scopus ID:** 2-s2.0-85215245402
+   - **eISSN:** 25901745
+   - **Volume:** 25
+   - **Authors:** Amin M. Asim; Procopio Renato; Invernizzi Marco; Bonfiglio Andrea; Jia Youwei
+   - **Keywords:** Energy community | Energy decentralization | Machine learning | Microgrids | Renewable energy
+   - **Quartile:**
+     2025:
+     - Nuclear Energy and Engineering (Q1, rank 6, percentile 93)
+     - Energy Engineering and Power Technology (Q1, rank 41, percentile 87)
+     - Fuel Technology (Q1, rank 27, percentile 80)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 66, percentile 78)
+   - **Source Id:** 21100896269
+   - **Author Ids:** 57201246575;7801615894;6701527755;36607521000;55511359100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60105683
+   - **Corresponding:** Amin M.A.
+3.
+   - **Title:** An Efficient Power Dispatching Strategy to Cope with Renewable Energy Sources Uncertainties
+   - **Venue:** Conference Proceedings 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EEEIC/ICPSEurope64998.2025.11169234
+   - **Scopus ID:** 2-s2.0-105019038019
+   - **Authors:** Fata Alice La; Amin M. Asim; Brignone Massimo; Invernizzi Marco; Bonfiglio Andrea; Procopio Renato
+   - **Keywords:** Energy Management System | Photovoltaic Forecasting | Receding Horizon Procedure | Recurrent Neural Network
+   - **Source Id:** 21101340466
+   - **Author Ids:** 57434749400;57201246575;8580886100;6701527755;36607521000;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Fata A.L.
+4.
+   - **Title:** Cost Optimization Incorporating Photovoltaic Power Forecasts Using Neural Networks in an Energy Management System
+   - **Venue:** IEEE Conference on Technologies for Sustainability Sustech
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/SusTech63138.2025.11025673
+   - **Scopus ID:** 2-s2.0-105013073009
+   - **ISSN:** 26406829
+   - **eISSN:** 26406810
+   - **Issue:** 2025
+   - **Authors:** Amin M. Asim; La Fata Alice; Brignone Massimo; Invernizzi Marco; Procopio Renato; Petronijevic Milutin; Mitic Ivana Radonjic
+   - **Keywords:** Energy Management System | Photovoltaic Forecasting | Receding Horizon Procedure | Recurrent Neural Network
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q4, rank 169, percentile 4)
+     - Energy Engineering and Power Technology (Q4, rank 315, percentile 3)
+     - Renewable Energy, Sustainability and the Environment (Q4, rank 308, percentile 1)
+   - **Source Id:** 21101320220
+   - **Author Ids:** 57201246575;57434749400;8580886100;6701527755;7801615894;14422928500;57208649613
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60068806;60068806
+   - **Corresponding:** Amin M.A.
+5.
+   - **Title:** Assessment of the Impact of HVDC Links on Frequency Containment Capacity in a Portion of the Italian Transmission Network
+   - **Venue:** 2025 Aeit Hvdc International Conference Aeit Hvdc 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/AEITHVDC66044.2025.11079478
+   - **Scopus ID:** 2-s2.0-105012574256
+   - **Authors:** Bonfiglio Andrea; Fresia Matteo; Giannuzzi Giorgio Maria; Invernizzi Marco; Lisciandrello Giuseppe; Orrù Luca; Pisani Cosimo; Procopio Renato; Rinzo Giovanni
+   - **Keywords:** Frequency Containment | HVDC | Inverter-based Resources | Primary Frequency Regulation | Primary Regulating Energy
+   - **Source Id:** 21101318126
+   - **Author Ids:** 36607521000;57224008583;25936117900;6701527755;57219972273;57220190197;55370719100;7801615894;57201200193
+   - **Authoraffiliationids:** 60025153;60025153;60122257;60025153;60122257;60122257;60122257;60025153;60122257
+   - **Corresponding:** Bonfiglio A.
+6.
+   - **Title:** On the model flexibility of the geographical distributed real-time co-simulation: The example of ENET-RT lab
+   - **Venue:** Sustainable Energy Grids and Networks
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1016/j.segan.2024.101501
+   - **Scopus ID:** 2-s2.0-85202997495
+   - **eISSN:** 23524677
+   - **Volume:** 40
+   - **Authors:** Mazza A.; Benedetto G.; Pons E.; Bompard E.; De Paola A.; Thomas D.; Kotsakis E.; Fulli G.; Vogel S.; Acosta Gil A.; Monti A.; Bruno S.; Iurlaro C.; La Scala M.; Bonfiglio A.; Cepollini P.; D'Agostino F.; Invernizzi M.; Rossi M.; Silvestro F.; De Caro F.; Giannoccaro G.; Villacci D.
+   - **Keywords:** Control-in-the-loop | Frequency control | Power hardware-in-the-loop | Real time co-simulation | Software-in-the-loop
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 131, percentile 86)
+     - Control and Systems Engineering (Q1, rank 52, percentile 86)
+     - Energy Engineering and Power Technology (Q1, rank 63, percentile 80)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 71)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 122, percentile 87)
+     - Control and Systems Engineering (Q1, rank 52, percentile 86)
+     - Energy Engineering and Power Technology (Q1, rank 53, percentile 82)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 77, percentile 74)
+   - **Source Id:** 21100371258
+   - **Author Ids:** 55375438700;57945789200;11339101500;6602152775;55605029400;57188994200;6508183852;55924499600;57016169800;56669354800;57203094797;7101968133;57218844607;56962766200;36607521000;59312112400;56553864200;6701527755;7403708681;23026343700;57197856138;52263394500;6602560464
+   - **Authoraffiliationids:** 60012162;60012162;60012162;60012162;60103695;60103695;60103695;60103695;130347437;60016653;60016653;60027299;60027299;60027299;60025153;60025153;60025153;60025153;60025153;60025153;60004300;60017293;60017293
+   - **Corresponding:** Mazza A.
+7.
+   - **Title:** A Techno-Economic Assessment to Define Inertia Needs of the Italian Transmission Network in the 2030 Energy Scenario
+   - **Venue:** IEEE Transactions on Power Systems
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.1109/TPWRS.2023.3331178
+   - **Scopus ID:** 2-s2.0-85177074761
+   - **ISSN:** 08858950
+   - **eISSN:** 15580679
+   - **Volume:** 39
+   - **Issue:** 3
+   - **Pages:** 5050-5061
+   - **Authors:** Fresia Matteo; Minetti Manuela; Rosini Alessandro; Procopio Renato; Bonfiglio Andrea; Invernizzi Marco; Denegri Gio Battista; Lisciandrello Giuseppe; Orru Luca
+   - **Keywords:** Grid flexibilization | system inertia | transmission system
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 36, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 17, percentile 94)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 39, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 18, percentile 94)
+   - **Source Id:** 28825
+   - **Author Ids:** 57224008583;57210474295;57204050700;7801615894;36607521000;6701527755;7004649825;57219972273;57220190197
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60122257;60122257
+   - **Corresponding:** Fresia M.
+8.
+   - **Title:** Structurally Tuned LSTM Networks to Nowcast Photovoltaic Power Production
+   - **Venue:** Proceedings 24th Eeeic International Conference on Environment and Electrical Engineering and 8th I and Cps Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/EEEIC/ICPSEurope61470.2024.10751363
+   - **Scopus ID:** 2-s2.0-85219483718
+   - **Authors:** La Fata Alice; Amin M. Asim; Invernizzi Marco; Procopio Renato
+   - **Keywords:** Nowcasting | Photovoltaic Power Production | Recurrent Neural Networks
+   - **Source Id:** 21101263912
+   - **Author Ids:** 57434749400;57201246575;6701527755;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** La Fata A.
+9.
+   - **Title:** Photovoltaic Power Nowcasting Using Decision-Trees Based Algorithms and Neural Networks
+   - **Venue:** Proceedings 2024 11th International Conference on Electrical Electronic and Computing Engineering Icetran 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/IcETRAN62308.2024.10645147
+   - **Scopus ID:** 2-s2.0-85204066359
+   - **Authors:** Amin M. Asim; La Fata Alice; Procopio Renato; Invernizzi Marco; Petronijevic Milutin; Mitic Ivana Radonjic
+   - **Keywords:** day-ahead forecasting | machine learning | Photovoltaic production | recurrent neural networks
+   - **Source Id:** 21101248521
+   - **Author Ids:** 57201246575;57434749400;7801615894;6701527755;14422928500;57208649613
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60068806;60068806
+   - **Corresponding:** Amin M.A.
+10.
+   - **Title:** Supporting a 'Glocal' Energy Transition: from Local Energy Communities to Global Simulation Networks
+   - **Venue:** 2023 International Conference on Smart Energy Systems and Technologies Sest 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/SEST57387.2023.10257451
+   - **Scopus ID:** 2-s2.0-85174247594
+   - **Authors:** Benedetto G.; Mazza A.; Pons E.; Bompard E.; De Paola A.; Thomas D.; Kotsakis E.; Fulli G.; Vogel S.; Monti A.; Bruno S.; Giannoccaro G.; Scala M. La; Bonfiglio A.; Invernizzi M.; Rossi M.; De Caro F.; Villacci D.
+   - **Keywords:** Control-in-the-Loop | Frequency Control | Power Hardware-in-the-Loop | Real Time Co-simulation | Software-in-the-Loop
+   - **Source Id:** 21101183461
+   - **Author Ids:** 57945789200;55375438700;11339101500;6602152775;55605029400;57188994200;6508183852;55924499600;57016169800;57203094797;7101968133;52263394500;56962766200;36607521000;6701527755;7403708681;57197856138;6602560464
+   - **Authoraffiliationids:** 60003066;60003066;60003066;60003066;60103695;60103695;60103695;60103695;130347437;60016653;60027299;60027299;60027299;60025153;60025153;60025153;60004300;60017293
+   - **Corresponding:** Benedetto G.
+11.
+   - **Title:** Real-Time Power System Laboratories at the University of Genoa
+   - **Venue:** 2022 Aeit International Annual Conference Aeit 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.23919/AEIT56783.2022.9951786
+   - **Scopus ID:** 2-s2.0-85143621135
+   - **Authors:** Bonfiglio Andrea; Bracco Stefano; D'Agostino Fabio; Delfino Federico; Laiolo Paola; Invernizzi Marco; Massucco Stefano; Procopio Renato; Saviozzi Matteo; Silvestro Federico
+   - **Keywords:** Power Laboratories | Power Systems | Real Time Simulation
+   - **Source Id:** 21101125262
+   - **Author Ids:** 36607521000;15049159900;56553864200;6603766602;56576462300;6701527755;6603357712;7801615894;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+12.
+   - **Title:** Ensiel National Energy Transition Real Time Lab: a Novel Tool to Shape the Future Energy System
+   - **Venue:** 2022 Aeit International Annual Conference Aeit 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.23919/AEIT56783.2022.9951729
+   - **Scopus ID:** 2-s2.0-85143614787
+   - **Authors:** Benedetto Giorgio; Bompard Ettore; Mazza Andrea; Pons Enrico; Bruno Sergio; Giannoccaro Giovanni; La Scala Massimo; De Caro Fabrizio; Bonfiglio Andrea; Bracco Stefano; Invernizzi Marco; Rossi Mansueto; De Paola Antonio; Thomas Dimitrios; Kotsakis Evangelos; Fulli Gianluca; Villacci Domenico
+   - **Keywords:** Co-simulation | Control-in-the-Loop | Frequency Control | Power Hardware-in-the-Loop | Real Time Simulation | Software-in-the-Loop
+   - **Source Id:** 21101125262
+   - **Author Ids:** 57945789200;6602152775;55375438700;11339101500;7101968133;52263394500;56962766200;57197856138;36607521000;15049159900;6701527755;7403708681;55605029400;57188994200;6508183852;55924499600;6602560464
+   - **Authoraffiliationids:** 60012162;60012162;60012162;60012162;60027299;60027299;60027299;60004300;60025153;60025153;60025153;60025153;60103695;60103695;60103695;60103695;60017293
+   - **Corresponding:** Benedetto G.
+13.
+   - **Title:** Load voltage direct tracking of a DC-DC buck-boost converter
+   - **Venue:** 2019 21st European Conference on Power Electronics and Applications EPE 2019 Ecce Europe
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/EPE.2019.8915197
+   - **Scopus ID:** 2-s2.0-85076692568
+   - **Authors:** Palmieri Alessandro; Bonfiglio Andrea; Invernizzi Marco; Lanzarotto Damiano; Procopio Renato
+   - **Keywords:** Converter control | Non-linear control | Non-minimum phase system | Unstable internal dynamics
+   - **Source Id:** 21100939561
+   - **Author Ids:** 57201775084;36607521000;6701527755;57195070345;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Palmieri A.
+14.
+   - **Title:** Power Management in Islanded Hybrid Diesel-Storage Microgrids
+   - **Venue:** Proceedings of 2019 IEEE Pes Innovative Smart Grid Technologies Europe Isgt Europe 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/ISGTEurope.2019.8905522
+   - **Scopus ID:** 2-s2.0-85075852956
+   - **Authors:** Rosini Alessandro; Bonfiglio Andrea; Invernizzi Marco; Procopio Renato; Serra Pietro
+   - **Keywords:** Diesel Generator | droop control | EMT simulations | Microgrid | Microgrid control
+   - **Source Id:** 21100937400
+   - **Author Ids:** 57204050700;36607521000;6701527755;7801615894;8246669600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60102057
+   - **Corresponding:** Rosini A.
+15.
+   - **Title:** An MPC-Based approach for emergency control ensuring transient stability in power grids with steam plants
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 36
+   - **DOI:** 10.1109/TIE.2018.2870384
+   - **Scopus ID:** 2-s2.0-85054200925
+   - **ISSN:** 02780046
+   - **Volume:** 66
+   - **Issue:** 7
+   - **Pages:** 5412-5422
+   - **Authors:** Bonfiglio Andrea; Cantoni Federico; Oliveri Alberto; Procopio Renato; Rosini Alessandro; Invernizzi Marco; Storace Marco
+   - **Keywords:** Constrained optimization | Model-predictive control (MPC) | Power system emergency control
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+     2019:
+     - Control and Systems Engineering (Q1, rank 3, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 13, percentile 98)
+   - **Source Id:** 26053
+   - **Author Ids:** 36607521000;57505409900;57200399832;7801615894;57204050700;6701527755;7004134087
+   - **Authoraffiliationids:** 60025153;60025153-60032170;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+16.
+   - **Title:** Reactive Power Sharing Analysis in Islanded AC Microgrids
+   - **Venue:** Proceedings 2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 18
+   - **DOI:** 10.1109/EEEIC.2019.8783374
+   - **Scopus ID:** 2-s2.0-85070795130
+   - **Authors:** Rosini Alessandro; Minetti Manuela; Denegri Gio Battista; Invernizzi Marco
+   - **Keywords:** Droop control | Inverter control | Microgrid | Primary Control | Reactive Power Sharing
+   - **Source Id:** 21100924363
+   - **Author Ids:** 57204050700;57210474295;7004649825;6701527755
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Rosini A.
+17.
+   - **Title:** A Sliding Mode Control Approach for Gas Turbine Power Generators
+   - **Venue:** IEEE Transactions on Energy Conversion
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 36
+   - **DOI:** 10.1109/TEC.2018.2879688
+   - **Scopus ID:** 2-s2.0-85056176939
+   - **ISSN:** 08858969
+   - **Volume:** 34
+   - **Issue:** 2
+   - **Pages:** 921-932
+   - **Authors:** Bonfiglio Andrea; Cacciacarne Stefano; Invernizzi Marco; Lanzarotto Damiano; Palmieri Alessandro; Procopio Renato
+   - **Keywords:** Feedback linearization | gas turbine | model based control | nonlinear systems | sliding mode
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 62, percentile 93)
+     - Energy Engineering and Power Technology (Q1, rank 30, percentile 90)
+     2019:
+     - Energy Engineering and Power Technology (Q1, rank 13, percentile 94)
+     - Electrical and Electronic Engineering (Q1, rank 55, percentile 91)
+   - **Source Id:** 28824
+   - **Author Ids:** 36607521000;57192958598;6701527755;57195070345;57201775084;7801615894
+   - **Authoraffiliationids:** 60025153;60073836;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+18.
+   - **Title:** Tuning and feasibility analysis of classical first-order MIMO non-linear sliding mode control design for industrial applications
+   - **Venue:** Machines
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.3390/machines7010010
+   - **Scopus ID:** 2-s2.0-85067605020
+   - **eISSN:** 20751702
+   - **Volume:** 7
+   - **Issue:** 1
+   - **Authors:** Palmieri Alessandro; Procopio Renato; Bonfiglio Andrea; Brignone Massimo; Invernizzi Marco; Morini Andrea; Veselic' Boban
+   - **Keywords:** Nonlinear systems control | Robust control | Sliding mode control | Uncertain systems
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 20, percentile 88)
+     - Mechanical Engineering (Q1, rank 165, percentile 77)
+     - Industrial and Manufacturing Engineering (Q2, rank 104, percentile 74)
+     - Electrical and Electronic Engineering (Q2, rank 256, percentile 74)
+     - Control and Systems Engineering (Q2, rank 105, percentile 72)
+     - Computer Science (miscellaneous) (Q2, rank 48, percentile 72)
+     2019:
+     - Control and Optimization (Q2, rank 26, percentile 74)
+     - Industrial and Manufacturing Engineering (Q2, rank 92, percentile 73)
+     - Computer Science (miscellaneous) (Q2, rank 19, percentile 71)
+     - Mechanical Engineering (Q2, rank 184, percentile 68)
+     - Electrical and Electronic Engineering (Q2, rank 247, percentile 63)
+     - Control and Systems Engineering (Q2, rank 95, percentile 60)
+   - **Source Id:** 21100838145
+   - **Author Ids:** 57201775084;7801615894;36607521000;8580886100;6701527755;7006658135;6602578334
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60068806
+   - **Corresponding:** Palmieri A.
+19.
+   - **Title:** Design and Implementation of a Variable Synthetic Inertia Controller for Wind Turbine Generators
+   - **Venue:** IEEE Transactions on Power Systems
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 98
+   - **DOI:** 10.1109/TPWRS.2018.2865958
+   - **Scopus ID:** 2-s2.0-85059111391
+   - **ISSN:** 08858950
+   - **Volume:** 34
+   - **Issue:** 1
+   - **Pages:** 754-764
+   - **Authors:** Bonfiglio Andrea; Invernizzi Marco; Labella Alessandro; Procopio Renato
+   - **Keywords:** Frequency support | renewable generation | synthetic inertia | wind energy
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 36, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 17, percentile 94)
+     2019:
+     - Energy Engineering and Power Technology (Q1, rank 7, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 25, percentile 96)
+   - **Source Id:** 28825
+   - **Author Ids:** 36607521000;6701527755;57114931700;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+20.
+   - **Title:** Some Analytical Remarks on Sliding Mode Control for Multi-Input Multi-Output Nonlinear Systems
+   - **Venue:** Proceedings 2018 IEEE International Conference on Environment and Electrical Engineering and 2018 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/EEEIC.2018.8494007
+   - **Scopus ID:** 2-s2.0-85056537377
+   - **Authors:** Brignone Massimo; Invernizzi Marco; Lanzarotto Damiano; Palmieri Alessandro
+   - **Keywords:** control system tuning | MIMO | model based control | nonlinear systems | Sliding Mode control
+   - **Source Id:** 21100885800
+   - **Author Ids:** 8580886100;6701527755;57195070345;57201775084
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Brignone M.
+21.
+   - **Title:** Model Predictive Control Application for the Control of a Grid-Connected Synchronous Generator
+   - **Venue:** Ieecon 2018 6th International Electrical Engineering Congress
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/IEECON.2018.8712191
+   - **Scopus ID:** 2-s2.0-85066604263
+   - **Authors:** Bonfiglio Andrea; Invernizzi Marco
+   - **Keywords:** Model Predictive Control | Model-based Control Techniques | Power Systems | Synchronous Generator
+   - **Source Id:** 21100927296
+   - **Author Ids:** 36607521000;6701527755
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+22.
+   - **Title:** Analysis of lightning effects on power plant connection
+   - **Venue:** International Journal of Power and Energy Systems
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.2316/Journal.203.2018.2.203-0011
+   - **Scopus ID:** 2-s2.0-85064408962
+   - **ISSN:** 10783466
+   - **Volume:** 38
+   - **Issue:** 2
+   - **Pages:** 40-49
+   - **Authors:** Mestriner Daniele; Invernizzi Marco
+   - **Keywords:** Electromagnetic effects | Lightning effects | Power system protection | Switching operation
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q3, rank 446, percentile 33)
+     - Energy Engineering and Power Technology (Q3, rank 217, percentile 33)
+     - Electrical and Electronic Engineering (Q3, rank 679, percentile 32)
+     2018:
+     - Energy Engineering and Power Technology (Q4, rank 158, percentile 22)
+     - Electrical and Electronic Engineering (Q4, rank 564, percentile 15)
+     - Applied Mathematics (Q4, rank 421, percentile 12)
+   - **Source Id:** 26993
+   - **Author Ids:** 57115575100;6701527755
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mestriner D.
+23.
+   - **Title:** Definition of a sliding mode controller accounting for a reduced order model of gas turbine set
+   - **Venue:** 2017 52nd International Universities Power Engineering Conference Upec 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/UPEC.2017.8231919
+   - **Scopus ID:** 2-s2.0-85046100095
+   - **Volume:** 2017-January
+   - **Pages:** 1-6
+   - **Authors:** Bonfiglio A.; Invernizzi M.; Lanzarotto D.; Palmieri A.; Procopio R.
+   - **Keywords:** power system control | power system modelling | Sliding mode control
+   - **Source Id:** 21100858345
+   - **Author Ids:** 36607521000;6701527755;57195070345;57201775084;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+24.
+   - **Title:** A methodological approach to assess the impact of smarting action on electricity transmission and distribution networks related to Europe 2020 targets
+   - **Venue:** Energies
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.3390/en10020155
+   - **Scopus ID:** 2-s2.0-85016093937
+   - **eISSN:** 19961073
+   - **Volume:** 10
+   - **Issue:** 2
+   - **Authors:** Bonfiglio Andrea; Delfino Federico; Invernizzi Marco; Procopio Renato
+   - **Keywords:** Electricity transmission and distribution | Energy efficiency | Environmental impact | Power systems | Renewable generation integration
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2017:
+     - Control and Optimization (Q1, rank 18, percentile 80)
+     - Energy Engineering and Power Technology (Q2, rank 55, percentile 73)
+     - Electrical and Electronic Engineering (Q2, rank 202, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 7, percentile 63)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 67, percentile 55)
+   - **Source Id:** 62932
+   - **Author Ids:** 36607521000;6603766602;6701527755;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+25.
+   - **Title:** Modeling and maximum power point tracking control of wind generating units equipped with permanent magnet synchronous generators in presence of losses
+   - **Venue:** Energies
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 27
+   - **DOI:** 10.3390/en10010102
+   - **Scopus ID:** 2-s2.0-85016094945
+   - **eISSN:** 19961073
+   - **Volume:** 10
+   - **Issue:** 1
+   - **Authors:** Bonfiglio Andrea; Delfino Federico; Invernizzi Marco; Procopio Renato
+   - **Keywords:** Power systems modeling | Renewable power generation | Wind power
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2017:
+     - Control and Optimization (Q1, rank 18, percentile 80)
+     - Energy Engineering and Power Technology (Q2, rank 55, percentile 73)
+     - Electrical and Electronic Engineering (Q2, rank 202, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 7, percentile 63)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 67, percentile 55)
+   - **Source Id:** 62932
+   - **Author Ids:** 36607521000;6603766602;6701527755;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+26.
+   - **Title:** A Simplified Microgrid Model for the Validation of Islanded Control Logics
+   - **Venue:** Energies
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 30
+   - **DOI:** 10.3390/en10081141
+   - **Scopus ID:** 2-s2.0-85034814451
+   - **eISSN:** 19961073
+   - **Volume:** 10
+   - **Issue:** 8
+   - **Authors:** Bonfiglio Andrea; Brignone Massimo; Invernizzi Marco; Labella Alessandro; Mestriner Daniele; Procopio Renato
+   - **Keywords:** Distribute control | Droop control | Islanded microgrid | Microgrid | Microgrid model | Microgrid simulation | Storage characterization
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2017:
+     - Control and Optimization (Q1, rank 18, percentile 80)
+     - Energy Engineering and Power Technology (Q2, rank 55, percentile 73)
+     - Electrical and Electronic Engineering (Q2, rank 202, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 7, percentile 63)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 67, percentile 55)
+   - **Source Id:** 62932
+   - **Author Ids:** 36607521000;8580886100;6701527755;57114931700;57115575100;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+27.
+   - **Title:** Gas turbine generating units control via feedback linearization approach
+   - **Venue:** Energy
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 45
+   - **DOI:** 10.1016/j.energy.2017.01.048
+   - **Scopus ID:** 2-s2.0-85009480817
+   - **ISSN:** 03605442
+   - **Volume:** 121
+   - **Pages:** 491-512
+   - **Authors:** Bonfiglio A.; Cacciacarne S.; Invernizzi M.; Procopio R.; Schiano S.; Torre I.
+   - **Keywords:** Energy power generation | Feedback linearization | Gas cycles | Non-liner control techniques | Power systems
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 4, percentile 99)
+     - Civil and Structural Engineering (Q1, rank 7, percentile 98)
+     - Mechanical Engineering (Q1, rank 19, percentile 97)
+     - Building and Construction (Q1, rank 7, percentile 97)
+     - Management, Monitoring, Policy and Law (Q1, rank 13, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 34, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 16, percentile 95)
+     - Pollution (Q1, rank 10, percentile 94)
+     - Industrial and Manufacturing Engineering (Q1, rank 23, percentile 94)
+     - Fuel Technology (Q1, rank 10, percentile 93)
+     - Energy (all) (Q1, rank 7, percentile 91)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 32, percentile 89)
+     2017:
+     - Civil and Structural Engineering (Q1, rank 4, percentile 98)
+     - Building and Construction (Q1, rank 5, percentile 97)
+     - Industrial and Manufacturing Engineering (Q1, rank 10, percentile 97)
+     - Mechanical Engineering (Q1, rank 18, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 44, percentile 93)
+     - Pollution (Q1, rank 8, percentile 92)
+   - **Source Id:** 29348
+   - **Author Ids:** 36607521000;57192958598;6701527755;7801615894;57192960415;57192961419
+   - **Authoraffiliationids:** 60025153;60073836;60025153;60025153;60073836;60073836
+   - **Corresponding:** Bonfiglio A.
+28.
+   - **Title:** Approximate characterization of large Photovoltaic power plants at the Point of Interconnection
+   - **Venue:** Proceedings of the Universities Power Engineering Conference
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 23
+   - **DOI:** 10.1109/UPEC.2015.7339789
+   - **Scopus ID:** 2-s2.0-84958092976
+   - **Volume:** 2015-November
+   - **Authors:** Bonfiglio A.; Delfino F.; Invernizzi M.; Labella A.; Mestriner D.; Procopio R.; Serra P.
+   - **Keywords:** Photovoltaic Power Plants | Renewable integration
+   - **Source Id:** 69722
+   - **Author Ids:** 36607521000;6603766602;6701527755;57114931700;57115575100;7801615894;8246669600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60102057
+   - **Corresponding:** Bonfiglio A.
+29.
+   - **Title:** An approximate methodology to verify the compliance of large photovoltaic power plants to system operator steady-state requirements
+   - **Venue:** Electric Power Systems Research
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1016/j.epsr.2015.05.015
+   - **Scopus ID:** 2-s2.0-84930945444
+   - **ISSN:** 03787796
+   - **Volume:** 127
+   - **Pages:** 80-92
+   - **Authors:** Bonfiglio Andrea; Delfino Federico; Invernizzi Marco; Procopio Renato; Serra Pietro
+   - **Keywords:** Photovoltaic power plants | Power plant equivalencing | Renewable generation | Renewable generation integration | Solar energy integration | System operator requirements
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+     - Energy Engineering and Power Technology (Q1, rank 60, percentile 81)
+     2015:
+     - Energy Engineering and Power Technology (Q1, rank 22, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 110, percentile 83)
+   - **Source Id:** 16044
+   - **Author Ids:** 36607521000;6603766602;6701527755;7801615894;8246669600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60102057
+   - **Corresponding:** Bonfiglio A.
+30.
+   - **Title:** Criteria for the equivalent modeling of large photovoltaic power plants
+   - **Venue:** IEEE Power and Energy Society General Meeting
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 32
+   - **DOI:** 10.1109/PESGM.2014.6939183
+   - **Scopus ID:** 2-s2.0-84930947710
+   - **ISSN:** 19449925
+   - **eISSN:** 19449933
+   - **Volume:** 2014-October
+   - **Issue:** October
+   - **Authors:** Bonfiglio A.; Delfino F.; Invernizzi M.; Procopio R.; Serra P.
+   - **Keywords:** Photovoltaic power plants | Renewables
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 622, percentile 37)
+     - Nuclear Energy and Engineering (Q3, rank 53, percentile 37)
+     - Energy Engineering and Power Technology (Q3, rank 208, percentile 36)
+     - Renewable Energy, Sustainability and the Environment (Q3, rank 232, percentile 25)
+   - **Source Id:** 20600195623
+   - **Author Ids:** 36607521000;6603766602;6701527755;7801615894;8246669600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60102057
+   - **Corresponding:** Bonfiglio A.
+31.
+   - **Title:** Improving power grids transient stability via Model Predictive Control
+   - **Venue:** Proceedings 2014 Power Systems Computation Conference Pscc 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 27
+   - **DOI:** 10.1109/PSCC.2014.7038364
+   - **Scopus ID:** 2-s2.0-84946687291
+   - **Authors:** Bonfiglio A.; Oliveri A.; Procopio R.; Delfino F.; Denegri G. B.; Invernizzi M.; Storace M.
+   - **Keywords:** emergency control | load shedding | MPC | stability
+   - **Source Id:** 21100377750
+   - **Author Ids:** 36607521000;57200399832;7801615894;6603766602;7004649825;6701527755;7004134087
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+32.
+   - **Title:** A set of KPIs to quantify environmental & technical benefits of renewing actions on transmission grids
+   - **Venue:** 2013 IEEE Grenoble Conference Powertech Powertech 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/PTC.2013.6652233
+   - **Scopus ID:** 2-s2.0-84890867435
+   - **Authors:** Bonfiglio A.; Delfino F.; Denegri G. B.; Invernizzi M.; Procopio R.; Amann G.; Bessede J. L.; Charnah R.; Luxa A.; Margarone M.; Monizza G.
+   - **Keywords:** energy resources | power distribution | power quality | power systems modelling | Power transmission
+   - **Source Id:** 21100276223
+   - **Author Ids:** 36607521000;6603766602;7004649825;6701527755;7801615894;36650448700;55903266900;6507942866;57205084075;57213411081;8968415000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;109690794;109690794;109690794;109690794;109690794;109690794
+   - **Corresponding:** Bonfiglio A.
+33.
+   - **Title:** Definition and validation of key performance indicators to assess the effectiveness of "smarting actions" on a distribution network
+   - **Venue:** Iet Conference Publications
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1049/cp.2013.1262
+   - **Scopus ID:** 2-s2.0-84897680992
+   - **Volume:** 2013
+   - **Issue:** 615 Cp
+   - **Authors:** Bonfiglio Andrea; Delfino Federico; Denegri Gio Battista; Invernizzi Marco; Procopio Renato
+   - **Source Id:** 5400152619
+   - **Author Ids:** 36607521000;6603766602;7004649825;6701527755;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+34.
+   - **Title:** The smart microgrid pilot project of the University of Genoa: Power and communication architectures
+   - **Venue:** Aeit Annual Conference 2013 Innovation and Scientific and Technical Culture for Development Aeit 2013 Selected Proceedings Papers
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/aeit.2013.6666794
+   - **Scopus ID:** 2-s2.0-84893384882
+   - **Authors:** Bonfiglio A.; Barillari L.; Delfino F.; Pampararo F.; Procopio R.; Rossi M.; Invernizzi M.; Denegri G. B.; Bracco S.
+   - **Keywords:** Energy management system | integration of private microgrids into public distribution networks | Smart grid
+   - **Source Id:** 21101015978
+   - **Author Ids:** 36607521000;55568698600;6603766602;36782697700;7801615894;7403708681;6701527755;7004649825;15049159900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+35.
+   - **Title:** Power system compensation and management strategies to meet EU 2020 climate&energygoals
+   - **Venue:** IEEE Power and Energy Society General Meeting
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/PESGM.2012.6345083
+   - **Scopus ID:** 2-s2.0-84870607154
+   - **ISSN:** 19449925
+   - **eISSN:** 19449933
+   - **Authors:** Bonfiglio A.; Delfino F.; Invernizzi M.; Pampararo F.; Peveri G.; Procopio R.
+   - **Keywords:** energy resources | power distribution | power quality | power systems harmonics | power systems modeling | Power transmission
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 622, percentile 37)
+     - Nuclear Energy and Engineering (Q3, rank 53, percentile 37)
+     - Energy Engineering and Power Technology (Q3, rank 208, percentile 36)
+     - Renewable Energy, Sustainability and the Environment (Q3, rank 232, percentile 25)
+   - **Source Id:** 20600195623
+   - **Author Ids:** 36607521000;6603766602;6701527755;36782697700;55512262200;7801615894
+   - **Corresponding:** Bonfiglio A.
+36.
+   - **Title:** A technique for the optimal control and operation of grid-connected photovoltaic production units
+   - **Venue:** Proceedings of the Universities Power Engineering Conference
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 26
+   - **DOI:** 10.1109/UPEC.2012.6398657
+   - **Scopus ID:** 2-s2.0-84872875108
+   - **Authors:** Bonfiglio A.; Brignone M.; Delfino F.; Invernizzi M.; Pampararo F.; Procopio R.
+   - **Keywords:** Feedback Linearization | Generated Distribution | Losses Reduction | Photovoltaic Power | PWM Inverter Control | Voltage Profile | Voltage Support
+   - **Source Id:** 69722
+   - **Author Ids:** 36607521000;8580886100;6603766602;6701527755;36782697700;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+37.
+   - **Title:** A feedback linearization scheme for the control of synchronous generators
+   - **Venue:** Electric Power Components and Systems
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 33
+   - **DOI:** 10.1080/15325008.2012.722581
+   - **Scopus ID:** 2-s2.0-84869847548
+   - **ISSN:** 15325008
+   - **eISSN:** 15325016
+   - **Volume:** 40
+   - **Issue:** 16
+   - **Pages:** 1842-1869
+   - **Authors:** Bonfiglio Andrea; Delfino Federico; Invernizzi Marco; Perfumo Adriano; Procopio Renato
+   - **Keywords:** feedback linearization | synchronous generators | voltage and power control
+   - **Quartile:**
+     2025:
+     - Mechanical Engineering (Q2, rank 221, percentile 69)
+     - Electrical and Electronic Engineering (Q2, rank 305, percentile 69)
+     - Energy Engineering and Power Technology (Q2, rank 113, percentile 65)
+     2012:
+     - Energy Engineering and Power Technology (Q2, rank 50, percentile 69)
+     - Mechanical Engineering (Q2, rank 165, percentile 67)
+     - Electrical and Electronic Engineering (Q2, rank 272, percentile 55)
+   - **Source Id:** 16031
+   - **Author Ids:** 36607521000;6603766602;6701527755;36617661500;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;113212708;60025153
+   - **Corresponding:** Bonfiglio A.
+38.
+   - **Title:** A synchronous generator circuital model for internal fault analysis and protection system design
+   - **Venue:** International Transactions on Electrical Energy Systems
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1002/etep.1719
+   - **Scopus ID:** 2-s2.0-84884771047
+   - **eISSN:** 20507038
+   - **Volume:** 23
+   - **Issue:** 6
+   - **Pages:** 876-900
+   - **Authors:** Delfino F.; Denegri G. B.; Invernizzi M.; Pampararo F.; Procopio R.
+   - **Keywords:** Circuit modeling | Fault diagnosis | Synchronous generators
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 41, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 200, percentile 80)
+     - Energy Engineering and Power Technology (Q1, rank 82, percentile 75)
+     2012:
+     - Energy Engineering and Power Technology (Q2, rank 51, percentile 68)
+     - Electrical and Electronic Engineering (Q2, rank 273, percentile 55)
+     - Modeling and Simulation (Q2, rank 100, percentile 51)
+   - **Source Id:** 21100241220
+   - **Author Ids:** 6603766602;7004649825;6701527755;36782697700;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+39.
+   - **Title:** Feedback linearisation oriented approach to Q-V control of grid connected photovoltaic units
+   - **Venue:** Iet Renewable Power Generation
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 33
+   - **DOI:** 10.1049/iet-rpg.2011.0075
+   - **Scopus ID:** 2-s2.0-84878375869
+   - **ISSN:** 17521416
+   - **eISSN:** 17521424
+   - **Volume:** 6
+   - **Issue:** 5
+   - **Pages:** 324-339
+   - **Authors:** Delfino F.; Denegri G. B.; Invernizzi M.; Procopio R.
+   - **Quartile:**
+     2025:
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 120, percentile 61)
+     2012:
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 7, percentile 93)
+   - **Source Id:** 5600152809
+   - **Author Ids:** 6603766602;7004649825;6701527755;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+40.
+   - **Title:** Quantification of the environmental benefits provided by the application of state-of-the-art technologies to T&D grids
+   - **Venue:** Cigre 2011 Bologna Symposium the Electric Power System of the Future Integrating Supergrids and Microgrids
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-84877298988
+   - **Authors:** Bonfiglio A.; Delfino F.; Denegri G. B.; Invernizzi M.; Pampararo F.; Procopio R.
+   - **Keywords:** CO2 emission reduction | Network losses | Renewable energy integration | Smart grids
+   - **Source Id:** 21100239401
+   - **Author Ids:** 36607521000;6603766602;7004649825;6701527755;36782697700;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+41.
+   - **Title:** A control algorithm for the maximum power point tracking and the reactive power injection from grid-connected PV systems
+   - **Venue:** IEEE Pes General Meeting Pes 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/PES.2010.5590213
+   - **Scopus ID:** 2-s2.0-78649569121
+   - **Authors:** Delfino Federico; Denegri Gio Battista; Invernizzi Marco; Procopio Renato
+   - **Keywords:** Nonlinear systems | Photovoltaic power system | Power system modeling | Reactive power control | Voltage control
+   - **Source Id:** 19700182646
+   - **Author Ids:** 6603766602;7004649825;6701527755;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+42.
+   - **Title:** A methodology to quantify the impact of a renewed T&D infrastructure on EU 2020 goals
+   - **Venue:** IEEE Pes General Meeting Pes 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/PES.2010.5589502
+   - **Scopus ID:** 2-s2.0-78649553544
+   - **Authors:** Delfino Federico; Denegri Gio Battista; Invernizzi Marco; Amann Guillermo; Bessède Jean Luc; Luxa Andreas H.; Monizza Giuliano
+   - **Keywords:** Energy resources | Power distribution | Power quality | Power systems harmonics | Power systems modeling | Power transmission
+   - **Source Id:** 19700182646
+   - **Author Ids:** 6603766602;7004649825;6701527755;36650448700;55903266900;57205084075;8968415000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;109690794;109690794;109690794;109690794
+   - **Corresponding:** Delfino F.
+43.
+   - **Title:** Modeling and control of DDPM wind generators
+   - **Venue:** Proceedings of the Universities Power Engineering Conference
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-78651467585
+   - **Authors:** Delfino F.; Denegri G. B.; Invernizzi M.; Pampararo F.; Procopio R.; Rossi M.
+   - **Keywords:** Direct drive | Feedback linearization | Permanent magnet synchronous generator | Wind power
+   - **Source Id:** 69722
+   - **Author Ids:** 6603766602;7004649825;6701527755;36782697700;7801615894;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+44.
+   - **Title:** A P-Q capability chart approach to characterize grid connected PV-units
+   - **Venue:** 2009 Cigre Eee Pes Joint Symposium Integration of Wide Scale Renewable Resources into the Power Delivery System
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **Scopus ID:** 2-s2.0-84877328048
+   - **Authors:** Delfino F.; Denegri G. B.; Invernizzi M.; Procopio R.; Ronda G.
+   - **Keywords:** Ancillary services | Grid-connected PV units | Renewable in distribution systems
+   - **Source Id:** 21100239607
+   - **Author Ids:** 6603766602;7004649825;6701527755;7801615894;35189588800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+45.
+   - **Title:** An advanced nonlinear control technique for grid connected generating units - Part I: Theory
+   - **Venue:** Proceedings of the 9th Wseas Iasme International Conference on Electric Power Systems High Voltages Electric Machines Power 09
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-78149314276
+   - **Pages:** 140-146
+   - **Authors:** Bonfiglio A.; Delfino F.; Denegri G. B.; Invernizzi M.; Perfumo A.; Procopio R.
+   - **Keywords:** Feedback linearization | Synchronous generator | Voltage and power control
+   - **Source Id:** 19700182242
+   - **Author Ids:** 36607521000;6603766602;7004649825;6701527755;36617661500;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+46.
+   - **Title:** An advanced nonlinear control technique for grid connected generating units - Part II: Simulations
+   - **Venue:** Proceedings of the 9th Wseas Iasme International Conference on Electric Power Systems High Voltages Electric Machines Power 09
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-78149300937
+   - **Pages:** 147-152
+   - **Authors:** Bonfiglio A.; Delfino F.; Denegri G. B.; Invernizzi M.; Perfumo A.; Procopio R.
+   - **Keywords:** Feedback linearization | Synchronous generator | Voltage and power control
+   - **Source Id:** 19700182242
+   - **Author Ids:** 36607521000;6603766602;7004649825;6701527755;36617661500;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+47.
+   - **Title:** A P-Q capability chart approach to characterize grid connected PV-units
+   - **Venue:** 2009 Cigre IEEE Pes Joint Symposium Integration of Wide Scale Renewable Resources into the Power Delivery System Cigre Pes 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-70449331635
+   - **Authors:** Delfino F.; Denegri G. B.; Invernizzi M.; Procopio R.; Ronda G.
+   - **Keywords:** Ancillary services | Grid-connected PV units | Renewable in distribution systems
+   - **Source Id:** 19400158340
+   - **Author Ids:** 6603766602;7004649825;6701527755;7801615894;35189588800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+48.
+   - **Title:** An extended modeling of synchronous generators for internal fault evaluation and protection assessment
+   - **Venue:** 42nd International Conference on Large High Voltage Electric Systems 2008 Cigre 2008
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84876772459
+   - **Authors:** Denegri G. B.; Invernizzi M.; MacCio G.; Procopio R.; Reggio U.
+   - **Keywords:** Flux | Fortescue components | Generator | Short-circuit | Turn
+   - **Source Id:** 21100238652
+   - **Author Ids:** 7004649825;6701527755;6508333746;7801615894;6506491316
+   - **Authoraffiliationids:** 60025153;60025153;60073836;60025153;60073836
+   - **Corresponding:** Denegri G.
+49.
+   - **Title:** Performance and control of photovoltaic systems supplying both primary and ancillary services
+   - **Venue:** Proceedings of the Universities Power Engineering Conference
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/UPEC.2008.4651484
+   - **Scopus ID:** 2-s2.0-68949201616
+   - **Authors:** Delfino Federico; Denegri Gio Battista; Invernizzi Marco; Procopio Renato
+   - **Source Id:** 69722
+   - **Author Ids:** 6603766602;7004649825;6701527755;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+50.
+   - **Title:** An integrated active and reactive power control scheme for grid-connected photovoltaic production systems
+   - **Venue:** PESC Record IEEE Annual Power Electronics Specialists Conference
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 34
+   - **DOI:** 10.1109/PESC.2008.4592142
+   - **Scopus ID:** 2-s2.0-52349108362
+   - **ISSN:** 02759306
+   - **Pages:** 1463-1468
+   - **Authors:** Delfino F.; Denegri G. B.; Invernizzi M.; Procopio R.
+   - **Source Id:** 29048
+   - **Author Ids:** 6603766602;7004649825;6701527755;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+51.
+   - **Title:** The use of a static series compensator (SSC) for the mitigation of voltage sags in a radial distribution network
+   - **Venue:** 2007 IEEE Lausanne Powertech Proceedings
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/PCT.2007.4538536
+   - **Scopus ID:** 2-s2.0-50949115460
+   - **Pages:** 1492-1497
+   - **Authors:** Delfino Federico; Denegri Gio Battista; Invernizzi Marco; Procopio Renato
+   - **Keywords:** Custom power | Power quality | Voltage sags
+   - **Source Id:** 12100155509
+   - **Author Ids:** 6603766602;7004649825;6701527755;7801615894
+   - **Authoraffiliationids:** 60000251-60025153;60025153;60025153;60000251-60025153
+   - **Corresponding:** Delfino F.
+52.
+   - **Title:** Classification, evaluation and acquisition criteria of recovery resources to provide ancillary services in power system restoration
+   - **Venue:** 2005 IEEE Russia Power Tech Powertech
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/PTC.2005.4524672
+   - **Scopus ID:** 2-s2.0-51549110775
+   - **Authors:** Bonvini B.; Denegri G. B.; Invernizzi M.; Serra P.; Cirio D.; Pozzi M.; Salvetti M.
+   - **Keywords:** Ancillary services | Cost-benefit economic evaluation | Recovery resources | Restoration strategy | Unsupplied energy
+   - **Source Id:** 12100156719
+   - **Author Ids:** 60067693400;7004649825;6701527755;8246669600;6504625684;7007025577;59063803500
+   - **Authoraffiliationids:** ;;;60025153;;;60083358
+   - **Corresponding:** Bonvini B.
+53.
+   - **Title:** Technical economical oriented procedure for restoration resources purchasing
+   - **Venue:** 2005 International Conference on Future Power Systems
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-33847222714
+   - **Volume:** 2005
+   - **Authors:** Bonvini B.; Denegri G. B.; Invernizzi M.
+   - **Keywords:** Ancillary services | Power system restoration | Recovery entities | Unsupplied energy
+   - **Source Id:** 5200153039
+   - **Author Ids:** 60067693400;7004649825;6701527755
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bonvini B.
+54.
+   - **Title:** Voltage stability constrained OPF market models considering N - 1 contingency criteria
+   - **Venue:** Electric Power Systems Research
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 57
+   - **DOI:** 10.1016/j.epsr.2004.07.012
+   - **Scopus ID:** 2-s2.0-13844298010
+   - **ISSN:** 03787796
+   - **Volume:** 74
+   - **Issue:** 1
+   - **Pages:** 27-36
+   - **Authors:** Milano Federico; Cañizares Claudio A.; Invernizzi Marco
+   - **Keywords:** Available transfer capability | Electricity markets | N-1 contingency criterion | Optimal power flow | Transmission congestion
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+     - Energy Engineering and Power Technology (Q1, rank 60, percentile 81)
+   - **Source Id:** 16044
+   - **Author Ids:** 7003599876;7005168966;6701527755
+   - **Authoraffiliationids:** 60000823;60014171;60025153
+   - **Corresponding:** Milano F.
+55.
+   - **Title:** Hierarchical network sectionalizing to improve present defense plans
+   - **Venue:** 2004 Large Engineering Systems Conference on Power Engineering Conference Proceedings Theme Energy for the Day After Tomorrow
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-14344257888
+   - **Pages:** 113-117
+   - **Authors:** Denegri Gio Battista; Invernizzi Marco; Serra Pietro
+   - **Keywords:** Emergency control | Load shedding | System islanding | System protection schemes
+   - **Source Id:** 145030
+   - **Author Ids:** 7004649825;6701527755;8246669600
+   - **Authoraffiliationids:** 60025153;60025153;
+   - **Corresponding:** Denegri G.
+56.
+   - **Title:** Perturbation identification via voltage phasor monitoring in Transmission Systems
+   - **Venue:** 2003 IEEE Bologna Powertech Conference Proceedings
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/PTC.2003.1304468
+   - **Scopus ID:** 2-s2.0-80052863806
+   - **Volume:** 3
+   - **Pages:** 698-705
+   - **Authors:** Denegri G. B.; Invernizzi M.; Serra P.
+   - **Keywords:** DCLF | Emergency Control | FDLF | Network Sensitivity | PMU | SCAD A
+   - **Source Id:** 21100202741
+   - **Author Ids:** 7004649825;6701527755;8246669600
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Denegri G.
+57.
+   - **Title:** Multiobjective optimization for pricing system security in electricity markets
+   - **Venue:** IEEE Transactions on Power Systems
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 165
+   - **DOI:** 10.1109/TPWRS.2003.810897
+   - **Scopus ID:** 2-s2.0-0037505563
+   - **ISSN:** 08858950
+   - **Volume:** 18
+   - **Issue:** 2
+   - **Pages:** 596-604
+   - **Authors:** Milano Federico; Cañizares Claudio A.; Invernizzi Marco
+   - **Keywords:** Electricity markets | Locational marginal prices | Maximum loadability | Multi-objective optimization | Security
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 36, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 17, percentile 94)
+   - **Source Id:** 28825
+   - **Author Ids:** 7003599876;7005168966;6701527755
+   - **Authoraffiliationids:** 60025153;60014171;60025153
+   - **Corresponding:** Milano F.
+58.
+   - **Title:** Steam power plant re-powering to provide black-start ancillary service and speed up power system restoration
+   - **Venue:** 2003 IEEE Bologna Powertech Conference Proceedings
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/PTC.2003.1304728
+   - **Scopus ID:** 2-s2.0-84861495196
+   - **Volume:** 4
+   - **Pages:** 8-15
+   - **Authors:** Delfino B.; Denegri G. B.; Invernizzi M.
+   - **Keywords:** Gas turbines | Power system modeling | Power system restoration | Power system simulation and thermal power generation
+   - **Source Id:** 21100496130
+   - **Author Ids:** 7003935351;7004649825;6701527755
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Delfino B.
+59.
+   - **Title:** A security oriented approach to PMU positioning for advanced monitoring of a transmission grid
+   - **Venue:** Powercon 2002 2002 International Conference on Power System Technology Proceedings
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 73
+   - **DOI:** 10.1109/ICPST.2002.1047509
+   - **Scopus ID:** 2-s2.0-84969822915
+   - **Volume:** 2
+   - **Pages:** 798-803
+   - **Authors:** Denegri G. B.; Invernizzi M.; Milano F.; Fiorina M.; Scarpellini P.
+   - **Keywords:** Linear static state estimation | minimum spanning tree | N-1 security criterion | observability | phasor measurement units | security criteria
+   - **Source Id:** 21100463071
+   - **Author Ids:** 7004649825;6701527755;7003599876;55229702200;7003940022
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60083358;
+   - **Corresponding:** Denegri G.B.
+60.
+   - **Title:** Synthesis of an equivalent dynamic model for load areas with LTC transformers
+   - **Venue:** Proceedings of the IEEE Power Engineering Society Transmission and Distribution Conference
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0035686780
+   - **Volume:** 2
+   - **Pages:** 641-646
+   - **Authors:** Denegri Gio Battista; Invernizzi Marco; Milano Federico
+   - **Keywords:** Load modelling | LTC transformer | Nodal and modal reduction | Sub-transmission area
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 670, percentile 32)
+   - **Source Id:** 87075
+   - **Author Ids:** 7004649825;6701527755;7003599876
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Denegri G.
+61.
+   - **Title:** Voltage regulation issues in a deregulated environment
+   - **Venue:** Proceedings of the IEEE Power Engineering Society Transmission and Distribution Conference
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0035684113
+   - **Volume:** 1
+   - **Pages:** 264-269
+   - **Authors:** Delfino B.; Denegri G. B.; Invernizzi M.; Massucco S.
+   - **Keywords:** Ancillary Services | Open Access | Voltage Regulation
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 670, percentile 32)
+   - **Source Id:** 87075
+   - **Author Ids:** 7003935351;7004649825;6701527755;6603357712
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino B.
+62.
+   - **Title:** Black-start and restoration of a part of the italian hv network: Modelling and simulation of a field test
+   - **Venue:** Power System Restoration Methodologies and Implementation Strategies
+   - **Year:** 2000
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.1109/9780470545607.ch56
+   - **Scopus ID:** 2-s2.0-85036516774
+   - **Pages:** 415-423
+   - **Authors:** Delfino B.; Denegri G. B.; Invernizzi M.; Morini A.; Cima Bonini E.; Marconato R.; Scarpellini P.
+   - **Keywords:** Computer Modelling | Power System Restoration | Simulation
+   - **Source Id:** 21100840911
+   - **Author Ids:** 7003935351;7004649825;6701527755;7006658135;6504232698;7003817766;7003940022
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60027994;60027994;60027994
+   - **Corresponding:** Delfino B.
+63.
+   - **Title:** Dynamic index assessment for voltage stability in electric power systems
+   - **Venue:** Powercon 2000 2000 International Conference on Power System Technology Proceedings
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ICPST.2000.900090
+   - **Scopus ID:** 2-s2.0-84890849809
+   - **Volume:** 1
+   - **Pages:** 397-402
+   - **Authors:** Delfino B.; Denegri G. B.; Invernizzi M.; Milano F.
+   - **Keywords:** Bifurcation theory | Jacobian matrices | Load flow analysis | Power system dynamic stability | Voltage control
+   - **Source Id:** 21100463071
+   - **Author Ids:** 7003935351;7004649825;6701527755;7003599876
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino B.
+64.
+   - **Title:** Providing competitive ancillary services through efficient market structures
+   - **Venue:** International Conference on Electric Power Engineering Powertech Budapest 1999
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/PTC.1999.826589
+   - **Scopus ID:** 2-s2.0-84861402558
+   - **Pages:** 158
+   - **Authors:** Bonvini B.; Denegri G. B.; Invernizzi M.; Scarpellini P.
+   - **Keywords:** Ancillary services | Balancing markets | Frequency regulation | Spinning reserve | Valuation techniques
+   - **Source Id:** 21100849701
+   - **Author Ids:** 60067693400;7004649825;6701527755;7003940022
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60027994
+   - **Corresponding:** Bonvini B.
+65.
+   - **Title:** Dynamic equivalents of tap-changing-under-load transformers in a transmission system
+   - **Venue:** IEE Proceedings Generation Transmission and Distribution
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1049/ip-gtd:19990040
+   - **Scopus ID:** 2-s2.0-0032629067
+   - **ISSN:** 13502360
+   - **Volume:** 146
+   - **Issue:** 1
+   - **Pages:** 45-52
+   - **Authors:** Aresi R.; Delfino B.; Denegri G. B.; Invernizzi M.; Massucco S.
+   - **Source Id:** 17415
+   - **Author Ids:** 6506633182;7003935351;7004649825;6701527755;6603357712
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Aresi R.
+66.
+   - **Title:** Security and economic efficiency of electric power systems in open market
+   - **Venue:** Energia Elettrica
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-77950044762
+   - **ISSN:** 00137308
+   - **Volume:** 75
+   - **Issue:** 3
+   - **Pages:** 160-169
+   - **Authors:** Bonvini Barbara; Delfino Bruno; Denegri Gio Battista; Invernizzi Marco; Massucco Stefano; Scarpellini Pierangelo
+   - **Quartile:**
+     2025:
+     - Energy Engineering and Power Technology (Q4, rank 302, percentile 7)
+     - Electrical and Electronic Engineering (Q4, rank 946, percentile 5)
+     - Civil and Structural Engineering (Q4, rank 407, percentile 2)
+   - **Source Id:** 16662
+   - **Author Ids:** 60067693400;7003935351;7004649825;6701527755;6603357712;7003940022
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60027994
+   - **Corresponding:** Bonvini B.
+67.
+   - **Title:** Enhanced economic dispatching in competitive electricity market by optimal location and setting of angle compensation devices
+   - **Venue:** Powercon 1998 1998 International Conference on Power System Technology Proceedings
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICPST.1998.729053
+   - **Scopus ID:** 2-s2.0-16244392357
+   - **Volume:** 1
+   - **Pages:** 688-693
+   - **Authors:** Bonvini B.; Denegri G. B.; Invernizzi M.; Massucco S.
+   - **Keywords:** brokerage system | deregulated power system | economic dispatching | phase shifter | transmission control
+   - **Source Id:** 21100865533
+   - **Author Ids:** 60067693400;7004649825;6701527755;6603357712
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonvini B.
+68.
+   - **Title:** Restoration of fossil power plants through hydro units field tests and simulations
+   - **Venue:** Energia Elettrica
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-71249120498
+   - **ISSN:** 00137308
+   - **Volume:** 74
+   - **Issue:** 1
+   - **Pages:** 29-83
+   - **Authors:** Cima Eugenio Bonini; Costa Giorgio; Cuccia Paolo; Delfino Bruno; Denegri Gio Battista; Invernizzi Marco; Marconato Roberto; Scarpellini Pierangelo
+   - **Quartile:**
+     2025:
+     - Energy Engineering and Power Technology (Q4, rank 302, percentile 7)
+     - Electrical and Electronic Engineering (Q4, rank 946, percentile 5)
+     - Civil and Structural Engineering (Q4, rank 407, percentile 2)
+   - **Source Id:** 16662
+   - **Author Ids:** 35197878400;35197763700;55611500000;7003935351;7004649825;6701527755;7003817766;7003940022
+   - **Authoraffiliationids:** 60027994;60027994;60027994;60025153;60025153;60025153;60027994;60027994
+   - **Corresponding:** Cima E.B.
+69.
+   - **Title:** Voltage stability of power systems: links between static and dynamic approaches
+   - **Venue:** Proceedings of the Mediterranean Electrotechnical Conference MELECON
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0030369177
+   - **Volume:** 2
+   - **Pages:** 854-858
+   - **Authors:** Delfino B.; Denegri G. B.; Invernizzi M.; Morini A.
+   - **Source Id:** 57064
+   - **Author Ids:** 7003935351;7004649825;6701527755;7006658135
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino B.
+70.
+   - **Title:** Black-start and restoration of a part of the italian hv network: modelling and simulation of a field test
+   - **Venue:** IEEE Transactions on Power Systems
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 72
+   - **DOI:** 10.1109/59.535677
+   - **Scopus ID:** 2-s2.0-0030216984
+   - **ISSN:** 08858950
+   - **Volume:** 11
+   - **Issue:** 3
+   - **Pages:** 1371-1379
+   - **Authors:** Delfino B.; Denegri G. B.; Invernizzi M.; Morini A.
+   - **Keywords:** Computer modelling and simulation | Power system restoration
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 36, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 17, percentile 94)
+   - **Source Id:** 28825
+   - **Author Ids:** 7003935351;7004649825;6701527755;7006658135
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino B.
+71.
+   - **Title:** Series compensation through static devices for active power flow control and oscillation damping
+   - **Venue:** undefined
+   - **Year:** 1994
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0028742132
+   - **Volume:** 2
+   - **Pages:** 731-736
+   - **Authors:** Bottino M. P.; Delfino B.; Denegri G. B.; Invernizzi M.; Morini A.
+   - **Source Id:** 130208
+   - **Author Ids:** 6603858897;7003935351;7004649825;6701527755;7006658135
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bottino M.
+72.
+   - **Title:** Knowledge-Based Restoration Guidelines
+   - **Venue:** IEEE Computer Applications in Power
+   - **Year:** 1992
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1109/67.143276
+   - **Scopus ID:** 2-s2.0-0026898002
+   - **ISSN:** 08950156
+   - **Volume:** 5
+   - **Issue:** 3
+   - **Pages:** 54-59
+   - **Authors:** Delfino B.; Invernizzi M.; Morini A.
+   - **Source Id:** 30423
+   - **Author Ids:** 7003935351;6701527755;7006658135
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Delfino B.
+73.
+   - **Title:** An intelligent supporting aid for resolving operations under overload conditions in electric power systems
+   - **Venue:** International Journal of Electrical Power and Energy Systems
+   - **Year:** 1990
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1016/0142-0615(90)90031-6
+   - **Scopus ID:** 2-s2.0-0025460778
+   - **ISSN:** 01420615
+   - **Volume:** 12
+   - **Issue:** 3
+   - **Pages:** 183-191
+   - **Authors:** Delfino B.; Denegri G. B.; Invernizzi M.; Canonero A.; Forzano P.
+   - **Keywords:** control centre design | emergency control | on-line control strategies
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 57, percentile 94)
+     - Energy Engineering and Power Technology (Q1, rank 25, percentile 92)
+   - **Source Id:** 17985
+   - **Author Ids:** 7003935351;7004649825;6701527755;6507191645;6507525133
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60073836;60073836
+   - **Corresponding:** Delfino B.
+74.
+   - **Title:** Estimating first swing stability of synchronous machines as affected by saturation and controls
+   - **Venue:** IEEE Transactions on Energy Conversion
+   - **Year:** 1988
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1109/60.8079
+   - **Scopus ID:** 2-s2.0-0024073601
+   - **ISSN:** 08858969
+   - **eISSN:** 15580059
+   - **Volume:** 3
+   - **Issue:** 3
+   - **Pages:** 636-646
+   - **Authors:** Delfino B.; Denegri G. B.; Invernizzi M.; Pinceti P.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 62, percentile 93)
+     - Energy Engineering and Power Technology (Q1, rank 30, percentile 90)
+   - **Source Id:** 28824
+   - **Author Ids:** 7003935351;7004649825;6701527755;6602414502
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino B.
+75.
+   - **Title:** Expert System For Alleviating Overloads In Electric Power Systems: General Concepts And Applications.
+   - **Venue:** undefined
+   - **Year:** 1988
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0023830201
+   - **Pages:** 299-304
+   - **Authors:** Delfino B.; Denegri G. B.; Invernizzi M.; Canonero A.; Forzano P.
+   - **Source Id:** 130300
+   - **Author Ids:** 7003935351;7004649825;6701527755;6507191645;6507525133
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino B.
+76.
+   - **Title:** Voltage regulation via automatic load tap changing transformers: Evaluation of voltage stability conditions
+   - **Venue:** Electric Power Systems Research
+   - **Year:** 1987
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1016/0378-7796(87)90037-X
+   - **Scopus ID:** 2-s2.0-0023439733
+   - **ISSN:** 03787796
+   - **Volume:** 13
+   - **Issue:** 2
+   - **Pages:** 99-107
+   - **Authors:** Canepa A.; Delfino B.; Invernizzi M.; Pinceti P.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+     - Energy Engineering and Power Technology (Q1, rank 60, percentile 81)
+   - **Source Id:** 16044
+   - **Author Ids:** 57225432861;7003935351;6701527755;6602414502
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Canepa A.
+77.
+   - **Title:** Performance Evaluations Of Hvdc Systems Under Fault Conditions.
+   - **Venue:** undefined
+   - **Year:** 1987
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0023172660
+   - **Pages:** 545-548
+   - **Authors:** Delfino B.; Denegri G. B.; Invernizzi M.; Pinceti P.
+   - **Source Id:** 131051
+   - **Author Ids:** 7003935351;7004649825;6701527755;6602414502
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino B.

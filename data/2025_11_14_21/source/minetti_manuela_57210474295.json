@@ -1,0 +1,1948 @@
+{
+  "surname": "Minetti",
+  "name": "Manuela",
+  "unit": "ELE",
+  "email": "manuela.minetti@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/UUNOUl5p",
+  "website": "",
+  "unige_id": "409940",
+  "scopus_id": "57210474295",
+  "role": "Ricercatore",
+  "grade": "Ricercatore t.d. art. 24 c. 3 lett. A Legge 240/10 (t.pieno)",
+  "ssd": "IIND-08/B (Sistemi elettrici per l'energia)",
+  "location": [
+    {
+      "building": "Opera Pia - padiglione D (ED_161450401)",
+      "floor": "1° piano",
+      "room": "US_161450401.I.029"
+    }
+  ],
+  "career": [
+    {
+      "role": "DR",
+      "from": "2019-11-01 00:00:00.0000000",
+      "to": "2022-10-31 00:00:00.0000000"
+    },
+    {
+      "role": "CB",
+      "from": "2020-11-27 00:00:00.0000000",
+      "to": "2023-02-28 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2023-10-01 00:00:00.0000000",
+      "to": "2026-09-30 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {
+    "2025": [
+      {
+        "course": "IMPIANTI ELETTRICI NAVALI (66118)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "COMPONENTI E SISTEMI PER LA PRODUZIONE ELETTRICA (66320)",
+        "degree": "L-9 - INGEGNERIA DELL'ENERGIA"
+      },
+      {
+        "course": "ELECTROMAGNETIC POWER SYSTEM TRANSIENTS (118102)",
+        "degree": "LM-28 - ELECTRICAL ENGINEERING FOR ENERGY TRANSITION"
+      }
+    ],
+    "2024": [
+      {
+        "course": "IMPIANTI ELETTRICI NAVALI (66118)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "DINAMICA DELLE MACCHINE ELETTRICHE (56646)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "COMPONENTI E SISTEMI PER LA PRODUZIONE ELETTRICA (66320)",
+        "degree": "L-9 - INGEGNERIA DELL'ENERGIA"
+      }
+    ],
+    "2023": [
+      {
+        "course": "DINAMICA DELLE MACCHINE ELETTRICHE (56646)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 11,
+      "total_products": 34,
+      "journals": 12,
+      "conferences": 22,
+      "citations": 261,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 11,
+      "total_products": 34,
+      "journals": 12,
+      "conferences": 22,
+      "citations": 261,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 11,
+      "total_products": 34,
+      "journals": 12,
+      "conferences": 22,
+      "citations": 261,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 10,
+      "total_products": 32,
+      "journals": 11,
+      "conferences": 21,
+      "citations": 230,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-105007529304",
+      "title": "Effects of fly ash pollution on urban photovoltaic microgrid operation",
+      "doi": "10.1016/j.renene.2025.123649",
+      "venue": "Renewable Energy",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "253",
+      "issue_id": null,
+      "pages": null,
+      "issn": "09601481",
+      "eIssn": "18790682",
+      "source_id": "27569",
+      "authors": "Radonjić Ivana; Petronijević Milutin P.; Dimitrijević Marko A.; Minetti Manuela; Procopio Renato",
+      "author_ids": "55197295400;14422928500;44260946400;57210474295;7801615894",
+      "authorAffiliationIds": "60068806;60068806;60068806;60025153;60025153",
+      "corresponding": "Radonjić I.",
+      "keywords": "Grid-forming inverter | Hybrid microgrid | PV module | Soiling | Urban photovoltaics",
+      "abstract": "Photovoltaic (PV) systems in urban environments are a very suitable solution for electricity generation but can be jeopardized in cases of increased air pollution. The main idea of this paper is to determine the regularity of PV modules soiling variations during the heating season in the City of Niš (Serbia) and consequently to predict the maximum available power for PV inverter operation. The maximum reduction of PV modules' electrical parameters due to soiling was measured 45 days since the experiment began, after almost absolute precipitation absence for 25 days. The functioning of two control algorithms for single-stage grid inverters was tested in laboratory conditions by utilization of programmable DC sources and by the emulation of PV string-measured I-V characteristics. It was noted that the usual method for maximum power estimation does not give good results, because in the case of significant soiling can lead to inverter disconnection and interruption of the operation. Therefore, the soiling ratio was introduced to predict the available PV module power for a specific day with great certainty. To provide reliable operation of grid-forming inverters, the structure of their primary controller was modified by a specific saturation method for reference currents.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 97,
+              "rank": 9,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 90,
+              "rank": 31,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105007289954",
+      "title": "A pattern recognition based tool for smart distribution networks reconfiguration",
+      "doi": "10.1016/j.epsr.2025.111890",
+      "venue": "Electric Power Systems Research",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "248",
+      "issue_id": null,
+      "pages": null,
+      "issn": "03787796",
+      "eIssn": null,
+      "source_id": "16044",
+      "authors": "Bonfiglio Andrea; La Fata Alice; Minetti Manuela",
+      "author_ids": "36607521000;57434749400;57210474295",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Bonfiglio A.",
+      "keywords": "Distribution grids | Energy transition | Pattern recognition | Renewable energy sources integration",
+      "abstract": "In power distribution networks, the growing integration of Renewable Energy Sources (RES) is increasing operational issues related to undesirable steady-state working conditions. In this context, this paper proposes a novel approach of distribution power system management, referred to as Smart Distribution Area Control Architecture (SDACA), based on a pattern recognition algorithm, that allows exploiting network reconfiguration contactors to find the most suitable grid configuration to mitigate steady-state network violations due to relevant share of RES hosted by the grid. The SDACA leverages real-time data acquisition and forecasted power generation and consumption data to determine the optimal switch states, enhancing the operational reliability and efficiency of the distribution network. To estimate the optimal network configuration, a pattern recognition model is implemented. Specifically, the extreme gradient boosting algorithm is used, exploiting its fast-training procedure and the rapid execution time. The performance of the proposed SDACA tool is validated in a realistic distribution grid layout, exhibiting up to 90 % accuracy in the identification of the network configuration, a capability of reducing the number of voltage violations of roughly 65 % in the considered test case network, and a 99 % effectiveness in minimizing voltage violations compared to the maximum achievable impact of optimal feeder reconfiguration on voltage violations.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 87,
+              "rank": 126,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 81,
+              "rank": 60,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105012395346",
+      "title": "Analytical load flow solution for radial distribution networks",
+      "doi": "10.1016/j.segan.2025.101871",
+      "venue": "Sustainable Energy Grids and Networks",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "43",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "23524677",
+      "source_id": "21100371258",
+      "authors": "Minetti Manuela; Procopio Renato; Bonfiglio Andrea",
+      "author_ids": "57210474295;7801615894;36607521000",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Minetti M.",
+      "keywords": "Analytical load flow | Load flow analysis | Radial power distribution networks | Voltage drop formula",
+      "abstract": "This paper proposes an analytical method to solve the load flow problem for radial single and multi-feeder power distribution networks in three-phase balanced conditions. The Analytical Load Flow (ALF) formulation relies on a single assumption for the estimation of line losses and accounts for line susceptances. A set of comparative tests performed on a total active and passive 33 nodes benchmark network allowed showing that the accuracy of the proposed method is extremely high, if compared with the alternative numerical solution. Furthermore, a specific analysis is proposed to evaluate the impact of the approximation on the losses in the determination of the nodal voltage phasors. Finally, ALF is validated in a realistic scenario with high integration of Renewable Energy Sources (RESs), considering seasonal variations in production and consumption. In this context, it is shown that the proposed method outperforms existing approximate analytical approaches, such as the industrial voltage drop method. The ALF approach, being fully analytical, does not require any numerical solver and can be applied as a valid alternative to existing numerical and analytical methods in balanced multi-feeder networks.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 131,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 86,
+              "rank": 52,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 80,
+              "rank": 63,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 71,
+              "rank": 90,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-86000324666",
+      "title": "Optimal inertia allocation in future transmission networks: A case study on the Italian grid",
+      "doi": "10.1016/j.segan.2025.101676",
+      "venue": "Sustainable Energy Grids and Networks",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "42",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "23524677",
+      "source_id": "21100371258",
+      "authors": "Minetti Manuela; Fresia Matteo; Procopio Renato; Bonfiglio Andrea; Denegri Gio Battista; Lisciandrello Giuseppe; Orrù Luca",
+      "author_ids": "57210474295;57224008583;7801615894;36607521000;7004649825;57219972273;57220190197",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60122257;60122257",
+      "corresponding": "Minetti M.",
+      "keywords": "Grid Flexibilization | System Inertia | Transmission System",
+      "abstract": "The paper introduces a technical-economic methodology to estimate the additional inertia required in a Transmission Network for future scenarios and presents an algorithm to optimally dispatch it among different sources and interwork busbars. First, the amount of inertia is calculated to constrain the Rate of Change of Frequency (RoCoF) within sustainable limits. Then, such inertia is allocated accounting for the contributions from Renewable Energy Sources (RESs) and Battery Energy Storage Systems (BESSs), complemented by the deployment of Synchronous Compensators (SCs) across various nodes of a Transmission Network. The methodology underwent testing within the Italian Transmission Network, utilizing the informational support furnished by the Italian Transmission System Operator (TSO). Despite its simplicity, the results exhibit notable accuracy, validated through rigorous comparisons with detailed time-domain simulations. Moreover, the low computational cost of the method, allowed a statistical analysis considering all the hours of year 2030, to get information on the distributions of the quantities of interest.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 131,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 86,
+              "rank": 52,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 80,
+              "rank": 63,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 71,
+              "rank": 90,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105009265177",
+      "title": "Integrated Vehicle-to-Building and Vehicle-to-Home Services for Residential and Worksite Microgrids",
+      "doi": "10.3390/smartcities8030101",
+      "venue": "Smart Cities",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "8",
+      "issue_id": "3",
+      "pages": null,
+      "issn": null,
+      "eIssn": "26246511",
+      "source_id": "21101068929",
+      "authors": "Bonfiglio Andrea; Minetti Manuela; Loggia Riccardo; Mascioli Lorenzo Frattale; Golino Andrea; Moscatiello Cristina; Martirano Luigi",
+      "author_ids": "36607521000;57210474295;57490153900;58867232000;59965456100;57193652333;6602297955",
+      "authorAffiliationIds": "60025153;60025153;60032350;60032350;60032350;60032350;60032350",
+      "corresponding": "Bonfiglio A.",
+      "keywords": "electric vehicle | microgrids | vehicle to building | vehicle to home | virtual storage partitioning",
+      "abstract": "Highlights: The rapid development of electric mobility is introducing novel opportunities and solutions for electric vehicle integration into the electricity system. The integration of several EV-charging scenarios is a key element in defining a novel and smart integration of sustainable mobility systems, providing mutual benefits to EV owners, third parties, and the electricity system. This paper proposes a novel approach to EV-charging’s integration into the house/work routine of an EV owner, providing shared benefits to the owner and the working site, and providing an effective balancing of renewable power fluctuations. The application of the proposed methodology was tested in the experimental facility of the Sapienza University of Rome, considering real data coming from real load, photovoltaic, and storage units. What are the main findings? A novel integrated approach to V2B service; The exploitation of novel EV battery management strategies. What are the implications of the main findings? Improved exploitation of EV capabilities to reduce energy dependency and costs. Novel possibilities to achieve charging cost reduction by providing V2B service and, thus, making EV mobility more sustainable and affordable. The development of electric mobility offers new perspectives in the energy sector and improves resource efficiency and sustainability. This paper proposes a new strategy for synchronizing the energy requirements of home, commercial, and vehicle mobility, with a focus on the batteries of electric cars. In particular, this paper describes the coordination between a battery management algorithm that optimally assigns its capacity so that at least a part is reserved for mobility and a vehicle-to-building (V2B) service algorithm that uses a share of EV battery energy to improve user participation in renewable energy exploitation at home and at work. The system offers the user the choice of always maintaining a minimum charge for mobility or providing more flexible use of energy for business needs while maintaining established vehicle autonomy. Suitable management at home and at work allows always charging the vehicle to the required level of charge with renewable power excess, highlighting how the cooperation of home and work charging may provide novel frameworks for a smarter and more sustainable integration of electric mobility, reducing energy consumption and providing more effective energy management. The effectiveness of the proposed solution is demonstrated in a realistic configuration with real data and an experimental setup.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Urban Studies",
+              "percentile": 98,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 93,
+              "rank": 64,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 88,
+              "rank": 56,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105001489606",
+      "title": "Renewable energy communities virtual islanding: A decentralized service to improve distribution grid security",
+      "doi": "10.1016/j.segan.2025.101700",
+      "venue": "Sustainable Energy Grids and Networks",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "42",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "23524677",
+      "source_id": "21100371258",
+      "authors": "Velini Angelo; Minetti Manuela; Bruno Sergio; Bonfiglio Andrea; Procopio Renato; La Scala Massimo",
+      "author_ids": "59210230800;57210474295;7101968133;36607521000;7801615894;56962766200",
+      "authorAffiliationIds": "60027299;60025153;60027299;60025153;60025153;60027299",
+      "corresponding": "Velini A.",
+      "keywords": "Distribution system operation | Energy transition | Grid services | Renewable energy communities | Virtual islanding",
+      "abstract": "This article presents a novel service provided by Renewable Energy Communities (RECs) for the distribution network. This service, called Virtual Islanding (VI) and ideally requested to the RECs by the Distribution System Operator (DSO), basically consists in requiring that the net active power exchange between the involved REC and the main grid is zero for a specified time frame. The effectiveness of RECs VI operation is assessed using an Optimal Power Flow (OPF) that considers distribution network operational limits. Simulations, performed in a test case distribution system with massive penetration of RES, highlight the VI benefits both from a technical and sustainability viewpoint.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 131,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 86,
+              "rank": 52,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 80,
+              "rank": 63,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 71,
+              "rank": 90,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105019291954",
+      "title": "Assessment of Power Generators Disturbance Response Compliancy to Grid Code Requirements",
+      "doi": "10.1109/PowerTech59965.2025.11180729",
+      "venue": "2025 IEEE Kiel Powertech Powertech 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101341419",
+      "authors": "Minetti Manuela; Osama Khalid; Tuckey Andrew; Bonfiglio Andrea",
+      "author_ids": "57210474295;60103566900;59016060200;36607521000",
+      "authorAffiliationIds": "60025153;128429246;128429246;127836471",
+      "corresponding": "Minetti M.",
+      "keywords": "Disturbance response | Grid codes | Inverter based source | Settling time evaluation | Synchronous generator",
+      "abstract": "Dynamic performance analysis of generating units in power grids relies on evaluating command and disturbance responses. Command responses describe how a system reacts to deliberate setpoint variations, while disturbance responses assess the system's behavior under unexpected changes. Metrics like settling time, rise time, overshoot, and steady-state error are essential for quantifying system performance and these are present in most up-to-date grid connection requirements. However, applying settling time to disturbance responses presents challenges due to the absence of standardized criteria for the tolerance bandwidth. This paper proposes a rule-of thumb to help clarify and standardize the quantification of settling time due to disturbance response analysis. The methodology is applied on a detailed test case considering the requirements derived from an Australian grid code, which is quite detailed and demanding in this regard. Results highlight the effectiveness of the proposed approach in providing a consistent and generalizable criteria for disturbance response evaluations, contributing to a standardized approach for assessing the generating unit compliance with grid codes.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105019046875",
+      "title": "Energy Optimization Algorithms Integrated in Residential Microgrid With PV, Storage and EVS",
+      "doi": "10.1109/EEEIC/ICPSEurope64998.2025.11169204",
+      "venue": "Conference Proceedings 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101340466",
+      "authors": "Mascioli Lorenzo Frattale; Golino Andrea; Menichelli Roberto; Loggia Riccardo; Moscatiello Cristina; Falvo Maria Carmen; Bonfiglio Andrea; Minetti Manuela; Martirano Luigi",
+      "author_ids": "58867232000;59965456100;59470683100;57490153900;57193652333;15622947700;36607521000;57210474295;6602297955",
+      "authorAffiliationIds": "60032350;60032350;60032350;60032350;60032350;60032350;60025153;60025153;60032350",
+      "corresponding": "Mascioli L.F.",
+      "keywords": "battery energy storage | home energy management system | microgrid | self-consumption | vehicle-to-grid",
+      "abstract": "The development of microgrids integrated into residential buildings is a crucial solution for the deployment of renewable energy sources (RES) even on a small scale. In this perspective it is necessary to develop advanced and intelligent models of energy flow management within microgrids that benefit both users and the power system. This paper explores typical models of residential microgrids. Initially, a simpler model consisting only of a photovoltaic (PV) system and household loads is proposed, and then progressively to a more comprehensive model that also includes battery energy storage systems (BESSs) and electric vehicles (EVs) with vehicle-to-grid (V2G) capabilities. For each of the proposed models, an ad hoc algorithm was developed to manage local resources, with the goals of maximizing self-consumption and self-sufficiency while affecting the grid as little as possible. These algorithms, validated through simulations of real scenarios, can contribute to the development of methods and strategies for managing domestic energy resources.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105019041183",
+      "title": "Reinforcement Learning Algorithms to Optimize the Integration of Electric Vehicle Services Into Power Systems",
+      "doi": "10.1109/EEEIC/ICPSEurope64998.2025.11169060",
+      "venue": "Conference Proceedings 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101340466",
+      "authors": "Bonfiglio Andrea; La Fata Alice; Loggia Riccardo; Martirano Luigi; Minetti Manuela",
+      "author_ids": "36607521000;60145491200;57490153900;6602297955;57210474295",
+      "authorAffiliationIds": "60025153;60025153;108398862;108398862;60025153",
+      "corresponding": "Bonfiglio A.",
+      "keywords": "Reinforcement Learning | Vehicle-to-Grid | Vehicle-to-Home",
+      "abstract": "Electric Vehicles (EVs) present an opportunity to enhance the flexibility of power systems through their integration with Renewable Energy Sources (RES) via Vehicle-to-Grid and Vehicle-to-Home services. However, EVs integration introduce challenges related to their management, influenced by factors such as user behaviour, fluctuating RES generation, grid or building requirements and battery degradation. Within this framework, this paper explores the applications of Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL) algorithms to solve optimization problems aimed at enhancing the flexibility services offered by EVs, maximizing the use of RES whenever possible, while accounting for battery degradation. Besides, limitations, potential solutions and new areas for further development are addressed. In particular, alternative solutions are proposed to address the challenge of requiring a large number of samples for the proper training of RL and DRL algorithms. Furthermore, to mitigate the models' dependence on stochastic variables-such as renewable energy production and load demand-the potential integration of forecasting models for these variables, as well as the implementation of virtual battery partitioning using RL and DRL algorithms is proposed.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105019039867",
+      "title": "The Impact of Vehicle to Home Services on Electric Vehicles Total Cost of Ownership",
+      "doi": "10.1109/EEEIC/ICPSEurope64998.2025.11169020",
+      "venue": "Conference Proceedings 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101340466",
+      "authors": "Bonfiglio Andrea; Loggia Riccardo; Martino Maria; Martirano Luigi; Minetti Manuela",
+      "author_ids": "36607521000;57490153900;59210049100;6602297955;57210474295",
+      "authorAffiliationIds": "60025153;108398862;60025153;108398862;60025153",
+      "corresponding": "Bonfiglio A.",
+      "keywords": "Total Cost of Ownership | Vehicle to Home | Virtual Partitioning Algorithm",
+      "abstract": "The shift towards electrification and a sustainable energy system is creating challenges across all stages of the electricity supply chain, particularly for end users. This transition calls for innovative solutions to fully harness the benefits of electrification across multiple sectors. This paper builds upon Virtual Partitioning Algorithm (VPA) that virtually allocates a portion of the battery of Electrical Vehicles (EVs) to provide Vehicle-to-Home (V2H) services. It investigates the criteria for selecting the virtual partitioning coefficient based on economic considerations, demonstrating how dedicating part of the EV battery for V2H service can beneficially impact on the EV total cost of ownership (TCO) considering a real prosumer case. This approach enables the EV to function as a stationary storage system, eliminating the need for investment in a separate Battery Energy Storage System (BESS) and also alleviate the TCO making EV more convenient and competitive for final users.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105016625608",
+      "title": "Vehicle-to-Grid and Vehicle-to-Building Systems Integrated in Smart Infrastructures: A Comprehensive Review of Technologies, Challenges and Opportunities",
+      "doi": "10.1109/ICCEP65222.2025.11143653",
+      "venue": "2025 International Conference on Clean Electrical Power Iccep 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": "631-645",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101333300",
+      "authors": "Mascioli Lorenzo Frattale; Golino Andrea; Loggia Riccardo; Bonfiglio Andrea; Minetti Manuela; Palma Alessandro Lorenzo; Moscatiello Cristina; Falvo Maria Carmen; Martirano Luigi",
+      "author_ids": "58867232000;59965456100;57490153900;36607521000;57210474295;56448077100;57193652333;15622947700;6602297955",
+      "authorAffiliationIds": "60032350;60032350;60032350;60025153;60025153;60019637;60032350;60032350;60032350",
+      "corresponding": "Mascioli L.F.",
+      "keywords": "electric vehicle | machine learning | V2G | V2X | vehicle-to-everything | vehicle-to-grid",
+      "abstract": "The growing demand for energy storage systems and electric vehicles (EVs) has led to the development of Vehicle-to-Everything (V2X) architectures, whose technology enables a bidirectional exchange of energy and information between EVs and other system elements, such as the grid, buildings, homes and other loads. The adoption of V2X systems has achieved significant progress, but still faces major challenges such as the complexity of technology integration, the need for interoperability between different devices and infrastructures and the high cost of implementation. This paper presents a comprehensive review of V2X systems, analyzing hardware and communication technologies, with a focus on vehicle components. After discussing V2X communication standards, specific applications such as Vehicle-to-Grid (V2G), Vehicle-to-Building (V2B), Vehicle-to-Home (V2H) and Vehicle-to-Vehicle (V2V), will be described, highlighting their advantages and disadvantages that will enable their large-scale implementation. Furthermore, the contribution that artificial intelligence (AI) and machine learning (ML) can make to optimize energy flows, improve cybersecurity systems and facilitate the practical implementation of these technologies will be discussed, followed by an analysis of potential future development paths.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105009073851",
+      "title": "A Machine Learning Algorithm to Minimize Distribution Lines Overloads",
+      "doi": "10.1109/ICPS64254.2025.11030361",
+      "venue": "Conference Record Industrial and Commercial Power Systems Technical Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "21584893",
+      "eIssn": "21584907",
+      "source_id": "21101233878",
+      "authors": "Bonfiglio Andrea; La Fata Alice; Minetti Manuela",
+      "author_ids": "36607521000;57434749400;57210474295",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Bonfiglio A.",
+      "keywords": "Distribution Grids | Machine Learning | Network Reconfiguration | Renewable Energy Sources",
+      "abstract": "To address the issue of line overloads arising from the increasing integration of Renewable Energy Sources (RES) in distribution networks, advanced grid management strategies are needed to dynamically optimize network configurations. Within this context, grid reconfiguration methods allow to define the best configuration of the network to minimize line overloads, improve voltage values within the network and reduce power losses. Hence, reconfiguration methods allow to enhance the operations and management of distribution networks hosting a high share of RES. In this framework, this paper proposes a grid reconfiguration tool based on a machine learning algorithm, aimed at minimizing line overloads and reducing the number of reclosures in a distribution system. The proposed methodology is validated on a 10-node test network with significant RES penetration. The outcomes obtained show that, by applying the reconfigurations proposed by the tool, 56% reduction in total overload occurrences is obtained. The computational time needed by the machine learning-based algorithm to output the best configuration among all the possible ones is less than 1 second, demonstrating the usefulness of the proposed tool to cope with (near)real-time network issues. This result demonstrates the effectiveness of the proposed algorithm in reducing line overloads and improving the system performance.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 49,
+              "rank": 177,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105002620196",
+      "title": "Vehicle-to-Home Service via Electric Vehicle Energy Storage Virtual Partitioning",
+      "doi": "10.1109/TIA.2025.3556807",
+      "venue": "IEEE Transactions on Industry Applications",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "61",
+      "issue_id": "5",
+      "pages": "7790-7802",
+      "issn": "00939994",
+      "eIssn": "19399367",
+      "source_id": "17361",
+      "authors": "Bonfiglio Andrea; Minetti Manuela; Procopio Renato",
+      "author_ids": "36607521000;57210474295;7801615894",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Bonfiglio A.",
+      "keywords": "Electric storage | electric vehicles | energy transition | vehicle to home | virtual storage partitioning",
+      "abstract": "The need for a change in view of a sustainable energy transition is introducing novel challenges in many fields such as power production, transmission, distribution and utilization. On the user side, defining new strategies to reach energy neutrality and sustainability is an important step in this process. This paper proposes a novel Virtual Partitioning Algorithm (VPA) for Electric Vehicles (EVs) energy storage system to provide Vehicles-to-Home (V2H) services in a novel and effective manner. The VPA will improve the environmental and economic performance of prosumers with residential photovoltaic or other renewable energy systems by exploiting the energy storage availability of EVs in an effective way. The VPA for V2H services is applied to realistic residential single-family and multi-family housing test cases using real measured data. Results highlight the positive impact of the proposed approach both from an economic and energy sustainability point of view.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 90,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 89,
+              "rank": 102,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 88,
+              "rank": 49,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85177074761",
+      "title": "A Techno-Economic Assessment to Define Inertia Needs of the Italian Transmission Network in the 2030 Energy Scenario",
+      "doi": "10.1109/TPWRS.2023.3331178",
+      "venue": "IEEE Transactions on Power Systems",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "39",
+      "issue_id": "3",
+      "pages": "5050-5061",
+      "issn": "08858950",
+      "eIssn": "15580679",
+      "source_id": "28825",
+      "authors": "Fresia Matteo; Minetti Manuela; Rosini Alessandro; Procopio Renato; Bonfiglio Andrea; Invernizzi Marco; Denegri Gio Battista; Lisciandrello Giuseppe; Orru Luca",
+      "author_ids": "57224008583;57210474295;57204050700;7801615894;36607521000;6701527755;7004649825;57219972273;57220190197",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153;60122257;60122257",
+      "corresponding": "Fresia M.",
+      "keywords": "Grid flexibilization | system inertia | transmission system",
+      "abstract": "Italian generation scenario, as many others, is foreseeing the replacement of conventional Synchronous Generators (SGs) in favour of Renewable Energy Sources (RES), thus leading to a reduction of the overall system inertia. This paper provides a techno-economic methodology for the estimation of the amount of additional inertia that will be needed in the Italian Transmission Network in the 2030 scenario, in order to limit the Rate of Change of Frequency (RoCoF) within sustainable limits. Moreover, the algorithm optimally distributes Synthetic Inertia (SI) contributions from RES and Battery Energy Storage Systems (BESSs) and the installation of new Synchronous Compensators (SCs) among the Italian market areas. The method is designed to be sufficiently simple to process a significant number of working scenarios and the relevant quantity of information owned by the TSO. Nevertheless, the results have shown to be highly accurate as demonstrated by comparison with detailed time domain simulations.",
+      "citations": 17,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 96,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 94,
+              "rank": 17,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 96,
+              "rank": 39,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 94,
+              "rank": 18,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85188744843",
+      "title": "Load Flow Assignments’ Definition from Day-Ahead Electricity Market Interconnection Power Flows: A Study for Transmission Networks",
+      "doi": "10.3390/en17061391",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "17",
+      "issue_id": "6",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Fresia Matteo; Minetti Manuela; Procopio Renato; Bonfiglio Andrea; Lisciandrello Giuseppe; Orrù Luca",
+      "author_ids": "57224008583;57210474295;7801615894;36607521000;57219972273;57220190197",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60122257;60122257",
+      "corresponding": "Fresia M.",
+      "keywords": "grid flexibilization | load flow | optimization algorithm | transmission system",
+      "abstract": "The mass introduction of renewable energy sources (RESs) presents numerous challenges for transmission system operators (TSOs). The Italian TSO, Terna S.p.A., aims to assess the impact of inverter-based generation on system inertia, primary regulating energy and short-circuit power for the year 2030, characterized by a large penetration of these sources. The initial working point of the Italian transmission network has to be defined through load flow (LF) calculations before starting dynamical analyses and simulations of the power system. Terna 2030 development plan projections enable the estimation of active power generation and load for each hour of that year in each Italian market zone, as well as cross-zonal active power flows; this dataset differs from conventional LF assignments. Therefore, in order to set up a LF analysis for the characterization of the working point of the Italian transmission network, LF assignments have to be derived from the input dataset provided by Terna. For this purpose, this paper presents two methods for determining canonical LF assignments for each network bus, aligning with the available data. The methodologies are applied to a simplified model of the Italian network, but they are also valid for other transmission networks with similar topology and meet the future needs of TSOs. The methods are tested at selected hours, revealing that both approaches yield satisfactory results in terms of compliance with the hourly data provided.",
+      "citations": 7,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 90,
+              "rank": 15,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 85,
+              "rank": 39,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 82,
+              "rank": 173,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 75,
+              "rank": 73,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 71,
+              "rank": 38,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 68,
+              "rank": 32,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 105,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85217848478",
+      "title": "Problem-Based Learning Activity for Electrical Engineering: Unconventional Load Flow Assignments",
+      "doi": "10.1109/IHTC61819.2024.10855021",
+      "venue": "2024 7th IEEE International Humanitarian Technologies Conference Ihtc 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101274824",
+      "authors": "Minetti Manuela; Bonfiglio Andrea",
+      "author_ids": "57210474295;36607521000",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Minetti M.",
+      "keywords": "Engineering education | Jigsaw | Synchronous Machines models | Transient stability",
+      "abstract": "This paper presents a structured learning unit designed to enhance student engagement in the electrical engineering course. The unit employs the problem-based learning (PBL) methodology within the context of Load-Flow (LF) theory. It introduces a realistic interdisciplinary problem for students to address in working groups. The paper offers a comprehensive overview of the unit's objectives, methodology, steps, and evaluation criteria, providing insights into its application and the outcomes for the student learning process.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85212697988",
+      "title": "A Dynamic Controller for Reactive Power and Voltage Regulation in Islanded Microgrids",
+      "doi": "10.1109/PESGM51994.2024.10761100",
+      "venue": "IEEE Power and Energy Society General Meeting",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "19449925",
+      "eIssn": "19449933",
+      "source_id": "20600195623",
+      "authors": "Minetti Manuela; Bonfiglio Andrea; Procopio Renato; Fresia Matteo",
+      "author_ids": "57210474295;36607521000;7801615894;57224008583",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Minetti M.",
+      "keywords": "droop control | Grid-Supporting inverter | Microgrid | primary regulation | reactive power sharing",
+      "abstract": "Reactive power sharing is one of the main challenges in islanded Microgrids (MGs) equipped with multiple Grid-Supporting inverters. The traditional Q/V droop control approach faces difficulties in achieving proper reactive power distribution and maintaining voltage levels within permissible limits. To overcome these challenges, an innovative communication-less control called Q/V Dynamic Control (DC), which integrates boost and droop strategies, is introduced. The DC approach is presented detailing its control law and an analytic procedure is formulated to determine the parameters of the controller. Subsequently, a structural analysis for stability is proposed to clarify the DC responses in different operative conditions. Then, comparative simulations between DC and droop control are carried out using a detailed MG model, aiming to show the advantage of the proposed control strategy.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 37,
+              "rank": 622,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Nuclear Energy and Engineering",
+              "percentile": 37,
+              "rank": 53,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 36,
+              "rank": 208,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 25,
+              "rank": 232,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Nuclear Energy and Engineering",
+              "percentile": 34,
+              "rank": 53,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 29,
+              "rank": 682,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 28,
+              "rank": 215,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 20,
+              "rank": 238,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85211955503",
+      "title": "A Jigsaw Approach for Electrical Engineering: Transient Stability Analysis of a Synchronous Machine",
+      "doi": "10.1109/EEEIC/ICPSEurope61470.2024.10751020",
+      "venue": "Proceedings 24th Eeeic International Conference on Environment and Electrical Engineering and 8th I and Cps Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101263912",
+      "authors": "Minetti Manuela",
+      "author_ids": "57210474295",
+      "authorAffiliationIds": "60025153",
+      "corresponding": "Minetti M.",
+      "keywords": "Engineering education | Jigsaw | Synchronous Machines models | Transient stability",
+      "abstract": "This paper presents a structured pedagogical unit aimed at enhancing students' understanding of the transient stability of synchronous machines with excitation in response to a specific perturbation. The unit focuses on analyzing the effectiveness of two second-order models in studying stability, as well as examining the impact of inertia and dampers on transient stability. Utilizing Matlab software for simulation and analysis, the unit employs a methodology centred around group activities, role assignments, and collaborative problem-solving. Through theoretical introductions, practical activity, and result analysis, students engage in a comprehensive exploration of transient stability phenomena. The paper outlines the unit's objectives, methodology, activities, and evaluation criteria, providing insights into its implementation and potential benefits for student learning.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85207661354",
+      "title": "Electric Vehicle Battery Virtual Partitioning Algorithm for Residential Vehicle-to-Home Service",
+      "doi": "10.1109/SEST61601.2024.10694541",
+      "venue": "2024 International Conference on Smart Energy Systems and Technologies Driving the Advances for Future Electrification Sest 2024 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101256226",
+      "authors": "Bonfiglio Andrea; Minetti Manuela; Procopio Renato",
+      "author_ids": "36607521000;57210474295;7801615894",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Bonfiglio A.",
+      "keywords": "Electric Storage | Energy Transition | Vehicle to Home | Virtual Storage Partitioning",
+      "abstract": "The current trend of electrification and transition to a sustainable and resilient electricity energy scenario is introducing new challenges and necessary improvements on the generation, transmission, distribution and end-user side. These changes require introducing novel solutions to exploit at maximum the potentials of the ongoing electrification of several sectors, especially at customer level. This paper proposes a novel Virtual Partitioning Algorithm (VPA) dedicated to vehicles-to-home (V2H) service provided by private Electric Vehicles (EVs). The VPA will allow improving the environmental and economic performance of prosumers that have residential photovoltaic plants without the need of installing dedicated flexibility devices, e.g. battery energy storage systems (ST), or integrating existing storage units to expand the overall capacity without additional costs. This will help moving in the direction of a more sustainable energy scenario for buildings and energy systems also in the frame of novel configuration such as renewable energy communities. The proposed solution has been tested in a realistic residential setup with real data and the results highlighted the benefits from both the system integration and economic side.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85204074005",
+      "title": "Optimal Sizing of Battery Energy Storage Systems for Renewable Energy Integration in Energy Communities",
+      "doi": "10.1109/IcETRAN62308.2024.10645110",
+      "venue": "Proceedings 2024 11th International Conference on Electrical Electronic and Computing Engineering Icetran 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101248521",
+      "authors": "Minetti Manuela; Bonfiglio Andrea; Procopio Renato; Petronijevic Milutin P.; Radonjic Ivana",
+      "author_ids": "57210474295;36607521000;7801615894;14422928500;55197295400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60068806;60068806",
+      "corresponding": "Minetti M.",
+      "keywords": "Battery Energy Storage System | Curtailment | Optimal Sizing | Renewable Energy Community",
+      "abstract": "The integration of renewable energy sources (RESs) into electrical grids has experienced significant growth in recent decades, propelled by the pursuit of a sustainable energy future. However, as the share of renewable electricity production rises, the likelihood of overloading network components and having overvoltages also increases. Battery Energy Storage Systems (BESSs) offer a promising solution for mitigating RESs curtailment. Therefore, this paper proposes an energy storage sizing strategy aimed at minimizing RESs curtailment in a distribution system with renewable energy communities (RECs). This approach, which leverages linear voltage drop relations, distinguishes itself for its simplicity. The constraints of the optimization problem are defined to prevent overload of the primary substation transformer, issues of undervoltage and overvoltage at network nodes, and overcurrent problems in the feeders. Simulation results on a test distribution network validate the proposed method, providing a practical approach to sizing BESSs in RECs and maximizing renewable energy utilization.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85201733359",
+      "title": "Power Systems Modelling and Digital Twins for Real Time Simulations",
+      "doi": "10.1109/MELECON56669.2024.10608662",
+      "venue": "2024 IEEE 22nd Mediterranean Electrotechnical Conference MELECON 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "162-167",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101243574",
+      "authors": "Minetti Manuela; Bonfiglio Andrea; Benfatto Ivone; Yulong Ye; Fresia Matteo",
+      "author_ids": "57210474295;36607521000;6603638168;58487135800;57224008583",
+      "authorAffiliationIds": "60025153;60025153;60002062;60002062;60025153",
+      "corresponding": "Minetti M.",
+      "keywords": "Digital Twin | Power System modeling | Real Time simulation",
+      "abstract": "The Digital Twin (DT) has become a pivotal technology for representing, simulating, optimizing and visualizing the physical world, serving as a catalyst for digital transformation and sustainable development. This paper explores the integration of DTs in power systems, focusing on Real-Time Simulation (RTS) using Speedgoat, a widely employed real-time simulator. RTS solutions play a crucial role in modelling and simulating DTs and their services. This paper presents different strategies for RTSs of power system DTs on Speedgoat, specifically tested on a plant with Reactive Power Compensation (RPC) system and three Converter Units (CUs). The proposed approaches, developed in Simulink® Real-Time™, are discussed and demonstrated, with potential for generalization to more complex DTs. The close relationship between RTSs and DTs underscores their vital role in ensuring secure and reliable operations in future power grids.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85201729726",
+      "title": "RoCoF Mitigation in the Italian Transmission Network: a Methodology for Inertia Optimization",
+      "doi": "10.1109/MELECON56669.2024.10608532",
+      "venue": "2024 IEEE 22nd Mediterranean Electrotechnical Conference MELECON 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "424-429",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101243574",
+      "authors": "Fresia Matteo; Minetti Manuela; Bonfiglio Andrea; Procopio Renato; Lisciandrello Giuseppe; Orrù Luca",
+      "author_ids": "57224008583;57210474295;36607521000;7801615894;57219972273;57220190197",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60122257;60122257",
+      "corresponding": "Fresia M.",
+      "keywords": "Grid Flexibilization | System Inertia | Transmission System",
+      "abstract": "The replacement of traditional Synchronous Generators (SGs) with inverter-based sources, like Photovoltaic (PV) units, Wind Turbine (WT) power plants and Battery Energy Storage Systems (BESSs), poses critical challenges for Transmission System Operators (TSOs), related to a reduction of the system inertia. In particular, the lack of inertia may lead to issues in containing the Rate of Change of Frequency (RoCoF) within the limits prescribed by grid codes. This paper proposes a methodology for estimating the need of additional inertia for the Italian transmission network in the future 2030 scenario. The methodology sets up an optimization problem able to find the best technological mix of Synthetic Inertia (SI) providing sources (PV, WT and BESS units) and of additional Synchronous Compensators (SCs) to be installed in the Italian scenario, able to limit the RoCoF of the Centre of Inertia (COI) of the Italian network within the prescribed range, while minimizing the economic costs related to inverters' control upgrade and SCs installation. The 2030 scenario is characterized thanks to the data provided by Terna S.p.A, the Italian TSO.",
+      "citations": 7,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85197917872",
+      "title": "Vehicle-to-Home Service Via Electric Vehicle Energy Storage Virtual Partitioning",
+      "doi": "10.1109/ICPS60943.2024.10563283",
+      "venue": "Conference Record Industrial and Commercial Power Systems Technical Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "21584893",
+      "eIssn": "21584907",
+      "source_id": "21101233878",
+      "authors": "Bonfiglio Andrea; Minetti Manuela; Procopio Renato",
+      "author_ids": "36607521000;57210474295;7801615894",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Bonfiglio A.",
+      "keywords": "Electric Storage | Electric Vehicles | Energy Transition | Vehicle to Home | Virtual Storage Partitioning",
+      "abstract": "The need of a change in many energy paradigm in view of a sustainable energy transition is introducing novel challenges in many fields such as power production, transmission, distribution and utilization. Also on the user side, defining new strategies to reach energy neutrality and sustainability is an important step in this process. This paper proposes a Virtual Partitioning Algorithm (VPA) for Electric Vehicles (EVs) energy storage system to provide vehicles-to-home (V2H) services in an novel and effective manner. The VPA will allow improving the environmental and economic performance of prosumers with residential photovoltaic systems without the need of installing dedicated flexibility devices, e.g. battery energy storage systems, or in co-operation with existing storage units if present. The VPA for V2H services is applied to a realistic residential test-case using real measured data and results highlighted its positive performances both from a economic and energy independence point of view.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 49,
+              "rank": 177,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 27,
+              "rank": 251,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85197900030",
+      "title": "Renewable Energy Communities Virtual Islanding: A Novel Service for Smart Distribution Networks",
+      "doi": "10.1109/ICPS60943.2024.10563712",
+      "venue": "Conference Record Industrial and Commercial Power Systems Technical Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "21584893",
+      "eIssn": "21584907",
+      "source_id": "21101233878",
+      "authors": "Bonfiglio Andrea; Bruno Sergio; Martino Maria; Minetti Manuela; Procopio Renato; Velini Angelo",
+      "author_ids": "36607521000;7101968133;59210049100;57210474295;7801615894;59210230800",
+      "authorAffiliationIds": "60025153;60027299;60025153;60025153;60025153;60027299",
+      "corresponding": "Bonfiglio A.",
+      "keywords": "Distribution System Operation | Energy Transition | Grid Services | Renewable Energy Communities | Virtual Islanding",
+      "abstract": "The needs to actuate a sustainable energy transition is pushing the electricity system and its operators to define new strategies and solutions to make the energy system more flexible and resilient, and to include a bigger share of renewable energy sources. This paper proposes a novel flexibilization service for the distribution system exploiting the capabilities of Renewable Energy Communities through the concept of Virtual Islanding operation. This new paradigm can ease the sustainable energy transition of distribution system, making them keener to accommodate larger shares of renewable sources in the grid. The concept of Virtual Islanding is described in the paper and a methodology to assess its benefits in electricity distribution networks is proposed. The effectiveness of Renewable Energy Communities Virtual Islanding operation is assessed in a simplified distribution system layout with massive penetration of RES, highlighting the benefits both from a technical and sustainability viewpoint.",
+      "citations": 18,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 49,
+              "rank": 177,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 27,
+              "rank": 251,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85164833668",
+      "title": "Strategies for Real-Time Simulation of Central Solenoid ITER Power Supply Digital Twin",
+      "doi": "10.3390/en16135107",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "16",
+      "issue_id": "13",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Minetti Manuela; Bonfiglio Andrea; Benfatto Ivone; Yulong Ye",
+      "author_ids": "57210474295;36607521000;6603638168;58487135800",
+      "authorAffiliationIds": "60025153;60025153;60002062;60002062",
+      "corresponding": "Minetti M.",
+      "keywords": "decoupling lines | digital twin | explicit partitioning | ITER power supply | real-time simulation",
+      "abstract": "The International Thermonuclear Experimental Reactor (ITER) is a cutting-edge project that aims to develop a sustainable energy source by harnessing the power of nuclear fusion. One of the key challenges in the development of the ITER is the complex electrical grid that is required to support its operations. To address this challenge, a digital twin (DT) of the Central Solenoid (CS) Converter Power Supply grid has to be developed, and real-time simulation strategies have been proposed to monitor and study the performance of the ITER grid. Real-time simulation strategies allow for continuous feedback on the performance of the grid, enabling the quick identification and resolution of issues. However, it is not always possible to perform real-time simulation easily in a real-time simulator; therefore, specific strategies have to be implemented in the DT. This paper focuses on decoupling lines and explicit partitioning as solutions to allow the real-time simulation of the CS Converter Power Supply grid with two converter units (CUs), as required by the ITER Organization (IO). As will be shown later in this article, the proposed approach is progressive and applicable to a more complex grid with multiple CUs. The results concerning the proposed strategies will be analyzed and discussed in terms of real-time performance.",
+      "citations": 15,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 85,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 82,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 74,
+              "rank": 200,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 71,
+              "rank": 78,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 69,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 68,
+              "rank": 25,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 62,
+              "rank": 103,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85169473933",
+      "title": "Inertia Requirements Assessment for the Italian Transmission Network in the Future Network Scenario",
+      "doi": "10.1109/PowerTech55446.2023.10202846",
+      "venue": "2023 IEEE Belgrade Powertech Powertech 2023",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101175266",
+      "authors": "Bonfiglio Andrea; Fresia Matteo; Minetti Manuela; Procopio Renato; Rosini Alessandro; Lisciandrello Giuseppe; Orrù Luca",
+      "author_ids": "36607521000;57224008583;57210474295;7801615894;57204050700;57219972273;57220190197",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60122257;60122257",
+      "corresponding": "Bonfiglio A.",
+      "keywords": "Grid Flexibilization | System Inertia | Transmission System",
+      "abstract": "Renewable Energy Sources (RES) are replacing conventional Synchronous Generators (SGs) in the Italian generation scenario, thus leading to a decrease of the electric system inertia and to possible problems of inertia shortage. This paper provides a method for the estimation of the inertia that will be required to be installed in the Italian Grid in the 2030 year with the aim of limiting the Rate of Change of Frequency (RoCoF) within the desired interval. Four technologies are considered for the provision of additional inertia: Photovoltaic (PV) systems, Wind Turbine (WT) plants, Battery Energy Storage Systems (BESSs) and Synchronous Compensators (SCs). The proposed method provides also the optimal mix among the aforementioned technologies according to a techno-economic indicator. The 2030 scenario has been characterized thanks to the data provided by Terna S.p.A, the Italian Transmission System Operator (TSO).",
+      "citations": 23,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85118685518",
+      "title": "An Advanced Droop Control Strategy for Reactive Power Assessment in Islanded Microgrids",
+      "doi": "10.1109/TPWRS.2021.3124062",
+      "venue": "IEEE Transactions on Power Systems",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "37",
+      "issue_id": "4",
+      "pages": "3014-3025",
+      "issn": "08858950",
+      "eIssn": "15580679",
+      "source_id": "28825",
+      "authors": "Minetti Manuela; Rosini Alessandro; Denegri Gio Battista; Bonfiglio Andrea; Procopio Renato",
+      "author_ids": "57210474295;57204050700;7004649825;36607521000;7801615894",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Minetti M.",
+      "keywords": "droop control | inverter control | Microgrid | primary control | reactive power sharing",
+      "abstract": "Inverter based islanded MicroGrids (MGs) are very fascinating but challenging ways to integrate Distributed Energy Resources (DERs) in electric networks. Active and reactive power regulation is a major issue due to the necessity of optimally exploiting the sources characteristics and controlling voltage and frequency. Focusing the attention on the reactive power control, the main needs are to regulate voltage at suitable values and ensure a proper reactive power sharing among the energy sources. The conventional control for reactive power presents relevant drawbacks and so an Advanced Droop Control strategy (ADC) is presented to approach primary voltage control and reactive power sharing amongGrid-Supporting inverters in islandedMGs.TheADCstrategy is presented defining its control law and the control scheme with a stability analysis. Then, an analytical procedure is developed to set the controller parameters. Following, a comparison between the ADC and droop control is performed with dedicated simulations on a common benchmark Microgrid in order to highlight the advantages of the proposed control strategy. Finally, a comparison with other advanced control techniques is proposed in order to showthatADCis able to guarantee improved performance in terms of the combined regulation of voltage and reactive power.",
+      "citations": 33,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 96,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 94,
+              "rank": 17,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 96,
+              "rank": 30,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 94,
+              "rank": 14,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85141509462",
+      "title": "A Contribution to Reactive Power Control in Inverter Based Islanded Microgrids",
+      "doi": "10.1109/PESGM48719.2022.9916941",
+      "venue": "IEEE Power and Energy Society General Meeting",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "2022-July",
+      "issue_id": null,
+      "pages": null,
+      "issn": "19449925",
+      "eIssn": "19449933",
+      "source_id": "20600195623",
+      "authors": "Rosini Alessandro; Minetti Manuela; Denegri Gio Battista; Procopio Renato; Bonfiglio Andrea",
+      "author_ids": "57204050700;57210474295;7004649825;7801615894;36607521000",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Rosini A.",
+      "keywords": "Droop control | Inverter control | Microgrid | Primary Control | Reactive Power Sharing",
+      "abstract": "In islanded Microgrids (MGs) with converter based energy production, one of the main problem dealing with the primary level regulation is the proper reactive power sharing among the Distributed Energy Resources(DERs.) and the simultaneous voltage regulation. In this field the most used approach is based on the conventional droop control, but it presents some relevant drawbacks and so an Advanced Boost Control strategy (ABC) is presented to approach primary voltage control and reactive power sharing among Grid-Supporting inverters in islanded MGs. The ABC strategy is presented defining its control law and the control scheme together with relevant stability. Then, an analytical procedure is developed to set the controller parameters. Following, a comparison between the ABC and droop control is performed with dedicated simulations on a common benchmark MG in order to highlight the advantages of the proposed control strategy.",
+      "citations": 10,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 37,
+              "rank": 622,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Nuclear Energy and Engineering",
+              "percentile": 37,
+              "rank": 53,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 36,
+              "rank": 208,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 25,
+              "rank": 232,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85106721839",
+      "title": "Simplified Conditions for the Evaluation of Droop-Controlled Microgrids Stability",
+      "doi": "10.1109/ATEE52255.2021.9425145",
+      "venue": "12th International Symposium on Advanced Topics in Electrical Engineering Atee 2021",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101046723",
+      "authors": "Minetti Manuela; Fresia Matteo",
+      "author_ids": "57210474295;57224008583",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Minetti M.",
+      "keywords": "Microgrids | Smart grids | Stability",
+      "abstract": "The control logic of a Microgrid (MG) represents one of the most important topic in power system engineering research. The most common and well-known control logic is represented by the droop one, that allows each MG source to share the power request and to participate to the frequency and voltage controls. In order to reach this goal, the stability of this control logic is fundamental and it is important to understand if a determined working point can be reached. In this paper a new stability condition, based on a mathematical framework and with some simplifying assumptions is presented. The proposed approach has the advantage of being a fast calculation that can predict the reachability of a particular working point that reflects a particular load request without using numerical algorithm or software simulators. The proposed methodology is finally validated with two simulations realized on PSCAD-EMTDC.",
+      "citations": 12,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85126482806",
+      "title": "An MPC approach for a PV-BESS islanded system primary regulation",
+      "doi": "10.1109/EEEIC/ICPSEurope51590.2021.9584533",
+      "venue": "21st IEEE International Conference on Environment and Electrical Engineering and 2021 5th IEEE Industrial and Commercial Power System Europe Eeeic I and Cps Europe 2021 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101080908",
+      "authors": "Minetti Manuela; Fresia Matteo; Mestriner Daniele",
+      "author_ids": "57210474295;57224008583;57115575100",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Minetti M.",
+      "keywords": "Inverter control | Microgrid | MPC | Photovoltaic Unit | Storage",
+      "abstract": "Islanded MGs represent an innovative and crucial way for the electrification of rural areas or small cities. The possibility of operating in islanded mode is extremely important, as well as the possibility of obtaining a proper control system without a stable communication link. This paper proposes a control strategy aiming at obtaining the regulation of a Microgrid composed by a Photovoltaic (PV) and Storage unit in islanded mode in a decentralized way and without a communication link. Thanks to the proposed approach, the availability and the continuity of service to the load is guaranteed. The design of inverter controllers focuses on the Model Predictive Control technique; the resulting project relies only on local measurements and nullifies both frequency and voltage errors. The combination of the advantages of the proposed method (i.e. no communication among devices and no secondary control) results in a solution that partially overcome the well-known approaches (classic droop and master/slave controllers).",
+      "citations": 23,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85126432170",
+      "title": "A Review of Primary and Secondary Control for Islanded No-Inertia Microgrids",
+      "doi": "10.1109/EEEIC/ICPSEurope51590.2021.9584722",
+      "venue": "21st IEEE International Conference on Environment and Electrical Engineering and 2021 5th IEEE Industrial and Commercial Power System Europe Eeeic I and Cps Europe 2021 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101080908",
+      "authors": "Minetti Manuela; Fresia Matteo",
+      "author_ids": "57210474295;57224008583",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Minetti M.",
+      "keywords": "Microgrids | Smart grids | Stability",
+      "abstract": "Microgrid (MG) control represents an impactful and important topic in current academic and industry research related to power systems. MG operations can be distinguished in grid-connected and islanded operations. Among these two, islanded operation is for sure the more challenging since the MG control need to cope with voltage and frequency regulation that is usually not a problem for grid connected ones. Achieving these goals become even more complex if no-inertia MGs are considered i.e. MG where no synchronous generation is directly connected to the grid. This paper proposes a detailed review of state-of-the-art architecture for the hierarchical control of islanded, no-inertia MGs in order to highlight its characteristics and limitation with the aim of providing a suitable background for further developments of control approaches for this kind of applications.",
+      "citations": 21,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85095590938",
+      "title": "New Approaches to Reactive Power Sharing and Voltage Control in Islanded AC Microgrids",
+      "doi": "10.1109/UPEC49904.2020.9209864",
+      "venue": "Upec 2020 2020 55th International Universities Power Engineering Conference Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101026895",
+      "authors": "Minetti Manuela; Denegri Gio Battista; Rosini Alessandro",
+      "author_ids": "57210474295;7004649825;57204050700",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Minetti M.",
+      "keywords": "Droop control | Inverter control | Microgrid | Primary Control | Reactive Power Sharing",
+      "abstract": "Advanced dynamic control strategies are presented to approach primary voltage control and reactive power sharing among Grid-Supporting inverters interfacing production units in AC islanded Microgrids (MG). After defining the MG structure and the power system model used in the analytical analysis, new methods are introduced and analyzed. Then, a setting procedure of control parameters is developed in order to meet the requirements of a correct power sharing, voltage stability and maintenance of acceptable voltage profile. Next, a comparison among the new approaches and the conventional droop results is performed, by means of dedicated simulations on a common benchmark network in order to show advantages of the new approaches.",
+      "citations": 17,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85070795130",
+      "title": "Reactive Power Sharing Analysis in Islanded AC Microgrids",
+      "doi": "10.1109/EEEIC.2019.8783374",
+      "venue": "Proceedings 2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2019",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100924363",
+      "authors": "Rosini Alessandro; Minetti Manuela; Denegri Gio Battista; Invernizzi Marco",
+      "author_ids": "57204050700;57210474295;7004649825;6701527755",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Rosini A.",
+      "keywords": "Droop control | Inverter control | Microgrid | Primary Control | Reactive Power Sharing",
+      "abstract": "Primary regulation of islanded Microgrids is one of the most relevant topics in an academic and industrial world. IEEE Std 1547-2018 defines the functionalities of GridSupporting inverters and one of the control goals is the correct reactive power sharing. This paper focuses the attention on the performance of the conventional droop technique in the control of reactive power flows and voltage. After defining the MG structure, a detailed mathematical model for the study of the problem is presented in order to carry out a MG parameters and a regulators parameters sensitivity analysis.",
+      "citations": 18,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85076252294",
+      "title": "A simplified study for reactive power management in autonomous microgrids",
+      "doi": null,
+      "venue": "Wseas Transactions on Power Systems",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "14",
+      "issue_id": null,
+      "pages": "107-112",
+      "issn": "17905060",
+      "eIssn": "2224350X",
+      "source_id": "19700190300",
+      "authors": "Rosini A.; Bonfiglio A.; Mestriner D.; Minetti M.; Bracco S.",
+      "author_ids": "57204050700;36607521000;57115575100;57210474295;15049159900",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Rosini A.",
+      "keywords": "Autonomous microgrids | Microgrids | Power electronic converters | Power management | Reactive power | Voltage control",
+      "abstract": "Reactive power sharing is one of the main issues in the control and operation of an autonomous Microgrids (MGs), especially for MGs composed by power generation interfaced with the MG distribution by means of Power Electronic Converters (PEC). Among the various MG control techniques, the droop is the one that has been widely applied thanks to the possibility of achieving a communication-less regulation of the MG. However some issues arises as far as reactive power and voltage control is concerned. The aim of this study is to draw some analytical consideration of reactive power sharing in droop-controlled autonomous MGs in order to highlight the parameters and configuration that can lead to undesired operational conditions.",
+      "citations": 13,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 41,
+              "rank": 240,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 37,
+              "rank": 621,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": null,
+              "percentile": 54,
+              "rank": 456,
+              "quartile": "Q2"
+            },
+            {
+              "subject": null,
+              "percentile": 36,
+              "rank": 128,
+              "quartile": "Q3"
+            },
+            {
+              "subject": null,
+              "percentile": 34,
+              "rank": 259,
+              "quartile": "Q3"
+            },
+            {
+              "subject": null,
+              "percentile": 26,
+              "rank": 912,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 23,
+              "rank": 261,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1262036",
+      "authors": "Minetti, Manuela; Procopio, Renato; Bonfiglio, Andrea",
+      "legacy_id": 657473,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Analytical load flow solution for radial distribution networks",
+      "scopus_id": "2-s2.0-105012395346",
+      "doi": "10.1016/j.segan.2025.101871",
+      "isi_id": "WOS:001550489000007",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1245438",
+      "authors": "Velini, A.; Minetti, M.; Bruno, S.; Bonfiglio, A.; Procopio, R.; La Scala, M.",
+      "legacy_id": 636274,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Renewable energy communities virtual islanding: A decentralized service to improve distribution grid security",
+      "scopus_id": "2-s2.0-105001489606",
+      "doi": "10.1016/j.segan.2025.101700",
+      "isi_id": "WOS:001461809800001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1253997",
+      "authors": "Bonfiglio, Andrea; La Fata, Alice; Minetti, Manuela",
+      "legacy_id": 646207,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "A pattern recognition based tool for smart distribution networks reconfiguration",
+      "scopus_id": "2-s2.0-105007289954",
+      "doi": "10.1016/j.epsr.2025.111890",
+      "isi_id": "WOS:001512618800001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1254278",
+      "authors": "Radonjic, I.; Petronijevic, M. P.; Dimitrijevic, M. A.; Minetti, M.; Procopio, R.",
+      "legacy_id": 647367,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Effects of fly ash pollution on urban photovoltaic microgrid operation",
+      "scopus_id": "2-s2.0-105007529304",
+      "doi": "10.1016/j.renene.2025.123649",
+      "isi_id": "WOS:001517254100010",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1246597",
+      "authors": "Bonfiglio, A.; Minetti, M.; Procopio, R.",
+      "legacy_id": 638125,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Vehicle-to-Home Service via Electric Vehicle Energy Storage Virtual Partitioning",
+      "scopus_id": "2-s2.0-105002620196",
+      "doi": "10.1109/TIA.2025.3556807",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1266100",
+      "authors": "Bonfiglio, Andrea; La Fata, Alice; Minetti, Manuela",
+      "legacy_id": 662490,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "A Machine Learning Algorithm to Minimize Distribution Lines Overloads",
+      "scopus_id": "2-s2.0-105009073851",
+      "doi": "10.1109/icps64254.2025.11030361",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1245439",
+      "authors": "Minetti, M.; Fresia, M.; Procopio, R.; Bonfiglio, A.; Denegri, G. B.; Lisciandrello, G.; Orru, L.",
+      "legacy_id": 636275,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Optimal inertia allocation in future transmission networks: A case study on the Italian grid",
+      "scopus_id": "2-s2.0-86000324666",
+      "doi": "10.1016/j.segan.2025.101676",
+      "isi_id": "WOS:001443113700001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273878",
+      "authors": "Bonfiglio, Andrea; La Fata, Alice; Loggia, Riccardo; Martirano, Luigi; Minetti, Manuela",
+      "legacy_id": 671291,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Reinforcement Learning Algorithms to Optimize the Integration of Electric Vehicle Services Into Power Systems",
+      "scopus_id": "2-s2.0-105019041183",
+      "doi": "10.1109/eeeic/icpseurope64998.2025.11169060",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1255018",
+      "authors": "Bonfiglio, Andrea; Minetti, Manuela; Loggia, Riccardo; Mascioli, Lorenzo; Golino, Andrea; Moscatiello, Cristina; Martirano, Luigi",
+      "legacy_id": 648192,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Integrated Vehicle-to-Building and Vehicle-to-Home Services for Residential and Worksite Microgrids",
+      "scopus_id": "2-s2.0-105009265177",
+      "doi": "10.3390/smartcities8030101",
+      "isi_id": "WOS:001516228200001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1253456",
+      "authors": "Minetti, M.; Bonfiglio, A.; Procopio, R.; Fresia, M.",
+      "legacy_id": 646285,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "A Dynamic Controller for Reactive Power and Voltage Regulation in Islanded Microgrids",
+      "scopus_id": "2-s2.0-85212697988",
+      "doi": "10.1109/PESGM51994.2024.10761100",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220826",
+      "authors": "Minetti, M.; Bonfiglio, A.; Procopio, R.; Petronijevic, M. P.; Radonjic, I.",
+      "legacy_id": 595231,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Optimal Sizing of Battery Energy Storage Systems for Renewable Energy Integration in Energy Communities",
+      "scopus_id": "2-s2.0-85204074005",
+      "doi": "10.1109/IcETRAN62308.2024.10645110",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1217075",
+      "authors": "Bonfiglio, A.; Minetti, M.; Procopio, R.",
+      "legacy_id": 595227,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Vehicle-to-Home Service Via Electric Vehicle Energy Storage Virtual Partitioning",
+      "scopus_id": "2-s2.0-85197917872",
+      "doi": "10.1109/ICPS60943.2024.10563283",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220817",
+      "authors": "Bonfiglio, A.; Bruno, S.; Martino, M.; Minetti, M.; Procopio, R.; Velini, A.",
+      "legacy_id": 595235,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Renewable Energy Communities Virtual Islanding: A Novel Service for Smart Distribution Networks",
+      "scopus_id": "2-s2.0-85197900030",
+      "doi": "10.1109/ICPS60943.2024.10563712",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "18"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220816",
+      "authors": "Minetti, M.; Bonfiglio, A.; Benfatto, I.; Yulong, Y.; Fresia, M.",
+      "legacy_id": 595229,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Power Systems Modelling and Digital Twins for Real Time Simulations",
+      "scopus_id": "2-s2.0-85201733359",
+      "doi": "10.1109/MELECON56669.2024.10608662",
+      "isi_id": "WOS:001291230100028",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220821",
+      "authors": "Fresia, M.; Minetti, M.; Bonfiglio, A.; Procopio, R.; Lisciandrello, G.; Orru, L.",
+      "legacy_id": 595234,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "RoCoF Mitigation in the Italian Transmission Network: a Methodology for Inertia Optimization",
+      "scopus_id": "2-s2.0-85201729726",
+      "doi": "10.1109/MELECON56669.2024.10608532",
+      "isi_id": "WOS:001291230100074",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "3",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1253476",
+      "authors": "Minetti, M.",
+      "legacy_id": 646305,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "A Jigsaw Approach for Electrical Engineering: Transient Stability Analysis of a Synchronous Machine",
+      "scopus_id": "2-s2.0-85211955503",
+      "doi": "10.1109/EEEIC/ICPSEurope61470.2024.10751020",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1156356",
+      "authors": "Fresia, M.; Minetti, M.; Rosini, A.; Procopio, R.; Bonfiglio, A.; Invernizzi, M.; Denegri, G. B.; Lisciandrello, G.; Orru, L.",
+      "legacy_id": 520995,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "A Techno-Economic Assessment to Define Inertia Needs of the Italian Transmission Network in the 2030 Energy Scenario",
+      "scopus_id": "2-s2.0-85177074761",
+      "doi": "10.1109/TPWRS.2023.3331178",
+      "isi_id": "WOS:001205801300031",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "17"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220815",
+      "authors": "Fresia, M.; Minetti, M.; Procopio, R.; Bonfiglio, A.; Lisciandrello, G.; Orru, L.",
+      "legacy_id": 595236,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Load Flow Assignments’ Definition from Day-Ahead Electricity Market Interconnection Power Flows: A Study for Transmission Networks",
+      "scopus_id": "2-s2.0-85188744843",
+      "doi": "10.3390/en17061391",
+      "isi_id": "WOS:001191460600001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1253496",
+      "authors": "Minetti, M.; Bonfiglio, A.",
+      "legacy_id": 646327,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Problem-Based Learning Activity for Electrical Engineering: Unconventional Load Flow Assignments",
+      "scopus_id": "2-s2.0-85217848478",
+      "doi": "10.1109/IHTC61819.2024.10855021",
+      "isi_id": "WOS:001447601200014",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1253536",
+      "authors": "Bonfiglio, A.; Minetti, M.; Procopio, R.",
+      "legacy_id": 646365,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Electric Vehicle Battery Virtual Partitioning Algorithm for Residential Vehicle-to-Home Service",
+      "scopus_id": "2-s2.0-85207661354",
+      "doi": "10.1109/SEST61601.2024.10694541",
+      "isi_id": "WOS:001338753300105",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1156335",
+      "authors": "Bonfiglio, A.; Fresia, M.; Minetti, M.; Procopio, R.; Rosini, A.; Lisciandrello, G.; Orr(`u), L.",
+      "legacy_id": 521298,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Inertia Requirements Assessment for the Italian Transmission Network in the Future Network Scenario",
+      "scopus_id": "2-s2.0-85169473933",
+      "doi": "10.1109/PowerTech55446.2023.10202846",
+      "isi_id": "WOS:001055072600175",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "4",
+      "citations_scopus": "23"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1156085",
+      "authors": "Minetti, M.; Bonfiglio, A.; Benfatto, I.; Yulong, Y.",
+      "legacy_id": 520994,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Strategies for Real-Time Simulation of Central Solenoid ITER Power Supply Digital Twin",
+      "scopus_id": "2-s2.0-85164833668",
+      "doi": "10.3390/en16135107",
+      "isi_id": "WOS:001028665800001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "9",
+      "citations_scopus": "14"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1117138",
+      "authors": "Minetti, Manuela",
+      "ssd": "Settore ING-IND/33 - Sistemi Elettrici per L'Energia",
+      "legacy_id": 469038,
+      "year": 2023,
+      "miur_type": "-2",
+      "title": "The Role of Inverter-based Generation in Future Energy Systems: An Oriented Decentralized Strategy for Reactive Power Sharing in Islanded AC Microgrids and a Techno-Economic Approach to Inertia Requirements Assessment of the Italian Transmission Network",
+      "doi": "10.15167/minetti-manuela_phd2023-05-17",
+      "type": "Tesi di dottorato"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102996",
+      "authors": "Rosini, Alessandro; Minetti, Manuela; Denegri, GIO BATTISTA; Procopio, Renato; Bonfiglio, Andrea",
+      "legacy_id": 446568,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "A Contribution to Reactive Power Control in Inverter Based Islanded Microgrids",
+      "scopus_id": "2-s2.0-85141509462",
+      "doi": "10.1109/PESGM48719.2022.9916941",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "10"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1066560",
+      "authors": "Minetti, M.; Rosini, A.; Denegri, G. B.; Bonfiglio, A.; Procopio, R.",
+      "legacy_id": 402172,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "An Advanced Droop Control Strategy for Reactive Power: Assessment in Islanded Microgrids",
+      "scopus_id": "2-s2.0-85118685518",
+      "doi": "10.1109/TPWRS.2021.3124062",
+      "isi_id": "WOS:000812533700045",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "23",
+      "citations_scopus": "33"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102880",
+      "authors": "Minetti, M.; Fresia, M.",
+      "legacy_id": 446386,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "A Review of Primary and Secondary Control for Islanded No-Inertia Microgrids",
+      "scopus_id": "2-s2.0-85126432170",
+      "doi": "10.1109/EEEIC/ICPSEurope51590.2021.9584722",
+      "isi_id": "WOS:000784128100208",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "6",
+      "citations_scopus": "21"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1151375",
+      "authors": "Minetti, M.; Fresia, M.",
+      "legacy_id": 514571,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "Simplified Conditions for the Evaluation of Droop-Controlled Microgrids Stability",
+      "scopus_id": "2-s2.0-85106721839",
+      "doi": "10.1109/ATEE52255.2021.9425145",
+      "isi_id": "WOS:000676164800055",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "3",
+      "citations_scopus": "12"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1094196",
+      "authors": "Minetti, M; Fresia, M; Mestriner, D",
+      "legacy_id": 433374,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "An MPC approach for a PV-BESS islanded system primary regulation",
+      "scopus_id": "2-s2.0-85126482806",
+      "doi": "10.1109/EEEIC/ICPSEurope51590.2021.9584533",
+      "isi_id": "WOS:000784128100051",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "4",
+      "citations_scopus": "23"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102893",
+      "authors": "Minetti, M.; Denegri, G. B.; Rosini, A.",
+      "legacy_id": 446406,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "New Approaches to Reactive Power Sharing and Voltage Control in Islanded AC Microgrids",
+      "scopus_id": "2-s2.0-85095590938",
+      "doi": "10.1109/UPEC49904.2020.9209864",
+      "isi_id": "WOS:000627771000105",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "4",
+      "citations_scopus": "17"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102873",
+      "authors": "Rosini, A.; Minetti, M.; Denegri, G. B.; Invernizzi, M.",
+      "legacy_id": 446380,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Reactive Power Sharing Analysis in Islanded AC Microgrids",
+      "scopus_id": "2-s2.0-85070795130",
+      "doi": "10.1109/EEEIC.2019.8783374",
+      "isi_id": "WOS:000502821300074",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "10",
+      "citations_scopus": "18"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1003988",
+      "authors": "Rosini, A.; Bonfiglio, A.; Mestriner, D.; Minetti, M.; Bracco, S.",
+      "legacy_id": 330116,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "A simplified study for reactive power management in autonomous microgrids",
+      "scopus_id": "2-s2.0-85076252294",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "13"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:15:35.730947"
+}

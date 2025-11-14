@@ -1,0 +1,15 @@
+{
+  "input_file": "DITEN_test.xlsx",
+  "year_windows": [
+    15,
+    10,
+    5
+  ],
+  "fetch_scopus": true,
+  "fetch_unige": true,
+  "fetch_iris": true,
+  "created_at": "2025-11-14T15:08:02.146358",
+  "source_count": 3,
+  "summary_path": "/Users/riccardoberta/Source/Diten/DEEP/data/2025_11_14_20/elaborations/DITEN_test_results.xlsx",
+  "last_outputs_updated_at": "2025-11-14T15:12:22.210359+00:00"
+}

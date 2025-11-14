@@ -1,0 +1,1852 @@
+{
+  "surname": "Krayani",
+  "name": "Ali",
+  "unit": "ICT",
+  "email": "ali.krayani@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/UUVHXFpg",
+  "website": "",
+  "unige_id": "460709",
+  "scopus_id": "57211429954",
+  "role": "Ricercatore",
+  "grade": "Ricercatore t.d. art. 24 c. 3 lett. A Legge 240/10 (t.pieno)",
+  "ssd": "IINF-03/A (Telecomunicazioni)",
+  "location": [
+    {
+      "building": "Opera Pia - padiglione C (Ex CNR) (ED_161450501)",
+      "floor": "1° piano",
+      "room": "US_161450501.I.017"
+    }
+  ],
+  "career": [
+    {
+      "role": "DR",
+      "from": "2018-11-01 00:00:00.0000000",
+      "to": "2021-10-31 00:00:00.0000000"
+    },
+    {
+      "role": "CB",
+      "from": "2019-03-18 00:00:00.0000000",
+      "to": "2022-09-30 00:00:00.0000000"
+    },
+    {
+      "role": "AR",
+      "from": "2021-11-02 00:00:00.0000000",
+      "to": "2023-05-04 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2023-05-05 00:00:00.0000000",
+      "to": "2026-05-04 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {
+    "2025": [
+      {
+        "course": "PERVASIVE DYNAMIC ELECTRONICS (114766)",
+        "degree": "LM-29 - ELECTRONIC ENGINEERING"
+      }
+    ],
+    "2024": [
+      {
+        "course": "PHYSICAL LAYER MODELS AND TECHNIQUES FOR SOFTWARE RADIO (90139)",
+        "degree": "LM-27 - INTERNET AND MULTIMEDIA ENGINEERING"
+      }
+    ],
+    "2023": [
+      {
+        "course": "PHYSICAL LAYER MODELS AND TECHNIQUES FOR SOFTWARE RADIO (90139)",
+        "degree": "LM-27 - INTERNET AND MULTIMEDIA ENGINEERING"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 10,
+      "total_products": 30,
+      "journals": 11,
+      "conferences": 17,
+      "citations": 254,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 10,
+      "total_products": 30,
+      "journals": 11,
+      "conferences": 17,
+      "citations": 254,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 10,
+      "total_products": 30,
+      "journals": 11,
+      "conferences": 17,
+      "citations": 254,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 9,
+      "total_products": 28,
+      "journals": 11,
+      "conferences": 15,
+      "citations": 238,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-105017224051",
+      "title": "Toward Autonomous UAV Swarm Navigation: A Review of Trajectory Design Paradigms",
+      "doi": "10.3390/s25185877",
+      "venue": "Sensors",
+      "type": "Journal",
+      "sub_type": "Review",
+      "year": 2025,
+      "volume": "25",
+      "issue_id": "18",
+      "pages": null,
+      "issn": null,
+      "eIssn": "14248220",
+      "source_id": "130124",
+      "authors": "Arshid Kaleem; Krayani Ali; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo",
+      "author_ids": "57215812954;57211429954;6603377664;59388326900;35513672400",
+      "authorAffiliationIds": "60025153-60001741;60025153;60025153;60001741;60025153",
+      "corresponding": "Arshid K.",
+      "keywords": "artificial intelligence | bio-inspired algorithms | collision avoidance | MTSP | multi-agent systems | swarm robotics | trajectory planning | UAV swarm | unmanned aerial vehicles",
+      "abstract": "The development of efficient and reliable trajectory-planning strategies for swarms of unmanned aerial vehicles (UAVs) is an increasingly important area of research, with applications in surveillance, search and rescue, smart agriculture, defence operations, and communication networks. This article provides a comprehensive and critical review of the various techniques available for UAV swarm trajectory planning, which can be broadly categorised into three main groups: traditional algorithms, biologically inspired metaheuristics, and modern artificial intelligence (AI)-based methods. The study examines cutting-edge research, comparing key aspects of trajectory planning, including computational efficiency, scalability, inter-UAV coordination, energy consumption, and robustness in uncertain environments. The strengths and weaknesses of these algorithms are discussed in detail, particularly in the context of collision avoidance, adaptive decision making, and the balance between centralised and decentralised control. Additionally, the review highlights hybrid frameworks that combine the global optimisation power of bio-inspired algorithms with the real-time adaptability of AI-based approaches, aiming to achieve an effective exploration–exploitation trade-off in multi-agent environments. Lastly, the article addresses the major challenges in UAV swarm trajectory planning, including multidimensional trajectory spaces, nonlinear dynamics, and real-time adaptation. It also identifies promising directions for future research. This study serves as a valuable resource for researchers, engineers, and system designers working to develop UAV swarms for real-world, integrated, intelligent, and autonomous missions.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 90,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 136,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 85,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 84,
+              "rank": 72,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 82,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 82,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85211248090",
+      "title": "Exploring Active Inference for Efficient Resource Allocation in AAV-Enabled Cognitive NOMA Uplink",
+      "doi": "10.1109/TCCN.2024.3510577",
+      "venue": "IEEE Transactions on Cognitive Communications and Networking",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "11",
+      "issue_id": "4",
+      "pages": "2632-2647",
+      "issn": null,
+      "eIssn": "23327731",
+      "source_id": "21100854831",
+      "authors": "Obite Felix; Krayani Ali; Alam Atm S.; Marcenaro Lucio; Nallanathan Arumugam; Regazzoni Carlo",
+      "author_ids": "57191589599;57211429954;49862669300;6603377664;6603561059;35513672400",
+      "authorAffiliationIds": "60025153-60022109;60025153-60103966;60022109;60025153-60103966;60022109-60001873;60025153-60103966",
+      "corresponding": "Obite F.",
+      "keywords": "AAV | Active inference | cognitive-NOMA | generalized dynamic Bayesian network (GDBN) | resource allocation",
+      "abstract": "The integration of autonomous aerial vehicles (AAVs), cognitive radio (CR), and non-orthogonal multiple access (NOMA) presents a promising solution to significantly enhance the performance of future wireless networks. Achieving this integration requires cognitive self-awareness for intelligent resource allocation. In this paper, we address the problem of sum rate maximization in AAV-enabled cognitive NOMA uplink systems through the joint optimization of subchannel assignment and power allocation, while considering the AAV’s mobility. The traditional approach to finding the optimal solution requires an iterative or exhaustive search across all possible combinations of subchannel assignment, power allocation, and AAV position at each time slot, leading to excessive computational complexity. Furthermore, machine learning models, often trained on datasets that do not fully capture the complexity of real-world scenarios, struggle to handle non-stationary events effectively. To solve this nonconvex optimization challenge, we draw inspiration from active inference in cognitive neuroscience and propose a novel data-driven approach called the Active Generalized Dynamic Bayesian Network (Active-GDBN). The main idea is to process the unknown nonlinear input of an exhaustive search optimization algorithm using an Active-GDBN framework. This framework leverages a probabilistic generative model to learn the complex relationships and dependencies among subchannel assignments, power distributions, and the AAV’s mobility. The model is facilitated by continuous neuronal message passing in both discrete and continuous states to predict the optimal configuration. Numerical results show that the proposed approach achieves sum rate performance near the optimal exhaustive search and surpasses other baseline approaches.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 93,
+              "rank": 15,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 92,
+              "rank": 39,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 88,
+              "rank": 55,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105015180850",
+      "title": "UAV Swarm Trajectory Design for Wireless Networks Using Genetic Algorithm-Driven Repulsion Forces",
+      "doi": "10.1109/ACCESS.2025.3606121",
+      "venue": "IEEE Access",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "13",
+      "issue_id": null,
+      "pages": "155657-155674",
+      "issn": null,
+      "eIssn": "21693536",
+      "source_id": "21100374601",
+      "authors": "Arshid Kaleem; Krayani Ali; Marcenaro Lucio; Martin Gomez David; Regazzoni Carlo",
+      "author_ids": "57215812954;57211429954;6603377664;59746433000;35513672400",
+      "authorAffiliationIds": "60025153-60001741;60025153;60025153;60001741;60025153",
+      "corresponding": "Arshid K.",
+      "keywords": "collision avoidance | genetic algorithm | repulsion force | trajectory design | UAV swarm",
+      "abstract": "Uncrewed Aerial Vehicle (UAV) swarms are increasingly recognized for their versatility and affordability. These swarms have enhanced various applications, including agriculture, surveillance, delivery services, and monitoring. However, fully utilizing the capabilities of UAV swarms requires addressing challenges related to trajectory design, particularly the Multiple Traveling Salesman Problem (MTSP). It involves optimizing the paths of multiple UAVs while avoiding collisions, minimizing overlap and interference, and managing the overall size of the swarm. These challenges highlight the complexities involved in developing high-performance, organized UAV swarm operations. We propose a novel approach based on repulsion force in UAV swarm trajectory design to tackle these issues. Our method utilizes a Genetic Algorithm (GA) to generate a dynamic Repulsion Force (RF) that optimizes the distance between UAVs and the size of the swarm. This approach reduces interference and overlap while effectively navigating the limitations posed by the MTSP. Our proposed solution aims to design efficient trajectories that enhance the overall performance of UAV swarms. We compared our proposed method to existing algorithms, including the MTSPGA, Particle Swarm Optimization (PSO), 2-OPT, Ant Colony (AC) Optimization, and Simulated Annealing (SA), using simulations and evaluations. The results indicate that our proposed method effectively optimizes travel distances and times, reduces interference levels and overlapping, prevents collisions between UAVs, and enhances the size of the UAV swarm. Overall, our method outperforms current approaches, demonstrating its effectiveness for UAV-based applications.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 88,
+              "rank": 42,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 83,
+              "rank": 41,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 78,
+              "rank": 101,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105009757592",
+      "title": "Explainable Reinforcement Learning for Trajectory Design in UAV-assisted Wireless Networks",
+      "doi": "10.1109/ICASSP49660.2025.10890737",
+      "venue": "ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "15206149",
+      "eIssn": null,
+      "source_id": "110544",
+      "authors": "Krayani Ali; Khan Khalid; Marcenaro Lucio; Regazzoni Carlo",
+      "author_ids": "57211429954;57216893532;6603377664;35513672400",
+      "authorAffiliationIds": "60025153-60103966;60025153;60025153-60103966;60025153-60103966",
+      "corresponding": "Krayani A.",
+      "keywords": "IRL | RL | TSP | UAV | XRL",
+      "abstract": "Unmanned aerial vehicles (UAVs) used as aerial base stations show significant promise for future wireless communication systems. This paper explores using a UAV as an autonomous agent, navigating over multiple hotspots to serve ground users (GUs) and maximize data transmission rates through strategic trajectory design. Existing interpretability methods often prove insufficient in providing comprehensive insights and generating logical, sequential decisions. In this paper, we propose an explainable reinforcement learning framework designed to produce interpretable and verifiable agent policies. Our method starts with an expert optimizer to solve training examples, enabling the learning agent (UAV) to analyse the solutions. Furthermore, we employ inverse reinforcement learning for data-driven reward function estimation. Additionally, we use a probabilistic Qtable function to understand and explain the actions executed by the expert across diverse environmental contexts, allowing the learning agent to produce interpretable policies that meet reasonable performance goals and easily transferred to unseen environments. Preliminary results indicate that the proposed approach is promising in achieving explainability in RL agents.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85208435018",
+      "title": "Exploring action-oriented models via active inference for autonomous vehicles",
+      "doi": "10.1186/s13634-024-01173-9",
+      "venue": "Eurasip Journal on Advances in Signal Processing",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "2024",
+      "issue_id": "1",
+      "pages": null,
+      "issn": "16876172",
+      "eIssn": "16876180",
+      "source_id": "15300154801",
+      "authors": "Nozari Sheida; Krayani Ali; Marin Pablo; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo",
+      "author_ids": "57302361700;57211429954;57190806708;6603377664;59388326900;35513672400",
+      "authorAffiliationIds": "60025153-60001741;60025153;60001741;60025153;60001741;60025153",
+      "corresponding": "Nozari S.",
+      "keywords": "Action-oriented model | Active inference | Autonomous driving | Bayesian filtering | Imitation learning",
+      "abstract": "Being able to robustly interact with and navigate a dynamic environment has been a long-standing challenge in intelligent transportation systems. Autonomous agents can use models that mimic the human brain to learn how to respond to other participants’ actions in the environment and proactively coordinate with the dynamics. Modeling brain learning procedures is challenging for multiple reasons, such as stochasticity, multimodality, and unobservant intents. Active inference may be defined as the Bayesian modeling of a brain with a biologically plausible model of the agent. Its primary idea relies on the free energy principle and the prior preference of the agent. It enables the agent to choose an action that leads to its preferred future observations. An exploring action-oriented model is introduced to address the inference complexity and solve the exploration–exploitation dilemma in unobserved environments. It is conducted by adapting active inference to an imitation learning approach and finding a theoretical connection between them. We present a multimodal self-awareness architecture for autonomous driving systems where the proposed techniques are evaluated on their ability to model proper driving behavior. Experimental results provide the basis for the intelligent driving system to make more human-like decisions and improve agent performance to avoid a collision.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 73,
+              "rank": 53,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 71,
+              "rank": 284,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 65,
+              "rank": 82,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 67,
+              "rank": 313,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 66,
+              "rank": 61,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 61,
+              "rank": 87,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85199589083",
+      "title": "Modeling Autonomous Vehicle Responses to Novel Observations Using Hierarchical Cognitive Representations Inspired Active Inference †",
+      "doi": "10.3390/computers13070161",
+      "venue": "Computers",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "13",
+      "issue_id": "7",
+      "pages": null,
+      "issn": null,
+      "eIssn": "2073431X",
+      "source_id": "21100886391",
+      "authors": "Nozari Sheida; Krayani Ali; Marin Pablo; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo",
+      "author_ids": "57302361700;57211429954;57190806708;6603377664;57204878586;35513672400",
+      "authorAffiliationIds": "60025153;60025153;60001741;60025153;60001741;60025153",
+      "corresponding": "Nozari S.",
+      "keywords": "action-oriented model | active inference | autonomous driving | Bayesian learning | imitation learning | world model",
+      "abstract": "Equipping autonomous agents for dynamic interaction and navigation is a significant challenge in intelligent transportation systems. This study aims to address this by implementing a brain-inspired model for decision making in autonomous vehicles. We employ active inference, a Bayesian approach that models decision-making processes similar to the human brain, focusing on the agent’s preferences and the principle of free energy. This approach is combined with imitation learning to enhance the vehicle’s ability to adapt to new observations and make human-like decisions. The research involved developing a multi-modal self-awareness architecture for autonomous driving systems and testing this model in driving scenarios, including abnormal observations. The results demonstrated the model’s effectiveness in enabling the vehicle to make safe decisions, particularly in unobserved or dynamic environments. The study concludes that the integration of active inference with imitation learning significantly improves the performance of autonomous vehicles, offering a promising direction for future developments in intelligent transportation systems.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Science (miscellaneous)",
+              "percentile": 85,
+              "rank": 26,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 83,
+              "rank": 90,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 71,
+              "rank": 55,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Computer Science (miscellaneous)",
+              "percentile": 84,
+              "rank": 26,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 80,
+              "rank": 101,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 68,
+              "rank": 59,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85207695150",
+      "title": "Learning 3D LiDAR Perception Models for Self-Aware Autonomous Systems",
+      "doi": "10.23919/FUSION59988.2024.10706364",
+      "venue": "Fusion 2024 27th International Conference on Information Fusion",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101256248",
+      "authors": "Memon Saleemullah; Krayani Ali; Zontone Pamela; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo",
+      "author_ids": "57209179084;57211429954;12805791200;6603377664;59388326900;35513672400",
+      "authorAffiliationIds": "60025153-60001741;60025153;60025153;60025153;60001741;60025153",
+      "corresponding": "Memon S.",
+      "keywords": "3D LiDAR | Generative Dynamic Bayesian Network (GDBN) | Intelligent Transportation Systems (ITSs) | Self-Awareness",
+      "abstract": "Intelligent transportation systems (ITSs) provide a paradigm change in perceiving and interacting with transportation networks, leading to enhanced levels of safety, sustainability, and efficiency. Vehicular-to-everything (V2X) communication is the core component in the ITSs. The proprioceptive and exteroceptive sensors allow these vehicles to be aware of the surrounding environment and respond to emergencies by utilizing their abilities to reach a high level of self-awareness. In this paper, we propose a self-awareness approach to learn a generative dynamic Bayesian network (G-DBN) from the real-time LiDAR perception. Without reducing the dimensionality, we perform offline training and online testing phases on the three-dimensional (3D) point clouds. In the offline training phase, initially, the raw point clouds are preprocessed using a joint probabilistic data association filter (JPDAF) to obtain the 3D tracks of the multiple vehicles in space. Then, we perform an unsupervised clustering on all the generalized states (GSs) containing positions and velocities (a 6D vector) by considering the growing neural gas (GNG) technique, thus achieving a trained model from the 3D LiDAR point clouds. In the online testing phase, the high-dimensional Markov jump particle filter (HD-MJPF) utilizes the G-DBN's probabilistic information to predict the positions of multiple vehicles and to detect the abnormalities at the discrete and continuous levels in normal and abnormal scenarios. Our proposed approach is useful for learning high-dimensional generative models and provides a way to meet the current curse of dimensionality challenges, that machine learning models are suffering.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85198846446",
+      "title": "Interactive Bayesian Generative Models for Abnormality Detection in Vehicular Networks",
+      "doi": "10.1109/WCNC57260.2024.10570781",
+      "venue": "IEEE Wireless Communications and Networking Conference Wcnc",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "15253511",
+      "eIssn": null,
+      "source_id": "145653",
+      "authors": "William Nobel J.; Krayani Ali; Marcenaro Lucio; Regazzoni Carlo",
+      "author_ids": "57824317700;57211429954;6603377664;35513672400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "William N.J.",
+      "keywords": "Abnormality detection | Generative Bayesian models | Jammer detection | V2X | Vehicular networks",
+      "abstract": "The following paper proposes a novel Vehicle-to-Everything (V2X) network abnormality detection scheme based on Bayesian generative models for enhanced network self-awareness functionality at the Base station (BS). In the learning phase, multimodal data signals contrived by the vehicles' integrated and sensing module are imbued into data-driven Gen-eralized Dynamic Bayesian network (GDBN) models. Following that, during the testing phase, an Interactive Modified Markov Jump Particle filter (IM-MJPF) is utilized to forecast forthcoming network states and vehicle trajectories by leveraging the assimilated semantics embedded in the coupled multi-GDBNs. This approach involves learning statistically correlated association between evolving trajectories and network communication links. Security and surveillance of Internet of Vehicles (IOVs) links are performed online with high detection probabilities by matching predicted with observed network connectivity maps (graphs).",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 57,
+              "rank": 148,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 61,
+              "rank": 133,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105001474583",
+      "title": "SELF-SUPERVISED PATH PLANNING IN UAV-AIDED WIRELESS NETWORKS BASED ON ACTIVE INFERENCE",
+      "doi": "10.1109/ICASSP48485.2024.10446575",
+      "venue": "ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "13181-13185",
+      "issn": "15206149",
+      "eIssn": null,
+      "source_id": "110544",
+      "authors": "Krayani Ali; Khan Khalid; Marcenaro Lucio; Marchese Mario; Regazzoni Carlo",
+      "author_ids": "57211429954;57216893532;6603377664;7004398165;35513672400",
+      "authorAffiliationIds": "60025153-60103966;60025153;60025153-60103966;60025153-60103966;60025153-60103966",
+      "corresponding": "Krayani A.",
+      "keywords": "path planning | self-supervision | traveling salesman | UAV | world model",
+      "abstract": "This paper presents a novel self-supervised path-planning method for UAV-aided networks. First, we employed an optimizer to solve training examples offline and then used the resulting solutions as demonstrations from which the UAV can learn the world model to understand the environment and implicitly discover the optimizer’s policy. UAV equipped with the world model can make real-time autonomous decisions and engage in online planning using active inference. During planning, UAV can score different policies based on the expected surprise, allowing it to choose among alternative futures. Additionally, UAV can anticipate the outcomes of its actions using the world model and assess the expected surprise in a self-supervised manner. Our method enables quicker adaptation to new situations and better performance than traditional RL, leading to broader generalizability.",
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85167741786",
+      "title": "A Goal-Directed Trajectory Planning Using Active Inference in UAV-Assisted Wireless Networks",
+      "doi": "10.3390/s23156873",
+      "venue": "Sensors",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "23",
+      "issue_id": "15",
+      "pages": null,
+      "issn": "14248220",
+      "eIssn": null,
+      "source_id": "130124",
+      "authors": "Krayani Ali; Khan Khalid; Marcenaro Lucio; Marchese Mario; Regazzoni Carlo",
+      "author_ids": "57211429954;57216893532;6603377664;7004398165;35513672400",
+      "authorAffiliationIds": "60025153-60103966;60025153;60025153-60103966;60025153-60103966;60025153-60103966",
+      "corresponding": "Krayani A.",
+      "keywords": "active inference | AI-enabled radios | trajectory design | traveling salesman problem | UAVs | wireless networks | world models",
+      "abstract": "Deploying unmanned aerial vehicles (UAVs) as aerial base stations is an exceptional approach to reinforce terrestrial infrastructure owing to their remarkable flexibility and superior agility. However, it is essential to design their flight trajectory effectively to make the most of UAV-assisted wireless communications. This paper presents a novel method for improving wireless connectivity between UAVs and terrestrial users through effective path planning. This is achieved by developing a goal-directed trajectory planning method using active inference. First, we create a global dictionary using traveling salesman problem with profits (TSPWP) instances executed on various training examples. This dictionary represents the world model and contains letters representing available hotspots, tokens representing local paths, and words depicting complete trajectories and hotspot order. By using this world model, the UAV can understand the TSPWP’s decision-making grammar and how to use the available letters to form tokens and words at various levels of abstraction and time scales. With this knowledge, the UAV can assess encountered situations and deduce optimal routes based on the belief encoded in the world model. Our proposed method outperforms traditional Q-learning by providing fast, stable, and reliable solutions with good generalization ability.",
+      "citations": 7,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 90,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 136,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 85,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 84,
+              "rank": 72,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 82,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 82,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 83,
+              "rank": 24,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 79,
+              "rank": 163,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 78,
+              "rank": 48,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 77,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 77,
+              "rank": 91,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 69,
+              "rank": 133,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-86000375717",
+      "title": "Adapting Exploratory Behaviour in Active Inference for Autonomous Driving",
+      "doi": "10.1109/ICASSP49357.2023.10096947",
+      "venue": "ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": "2023-June",
+      "issue_id": null,
+      "pages": null,
+      "issn": "15206149",
+      "eIssn": null,
+      "source_id": "110544",
+      "authors": "Nozari Sheida; Krayani Ali; Marin Pablo; Marcenaro Lucio; Martin David; Regazzoni Carlo",
+      "author_ids": "57302361700;57211429954;57190806708;6603377664;59368746600;35513672400",
+      "authorAffiliationIds": "60025153-60001741;60025153;60001741;60025153;60001741;60025153",
+      "corresponding": "Nozari S.",
+      "keywords": "Active Inference | Bayesian Inference | Exploratory Action | Free Energy | Generative Model",
+      "abstract": "Active inference is a probabilistic framework for modeling intelligent agent behaviours, which drives by the principle of minimizing free energy. In this paper, we integrate the imitation learning method with active inference to minimize the expected free energy under the supervision of an expert model. The proposed approach affords explainable decision-making as a combination of self-information and novelty-seeking or exploratory behavior in a hierarchical generative model. A lane-changing driving scenario is demonstrated to verify the efficiency of the proposed framework that outperforms conventional Reinforcement learning methods.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85195394975",
+      "title": "Active Inference for Sum Rate Maximization in UAV-Assisted Cognitive NOMA Networks",
+      "doi": "10.1109/WF-IoT58464.2023.10539543",
+      "venue": "2023 IEEE World Forum on Internet of Things the Blue Planet A Marriage of Sea and Space Wf Iot 2023",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101226883",
+      "authors": "Obite Felix; Krayani Ali; Alam Atm S.; Marcenaro Lucio; Nallanathan Arumugam; Regazzoni Carlo",
+      "author_ids": "57191589599;57211429954;49862669300;6603377664;6603561059;35513672400",
+      "authorAffiliationIds": "60025153-60022109;60025153;60022109;60025153;60022109;60025153",
+      "corresponding": "Obite F.",
+      "keywords": "Active Inference | Cognitive Radio | NOMA | UAV",
+      "abstract": "Given the surge in wireless data traffic driven by the emerging Internet of Things (IoT), unmanned aerial vehicles (UAVs), cognitive radio (CR), and non-orthogonal multiple access (NOMA) have been recognized as promising techniques to overcome massive connectivity issues. As a result, there is an increasing need to intelligently improve the channel capacity of future wireless networks. Motivated by active inference from cognitive neuroscience, this paper investigates joint subchannel and power allocation for an uplink UAV-assisted cognitive NOMA network. Maximizing the sum rate is often a highly challenging optimization problem due to dynamic network conditions and power constraints. To address this challenge, we propose an active inference-based algorithm. We transform the sum rate maximization problem into abnormality minimization by utilizing a generalized state-space model to characterize the time-changing network environment. The problem is then solved using an Active Generalized Dynamic Bayesian Network (Active-GDBN). The proposed framework consists of an offline perception stage, in which a UAV employs a hierarchical GDBN structure to learn an optimal generative model of discrete sub channels and continuous power allocation. In the online active inference stage, the UAV dynamically selects discrete sub channels and continuous power to maximize the sum rate of secondary users. By leveraging the errors in each episode, the UAV can adapt its resource allocation policies and belief updating to improve its performance over time. Simulation results demonstrate the effectiveness of our proposed algorithm in terms of cumulative sum rate compared to benchmark schemes.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85194170647",
+      "title": "Intelligent Resource Allocation for UAV-Based Cognitive NOMA Networks: An Active Inference Approach",
+      "doi": "10.1109/FNWF58287.2023.10520397",
+      "venue": "Proceedings 2023 IEEE Future Networks World Forum Future Networks Imagining the Network of the Future Fnwf 2023",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101224848",
+      "authors": "Obite Felix; Krayani Ali; Alam Atm S.; Marcenaro Lucio; Nallanathan Arumugam; Regazzoni Carlo",
+      "author_ids": "57191589599;57211429954;49862669300;6603377664;6603561059;35513672400",
+      "authorAffiliationIds": "60025153-60022109;60025153;60022109;60025153;60022109;60025153",
+      "corresponding": "Obite F.",
+      "keywords": "Active Inference | NOMA | Resource Allocation | UAV",
+      "abstract": "Future wireless networks will need to improve adaptive resource allocation and decision-making to handle the increasing number of intelligent devices. Unmanned aerial vehicles (UAVs) are being explored for their potential in real-time decision-making. Moreover, cognitive non-orthogonal multiple access (Cognitive-NOMA) is envisioned as a remedy to address spectrum scarcity and enable massive connectivity. This paper investigates the design of joint subchannel and power allocation in an uplink UAV-based cognitive NOMA network. We aim to maximize the cumulative sum rate by jointly optimizing the subchannel and power allocation based on the UAV's mobility at each time step. This is often formulated as an optimization problem with random variables. However, conventional optimization algorithms normally introduce significant complexity, and machine learning methods often rely on large but partially representative datasets to build solution models, assuming stationary testing data. Consequently, inference strategies for non stationary events are often overlooked. In this study, we introduce a novel active inference-based learning approach, rooted in cognitive neuroscience, to solve this complex problem. The framework involves creating a training dataset using random or iterative methods to find suboptimal resource allocations. This dataset trains a mobile UAV offline, enabling it to learn a generative model of discrete subchannels and continuous power allocation. The UAV then uses this model for online inference. The method incrementally derives new generative models from training data by identifying dynamic equilibrium conditions between required actions and variables, represented within a unique dynamic Bayesian network. The proposed approach is validated through numerical simulations, showing efficient performance compared to suboptimal baseline schemes.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85159775273",
+      "title": "Integrated Sensing and Communication for Joint GPS Spoofing and Jamming Detection in Vehicular V2X Networks",
+      "doi": "10.1109/WCNC55385.2023.10118852",
+      "venue": "IEEE Wireless Communications and Networking Conference Wcnc",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": "2023-March",
+      "issue_id": null,
+      "pages": null,
+      "issn": "15253511",
+      "eIssn": null,
+      "source_id": "145653",
+      "authors": "Krayani Ali; Barabino Gabriele; Marcenaro Lucio; Regazzoni Carlo",
+      "author_ids": "57211429954;58109175400;6603377664;35513672400",
+      "authorAffiliationIds": "60025153-60103966;60025153-60103966;60025153-60103966;60025153-60103966",
+      "corresponding": "Krayani A.",
+      "keywords": "6G | GPS spoofing | ISAC | Jamming | V2X",
+      "abstract": "Vehicle-to-everything (V2X) communication is expected to be a prominent component of the sixth generation (6G) to accomplish intelligent transportation systems (ITS). Autonomous vehicles relying only on onboard sensors cannot bypass the limitations of safety and reliability. Thus, integrated sensing and communication is proposed as an effective way to achieve high situational- and self-awareness levels, enabling V2X to perceive the physical world and adjust its behaviour to emergencies. Secure navigation through the Global Positioning System (GPS) is essential in ITS for safe operation. Nevertheless, due to the lack of encryption and authentication mechanisms of civil GPS receivers, spoofers can easily replicate satellite signals by launching GPS spoofing attacks to deceive the vehicle and manipulate navigation data. In addition, due to its shared nature, V2X links are prone to jamming attacks which might endanger vehicular safety. This paper proposes a method to jointly detect GPS spoofing and jamming attacks in a V2X network. Simulation results demonstrate that the proposed method can detect spoofers and jammers with high detection probabilities.",
+      "citations": 9,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 57,
+              "rank": 148,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85137978554",
+      "title": "Autonomous Driving Based on Imitation and Active Inference",
+      "doi": "10.1007/978-3-031-16281-7_2",
+      "venue": "Lecture Notes in Networks and Systems",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": "546 LNNS",
+      "issue_id": null,
+      "pages": "13-22",
+      "issn": "23673370",
+      "eIssn": "23673389",
+      "source_id": "21100901469",
+      "authors": "Nozari Sheida; Krayani Ali; Marin Pablo; Marcenaro Lucio; Martin David; Regazzoni Carlo",
+      "author_ids": "57302361700;57211429954;57190806708;6603377664;59368746600;35513672400",
+      "authorAffiliationIds": "60025153-60001741;60025153;60001741;60025153;60001741;60025153",
+      "corresponding": "Nozari S.",
+      "keywords": "Active inference | Dynamic Bayesian Network | Imitation Learning | Motion prediction",
+      "abstract": "We advance a novel computational model of acquiring a hierarchical action sequence and its use for minimizing the divergence between observation and prediction. The model is grounded in a principled framework to learn and cognize the dynamic surrounding of a learning agent, which exemplifies the model’s functioning by presenting a simulation of overtaking scenarios in autonomous driving. The learning agent integrates imitation learning and active inference to form hierarchical representations from expert demonstrations. During the online learning phase, the learning agent improves the action selection procedure based on the prior knowledge (exploiting) and the novel interactions with a dynamic environment (exploring). The proposed method applies an active knowledge sampling during the learning agent’s movements to make a dynamic inference in the Bayesian structure by message passing through the multi-levels. A line-changing driving scenario with different levels of complexity is organized to verify the proposed framework’s efficiency by dealing with single and multiple dynamic objects interacting in the environment.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 25,
+              "rank": 146,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 25,
+              "rank": 410,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 20,
+              "rank": 302,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 14,
+              "rank": 113,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 13,
+              "rank": 277,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 10,
+              "rank": 354,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85136902815",
+      "title": "Automatic Jamming Signal Classification in Cognitive UAV Radios",
+      "doi": "10.1109/TVT.2022.3199038",
+      "venue": "IEEE Transactions on Vehicular Technology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "71",
+      "issue_id": "12",
+      "pages": "12972-12988",
+      "issn": "00189545",
+      "eIssn": "19399359",
+      "source_id": "17393",
+      "authors": "Krayani Ali; Alam Atm Shafiul; Marcenaro Lucio; Nallanathan Arumugam; Regazzoni Carlo",
+      "author_ids": "57211429954;49862669300;6603377664;6603561059;35513672400",
+      "authorAffiliationIds": "60025153-60022109;60022109;60025153-60103966;60022109;60025153-60103966",
+      "corresponding": "Krayani A.",
+      "keywords": "Bayesian filtering | cognitive radio | dynamic Bayesian network | modulation recognition | unmanned aerial vehicles",
+      "abstract": "The integration of Cognitive Radio (CR) with Unmanned Aerial Vehicles (UAVs) is an effective step towards relieving the spectrum scarcity and empowering the UAV with a high degree of intelligence. The dynamic nature of CR and the dominant line-of-sight links of UAVs poses serious security challenges and make the CR-UAV prone to a variety of attacks as malicious jamming. Joint jammer detection and automatic jammer classification is a powerful approach against the physical layer threats by identifying multiple jammers attacking the network that realize a crucial stage towards efficient interference management. This paper proposes a novel method for joint detection and automatic classification of multiple jammers attacking with different modulation schemes. The method is based on learning a representation of the radio environment encoded in a Generalized Dynamic Bayesian Network (GDBN) whilst multiple GDBN models represent various jamming signals under different modulation schemes. The CR-UAV performs multiple predictions online in parallel and evaluates multiple abnormality measurements based on a Modified Markov Jump Particle Filter (M-MJPF) to select the best-fit model that explains the detected jammer and recognize the modulation scheme accordingly. The simulated results demonstrate that the proposed GDBN-based method outperforms Long Short-Term Memory (LSTM), Convolutional Neural Network (CNN) and Stacked Autoencoder (SAE) in terms of classification accuracy and achieves a higher degree of explainability of its own decisions by interpreting causes and effects at hierarchical levels under the Bayesian learning and reasoning processes.",
+      "citations": 31,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Aerospace Engineering",
+              "percentile": 97,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 93,
+              "rank": 63,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Automotive Engineering",
+              "percentile": 93,
+              "rank": 9,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 93,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Aerospace Engineering",
+              "percentile": 97,
+              "rank": 4,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Automotive Engineering",
+              "percentile": 96,
+              "rank": 4,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 95,
+              "rank": 17,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 94,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85135243099",
+      "title": "A Novel Resource Allocation for Anti-Jamming in Cognitive-UAVs: An Active Inference Approach",
+      "doi": "10.1109/LCOMM.2022.3190971",
+      "venue": "IEEE Communications Letters",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "26",
+      "issue_id": "10",
+      "pages": "2272-2276",
+      "issn": "10897798",
+      "eIssn": "15582558",
+      "source_id": "18896",
+      "authors": "Krayani Ali; Alam Atm S.; Marcenaro Lucio; Nallanathan Arumugam; Regazzoni Carlo",
+      "author_ids": "57211429954;49862669300;6603377664;6603561059;35513672400",
+      "authorAffiliationIds": "60025153-60022109;60022109;60025153-116308428;60022109;60025153-116308428",
+      "corresponding": "Krayani A.",
+      "keywords": "Active inference | anti-jamming | cognitive radio | generalized Bayesian filtering | resource allocation",
+      "abstract": "This work proposes a novel resource allocation strategy for anti-jamming in Cognitive Radio using Active Inference (AIn), and a cognitive-UAV is employed as a case study. An Active Generalized Dynamic Bayesian Network (Active-GDBN) is proposed to represent the external environment that jointly encodes the physical signal dynamics and the dynamic interaction between UAV and jammer in the spectrum. We cast the action and planning as a Bayesian inference problem that can be solved by avoiding surprising states (minimizing abnormality) during online learning. Simulation results verify the effectiveness of the proposed AIn approach in minimizing abnormalities (maximizing rewards) and has a high convergence speed by comparing it with the conventional Frequency Hopping and Q-learning.",
+      "citations": 18,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Modeling and Simulation",
+              "percentile": 93,
+              "rank": 25,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 140,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 83,
+              "rank": 167,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Modeling and Simulation",
+              "percentile": 91,
+              "rank": 27,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 83,
+              "rank": 124,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 80,
+              "rank": 153,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85132004374",
+      "title": "An Emergent Self-Awareness Module for Physical Layer Security in Cognitive UAV Radios",
+      "doi": "10.1109/TCCN.2022.3161937",
+      "venue": "IEEE Transactions on Cognitive Communications and Networking",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "8",
+      "issue_id": "2",
+      "pages": "888-906",
+      "issn": null,
+      "eIssn": "23327731",
+      "source_id": "21100854831",
+      "authors": "Krayani Ali; Alam Atm S.; Marcenaro Lucio; Nallanathan Arumugam; Regazzoni Carlo",
+      "author_ids": "57211429954;49862669300;6603377664;6603561059;35513672400",
+      "authorAffiliationIds": "60025153-60022109;60022109;60025153-60103966;60022109;60025153-60103966",
+      "corresponding": "Krayani A.",
+      "keywords": "Bayesian filtering | Cognitive radio | dynamic Bayesian network | jamming | unmanned aerial vehicles",
+      "abstract": "In this paper, we propose to introduce an emergent Self-Awareness (SA) module at the physical layer (PHY) in Cognitive Unmanned Aerial Vehicle (UAV) Radios to improve PHY security, especially against jamming attacks. SA is based on learning a hierarchical representation of the radio environment by means of a proposed Hierarchical Dynamic Bayesian Network (HDBN). It is shown how the acquired knowledge from previous experiences facilitate the radio spectrum perception and allow the radio to detect abnormal behaviours caused by jamming attacks. Detecting abnormalities realize a fundamental step towards growing up incrementally the radio's long-term memory. Deviations from predictions estimated during abnormal situations are used to characterize jammers at multiple levels and discover their dynamic behavioural rules. Besides, a proactive consequence can be drawn after estimating the jammer's signal to act efficiently by mitigating its effects on the received stimuli. Simulation results show that the introduction of the novel SA functionalities with the proposed HDBN framework provides the high accuracy of characterizing, detecting and predicting the jammer's activities.",
+      "citations": 13,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 93,
+              "rank": 15,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 92,
+              "rank": 39,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 88,
+              "rank": 55,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 94,
+              "rank": 20,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 94,
+              "rank": 10,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 90,
+              "rank": 28,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85141010092",
+      "title": "Incremental Learning through Probabilistic Behavior Prediction",
+      "doi": null,
+      "venue": "European Signal Processing Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "2022-August",
+      "issue_id": null,
+      "pages": "1502-1506",
+      "issn": "22195491",
+      "eIssn": null,
+      "source_id": "21100204301",
+      "authors": "Nozari Sheida; Krayani Ali; Marcenaro Lucio; Martin David; Regazzoni Carlo",
+      "author_ids": "57302361700;57211429954;6603377664;59368746600;35513672400",
+      "authorAffiliationIds": "60025153-60001741;60025153;60025153;60001741;60025153",
+      "corresponding": "Nozari S.",
+      "keywords": "action prediction | autonomous tracking | Dynamic Bayesian network | Imitation learning | performance analysis",
+      "abstract": "Learning from expert demonstrations effectively reduces the number of interactions required to train a policy between the learning agent and its environment. Where agent-environment interactions can be costly, reinforcement learning is critical, and imitation learning suffers significantly from learning hierarchical policies when the imitative agent encounters an unobserved state by the expert agent. We propose a probabilistic incremental imitation learning method that employs a Dynamic Bayesian Network to encode observed teaching-agent's behaviors. The presented model grows and matures based on imitation loss formulation at a discrete level in the online learning procedure. The learning agent is trained by using long-term predictions from the generative learning model to replicate the teacher's motion while learning how to choose an appropriate action through new experiences. Our results affirm that a Dynamic Bayesian optimal approach provides a principled framework and outperforms conventional reinforcement learning methods.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 44,
+              "rank": 109,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 42,
+              "rank": 573,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85137267604",
+      "title": "Generalized Filtering with Transport Planning for Joint Modulation Conversion and Classification in AI-enabled Radios",
+      "doi": "10.1109/ICC45855.2022.9839176",
+      "venue": "IEEE International Conference on Communications",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "2022-May",
+      "issue_id": null,
+      "pages": "3759-3765",
+      "issn": "15503607",
+      "eIssn": null,
+      "source_id": "33201",
+      "authors": "Krayani Ali; William Nobel J.; Alam Atm S.; Marcenaro Lucio; Qin Zhijin; Nallanathan Arumugam; Regazzoni Carlo",
+      "author_ids": "57211429954;57824317700;49862669300;6603377664;55370178400;6603561059;35513672400",
+      "authorAffiliationIds": "60025153-60022109;60025153-60022109;60022109;60025153;60022109;60022109;60025153",
+      "corresponding": "Krayani A.",
+      "keywords": "AI-enabled Radio | Explainable AI | Generalized Filtering | Modulation Classification | Transport Planning",
+      "abstract": "AI-empowered Cognitive Radio (i.e., AI-enabled radios) is a paradigm shift to achieve the highest level of Self-Awareness in future wireless communications. This work proposes a joint automatic modulation conversion and classification (AMCC) framework, which allows an AI-enabled wireless node to predict signals' dynamics of different modulation schemes and explain how it can be transported (converted) with minimal effort and forwarded with higher spectral efficiency. To achieve this goal, we propose a Generalized Filtering framework integrated by Transport Planning to learn the way of converting low-order modulations to high-order modulations, which has also been validated by performing the automatic modulation classification. Simulation results demonstrate the effective performance of our novel framework on converting and classifying multiple modulation formats.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85135148647",
+      "title": "Jammer Detection in Vehicular V2X Networks",
+      "doi": "10.1109/MMS55062.2022.9825566",
+      "venue": "Mediterranean Microwave Symposium",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "2022-May",
+      "issue_id": null,
+      "pages": null,
+      "issn": "21579822",
+      "eIssn": "21579830",
+      "source_id": "20600195647",
+      "authors": "Krayani Ali; William Nobel J.; Marcenaro Lucio; Regazzoni Carlo",
+      "author_ids": "57211429954;57824317700;6603377664;35513672400",
+      "authorAffiliationIds": "60025153-60103966;60025153-60103966;60025153-60103966;60025153-60103966",
+      "corresponding": "Krayani A.",
+      "keywords": "Generalized Dynamic Bayesian Networks | jammer detection | V2x",
+      "abstract": "Vehicle-to-Everything (V2X) is an emergent technol-ogy for enhancing traffic efficiency, road safety and autonomous driving. Vehicles interconnected with their prevalent wireless environment are prone to various security threats that might affect traffic and life safety immensely. Jamming attacks, a legacy and dated problem, still persists much to the havoc of V2X communications. The following paper proposes a framework for jammer detection adapted to V2X communications scenario. A Generalized Dynamic Bayesian network is used to learn the V2X signal environment in a statistical manner. Subsequently, a Modified Markov Jump Particle filter (M-MJPF) is used for signal predictions where the innovations in the observed signal versus the predicted signal enable our framework to detect the jammer. Simulation results highlight the efficacy and accuracy of our approach in V2X jammer detection.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 39,
+              "rank": 604,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85129650616",
+      "title": "Active Inference Integrated With Imitation Learning for Autonomous Driving",
+      "doi": "10.1109/ACCESS.2022.3172712",
+      "venue": "IEEE Access",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "10",
+      "issue_id": null,
+      "pages": "49738-49756",
+      "issn": null,
+      "eIssn": "21693536",
+      "source_id": "21100374601",
+      "authors": "Nozari Sheida; Krayani Ali; Marin-Plaza Pablo; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo",
+      "author_ids": "57302361700;57211429954;57190806708;6603377664;57204878586;35513672400",
+      "authorAffiliationIds": "60001741-60103966-60025153;60001741-60025153;60103966;60001741-60025153;60103966;60001741-60025153",
+      "corresponding": "Nozari S.",
+      "keywords": "active inference | autonomous driving | dynamic Bayesian network | Imitation learning",
+      "abstract": "Classical imitation learning methods suffer substantially from the learning hierarchical policies when the imitative agent faces an unobserved state by the expert agent. To address these drawbacks, we propose an online active learning through active inference approach that encodes the expert's demonstrations based on observation-action to improve the learner's future motion prediction. For this purpose, we provide a switching Dynamic Bayesian Network based on the dynamic interaction between the expert agent and another object in its surrounding as a reference model, which we exploit to initialize an incremental probabilistic learning model. This learning model grows and matures based on the free-energy formulation and message passing of active inference dynamically at discrete and continuous levels in an online active learning phase. In this scheme, generalized states of the learning world are represented as distance-vector, where it is the learner's observation concerning its interaction with a moving object. Considering the distance vector entail intentions, it enables action prediction evaluation in a prospective sense. We illustrate these points using simulations of driving intelligent agents. The learning agent is trained by using long-term predictions from the generative learning model to reproduce the expert's motion while learning how to select a suitable action through new experiences. Our results affirm that a Dynamic Bayesian optimal approach provides a principled framework and outperforms conventional reinforcement learning methods. Furthermore, it endorses the general formulation of action prediction as active inference.",
+      "citations": 11,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 88,
+              "rank": 42,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 83,
+              "rank": 41,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 78,
+              "rank": 101,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 92,
+              "rank": 22,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 89,
+              "rank": 25,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 82,
+              "rank": 78,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85119866608",
+      "title": "Automatic Modulation Classification in Cognitive-IoT Radios using Generalized Dynamic Bayesian Networks",
+      "doi": "10.1109/WF-IoT51360.2021.9594936",
+      "venue": "7th IEEE World Forum on Internet of Things Wf Iot 2021",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": null,
+      "issue_id": null,
+      "pages": "235-240",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101066501",
+      "authors": "Krayani Ali; Alam Atm S.; Calipari Marco; Marcenaro Lucio; Nallanathan Arumugam; Regazzoni Carlo",
+      "author_ids": "57211429954;49862669300;57351807200;6603377664;6603561059;35513672400",
+      "authorAffiliationIds": "60025153;60022109;60025153;60025153;60022109;60025153",
+      "corresponding": "Krayani A.",
+      "keywords": "Automatic Modulation Classification | Bayesian Filtering. | Cognitive Radio | Internet of Things",
+      "abstract": "This paper proposes a novel Automatic Modulation Classification (AMC) method for CR-IoT based on learning multiple Generalized Dynamic Bayesian Networks (GDBN) as representations of various signals under different modulation schemes. The CR-IoT performs multiple predictions online in parallel and evaluates multiple abnormality measurements based on a Modified Markov Jump Particle Filter (M-MJPF) to select the best model that explains the received signal and recognize the modulation scheme accordingly. The simulated results based on a real dataset demonstrate that the proposed GDBN-based AMC method outperforms both Long Short-Term Memory (LSTM) and Convolutional Neural Network (CNN) in terms of classification accuracy.",
+      "citations": 12,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85131499988",
+      "title": "Probabilistic anomaly detection methods using learned models from time-series data for multimedia self-aware systems",
+      "doi": "10.1016/B978-0-12-822109-9.00022-9",
+      "venue": "Advanced Methods and Deep Learning in Computer Vision",
+      "type": "Book",
+      "sub_type": "Book Chapter",
+      "year": 2021,
+      "volume": null,
+      "issue_id": null,
+      "pages": "449-479",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101091333",
+      "authors": "Regazzoni Carlo; Krayani Ali; Slavic Giulia; Marcenaro Lucio",
+      "author_ids": "35513672400;57211429954;57218159779;6603377664",
+      "authorAffiliationIds": "60025153;60025153-60022109;60025153;60025153",
+      "corresponding": "Regazzoni C.",
+      "keywords": "Anomaly detection | Bayesian filtering | Generalized dynamic bayesian network | Self-awareness | Variational autoencoder",
+      "abstract": "Anomaly detection techniques constitute a fundamental resource in many applications such as medical image analysis, fraud detection or video surveillance. These techniques represent an essential step also for artificial self-aware systems that can continually learn from new situations. In this chapter, we present a semisupervised method for the detection of anomalies for this type of self-aware agents. The described method leverages the message-passing capability of Generalized Dynamic Bayesian Networks (GDBNs) to provide anomalies at different abstraction levels for diverse types of time-series data (i.e., both low-dimensional and high-dimensional). The detected anomalies could consequently be employed to enable the system to evolve by integrating the new acquired knowledge. To present a case study for the description of the anomaly detection method, we propose to use multisensory data from a semiautonomous vehicle performing different tasks in a closed environment.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85094148939",
+      "title": "Deep learning for spectrum anomaly detection in cognitive mmWave radios",
+      "doi": "10.1109/PIMRC48278.2020.9217240",
+      "venue": "IEEE International Symposium on Personal Indoor and Mobile Radio Communications PIMRC",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": "2020-August",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101023800",
+      "authors": "Toma Andrea; Krayani Ali; Marcenaro Lucio; Gao Yue; Regazzoni Carlo S.",
+      "author_ids": "56303677700;57211429954;6603377664;57206592088;35513672400",
+      "authorAffiliationIds": "60025153-60022109;60025153-60022109;60025153;60022109;60025153",
+      "corresponding": "Toma A.",
+      "keywords": "Anomaly Detection | Cognitive Radios | Deep Learning | Generative Models | Millimeter Wave",
+      "abstract": "Millimeter Wave (mmWave) band can be a solution to serve the vast number of Internet of Things (IoT) and Vehicle to Everything (V2X) devices. In this context, Cognitive Radio (CR) is capable of managing the mmWave spectrum sharing efficiently. However, Cognitive mmWave Radios are vulnerable to malicious users due to the complex dynamic radio environment and the shared access medium. This indicates the necessity to implement techniques able to detect precisely any anomalous behaviour in the spectrum to build secure and efficient radios. In this work, we propose a comparison framework between deep generative models: Conditional Generative Adversarial Network (C-GAN), Auxiliary Classifier Generative Adversarial Network (AC-GAN), and Variational Auto Encoder (VAE) used to detect anomalies inside the dynamic radio spectrum. For the sake of the evaluation, a real mmWave dataset is used, and results show that all of the models achieve high probability in detecting spectrum anomalies. Especially, AC-GAN that outperforms C-GAN and VAE in terms of accuracy and probability of detection.",
+      "citations": 19,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85094101655",
+      "title": "Smart jammer detection for self-aware cognitive UAV radios",
+      "doi": "10.1109/PIMRC48278.2020.9217331",
+      "venue": "IEEE International Symposium on Personal Indoor and Mobile Radio Communications PIMRC",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": "2020-August",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101023800",
+      "authors": "Krayani Ali; Baydoun Mohamad; Marcenaro Lucio; Gao Yue; Regazzoni Carlo S.",
+      "author_ids": "57211429954;57194871976;6603377664;57206592088;35513672400",
+      "authorAffiliationIds": "60025153-60022109;60025153;60025153;60022109;60025153",
+      "corresponding": "Krayani A.",
+      "keywords": "CR | DBN | JAMMER | LTE | UAV",
+      "abstract": "Cellular connectivity for a massive number of Unmanned Aerial Vehicles (UAVs) will overcrowd the radio spectrum and cause spectrum scarcity. Incorporating Cognitive Radio (CR) with UAVs (Cognitive-UAV-Radios) has been proposed to overcome such an issue. However, the broadcasting nature of CR and the dominant line-of-sight links of UAV makes the Cognitive-UAV-Radios susceptible to jamming attacks. In this paper, we propose a framework to detect smart jammer, which locates and attacks the UAV commands with low Jamming-to-Signal-Power-Ratio (JSR). Smart jammer is more challenging than the types of jammers that always require high power values. Our work focuses on learning a Dynamic Bayesian Network (DBN) to model and analyze the signals' behaviour statistically. A Markov Jump Particle Filter (MJPF) is employed to perform predictions and consequently detect jamming signals. The results are satisfactory in terms of detection probability and false alarm rate that outperform the conventional Energy Detector approach.",
+      "citations": 12,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85078727577",
+      "title": "AI-Based Abnormality Detection at the PHY-Layer of Cognitive Radio by Learning Generative Models",
+      "doi": "10.1109/TCCN.2020.2970693",
+      "venue": "IEEE Transactions on Cognitive Communications and Networking",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "6",
+      "issue_id": "1",
+      "pages": "21-34",
+      "issn": null,
+      "eIssn": "23327731",
+      "source_id": "21100854831",
+      "authors": "Toma Andrea; Krayani Ali; Farrukh Muhammad; Qi Haoran; Marcenaro Lucio; Gao Yue; Regazzoni Carlo S.",
+      "author_ids": "56303677700;57211429954;58725997500;57201006549;6603377664;57206592088;35513672400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60022109;60025153;60022109;60025153",
+      "corresponding": "Toma A.",
+      "keywords": "artificial intelligence | Cognitive radio | jamming | physical layer | unsupervised learning",
+      "abstract": "Introducing a data-driven Self-Awareness (SA) module in Cognitive Radio (CR) can support the system to establish secure networks against various attacks from malicious users. Such users can manipulate the radio spectrum in order to make the CR learn wrong behaviours and take mistaken actions. A basic SA module includes the ability to learn generative models and detect abnormalities inside the radio spectrum. In this work, we propose and implement Artificial Intelligence (AI)-based Abnormality Detection techniques at the physical (PHY)-layer in CR enabled by learning Generative Models. Specifically, two real-world practical applications related to different data dimensionality and sampling rates are presented. The first application implements the Conditional Generative Adversarial Network (C-GAN) investigated on generalized state vectors extracted from spectrum representation samples to study the dynamic behaviour of the wideband signal. While the second application is based on learning a Dynamic Bayesian Network (DBN) model from a generalized state vector which contains sub-bands information extracted from the radio spectrum. Results show that both of the proposed methods are capable of detecting abnormal signals in the spectrum and pave the road towards Self-Aware radio.",
+      "citations": 43,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 93,
+              "rank": 15,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 92,
+              "rank": 39,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 88,
+              "rank": 55,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 91,
+              "rank": 28,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 91,
+              "rank": 14,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 88,
+              "rank": 26,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85100433661",
+      "title": "Self-Learning Bayesian Generative Models for Jammer Detection in Cognitive-UAV-Radios",
+      "doi": "10.1109/GLOBECOM42002.2020.9322583",
+      "venue": "Proceedings IEEE Global Communications Conference Globecom",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "23340983",
+      "eIssn": "25766813",
+      "source_id": "21101199922",
+      "authors": "Krayani Ali; Baydoun Mohamad; Marcenaro Lucio; Alam Atm S.; Regazzoni Carlo",
+      "author_ids": "57211429954;57194871976;6603377664;49862669300;35513672400",
+      "authorAffiliationIds": "60025153-60022109;60025153;60025153;60022109;60025153",
+      "corresponding": "Krayani A.",
+      "keywords": "Bayesian Filtering | Cognitive Radio | PHY-security | Self-Awareness | Unmanned Aerial Vehicles",
+      "abstract": "Unmanned Aerial Vehicles (UAVs) attracted both industry and research community owing to their fascinating features like mobility, deployment flexibility and strong Line of Sight (LoS) links. The integration of Cognitive Radio (CR) can greatly help UAVs to overcome several issues especially spectrum scarcity. However, the dynamic radio environment in CR and the strong dependence of safe communications from LoS channels integrity in UAV communications make the Cognitive- UAV-Radio vulnerable to jamming attacks. This work aims to study the integration of CR and UAVs introducing a Self- Awareness (SA) framework from the physical layer security perspective. Under the SA framework, a Dynamic Bayesian Network (DBN) model is proposed as a representation of the radio environment and a modified Markov Jump Particle Filter (MJPF) is employed for prediction and state estimation purposes. A novel jammer detection framework is proposed that allows the UAV to perform abnormality evaluation at different hierarchical levels. The jammer is shown to be located effectively in both time and frequency domains. Experimental results show the effectiveness of the proposed framework in terms of detection probability and accuracy.",
+      "citations": 27,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 54,
+              "rank": 90,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 52,
+              "rank": 260,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 47,
+              "rank": 262,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 45,
+              "rank": 129,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85075612487",
+      "title": "Jammer detection in M-QAM-OFDM by learning a dynamic Bayesian model for the cognitive radio",
+      "doi": "10.23919/EUSIPCO.2019.8902495",
+      "venue": "European Signal Processing Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": "2019-September",
+      "issue_id": null,
+      "pages": null,
+      "issn": "22195491",
+      "eIssn": null,
+      "source_id": "21100204301",
+      "authors": "Krayani Ali; Farrukh Muhammad; Baydoun Mohamad; Marcenaro Lucio; Gao Yue; Regazzoni Carlo S.",
+      "author_ids": "57211429954;58725997500;57194871976;6603377664;57206592088;35513672400",
+      "authorAffiliationIds": "60025153-60022109;60025153-60022109;60025153;60025153;60022109;60025153",
+      "corresponding": "Krayani A.",
+      "keywords": "Cognitive Radio | Dynamic Bayesian Network | IoT | Kalman Filter | OFDM | Particle Filter",
+      "abstract": "Communication and information field has witnessed recent developments in wireless technologies. Among such emerging technologies, the Internet of Things (IoT) is gaining a lot of popularity and attention in almost every field. IoT devices have to be equipped with cognitive capabilities to enhance spectrum utilization by sensing and learning the surrounding environment. IoT network is susceptible to the various jamming attacks which interrupt users communication. In this paper, two systems (Single and Bank-Parallel) have been proposed to implement a Dynamic Bayesian Network (DBN) Model to detect jammer in Orthogonal Frequency Division Multiplexing (OFDM) sub-carriers modulated with different M-QAM. The comparison of the two systems has been evaluated by simulation results after analyzing the effect of self-organizing map's (SOM) size on the performance of the proposed systems in relation to M-QAM modulation.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 44,
+              "rank": 109,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 42,
+              "rank": 573,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85073894514",
+      "title": "Learning a Switching Bayesian Model for Jammer Detection in the Cognitive-Radio-Based Internet of Things",
+      "doi": "10.1109/WF-IoT.2019.8767187",
+      "venue": "IEEE 5th World Forum on Internet of Things Wf Iot 2019 Conference Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": "380-385",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100933725",
+      "authors": "Farrukh Muhammad; Krayani Ali; Baydoun Mohamad; Marcenaro Lucio; Gao Yue; Regazzoni Carlo S.",
+      "author_ids": "58725997500;57211429954;57194871976;6603377664;57206592088;35513672400",
+      "authorAffiliationIds": "60025153-60022109;60025153-60022109;60025153;60025153;60022109;60025153",
+      "corresponding": "Farrukh M.",
+      "keywords": "Cognitive Radio | Dynamic Bayesian Network | IoT | OFDM",
+      "abstract": "The proliferation of interconnected objects in the Internet of Things (IoT) can be benefit from integration of cognitive radio (CR) technologies at the network level. IoT networks equipped with cognitive capabilities can help to effectively alleviate the problem of spectrum scarcity. However, the IoT network can suffer from jammer attacks that interfere with user transmissions and disrupt communications. In this paper, we consider a CR-IoT network based on Orthogonal Frequency Division Multiplexing (OFDM) modulation scheme and a reactive jammer is hypothesized to be present in the network. A jammer detection method is proposed that is based on learning a switching Dynamic Bayesian Network (DBN) from normal OFDM data transmissions that is capable to detect abnormal situations. The proposed model is shown to be capable to detect and locate multiple jammers. The comparison with a conventional energy detection shows the validity of the proposed approach.",
+      "citations": 11,
+      "quartile": null
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1272139",
+      "authors": "Tekulu, Micheale; Krayani, Ali; Zontone, Pamela; Marcenaro, Lucio; Caprile, Francesco; Masaracchia, Antonino; Regazzoni, Carlo",
+      "legacy_id": 669314,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Anomaly Detection for Unmanned Surface Vehicles Based on a Multi-Modal Bayesian Generative Model",
+      "doi": "10.15439/2025f3412",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1213215",
+      "authors": "Nozari, S.; Krayani, A.; Marin, P.; Marcenaro, L.; Gomez, D. M.; Regazzoni, C.",
+      "legacy_id": 590390,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Modeling Autonomous Vehicle Responses to Novel Observations using Hierarchical Cognitive Representations Inspired Active Inference",
+      "scopus_id": "2-s2.0-85199589083",
+      "doi": "10.3390/computers13070161",
+      "isi_id": "WOS:001276768400001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1170076",
+      "authors": "Krayani, Ali; Khan, Khalid; Marcenaro, Lucio; Marchese, Mario; Regazzoni, Carlo",
+      "legacy_id": 540668,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Self-Supervised Path Planning in UAV-Aided Wireless Networks Based on Active Inference",
+      "scopus_id": "2-s2.0-105001474583",
+      "doi": "10.1109/icassp48485.2024.10446575",
+      "isi_id": "WOS:001396233806084",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "4",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1215675",
+      "authors": "William, Nobel J.; Krayani, Ali; Marcenaro, Lucio; Regazzoni, Carlo",
+      "legacy_id": 593686,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Interactive Bayesian Generative Models for Abnormality Detection in Vehicular Networks",
+      "scopus_id": "2-s2.0-85198846446",
+      "doi": "10.1109/wcnc57260.2024.10570781",
+      "isi_id": "WOS:001268569301113",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220794",
+      "authors": "Xxx, Saleemullah; Krayani, Ali; Zontone, Pamela; Marcenaro, Lucio; Gomez, David Martin; Regazzoni, Carlo",
+      "legacy_id": 599485,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Learning 3D LiDAR Perception Models for Self-Aware Autonomous Systems",
+      "scopus_id": "2-s2.0-85207695150",
+      "doi": "10.23919/fusion59988.2024.10706364",
+      "isi_id": "WOS:001334560000092",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1230536",
+      "authors": "Obite, Felix; Krayani, Ali; Alam, Atm S.; Marcenaro, Lucio; Nallanathan, Arumugam; Regazzoni, Carlo",
+      "legacy_id": 614409,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Exploring Active Inference for Efficient Resource Allocation in UAV-Enabled Cognitive NOMA Uplink",
+      "scopus_id": "2-s2.0-85211248090",
+      "doi": "10.1109/tccn.2024.3510577",
+      "isi_id": "WOS:001547513900035",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1215776",
+      "authors": "Obite, F.; Krayani, A.; Alam, A. S.; Marcenaro, L.; Nallanathan, A.; Regazzoni, C.",
+      "legacy_id": 593649,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Active Inference for Sum Rate Maximization in UAV-Assisted Cognitive NOMA Networks",
+      "scopus_id": "2-s2.0-85195394975",
+      "doi": "10.1109/WF-IoT58464.2023.10539543",
+      "isi_id": "WOS:001241286500154",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1215655",
+      "authors": "Obite, F.; Krayani, A.; Alam, A. S.; Marcenaro, L.; Nallanathan, A.; Regazzoni, C.",
+      "legacy_id": 593650,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Intelligent Resource Allocation for UAV-Based Cognitive NOMA Networks: An Active Inference Approach",
+      "scopus_id": "2-s2.0-85194170647",
+      "doi": "10.1109/FNWF58287.2023.10520397",
+      "isi_id": "WOS:001229556600025",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1138355",
+      "authors": "Krayani, A; Barabino, G; Marcenaro, L; Regazzoni, C",
+      "legacy_id": 498405,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Integrated Sensing and Communication for Joint GPS Spoofing and Jamming Detection in Vehicular V2X Networks",
+      "scopus_id": "2-s2.0-85159775273",
+      "doi": "10.1109/WCNC55385.2023.10118852",
+      "isi_id": "WOS:000989491900213",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "6",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1215615",
+      "authors": "Nozari, S.; Krayani, A.; Marin, P.; Marcenaro, L.; Martin, D.; Regazzoni, C.",
+      "legacy_id": 593646,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Adapting Exploratory Behaviour in Active Inference for Autonomous Driving",
+      "scopus_id": "2-s2.0-85180548649",
+      "doi": "10.1109/ICASSP49357.2023.10096947",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1134795",
+      "authors": "Krayani, Ali; Khan, Khalid; Marcenaro, Lucio; Marchese, Mario; Regazzoni, Carlo",
+      "legacy_id": 493565,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "A Goal-Directed Trajectory Planning Using Active Inference in UAV-Assisted Wireless Networks",
+      "scopus_id": "2-s2.0-85167741786",
+      "doi": "10.3390/s23156873",
+      "isi_id": "WOS:001045768700001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1074612",
+      "authors": "Krayani, Ali",
+      "ssd": "Settore ING-INF/03 - Telecomunicazioni",
+      "legacy_id": 408701,
+      "year": 2022,
+      "miur_type": "-2",
+      "title": "Learning Self-Awareness Models for Physical Layer Security in Cognitive and AI-enabled Radios",
+      "doi": "10.15167/krayani-ali_phd2022-04-13",
+      "type": "Tesi di dottorato"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1094794",
+      "authors": "Krayani, Ali; Alam, Atm S.; Marcenaro, Lucio; Nallanathan, Arumugam; Regazzoni, Carlo",
+      "legacy_id": 434210,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Automatic Jamming Signal Classification in Cognitive UAV Radios",
+      "scopus_id": "2-s2.0-85136902815",
+      "doi": "10.1109/TVT.2022.3199038",
+      "isi_id": "WOS:000908826000042",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "22",
+      "citations_scopus": "30"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1077213",
+      "authors": "Krayani, Ali; Alam, Atm S.; Marcenaro, Lucio; Nallanathan, Arumugam; Regazzoni, Carlo",
+      "legacy_id": 414480,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "An Emergent Self-Awareness Module for Physical Layer Security in Cognitive UAV Radios",
+      "scopus_id": "2-s2.0-85132004374",
+      "doi": "10.1109/TCCN.2022.3161937",
+      "isi_id": "WOS:000808086800035",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "10",
+      "citations_scopus": "13"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1094795",
+      "authors": "Krayani, A.; Alam, A. S.; Marcenaro, L.; Nallanathan, A.; Regazzoni, C.",
+      "legacy_id": 434212,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "A Novel Resource Allocation for Anti-jamming in Cognitive-UAVs: an Active Inference Approach",
+      "scopus_id": "2-s2.0-85135243099",
+      "doi": "10.1109/LCOMM.2022.3190971",
+      "isi_id": "WOS:000866517400012",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "15",
+      "citations_scopus": "18"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1094796",
+      "authors": "Krayani, A.; William, N. J.; Marcenaro, L.; Regazzoni, C.",
+      "legacy_id": 434213,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Jammer Detection in Vehicular V2X Networks",
+      "scopus_id": "2-s2.0-85135148647",
+      "doi": "10.1109/MMS55062.2022.9825566",
+      "isi_id": "WOS:000855047100092",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "4",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1215775",
+      "authors": "Krayani, Ali; William, Nobel J.; Alam, Atm S.; Marcenaro, Lucio; Qin, Zhijin; Nallanathan, Arumugam; Regazzoni, Carlo",
+      "legacy_id": 508285,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Generalized Filtering with Transport Planning for Joint Modulation Conversion and Classification in {AI}-enabled Radios",
+      "scopus_id": "2-s2.0-85137267604",
+      "doi": "10.1109/icc45855.2022.9839176",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1215695",
+      "authors": "Nozari, Sheida; Krayani, Ali; Marcenaro, Lucio; Martin, David; Regazzoni, Carlo",
+      "legacy_id": 593707,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Incremental Learning through Probabilistic Behavior Prediction",
+      "scopus_id": "2-s2.0-85141010092",
+      "doi": "10.23919/eusipco55093.2022.9909735",
+      "isi_id": "WOS:000918827600295",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1099414",
+      "authors": "Nozari, S; Krayani, A; Marin, P; Marcenaro, L; Martin, D; Regazzoni, C",
+      "legacy_id": 441581,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Autonomous Driving Based on Imitation and Active Inference",
+      "scopus_id": "2-s2.0-85137978554",
+      "doi": "10.1007/978-3-031-16281-7_2",
+      "isi_id": "WOS:000871881800002",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1084107",
+      "authors": "Regazzoni, Carlo; Krayani, Ali; Slavic, Giulia; Marcenaro, Lucio",
+      "legacy_id": 422301,
+      "year": 2022,
+      "miur_type": "268",
+      "title": "Probabilistic anomaly detection methods using learned models from time-series data for multimedia self-aware systems",
+      "scopus_id": "2-s2.0-85131499988",
+      "doi": "10.1016/B978-0-12-822109-9.00022-9",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1082990",
+      "authors": "Nozari, S.; Krayani, A.; Marin, P.; Marcenaro, L.; Gomez, D. M.; Regazzoni, C.",
+      "legacy_id": 421082,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Active Inference Integrated with Imitation Learning for Autonomous Driving",
+      "scopus_id": "2-s2.0-85129650616",
+      "doi": "10.1109/ACCESS.2022.3172712",
+      "isi_id": "WOS:000795510500001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "9",
+      "citations_scopus": "11"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1047537",
+      "authors": "Krayani, Ali; Alam, Atm; Calipari, Marco; Nallanathan, Arumugam; Marcenaro, Lucio; Regazzoni, Carlo",
+      "legacy_id": 380636,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "Automatic Modulation Classification in Cognitive-IoT Radios Using Generalized Dynamic Bayesian Networks",
+      "scopus_id": "2-s2.0-85119866608",
+      "doi": "10.1109/WF-IoT51360.2021.9594936",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "12"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1018159",
+      "authors": "Krayani, Ali; Baydoun, Mohamad; Marcenaro, Lucio; Gao, Yue; Regazzoni, Carlo",
+      "legacy_id": 346021,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "Smart Jammer Detection for Self-Aware Cognitive UAV Radios",
+      "scopus_id": "2-s2.0-85094101655",
+      "doi": "10.1109/PIMRC48278.2020.9217331",
+      "isi_id": "WOS:000631491700241",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "7",
+      "citations_scopus": "12"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1018157",
+      "authors": "Toma, Andrea; Krayani, Ali; Marcenaro, Lucio; Gao, Yue; Regazzoni, Carlo",
+      "legacy_id": 346012,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "Deep Learning for Spectrum Anomaly Detection in Cognitive mmWave Radios",
+      "scopus_id": "2-s2.0-85094148939",
+      "doi": "10.1109/PIMRC48278.2020.9217240",
+      "isi_id": "WOS:000631491700152",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "9",
+      "citations_scopus": "19"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/997223",
+      "authors": "Toma, Andrea; Krayani, Ali; Farrukh, Muhammad; Qi, Haoran; Marcenaro, Lucio; Gao, Yue; Regazzoni, Carlo",
+      "legacy_id": 322278,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "AI-based Abnormality Detection at the PHY-layer of Cognitive Radio by Learning Generative Models",
+      "scopus_id": "2-s2.0-85078727577",
+      "doi": "10.1109/TCCN.2020.2970693",
+      "isi_id": "WOS:000519951500003",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "38",
+      "citations_scopus": "43"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1047386",
+      "authors": "Krayani, A.; Baydoun, M.; Marcenaro, L.; Alam, A. S.; Regazzoni, C.",
+      "legacy_id": 380436,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "Self-Learning Bayesian Generative Models for Jammer Detection in Cognitive-UAV-Radios",
+      "scopus_id": "2-s2.0-85100433661",
+      "doi": "10.1109/GLOBECOM42002.2020.9322583",
+      "isi_id": "WOS:000668970503041",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "21",
+      "citations_scopus": "27"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/976365",
+      "authors": "Syed, MUHAMMAD FARRUKH SHAHID; Krayani, Ali; Baydoun, Mohamad; Marcenaro, Lucio; Gao, Yue; Regazzoni, Carlo S.",
+      "legacy_id": 298981,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Learning a Switching Bayesian Model for Jammer Detection in the Cognitive-Radio-Based Internet of Things",
+      "scopus_id": "2-s2.0-85073894514",
+      "doi": "10.1109/WF-IoT.2019.8767187",
+      "isi_id": "WOS:000492865800071",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "9",
+      "citations_scopus": "11"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/989491",
+      "authors": "Krayani, A.; Farrukh, M.; Baydoun, M.; Marcenaro, L.; Gao, Y.; Regazzoni, C. S.",
+      "legacy_id": 313435,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Jammer detection in M-QAM-OFDM by learning a dynamic Bayesian model for the cognitive radio",
+      "scopus_id": "2-s2.0-85075612487",
+      "doi": "10.23919/EUSIPCO.2019.8902495",
+      "isi_id": "WOS:000604567700013",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "5"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:17:24.917121"
+}

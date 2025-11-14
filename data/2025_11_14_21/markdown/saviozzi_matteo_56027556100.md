@@ -1,0 +1,1120 @@
+# Saviozzi Matteo
+
+## Overview
+- **Unit:** ELE
+- **Role:** Professore associato
+- **Grade:** Prof.Associato Legge 240/10 - t.pieno - classe 0
+- **SSD:** IIND-08/B (Sistemi elettrici per l'energia)
+- **Scopus ID:** 56027556100
+- **UNIGE ID:** 304501
+- **Retrieved at:** 2025-11-14T15:15:52.107074
+
+## Contact
+- **Email:** matteo.saviozzi@unige.it
+- **Page:** https://rubrica.unige.it/personale/VkNDXlpo
+- **Locations:** Opera Pia - padiglione D (ED_161450401), 1° piano, US_161450401.I.026
+
+## Career
+- AR, 2016-01-04 → 2020-02-09
+- CB, 2018-09-24 → 2020-02-09
+- RD, 2020-02-10 → 2025-01-31
+- PA, 2025-02-01 → 2222-02-02
+
+## Teaching
+### 2025
+- Fondamenti Di Controlli Per Sistemi Elettrici (66049), L-9 - Ingegneria Elettrica
+- Tecniche Di Ottimizzazione Per I Sistemi Elettrici (101704), Lm-28 - Ingegneria Elettrica
+- Soluzioni Digitali Per Monitorare E Controllare In Modo Ottimale Le Risorse Energetiche Distribuite In Un Ambiente Microgrid - Raise Liguria (113565), Formazione Alla Cittadinanza
+- Transizione Energetica: Diffusione Delle Rinnovabili E Sfide Alla Gestione Intelligente Del Sistema Elettrico - Raise Liguria (113521), Formazione Alla Cittadinanza
+- Automation And Control For Electric Marine Applications (101126), L-28 - Maritime Science And Technology
+- Management And Control Of Electric Energy Systems (118104), Lm-28 - Electrical Engineering For Energy Transition
+
+### 2024
+- Tecniche Di Ottimizzazione Per I Sistemi Elettrici (101704), Lm-28 - Ingegneria Elettrica
+- Soluzioni Digitali Per Monitorare E Controllare In Modo Ottimale Le Risorse Energetiche Distribuite In Un Ambiente Microgrid - Raise Liguria (113565), Formazione Alla Cittadinanza
+- Transizione Energetica: Diffusione Delle Rinnovabili E Sfide Alla Gestione Intelligente Del Sistema Elettrico - Raise Liguria (113521), Formazione Alla Cittadinanza
+- Automation And Control For Electric Marine Applications (101126), L-28 - Maritime Science And Technology
+
+### 2023
+- Tecniche Di Ottimizzazione Per I Sistemi Elettrici (101704), Lm-28 - Ingegneria Elettrica
+- Soluzioni Digitali Per Monitorare E Controllare In Modo Ottimale Le Risorse Energetiche Distribuite In Un Ambiente Microgrid - Raise Liguria (113565), Formazione Alla Cittadinanza
+- Automation And Control For Electric Marine Applications (101126), L-28 - Maritime Science And Technology
+
+### 2022
+- Tecniche Di Ottimizzazione Per I Sistemi Elettrici (101704), Lm-28 - Ingegneria Elettrica
+- Automation And Control For Electric Marine Applications (101126), L-28 - Maritime Science And Technology
+
+### 2021
+- Tecniche Di Ottimizzazione Per I Sistemi Elettrici (101704), Lm-28 - Ingegneria Elettrica
+- Automation And Control For Electric Marine Applications (101126), L-28 - Maritime Science And Technology
+
+### 2020
+- Automation And Control For Electric Marine Applications (101126), L-28 - Maritime Science And Technology
+
+## Scopus Metrics
+- absolute; Docs: 57; Journals: 12; Conferences: 44; Citations: 608; H-index: 13
+- 15 years (2010-2025); Docs: 57; Journals: 12; Conferences: 44; Citations: 608; H-index: 13
+- 10 years (2015-2025); Docs: 55; Journals: 12; Conferences: 42; Citations: 574; H-index: 11
+- 05 years (2020-2025); Docs: 31; Journals: 6; Conferences: 24; Citations: 115; H-index: 5
+
+## Scopus Products
+1.
+   - **Title:** A Model Predictive Control-Based Energy Management Strategy for Secure Operations in Shipboard Power Systems
+   - **Venue:** IEEE Transactions on Transportation Electrification
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1109/TTE.2024.3471192
+   - **Scopus ID:** 2-s2.0-85205774028
+   - **eISSN:** 23327782
+   - **Volume:** 11
+   - **Issue:** 1
+   - **Pages:** 4818-4829
+   - **Authors:** D'agostino Fabio; Gallo Marco; Saviozzi Matteo; Silvestro Federico
+   - **Keywords:** All electric ship (AES) | energy management system (EMS) | model predictive control (MPC) | security constraints | shipboard microgrid | speed optimization
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 73, percentile 92)
+     - Automotive Engineering (Q1, rank 12, percentile 91)
+     - Transportation (Q1, rank 16, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 35, percentile 89)
+   - **Source Id:** 21100854649
+   - **Author Ids:** 56553864200;58202074000;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** D'agostino F.
+2.
+   - **Title:** Full Tuning of Double Input Power System Stabilizers via Surrogate Optimization
+   - **Venue:** 2025 IEEE Kiel Powertech Powertech 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/PowerTech59965.2025.11180292
+   - **Scopus ID:** 2-s2.0-105019317119
+   - **Authors:** MacCió G.; Massucco S.; Natrella G.; Saviozzi M.; Conte F.; Giannuzzi G.; Tessitore S.
+   - **Keywords:** Double Input Power System Stabilizer | Optimal Tuning | Power System Stabilizer
+   - **Source Id:** 21101341419
+   - **Author Ids:** 60150796500;6603357712;57638571300;56027556100;57151673600;25936117900;57211384304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60005308;60122257;60122257
+   - **Corresponding:** MacCió G.
+3.
+   - **Title:** Fault Classification in Distribution Networks Using Graph Neural Networks and Discrete Stockwell Transform
+   - **Venue:** 2025 IEEE Kiel Powertech Powertech 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/PowerTech59965.2025.11180505
+   - **Scopus ID:** 2-s2.0-105019295787
+   - **Authors:** D'Agostino F.; Mahlalela J. S.; Massucco S.; Mosaico G.; Saviozzi M.; Silvestro F.
+   - **Keywords:** Discrete Stockwell Transform | Fault Classification | Graph Neural Network | GraphSMOTE | Node Classification | Waveform Measurement Units
+   - **Source Id:** 21101341419
+   - **Author Ids:** 56553864200;60150558600;6603357712;57208723957;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** D'Agostino F.
+4.
+   - **Title:** Comparative Assessment of Virtual Inertia in Grid Forming-Based Wind Turbines
+   - **Venue:** Conference Proceedings 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EEEIC/ICPSEurope64998.2025.11169192
+   - **Scopus ID:** 2-s2.0-105019041513
+   - **Authors:** Cardenas Marcelo; D'Agostino Fabio; Saviozzi Matteo; Silvestro Federico; Conte Francesco
+   - **Keywords:** Deloaded Mode | Grid Forming | MPPT | Virtual Inertia | Wind Turbine
+   - **Source Id:** 21101340466
+   - **Author Ids:** 60109695500;56553864200;56027556100;23026343700;57151673600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60005308
+   - **Corresponding:** Cardenas M.
+5.
+   - **Title:** Optimal Sizing and Operations of a Hydrogen-Based Multi-Energy Port System with Market Participation and Gas Grid Integration
+   - **Venue:** Conference Proceedings 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EEEIC/ICPSEurope64998.2025.11169295
+   - **Scopus ID:** 2-s2.0-105019039502
+   - **Authors:** Carcasci Carlo; Conte Francesco; D'Agostino Fabio; Guzzo Gabriele; Natrella Gianluca; Saviozzi Matteo
+   - **Keywords:** energy markets | gas network | Hydrogen | multi-energy system | port energy management
+   - **Source Id:** 21101340466
+   - **Author Ids:** 6701748483;57151673600;56553864200;57224441656;57638571300;56027556100
+   - **Authoraffiliationids:** 60021859;108398862;60025153;60021859;60025153;60025153
+   - **Corresponding:** Carcasci C.
+6.
+   - **Title:** Comparison of Virtual Inertia Support in GFM Inverter-Based Resources with Different DC Sources
+   - **Venue:** 2025 International Conference on Clean Electrical Power Iccep 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICCEP65222.2025.11143695
+   - **Scopus ID:** 2-s2.0-105016636749
+   - **Pages:** 293-299
+   - **Authors:** Cardenas M.; Saviozzi M.; Silvestro F.; Conte F.; Gandolfi C.; Rapizza M.
+   - **Keywords:** Grid Forming | Nadir | Rate of Change of Frequency (RoCoF) | Virtual Inertia
+   - **Source Id:** 21101333300
+   - **Author Ids:** 60109695500;56027556100;23026343700;57151673600;36699552800;55806655700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60005308;60104176;60104176
+   - **Corresponding:** Cardenas M.
+7.
+   - **Title:** Low-Level Simulation of a Grid-Following Inverter with Synthetic Inertia
+   - **Venue:** 2025 Aeit Hvdc International Conference Aeit Hvdc 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/AEITHVDC66044.2025.11079533
+   - **Scopus ID:** 2-s2.0-105012573490
+   - **Authors:** Lodi M.; Oliveri A.; Saviozzi M.; Conte F.; Baggi P.
+   - **Keywords:** Commercial inverter | inverter modeling | Synthetic inertia
+   - **Source Id:** 21101318126
+   - **Author Ids:** 57200266678;57200399832;56027556100;57151673600;60030400500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60005308;132941234
+   - **Corresponding:** Lodi M.
+8.
+   - **Title:** Innovative strategies for the provision of upward frequency regulation through renewables and batteries
+   - **Venue:** Energia Elettrica
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-105005716970
+   - **ISSN:** 00137308
+   - **Volume:** 102
+   - **Issue:** 2
+   - **Pages:** 3-12
+   - **Authors:** Rapizza Marco Raffaele; Canavese Silvia Maria; Cirio Diego; Saviozzi Matteo; Conte Francesco
+   - **Quartile:**
+     2025:
+     - Energy Engineering and Power Technology (Q4, rank 302, percentile 7)
+     - Electrical and Electronic Engineering (Q4, rank 946, percentile 5)
+     - Civil and Structural Engineering (Q4, rank 407, percentile 2)
+   - **Source Id:** 16662
+   - **Author Ids:** 55806655700;59907439200;6504625684;56027556100;57151673600
+   - **Authoraffiliationids:** 122143470;122143470;122143470;60025153;60005308
+   - **Corresponding:** Rapizza M.R.
+9.
+   - **Title:** Two-Stage Stochastic Optimal Energy Management of Microgrids for Participation in Flexibility Markets
+   - **Venue:** IEEE Pes Innovative Smart Grid Technologies Europe Isgt Europe 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ISGTEUROPE62998.2024.10863134
+   - **Scopus ID:** 2-s2.0-86000032130
+   - **Authors:** Massucco S.; Mosaico G.; Saviozzi M.; Almaleck P.; Santarelli M.; Serra P.
+   - **Keywords:** flexibility services | microgrids | model predictive control | optimal energy management
+   - **Source Id:** 21101279501
+   - **Author Ids:** 6603357712;57208723957;56027556100;57211999394;57206208449;8246669600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;119159635;119159635;119159635
+   - **Corresponding:** Massucco S.
+10.
+   - **Title:** Optimal Sizing of a Multi - Energy Port with Vehicles Charging Capabilities
+   - **Venue:** 2024 IEEE International Conference on Electrical Systems for Aircraft Railway Ship Propulsion and Road Vehicles and International Transportation Electrification Conference Esars Itec 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ESARS-ITEC60450.2024.10819836
+   - **Scopus ID:** 2-s2.0-85216923141
+   - **Authors:** D'Agostino F.; Gallo M.; Kaza D.; Saviozzi M.; Silvestro F.; Conte F.
+   - **Keywords:** Energy Storage System | Multi-Energy | Optimal Sizing | Ship to grid | Smart Port | Vehicle-to-Grid
+   - **Source Id:** 21101272773
+   - **Author Ids:** 56553864200;58202074000;57218924925;56027556100;23026343700;57151673600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60005308
+   - **Corresponding:** D'Agostino F.
+11.
+   - **Title:** Optimal Control of a Wind Farm-BESS Unit to Combine Synthetic Inertia and Fast Reserve
+   - **Venue:** Proceedings 24th Eeeic International Conference on Environment and Electrical Engineering and 8th I and Cps Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/EEEIC/ICPSEurope61470.2024.10751006
+   - **Scopus ID:** 2-s2.0-85211949831
+   - **Authors:** Conte Francesco; D'Agostino Fabio; Massucco Stefano; Saviozzi Matteo; Rapizza Marco Raffaele; Gandolfi Chiara
+   - **Keywords:** Battery Energy Storage Systems | Fast Frequency Regulation | Model Predictive Control | Synthetic Inertia | Wind Turbines
+   - **Source Id:** 21101263912
+   - **Author Ids:** 57151673600;56553864200;6603357712;56027556100;55806655700;36699552800
+   - **Authoraffiliationids:** 105252934;60025153;60025153;60025153;60104176;60104176
+   - **Corresponding:** Conte F.
+12.
+   - **Title:** Innovative Strategies for Upward Frequency Regulation Provision by Renewables and Batteries
+   - **Venue:** 2024 116th Aeit International Annual Conference Aeit 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/AEIT63317.2024.10736779
+   - **Scopus ID:** 2-s2.0-85210829627
+   - **Authors:** Rapizza Marco Raffaele; Canevese Silvia Maria; Cirio Diego; Saviozzi Matteo; Conte Francesco
+   - **Keywords:** grid frequency control | ultra-fast regulation with battery energy storage system | wind and photovoltaic support
+   - **Source Id:** 21101261562
+   - **Author Ids:** 55806655700;13409397100;6504625684;56027556100;57151673600
+   - **Authoraffiliationids:** 110071415;110071415;110071415;60025153;60005308
+   - **Corresponding:** Rapizza M.R.
+13.
+   - **Title:** Day-Ahead Programming of Energy Communities Participating in Pay-as-Bid Service Markets
+   - **Venue:** IEEE Power and Energy Society General Meeting
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/PESGM51994.2024.10688872
+   - **Scopus ID:** 2-s2.0-85207428013
+   - **ISSN:** 19449925
+   - **eISSN:** 19449933
+   - **Authors:** Conte F.; Massucco S.; Natrella G.; Saviozzi M.; Silvestro F.
+   - **Keywords:** day-ahead programming | Renewable Energy Community | scenario-based optimization | service market
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 622, percentile 37)
+     - Nuclear Energy and Engineering (Q3, rank 53, percentile 37)
+     - Energy Engineering and Power Technology (Q3, rank 208, percentile 36)
+     - Renewable Energy, Sustainability and the Environment (Q3, rank 232, percentile 25)
+     2024:
+     - Nuclear Energy and Engineering (Q3, rank 53, percentile 34)
+     - Electrical and Electronic Engineering (Q3, rank 682, percentile 29)
+     - Energy Engineering and Power Technology (Q3, rank 215, percentile 28)
+     - Renewable Energy, Sustainability and the Environment (Q4, rank 238, percentile 20)
+   - **Source Id:** 20600195623
+   - **Author Ids:** 57151673600;6603357712;57638571300;56027556100;23026343700
+   - **Authoraffiliationids:** 60005308;60025153;60025153;60025153;60025153
+   - **Corresponding:** Conte F.
+14.
+   - **Title:** Development and Selection of Load Forecasting Techniques for Non-Residential Buildings
+   - **Venue:** Pmaps 2024 18th International Conference on Probabilistic Methods Applied to Power Systems
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/PMAPS61648.2024.10667140
+   - **Scopus ID:** 2-s2.0-85204764443
+   - **Authors:** Massucco S.; Mosaico G.; Saviozzi M.; Almaleck P.; Santarelli M.; Serra P.
+   - **Keywords:** building management system | buildings | load demand | Load forecasting
+   - **Source Id:** 21101249904
+   - **Author Ids:** 6603357712;57208723957;56027556100;57211999394;57206208449;8246669600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;119159635;119159635;119159635
+   - **Corresponding:** Massucco S.
+15.
+   - **Title:** Performance Investigation of an Optimal Control Strategy for Zero-Emission Operations of Shipboard Microgrids
+   - **Venue:** 2024 International Symposium on Power Electronics Electrical Drives Automation and Motion Speedam 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/SPEEDAM61530.2024.10609047
+   - **Scopus ID:** 2-s2.0-85201736645
+   - **Pages:** 1048-1052
+   - **Authors:** D'Agostino Fabio; Gallo Marco; Saviozzi Matteo; Silvestro Federico
+   - **Keywords:** Carbon Intensity Indicator | Hydrogen | Ship Speed Optimization | Zero-Emission
+   - **Source Id:** 21101243575
+   - **Author Ids:** 56553864200;58202074000;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** D'Agostino F.
+16.
+   - **Title:** Electrical consumption forecasting in sports venues: A proposed approach based on neural networks and ARIMAX Models
+   - **Venue:** Sustainable Cities and Society
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 19
+   - **DOI:** 10.1016/j.scs.2023.105019
+   - **Scopus ID:** 2-s2.0-85175150487
+   - **ISSN:** 22106707
+   - **Volume:** 100
+   - **Authors:** Almaleck Pablo; Massucco Stefano; Mosaico Gabriele; Saviozzi Matteo; Serra Pietro; Silvestro Federico
+   - **Keywords:** ARIMAX models | Artificial neural network | Electrical consumption forecasting | Football arena | Load forecasting | Sports venue
+   - **Quartile:**
+     2025:
+     - Civil and Structural Engineering (Q1, rank 1, percentile 99)
+     - Geography, Planning and Development (Q1, rank 4, percentile 99)
+     - Transportation (Q1, rank 5, percentile 97)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 19, percentile 94)
+     2024:
+     - Civil and Structural Engineering (Q1, rank 1, percentile 99)
+     - Geography, Planning and Development (Q1, rank 3, percentile 99)
+     - Transportation (Q1, rank 4, percentile 97)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 16, percentile 94)
+   - **Source Id:** 19700194105
+   - **Author Ids:** 57211999394;6603357712;57208723957;56027556100;8246669600;23026343700
+   - **Authoraffiliationids:** 130383566;60025153;60025153;60025153;130383566;60025153
+   - **Corresponding:** Almaleck P.
+17.
+   - **Title:** Modelling and optimal management of renewable energy communities using reversible solid oxide cells
+   - **Venue:** Applied Energy
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 46
+   - **DOI:** 10.1016/j.apenergy.2023.120657
+   - **Scopus ID:** 2-s2.0-85146670642
+   - **ISSN:** 03062619
+   - **Volume:** 334
+   - **Authors:** Bianchi F. R.; Bosio B.; Conte F.; Massucco S.; Mosaico G.; Natrella G.; Saviozzi M.
+   - **Keywords:** Green Hydrogen | Renewable Energy Communities | Reversible Solid Oxide Cells | Stochastic Model Predictive Control
+   - **Quartile:**
+     2025:
+     - Management, Monitoring, Policy and Law (Q1, rank 6, percentile 98)
+     - Mechanical Engineering (Q1, rank 14, percentile 98)
+     - Building and Construction (Q1, rank 5, percentile 98)
+     - Energy (all) (Q1, rank 5, percentile 94)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 22, percentile 93)
+     2023:
+     - Building and Construction (Q1, rank 1, percentile 99)
+     - Management, Monitoring, Policy and Law (Q1, rank 5, percentile 98)
+     - Mechanical Engineering (Q1, rank 12, percentile 98)
+     - Energy (all) (Q1, rank 4, percentile 95)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 15, percentile 94)
+   - **Source Id:** 28801
+   - **Author Ids:** 57214116004;55888255600;57151673600;6603357712;57208723957;57638571300;56027556100
+   - **Authoraffiliationids:** 60025153;60025153;60005308;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bianchi F.R.
+18.
+   - **Title:** Probabilistic Security-Constrained Preventive Control under Forecast Uncertainties Including Volt/Var Constraints
+   - **Venue:** Energies
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.3390/en16041812
+   - **Scopus ID:** 2-s2.0-85149181238
+   - **eISSN:** 19961073
+   - **Volume:** 16
+   - **Issue:** 4
+   - **Authors:** Ciapessoni Emanuele; Cirio Diego; Conte Francesco; Pitto Andrea; Massucco Stefano; Saviozzi Matteo
+   - **Keywords:** probability | renewable energy sources | security | stochastic optimization | uncertainty
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2023:
+     - Control and Optimization (Q1, rank 19, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 36, percentile 82)
+     - Electrical and Electronic Engineering (Q2, rank 200, percentile 74)
+     - Energy Engineering and Power Technology (Q2, rank 78, percentile 71)
+     - Fuel Technology (Q2, rank 40, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 25, percentile 68)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 103, percentile 62)
+   - **Source Id:** 62932
+   - **Author Ids:** 6505804291;6504625684;57151673600;35068505700;6603357712;56027556100
+   - **Authoraffiliationids:** 60104176;60104176;60005308;60104176;60025153;60025153
+   - **Corresponding:** Ciapessoni E.
+19.
+   - **Title:** Warm Start Fitted Q Reinforcement Learning for Electric Vehicle Depot Charging
+   - **Venue:** IEEE Pes Innovative Smart Grid Technologies Conference Europe
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ISGTEUROPE56780.2023.10408530
+   - **Scopus ID:** 2-s2.0-85187309136
+   - **Authors:** Massucco S.; Mosaico G.; Saviozzi M.; Almaleck P.; Santarelli M.; Serra P.
+   - **Keywords:** EV Charging | EV depot | Fitted Q-iteration | Reinforcement Learning
+   - **Source Id:** 21101206224
+   - **Author Ids:** 6603357712;57208723957;56027556100;57211999394;57206208449;8246669600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;119159635;119159635;119159635
+   - **Corresponding:** Massucco S.
+20.
+   - **Title:** Optimal Storage Allocation for Transmission Network Development Planning: Study Case of Sicily
+   - **Venue:** 2023 IEEE Belgrade Powertech Powertech 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/PowerTech55446.2023.10202764
+   - **Scopus ID:** 2-s2.0-85169444849
+   - **Authors:** D'Agostino F.; Gabriele B.; Mosaico G.; Saviozzi M.; Silvestro F.
+   - **Keywords:** Probabilistic Planning | Storage Allocation | Storage Sizing | Transmission Systems | Volt/Var Optimization
+   - **Source Id:** 21101175266
+   - **Author Ids:** 56553864200;57219805070;57208723957;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** D'Agostino F.
+21.
+   - **Title:** A Security-Constrained Optimal Power Management Algorithm for Shipboard Microgrids with Battery Energy Storage System
+   - **Venue:** 2023 IEEE International Conference on Electrical Systems for Aircraft Railway Ship Propulsion and Road Vehicles and International Transportation Electrification Conference Esars Itec 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/ESARS-ITEC57127.2023.10114833
+   - **Scopus ID:** 2-s2.0-85160199845
+   - **Authors:** D'Agostino F.; Gallo M.; Saviozzi M.; Silvestro F.
+   - **Keywords:** Battery Energy Storage System | Efficiency | Power Management Strategy | Security Constraints
+   - **Source Id:** 21101154140
+   - **Author Ids:** 56553864200;58202074000;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** D'Agostino F.
+22.
+   - **Title:** Real-Time Power System Laboratories at the University of Genoa
+   - **Venue:** 2022 Aeit International Annual Conference Aeit 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.23919/AEIT56783.2022.9951786
+   - **Scopus ID:** 2-s2.0-85143621135
+   - **Authors:** Bonfiglio Andrea; Bracco Stefano; D'Agostino Fabio; Delfino Federico; Laiolo Paola; Invernizzi Marco; Massucco Stefano; Procopio Renato; Saviozzi Matteo; Silvestro Federico
+   - **Keywords:** Power Laboratories | Power Systems | Real Time Simulation
+   - **Source Id:** 21101125262
+   - **Author Ids:** 36607521000;15049159900;56553864200;6603766602;56576462300;6701527755;6603357712;7801615894;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+23.
+   - **Title:** Methods and Tools for the Management of Renewable Energy Communities: the ComER project
+   - **Venue:** 2022 Aeit International Annual Conference Aeit 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.23919/AEIT56783.2022.9951776
+   - **Scopus ID:** 2-s2.0-85143587755
+   - **Authors:** Rita Di Fazio Anna; Losi Arturo; Russo Mario; Cacace Filippo; Conte Francesco; Iannello Giulio; Natrella Gianluca; Saviozzi Matteo
+   - **Keywords:** Energy Communities | Renewables | Self-Consumption Management and Control
+   - **Source Id:** 21101125262
+   - **Author Ids:** 24437779200;7004596459;56186338900;12239653700;57151673600;6701387714;57638571300;56027556100
+   - **Authoraffiliationids:** 60001711;60001711;60001711;60005308;60005308;60005308;60025153;60025153
+   - **Corresponding:** Rita Di Fazio A.
+24.
+   - **Title:** Techno-Economic Dispatch Analysis Of A Case Study Consisting Of Micro Gas Turbines Using Real-Time Data
+   - **Venue:** Proceedings of the ASME Turbo Expo
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1115/GT2022-83437
+   - **Scopus ID:** 2-s2.0-85141711994
+   - **Volume:** 5
+   - **Authors:** Uslu Hasan Huseyin; Vinci Andrea; Saviozzi Matteo; Mosaico Gabriele; Assadi Mohsen; Silvestro Federico; Somehsaraei Homam Nikpey
+   - **Keywords:** combined heat and power | economic dispatch | electricity market | hydrogen | micro gas turbine
+   - **Source Id:** 21100877658
+   - **Author Ids:** 57960219500;57191195028;56027556100;57208723957;7003594790;23026343700;55364882500
+   - **Authoraffiliationids:** 60014497;60335519;60025153;60025153;60014497;60025153;60014497
+   - **Corresponding:** Uslu H.H.
+25.
+   - **Title:** Optimal Management of Renewable Generation and Uncertain Demand with Reverse Fuel Cells by Stochastic Model Predictive Control
+   - **Venue:** 2022 17th International Conference on Probabilistic Methods Applied to Power Systems Pmaps 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/PMAPS53380.2022.9810605
+   - **Scopus ID:** 2-s2.0-85135098261
+   - **Authors:** Conte F.; Mosaico G.; Natrella G.; Saviozzi M.; Bianchi F. R.
+   - **Keywords:** Fuel Cells | Hydrogen | Renewable Energy Communities | Stochastic Model Predictive Control
+   - **Source Id:** 21101098702
+   - **Author Ids:** 57151673600;57208723957;57638571300;56027556100;57214116004
+   - **Authoraffiliationids:** 60005308;60025153;60025153;60025153;60025153
+   - **Corresponding:** Conte F.
+26.
+   - **Title:** Electrical consumption forecasting in hospital facilities
+   - **Venue:** Machine Learning and Data Science in the Power Generation Industry Best Practices Tools and Case Studies
+   - **Year:** 2021
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 1
+   - **DOI:** 10.1016/B978-0-12-819742-4.00009-3
+   - **Scopus ID:** 2-s2.0-85126794555
+   - **Pages:** 195-211
+   - **Authors:** Bagnasco A.; Fresi F.; Saviozzi M.; Silvestro F.; Vinci A.
+   - **Keywords:** Building management systems | Electrical consumption in an hospital facility | Energy management systems | Load forecasting | Neural networks
+   - **Source Id:** 21101081837
+   - **Author Ids:** 6602504190;56730407300;56027556100;23026343700;57191195028
+   - **Authoraffiliationids:** 60025153-127870515;126999213;60025153;60025153;127870515
+   - **Corresponding:** Bagnasco A.
+27.
+   - **Title:** A quasi-optimal energy resources management technique for low voltage microgrids
+   - **Venue:** International Journal of Electrical Power and Energy Systems
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1016/j.ijepes.2020.106080
+   - **Scopus ID:** 2-s2.0-85083362160
+   - **ISSN:** 01420615
+   - **Volume:** 121
+   - **Authors:** Crosa di Vergagni M.; Massucco S.; Saviozzi M.; Silvestro F.; Monachesi F.; Ragaini E.
+   - **Keywords:** Demand response | Distributed energy resources | Energy resources management | Flexibility provision | Frequency control | Microgrid | Microgrid optimization
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 57, percentile 94)
+     - Energy Engineering and Power Technology (Q1, rank 25, percentile 92)
+     2020:
+     - Electrical and Electronic Engineering (Q1, rank 91, percentile 86)
+     - Energy Engineering and Power Technology (Q1, rank 33, percentile 85)
+   - **Source Id:** 17985
+   - **Author Ids:** 56943365800;6603357712;56027556100;23026343700;56028076900;6507406235
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60102057;60102057
+   - **Corresponding:** Crosa di Vergagni M.
+28.
+   - **Title:** A Markov Chain Load Modeling Approach through a Stream Clustering Algorithm
+   - **Venue:** 12th Aeit International Annual Conference Aeit 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.23919/AEIT50178.2020.9241159
+   - **Scopus ID:** 2-s2.0-85097165502
+   - **Authors:** Massucco Stefano; Mosaico Gabriele; Saviozzi Matteo; Silvestro Federico; Fidigatti Antonio; Ragaini Enrico
+   - **Keywords:** Load Modeling | Load Profiling | Markov Chains | Streaming Algorithm
+   - **Source Id:** 21101029719
+   - **Author Ids:** 6603357712;57208723957;56027556100;23026343700;36699443500;6507406235
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60102057;60102057
+   - **Corresponding:** Massucco S.
+29.
+   - **Title:** Probabilistic planning for distribution networks including optimal der regulation and storage allocation
+   - **Venue:** IEEE Power and Energy Society General Meeting
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/PESGM41954.2020.9281710
+   - **Scopus ID:** 2-s2.0-85099129474
+   - **ISSN:** 19449925
+   - **eISSN:** 19449933
+   - **Volume:** 2020-August
+   - **Authors:** Massucco S.; Mosaico G.; Pongiglione P.; Saviozzi M.; Silvestro F.
+   - **Keywords:** Distribution Systems | Probabilistic Planning | Storage Allocation | VoltNar optimization
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 622, percentile 37)
+     - Nuclear Energy and Engineering (Q3, rank 53, percentile 37)
+     - Energy Engineering and Power Technology (Q3, rank 208, percentile 36)
+     - Renewable Energy, Sustainability and the Environment (Q3, rank 232, percentile 25)
+   - **Source Id:** 20600195623
+   - **Author Ids:** 6603357712;57208723957;57195506239;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Massucco S.
+30.
+   - **Title:** An Instantaneous Growing Stream Clustering Algorithm for Probabilistic Load Modeling/Profiling
+   - **Venue:** 2020 International Conference on Probabilistic Methods Applied to Power Systems Pmaps 2020 Proceedings
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/PMAPS47429.2020.9183448
+   - **Scopus ID:** 2-s2.0-85091339116
+   - **Authors:** Massucco Stefano; Mosaico Gabriele; Saviozzi Matteo; Silvestro Federico; Fidigatti Antonio; Ragaini Enrico
+   - **Keywords:** Clustering | Load Modeling | Load Profiling | Markov Chains | Streaming Algorithm
+   - **Source Id:** 21101021844
+   - **Author Ids:** 6603357712;57208723957;56027556100;23026343700;36699443500;6507406235
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60102057;60102057
+   - **Corresponding:** Massucco S.
+31.
+   - **Title:** An optimization problem for day-ahead planning of electrical energy aggregators
+   - **Venue:** IFAC Papersonline
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1016/j.ifacol.2020.12.1098
+   - **Scopus ID:** 2-s2.0-85105067567
+   - **eISSN:** 24058963
+   - **Volume:** 53
+   - **Issue:** 2
+   - **Pages:** 12213-12220
+   - **Authors:** Conte Francesco; Saviozzi Matteo; Grillo Samuele
+   - **Keywords:** Control of renewable energy resources | Demand response | Intelligent control of power systems | Load aggregator | Optimal operation and control of power systems | Smart grids
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q3, rank 218, percentile 42)
+     2020:
+     - Control and Systems Engineering (Q3, rank 148, percentile 43)
+   - **Source Id:** 21100456158
+   - **Author Ids:** 57151673600;56027556100;24437542800
+   - **Authoraffiliationids:** 60025153;60025153;60023256
+   - **Corresponding:** Conte F.
+32.
+   - **Title:** Simplified State Space Building Energy Model and Transfer Learning Based Occupancy Estimation for HVAC Optimal Control
+   - **Venue:** 5th International Forum on Research and Technologies for Society and Industry Innovation to Shape the Future Rtsi 2019 Proceedings
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1109/RTSI.2019.8895544
+   - **Scopus ID:** 2-s2.0-85075638802
+   - **Pages:** 353-358
+   - **Authors:** Mosaico Gabriele; Saviozzi Matteo; Silvestro Federico; Bagnasco Andrea; Vinci Andrea
+   - **Keywords:** building energy model | deep learning | HVAC supervisory control | occupancy estimation | transfer learning
+   - **Source Id:** 21100936629
+   - **Author Ids:** 57208723957;56027556100;23026343700;6602504190;57191195028
+   - **Authoraffiliationids:** 60025153;60025153;60025153;119528398;119528398
+   - **Corresponding:** Mosaico G.
+33.
+   - **Title:** Algorithm for Optimal Microgrid Operation and Control with Adaptable Constraints and Flexible Objective Function
+   - **Venue:** 5th International Forum on Research and Technologies for Society and Industry Innovation to Shape the Future Rtsi 2019 Proceedings
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/RTSI.2019.8895588
+   - **Scopus ID:** 2-s2.0-85075634330
+   - **Pages:** 97-102
+   - **Authors:** Massucco S.; Pongiglione P.; Saviozzi M.; Silvestro F.; Almaleck P.; Serra P.
+   - **Keywords:** AMPL | economic dispatch | microgrid optimization | MILP | real time control | unit commitment
+   - **Source Id:** 21100936629
+   - **Author Ids:** 6603357712;57195506239;56027556100;23026343700;57211999394;8246669600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60102057;60102057
+   - **Corresponding:** Massucco S.
+34.
+   - **Title:** A hybrid methodology for the day-ahead PV forecasting exploiting a Clear Sky Model or Artificial Neural Networks
+   - **Venue:** Eurocon 2019 18th International Conference on Smart Technologies
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/EUROCON.2019.8861551
+   - **Scopus ID:** 2-s2.0-85074198808
+   - **Authors:** Mosaico Gabriele; Saviozzi Matteo
+   - **Keywords:** artificial neural networks | clear sky model | hybrid method | linear regression | PV forecasting
+   - **Source Id:** 21100933976
+   - **Author Ids:** 57208723957;56027556100
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mosaico G.
+35.
+   - **Title:** Optimal der regulation and storage allocation in distribution networks: Volt/Var optimization and congestion relief
+   - **Venue:** 2019 IEEE Milan Powertech Powertech 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/PTC.2019.8810422
+   - **Scopus ID:** 2-s2.0-85072333190
+   - **Authors:** D'Agostino F.; Massucco S.; Pongiglione P.; Saviozzi M.; Silvestro F.
+   - **Keywords:** Distribution Systems | Optimal Allocation | Optimal Sizing | Storage Systems | Vol/Var
+   - **Source Id:** 21100929352
+   - **Author Ids:** 56553864200;6603357712;57195506239;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** D'Agostino F.
+36.
+   - **Title:** The Podcast Project: An Application of Volt/Var Optimization to the Electric Distribution Network of Sanremo (Italy)
+   - **Venue:** Synergy MED 2019 1st International Conference on Energy Transition in the Mediterranean Area
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/SyNERGY-MED.2019.8764115
+   - **Scopus ID:** 2-s2.0-85069934277
+   - **Authors:** Crosa M.; D'Agostino F.; Massucco S.; Pongiglione P.; Saviozzi M.; Silvestro F.
+   - **Keywords:** Distribution Management Systems | SCADA | Storage Systems | Volt/Nar
+   - **Source Id:** 21100921038
+   - **Author Ids:** 14007502100;56553864200;6603357712;57195506239;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Crosa M.
+37.
+   - **Title:** Implementation of advanced functionalities for Distribution Management Systems: Load forecasting and modeling through Artificial Neural Networks ensembles
+   - **Venue:** Electric Power Systems Research
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 69
+   - **DOI:** 10.1016/j.epsr.2018.10.036
+   - **Scopus ID:** 2-s2.0-85056625184
+   - **ISSN:** 03787796
+   - **Volume:** 167
+   - **Pages:** 230-239
+   - **Authors:** Saviozzi M.; Massucco S.; Silvestro F.
+   - **Keywords:** Artificial Neural Networks | Distribution Management System | Load forecasting | Load modeling
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+     - Energy Engineering and Power Technology (Q1, rank 60, percentile 81)
+     2019:
+     - Energy Engineering and Power Technology (Q1, rank 25, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 84, percentile 87)
+   - **Source Id:** 16044
+   - **Author Ids:** 56027556100;6603357712;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Saviozzi M.
+38.
+   - **Title:** A hybrid technique for day-ahead pv generation forecasting using clear-sky models or ensemble of artificial neural networks according to a decision tree approach
+   - **Venue:** Energies
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 39
+   - **DOI:** 10.3390/en12071298
+   - **Scopus ID:** 2-s2.0-85083347052
+   - **eISSN:** 19961073
+   - **Volume:** 12
+   - **Issue:** 7
+   - **Authors:** Massucco Stefano; Mosaico Gabriele; Saviozzi Matteo; Silvestro Federico
+   - **Keywords:** Artificial neural networks | Basic ensemble method | CART tree | Clear-sky model | Decision trees | Hybrid method | PV forecasting | Weather classification | Weather type partition
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2019:
+     - Control and Optimization (Q1, rank 19, percentile 81)
+     - Energy Engineering and Power Technology (Q2, rank 62, percentile 71)
+     - Electrical and Electronic Engineering (Q2, rank 208, percentile 69)
+     - Fuel Technology (Q2, rank 33, percentile 66)
+     - Energy (miscellaneous) (Q2, rank 9, percentile 63)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 72, percentile 60)
+   - **Source Id:** 62932
+   - **Author Ids:** 6603357712;57208723957;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Massucco S.
+39.
+   - **Title:** Mixed-integer algorithm for optimal dispatch of integrated PV-storage systems
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 37
+   - **DOI:** 10.1109/TIA.2018.2870072
+   - **Scopus ID:** 2-s2.0-85053325710
+   - **ISSN:** 00939994
+   - **eISSN:** 19399367
+   - **Volume:** 55
+   - **Issue:** 1
+   - **Pages:** 238-247
+   - **Authors:** Conte Francesco; D'Agostino Fabio; Pongiglione Paola; Saviozzi Matteo; Silvestro Federico
+   - **Keywords:** Battery management system (BMS) efficiency | general algebraic modeling system (GAMS) | microgrid | optimization | photovoltaic (PV) integration | renewable energy source (RES) | storage modeling | storage system
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+     2019:
+     - Industrial and Manufacturing Engineering (Q1, rank 30, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 76, percentile 88)
+     - Control and Systems Engineering (Q1, rank 29, percentile 88)
+   - **Source Id:** 17361
+   - **Author Ids:** 57151673600;56553864200;57195506239;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Conte F.
+40.
+   - **Title:** Design and Validation of a Detailed Building Thermal Model Considering Occupancy and Temperature Sensors
+   - **Venue:** IEEE 4th International Forum on Research and Technologies for Society and Industry Rtsi 2018 Proceedings
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/RTSI.2018.8548424
+   - **Scopus ID:** 2-s2.0-85060034213
+   - **Authors:** Bagnasco A.; Massucco S.; Saviozzi M.; Silvestro F.; Vinci A.
+   - **Keywords:** building management system | Building thermal model | EnergyPlus
+   - **Source Id:** 21100894735
+   - **Author Ids:** 6602504190;6603357712;56027556100;23026343700;57191195028
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bagnasco A.
+41.
+   - **Title:** Optimal Sizing of a Storage System Coupled with Grid Connected Renewable Generation Respecting Day-Ahead Dispatch Profile
+   - **Venue:** Proceedings 2018 IEEE International Conference on Environment and Electrical Engineering and 2018 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EEEIC.2018.8494516
+   - **Scopus ID:** 2-s2.0-85056499986
+   - **Authors:** Massucco S.; Pongiglione P.; Saviozzi M.; Silvestro F.; Baccino F.; Serra P.
+   - **Keywords:** MILP | Monte Carlo | Optimal Sizing | PV integration | Renewable Energy Resources | Storage System
+   - **Source Id:** 21100885800
+   - **Author Ids:** 6603357712;57195506239;56027556100;23026343700;55211592900;8246669600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60102057;60102057
+   - **Corresponding:** Massucco S.
+42.
+   - **Title:** A Stochastic Optimization Method for Planning and Real-Time Control of Integrated PV-Storage Systems: Design and Experimental Validation
+   - **Venue:** IEEE Transactions on Sustainable Energy
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 56
+   - **DOI:** 10.1109/TSTE.2017.2775339
+   - **Scopus ID:** 2-s2.0-85035138529
+   - **ISSN:** 19493029
+   - **Volume:** 9
+   - **Issue:** 3
+   - **Pages:** 1188-1197
+   - **Authors:** Conte Francesco; Massucco Stefano; Saviozzi Matteo; Silvestro Federico
+   - **Keywords:** energy storage systems | PV-storage integrated systems | stochastic optimization | uncertainties management
+   - **Quartile:**
+     2025:
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 20, percentile 93)
+     2018:
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 9, percentile 94)
+   - **Source Id:** 19700177027
+   - **Author Ids:** 57151673600;6603357712;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Conte F.
+43.
+   - **Title:** Mixed-Integer Linear optimization algorithm for Volt/Var Control on a distribution grid with renewable penetration
+   - **Venue:** 2017 6th International Conference on Clean Electrical Power Renewable Energy Resources Impact Iccep 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICCEP.2017.8004824
+   - **Scopus ID:** 2-s2.0-85028518742
+   - **Pages:** 255-261
+   - **Authors:** Massucco S.; Pongiglione P.; Saviozzi M.; Silvestro F.; Rahimi S.
+   - **Keywords:** Distributed Energy Resources | DMS | MILP | Volt/Var Control
+   - **Source Id:** 21100828603
+   - **Author Ids:** 6603357712;57195506239;56027556100;23026343700;55512444200
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60012591
+   - **Corresponding:** Massucco S.
+44.
+   - **Title:** Real time control of a low voltage microgrid through a Distribution Management System
+   - **Venue:** 2017 6th International Conference on Clean Electrical Power Renewable Energy Resources Impact Iccep 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICCEP.2017.8004804
+   - **Scopus ID:** 2-s2.0-85028507084
+   - **Pages:** 133-138
+   - **Authors:** D'Agostino F.; Massucco S.; Saviozzi M.; Silvestro F.
+   - **Keywords:** Distribution Management System | Microgrid | Real Time Control
+   - **Source Id:** 21100828603
+   - **Author Ids:** 56553864200;6603357712;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** D'Agostino F.
+45.
+   - **Title:** Mixed-integer algorithm for optimal dispatch of integrated PV-storage systems
+   - **Venue:** Conference Proceedings 2017 17th IEEE International Conference on Environment and Electrical Engineering and 2017 1st IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/EEEIC.2017.7977430
+   - **Scopus ID:** 2-s2.0-85026736856
+   - **Authors:** Adinolfi F.; Conte F.; D'Agostino F.; Massucco S.; Saviozzi M.; Silvestro F.
+   - **Keywords:** BMS efficiency | Dispatching | GAMS | Microgrid | Optimization | PV integration | RES | Storage systems
+   - **Source Id:** 21100826217
+   - **Author Ids:** 55615847600;57151673600;56553864200;6603357712;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Adinolfi F.
+46.
+   - **Title:** A load management algorithm for PCC interface breaker
+   - **Venue:** 2017 IEEE Pes Innovative Smart Grid Technologies Conference Europe Isgt Europe 2017 Proceedings
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ISGTEurope.2017.8260266
+   - **Scopus ID:** 2-s2.0-85046258917
+   - **Volume:** 2018-January
+   - **Pages:** 1-6
+   - **Authors:** Adinolfi F.; Massucco S.; Saviozzi M.; Silvestro F.; Fidigatti A.; Monachesi F.; Ragaini E.
+   - **Keywords:** Interface Breaker | Load Management | Microgrid Management
+   - **Source Id:** 21100933068
+   - **Author Ids:** 55615847600;6603357712;56027556100;23026343700;36699443500;56028076900;6507406235
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60102057;60102057;60102057
+   - **Corresponding:** Adinolfi F.
+47.
+   - **Title:** Net transfer capacity assessment using point estimate method for probabilistic power flow
+   - **Venue:** 2016 International Conference on Probabilistic Methods Applied to Power Systems Pmaps 2016 Proceedings
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/PMAPS.2016.7764165
+   - **Scopus ID:** 2-s2.0-85015228056
+   - **Authors:** Adinolfi F.; Massucco S.; Saviozzi M.; Silvestro F.; Ciapessoni E.; Cirio D.; Pitto A.
+   - **Keywords:** Net Transfer Capacity | Point Estimate Method | probabilistic security assessment | uncertainty modeling
+   - **Source Id:** 21100801130
+   - **Author Ids:** 55615847600;6603357712;56027556100;23026343700;6505804291;6504625684;35068505700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60104176;60104176;60104176
+   - **Corresponding:** Adinolfi F.
+48.
+   - **Title:** Performance evaluation of algorithms for the State of Charge estimation of storage devices in microgrid operation
+   - **Venue:** 19th Power Systems Computation Conference Pscc 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/PSCC.2016.7540851
+   - **Scopus ID:** 2-s2.0-84986576766
+   - **Authors:** Adinolfi F.; Conte F.; Massucco S.; Saviozzi M.; Silvestro F.; Grillo S.
+   - **Keywords:** Kalman filter | microgrid | State of charge estimation | storage device
+   - **Source Id:** 21100778001
+   - **Author Ids:** 55615847600;57151673600;6603357712;56027556100;23026343700;24437542800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60023256
+   - **Corresponding:** Adinolfi F.
+49.
+   - **Title:** Probabilistic assessment of Net Transfer Capacity considering forecast uncertainties
+   - **Venue:** 19th Power Systems Computation Conference Pscc 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/PSCC.2016.7540855
+   - **Scopus ID:** 2-s2.0-84986537483
+   - **Authors:** Adinolfi F.; Massucco S.; Saviozzi M.; Silvestro F.; Ciapessoni E.; Cirio D.; Pitto A.
+   - **Keywords:** net transfer capacity | point estimate method | probability | third order polynomial normal transformation
+   - **Source Id:** 21100778001
+   - **Author Ids:** 55615847600;6603357712;56027556100;23026343700;6505804291;6504625684;35068505700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60104176;60104176;60104176
+   - **Corresponding:** Adinolfi F.
+50.
+   - **Title:** Advanced operational functionalities for a low voltage Microgrid test site
+   - **Venue:** IEEE Power and Energy Society General Meeting
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 17
+   - **DOI:** 10.1109/PESGM.2015.7285953
+   - **Scopus ID:** 2-s2.0-84956856922
+   - **ISSN:** 19449925
+   - **eISSN:** 19449933
+   - **Volume:** 2015-September
+   - **Authors:** Adinolfi F.; D'Agostino F.; Massucco S.; Saviozzi M.; Silvestro F.
+   - **Keywords:** DER | DMS | energy management | generation forecast | load forecast | Microgrid management | storage system
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 622, percentile 37)
+     - Nuclear Energy and Engineering (Q3, rank 53, percentile 37)
+     - Energy Engineering and Power Technology (Q3, rank 208, percentile 36)
+     - Renewable Energy, Sustainability and the Environment (Q3, rank 232, percentile 25)
+   - **Source Id:** 20600195623
+   - **Author Ids:** 55615847600;56553864200;6603357712;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Adinolfi F.
+51.
+   - **Title:** An innovative probabilistic methodology for net transfer capacity evaluation
+   - **Venue:** 2015 IEEE Eindhoven Powertech Powertech 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/PTC.2015.7232712
+   - **Scopus ID:** 2-s2.0-84951335463
+   - **Authors:** Adinolfi F.; Massucco S.; Saviozzi M.; Silvestro F.; Ciapessoni E.; Cirio D.; Pitto A.
+   - **Keywords:** Net Transfer Capacity | Point Estimate Method | Probabilistic Security Assessment | Total Transfer Capacity
+   - **Source Id:** 21100431809
+   - **Author Ids:** 55615847600;6603357712;56027556100;23026343700;6505804291;6504625684;35068505700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60104176;60104176;60104176
+   - **Corresponding:** Adinolfi F.
+52.
+   - **Title:** Electrical consumption forecasting in hospital facilities: An application case
+   - **Venue:** Energy and Buildings
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 111
+   - **DOI:** 10.1016/j.enbuild.2015.05.056
+   - **Scopus ID:** 2-s2.0-84937550487
+   - **ISSN:** 03787788
+   - **Volume:** 103
+   - **Pages:** 261-270
+   - **Authors:** Bagnasco A.; Fresi F.; Saviozzi M.; Silvestro F.; Vinci A.
+   - **Keywords:** Building management systems | Electrical consumption in an hospital facility | Energy management systems | Load forecasting | Neural networks
+   - **Quartile:**
+     2025:
+     - Civil and Structural Engineering (Q1, rank 21, percentile 95)
+     - Mechanical Engineering (Q1, rank 38, percentile 94)
+     - Electrical and Electronic Engineering (Q1, rank 58, percentile 94)
+     - Building and Construction (Q1, rank 15, percentile 94)
+     2015:
+     - Civil and Structural Engineering (Q1, rank 6, percentile 97)
+     - Building and Construction (Q1, rank 6, percentile 96)
+     - Mechanical Engineering (Q1, rank 22, percentile 95)
+     - Electrical and Electronic Engineering (Q1, rank 63, percentile 90)
+   - **Source Id:** 29359
+   - **Author Ids:** 6602504190;56730407300;56027556100;23026343700;57191195028
+   - **Authoraffiliationids:** 60025153;100463225;60025153;60025153;60025153
+   - **Corresponding:** Bagnasco A.
+53.
+   - **Title:** Smart management of demand in naval application: Prospects and technologies for distributed control of loads
+   - **Venue:** 2015 IEEE Electric Ship Technologies Symposium Ests 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ESTS.2015.7157885
+   - **Scopus ID:** 2-s2.0-84945950317
+   - **Pages:** 181-186
+   - **Authors:** D'Agostino F.; Saviozzi M.; Silvestro F.; Fidigatti A.; Ragaini E.
+   - **Keywords:** Distributed Control of Loads | Intelligent Load Management | PMS | Smart Management
+   - **Source Id:** 21100421727
+   - **Author Ids:** 56553864200;56027556100;23026343700;36699443500;6507406235
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60102057;60102057
+   - **Corresponding:** D'Agostino F.
+54.
+   - **Title:** Pseudo-measurements modeling using neural network and Fourier decomposition for distribution state estimation
+   - **Venue:** IEEE Pes Innovative Smart Grid Technologies Conference Europe
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 24
+   - **DOI:** 10.1109/ISGTEurope.2014.7028770
+   - **Scopus ID:** 2-s2.0-84936984617
+   - **Volume:** 2015-January
+   - **Issue:** January
+   - **Authors:** Adinolfi F.; D'Agostino F.; Morini A.; Saviozzi M.; Silvestro F.
+   - **Keywords:** Distribution Management System | Distribution State Estimation | Load Modeling | Pseudo-Measurements
+   - **Source Id:** 21100510299
+   - **Author Ids:** 55615847600;56553864200;7006658135;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Adinolfi F.
+55.
+   - **Title:** Distributed Energy Resources Management in a Low-Voltage Test Facility
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 32
+   - **DOI:** 10.1109/TIE.2014.2377133
+   - **Scopus ID:** 2-s2.0-84924860262
+   - **ISSN:** 02780046
+   - **Volume:** 62
+   - **Issue:** 4
+   - **Pages:** 2593-2603
+   - **Authors:** Adinolfi Francesco; Burt Graeme M.; Crolla Paul; D'Agostino Fabio; Saviozzi Matteo; Silvestro Federico
+   - **Keywords:** Demand Response | Distributed Energy Resources Integration | Energy Management | Load Management | Microgrid | Real Power Control | Smart Grid
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+     2015:
+     - Control and Systems Engineering (Q1, rank 1, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 5, percentile 99)
+     - Subject (Q1, rank 4, percentile 99)
+   - **Source Id:** 26053
+   - **Author Ids:** 55615847600;57804705300;6507982140;56553864200;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60024724;60024724;60025153;60025153;60025153
+   - **Corresponding:** Adinolfi F.
+56.
+   - **Title:** Artificial neural network application to load forecasting in a large hospital facility
+   - **Venue:** 2014 International Conference on Probabilistic Methods Applied to Power Systems Pmaps 2014 Conference Proceedings
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 17
+   - **DOI:** 10.1109/PMAPS.2014.6960579
+   - **Scopus ID:** 2-s2.0-84915758153
+   - **Authors:** Bagnasco A.; Saviozzi M.; Silvestro F.; Vinci A.; Grillo S.; Zennaro E.
+   - **Keywords:** artificial neural network | distributed generation | Load forecasting | smart grids
+   - **Source Id:** 21100349517
+   - **Author Ids:** 6602504190;56027556100;23026343700;57191195028;24437542800;56226101200
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60023256;60032350
+   - **Corresponding:** Bagnasco A.
+57.
+   - **Title:** An architecture for implementing state estimation application in Distribution Management System (DMS)
+   - **Venue:** 2013 4th IEEE Pes Innovative Smart Grid Technologies Europe Isgt Europe 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 17
+   - **DOI:** 10.1109/ISGTEurope.2013.6695289
+   - **Scopus ID:** 2-s2.0-84893634807
+   - **Authors:** Adinolfi F.; Baccino F.; D'Agostino F.; Massucco S.; Saviozzi M.; Silvestro F.
+   - **Keywords:** Active Networks | Distribution Management System | Distribution State Estimation
+   - **Source Id:** 21100286341
+   - **Author Ids:** 55615847600;55211592900;56553864200;6603357712;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Adinolfi F.

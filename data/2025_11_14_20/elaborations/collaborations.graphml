@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d15" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d14" for="edge" attr.name="weight_w5" attr.type="long" />
+  <key id="d13" for="edge" attr.name="weight_w10" attr.type="long" />
+  <key id="d12" for="edge" attr.name="weight_w15" attr.type="long" />
+  <key id="d11" for="edge" attr.name="weight_overall" attr.type="long" />
+  <key id="d10" for="node" attr.name="h_index_w5" attr.type="long" />
+  <key id="d9" for="node" attr.name="h_index_w10" attr.type="long" />
+  <key id="d8" for="node" attr.name="h_index_w15" attr.type="long" />
+  <key id="d7" for="node" attr.name="h_index_overall" attr.type="long" />
+  <key id="d6" for="node" attr.name="unige_id" attr.type="string" />
+  <key id="d5" for="node" attr.name="scopus_id" attr.type="string" />
+  <key id="d4" for="node" attr.name="unit" attr.type="string" />
+  <key id="d3" for="node" attr.name="surname" attr.type="string" />
+  <key id="d2" for="node" attr.name="name" attr.type="string" />
+  <key id="d1" for="node" attr.name="label" attr.type="string" />
+  <key id="d0" for="graph" attr.name="windows" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="55890888700">
+      <data key="d1">Francesco Bellotti</data>
+      <data key="d2">Francesco</data>
+      <data key="d3">Bellotti</data>
+      <data key="d4">ICT</data>
+      <data key="d5">55890888700</data>
+      <data key="d6">700208</data>
+      <data key="d7">30</data>
+      <data key="d8">26</data>
+      <data key="d9">16</data>
+      <data key="d10">11</data>
+    </node>
+    <node id="6701751695">
+      <data key="d1">Riccardo Berta</data>
+      <data key="d2">Riccardo</data>
+      <data key="d3">Berta</data>
+      <data key="d4">ICT</data>
+      <data key="d5">6701751695</data>
+      <data key="d6">700666</data>
+      <data key="d7">28</data>
+      <data key="d8">26</data>
+      <data key="d9">17</data>
+      <data key="d10">11</data>
+    </node>
+    <node id="35612596100">
+      <data key="d1">Paolo Gastaldo</data>
+      <data key="d2">Paolo</data>
+      <data key="d3">Gastaldo</data>
+      <data key="d4">ICT</data>
+      <data key="d5">35612596100</data>
+      <data key="d6">700386</data>
+      <data key="d7">23</data>
+      <data key="d8">19</data>
+      <data key="d9">14</data>
+      <data key="d10">11</data>
+    </node>
+    <edge source="55890888700" target="6701751695">
+      <data key="d11">180</data>
+      <data key="d12">156</data>
+      <data key="d13">124</data>
+      <data key="d14">80</data>
+      <data key="d15">180</data>
+    </edge>
+    <edge source="55890888700" target="35612596100">
+      <data key="d11">2</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">2</data>
+      <data key="d15">2</data>
+    </edge>
+    <edge source="6701751695" target="35612596100">
+      <data key="d11">3</data>
+      <data key="d12">3</data>
+      <data key="d13">3</data>
+      <data key="d14">3</data>
+      <data key="d15">3</data>
+    </edge>
+    <data key="d0">[{"key": "overall", "label": "Overall", "years": null}, {"key": "w15", "label": "Last 15 years", "years": 15}, {"key": "w10", "label": "Last 10 years", "years": 10}, {"key": "w5", "label": "Last 5 years", "years": 5}]</data>
+  </graph>
+</graphml>

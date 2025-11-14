@@ -1,0 +1,4839 @@
+{
+  "generated_at": "2025-11-14T15:18:13.517359",
+  "windows": [
+    {
+      "key": "overall",
+      "label": "Overall",
+      "years": null
+    },
+    {
+      "key": "w15",
+      "label": "Last 15 years",
+      "years": 15
+    },
+    {
+      "key": "w10",
+      "label": "Last 10 years",
+      "years": 10
+    },
+    {
+      "key": "w5",
+      "label": "Last 5 years",
+      "years": 5
+    }
+  ],
+  "nodes": [
+    {
+      "id": "7006903025",
+      "label": "Marco Ferrando",
+      "name": "Marco",
+      "surname": "Ferrando",
+      "unit": "NAV",
+      "scopus_id": "7006903025",
+      "unige_id": "045838",
+      "h_index": {
+        "overall": 6,
+        "w15": 6,
+        "w10": 6,
+        "w5": 3
+      }
+    },
+    {
+      "id": "6503976905",
+      "label": "Stefano Gaggero",
+      "name": "Stefano",
+      "surname": "Gaggero",
+      "unit": "NAV",
+      "scopus_id": "6503976905",
+      "unige_id": "701290",
+      "h_index": {
+        "overall": 24,
+        "w15": 24,
+        "w10": 21,
+        "w5": 14
+      }
+    },
+    {
+      "id": "15057843300",
+      "label": "Paola Gualeni",
+      "name": "Paola",
+      "surname": "Gualeni",
+      "unit": "NAV",
+      "scopus_id": "15057843300",
+      "unige_id": "054704",
+      "h_index": {
+        "overall": 11,
+        "w15": 11,
+        "w10": 11,
+        "w5": 8
+      }
+    },
+    {
+      "id": "57193804322",
+      "label": "Nicola Petacco",
+      "name": "Nicola",
+      "surname": "Petacco",
+      "unit": "NAV",
+      "scopus_id": "57193804322",
+      "unige_id": "322117",
+      "h_index": {
+        "overall": 6,
+        "w15": 6,
+        "w10": 6,
+        "w5": 6
+      }
+    },
+    {
+      "id": "57204360929",
+      "label": "Benedetto Piaggio",
+      "name": "Benedetto",
+      "surname": "Piaggio",
+      "unit": "NAV",
+      "scopus_id": "57204360929",
+      "unige_id": "369392",
+      "h_index": {
+        "overall": 10,
+        "w15": 10,
+        "w10": 10,
+        "w5": 8
+      }
+    },
+    {
+      "id": "55355605100",
+      "label": "Giorgio Tani",
+      "name": "Giorgio",
+      "surname": "Tani",
+      "unit": "NAV",
+      "scopus_id": "55355605100",
+      "unige_id": "282477",
+      "h_index": {
+        "overall": 18,
+        "w15": 18,
+        "w10": 17,
+        "w5": 9
+      }
+    },
+    {
+      "id": "37662376400",
+      "label": "Giuliano Vernengo",
+      "name": "Giuliano",
+      "surname": "Vernengo",
+      "unit": "NAV",
+      "scopus_id": "37662376400",
+      "unige_id": "264758",
+      "h_index": {
+        "overall": 18,
+        "w15": 18,
+        "w10": 15,
+        "w5": 8
+      }
+    },
+    {
+      "id": "56250522200",
+      "label": "Diego Villa",
+      "name": "Diego",
+      "surname": "Villa",
+      "unit": "NAV",
+      "scopus_id": "56250522200",
+      "unige_id": "700969",
+      "h_index": {
+        "overall": 21,
+        "w15": 21,
+        "w10": 21,
+        "w5": 14
+      }
+    },
+    {
+      "id": "58090077400",
+      "label": "Michele Viviani",
+      "name": "Michele",
+      "surname": "Viviani",
+      "unit": "NAV",
+      "scopus_id": "58090077400",
+      "unige_id": "056529",
+      "h_index": {
+        "overall": 28,
+        "w15": 27,
+        "w10": 22,
+        "w5": 13
+      }
+    },
+    {
+      "id": "55350308600",
+      "label": "Silvia Donnarumma",
+      "name": "Silvia",
+      "surname": "Donnarumma",
+      "unit": "NAV",
+      "scopus_id": "55350308600",
+      "unige_id": "291036",
+      "h_index": {
+        "overall": 10,
+        "w15": 10,
+        "w10": 10,
+        "w5": 6
+      }
+    },
+    {
+      "id": "6507282370",
+      "label": "Massimo Figari",
+      "name": "Massimo",
+      "surname": "Figari",
+      "unit": "NAV",
+      "scopus_id": "6507282370",
+      "unige_id": "054434",
+      "h_index": {
+        "overall": 22,
+        "w15": 21,
+        "w10": 16,
+        "w5": 9
+      }
+    },
+    {
+      "id": "57427556800",
+      "label": "Camilla Fruzzetti",
+      "name": "Camilla",
+      "surname": "Fruzzetti",
+      "unit": "NAV",
+      "scopus_id": "57427556800",
+      "unige_id": "411548",
+      "h_index": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 3,
+        "w5": 3
+      }
+    },
+    {
+      "id": "55212255700",
+      "label": "Tomaso Gaggero",
+      "name": "Tomaso",
+      "surname": "Gaggero",
+      "unit": "NAV",
+      "scopus_id": "55212255700",
+      "unige_id": "275949",
+      "h_index": {
+        "overall": 17,
+        "w15": 17,
+        "w10": 16,
+        "w5": 10
+      }
+    },
+    {
+      "id": "55200599100",
+      "label": "Marco Gaiotti",
+      "name": "Marco",
+      "surname": "Gaiotti",
+      "unit": "NAV",
+      "scopus_id": "55200599100",
+      "unige_id": "701644",
+      "h_index": {
+        "overall": 12,
+        "w15": 12,
+        "w10": 10,
+        "w5": 8
+      }
+    },
+    {
+      "id": "55521641400",
+      "label": "Michele Martelli",
+      "name": "Michele",
+      "surname": "Martelli",
+      "unit": "NAV",
+      "scopus_id": "55521641400",
+      "unige_id": "274760",
+      "h_index": {
+        "overall": 19,
+        "w15": 19,
+        "w10": 16,
+        "w5": 11
+      }
+    },
+    {
+      "id": "55611778200",
+      "label": "Tatiana Pais",
+      "name": "Tatiana",
+      "surname": "Pais",
+      "unit": "NAV",
+      "scopus_id": "55611778200",
+      "unige_id": "282472",
+      "h_index": {
+        "overall": 10,
+        "w15": 10,
+        "w10": 9,
+        "w5": 4
+      }
+    },
+    {
+      "id": "15072981100",
+      "label": "Cesare Mario Rizzo",
+      "name": "Cesare Mario",
+      "surname": "Rizzo",
+      "unit": "NAV",
+      "scopus_id": "15072981100",
+      "unige_id": "056378",
+      "h_index": {
+        "overall": 16,
+        "w15": 15,
+        "w10": 11,
+        "w5": 8
+      }
+    },
+    {
+      "id": "6602173744",
+      "label": "Enrico Rizzuto",
+      "name": "Enrico",
+      "surname": "Rizzuto",
+      "unit": "NAV",
+      "scopus_id": "6602173744",
+      "unige_id": "053390",
+      "h_index": {
+        "overall": 18,
+        "w15": 18,
+        "w10": 14,
+        "w5": 6
+      }
+    },
+    {
+      "id": "57191615489",
+      "label": "Gianmarco Vergassola",
+      "name": "Gianmarco",
+      "surname": "Vergassola",
+      "unit": "NAV",
+      "scopus_id": "57191615489",
+      "unige_id": "340404",
+      "h_index": {
+        "overall": 9,
+        "w15": 9,
+        "w10": 9,
+        "w5": 3
+      }
+    },
+    {
+      "id": "56717793100",
+      "label": "Raphael Zaccone",
+      "name": "Raphael",
+      "surname": "Zaccone",
+      "unit": "NAV",
+      "scopus_id": "56717793100",
+      "unige_id": "304841",
+      "h_index": {
+        "overall": 15,
+        "w15": 15,
+        "w10": 15,
+        "w5": 9
+      }
+    },
+    {
+      "id": "8580886100",
+      "label": "Massimo Brignone",
+      "name": "Massimo",
+      "surname": "Brignone",
+      "unit": "ELE",
+      "scopus_id": "8580886100",
+      "unige_id": "700707",
+      "h_index": {
+        "overall": 23,
+        "w15": 21,
+        "w10": 16,
+        "w5": 13
+      }
+    },
+    {
+      "id": "57216708944",
+      "label": "Giovanni Battista Gaggero",
+      "name": "Giovanni Battista",
+      "surname": "Gaggero",
+      "unit": "ELE",
+      "scopus_id": "57216708944",
+      "unige_id": "381014",
+      "h_index": {
+        "overall": 10,
+        "w15": 10,
+        "w10": 10,
+        "w5": 10
+      }
+    },
+    {
+      "id": "7003430835",
+      "label": "Paola Girdinio",
+      "name": "Paola",
+      "surname": "Girdinio",
+      "unit": "ELE",
+      "scopus_id": "7003430835",
+      "unige_id": "045816",
+      "h_index": {
+        "overall": 13,
+        "w15": 9,
+        "w10": 7,
+        "w5": 7
+      }
+    },
+    {
+      "id": "57115575100",
+      "label": "Daniele Mestriner",
+      "name": "Daniele",
+      "surname": "Mestriner",
+      "unit": "ELE",
+      "scopus_id": "57115575100",
+      "unige_id": "365657",
+      "h_index": {
+        "overall": 15,
+        "w15": 15,
+        "w10": 15,
+        "w5": 13
+      }
+    },
+    {
+      "id": "7003586072",
+      "label": "Mario Nervi",
+      "name": "Mario",
+      "surname": "Nervi",
+      "unit": "ELE",
+      "scopus_id": "7003586072",
+      "unige_id": "054471",
+      "h_index": {
+        "overall": 11,
+        "w15": 5,
+        "w10": 3,
+        "w5": 2
+      }
+    },
+    {
+      "id": "7403708681",
+      "label": "Mansueto Rossi",
+      "name": "Mansueto",
+      "surname": "Rossi",
+      "unit": "ELE",
+      "scopus_id": "7403708681",
+      "unige_id": "700373",
+      "h_index": {
+        "overall": 26,
+        "w15": 25,
+        "w10": 15,
+        "w5": 9
+      }
+    },
+    {
+      "id": "55515720400",
+      "label": "Laura Della Giovanna",
+      "name": "Laura",
+      "surname": "Della Giovanna",
+      "unit": "ELE",
+      "scopus_id": "55515720400",
+      "unige_id": "294042",
+      "h_index": {
+        "overall": 4,
+        "w15": 4,
+        "w10": 4,
+        "w5": 1
+      }
+    },
+    {
+      "id": "55370605300",
+      "label": "Andrea Formentini",
+      "name": "Andrea",
+      "surname": "Formentini",
+      "unit": "ELE",
+      "scopus_id": "55370605300",
+      "unige_id": "285599",
+      "h_index": {
+        "overall": 21,
+        "w15": 21,
+        "w10": 21,
+        "w5": 10
+      }
+    },
+    {
+      "id": "7006692709",
+      "label": "Francesco Guastavino",
+      "name": "Francesco",
+      "surname": "Guastavino",
+      "unit": "ELE",
+      "scopus_id": "7006692709",
+      "unige_id": "054472",
+      "h_index": {
+        "overall": 18,
+        "w15": 11,
+        "w10": 6,
+        "w5": 4
+      }
+    },
+    {
+      "id": "6701827441",
+      "label": "Mario Marchesoni",
+      "name": "Mario",
+      "surname": "Marchesoni",
+      "unit": "ELE",
+      "scopus_id": "6701827441",
+      "unige_id": "053899",
+      "h_index": {
+        "overall": 27,
+        "w15": 18,
+        "w10": 15,
+        "w5": 9
+      }
+    },
+    {
+      "id": "57195070159",
+      "label": "Massimiliano Passalacqua",
+      "name": "Massimiliano",
+      "surname": "Passalacqua",
+      "unit": "ELE",
+      "scopus_id": "57195070159",
+      "unige_id": "709427",
+      "h_index": {
+        "overall": 14,
+        "w15": 14,
+        "w10": 14,
+        "w5": 9
+      }
+    },
+    {
+      "id": "6601994662",
+      "label": "Paolo Pozzobon",
+      "name": "Paolo",
+      "surname": "Pozzobon",
+      "unit": "ELE",
+      "scopus_id": "6601994662",
+      "unige_id": "053901",
+      "h_index": {
+        "overall": 15,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "id": "7004161333",
+      "label": "Stefano Savio",
+      "name": "Stefano",
+      "surname": "Savio",
+      "unit": "ELE",
+      "scopus_id": "7004161333",
+      "unige_id": "053900",
+      "h_index": {
+        "overall": 11,
+        "w15": 7,
+        "w10": 6,
+        "w5": 2
+      }
+    },
+    {
+      "id": "21935399500",
+      "label": "Luis Ramon Vaccaro",
+      "name": "Luis Ramon",
+      "surname": "Vaccaro",
+      "unit": "ELE",
+      "scopus_id": "21935399500",
+      "unige_id": "701156",
+      "h_index": {
+        "overall": 14,
+        "w15": 14,
+        "w10": 12,
+        "w5": 9
+      }
+    },
+    {
+      "id": "36607521000",
+      "label": "Andrea Bonfiglio",
+      "name": "Andrea",
+      "surname": "Bonfiglio",
+      "unit": "ELE",
+      "scopus_id": "36607521000",
+      "unige_id": "282635",
+      "h_index": {
+        "overall": 26,
+        "w15": 26,
+        "w10": 20,
+        "w5": 12
+      }
+    },
+    {
+      "id": "15049159900",
+      "label": "Stefano Bracco",
+      "name": "Stefano",
+      "surname": "Bracco",
+      "unit": "ELE",
+      "scopus_id": "15049159900",
+      "unige_id": "701007",
+      "h_index": {
+        "overall": 26,
+        "w15": 26,
+        "w10": 21,
+        "w5": 14
+      }
+    },
+    {
+      "id": "56553864200",
+      "label": "Fabio D'Agostino",
+      "name": "Fabio",
+      "surname": "D'Agostino",
+      "unit": "ELE",
+      "scopus_id": "56553864200",
+      "unige_id": "703316",
+      "h_index": {
+        "overall": 15,
+        "w15": 15,
+        "w10": 14,
+        "w5": 10
+      }
+    },
+    {
+      "id": "6603766602",
+      "label": "Federico Delfino",
+      "name": "Federico",
+      "surname": "Delfino",
+      "unit": "ELE",
+      "scopus_id": "6603766602",
+      "unige_id": "055896",
+      "h_index": {
+        "overall": 34,
+        "w15": 32,
+        "w10": 25,
+        "w5": 15
+      }
+    },
+    {
+      "id": "6701527755",
+      "label": "Marco Invernizzi",
+      "name": "Marco",
+      "surname": "Invernizzi",
+      "unit": "ELE",
+      "scopus_id": "6701527755",
+      "unige_id": "053485",
+      "h_index": {
+        "overall": 18,
+        "w15": 14,
+        "w10": 12,
+        "w5": 5
+      }
+    },
+    {
+      "id": "57210474295",
+      "label": "Manuela Minetti",
+      "name": "Manuela",
+      "surname": "Minetti",
+      "unit": "ELE",
+      "scopus_id": "57210474295",
+      "unige_id": "409940",
+      "h_index": {
+        "overall": 11,
+        "w15": 11,
+        "w10": 11,
+        "w5": 10
+      }
+    },
+    {
+      "id": "7006658135",
+      "label": "Andrea Morini",
+      "name": "Andrea",
+      "surname": "Morini",
+      "unit": "ELE",
+      "scopus_id": "7006658135",
+      "unige_id": "055547",
+      "h_index": {
+        "overall": 13,
+        "w15": 5,
+        "w10": 4,
+        "w5": 0
+      }
+    },
+    {
+      "id": "57208723957",
+      "label": "Gabriele Mosaico",
+      "name": "Gabriele",
+      "surname": "Mosaico",
+      "unit": "ELE",
+      "scopus_id": "57208723957",
+      "unige_id": "380029",
+      "h_index": {
+        "overall": 6,
+        "w15": 6,
+        "w10": 6,
+        "w5": 4
+      }
+    },
+    {
+      "id": "57638571300",
+      "label": "Gianluca Natrella",
+      "name": "Gianluca",
+      "surname": "Natrella",
+      "unit": "ELE",
+      "scopus_id": "57638571300",
+      "unige_id": "497101",
+      "h_index": {
+        "overall": 5,
+        "w15": 5,
+        "w10": 5,
+        "w5": 5
+      }
+    },
+    {
+      "id": "7801615894",
+      "label": "Renato Procopio",
+      "name": "Renato",
+      "surname": "Procopio",
+      "unit": "ELE",
+      "scopus_id": "7801615894",
+      "unige_id": "700365",
+      "h_index": {
+        "overall": 33,
+        "w15": 31,
+        "w10": 24,
+        "w5": 15
+      }
+    },
+    {
+      "id": "56027556100",
+      "label": "Matteo Saviozzi",
+      "name": "Matteo",
+      "surname": "Saviozzi",
+      "unit": "ELE",
+      "scopus_id": "56027556100",
+      "unige_id": "304501",
+      "h_index": {
+        "overall": 13,
+        "w15": 13,
+        "w10": 11,
+        "w5": 5
+      }
+    },
+    {
+      "id": "23026343700",
+      "label": "Federico Silvestro",
+      "name": "Federico",
+      "surname": "Silvestro",
+      "unit": "ELE",
+      "scopus_id": "23026343700",
+      "unige_id": "056148",
+      "h_index": {
+        "overall": 25,
+        "w15": 25,
+        "w10": 22,
+        "w5": 12
+      }
+    },
+    {
+      "id": "57219050694",
+      "label": "Matteo Tortora",
+      "name": "Matteo",
+      "surname": "Tortora",
+      "unit": "ELE",
+      "scopus_id": "57219050694",
+      "unige_id": "727077",
+      "h_index": {
+        "overall": 6,
+        "w15": 6,
+        "w10": 6,
+        "w5": 6
+      }
+    },
+    {
+      "id": "23091663200",
+      "label": "Andrea Mariscotti",
+      "name": "Andrea",
+      "surname": "Mariscotti",
+      "unit": "ELE",
+      "scopus_id": "23091663200",
+      "unige_id": "055761",
+      "h_index": {
+        "overall": 29,
+        "w15": 24,
+        "w10": 20,
+        "w5": 17
+      }
+    },
+    {
+      "id": "57200266678",
+      "label": "Matteo Lodi",
+      "name": "Matteo",
+      "surname": "Lodi",
+      "unit": "ICT",
+      "scopus_id": "57200266678",
+      "unige_id": "356981",
+      "h_index": {
+        "overall": 13,
+        "w15": 13,
+        "w10": 13,
+        "w5": 8
+      }
+    },
+    {
+      "id": "57200399832",
+      "label": "Alberto Oliveri",
+      "name": "Alberto",
+      "surname": "Oliveri",
+      "unit": "ICT",
+      "scopus_id": "57200399832",
+      "unige_id": "282713",
+      "h_index": {
+        "overall": 16,
+        "w15": 16,
+        "w10": 13,
+        "w5": 6
+      }
+    },
+    {
+      "id": "7004134087",
+      "label": "Marco Storace",
+      "name": "Marco",
+      "surname": "Storace",
+      "unit": "ICT",
+      "scopus_id": "7004134087",
+      "unige_id": "055367",
+      "h_index": {
+        "overall": 24,
+        "w15": 21,
+        "w10": 15,
+        "w5": 8
+      }
+    },
+    {
+      "id": "57212143527",
+      "label": "Orazio Aiello",
+      "name": "Orazio",
+      "surname": "Aiello",
+      "unit": "ICT",
+      "scopus_id": "57212143527",
+      "unige_id": "717921",
+      "h_index": {
+        "overall": 20,
+        "w15": 20,
+        "w10": 19,
+        "w5": 10
+      }
+    },
+    {
+      "id": "55890888700",
+      "label": "Francesco Bellotti",
+      "name": "Francesco",
+      "surname": "Bellotti",
+      "unit": "ICT",
+      "scopus_id": "55890888700",
+      "unige_id": "700208",
+      "h_index": {
+        "overall": 30,
+        "w15": 26,
+        "w10": 16,
+        "w5": 11
+      }
+    },
+    {
+      "id": "6701751695",
+      "label": "Riccardo Berta",
+      "name": "Riccardo",
+      "surname": "Berta",
+      "unit": "ICT",
+      "scopus_id": "6701751695",
+      "unige_id": "700666",
+      "h_index": {
+        "overall": 28,
+        "w15": 26,
+        "w10": 17,
+        "w5": 11
+      }
+    },
+    {
+      "id": "35612596100",
+      "label": "Paolo Gastaldo",
+      "name": "Paolo",
+      "surname": "Gastaldo",
+      "unit": "ICT",
+      "scopus_id": "35612596100",
+      "unige_id": "700386",
+      "h_index": {
+        "overall": 23,
+        "w15": 19,
+        "w10": 14,
+        "w5": 11
+      }
+    },
+    {
+      "id": "56580140000",
+      "label": "Christian Gianoglio",
+      "name": "Christian",
+      "surname": "Gianoglio",
+      "unit": "ICT",
+      "scopus_id": "56580140000",
+      "unige_id": "350264",
+      "h_index": {
+        "overall": 12,
+        "w15": 12,
+        "w10": 12,
+        "w5": 11
+      }
+    },
+    {
+      "id": "57220892898",
+      "label": "Luca Lazzaroni",
+      "name": "Luca",
+      "surname": "Lazzaroni",
+      "unit": "ICT",
+      "scopus_id": "57220892898",
+      "unige_id": "404691",
+      "h_index": {
+        "overall": 9,
+        "w15": 9,
+        "w10": 9,
+        "w5": 9
+      }
+    },
+    {
+      "id": "56580248800",
+      "label": "Edoardo Ragusa",
+      "name": "Edoardo",
+      "surname": "Ragusa",
+      "unit": "ICT",
+      "scopus_id": "56580248800",
+      "unige_id": "352368",
+      "h_index": {
+        "overall": 12,
+        "w15": 12,
+        "w10": 12,
+        "w5": 10
+      }
+    },
+    {
+      "id": "19338029900",
+      "label": "Lucia Seminara",
+      "name": "Lucia",
+      "surname": "Seminara",
+      "unit": "ICT",
+      "scopus_id": "19338029900",
+      "unige_id": "701297",
+      "h_index": {
+        "overall": 17,
+        "w15": 16,
+        "w10": 12,
+        "w5": 6
+      }
+    },
+    {
+      "id": "57197744325",
+      "label": "Maurizio Valle",
+      "name": "Maurizio",
+      "surname": "Valle",
+      "unit": "ICT",
+      "scopus_id": "57197744325",
+      "unige_id": "054045",
+      "h_index": {
+        "overall": 31,
+        "w15": 25,
+        "w10": 20,
+        "w5": 12
+      }
+    },
+    {
+      "id": "7006338311",
+      "label": "Rodolfo Zunino",
+      "name": "Rodolfo",
+      "surname": "Zunino",
+      "unit": "ICT",
+      "scopus_id": "7006338311",
+      "unige_id": "054565",
+      "h_index": {
+        "overall": 26,
+        "w15": 19,
+        "w10": 12,
+        "w5": 8
+      }
+    },
+    {
+      "id": "55512997500",
+      "label": "Alessandro Fedeli",
+      "name": "Alessandro",
+      "surname": "Fedeli",
+      "unit": "ICT",
+      "scopus_id": "55512997500",
+      "unige_id": "327212",
+      "h_index": {
+        "overall": 22,
+        "w15": 22,
+        "w10": 22,
+        "w5": 16
+      }
+    },
+    {
+      "id": "6701772951",
+      "label": "Mirco Raffetto",
+      "name": "Mirco",
+      "surname": "Raffetto",
+      "unit": "ICT",
+      "scopus_id": "6701772951",
+      "unige_id": "056180",
+      "h_index": {
+        "overall": 18,
+        "w15": 11,
+        "w10": 8,
+        "w5": 4
+      }
+    },
+    {
+      "id": "7006280562",
+      "label": "Andrea Randazzo",
+      "name": "Andrea",
+      "surname": "Randazzo",
+      "unit": "ICT",
+      "scopus_id": "7006280562",
+      "unige_id": "700788",
+      "h_index": {
+        "overall": 30,
+        "w15": 24,
+        "w10": 21,
+        "w5": 13
+      }
+    },
+    {
+      "id": "8546192900",
+      "label": "Igor Bisio",
+      "name": "Igor",
+      "surname": "Bisio",
+      "unit": "ICT",
+      "scopus_id": "8546192900",
+      "unige_id": "700733",
+      "h_index": {
+        "overall": 33,
+        "w15": 31,
+        "w10": 25,
+        "w5": 11
+      }
+    },
+    {
+      "id": "7006403406",
+      "label": "Raffaele Bolla",
+      "name": "Raffaele",
+      "surname": "Bolla",
+      "unit": "ICT",
+      "scopus_id": "7006403406",
+      "unige_id": "054800",
+      "h_index": {
+        "overall": 21,
+        "w15": 16,
+        "w10": 9,
+        "w5": 8
+      }
+    },
+    {
+      "id": "8555973600",
+      "label": "Roberto Bruschi",
+      "name": "Roberto",
+      "surname": "Bruschi",
+      "unit": "ICT",
+      "scopus_id": "8555973600",
+      "unige_id": "700857",
+      "h_index": {
+        "overall": 21,
+        "w15": 18,
+        "w10": 12,
+        "w5": 7
+      }
+    },
+    {
+      "id": "36633941300",
+      "label": "Alessandro Carrega",
+      "name": "Alessandro",
+      "surname": "Carrega",
+      "unit": "ICT",
+      "scopus_id": "36633941300",
+      "unige_id": "264115",
+      "h_index": {
+        "overall": 12,
+        "w15": 12,
+        "w10": 8,
+        "w5": 7
+      }
+    },
+    {
+      "id": "7004291247",
+      "label": "Silvana Dellepiane",
+      "name": "Silvana",
+      "surname": "Dellepiane",
+      "unit": "ICT",
+      "scopus_id": "7004291247",
+      "unige_id": "053862",
+      "h_index": {
+        "overall": 17,
+        "w15": 11,
+        "w10": 8,
+        "w5": 6
+      }
+    },
+    {
+      "id": "57053502600",
+      "label": "Chiara Garibotto",
+      "name": "Chiara",
+      "surname": "Garibotto",
+      "unit": "ICT",
+      "scopus_id": "57053502600",
+      "unige_id": "279860",
+      "h_index": {
+        "overall": 14,
+        "w15": 14,
+        "w10": 14,
+        "w5": 9
+      }
+    },
+    {
+      "id": "57211429954",
+      "label": "Ali Krayani",
+      "name": "Ali",
+      "surname": "Krayani",
+      "unit": "ICT",
+      "scopus_id": "57211429954",
+      "unige_id": "460709",
+      "h_index": {
+        "overall": 10,
+        "w15": 10,
+        "w10": 10,
+        "w5": 9
+      }
+    },
+    {
+      "id": "7004136693",
+      "label": "Fabio Lavagetto",
+      "name": "Fabio",
+      "surname": "Lavagetto",
+      "unit": "ICT",
+      "scopus_id": "7004136693",
+      "unige_id": "054417",
+      "h_index": {
+        "overall": 26,
+        "w15": 24,
+        "w10": 20,
+        "w5": 10
+      }
+    },
+    {
+      "id": "50061523000",
+      "label": "Chiara Lombardo",
+      "name": "Chiara",
+      "surname": "Lombardo",
+      "unit": "ICT",
+      "scopus_id": "50061523000",
+      "unige_id": "282481",
+      "h_index": {
+        "overall": 10,
+        "w15": 10,
+        "w10": 9,
+        "w5": 7
+      }
+    },
+    {
+      "id": "6603377664",
+      "label": "Lucio Marcenaro",
+      "name": "Lucio",
+      "surname": "Marcenaro",
+      "unit": "ICT",
+      "scopus_id": "6603377664",
+      "unige_id": "056825",
+      "h_index": {
+        "overall": 24,
+        "w15": 21,
+        "w10": 19,
+        "w5": 14
+      }
+    },
+    {
+      "id": "7004398165",
+      "label": "Mario Marchese",
+      "name": "Mario",
+      "surname": "Marchese",
+      "unit": "ICT",
+      "scopus_id": "7004398165",
+      "unige_id": "056441",
+      "h_index": {
+        "overall": 34,
+        "w15": 29,
+        "w10": 24,
+        "w5": 14
+      }
+    },
+    {
+      "id": "7101795745",
+      "label": "Gabriele Moser",
+      "name": "Gabriele",
+      "surname": "Moser",
+      "unit": "ICT",
+      "scopus_id": "7101795745",
+      "unige_id": "700567",
+      "h_index": {
+        "overall": 38,
+        "w15": 30,
+        "w10": 24,
+        "w5": 10
+      }
+    },
+    {
+      "id": "57222463026",
+      "label": "Martina Pastorino",
+      "name": "Martina",
+      "surname": "Pastorino",
+      "unit": "ICT",
+      "scopus_id": "57222463026",
+      "unige_id": "425541",
+      "h_index": {
+        "overall": 5,
+        "w15": 5,
+        "w10": 5,
+        "w5": 5
+      }
+    },
+    {
+      "id": "56536292600",
+      "label": "Fabio Patrone",
+      "name": "Fabio",
+      "surname": "Patrone",
+      "unit": "ICT",
+      "scopus_id": "56536292600",
+      "unige_id": "703800",
+      "h_index": {
+        "overall": 17,
+        "w15": 17,
+        "w10": 17,
+        "w5": 11
+      }
+    },
+    {
+      "id": "35513672400",
+      "label": "Carlo Regazzoni",
+      "name": "Carlo",
+      "surname": "Regazzoni",
+      "unit": "ICT",
+      "scopus_id": "35513672400",
+      "unige_id": "054556",
+      "h_index": {
+        "overall": 35,
+        "w15": 23,
+        "w10": 19,
+        "w5": 14
+      }
+    },
+    {
+      "id": "36180166900",
+      "label": "Andrea Sciarrone",
+      "name": "Andrea",
+      "surname": "Sciarrone",
+      "unit": "ICT",
+      "scopus_id": "36180166900",
+      "unige_id": "701245",
+      "h_index": {
+        "overall": 26,
+        "w15": 26,
+        "w10": 21,
+        "w5": 9
+      }
+    },
+    {
+      "id": "7005306316",
+      "label": "Sebastiano Serpico",
+      "name": "Sebastiano",
+      "surname": "Serpico",
+      "unit": "ICT",
+      "scopus_id": "7005306316",
+      "unige_id": "053423",
+      "h_index": {
+        "overall": 41,
+        "w15": 20,
+        "w10": 14,
+        "w5": 8
+      }
+    },
+    {
+      "id": "7007035725",
+      "label": "Andrea Trucco",
+      "name": "Andrea",
+      "surname": "Trucco",
+      "unit": "ICT",
+      "scopus_id": "7007035725",
+      "unige_id": "055352",
+      "h_index": {
+        "overall": 27,
+        "w15": 18,
+        "w10": 13,
+        "w5": 5
+      }
+    },
+    {
+      "id": "6602811400",
+      "label": "Sandro Zappatore",
+      "name": "Sandro",
+      "surname": "Zappatore",
+      "unit": "ICT",
+      "scopus_id": "6602811400",
+      "unige_id": "053861",
+      "h_index": {
+        "overall": 9,
+        "w15": 7,
+        "w10": 7,
+        "w5": 3
+      }
+    },
+    {
+      "id": "12805791200",
+      "label": "Pamela Zontone",
+      "name": "Pamela",
+      "surname": "Zontone",
+      "unit": "ICT",
+      "scopus_id": "12805791200",
+      "unige_id": "721548",
+      "h_index": {
+        "overall": 13,
+        "w15": 13,
+        "w10": 11,
+        "w5": 9
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "56250522200",
+      "target": "7006903025",
+      "weight": {
+        "overall": 5,
+        "w15": 5,
+        "w10": 5,
+        "w5": 2
+      }
+    },
+    {
+      "source": "55355605100",
+      "target": "58090077400",
+      "weight": {
+        "overall": 48,
+        "w15": 48,
+        "w10": 42,
+        "w5": 18
+      }
+    },
+    {
+      "source": "55355605100",
+      "target": "7006903025",
+      "weight": {
+        "overall": 6,
+        "w15": 6,
+        "w10": 6,
+        "w5": 3
+      }
+    },
+    {
+      "source": "58090077400",
+      "target": "7006903025",
+      "weight": {
+        "overall": 10,
+        "w15": 9,
+        "w10": 7,
+        "w5": 4
+      }
+    },
+    {
+      "source": "55355605100",
+      "target": "56250522200",
+      "weight": {
+        "overall": 19,
+        "w15": 19,
+        "w10": 19,
+        "w5": 6
+      }
+    },
+    {
+      "source": "55355605100",
+      "target": "6503976905",
+      "weight": {
+        "overall": 24,
+        "w15": 24,
+        "w10": 21,
+        "w5": 9
+      }
+    },
+    {
+      "source": "56250522200",
+      "target": "58090077400",
+      "weight": {
+        "overall": 41,
+        "w15": 41,
+        "w10": 39,
+        "w5": 20
+      }
+    },
+    {
+      "source": "56250522200",
+      "target": "6503976905",
+      "weight": {
+        "overall": 58,
+        "w15": 57,
+        "w10": 51,
+        "w5": 21
+      }
+    },
+    {
+      "source": "58090077400",
+      "target": "6503976905",
+      "weight": {
+        "overall": 41,
+        "w15": 41,
+        "w10": 30,
+        "w5": 10
+      }
+    },
+    {
+      "source": "6503976905",
+      "target": "7006903025",
+      "weight": {
+        "overall": 4,
+        "w15": 4,
+        "w10": 4,
+        "w5": 2
+      }
+    },
+    {
+      "source": "37662376400",
+      "target": "57204360929",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "37662376400",
+      "target": "58090077400",
+      "weight": {
+        "overall": 6,
+        "w15": 6,
+        "w10": 5,
+        "w5": 3
+      }
+    },
+    {
+      "source": "37662376400",
+      "target": "7006903025",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "57204360929",
+      "target": "58090077400",
+      "weight": {
+        "overall": 19,
+        "w15": 19,
+        "w10": 19,
+        "w5": 15
+      }
+    },
+    {
+      "source": "57204360929",
+      "target": "7006903025",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "15057843300",
+      "target": "58090077400",
+      "weight": {
+        "overall": 6,
+        "w15": 5,
+        "w10": 2,
+        "w5": 1
+      }
+    },
+    {
+      "source": "15057843300",
+      "target": "7006903025",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "55212255700",
+      "target": "55355605100",
+      "weight": {
+        "overall": 11,
+        "w15": 11,
+        "w10": 11,
+        "w5": 4
+      }
+    },
+    {
+      "source": "55212255700",
+      "target": "56250522200",
+      "weight": {
+        "overall": 13,
+        "w15": 13,
+        "w10": 13,
+        "w5": 4
+      }
+    },
+    {
+      "source": "55212255700",
+      "target": "58090077400",
+      "weight": {
+        "overall": 8,
+        "w15": 8,
+        "w10": 8,
+        "w5": 2
+      }
+    },
+    {
+      "source": "55212255700",
+      "target": "6503976905",
+      "weight": {
+        "overall": 10,
+        "w15": 10,
+        "w10": 10,
+        "w5": 2
+      }
+    },
+    {
+      "source": "55212255700",
+      "target": "6602173744",
+      "weight": {
+        "overall": 40,
+        "w15": 40,
+        "w10": 26,
+        "w5": 9
+      }
+    },
+    {
+      "source": "55355605100",
+      "target": "6602173744",
+      "weight": {
+        "overall": 9,
+        "w15": 9,
+        "w10": 8,
+        "w5": 2
+      }
+    },
+    {
+      "source": "56250522200",
+      "target": "6602173744",
+      "weight": {
+        "overall": 7,
+        "w15": 7,
+        "w10": 6,
+        "w5": 2
+      }
+    },
+    {
+      "source": "58090077400",
+      "target": "6602173744",
+      "weight": {
+        "overall": 10,
+        "w15": 10,
+        "w10": 8,
+        "w5": 2
+      }
+    },
+    {
+      "source": "6503976905",
+      "target": "6602173744",
+      "weight": {
+        "overall": 7,
+        "w15": 7,
+        "w10": 6,
+        "w5": 2
+      }
+    },
+    {
+      "source": "56250522200",
+      "target": "57204360929",
+      "weight": {
+        "overall": 13,
+        "w15": 13,
+        "w10": 13,
+        "w5": 12
+      }
+    },
+    {
+      "source": "57204360929",
+      "target": "6503976905",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "15057843300",
+      "target": "37662376400",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 3,
+        "w5": 3
+      }
+    },
+    {
+      "source": "15057843300",
+      "target": "56250522200",
+      "weight": {
+        "overall": 4,
+        "w15": 4,
+        "w10": 3,
+        "w5": 3
+      }
+    },
+    {
+      "source": "15057843300",
+      "target": "6503976905",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "37662376400",
+      "target": "56250522200",
+      "weight": {
+        "overall": 25,
+        "w15": 25,
+        "w10": 25,
+        "w5": 16
+      }
+    },
+    {
+      "source": "37662376400",
+      "target": "6503976905",
+      "weight": {
+        "overall": 17,
+        "w15": 17,
+        "w10": 17,
+        "w5": 9
+      }
+    },
+    {
+      "source": "15057843300",
+      "target": "57204360929",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "37662376400",
+      "target": "55212255700",
+      "weight": {
+        "overall": 5,
+        "w15": 5,
+        "w10": 5,
+        "w5": 0
+      }
+    },
+    {
+      "source": "37662376400",
+      "target": "55355605100",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 0
+      }
+    },
+    {
+      "source": "37662376400",
+      "target": "55200599100",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 0
+      }
+    },
+    {
+      "source": "55200599100",
+      "target": "55212255700",
+      "weight": {
+        "overall": 11,
+        "w15": 11,
+        "w10": 11,
+        "w5": 8
+      }
+    },
+    {
+      "source": "55200599100",
+      "target": "56250522200",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "55200599100",
+      "target": "6503976905",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "15072981100",
+      "target": "58090077400",
+      "weight": {
+        "overall": 9,
+        "w15": 9,
+        "w10": 4,
+        "w5": 0
+      }
+    },
+    {
+      "source": "15072981100",
+      "target": "6503976905",
+      "weight": {
+        "overall": 7,
+        "w15": 7,
+        "w10": 4,
+        "w5": 0
+      }
+    },
+    {
+      "source": "55212255700",
+      "target": "7007035725",
+      "weight": {
+        "overall": 4,
+        "w15": 4,
+        "w10": 3,
+        "w5": 0
+      }
+    },
+    {
+      "source": "55355605100",
+      "target": "7007035725",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 0
+      }
+    },
+    {
+      "source": "56250522200",
+      "target": "7007035725",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "58090077400",
+      "target": "7007035725",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 0
+      }
+    },
+    {
+      "source": "6503976905",
+      "target": "7007035725",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "6602173744",
+      "target": "7007035725",
+      "weight": {
+        "overall": 4,
+        "w15": 4,
+        "w10": 3,
+        "w5": 0
+      }
+    },
+    {
+      "source": "56250522200",
+      "target": "6507282370",
+      "weight": {
+        "overall": 6,
+        "w15": 6,
+        "w10": 4,
+        "w5": 3
+      }
+    },
+    {
+      "source": "6503976905",
+      "target": "6507282370",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "15072981100",
+      "target": "55355605100",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "15057843300",
+      "target": "57193804322",
+      "weight": {
+        "overall": 15,
+        "w15": 15,
+        "w10": 15,
+        "w5": 13
+      }
+    },
+    {
+      "source": "15057843300",
+      "target": "56717793100",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "37662376400",
+      "target": "57193804322",
+      "weight": {
+        "overall": 4,
+        "w15": 4,
+        "w10": 4,
+        "w5": 4
+      }
+    },
+    {
+      "source": "56250522200",
+      "target": "57193804322",
+      "weight": {
+        "overall": 4,
+        "w15": 4,
+        "w10": 4,
+        "w5": 4
+      }
+    },
+    {
+      "source": "15057843300",
+      "target": "23026343700",
+      "weight": {
+        "overall": 10,
+        "w15": 10,
+        "w10": 10,
+        "w5": 1
+      }
+    },
+    {
+      "source": "15057843300",
+      "target": "56553864200",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 1
+      }
+    },
+    {
+      "source": "23026343700",
+      "target": "56553864200",
+      "weight": {
+        "overall": 67,
+        "w15": 67,
+        "w10": 66,
+        "w5": 42
+      }
+    },
+    {
+      "source": "15057843300",
+      "target": "55355605100",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "15057843300",
+      "target": "15072981100",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "55350308600",
+      "target": "55521641400",
+      "weight": {
+        "overall": 19,
+        "w15": 19,
+        "w10": 19,
+        "w5": 14
+      }
+    },
+    {
+      "source": "55350308600",
+      "target": "57204360929",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "55521641400",
+      "target": "57204360929",
+      "weight": {
+        "overall": 8,
+        "w15": 8,
+        "w10": 8,
+        "w5": 4
+      }
+    },
+    {
+      "source": "55521641400",
+      "target": "58090077400",
+      "weight": {
+        "overall": 10,
+        "w15": 10,
+        "w10": 8,
+        "w5": 3
+      }
+    },
+    {
+      "source": "55521641400",
+      "target": "6507282370",
+      "weight": {
+        "overall": 26,
+        "w15": 26,
+        "w10": 18,
+        "w5": 6
+      }
+    },
+    {
+      "source": "57204360929",
+      "target": "6507282370",
+      "weight": {
+        "overall": 8,
+        "w15": 8,
+        "w10": 8,
+        "w5": 4
+      }
+    },
+    {
+      "source": "58090077400",
+      "target": "6507282370",
+      "weight": {
+        "overall": 13,
+        "w15": 13,
+        "w10": 9,
+        "w5": 5
+      }
+    },
+    {
+      "source": "37662376400",
+      "target": "6602173744",
+      "weight": {
+        "overall": 5,
+        "w15": 5,
+        "w10": 3,
+        "w5": 0
+      }
+    },
+    {
+      "source": "37662376400",
+      "target": "55521641400",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 0
+      }
+    },
+    {
+      "source": "15072981100",
+      "target": "37662376400",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "15072981100",
+      "target": "55200599100",
+      "weight": {
+        "overall": 53,
+        "w15": 53,
+        "w10": 42,
+        "w5": 22
+      }
+    },
+    {
+      "source": "15072981100",
+      "target": "6602173744",
+      "weight": {
+        "overall": 4,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "55200599100",
+      "target": "6602173744",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "37662376400",
+      "target": "6507282370",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "55521641400",
+      "target": "56250522200",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "55350308600",
+      "target": "56250522200",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "55350308600",
+      "target": "58090077400",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 1
+      }
+    },
+    {
+      "source": "55350308600",
+      "target": "6507282370",
+      "weight": {
+        "overall": 5,
+        "w15": 5,
+        "w10": 5,
+        "w5": 2
+      }
+    },
+    {
+      "source": "15072981100",
+      "target": "56250522200",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 0
+      }
+    },
+    {
+      "source": "56250522200",
+      "target": "7004161333",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "6507282370",
+      "target": "7004161333",
+      "weight": {
+        "overall": 6,
+        "w15": 6,
+        "w10": 2,
+        "w5": 0
+      }
+    },
+    {
+      "source": "55350308600",
+      "target": "57427556800",
+      "weight": {
+        "overall": 5,
+        "w15": 5,
+        "w10": 5,
+        "w5": 5
+      }
+    },
+    {
+      "source": "55521641400",
+      "target": "57427556800",
+      "weight": {
+        "overall": 8,
+        "w15": 8,
+        "w10": 8,
+        "w5": 8
+      }
+    },
+    {
+      "source": "23026343700",
+      "target": "55350308600",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "23026343700",
+      "target": "55521641400",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 3,
+        "w5": 3
+      }
+    },
+    {
+      "source": "55350308600",
+      "target": "56553864200",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "55521641400",
+      "target": "56553864200",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 3,
+        "w5": 3
+      }
+    },
+    {
+      "source": "55350308600",
+      "target": "56717793100",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 3,
+        "w5": 2
+      }
+    },
+    {
+      "source": "55521641400",
+      "target": "56717793100",
+      "weight": {
+        "overall": 17,
+        "w15": 17,
+        "w10": 17,
+        "w5": 14
+      }
+    },
+    {
+      "source": "56717793100",
+      "target": "6507282370",
+      "weight": {
+        "overall": 13,
+        "w15": 13,
+        "w10": 13,
+        "w5": 6
+      }
+    },
+    {
+      "source": "15072981100",
+      "target": "6507282370",
+      "weight": {
+        "overall": 1,
+        "w15": 0,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "55212255700",
+      "target": "55611778200",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "55212255700",
+      "target": "57191615489",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "55611778200",
+      "target": "57191615489",
+      "weight": {
+        "overall": 21,
+        "w15": 21,
+        "w10": 21,
+        "w5": 9
+      }
+    },
+    {
+      "source": "15072981100",
+      "target": "55212255700",
+      "weight": {
+        "overall": 10,
+        "w15": 10,
+        "w10": 10,
+        "w5": 8
+      }
+    },
+    {
+      "source": "15072981100",
+      "target": "57191615489",
+      "weight": {
+        "overall": 4,
+        "w15": 4,
+        "w10": 4,
+        "w5": 4
+      }
+    },
+    {
+      "source": "55200599100",
+      "target": "57191615489",
+      "weight": {
+        "overall": 4,
+        "w15": 4,
+        "w10": 4,
+        "w5": 4
+      }
+    },
+    {
+      "source": "15072981100",
+      "target": "55611778200",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 3,
+        "w5": 3
+      }
+    },
+    {
+      "source": "55200599100",
+      "target": "55611778200",
+      "weight": {
+        "overall": 4,
+        "w15": 4,
+        "w10": 4,
+        "w5": 4
+      }
+    },
+    {
+      "source": "55611778200",
+      "target": "56717793100",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "56717793100",
+      "target": "57191615489",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "23026343700",
+      "target": "56717793100",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "56553864200",
+      "target": "56717793100",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "57115575100",
+      "target": "7801615894",
+      "weight": {
+        "overall": 54,
+        "w15": 54,
+        "w10": 54,
+        "w5": 40
+      }
+    },
+    {
+      "source": "57115575100",
+      "target": "8580886100",
+      "weight": {
+        "overall": 50,
+        "w15": 50,
+        "w10": 50,
+        "w5": 41
+      }
+    },
+    {
+      "source": "7801615894",
+      "target": "8580886100",
+      "weight": {
+        "overall": 85,
+        "w15": 85,
+        "w10": 74,
+        "w5": 46
+      }
+    },
+    {
+      "source": "36607521000",
+      "target": "7801615894",
+      "weight": {
+        "overall": 86,
+        "w15": 84,
+        "w10": 67,
+        "w5": 37
+      }
+    },
+    {
+      "source": "36607521000",
+      "target": "8580886100",
+      "weight": {
+        "overall": 19,
+        "w15": 19,
+        "w10": 13,
+        "w5": 4
+      }
+    },
+    {
+      "source": "36607521000",
+      "target": "6701527755",
+      "weight": {
+        "overall": 33,
+        "w15": 31,
+        "w10": 22,
+        "w5": 8
+      }
+    },
+    {
+      "source": "6701527755",
+      "target": "7801615894",
+      "weight": {
+        "overall": 42,
+        "w15": 34,
+        "w10": 21,
+        "w5": 8
+      }
+    },
+    {
+      "source": "6701527755",
+      "target": "8580886100",
+      "weight": {
+        "overall": 6,
+        "w15": 6,
+        "w10": 5,
+        "w5": 2
+      }
+    },
+    {
+      "source": "57115575100",
+      "target": "7006280562",
+      "weight": {
+        "overall": 11,
+        "w15": 11,
+        "w10": 11,
+        "w5": 11
+      }
+    },
+    {
+      "source": "7006280562",
+      "target": "7801615894",
+      "weight": {
+        "overall": 11,
+        "w15": 11,
+        "w10": 11,
+        "w5": 11
+      }
+    },
+    {
+      "source": "7006280562",
+      "target": "8580886100",
+      "weight": {
+        "overall": 23,
+        "w15": 17,
+        "w10": 16,
+        "w5": 11
+      }
+    },
+    {
+      "source": "57115575100",
+      "target": "7003586072",
+      "weight": {
+        "overall": 5,
+        "w15": 5,
+        "w10": 5,
+        "w5": 5
+      }
+    },
+    {
+      "source": "7003586072",
+      "target": "8580886100",
+      "weight": {
+        "overall": 6,
+        "w15": 6,
+        "w10": 6,
+        "w5": 5
+      }
+    },
+    {
+      "source": "15049159900",
+      "target": "6603766602",
+      "weight": {
+        "overall": 71,
+        "w15": 71,
+        "w10": 61,
+        "w5": 31
+      }
+    },
+    {
+      "source": "15049159900",
+      "target": "7801615894",
+      "weight": {
+        "overall": 16,
+        "w15": 16,
+        "w10": 11,
+        "w5": 6
+      }
+    },
+    {
+      "source": "15049159900",
+      "target": "8580886100",
+      "weight": {
+        "overall": 13,
+        "w15": 13,
+        "w10": 9,
+        "w5": 4
+      }
+    },
+    {
+      "source": "6603766602",
+      "target": "7801615894",
+      "weight": {
+        "overall": 114,
+        "w15": 81,
+        "w10": 45,
+        "w5": 18
+      }
+    },
+    {
+      "source": "6603766602",
+      "target": "8580886100",
+      "weight": {
+        "overall": 47,
+        "w15": 47,
+        "w10": 36,
+        "w5": 14
+      }
+    },
+    {
+      "source": "57115575100",
+      "target": "6603766602",
+      "weight": {
+        "overall": 16,
+        "w15": 16,
+        "w10": 16,
+        "w5": 11
+      }
+    },
+    {
+      "source": "36607521000",
+      "target": "6603766602",
+      "weight": {
+        "overall": 34,
+        "w15": 32,
+        "w10": 15,
+        "w5": 2
+      }
+    },
+    {
+      "source": "57115575100",
+      "target": "7403708681",
+      "weight": {
+        "overall": 5,
+        "w15": 5,
+        "w10": 5,
+        "w5": 3
+      }
+    },
+    {
+      "source": "6603766602",
+      "target": "7403708681",
+      "weight": {
+        "overall": 88,
+        "w15": 66,
+        "w10": 39,
+        "w5": 13
+      }
+    },
+    {
+      "source": "7403708681",
+      "target": "7801615894",
+      "weight": {
+        "overall": 54,
+        "w15": 35,
+        "w10": 14,
+        "w5": 4
+      }
+    },
+    {
+      "source": "7403708681",
+      "target": "8580886100",
+      "weight": {
+        "overall": 22,
+        "w15": 22,
+        "w10": 14,
+        "w5": 3
+      }
+    },
+    {
+      "source": "36607521000",
+      "target": "57115575100",
+      "weight": {
+        "overall": 10,
+        "w15": 10,
+        "w10": 10,
+        "w5": 4
+      }
+    },
+    {
+      "source": "36607521000",
+      "target": "7006658135",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "6701527755",
+      "target": "7006658135",
+      "weight": {
+        "overall": 6,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "7006658135",
+      "target": "7801615894",
+      "weight": {
+        "overall": 2,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "7006658135",
+      "target": "8580886100",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "15049159900",
+      "target": "7403708681",
+      "weight": {
+        "overall": 27,
+        "w15": 27,
+        "w10": 17,
+        "w5": 5
+      }
+    },
+    {
+      "source": "36607521000",
+      "target": "7403708681",
+      "weight": {
+        "overall": 11,
+        "w15": 11,
+        "w10": 5,
+        "w5": 4
+      }
+    },
+    {
+      "source": "15049159900",
+      "target": "7003430835",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "6603766602",
+      "target": "7003430835",
+      "weight": {
+        "overall": 15,
+        "w15": 5,
+        "w10": 3,
+        "w5": 0
+      }
+    },
+    {
+      "source": "7003430835",
+      "target": "7403708681",
+      "weight": {
+        "overall": 12,
+        "w15": 8,
+        "w10": 5,
+        "w5": 3
+      }
+    },
+    {
+      "source": "7003430835",
+      "target": "7801615894",
+      "weight": {
+        "overall": 8,
+        "w15": 5,
+        "w10": 3,
+        "w5": 0
+      }
+    },
+    {
+      "source": "7003430835",
+      "target": "8580886100",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 3,
+        "w5": 0
+      }
+    },
+    {
+      "source": "6701772951",
+      "target": "7006280562",
+      "weight": {
+        "overall": 19,
+        "w15": 15,
+        "w10": 10,
+        "w5": 0
+      }
+    },
+    {
+      "source": "6701772951",
+      "target": "8580886100",
+      "weight": {
+        "overall": 8,
+        "w15": 8,
+        "w10": 7,
+        "w5": 0
+      }
+    },
+    {
+      "source": "57115575100",
+      "target": "6701527755",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 3,
+        "w5": 0
+      }
+    },
+    {
+      "source": "55512997500",
+      "target": "6701772951",
+      "weight": {
+        "overall": 5,
+        "w15": 5,
+        "w10": 4,
+        "w5": 0
+      }
+    },
+    {
+      "source": "55512997500",
+      "target": "7006280562",
+      "weight": {
+        "overall": 131,
+        "w15": 131,
+        "w10": 126,
+        "w5": 75
+      }
+    },
+    {
+      "source": "55512997500",
+      "target": "8580886100",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "36607521000",
+      "target": "7003430835",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "15049159900",
+      "target": "36607521000",
+      "weight": {
+        "overall": 9,
+        "w15": 9,
+        "w10": 4,
+        "w5": 3
+      }
+    },
+    {
+      "source": "6603766602",
+      "target": "6701527755",
+      "weight": {
+        "overall": 26,
+        "w15": 19,
+        "w10": 5,
+        "w5": 1
+      }
+    },
+    {
+      "source": "56536292600",
+      "target": "57216708944",
+      "weight": {
+        "overall": 9,
+        "w15": 9,
+        "w10": 9,
+        "w5": 9
+      }
+    },
+    {
+      "source": "56536292600",
+      "target": "7004398165",
+      "weight": {
+        "overall": 57,
+        "w15": 57,
+        "w10": 56,
+        "w5": 39
+      }
+    },
+    {
+      "source": "57216708944",
+      "target": "7004398165",
+      "weight": {
+        "overall": 33,
+        "w15": 33,
+        "w10": 33,
+        "w5": 32
+      }
+    },
+    {
+      "source": "57216708944",
+      "target": "7003430835",
+      "weight": {
+        "overall": 17,
+        "w15": 17,
+        "w10": 17,
+        "w5": 16
+      }
+    },
+    {
+      "source": "7003430835",
+      "target": "7004398165",
+      "weight": {
+        "overall": 16,
+        "w15": 16,
+        "w10": 16,
+        "w5": 15
+      }
+    },
+    {
+      "source": "56536292600",
+      "target": "6602811400",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "57216708944",
+      "target": "6602811400",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "6602811400",
+      "target": "7004398165",
+      "weight": {
+        "overall": 15,
+        "w15": 9,
+        "w10": 7,
+        "w5": 1
+      }
+    },
+    {
+      "source": "23026343700",
+      "target": "57216708944",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "23026343700",
+      "target": "7003430835",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "23026343700",
+      "target": "7004398165",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "57216708944",
+      "target": "7403708681",
+      "weight": {
+        "overall": 4,
+        "w15": 4,
+        "w10": 4,
+        "w5": 3
+      }
+    },
+    {
+      "source": "7004398165",
+      "target": "7403708681",
+      "weight": {
+        "overall": 4,
+        "w15": 4,
+        "w10": 4,
+        "w5": 3
+      }
+    },
+    {
+      "source": "56536292600",
+      "target": "7003430835",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "7003430835",
+      "target": "7003586072",
+      "weight": {
+        "overall": 15,
+        "w15": 2,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "7003586072",
+      "target": "7403708681",
+      "weight": {
+        "overall": 5,
+        "w15": 2,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "6603766602",
+      "target": "7003586072",
+      "weight": {
+        "overall": 4,
+        "w15": 0,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "57115575100",
+      "target": "57210474295",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 1
+      }
+    },
+    {
+      "source": "15049159900",
+      "target": "57115575100",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "15049159900",
+      "target": "57210474295",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "36607521000",
+      "target": "57210474295",
+      "weight": {
+        "overall": 27,
+        "w15": 27,
+        "w10": 27,
+        "w5": 26
+      }
+    },
+    {
+      "source": "7003586072",
+      "target": "7801615894",
+      "weight": {
+        "overall": 1,
+        "w15": 0,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "23026343700",
+      "target": "36607521000",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "23026343700",
+      "target": "6701527755",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "23026343700",
+      "target": "7403708681",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "36607521000",
+      "target": "56553864200",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "56553864200",
+      "target": "6701527755",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "56553864200",
+      "target": "7403708681",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "6701527755",
+      "target": "7403708681",
+      "weight": {
+        "overall": 5,
+        "w15": 5,
+        "w10": 3,
+        "w5": 3
+      }
+    },
+    {
+      "source": "15049159900",
+      "target": "6701527755",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "55515720400",
+      "target": "7006692709",
+      "weight": {
+        "overall": 22,
+        "w15": 22,
+        "w10": 13,
+        "w5": 7
+      }
+    },
+    {
+      "source": "21935399500",
+      "target": "55370605300",
+      "weight": {
+        "overall": 12,
+        "w15": 12,
+        "w10": 11,
+        "w5": 11
+      }
+    },
+    {
+      "source": "21935399500",
+      "target": "57195070159",
+      "weight": {
+        "overall": 45,
+        "w15": 45,
+        "w10": 45,
+        "w5": 35
+      }
+    },
+    {
+      "source": "21935399500",
+      "target": "6701827441",
+      "weight": {
+        "overall": 72,
+        "w15": 65,
+        "w10": 53,
+        "w5": 38
+      }
+    },
+    {
+      "source": "55370605300",
+      "target": "57195070159",
+      "weight": {
+        "overall": 12,
+        "w15": 12,
+        "w10": 12,
+        "w5": 12
+      }
+    },
+    {
+      "source": "55370605300",
+      "target": "6701827441",
+      "weight": {
+        "overall": 22,
+        "w15": 22,
+        "w10": 19,
+        "w5": 14
+      }
+    },
+    {
+      "source": "57195070159",
+      "target": "6701827441",
+      "weight": {
+        "overall": 50,
+        "w15": 50,
+        "w10": 50,
+        "w5": 36
+      }
+    },
+    {
+      "source": "55370605300",
+      "target": "57200266678",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "55370605300",
+      "target": "57200399832",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 3,
+        "w5": 2
+      }
+    },
+    {
+      "source": "55370605300",
+      "target": "7004134087",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 3,
+        "w5": 2
+      }
+    },
+    {
+      "source": "57195070159",
+      "target": "57200266678",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "57195070159",
+      "target": "57200399832",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "57195070159",
+      "target": "7004134087",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "57200266678",
+      "target": "57200399832",
+      "weight": {
+        "overall": 39,
+        "w15": 39,
+        "w10": 38,
+        "w5": 21
+      }
+    },
+    {
+      "source": "57200266678",
+      "target": "7004134087",
+      "weight": {
+        "overall": 52,
+        "w15": 52,
+        "w10": 51,
+        "w5": 31
+      }
+    },
+    {
+      "source": "57200399832",
+      "target": "7004134087",
+      "weight": {
+        "overall": 57,
+        "w15": 56,
+        "w10": 43,
+        "w5": 17
+      }
+    },
+    {
+      "source": "57200399832",
+      "target": "6701827441",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "6701827441",
+      "target": "7004134087",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "35612596100",
+      "target": "56580140000",
+      "weight": {
+        "overall": 23,
+        "w15": 23,
+        "w10": 23,
+        "w5": 18
+      }
+    },
+    {
+      "source": "35612596100",
+      "target": "56580248800",
+      "weight": {
+        "overall": 61,
+        "w15": 61,
+        "w10": 61,
+        "w5": 52
+      }
+    },
+    {
+      "source": "35612596100",
+      "target": "7006692709",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 3,
+        "w5": 2
+      }
+    },
+    {
+      "source": "56580140000",
+      "target": "56580248800",
+      "weight": {
+        "overall": 27,
+        "w15": 27,
+        "w10": 27,
+        "w5": 19
+      }
+    },
+    {
+      "source": "56580140000",
+      "target": "7006692709",
+      "weight": {
+        "overall": 12,
+        "w15": 12,
+        "w10": 12,
+        "w5": 2
+      }
+    },
+    {
+      "source": "56580248800",
+      "target": "7006692709",
+      "weight": {
+        "overall": 4,
+        "w15": 4,
+        "w10": 4,
+        "w5": 2
+      }
+    },
+    {
+      "source": "35612596100",
+      "target": "7006338311",
+      "weight": {
+        "overall": 96,
+        "w15": 60,
+        "w10": 40,
+        "w5": 25
+      }
+    },
+    {
+      "source": "56580140000",
+      "target": "7006338311",
+      "weight": {
+        "overall": 17,
+        "w15": 17,
+        "w10": 17,
+        "w5": 12
+      }
+    },
+    {
+      "source": "56580248800",
+      "target": "7006338311",
+      "weight": {
+        "overall": 38,
+        "w15": 38,
+        "w10": 38,
+        "w5": 29
+      }
+    },
+    {
+      "source": "7006338311",
+      "target": "7006692709",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "21935399500",
+      "target": "6601994662",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "57195070159",
+      "target": "6601994662",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "6601994662",
+      "target": "6701827441",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "21935399500",
+      "target": "7004161333",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "57195070159",
+      "target": "7004161333",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "6701827441",
+      "target": "7004161333",
+      "weight": {
+        "overall": 6,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "21935399500",
+      "target": "23026343700",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "21935399500",
+      "target": "56553864200",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "23026343700",
+      "target": "57195070159",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "23026343700",
+      "target": "6701827441",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "56553864200",
+      "target": "57195070159",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "56553864200",
+      "target": "6701827441",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "21935399500",
+      "target": "36607521000",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "36607521000",
+      "target": "57195070159",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 0
+      }
+    },
+    {
+      "source": "36607521000",
+      "target": "6701827441",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 0
+      }
+    },
+    {
+      "source": "57195070159",
+      "target": "7801615894",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "6701827441",
+      "target": "7801615894",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "55890888700",
+      "target": "6701751695",
+      "weight": {
+        "overall": 180,
+        "w15": 156,
+        "w10": 124,
+        "w5": 80
+      }
+    },
+    {
+      "source": "55890888700",
+      "target": "6701827441",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "6701751695",
+      "target": "6701827441",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "23091663200",
+      "target": "6601994662",
+      "weight": {
+        "overall": 22,
+        "w15": 0,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "21935399500",
+      "target": "23091663200",
+      "weight": {
+        "overall": 2,
+        "w15": 0,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "57210474295",
+      "target": "7801615894",
+      "weight": {
+        "overall": 16,
+        "w15": 16,
+        "w10": 16,
+        "w5": 16
+      }
+    },
+    {
+      "source": "36607521000",
+      "target": "57200266678",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "36607521000",
+      "target": "57200399832",
+      "weight": {
+        "overall": 4,
+        "w15": 4,
+        "w10": 3,
+        "w5": 2
+      }
+    },
+    {
+      "source": "57200266678",
+      "target": "7801615894",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "57200399832",
+      "target": "7801615894",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 2,
+        "w5": 1
+      }
+    },
+    {
+      "source": "57210474295",
+      "target": "6701527755",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 1
+      }
+    },
+    {
+      "source": "15049159900",
+      "target": "23026343700",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "15049159900",
+      "target": "56027556100",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "15049159900",
+      "target": "56553864200",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "23026343700",
+      "target": "56027556100",
+      "weight": {
+        "overall": 42,
+        "w15": 42,
+        "w10": 40,
+        "w5": 17
+      }
+    },
+    {
+      "source": "23026343700",
+      "target": "6603766602",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "23026343700",
+      "target": "7801615894",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "36607521000",
+      "target": "56027556100",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "56027556100",
+      "target": "56553864200",
+      "weight": {
+        "overall": 20,
+        "w15": 20,
+        "w10": 19,
+        "w5": 10
+      }
+    },
+    {
+      "source": "56027556100",
+      "target": "6603766602",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "56027556100",
+      "target": "6701527755",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "56027556100",
+      "target": "7801615894",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "56553864200",
+      "target": "6603766602",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "56553864200",
+      "target": "7801615894",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "36607521000",
+      "target": "7004134087",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "57200399832",
+      "target": "6701527755",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "6701527755",
+      "target": "7004134087",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "7004134087",
+      "target": "7801615894",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "57200399832",
+      "target": "6603766602",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "6603766602",
+      "target": "7004134087",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "15049159900",
+      "target": "7006658135",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "6603766602",
+      "target": "7006658135",
+      "weight": {
+        "overall": 2,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "23026343700",
+      "target": "57208723957",
+      "weight": {
+        "overall": 11,
+        "w15": 11,
+        "w10": 11,
+        "w5": 9
+      }
+    },
+    {
+      "source": "56027556100",
+      "target": "57208723957",
+      "weight": {
+        "overall": 15,
+        "w15": 15,
+        "w10": 15,
+        "w5": 12
+      }
+    },
+    {
+      "source": "56553864200",
+      "target": "57208723957",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 3,
+        "w5": 3
+      }
+    },
+    {
+      "source": "56027556100",
+      "target": "57638571300",
+      "weight": {
+        "overall": 6,
+        "w15": 6,
+        "w10": 6,
+        "w5": 6
+      }
+    },
+    {
+      "source": "56553864200",
+      "target": "57638571300",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "23026343700",
+      "target": "57638571300",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 3,
+        "w5": 3
+      }
+    },
+    {
+      "source": "23026343700",
+      "target": "7006658135",
+      "weight": {
+        "overall": 18,
+        "w15": 5,
+        "w10": 2,
+        "w5": 0
+      }
+    },
+    {
+      "source": "56027556100",
+      "target": "7006658135",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "56553864200",
+      "target": "7006658135",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "57208723957",
+      "target": "57638571300",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "7101795745",
+      "target": "7801615894",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 3,
+        "w5": 3
+      }
+    },
+    {
+      "source": "56027556100",
+      "target": "57200266678",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "56027556100",
+      "target": "57200399832",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "55512997500",
+      "target": "57200266678",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "57200266678",
+      "target": "7006280562",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "56580140000",
+      "target": "57200399832",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "56580140000",
+      "target": "7004134087",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "56580248800",
+      "target": "57200399832",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "56580248800",
+      "target": "7004134087",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "35513672400",
+      "target": "7004134087",
+      "weight": {
+        "overall": 2,
+        "w15": 0,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "35612596100",
+      "target": "57212143527",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "55890888700",
+      "target": "57220892898",
+      "weight": {
+        "overall": 45,
+        "w15": 45,
+        "w10": 45,
+        "w5": 45
+      }
+    },
+    {
+      "source": "57220892898",
+      "target": "6701751695",
+      "weight": {
+        "overall": 45,
+        "w15": 45,
+        "w10": 45,
+        "w5": 45
+      }
+    },
+    {
+      "source": "35612596100",
+      "target": "55890888700",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "35612596100",
+      "target": "57197744325",
+      "weight": {
+        "overall": 12,
+        "w15": 12,
+        "w10": 9,
+        "w5": 5
+      }
+    },
+    {
+      "source": "35612596100",
+      "target": "6701751695",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 3,
+        "w5": 3
+      }
+    },
+    {
+      "source": "55890888700",
+      "target": "57197744325",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "57197744325",
+      "target": "6701751695",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "55890888700",
+      "target": "56580248800",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "56580248800",
+      "target": "6701751695",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "56580140000",
+      "target": "57197744325",
+      "weight": {
+        "overall": 24,
+        "w15": 24,
+        "w10": 24,
+        "w5": 24
+      }
+    },
+    {
+      "source": "56580248800",
+      "target": "57197744325",
+      "weight": {
+        "overall": 5,
+        "w15": 5,
+        "w10": 5,
+        "w5": 5
+      }
+    },
+    {
+      "source": "57197744325",
+      "target": "7006338311",
+      "weight": {
+        "overall": 6,
+        "w15": 6,
+        "w10": 3,
+        "w5": 2
+      }
+    },
+    {
+      "source": "35612596100",
+      "target": "6603377664",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "56580248800",
+      "target": "6603377664",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "19338029900",
+      "target": "35612596100",
+      "weight": {
+        "overall": 5,
+        "w15": 5,
+        "w10": 3,
+        "w5": 0
+      }
+    },
+    {
+      "source": "19338029900",
+      "target": "57197744325",
+      "weight": {
+        "overall": 35,
+        "w15": 34,
+        "w10": 22,
+        "w5": 7
+      }
+    },
+    {
+      "source": "19338029900",
+      "target": "7006338311",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "19338029900",
+      "target": "56580140000",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 3,
+        "w5": 3
+      }
+    },
+    {
+      "source": "56580140000",
+      "target": "7006280562",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "57197744325",
+      "target": "7101795745",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 1
+      }
+    },
+    {
+      "source": "35513672400",
+      "target": "7006338311",
+      "weight": {
+        "overall": 2,
+        "w15": 0,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "36180166900",
+      "target": "55512997500",
+      "weight": {
+        "overall": 17,
+        "w15": 17,
+        "w10": 17,
+        "w5": 9
+      }
+    },
+    {
+      "source": "36180166900",
+      "target": "7004136693",
+      "weight": {
+        "overall": 88,
+        "w15": 88,
+        "w10": 79,
+        "w5": 44
+      }
+    },
+    {
+      "source": "36180166900",
+      "target": "7006280562",
+      "weight": {
+        "overall": 18,
+        "w15": 18,
+        "w10": 17,
+        "w5": 9
+      }
+    },
+    {
+      "source": "36180166900",
+      "target": "8546192900",
+      "weight": {
+        "overall": 93,
+        "w15": 93,
+        "w10": 84,
+        "w5": 43
+      }
+    },
+    {
+      "source": "55512997500",
+      "target": "7004136693",
+      "weight": {
+        "overall": 20,
+        "w15": 20,
+        "w10": 20,
+        "w5": 10
+      }
+    },
+    {
+      "source": "55512997500",
+      "target": "8546192900",
+      "weight": {
+        "overall": 20,
+        "w15": 20,
+        "w10": 20,
+        "w5": 10
+      }
+    },
+    {
+      "source": "7004136693",
+      "target": "7006280562",
+      "weight": {
+        "overall": 22,
+        "w15": 22,
+        "w10": 20,
+        "w5": 10
+      }
+    },
+    {
+      "source": "7004136693",
+      "target": "8546192900",
+      "weight": {
+        "overall": 121,
+        "w15": 120,
+        "w10": 92,
+        "w5": 45
+      }
+    },
+    {
+      "source": "7006280562",
+      "target": "8546192900",
+      "weight": {
+        "overall": 22,
+        "w15": 22,
+        "w10": 20,
+        "w5": 10
+      }
+    },
+    {
+      "source": "55512997500",
+      "target": "57053502600",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "57053502600",
+      "target": "7004136693",
+      "weight": {
+        "overall": 51,
+        "w15": 51,
+        "w10": 51,
+        "w5": 37
+      }
+    },
+    {
+      "source": "57053502600",
+      "target": "7006280562",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "57053502600",
+      "target": "8546192900",
+      "weight": {
+        "overall": 50,
+        "w15": 50,
+        "w10": 50,
+        "w5": 36
+      }
+    },
+    {
+      "source": "6701772951",
+      "target": "7004136693",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "6701772951",
+      "target": "8546192900",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "35513672400",
+      "target": "6701772951",
+      "weight": {
+        "overall": 10,
+        "w15": 4,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "36180166900",
+      "target": "7004398165",
+      "weight": {
+        "overall": 13,
+        "w15": 13,
+        "w10": 4,
+        "w5": 0
+      }
+    },
+    {
+      "source": "7004136693",
+      "target": "7004398165",
+      "weight": {
+        "overall": 39,
+        "w15": 38,
+        "w10": 10,
+        "w5": 0
+      }
+    },
+    {
+      "source": "7004398165",
+      "target": "7006280562",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "7004398165",
+      "target": "8546192900",
+      "weight": {
+        "overall": 72,
+        "w15": 42,
+        "w10": 11,
+        "w5": 0
+      }
+    },
+    {
+      "source": "36180166900",
+      "target": "57053502600",
+      "weight": {
+        "overall": 50,
+        "w15": 50,
+        "w10": 50,
+        "w5": 36
+      }
+    },
+    {
+      "source": "36180166900",
+      "target": "6602811400",
+      "weight": {
+        "overall": 7,
+        "w15": 7,
+        "w10": 7,
+        "w5": 1
+      }
+    },
+    {
+      "source": "57053502600",
+      "target": "6602811400",
+      "weight": {
+        "overall": 4,
+        "w15": 4,
+        "w10": 4,
+        "w5": 1
+      }
+    },
+    {
+      "source": "6602811400",
+      "target": "7004136693",
+      "weight": {
+        "overall": 13,
+        "w15": 7,
+        "w10": 6,
+        "w5": 1
+      }
+    },
+    {
+      "source": "6602811400",
+      "target": "8546192900",
+      "weight": {
+        "overall": 10,
+        "w15": 10,
+        "w10": 9,
+        "w5": 1
+      }
+    },
+    {
+      "source": "50061523000",
+      "target": "7006403406",
+      "weight": {
+        "overall": 37,
+        "w15": 37,
+        "w10": 28,
+        "w5": 23
+      }
+    },
+    {
+      "source": "50061523000",
+      "target": "8555973600",
+      "weight": {
+        "overall": 50,
+        "w15": 50,
+        "w10": 41,
+        "w5": 29
+      }
+    },
+    {
+      "source": "7006403406",
+      "target": "8555973600",
+      "weight": {
+        "overall": 108,
+        "w15": 86,
+        "w10": 37,
+        "w5": 25
+      }
+    },
+    {
+      "source": "36633941300",
+      "target": "50061523000",
+      "weight": {
+        "overall": 4,
+        "w15": 4,
+        "w10": 4,
+        "w5": 4
+      }
+    },
+    {
+      "source": "36633941300",
+      "target": "7006403406",
+      "weight": {
+        "overall": 22,
+        "w15": 22,
+        "w10": 11,
+        "w5": 7
+      }
+    },
+    {
+      "source": "36633941300",
+      "target": "8555973600",
+      "weight": {
+        "overall": 19,
+        "w15": 19,
+        "w10": 8,
+        "w5": 5
+      }
+    },
+    {
+      "source": "7004398165",
+      "target": "7006403406",
+      "weight": {
+        "overall": 29,
+        "w15": 0,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "6602811400",
+      "target": "7006403406",
+      "weight": {
+        "overall": 6,
+        "w15": 0,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "56536292600",
+      "target": "8555973600",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "7004398165",
+      "target": "8555973600",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 0
+      }
+    },
+    {
+      "source": "7004291247",
+      "target": "7101795745",
+      "weight": {
+        "overall": 5,
+        "w15": 5,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "7004291247",
+      "target": "7005306316",
+      "weight": {
+        "overall": 32,
+        "w15": 4,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "7005306316",
+      "target": "7101795745",
+      "weight": {
+        "overall": 162,
+        "w15": 108,
+        "w10": 67,
+        "w5": 35
+      }
+    },
+    {
+      "source": "35513672400",
+      "target": "7004291247",
+      "weight": {
+        "overall": 3,
+        "w15": 0,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "35513672400",
+      "target": "7005306316",
+      "weight": {
+        "overall": 6,
+        "w15": 0,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "57053502600",
+      "target": "7004398165",
+      "weight": {
+        "overall": 3,
+        "w15": 3,
+        "w10": 3,
+        "w5": 0
+      }
+    },
+    {
+      "source": "35513672400",
+      "target": "57211429954",
+      "weight": {
+        "overall": 30,
+        "w15": 30,
+        "w10": 30,
+        "w5": 28
+      }
+    },
+    {
+      "source": "35513672400",
+      "target": "6603377664",
+      "weight": {
+        "overall": 188,
+        "w15": 162,
+        "w10": 127,
+        "w5": 60
+      }
+    },
+    {
+      "source": "57211429954",
+      "target": "6603377664",
+      "weight": {
+        "overall": 30,
+        "w15": 30,
+        "w10": 30,
+        "w5": 28
+      }
+    },
+    {
+      "source": "12805791200",
+      "target": "35513672400",
+      "weight": {
+        "overall": 8,
+        "w15": 8,
+        "w10": 8,
+        "w5": 8
+      }
+    },
+    {
+      "source": "12805791200",
+      "target": "57211429954",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "12805791200",
+      "target": "6603377664",
+      "weight": {
+        "overall": 8,
+        "w15": 8,
+        "w10": 8,
+        "w5": 8
+      }
+    },
+    {
+      "source": "35513672400",
+      "target": "7004398165",
+      "weight": {
+        "overall": 5,
+        "w15": 5,
+        "w10": 5,
+        "w5": 4
+      }
+    },
+    {
+      "source": "57211429954",
+      "target": "7004398165",
+      "weight": {
+        "overall": 2,
+        "w15": 2,
+        "w10": 2,
+        "w5": 2
+      }
+    },
+    {
+      "source": "6603377664",
+      "target": "7004398165",
+      "weight": {
+        "overall": 5,
+        "w15": 5,
+        "w10": 5,
+        "w5": 4
+      }
+    },
+    {
+      "source": "35513672400",
+      "target": "7004136693",
+      "weight": {
+        "overall": 1,
+        "w15": 0,
+        "w10": 0,
+        "w5": 0
+      }
+    },
+    {
+      "source": "35513672400",
+      "target": "56536292600",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "56536292600",
+      "target": "6603377664",
+      "weight": {
+        "overall": 1,
+        "w15": 1,
+        "w10": 1,
+        "w5": 1
+      }
+    },
+    {
+      "source": "57222463026",
+      "target": "7101795745",
+      "weight": {
+        "overall": 18,
+        "w15": 18,
+        "w10": 18,
+        "w5": 18
+      }
+    },
+    {
+      "source": "57222463026",
+      "target": "7005306316",
+      "weight": {
+        "overall": 15,
+        "w15": 15,
+        "w10": 15,
+        "w5": 15
+      }
+    },
+    {
+      "source": "7007035725",
+      "target": "7101795745",
+      "weight": {
+        "overall": 9,
+        "w15": 9,
+        "w10": 8,
+        "w5": 1
+      }
+    },
+    {
+      "source": "7005306316",
+      "target": "7007035725",
+      "weight": {
+        "overall": 4,
+        "w15": 2,
+        "w10": 2,
+        "w5": 0
+      }
+    },
+    {
+      "source": "35513672400",
+      "target": "7007035725",
+      "weight": {
+        "overall": 4,
+        "w15": 0,
+        "w10": 0,
+        "w5": 0
+      }
+    }
+  ]
+}

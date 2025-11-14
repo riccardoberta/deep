@@ -1,0 +1,1628 @@
+{
+  "surname": "Petacco",
+  "name": "Nicola",
+  "unit": "NAV",
+  "email": "nicola.petacco@unige.it",
+  "phone": "+39 019 219 45736",
+  "page": "https://rubrica.unige.it/personale/VkFFWltu",
+  "website": "",
+  "unige_id": "322117",
+  "scopus_id": "57193804322",
+  "role": "Ricercatore",
+  "grade": "Ricercatore t.d. art. 24 c. 3 lett. A Legge 240/10 (t.pieno)",
+  "ssd": "IIND-01/A (Architettura navale)",
+  "location": [
+    {
+      "building": "Campus La Spezia - laboratori Arsenale Militare Marittimi (ED_191230102)",
+      "floor": "piano Terra",
+      "room": "US_191230102.T.027"
+    }
+  ],
+  "career": [
+    {
+      "role": "DR",
+      "from": "2015-11-01 00:00:00.0000000",
+      "to": "2018-10-31 00:00:00.0000000"
+    },
+    {
+      "role": "AR",
+      "from": "2018-12-03 00:00:00.0000000",
+      "to": "2021-12-02 00:00:00.0000000"
+    },
+    {
+      "role": "CB",
+      "from": "2020-03-02 00:00:00.0000000",
+      "to": "2022-01-31 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2022-02-01 00:00:00.0000000",
+      "to": "2028-10-31 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {
+    "2025": [
+      {
+        "course": "STATICA DELLA NAVE 1 (60507)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "YACHT STABILITY (66400)",
+        "degree": "LM-34 - YACHT DESIGN"
+      },
+      {
+        "course": "YACHT STABILITY (66400)",
+        "degree": "LM-34 - YACHT DESIGN"
+      }
+    ],
+    "2024": [
+      {
+        "course": "STATICA DELLA NAVE 1 (60507)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "YACHT STABILITY (66400)",
+        "degree": "LM-34 - YACHT DESIGN"
+      }
+    ],
+    "2023": [
+      {
+        "course": "STATICA DELLA NAVE 1 (60507)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "YACHT STABILITY (66400)",
+        "degree": "LM-34 - YACHT DESIGN"
+      }
+    ],
+    "2022": [
+      {
+        "course": "STATICA DELLA NAVE 1 (60507)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "YACHT STABILITY (66400)",
+        "degree": "LM-34 - YACHT DESIGN"
+      }
+    ],
+    "2021": [
+      {
+        "course": "YACHT STABILITY (66400)",
+        "degree": "LM-34 - YACHT DESIGN"
+      }
+    ],
+    "2020": [
+      {
+        "course": "SHIP STABILITY (101123)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 6,
+      "total_products": 20,
+      "journals": 11,
+      "conferences": 9,
+      "citations": 121,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 6,
+      "total_products": 20,
+      "journals": 11,
+      "conferences": 9,
+      "citations": 121,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 6,
+      "total_products": 20,
+      "journals": 11,
+      "conferences": 9,
+      "citations": 121,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 6,
+      "total_products": 18,
+      "journals": 11,
+      "conferences": 7,
+      "citations": 116,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-105016209090",
+      "title": "A Stability in Waves Assessment of Self-Righting Vessels",
+      "doi": "10.3233/PMST250081",
+      "venue": "Progress in Marine Science and Technology",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "10",
+      "issue_id": null,
+      "pages": "674-683",
+      "issn": "25430955",
+      "eIssn": "25430963",
+      "source_id": "21101107127",
+      "authors": "Petacco Nicola; Ruggiero Valerio; Gualeni Paola",
+      "author_ids": "57193804322;56082162400;15057843300",
+      "authorAffiliationIds": "60025153;60011576;60025153",
+      "corresponding": "Petacco N.",
+      "keywords": "Second Generation Intact Stability criteria | Self-Righting Vessels | Stability in Waves | Surf-Riding",
+      "abstract": "Self-righting vessels, usually used for Search and Rescue (SAR) missions, are characterized by specific stability performance enabling the vessel to regain the upright condition, after possible capsizing due to heavy sea conditions. This requires a demanding design process aimed to provide the proper combination of centre of gravity position and geometry features; these last in turn are requested also to fulfil the significant high-speed performance, usually characterizing the SAR vessel operational profile. The resulting hull shape may be an interesting investigation case to be analysed in terms of stability in waves performance. The Second Generation Intact Stability criteria, recently finalized at IMO, provide a robust reference to derive physical modelling and criteria to carry out a stability assessment in this perspective. The paper considers two application cases relevant to real cases of self-righting vessels for maritime safety and protection, with dimensions positioning the vessels in the medium-high size range, with reference to the category, together with a speed of more than 18 knots. Stability failures are going to be investigated with a specific focus on Broaching and Loss of stability in waves; some specific parameters will be selected to put in evidence their influence on the vessel stability in wave behaviour.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 22,
+              "rank": 200,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 15,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 13,
+              "rank": 640,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105016190773",
+      "title": "A Discussion About the Ship Digital Platform as a Step Forward for Digital Transformation in the Maritime Domain",
+      "doi": "10.3233/PMST250093",
+      "venue": "Progress in Marine Science and Technology",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "10",
+      "issue_id": null,
+      "pages": "783-792",
+      "issn": "25430955",
+      "eIssn": "25430963",
+      "source_id": "21101107127",
+      "authors": "Petkovic Goran; Petacco Nicola; Zini Aldo; Gualeni Paola",
+      "author_ids": "59001732800;57193804322;55332827800;15057843300",
+      "authorAffiliationIds": "60025153;60025153;60083109;60025153",
+      "corresponding": "Petkovic G.",
+      "keywords": "Digital Ship Architecture | Digital Transformation | Digital Twin | Ship Digital Platform",
+      "abstract": "An amazing technological evolution has characterized the maritime domain in the latest decades, toward a strongly digitized ship, as well as systems and services (energy production and distribution, automation services, connectivity with external assets…). The increment onboard of sensors and actuators, the augmented internal and external ship networking capabilities, the advent of enabling technologies in support of a cloud-oriented approach and the huge pervasiveness of AI create the urgent need of designing an effective ship digital platform, to be considered as a whole with the vessel platform. In the paper, a discussion about the ship digital platform will be proposed, with a high-level perspective, identifying the main functionalities and characteristics. It will be illustrated how the digital platform onboard can support and empower the development and deployment of a ship digital twin, from a life cycle perspective at the functional level.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 22,
+              "rank": 200,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 15,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 13,
+              "rank": 640,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105016136634",
+      "title": "Far-Field Wake Modeling for Automatic Ship Detection from Satellite Imagery",
+      "doi": "10.3233/PMST250096",
+      "venue": "Progress in Marine Science and Technology",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "10",
+      "issue_id": null,
+      "pages": "810-817",
+      "issn": "25430955",
+      "eIssn": "25430963",
+      "source_id": "21101107127",
+      "authors": "Petacco Nicola; Villa Diego; Franciosa Federico; Mazzeo Andrea; Cristofano Angela Carmen; Rossini Fabio; Graziano Maria Daniela; Scarpa Marco; Braga Federica; Vavasori Paolo; Bonaldo Davide; Vernengo Giuliano",
+      "author_ids": "57193804322;56250522200;59477918000;59140311700;59478136200;60102747200;36815910800;60102591100;36678807100;59477805600;35104377300;37662376400",
+      "authorAffiliationIds": "60025153;60025153;60157272;60017293;60017293;60017293;60017293;60021199;60021199;60021199;60021199;60025153",
+      "corresponding": "Petacco N.",
+      "keywords": "Computational Fluid Dynamics (CFD) | Ship far-field wake | Synthetic Radar Aperture (SAR) | Waves",
+      "abstract": "The problem of the so-called dark vessels is a major security issue related to the marine traffic and environment. In this respect, the automatic ship detection from satellite imagery is one of the possible countermeasures in the fight against illegal activities. Technically, such a way of detecting dark vessels mainly relies on the identification of the far field wake released by a hull which might be visible over a significant distance from the hull itself and which might last in the water surface for a reasonable amount of time to be seen by a satellite. However, the shape and the persistence of such a wake field, which includes both the steady wave pattern and the turbulent wake behind the hull, is strongly affected by other phenomena mainly related to the weather conditions, then including the presence of surface wind waves or other patterns on the sea surface. Moreover, there might be unfavorable conditions for the satellite to produce accurate images to be used in this recognition process. This complex situation is faced in a project funded by the Italian Ministry of University and Research called UEIKAP (Unveil and Explore the In-depth Knowledge of earth observation data for maritime Applications) in which an Artificial Intelligence (AI) system for the automatic identification of dark vessels from optical and SAR (Synthetic Aperture Radar) images is under development. The training of the AI framework is based on both publicly available image datasets and ad-hoc synthetic data. The latter are generated by using Computational Fluid Dynamics simulations on a set of hulls in different operating conditions. The proposed analysis focused on the numerical issues related to the prediction of the far-field wake of a hull in the light of the final purpose of the UEIKAP project. A comparison of two different CFD approaches is shown and discussed in terms of pro and cons of both methods and the obtained results.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 22,
+              "rank": 200,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 15,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 13,
+              "rank": 640,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105015462421",
+      "title": "A Deep Learning-based Multi-Modal Approach for Wake Detection",
+      "doi": "10.1109/MetroAeroSpace64938.2025.11114590",
+      "venue": "2025 IEEE International Workshop on Metrology for Aerospace Metroaerospace 2025 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": "728-733",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101329124",
+      "authors": "Cristofano Angela Carmen; Mazzeo Andrea; Graziano Maria Daniela; Renga Alfredo; Vernengo Giuliano; Bonaldo Davide; Villa Diego; Petacco Nicola; Scarpa Gian Marco; Braga Federica; Vavasori Paolo; Menegon Stefano; Fadini Amedeo",
+      "author_ids": "59478136200;59140311700;36815910800;25632802300;37662376400;35104377300;56250522200;57193804322;56469066700;36678807100;59477805600;12786659400;57200122065",
+      "authorAffiliationIds": "60017293;60017293;60017293;60017293;60025153;60021199;60025153;60025153;60021199;60021199;60021199;60021199;60021199",
+      "corresponding": "Cristofano A.C.",
+      "keywords": "Deep Learning | Multi-Modal | Object Detection | Remote Sensing | SAR | Ship Wakes",
+      "abstract": "The detection of 'dark' ships, vessels operating without Automatic Identification System (AIS) transponders, is a crucial challenge for maritime security and international law enforcement. Traditional methods based on optical and Synthetic Aperture Radar (SAR) imagery face limitations, particularly in detecting small, fast-moving vessels under complex environmental conditions. The UEIKAP project, funded by the Italian Ministry of University and Research under the Research Projects of National Interest (PRIN), explores a novel approach to ship detection by analyzing their wakes, which provide key information about vessel activity.This paper presents a multi-modal Deep Learning (DL)-based wake detection framework that integrates optical and SAR satellite imagery, AIS data, meteo-marine measurements, and synthetic wake models. The system integrates Convolutional Neural Networks (CNNs) and contextual environmental data to enhance classification accuracy. The first experimental campaign, conducted in the Venice lagoon in July 2024, provided initial validation of the method, confirming the dependency of wake visibility on local meteo-marine conditions. Future campaigns in the Gulfs of Genoa and Naples will further refine the methodology.By combining advanced DL techniques with multidisciplinary data fusion, the UEIKAP project aims to improve maritime domain awareness, offering a robust tool for vessel monitoring and regulatory enforcement. This paper describes the operational planning of the validation campaigns set to take place during Spring-Summer 2025. It also provides a general overview of the project's framework, giving details regarding the processing pipeline, the involved algorithms, the training setup, the data, and some preliminary results.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105015040706",
+      "title": "Advancing Maritime Surveillance with UEIKAP: An Integrated AI-Based Framework for Wake Detection in Earth Observation Imagery",
+      "doi": "10.1109/OCEANS58557.2025.11104403",
+      "venue": "Oceans Conference Record IEEE",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "01977385",
+      "eIssn": null,
+      "source_id": "13654",
+      "authors": "Mazzeo Andrea; Cristofano Angela Carmen; Graziano Maria Daniela; Renga Alfredo; Vernengo Giuliano; Bonaldo Davide; Villa Diego; Petacco Nicola; Scarpa Gian Marco; Braga Federica; Vavasori Paolo; Menegon Stefano; Fadini Amedeo",
+      "author_ids": "59140311700;59478136200;36815910800;25632802300;37662376400;35104377300;56250522200;57193804322;56469066700;36678807100;59477805600;12786659400;57200122065",
+      "authorAffiliationIds": "60017293;60025153;60017293;60017293;60025153;60021199;60025153;60025153;60021199;60021199;60021199;60021199;60021199",
+      "corresponding": "Mazzeo A.",
+      "keywords": "Data Fusion | Maritime Surveillance | Object Detection | Ship Wakes | Synthetic Aperture Radar",
+      "abstract": "Detecting 'dark' ships, vessels operating without active Automatic Identification System (AIS) transponders or spoofing their signal to evade surveillance, is a critical challenge for maritime surveillance. The UEIKAP project (Unveil and Explore the In-depth Knowledge of Earth Observation data for maritime Applications) provides a new ship detection framework that aims to enhance maritime monitoring by focusing on the detection of wakes, instead of the ship itself. Unlike hull detection, which suffers from issues related to image resolution and is only useful to obtain the instantaneous position of vessels, wake detection provides information about vessel movement, offering insights about its velocity and heading. This project leverages a deep learning-based framework that integrates multiple data sources, including Earth Observation (EO) imagery, meteo-marine measurements, and AIS data. The fusion of such data is used to improve maritime monitoring and ship wake detection. The proposed system architecture comprises multiple modules dedicated to wake detection, including a detection model based on the YOLO family of object detection models and a classification model designed to differentiate between different sea surface phenomena with visible signatures in Synthetic Aperture Radar (SAR) imagery. The functionality of each module is demonstrated through representative examples. Initial results from the UEIKAP system demonstrate its effectiveness in detecting ship wakes under diverse environmental conditions. Performance metrics are analyzed, and the advantages of incorporating meteo-marine data are highlighted. The data fusion approach is shown to enhance maritime domain awareness by improving extraction of the navigational status of vessels and the characterization of the complex sea surface background.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 28,
+              "rank": 84,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Oceanography",
+              "percentile": 23,
+              "rank": 117,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85205931482",
+      "title": "An insight about roll damping within the second generation intact stability criteria",
+      "doi": "10.1007/s40722-024-00347-9",
+      "venue": "Journal of Ocean Engineering and Marine Energy",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "10",
+      "issue_id": "4",
+      "pages": "1011-1021",
+      "issn": "21986444",
+      "eIssn": "21986452",
+      "source_id": "21100812570",
+      "authors": "Petacco Nicola; Pollicardo Andrea; Gualeni Paola",
+      "author_ids": "57193804322;59360453900;15057843300",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Petacco N.",
+      "keywords": "Dead ship condition | Empirical prediction model | Parametric roll | Roll damping | Ro–Ro ships | second generation intact stability criteria",
+      "abstract": "Despite the recognized complexity to estimate the damping influence on ship roll motion, some efficient semi-empirical methodologies have been developed along the years to this purpose. CFD methods, in principle the most appropriate tools to predict roll damping, are not a favorite option in preliminary design at present due to their implications in terms of complexity and computational time. In this paper, an integration of the semi-empirical Ikeda’s simplified method has been formulated with modification of the bilge keels and lift components, following a contribution found in the literature and relevant for Ro–Ro ships. Moreover, with focus on damping evaluation, the second generation intact stability criteria (SGISc) have been investigated: the second-level vulnerability criteria for dead ship condition and parametric roll have been applied to a Ro–Ro passenger ship. Both the consolidated and the new proposed roll damping prediction methods have been implemented in order to appreciate their effects on the final outcome.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 73,
+              "rank": 31,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 70,
+              "rank": 82,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 67,
+              "rank": 108,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 52,
+              "rank": 148,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 71,
+              "rank": 33,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 63,
+              "rank": 103,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 62,
+              "rank": 112,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 48,
+              "rank": 154,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85191342000",
+      "title": "An insight on the post-processing procedure of the Direct Stability Assessment within SGISC",
+      "doi": "10.1016/j.oceaneng.2024.117982",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Review",
+      "year": 2024,
+      "volume": "305",
+      "issue_id": null,
+      "pages": null,
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Petacco Nicola; Petkovic Goran; Gualeni Paola",
+      "author_ids": "57193804322;59001732800;15057843300",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Petacco N.",
+      "keywords": "C11 containership | Direct counting procedure | Parametric rolling | Probabilistic analysis | Second generation intact stability criteria | Time domain simulation",
+      "abstract": "In the recent years, the intact stability rule framework witnessed progressive but certain shift towards probabilistic analysis, as already happened in with the damaged stability framework thanks to SOLAS. This paradigm shift is emphasized by introduction of Second Generation Intact Stability criteria (SGISC). This paper implements and renders operational techniques, procedures and indications presented in Direct Stability Assessment (DSA) within SGISC, with a particular focus on pre-process of input data for the assessment, post-process of output data using direct counting method and results presentation. The parametric resonance in following and heading irregular sea stability failure mode has been studied using analysis of probability of failure direct counting procedure for the C11 containership. Besides, a sensitivity analysis on relevant design parameters has been undertaken. The post-processing outcomes have been presented and comments about the expected future role of the DSA are given.",
+      "citations": 4,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 89,
+              "rank": 12,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 79,
+              "rank": 45,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85194223130",
+      "title": "VISIR-2: Ship weather routing in Python",
+      "doi": "10.5194/gmd-17-4355-2024",
+      "venue": "Geoscientific Model Development",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "17",
+      "issue_id": "10",
+      "pages": "4355-4382",
+      "issn": "1991959X",
+      "eIssn": "19919603",
+      "source_id": "21100197121",
+      "authors": "Mannarini Gianandrea; Salinas Mario Leonardo; Carelli Lorenzo; Petacco Nicola; Orović Josip",
+      "author_ids": "6507693465;57216894872;57209587460;57193804322;8158576300",
+      "authorAffiliationIds": "60082966;60082966;60082966;60025153;60017028",
+      "corresponding": "Mannarini G.",
+      "keywords": null,
+      "abstract": "Ship weather routing, which involves suggesting low-emission routes, holds potential for contributing to the decarbonisation of maritime transport. However, including because of a lack of readily deployable open-source and open-language computational models, its quantitative impact has been explored only to a limited extent. As a response, the graph-search VISIR (discoVerIng Safe and effIcient Routes) model has been refactored in Python, incorporating novel features. For motor vessels, the angle of attack of waves has been considered, while for sailboats the combined effects of wind and sea currents are now accounted for. The velocity composition with currents has been refined, now encompassing leeway as well. Provided that the performance curve is available, no restrictions are imposed on the vessel type. A cartographic projection has been introduced. The graph edges are quickly screened for coast intersection via a K-dimensional tree. A least-CO2 algorithm in the presence of dynamic graph edge weights has been implemented and validated, proving a quasi-linear computational performance. The software suite's modularity has been significantly improved, alongside a thorough validation against various benchmarks. For the visualisation of the dynamic environmental fields along the route, isochrone-bounded sectors have been introduced. The resulting VISIR-2 model has been employed in numerical experiments within the Mediterranean Sea for the entirety of 2022, utilising meteo-oceanographic analysis fields. For a 125gm long ferry, the percentage saving of overall CO2 expenditure follows a bi-exponential distribution. Routes with a carbon dioxide saving of at least 2g% with respect to the least-distance route were found for prevailing beam or head seas. Two-digit savings, up to 49g%, were possible for about 10gd in a year. In the case of an 11gm sailboat, time savings increased with the extent of path elongation, particularly during upwind sailing. The sailboat's routes were made approximately 2.4g% faster due to optimisation, with the potential for an additional 0.8g% in savings by factoring in currents. VISIR-2 serves as an integrative model, uniting expertise from meteorology, oceanography, ocean engineering, and computer science, to evaluate the influence of ship routing on decarbonisation efforts within the shipping industry.",
+      "citations": 13,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Modeling and Simulation",
+              "percentile": 94,
+              "rank": 22,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Earth and Planetary Sciences (all)",
+              "percentile": 93,
+              "rank": 13,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Earth and Planetary Sciences (all)",
+              "percentile": 91,
+              "rank": 18,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Modeling and Simulation",
+              "percentile": 90,
+              "rank": 35,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85178319572",
+      "title": "An Investigation about Stability in Waves of Large Pleasure Yachts",
+      "doi": "10.3390/jmse11112039",
+      "venue": "Journal of Marine Science and Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "11",
+      "issue_id": "11",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20771312",
+      "source_id": "21100830140",
+      "authors": "Petacco Nicola; Ruggiero Valerio; Gualeni Paola",
+      "author_ids": "57193804322;56082162400;15057843300",
+      "authorAffiliationIds": "60025153;60011576;60025153",
+      "corresponding": "Petacco N.",
+      "keywords": "design for safety | megayacht | operational limitation | pleasure yacht | second generation intact stability criteria | stability in waves",
+      "abstract": "The IMO’s second-generation intact stability criteria (SGISc) have been applied to a set of seven megayacht units ranging from 40 m to 80 m. The application aims to evaluate their stability performance in a seaway. The assessment is based on two vulnerability levels, and the related criteria rely on the physics of the phenomena under investigation (dead ship condition, excessive acceleration, parametric rolling, pure loss of stability, and surf-riding). At the same time, SGISc provide methodological approaches to consider possible operational limitations related to the geographical area the vessel is meant to sail. Results of the comprehensive analysis carried out for the selected megayacht units are presented in term of limiting KG curves. Outcomes pointed out that inconsistencies among vulnerability levels still exist. Further comments about the relation of the investigated vessel typology and relevant operational profile have been reported. In addition, systematic analysis of the effect of the main design parameter on ship rules compliance has been carried out.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 75,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 73,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 72,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 66,
+              "rank": 126,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 66,
+              "rank": 36,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 61,
+              "rank": 100,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85166972513",
+      "title": "The influence of ship stability in waves on naval vessel operational profiles",
+      "doi": "10.1007/s40722-023-00291-0",
+      "venue": "Journal of Ocean Engineering and Marine Energy",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "9",
+      "issue_id": "4",
+      "pages": "681-695",
+      "issn": "21986444",
+      "eIssn": "21986452",
+      "source_id": "21100812570",
+      "authors": "Petacco Nicola; Gualeni Paola",
+      "author_ids": "57193804322;15057843300",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Petacco N.",
+      "keywords": "Naval vessels | Operational guidance | Stability failure | Stability in waves",
+      "abstract": "Ensuring a widely safe operational profile of naval vessels is one of the leading aspects of the design process. With reference to weather conditions, this kind of vessels often cannot avoid heavy situations to guarantee the continuity and the effectiveness of service. For this reason, an applied research investigation aimed to define guidance in operations is deemed as a worthwhile activity. In particular, the performance in waves under the perspective of intact stability has been considered in this work. The IMO second-generation intact stability criteria have been identified as a suitable tool for these investigations: as a result, there is evidence that operational guidance can be developed for a set of representative naval vessels, following the relevant guidelines. Outcomes have been represented by means of comprehensive polar diagrams addressing the intact stability failures modes. Bearing in mind the actual operational profile, results have been analysed and discussed considering how ship and operating decisions in a seaway condition may affect the performance in terms of ship stability.",
+      "citations": 4,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 73,
+              "rank": 31,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 70,
+              "rank": 82,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 67,
+              "rank": 108,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 52,
+              "rank": 148,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 59,
+              "rank": 43,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 57,
+              "rank": 115,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 55,
+              "rank": 117,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 44,
+              "rank": 149,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85154541935",
+      "title": "Evaluation by a Quantitative Index about Intact Stability Performance in Waves of a Set of Megayacht Units",
+      "doi": "10.3390/jmse11040814",
+      "venue": "Journal of Marine Science and Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "11",
+      "issue_id": "4",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20771312",
+      "source_id": "21100830140",
+      "authors": "Petacco Nicola; Gualeni Paola",
+      "author_ids": "57193804322;15057843300",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Petacco N.",
+      "keywords": "environmental restrictions | intact stability | megayacht | operational limitation | stability in waves | stability index",
+      "abstract": "Intact stability represents one of the most important topics when addressing ship safety, and it is ruled by the IMO Intact Stability code, evaluating ship stability in a calm water scenario. However, the interest in ship stability in waves has increased in recent years and this has led to the formulation of the second generation intact stability criteria (SGISc), finalized at IMO in 2020. In this research, an approach to quantitatively and comprehensively evaluate the ship stability performance in waves has been pursued. A methodology is developed with reference to the SGISc. The intact stability in waves index (ISWI) has been proposed, with the aim to become a complementary tool for designers and shipbuilders in the assessment of stability performance in waves. The ISWI represents a comprehensive stability index, able to capture the stability in waves performance of a vessel. The stability index has been verified on a set of megayacht units and its sensitivity to the wave characteristics has been tested, changing the environmental conditions. The outcomes point to a good agreement between the ISWI and the influence of environmental condition changes on the stability performance.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 75,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 73,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 72,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 66,
+              "rank": 126,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 66,
+              "rank": 36,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 61,
+              "rank": 100,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85139339776",
+      "title": "An alternative methodology for the simplified operational guidance in the framework of second generation intact stability criteria",
+      "doi": "10.1016/j.oceaneng.2022.112665",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "266",
+      "issue_id": null,
+      "pages": null,
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Petacco Nicola",
+      "author_ids": "57193804322",
+      "authorAffiliationIds": "60025153",
+      "corresponding": "Petacco N.",
+      "keywords": "Containership | Design for safety | Duisburg Test Case | Operational guidance | Operational measures | Parametric rolling | SGISc",
+      "abstract": "Within the framework of the second-generation intact stability criteria (SGISc), a procedure to provide simplified operational guidance (OG) has been proposed. In particular, the phenomenon of parametric rolling has been investigated. The proposed methodology is meant to be an intermediate level between the suggested simplified OG and the deterministic OG, as defined in the MSC.1/Circ.1627. The proposed guidance relies on a simplified numerical tool able to assess ship roll motion due to non-linear irregular wave effects in the time domain. Outcomes are elaborated in the post-process phase, taking the maximum roll angle as leading criterion. Once defined the structure of this tool, an application has been carried out to a representative model of post-panamax container vessel. As benchmark study, the results have been compared to those obtained by the application of MSC.1/Circ.1228 and MSC.1/Circ.1627 (simplified OG) by means of polar diagram representation. Outcomes have been discussed and a general agreement can be found between the simplified OG and the proposed one. Although, it appears that the latter can detect dangerous roll motion for a more comprehensive set of sailing condition.",
+      "citations": 9,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 84,
+              "rank": 16,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 75,
+              "rank": 46,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85138140516",
+      "title": "Intact Stability Assessment of RO-RO Pax Vessel in the Framework of Second Generation Intact Stability Criteria with a Specific Focus on the Operational Profile",
+      "doi": "10.3233/PMST220008",
+      "venue": "Progress in Marine Science and Technology",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "6",
+      "issue_id": null,
+      "pages": "52-59",
+      "issn": "25430955",
+      "eIssn": "25430963",
+      "source_id": "21101107127",
+      "authors": "Petacco Nicola; Ruggiero Valerio; Gualeni Paola",
+      "author_ids": "57193804322;56082162400;15057843300",
+      "authorAffiliationIds": "60025153;60011576;60025153",
+      "corresponding": "Petacco N.",
+      "keywords": "Design for safety | Operational Measures | Ro-Ro ferry | Stability in waves",
+      "abstract": "One year later the finalization of Second Generation Intact Stability criteria (SGISc), there is still the need to validate the robustness and consistency of these criteria as indicated by IMO. Not compliance with a stability criterion cannot be always fixed acting only on the vessel design; also operative considerations are needed in order to reduce the risk level during the navigation. After an introduction to SGISc and rule framework for passenger ships, an application will be carried out. A Ro-Ro pax ferry has been selected as subject of this investigation. Vulnerability levels (i.e. Level 1 and Level 2) are applied in order to assess the compliance of a modern representative Ro-Ro ferry. Moreover, a study about how the environmental conditions may affect the results is undertaken considering different scenario, such as the geographical area or the maximum encountered wave height.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 22,
+              "rank": 200,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 15,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 13,
+              "rank": 640,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 9,
+              "rank": 91,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 7,
+              "rank": 178,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 4,
+              "rank": 600,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85121687511",
+      "title": "Application of the imo second generation intact stability criteria to a ballast-free containership",
+      "doi": "10.3390/jmse9121416",
+      "venue": "Journal of Marine Science and Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "9",
+      "issue_id": "12",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20771312",
+      "source_id": "21100830140",
+      "authors": "Petacco Nicola; Pitardi Danilo; Podenzana Bonvino Carlo; Gualeni Paola",
+      "author_ids": "57193804322;55350336700;6507106439;15057843300",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Petacco N.",
+      "keywords": "Containership | Innovative ship design | Parametric rolling | Pure loss of stability | Second generation intact stability criteria | Systematic hull variation",
+      "abstract": "A methodology is presented to systematically modify the hull shape of a ballast-free container ship, in order to manage the issue of righting lever variation in waves. The IMO second generation intact stability criteria have been identified as a stability performance assessment tool, while the vertical prismatic coefficient has been selected as the leading parameter of hull modifications to carry out the sensitivity analysis. A revised Lackenby procedure has been chosen to make systematic changes at the hull form. The outcomes of this investigation point out that the proposed procedure is suitable to enable the ship to be fully compliant with the IMO vulnerability levels with minor design adjustment.",
+      "citations": 16,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 75,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 73,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 72,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 57,
+              "rank": 42,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 51,
+              "rank": 159,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 49,
+              "rank": 121,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85116686946",
+      "title": "Influence of systematic hull shape variations on ship stability performances in waves",
+      "doi": "10.5957/JOSR.12190076",
+      "venue": "Journal of Ship Research",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "65",
+      "issue_id": "3",
+      "pages": "243-256",
+      "issn": "00224502",
+      "eIssn": "15420604",
+      "source_id": "25663",
+      "authors": "Petacco Nicola; Vernengo Giuliano; Villa Diego; Coppede Antonio; Gualeni Paola",
+      "author_ids": "57193804322;37662376400;56250522200;57201546656;15057843300",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Petacco N.",
+      "keywords": "Design of experiments | Free-form deformation | Gaussian process | Second-generation intact stability criteria | Sensitivity analysis",
+      "abstract": "The sensitivity of ship stability performance in waves to geometric variation has been investigated by means of a simulation-based design framework. The study was devoted to assess the influence of hull geometry variations on some stability failure modes, namely, parametric roll (PR) and pure loss of stability (PLS). The application has been developed by using a representative model of a postpanamax container vessel. PR and PLS phenomena have been investigated by the application of second-generation intact stability criteria (SGISc). The initial multidimensional design space has been filled by 500 design configurations identified by means of a design of experiments approach. A method developed in-house, combining the subdivision surface and free-form deformation approaches, has been used to create the whole set of design alternatives. The generated design configurations have been assessed analyzing the results derived from application of the first- and the second-level SGIS vulnerability criteria for both the selected stability failure modes. To strengthen the correlation behaviors, the design space has then been further explored by using 10k design configurations exploiting the capabilities of a surrogate model–based approximation, relying on a Gaussian process formulation. The study has been focused on the correlations among the variables and the response functions, i.e., the outcomes of the SGIS vulnerability criteria. The significance, in terms of effects, of each geometry shape variable has been investigated. Results have been discussed in the light of the SGISc structure, to provide further insight into this innovative safety framework for a modern approach to intact stability.",
+      "citations": 13,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Numerical Analysis",
+              "percentile": 59,
+              "rank": 37,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Applied Mathematics",
+              "percentile": 59,
+              "rank": 273,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 51,
+              "rank": 57,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 48,
+              "rank": 381,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 44,
+              "rank": 231,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 49,
+              "rank": 50,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Applied Mathematics",
+              "percentile": 48,
+              "rank": 303,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Numerical Analysis",
+              "percentile": 46,
+              "rank": 41,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 43,
+              "rank": 340,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 36,
+              "rank": 207,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85089270904",
+      "title": "Second generation intact stability criteria: Application of operational limitations and guidance to a megayacht unit",
+      "doi": "10.1201/9781003216582-40",
+      "venue": "Developments in Maritime Technology and Engineering Proceedings of the 5th International Conference on Maritime Technology and Engineering Martech 2020",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": "1",
+      "issue_id": null,
+      "pages": "357-363",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101129854",
+      "authors": "Petacco N.; Gualeni P.; Stio G.",
+      "author_ids": "57193804322;15057843300;58041375900",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Petacco N.",
+      "keywords": null,
+      "abstract": "Second Generation Intact Stability criteria (SGISc) are under finalization at IMO aiming to provide a set of not mandatory criteria covering phenomena related to intact stability in waves. SGISc introduce also operational guidance and/or operational limitations to the navigation. The former entails the analysis of operational data (e.g. speed and headings) as complementary aspects to the ship design strategies. Operational limitations consist of restrictions to the environmental conditions or geographical area where the vessel may sail. This paper focuses on the operational guidance and limitations as proposed at the 7<sup>th</sup> session of IMO Ship Design and Construction subcommittee. An overview of the current rules concerning the operational aspects of the criteria is given. A comprehensive assessment of a mega yacht unit is carried out for the excessive accelerations phenomena, except for the direct stability assessment. Results are going to be presented with special attention to the operational aspects.",
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85079410515",
+      "title": "Seakeeping time domain simulations for surf-riding/broaching: investigations toward a direct stability assessment",
+      "doi": "10.1007/s00773-020-00704-x",
+      "venue": "Journal of Marine Science and Technology Japan",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "25",
+      "issue_id": "4",
+      "pages": "1120-1128",
+      "issn": "09484280",
+      "eIssn": null,
+      "source_id": "27784",
+      "authors": "Gualeni P.; Paolobello D.; Petacco N.; Lena C.",
+      "author_ids": "15057843300;57214887669;57193804322;57214884033",
+      "authorAffiliationIds": "60025153;60025153;60025153;60029978",
+      "corresponding": "Gualeni P.",
+      "keywords": "Broaching | Direct stability assessment | Second generation intact stability criteria | Surf-riding",
+      "abstract": "Seakeeping time domain simulations are carried out to capture the likelihood of a surf-riding and/or broaching event, with the aim to gain a further insight into the ship performance in stern quartering seas. The applied numerical tool, named PANSHIP, is a 6-DoFs time domain seakeeping software based on panel method, combined with semi empirical viscous models. The investigated ships are two yacht vessels and a patrol boat. Calculations are also carried out with a tool implementing the IMO second level vulnerability criterion for surf-riding/broaching. Similarities, differences and critical issues of both approaches are discussed, as a first step in the perspective of a comprehensive application of the IMO Second Generation Intact Stability criteria, inclusive of the so-called “Direct Stability Assessment”.",
+      "citations": 8,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Oceanography",
+              "percentile": 83,
+              "rank": 26,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 76,
+              "rank": 28,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 75,
+              "rank": 178,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanics of Materials",
+              "percentile": 70,
+              "rank": 123,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 66,
+              "rank": 33,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 63,
+              "rank": 215,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Oceanography",
+              "percentile": 59,
+              "rank": 52,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanics of Materials",
+              "percentile": 59,
+              "rank": 152,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85089271836",
+      "title": "IMO second generation intact stability criteria: General overview and focus on operational measures",
+      "doi": "10.3390/JMSE8070494",
+      "venue": "Journal of Marine Science and Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "8",
+      "issue_id": "8",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20771312",
+      "source_id": "21100830140",
+      "authors": "Petacco Nicola; Gualeni Paola",
+      "author_ids": "57193804322;15057843300",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Petacco N.",
+      "keywords": "Direct stability assessment | Operational guidance | Operational limitations | Ro-Ro ferry | Second generation intact stability criteria | Vulnerability levels",
+      "abstract": "At the beginning of 2020, after a long and demanding process, the Second Generation Intact Stability criteria (SGISc) have been finalized at the 7th session of the International Maritime Organization (IMO) sub-committee on Ship Design and Construction (SDC). At present, SGISc are not mandatory, nevertheless IMO endorses their application in order to assess their consistency and validity. It is envisaged that SGISc can support the design of safer ships, nevertheless such a rules framework might have an impact also on the ship operational aspects in a seaway. In fact, within the SGISc framework, Operational Measures have also been implemented providing guidance and limitations during navigation. After a comprehensive overview about SGISc vulnerability levels and direct stability assessment, this paper provides a specific insight into the methodological approach for the Operational Measures extensively addressed as a complementary action to ship design.",
+      "citations": 35,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 75,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 73,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 72,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 53,
+              "rank": 45,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 44,
+              "rank": 125,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 43,
+              "rank": 180,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85064449073",
+      "title": "IMO second generation intact stability criteria: Application to a set of mega-yacht parent hulls in a ship design perspective",
+      "doi": null,
+      "venue": "Rina Royal Institution of Naval Architects International Conference on Design and Construction of Super and Mega Yachts 2017",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100903772",
+      "authors": "Petacco N.; Gualeni P.",
+      "author_ids": "57193804322;15057843300",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Petacco N.",
+      "keywords": null,
+      "abstract": "At the IMO, the so called Second Generation Intact Stability Criteria are currently under finalization and validation. This paper describes briefly the five different stability failure modes taken into account by the rules and the multi-layered approach which defines each vulnerability level. Furthermore, all first vulnerability levels are applied to a Mega-Yacht unit and for parametric roll and pure loss of stability phenomena, also the second levels are applied. In order to understand how a design modification in terms of ship breadth may influence the susceptibility to stability failures, a set of different models beside the original one are also investigated. Investigations are carried out by means of an \"in house\" computational tool developed at the University of Genoa. Results are mainly analysed in terms of KGmax curves, in order to detect the ship feasibility domain.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85016796916",
+      "title": "Second generation intact stability criteria for mega-yachts: Application and design considerations",
+      "doi": "10.1201/b21890-87",
+      "venue": "Proceedings of 3rd International Conference on Maritime Technology and Engineering Martech 2016",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": "1",
+      "issue_id": null,
+      "pages": "673-682",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100804421",
+      "authors": "Petacco N.; Gualeni P.",
+      "author_ids": "57193804322;15057843300",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Petacco N.",
+      "keywords": null,
+      "abstract": "The IMO second generation intact stability criteria, with specific reference to Parametric Roll and Pure Loss of Stability phenomena, are applied to a megayacht unit. In order to assess the influence of hull length on the performances, due to the influence between wavelength and hull length, two additional hulls beside the original one are also investigated. Specific attention is also paid to the influence of ship draft. Investigations are carried out by means of an \"in house\" computational tool developed at the University of Genoa, able to calculate the righting arm curves of ships under the effects of waves, with balance in trim and sinkage as requested by the rules. Results are analysed with special attention to the possible design influence that such set of rules can imply.",
+      "citations": 4,
+      "quartile": null
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1268178",
+      "authors": "Mazzeo, A.; Cristofano, A. C.; Graziano, M. D.; Renga, A.; Vernengo, G.; Bonaldo, D.; Villa, D.; Petacco, N.; Scarpa, G. M.; Braga, F.; Vavasori, P.; Menegon, S.; Fadini, A.",
+      "legacy_id": 664885,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Advancing Maritime Surveillance with UEIKAP: An Integrated AI-Based Framework for Wake Detection in Earth Observation Imagery",
+      "scopus_id": "2-s2.0-105015040706",
+      "doi": "10.1109/OCEANS58557.2025.11104403",
+      "isi_id": "WOS:001565320000096",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1263277",
+      "authors": "Petacco, Nicola; Villa, Diego; Franciosa, Federico; Mazzeo, Andrea; Carmen Cristofano, Angela; Rossini, Fabio; Daniela Graziano, Maria; Scarpa, Marco; Braga, Federica; Vavasori, Paolo; Bonaldo, Davide; Vernengo, Giuliano",
+      "legacy_id": 658933,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Far-Field Wake Modeling for Automatic Ship Detection from Satellite Imagery",
+      "doi": "10.3233/PMST250096",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1268179",
+      "authors": "Cristofano, A. C.; Mazzeo, A.; Graziano, M. D.; Renga, A.; Vernengo, G.; Bonaldo, D.; Villa, D.; Petacco, N.; Scarpa, G. M.; Braga, F.; Vavasori, P.; Menegon, S.; Fadini, A.",
+      "legacy_id": 664884,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "A Deep Learning-based Multi-Modal Approach for Wake Detection",
+      "scopus_id": "2-s2.0-105015462421",
+      "doi": "10.1109/MetroAeroSpace64938.2025.11114590",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1174758",
+      "authors": "Petacco, Nicola; Petkovic, Goran; Gualeni, Paola",
+      "legacy_id": 547368,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "An insight on the post-processing procedure of the Direct Stability Assessment within SGISC",
+      "scopus_id": "2-s2.0-85191342000",
+      "doi": "10.1016/j.oceaneng.2024.117982",
+      "isi_id": "WOS:001235071400001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1183795",
+      "authors": "Mannarini, G.; Salinas, M. L.; Carelli, L.; Petacco, N.; Orovic, J.",
+      "legacy_id": 561606,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "VISIR-2: Ship weather routing in Python",
+      "scopus_id": "2-s2.0-85194223130",
+      "doi": "10.5194/gmd-17-4355-2024",
+      "isi_id": "WOS:001232523700001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "13",
+      "citations_scopus": "13"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220710",
+      "authors": "Petacco, N.; Pollicardo, A.; Gualeni, P.",
+      "legacy_id": 599356,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "An insight about roll damping within the second generation intact stability criteria",
+      "scopus_id": "2-s2.0-85205931482",
+      "doi": "10.1007/s40722-024-00347-9",
+      "isi_id": "WOS:001327615200001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1244856",
+      "authors": "Petacco, Nicola; Cuozzo, Christian; Villa, Diego; Gaggero, Stefano; Gualeni, Paola",
+      "legacy_id": 635567,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "A fast tool evaluating cross-flooding effects: Application to a Megayacht unit",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1142616",
+      "authors": "Petacco, N.; Gualeni, P.",
+      "legacy_id": 502606,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "The influence of ship stability in waves on naval vessel operational profiles",
+      "scopus_id": "2-s2.0-85166972513",
+      "doi": "10.1007/s40722-023-00291-0",
+      "isi_id": "WOS:001042783400001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1118633",
+      "authors": "Petacco, Nicola; Gualeni, Paola",
+      "legacy_id": 471789,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Evaluation by a Quantitative Index about Intact Stability Performance in Waves of a Set of Megayacht Units",
+      "scopus_id": "2-s2.0-85154541935",
+      "doi": "10.3390/jmse11040814",
+      "isi_id": "WOS:000977366700001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1142636",
+      "authors": "Gualeni, Paola; Petacco, Nicola; Zini, Aldo",
+      "legacy_id": 502966,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "The Role of the Digital Twin for a Ship Life Cycle Perspective: A focus on Naval Vessels",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1156116",
+      "authors": "Zini, Aldo; Petacco, Nicola; Gualeni, Paola; Tozzi, Davide; Orrù, Giovanni; Sembenini, Giovanni; Maglione, GIOVANNI LUCA",
+      "legacy_id": 521026,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Digital Twin in Naval Environment",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1156115",
+      "authors": "Petacco, Nicola; Ruggiero, Valerio; Gualeni, Paola",
+      "legacy_id": 521025,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "An Investigation about Stability in Waves of Large Pleasure Yachts",
+      "scopus_id": "2-s2.0-85178319572",
+      "doi": "10.3390/jmse11112039",
+      "isi_id": "WOS:001119876000001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1096981",
+      "authors": "Petacco, Nicola; Gualeni, Paola",
+      "legacy_id": 437608,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "A SGISC-Based Study about operational Profiles of Navy Vessels",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1096876",
+      "authors": "Petacco, N.; Ruggiero, V.; Gualeni, P.",
+      "legacy_id": 437507,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Intact Stability Assessment of RO-RO Pax Vessel in the Framework of Second Generation Intact Stability Criteria with a Specific Focus on the Operational Profile",
+      "scopus_id": "2-s2.0-85138140516",
+      "doi": "10.3233/PMST220008",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1098315",
+      "authors": "Petacco, N.",
+      "legacy_id": 439642,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "An alternative methodology for the simplified operational guidance in the framework of second generation intact stability criteria",
+      "scopus_id": "2-s2.0-85139339776",
+      "doi": "10.1016/j.oceaneng.2022.112665",
+      "isi_id": "WOS:000875820500003",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "8",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1058559",
+      "authors": "Petacco, N.; Vernengo, G.; Villa, D.; Coppede, A.; Gualeni, P.",
+      "legacy_id": 393034,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "Influence of systematic hull shape variations on ship stability performances in waves",
+      "scopus_id": "2-s2.0-85116686946",
+      "doi": "10.5957/JOSR.12190076",
+      "isi_id": "WOS:000702934600004",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "11",
+      "citations_scopus": "13"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1063716",
+      "authors": "Petacco, Nicola; Pitardi, Danilo; Podenzana Bonvino, Carlo; Gualeni, Paola",
+      "legacy_id": 399068,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "Application of the IMO Second Generation Intact Stability Criteria to a Ballast-Free Containership",
+      "scopus_id": "2-s2.0-85121687511",
+      "doi": "10.3390/jmse9121416",
+      "isi_id": "WOS:000737878700001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "13",
+      "citations_scopus": "16"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1081236",
+      "authors": "Petacco, Nicola; Gualeni, Paola",
+      "legacy_id": 419190,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "An overview about operational measures in the framework of Second Generation Intact Stability criteria",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1058629",
+      "authors": "Petacco, N.; Gualeni, P.; Stio, G.",
+      "legacy_id": 393112,
+      "year": 2021,
+      "miur_type": "268",
+      "title": "Second Generation Intact Stability criteria: Application of operational limitations & guidance to a megayacht unit",
+      "doi": "10.1201/9781003216582",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1183915",
+      "authors": "Petacco, N.; Gualeni, P.; Stio, G.",
+      "legacy_id": 562546,
+      "year": 2021,
+      "miur_type": "268",
+      "title": "Second generation intact stability criteria: Application of operational limitations and guidance to a megayacht unit",
+      "scopus_id": "2-s2.0-85089270904",
+      "doi": "10.1201/9781003216582-40",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1018893",
+      "authors": "Petacco, Nicola; Gualeni, Paola",
+      "legacy_id": 346772,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "IMO Second Generation Intact Stability Criteria: General Overview and Focus on Operational Measures",
+      "scopus_id": "2-s2.0-85089271836",
+      "doi": "10.3390/jmse8070494",
+      "isi_id": "WOS:000557740600001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "34",
+      "citations_scopus": "35"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1017223",
+      "authors": "Gualeni, P.; Paolobello, D.; Petacco, N.; Lena, C.",
+      "legacy_id": 345029,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Seakeeping time domain simulations for surf-riding/broaching: investigations toward a direct stability assessment",
+      "scopus_id": "2-s2.0-85079410515",
+      "doi": "10.1007/s00773-020-00704-x",
+      "isi_id": "WOS:000513034200001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "7",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/945565",
+      "authors": "Petacco, Nicola",
+      "ssd": "Settore ING-IND/01 - Architettura Navale",
+      "legacy_id": 264499,
+      "year": 2019,
+      "miur_type": "-2",
+      "title": "Second Generation Intact Stability criteria: Analysis, Implementation and Applications to significant ship typologies",
+      "doi": "10.15167/petacco-nicola_phd2019-05-24",
+      "type": "Tesi di dottorato"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/934943",
+      "authors": "Petacco, N.; Gualeni, P.",
+      "legacy_id": 251503,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "A System Approach for Second Generation Intact Stability criteria compliance",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/893438",
+      "authors": "Petacco, N.; Gualeni, P.",
+      "legacy_id": 205728,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "IMO SECOND GENERATION INTACT STABILITY CRITERIA: APPLICATION TO A SET OF MEGA-YACHT PARENT HULLS IN A SHIP DESIGN PERSPECTIVE",
+      "scopus_id": "2-s2.0-85064449073",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/893428",
+      "authors": "Petacco, Nicola; Gualeni, Paola; Billard, Jean-Yves; Grinnaert, François",
+      "legacy_id": 205716,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "An integration of present navy ships intact stability criteria in the perspective of ship performance assessment in a seaway",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/848339",
+      "authors": "Petacco, Nicola; Gualeni, Paola",
+      "legacy_id": 156322,
+      "year": 2016,
+      "miur_type": "268",
+      "title": "Second generation intact stability criteria for mega-yachts: Application and design considerations",
+      "scopus_id": "2-s2.0-85016796916",
+      "doi": "10.1201/b21890-87",
+      "isi_id": "WOS:000588357400079",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_isi": "2",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1106875",
+      "authors": "Grinnaert, Fran(c(c))ois; Gualeni, Paola; Billard, Jean-Yves; Laurens, Jean-Marc; Petacco, Nicola",
+      "legacy_id": 453684,
+      "year": 2016,
+      "miur_type": "273",
+      "title": "Application of 2nd generation intact stability criteria on naval ships",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1017225",
+      "authors": "Grinnaert, François; Gualeni, Paola; Billard, Jean-Yves; Laurens, Jean-Marc; Petacco, Nicola",
+      "legacy_id": 345028,
+      "year": 2016,
+      "miur_type": "273",
+      "title": "Application of 2nd Generation Intact Stability Criteria on Naval Ships",
+      "type": "04.01 - Contributo in atti di convegno"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:13:30.980494"
+}

@@ -1,0 +1,6538 @@
+# Marchese Mario
+
+## Overview
+- **Unit:** ICT
+- **Role:** Professore ordinario
+- **Grade:** Prof.Ordinario Legge 240/10 - t.pieno - classe 4
+- **SSD:** IINF-03/A (Telecomunicazioni)
+- **Scopus ID:** 7004398165
+- **UNIGE ID:** 056441
+- **Retrieved at:** 2025-11-14T15:17:39.439261
+
+## Contact
+- **Email:** mario.marchese@unige.it
+- **Phone:** +39 010 33 52806 (Laboratorio)
+- **Page:** https://rubrica.unige.it/personale/VUZBX15o
+- **Locations:** Opera Pia - padiglione E (ED_161450402), 4° piano, US_161450402.IV.003
+
+## Career
+- PA, 2012-05-01 → 2016-01-31
+- PO, 2016-02-01 → 2222-02-02
+
+## Responsibilities
+- **Title:** Componente del Consiglio direttivo
+  - **Unit:** Centro italiano di eccellenza sulla logistica, i trasporti e le infrastrutture - CIELI
+  - **Period:** 2014-01-01 → 2222-02-02
+
+- **Title:** Prorettore al Dottorato di Ricerca e ai Rapporti con le Imprese
+  - **Unit:** Università Degli Studi Di Genova
+  - **Period:** 2025-11-01 → 2026-10-31
+
+## Teaching
+### 2025
+- Quality Of Service Over Heterogeneous Networks (90145), Lm-27 - Internet And Multimedia Engineering
+- Communication Networks For Emergency And Monitoring (94630), Lm-26 R - Engineering For Natural Risk Management
+- Telecommunications (118118), Lm-28 - Electrical Engineering For Energy Transition
+
+### 2024
+- Fondamenti Di Telecomunicazioni (84396), Lm-28 - Ingegneria Elettrica
+- Telematica E Tecnologie Internet (66356), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Quality Of Service Over Heterogeneous Networks (90145), Lm-27 - Internet And Multimedia Engineering
+- Quality Of Service Over Heterogeneous Networks (90145), Lm-27 - Internet And Multimedia Engineering
+
+### 2023
+- Fondamenti Di Telecomunicazioni (84396), Lm-28 - Ingegneria Elettrica
+- Telematica E Tecnologie Internet (66356), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Quality Of Service Over Heterogeneous Networks (90145), Lm-27 - Internet And Multimedia Engineering
+
+### 2022
+- Fondamenti Di Telecomunicazioni (84396), Lm-28 - Ingegneria Elettrica
+- Telematica E Tecnologie Internet (66356), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Quality Of Service Over Heterogeneous Networks (90145), Lm-27 - Internet And Multimedia Engineering
+
+### 2021
+- Fondamenti Di Telecomunicazioni (84396), Lm-28 - Ingegneria Elettrica
+- Telematica E Tecnologie Internet (66356), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Quality Of Service Over Heterogeneous Networks (90145), Lm-27 - Internet And Multimedia Engineering
+- Cooperazione Allo Sviluppo (108849), Corsi Di Ateneo
+
+### 2020
+- Fondamenti Di Telecomunicazioni (84396), Lm-28 - Ingegneria Elettrica
+- Telematica E Tecnologie Internet (66356), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Quality Of Service Over Heterogeneous Networks (90145), Lm-27 - Internet And Multimedia Engineering
+- Internet Applications (90564), Lm-27 - Internet And Multimedia Engineering
+- Strategies For Telecommunications (98228), Lm/Ds - Engineering Technology For Strategy (And Security)
+
+## Scopus Metrics
+- absolute; Docs: 319; Journals: 121; Conferences: 171; Citations: 4117; H-index: 34
+- 15 years (2010-2025); Docs: 181; Journals: 74; Conferences: 90; Citations: 3033; H-index: 29
+- 10 years (2015-2025); Docs: 120; Journals: 54; Conferences: 53; Citations: 2094; H-index: 24
+- 05 years (2020-2025); Docs: 70; Journals: 33; Conferences: 32; Citations: 587; H-index: 14
+
+## Scopus Products
+1.
+   - **Title:** Performance Analysis and Security Preservation of DSRC in V2X Networks
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3390/electronics14193786
+   - **Scopus ID:** 2-s2.0-105019060964
+   - **eISSN:** 20799292
+   - **Volume:** 14
+   - **Issue:** 19
+   - **Authors:** Sohail Muhammad Saad; Portomauro Giancarlo; Gaggero Giovanni Battista; Patrone Fabio; Marchese Mario
+   - **Keywords:** Denial of Service | DSRC | jamming attacks | Software-Defined Radio | V2X communications
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 59364633700;15128054100;57216708944;56536292600;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Sohail M.S.
+2.
+   - **Title:** Photo-Set: A Proposed Dataset and Benchmark for Physics-Based Cybersecurity Monitoring in Photovoltaic Systems †
+   - **Venue:** Energies
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3390/en18195318
+   - **Scopus ID:** 2-s2.0-105018907042
+   - **eISSN:** 19961073
+   - **Volume:** 18
+   - **Issue:** 19
+   - **Authors:** Mokarim Afroz; Gaggero Giovanni Battista; Ferro Giulio; Robba Michela; Girdinio Paola; Marchese Mario
+   - **Keywords:** anomaly detection | cybersecurity | dataset | distributed energy resources | photovoltaic | smart grid
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 57210415425;57216708944;57062015700;7004979187;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60121711;60121711;60025153;60025153
+   - **Corresponding:** Mokarim A.
+3.
+   - **Title:** Rule-Based eXplainable Autoencoder for DNS Tunneling Detection
+   - **Venue:** Computers
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3390/computers14090375
+   - **Scopus ID:** 2-s2.0-105017507470
+   - **eISSN:** 2073431X
+   - **Volume:** 14
+   - **Issue:** 9
+   - **Authors:** De Bernardi Giacomo; Gaggero Giovanni Battista; Patrone Fabio; Zappatore Sandro; Marchese Mario; Mongelli Maurizio
+   - **Keywords:** DNS tunnelling | eXplainable AI | intrusion detection system | statistical traffic analysis
+   - **Quartile:**
+     2025:
+     - Computer Science (miscellaneous) (Q1, rank 26, percentile 85)
+     - Computer Networks and Communications (Q1, rank 90, percentile 83)
+     - Human-Computer Interaction (Q2, rank 55, percentile 71)
+   - **Source Id:** 21100886391
+   - **Author Ids:** 58146713400;57216708944;56536292600;6602811400;7004398165;7005882346
+   - **Authoraffiliationids:** 60021199;60025153;60025153;60025153;60025153;60021199
+   - **Corresponding:** De Bernardi G.
+4.
+   - **Title:** Cybersecurity Issues in Electrical Protection Relays: A Systematic Review
+   - **Venue:** Energies
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 0
+   - **DOI:** 10.3390/en18143796
+   - **Scopus ID:** 2-s2.0-105011621726
+   - **eISSN:** 19961073
+   - **Volume:** 18
+   - **Issue:** 14
+   - **Authors:** Gaggero Giovanni Battista; Girdinio Paola; Marchese Mario
+   - **Keywords:** cyber security | electrical protection | protection relay | review
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 57216708944;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+5.
+   - **Title:** Photo-Set: A Dataset for Physics-Based Cybersecurity Monitoring in Photovoltaic Systems
+   - **Venue:** IFAC Papersonline
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1016/j.ifacol.2025.08.109
+   - **Scopus ID:** 2-s2.0-105016566527
+   - **ISSN:** 24058971
+   - **eISSN:** 24058963
+   - **Volume:** 59
+   - **Issue:** 9
+   - **Pages:** 37-42
+   - **Authors:** Mokarim Afroz; Gaggero Giovanni Battista; Ferro Giulio; Robba Michela; Marchese Mario
+   - **Keywords:** anomaly detection | cybersecurity | Dataset | photovoltaic | smart grid
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q3, rank 218, percentile 42)
+   - **Source Id:** 21100456158
+   - **Author Ids:** 57210415425;57216708944;57062015700;7004979187;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60121711;60121711;60025153
+   - **Corresponding:** Mokarim A.
+6.
+   - **Title:** Artificial Intelligence and Physics-Based Anomaly Detection in the Smart Grid: A Survey
+   - **Venue:** IEEE Access
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 16
+   - **DOI:** 10.1109/ACCESS.2025.3537410
+   - **Scopus ID:** 2-s2.0-85217069329
+   - **eISSN:** 21693536
+   - **Volume:** 13
+   - **Pages:** 23597-23606
+   - **Authors:** Gaggero Giovanni Battista; Girdinio Paola; Marchese Mario
+   - **Keywords:** AI | anomaly detection | physics-based anomaly detection | Review | smart grid
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 42, percentile 88)
+     - Computer Science (all) (Q1, rank 41, percentile 83)
+     - Materials Science (all) (Q1, rank 101, percentile 78)
+   - **Source Id:** 21100374601
+   - **Author Ids:** 57216708944;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+7.
+   - **Title:** Securing Virtual Power Plants: Attack Vector Analysis of Cybersecurity Vulnerabilities in Ancillary Grid Services
+   - **Venue:** IEEE Open Journal of the Industrial Electronics Society
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/OJIES.2025.3622528
+   - **Scopus ID:** 2-s2.0-105019589039
+   - **eISSN:** 26441284
+   - **Authors:** Mokarim Afroz; Gaggero Giovanni Battista; Marchese Mario
+   - **Keywords:** ancillary services | attack vectors | cybersecurity | Distributed Energy Resources (DERs) | time-critical services | Virtual Power Plants (VPPs) | vulnerabilities
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 148, percentile 85)
+     - Industrial and Manufacturing Engineering (Q1, rank 62, percentile 84)
+     - Control and Systems Engineering (Q1, rank 61, percentile 84)
+   - **Source Id:** 21101068036
+   - **Author Ids:** 57210415425;57216708944;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Mokarim A.
+8.
+   - **Title:** Network Simulations for Non-Terrestrial Networks: Overcoming Deployment Challenges and Advancing System Optimization
+   - **Venue:** 2025 IEEE International Conference on Communications Workshops Icc Workshops 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICCWorkshops67674.2025.11162227
+   - **Scopus ID:** 2-s2.0-105018050217
+   - **Pages:** 2051-2056
+   - **Authors:** Badini Nour; Patrone Fabio; Zanon Arianna Miraval; Marchese Mario
+   - **Keywords:** Network Optimization | Non-Terrestrial Networks | Satellite Communications | Satellite Simulator
+   - **Source Id:** 21101337382
+   - **Author Ids:** 57854682900;56536292600;57200721477;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60031612;60025153
+   - **Corresponding:** Badini N.
+9.
+   - **Title:** Integration of Forensic Analysis and Event Data Recorders in Automotive Regulation: A Proposed Approach
+   - **Venue:** Proceedings of the 2025 IEEE International Conference on Cyber Security and Resilience Csr 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CSR64739.2025.11130098
+   - **Scopus ID:** 2-s2.0-105016266981
+   - **Pages:** 795-800
+   - **Authors:** Soomro Faraz Bashir; Caviglia Roberto; Gaggero Giovanni Battista; Djihadi Mageni; Marchese Mario
+   - **Keywords:** Automotive Cybersecurity | Digital Forensics | Event Data Recorder (EDR) | UNECE WP. 29 R155 | UNECE WP. 29 R160
+   - **Source Id:** 21101331270
+   - **Author Ids:** 60102852400;57700266100;57216708944;60102775600;7004398165
+   - **Authoraffiliationids:** 60025153-130228801;60025153-130228801;60025153;60025153;60025153
+   - **Corresponding:** Soomro F.B.
+10.
+   - **Title:** Detection of C-V2X Spoofing Attacks using Physical Layer Features and Graph Neural Networks
+   - **Venue:** Proceedings of the 2025 IEEE International Conference on Cyber Security and Resilience Csr 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CSR64739.2025.11130047
+   - **Scopus ID:** 2-s2.0-105016231811
+   - **Pages:** 801-806
+   - **Authors:** Greco Danilo; Sohail Muhammad Saad; Marchese Mario
+   - **Keywords:** C-V2X | Deep Learning | Graph Neural Networks | Physical Layer Security | Software-Defined Radio | Spoofing Detection | Vehicular Networks
+   - **Source Id:** 21101331270
+   - **Author Ids:** 57197399855;59364633700;7004398165
+   - **Authoraffiliationids:** 60023256;60025153;60025153
+   - **Corresponding:** Greco D.
+11.
+   - **Title:** CyberVehiCare: A Testbed for Cybersecurity of Vehicle to Everything (V2X) Automotive Systems
+   - **Venue:** Proceedings of the 2025 IEEE International Conference on Cyber Security and Resilience Csr 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CSR64739.2025.11130024
+   - **Scopus ID:** 2-s2.0-105016108611
+   - **Pages:** 818-823
+   - **Authors:** Rahman Md Arafatur; Tan Sze Wei; Sohail Mohammed Saad; Gaggero Giovanni Battista; Patrone Fabio; Marchese Mario; Pillai Prashant
+   - **Keywords:** Automotive Cybersecurity | CAN Bus Security | Connected Vehicles | CyberVehiCare | Software-Defined Radio | Testbed | V2X Communication | Vehicle Health Monitoring
+   - **Source Id:** 21101331270
+   - **Author Ids:** 55457938100;59173456600;60102416500;57216708944;56536292600;7004398165;7102162572
+   - **Authoraffiliationids:** 60007173;60007173;60025153;60025153;60025153;60025153;60007173
+   - **Corresponding:** Rahman M.A.
+12.
+   - **Title:** Scalable Satellite Handover Management in Non-Terrestrial Networks: A Distributed MADQL Approach
+   - **Venue:** IEEE Transactions on Aerospace and Electronic Systems
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/TAES.2025.3594697
+   - **Scopus ID:** 2-s2.0-105012585767
+   - **ISSN:** 00189251
+   - **eISSN:** 15579603
+   - **Authors:** Badini Nour; Jaber Mona; Marchese Mario; Patrone Fabio
+   - **Keywords:** Deep Reinforcement Learning | LEO Satellite Handover | Non-Terrestrial Networks | Resource Management | Satellite Communications and Networking
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 11, percentile 93)
+     - Electrical and Electronic Engineering (Q1, rank 109, percentile 89)
+   - **Source Id:** 17336
+   - **Author Ids:** 57854682900;56970872000;7004398165;56536292600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Badini N.
+13.
+   - **Title:** Evaluating Performance in Satellite Communication Networks: An NS3-Based Simulation Study
+   - **Venue:** IEEE Aerospace Conference Proceedings
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/AERO63441.2025.11068597
+   - **Scopus ID:** 2-s2.0-105012214121
+   - **ISSN:** 1095323X
+   - **Authors:** Badini Nour; Patrone Fabio; Zanon Arianna Miraval; Marchese Mario
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q3, rank 88, percentile 45)
+     - Space and Planetary Science (Q3, rank 67, percentile 35)
+   - **Source Id:** 75113
+   - **Author Ids:** 57854682900;56536292600;57200721477;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60031612;60025153
+   - **Corresponding:** Badini N.
+14.
+   - **Title:** Should We Include Cyberdefense Functionalities in Electrical Power System Protections?: A Proposed Approach
+   - **Venue:** IEEE Industrial Electronics Magazine
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/MIE.2024.3416907
+   - **Scopus ID:** 2-s2.0-105004023864
+   - **ISSN:** 19324529
+   - **eISSN:** 19410115
+   - **Volume:** 19
+   - **Issue:** 1
+   - **Pages:** 10-16
+   - **Authors:** Gaggero Giovanni Battista; Mokarim Afroz; Girdinio Paola; Marchese Mario
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 92, percentile 90)
+     - Industrial and Manufacturing Engineering (Q1, rank 47, percentile 88)
+   - **Source Id:** 5800207505
+   - **Author Ids:** 57216708944;57210415425;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+15.
+   - **Title:** On the Latency Trade-off Between Space and Terrestrial Clouds in Non-Terrestrial Networks
+   - **Venue:** 2025 12th Advanced Satellite Multimedia Systems Conference and the 18th Signal Processing for Space Communications Workshop Asms Spsc 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ASMS/SPSC64465.2025.10946050
+   - **Scopus ID:** 2-s2.0-105002903093
+   - **Authors:** Rojas Camilo; Fraire Juan A.; Patrone Fabio; Marchese Mario
+   - **Keywords:** Multi-access Edge Computing
+   - **Source Id:** 21101289793
+   - **Author Ids:** 57202198493;55667636500;56536292600;7004398165
+   - **Authoraffiliationids:** 60025153;60013373-60000658;60025153;60025153
+   - **Corresponding:** Rojas C.
+16.
+   - **Title:** From microgrids to virtual power plants: A cybersecurity perspective
+   - **Venue:** Iot Enabled Dc Microgrids Architecture Algorithms Applications and Technologies
+   - **Year:** 2024
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-85206234694
+   - **Pages:** 103-120
+   - **Authors:** Gaggero Giovanni; Piserà Diego; Girdinio Paola; Silvestro Federico; Marchese Mario
+   - **Source Id:** 21101253473
+   - **Author Ids:** 57216708944;57226694852;7003430835;23026343700;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.
+17.
+   - **Title:** Impact Analysis of Cyber Attacks against Energy Communities in Distribution Grids
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.3390/electronics13091709
+   - **Scopus ID:** 2-s2.0-85192729998
+   - **eISSN:** 20799292
+   - **Volume:** 13
+   - **Issue:** 9
+   - **Authors:** Mokarim Afroz; Gaggero Giovanni Battista; Marchese Mario
+   - **Keywords:** cyber attack | European low-voltage test feeder | load demand | power manipulation | renewable energy communities
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 228, percentile 76)
+     - Signal Processing (Q1, rank 44, percentile 76)
+     - Control and Systems Engineering (Q1, rank 93, percentile 75)
+     - Computer Networks and Communications (Q2, rank 137, percentile 73)
+     - Hardware and Architecture (Q2, rank 62, percentile 72)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 57210415425;57216708944;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Mokarim A.
+18.
+   - **Title:** Toward a Security Operation Center for Operational Technology in Industrial Networks
+   - **Venue:** 2024 IEEE International Workshop on Technologies for Defense and Security Techdefense 2024 Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/TechDefense63521.2024.10863654
+   - **Scopus ID:** 2-s2.0-85218337379
+   - **Pages:** 160-164
+   - **Authors:** Gaggero Giovanni Battista; Caviglia Roberto; Girdinio Paola; Marchese Mario
+   - **Source Id:** 21101276067
+   - **Author Ids:** 57216708944;57700266100;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153-100505222;60025153-130228801-100505222;60025153-100505222;60025153-100505222
+   - **Corresponding:** Gaggero G.B.
+19.
+   - **Title:** Federated Learning for Rule-Based Systems: Preliminary Studies
+   - **Venue:** 8th IEEE International Forum on Research and Technologies for Society and Industry Innovation Rtsi 2024 Proceeding
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/RTSI61910.2024.10761552
+   - **Scopus ID:** 2-s2.0-85213818194
+   - **Pages:** 143-148
+   - **Authors:** Samandari Ahmad; Marchese Mario; Paglialonga Alessia; Patrone Fabio; Rampa Vittorio; Mongelli Maurizio
+   - **Keywords:** Decision Tree | eXplainable AI | Federated Learning | non-IID Data | Rule-Based Systems
+   - **Source Id:** 21101267110
+   - **Author Ids:** 59496319300;7004398165;23668671800;56536292600;6603275866;7005882346
+   - **Authoraffiliationids:** 60025153-60021199;60025153;60021199;60025153;60021199;60021199
+   - **Corresponding:** Samandari A.
+20.
+   - **Title:** An IEC 62443-Based Framework for Secure-by-Design Energy Communities
+   - **Venue:** IEEE Access
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/ACCESS.2024.3492316
+   - **Scopus ID:** 2-s2.0-85209085879
+   - **eISSN:** 21693536
+   - **Volume:** 12
+   - **Pages:** 166320-166332
+   - **Authors:** Gaggero Giovanni Battista; Armellin Alessandro; Girdinio Paola; Marchese Mario
+   - **Keywords:** cybersecurity | Energy community | security by design | smart grid
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 42, percentile 88)
+     - Computer Science (all) (Q1, rank 41, percentile 83)
+     - Materials Science (all) (Q1, rank 101, percentile 78)
+     2024:
+     - Engineering (all) (Q1, rank 32, percentile 90)
+     - Computer Science (all) (Q1, rank 33, percentile 86)
+     - Materials Science (all) (Q1, rank 87, percentile 81)
+   - **Source Id:** 21100374601
+   - **Author Ids:** 57216708944;57699327800;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153-128824789;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+21.
+   - **Title:** A Framework for the Deployment of Cybersecurity Monitoring Tools in the Industrial Environment
+   - **Venue:** IT Professional
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1109/MITP.2024.3396356
+   - **Scopus ID:** 2-s2.0-85206497978
+   - **ISSN:** 15209202
+   - **eISSN:** 1941045X
+   - **Volume:** 26
+   - **Issue:** 4
+   - **Pages:** 62-70
+   - **Authors:** Armellin Alessandro; Caviglia Roberto; Gaggero Giovanni; Marchese Mario
+   - **Quartile:**
+     2025:
+     - Computer Science Applications (Q2, rank 349, percentile 64)
+     - Software (Q2, rank 187, percentile 62)
+     - Hardware and Architecture (Q2, rank 88, percentile 62)
+     2024:
+     - Computer Science Applications (Q2, rank 331, percentile 65)
+     - Hardware and Architecture (Q2, rank 82, percentile 63)
+     - Software (Q2, rank 186, percentile 62)
+   - **Source Id:** 25053
+   - **Author Ids:** 57699327800;57700266100;57216708944;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Armellin A.
+22.
+   - **Title:** Are IDS Violating Segmentation in Industrial Networks?
+   - **Venue:** Proceedings of the 2024 IEEE International Conference on Cyber Security and Resilience Csr 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/CSR61664.2024.10679425
+   - **Scopus ID:** 2-s2.0-85206212466
+   - **Pages:** 45-49
+   - **Authors:** Gaggero Giovanni Battista; Caviglia Roberto; Girdinio Paola; Marchese Mario
+   - **Keywords:** IEC 62443 | Industrial Control System | Intrusion Detection System | Network Segmentation
+   - **Source Id:** 21101253086
+   - **Author Ids:** 57216708944;57700266100;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153-130228801;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+23.
+   - **Title:** An SDR-Based Framework for Cybersecurity Assessment of Vehicle-to-Everything (V2X) Systems
+   - **Venue:** Proceedings of the 2024 IEEE International Conference on Cyber Security and Resilience Csr 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/CSR61664.2024.10679384
+   - **Scopus ID:** 2-s2.0-85206183642
+   - **Pages:** 537-544
+   - **Authors:** Sohail Muhammad Saad; Portamauro Giancarlo; Patrone Fabio; Marchese Mario
+   - **Keywords:** Cellular | Decentralized Environmental Notification Message (DENM) | Dedicated Short-Range Communications (DSRC) | In-Vehicle Information (IVI) | Intelligent Transportation Service | On Board Unit (OBU) | Road Side Unit (RSU) | Vehicle to everything
+   - **Source Id:** 21101253086
+   - **Author Ids:** 59364633700;59364527700;56536292600;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Sohail M.S.
+24.
+   - **Title:** Fuzzy Logic-Based Orchestration of Multi-Access Edge Computing in LEO Satellite Constellations
+   - **Venue:** 2024 IEEE International Conference on Communications Workshops Icc Workshops 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICCWorkshops59551.2024.10615305
+   - **Scopus ID:** 2-s2.0-85202450056
+   - **Pages:** 1685-1690
+   - **Authors:** Rojas Camilo; Fraire Juan A.; Patrone Fabio; Marchese Mario
+   - **Keywords:** Multi-access Edge Computing | Satellite Constellation
+   - **Source Id:** 21101245169
+   - **Author Ids:** 57202198493;55667636500;56536292600;7004398165
+   - **Authoraffiliationids:** 60025153;60013373-60000658;60025153;60025153
+   - **Corresponding:** Rojas C.
+25.
+   - **Title:** Advanced Constellation Emulation and Synthetic Datasets Generation for Non-Terrestrial Networks
+   - **Venue:** 2024 IEEE International Mediterranean Conference on Communications and Networking Meditcom 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/MeditCom61057.2024.10621248
+   - **Scopus ID:** 2-s2.0-85202354976
+   - **Pages:** 37-43
+   - **Authors:** Rojas Camilo; Fraire Juan A.; Patrone Fabio; Marchese Mario
+   - **Keywords:** Machine Learning | Multi-access Edge Computing | Satellite Constellation | Software-Defined Networks | Synthetic Datasets
+   - **Source Id:** 21101244717
+   - **Author Ids:** 57202198493;55667636500;56536292600;7004398165
+   - **Authoraffiliationids:** 60025153;60013373-60000658;60025153;60025153
+   - **Corresponding:** Rojas C.
+26.
+   - **Title:** BESS-Set: A Dataset for Cybersecurity Monitoring in a Battery Energy Storage System
+   - **Venue:** IEEE Open Access Journal of Power and Energy
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/OAJPE.2024.3439856
+   - **Scopus ID:** 2-s2.0-85200813502
+   - **eISSN:** 26877910
+   - **Volume:** 11
+   - **Pages:** 362-372
+   - **Authors:** Battista Gaggero Giovanni; Armellin Alessandro; Ferro Giulio; Robba Michela; Girdinio Paola; Marchese Mario
+   - **Keywords:** anomaly detection | cybersecurity | Dataset | distributed energy resources | smart grid | storage
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 222, percentile 77)
+     - Energy Engineering and Power Technology (Q2, rank 89, percentile 72)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 183, percentile 81)
+     - Energy Engineering and Power Technology (Q2, rank 76, percentile 74)
+   - **Source Id:** 21101059747
+   - **Author Ids:** 57216708944;57699327800;57062015700;7004979187;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60121711;60121711;60025153;60025153
+   - **Corresponding:** Battista Gaggero G.
+27.
+   - **Title:** User-Centric Satellite Handover for Multiple Traffic Profiles Using Deep Q-Learning
+   - **Venue:** IEEE Transactions on Aerospace and Electronic Systems
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1109/TAES.2024.3434771
+   - **Scopus ID:** 2-s2.0-85200261460
+   - **ISSN:** 00189251
+   - **eISSN:** 15579603
+   - **Volume:** 60
+   - **Issue:** 6
+   - **Pages:** 8591-8604
+   - **Authors:** Badini Nour; Jaber Mona; Marchese Mario; Patrone Fabio
+   - **Keywords:** Deep neural network (DNN) | deep Q-learning (DQL) | distributed satellite handover (HO) | multiagent reinforcement learning (MARL) | satellite-terrestrial integrated network (STIN) simulator
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 11, percentile 93)
+     - Electrical and Electronic Engineering (Q1, rank 109, percentile 89)
+     2024:
+     - Aerospace Engineering (Q1, rank 14, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+   - **Source Id:** 17336
+   - **Author Ids:** 57854682900;56970872000;7004398165;56536292600
+   - **Authoraffiliationids:** 60025153-60022109;60025153-60022109;60025153-60022109;60025153-60022109
+   - **Corresponding:** Badini N.
+28.
+   - **Title:** OpenSatRange: An Open Cyber Range for Operators and Users of Satellite Communication Networks
+   - **Venue:** Ceur Workshop Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-85199538329
+   - **ISSN:** 16130073
+   - **Volume:** 3731
+   - **Authors:** Patrone Fabio; Loreti Pierpaolo; Fiscariello Luca; Bracciale Lorenzo; Amici Alessandro; Detti Andrea; Roseti Cesare; Zampognaro Francesco; Luglio Michele; Bianchi Giuseppe; Marchese Mario
+   - **Keywords:** Cyber range | OpenStack | Satellite communication networks
+   - **Quartile:**
+     2025:
+     - Computer Science (all) (Q4, rank 214, percentile 11)
+     2024:
+     - Computer Science (all) (Q4, rank 215, percentile 10)
+   - **Source Id:** 21100218356
+   - **Author Ids:** 56536292600;7003459349;59233438400;24722537100;57697346500;6602789368;15127967700;24484308800;7003570928;7203066398;7004398165
+   - **Authoraffiliationids:** 60025153;60103966;60331872;60103966;60103966;60103966;60331872;60331872;60331872;60103966;60025153
+   - **Corresponding:** Patrone F.
+29.
+   - **Title:** Vulnerability Assessment of Industrial and Agricultural Control Systems within the IoT Framework
+   - **Venue:** Intelligent Computing on Iot 2 0 Big Data Analytics and Block Chain Technology
+   - **Year:** 2024
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 2
+   - **DOI:** 10.1201/9781003326236-19
+   - **Scopus ID:** 2-s2.0-85194761973
+   - **Pages:** 350-371
+   - **Authors:** Caviglia Roberto; Davoli Franco; Fausto Alessandro; Gaggero Giovanni; Marchese Mario; Moheddine Aya; Patrone Fabio; Portomauro Giancarlo
+   - **Source Id:** 21101225740
+   - **Author Ids:** 57700266100;57220364548;57216708248;57216708944;7004398165;57210886858;56536292600;15128054100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Caviglia R.
+30.
+   - **Title:** Industrial Control System-Anomaly Detection Dataset (ICS-ADD) for Cyber-Physical Security Monitoring in Smart Industry Environments
+   - **Venue:** IEEE Access
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 19
+   - **DOI:** 10.1109/ACCESS.2024.3395991
+   - **Scopus ID:** 2-s2.0-85192180205
+   - **eISSN:** 21693536
+   - **Volume:** 12
+   - **Pages:** 64140-64149
+   - **Authors:** Gaggero Giovanni Battista; Armellin Alessandro; Portomauro Giancarlo; Marchese Mario
+   - **Keywords:** cyber-events dataset | cybersecurity | Industrial control system | open source | OSSIM | smart industry | Suricata
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 42, percentile 88)
+     - Computer Science (all) (Q1, rank 41, percentile 83)
+     - Materials Science (all) (Q1, rank 101, percentile 78)
+     2024:
+     - Engineering (all) (Q1, rank 32, percentile 90)
+     - Computer Science (all) (Q1, rank 33, percentile 86)
+     - Materials Science (all) (Q1, rank 87, percentile 81)
+   - **Source Id:** 21100374601
+   - **Author Ids:** 57216708944;57699327800;15128054100;7004398165
+   - **Authoraffiliationids:** 60025153;60025153-128824789;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+31.
+   - **Title:** Self-Supervised Path Planning In Uav-Aided Wireless Networks Based On Active Inference
+   - **Venue:** ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ICASSP48485.2024.10446575
+   - **Scopus ID:** 2-s2.0-105001474583
+   - **ISSN:** 15206149
+   - **Pages:** 13181-13185
+   - **Authors:** Krayani Ali; Khan Khalid; Marcenaro Lucio; Marchese Mario; Regazzoni Carlo
+   - **Keywords:** path planning | self-supervision | traveling salesman | UAV | world model
+   - **Source Id:** 110544
+   - **Author Ids:** 57211429954;57216893532;6603377664;7004398165;35513672400
+   - **Authoraffiliationids:** 60025153-60103966;60025153;60025153-60103966;60025153-60103966;60025153-60103966
+   - **Corresponding:** Krayani A.
+32.
+   - **Title:** A Goal-Directed Trajectory Planning Using Active Inference in UAV-Assisted Wireless Networks
+   - **Venue:** Sensors
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.3390/s23156873
+   - **Scopus ID:** 2-s2.0-85167741786
+   - **ISSN:** 14248220
+   - **Volume:** 23
+   - **Issue:** 15
+   - **Authors:** Krayani Ali; Khan Khalid; Marcenaro Lucio; Marchese Mario; Regazzoni Carlo
+   - **Keywords:** active inference | AI-enabled radios | trajectory design | traveling salesman problem | UAVs | wireless networks | world models
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2023:
+     - Instrumentation (Q1, rank 24, percentile 83)
+     - Electrical and Electronic Engineering (Q1, rank 163, percentile 79)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 48, percentile 78)
+     - Analytical Chemistry (Q1, rank 36, percentile 77)
+     - Information Systems (Q1, rank 91, percentile 77)
+     - Biochemistry (Q2, rank 133, percentile 69)
+   - **Source Id:** 130124
+   - **Author Ids:** 57211429954;57216893532;6603377664;7004398165;35513672400
+   - **Authoraffiliationids:** 60025153-60103966;60025153;60025153-60103966;60025153-60103966;60025153-60103966
+   - **Corresponding:** Krayani A.
+33.
+   - **Title:** UAV-based LoRaWAN flying gateway for the internet of flying things
+   - **Venue:** International Journal of Communication Systems
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1002/dac.5421
+   - **Scopus ID:** 2-s2.0-85144832641
+   - **ISSN:** 10745351
+   - **eISSN:** 10991131
+   - **Volume:** 36
+   - **Issue:** 5
+   - **Authors:** Moheddine Aya; Patrone Fabio; Marchese Mario
+   - **Keywords:** data mule | flying gateway | internet of flying things | LoRaWAN | low power wide area network | unmanned aerial vehicle
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 309, percentile 69)
+     - Computer Networks and Communications (Q2, rank 171, percentile 68)
+     2023:
+     - Electrical and Electronic Engineering (Q2, rank 218, percentile 72)
+     - Computer Networks and Communications (Q2, rank 123, percentile 68)
+   - **Source Id:** 17964
+   - **Author Ids:** 57210886858;56536292600;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Moheddine A.
+34.
+   - **Title:** Routing in Scalable Delay-Tolerant Space Networks with Graph Neural Networks
+   - **Venue:** International Conference on Embedded Wireless Systems and Networks
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85200537490
+   - **eISSN:** 25622331
+   - **Authors:** Olmedo Matías; Fraire Juan A.; Cherini Renato; Patrone Fabio; Marchese Mario
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 451, percentile 17)
+     - Information Systems (Q4, rank 414, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 831, percentile 16)
+     2023:
+     - Electrical and Electronic Engineering (Q3, rank 515, percentile 35)
+     - Computer Networks and Communications (Q3, rank 276, percentile 30)
+     - Information Systems (Q3, rank 281, percentile 28)
+   - **Source Id:** 21101067699
+   - **Author Ids:** 57544437200;55667636500;35247776600;56536292600;7004398165
+   - **Authoraffiliationids:** 60020507;60016253-60004518;60000658;60025153;60025153
+   - **Corresponding:** Olmedo M.
+35.
+   - **Title:** Continuous Time Emulation for Software-Defined Non-Terrestrial Edge Computing Networks
+   - **Venue:** 28th European Wireless Conference Ew 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-85191259429
+   - **Pages:** 223-228
+   - **Authors:** Rojas Camilo; Fraire Juan A.; Patrone Fabio; Gotta Alberto; Marchese Mario
+   - **Keywords:** Multi-access Edge Computing | Satellite Constellation | Software-Defined Networks
+   - **Source Id:** 21101216404
+   - **Author Ids:** 57202198493;55667636500;56536292600;9846429300;7004398165
+   - **Authoraffiliationids:** 60025153;60016253-60000658;60025153;60008218;60025153
+   - **Corresponding:** Rojas C.
+36.
+   - **Title:** Energy-Aware Satellite Handover Based on Deep Reinforcement Learning
+   - **Venue:** 2023 IEEE Globecom Workshops GC Wkshps 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/GCWkshps58843.2023.10464394
+   - **Scopus ID:** 2-s2.0-85190246987
+   - **Pages:** 437-442
+   - **Authors:** Badini Nour; Jaber Mona; Marchese Mario; Patrone Fabio
+   - **Keywords:** Deep Neural Network | Deep Q-Learning | Energy Efficiency | Multi-Agent Reinforcement Learning | Satellite Handover | Satellite-Terrestrial Integrated Network Simulator
+   - **Source Id:** 21101214471
+   - **Author Ids:** 57854682900;56970872000;7004398165;56536292600
+   - **Authoraffiliationids:** 60025153-60022109;60022109;60025153;60025153
+   - **Corresponding:** Badini N.
+37.
+   - **Title:** Integrating OT data in SIEM platforms: an Energy Utility Perspective
+   - **Venue:** 4th International Conference on Electrical Communication and Computer Engineering Icecce 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/ICECCE61019.2023.10442554
+   - **Scopus ID:** 2-s2.0-85187220481
+   - **Authors:** Armellin Alessandro; Gaggero Giovanni Battista; Cattelino Alessandro; Piana Loris; Raggi Stefano; Marchese Mario
+   - **Keywords:** Cybersecurity | Energy Utility | Operational Technology | SIEM
+   - **Source Id:** 21101206195
+   - **Author Ids:** 57699327800;57216708944;57929518600;58928510300;58928435200;7004398165
+   - **Authoraffiliationids:** 60025153-128824789;60025153;128824789;128824789;128824789;60025153
+   - **Corresponding:** Armellin A.
+38.
+   - **Title:** Evaluation of the Impact of Cyber-Attacks Against Electric Vehicle Charging Stations in a Low Voltage Distribution Grid
+   - **Venue:** 2023 IEEE International Conference on Communications Control and Computing Technologies for Smart Grids Smartgridcomm 2023 Proceedings
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/SmartGridComm57358.2023.10333896
+   - **Scopus ID:** 2-s2.0-85179139824
+   - **Authors:** Mokarim Afroz; Gaggero Giovanni Battista; Marchese Mario
+   - **Keywords:** Cyber attacks | distribution grid | electric vehicle charging stations | low-voltage
+   - **Source Id:** 21101194357
+   - **Author Ids:** 57210415425;57216708944;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Mokarim A.
+39.
+   - **Title:** Reinforcement Learning-Based Load Balancing Satellite Handover Using NS-3
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/ICC45041.2023.10279521
+   - **Scopus ID:** 2-s2.0-85178287743
+   - **ISSN:** 15503607
+   - **Volume:** 2023-May
+   - **Pages:** 2595-2600
+   - **Authors:** Badini Nour; Jaber Mona; Marchese Mario; Patrone Fabio
+   - **Keywords:** 5G Satellite-Terrestrial Integrated Networks | NS-3 | Reinforcement Learning | Satellite Handover
+   - **Source Id:** 33201
+   - **Author Ids:** 57854682900;56970872000;7004398165;56536292600
+   - **Authoraffiliationids:** 60025153-60022109;60022109;60025153;60025153
+   - **Corresponding:** Badini N.
+40.
+   - **Title:** SPAT: A Testbed for Automotive Cybersecurity Training
+   - **Venue:** Proceedings of the 2023 IEEE International Conference on Cyber Security and Resilience Csr 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/CSR57506.2023.10224967
+   - **Scopus ID:** 2-s2.0-85171733782
+   - **Pages:** 381-386
+   - **Authors:** Caviglia Roberto; Gaggero Giovanni Battista; Vincis Nicola; Morando Omar; Aceti Alessio; Marchese Mario
+   - **Keywords:** automotive | CANBus | cybersecurity | testbed | training
+   - **Source Id:** 21101178243
+   - **Author Ids:** 57700266100;57216708944;58609323200;57222380530;58609673600;7004398165
+   - **Authoraffiliationids:** 60025153-130228801;60025153;130228801;130228801;130228801;60025153
+   - **Corresponding:** Caviglia R.
+41.
+   - **Title:** Intelligent Space Communication Networks
+   - **Venue:** Signals and Communication Technology
+   - **Year:** 2023
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 1
+   - **DOI:** 10.1007/978-3-031-30762-1_7
+   - **Scopus ID:** 2-s2.0-85166118794
+   - **ISSN:** 18604862
+   - **eISSN:** 18604870
+   - **Volume:** Part F1069
+   - **Pages:** 171-183
+   - **Authors:** Marchese Mario; Morosi Simone; Patrone Fabio
+   - **Keywords:** Artificial intelligence | Edge computing | Remote sensing | Resource allocation | Security | Space communications
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 420, percentile 23)
+     - Electrical and Electronic Engineering (Q4, rank 766, percentile 23)
+     - Signal Processing (Q4, rank 151, percentile 22)
+     - Control and Systems Engineering (Q4, rank 316, percentile 17)
+     2023:
+     - Electrical and Electronic Engineering (Q4, rank 643, percentile 19)
+     - Control and Systems Engineering (Q4, rank 268, percentile 16)
+     - Signal Processing (Q4, rank 111, percentile 15)
+     - Computer Networks and Communications (Q4, rank 347, percentile 12)
+   - **Source Id:** 21100901476
+   - **Author Ids:** 7004398165;6701609673;56536292600
+   - **Authoraffiliationids:** 60025153;60021859;60025153
+   - **Corresponding:** Marchese M.
+42.
+   - **Title:** The Role of Satellite in 5G and Beyond
+   - **Venue:** Signals and Communication Technology
+   - **Year:** 2023
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 2
+   - **DOI:** 10.1007/978-3-031-30762-1_2
+   - **Scopus ID:** 2-s2.0-85166110138
+   - **ISSN:** 18604862
+   - **eISSN:** 18604870
+   - **Volume:** Part F1069
+   - **Pages:** 41-66
+   - **Authors:** Marchese Mario; Patrone Fabio; Guidotti Alessandro
+   - **Keywords:** 5G | 6G | Beyond 5G | Non-terrestrial networks | Radio access network
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 420, percentile 23)
+     - Electrical and Electronic Engineering (Q4, rank 766, percentile 23)
+     - Signal Processing (Q4, rank 151, percentile 22)
+     - Control and Systems Engineering (Q4, rank 316, percentile 17)
+     2023:
+     - Electrical and Electronic Engineering (Q4, rank 643, percentile 19)
+     - Control and Systems Engineering (Q4, rank 268, percentile 16)
+     - Signal Processing (Q4, rank 111, percentile 15)
+     - Computer Networks and Communications (Q4, rank 347, percentile 12)
+   - **Source Id:** 21100901476
+   - **Author Ids:** 7004398165;56536292600;56948758400
+   - **Authoraffiliationids:** 60025153;60025153;60103966
+   - **Corresponding:** Marchese M.
+43.
+   - **Title:** An SDR-Based Cybersecurity Verification Framework for Smart Agricultural Machines
+   - **Venue:** IEEE Access
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1109/ACCESS.2023.3282169
+   - **Scopus ID:** 2-s2.0-85161519280
+   - **eISSN:** 21693536
+   - **Volume:** 11
+   - **Pages:** 54210-54220
+   - **Authors:** Caviglia Roberto; Gaggero Giovanni; Portomauro Giancarlo; Patrone Fabio; Marchese Mario
+   - **Keywords:** autonomous machines | cybersecurity | penetration test | Smart agriculture | software defined radio (SDR) | wireless communications
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 42, percentile 88)
+     - Computer Science (all) (Q1, rank 41, percentile 83)
+     - Materials Science (all) (Q1, rank 101, percentile 78)
+     2023:
+     - Engineering (all) (Q1, rank 23, percentile 92)
+     - Computer Science (all) (Q1, rank 29, percentile 87)
+     - Materials Science (all) (Q1, rank 77, percentile 83)
+   - **Source Id:** 21100374601
+   - **Author Ids:** 57700266100;57216708944;15128054100;56536292600;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Caviglia R.
+44.
+   - **Title:** Novel Cybersecurity Issues in Smart Energy Communities
+   - **Venue:** 1st International Conference in Advanced Innovation on Smart City Icaisc 2023 Proceedings
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/ICAISC56366.2023.10085312
+   - **Scopus ID:** 2-s2.0-85153051667
+   - **Authors:** Gaggero Giovanni Battista; Piserà Diego; Girdinio Paola; Silvestro Federico; Marchese Mario
+   - **Keywords:** Cybersecurity | Energy Community | Smart Grid
+   - **Source Id:** 21101147411
+   - **Author Ids:** 57216708944;57226694852;7003430835;23026343700;7004398165
+   - **Authoraffiliationids:** 60025153;60025153-126318742;60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+45.
+   - **Title:** Foreword to the Special Section on Information and Communication Technologies (ICT) for a New Space Vision
+   - **Venue:** IEEE Transactions on Aerospace and Electronic Systems
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Editorial
+   - **Citations:** 1
+   - **DOI:** 10.1109/TAES.2022.3209856
+   - **Scopus ID:** 2-s2.0-85140313975
+   - **ISSN:** 00189251
+   - **eISSN:** 15579603
+   - **Volume:** 58
+   - **Issue:** 5
+   - **Pages:** 3743-3745
+   - **Authors:** Sacchi Claudio; Granelli Fabrizio; Marchese Mario; Cheung Kar Ming; Noble Michael
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 11, percentile 93)
+     - Electrical and Electronic Engineering (Q1, rank 109, percentile 89)
+     2022:
+     - Aerospace Engineering (Q1, rank 15, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 83)
+   - **Source Id:** 17336
+   - **Author Ids:** 56206655300;6701655006;7004398165;7402406630;57216040137
+   - **Authoraffiliationids:** 60015986;60015986;60025153;60009037;60274455
+   - **Corresponding:** Sacchi C.
+46.
+   - **Title:** Performance Evaluation of a Satellite Communication-Based MEC Architecture for IoT Applications
+   - **Venue:** IEEE Transactions on Aerospace and Electronic Systems
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 24
+   - **DOI:** 10.1109/TAES.2022.3199330
+   - **Scopus ID:** 2-s2.0-85136848513
+   - **ISSN:** 00189251
+   - **eISSN:** 15579603
+   - **Volume:** 58
+   - **Issue:** 5
+   - **Pages:** 3775-3785
+   - **Authors:** Luglio Michele; Marchese Mario; Patrone Fabio; Roseti Cesare; Zampognaro Francesco
+   - **Keywords:** Internet of Things (IoT) | Message Queuing Telemetry Transport (MQTT) | multi-Access edge computing (MEC) | satellite communications (SatCom)
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 11, percentile 93)
+     - Electrical and Electronic Engineering (Q1, rank 109, percentile 89)
+     2022:
+     - Aerospace Engineering (Q1, rank 15, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 83)
+   - **Source Id:** 17336
+   - **Author Ids:** 7003570928;7004398165;56536292600;15127967700;24484308800
+   - **Authoraffiliationids:** 60027509;60025153;60025153;60027509;60027509
+   - **Corresponding:** Luglio M.
+47.
+   - **Title:** Flow Assignment and Processing on a Distributed Edge Computing Platform
+   - **Venue:** IEEE Transactions on Vehicular Technology
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/TVT.2022.3172792
+   - **Scopus ID:** 2-s2.0-85132519369
+   - **ISSN:** 00189545
+   - **eISSN:** 19399359
+   - **Volume:** 71
+   - **Issue:** 8
+   - **Pages:** 8783-8795
+   - **Authors:** Davoli Franco; Marchese Mario; Patrone Fabio
+   - **Keywords:** 5G | distributed computing | Flow assignment | MEC | resource allocation
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 63, percentile 93)
+     - Automotive Engineering (Q1, rank 9, percentile 93)
+     - Computer Networks and Communications (Q1, rank 38, percentile 93)
+     2022:
+     - Aerospace Engineering (Q1, rank 4, percentile 97)
+     - Automotive Engineering (Q1, rank 4, percentile 96)
+     - Computer Networks and Communications (Q1, rank 17, percentile 95)
+     - Electrical and Electronic Engineering (Q1, rank 38, percentile 94)
+   - **Source Id:** 17393
+   - **Author Ids:** 57220364548;7004398165;56536292600
+   - **Authoraffiliationids:** 60025153-60103966;60025153;60025153-60103966
+   - **Corresponding:** Davoli F.
+48.
+   - **Title:** Detecting Cyberattacks on Electrical Storage Systems through Neural Network Based Anomaly Detection Algorithm
+   - **Venue:** Sensors
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 21
+   - **DOI:** 10.3390/s22103933
+   - **Scopus ID:** 2-s2.0-85130394047
+   - **ISSN:** 14248220
+   - **Volume:** 22
+   - **Issue:** 10
+   - **Authors:** Gaggero Giovanni Battista; Caviglia Roberto; Armellin Alessandro; Rossi Mansueto; Girdinio Paola; Marchese Mario
+   - **Keywords:** anomaly detection | autoencoder | cybersecurity | distributed energy resources | electrical battery storage systems | neural network
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2022:
+     - Instrumentation (Q1, rank 18, percentile 87)
+     - Electrical and Electronic Engineering (Q1, rank 146, percentile 80)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 47, percentile 77)
+     - Analytical Chemistry (Q1, rank 32, percentile 77)
+     - Information Systems (Q1, rank 87, percentile 77)
+     - Biochemistry (Q2, rank 151, percentile 64)
+   - **Source Id:** 130124
+   - **Author Ids:** 57216708944;57700266100;57699327800;7403708681;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+49.
+   - **Title:** Orbital Edge Offloading on Mega-LEO Satellite Constellations for Equal Access to Computing
+   - **Venue:** IEEE Communications Magazine
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 78
+   - **DOI:** 10.1109/MCOM.001.2100818
+   - **Scopus ID:** 2-s2.0-85128868852
+   - **ISSN:** 01636804
+   - **eISSN:** 15581896
+   - **Volume:** 60
+   - **Issue:** 4
+   - **Pages:** 32-36
+   - **Authors:** Cassara Pietro; Gotta Alberto; Marchese Mario; Patrone Fabio
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 21, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 46, percentile 95)
+     - Computer Science Applications (Q1, rank 63, percentile 93)
+     2022:
+     - Computer Science Applications (Q1, rank 9, percentile 98)
+     - Computer Networks and Communications (Q1, rank 6, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 16, percentile 97)
+   - **Source Id:** 17249
+   - **Author Ids:** 24767643400;9846429300;7004398165;56536292600
+   - **Authoraffiliationids:** 60008218-128037071;60008218-60000251;60025153;60025153
+   - **Corresponding:** Cassara P.
+50.
+   - **Title:** Reduction of the Delays Within an Intrusion Detection System (IDS) Based on Software Defined Networking (SDN)
+   - **Venue:** IEEE Access
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1109/ACCESS.2022.3214974
+   - **Scopus ID:** 2-s2.0-85140779316
+   - **eISSN:** 21693536
+   - **Volume:** 10
+   - **Pages:** 109850-109862
+   - **Authors:** Fausto Alessandro; Gaggero Giovanni; Patrone Fabio; Marchese Mario
+   - **Keywords:** Cybersecurity | intrusion detection system (IDS) | key performance indicators (KPI) | OpenFlow | software defined networking (SDN)
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 42, percentile 88)
+     - Computer Science (all) (Q1, rank 41, percentile 83)
+     - Materials Science (all) (Q1, rank 101, percentile 78)
+     2022:
+     - Engineering (all) (Q1, rank 22, percentile 92)
+     - Computer Science (all) (Q1, rank 25, percentile 89)
+     - Materials Science (all) (Q1, rank 78, percentile 82)
+   - **Source Id:** 21100374601
+   - **Author Ids:** 57216708248;57216708944;56536292600;7004398165
+   - **Authoraffiliationids:** 60025153-128791506;60025153;60025153;60025153
+   - **Corresponding:** Fausto A.
+51.
+   - **Title:** Cybersecurity Issues in Communication-Based Electrical Protections
+   - **Venue:** International Conference on Electrical Computer and Energy Technologies Icecet 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/ICECET55527.2022.9873081
+   - **Scopus ID:** 2-s2.0-85138917455
+   - **Authors:** Gaggero Giovanni Battista; Rossi Mansueto; Girdinio Paola; Marchese Mario
+   - **Keywords:** cybersecurity | electrical protection | IEC 62351 | microgrid | smart grid
+   - **Source Id:** 21101110203
+   - **Author Ids:** 57216708944;7403708681;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+52.
+   - **Title:** Comparison between UAV IoT solutions with and without satellite backhaul link
+   - **Venue:** IEEE Aerospace Conference Proceedings
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/AERO53065.2022.9843367
+   - **Scopus ID:** 2-s2.0-85137585931
+   - **ISSN:** 1095323X
+   - **Volume:** 2022-March
+   - **Authors:** Moheddine Aya; Patrone Fabio; Marchese Mario
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q3, rank 88, percentile 45)
+     - Space and Planetary Science (Q3, rank 67, percentile 35)
+     2022:
+     - Aerospace Engineering (Q3, rank 82, percentile 40)
+     - Space and Planetary Science (Q3, rank 69, percentile 32)
+   - **Source Id:** 75113
+   - **Author Ids:** 57210886858;56536292600;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Moheddine A.
+53.
+   - **Title:** NS-3-based 5G Satellite-Terrestrial Integrated Network Simulator
+   - **Venue:** MELECON 2022 IEEE Mediterranean Electrotechnical Conference Proceedings
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 22
+   - **DOI:** 10.1109/MELECON53508.2022.9843098
+   - **Scopus ID:** 2-s2.0-85136415922
+   - **Pages:** 154-159
+   - **Authors:** Badini Nour; Marchese Mario; Patrone Fabio
+   - **Keywords:** 5G | NS-3 | Satellite-Terrestrial Integrated Networks | System Level Simulator
+   - **Source Id:** 21101102123
+   - **Author Ids:** 57854682900;7004398165;56536292600
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Badini N.
+54.
+   - **Title:** A Framework for Network Security Verification of Automated Vehicles in the Agricultural Domain
+   - **Venue:** Proceedings of the 2022 26th International Conference Electronics Electronics 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/IEEECONF55059.2022.9810440
+   - **Scopus ID:** 2-s2.0-85135051185
+   - **Authors:** Gaggero Giovanni Battista; Fausto Alessandro; Patrone Fabio; Marchese Mario
+   - **Keywords:** Agriculture | Automation | CANbus | Cybersecurity | Verification
+   - **Source Id:** 21101098734
+   - **Author Ids:** 57216708944;57216708248;56536292600;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+55.
+   - **Title:** Resource Allocation in Satellite Networks—From Physical to Virtualized Network Functions
+   - **Venue:** Lecture Notes in Networks and Systems
+   - **Year:** 2022
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 1
+   - **DOI:** 10.1007/978-3-030-87049-2_19
+   - **Scopus ID:** 2-s2.0-85126533391
+   - **ISSN:** 23673370
+   - **eISSN:** 23673389
+   - **Volume:** 289
+   - **Pages:** 559-580
+   - **Authors:** Davoli Franco; Marchese Mario
+   - **Keywords:** 5G | 6G | Network management and control | Resource allocation | Satellite communications
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 146, percentile 25)
+     - Computer Networks and Communications (Q3, rank 410, percentile 25)
+     - Control and Systems Engineering (Q4, rank 302, percentile 20)
+     2022:
+     - Signal Processing (Q4, rank 108, percentile 11)
+     - Control and Systems Engineering (Q4, rank 256, percentile 10)
+     - Computer Networks and Communications (Q4, rank 347, percentile 8)
+   - **Source Id:** 21100901469
+   - **Author Ids:** 57220364548;7004398165
+   - **Authoraffiliationids:** 60025153-124426043;60025153
+   - **Corresponding:** Davoli F.
+56.
+   - **Title:** Toward the integration of cyber and physical security monitoring systems for critical infrastructures
+   - **Venue:** Sensors
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 26
+   - **DOI:** 10.3390/s21216970
+   - **Scopus ID:** 2-s2.0-85117331623
+   - **ISSN:** 14248220
+   - **Volume:** 21
+   - **Issue:** 21
+   - **Authors:** Fausto Alessandro; Gaggero Giovanni Battista; Patrone Fabio; Girdinio Paola; Marchese Mario
+   - **Keywords:** Anomaly detection | Critical infrastructure | Cybersecurity | Machine learning | Physical security
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2021:
+     - Instrumentation (Q1, rank 12, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 134, percentile 81)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 42, percentile 79)
+     - Analytical Chemistry (Q1, rank 27, percentile 79)
+     - Information Systems (Q1, rank 77, percentile 78)
+     - Biochemistry (Q2, rank 145, percentile 66)
+   - **Source Id:** 130124
+   - **Author Ids:** 57216708248;57216708944;56536292600;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Fausto A.
+57.
+   - **Title:** Advancements and research trends in microgrids cybersecurity
+   - **Venue:** Applied Sciences Switzerland
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 21
+   - **DOI:** 10.3390/app11167363
+   - **Scopus ID:** 2-s2.0-85112518826
+   - **eISSN:** 20763417
+   - **Volume:** 11
+   - **Issue:** 16
+   - **Authors:** Gaggero Giovanni Battista; Girdinio Paola; Marchese Mario
+   - **Keywords:** Anomaly detection | Cybersecurity | Intrusion detection systems (IDS) | Resiliency | Smart microgrids | Software defined networking (SDN)
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 69, percentile 80)
+     - Instrumentation (Q1, rank 38, percentile 80)
+     - Fluid Flow and Transfer Processes (Q1, rank 21, percentile 79)
+     - Computer Science Applications (Q2, rank 294, percentile 70)
+     - Materials Science (all) (Q2, rank 166, percentile 64)
+     - Process Chemistry and Technology (Q2, rank 34, percentile 55)
+     2021:
+     - Engineering (all) (Q2, rank 81, percentile 73)
+     - Instrumentation (Q2, rank 52, percentile 62)
+     - Computer Science Applications (Q2, rank 301, percentile 59)
+     - Fluid Flow and Transfer Processes (Q2, rank 37, percentile 58)
+     - Materials Science (all) (Q2, rank 219, percentile 51)
+     - Process Chemistry and Technology (Q3, rank 32, percentile 48)
+   - **Source Id:** 21100829268
+   - **Author Ids:** 57216708944;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+58.
+   - **Title:** A possible smart metering system evolution for rural and remote areas employing unmanned aerial vehicles and internet of things in smart grids
+   - **Venue:** Sensors
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 33
+   - **DOI:** 10.3390/s21051627
+   - **Scopus ID:** 2-s2.0-85101391601
+   - **ISSN:** 14248220
+   - **Volume:** 21
+   - **Issue:** 5
+   - **Pages:** 1-23
+   - **Authors:** Gaggero Giovanni Battista; Marchese Mario; Moheddine Aya; Patrone Fabio
+   - **Keywords:** Internet of Things | Low Power Wide Area Network | Smart Grid | Smart Metering | UAV
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2021:
+     - Instrumentation (Q1, rank 12, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 134, percentile 81)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 42, percentile 79)
+     - Analytical Chemistry (Q1, rank 27, percentile 79)
+     - Information Systems (Q1, rank 77, percentile 78)
+     - Biochemistry (Q2, rank 145, percentile 66)
+   - **Source Id:** 130124
+   - **Author Ids:** 57216708944;7004398165;57210886858;56536292600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+59.
+   - **Title:** Dynamic Bayesian Collective Awareness Models for a Network of Ego-Things
+   - **Venue:** IEEE Internet of Things Journal
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/JIOT.2020.3043199
+   - **Scopus ID:** 2-s2.0-85097924392
+   - **eISSN:** 23274662
+   - **Volume:** 8
+   - **Issue:** 5
+   - **Pages:** 3224-3241
+   - **Authors:** Kanapram DIvya Thekke; Marchese Mario; Bodanese Eliane L.; Gomez David Martin; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** Abnormality detection | collective awareness (CA) | dynamic Bayesian network (DBN) | Markov jump particle filter (MJPF) | self-awareness (SA)
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 20, percentile 96)
+     - Hardware and Architecture (Q1, rank 9, percentile 96)
+     - Signal Processing (Q1, rank 12, percentile 94)
+     - Computer Science Applications (Q1, rank 62, percentile 93)
+     - Information Systems (Q1, rank 32, percentile 93)
+     2021:
+     - Computer Science Applications (Q1, rank 13, percentile 98)
+     - Computer Networks and Communications (Q1, rank 7, percentile 98)
+     - Signal Processing (Q1, rank 3, percentile 97)
+     - Information Systems (Q1, rank 9, percentile 97)
+     - Hardware and Architecture (Q1, rank 5, percentile 97)
+   - **Source Id:** 21100338350
+   - **Author Ids:** 57195512131;7004398165;6602283934;57204878586;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60022109;60001741;60025153;60025153
+   - **Corresponding:** Kanapram D.T.
+60.
+   - **Title:** Data-driven Network Orchestrator for 5G Satellite-Terrestrial Integrated Networks: The ANChOR Project
+   - **Venue:** Proceedings IEEE Global Communications Conference Globecom
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/GLOBECOM46510.2021.9685584
+   - **Scopus ID:** 2-s2.0-85184374513
+   - **ISSN:** 23340983
+   - **eISSN:** 25766813
+   - **Authors:** Patrone Fabio; Bacci Giacomo; Galli Antonio; Giardina Pietro; Landi Giada; Luglio Michele; Marchese Mario; Quadrini Mattia; Roseti Cesare; Sperli Giancarlo; Vaccaro Attilio; Zampognaro Francesco
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 90, percentile 54)
+     - Computer Networks and Communications (Q2, rank 260, percentile 52)
+     - Artificial Intelligence (Q3, rank 262, percentile 47)
+     - Hardware and Architecture (Q3, rank 129, percentile 45)
+   - **Source Id:** 21101199922
+   - **Author Ids:** 56536292600;22833244700;57210585022;57194397543;24828948800;7003570928;7004398165;57193276812;15127967700;55510822500;25929694800;24484308800
+   - **Authoraffiliationids:** 60025153;113003886;101576099;60116408;60116408;120521552;60025153;120521552;120521552;101576099;113003886;120521552
+   - **Corresponding:** Patrone F.
+61.
+   - **Title:** A Unified Optimisation Framework for QoS Management and Congestion Control in VHTS Systems
+   - **Venue:** IEEE Transactions on Vehicular Technology
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1109/TVT.2020.3015252
+   - **Scopus ID:** 2-s2.0-85095710975
+   - **ISSN:** 00189545
+   - **eISSN:** 19399359
+   - **Volume:** 69
+   - **Issue:** 10
+   - **Pages:** 11619-11631
+   - **Authors:** De Cola Tomaso; Marchese Mario; Mongelli Maurizio; Patrone Fabio
+   - **Keywords:** Congestion control | feeder link outage | QoS management | satellite communications
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 63, percentile 93)
+     - Automotive Engineering (Q1, rank 9, percentile 93)
+     - Computer Networks and Communications (Q1, rank 38, percentile 93)
+     2020:
+     - Subject (Q1, rank 9, percentile 98)
+     - Aerospace Engineering (Q1, rank 3, percentile 98)
+     - Automotive Engineering (Q1, rank 6, percentile 94)
+     - Electrical and Electronic Engineering (Q1, rank 51, percentile 92)
+   - **Source Id:** 17393
+   - **Author Ids:** 10739364500;7004398165;7005882346;56536292600
+   - **Authoraffiliationids:** 60007798;60025153;60021199;60025153
+   - **Corresponding:** De Cola T.
+62.
+   - **Title:** E-CGR: Energy-Aware Contact Graph Routing over Nanosatellite Networks
+   - **Venue:** IEEE Transactions on Green Communications and Networking
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 39
+   - **DOI:** 10.1109/TGCN.2020.2978296
+   - **Scopus ID:** 2-s2.0-85089595735
+   - **eISSN:** 24732400
+   - **Volume:** 4
+   - **Issue:** 3
+   - **Pages:** 890-902
+   - **Authors:** Marchese Mario; Patrone Fabio
+   - **Keywords:** DTN | nanosatellite communications | remote areas connection | satellite networks
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 22, percentile 96)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 48, percentile 84)
+     2020:
+     - Computer Networks and Communications (Q1, rank 38, percentile 88)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 35, percentile 82)
+   - **Source Id:** 21100906361
+   - **Author Ids:** 7004398165;56536292600
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchese M.
+63.
+   - **Title:** Smart Gateway Diversity Strategies for Q/V Feeder Links in SDN-Satellite Networks
+   - **Venue:** 2020 Mediterranean Communication and Computer Networking Conference Medcomnet 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/MedComNet49392.2020.9191584
+   - **Scopus ID:** 2-s2.0-85092709233
+   - **Authors:** Davoli Franco; Marchese Mario; Patrone Fabio; Cola Tomaso De; Mongelli Maurizio
+   - **Source Id:** 21101023310
+   - **Author Ids:** 57220364548;7004398165;56536292600;10739364500;7005882346
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60007798;60021199
+   - **Corresponding:** Davoli F.
+64.
+   - **Title:** QoS-Aware Handover Strategies for Q/V Feeder Links in VHTS Systems
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/ICC40277.2020.9148805
+   - **Scopus ID:** 2-s2.0-85089430667
+   - **ISSN:** 15503607
+   - **Volume:** 2020-June
+   - **Authors:** Marchese Mario; Moheddine Aya; Patrone Fabio; Cola Tomaso De; Mongelli Maurizio
+   - **Source Id:** 33201
+   - **Author Ids:** 7004398165;57210886858;56536292600;10739364500;7005882346
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60007798;60021199
+   - **Corresponding:** Marchese M.
+65.
+   - **Title:** Detecting system fault/cyberattack within a photovoltaic system connected to the grid: A neural network-based solution
+   - **Venue:** Journal of Sensor and Actuator Networks
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 20
+   - **DOI:** 10.3390/jsan9020020
+   - **Scopus ID:** 2-s2.0-85084829746
+   - **eISSN:** 22242708
+   - **Volume:** 9
+   - **Issue:** 2
+   - **Authors:** Gaggero Giovanni Battista; Rossi Mansueto; Girdinio Paola; Marchese Mario
+   - **Keywords:** Anomaly detection | Autoencoder | Cyber-security | Distributed energy resources | Neural networks | Photovoltaic systems
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 6, percentile 96)
+     - Instrumentation (Q1, rank 12, percentile 93)
+     - Computer Networks and Communications (Q1, rank 61, percentile 88)
+     2020:
+     - Instrumentation (Q1, rank 8, percentile 94)
+     - Control and Optimization (Q1, rank 12, percentile 89)
+     - Computer Networks and Communications (Q1, rank 59, percentile 82)
+   - **Source Id:** 21100830709
+   - **Author Ids:** 57216708944;7403708681;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+66.
+   - **Title:** Collective Awareness for Abnormality Detection in Connected Autonomous Vehicles
+   - **Venue:** IEEE Internet of Things Journal
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1109/JIOT.2020.2974680
+   - **Scopus ID:** 2-s2.0-85084924836
+   - **eISSN:** 23274662
+   - **Volume:** 7
+   - **Issue:** 5
+   - **Pages:** 3774-3789
+   - **Authors:** Kanapram Divya Thekke; Patrone Fabio; Marin-Plaza Pablo; Marchese Mario; Bodanese Eliane L.; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo
+   - **Keywords:** Abnormality detection | collective awareness (CA) | connected vehicles | dynamic Bayesian network (DBN) | Markov jump particle filter (MJPF) | self-awareness (SA)
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 20, percentile 96)
+     - Hardware and Architecture (Q1, rank 9, percentile 96)
+     - Signal Processing (Q1, rank 12, percentile 94)
+     - Computer Science Applications (Q1, rank 62, percentile 93)
+     - Information Systems (Q1, rank 32, percentile 93)
+     2020:
+     - Hardware and Architecture (Q1, rank 2, percentile 99)
+     - Information Systems (Q1, rank 7, percentile 98)
+     - Computer Networks and Communications (Q1, rank 8, percentile 97)
+     - Computer Science Applications (Q1, rank 17, percentile 97)
+     - Signal Processing (Q1, rank 7, percentile 93)
+   - **Source Id:** 21100338350
+   - **Author Ids:** 57195512131;56536292600;57190806708;7004398165;6602283934;6603377664;57204878586;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60025153;60001741;60025153;60022109;60025153;60001741;60025153
+   - **Corresponding:** Kanapram D.T.
+67.
+   - **Title:** UAV and Satellite Employment for the Internet of Things Use Case
+   - **Venue:** IEEE Aerospace Conference Proceedings
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/AERO47225.2020.9172701
+   - **Scopus ID:** 2-s2.0-85092559710
+   - **ISSN:** 1095323X
+   - **Authors:** Marchese Mario; Moheddine Ava; Patrone Fabio
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q3, rank 88, percentile 45)
+     - Space and Planetary Science (Q3, rank 67, percentile 35)
+     2020:
+     - Aerospace Engineering (Q3, rank 78, percentile 39)
+     - Space and Planetary Science (Q3, rank 70, percentile 28)
+   - **Source Id:** 75113
+   - **Author Ids:** 7004398165;57210886858;56536292600
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marchese M.
+68.
+   - **Title:** A Unified View to Machine Learning and Control for Measurement-based Equivalent Bandwidth
+   - **Venue:** 2020 16th International Conference on the Design of Reliable Communication Networks Drcn 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/DRCN48652.2020.1570609737
+   - **Scopus ID:** 2-s2.0-85085481636
+   - **Authors:** Mongelli Maurizio; Muselli Marco; Marchese Mario
+   - **Source Id:** 21101012597
+   - **Author Ids:** 7005882346;7003496128;7004398165
+   - **Authoraffiliationids:** 60021199;60021199;60025153
+   - **Corresponding:** Mongelli M.
+69.
+   - **Title:** Nanosatellite-5G integration in the millimeter wave domain: A full top-down approach
+   - **Venue:** IEEE Transactions on Mobile Computing
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 43
+   - **DOI:** 10.1109/TMC.2019.2897091
+   - **Scopus ID:** 2-s2.0-85078249094
+   - **ISSN:** 15361233
+   - **eISSN:** 15580660
+   - **Volume:** 19
+   - **Issue:** 2
+   - **Pages:** 390-404
+   - **Authors:** Babich Fulvio; Comisso Massimiliano; Cuttin Alessandro; Marchese Mario; Patrone Fabio
+   - **Keywords:** capture probability | contact graph routing | delay/disruption tolerant network | millimeter-wave | Nanosatellite-5G integration | uncoordinated access
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 60, percentile 94)
+     - Computer Networks and Communications (Q1, rank 36, percentile 93)
+     - Software (Q1, rank 40, percentile 92)
+     2020:
+     - Computer Networks and Communications (Q1, rank 15, percentile 95)
+     - Software (Q1, rank 21, percentile 94)
+     - Electrical and Electronic Engineering (Q1, rank 38, percentile 94)
+   - **Source Id:** 25038
+   - **Author Ids:** 7003613315;13908144400;57193646327;7004398165;56536292600
+   - **Authoraffiliationids:** 60018363;60018363;60018363;60025153;60025153
+   - **Corresponding:** Babich F.
+70.
+   - **Title:** Glue Technologies for Space Systems: An Introduction to a New AESS Technical Panel
+   - **Venue:** IEEE Aerospace and Electronic Systems Magazine
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/MAES.2019.2959104
+   - **Scopus ID:** 2-s2.0-85082514793
+   - **ISSN:** 08858985
+   - **eISSN:** 1557959X
+   - **Volume:** 35
+   - **Issue:** 1
+   - **Pages:** 46-54
+   - **Authors:** Sacchi Claudio; Schlegel Christian; Rossi Tommaso; Noble Michael; Ruggieri Marina; Cheung Kar Ming; Marchese Mario; Granelli Fabrizio; Popescu Vlad; Rice Michael; Murroni Maurizio; Conci Nicola
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 19, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 161, percentile 83)
+     - Space and Planetary Science (Q1, rank 20, percentile 81)
+     2020:
+     - Aerospace Engineering (Q1, rank 31, percentile 76)
+     - Electrical and Electronic Engineering (Q2, rank 247, percentile 64)
+     - Space and Planetary Science (Q2, rank 44, percentile 55)
+   - **Source Id:** 25993
+   - **Author Ids:** 56206655300;55368982000;56078804700;57216040137;7102391180;7402406630;7004398165;6701655006;35103143500;7202083837;7801550098;14832404400
+   - **Authoraffiliationids:** 60015986;124148431;60027509;60274455;124148431;60009037;60025153;60015986;112423060;60006832;60032259;60015986
+   - **Corresponding:** Sacchi C.
+71.
+   - **Title:** Towards Increasing the LoRa Network Coverage: A Flying Gateway
+   - **Venue:** 2019 International Symposium on Advanced Electrical and Communication Technologies Isaect 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/ISAECT47714.2019.9069697
+   - **Scopus ID:** 2-s2.0-85084377455
+   - **Authors:** Marchese Mario; Moheddine Aya; Patrone Fabio
+   - **Keywords:** IoT | LoRa | LoRaWAN | satellite | UAV
+   - **Source Id:** 21100985351
+   - **Author Ids:** 7004398165;57210886858;56536292600
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marchese M.
+72.
+   - **Title:** Implementation details to reduce the latency of an SDN Statistical Fingerprint-Based IDS
+   - **Venue:** 2019 International Symposium on Advanced Electrical and Communication Technologies Isaect 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ISAECT47714.2019.9069714
+   - **Scopus ID:** 2-s2.0-85084375737
+   - **Authors:** Fausto Alessandro; Marchese Mario
+   - **Keywords:** Data Plane Development Kit | Intrusion Detection System (IDS) | OpenFlow | Ryu | Software Defined Networking (SDN)
+   - **Source Id:** 21100985351
+   - **Author Ids:** 57216708248;7004398165
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Fausto A.
+73.
+   - **Title:** Neural network architecture to detect system faults / cyberattacks anomalies within a photovoltaic system connected to the grid
+   - **Venue:** 2019 International Symposium on Advanced Electrical and Communication Technologies Isaect 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/ISAECT47714.2019.9069683
+   - **Scopus ID:** 2-s2.0-85084343224
+   - **Authors:** Gaggero Giovanni Battista; Rossi Mansueto; Girdinio Paola; Marchese Mario
+   - **Keywords:** anomaly detection | industrial systems | neural networks
+   - **Source Id:** 21100985351
+   - **Author Ids:** 57216708944;7403708681;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+74.
+   - **Title:** UAV and IoT integration: A flying gateway
+   - **Venue:** 2019 26th IEEE International Conference on Electronics Circuits and Systems Icecs 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 30
+   - **DOI:** 10.1109/ICECS46596.2019.8965135
+   - **Scopus ID:** 2-s2.0-85079158083
+   - **Pages:** 121-122
+   - **Authors:** Moheddine Aya; Patrone Fabio; Marchese Mario
+   - **Keywords:** Arduino | Gateway | IoT | Rak2245 | UAV
+   - **Source Id:** 21100944554
+   - **Author Ids:** 57210886858;56536292600;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Moheddine A.
+75.
+   - **Title:** Networking challenges for non-terrestrial networks exploitation in 5G
+   - **Venue:** IEEE 5g World Forum 5gwf 2019 Conference Proceedings
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 39
+   - **DOI:** 10.1109/5GWF.2019.8911669
+   - **Scopus ID:** 2-s2.0-85076813904
+   - **Pages:** 623-628
+   - **Authors:** Bacco Manlio; Davoli Franco; Giambene Giovanni; Gotta Alberto; Luglio Michele; Marchese Mario; Patrone Fabio; Roseti Cesare
+   - **Keywords:** Multi-path | Satellite-based hybrid backhaul | Smart gateway diversity | UAV/satellite 5G integration
+   - **Source Id:** 21100962470
+   - **Author Ids:** 57189197221;57220364548;7003750533;9846429300;7003570928;7004398165;56536292600;15127967700
+   - **Authoraffiliationids:** 60085207;60025153;60002838;60085207;60027509;60025153;60025153;60027509
+   - **Corresponding:** Bacco M.
+76.
+   - **Title:** IoT and UAV integration in 5G hybrid terrestrial-satellite networks
+   - **Venue:** Sensors Switzerland
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 117
+   - **DOI:** 10.3390/s19173704
+   - **Scopus ID:** 2-s2.0-85071745275
+   - **ISSN:** 14248220
+   - **Volume:** 19
+   - **Issue:** 17
+   - **Authors:** Marchese Mario; Moheddine Aya; Patrone Fabio
+   - **Keywords:** 5G | IoT | Satellite communications | UAV
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2019:
+     - Instrumentation (Q1, rank 17, percentile 87)
+     - Electrical and Electronic Engineering (Q1, rank 147, percentile 78)
+     - Information Systems (Q1, rank 70, percentile 76)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 46, percentile 75)
+     - Analytical Chemistry (Q2, rank 35, percentile 71)
+     - Biochemistry (Q2, rank 156, percentile 61)
+   - **Source Id:** 130124
+   - **Author Ids:** 7004398165;57210886858;56536292600
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marchese M.
+77.
+   - **Title:** Small satellites and CubeSats: Survey of structures, architectures, and protocols
+   - **Venue:** International Journal of Satellite Communications and Networking
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 84
+   - **DOI:** 10.1002/sat.1277
+   - **Scopus ID:** 2-s2.0-85052965154
+   - **ISSN:** 15420973
+   - **eISSN:** 15420981
+   - **Volume:** 37
+   - **Issue:** 4
+   - **Pages:** 343-359
+   - **Authors:** Davoli Franco; Kourogiorgas Charilaos; Marchese Mario; Panagopoulos Athanasios; Patrone Fabio
+   - **Keywords:** CubeSat | CubeSat architecture | CubeSat channel model | CubeSat communication protocols | CubeSat hardware components | CubeSat network
+   - **Quartile:**
+     2025:
+     - Media Technology (Q2, rank 21, percentile 72)
+     - Electrical and Electronic Engineering (Q2, rank 374, percentile 62)
+     2019:
+     - Media Technology (Q1, rank 11, percentile 85)
+     - Electrical and Electronic Engineering (Q2, rank 201, percentile 70)
+   - **Source Id:** 19924
+   - **Author Ids:** 57220364548;41761942100;7004398165;7004006343;56536292600
+   - **Authoraffiliationids:** 60025153-60103966;60002947;60025153;60002947;60025153
+   - **Corresponding:** Davoli F.
+78.
+   - **Title:** Dynamic Bayesian Approach for decision-making in Ego-Things
+   - **Venue:** IEEE 5th World Forum on Internet of Things Wf Iot 2019 Conference Proceedings
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/WF-IoT.2019.8767204
+   - **Scopus ID:** 2-s2.0-85073912137
+   - **Pages:** 909-914
+   - **Authors:** Kanapram Divya; Campo Damian; Baydoun Mohamad; Marcenaro Lucio; Bodanese Eliane L.; Regazzoni Carlo; Marchese Mario
+   - **Keywords:** Abnormality detection | Feature selection | Kalman filter | multisensory data | particle filter
+   - **Source Id:** 21100958721
+   - **Author Ids:** 57195512131;57126952000;57194871976;6603377664;6602283934;35513672400;7004398165
+   - **Authoraffiliationids:** 60025153-60022109;60025153;60025153;60025153;60022109;60025153;60025153
+   - **Corresponding:** Kanapram D.
+79.
+   - **Title:** IoT applications and services in space information networks
+   - **Venue:** IEEE Wireless Communications
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 94
+   - **DOI:** 10.1109/MWC.2019.1800297
+   - **Scopus ID:** 2-s2.0-85065041414
+   - **ISSN:** 15361284
+   - **eISSN:** 15580687
+   - **Volume:** 26
+   - **Issue:** 2
+   - **Pages:** 31-37
+   - **Authors:** Bacco Manlio; Boero Luca; Cassara Pietro; Colucci Marco; Gotta Alberto; Marchese Mario; Patrone Fabio
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 24, percentile 97)
+     - Computer Science Applications (Q1, rank 29, percentile 97)
+     2019:
+     - Computer Science Applications (Q1, rank 4, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 8, percentile 98)
+   - **Source Id:** 18935
+   - **Author Ids:** 57189197221;57053089400;24767643400;57195469786;9846429300;7004398165;56536292600
+   - **Authoraffiliationids:** 108104493;108104493;108104493;108104493;108104493;60025153;60025153
+   - **Corresponding:** Bacco M.
+80.
+   - **Title:** Dynamic Switch Migration in Distributed Software-Defined Networks to Achieve Controller Load Balance
+   - **Venue:** IEEE Journal on Selected Areas in Communications
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 92
+   - **DOI:** 10.1109/JSAC.2019.2894237
+   - **Scopus ID:** 2-s2.0-85061630648
+   - **ISSN:** 07338716
+   - **eISSN:** 15580008
+   - **Volume:** 37
+   - **Issue:** 3
+   - **Pages:** 515-529
+   - **Authors:** Xu Yang; Cello Marco; Wang I. Chih; Walid Anwar; Wilfong Gordon; Wen Charles H.P.; Marchese Mario; Chao Jonathan H.
+   - **Keywords:** distributed controllers | load balancing | Software-defined networking | switch migration
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 4, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 8, percentile 99)
+     2019:
+     - Computer Networks and Communications (Q1, rank 2, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 5, percentile 99)
+   - **Source Id:** 18902
+   - **Author Ids:** 57188652106;36025044100;57201054680;25723889900;6701752314;57201913600;7004398165;55663476300
+   - **Authoraffiliationids:** 60108318;60108318;60012370;60021378;60021378;60012370;60025153;122174403
+   - **Corresponding:** Xu Y.
+81.
+   - **Title:** Flow Assignment in Multi-Core Network Processors
+   - **Venue:** Airo Springer Series
+   - **Year:** 2019
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 2
+   - **DOI:** 10.1007/978-3-030-34960-8_43
+   - **Scopus ID:** 2-s2.0-85107048873
+   - **ISSN:** 25237047
+   - **eISSN:** 25237055
+   - **Volume:** 3
+   - **Pages:** 493-503
+   - **Authors:** Davoli Franco; Marchese Mario; Patrone Fabio
+   - **Keywords:** Load balancing | Network flow optimization | Virtual network functions
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q3, rank 121, percentile 31)
+     - Computational Mathematics (Q4, rank 169, percentile 18)
+     - Computer Science Applications (Q4, rank 820, percentile 16)
+     - Management Science and Operations Research (Q4, rank 194, percentile 12)
+   - **Source Id:** 21101047139
+   - **Author Ids:** 57220364548;7004398165;56536292600
+   - **Authoraffiliationids:** 60025153-60103966;60025153-60103966;60025153-60103966
+   - **Corresponding:** Davoli F.
+82.
+   - **Title:** Detection and combining techniques for asynchronous random access with time diversity
+   - **Venue:** Scc 2017 11th International ITG Conference on Systems Communications and Coding
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-85084014126
+   - **Authors:** Clazzer Federico; Lázaro Francisco; Liva Gianluigi; Marchese Mario
+   - **Source Id:** 21100932412
+   - **Author Ids:** 36185041900;57104946600;23566820300;7004398165
+   - **Authoraffiliationids:** 60007798;60007798;60007798;116607080
+   - **Corresponding:** Clazzer F.
+83.
+   - **Title:** Exploiting satellite broadcast despite HTTPS
+   - **Venue:** Proceedings IEEE Global Communications Conference Globecom
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/GLOBECOM38437.2019.9014011
+   - **Scopus ID:** 2-s2.0-85081966958
+   - **ISSN:** 23340983
+   - **eISSN:** 25766813
+   - **Authors:** Fotiou Nikos; Siris Vasilios A.; Marchese Mario; Davoli Franco; Boero Luca; Polyzos George C.
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 90, percentile 54)
+     - Computer Networks and Communications (Q2, rank 260, percentile 52)
+     - Artificial Intelligence (Q3, rank 262, percentile 47)
+     - Hardware and Architecture (Q3, rank 129, percentile 45)
+   - **Source Id:** 21101199922
+   - **Author Ids:** 35931973300;35612920000;7004398165;57220364548;57053089400;7004703536
+   - **Authoraffiliationids:** 60227903;60227903;60025153;60025153;130859877;60227903
+   - **Corresponding:** Fotiou N.
+84.
+   - **Title:** Statistical Fingerprint-Based IDS in SDN Architecture
+   - **Venue:** 2018 International Symposium on Performance Evaluation of Computer and Telecommunication Systems Spects 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/SPECTS.2018.8574140
+   - **Scopus ID:** 2-s2.0-85060314747
+   - **Authors:** Bigotto Francesco; Boero Luca; Marchese Mario; Zappatore Sandro
+   - **Keywords:** Flow Identification | Intrusion Detection System | Malware Detection | Software Defined Networking
+   - **Source Id:** 21100895644
+   - **Author Ids:** 57205439512;57053089400;7004398165;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bigotto F.
+85.
+   - **Title:** Satellite Networking Integration in the 5G Ecosystem: Research Trends and Open Challenges
+   - **Venue:** IEEE Network
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 130
+   - **DOI:** 10.1109/MNET.2018.1800052
+   - **Scopus ID:** 2-s2.0-85054382434
+   - **ISSN:** 08908044
+   - **eISSN:** 1558156X
+   - **Volume:** 32
+   - **Issue:** 5
+   - **Pages:** 9-15
+   - **Authors:** Boero Luca; Bruschi Roberto; Davoli Franco; Marchese Mario; Patrone Fabio
+   - **Quartile:**
+     2025:
+     - Hardware and Architecture (Q1, rank 11, percentile 95)
+     - Computer Networks and Communications (Q1, rank 31, percentile 94)
+     - Software (Q1, rank 37, percentile 92)
+     - Information Systems (Q1, rank 42, percentile 91)
+     2018:
+     - Hardware and Architecture (Q1, rank 2, percentile 99)
+     - Information Systems (Q1, rank 4, percentile 98)
+     - Computer Networks and Communications (Q1, rank 5, percentile 98)
+     - Software (Q1, rank 10, percentile 97)
+   - **Source Id:** 27239
+   - **Author Ids:** 57053089400;8555973600;57220364548;7004398165;56536292600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Boero L.
+86.
+   - **Title:** The impact of delay in software-defined integrated terrestrial-satellite networks
+   - **Venue:** China Communications
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 29
+   - **DOI:** 10.1109/CC.2018.8438270
+   - **Scopus ID:** 2-s2.0-85051869483
+   - **ISSN:** 16735447
+   - **Volume:** 15
+   - **Issue:** 8
+   - **Pages:** 11-21
+   - **Authors:** Boero Luca; Marchese Mario; Patrone Fabio
+   - **Keywords:** delay estimation | Integrated terrestrial-satellite networks | software defined networking | software defined satellite networks
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 217, percentile 78)
+     - Computer Networks and Communications (Q1, rank 127, percentile 76)
+     2018:
+     - Computer Networks and Communications (Q2, rank 88, percentile 70)
+     - Electrical and Electronic Engineering (Q2, rank 203, percentile 69)
+   - **Source Id:** 19700177325
+   - **Author Ids:** 57053089400;7004398165;56536292600
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Boero L.
+87.
+   - **Title:** Enhancing contention resolution ALOHA using combining techniques
+   - **Venue:** IEEE Transactions on Communications
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 56
+   - **DOI:** 10.1109/TCOMM.2017.2759264
+   - **Scopus ID:** 2-s2.0-85031785445
+   - **ISSN:** 00906778
+   - **Volume:** 66
+   - **Issue:** 6
+   - **Pages:** 2576-2587
+   - **Authors:** Clazzer Federico; Kissling Christian; Marchese Mario
+   - **Keywords:** communication | Diversity methods | multiaccess communication | radio communication | satellite communication
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 45, percentile 95)
+     2018:
+     - Electrical and Electronic Engineering (Q1, rank 44, percentile 93)
+   - **Source Id:** 18931
+   - **Author Ids:** 36185041900;35585852100;7004398165
+   - **Authoraffiliationids:** 60007798;60018401;60025153
+   - **Corresponding:** Clazzer F.
+88.
+   - **Title:** Energy-aware Routing Algorithm for DTN-Nanosatellite Networks
+   - **Venue:** Proceedings IEEE Global Communications Conference Globecom
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/GLOCOM.2018.8647491
+   - **Scopus ID:** 2-s2.0-85063532504
+   - **ISSN:** 23340983
+   - **eISSN:** 25766813
+   - **Authors:** Marchese Mario; Patrone Fabio
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 90, percentile 54)
+     - Computer Networks and Communications (Q2, rank 260, percentile 52)
+     - Artificial Intelligence (Q3, rank 262, percentile 47)
+     - Hardware and Architecture (Q3, rank 129, percentile 45)
+   - **Source Id:** 21101199922
+   - **Author Ids:** 7004398165;56536292600
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchese M.
+89.
+   - **Title:** Statistical fingerprint-based ids in sdn architecture
+   - **Venue:** Simulation Series
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/SPECTS.2018.8574140
+   - **Scopus ID:** 2-s2.0-85060050851
+   - **ISSN:** 07359276
+   - **Volume:** 50
+   - **Issue:** 11
+   - **Pages:** 1-12
+   - **Authors:** Bigotto Francesco; Boero Luca; Marchese Mario; Zappatore Sandro
+   - **Keywords:** Flow Identification | Intrusion Detection System | Malware Detection | Software Defined Networking
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 535, percentile 2)
+   - **Source Id:** 12193
+   - **Author Ids:** 57205439512;57053089400;7004398165;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bigotto F.
+90.
+   - **Title:** A Survey on Network Architectures and Applications for Nanosat and UAV Swarms
+   - **Venue:** Lecture Notes of the Institute for Computer Sciences Social Informatics and Telecommunications Engineering Lnicst
+   - **Year:** 2018
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 23
+   - **DOI:** 10.1007/978-3-319-76571-6_8
+   - **Scopus ID:** 2-s2.0-85043976241
+   - **ISSN:** 18678211
+   - **Volume:** 231
+   - **Pages:** 75-85
+   - **Authors:** Bacco Manlio; Cassarà Pietro; Colucci Marco; Gotta Alberto; Marchese Mario; Patrone Fabio
+   - **Keywords:** FANET | Nanosatellite | Network architecture and application | UAV
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 439, percentile 19)
+     2018:
+     - Computer Networks and Communications (Q4, rank 241, percentile 18)
+   - **Source Id:** 21100220348
+   - **Author Ids:** 57189197221;24767643400;57195469786;9846429300;7004398165;56536292600
+   - **Authoraffiliationids:** 60021199;60021199;60021199;60021199;60025153;60025153
+   - **Corresponding:** Bacco M.
+91.
+   - **Title:** DTN-based nanosatellite architecture and hot spot selection algorithm for remote areas connection
+   - **Venue:** IEEE Transactions on Vehicular Technology
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 30
+   - **DOI:** 10.1109/TVT.2017.2739298
+   - **Scopus ID:** 2-s2.0-85028453407
+   - **ISSN:** 00189545
+   - **Volume:** 67
+   - **Issue:** 1
+   - **Pages:** 689-702
+   - **Authors:** Marchese Mario; Patrone Fabio; Cello Marco
+   - **Keywords:** Dtn | Nanosatellite communications | Remote areas connection | Satellite networks | TCP/IP
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 63, percentile 93)
+     - Automotive Engineering (Q1, rank 9, percentile 93)
+     - Computer Networks and Communications (Q1, rank 38, percentile 93)
+     2018:
+     - Aerospace Engineering (Q1, rank 3, percentile 97)
+     - Subject (Q1, rank 12, percentile 97)
+     - Automotive Engineering (Q1, rank 4, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 56, percentile 91)
+   - **Source Id:** 17393
+   - **Author Ids:** 7004398165;56536292600;36025044100
+   - **Authoraffiliationids:** 60025153;60025153;60021378
+   - **Corresponding:** Marchese M.
+92.
+   - **Title:** Support Vector Machine Meets Software Defined Networking in IDS Domain
+   - **Venue:** Proceedings of the 29th International Teletraffic Congress Itc 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 47
+   - **DOI:** 10.23919/ITC.2017.8065806
+   - **Scopus ID:** 2-s2.0-85040226061
+   - **Volume:** 3
+   - **Pages:** 25-30
+   - **Authors:** Boero Luca; Marchese Mario; Zappatore Sandro
+   - **Keywords:** Intrusion Detection System | Machine Learning | Malware Detection | Software Defined Networking
+   - **Source Id:** 21100795334
+   - **Author Ids:** 57053089400;7004398165;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Boero L.
+93.
+   - **Title:** A theoretical analysis of buffer occupancy for Intermittently-Connected Networks
+   - **Venue:** Performance Evaluation
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1016/j.peva.2017.08.001
+   - **Scopus ID:** 2-s2.0-85028807758
+   - **ISSN:** 01665316
+   - **Volume:** 115
+   - **Pages:** 108-131
+   - **Authors:** Boero L.; Cello M.; Gnecco G.; Marchese M.; Patrone F.; Sanguineti M.
+   - **Keywords:** Ad-hoc networks | Congestion control | Epidemic routing | Intermittently-Connected Networks | Markov chains
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q3, rank 196, percentile 48)
+     - Computer Networks and Communications (Q3, rank 293, percentile 46)
+     - Hardware and Architecture (Q3, rank 143, percentile 39)
+     - Software (Q3, rank 311, percentile 37)
+     2017:
+     - Modeling and Simulation (Q2, rank 74, percentile 71)
+     - Computer Networks and Communications (Q2, rank 95, percentile 66)
+     - Hardware and Architecture (Q2, rank 61, percentile 60)
+     - Software (Q2, rank 166, percentile 55)
+   - **Source Id:** 22313
+   - **Author Ids:** 57053089400;36025044100;22953696000;7004398165;56536292600;7003404992
+   - **Authoraffiliationids:** 60025153;60021378;60102060;60025153;60025153;60025153
+   - **Corresponding:** Boero L.
+94.
+   - **Title:** Statistical fingerprint-based intrusion detection system (SF-IDS)
+   - **Venue:** International Journal of Communication Systems
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 24
+   - **DOI:** 10.1002/dac.3225
+   - **Scopus ID:** 2-s2.0-84995387798
+   - **ISSN:** 10745351
+   - **eISSN:** 10991131
+   - **Volume:** 30
+   - **Issue:** 10
+   - **Authors:** Boero Luca; Cello Marco; Marchese Mario; Mariconti Enrico; Naqash Talha; Zappatore Sandro
+   - **Keywords:** intrusion detection system, IP, machine learning, networking, statistical analysis
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 309, percentile 69)
+     - Computer Networks and Communications (Q2, rank 171, percentile 68)
+     2017:
+     - Electrical and Electronic Engineering (Q1, rank 162, percentile 75)
+     - Computer Networks and Communications (Q2, rank 73, percentile 73)
+   - **Source Id:** 17964
+   - **Author Ids:** 57053089400;36025044100;7004398165;57189589235;55078238900;6602811400
+   - **Authoraffiliationids:** 60025153;60025153-60021378;60025153;60022148;60025153;60025153
+   - **Corresponding:** Boero L.
+95.
+   - **Title:** BalCon: A distributed elastic SDN control via efficient switch migration
+   - **Venue:** Proceedings 2017 IEEE International Conference on Cloud Engineering Ic2e 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 60
+   - **DOI:** 10.1109/IC2E.2017.33
+   - **Scopus ID:** 2-s2.0-85020203740
+   - **Pages:** 40-50
+   - **Authors:** Cello Marco; Xu Yang; Walid Anwar; Wilfong Gordon; Chao H. Jonathan; Marchese Mario
+   - **Keywords:** distributed controllers | load balancing | multi-way partitioning | software-defined networking
+   - **Source Id:** 21100817612
+   - **Author Ids:** 36025044100;57188652106;25723889900;6701752314;55663476300;7004398165
+   - **Authoraffiliationids:** 60021378;60108318;60021378;60021378;60108318;60025153
+   - **Corresponding:** Cello M.
+96.
+   - **Title:** A Source Routing Algorithm Based on CGR for DTN-Nanosatellite Networks
+   - **Venue:** Proceedings IEEE Global Communications Conference Globecom
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/GLOCOM.2017.8255092
+   - **Scopus ID:** 2-s2.0-85046404054
+   - **ISSN:** 23340983
+   - **eISSN:** 25766813
+   - **Volume:** 2018-January
+   - **Pages:** 1-6
+   - **Authors:** Marchese Mario; Patrone Fabio
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 90, percentile 54)
+     - Computer Networks and Communications (Q2, rank 260, percentile 52)
+     - Artificial Intelligence (Q3, rank 262, percentile 47)
+     - Hardware and Architecture (Q3, rank 129, percentile 45)
+   - **Source Id:** 21101199922
+   - **Author Ids:** 7004398165;56536292600
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchese M.
+97.
+   - **Title:** BeaQoS: Load balancing and deadline management of queues in an OpenFlow SDN switch
+   - **Venue:** Computer Networks
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 39
+   - **DOI:** 10.1016/j.comnet.2016.06.025
+   - **Scopus ID:** 2-s2.0-84976587772
+   - **ISSN:** 13891286
+   - **Volume:** 106
+   - **Pages:** 161-170
+   - **Authors:** Boero L.; Cello M.; Garibotto C.; Marchese M.; Mongelli M.
+   - **Keywords:** OpenFlow | Packet loss | SDN | Traffic engineering
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 96, percentile 82)
+     2016:
+     - Computer Networks and Communications (Q1, rank 49, percentile 80)
+   - **Source Id:** 26811
+   - **Author Ids:** 57053089400;36025044100;57053502600;7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60021378;60025153;60025153;60021199
+   - **Corresponding:** Boero L.
+98.
+   - **Title:** Smart probabilistic fingerprinting for WiFi-based indoor positioning with mobile devices
+   - **Venue:** Pervasive and Mobile Computing
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 73
+   - **DOI:** 10.1016/j.pmcj.2016.02.001
+   - **Scopus ID:** 2-s2.0-84962144528
+   - **ISSN:** 15741192
+   - **Volume:** 31
+   - **Pages:** 107-123
+   - **Authors:** Bisio Igor; Lavagetto Fabio; Marchese Mario; Sciarrone Andrea
+   - **Keywords:** Computational and energy efficiency | Indoor positioning | Smartphones | WiFi fingerprinting
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 95, percentile 82)
+     - Software (Q1, rank 92, percentile 81)
+     - Computer Science Applications (Q1, rank 188, percentile 80)
+     - Information Systems (Q1, rank 98, percentile 80)
+     - Hardware and Architecture (Q1, rank 47, percentile 80)
+     2016:
+     - Subject (Q1, rank 25, percentile 93)
+     - Subject (Q1, rank 7, percentile 81)
+   - **Source Id:** 3200147819
+   - **Author Ids:** 8546192900;7004136693;7004398165;36180166900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+99.
+   - **Title:** Feeder-link outage prediction algorithms for SDN-based high-throughput satellite systems
+   - **Venue:** 2016 IEEE International Conference on Communications Icc 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 19
+   - **DOI:** 10.1109/ICC.2016.7510736
+   - **Scopus ID:** 2-s2.0-84981305992
+   - **Authors:** Mongelli Maurizio; De Cola Tomaso; Cello Marco; Marchese Mario; Davoli Franco
+   - **Source Id:** 21100773789
+   - **Author Ids:** 7005882346;10739364500;36025044100;7004398165;57220364548
+   - **Authoraffiliationids:** 60021199;60007798;60021378;60025153;60025153
+   - **Corresponding:** Mongelli M.
+100.
+   - **Title:** Smart transportation systems (STSs) in critical conditions
+   - **Venue:** Smart Cities and Homes Key Enabling Technologies
+   - **Year:** 2016
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 7
+   - **DOI:** 10.1016/B978-0-12-803454-5.00014-6
+   - **Scopus ID:** 2-s2.0-84987892578
+   - **Pages:** 291-322
+   - **Authors:** Cello M.; Degano C.; Marchese M.; Podda F.
+   - **Keywords:** Quality of service | Smart technologies | Software-defined networking (SDN) | Transportation systems
+   - **Source Id:** 21100779051
+   - **Author Ids:** 36025044100;6602277633;7004398165;55978967400
+   - **Authoraffiliationids:** 60025153;101838253;60025153;101838253
+   - **Corresponding:** Cello M.
+101.
+   - **Title:** Lp-Problem-based transmission rate allocation with packet loss and power metrics over satellite networks
+   - **Venue:** IEEE Transactions on Vehicular Technology
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1109/TVT.2015.2447739
+   - **Scopus ID:** 2-s2.0-84971280260
+   - **ISSN:** 00189545
+   - **Volume:** 65
+   - **Issue:** 5
+   - **Pages:** 3312-3325
+   - **Authors:** Bisio Igor; Delucchi Stefano; Lavagetto Fabio; Marchese Mario
+   - **Keywords:** Lp-problem-based Transmission Rate Allocation | Multi-Objective Programming | Performance Analysis | Satellite Communications
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 63, percentile 93)
+     - Automotive Engineering (Q1, rank 9, percentile 93)
+     - Computer Networks and Communications (Q1, rank 38, percentile 93)
+     2016:
+     - Aerospace Engineering (Q1, rank 4, percentile 96)
+     - Subject (Q1, rank 16, percentile 96)
+     - Automotive Engineering (Q1, rank 5, percentile 93)
+     - Electrical and Electronic Engineering (Q1, rank 67, percentile 89)
+   - **Source Id:** 17393
+   - **Author Ids:** 8546192900;55694754400;7004136693;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+102.
+   - **Title:** On the QoS Estimation in an OpenFlow Network: The Packet Loss Case
+   - **Venue:** IEEE Communications Letters
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1109/LCOMM.2016.2516537
+   - **Scopus ID:** 2-s2.0-84963549035
+   - **ISSN:** 10897798
+   - **Volume:** 20
+   - **Issue:** 3
+   - **Pages:** 554-557
+   - **Authors:** Cello Marco; Marchese Mario; Mongelli Maurizio
+   - **Keywords:** neural estimation | OpenFlow | packet loss | SDN
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 25, percentile 93)
+     - Electrical and Electronic Engineering (Q1, rank 140, percentile 86)
+     - Computer Science Applications (Q1, rank 167, percentile 83)
+     2016:
+     - Modeling and Simulation (Q1, rank 30, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 122, percentile 81)
+     - Computer Science Applications (Q1, rank 125, percentile 76)
+   - **Source Id:** 18896
+   - **Author Ids:** 36025044100;7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153;60021199
+   - **Corresponding:** Cello M.
+103.
+   - **Title:** Evolution of satellite communications: Integration of ETSI BSM and DVB-RCS for future satellite terminals
+   - **Venue:** International Journal of Satellite Communications and Networking
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1002/sat.1104
+   - **Scopus ID:** 2-s2.0-84956727128
+   - **ISSN:** 15420973
+   - **eISSN:** 15420981
+   - **Volume:** 34
+   - **Issue:** 2
+   - **Pages:** 131-154
+   - **Authors:** De Cola Tomaso; Marchese Mario; Mongelli Maurizio
+   - **Keywords:** DVB-RCS/RCS2 | ETSI BSM | multicast | QoS/QoE | SI-SAP
+   - **Quartile:**
+     2025:
+     - Media Technology (Q2, rank 21, percentile 72)
+     - Electrical and Electronic Engineering (Q2, rank 374, percentile 62)
+     2016:
+     - Media Technology (Q1, rank 14, percentile 79)
+     - Electrical and Electronic Engineering (Q2, rank 236, percentile 63)
+   - **Source Id:** 19924
+   - **Author Ids:** 10739364500;7004398165;7005882346
+   - **Authoraffiliationids:** 60007798;60025153;60021199
+   - **Corresponding:** De Cola T.
+104.
+   - **Title:** ColdSel: A selection algorithm to mitigate congestion situations over nanosatellite networks
+   - **Venue:** Proceedings IEEE Global Communications Conference Globecom
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/GLOCOM.2016.7841670
+   - **Scopus ID:** 2-s2.0-85015393984
+   - **ISSN:** 23340983
+   - **eISSN:** 25766813
+   - **Authors:** Cello Marco; Marchese Mario; Patrone Fabio
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 90, percentile 54)
+     - Computer Networks and Communications (Q2, rank 260, percentile 52)
+     - Artificial Intelligence (Q3, rank 262, percentile 47)
+     - Hardware and Architecture (Q3, rank 129, percentile 45)
+   - **Source Id:** 21101199922
+   - **Author Ids:** 36025044100;7004398165;56536292600
+   - **Authoraffiliationids:** 60021378-60025153;60025153;60025153
+   - **Corresponding:** Cello M.
+105.
+   - **Title:** Research challenges in nanosatellite-DTN networks
+   - **Venue:** Lecture Notes of the Institute for Computer Sciences Social Informatics and Telecommunications Engineering Lnicst
+   - **Year:** 2016
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1007/978-3-319-47081-8_8
+   - **Scopus ID:** 2-s2.0-84996559034
+   - **ISSN:** 18678211
+   - **Volume:** 148
+   - **Pages:** 89-93
+   - **Authors:** Cello Marco; Marchese Mario; Patrone Fabio
+   - **Keywords:** Congestion control | Delay tolerant network architecture | Nanosatellite network | Next-hop selection
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 439, percentile 19)
+     2016:
+     - Computer Networks and Communications (Q4, rank 204, percentile 17)
+   - **Source Id:** 21100220348
+   - **Author Ids:** 36025044100;7004398165;56536292600
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Cello M.
+106.
+   - **Title:** Smartphones apps implementing a heuristic joint coding for video transmissions over mobile networks
+   - **Venue:** Lecture Notes of the Institute for Computer Sciences Social Informatics and Telecommunications Engineering Lnicst
+   - **Year:** 2016
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-319-47081-8_12
+   - **Scopus ID:** 2-s2.0-84996489052
+   - **ISSN:** 18678211
+   - **Volume:** 148
+   - **Pages:** 123-131
+   - **Authors:** Bisio Igor; Lavagetto Fabio; Luzzati Giulio; Marchese Mario
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 439, percentile 19)
+     2016:
+     - Computer Networks and Communications (Q4, rank 204, percentile 17)
+   - **Source Id:** 21100220348
+   - **Author Ids:** 8546192900;7004136693;55372214300;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+107.
+   - **Title:** Extended future internet: An IP pervasive network including interplanetary communication?
+   - **Venue:** Lecture Notes of the Institute for Computer Sciences Social Informatics and Telecommunications Engineering Lnicst
+   - **Year:** 2016
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-319-47081-8_2
+   - **Scopus ID:** 2-s2.0-84996484186
+   - **ISSN:** 18678211
+   - **Volume:** 148
+   - **Pages:** 12-21
+   - **Authors:** Marchese Mario
+   - **Keywords:** Delay and Disruption Tolerant Networking (DTN) | Future internet | Internet | Pervasive communications | Satellite communications
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 439, percentile 19)
+     2016:
+     - Computer Networks and Communications (Q4, rank 204, percentile 17)
+   - **Source Id:** 21100220348
+   - **Author Ids:** 7004398165
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Marchese M.
+108.
+   - **Title:** Management of non-conformant traffic in OpenFlow environments
+   - **Venue:** Proceedings of the 2015 International Symposium on Performance Evaluation of Computer and Telecommunication Systems Spects 2015 Part of Summersim 2015 Multiconference
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/SPECTS.2015.7285293
+   - **Scopus ID:** 2-s2.0-84992110517
+   - **Authors:** Boero Luca; Cello Marco; Garibotto Chiara; Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Open Flow | Packet Loss | SDN | Traffic Engineering
+   - **Source Id:** 21100782661
+   - **Author Ids:** 57053089400;36025044100;57053502600;7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60021199
+   - **Corresponding:** Boero L.
+109.
+   - **Title:** SPECTRA: A SPEech proCessing plaTform as smaRtphone Application
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/ICC.2015.7249447
+   - **Scopus ID:** 2-s2.0-84953791815
+   - **ISSN:** 15503607
+   - **Volume:** 2015-September
+   - **Pages:** 7030-7035
+   - **Authors:** Bisio Igor; Lavagetto Fabio; Marchese Mario; Sciarrone Andrea; Fra Cristina; Valla Massimo
+   - **Keywords:** Android Apps | Multimedia Applications | Smartphones | Speech Signal Processing | Support Vector Machines
+   - **Source Id:** 33201
+   - **Author Ids:** 8546192900;7004136693;7004398165;36180166900;24399148800;24400344500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;101970958;101970958
+   - **Corresponding:** Bisio I.
+110.
+   - **Title:** Cooperative Application Layer Joint Coding and rate allocation techniques for video transmissions over satellite channels through smartphones
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICC.2015.7248430
+   - **Scopus ID:** 2-s2.0-84953751663
+   - **ISSN:** 15503607
+   - **Volume:** 2015-September
+   - **Pages:** 862-866
+   - **Authors:** Bisio Igor; Delucchi Stefano; Lavagetto Fabio; Luzzati Giulio; Marchese Mario
+   - **Keywords:** Application Layer Joint Coding | Cooperative Techniques | Performance Evaluation | Satellite Networks | Transmission Rate Allocations
+   - **Source Id:** 33201
+   - **Author Ids:** 8546192900;55694754400;7004136693;55372214300;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+111.
+   - **Title:** Hybrid simulated-emulated platform - HySEP
+   - **Venue:** Handbook of Research on Next Generation Mobile Communication Systems
+   - **Year:** 2015
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.4018/978-1-4666-8732-5.ch015
+   - **Scopus ID:** 2-s2.0-84958139783
+   - **Pages:** 380-409
+   - **Authors:** Bisio Igor; Delucchi Stefano; Lavagetto Fabio; Marchese Mario; Portomauro Giancarlo; Zappatore Sandro
+   - **Source Id:** 21100446332
+   - **Author Ids:** 8546192900;55694754400;7004136693;7004398165;15128054100;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+112.
+   - **Title:** A smartphone-centric platform for remote health monitoring of heart failure
+   - **Venue:** International Journal of Communication Systems
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 52
+   - **DOI:** 10.1002/dac.2778
+   - **Scopus ID:** 2-s2.0-84931575986
+   - **ISSN:** 10745351
+   - **eISSN:** 10991131
+   - **Volume:** 28
+   - **Issue:** 11
+   - **Pages:** 1753-1771
+   - **Authors:** Bisio Igor; Lavagetto Fabio; Marchese Mario; Sciarrone Andrea
+   - **Keywords:** activity recognition | remote health monitoring | smartphones | wireless communications
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 309, percentile 69)
+     - Computer Networks and Communications (Q2, rank 171, percentile 68)
+     2015:
+     - Electrical and Electronic Engineering (Q1, rank 134, percentile 79)
+     - Computer Networks and Communications (Q1, rank 53, percentile 77)
+   - **Source Id:** 17964
+   - **Author Ids:** 8546192900;7004136693;7004398165;36180166900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+113.
+   - **Title:** An Ns-3 based simulative and emulative platform
+   - **Venue:** Modeling and Simulation of Computer Networks and Systems Methodologies and Applications
+   - **Year:** 2015
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 2
+   - **DOI:** 10.1016/B978-0-12-800887-4.00019-5
+   - **Scopus ID:** 2-s2.0-84940069625
+   - **Pages:** 555-575
+   - **Authors:** Bisio Igor; Delucchi Stefano; Lavagetto Fabio; Marchese Mario; Portomauro Giancarlo; Zappatore Sandro
+   - **Keywords:** Emulation | LTE | Quality of Service (QoS) | Simulation
+   - **Source Id:** 21100404889
+   - **Author Ids:** 8546192900;55694754400;7004136693;7004398165;15128054100;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+114.
+   - **Title:** Contact graph routing in DTN space networks: Overview, enhancements and performance
+   - **Venue:** IEEE Communications Magazine
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 261
+   - **DOI:** 10.1109/MCOM.2015.7060480
+   - **Scopus ID:** 2-s2.0-84925872900
+   - **ISSN:** 01636804
+   - **eISSN:** 15581896
+   - **Volume:** 53
+   - **Issue:** 3
+   - **Pages:** 38-46
+   - **Authors:** Araniti Giuseppe; Bezirgiannidis Nikolaos; Birrane Edward; Bisio Igor; Burleigh Scott; Caini Carlo; Feldmann Marius; Marchese Mario; Segui John; Suzuki Kiyohisa
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 21, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 46, percentile 95)
+     - Computer Science Applications (Q1, rank 63, percentile 93)
+     2015:
+     - Computer Networks and Communications (Q1, rank 1, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 6, percentile 99)
+     - Computer Science Applications (Q1, rank 5, percentile 99)
+   - **Source Id:** 17249
+   - **Author Ids:** 6603175144;36967869800;15831287600;8546192900;55885938100;6701493219;24722750700;7004398165;15080884800;55846130700
+   - **Authoraffiliationids:** 60020167;60030988;60022054;60025153;60031581;60028218;60018353;60025153;60085980;60022990
+   - **Corresponding:** Araniti G.
+115.
+   - **Title:** Narrowing the Search for Optimal Call-Admission Policies Via a Nonlinear Stochastic Knapsack Model
+   - **Venue:** Journal of Optimization Theory and Applications
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1007/s10957-014-0570-2
+   - **Scopus ID:** 2-s2.0-84924037518
+   - **ISSN:** 00223239
+   - **eISSN:** 15732878
+   - **Volume:** 164
+   - **Issue:** 3
+   - **Pages:** 819-841
+   - **Authors:** Cello Marco; Gnecco Giorgio; Marchese Mario; Sanguineti Marcello
+   - **Keywords:** Call admission control | Coordinate-convex policies | Nonlinear constraints | Stochastic knapsack | Structural properties
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q2, rank 80, percentile 55)
+     - Applied Mathematics (Q2, rank 308, percentile 54)
+     - Management Science and Operations Research (Q3, rank 143, percentile 35)
+     2015:
+     - Applied Mathematics (Q2, rank 117, percentile 71)
+     - Control and Optimization (Q2, rank 21, percentile 65)
+     - Management Science and Operations Research (Q2, rank 50, percentile 61)
+   - **Source Id:** 23966
+   - **Author Ids:** 36025044100;22953696000;7004398165;7003404992
+   - **Authoraffiliationids:** 60025153;60102060-60121711;60025153;60121711
+   - **Corresponding:** Cello M.
+116.
+   - **Title:** Surveying multidisciplinary aspects in real-time distributed coding for wireless sensor networks
+   - **Venue:** Sensors Switzerland
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.3390/s150202737
+   - **Scopus ID:** 2-s2.0-84921900696
+   - **ISSN:** 14248220
+   - **Volume:** 15
+   - **Issue:** 2
+   - **Pages:** 2737-2762
+   - **Authors:** Braccini Carlo; Davoli Franco; Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Decision theory | Distributed coding | Optimization | Signal processing | Single-hop wireless sensor networks
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2015:
+     - Electrical and Electronic Engineering (Q1, rank 105, percentile 84)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 31, percentile 80)
+     - Analytical Chemistry (Q2, rank 30, percentile 70)
+     - Biochemistry (Q2, rank 174, percentile 55)
+   - **Source Id:** 130124
+   - **Author Ids:** 7003400719;57220364548;7004398165;7005882346
+   - **Authoraffiliationids:** 60025153-60103966;60025153-60103966;60025153-60103966;60021199
+   - **Corresponding:** Braccini C.
+117.
+   - **Title:** HotSel: A hot spot selection algorithm for internet access in rural areas through nanosatellite networks
+   - **Venue:** Proceedings IEEE Global Communications Conference Globecom
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/GLOCOM.2014.7417202
+   - **Scopus ID:** 2-s2.0-84964853741
+   - **ISSN:** 23340983
+   - **eISSN:** 25766813
+   - **Authors:** Cello Marco; Marchese Mario; Patrone Fabio
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 90, percentile 54)
+     - Computer Networks and Communications (Q2, rank 260, percentile 52)
+     - Artificial Intelligence (Q3, rank 262, percentile 47)
+     - Hardware and Architecture (Q3, rank 129, percentile 45)
+   - **Source Id:** 21101199922
+   - **Author Ids:** 36025044100;7004398165;56536292600
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Cello M.
+118.
+   - **Title:** Management of non-conformant traffic in OpenFlow environments
+   - **Venue:** Simulation Series
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84954092511
+   - **ISSN:** 07359276
+   - **Volume:** 47
+   - **Issue:** 9
+   - **Pages:** 157-162
+   - **Authors:** Boero Luca; Cello Marco; Garibotto Chiara; Marchese Mario; Mongelli Maurizio
+   - **Keywords:** OpenFlow | Packet loss | SDN | Traffic engineering
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 535, percentile 2)
+   - **Source Id:** 12193
+   - **Author Ids:** 57053089400;36025044100;57053502600;7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60021199
+   - **Corresponding:** Boero L.
+119.
+   - **Title:** Smartphone-centric ambient assisted living platform for patients suffering from co-morbidities monitoring
+   - **Venue:** IEEE Communications Magazine
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 53
+   - **DOI:** 10.1109/MCOM.2015.7010513
+   - **Scopus ID:** 2-s2.0-84921476752
+   - **ISSN:** 01636804
+   - **Volume:** 53
+   - **Issue:** 1
+   - **Pages:** 34-41
+   - **Authors:** Bisio Igor; Lavagetto Fabio; Marchese Mario; Sciarrone Andrea
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 21, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 46, percentile 95)
+     - Computer Science Applications (Q1, rank 63, percentile 93)
+     2015:
+     - Computer Networks and Communications (Q1, rank 1, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 6, percentile 99)
+     - Computer Science Applications (Q1, rank 5, percentile 99)
+   - **Source Id:** 17249
+   - **Author Ids:** 8546192900;7004136693;7004398165;36180166900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+120.
+   - **Title:** A television channel real-time detector using smartphones
+   - **Venue:** IEEE Transactions on Mobile Computing
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1109/TMC.2013.79
+   - **Scopus ID:** 2-s2.0-84915749982
+   - **ISSN:** 15361233
+   - **Volume:** 14
+   - **Issue:** 1
+   - **Pages:** 14-27
+   - **Authors:** Bisio Igor; Delfino Alessandro; Lavagetto Fabio; Marchese Mario
+   - **Keywords:** audience real-time detection | audio fingerprint | energy saving | smartphone | TV channel recognition
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 60, percentile 94)
+     - Computer Networks and Communications (Q1, rank 36, percentile 93)
+     - Software (Q1, rank 40, percentile 92)
+     2015:
+     - Electrical and Electronic Engineering (Q1, rank 34, percentile 94)
+     - Computer Networks and Communications (Q1, rank 14, percentile 94)
+     - Software (Q1, rank 23, percentile 94)
+   - **Source Id:** 25038
+   - **Author Ids:** 8546192900;54890459700;7004136693;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+121.
+   - **Title:** A heuristic attack method to PRH-based audio copy detectors
+   - **Venue:** IEEE Signal Processing Letters
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/LSP.2014.2363592
+   - **Scopus ID:** 2-s2.0-84908665609
+   - **ISSN:** 10709908
+   - **Volume:** 22
+   - **Issue:** 5
+   - **Pages:** 564-568
+   - **Authors:** Bisio Igor; Braccini Carlo; Delfino Alessandro; Lavagetto Fabio; Marchese Mario
+   - **Keywords:** Adversarial signal processing | audio fingerprint | copy detection attack | Copyright protection
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 66, percentile 90)
+     - Signal Processing (Q1, rank 44, percentile 77)
+     - Electrical and Electronic Engineering (Q1, rank 243, percentile 75)
+     2014:
+     - Applied Mathematics (Q1, rank 48, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 110, percentile 83)
+     - Signal Processing (Q1, rank 17, percentile 79)
+   - **Source Id:** 17316
+   - **Author Ids:** 8546192900;7003400719;54890459700;7004136693;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+122.
+   - **Title:** Transmission rate allocation over satellite networks with quality of experience - Based performance metrics
+   - **Venue:** 2014 7th Advanced Satellite Multimedia Systems Conference and the 13th Signal Processing for Space Communications Workshop Asms Spsc 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ASMS-SPSC.2014.6934576
+   - **Scopus ID:** 2-s2.0-84984879029
+   - **Volume:** 2014-January
+   - **Pages:** 419-423
+   - **Authors:** Bisio Igor; Delucchi Stefano; Lavagetto Fabio; Marchese Mario
+   - **Keywords:** MOP theory | Power management | Quality of experience | Resource allocation | Satellite network
+   - **Source Id:** 21100777298
+   - **Author Ids:** 8546192900;55694754400;7004136693;7004398165
+   - **Corresponding:** Bisio I.
+123.
+   - **Title:** Hot spot selection in rural access nanosatellite networks
+   - **Venue:** Chants 2014 Proceedings of the 9th ACM Mobicom Workshop on Challenged Networks
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1145/2645672.2645687
+   - **Scopus ID:** 2-s2.0-84924054728
+   - **Pages:** 69-72
+   - **Authors:** Cello Marco; Marchese Mario; Patrone Fabio
+   - **Keywords:** Congestion control | Delay tolerant networking | Nanosatellite | Next-hop selection
+   - **Source Id:** 21100376811
+   - **Author Ids:** 36025044100;7004398165;56536292600
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Cello M.
+124.
+   - **Title:** A Trainingless WiFi fingerprint positioning approach over mobile devices
+   - **Venue:** IEEE Antennas and Wireless Propagation Letters
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 89
+   - **DOI:** 10.1109/LAWP.2014.2316973
+   - **Scopus ID:** 2-s2.0-85018961542
+   - **ISSN:** 15361225
+   - **Volume:** 13
+   - **Pages:** 832-835
+   - **Authors:** Bisio Igor; Cerruti Matteo; Lavagetto Fabio; Marchese Mario; Pastorino Matteo; Randazzo Andrea; Sciarrone Andrea
+   - **Keywords:** Electromagnetic propagation | fingerprinting | finite-difference time-domain method | indoor positioning
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 180, percentile 82)
+     2014:
+     - Electrical and Electronic Engineering (Q1, rank 89, percentile 86)
+   - **Source Id:** 18894
+   - **Author Ids:** 8546192900;56166539200;7004136693;7004398165;7004880389;7006280562;36180166900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+125.
+   - **Title:** Comparison of situation awareness algorithms for remote health monitoring with smartphones
+   - **Venue:** Proceedings IEEE Global Communications Conference Globecom
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1109/GLOCOM.2014.7037176
+   - **Scopus ID:** 2-s2.0-84949923425
+   - **ISSN:** 23340983
+   - **eISSN:** 25766813
+   - **Pages:** 2454-2459
+   - **Authors:** Bisio Igor; Lavagetto Fabio; Marchese Mario; Sciarrone Andrea
+   - **Keywords:** Remote Health Monitoring | Situation Awareness Algorithms | Smartphones
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 90, percentile 54)
+     - Computer Networks and Communications (Q2, rank 260, percentile 52)
+     - Artificial Intelligence (Q3, rank 262, percentile 47)
+     - Hardware and Architecture (Q3, rank 129, percentile 45)
+   - **Source Id:** 21101199922
+   - **Author Ids:** 8546192900;7004136693;7004398165;36180166900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+126.
+   - **Title:** Smartphones apps implementing a heuristic joint coding for video transmissions over mobile networks
+   - **Venue:** Mobile Networks and Applications
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1007/s11036-014-0519-6
+   - **Scopus ID:** 2-s2.0-84907365638
+   - **ISSN:** 1383469X
+   - **Volume:** 19
+   - **Issue:** 4
+   - **Pages:** 552-562
+   - **Authors:** Bisio Igor; Lavagetto Fabio; Luzzati Giulio; Marchese Mario
+   - **Keywords:** Heuristic application layer joint coding | Mobile networks | Smartphone Apps
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 111, percentile 79)
+     - Software (Q1, rank 106, percentile 78)
+     - Hardware and Architecture (Q1, rank 51, percentile 78)
+     - Information Systems (Q1, rank 111, percentile 77)
+     2014:
+     - Hardware and Architecture (Q1, rank 22, percentile 84)
+     - Computer Networks and Communications (Q1, rank 39, percentile 82)
+     - Information Systems (Q1, rank 47, percentile 79)
+     - Software (Q1, rank 78, percentile 79)
+   - **Source Id:** 27306
+   - **Author Ids:** 8546192900;7004136693;55372214300;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+127.
+   - **Title:** Traffic-aware clustering and VM migration in distributed data center
+   - **Venue:** Dcc 2014 Proceedings of the ACM SIGCOMM 2014 Workshop on Distributed Cloud Computing
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1145/2627566.2627582
+   - **Scopus ID:** 2-s2.0-84907363097
+   - **Pages:** 41
+   - **Authors:** Cello Marco; Xi Kang; Chao Jonathan H.; Marchese Mario
+   - **Keywords:** cloud computing | congestion control | data center | VM placement
+   - **Source Id:** 21100334882
+   - **Author Ids:** 36025044100;8552741000;55663476300;7004398165
+   - **Authoraffiliationids:** 60025153;60108318;60108318;60025153
+   - **Corresponding:** Cello M.
+128.
+   - **Title:** Dynamic multi-attribute Network Selection algorithm for Vertical Handover procedures over mobile ad hoc networks
+   - **Venue:** 2014 IEEE International Conference on Communications Icc 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 19
+   - **DOI:** 10.1109/ICC.2014.6883342
+   - **Scopus ID:** 2-s2.0-84907000337
+   - **Pages:** 342-347
+   - **Authors:** Bisio Igor; Braccini Carlo; Delucchi Stefano; Lavagetto Fabio; Marchese Mario
+   - **Keywords:** Mobile Ad Hoc Networks | Multi Attribute Decision Making | Network Selection | Vertical Handover
+   - **Source Id:** 21100333601
+   - **Author Ids:** 8546192900;7003400719;55694754400;7004136693;7004398165
+   - **Corresponding:** Bisio I.
+129.
+   - **Title:** Performance evaluation of application layer joint coding for video transmission with smartphones over terrestrial/satellite emergency networks
+   - **Venue:** 2014 IEEE International Conference on Communications Icc 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ICC.2014.6883879
+   - **Scopus ID:** 2-s2.0-84906996499
+   - **Pages:** 3594-3599
+   - **Authors:** Bisio Igor; Grattarola Aldo; Lavagetto Fabio; Luzzati Giulio; Marchese Mario
+   - **Source Id:** 21100333601
+   - **Author Ids:** 8546192900;6603286614;7004136693;55372214300;7004398165
+   - **Corresponding:** Bisio I.
+130.
+   - **Title:** QoS and QoE evaluation of Web-browsing over an SI-SAP-enabled DVB-S2/RCS system
+   - **Venue:** Eucnc 2014 European Conference on Networks and Communications
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EuCNC.2014.6882680
+   - **Scopus ID:** 2-s2.0-84906971775
+   - **Authors:** De Cola Tomaso; Marchese Mario; Cello Marco; Mongelli Maurizio
+   - **Keywords:** DVB-RCS | ETSI BSM | MOS | QoS | SI-SAP
+   - **Source Id:** 21100332604
+   - **Author Ids:** 10739364500;7004398165;36025044100;7005882346
+   - **Authoraffiliationids:** 60007798;60025153;60025153;60021199
+   - **Corresponding:** De Cola T.
+131.
+   - **Title:** Welcome to SPECTS 2014 conference from the general chairs
+   - **Venue:** Proceedings of the 2014 International Symposium on Performance Evaluation of Computer and Telecommunication Systems Spects 2014 Part of Summersim 2014 Multiconference
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Editorial
+   - **Citations:** 0
+   - **DOI:** 10.1109/SPECTS.2014.6880010
+   - **Scopus ID:** 2-s2.0-84906773365
+   - **Authors:** Marchese Mario; Obaidat Mohammad S.
+   - **Source Id:** 21100332233
+   - **Author Ids:** 7004398165;7005628795
+   - **Corresponding:** Marchese M.
+132.
+   - **Title:** Hybrid simulated-emulated platform for heterogeneous access networks performance investigations
+   - **Venue:** Proceedings of the 2014 International Symposium on Performance Evaluation of Computer and Telecommunication Systems Spects 2014 Part of Summersim 2014 Multiconference
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/SPECTS.2014.6880009
+   - **Scopus ID:** 2-s2.0-84906766559
+   - **Pages:** 670-675
+   - **Authors:** Bisio Igor; Delfino Alessandro; Delucchi Stefano; Lavagetto Fabio; Marchese Mario; Portormauro Giancarlo; Zappatore Sandro
+   - **Keywords:** Heterogeneous Access Networks | Hybrid Real-Simulated Network | ns-3 | Performance Investigation | Quality of Service
+   - **Source Id:** 21100332233
+   - **Author Ids:** 8546192900;54890459700;55694754400;7004136693;7004398165;56342648700;6602811400
+   - **Corresponding:** Bisio I.
+133.
+   - **Title:** Layer 3 throughput analysis for advanced ALOHA protocols
+   - **Venue:** 2014 IEEE International Conference on Communications Workshops Icc 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ICCW.2014.6881253
+   - **Scopus ID:** 2-s2.0-84906748885
+   - **Pages:** 533-538
+   - **Authors:** Clazzer Federico; Marchese Mario
+   - **Source Id:** 21100332227
+   - **Author Ids:** 36185041900;7004398165
+   - **Authoraffiliationids:** 60007798;113086089
+   - **Corresponding:** Clazzer F.
+134.
+   - **Title:** The concept of fairness: Definitions and use in bandwidth allocation applied to satellite environment
+   - **Venue:** IEEE Aerospace and Electronic Systems Magazine
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1109/MAES.2014.6805361
+   - **Scopus ID:** 2-s2.0-84902304758
+   - **ISSN:** 08858985
+   - **Volume:** 29
+   - **Issue:** 3
+   - **Pages:** 8-14
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 19, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 161, percentile 83)
+     - Space and Planetary Science (Q1, rank 20, percentile 81)
+     2014:
+     - Aerospace Engineering (Q2, rank 37, percentile 65)
+     - Electrical and Electronic Engineering (Q2, rank 265, percentile 59)
+     - Space and Planetary Science (Q3, rank 50, percentile 35)
+   - **Source Id:** 25993
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bisio I.
+135.
+   - **Title:** Evaluation of the average packet delivery delay in highly-disrupted networks: The DTN and IP-like protocol cases
+   - **Venue:** IEEE Communications Letters
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1109/LCOMM.2014.011314.132522
+   - **Scopus ID:** 2-s2.0-84898678317
+   - **ISSN:** 10897798
+   - **Volume:** 18
+   - **Issue:** 3
+   - **Pages:** 519-522
+   - **Authors:** Cello Marco; Gnecco Giorgio; Marchese Mario; Sanguineti Marcello
+   - **Keywords:** Intermittently-connected networks | IP networks | Markov chains | store-and-forward mechanism
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 25, percentile 93)
+     - Electrical and Electronic Engineering (Q1, rank 140, percentile 86)
+     - Computer Science Applications (Q1, rank 167, percentile 83)
+     2014:
+     - Modeling and Simulation (Q1, rank 38, percentile 82)
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 80)
+     - Computer Science Applications (Q1, rank 113, percentile 77)
+   - **Source Id:** 18896
+   - **Author Ids:** 36025044100;22953696000;7004398165;7003404992
+   - **Authoraffiliationids:** 60108318;60102060-60025153;60025153;60025153
+   - **Corresponding:** Cello M.
+136.
+   - **Title:** Gender-driven emotion recognition through speech signals for ambient intelligence applications
+   - **Venue:** IEEE Transactions on Emerging Topics in Computing
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 76
+   - **DOI:** 10.1109/TETC.2013.2274797
+   - **Scopus ID:** 2-s2.0-84944069947
+   - **eISSN:** 21686750
+   - **Volume:** 1
+   - **Issue:** 2
+   - **Pages:** 244-257
+   - **Authors:** Bisio Igor; Delfino Alessandro; Lavagetto Fabio; Marchese Mario; Sciarrone Andrea
+   - **Keywords:** Emotion recognition | Gender recognition | Human-computer intelligent interaction | Pitch estimation | Support vector machine
+   - **Quartile:**
+     2025:
+     - Computer Science (miscellaneous) (Q1, rank 14, percentile 92)
+     - Computer Science Applications (Q1, rank 100, percentile 89)
+     - Information Systems (Q1, rank 52, percentile 89)
+     - Human-Computer Interaction (Q1, rank 25, percentile 87)
+   - **Source Id:** 21100338508
+   - **Author Ids:** 8546192900;54890459700;7004136693;7004398165;36180166900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+137.
+   - **Title:** Opportunistic detection methods for emotion-aware smartphone applications
+   - **Venue:** Creating Personal Social and Urban Awareness Through Pervasive Computing
+   - **Year:** 2013
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 8
+   - **DOI:** 10.4018/978-1-4666-4695-7.ch003
+   - **Scopus ID:** 2-s2.0-84956759027
+   - **Pages:** 53-85
+   - **Authors:** Bisio Igor; Delfino Alessandro; Lavagetto Fabio; Marchese Mario
+   - **Source Id:** 21100442343
+   - **Author Ids:** 8546192900;54890459700;7004136693;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+138.
+   - **Title:** Performance comparison of a probabilistic fingerprint-based indoor positioning system over different smartphones
+   - **Venue:** Proceedings of the 2013 International Symposium on Performance Evaluation of Computer and Telecommunication Systems Spects 2013 Part of Summersim 2013 Multiconference
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 29
+   - **Scopus ID:** 2-s2.0-84884790366
+   - **Pages:** 161-166
+   - **Authors:** Bisio Igor; Lavagetto Fabio; Marchese Mario; Sciarrone Andrea
+   - **Keywords:** Indoor Positioning | Performance Comparison | Smartphone | WiFi-Fingerprinting
+   - **Source Id:** 21100258919
+   - **Author Ids:** 8546192900;7004136693;7004398165;36180166900
+   - **Authoraffiliationids:** 113360839;113360839;113360839;113360839
+   - **Corresponding:** Bisio I.
+139.
+   - **Title:** Simulative performance comparison of network selection algorithms in the framework of the 802.21 standard
+   - **Venue:** Proceedings of the 2013 International Symposium on Performance Evaluation of Computer and Telecommunication Systems Spects 2013 Part of Summersim 2013 Multiconference
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-84884776004
+   - **Pages:** 174-181
+   - **Authors:** Bisio Igor; Delucchi Stefano; Lavagetto Fabio; Marchese Mario
+   - **Keywords:** IEEE 802.21 Standard | Mobile communications | Multi-attribute Algorithms | Network Selection | ns-2 | Performance Comparison
+   - **Source Id:** 21100258919
+   - **Author Ids:** 8546192900;55694754400;7004136693;7004398165
+   - **Corresponding:** Bisio I.
+140.
+   - **Title:** Fast audio fingerprint comparison for real-time TV-channel recognition applications
+   - **Venue:** 2013 9th International Wireless Communications and Mobile Computing Conference Iwcmc 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/IWCMC.2013.6583641
+   - **Scopus ID:** 2-s2.0-84883669681
+   - **Pages:** 694-699
+   - **Authors:** Bisio Igor; Delfino Alessandro; Lavagetto Fabio; Marchese Mario; Frá Cristina; Valla Massimo
+   - **Source Id:** 21100256920
+   - **Author Ids:** 8546192900;54890459700;7004136693;7004398165;24399148800;24400344500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;106060169;106060169
+   - **Corresponding:** Bisio I.
+141.
+   - **Title:** Simulative performance comparison of network selection algorithms in the framework of the 802.21 standard
+   - **Venue:** Simulation Series
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84880538088
+   - **ISSN:** 07359276
+   - **Volume:** 45
+   - **Issue:** 9
+   - **Pages:** 174-181
+   - **Authors:** Bisio Igor; Delucchi Stefano; Lavagetto Fabio; Marchese Mario
+   - **Keywords:** Ieee 802.21 Standard | Mobile communications | Multi-attribute algorithms | Network selection | Ns-2 | Performance comparison
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 535, percentile 2)
+   - **Source Id:** 12193
+   - **Author Ids:** 8546192900;55694754400;7004136693;7004398165
+   - **Corresponding:** Bisio I.
+142.
+   - **Title:** GPS/HPS-and Wi-fi fingerprint-based location recognition for check-in applications over smartphones in cloud-based LBSs
+   - **Venue:** IEEE Transactions on Multimedia
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 63
+   - **DOI:** 10.1109/TMM.2013.2239631
+   - **Scopus ID:** 2-s2.0-84877893503
+   - **ISSN:** 15209210
+   - **Volume:** 15
+   - **Issue:** 4
+   - **Pages:** 858-869
+   - **Authors:** Bisio Igor; Lavagetto Fabio; Marchese Mario; Sciarrone Andrea
+   - **Keywords:** Check-in applications | cloud computing | GPS/HPS receivers | smartphone terminals | Wi-Fi fingerprint
+   - **Quartile:**
+     2025:
+     - Media Technology (Q1, rank 3, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 41, percentile 95)
+     - Signal Processing (Q1, rank 10, percentile 95)
+     - Computer Science Applications (Q1, rank 52, percentile 94)
+     2013:
+     - Media Technology (Q1, rank 3, percentile 95)
+     - Electrical and Electronic Engineering (Q1, rank 69, percentile 89)
+     - Computer Science Applications (Q1, rank 62, percentile 87)
+     - Signal Processing (Q1, rank 11, percentile 86)
+   - **Source Id:** 16211
+   - **Author Ids:** 8546192900;7004136693;7004398165;36180166900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+143.
+   - **Title:** Energy efficient WiFi-based fingerprinting for indoor positioning with smartphones
+   - **Venue:** 2013 IEEE Globecom Workshops GC Wkshps 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 36
+   - **DOI:** 10.1109/GLOCOMW.2013.6855683
+   - **Scopus ID:** 2-s2.0-84928606872
+   - **Pages:** 4639-4643
+   - **Authors:** Bisio Igor; Lavagetto Fabio; Marchese Mario; Sciarrone Andrea
+   - **Keywords:** Energy efficiently | Indoor positioning | Smartphones | WiFi-fingerprinting
+   - **Source Id:** 21100320671
+   - **Author Ids:** 8546192900;7004136693;7004398165;36180166900
+   - **Authoraffiliationids:** 113086089;113086089;113086089;113086089
+   - **Corresponding:** Bisio I.
+144.
+   - **Title:** Comparison among resource allocation methods with packet loss and power metrics in geostationary satellite scenarios
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/ICC.2013.6655235
+   - **Scopus ID:** 2-s2.0-84891359466
+   - **ISSN:** 15503607
+   - **Pages:** 4271-4275
+   - **Authors:** Bisio Igor; Delucchi Stefano; Lavagetto Fabio; Marchese Mario
+   - **Keywords:** Capacity Maximisation Allocation | Multi-Objective Programming | Performance Comparison | Power Minimisation Allocation | Satellite Communications
+   - **Source Id:** 33201
+   - **Author Ids:** 8546192900;55694754400;7004136693;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+145.
+   - **Title:** Optimality conditions for coordinate-convex policies in CAC with nonlinear feasibility boundaries
+   - **Venue:** IEEE ACM Transactions on Networking
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/TNET.2012.2222924
+   - **Scopus ID:** 2-s2.0-84887101871
+   - **ISSN:** 10636692
+   - **Volume:** 21
+   - **Issue:** 5
+   - **Pages:** 1363-1377
+   - **Authors:** Cello Marco; Gnecco Giorgio; Marchese Mario; Sanguineti Marcello
+   - **Keywords:** Call Admission Control (CAC) | Combinatorial optimization | Coordinate-Convex (CC) policies | Feasibility region | Nonlinear constraints | Stochastic Knapsack problem
+   - **Quartile:**
+     2013:
+     - Electrical and Electronic Engineering (Q1, rank 44, percentile 93)
+     - Computer Science Applications (Q1, rank 36, percentile 92)
+     - Software (Q1, rank 36, percentile 90)
+     - Computer Networks and Communications (Q1, rank 21, percentile 90)
+   - **Source Id:** 27237
+   - **Author Ids:** 36025044100;22953696000;7004398165;7003404992
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Cello M.
+146.
+   - **Title:** Trainingless fingerprinting-based indoor positioning algorithms with smartphones using electromagnetic propagation models
+   - **Venue:** Ist 2012 2012 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/IST.2012.6295537
+   - **Scopus ID:** 2-s2.0-84870666077
+   - **Pages:** 190-194
+   - **Authors:** Bisio Igor; Lavagetto Fabio; Marchese Mario; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Electromagnetic propagation | Smartphone terminals | WI-Fi Signals Fingerprint
+   - **Source Id:** 21100222924
+   - **Author Ids:** 8546192900;7004136693;7004398165;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+147.
+   - **Title:** Opportunistic estimation of television audience through smartphones
+   - **Venue:** Simulation Series
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84870504958
+   - **ISSN:** 07359276
+   - **Volume:** 44
+   - **Issue:** Book 12
+   - **Pages:** 164-168
+   - **Authors:** Bisio Igor; Delfino Alessandro; Luzzati Giulio; Lavagetto Fabio; Marchese Mario; Frà Cristina; Valla Massimo
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 535, percentile 2)
+   - **Source Id:** 12193
+   - **Author Ids:** 8546192900;54890459700;55372214300;7004136693;7004398165;24399148800;24400344500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60023916;60023916
+   - **Corresponding:** Bisio I.
+148.
+   - **Title:** An application to two-hop forwarding of a model of buffer occupancy in ICNs
+   - **Venue:** Proceedings 2012 7th International Conference on System of Systems Engineering Sose 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/SYSoSE.2012.6384188
+   - **Scopus ID:** 2-s2.0-84879767497
+   - **Pages:** 491-496
+   - **Authors:** Cello Marco; Gnecco Giorgio; Marchese Mario; Sanguineti Marcello
+   - **Keywords:** ad-hoc networks | congestion control | epidemic routing | Intermittently-connected networks | Markov chains
+   - **Source Id:** 21100220364
+   - **Author Ids:** 36025044100;22953696000;7004398165;7003404992
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Cello M.
+149.
+   - **Title:** Smartphone-based automatic place recognition with Wi-Fi signals for location-aware services
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ICC.2012.6363942
+   - **Scopus ID:** 2-s2.0-84871965321
+   - **ISSN:** 15503607
+   - **Pages:** 4943-4948
+   - **Authors:** Bisio Igor; Pan Roberto Lan Cian; Lavagetto Fabio; Marchese Mario; Sciarrone Andrea; Frà Cristina; Valla Massimo
+   - **Keywords:** GPS/HPS receivers | Performance Evaluation | Smartphone terminals | Wi-Fi Signals Fingerprint
+   - **Source Id:** 33201
+   - **Author Ids:** 8546192900;36198706200;7004136693;7004398165;36180166900;24399148800;24400344500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60023916;60023916
+   - **Corresponding:** Bisio I.
+150.
+   - **Title:** Opportunistic estimation of television audience through smartphones
+   - **Venue:** Proceedings of the 2012 International Symposium on Performance Evaluation of Computer and Telecommunication Systems Spects 12 Part of Summersim 2012 Multiconference
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **Scopus ID:** 2-s2.0-84867032738
+   - **Authors:** Bisio Igor; Delfino Alessandro; Luzzati Giulio; Lavagetto Fabio; Marchese Mario; Frà Cristina; Valla Massimo
+   - **Source Id:** 21100216999
+   - **Author Ids:** 8546192900;54890459700;55372214300;7004136693;7004398165;24399148800;24400344500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60023916;60023916
+   - **Corresponding:** Bisio I.
+151.
+   - **Title:** Non-linear coding decoding strategies exploiting spatial correlation in wireless sensor networks
+   - **Venue:** Iet Communications
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1049/iet-com.2011.0799
+   - **Scopus ID:** 2-s2.0-84868656078
+   - **ISSN:** 17518628
+   - **Volume:** 6
+   - **Issue:** 14
+   - **Pages:** 2198-2207
+   - **Authors:** Davoli F.; Marchese M.; Mongelli M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 286, percentile 71)
+     - Computer Science Applications (Q2, rank 321, percentile 67)
+     2012:
+     - Electrical and Electronic Engineering (Q2, rank 237, percentile 61)
+     - Computer Science Applications (Q2, rank 212, percentile 54)
+   - **Source Id:** 5300152202
+   - **Author Ids:** 57220364548;7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153;60021199
+   - **Corresponding:** Davoli F.
+152.
+   - **Title:** Smartphone-based user activity recognition method for health remote monitoring applications
+   - **Venue:** Peccs 2012 Proceedings of the 2nd International Conference on Pervasive Embedded Computing and Communication Systems
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 30
+   - **Scopus ID:** 2-s2.0-84862123393
+   - **Pages:** 200-205
+   - **Authors:** Bisio Igor; Lavagetto Fabio; Marchese Mario; Sciarrone Andrea
+   - **Keywords:** Accelerometer | Activity recognition | Android smartphones | Decision trees | Remote monitoring | Windowed decision
+   - **Source Id:** 21100203710
+   - **Author Ids:** 8546192900;7004136693;7004398165;36180166900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+153.
+   - **Title:** A model of buffer occupancy for ICNs
+   - **Venue:** IEEE Communications Letters
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1109/LCOMM.2012.042312.120369
+   - **Scopus ID:** 2-s2.0-84862563799
+   - **ISSN:** 10897798
+   - **Volume:** 16
+   - **Issue:** 6
+   - **Pages:** 862-865
+   - **Authors:** Cello Marco; Gnecco Giorgio; Marchese Mario; Sanguineti Marcello
+   - **Keywords:** ad-hoc networks | congestion control | epidemic routing | Intermittently connected networks | Markov chains
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 25, percentile 93)
+     - Electrical and Electronic Engineering (Q1, rank 140, percentile 86)
+     - Computer Science Applications (Q1, rank 167, percentile 83)
+     2012:
+     - Electrical and Electronic Engineering (Q2, rank 158, percentile 74)
+     - Modeling and Simulation (Q2, rank 58, percentile 72)
+     - Computer Science Applications (Q2, rank 150, percentile 67)
+   - **Source Id:** 18896
+   - **Author Ids:** 36025044100;22953696000;7004398165;7003404992
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Cello M.
+154.
+   - **Title:** Power saving bandwidth allocation over GEO satellite networks
+   - **Venue:** IEEE Communications Letters
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 45
+   - **DOI:** 10.1109/LCOMM.2012.030912.111913
+   - **Scopus ID:** 2-s2.0-84861170761
+   - **ISSN:** 10897798
+   - **Volume:** 16
+   - **Issue:** 5
+   - **Pages:** 596-599
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Bandwidth allocation | Multi-objective programming | Power and bandwidth saving | Satellite communications
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 25, percentile 93)
+     - Electrical and Electronic Engineering (Q1, rank 140, percentile 86)
+     - Computer Science Applications (Q1, rank 167, percentile 83)
+     2012:
+     - Electrical and Electronic Engineering (Q2, rank 158, percentile 74)
+     - Modeling and Simulation (Q2, rank 58, percentile 72)
+     - Computer Science Applications (Q2, rank 150, percentile 67)
+   - **Source Id:** 18896
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bisio I.
+155.
+   - **Title:** Simple protocol enhancements of Rapid Spanning Tree Protocol over ring topologies
+   - **Venue:** Computer Networks
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1016/j.comnet.2011.10.008
+   - **Scopus ID:** 2-s2.0-84858160822
+   - **ISSN:** 13891286
+   - **Volume:** 56
+   - **Issue:** 4
+   - **Pages:** 1131-1151
+   - **Authors:** Marchese M.; Mongelli M.
+   - **Keywords:** Network resilience | Rapid Spanning Tree Protocol | Ring topology
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 96, percentile 82)
+     2012:
+     - Computer Networks and Communications (Q1, rank 40, percentile 80)
+   - **Source Id:** 26811
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60021199
+   - **Corresponding:** Marchese M.
+156.
+   - **Title:** Capacity bound of MOP-based allocation with packet loss and power metrics in satellite communications systems
+   - **Venue:** Proceedings IEEE Global Communications Conference Globecom
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/GLOCOM.2012.6503625
+   - **Scopus ID:** 2-s2.0-84877664613
+   - **ISSN:** 23340983
+   - **eISSN:** 25766813
+   - **Pages:** 3311-3316
+   - **Authors:** Bisio Igor; Delucchi Stefano; Lavagetto Fabio; Marchese Mario
+   - **Keywords:** Capacity Bound | Lp-problem based Allocation | Multi-Objective Programming | Performance Analysis | Satellite Communications
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 90, percentile 54)
+     - Computer Networks and Communications (Q2, rank 260, percentile 52)
+     - Artificial Intelligence (Q3, rank 262, percentile 47)
+     - Hardware and Architecture (Q3, rank 129, percentile 45)
+   - **Source Id:** 21101199922
+   - **Author Ids:** 8546192900;55694754400;7004136693;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+157.
+   - **Title:** Context-aware smartphone services
+   - **Venue:** Pervasive Computing and Communications Design and Deployment Technologies Trends and Applications
+   - **Year:** 2011
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 5
+   - **DOI:** 10.4018/978-1-60960-611-4.ch002
+   - **Scopus ID:** 2-s2.0-84898570814
+   - **Pages:** 24-47
+   - **Authors:** Bisio Igor; Lavagetto Fabio; Marchese Mario
+   - **Source Id:** 21100304554
+   - **Author Ids:** 8546192900;7004136693;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+158.
+   - **Title:** A generalized stochastic knapsack problem with application in call admission control
+   - **Venue:** 10th Cologne Twente Workshop on Graphs and Combinatorial Optimization Ctw 2011 Proceedings of the Conference
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-84883074726
+   - **Pages:** 105-108
+   - **Authors:** Cello Marco; Gnecco Giorgio; Marchese Mario; Sanguineti Marcello
+   - **Keywords:** Call admission control | Coordinate-convex policies | Feasibility region | Stochastic knapsack
+   - **Source Id:** 21100255332
+   - **Author Ids:** 36025044100;22953696000;7004398165;7003404992
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Cello M.
+159.
+   - **Title:** Performance evaluation of bandwidth adaptation over DVB satellite channels
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/GLOCOM.2011.6133823
+   - **Scopus ID:** 2-s2.0-84857222564
+   - **Authors:** Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Dynamic Bandwidth Allocation | Performance Evaluation | Satellite Communications | Telecommunications Networks
+   - **Source Id:** 145242
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchese M.
+160.
+   - **Title:** Application layer joint coding for image transmission over deep space channels
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/GLOCOM.2011.6133825
+   - **Scopus ID:** 2-s2.0-84857198805
+   - **Authors:** Bisio Igor; Lavagetto Fabio; Marchese Mario
+   - **Keywords:** application layer coding | deep space communications | image compression | LDPC encoding | Multi-Attribute Decision Making theory
+   - **Source Id:** 145242
+   - **Author Ids:** 8546192900;7004136693;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+161.
+   - **Title:** Adaptive call admission and bandwidth control in DVB-RCS systems
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/icc.2011.5962558
+   - **Scopus ID:** 2-s2.0-80052167347
+   - **ISSN:** 05361486
+   - **Authors:** Marchese Mario; Mongelli Maurizio
+   - **Keywords:** call admission | DVB-RCS | measurement-based equivalent bandwidth | QoS mapping
+   - **Source Id:** 33201
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchese M.
+162.
+   - **Title:** CAC with nonlinearly-constrained feasibility regions
+   - **Venue:** IEEE Communications Letters
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/LCOMM.2011.030311.102228
+   - **Scopus ID:** 2-s2.0-79954630256
+   - **ISSN:** 10897798
+   - **Volume:** 15
+   - **Issue:** 4
+   - **Pages:** 467-469
+   - **Authors:** Cello Marco; Gnecco Giorgio; Marchese Mario; Sanguineti Marcello
+   - **Keywords:** Call admission control | coordinate convex policies | feasibility region
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 25, percentile 93)
+     - Electrical and Electronic Engineering (Q1, rank 140, percentile 86)
+     - Computer Science Applications (Q1, rank 167, percentile 83)
+     2011:
+     - Modeling and Simulation (Q1, rank 49, percentile 75)
+     - Electrical and Electronic Engineering (Q1, rank 143, percentile 75)
+     - Computer Science Applications (Q2, rank 130, percentile 71)
+   - **Source Id:** 18896
+   - **Author Ids:** 36025044100;22953696000;7004398165;7003404992
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Cello M.
+163.
+   - **Title:** Interplanetary and pervasive communications
+   - **Venue:** IEEE Aerospace and Electronic Systems Magazine
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 19
+   - **DOI:** 10.1109/MAES.2011.5739484
+   - **Scopus ID:** 2-s2.0-79953187640
+   - **ISSN:** 08858985
+   - **Volume:** 26
+   - **Issue:** 2
+   - **Pages:** 12-18
+   - **Authors:** Marchese Mario
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 19, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 161, percentile 83)
+     - Space and Planetary Science (Q1, rank 20, percentile 81)
+     2011:
+     - Aerospace Engineering (Q2, rank 43, percentile 58)
+     - Electrical and Electronic Engineering (Q3, rank 317, percentile 46)
+     - Space and Planetary Science (Q3, rank 49, percentile 32)
+   - **Source Id:** 25993
+   - **Author Ids:** 7004398165
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Marchese M.
+164.
+   - **Title:** Delay-and disruption-tolerant networking (DTN): An alternative solution for future satellite networking applications
+   - **Venue:** Proceedings of the IEEE
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 230
+   - **DOI:** 10.1109/JPROC.2011.2158378
+   - **Scopus ID:** 2-s2.0-80054986166
+   - **ISSN:** 00189219
+   - **Volume:** 99
+   - **Issue:** 11
+   - **Pages:** 1980-1997
+   - **Authors:** Caini Carlo; Cruickshank Haitham; Farrell Stephen; Marchese Mario
+   - **Keywords:** Delay-and disruption-tolerant networking (DTN) | performance enhancing proxies (PEPs) | quality of service (QoS) | satellite communications | security
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 3, percentile 99)
+     - Computer Science (all) (Q1, rank 2, percentile 99)
+     2011:
+     - Electrical and Electronic Engineering (Q1, rank 4, percentile 99)
+   - **Source Id:** 17915
+   - **Author Ids:** 6701493219;6603896799;16051925300;7004398165
+   - **Authoraffiliationids:** 60028218;60021097;60011149;60025153
+   - **Corresponding:** Caini C.
+165.
+   - **Title:** Structural properties of optimal coordinate-convex policies for CAC with nonlinearly-constrained feasibility regions
+   - **Venue:** Proceedings IEEE INFOCOM
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/INFCOM.2011.5935205
+   - **Scopus ID:** 2-s2.0-79960866018
+   - **ISSN:** 0743166X
+   - **Pages:** 466-470
+   - **Authors:** Marchese Mario; Cello Marco; Gnecco Giorgio; Sanguineti Marcello
+   - **Keywords:** Call Admission Control | Coordinate Convex Policies | Feasibility Region
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 147, percentile 85)
+     - Computer Science (all) (Q1, rank 42, percentile 82)
+     2011:
+     - Computer Science (all) (Q1, rank 8, percentile 95)
+     - Electrical and Electronic Engineering (Q1, rank 39, percentile 93)
+   - **Source Id:** 18204
+   - **Author Ids:** 7004398165;36025044100;22953696000;7003404992
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Marchese M.
+166.
+   - **Title:** Monitoring unauthorized internet accesses through a 'honeypot' system
+   - **Venue:** International Journal of Communication Systems
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1002/dac.1141
+   - **Scopus ID:** 2-s2.0-78650623144
+   - **ISSN:** 10745351
+   - **eISSN:** 10991131
+   - **Volume:** 24
+   - **Issue:** 1
+   - **Pages:** 75-93
+   - **Authors:** Marchese Mario; Surlinelli Roberto; Zappatore Sandro
+   - **Keywords:** honeypot | network monitoring | network security
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 309, percentile 69)
+     - Computer Networks and Communications (Q2, rank 171, percentile 68)
+     2011:
+     - Electrical and Electronic Engineering (Q3, rank 319, percentile 45)
+     - Computer Networks and Communications (Q3, rank 139, percentile 30)
+   - **Source Id:** 17964
+   - **Author Ids:** 7004398165;36702235700;6602811400
+   - **Authoraffiliationids:** 60025153;106544534;60025153
+   - **Corresponding:** Marchese M.
+167.
+   - **Title:** Proceedings
+   - **Venue:** Lecture Notes of the Institute for Computer Sciences Social Informatics and Telecommunications Engineering
+   - **Year:** 2010
+   - **Type:** Book Series
+   - **Subtype:** Editorial
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84885892924
+   - **ISSN:** 18678211
+   - **Volume:** 43 Lnicst
+   - **Pages:** V-VI
+   - **Authors:** Ruggieri Marina; Marchese Mario; Sithamparanathan Kandeepan
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 439, percentile 19)
+   - **Source Id:** 21100220348
+   - **Author Ids:** 7102391180;7004398165;9633908400
+   - **Corresponding:** Ruggieri M.
+168.
+   - **Title:** Comparative analysis of image compression algorithms for deep space communications systems
+   - **Venue:** Lecture Notes of the Institute for Computer Sciences Social Informatics and Telecommunications Engineering
+   - **Year:** 2010
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/978-3-642-13618-4_5
+   - **Scopus ID:** 2-s2.0-84885887116
+   - **ISSN:** 18678211
+   - **Volume:** 43 Lnicst
+   - **Pages:** 63-73
+   - **Authors:** Bisio Igor; Lavagetto Fabio; Marchese Mario
+   - **Keywords:** CCSDS compression | Compression time | Deep space communications systems | Image compression | JPEG2000 | PSNR
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 439, percentile 19)
+   - **Source Id:** 21100220348
+   - **Author Ids:** 8546192900;7004136693;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+169.
+   - **Title:** Linear and non-linear strategies for power mapping in gaussian sensor networks
+   - **Venue:** 2010 Australasian Telecommunication Networks and Applications Conference Atnac 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ATNAC.2010.5680261
+   - **Scopus ID:** 2-s2.0-79251578691
+   - **Pages:** 7-12
+   - **Authors:** Davoli Franco; Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Gaussian sensor networks | Neural control | Power allocation | Sensitivity analysis
+   - **Source Id:** 19700187509
+   - **Author Ids:** 57220364548;7004398165;7005882346
+   - **Authoraffiliationids:** 60103966;60103966;60103966
+   - **Corresponding:** Davoli F.
+170.
+   - **Title:** Reference chaser bandwidth controller for wireless QoS mapping under delay constraints
+   - **Venue:** Eurasip Journal on Wireless Communications and Networking
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1155/2010/961690
+   - **Scopus ID:** 2-s2.0-79251568957
+   - **ISSN:** 16871472
+   - **eISSN:** 16871499
+   - **Volume:** 2010
+   - **Authors:** Marchese M.; Mongelli M.
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 52, percentile 73)
+     - Computer Networks and Communications (Q2, rank 160, percentile 70)
+     - Computer Science Applications (Q2, rank 317, percentile 67)
+   - **Source Id:** 18202
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchese M.
+171.
+   - **Title:** Satellite communications: From PEPs to DTN
+   - **Venue:** Asms Spsc 2010 2010 5th Advanced Satellite Multimedia Systems Conference and the 11th Signal Processing for Space Communications Workshop
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/ASMS-SPSC.2010.5586899
+   - **Scopus ID:** 2-s2.0-78049497406
+   - **Pages:** 62-67
+   - **Authors:** Caini C.; Firrincieli R.; Cruickshank H.; Marchese M.
+   - **Keywords:** DTN | PEPs | QoS | Satellite communications | Security
+   - **Source Id:** 19700182216
+   - **Author Ids:** 6701493219;6506694454;6603896799;7004398165
+   - **Authoraffiliationids:** 60028218;60028218;60021097;60025153
+   - **Corresponding:** Caini C.
+172.
+   - **Title:** ICT applications in green and renewable energy sector
+   - **Venue:** Proceedings of the Workshop on Enabling Technologies Infrastructure for Collaborative Enterprises Wetice
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1109/WETICE.2010.33
+   - **Scopus ID:** 2-s2.0-77955882219
+   - **ISSN:** 15244547
+   - **Pages:** 175-179
+   - **Authors:** Stallo Cosimo; De Sanctis Mauro; Ruggieri Marina; Bisio Igor; Marchese Mario
+   - **Quartile:**
+     2025:
+     - Hardware and Architecture (Q4, rank 206, percentile 12)
+     - Software (Q4, rank 459, percentile 8)
+   - **Source Id:** 120165
+   - **Author Ids:** 24544857400;58896944500;7102391180;8546192900;7004398165
+   - **Authoraffiliationids:** 60027509;60027509;60027509;60025153;60025153
+   - **Corresponding:** Stallo C.
+173.
+   - **Title:** Introduction to multi attribute decision making-based application layer joint coding for image transmission over deep space channels
+   - **Venue:** 2nd International Conference on Advances in Satellite and Space Communications Spacomm 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/SPACOMM.2010.21
+   - **Scopus ID:** 2-s2.0-77955242506
+   - **Pages:** 134-139
+   - **Authors:** Bisio Igor; Lavagetto Fabio; Marchese Mario
+   - **Keywords:** Application layer coding | Deep space communications | Image compression | LDPC encoding | Multi-attribute decision making theory
+   - **Source Id:** 19700176305
+   - **Author Ids:** 8546192900;7004136693;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+174.
+   - **Title:** Wireless pervasive networks for safety operations and secure transportations
+   - **Venue:** ISWPC 2010 IEEE 5th International Symposium on Wireless Pervasive Computing 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ISWPC.2010.5483780
+   - **Scopus ID:** 2-s2.0-77954788091
+   - **Pages:** 226-231
+   - **Authors:** Marchese Mario
+   - **Keywords:** Delay tolerant networks | Networking architectures | Pervasive networking | QoS solutions
+   - **Source Id:** 19700175851
+   - **Author Ids:** 7004398165
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Marchese M.
+175.
+   - **Title:** Speaker count application for smartphone platforms
+   - **Venue:** ISWPC 2010 IEEE 5th International Symposium on Wireless Pervasive Computing 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/ISWPC.2010.5483789
+   - **Scopus ID:** 2-s2.0-77954782325
+   - **Pages:** 361-366
+   - **Authors:** Agneessens Alessio; Bisio Igor; Lavagetto Fabio; Marchese Mario; Sciarrone Andrea
+   - **Keywords:** Audio speaker count | Context aware applications | Low battery consumption | Low computational load | Multimedia communications
+   - **Source Id:** 19700175851
+   - **Author Ids:** 36179453600;8546192900;7004136693;7004398165;36180166900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Agneessens A.
+176.
+   - **Title:** Reliable data delivery over deep space networks: Benefits of long erasure codes over arq strategies
+   - **Venue:** IEEE Wireless Communications
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 35
+   - **DOI:** 10.1109/MWC.2010.5450661
+   - **Scopus ID:** 2-s2.0-77951573837
+   - **ISSN:** 15361284
+   - **Volume:** 17
+   - **Issue:** 2
+   - **Pages:** 57-65
+   - **Authors:** De Cola Tomaso; Marchese Mario
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 24, percentile 97)
+     - Computer Science Applications (Q1, rank 29, percentile 97)
+   - **Source Id:** 18935
+   - **Author Ids:** 10739364500;7004398165
+   - **Authoraffiliationids:** 60007798;60025153
+   - **Corresponding:** De Cola T.
+177.
+   - **Title:** Joint use of custody transfer and erasure codes in DTN space networks: Benefits and shortcomings
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/GLOCOM.2010.5683307
+   - **Scopus ID:** 2-s2.0-79551635151
+   - **Authors:** De Cola Tomaso; Marchese Mario
+   - **Keywords:** Congestion | Custody transfer | Delay tolerant network architecture | Erasure codes | Interplanetary networks
+   - **Source Id:** 145242
+   - **Author Ids:** 10739364500;7004398165
+   - **Authoraffiliationids:** 60007798;60025153
+   - **Corresponding:** De Cola T.
+178.
+   - **Title:** Comparative analysis of interplanetary and pervasive communications
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/GLOCOM.2010.5683499
+   - **Scopus ID:** 2-s2.0-79551633753
+   - **Authors:** Marchese Mario
+   - **Keywords:** Delay tolerant networks | Interplanetary communications | Pervasive communications | Quality of service
+   - **Source Id:** 145242
+   - **Author Ids:** 7004398165
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Marchese M.
+179.
+   - **Title:** Simple protocol enhancements of rapid spanning tree protocol over ring topologies
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/GLOCOM.2010.5683943
+   - **Scopus ID:** 2-s2.0-79551616957
+   - **Authors:** Marchese M.; Mongelli M.; Portomauro G.
+   - **Keywords:** Network resilience | Ring topology | RSTP
+   - **Source Id:** 145242
+   - **Author Ids:** 7004398165;7005882346;15128054100
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marchese M.
+180.
+   - **Title:** Adaptive call admission and bandwidth control in DVB-RCS systems
+   - **Venue:** Journal of Communications and Networks
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/JCN.2010.6388303
+   - **Scopus ID:** 2-s2.0-79251612192
+   - **ISSN:** 12292370
+   - **Volume:** 12
+   - **Issue:** 6
+   - **Pages:** 568-576
+   - **Authors:** Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Call admission control (CAC) | Digital video broadcasting (DVD)-return channel via satellite (RCS)/second generation (S2) | Measurement-based equivalent bandwidth | Quality of service (QoS) mapping
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 60, percentile 89)
+     - Information Systems (Q1, rank 64, percentile 87)
+   - **Source Id:** 4800154012
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchese M.
+181.
+   - **Title:** A measurement-based adaptive control mechanism for pricing in telecommunication networks
+   - **Venue:** Journal of Communications and Networks
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1109/JCN.2010.6388454
+   - **Scopus ID:** 2-s2.0-77954506458
+   - **ISSN:** 12292370
+   - **Volume:** 12
+   - **Issue:** 3
+   - **Pages:** 253-265
+   - **Authors:** Davoli Franco; Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Functional optimization | Network pricing | Neural control | User sensitivity
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 60, percentile 89)
+     - Information Systems (Q1, rank 64, percentile 87)
+   - **Source Id:** 4800154012
+   - **Author Ids:** 57220364548;7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Davoli F.
+182.
+   - **Title:** Performance enhanced proxy solutions for satellite networks: State of the art, protocol stack and possible interfaces
+   - **Venue:** Lecture Notes of the Institute for Computer Sciences Social Informatics and Telecommunications Engineering
+   - **Year:** 2009
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1007/978-3-642-04260-7_8
+   - **Scopus ID:** 2-s2.0-84885893385
+   - **ISSN:** 18678211
+   - **Volume:** 15 Lnicst
+   - **Pages:** 61-67
+   - **Authors:** Bisio Igor; Marchese Mario; Mongelli Maurizio
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 439, percentile 19)
+   - **Source Id:** 21100220348
+   - **Author Ids:** 8546192900;7004398165;7005882346
+   - **Corresponding:** Bisio I.
+183.
+   - **Title:** Combined congestion control and link selection strategies for delay tolerant interplanetary networks
+   - **Venue:** Lecture Notes of the Institute for Computer Sciences Social Informatics and Telecommunications Engineering
+   - **Year:** 2009
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-642-04260-7_15
+   - **Scopus ID:** 2-s2.0-84885887516
+   - **ISSN:** 18678211
+   - **Volume:** 15 Lnicst
+   - **Pages:** 122-131
+   - **Authors:** Bisio Igor; De Cola Tomaso; Lavagetto Fabio; Marchese Mario
+   - **Keywords:** Custodial transfer | Delay tolerant network architecture | Explicit congestion notification | Interplanetary networks | Random early detection
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 439, percentile 19)
+   - **Source Id:** 21100220348
+   - **Author Ids:** 8546192900;10739364500;7004136693;7004398165
+   - **Corresponding:** Bisio I.
+184.
+   - **Title:** Design and evaluation guidelines for bandwidth allocation solutions in satellite environments
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/GLOCOM.2009.5426294
+   - **Scopus ID:** 2-s2.0-77951595331
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Bandwidth allocation | Bandwidth utilization | Fairness | Performance efficiency | Satellite networks
+   - **Source Id:** 145242
+   - **Author Ids:** 8546192900;7004398165
+   - **Corresponding:** Bisio I.
+185.
+   - **Title:** Combined congestion control and link selection strategies for delay tolerant interplanetary networks
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 32
+   - **DOI:** 10.1109/GLOCOM.2009.5426295
+   - **Scopus ID:** 2-s2.0-77951583602
+   - **Authors:** Bisio Igor; Cello Marco; De Cola Tomaso; Marchese Mario
+   - **Keywords:** Custodial transfer | Delay tolerant network architecture | Explicit congestion notification | Interplanetary networks | Random early detection
+   - **Source Id:** 145242
+   - **Author Ids:** 8546192900;36025044100;10739364500;7004398165
+   - **Corresponding:** Bisio I.
+186.
+   - **Title:** Bandwidth adaptation for vertical QoS mapping in protocol stacks for wireless links
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/GLOCOM.2009.5425539
+   - **Scopus ID:** 2-s2.0-77951541102
+   - **Authors:** Davoli F.; Marchese M.; Mongelli M.
+   - **Keywords:** Bandwidth control | QoS mapping
+   - **Source Id:** 145242
+   - **Author Ids:** 57220364548;7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Davoli F.
+187.
+   - **Title:** A decision theoretic approach to Gaussian sensor networks
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ICC.2009.5198590
+   - **Scopus ID:** 2-s2.0-70449502123
+   - **ISSN:** 05361486
+   - **Authors:** Davoli F.; Marchese M.; Mongelli M.
+   - **Keywords:** Gaussian sensor network | Neural control
+   - **Source Id:** 33201
+   - **Author Ids:** 57220364548;7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Davoli F.
+188.
+   - **Title:** Analysis of TCP live experiments on a real GEO satellite testbed
+   - **Venue:** Performance Evaluation
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 16
+   - **DOI:** 10.1016/j.peva.2008.10.012
+   - **Scopus ID:** 2-s2.0-61449098482
+   - **ISSN:** 01665316
+   - **Volume:** 66
+   - **Issue:** 6
+   - **Pages:** 287-300
+   - **Authors:** Caini C.; Firrincieli R.; Lacamera D.; de Cola T.; Marchese M.; Marcondes C.; Sanadidi M. Y.; Gerla M.
+   - **Keywords:** PEPsal | Performance Enhancing Proxy (PEP) | Satellite communications | TCP Hybla | TCP-splitting | Testbed | Transport protocols
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q3, rank 196, percentile 48)
+     - Computer Networks and Communications (Q3, rank 293, percentile 46)
+     - Hardware and Architecture (Q3, rank 143, percentile 39)
+     - Software (Q3, rank 311, percentile 37)
+   - **Source Id:** 22313
+   - **Author Ids:** 6701493219;6506694454;15923087000;10739364500;7004398165;15923534300;6601917046;35552197100
+   - **Authoraffiliationids:** 60028218;60028218;60028218;60007798;60025153;60027550;60027550;60027550
+   - **Corresponding:** Caini C.
+189.
+   - **Title:** Vertical QoS mapping over wireless interfaces
+   - **Venue:** IEEE Wireless Communications
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1109/MWC.2009.4907558
+   - **Scopus ID:** 2-s2.0-67349197428
+   - **ISSN:** 15361284
+   - **Volume:** 16
+   - **Issue:** 2
+   - **Pages:** 37-43
+   - **Authors:** Marchese Mario; Mongelli Maurizio
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 24, percentile 97)
+     - Computer Science Applications (Q1, rank 29, percentile 97)
+   - **Source Id:** 18935
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchese M.
+190.
+   - **Title:** Multi-Attribute Decision Making routing strategy for interplanetary communications
+   - **Venue:** 2008 4th Advanced Satellite Mobile Systems Proceedings Asms 2008
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ASMS.2008.40
+   - **Scopus ID:** 2-s2.0-57849158305
+   - **Pages:** 192-197
+   - **Authors:** Bisio Igor; Marchese Mario; De Cola Tomaso
+   - **Keywords:** Congestion control | Delay tolerant network architecture | Interplanetary networks | Next-hop selection
+   - **Source Id:** 14000156214
+   - **Author Ids:** 8546192900;7004398165;10739364500
+   - **Authoraffiliationids:** 60025153;60025153;60007798
+   - **Corresponding:** Bisio I.
+191.
+   - **Title:** Efficient satellite-based sensor networks for information retrieval
+   - **Venue:** IEEE Systems Journal
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 39
+   - **DOI:** 10.1109/JSYST.2008.2004850
+   - **Scopus ID:** 2-s2.0-58549112376
+   - **ISSN:** 19328184
+   - **eISSN:** 19379234
+   - **Volume:** 2
+   - **Issue:** 4
+   - **Pages:** 464-475
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Monitoring system | Multi-attribute programming | Performance evaluation | Satellite infrastructures | Sensor networks and sink selection
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 25, percentile 95)
+     - Electrical and Electronic Engineering (Q1, rank 49, percentile 95)
+     - Control and Systems Engineering (Q1, rank 25, percentile 93)
+     - Computer Science Applications (Q1, rank 68, percentile 93)
+     - Information Systems (Q1, rank 35, percentile 93)
+   - **Source Id:** 11300153734
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bisio I.
+192.
+   - **Title:** Congestion aware routing strategies for DTN-based interplanetary networks
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 38
+   - **DOI:** 10.1109/GLOCOM.2008.ECP.262
+   - **Scopus ID:** 2-s2.0-67249117303
+   - **Pages:** 1332-1336
+   - **Authors:** Bisio Igor; Marchese Mario; De Cola Tomaso
+   - **Keywords:** Congestion control | Delay tolerant network architecture | Interplanetary networks | Next-hop selection
+   - **Source Id:** 145242
+   - **Author Ids:** 8546192900;7004398165;10739364500
+   - **Authoraffiliationids:** 60025153;60025153;60007798
+   - **Corresponding:** Bisio I.
+193.
+   - **Title:** Attributes definitions and measurement methods for madm based sink selection controls in satellite sensor networks
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/GLOCOM.2008.ECP.541
+   - **Scopus ID:** 2-s2.0-67249100740
+   - **Pages:** 2822-2826
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Multi attribute programming and performance evaluation | Satellite sensor networks | Sink selection
+   - **Source Id:** 145242
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bisio I.
+194.
+   - **Title:** Adaptive erasure coding for interplanetary networks with incomplete channel side information
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/GLOCOM.2008.ECP.551
+   - **Scopus ID:** 2-s2.0-67249092165
+   - **Pages:** 2875-2879
+   - **Authors:** De Cola Tomaso; Marchese Mario
+   - **Keywords:** Adaptive erasure codes | Delay tolerant networks | Interplanetary networks | Ldpc codes
+   - **Source Id:** 145242
+   - **Author Ids:** 10739364500;7004398165
+   - **Authoraffiliationids:** 60007798;60025153
+   - **Corresponding:** De Cola T.
+195.
+   - **Title:** Cross-layer paradigms in the convergence of computing, communication and control (C3)
+   - **Venue:** Proceedings IEEE Military Communications Conference MILCOM
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/MILCOM.2008.4753393
+   - **Scopus ID:** 2-s2.0-62349106941
+   - **Authors:** Marchese Mario; Mongelli Maurizio; Gesmundo Vincenzo
+   - **Keywords:** Actor-sensor networks | Cross-layer paradigms
+   - **Source Id:** 87683
+   - **Author Ids:** 7004398165;7005882346;16024577500
+   - **Authoraffiliationids:** 60025153;60025153;60083763
+   - **Corresponding:** Marchese M.
+196.
+   - **Title:** Service level agreement control in the presence of heterogeneous traffic and QoS requirements
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICC.2008.23
+   - **Scopus ID:** 2-s2.0-51249120906
+   - **ISSN:** 05361486
+   - **Pages:** 80-84
+   - **Authors:** Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Equivalent bandwidth | Measurement control | QoS
+   - **Source Id:** 33201
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60000251;60000251
+   - **Corresponding:** Marchese M.
+197.
+   - **Title:** Protocol structure overview of QoS mapping over satellite networks
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICC.2008.375
+   - **Scopus ID:** 2-s2.0-51249117806
+   - **ISSN:** 05361486
+   - **Pages:** 1957-1961
+   - **Authors:** Marchese Mario; Mongelli Maurizio
+   - **Source Id:** 33201
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchese M.
+198.
+   - **Title:** Packet loss and delay combined optimization for satellite channel bandwidth allocation controls
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ICC.2008.365
+   - **Scopus ID:** 2-s2.0-51249114729
+   - **ISSN:** 05361486
+   - **Pages:** 1905-1909
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Bandwidth allocation | Multi-objective programming | Performance evaluation | QoS metrics | Satellite systems
+   - **Source Id:** 33201
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Bisio I.
+199.
+   - **Title:** Power and bandwidth effective data communications in disaster relief operations through a satellite-based disruption tolerant network paradigm
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ICC.2008.360
+   - **Scopus ID:** 2-s2.0-51249098940
+   - **ISSN:** 05361486
+   - **Pages:** 1876-1880
+   - **Authors:** De Cola Tomaso; Marchese Mario; Raviola Annamaria
+   - **Keywords:** Delay tolerant network | Power consumption | Routing algorithms | Satellite communications
+   - **Source Id:** 33201
+   - **Author Ids:** 10739364500;7004398165;6507642471
+   - **Authoraffiliationids:** 60007798;60025153;60083763
+   - **Corresponding:** De Cola T.
+200.
+   - **Title:** Guest editorial: Recent advances in global navigation and communication satellite systems
+   - **Venue:** IEEE Systems Journal
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Editorial
+   - **Citations:** 1
+   - **DOI:** 10.1109/JSYST.2007.914870
+   - **Scopus ID:** 2-s2.0-41749095363
+   - **Volume:** 2
+   - **Issue:** 1
+   - **Pages:** 3-6
+   - **Authors:** Obaidat Obaidat M.S.; Marchese Marchese M.
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 25, percentile 95)
+     - Electrical and Electronic Engineering (Q1, rank 49, percentile 95)
+     - Control and Systems Engineering (Q1, rank 25, percentile 93)
+     - Computer Science Applications (Q1, rank 68, percentile 93)
+     - Information Systems (Q1, rank 35, percentile 93)
+   - **Source Id:** 11300153734
+   - **Author Ids:** 23994231500;7004398165
+   - **Authoraffiliationids:** 60029216;60025153
+   - **Corresponding:** Obaidat O.
+201.
+   - **Title:** Performance evaluation of bandwidth allocation methods in a geostationary satellite channel in the presence of internet traffic
+   - **Venue:** Computer Networks
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 29
+   - **DOI:** 10.1016/j.comnet.2007.09.003
+   - **Scopus ID:** 2-s2.0-36048942747
+   - **ISSN:** 13891286
+   - **Volume:** 52
+   - **Issue:** 1
+   - **Pages:** 275-291
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Congestion control | Performance evaluation | Resource allocation | TCP
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 96, percentile 82)
+   - **Source Id:** 26811
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bisio I.
+202.
+   - **Title:** High Performance Communication and Navigation Systems for Interplanetary Networks
+   - **Venue:** IEEE Systems Journal
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1109/JSYST.2007.914868
+   - **Scopus ID:** 2-s2.0-41749099928
+   - **ISSN:** 19328184
+   - **eISSN:** 19379234
+   - **Volume:** 2
+   - **Issue:** 1
+   - **Pages:** 104-113
+   - **Authors:** de Cola Tomaso; Marchese Mario
+   - **Keywords:** Consultative Committee for Space Data Systems (CCSDS) | interplanetary networks | low-density parity check (LDPC) | navigation systems | packet layer coding | protocol architectures
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 25, percentile 95)
+     - Electrical and Electronic Engineering (Q1, rank 49, percentile 95)
+     - Control and Systems Engineering (Q1, rank 25, percentile 93)
+     - Computer Science Applications (Q1, rank 68, percentile 93)
+     - Information Systems (Q1, rank 35, percentile 93)
+   - **Source Id:** 11300153734
+   - **Author Ids:** 10739364500;7004398165
+   - **Authoraffiliationids:** 105620956;60025153
+   - **Corresponding:** de Cola T.
+203.
+   - **Title:** Resource management and network layer
+   - **Venue:** Resource Management in Satellite Networks Optimization and Cross Layer Design
+   - **Year:** 2007
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-0-387-53991-1_8
+   - **Scopus ID:** 2-s2.0-84892270375
+   - **Pages:** 243-287
+   - **Authors:** Barsocchi Paolo; Birnbacher Ulla; Chai Wei Koong; Cuevas Antonio; Davoli Franco; Gotta Alberto; Mancuso Vincenzo; Marchese Mario; Mongelli Maurizio; Novella José Ignacio Moreno; Potortì Francesco; Tsigkas Orestis
+   - **Source Id:** 21100282591
+   - **Author Ids:** 24334179600;6507658033;14041390300;17433943300;57220364548;9846429300;36852286300;7004398165;7005882346;35611835100;6701485382;8976574100
+   - **Authoraffiliationids:** 60085207;60019663;60021097;60001741;60025153;60085207;60027509;60025153;60025153;60001741;60085207;60015331
+   - **Corresponding:** Barsocchi P.
+204.
+   - **Title:** Measurement-based computation of equivalent bandwidth under performance constraints
+   - **Venue:** 2007 IEEE Sarnoff Symposium Sarnoff
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/SARNOF.2007.4567397
+   - **Scopus ID:** 2-s2.0-51849095841
+   - **Authors:** Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Equivalent bandwidth | Measurement control | QoS
+   - **Source Id:** 12100156845
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60000251;60000251
+   - **Corresponding:** Marchese M.
+205.
+   - **Title:** TCP live experiments on a real GEO satellite testbed
+   - **Venue:** Proceedings IEEE Symposium on Computers and Communications
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/ISCC.2007.4381523
+   - **Scopus ID:** 2-s2.0-48049085169
+   - **ISSN:** 15301346
+   - **Pages:** 523-529
+   - **Authors:** Caini C.; Firrincieli R.; Lacamera D.; De Cola T.; Marchese M.; Marcondes C.; Sanadidi M. Y.; Gerla M.
+   - **Keywords:** Measurements | Satellite communications | TCP Hybla | TCP Westwood | Testbed | Transport protocols
+   - **Quartile:**
+     2025:
+     - Mathematics (all) (Q2, rank 119, percentile 71)
+     - Signal Processing (Q3, rank 107, percentile 45)
+     - Computer Networks and Communications (Q3, rank 310, percentile 43)
+     - Computer Science Applications (Q3, rank 626, percentile 36)
+     - Software (Q3, rank 334, percentile 33)
+   - **Source Id:** 18707
+   - **Author Ids:** 6701493219;6506694454;15923087000;10739364500;7004398165;15923534300;6601917046;35552197100
+   - **Authoraffiliationids:** 60028218;60028218;60028218;60025153;60025153;60027550;60027550;60027550
+   - **Corresponding:** Caini C.
+206.
+   - **Title:** IP switching enhancements over IP differentiated services for QoS interworking
+   - **Venue:** Proceedings IEEE Military Communications Conference MILCOM
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/MILCOM.2007.4454762
+   - **Scopus ID:** 2-s2.0-47949119350
+   - **Authors:** Marchese Mario; Raviola Annamaria; Mongelli Maurizio; Gesmundo Vincenzo
+   - **Source Id:** 87683
+   - **Author Ids:** 7004398165;6507642471;7005882346;16024577500
+   - **Authoraffiliationids:** 60025153;60083763;60025153;60083763
+   - **Corresponding:** Marchese M.
+207.
+   - **Title:** Adaptive pricing without explicit knowledge of users traffic demands and utility functions
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/GLOCOM.2007.488
+   - **Scopus ID:** 2-s2.0-39349106153
+   - **Pages:** 2571-2575
+   - **Authors:** Davoli Franco; Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Functional optimization | Network pricing | Neural control | User sensitivity
+   - **Source Id:** 145242
+   - **Author Ids:** 57220364548;7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Davoli F.
+208.
+   - **Title:** Dynamic bandwidth allocation criteria over satellite networks
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/GLOCOM.2007.950
+   - **Scopus ID:** 2-s2.0-39349104173
+   - **Pages:** 5011-5015
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Bandwidth allocation | Multi-attribute programming | Performance evaluation | Satellite systems
+   - **Source Id:** 145242
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Bisio I.
+209.
+   - **Title:** Multi attribute based algorithm for reliable satellite-based sensor networks
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/GLOCOM.2007.951
+   - **Scopus ID:** 2-s2.0-39349088337
+   - **Pages:** 5016-5020
+   - **Authors:** Bisio Igor; Marchese Mario; Portomauro Giancarlo
+   - **Keywords:** Efficiency requirements | Monitoring systems | Multi attribute programming | Satellite sensor networks
+   - **Source Id:** 145242
+   - **Author Ids:** 8546192900;7004398165;15128054100
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153;60000251
+   - **Corresponding:** Bisio I.
+210.
+   - **Title:** Achieving high goodput performance in mars missions through application layer coding and transmission power trading
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ICC.2007.17
+   - **Scopus ID:** 2-s2.0-38549137233
+   - **ISSN:** 05361486
+   - **Pages:** 44-49
+   - **Authors:** De Cola Tomaso; Ernst Harald; Marchese Mario
+   - **Keywords:** CFDP | Erasure coding | Satellite communications | Transport layer
+   - **Source Id:** 33201
+   - **Author Ids:** 10739364500;8379159300;7004398165
+   - **Authoraffiliationids:** 60025153;60007798;60025153
+   - **Corresponding:** De Cola T.
+211.
+   - **Title:** Performance study of bandwidth allocation techniques for QoS-constrained satellite networks
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICC.2007.11
+   - **Scopus ID:** 2-s2.0-38549131702
+   - **ISSN:** 05361486
+   - **Pages:** 7-12
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Bandwidth allocation | Multi-attribute programming | Performance evaluation | Quality of service | Satellite systems
+   - **Source Id:** 33201
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Bisio I.
+212.
+   - **Title:** Optimal bandwidth provision at WiMAX MAC service access point on uplink direction
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ICC.2007.22
+   - **Scopus ID:** 2-s2.0-38549115501
+   - **ISSN:** 05361486
+   - **Pages:** 80-85
+   - **Authors:** Marchese Mario; Mongelli Maurizio
+   - **Keywords:** 802.16 MAC layer | Cross-layer qualify of service | Dynamic bandwidth allocation | Neural feedback control
+   - **Source Id:** 33201
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Marchese M.
+213.
+   - **Title:** Satellite Earth Station (SES) selection method for satellite-based sensor networks
+   - **Venue:** IEEE Communications Letters
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 38
+   - **DOI:** 10.1109/LCOMM.2007.071246
+   - **Scopus ID:** 2-s2.0-38149137950
+   - **ISSN:** 10897798
+   - **Volume:** 11
+   - **Issue:** 12
+   - **Pages:** 970-972
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Multi attribute programming | Network optimization | Performance evaluation | Satellite sensor networks
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 25, percentile 93)
+     - Electrical and Electronic Engineering (Q1, rank 140, percentile 86)
+     - Computer Science Applications (Q1, rank 167, percentile 83)
+   - **Source Id:** 18896
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bisio I.
+214.
+   - **Title:** Measurement-based computation of generalized equivalent bandwidth for loss constraints
+   - **Venue:** IEEE Communications Letters
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1109/LCOMM.2007.070982
+   - **Scopus ID:** 2-s2.0-38149063392
+   - **ISSN:** 10897798
+   - **Volume:** 11
+   - **Issue:** 12
+   - **Pages:** 1007-1009
+   - **Authors:** Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Equivalent bandwidth | Measurement control | QoS
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 25, percentile 93)
+     - Electrical and Electronic Engineering (Q1, rank 140, percentile 86)
+     - Computer Science Applications (Q1, rank 167, percentile 83)
+   - **Source Id:** 18896
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchese M.
+215.
+   - **Title:** Adaptive rate allocation and resource planning for service level agreement maintenance in satellite communications
+   - **Venue:** Computer Communications
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1016/j.comcom.2007.05.045
+   - **Scopus ID:** 2-s2.0-35148898240
+   - **ISSN:** 01403664
+   - **Volume:** 30
+   - **Issue:** 16
+   - **Pages:** 3179-3192
+   - **Authors:** Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Infinitesimal Perturbation Analysis | Measurement-based control | QoS architectures | QoS mapping | Satellite Service Access Point
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 50, percentile 90)
+   - **Source Id:** 13681
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchese M.
+216.
+   - **Title:** Resource allocation over grid computing military networks
+   - **Venue:** Proceedings IEEE Military Communications Conference MILCOM
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/MILCOM.2006.302078
+   - **Scopus ID:** 2-s2.0-35148836131
+   - **Authors:** Bisio Igor; Marchese Mario; Mongelli Maurizio; Raviola Annamaria
+   - **Source Id:** 87683
+   - **Author Ids:** 8546192900;7004398165;7005882346;6507642471
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60083763
+   - **Corresponding:** Bisio I.
+217.
+   - **Title:** Performance analysis of CCSDS File Delivery Protocol and erasure coding techniques in deep space environments
+   - **Venue:** Computer Networks
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 36
+   - **DOI:** 10.1016/j.comnet.2007.04.015
+   - **Scopus ID:** 2-s2.0-34547182862
+   - **ISSN:** 13891286
+   - **Volume:** 51
+   - **Issue:** 14
+   - **Pages:** 4032-4049
+   - **Authors:** de Cola Tomaso; Ernst Harald; Marchese Mario
+   - **Keywords:** CFDP | Erasure coding | Satellite communication | Transport layer
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 96, percentile 82)
+   - **Source Id:** 26811
+   - **Author Ids:** 10739364500;8379159300;7004398165
+   - **Authoraffiliationids:** 60025153;60007798;60025153
+   - **Corresponding:** de Cola T.
+218.
+   - **Title:** Neural bandwidth allocation function (NBAF) control scheme at WiMAX MAC layer interface
+   - **Venue:** International Journal of Communication Systems
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1002/dac.862
+   - **Scopus ID:** 2-s2.0-34548441535
+   - **ISSN:** 10745351
+   - **eISSN:** 10991131
+   - **Volume:** 20
+   - **Issue:** 9
+   - **Pages:** 1059-1079
+   - **Authors:** Marchese Mario; Mongelli Maurizio
+   - **Keywords:** 802.16 MAC layer | Cross-layer quality of service (QoS) | Dynamic bandwidth allocation | Neural control
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 309, percentile 69)
+     - Computer Networks and Communications (Q2, rank 171, percentile 68)
+   - **Source Id:** 17964
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchese M.
+219.
+   - **Title:** QoS Over Heterogeneous Networks
+   - **Venue:** Qos Over Heterogeneous Networks
+   - **Year:** 2007
+   - **Type:** Book
+   - **Subtype:** Book
+   - **Citations:** 97
+   - **DOI:** 10.1002/9780470058763
+   - **Scopus ID:** 2-s2.0-84889483834
+   - **Pages:** 1-307
+   - **Authors:** Marchese Mario
+   - **Source Id:** 21100272179
+   - **Author Ids:** 7004398165
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Marchese M.
+220.
+   - **Title:** Design and performance evaluation of a packet-switching satellite emulator
+   - **Venue:** Recent Advances in Modeling and Simulation Tools for Communication Networks and Services
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84896347488
+   - **Pages:** 279-297
+   - **Authors:** De Cola Tomaso; Marchese Mario; Portomauro Giancarlo
+   - **Source Id:** 21100297825
+   - **Author Ids:** 10739364500;7004398165;15128054100
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** De Cola T.
+221.
+   - **Title:** A unified system-independent satellite network interface
+   - **Venue:** Qshine 2007 Workshop Satellite Terrestrial Interworking Iwsti 07
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1145/1577776.1577780
+   - **Scopus ID:** 2-s2.0-70549098257
+   - **Authors:** Berioli M.; Fairhurst G.; Hu Y. F.; Marchese M.
+   - **Keywords:** DVB-RCS | Mobility | Network architecture | QoS | Satellite | Standardisation | TCP/IP
+   - **Source Id:** 21100996911
+   - **Author Ids:** 6602285720;35611160400;7407117611;7004398165
+   - **Authoraffiliationids:** 60007798;60015875;60008524;60025153
+   - **Corresponding:** Berioli M.
+222.
+   - **Title:** Minimum distance bandwidth allocation over space communications
+   - **Venue:** IEEE Communications Letters
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1109/LCOMM.2007.060969
+   - **Scopus ID:** 2-s2.0-33947667492
+   - **ISSN:** 10897798
+   - **Volume:** 11
+   - **Issue:** 1
+   - **Pages:** 19-21
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Bandwidth allocation | Multi-objective programming | Performance evaluation | Space communications
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 25, percentile 93)
+     - Electrical and Electronic Engineering (Q1, rank 140, percentile 86)
+     - Computer Science Applications (Q1, rank 167, percentile 83)
+   - **Source Id:** 18896
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bisio I.
+223.
+   - **Title:** Transport layer protocols and architectures for satellite networks
+   - **Venue:** International Journal of Satellite Communications and Networking
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 42
+   - **DOI:** 10.1002/sat.855
+   - **Scopus ID:** 2-s2.0-33846640793
+   - **ISSN:** 15420973
+   - **eISSN:** 15420981
+   - **Volume:** 25
+   - **Issue:** 1
+   - **Pages:** 1-26
+   - **Authors:** Caini Carlo; Firrincieli Rosario; Marchese Mario; De Cola Tomaso; Luglio Michele; Roseti Cesare; Celandroni Nedo; Potortí Francesco
+   - **Keywords:** DTN | PEP | Satellite networks | TCP | Transport protocols
+   - **Quartile:**
+     2025:
+     - Media Technology (Q2, rank 21, percentile 72)
+     - Electrical and Electronic Engineering (Q2, rank 374, percentile 62)
+   - **Source Id:** 19924
+   - **Author Ids:** 6701493219;6506694454;7004398165;10739364500;7003570928;15127967700;7003794458;6701485382
+   - **Authoraffiliationids:** 60028218;60028218;60025153;60025153;60027509;60027509;60085207;60085207
+   - **Corresponding:** Caini C.
+224.
+   - **Title:** Adaptive rate allocation for satellite service level agreement with loss and delay constraints
+   - **Venue:** International Symposium on Performance Evaluation of Computer and Telecommunication Systems 2006 Spects 06 Part of the 2006 Summer Simulation Multiconference Summersim 06
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-84870044608
+   - **Pages:** 371-377
+   - **Authors:** Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Infinitesimal perturbation analysis | Measurement-based control | QoS mapping | Satellite QoS architectures
+   - **Source Id:** 21100220420
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchese M.
+225.
+   - **Title:** Implementation issues in the design of application protocol solutions for deep space environments
+   - **Venue:** International Symposium on Performance Evaluation of Computer and Telecommunication Systems 2006 Spects 06 Part of the 2006 Summer Simulation Multiconference Summersim 06
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84869989375
+   - **Pages:** 121-128
+   - **Authors:** De Cola Tomaso; Ernst Harald; Marchese Mario
+   - **Keywords:** CCSDS File Delivery Protocol | LDPC | Markov chains | Packet Layer Coding | Satellite communications
+   - **Source Id:** 21100220420
+   - **Author Ids:** 10739364500;8379159300;7004398165
+   - **Authoraffiliationids:** 60025153;60007798;60025153
+   - **Corresponding:** De Cola T.
+226.
+   - **Title:** QoS-constrained MOP-based bandwidth allocation over space networks
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/GLOCOM.2006.519
+   - **Scopus ID:** 2-s2.0-50949131720
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Multi objective programming | Performance evaluation | Resource allocation | Satellite channel
+   - **Source Id:** 145242
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Bisio I.
+227.
+   - **Title:** Performance evaluation of sink selection techniques in satellite sensor networks
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/GLOCOM.2006.528
+   - **Scopus ID:** 2-s2.0-50949121186
+   - **Authors:** Bisio Igor; Marchese Mario; Portomauro Giancarlo
+   - **Keywords:** Multi attribute programming | Performance evaluation | Satellite sensor network
+   - **Source Id:** 145242
+   - **Author Ids:** 8546192900;7004398165;15128054100
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153;60025153
+   - **Corresponding:** Bisio I.
+228.
+   - **Title:** Loss and delay QoS mapping control for satellite systems
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/GLOCOM.2006.515
+   - **Scopus ID:** 2-s2.0-50949093070
+   - **Authors:** Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Infinitesimal perturbation analysis | Measurement-based control | QoS mapping | Satellite QoS architectures
+   - **Source Id:** 145242
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchese M.
+229.
+   - **Title:** Study and performance analysis of ARQ-based and transport layer coding schemes over deep space networks
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/GLOCOM.2006.470
+   - **Scopus ID:** 2-s2.0-50949083799
+   - **Authors:** De Cola Tomaso; Ernst Harald; Marchese Mario
+   - **Source Id:** 145242
+   - **Author Ids:** 10739364500;8379159300;7004398165
+   - **Authoraffiliationids:** 60025153;60007798;60025153
+   - **Corresponding:** De Cola T.
+230.
+   - **Title:** Multi attribute sink selection techniques in satellite sensor networks: Study and performance evaluation
+   - **Venue:** 2006 International Workshop on Satellite and Space Communications Iwssc
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IWSSC.2006.256022
+   - **Scopus ID:** 2-s2.0-45149133139
+   - **Pages:** 193-197
+   - **Authors:** Bisio Igor; Marchese Mario; Portomauro Giancarlo
+   - **Keywords:** Multi attribute programming | Performance evaluation | Satellite sensor network
+   - **Source Id:** 11700154645
+   - **Author Ids:** 8546192900;7004398165;15128054100
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153;60025153
+   - **Corresponding:** Bisio I.
+231.
+   - **Title:** Application-layer techniques for data communications over deep space networks
+   - **Venue:** 2006 International Workshop on Satellite and Space Communications Iwssc
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IWSSC.2006.256026
+   - **Scopus ID:** 2-s2.0-45149085884
+   - **Pages:** 209-214
+   - **Authors:** De Cola Tomaso; Ernst Harald; Marchese Mario
+   - **Source Id:** 11700154645
+   - **Author Ids:** 10739364500;8379159300;7004398165
+   - **Authoraffiliationids:** 60025153;60007798;60025153
+   - **Corresponding:** De Cola T.
+232.
+   - **Title:** Joint application of CCSDS file delivery protocol and erasure coding schemes over space communications
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/ICC.2006.254999
+   - **Scopus ID:** 2-s2.0-42549161610
+   - **ISSN:** 05361486
+   - **Volume:** 4
+   - **Pages:** 1909-1914
+   - **Authors:** De Cola Tomaso; Erns Harald; Marchese Mario
+   - **Keywords:** CFDP | Erasure coding | Satellite communication | Transport layer
+   - **Source Id:** 33201
+   - **Author Ids:** 10739364500;8379159300;7004398165
+   - **Authoraffiliationids:** 60025153;60007798;60025153
+   - **Corresponding:** De Cola T.
+233.
+   - **Title:** Bandwidth allocation strategies for TCP/IP traffic over high altitude platform: A multi-objective programming approach
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICC.2006.255000
+   - **Scopus ID:** 2-s2.0-42549118193
+   - **ISSN:** 05361486
+   - **Volume:** 4
+   - **Pages:** 1915-1920
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Dynamic bandwidth allocation | HAP | Multi-objective programming | Performance evaluation | TCP
+   - **Source Id:** 33201
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Bisio I.
+234.
+   - **Title:** Information distribution techniques in sensor networks via satellite
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ICC.2006.254993
+   - **Scopus ID:** 2-s2.0-34547300637
+   - **ISSN:** 05361486
+   - **Volume:** 4
+   - **Pages:** 1873-1878
+   - **Authors:** Bisio Igor; Marchese Mario; Portomauro Giancarlo; Mursia Agatino
+   - **Keywords:** Multi attribute programming | Satellite channels | Sensor network
+   - **Source Id:** 33201
+   - **Author Ids:** 8546192900;7004398165;15128054100;15128056300
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153;60025153;122327101
+   - **Corresponding:** Bisio I.
+235.
+   - **Title:** An integrated testbed for wireless advanced transport protocols and architectures
+   - **Venue:** 2nd International Conference on Testbeds and Research Infrastructures for the Development of Networks and Communities Tridentcom 2006
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/TRIDNT.2006.1649193
+   - **Scopus ID:** 2-s2.0-33847164461
+   - **Volume:** 2006
+   - **Pages:** 526-529
+   - **Authors:** Bon Alessandro; Caini Carlo; De Cola Tomaso; Firrincieli Rosario; Lacamera Daniele; Marchese Mario
+   - **Source Id:** 5200153014
+   - **Author Ids:** 15921971200;6701493219;10739364500;6506694454;15923087000;7004398165
+   - **Authoraffiliationids:** 60028218;60028218;60025153;60028218;60028218;60025153
+   - **Corresponding:** Bon A.
+236.
+   - **Title:** An integrated testbed for wireless advanced transport protocols and architectures
+   - **Venue:** 2nd International Conference on Testbeds and Research Infrastructures for the Development of Networks and Communities Tridentcom 2006
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/TRIDNT.2006.1649192
+   - **Scopus ID:** 2-s2.0-33847130485
+   - **Volume:** 2006
+   - **Pages:** 522-525
+   - **Authors:** Bon Alessandro; Caini Carlo; De Cola Tomaso; Firrincieli Rosario; Lacamera Daniele; Marchese Mario
+   - **Source Id:** 5200153014
+   - **Author Ids:** 15921971200;6701493219;10739364500;6506694454;15923087000;7004398165
+   - **Authoraffiliationids:** 60028218;60028218;60025153;60028218;60028218;60025153
+   - **Corresponding:** Bon A.
+237.
+   - **Title:** Discrete stochastic programming by infinitesimal perturbation analysis: The case of resource allocation in satellite networks with fading
+   - **Venue:** IEEE Transactions on Wireless Communications
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1109/TWC.2006.1687749
+   - **Scopus ID:** 2-s2.0-33748587593
+   - **ISSN:** 15361276
+   - **Volume:** 5
+   - **Issue:** 9
+   - **Pages:** 2312-2316
+   - **Authors:** Davoli Franco; Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Fade countermeasures | Gradient estimation | Resource allocation | Satellite networks
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 8, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 35, percentile 96)
+     - Computer Science Applications (Q1, rank 42, percentile 95)
+   - **Source Id:** 18933
+   - **Author Ids:** 57220364548;7004398165;7005882346
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153;60000251-60025153
+   - **Corresponding:** Davoli F.
+238.
+   - **Title:** On-line bandwidth control for quality of service mapping over satellite independent service access points
+   - **Venue:** Computer Networks
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 24
+   - **DOI:** 10.1016/j.comnet.2005.10.006
+   - **Scopus ID:** 2-s2.0-33745146202
+   - **ISSN:** 13891286
+   - **Volume:** 50
+   - **Issue:** 12
+   - **Pages:** 2088-2111
+   - **Authors:** Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Bandwidth tuning | Fading countermeasures | On-line network control | QoS interworking architecture | QoS mapping | Satellite communications
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 96, percentile 82)
+   - **Source Id:** 26811
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchese M.
+239.
+   - **Title:** Erratum: Resource allocation in satellite networks: Certainty equivalent approaches versus sensitivity estimation algorithms (International Journal of Communication Systems (2005) 18:1 (3-36))
+   - **Venue:** International Journal of Communication Systems
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Erratum
+   - **Citations:** 0
+   - **DOI:** 10.1002/dac.739
+   - **Scopus ID:** 2-s2.0-32144457534
+   - **ISSN:** 10745351
+   - **Volume:** 19
+   - **Issue:** 1
+   - **Pages:** 115
+   - **Authors:** Davoli Franco; Marchese Mario; Mongelli Maurizio
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 309, percentile 69)
+     - Computer Networks and Communications (Q2, rank 171, percentile 68)
+   - **Source Id:** 17964
+   - **Author Ids:** 57220364548;7004398165;7005882346
+   - **Corresponding:** Davoli F.
+240.
+   - **Title:** MPLS versus IP for interworking of wide area subsystems with QoS guarantees
+   - **Venue:** Second International Conference on Wireless and Mobile Communications Icwmc 2006
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICWMC.2006.65
+   - **Scopus ID:** 2-s2.0-42649146568
+   - **Pages:** 26
+   - **Authors:** Marchese Mario; Mongelli Maurizio; Garibbo Alessandro; Raviola Annamaria
+   - **Source Id:** 6300153128
+   - **Author Ids:** 7004398165;7005882346;6506630356;6507642471
+   - **Authoraffiliationids:** 60025153;60025153;60083763;60083763
+   - **Corresponding:** Marchese M.
+241.
+   - **Title:** IPV4 versus IPV6 interworking with QoS guarantees
+   - **Venue:** Proceedings IEEE Military Communications Conference MILCOM
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/MILCOM.2006.302082
+   - **Scopus ID:** 2-s2.0-35148842438
+   - **Authors:** Marchese Mario; Raviola Annamaria; Mongelli Maurizio; Garibbo Alessandro; Gesmundo Vincenzo
+   - **Source Id:** 87683
+   - **Author Ids:** 7004398165;6507642471;7005882346;6506630356;16024577500
+   - **Authoraffiliationids:** 60025153;60083763;60025153;60083763;60083763
+   - **Corresponding:** Marchese M.
+242.
+   - **Title:** Study and performance evaluation of bandwidth controls over high altitude platforms
+   - **Venue:** Proceedings IEEE Symposium on Computers and Communications
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ISCC.2006.155
+   - **Scopus ID:** 2-s2.0-34547328715
+   - **ISSN:** 15301346
+   - **Pages:** 641-646
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Dynamic bandwidth allocation | HAP communications | Multi-objective programming | Pareto optimality | Performance evaluation | TCP
+   - **Quartile:**
+     2025:
+     - Mathematics (all) (Q2, rank 119, percentile 71)
+     - Signal Processing (Q3, rank 107, percentile 45)
+     - Computer Networks and Communications (Q3, rank 310, percentile 43)
+     - Computer Science Applications (Q3, rank 626, percentile 36)
+     - Software (Q3, rank 334, percentile 33)
+   - **Source Id:** 18707
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Bisio I.
+243.
+   - **Title:** Modifications of the slow start algorithm to improve tcp performance over large delay satellite channels
+   - **Venue:** IETE Journal of Research
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1080/03772063.2006.11416449
+   - **Scopus ID:** 2-s2.0-33646514219
+   - **ISSN:** 03772063
+   - **eISSN:** 0974780X
+   - **Volume:** 52
+   - **Issue:** 2-3
+   - **Pages:** 121-137
+   - **Authors:** Marchese Mario
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q2, rank 37, percentile 73)
+     - Electrical and Electronic Engineering (Q2, rank 291, percentile 70)
+     - Computer Science Applications (Q2, rank 333, percentile 66)
+   - **Source Id:** 130012
+   - **Author Ids:** 7004398165
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Marchese M.
+244.
+   - **Title:** Study and performance analysis of transport layer mechanisms applied in military radio environment
+   - **Venue:** Computers and Electrical Engineering
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1016/j.compeleceng.2006.01.018
+   - **Scopus ID:** 2-s2.0-33646512812
+   - **ISSN:** 00457906
+   - **Volume:** 32
+   - **Issue:** 1-3
+   - **Pages:** 241-265
+   - **Authors:** de Cola Tomaso; Marchese Mario
+   - **Keywords:** Military environment | Radio channel modelling | Tactical networks | TCP-IP | Transport layer
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 30, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 81, percentile 91)
+     - Computer Science (all) (Q1, rank 24, percentile 90)
+   - **Source Id:** 18159
+   - **Author Ids:** 10739364500;7004398165
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** de Cola T.
+245.
+   - **Title:** Recent advances in wireless networks and systems
+   - **Venue:** Computers and Electrical Engineering
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Editorial
+   - **Citations:** 4
+   - **DOI:** 10.1016/j.compeleceng.2006.01.001
+   - **Scopus ID:** 2-s2.0-33646499860
+   - **ISSN:** 00457906
+   - **Volume:** 32
+   - **Issue:** 1-3
+   - **Pages:** 1-6
+   - **Authors:** Obaidat Mohammad S.; Marchese Mario
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 30, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 81, percentile 91)
+     - Computer Science (all) (Q1, rank 24, percentile 90)
+   - **Source Id:** 18159
+   - **Author Ids:** 7005628795;7004398165
+   - **Authoraffiliationids:** 60029216;60025153
+   - **Corresponding:** Obaidat M.S.
+246.
+   - **Title:** Analytical approximations of the TCP throughput and Packet Loss Probability in multi-service communication networks
+   - **Venue:** International Symposium on Performance Evaluation of Computer and Telecommunication Systems 2005 Spects 05 Part of the 2005 Summer Simulation Multiconference Summersim 05
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84870035442
+   - **Pages:** 86-95
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Closed Form Approximation | Packet Loss Probability | Performance Evaluation | TCP | Throughput
+   - **Source Id:** 21100220412
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bisio I.
+247.
+   - **Title:** The implementation of erasure coding schemes in CCSDS file delivery protocol for reliable communications in hazardous satellite environments
+   - **Venue:** International Symposium on Performance Evaluation of Computer and Telecommunication Systems 2005 Spects 05 Part of the 2005 Summer Simulation Multiconference Summersim 05
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84870029627
+   - **Pages:** 29-35
+   - **Authors:** De Cola Tomaso; Ernst Harald; Marchese Mario
+   - **Keywords:** CFDP | Erasure Coding | Satellite Communication | Transport layer
+   - **Source Id:** 21100220412
+   - **Author Ids:** 10739364500;8379159300;7004398165
+   - **Authoraffiliationids:** 60025153;60007798;60025153
+   - **Corresponding:** De Cola T.
+248.
+   - **Title:** Adaptive rate control for QoS mapping at Satellite Independent Service Access Points
+   - **Venue:** International Symposium on Performance Evaluation of Computer and Telecommunication Systems 2005 Spects 05 Part of the 2005 Summer Simulation Multiconference Summersim 05
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84870017073
+   - **Pages:** 19-26
+   - **Authors:** Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Equivalent Bandwidth Control | QoS Mapping | Satellite QoS Architectures
+   - **Source Id:** 21100220412
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchese M.
+249.
+   - **Title:** Management of VoIP and mission critical data traffic over heterogeneous military networks
+   - **Venue:** Proceedings IEEE Military Communications Conference MILCOM
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/MILCOM.2005.1606157
+   - **Scopus ID:** 2-s2.0-33847392507
+   - **Volume:** 2005
+   - **Authors:** Marchese Mario; Mongelli Maurizio; Raviola Annamaria; Gesmundo Vincenzo
+   - **Source Id:** 87683
+   - **Author Ids:** 7004398165;7005882346;6507642471;16024577500
+   - **Authoraffiliationids:** 60025153;60025153;60083763;60083763
+   - **Corresponding:** Marchese M.
+250.
+   - **Title:** On-line bandwidth control for quality of service mapping in telecommunication networks
+   - **Venue:** Proceedings of the 44th IEEE Conference on Decision and Control and the European Control Conference Cdc Ecc 05
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CDC.2005.1583365
+   - **Scopus ID:** 2-s2.0-33847216953
+   - **Volume:** 2005
+   - **Pages:** 7460-7465
+   - **Authors:** Marchese Mario; Mongelli Maurizio
+   - **Source Id:** 5200153019
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Marchese M.
+251.
+   - **Title:** Analysis of the TCP round trip time over asymmetric DVB-RCS systems
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/GLOCOM.2005.1578375
+   - **Scopus ID:** 2-s2.0-33846615564
+   - **Volume:** 6
+   - **Pages:** 3248-3252
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Analytical analysis | DVB-RCS | Round trip time | Satellite network | Transmission control protocol
+   - **Source Id:** 145242
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Bisio I.
+252.
+   - **Title:** Rate control optimization for bandwidth provision over satellite independent service access points
+   - **Venue:** Globecom IEEE Global Telecommunications Conference
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/GLOCOM.2005.1578373
+   - **Scopus ID:** 2-s2.0-33846600034
+   - **Volume:** 6
+   - **Pages:** 3237-3241
+   - **Authors:** Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Infinitesimal perturbation analysis | Measurement-based control | QoS interworking | Satellite QoS architectures
+   - **Source Id:** 145242
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Marchese M.
+253.
+   - **Title:** On-line bandwidth control for quality of service mapping over satellite independent service access points
+   - **Venue:** 2nd International Symposium on Wireless Communications Systems 2005 Iswcs 2005 Conference Proceedings
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ISWCS.2005.1547806
+   - **Scopus ID:** 2-s2.0-33845332092
+   - **Volume:** 2005
+   - **Pages:** 739-743
+   - **Authors:** Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Equivalent bandwidth | Measurement-based control | QoS interworking
+   - **Source Id:** 5100152411
+   - **Author Ids:** 7004398165;7005882346
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Marchese M.
+254.
+   - **Title:** Data communication over challenged networks: Application of error control schemes in the delay tolerant network architectures
+   - **Venue:** 2nd International Symposium on Wireless Communications Systems 2005 Iswcs 2005 Conference Proceedings
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ISWCS.2005.1547817
+   - **Scopus ID:** 2-s2.0-33845328496
+   - **Volume:** 2005
+   - **Pages:** 790-794
+   - **Authors:** De Cola Tomaso; Ernst Harald; Marchese Mario
+   - **Keywords:** Deep space | DTN | Low density parity check codes | Satellite communication
+   - **Source Id:** 5100152411
+   - **Author Ids:** 10739364500;8379159300;7004398165
+   - **Authoraffiliationids:** 60025153;60007798;60025153
+   - **Corresponding:** De Cola T.
+255.
+   - **Title:** Comparative performance evaluation for information distribution methods in satellite-based sensor networks
+   - **Venue:** 2nd International Symposium on Wireless Communications Systems 2005 Iswcs 2005 Conference Proceedings
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ISWCS.2005.1547801
+   - **Scopus ID:** 2-s2.0-33845311888
+   - **Volume:** 2005
+   - **Pages:** 719-723
+   - **Authors:** Bisio Igor; Marchese Mario; Portomauro Giancarlo; Scapigliati Fabio; Mursia Agatino
+   - **Keywords:** Flooding schemes | Multi attribute programming | Performance evaluation | Satellite channels | Sensor network | Signalling
+   - **Source Id:** 5100152411
+   - **Author Ids:** 8546192900;7004398165;15128054100;15127975000;15128056300
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153;60025153;60025153;60083763
+   - **Corresponding:** Bisio I.
+256.
+   - **Title:** Bandwidth allocation in geostationary satellite faded channels for internet traffic
+   - **Venue:** 2nd International Symposium on Wireless Communications Systems 2005 Iswcs 2005 Conference Proceedings
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ISWCS.2005.1547837
+   - **Scopus ID:** 2-s2.0-33845307623
+   - **Volume:** 2005
+   - **Pages:** 878-882
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Source Id:** 5100152411
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Bisio I.
+257.
+   - **Title:** Performance analysis of data transfer protocols over space communications
+   - **Venue:** IEEE Transactions on Aerospace and Electronic Systems
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 36
+   - **DOI:** 10.1109/TAES.2005.1561883
+   - **Scopus ID:** 2-s2.0-29844451176
+   - **ISSN:** 00189251
+   - **Volume:** 41
+   - **Issue:** 4
+   - **Pages:** 1200-1223
+   - **Authors:** de Cola Tomaso; Marchese Mario
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 11, percentile 93)
+     - Electrical and Electronic Engineering (Q1, rank 109, percentile 89)
+   - **Source Id:** 17336
+   - **Author Ids:** 10739364500;7004398165
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** de Cola T.
+258.
+   - **Title:** Key technologies and applications of present and future satellite communications
+   - **Venue:** IEEE Wireless Communications
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Editorial
+   - **Citations:** 6
+   - **DOI:** 10.1109/MWC.2005.1522097
+   - **Scopus ID:** 2-s2.0-27644589699
+   - **ISSN:** 15361284
+   - **Volume:** 12
+   - **Issue:** 5
+   - **Pages:** 8-9
+   - **Authors:** Marchese Mario; Jamalipour Abbas
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 24, percentile 97)
+     - Computer Science Applications (Q1, rank 29, percentile 97)
+   - **Source Id:** 18935
+   - **Author Ids:** 7004398165;7003564684
+   - **Authoraffiliationids:** 60025153-60000251;60025709-114039616-60000251
+   - **Corresponding:** Marchese M.
+259.
+   - **Title:** Performance comparison of two resource allocation strategies in satellite environment
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-24144467458
+   - **ISSN:** 05361486
+   - **Volume:** 3
+   - **Pages:** 1473-1477
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Performance comparison | Resource allocation | Traffic separation | Transmission Control Protocol
+   - **Source Id:** 33201
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bisio I.
+260.
+   - **Title:** Analytical analysis of TCP performance over geostationary satellite channel
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-24144465681
+   - **ISSN:** 05361486
+   - **Volume:** 3
+   - **Pages:** 1454-1458
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Congestion control | Satellite communication | System performance | Transport protocols
+   - **Source Id:** 33201
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bisio I.
+261.
+   - **Title:** Neural decision making for decentralized pricing-based call admission control
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-24144462476
+   - **ISSN:** 05361486
+   - **Volume:** 3
+   - **Pages:** 1556-1560
+   - **Authors:** Davoli F.; Marchese M.; Mongelli M.
+   - **Keywords:** Call Admission Control | Decentralized Control | Neural Networks | Utility-based Pricing
+   - **Source Id:** 33201
+   - **Author Ids:** 57220364548;7004398165;7005882346
+   - **Authoraffiliationids:** 100452925;100452925;100452925
+   - **Corresponding:** Davoli F.
+262.
+   - **Title:** Neural approximation of open-loop feedback rate control in satellite networks
+   - **Venue:** IEEE Transactions on Neural Networks
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1109/TNN.2005.853424
+   - **Scopus ID:** 2-s2.0-26844447144
+   - **ISSN:** 10459227
+   - **Volume:** 16
+   - **Issue:** 5
+   - **Pages:** 1195-1211
+   - **Authors:** Baglietto Marco; Davoli Franco; Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Functional optimization | Neural networks | Resource allocation | Satellite networks | Sensitivity estimation
+   - **Source Id:** 24243
+   - **Author Ids:** 36198025300;57220364548;7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Baglietto M.
+263.
+   - **Title:** Resource allocation in satellite networks: Certainty equivalent approaches versus sensitivity estimation algorithms
+   - **Venue:** International Journal of Communication Systems
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1002/dac.686
+   - **Scopus ID:** 2-s2.0-13244271391
+   - **ISSN:** 10745351
+   - **Volume:** 18
+   - **Issue:** 1
+   - **Pages:** 3-36
+   - **Authors:** Davoli Franco; Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Dynamic programming | Optimization | Resource allocation | Satellite networks | Sensitivity estimation
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 309, percentile 69)
+     - Computer Networks and Communications (Q2, rank 171, percentile 68)
+   - **Source Id:** 17964
+   - **Author Ids:** 57220364548;7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60103966;60025153
+   - **Corresponding:** Davoli F.
+264.
+   - **Title:** MPLS-based QoS interworking among wide area subsystems
+   - **Venue:** Proceedings IEEE Military Communications Conference MILCOM
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/MILCOM.2005.1606154
+   - **Scopus ID:** 2-s2.0-33847415463
+   - **Volume:** 2005
+   - **Pages:** 3232-3238
+   - **Authors:** Marchese Mario; Mongelli Maurizio; Garibbo Alessandro
+   - **Source Id:** 87683
+   - **Author Ids:** 7004398165;7005882346;6506630356
+   - **Authoraffiliationids:** 60025153;60025153;60083763
+   - **Corresponding:** Marchese M.
+265.
+   - **Title:** E-CAP-ABASC versus CAP-ABASC: Comparison of two resource allocation strategies in satellite environment
+   - **Venue:** Space Communications
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-28544442463
+   - **ISSN:** 09248625
+   - **Volume:** 19
+   - **Issue:** 3-4
+   - **Pages:** 171-182
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Congestion control | Performance evaluation | Resource Allocation | TCP
+   - **Source Id:** 12897
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bisio I.
+266.
+   - **Title:** QoS guarantee in telecommunication networks: Technologies and solutions
+   - **Venue:** International Journal of Communication Systems
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1002/dac.683
+   - **Scopus ID:** 2-s2.0-10344267521
+   - **ISSN:** 10745351
+   - **Volume:** 17
+   - **Issue:** 10
+   - **Pages:** 935-962
+   - **Authors:** Fortunato Enzo; Marchese Mario; Mongelli Maurizio; Raviola Annamaria
+   - **Keywords:** Performance evaluation | Quality of service (QoS) | Telecommunications networks
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 309, percentile 69)
+     - Computer Networks and Communications (Q2, rank 171, percentile 68)
+   - **Source Id:** 17964
+   - **Author Ids:** 7102678743;7004398165;7005882346;6507642471
+   - **Authoraffiliationids:** 100501205;60025153;60025153;100501205
+   - **Corresponding:** Fortunato E.
+267.
+   - **Title:** Guest Editorial: Broadband IP Networks via Satellites - Part II
+   - **Venue:** IEEE Journal on Selected Areas in Communications
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Editorial
+   - **Citations:** 5
+   - **DOI:** 10.1109/JSAC.2004.823403
+   - **Scopus ID:** 2-s2.0-2142811571
+   - **ISSN:** 07338716
+   - **Volume:** 22
+   - **Issue:** 3
+   - **Pages:** 433-437
+   - **Authors:** Jamalipour Abbas; Marchese Mario; Cruickshank Haitham S.; Neale Jason; Verma Satchandi N.; Bush A. M.
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 4, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 8, percentile 99)
+   - **Source Id:** 18902
+   - **Author Ids:** 7003564684;7004398165;6603896799;22944868500;57216120709;57198013833
+   - **Authoraffiliationids:** 60025709;60025153;60021097;100324223;60025209;
+   - **Corresponding:** Jamalipour A.
+268.
+   - **Title:** PETRA: Performance Enhancing Transport Architecture for Satellite Communications
+   - **Venue:** IEEE Journal on Selected Areas in Communications
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 50
+   - **DOI:** 10.1109/JSAC.2003.819981
+   - **Scopus ID:** 2-s2.0-1342308211
+   - **ISSN:** 07338716
+   - **Volume:** 22
+   - **Issue:** 2
+   - **Pages:** 320-332
+   - **Authors:** Marchese Mario; Rossi Michele; Morabito Giacomo
+   - **Keywords:** Delay effects | Satellite communications | Transport protocols
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 4, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 8, percentile 99)
+   - **Source Id:** 18902
+   - **Author Ids:** 7004398165;35318599900;7004480329
+   - **Authoraffiliationids:** 60025153;60024690;60010146
+   - **Corresponding:** Marchese M.
+269.
+   - **Title:** Broadband IP Networks via Satellites - Part I
+   - **Venue:** IEEE Journal on Selected Areas in Communications
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Editorial
+   - **Citations:** 11
+   - **DOI:** 10.1109/JSAC.2003.819968
+   - **Scopus ID:** 2-s2.0-1342265652
+   - **ISSN:** 07338716
+   - **Volume:** 22
+   - **Issue:** 2
+   - **Pages:** 213-217
+   - **Authors:** Jamalipour Abbas; Marchese Mario; Cruickshank Haitham S.; Neale Jason; Verma Satchandi N.; Bush A. M.
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 4, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 8, percentile 99)
+   - **Source Id:** 18902
+   - **Author Ids:** 7003564684;7004398165;6603896799;22944868500;57216120709;57198013833
+   - **Authoraffiliationids:** 60025709;60025153;60021097;100324223;60025209;
+   - **Corresponding:** Jamalipour A.
+270.
+   - **Title:** Equivalent bandwidth control for the mapping of quality of service in heterogeneous networks
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/icc.2004.1312861
+   - **Scopus ID:** 2-s2.0-4143111349
+   - **ISSN:** 05361486
+   - **Volume:** 4
+   - **Pages:** 1948-1952
+   - **Authors:** Marchese Mario; Garibbo Alessandro; Davoli Franco; Mongelli Maurizio
+   - **Keywords:** Equivalent Bandwidth Control | Infinitesimal Perturbation Analysis | QoS Interworking | Quality of Service
+   - **Source Id:** 33201
+   - **Author Ids:** 7004398165;6506630356;57220364548;7005882346
+   - **Authoraffiliationids:** 60025153;60083763;60025153;60025153
+   - **Corresponding:** Marchese M.
+271.
+   - **Title:** Analytical expression and performance evaluation of TCP packet loss probability over geostationary satellite
+   - **Venue:** IEEE Communications Letters
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 32
+   - **DOI:** 10.1109/LCOMM.2004.825723
+   - **Scopus ID:** 2-s2.0-2442533992
+   - **ISSN:** 10897798
+   - **Volume:** 8
+   - **Issue:** 4
+   - **Pages:** 232-234
+   - **Authors:** Bisio Igor; Marchese Mario
+   - **Keywords:** Communication system performance | Flow control | Satellite communication | Transport protocols
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 25, percentile 93)
+     - Electrical and Electronic Engineering (Q1, rank 140, percentile 86)
+     - Computer Science Applications (Q1, rank 167, percentile 83)
+   - **Source Id:** 18896
+   - **Author Ids:** 8546192900;7004398165
+   - **Authoraffiliationids:** 60103966;60103966
+   - **Corresponding:** Bisio I.
+272.
+   - **Title:** Satellite dynamic bandwidth allocation by neural open loop-feedback control strategies
+   - **Venue:** Proceedings of the IEEE Conference on Decision and Control
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/cdc.2004.1429601
+   - **Scopus ID:** 2-s2.0-14544301068
+   - **ISSN:** 07431546
+   - **eISSN:** 25762370
+   - **Volume:** 5
+   - **Pages:** 5016-5021
+   - **Authors:** Baglietto Marco; Davoli Franco; Marchese Mario; Mongelli Maurizio
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q3, rank 90, percentile 49)
+     - Modeling and Simulation (Q3, rank 233, percentile 38)
+     - Control and Systems Engineering (Q3, rank 236, percentile 38)
+   - **Source Id:** 87424
+   - **Author Ids:** 36198025300;57220364548;7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Baglietto M.
+273.
+   - **Title:** Study and Performance Analysis of Transport Layer Mechanisms over LEO Satellite Environment
+   - **Venue:** Conference Record IEEE Global Telecommunications Conference
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **Scopus ID:** 2-s2.0-0842311058
+   - **Volume:** 2
+   - **Pages:** 651-655
+   - **Authors:** De Cola Tomaso; Marchese Mario
+   - **Source Id:** 145242
+   - **Author Ids:** 10739364500;7004398165
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** De Cola T.
+274.
+   - **Title:** A proposal of new price-based Call Admission Control rules for Guaranteed Performance services multiplexed with Best Effort traffic
+   - **Venue:** Computer Communications
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1016/S0140-3664(03)00032-X
+   - **Scopus ID:** 2-s2.0-0038053166
+   - **ISSN:** 01403664
+   - **Volume:** 26
+   - **Issue:** 13 Spec.
+   - **Pages:** 1470-1483
+   - **Authors:** Baglietto Marco; Bolla Raffaele; Davoli Franco; Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Asynchronous Transfer Mode | Best Effort services | Call Admission Control | Flow control | Guaranteed Performance services | IP Quality of Service | Pricing | Proportional Fairness
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 50, percentile 90)
+   - **Source Id:** 13681
+   - **Author Ids:** 36198025300;7006403406;57220364548;7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Baglietto M.
+275.
+   - **Title:** Mapping the quality of service over heterogeneous networks: A proposal about architectures and bandwidth allocation
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-0037632624
+   - **ISSN:** 05361486
+   - **Volume:** 3
+   - **Pages:** 1690-1694
+   - **Authors:** Garibbo Alessandro; Marchese Mario; Mongelli Maurizio
+   - **Keywords:** Equivalent Bandwidth | QoS Mapping | QoS Relay Entitles | QoS Technologies
+   - **Source Id:** 33201
+   - **Author Ids:** 6506630356;7004398165;7005882346
+   - **Authoraffiliationids:** 60084299;60025153;60025153
+   - **Corresponding:** Garibbo A.
+276.
+   - **Title:** TCP/IP-based Protocols over Satellite Systems: A Telecommunication Issue
+   - **Venue:** Reliability Survivability and Quality of Large Scale Telecommunication Systems Case Study Olympic Games
+   - **Year:** 2003
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 9
+   - **Scopus ID:** 2-s2.0-85211383782
+   - **Pages:** 167-198
+   - **Authors:** Marchese Mario
+   - **Source Id:** 21101274924
+   - **Author Ids:** 7004398165
+   - **Authoraffiliationids:** 132254978
+   - **Corresponding:** Marchese M.
+277.
+   - **Title:** Best-Effort and Guaranteed performance services in telecommunications networks: Pricing and Call Admission Control techniques
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2003
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1007/3-540-36480-3_19
+   - **Scopus ID:** 2-s2.0-65349155440
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 2601
+   - **Pages:** 261-275
+   - **Authors:** Baglietto Marco; Bolla Raffaele; Davoli Franco; Marchese Mario; Mongelli Maurizio
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 36198025300;7006403406;57220364548;7004398165;7005882346
+   - **Authoraffiliationids:** 124537474;124537474;124537474;60025153;60025153
+   - **Corresponding:** Baglietto M.
+278.
+   - **Title:** Special Issue on Satellite IP Quality of Service
+   - **Venue:** International Journal of Satellite Communications and Networking
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Editorial
+   - **Citations:** 1
+   - **DOI:** 10.1002/sat.764
+   - **Scopus ID:** 2-s2.0-0346964270
+   - **ISSN:** 15420973
+   - **Volume:** 21
+   - **Issue:** 4-5
+   - **Pages:** 299-301
+   - **Authors:** Kota Sastri; Marchese Mario
+   - **Quartile:**
+     2025:
+     - Media Technology (Q2, rank 21, percentile 72)
+     - Electrical and Electronic Engineering (Q2, rank 374, percentile 62)
+   - **Source Id:** 19924
+   - **Author Ids:** 7006166997;7004398165
+   - **Authoraffiliationids:** 60058524;
+   - **Corresponding:** Kota S.
+279.
+   - **Title:** Quality of service for satellite IP networks: A survey
+   - **Venue:** International Journal of Satellite Communications and Networking
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 44
+   - **DOI:** 10.1002/sat.765
+   - **Scopus ID:** 2-s2.0-0346686175
+   - **ISSN:** 15420973
+   - **Volume:** 21
+   - **Issue:** 4-5
+   - **Pages:** 303-349
+   - **Authors:** Kota Sastri; Marchese Mario
+   - **Keywords:** DAMA | DiffServ | IntServ | MPLS | QoS | Satellite IP | Spread ALOHA | TCP | UDP
+   - **Quartile:**
+     2025:
+     - Media Technology (Q2, rank 21, percentile 72)
+     - Electrical and Electronic Engineering (Q2, rank 374, percentile 62)
+   - **Source Id:** 19924
+   - **Author Ids:** 7006166997;7004398165
+   - **Authoraffiliationids:** 60058524;60025153
+   - **Corresponding:** Kota S.
+280.
+   - **Title:** Integration of pricing models between best-effort and guaranteed performance services in telecommunication networks
+   - **Venue:** Control Engineering Practice
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1016/S0967-0661(03)00055-8
+   - **Scopus ID:** 2-s2.0-0141993423
+   - **ISSN:** 09670661
+   - **Volume:** 11
+   - **Issue:** 10
+   - **Pages:** 1209-1226
+   - **Authors:** Baglietto Marco; Bolla Raffaele; Davoli Franco; Marchese Mario; Mongelli Maurizio
+   - **Keywords:** ATM | Best-effort services | Call admission control | Flow control | Guaranteed performance services | IP quality of service | Pricing | Proportional fairness
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 28, percentile 95)
+     - Electrical and Electronic Engineering (Q1, rank 143, percentile 85)
+     - Control and Systems Engineering (Q1, rank 58, percentile 84)
+     - Computer Science Applications (Q1, rank 171, percentile 82)
+   - **Source Id:** 18174
+   - **Author Ids:** 36198025300;7006403406;57220364548;7004398165;7005882346
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60103966;60025153
+   - **Corresponding:** Baglietto M.
+281.
+   - **Title:** Bandwidth allocation in a multiservice satellite network based on long-term weather forecast scenarios
+   - **Venue:** Computer Communications
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1016/S0140-3664(02)00018-X
+   - **Scopus ID:** 2-s2.0-0036643084
+   - **ISSN:** 01403664
+   - **Volume:** 25
+   - **Issue:** 11-12
+   - **Pages:** 1037-1046
+   - **Authors:** Bolla Raffaele; Celandroni Nedo; Davoli Franco; Ferro Erina; Marchese Mario
+   - **Keywords:** Bandwidth control | Fade | Performance thresholds | Rain probability | Satellite communications
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 50, percentile 90)
+   - **Source Id:** 13681
+   - **Author Ids:** 7006403406;7003794458;57220364548;56205423500;7004398165
+   - **Authoraffiliationids:** 60025153;60021199;60025153;60021199;60025153
+   - **Corresponding:** Bolla R.
+282.
+   - **Title:** An applied research study for the provision of a QoS-oriented environment for voice and video services over satellite networks
+   - **Venue:** Computer Communications
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1016/S0140-3664(02)00027-0
+   - **Scopus ID:** 2-s2.0-0036643061
+   - **ISSN:** 01403664
+   - **Volume:** 25
+   - **Issue:** 11-12
+   - **Pages:** 1113-1124
+   - **Authors:** Adami Davide; Marchese Mario; Ronga Luca Simone
+   - **Keywords:** Quality of Service | Satellite networks | TCP/IP
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 50, percentile 90)
+   - **Source Id:** 13681
+   - **Author Ids:** 13410812300;7004398165;6602959773
+   - **Authoraffiliationids:** 60028868;60025153;60021859
+   - **Corresponding:** Adami D.
+283.
+   - **Title:** A packet-switching satellite emulator: A proposal about architecture and implementation
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **Scopus ID:** 2-s2.0-0036286121
+   - **ISSN:** 05361486
+   - **Volume:** 5
+   - **Pages:** 3033-3037
+   - **Authors:** Marchese Mario; Perrando Marco
+   - **Source Id:** 33201
+   - **Author Ids:** 7004398165;6508292029
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchese M.
+284.
+   - **Title:** A parametric approach to improve the performance of the transport layer in satellite communications
+   - **Venue:** Conference Record IEEE Global Telecommunications Conference
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-0035688024
+   - **Volume:** 4
+   - **Pages:** 2682-2686
+   - **Authors:** Marchese Mario
+   - **Source Id:** 145242
+   - **Author Ids:** 7004398165
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Marchese M.
+285.
+   - **Title:** TCP/IP-based multimedia applications and services over satellite links: Experience from an ASI/CNIT project
+   - **Venue:** IEEE Personal Communications
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1109/98.930093
+   - **Scopus ID:** 2-s2.0-0035362822
+   - **ISSN:** 10709916
+   - **Volume:** 8
+   - **Issue:** 3
+   - **Pages:** 20-27
+   - **Authors:** Adami Davide; Marchese Mario; Ronga Luca Simone
+   - **Source Id:** 80015
+   - **Author Ids:** 13410812300;7004398165;6602959773
+   - **Authoraffiliationids:** 60028868;60025153;60021859
+   - **Corresponding:** Adami D.
+286.
+   - **Title:** QoS-aware routing in ATM and IP-over-ATM
+   - **Venue:** Computer Communications
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1016/S0140-3664(00)00354-6
+   - **Scopus ID:** 2-s2.0-0035340725
+   - **ISSN:** 01403664
+   - **Volume:** 24
+   - **Issue:** 9
+   - **Pages:** 811-821
+   - **Authors:** Bolla R.; Davoli F.; Marchese M.; Perrando M.
+   - **Keywords:** Asynchronous transfer mode | Quality-of-Service | Routing
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 50, percentile 90)
+   - **Source Id:** 13681
+   - **Author Ids:** 7006403406;57220364548;7004398165;6508292029
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+287.
+   - **Title:** Performance analysis of the TCP behavior in a geo satellite environment
+   - **Venue:** Computer Communications
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1016/S0140-3664(00)00361-3
+   - **Scopus ID:** 2-s2.0-0035340234
+   - **ISSN:** 01403664
+   - **Volume:** 24
+   - **Issue:** 9
+   - **Pages:** 877-888
+   - **Authors:** Marchese M.
+   - **Keywords:** Internetworking | Satellite environment | TCP/IP
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 50, percentile 90)
+   - **Source Id:** 13681
+   - **Author Ids:** 7004398165
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Marchese M.
+288.
+   - **Title:** Evaluation and comparison of cell loss and delay models for ATM multiplexers
+   - **Venue:** Telecommunication Systems
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1023/a:1009098627820
+   - **Scopus ID:** 2-s2.0-27144532862
+   - **ISSN:** 10184864
+   - **Volume:** 16
+   - **Issue:** 1-2
+   - **Pages:** 41-54
+   - **Authors:** Bolla Raffaele; Davoli Franco; Marchese Mario
+   - **Keywords:** ATM multiplexing | Performance evaluation | Quality of service
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 341, percentile 65)
+   - **Source Id:** 21916
+   - **Author Ids:** 7006403406;57220364548;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+289.
+   - **Title:** Call admission control and routing of QoS-aware and best-effort flows in an IP-over-ATM networking environment
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2001
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1007/3-540-44554-4_3
+   - **Scopus ID:** 2-s2.0-26844443988
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 1989 Lncs
+   - **Pages:** 33-49
+   - **Authors:** Bolla Raffaele; Davoli Franco; Marchese Mario; Perrando Marco
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 7006403406;57220364548;7004398165;6508292029
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+290.
+   - **Title:** TCP modifications over satellite channels: study and performance evaluation
+   - **Venue:** International Journal of Satellite Communications
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 30
+   - **DOI:** 10.1002/sat.682
+   - **Scopus ID:** 2-s2.0-0035080213
+   - **ISSN:** 07372884
+   - **Volume:** 19
+   - **Issue:** 1
+   - **Pages:** 93-110
+   - **Authors:** Marchese Mario
+   - **Source Id:** 70506
+   - **Author Ids:** 7004398165
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Marchese M.
+291.
+   - **Title:** Proposal of a modified version of the slow start algorithm to improve TCP performance over large delay satellite channels
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0034856860
+   - **ISSN:** 05361486
+   - **Volume:** 10
+   - **Pages:** 3145-3149
+   - **Authors:** Marchese M.
+   - **Source Id:** 33201
+   - **Author Ids:** 7004398165
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Marchese M.
+292.
+   - **Title:** Adaptive bandwidth allocation methods in the satellite environment
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **Scopus ID:** 2-s2.0-0034844159
+   - **ISSN:** 05361486
+   - **Volume:** 10
+   - **Pages:** 3183-3190
+   - **Authors:** Bolla R.; Davoli F.; Marchese M.
+   - **Source Id:** 33201
+   - **Author Ids:** 7006403406;57220364548;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+293.
+   - **Title:** Study and performance evaluation of TCP modifications and tuning over satellite links
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **Scopus ID:** 2-s2.0-0033700142
+   - **Volume:** 1
+   - **Pages:** 129-133
+   - **Authors:** Marchese Mario
+   - **Source Id:** 33201
+   - **Author Ids:** 7004398165
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Marchese M.
+294.
+   - **Title:** Quality of Service guarantee in IP satellite environment: Experimental experience in the CNIT-ASI Project `Integration of Multimedia Services on Heterogeneous Satellite Networks'
+   - **Venue:** Conference Record IEEE Global Telecommunications Conference
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0034479992
+   - **Volume:** 2
+   - **Pages:** 1109-1113
+   - **Authors:** Adami Davide; Marchese Mario; Ronga Luca Simone
+   - **Source Id:** 145242
+   - **Author Ids:** 13410812300;7004398165;6602959773
+   - **Authoraffiliationids:** 60028868;60028868;60028868
+   - **Corresponding:** Adami D.
+295.
+   - **Title:** Bandwidth allocation strategy for multimedia traffic in a satellite network
+   - **Venue:** Conference Record IEEE Global Telecommunications Conference
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-0034478627
+   - **Volume:** 2
+   - **Pages:** 1130-1134
+   - **Authors:** Bolla Raffaele; Davoli Franco; Marchese Mario
+   - **Source Id:** 145242
+   - **Author Ids:** 7006403406;57220364548;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+296.
+   - **Title:** An integrated multiple access and hierarchical coding scheme for video communication on wireless networks
+   - **Venue:** European Transactions on Telecommunications
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1002/ett.4460110406
+   - **Scopus ID:** 2-s2.0-0041407002
+   - **ISSN:** 1124318X
+   - **Volume:** 11
+   - **Issue:** 4
+   - **Pages:** 373-382
+   - **Authors:** Bolla Raffaele; Iscra Alessandro; Marchese Mario; Nobile Carlo; Zappatore Sandro
+   - **Source Id:** 18817
+   - **Author Ids:** 7006403406;6506869764;7004398165;36824831400;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+297.
+   - **Title:** PCP: A bandwidth guaranteed transport service for IP networks
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Article
+   - **Citations:** 29
+   - **Scopus ID:** 2-s2.0-54249129050
+   - **ISSN:** 05361486
+   - **Volume:** 1
+   - **Pages:** 671-675
+   - **Authors:** Borgonovo Flaminio; Capone Antonio; Fratta Luigi; Marchese Mario; Petrioli Chiara
+   - **Source Id:** 33201
+   - **Author Ids:** 7006653278;57201762539;7006835537;7004398165;6601979635
+   - **Authoraffiliationids:** 60023256;60023256;60023256;60023256;60023256
+   - **Corresponding:** Borgonovo F.
+298.
+   - **Title:** Meteosat image processing for short-term cloud tracking
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0033341403
+   - **ISSN:** 0277786X
+   - **Volume:** 3871
+   - **Pages:** 84-95
+   - **Authors:** Iscra Alessandro; Marchese Mario; Zappatore Sandro
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 6506869764;7004398165;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Iscra A.
+299.
+   - **Title:** Distributed dynamic routing of virtual circuits in ATM networks under different admission control and bandwidth allocation policies
+   - **Venue:** International Journal of Parallel and Distributed Systems and Networks
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0033337011
+   - **ISSN:** 12062138
+   - **Volume:** 2
+   - **Issue:** 4
+   - **Pages:** 225-234
+   - **Authors:** Bolla R.; Davoli F.; Marchese M.
+   - **Source Id:** 17986
+   - **Author Ids:** 7006403406;57220364548;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+300.
+   - **Title:** MAC for WATM air interface: Impact of error control schemes on protocol design
+   - **Venue:** IEEE Vts 50th Vehicular Technology Conference Vtc 1999 Fall
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-0032687491
+   - **ISSN:** 07400551
+   - **Volume:** 3
+   - **Pages:** 2064-2069
+   - **Authors:** Borgonovo Flaminio; Capone Antonio; Fratta Luigi; Marchese Mario
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 310, percentile 53)
+     - Electrical and Electronic Engineering (Q3, rank 545, percentile 45)
+     - Computer Science Applications (Q3, rank 603, percentile 38)
+   - **Source Id:** 23922
+   - **Author Ids:** 7006653278;57201762539;7006835537;7004398165
+   - **Authoraffiliationids:** 60023256;60023256;60023256;60023256
+   - **Corresponding:** Borgonovo F.
+301.
+   - **Title:** A perceived quality of service optimization for video communication in ’best-effort’ networks
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 1998
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1007/3-540-64594-2_108
+   - **Scopus ID:** 2-s2.0-84957696763
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 1425
+   - **Pages:** 366-379
+   - **Authors:** Bolla Raffaele; Iscra Alessandro; Marchese Mario; Zappatore Sandro
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 7006403406;6506869764;7004398165;6602811400
+   - **Corresponding:** Bolla R.
+302.
+   - **Title:** Bandwidth allocation and admission control in ATM networks with service separation
+   - **Venue:** IEEE Communications Magazine
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 40
+   - **DOI:** 10.1109/35.592107
+   - **Scopus ID:** 2-s2.0-0000295337
+   - **ISSN:** 01636804
+   - **Volume:** 35
+   - **Issue:** 5
+   - **Pages:** 130-137
+   - **Authors:** Bolla Raffaele; Davoli Franco; Marchese Mario
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 21, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 46, percentile 95)
+     - Computer Science Applications (Q1, rank 63, percentile 93)
+   - **Source Id:** 17249
+   - **Author Ids:** 7006403406;57220364548;7004398165
+   - **Authoraffiliationids:** 60025153-100452925;60025153-60004969;60025153
+   - **Corresponding:** Bolla R.
+303.
+   - **Title:** A congestion control scheme for multimedia traffic in packet switching ’best-effort’ networks
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 1997
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1007/bfb0037373
+   - **Scopus ID:** 2-s2.0-84947910182
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 1242
+   - **Pages:** 523-536
+   - **Authors:** Bolla R.; Marchese M.; Zappatore S.
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 7006403406;7004398165;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+304.
+   - **Title:** Integrated dynamic distributed routing and admission control in ATM networks
+   - **Venue:** International Journal of Communication Systems
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1002/(SICI)1099-1131(199709/10)10:5<215::AID-DAC340>3.0.CO;2-3
+   - **Scopus ID:** 2-s2.0-0031224487
+   - **ISSN:** 10745351
+   - **Volume:** 10
+   - **Issue:** 5
+   - **Pages:** 215-225
+   - **Authors:** Bolla R.; Dalal'ah A.; Davoli F.; Marchese M.; Obaidat M. S.
+   - **Keywords:** Admission control | ATM traffic control | Dynamic routing | Quality of service
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 309, percentile 69)
+     - Computer Networks and Communications (Q2, rank 171, percentile 68)
+   - **Source Id:** 17964
+   - **Author Ids:** 7006403406;6602226713;57220364548;7004398165;7005628795
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60029216
+   - **Corresponding:** Bolla R.
+305.
+   - **Title:** Dynamic self-healing routing strategy for ATM networks
+   - **Venue:** IEEE International Performance Computing Communications Conference Proceedings
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0030694964
+   - **Pages:** 215-220
+   - **Authors:** Bolla R.; Dalal'ah A.; Davoli F.; Marchese M.; Obaidat M. S.
+   - **Source Id:** 13746
+   - **Author Ids:** 7006403406;6602226713;57220364548;7004398165;7005628795
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+306.
+   - **Title:** Node simulation tool for bandwidth allocation and CAC in ATM networks
+   - **Venue:** IEEE Symposium on Computers and Communications Proceedings
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0030688715
+   - **Volume:** 2
+   - **Pages:** 354-358
+   - **Authors:** Bolla Raffaele; Dalal’ah Ahmad; Marchese Mario
+   - **Source Id:** 21100780552
+   - **Author Ids:** 7006403406;57191269980;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+307.
+   - **Title:** Two Simulation Tools for Testing ATM Resource Allocation Strategies
+   - **Venue:** Simulation
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1177/003754979706800110
+   - **Scopus ID:** 2-s2.0-0030659298
+   - **ISSN:** 00375497
+   - **Volume:** 68
+   - **Issue:** 1
+   - **Pages:** 9-22
+   - **Authors:** Bolla Raffaele; Dalal'ah Ahmad; Davoli Franco; Marchese Mario
+   - **Keywords:** ATM | Discrete-event simulation | Routing
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q2, rank 115, percentile 69)
+     - Computer Graphics and Computer-Aided Design (Q2, rank 48, percentile 63)
+     - Software (Q2, rank 218, percentile 56)
+   - **Source Id:** 14452
+   - **Author Ids:** 7006403406;6602226713;57220364548;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+308.
+   - **Title:** Evaluation of a cell loss rate computation method in ATM multiplexers with multiple bursty sources and different traffic classes
+   - **Venue:** Conference Record IEEE Global Telecommunications Conference
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-0030348683
+   - **Volume:** 1
+   - **Pages:** 437-441
+   - **Authors:** Bolla R.; Davoli F.; Marchese M.
+   - **Source Id:** 145242
+   - **Author Ids:** 7006403406;57220364548;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+309.
+   - **Title:** Implementation issues for congestion control in ATM networks
+   - **Venue:** Proceedings of the IEEE International Conference on Electronics Circuits and Systems
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0030348588
+   - **Volume:** 2
+   - **Pages:** 788-791
+   - **Authors:** Marchese M.; Curatelli F.; Chirico M.; Mangeruca L.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 913, percentile 8)
+   - **Source Id:** 91096
+   - **Author Ids:** 7004398165;57154509300;6603886234;55880151300
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Marchese M.
+310.
+   - **Title:** The Tracking and Prediction of High Intensity Rainstorms
+   - **Venue:** Remote Sensing Reviews
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1080/02757259609532316
+   - **Scopus ID:** 2-s2.0-0030434039
+   - **ISSN:** 02757257
+   - **Volume:** 14
+   - **Issue:** 1-3
+   - **Pages:** 151-183
+   - **Authors:** Bolla Raffaele; Boni Giorgio; Barbera Paolo L.A.; Lanza Luca; Marchese Mario; Zappatore Sandro
+   - **Source Id:** 92584
+   - **Author Ids:** 7006403406;7004208139;7004325623;7005744799;7004398165;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+311.
+   - **Title:** Simple schemes for traffic integration at call set-up level in ATM networks
+   - **Venue:** Computer Communications
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1016/S0140-3664(96)01097-3
+   - **Scopus ID:** 2-s2.0-0030197751
+   - **ISSN:** 01403664
+   - **Volume:** 19
+   - **Issue:** 8
+   - **Pages:** 645-652
+   - **Authors:** Bolla Raffaele; Davoli Franco; Marchese Mario
+   - **Keywords:** Admission control | Atm networks | Call set-up | Traffic integration pii s0140366496010973
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 50, percentile 90)
+   - **Source Id:** 13681
+   - **Author Ids:** 7006403406;57220364548;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+312.
+   - **Title:** Complete partitioning schemes for call access control in ATM networks
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0029709225
+   - **ISSN:** 15503607
+   - **Volume:** 2
+   - **Pages:** 751-756
+   - **Authors:** Bolla R.; Davoli F.; Marchese M.
+   - **Source Id:** 33201
+   - **Author Ids:** 7006403406;57220364548;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+313.
+   - **Title:** Global control system for integrated admission control and routing in ATM networks
+   - **Venue:** Conference Record IEEE Global Telecommunications Conference
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0029488494
+   - **Volume:** 1
+   - **Pages:** 437-443
+   - **Authors:** Bolla Raffaele; Davoli Franco; Marchese Mario
+   - **Source Id:** 145242
+   - **Author Ids:** 7006403406;57220364548;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+314.
+   - **Title:** Quality of service management and control of multimedia applications: a scenario and two simple strategies
+   - **Venue:** Conference on Local Computer Networks
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0029480573
+   - **ISSN:** 07421303
+   - **Pages:** 336-341
+   - **Authors:** Bolla R.; Davoli F.; Marchese M.
+   - **Source Id:** 78307
+   - **Author Ids:** 7006403406;57220364548;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+315.
+   - **Title:** Simple schemes for traffic integration at call set-up level in ATM networks
+   - **Venue:** Proceedings of the International Conference on Computer Communications and Networks ICCCN
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0029424453
+   - **Pages:** 598-603
+   - **Authors:** Bolla R.; Davoli F.; Marchese M.
+   - **Source Id:** 57125
+   - **Author Ids:** 7006403406;57220364548;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+316.
+   - **Title:** Characterizing bursty source models applied to admission control in ATM networks
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1117/12.201289
+   - **Scopus ID:** 2-s2.0-85076685341
+   - **ISSN:** 0277786X
+   - **eISSN:** 1996756X
+   - **Volume:** 2450
+   - **Pages:** 68-80
+   - **Authors:** Bolla R.; Davoli F.; Marchese M.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7006403406;57220364548;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+317.
+   - **Title:** Prediction of short-term evolution of cloud formations based on Meteosat image sequences
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 1995
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1007/3-540-60298-4_331
+   - **Scopus ID:** 2-s2.0-79953839572
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 974
+   - **Pages:** 677-682
+   - **Authors:** Bolla Raffaele; Marchese Mario; Nobile Carlo; Zappatore Sandro
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 7006403406;7004398165;36824831400;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+318.
+   - **Title:** Distributed routing and access control scheme for ATM networks
+   - **Venue:** Conference Record International Conference on Communications
+   - **Year:** 1994
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0028089623
+   - **ISSN:** 05361486
+   - **Volume:** 1
+   - **Pages:** 44-50
+   - **Authors:** Bolla R.; Davoli F.; Marchese M.
+   - **Source Id:** 33201
+   - **Author Ids:** 7006403406;57220364548;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+319.
+   - **Title:** Integrated dynamic resource allocation scheme for ATM networks
+   - **Venue:** Proceedings IEEE INFOCOM
+   - **Year:** 1993
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 17
+   - **Scopus ID:** 2-s2.0-0027147039
+   - **ISSN:** 0743166X
+   - **Volume:** 3
+   - **Pages:** 1288-1292
+   - **Authors:** Bolla R.; Danovaro F.; Davoli F.; Marchese M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 147, percentile 85)
+     - Computer Science (all) (Q1, rank 42, percentile 82)
+   - **Source Id:** 18204
+   - **Author Ids:** 7006403406;6504556156;57220364548;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bolla R.

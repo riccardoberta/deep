@@ -1,0 +1,1912 @@
+# Girdinio Paola
+
+## Overview
+- **Unit:** ELE
+- **Role:** Professore ordinario
+- **Grade:** Prof.Ordinario DPR 232/11 art.2 - t.pieno - cl. 9
+- **SSD:** IIET-01/A (Elettrotecnica)
+- **Scopus ID:** 7003430835
+- **UNIGE ID:** 045816
+- **Retrieved at:** 2025-11-14T15:14:36.954752
+
+## Contact
+- **Email:** paola.girdinio@unige.it
+- **Phone:** +39 010 33 52710
+- **Page:** https://rubrica.unige.it/personale/VUdCU1tv
+- **Locations:** Opera Pia - padiglione C (Ex CNR) (ED_161450501), 3° piano, US_161450501.III.013
+
+## Career
+- PO, 2012-05-01 → 2222-02-02
+
+## Teaching
+### 2025
+- Campi Elettrici E Magnetici (60335), L-9 - Ingegneria Elettrica
+- Electromagnetic Compatibility (118119), Lm-28 - Electrical Engineering For Energy Transition
+
+### 2024
+- Compatibilità Elettromagnetica (56558), Lm-28 - Ingegneria Elettrica
+
+### 2023
+- Compatibilità Elettromagnetica (56558), Lm-28 - Ingegneria Elettrica
+
+### 2022
+- Compatibilità Elettromagnetica (56558), Lm-28 - Ingegneria Elettrica
+
+### 2021
+- Compatibilità Elettromagnetica (56558), Lm-28 - Ingegneria Elettrica
+
+### 2020
+- Compatibilità Elettromagnetica (56558), Lm-28 - Ingegneria Elettrica
+- Risk Propagation In Interconnected Infrastructures (106878), Cybersecurity And Critical Infrastructure Protection
+- Security And Threats To Critical Infrastructure (106871), Cybersecurity And Critical Infrastructure Protection
+
+## Scopus Metrics
+- absolute; Docs: 89; Journals: 61; Conferences: 26; Citations: 624; H-index: 13
+- 15 years (2010-2025); Docs: 25; Journals: 15; Conferences: 9; Citations: 294; H-index: 9
+- 10 years (2015-2025); Docs: 21; Journals: 13; Conferences: 7; Citations: 238; H-index: 7
+- 05 years (2020-2025); Docs: 16; Journals: 11; Conferences: 4; Citations: 142; H-index: 7
+
+## Scopus Products
+1.
+   - **Title:** Photo-Set: A Proposed Dataset and Benchmark for Physics-Based Cybersecurity Monitoring in Photovoltaic Systems †
+   - **Venue:** Energies
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3390/en18195318
+   - **Scopus ID:** 2-s2.0-105018907042
+   - **eISSN:** 19961073
+   - **Volume:** 18
+   - **Issue:** 19
+   - **Authors:** Mokarim Afroz; Gaggero Giovanni Battista; Ferro Giulio; Robba Michela; Girdinio Paola; Marchese Mario
+   - **Keywords:** anomaly detection | cybersecurity | dataset | distributed energy resources | photovoltaic | smart grid
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 57210415425;57216708944;57062015700;7004979187;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60121711;60121711;60025153;60025153
+   - **Corresponding:** Mokarim A.
+2.
+   - **Title:** Cybersecurity Issues in Electrical Protection Relays: A Systematic Review
+   - **Venue:** Energies
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 0
+   - **DOI:** 10.3390/en18143796
+   - **Scopus ID:** 2-s2.0-105011621726
+   - **eISSN:** 19961073
+   - **Volume:** 18
+   - **Issue:** 14
+   - **Authors:** Gaggero Giovanni Battista; Girdinio Paola; Marchese Mario
+   - **Keywords:** cyber security | electrical protection | protection relay | review
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 57216708944;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+3.
+   - **Title:** Artificial Intelligence and Physics-Based Anomaly Detection in the Smart Grid: A Survey
+   - **Venue:** IEEE Access
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 16
+   - **DOI:** 10.1109/ACCESS.2025.3537410
+   - **Scopus ID:** 2-s2.0-85217069329
+   - **eISSN:** 21693536
+   - **Volume:** 13
+   - **Pages:** 23597-23606
+   - **Authors:** Gaggero Giovanni Battista; Girdinio Paola; Marchese Mario
+   - **Keywords:** AI | anomaly detection | physics-based anomaly detection | Review | smart grid
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 42, percentile 88)
+     - Computer Science (all) (Q1, rank 41, percentile 83)
+     - Materials Science (all) (Q1, rank 101, percentile 78)
+   - **Source Id:** 21100374601
+   - **Author Ids:** 57216708944;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+4.
+   - **Title:** A Security Operation and Event Management (SOEM) Platform for Critical Infrastructures Protection
+   - **Venue:** Computers Materials and Continua
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.32604/cmc.2025.068509
+   - **Scopus ID:** 2-s2.0-105020024502
+   - **ISSN:** 15462218
+   - **eISSN:** 15462226
+   - **Volume:** 85
+   - **Issue:** 3
+   - **Pages:** 5327-5340
+   - **Authors:** Caviglia Roberto; Aliaskharov Daniyar; Aceti Alessio; Preda Mila Dalla; Girdinio Paola; Gaggero Giovanni Battista
+   - **Keywords:** Cybersecurity | intrusion detection | monitoring | SIEM | SOC
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 54, percentile 85)
+     - Electrical and Electronic Engineering (Q2, rank 254, percentile 74)
+     - Mechanics of Materials (Q2, rank 117, percentile 71)
+     - Computer Science Applications (Q2, rank 279, percentile 71)
+     - Biomaterials (Q2, rank 66, percentile 54)
+   - **Source Id:** 24364
+   - **Author Ids:** 57700266100;60159359300;58609673600;60056635500;7003430835;57216708944
+   - **Authoraffiliationids:** 133312116;60025153;133312116;60032256;60025153;60025153
+   - **Corresponding:** Caviglia R.
+5.
+   - **Title:** Should We Include Cyberdefense Functionalities in Electrical Power System Protections?: A Proposed Approach
+   - **Venue:** IEEE Industrial Electronics Magazine
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/MIE.2024.3416907
+   - **Scopus ID:** 2-s2.0-105004023864
+   - **ISSN:** 19324529
+   - **eISSN:** 19410115
+   - **Volume:** 19
+   - **Issue:** 1
+   - **Pages:** 10-16
+   - **Authors:** Gaggero Giovanni Battista; Mokarim Afroz; Girdinio Paola; Marchese Mario
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 92, percentile 90)
+     - Industrial and Manufacturing Engineering (Q1, rank 47, percentile 88)
+   - **Source Id:** 5800207505
+   - **Author Ids:** 57216708944;57210415425;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+6.
+   - **Title:** From microgrids to virtual power plants: A cybersecurity perspective
+   - **Venue:** Iot Enabled Dc Microgrids Architecture Algorithms Applications and Technologies
+   - **Year:** 2024
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-85206234694
+   - **Pages:** 103-120
+   - **Authors:** Gaggero Giovanni; Piserà Diego; Girdinio Paola; Silvestro Federico; Marchese Mario
+   - **Source Id:** 21101253473
+   - **Author Ids:** 57216708944;57226694852;7003430835;23026343700;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.
+7.
+   - **Title:** Toward a Security Operation Center for Operational Technology in Industrial Networks
+   - **Venue:** 2024 IEEE International Workshop on Technologies for Defense and Security Techdefense 2024 Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/TechDefense63521.2024.10863654
+   - **Scopus ID:** 2-s2.0-85218337379
+   - **Pages:** 160-164
+   - **Authors:** Gaggero Giovanni Battista; Caviglia Roberto; Girdinio Paola; Marchese Mario
+   - **Source Id:** 21101276067
+   - **Author Ids:** 57216708944;57700266100;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153-100505222;60025153-130228801-100505222;60025153-100505222;60025153-100505222
+   - **Corresponding:** Gaggero G.B.
+8.
+   - **Title:** An IEC 62443-Based Framework for Secure-by-Design Energy Communities
+   - **Venue:** IEEE Access
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/ACCESS.2024.3492316
+   - **Scopus ID:** 2-s2.0-85209085879
+   - **eISSN:** 21693536
+   - **Volume:** 12
+   - **Pages:** 166320-166332
+   - **Authors:** Gaggero Giovanni Battista; Armellin Alessandro; Girdinio Paola; Marchese Mario
+   - **Keywords:** cybersecurity | Energy community | security by design | smart grid
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 42, percentile 88)
+     - Computer Science (all) (Q1, rank 41, percentile 83)
+     - Materials Science (all) (Q1, rank 101, percentile 78)
+     2024:
+     - Engineering (all) (Q1, rank 32, percentile 90)
+     - Computer Science (all) (Q1, rank 33, percentile 86)
+     - Materials Science (all) (Q1, rank 87, percentile 81)
+   - **Source Id:** 21100374601
+   - **Author Ids:** 57216708944;57699327800;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153-128824789;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+9.
+   - **Title:** Are IDS Violating Segmentation in Industrial Networks?
+   - **Venue:** Proceedings of the 2024 IEEE International Conference on Cyber Security and Resilience Csr 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/CSR61664.2024.10679425
+   - **Scopus ID:** 2-s2.0-85206212466
+   - **Pages:** 45-49
+   - **Authors:** Gaggero Giovanni Battista; Caviglia Roberto; Girdinio Paola; Marchese Mario
+   - **Keywords:** IEC 62443 | Industrial Control System | Intrusion Detection System | Network Segmentation
+   - **Source Id:** 21101253086
+   - **Author Ids:** 57216708944;57700266100;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153-130228801;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+10.
+   - **Title:** BESS-Set: A Dataset for Cybersecurity Monitoring in a Battery Energy Storage System
+   - **Venue:** IEEE Open Access Journal of Power and Energy
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/OAJPE.2024.3439856
+   - **Scopus ID:** 2-s2.0-85200813502
+   - **eISSN:** 26877910
+   - **Volume:** 11
+   - **Pages:** 362-372
+   - **Authors:** Battista Gaggero Giovanni; Armellin Alessandro; Ferro Giulio; Robba Michela; Girdinio Paola; Marchese Mario
+   - **Keywords:** anomaly detection | cybersecurity | Dataset | distributed energy resources | smart grid | storage
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 222, percentile 77)
+     - Energy Engineering and Power Technology (Q2, rank 89, percentile 72)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 183, percentile 81)
+     - Energy Engineering and Power Technology (Q2, rank 76, percentile 74)
+   - **Source Id:** 21101059747
+   - **Author Ids:** 57216708944;57699327800;57062015700;7004979187;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60121711;60121711;60025153;60025153
+   - **Corresponding:** Battista Gaggero G.
+11.
+   - **Title:** Novel Cybersecurity Issues in Smart Energy Communities
+   - **Venue:** 1st International Conference in Advanced Innovation on Smart City Icaisc 2023 Proceedings
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/ICAISC56366.2023.10085312
+   - **Scopus ID:** 2-s2.0-85153051667
+   - **Authors:** Gaggero Giovanni Battista; Piserà Diego; Girdinio Paola; Silvestro Federico; Marchese Mario
+   - **Keywords:** Cybersecurity | Energy Community | Smart Grid
+   - **Source Id:** 21101147411
+   - **Author Ids:** 57216708944;57226694852;7003430835;23026343700;7004398165
+   - **Authoraffiliationids:** 60025153;60025153-126318742;60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+12.
+   - **Title:** Detecting Cyberattacks on Electrical Storage Systems through Neural Network Based Anomaly Detection Algorithm
+   - **Venue:** Sensors
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 21
+   - **DOI:** 10.3390/s22103933
+   - **Scopus ID:** 2-s2.0-85130394047
+   - **ISSN:** 14248220
+   - **Volume:** 22
+   - **Issue:** 10
+   - **Authors:** Gaggero Giovanni Battista; Caviglia Roberto; Armellin Alessandro; Rossi Mansueto; Girdinio Paola; Marchese Mario
+   - **Keywords:** anomaly detection | autoencoder | cybersecurity | distributed energy resources | electrical battery storage systems | neural network
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2022:
+     - Instrumentation (Q1, rank 18, percentile 87)
+     - Electrical and Electronic Engineering (Q1, rank 146, percentile 80)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 47, percentile 77)
+     - Analytical Chemistry (Q1, rank 32, percentile 77)
+     - Information Systems (Q1, rank 87, percentile 77)
+     - Biochemistry (Q2, rank 151, percentile 64)
+   - **Source Id:** 130124
+   - **Author Ids:** 57216708944;57700266100;57699327800;7403708681;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+13.
+   - **Title:** Cybersecurity Issues in Communication-Based Electrical Protections
+   - **Venue:** International Conference on Electrical Computer and Energy Technologies Icecet 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/ICECET55527.2022.9873081
+   - **Scopus ID:** 2-s2.0-85138917455
+   - **Authors:** Gaggero Giovanni Battista; Rossi Mansueto; Girdinio Paola; Marchese Mario
+   - **Keywords:** cybersecurity | electrical protection | IEC 62351 | microgrid | smart grid
+   - **Source Id:** 21101110203
+   - **Author Ids:** 57216708944;7403708681;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+14.
+   - **Title:** Toward the integration of cyber and physical security monitoring systems for critical infrastructures
+   - **Venue:** Sensors
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 26
+   - **DOI:** 10.3390/s21216970
+   - **Scopus ID:** 2-s2.0-85117331623
+   - **ISSN:** 14248220
+   - **Volume:** 21
+   - **Issue:** 21
+   - **Authors:** Fausto Alessandro; Gaggero Giovanni Battista; Patrone Fabio; Girdinio Paola; Marchese Mario
+   - **Keywords:** Anomaly detection | Critical infrastructure | Cybersecurity | Machine learning | Physical security
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2021:
+     - Instrumentation (Q1, rank 12, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 134, percentile 81)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 42, percentile 79)
+     - Analytical Chemistry (Q1, rank 27, percentile 79)
+     - Information Systems (Q1, rank 77, percentile 78)
+     - Biochemistry (Q2, rank 145, percentile 66)
+   - **Source Id:** 130124
+   - **Author Ids:** 57216708248;57216708944;56536292600;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Fausto A.
+15.
+   - **Title:** Advancements and research trends in microgrids cybersecurity
+   - **Venue:** Applied Sciences Switzerland
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 21
+   - **DOI:** 10.3390/app11167363
+   - **Scopus ID:** 2-s2.0-85112518826
+   - **eISSN:** 20763417
+   - **Volume:** 11
+   - **Issue:** 16
+   - **Authors:** Gaggero Giovanni Battista; Girdinio Paola; Marchese Mario
+   - **Keywords:** Anomaly detection | Cybersecurity | Intrusion detection systems (IDS) | Resiliency | Smart microgrids | Software defined networking (SDN)
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 69, percentile 80)
+     - Instrumentation (Q1, rank 38, percentile 80)
+     - Fluid Flow and Transfer Processes (Q1, rank 21, percentile 79)
+     - Computer Science Applications (Q2, rank 294, percentile 70)
+     - Materials Science (all) (Q2, rank 166, percentile 64)
+     - Process Chemistry and Technology (Q2, rank 34, percentile 55)
+     2021:
+     - Engineering (all) (Q2, rank 81, percentile 73)
+     - Instrumentation (Q2, rank 52, percentile 62)
+     - Computer Science Applications (Q2, rank 301, percentile 59)
+     - Fluid Flow and Transfer Processes (Q2, rank 37, percentile 58)
+     - Materials Science (all) (Q2, rank 219, percentile 51)
+     - Process Chemistry and Technology (Q3, rank 32, percentile 48)
+   - **Source Id:** 21100829268
+   - **Author Ids:** 57216708944;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+16.
+   - **Title:** Detecting system fault/cyberattack within a photovoltaic system connected to the grid: A neural network-based solution
+   - **Venue:** Journal of Sensor and Actuator Networks
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 20
+   - **DOI:** 10.3390/jsan9020020
+   - **Scopus ID:** 2-s2.0-85084829746
+   - **eISSN:** 22242708
+   - **Volume:** 9
+   - **Issue:** 2
+   - **Authors:** Gaggero Giovanni Battista; Rossi Mansueto; Girdinio Paola; Marchese Mario
+   - **Keywords:** Anomaly detection | Autoencoder | Cyber-security | Distributed energy resources | Neural networks | Photovoltaic systems
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 6, percentile 96)
+     - Instrumentation (Q1, rank 12, percentile 93)
+     - Computer Networks and Communications (Q1, rank 61, percentile 88)
+     2020:
+     - Instrumentation (Q1, rank 8, percentile 94)
+     - Control and Optimization (Q1, rank 12, percentile 89)
+     - Computer Networks and Communications (Q1, rank 59, percentile 82)
+   - **Source Id:** 21100830709
+   - **Author Ids:** 57216708944;7403708681;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+17.
+   - **Title:** Neural network architecture to detect system faults / cyberattacks anomalies within a photovoltaic system connected to the grid
+   - **Venue:** 2019 International Symposium on Advanced Electrical and Communication Technologies Isaect 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/ISAECT47714.2019.9069683
+   - **Scopus ID:** 2-s2.0-85084343224
+   - **Authors:** Gaggero Giovanni Battista; Rossi Mansueto; Girdinio Paola; Marchese Mario
+   - **Keywords:** anomaly detection | industrial systems | neural networks
+   - **Source Id:** 21100985351
+   - **Author Ids:** 57216708944;7403708681;7003430835;7004398165
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaggero G.B.
+18.
+   - **Title:** A simple strategy to optimally design and manage a photovoltaic plant integrated with a storage system for different applications
+   - **Venue:** 2017 Aeit International Annual Conference Infrastructures for Energy and ICT Opportunities for Fostering Innovation Aeit 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/AEIT.2017.8240515
+   - **Scopus ID:** 2-s2.0-85045936906
+   - **Volume:** 2017-January
+   - **Pages:** 1-6
+   - **Authors:** Bracco Stefano; Brignone Massimo; Delfino Federico; Girdinio Paola; Laiolo Paola; Procopio Renato; Rossi Mansueto
+   - **Keywords:** management | optimization | photovoltaic | planning | storage
+   - **Source Id:** 21100858105
+   - **Author Ids:** 15049159900;8580886100;6603766602;7003430835;56576462300;7801615894;7403708681
+   - **Authoraffiliationids:** 120591612;120591612;120591612-60025153;120591612;60025153;60025153;120591612
+   - **Corresponding:** Bracco S.
+19.
+   - **Title:** Regularization techniques for the high-frequency electromagnetic field coupling problem with terminated lines
+   - **Venue:** Journal of Engineering Mathematics
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1007/s10665-015-9782-1
+   - **Scopus ID:** 2-s2.0-84924544151
+   - **ISSN:** 00220833
+   - **eISSN:** 15732703
+   - **Volume:** 96
+   - **Issue:** 1
+   - **Pages:** 73-93
+   - **Authors:** Brignone Massimo; Delfino Federico; Procopio Renato; Girdinio Paola
+   - **Keywords:** Electromagnetic coupling | Regularization theory | Terminated lines | Transmission line models
+   - **Quartile:**
+     2025:
+     - Mathematics (all) (Q1, rank 94, percentile 77)
+     - Engineering (all) (Q3, rank 181, percentile 47)
+     2016:
+     - Mathematics (all) (Q1, rank 82, percentile 75)
+     - Engineering (all) (Q2, rank 91, percentile 66)
+   - **Source Id:** 12485
+   - **Author Ids:** 8580886100;6603766602;7801615894;7003430835
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Brignone M.
+20.
+   - **Title:** Life Cycle Assessment and Life Cycle Costing of a SOFC system for distributed power generation
+   - **Venue:** Energy Conversion and Management
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 85
+   - **DOI:** 10.1016/j.enconman.2015.04.068
+   - **Scopus ID:** 2-s2.0-84929157914
+   - **ISSN:** 01968904
+   - **Volume:** 100
+   - **Pages:** 64-77
+   - **Authors:** Strazza Carlo; Del Borghi Adriana; Costamagna Paola; Gallo Michela; Brignole Emma; Girdinio Paola
+   - **Keywords:** Biogas | Life Cycle Assessment | Life Cycle Costing | Microturbine | Natural Gas | Solid Oxide Fuel Cell
+   - **Quartile:**
+     2025:
+     - Nuclear Energy and Engineering (Q1, rank 2, percentile 98)
+     - Energy Engineering and Power Technology (Q1, rank 12, percentile 96)
+     - Fuel Technology (Q1, rank 7, percentile 95)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 21, percentile 93)
+     2015:
+     - Nuclear Energy and Engineering (Q1, rank 2, percentile 97)
+     - Energy Engineering and Power Technology (Q1, rank 8, percentile 95)
+     - Fuel Technology (Q1, rank 5, percentile 94)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 19, percentile 85)
+   - **Source Id:** 29372
+   - **Author Ids:** 24537996800;57189692396;7003269793;15841679700;56640999700;7003430835
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Strazza C.
+21.
+   - **Title:** A two-step procedure for the energy management in smart microgrids accounting for economical and power quality issues
+   - **Venue:** 2015 IEEE 15th International Conference on Environment and Electrical Engineering Eeeic 2015 Conference Proceedings
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/EEEIC.2015.7165194
+   - **Scopus ID:** 2-s2.0-84943153053
+   - **Pages:** 395-400
+   - **Authors:** Bonfiglio Andrea; Brignone Massimo; Delfino Federico; Girdinio Paola; Pampararo Fabio; Procopio Renato
+   - **Keywords:** energy management | optimal scheduling | optimization | power quality | smart grids
+   - **Source Id:** 21100413842
+   - **Author Ids:** 36607521000;8580886100;6603766602;7003430835;36782697700;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+22.
+   - **Title:** Technical and compatibility issues in the design of HVDC sea electrodes
+   - **Venue:** IEEE International Symposium on Electromagnetic Compatibility
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/EMCEurope.2012.6396841
+   - **Scopus ID:** 2-s2.0-84872537281
+   - **ISSN:** 10774076
+   - **eISSN:** 21581118
+   - **Authors:** Girdinio Paola; Molfino Paolo; Nervi Mario; Rossi Mansueto; Bertani Alessandro; Malgarotti Stefano
+   - **Source Id:** 17274
+   - **Author Ids:** 7003430835;7003420937;7003586072;7403708681;8275188700;9742164400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60083358;60083358
+   - **Corresponding:** Girdinio P.
+23.
+   - **Title:** Rational approximation for the time domain implementation of Cooray-Rubinstein formula
+   - **Venue:** 2011 IEEE Pes Trondheim Powertech the Power of Technology for A Sustainable Society Powertech 2011
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/PTC.2011.6019451
+   - **Scopus ID:** 2-s2.0-80053350888
+   - **Authors:** Delfino Federico; Girdinio Paola; Procopio Renato; Rossi Mansueto; Rachidi Farhad
+   - **Keywords:** Electromagnetic radiation | ground wave propagation | lightning modeling | lightning return stroke
+   - **Source Id:** 19900195048
+   - **Author Ids:** 6603766602;7003430835;7801615894;7403708681;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60028186
+   - **Corresponding:** Delfino F.
+24.
+   - **Title:** Time-domain implementation of Cooray-Rubinstein formula via convolution integral and rational approximation
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 39
+   - **DOI:** 10.1109/TEMC.2011.2107325
+   - **Scopus ID:** 2-s2.0-80052056284
+   - **ISSN:** 00189375
+   - **Volume:** 53
+   - **Issue:** 3
+   - **Pages:** 755-763
+   - **Authors:** Delfino Federico; Girdinio Paola; Procopio Renato; Rossi Mansueto; Rachidi Farhad
+   - **Keywords:** Electromagnetic radiation | ground wave propagation | lightning modeling | lightning return stroke
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2011:
+     - Electrical and Electronic Engineering (Q1, rank 130, percentile 78)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 39, percentile 72)
+     - Condensed Matter Physics (Q2, rank 109, percentile 71)
+   - **Source Id:** 26051
+   - **Author Ids:** 6603766602;7003430835;7801615894;7403708681;7003719604
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60028186
+   - **Corresponding:** Delfino F.
+25.
+   - **Title:** Quasi static optimized management of a multinode CHP plant
+   - **Venue:** Energy Conversion and Management
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1016/j.enconman.2010.04.011
+   - **Scopus ID:** 2-s2.0-77953915573
+   - **ISSN:** 01968904
+   - **Volume:** 51
+   - **Issue:** 11
+   - **Pages:** 2367-2373
+   - **Authors:** Broccardo M.; Girdinio P.; Moccia S.; Molfino P.; Nervi M.; Prato A. Pini
+   - **Keywords:** Cogeneration | Optimization | Power generation dispatch | Power system control
+   - **Quartile:**
+     2025:
+     - Nuclear Energy and Engineering (Q1, rank 2, percentile 98)
+     - Energy Engineering and Power Technology (Q1, rank 12, percentile 96)
+     - Fuel Technology (Q1, rank 7, percentile 95)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 21, percentile 93)
+   - **Source Id:** 29372
+   - **Author Ids:** 35182537000;7003430835;57127343200;7003420937;7003586072;55493328400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Broccardo M.
+26.
+   - **Title:** Modular small-CHP plants optimized design as a way to reduce CO2 emissions
+   - **Venue:** 2009 International Conference on Clean Electrical Power Iccep 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ICCEP.2009.5212092
+   - **Scopus ID:** 2-s2.0-70350738699
+   - **Pages:** 1-8
+   - **Authors:** Broccardo M.; Girdinio P.; Martino E.; Moccia S.; Nervi M.; Pini Prato A.; Repetto M.
+   - **Keywords:** CO2 emissions reduction | Cogeneration | Optimized plant design
+   - **Source Id:** 19400157404
+   - **Author Ids:** 35182537000;7003430835;35183643400;57127343200;7003586072;55493328400;7102465243
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Broccardo M.
+27.
+   - **Title:** Electromagnetic plane wave scattering from building surfaces
+   - **Venue:** COMPEL the International Journal for Computation and Mathematics in Electrical and Electronic Engineering
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1108/03321640610684132
+   - **Scopus ID:** 2-s2.0-33750028561
+   - **ISSN:** 03321649
+   - **Volume:** 25
+   - **Issue:** 4
+   - **Pages:** 1007-1018
+   - **Authors:** Delfino F.; Girdinio P.; Minervini L.; Nervi M.
+   - **Keywords:** Electromagnetism | Numerical analysis | Simulation | Urban areas | Wave propagation
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 262, percentile 61)
+     - Computational Theory and Mathematics (Q2, rank 93, percentile 54)
+     - Electrical and Electronic Engineering (Q2, rank 486, percentile 51)
+     - Computer Science Applications (Q3, rank 541, percentile 44)
+   - **Source Id:** 28454
+   - **Author Ids:** 6603766602;7003430835;34572465500;7003586072
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+28.
+   - **Title:** An Equivalent Circuit Model For Lemp-Excited Transmission Lines
+   - **Venue:** EMC Europe 2006 Barcelona International Symposium on Electromagnetic Compatibility
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EMC.2006.10813078
+   - **Scopus ID:** 2-s2.0-86000235013
+   - **Authors:** Delfino Federico; Procopio Renato; Rossi Mansueto; Girdinio Paola
+   - **Source Id:** 21101280292
+   - **Author Ids:** 6603766602;7801615894;7403708681;7003430835
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+29.
+   - **Title:** An improved simulated annealing algorithm for the channel allocation problem in cellular networks
+   - **Venue:** 12th Biennial IEEE Conference on Electromagnetic Field Computation Cefc 2006
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/CEFC-06.2006.1632918
+   - **Scopus ID:** 2-s2.0-42749104315
+   - **Pages:** 126
+   - **Authors:** Girdinio P.; Nervi M.; Rossi M.
+   - **Source Id:** 5000158514
+   - **Author Ids:** 7003430835;7003586072;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Girdinio P.
+30.
+   - **Title:** Electromagnetic optimization for UMTS cellular networks
+   - **Venue:** Iceaa 2005 9th International Conference on Electromagnetics in Advanced Applications and Eesc 2005 11th European Electromagnetic Structures Conference
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84875305953
+   - **Pages:** 349-352
+   - **Authors:** Girdinio P.; Nervi M.; Rossi M.; Bianco B.; Moggia E.; Zich R. E.; Valbonesi L.; Mussetta M.
+   - **Source Id:** 21100235608
+   - **Author Ids:** 7003430835;7003586072;7403708681;7005080001;6602458027;7003795629;15842711500;57201889588
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60023256;60023256;60023256
+   - **Corresponding:** Girdinio P.
+31.
+   - **Title:** Technique for computing the response of a line of finite length excited by high frequency electromagnetic fields
+   - **Venue:** IEE Proceedings Science Measurement and Technology
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1049/ip-smt:20020637
+   - **Scopus ID:** 2-s2.0-0036708917
+   - **ISSN:** 13502344
+   - **Volume:** 149
+   - **Issue:** 5
+   - **Pages:** 289-292
+   - **Authors:** Delfino F.; Procopio R.; Rossi M.; Girdinio P.
+   - **Source Id:** 17419
+   - **Author Ids:** 6603766602;7801615894;7403708681;7003430835
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+32.
+   - **Title:** Evaluation of the field coupling to a line of finite length - A comparison between the dual integral equation approach and the moment method
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1109/20.996199
+   - **Scopus ID:** 2-s2.0-0036493587
+   - **ISSN:** 00189464
+   - **Volume:** 38
+   - **Issue:** 2 I
+   - **Pages:** 769-772
+   - **Authors:** Delfino Federico; Procopio Renato; Girdinio Paola; Andreotti Amedeo; Verolino Luigi
+   - **Keywords:** Electromagnetic compatibility | Transmission line modeling
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 6603766602;7801615894;7003430835;35564985300;7003322700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60017293;60017293
+   - **Corresponding:** Delfino F.
+33.
+   - **Title:** An identification procedure for lightning return strokes
+   - **Venue:** Journal of Electrostatics
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 16
+   - **DOI:** 10.1016/S0304-3886(01)00097-3
+   - **Scopus ID:** 2-s2.0-0035334750
+   - **ISSN:** 03043886
+   - **Volume:** 51-52
+   - **Issue:** 1-4
+   - **Pages:** 326-332
+   - **Authors:** Andreotti Amedeo; Delfino Federico; Girdinio Paola; Verolino Luigi
+   - **Keywords:** Electric field | Lightning return stroke model | Recording of lightning
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 420, percentile 57)
+     - Condensed Matter Physics (Q3, rank 237, percentile 46)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 167, percentile 46)
+     - Surfaces, Coatings and Films (Q3, rank 78, percentile 43)
+     - Biotechnology (Q3, rank 181, percentile 43)
+   - **Source Id:** 18041
+   - **Author Ids:** 35564985300;6603766602;7003430835;7003322700
+   - **Authoraffiliationids:** 60017293;60025153;60025153;60017293
+   - **Corresponding:** Andreotti A.
+34.
+   - **Title:** A New Method To Identify Return Stroke Characteristics
+   - **Venue:** 14th International Zurich Symposium and Technical Exhibition on Electromagnetic Compatibility EMC 2001
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EMC.2001.10792006
+   - **Scopus ID:** 2-s2.0-85214902522
+   - **Authors:** Andreotti A.; Delfino F.; De Martinis U.; Girdinio P.; Verolino L.
+   - **Source Id:** 21101269358
+   - **Author Ids:** 35564985300;6603766602;6603552514;7003430835;7003322700
+   - **Authoraffiliationids:** 60017293;60025153;60017293;60025153;60017293
+   - **Corresponding:** Andreotti A.
+35.
+   - **Title:** A field-based inverse algorithm for the identification of different height lightning return strokes
+   - **Venue:** COMPEL the International Journal for Computation and Mathematics in Electrical and Electronic Engineering
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 19
+   - **DOI:** 10.1108/03321640110393716
+   - **Scopus ID:** 2-s2.0-0035787851
+   - **ISSN:** 03321649
+   - **Volume:** 20
+   - **Issue:** 3
+   - **Pages:** 724-731
+   - **Authors:** Andreotti Amedeo; Delfino Federico; Girdinio Paola; Verolino Luigi
+   - **Keywords:** Electromagnetics | Inverse problems
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 262, percentile 61)
+     - Computational Theory and Mathematics (Q2, rank 93, percentile 54)
+     - Electrical and Electronic Engineering (Q2, rank 486, percentile 51)
+     - Computer Science Applications (Q3, rank 541, percentile 44)
+   - **Source Id:** 28454
+   - **Author Ids:** 35564985300;6603766602;7003430835;7003322700
+   - **Authoraffiliationids:** 60017293;60025153;60017293;60025153
+   - **Corresponding:** Andreotti A.
+36.
+   - **Title:** Techniques for the automatic optimisation of active shields
+   - **Venue:** COMPEL the International Journal for Computation and Mathematics in Electrical and Electronic Engineering
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1108/03321640110393734
+   - **Scopus ID:** 2-s2.0-0035787633
+   - **ISSN:** 03321649
+   - **Volume:** 20
+   - **Issue:** 3
+   - **Pages:** 732-739
+   - **Authors:** Girdinio P.; Nervi M.
+   - **Keywords:** Magnetic shielding | Optimization
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 262, percentile 61)
+     - Computational Theory and Mathematics (Q2, rank 93, percentile 54)
+     - Electrical and Electronic Engineering (Q2, rank 486, percentile 51)
+     - Computer Science Applications (Q3, rank 541, percentile 44)
+   - **Source Id:** 28454
+   - **Author Ids:** 7003430835;7003586072
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Girdinio P.
+37.
+   - **Title:** Comparison between analytical and numerical simulations of LF shielding efficiency
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/20.952682
+   - **Scopus ID:** 2-s2.0-0035441307
+   - **ISSN:** 00189464
+   - **Volume:** 37
+   - **Issue:** 5 I
+   - **Pages:** 3648-3652
+   - **Authors:** Bertoni A.; Delfino F.; Girdinio P.; Nervi M.
+   - **Keywords:** Finite element analysis | Magnetic shielding
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 57540253800;6603766602;7003430835;7003586072
+   - **Authoraffiliationids:** 100828146;60025153;60025153;60025153
+   - **Corresponding:** Bertoni A.
+38.
+   - **Title:** Equivalent source methods for 3-D force calculation with nodal and mixed FEM in magnetostatic problems
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1109/20.952561
+   - **Scopus ID:** 2-s2.0-0035440691
+   - **ISSN:** 00189464
+   - **Volume:** 37
+   - **Issue:** 5
+   - **Pages:** 3137-3140
+   - **Authors:** Bobbio Scipione; Alotto Piergiorgio; Delfino Federico; Girdinio Paola; Molfino Paolo
+   - **Keywords:** Finite element method | Force computation | Magnetostatics
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7004127123;35493099300;6603766602;7003430835;7003420937
+   - **Authoraffiliationids:** 60017293;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bobbio S.
+39.
+   - **Title:** Equivalent sources methods for the numerical evaluation of magnetic force with extension to nonlinear materials
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 38
+   - **DOI:** 10.1109/20.877536
+   - **Scopus ID:** 2-s2.0-0034223309
+   - **ISSN:** 00189464
+   - **Volume:** 36
+   - **Issue:** 4 Part 1
+   - **Pages:** 663-666
+   - **Authors:** Bobbio Scipione; Delfino Federico; Girdinio Paola; Molfino Paolo
+   - **Keywords:** Finite element method | Force computation | Magnetos tatics
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7004127123;6603766602;7003430835;7003420937
+   - **Authoraffiliationids:** 60017293-60025153;60017293;60017293;60017293
+   - **Corresponding:** Bobbio S.
+40.
+   - **Title:** Adaptive FEM in 3D nonlinear magnetostatics
+   - **Venue:** COMPEL the International Journal for Computation and Mathematics in Electrical and Electronic Engineering
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1108/03321640010302780
+   - **Scopus ID:** 2-s2.0-0033692202
+   - **ISSN:** 03321649
+   - **Volume:** 19
+   - **Issue:** 1
+   - **Pages:** 39-47
+   - **Authors:** Alotto P.; Castagnini A.; Girdinio P.; Nervi M.
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 262, percentile 61)
+     - Computational Theory and Mathematics (Q2, rank 93, percentile 54)
+     - Electrical and Electronic Engineering (Q2, rank 486, percentile 51)
+     - Computer Science Applications (Q3, rank 541, percentile 44)
+   - **Source Id:** 28454
+   - **Author Ids:** 35493099300;6602386144;7003430835;7003586072
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Alotto P.
+41.
+   - **Title:** Hybrid deterministic/stochastic fuzzy methods for the optimization of electromagnetic devices
+   - **Venue:** COMPEL the International Journal for Computation and Mathematics in Electrical and Electronic Engineering
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1108/03321640010302771
+   - **Scopus ID:** 2-s2.0-0033689279
+   - **ISSN:** 03321649
+   - **Volume:** 19
+   - **Issue:** 1
+   - **Pages:** 30-38
+   - **Authors:** Alotto P.; Girdinio P.; Molinari G.; Nervi M.
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 262, percentile 61)
+     - Computational Theory and Mathematics (Q2, rank 93, percentile 54)
+     - Electrical and Electronic Engineering (Q2, rank 486, percentile 51)
+     - Computer Science Applications (Q3, rank 541, percentile 44)
+   - **Source Id:** 28454
+   - **Author Ids:** 35493099300;7003430835;35496417300;7003586072
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Alotto P.
+42.
+   - **Title:** Adaptive finite element analysis of 2-D static and steady-state electromagnetic problems
+   - **Venue:** International Journal for Numerical Methods in Engineering
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1002/(SICI)1097-0207(19990520)45:2<215::AID-NME590>3.0.CO;2-O
+   - **Scopus ID:** 2-s2.0-0032658892
+   - **ISSN:** 00295981
+   - **Volume:** 45
+   - **Issue:** 2
+   - **Pages:** 215-243
+   - **Authors:** Fernandes P.; Girdinio P.
+   - **Keywords:** 2-D electromagnetic problems | A posteriori error estimation | Adaptive meshing | Computational electomagnetics | h-refinement | Triangular finite elements
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 72, percentile 89)
+     - Numerical Analysis (Q1, rank 11, percentile 88)
+     - Engineering (all) (Q1, rank 66, percentile 81)
+   - **Source Id:** 12336
+   - **Author Ids:** 7102795214;7003430835
+   - **Authoraffiliationids:** 60021199;60025153
+   - **Corresponding:** Fernandes P.
+43.
+   - **Title:** Error estimation and adaptive meshing in 3d electrostatic and magnetostatic problems
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/20.717764
+   - **Scopus ID:** 2-s2.0-33748001663
+   - **ISSN:** 00189464
+   - **Volume:** 34
+   - **Issue:** 5 Part 1
+   - **Pages:** 3256-3259
+   - **Authors:** Alotto P.; Castagnini A.; Girdinio P.
+   - **Keywords:** Electrostatic analysis | Error analysis | Magnetostatics | Unite element methods
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 35493099300;6602386144;7003430835
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Alotto P.
+44.
+   - **Title:** Adaptive meshing in two-variable static problems with field based error estimators using edge and facet elements
+   - **Venue:** Applied Computational Electromagnetics Society Journal
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0031103710
+   - **ISSN:** 10544887
+   - **Volume:** 12
+   - **Issue:** 1
+   - **Pages:** 142-147
+   - **Authors:** Girdinio P.; Molfino P.; Molinari G.; Nervi M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 678, percentile 32)
+     - Astronomy and Astrophysics (Q3, rank 68, percentile 28)
+   - **Source Id:** 13200
+   - **Author Ids:** 7003430835;7003420937;35496417300;7003586072
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Girdinio P.
+45.
+   - **Title:** Time-harmonic mesh adaption with error estimate based on the "Local Field Error" approach
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/20.582610
+   - **Scopus ID:** 2-s2.0-0031095341
+   - **ISSN:** 00189464
+   - **Volume:** 33
+   - **Issue:** 2 Part 2
+   - **Pages:** 1744-1747
+   - **Authors:** Alotto Piergiorgio; Girdinio Paola; Molfino Paolo; Nervi Mario
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 35493099300;7003430835;7003420937;7003586072
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Alotto P.
+46.
+   - **Title:** Non-linear magnetostatic adaption using a "local field error" approach
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/20.497500
+   - **Scopus ID:** 2-s2.0-33747902739
+   - **ISSN:** 00189464
+   - **Volume:** 32
+   - **Issue:** 3 Part 2
+   - **Pages:** 1365-1368
+   - **Authors:** Girdinio Paola
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7003430835
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Girdinio P.
+47.
+   - **Title:** Mesh adaption and optimization techniques in magnet design
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1109/20.511495
+   - **Scopus ID:** 2-s2.0-0030192433
+   - **ISSN:** 00189464
+   - **Volume:** 32
+   - **Issue:** 4 Part 2
+   - **Pages:** 2954-2957
+   - **Authors:** Alotto P.; Girdinio P.; Molfino P.; Nervi M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 35493099300;7003430835;7003420937;7003586072
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Alotto P.
+48.
+   - **Title:** Non-linear magnetostatic adaption using a 'local field error' approach
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/20.497581
+   - **Scopus ID:** 2-s2.0-0030149097
+   - **ISSN:** 00189464
+   - **Volume:** 32
+   - **Issue:** 3 /1
+   - **Pages:** 1305-1368
+   - **Authors:** Girdinio Paola; Molfino Paolo; Nervi Mario; Manella Andrea
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7003430835;7003420937;7003586072;6506810735
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Girdinio P.
+49.
+   - **Title:** Techniques of h-refinement in adaptive meshing algorithms
+   - **Venue:** COMPEL the International Journal for Computation and Mathematics in Electrical and Electronic Engineering
+   - **Year:** 1994
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0028426352
+   - **ISSN:** 03321649
+   - **Volume:** 13
+   - **Issue:** Suppl A
+   - **Pages:** 329-334
+   - **Authors:** Fernandes P.; Girdinio P.; Molinari G.
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 262, percentile 61)
+     - Computational Theory and Mathematics (Q2, rank 93, percentile 54)
+     - Electrical and Electronic Engineering (Q2, rank 486, percentile 51)
+     - Computer Science Applications (Q3, rank 541, percentile 44)
+   - **Source Id:** 28454
+   - **Author Ids:** 7102795214;7003430835;35496417300
+   - **Authoraffiliationids:** 60021199;60021199;60021199
+   - **Corresponding:** Fernandes P.
+50.
+   - **Title:** A Gauged A, V-A-Ψ Formulation Without A·n=0 On Conductor Boundaries
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1994
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1109/20.312562
+   - **Scopus ID:** 2-s2.0-0028515590
+   - **ISSN:** 00189464
+   - **eISSN:** 19410069
+   - **Volume:** 30
+   - **Issue:** 5
+   - **Pages:** 2976-2979
+   - **Authors:** Drago G.; Girdinio P.; Molfino P.; Nervi M.; Orlando R. A.; Sabbi G. L.; Secondo G.; Fernandes P.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 14053918700;7003430835;7003420937;7003586072;7201631894;35448622000;6603592830;7102795214
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60015860
+   - **Corresponding:** Drago G.
+51.
+   - **Title:** Finite Element Modelling of Charged Beams
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1994
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1109/20.312551
+   - **Scopus ID:** 2-s2.0-0028515076
+   - **ISSN:** 00189464
+   - **eISSN:** 19410069
+   - **Volume:** 30
+   - **Issue:** 5
+   - **Pages:** 2932-2935
+   - **Authors:** Girdinio P.; Repetto M.; Simkin J.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7003430835;7102465243;7003370002
+   - **Authoraffiliationids:** 60025153;60012162;115666247
+   - **Corresponding:** Girdinio P.
+52.
+   - **Title:** Refinement Strategies in Adaptive Meshing
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1992
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1109/20.124040
+   - **Scopus ID:** 2-s2.0-0026827135
+   - **ISSN:** 00189464
+   - **eISSN:** 19410069
+   - **Volume:** 28
+   - **Issue:** 2
+   - **Pages:** 1739-1742
+   - **Authors:** Fernandes P.; Girdinio P.; Repetto M.; Secondo G.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7102795214;7003430835;7102465243;6603592830
+   - **Authoraffiliationids:** 60021199;60025153;60025153;60025153
+   - **Corresponding:** Fernandes P.
+53.
+   - **Title:** A Flexible Environment for an Efficient Exploitation of Vector Features in Electric and Magnetic Analysis
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1992
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/20.124042
+   - **Scopus ID:** 2-s2.0-0026822570
+   - **ISSN:** 00189464
+   - **eISSN:** 19410069
+   - **Volume:** 28
+   - **Issue:** 2
+   - **Pages:** 1747-1750
+   - **Authors:** Fernandes P.; Girdinio P.; Molinari G.; Fitzsimons C. J.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7102795214;7003430835;35496417300;6701531377
+   - **Authoraffiliationids:** 60021199;60025153;60025153;60023254
+   - **Corresponding:** Fernandes P.
+54.
+   - **Title:** An evaluation of speedup in conjugate gradient routines with a mathematical vector library
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1991
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/20.105031
+   - **Scopus ID:** 2-s2.0-0026226043
+   - **ISSN:** 00189464
+   - **eISSN:** 19410069
+   - **Volume:** 27
+   - **Issue:** 5
+   - **Pages:** 4214-4216
+   - **Authors:** Fernandes P.; Fitzsimons C. J.; Girdinio P.; Molinari G.; Rolando C.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7102795214;6701531377;7003430835;35496417300;7006216101
+   - **Authoraffiliationids:** 60021199;60011149;60025153;60025153;60021199
+   - **Corresponding:** Fernandes P.
+55.
+   - **Title:** Local error estimation procedures as refinement indicators in adaptive meshing
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1991
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1109/20.105025
+   - **Scopus ID:** 2-s2.0-0026225272
+   - **ISSN:** 00189464
+   - **eISSN:** 19410069
+   - **Volume:** 27
+   - **Issue:** 5
+   - **Pages:** 4189-4192
+   - **Authors:** Fernandes P.; Girdinio P.; Molinari G.; Repetto M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7102795214;7003430835;35496417300;7102465243
+   - **Authoraffiliationids:** 60021199;60025153;60025153;60025153
+   - **Corresponding:** Fernandes P.
+56.
+   - **Title:** Towards an environment for the integration of analysis and design
+   - **Venue:** Computer Integrated Manufacturing Systems
+   - **Year:** 1990
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1016/0951-5240(90)90061-I
+   - **Scopus ID:** 2-s2.0-3142536883
+   - **ISSN:** 09515240
+   - **Volume:** 3
+   - **Issue:** 4
+   - **Pages:** 216-222
+   - **Authors:** Emson C.; Trowbridge C. W.; Girdinio P.; Molinari G.; Repetto M.
+   - **Keywords:** computer-aided analysis | computer-aided design | computer-aided engineering | optimization | simulation techniques
+   - **Source Id:** 36219
+   - **Author Ids:** 7003732770;57211832355;7003430835;35496417300;7102465243
+   - **Authoraffiliationids:** 100312555;100312555;100312555-60025153;100312555-60025153;100312555-60025153
+   - **Corresponding:** Emson C.
+57.
+   - **Title:** An Enhanced Error Estimator Procedure for Finite Element Field Computation with Adaptive Mesh Refinement
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1990
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1109/20.104664
+   - **Scopus ID:** 2-s2.0-0025493798
+   - **ISSN:** 00189464
+   - **eISSN:** 19410069
+   - **Volume:** 26
+   - **Issue:** 5
+   - **Pages:** 2187-2189
+   - **Authors:** Fernandes P.; Girdinio P.; Molfino P.; Repetto M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7102795214;7003430835;7003420937;7102465243
+   - **Authoraffiliationids:** 60021199;60025153;60025153;60025153
+   - **Corresponding:** Fernandes P.
+58.
+   - **Title:** A comparison of adaptive strategies for mesh refinement based on “a posteriori” local error estimation procedures
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1990
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 30
+   - **DOI:** 10.1109/20.106437
+   - **Scopus ID:** 2-s2.0-0025401631
+   - **ISSN:** 00189464
+   - **eISSN:** 19410069
+   - **Volume:** 26
+   - **Issue:** 2
+   - **Pages:** 795-798
+   - **Authors:** Fernandes P.; Girdinio P.; Molfino P.; Molinari G.; Repetto M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7102795214;7003430835;7003420937;35496417300;7102465243
+   - **Authoraffiliationids:** 60021199;60025153;60025153;60025153;60025153
+   - **Corresponding:** Fernandes P.
+59.
+   - **Title:** Trends in computer hardware and software for computer aided design applications
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1990
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/20.106429
+   - **Scopus ID:** 2-s2.0-0025401304
+   - **ISSN:** 00189464
+   - **eISSN:** 19410069
+   - **Volume:** 26
+   - **Issue:** 2
+   - **Pages:** 761-766
+   - **Authors:** Girdinio Paola; Molinari Giorgio; Ridella Sandro
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7003430835;35496417300;7006643280
+   - **Authoraffiliationids:** 60025153;60025153;60021199
+   - **Corresponding:** Girdinio P.
+60.
+   - **Title:** Integrating analysis and design.
+   - **Venue:** undefined
+   - **Year:** 1989
+   - **Type:** Book
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85040960262
+   - **Authors:** Emson C.; Trowbridge C. W.; Freeman E. M.; Girdinio P.; Molinari G.; Repetto M.
+   - **Author Ids:** 7003732770;57211832355;7202913367;7003430835;35496417300;7102465243
+   - **Corresponding:** Emson C.
+61.
+   - **Title:** A new storage scheme for an efficient implementation of the sparse matrix-vector product
+   - **Venue:** Parallel Computing
+   - **Year:** 1989
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1016/0167-8191(89)90090-2
+   - **Scopus ID:** 2-s2.0-0024929915
+   - **ISSN:** 01678191
+   - **Volume:** 12
+   - **Issue:** 3
+   - **Pages:** 327-333
+   - **Authors:** Fernandes P.; Girdinio P.
+   - **Keywords:** Linear algebra | performance measurements | programming techniques | vector computer
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q1, rank 32, percentile 76)
+     - Computer Graphics and Computer-Aided Design (Q2, rank 35, percentile 73)
+     - Computer Networks and Communications (Q2, rank 151, percentile 72)
+     - Software (Q2, rank 165, percentile 67)
+     - Hardware and Architecture (Q2, rank 78, percentile 66)
+     - Artificial Intelligence (Q2, rank 171, percentile 65)
+   - **Source Id:** 26138
+   - **Author Ids:** 7102795214;7003430835
+   - **Authoraffiliationids:** 60021199;60025153
+   - **Corresponding:** Fernandes P.
+62.
+   - **Title:** Effect of Streamer Shape and Dimensions on Local Electric Field Conditions
+   - **Venue:** IEEE Transactions on Electrical Insulation
+   - **Year:** 1988
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1109/14.7339
+   - **Scopus ID:** 2-s2.0-0024054825
+   - **ISSN:** 00189367
+   - **Volume:** 23
+   - **Issue:** 4
+   - **Pages:** 669-676
+   - **Authors:** Girdinio P.; Molfino P.; Molinari G.; Viviani A.; FitzPatrick G. J.; Forster E. O.
+   - **Source Id:** 34833
+   - **Author Ids:** 7003430835;7003420937;35496417300;7005669885;7102384469;7102916125
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60153573;60000473
+   - **Corresponding:** Girdinio P.
+63.
+   - **Title:** Numerical Computation of Fields in Electrostatic Devices: Experience and Applications
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 1988
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1109/28.2887
+   - **Scopus ID:** 2-s2.0-0023830556
+   - **ISSN:** 00939994
+   - **eISSN:** 19399367
+   - **Volume:** 24
+   - **Issue:** 3
+   - **Pages:** 395-401
+   - **Authors:** Girdinio Paola; Molfino Paolo; Molinari Giorgio G.; Viviani Alessandro F.
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+   - **Source Id:** 17361
+   - **Author Ids:** 7003430835;7003420937;35496417300;7005669885
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Girdinio P.
+64.
+   - **Title:** Local error estimates for adaptive mesh refinement
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1988
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 30
+   - **DOI:** 10.1109/20.43916
+   - **Scopus ID:** 2-s2.0-0023166130
+   - **ISSN:** 00189464
+   - **eISSN:** 19410069
+   - **Volume:** 24
+   - **Issue:** 1
+   - **Pages:** 299-302
+   - **Authors:** Fernandes P.; Girdinio P.; Molfino P.; Repetto M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7102795214;7003430835;7003420937;7102465243
+   - **Authoraffiliationids:** 60021199;60025153;60025153;60025153
+   - **Corresponding:** Fernandes P.
+65.
+   - **Title:** Effect Of Streamer Shape And Dimensions On Local Electric Field Conditions.
+   - **Venue:** undefined
+   - **Year:** 1987
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0023569506
+   - **Pages:** 311-317
+   - **Authors:** Girdinio P.; Molfino P.; Molinari G.; Viviani A.; FitzPatrick G. J.; Forster E. O.
+   - **Source Id:** 130369
+   - **Author Ids:** 7003430835;7003420937;35496417300;7005669885;7102384469;7102916125
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Girdinio P.
+66.
+   - **Title:** The versatility of a multiformulational approach in the solution of electromagnetic field problems (invited)
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1987
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/TMAG.1987.1065458
+   - **Scopus ID:** 2-s2.0-0023418258
+   - **ISSN:** 00189464
+   - **eISSN:** 19410069
+   - **Volume:** 23
+   - **Issue:** 5
+   - **Pages:** 3284-3289
+   - **Authors:** Girdinio P.; Molfino P.; Molinari G.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7003430835;7003420937;35496417300
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Girdinio P.
+67.
+   - **Title:** Numerical Computation Of Fields In Electrostatic Devices: Experience And Applications.
+   - **Venue:** Conference Record IAS Annual Meeting IEEE Industry Applications Society
+   - **Year:** 1986
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0022910770
+   - **ISSN:** 01972618
+   - **Pages:** 1316-1321
+   - **Authors:** Girdinio P.; Molfino P.; Molinari Giorgi G.; Viviani A.
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 312, percentile 23)
+     - Electrical and Electronic Engineering (Q4, rank 804, percentile 19)
+     - Control and Systems Engineering (Q4, rank 332, percentile 12)
+   - **Source Id:** 17898
+   - **Author Ids:** 7003430835;7003420937;35496417300;7005669885
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Girdinio P.
+68.
+   - **Title:** A generalized finite element discretization procedure allowing the definition of the problem to be solved by input data
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1985
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/TMAG.1985.1064232
+   - **Scopus ID:** 2-s2.0-0022159034
+   - **ISSN:** 00189464
+   - **eISSN:** 19410069
+   - **Volume:** 21
+   - **Issue:** 6
+   - **Pages:** 2515-2518
+   - **Authors:** Girdinio P.; Molfino P.; Molinari G.; Viviani A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7003430835;7003420937;35496417300;7005669885
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Girdinio P.
+69.
+   - **Title:** Parameter identification for a model of impurity particle motion in a dielectric fluid
+   - **Venue:** IEEE Transactions on Electrical Insulation
+   - **Year:** 1985
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/TEI.1985.348859
+   - **Scopus ID:** 2-s2.0-0022058815
+   - **ISSN:** 00189367
+   - **Volume:** EI-20
+   - **Issue:** 2
+   - **Pages:** 389-393
+   - **Authors:** Bozzo R.; Girdinio P.; Lazzeri F.; Viviani A.
+   - **Source Id:** 34833
+   - **Author Ids:** 7006475772;7003430835;6507703837;7005669885
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+70.
+   - **Title:** A new class of uniform-field electrodes for dielectric strength tests in liquids
+   - **Venue:** IEEE Transactions on Electrical Insulation
+   - **Year:** 1985
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1109/TEI.1985.348836
+   - **Scopus ID:** 2-s2.0-0022058228
+   - **ISSN:** 00189367
+   - **Volume:** EI-20
+   - **Issue:** 2
+   - **Pages:** 309-314
+   - **Authors:** Girdinio P.; Liberti G.; Molfino P.; Molinari G.; Viviani A.
+   - **Source Id:** 34833
+   - **Author Ids:** 7003430835;7004149764;7003420937;35496417300;7005669885
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Girdinio P.
+71.
+   - **Title:** Some Thermo-Electromagnetic Applications To Fusion Technology Of A General Purpose Cad Package.
+   - **Venue:** undefined
+   - **Year:** 1984
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0021648434
+   - **Volume:** 2
+   - **Pages:** 1565-1570
+   - **Authors:** Girdinio P.; Molfino P.; Molinari G.; Raia G.; Rosatelli F.; Viviani A.
+   - **Source Id:** 130818
+   - **Author Ids:** 7003430835;7003420937;35496417300;6701564797;6603150338;7005669885
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Girdinio P.
+72.
+   - **Title:** Parameter Identification For A Model Of Impurity Particle Motion In A Dielectric Fluid By Means Of Computer-Aided Analysis Of Experimental Data.
+   - **Venue:** undefined
+   - **Year:** 1984
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0021566296
+   - **Pages:** 356-360
+   - **Authors:** Bozzo R.; Girdinio P.; Lazzeri F.; Viviani A.
+   - **Source Id:** 137673
+   - **Author Ids:** 7006475772;7003430835;6507703837;7005669885
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+73.
+   - **Title:** New Class Of Uniform Field Electrodes For Dielectric Strength Tests In Dielectric Liquids.
+   - **Venue:** undefined
+   - **Year:** 1984
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0021549634
+   - **Pages:** 225-229
+   - **Authors:** Girdinio P.; Liberti G.; Molfino P.; Molinari G.; Viviani A.
+   - **Source Id:** 137673
+   - **Author Ids:** 7003430835;7004149764;7003420937;35496417300;7005669885
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Girdinio P.
+74.
+   - **Title:** Theoretical and Experimental Study of the Two-Harmonic Reluctance Machine – A New Class of Variable Speed Device
+   - **Venue:** IEEE Power Engineering Review
+   - **Year:** 1984
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/MPER.1984.5526113
+   - **Scopus ID:** 2-s2.0-84944482263
+   - **ISSN:** 02721724
+   - **Volume:** PER-4
+   - **Issue:** 6
+   - **Pages:** 53
+   - **Authors:** Girdinio P.; Mazzucchelli M.; Molfino P.; Sciutto G.; Viviani A.
+   - **Source Id:** 65386
+   - **Author Ids:** 7003430835;15623683200;7003420937;7003892246;7005669885
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Girdinio P.
+75.
+   - **Title:** Theoretical and experimental study of the two-harmonic reluctance machine, a new class of variable speed device
+   - **Venue:** IEEE Transactions on Power Apparatus and Systems
+   - **Year:** 1984
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/TPAS.1984.318475
+   - **Scopus ID:** 2-s2.0-0021439216
+   - **ISSN:** 00189510
+   - **Volume:** PAS-103
+   - **Issue:** 6
+   - **Pages:** 1394-1400
+   - **Authors:** Girdinio P.; Mazzucchelli M.; Molfino P.; Sciutto G.; Viviani A.
+   - **Source Id:** 30904
+   - **Author Ids:** 7003430835;15623683200;7003420937;7003892246;7005669885
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Girdinio P.
+76.
+   - **Title:** Theoretical And Experimental Study Of The Two-Harmonic Reluctance Machine, A New Class Of Variable Speed Device.
+   - **Venue:** undefined
+   - **Year:** 1983
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0020867183
+   - **Authors:** Girdinio Paola; Mazzucchelli Maurizio; Molfino Paolo; Sciutto Guiseppe; Viviani Alessandro
+   - **Source Id:** 137769
+   - **Author Ids:** 7003430835;15623683200;7003420937;7003892246;7005669885
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Girdinio P.
+77.
+   - **Title:** Theoretical And Experimental Study Of The Two-Harmonic Reluctance Machine, A New Class Of Variable Speed Device.
+   - **Venue:** undefined
+   - **Year:** 1983
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0020864580
+   - **Authors:** Girdinio Paola; Mazzucchelli Maurizio; Molfino Paolo; Sciutto Guiseppe; Viviani Alessandro
+   - **Source Id:** 137769
+   - **Author Ids:** 7003430835;15623683200;7003420937;7003892246;7005669885
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Girdinio P.
+78.
+   - **Title:** Finite difference and finite element discretization procedures with improved continuity of interpolation functions
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1983
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1109/TMAG.1983.1062890
+   - **Scopus ID:** 2-s2.0-0020847131
+   - **ISSN:** 00189464
+   - **eISSN:** 19410069
+   - **Volume:** 19
+   - **Issue:** 6
+   - **Pages:** 2558-2561
+   - **Authors:** Girdinio P.; Molfino P.; Molinari G.; Puglisi L.; Viviani A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7003430835;7003420937;35496417300;7006443886;7005669885
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Girdinio P.
+79.
+   - **Title:** Finite difference and finite element grid optimization by the grid iteration method
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1983
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1109/TMAG.1983.1062894
+   - **Scopus ID:** 2-s2.0-0020844559
+   - **ISSN:** 00189464
+   - **eISSN:** 19410069
+   - **Volume:** 19
+   - **Issue:** 6
+   - **Pages:** 2543-2546
+   - **Authors:** Girdinio P.; Molfino P.; Molinari G.; Puglisi L.; Viviani A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7003430835;7003420937;35496417300;7006443886;7005669885
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Girdinio P.
+80.
+   - **Title:** A package for computer aided design for power electrical engineering
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1983
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1109/TMAG.1983.1062824
+   - **Scopus ID:** 2-s2.0-0020844558
+   - **ISSN:** 00189464
+   - **eISSN:** 19410069
+   - **Volume:** 19
+   - **Issue:** 6
+   - **Pages:** 2659-2662
+   - **Authors:** Girdinio P.; Molfino P.; Molinari G.; Viviani A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7003430835;7003420937;35496417300;7005669885
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Girdinio P.
+81.
+   - **Title:** System For Computer-Aided Theoretical And Experimental Analysis Of Impurity Particle Motion In Dielectric Liquids.
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 1982
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0019934525
+   - **ISSN:** 01642006
+   - **Pages:** 141-144
+   - **Authors:** Bozzo R.; Calci G.; Girdinio P.; Molfino P.; Molinari G.; Viviani A.
+   - **Source Id:** 17273
+   - **Author Ids:** 7006475772;7801425064;7003430835;7003420937;35496417300;7005669885
+   - **Corresponding:** Bozzo R.
+82.
+   - **Title:** Statistical Investigation On The Breakdown Strength Of Liquid Helium With Iec And Cynlindrical Electrodes.
+   - **Venue:** Conference Record of IEEE International Symposium on Electrical Insulation
+   - **Year:** 1982
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0019913762
+   - **ISSN:** 01642006
+   - **Pages:** 272-275
+   - **Authors:** Girdinio P.; Liberti G.; Molfino P.; Molinari G.
+   - **Source Id:** 17273
+   - **Author Ids:** 7003430835;7004149764;7003420937;35496417300
+   - **Corresponding:** Girdinio P.
+83.
+   - **Title:** Some data on the AC breakdown strength of liquid helium in the millimetre gap range
+   - **Venue:** Journal of Electrostatics
+   - **Year:** 1982
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1016/0304-3886(82)90096-1
+   - **Scopus ID:** 2-s2.0-0019550859
+   - **ISSN:** 03043886
+   - **Volume:** 12
+   - **Issue:** C
+   - **Pages:** 297-304
+   - **Authors:** Colletti G.; Girdinio P.; Liberti G.; Molinari G.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 420, percentile 57)
+     - Condensed Matter Physics (Q3, rank 237, percentile 46)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 167, percentile 46)
+     - Surfaces, Coatings and Films (Q3, rank 78, percentile 43)
+     - Biotechnology (Q3, rank 181, percentile 43)
+   - **Source Id:** 18041
+   - **Author Ids:** 24517605400;7003430835;7004149764;35496417300
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Colletti G.
+84.
+   - **Title:** First results of computer aided identification of model parameters for field-enhanced impurity motion in dielectric liquids
+   - **Venue:** Journal of Electrostatics
+   - **Year:** 1982
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1016/0304-3886(82)90122-X
+   - **Scopus ID:** 2-s2.0-0019550834
+   - **ISSN:** 03043886
+   - **Volume:** 12
+   - **Issue:** C
+   - **Pages:** 547-552
+   - **Authors:** Bozzo R.; Calci G.; Girdinio P.; Molfino P.; Viviani A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 420, percentile 57)
+     - Condensed Matter Physics (Q3, rank 237, percentile 46)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 167, percentile 46)
+     - Surfaces, Coatings and Films (Q3, rank 78, percentile 43)
+     - Biotechnology (Q3, rank 181, percentile 43)
+   - **Source Id:** 18041
+   - **Author Ids:** 7006475772;7801425064;7003430835;7003420937;7005669885
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+85.
+   - **Title:** A statistical analysis of the AC dielectric strength of liquid nitrogen with IEC spherical electrodes under controlled conditions
+   - **Venue:** Journal of Electrostatics
+   - **Year:** 1982
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1016/0304-3886(82)90098-5
+   - **Scopus ID:** 2-s2.0-0019549828
+   - **ISSN:** 03043886
+   - **Volume:** 12
+   - **Issue:** C
+   - **Pages:** 315-322
+   - **Authors:** Delucchi M.; Girdinio P.; Liberti G.; Molinari G.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 420, percentile 57)
+     - Condensed Matter Physics (Q3, rank 237, percentile 46)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 167, percentile 46)
+     - Surfaces, Coatings and Films (Q3, rank 78, percentile 43)
+     - Biotechnology (Q3, rank 181, percentile 43)
+   - **Source Id:** 18041
+   - **Author Ids:** 7003402288;7003430835;7004149764;35496417300
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Delucchi M.
+86.
+   - **Title:** A computer approach to the nonlinear hysteretic problem of electromagnetic field computation in hard superconductors for loss evaluation
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 1982
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1109/TMAG.1982.1061850
+   - **Scopus ID:** 2-s2.0-0019540915
+   - **ISSN:** 00189464
+   - **eISSN:** 19410069
+   - **Volume:** 18
+   - **Issue:** 2
+   - **Pages:** 567-572
+   - **Authors:** Denegri G. B.; Girdinio P.; Molfino P.; Viviani A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7004649825;7003430835;7003420937;7005669885
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Denegri G.
+87.
+   - **Title:** Statistical Analysis Of The Ac Dielectric Strength Of Liquid Nitrogen With Iec Spherical Electrodes Under Controlled Conditions.
+   - **Venue:** undefined
+   - **Year:** 1981
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0019683936
+   - **Pages:** 231-235
+   - **Authors:** Delucchi M.; Girdinio P.; Liberti G.; Molinari G.
+   - **Source Id:** 139068
+   - **Author Ids:** 7003402288;7003430835;7004149764;35496417300
+   - **Corresponding:** Delucchi M.
+88.
+   - **Title:** Some Data On The Ac Breakdown Strength Of Liquid Helium In The Millimeter Gap Range.
+   - **Venue:** undefined
+   - **Year:** 1981
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0019665129
+   - **Pages:** 221-225
+   - **Authors:** Coletti G.; Girdinio P.; Liberti G.; Molinari G.
+   - **Source Id:** 139068
+   - **Author Ids:** 7007111656;7003430835;7004149764;35496417300
+   - **Corresponding:** Coletti G.
+89.
+   - **Title:** First Results Of Computer Aided Identification Of Model Parameters For Field-Enhanced Impurity Motion In Dielectric Liquids.
+   - **Venue:** undefined
+   - **Year:** 1981
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0019659207
+   - **Pages:** 404-408
+   - **Authors:** Bozzo R.; Calci G.; Girdinio P.; Molfino P.; Viviani A.
+   - **Source Id:** 139068
+   - **Author Ids:** 7006475772;7801425064;7003430835;7003420937;7005669885
+   - **Corresponding:** Bozzo R.

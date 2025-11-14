@@ -1,0 +1,4018 @@
+{
+  "surname": "Passalacqua",
+  "name": "Massimiliano",
+  "unit": "ELE",
+  "email": "massimiliano.passalacqua@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/UkNOX1hu",
+  "website": "",
+  "unige_id": "709427",
+  "scopus_id": "57195070159",
+  "role": "Ricercatore",
+  "grade": "Ricercatore t.d. art. 24 c. 3 lett. A Legge 240/10 (t.pieno)",
+  "ssd": "IIND-08/A (Convertitori, macchine e azionamenti elettrici)",
+  "location": [
+    {
+      "building": "Opera Pia - padiglione D (ED_161450401)",
+      "floor": "1° piano",
+      "room": "US_161450401.I.027"
+    }
+  ],
+  "career": [
+    {
+      "role": "DR",
+      "from": "2017-11-01 00:00:00.0000000",
+      "to": "2020-12-31 00:00:00.0000000"
+    },
+    {
+      "role": "CB",
+      "from": "2019-04-05 00:00:00.0000000",
+      "to": "2021-09-30 00:00:00.0000000"
+    },
+    {
+      "role": "AR",
+      "from": "2021-01-04 00:00:00.0000000",
+      "to": "2022-01-31 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2022-02-01 00:00:00.0000000",
+      "to": "2028-01-31 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {
+    "2025": [
+      {
+        "course": "VEICOLI ELETTRICI, IBRIDI E MOBILITÀ SOSTENIBILE (106719)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      }
+    ],
+    "2024": [
+      {
+        "course": "VEICOLI ELETTRICI, IBRIDI E MOBILITÀ SOSTENIBILE (106719)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "AZIONAMENTI ELETTRICI (72307)",
+        "degree": "L-9 - INGEGNERIA MECCANICA"
+      },
+      {
+        "course": "AZIONAMENTI ELETTRICI (72307)",
+        "degree": "L-9 - INGEGNERIA MECCANICA"
+      }
+    ],
+    "2023": [
+      {
+        "course": "AZIONAMENTI ELETTRICI (72307)",
+        "degree": "L-9 - INGEGNERIA MECCANICA"
+      },
+      {
+        "course": "AZIONAMENTI ELETTRICI (72307)",
+        "degree": "L-9 - INGEGNERIA MECCANICA"
+      },
+      {
+        "course": "ELEMENTI DI MACCHINE ELETTRICHE (107823)",
+        "degree": "L-P03 - TECNOLOGIE INDUSTRIALI"
+      },
+      {
+        "course": "ELEMENTI DI CONVERSIONE STATICA DELL'ENERGIA (107824)",
+        "degree": "L-P03 - TECNOLOGIE INDUSTRIALI"
+      }
+    ],
+    "2022": [
+      {
+        "course": "AZIONAMENTI ELETTRICI (72307)",
+        "degree": "L-9 - INGEGNERIA MECCANICA"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 14,
+      "total_products": 52,
+      "journals": 31,
+      "conferences": 21,
+      "citations": 426,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 14,
+      "total_products": 52,
+      "journals": 31,
+      "conferences": 21,
+      "citations": 426,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 14,
+      "total_products": 52,
+      "journals": 31,
+      "conferences": 21,
+      "citations": 426,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 9,
+      "total_products": 37,
+      "journals": 23,
+      "conferences": 14,
+      "citations": 225,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-105004856805",
+      "title": "Efficiency Performance of 7-Level Multiplexed and 3-Level Neutral Point Clamped (NPC) Converters",
+      "doi": "10.3390/en18092161",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "18",
+      "issue_id": "9",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Hussain Shafquat; Cosso Simone; Passalacqua Massimiliano; Vaccaro Luis Ramon; Formentini Andrea; Marchesoni Mario",
+      "author_ids": "57225936087;57324695200;57195070159;21935399500;55370605300;6701827441",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Hussain S.",
+      "keywords": "balancing of flying capacitors | conduction losses | efficiency | multiplexed multilevel converter | neutral point clamped converter | switching losses | three phase",
+      "abstract": "In medium-voltage AC applications, multilevel converters are essential due to their ability to achieve high efficiency and significantly reduce total harmonic distortion (THD), ensuring improved performance and power quality. This paper presents a detailed analysis of the efficiency, power loss, and THD characteristics of multiplexed multilevel converters and neutral point clamped converters. Using MATLAB<sup>®</sup>Simulink 2024b, the switching and conduction losses of both multiplexed multilevel converters and NPC converters are calculated. The three-level NPC converter offers advantages of a simpler design, reduced component count, and cost effectiveness with the drawback of low voltage quality. Simulation results validate the THD, power losses, and efficiency for the conventional three-phase three-level NPC converter and the three-phase multiplexed multilevel converter, and a detailed comparison is performed.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85207857965",
+      "title": "Synchronous DTC for torque sub-harmonic reduction in low switching frequency induction motor drives",
+      "doi": "10.1016/j.conengprac.2024.106133",
+      "venue": "Control Engineering Practice",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "154",
+      "issue_id": null,
+      "pages": null,
+      "issn": "09670661",
+      "eIssn": null,
+      "source_id": "18174",
+      "authors": "Benevieri A.; Marchesoni M.; Passalacqua M.; Pozzobon P.; Vaccaro L.",
+      "author_ids": "57226763007;6701827441;57195070159;6601994662;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Benevieri A.",
+      "keywords": "DTC | High power | Induction motor | Low frequency ripple torque | Synchronous modulation",
+      "abstract": "A direct torque control (DTC) algorithm with synchronous modulation for high-power induction motors is presented in this paper. While maintaining the dynamic response and robustness of a PI-based DTC operating in the stationary reference frame, the proposed scheme is able to keep an integer PWM modulation ratio, adjusting the stator flux angle and the switching period at each control step so that the synchronicity condition is always satisfied. In this way, it is possible to achieve an improvement of the very low-frequency harmonic spectrum of the torque, in particular by reducing torque sub-harmonics. These represent one of the main problems associated with low-frequency modulation typical of high-power drives and their reduction allows to avoid drawbacks such as resonance and mechanical stresses. The performance of the proposed algorithm is evaluated with experimental tests on a small-scale test bench.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Applied Mathematics",
+              "percentile": 95,
+              "rank": 28,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 85,
+              "rank": 143,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 84,
+              "rank": 58,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 82,
+              "rank": 171,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85199493229",
+      "title": "Sensorless Control of Medium Voltage Induction Motor With LC Filter and Long Cable in Oil Pump Applications",
+      "doi": "10.1109/TEC.2024.3433590",
+      "venue": "IEEE Transactions on Energy Conversion",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "40",
+      "issue_id": "1",
+      "pages": "3-15",
+      "issn": "08858969",
+      "eIssn": "15580059",
+      "source_id": "28824",
+      "authors": "Carbone Lorenzo; Marchesoni Mario; Passalacqua Massimiliano; Postiglione Gianluca; Vaccaro Luis; Vitaloni Carlo",
+      "author_ids": "57324886200;6701827441;57195070159;15623703800;21935399500;59233388900",
+      "authorAffiliationIds": "60025153;60025153;60025153;132274478;60025153;132274478",
+      "corresponding": "Carbone L.",
+      "keywords": "induction motor | luenberger observer | Medium voltage (MV) | oil pump application | sensorless control",
+      "abstract": "A medium voltage induction motor drive for a submarine oil pump is considered in this paper. In the considered application, the inverter is located on the oil platform, whereas the submersible oil pump is located under the sea and it is supplied with a 20-km long cable. Moreover, an LC filter is located at the inverter output on the platform. In addition, since all the motor sensors should be maintained with submarine robots, stator voltage, stator current and rotor speed sensors are not installed on the motor for reliability reasons. In this study, a new sensorless control is developed. The proposed control integrates a voltage drop compensation and a stator voltage-current estimation into a sensorless control based on a Luenberger Observer. The effectiveness of the proposed control is proved by experimental tests on a low voltage motor, on a 6.6 kV-710 kW motor and on a 2.1 MW-10.5 kV motor.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 93,
+              "rank": 62,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 90,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105018374326",
+      "title": "A Fast Model-Based Control for a Double-Input Three-Switch Bidirectional DC-DC Converter",
+      "doi": "10.1109/TIA.2025.3618221",
+      "venue": "IEEE Transactions on Industry Applications",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "00939994",
+      "eIssn": "19399367",
+      "source_id": "17361",
+      "authors": "Benevieri A.; Passalacqua M.; Formentini A.; Vaccaro L.; Marchesoni M.",
+      "author_ids": "57226763007;57195070159;55370605300;21935399500;6701827441",
+      "authorAffiliationIds": null,
+      "corresponding": "Benevieri A.",
+      "keywords": null,
+      "abstract": "This article presents a new Model-Based Control approach for a bidirectional double-input DC-DC boost converter with three controllable switches. The converter is designed to interface renewable energy sources and electric storages like supercapacitors or batteries, particularly in electric or hybrid vehicles and distributed generation systems. The proposed algorithm, first introduced in [1], calculates optimal duty cycles for the switches based on target conditions derived from reference values of source currents, achieving precise and fast response. Moreover, Discontinuous Conduction Mode (DCM) is exploited at low current levels, to increase efficiency. Experimental tests on a laboratory prototype demonstrate the algorithm's effectiveness and robustness to parametric uncertainties, as well as its superiority over a traditional PI-based method in terms of dynamic response.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 90,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 89,
+              "rank": 102,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 88,
+              "rank": 49,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105016628730",
+      "title": "Hybrid Energy Storage Systems for Plug-in Fuel Cell Electric Vehicle",
+      "doi": "10.1109/ICCEP65222.2025.11143723",
+      "venue": "2025 International Conference on Clean Electrical Power Iccep 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": "823-829",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101333300",
+      "authors": "Cosso Simone; Benevieri Alessandro; Passalacqua Massimiliano; Vaccaro Luis; Formentini Andrea; Marchesoni Mario",
+      "author_ids": "57324695200;57226763007;57195070159;21935399500;55370605300;6701827441",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Cosso S.",
+      "keywords": "Battery systems | DC-DC converters | EVs | FCEVs | Supercapacitors",
+      "abstract": "Fuel cell electric vehicles (FCEVs) always incorporate a battery system to handle transient loads and recover braking energy. However, hybrid configurations, such as those integrating supercapacitor systems, are nowadays widely studied due to their potential to enhance efficiency, driving performance, and component lifespan. Supercapacitors offer significantly higher power density than batteries, making them valuable for FCEVs adoption. In this paper the use of battery and supercapacitors in a FCEV is investigated and the resulting energy consumption is compared under real road conditions. In addition, experimental tests have been carried out on Li-NMC battery cells and simulation tests have been conducted to validate the presented analysis.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85211943269",
+      "title": "Advances and Perspectives in Multilevel Converters: A Comprehensive Review",
+      "doi": "10.3390/electronics13234736",
+      "venue": "Electronics Switzerland",
+      "type": "Journal",
+      "sub_type": "Review",
+      "year": 2024,
+      "volume": "13",
+      "issue_id": "23",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20799292",
+      "source_id": "21100829272",
+      "authors": "Benevieri Alessandro; Cosso Simone; Formentini Andrea; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "57226763007;57324695200;55370605300;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Benevieri A.",
+      "keywords": "high-power applications | medium-voltage drives | modulation | multilevel converters (MLCs) | power converters | power electronics | topologies | voltage source inverter (VSI)",
+      "abstract": "In contemporary power electronics, multilevel converters stand at the forefront of high-power, high-voltage applications, offering superior performance in terms of efficiency, reduced harmonics, and improved voltage waveform quality compared to traditional two-level converters. Their capability to synthesize waveforms with multiple voltage levels has garnered significant attention across various industrial sectors, including renewable energy systems, electric vehicles, and high-voltage power transmissions. This paper provides a comprehensive overview of multilevel converter technology, encompassing their classification, main topologies, recent advancements, and emerging trends. By exploring the evolution of multilevel converter technology and identifying future research directions, researchers and engineers can gain valuable insights into the design, optimization, and application of these advanced power electronic systems.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 81,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 78,
+              "rank": 220,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 76,
+              "rank": 91,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 76,
+              "rank": 131,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 73,
+              "rank": 62,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 76,
+              "rank": 228,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 76,
+              "rank": 44,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 75,
+              "rank": 93,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 73,
+              "rank": 137,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 72,
+              "rank": 62,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85207391518",
+      "title": "A New Topology of Multi-Input Bidirectional DC-DC Converters for Hybrid Energy Storage Systems",
+      "doi": "10.3390/en17205120",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "17",
+      "issue_id": "20",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Cosso Simone; Benevieri Alessandro; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis; Pozzobon Paolo",
+      "author_ids": "57324695200;57226763007;6701827441;57195070159;21935399500;6601994662",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Cosso S.",
+      "keywords": "DC-DC converter | hybrid electric vehicle (HEV) | hybrid energy storage system (HESS) | multi-input topology",
+      "abstract": "A new topology of multi-input bidirectional DC-DC converters is proposed in this paper. The converter has a boost behavior, i.e., the output voltage is higher than the sum of the input voltages. This family of converters is particularly suited for hybrid energy storage systems, where different DC sources are connected together and where the output voltage is significantly higher than the voltage of a single storage. The proposed converter reduces the number of required switches, leading to higher efficiency and reduced complexity compared to traditional n-input converters. The new topology demonstrates superior performance by enabling higher efficiency with fewer components. A dedicated control, based on PI controllers, is provided to ensure stable operation under dynamic conditions. The effectiveness of the proposed solution is tested using experimental results on a four-input 20 A/100 V converter prototype.",
+      "citations": 4,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 90,
+              "rank": 15,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 85,
+              "rank": 39,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 82,
+              "rank": 173,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 75,
+              "rank": 73,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 71,
+              "rank": 38,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 68,
+              "rank": 32,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 105,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85179786373",
+      "title": "H2-LMI-Based High Performance Control for Matrix Converter",
+      "doi": "10.1109/TIE.2023.3333014",
+      "venue": "IEEE Transactions on Industrial Electronics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "71",
+      "issue_id": "9",
+      "pages": "10029-10038",
+      "issn": "02780046",
+      "eIssn": "15579948",
+      "source_id": "26053",
+      "authors": "Carbone Lorenzo; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis; Formentini Andrea",
+      "author_ids": "57324886200;6701827441;57195070159;21935399500;55370605300",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Carbone L.",
+      "keywords": "matrix converter (MC) | rmH2-linear matrix inequality (LMI) optimal control",
+      "abstract": "This article presents a new control algorithm for matrix converters based on full-state feedback. An H2-linear matrix inequality (LMI) framework has been adopted to expand the system stability region. The proposed approach differs from other stabilization methods proposed in literature by its ability to increase the power transfer through the converter while maintaining high control bandwidth and preserving the quality of input and output quantities. A Kalman filter has been introduced to estimate the full system state avoiding the installation of additional sensors. Furthermore, the method has a limited computational burden not requiring high performance control platform. Experimental tests compare the performance of the proposed strategy with a stabilization approach previously proposed in terms of stability performance and power quality.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 96,
+              "rank": 33,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 95,
+              "rank": 17,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 96,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 95,
+              "rank": 16,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85192750704",
+      "title": "A New Feed-Forward Control for Dynamics Improvement in a Dual-Input DC–DC Converter for Hybrid Vehicle Applications",
+      "doi": "10.3390/en17092170",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "17",
+      "issue_id": "9",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Benevieri Alessandro; Carbone Lorenzo; Cosso Simone; Marchesoni Mario; Passalacqua Massimiliano; Savio Stefano; Vaccaro Luis",
+      "author_ids": "57226763007;57324886200;57324695200;6701827441;57195070159;7004161333;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Benevieri A.",
+      "keywords": "control strategy | DCM | DC–DC converter | feed forward | multi-input converter",
+      "abstract": "In this study, a double-input single-output bidirectional DC–DC converter is considered. This particular architecture allows less switches to be used than a conventional solution. A new feed-forward current control for this DC–DC converter with three switches is presented in this paper. The modulation technique proposed in the literature for the aforementioned converter leads to a consistent loss reduction at low load, exploiting the DCM. As a drawback, when using this control strategy, the dynamic response worsens significantly. To speed up the control, a feed-forward approach is designed and implemented using a simplified converter electrical model. The proposed strategy is compared with the conventional PI controller, and it is validated and verified through simulation results in the MATLAB/Simulink/PLECS environment and through experimental tests using a converter prototype.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 90,
+              "rank": 15,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 85,
+              "rank": 39,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 82,
+              "rank": 173,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 75,
+              "rank": 73,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 71,
+              "rank": 38,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 68,
+              "rank": 32,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 105,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-86000451001",
+      "title": "High efficiency control of AC-DC Matrix based buck converters: DCM modulation",
+      "doi": "10.1109/ECCE55643.2024.10861334",
+      "venue": "2024 IEEE Energy Conversion Congress and Exposition Ecce 2024 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "4112-4118",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101281529",
+      "authors": "Rodkin Dmytro; Formentini Andrea; Passalacqua Massimiliano; Vaccaro Luis; Marchesoni Mario",
+      "author_ids": "59680007700;55370605300;57195070159;21935399500;6701827441",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Rodkin D.",
+      "keywords": "AC-DC matrix converter | Discontinuous conduction mode (DCM)",
+      "abstract": "A discontinuous conduction mode (DCM) technique is presented to enhance the efficiency of an AC-DC matrix based buck converter. A new modulation scheme is developed to ensure proper converter operation in DCM preventing input current distortion. System performance in terms of total harmonic distortion (THD) including comparison with continuous conduction mode (CCM) operation is examined experimentally. Conduction and switching losses under different grid voltage in both modes are compared via simulation.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-86000438523",
+      "title": "A Fast Model-Based Control for a Double-Input Three-Switch Bidirectional DC-DC Converter",
+      "doi": "10.1109/ECCE55643.2024.10861341",
+      "venue": "2024 IEEE Energy Conversion Congress and Exposition Ecce 2024 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "4151-4157",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101281529",
+      "authors": "Benevieri Alessandro; Passalacqua Massimiliano; Formentini Andrea; Vaccaro Luis; Marchesoni Mario",
+      "author_ids": "57226763007;57195070159;55370605300;21935399500;6701827441",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Benevieri A.",
+      "keywords": "control strategy | DC-DC Converter | discontinuous conduction mode (DCM) | efficiency | multi-input converter",
+      "abstract": "This article introduces a novel Model-Based Control strategy for a bidirectional double-input DC-DC boost converter with three controllable switches. The converter is suitable for electric vehicles and distributed generation, as it can interface renewable energy sources and energy storage devices like supercapacitors or batteries. The algorithm computes the most efficient duty cycles for the switches by analyzing target conditions generated from the reference values of source currents, ensuring accurate and rapid response. Moreover, Discontinuous Conduction Mode is exploited. The superiority of the proposed method over a PI-based approach is demonstrated by experimental tests.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85207502241",
+      "title": "Medium Voltage Sensorless Induction Motor Drive for Subsea Applications",
+      "doi": "10.1109/ICEM60801.2024.10700411",
+      "venue": "2024 International Conference on Electrical Machines ICEM 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101255662",
+      "authors": "Carbone Lorenzo; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "57324886200;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Carbone L.",
+      "keywords": "Induction Motor | Luenberger Observer | Medium Voltage (MV) | Oil Pump Application | Sensorless Control",
+      "abstract": "In this paper, a MV induction motor drive for submarine oil pump applications is considered. The motor is usually connected to the inverter drive with a cable of tens of kilometres and sensorless control is a must since sensors can be replaced only with the use of submarine robots. For these reasons, instability phenomena can occur. To overcome these issues, a new control is proposed in this study, involving a compensated sensorless FOC algorithm based on the Luenberger observer. The effectiveness of the proposed strategy is tested with simulations considering the MV drive parameters. Moreover, experimental tests are carried out on a small scale LV prototype.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85204943069",
+      "title": "Modeling the Effect of Air-Gap Length and Number of Turns on Ferrite-Core Inductors Working up to Magnetic Saturation in a Buck Converter",
+      "doi": "10.1109/TCSI.2024.3421261",
+      "venue": "IEEE Transactions on Circuits and Systems I Regular Papers",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "71",
+      "issue_id": "12",
+      "pages": "5400-5409",
+      "issn": "15498328",
+      "eIssn": "15580806",
+      "source_id": "11000153733",
+      "authors": "Ravera Alessandro; Formentini Andrea; Lodi Matteo; Oliveri Alberto; Passalacqua Massimiliano; Storace Marco",
+      "author_ids": "57214792545;55370605300;57200266678;57200399832;57195070159;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Ravera A.",
+      "keywords": "gapped ferrite core | magnetic saturation | nonlinear circuit model | Power inductor",
+      "abstract": "In this work, a nonlinear behavioral circuit model is proposed for air-gapped ferrite-core inductors working up to magnetic saturation. The model comprises a nonlinear conservative inductor, with current-dependent inductance, and two linear resistors, accounting for losses in both the winding and the core. Two representations are proposed for the nonlinear inductance, parameterized by both the number of turns and the air-gap length. The model (in both versions) is identified and validated through experimental measurements collected on a real buck converter. Inductor voltages and currents are used for parameter identification. The obtained results exhibit a good match with the experimental measurements used for validation purposes. An example of the application of the model to the design of a buck converter exploiting partially saturating inductors is also proposed.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 92,
+              "rank": 28,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 93,
+              "rank": 24,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85163516463",
+      "title": "Stability Issues in V/f Controlled Medium Voltage Induction Motor Drives Considering Magnetizing Inductance Variation",
+      "doi": "10.1109/TEC.2023.3288673",
+      "venue": "IEEE Transactions on Energy Conversion",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "38",
+      "issue_id": "4",
+      "pages": "2909-2918",
+      "issn": "08858969",
+      "eIssn": "15580059",
+      "source_id": "28824",
+      "authors": "Cosso Simone; Kumar Krishneel; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "57324695200;57438065800;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Cosso S.",
+      "keywords": "Electrical drives | induction motor | stability | V/F control",
+      "abstract": "In this article, a V/f control for high-power induction motor drives is analysed. In such uses, low dynamics in terms of speed-loop bandwidth is usually required. However, in some applications, where the load consists of a long shaft with certain mechanical components and with some resonant frequencies, instability and torque oscillations can cause significant damage. For these reasons, open-loop V/f control could be a winning solution, since it avoids resonances and oscillations caused by measurement feedbacks in the control. However, instability may arise also in open-loop V/f control. A stability analysis is here carried out analytically and a new method to overcome oscillations by varying dynamically the V/f ratio is proposed. The stability analysis and the effectiveness of the proposed method are verified with simulation results on a 2.8 kV-7.25 MW induction motor and with experimental tests on a small-scale 380 V-10 kW motor.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 93,
+              "rank": 62,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 90,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 90,
+              "rank": 77,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 87,
+              "rank": 35,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85178325957",
+      "title": "Double input DC-DC converter for highly flexible and reliable Battery Storage Systems",
+      "doi": "10.1051/e3sconf/202341401006",
+      "venue": "E3s Web of Conferences",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": "414",
+      "issue_id": null,
+      "pages": null,
+      "issn": "25550403",
+      "eIssn": "22671242",
+      "source_id": "21100795900",
+      "authors": "Benevieri Alessandro; Carbone Lorenzo; Cosso Simone; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "57226763007;57324886200;57324695200;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Benevieri A.",
+      "keywords": null,
+      "abstract": "Battery storage systems are fundamental in UPS applications. UPSs are exploited when high reliability is required. A DC-DC converter is typically used to interface the battery to the inverter to match the different voltage levels. In normal operation, the battery of the UPS is not used and it intervenes only during grid blackout. However, the battery is subjected to deterioration and UPS intervention could fail. In medium and high power UPS, more battery modules are connected in series. If one battery is damaged, all the series is affected. To prevent this issue, a new double-input DC-DC converter is presented in this paper. The two DC sources can be controlled separately, resulting in a system reliability improvement. In addition, the damaged battery is not bypassed; hence the overall system performance can be maximized, since the deteriorated battery can provide energy at a limited rate. Additionally, the proposed converter allows batteries based on different technologies to be mixed together, achieving the best performances from each technology.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85159695527",
+      "title": "Sensorless Control with Switching Frequency Square Wave Voltage Injection for SPMSM with Low Rotor Magnetic Anisotropy",
+      "doi": "10.1109/TPEL.2023.3270357",
+      "venue": "IEEE Transactions on Power Electronics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "38",
+      "issue_id": "8",
+      "pages": "10060-10072",
+      "issn": "08858993",
+      "eIssn": "19410107",
+      "source_id": "26055",
+      "authors": "Benevieri Alessandro; Formentini Andrea; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "57226763007;55370605300;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Benevieri A.",
+      "keywords": "High-frequency (HF) injection | sensorless control | square-wave injection | surface permanent magnet synchronous motor (SPMSM)",
+      "abstract": "High-frequency signal injection sensorless algorithms are widely studied and used for rotor angle estimation in permanent magnet synchronous motor (PMSM) at low speed or standstill. One of the main drawbacks of such methods is the acoustic noise connected to the voltage injection. In order to minimize this problem, it is advisable to increase the frequency of the injected signal. Thus, many studies focus on square-wave injection at the switching frequency, which is the maximum theoretical frequency. Since these methods exploit the rotor magnetic anisotropy, it is relatively easy to use them in interior PMSMs, where the rotor anisotropy is high. On the contrary, it is hard to exploit them in surface PMSMs, which have an almost symmetric rotor, although a low rotor magnetic anisotropy is still present. In this article, a sensorless algorithm with switching frequency square-wave injection is developed for surface PMSMs. To increase the signal-to-noise ratio, current oversampling is exploited. The benefits of such a technique are demonstrated with experimental results on a 2 N·m SPMSM.",
+      "citations": 28,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 95,
+              "rank": 50,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 95,
+              "rank": 37,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85175145117",
+      "title": "Model Predictive Control of a Double Input Bidirectional Boost DC-DC Converter",
+      "doi": "10.23919/EPE23ECCEEurope58414.2023.10264606",
+      "venue": "2023 25th European Conference on Power Electronics and Applications EPE 2023 Ecce Europe",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101184577",
+      "authors": "Benevieri Alessandro; Formentini Andrea; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "57226763007;55370605300;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Benevieri A.",
+      "keywords": "Bi-directional converters | DC-DC converter | Double-input converter",
+      "abstract": "This paper presents a new model predictive control strategy for a boost dc-dc converter with two input sources and one output. The converter has three controllable switches and is designed for high efficiency in low and high load conditions. The proposed MPC strategy defines target values for controlled currents and applies the appropriate duty cycles to reach them. Its effectiveness is demonstrated by simulation results in a Matlab/Simulink environment.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85140610785",
+      "title": "Surface Permanent Magnet Synchronous Motors’ Passive Sensorless Control: A Review",
+      "doi": "10.3390/en15207747",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "15",
+      "issue_id": "20",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Benevieri Alessandro; Carbone Lorenzo; Cosso Simone; Kumar Krishneel; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "57226763007;57324886200;57324695200;57438065800;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Benevieri A.",
+      "keywords": "permanent magnet synchronous motors (PMSM) | review | sensorless control",
+      "abstract": "Sensorless control of permanent magnet synchronous motors is nowadays used in many industrial, home and traction applications, as it allows the presence of a position sensor to be avoided with benefits for the cost and reliability of the drive. An estimation of the rotor position is required to perform the field-oriented control (FOC), which is the most common control scheme used for this type of motor. Many algorithms have been developed for this purpose, which use different techniques to derive the rotor angle from the stator voltages and currents. Among them, the so-called passive methods have gained increasing interest as they do not introduce additional losses and current distortion associated instead with algorithms based on the injection of high-frequency signals. The aim of this paper is to present a review of the main passive sensorless methods proposed in the technical literature over the last few years, analyzing their main features and principles of operation. An experimental comparison among the most promising passive sensorless algorithms is then reported, focusing on their performance in the low-speed operating region.",
+      "citations": 14,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 83,
+              "rank": 21,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 82,
+              "rank": 27,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 73,
+              "rank": 197,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 69,
+              "rank": 77,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 67,
+              "rank": 18,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 67,
+              "rank": 39,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 56,
+              "rank": 103,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85103880162",
+      "title": "A State-Space Approach to the Modelling and Control of the Neutral Leg of a Four Legs, Three-Phase Inverter",
+      "doi": "10.1109/TIE.2021.3070495",
+      "venue": "IEEE Transactions on Industrial Electronics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "69",
+      "issue_id": "4",
+      "pages": "4056-4064",
+      "issn": "02780046",
+      "eIssn": "15579948",
+      "source_id": "26053",
+      "authors": "Passalacqua Massimiliano; Grosjean Gislain; Kissling Simon; Bozorg Mokhtar; Marchesoni Mario; Carpita Mauro",
+      "author_ids": "57195070159;57222733872;57189070776;36466107400;6701827441;6603270189",
+      "authorAffiliationIds": "60025153;60101868;60101868;60101868;60025153;60101868",
+      "corresponding": "Passalacqua M.",
+      "keywords": "Neutral leg control | split dc-bus | three-phase four-wire inverter",
+      "abstract": "In this article, a novel approach to determine the model of an independently controlled neutral leg is proposed. Based on this model, a cascaded control method is developed to provide a steady neutral point connection for a three-phase four-wire inverter and to balance the two dc capacitors voltages of a split dc-bus. Validation of the model is realised by simulations and the control has been tested by experiments. Results have shown good performance even with a high level of neutral current, which demonstrate the ability of the system to work within an unbalanced load or grid.",
+      "citations": 8,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 96,
+              "rank": 33,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 95,
+              "rank": 17,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 97,
+              "rank": 22,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 97,
+              "rank": 9,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85112608002",
+      "title": "Experimental Low-Speed Performance Evaluation and Comparison of Sensorless Passive Algorithms for SPMSM",
+      "doi": "10.1109/TEC.2021.3101583",
+      "venue": "IEEE Transactions on Energy Conversion",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "37",
+      "issue_id": "1",
+      "pages": "654-664",
+      "issn": "08858969",
+      "eIssn": "15580059",
+      "source_id": "28824",
+      "authors": "Benevieri Alessandro; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "57226763007;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Benevieri A.",
+      "keywords": "Permanent magnet synchronous motors (PMSM) | Sensorless control | Speed control",
+      "abstract": "Sensorless algorithms for PMSM have achieved an increasing interest in the technical literature. They can be divided into active methods and passive methods. Active methods exploit rotor anisotropy by injecting high voltage frequency signals, whereas passive methods are based on observers. Even if passive methods do not have the drawbacks of active methods - acoustic noise, torque ripple and harmonic distortion - their effectiveness is reduced in the low speed region. For this reason, active methods are usually used at low speed and the motor control switches to passive methods in the high-speed region. Since high frequency injection is associated to many drawbacks, the aim of passive methods is to work at lower speed as possible or, ideally, to be able to start directly the motor. That is particularly true for Surface-Mounted PMSM: since they have a low anisotropy, high frequency injection should be particularly elevate to achieve sufficient signal-to-noise ratio. It is difficult to compare the performance of passive algorithms proposed in the technical literature since experimental tests have been done with different conditions: motors, inverter features, measurements, type of tests, etc. In this paper, five different sensorless passive algorithms for Surface-Mounted PMSM, selected among the most promising algorithms available in the technical literature, are compared, performing the same tests on the same experimental setup, to achieve a fair comparison and establishing the most performing one.",
+      "citations": 25,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 93,
+              "rank": 62,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 90,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 89,
+              "rank": 76,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 88,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85125071541",
+      "title": "Induction Motor Field-Oriented Sensorless Control with Filter and Long Cable",
+      "doi": "10.3390/en15041484",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "15",
+      "issue_id": "4",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Carbone Lorenzo; Cosso Simone; Kumar Krishneel; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "57324886200;57324695200;57438065800;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Carbone L.",
+      "keywords": "Cable compensation | Eigenvalues | Field-oriented control | Induction motor drive | Long cable | Luenberger observer | Sensorless control | Speed estimation | Stability analysis | Submarine pump",
+      "abstract": "In recent years, part of the efforts of the electric drive researcher has been focused on the study of sensorless control algorithms that allow controlling the machine without a speed measure and with ever-fewer measurement devices. This article proposes a possible solution for the submarine application of an asynchronous motor. The motor is designed to drive a petrol pump at a depth of three thousand meters. The motor is fed by an inverter that is located on an offshore platform, and they are connected through a filter and a cable that is 19.74 km long. In this application, it is not suitable to use a speed measurement device; in fact, at this depth it is important to use as few components as possible, in order to increase the system reliability. A control algorithm that only needs available electrical measures is proposed below.",
+      "citations": 12,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 83,
+              "rank": 21,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 82,
+              "rank": 27,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 73,
+              "rank": 197,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 69,
+              "rank": 77,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 67,
+              "rank": 18,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 67,
+              "rank": 39,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 56,
+              "rank": 103,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85124875347",
+      "title": "Stability Analysis of Open-Loop V/Hz Controlled Asynchronous Machines and Two Novel Mitigation Strategies for Oscillations Suppression",
+      "doi": "10.3390/en15041404",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "15",
+      "issue_id": "4",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Carbone Lorenzo; Cosso Simone; Kumar Krishneel; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "57324886200;57324695200;57438065800;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Carbone L.",
+      "keywords": "Active damping | Eigenvalues | Induction motor drive | Instability | Oscillations | Small-signal model | Stability analysis | V/Hz control",
+      "abstract": "Asynchronous machines are always widely used in most industrial applications due to their reliability, flexibility, and manoeuvrability. To achieve variable speed operations, the quite simple open-loop V/Hz control is largely utilized. Under open-loop V/Hz control, the nonlinear interaction is well known to cause current and torque oscillations while operating at low to medium speeds under light loads. This article presents the stability analysis of induction motors at low–medium frequencies under no-load conditions with the V/Hz control. A system representation in the form of state space is discussed, and the region of instability is plotted against the V/f plane. Two novel and refined methods for the mitigation of oscillations in the region of instability are presented. The two proposed algorithms are finally tested and validated through simulation on an inverter-fed induction motor drive system.",
+      "citations": 14,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 83,
+              "rank": 21,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 82,
+              "rank": 27,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 73,
+              "rank": 197,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 69,
+              "rank": 77,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 67,
+              "rank": 18,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 67,
+              "rank": 39,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 56,
+              "rank": 103,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85141581126",
+      "title": "A fast control for a three-switch multi-input DC-DC converter",
+      "doi": null,
+      "venue": "24th European Conference on Power Electronics and Applications EPE 2022 Ecce Europe",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101119900",
+      "authors": "Cosso Simone; Formentini Andrea; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "57324695200;55370605300;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Cosso S.",
+      "keywords": "CCM | DC-DC Converter | DCM | Feed-Forward | Power Converters",
+      "abstract": "In this paper, a double-input bidirectional DC-DC converter is taken into account. The converter allows to use less switches than a traditional solution and, moreover, it guarantees a higher efficiency. The modulation strategy proposed in the technical literature allows the converter to work in Discontinuous Conduction Mode at low-load and, therefore, to increase the efficiency in comparison to the CCM. However, such a control reduces the dynamics of the converter. To improve the transient response, a Feed-Forward approach is proposed in this paper. Since the converter model in DCM is complex and highly nonlinear, a simplified model is considered. The effectiveness of the proposed approach is proved with experimental results on a converter prototype.",
+      "citations": 5,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85137987811",
+      "title": "Experimental Assessment of Power Converters Control Strategies for Shipboard Microgrids",
+      "doi": "10.1109/EEEIC/ICPSEurope54979.2022.9854761",
+      "venue": "2022 IEEE International Conference on Environment and Electrical Engineering and 2022 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101107964",
+      "authors": "Schiapparelli Giacomo Piero; Passalacqua Massimiliano; D'Agostino Fabio; Vaccaro Luis; Marchesoni Mario; Silvestro Federico",
+      "author_ids": "57204003255;57195070159;56553864200;21935399500;6701827441;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Schiapparelli G.P.",
+      "keywords": "experimental setup | Grid-following con-verters | Grid-forming converters | shipboard microgrids",
+      "abstract": "The necessity to meet strict constraints on vessels emissions leads to a progressive adoption of innovative dc native energy sources. These sources are converter interfaced, and need to be integrated with the traditional power station. Two main converter control families are proposed in the literature: the grid-following and the grid-forming. This paper investigates the condition in which a converter interfaced unit, equipped alternatively with these type of control schemes, and a traditional diesel generator of comparable size, simultaneously contribute to the shipboard frequency and voltage regulation. A laboratory test bench has been developed to reproduce the shipboard power system, and to evaluate its regulating performances using either the grid-following or grid-forming strategy. The results are compared with a base case in which only the traditional diesel generator sustains the microgrid. The conclusions on the assessments of the different strategies are presented, considering the practical feasibility of such systems for actual seagoing shipboard microgrid.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85136221181",
+      "title": "Sensorless Control Exploiting PWM Ripple in PMSM with Low Anisotropy",
+      "doi": "10.1109/SPEEDAM53979.2022.9842129",
+      "venue": "2022 International Symposium on Power Electronics Electrical Drives Automation and Motion Speedam 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": "235-239",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101101911",
+      "authors": "Benevieri Alessandro; Cosso Simone; Formentini Andrea; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "57226763007;57324695200;55370605300;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Benevieri A.",
+      "keywords": "HF injection | Sensorless control | SPMSM | square-wave injection",
+      "abstract": "Rotor position estimation in sensorless control of PMSM at low speed or standstill is often obtained using high-frequency voltage injection. This method leads to some drawbacks, the main of which is acoustic noise. The frequency of the injected signal should therefore be increased to minimize this problem. A square-wave signal injection at the switching frequency is the subject of many studies, since this is the maximum theoretically achievable frequency. These methods are based on the exploitation of the rotor magnetic saliency and therefore they are widely used with interior PMSMs. On the contrary, the low anisotropy that characterizes surface PMSMs makes it difficult to obtain a good signal-to-noise ratio. A method that uses square-wave voltage injection at the switching frequency is proposed in this study for surface PMSMs. In particular, a new current oversampling method is developed, in order to increase the signal-to-noise ratio. Experimental results on a 2 Nm surface PMSM are showed, to demonstrate the effectiveness of this approach.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85121029388",
+      "title": "Series architecture on hybrid electric vehicles: A review",
+      "doi": "10.3390/en14227672",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Review",
+      "year": 2021,
+      "volume": "14",
+      "issue_id": "22",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Benevieri Alessandro; Carbone Lorenzo; Cosso Simone; Kumar Krishneel; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "57226763007;57324886200;57324695200;57438065800;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Benevieri A.",
+      "keywords": "Fuel economy | Hybrid Electric Vehicle (HEV) | Powertrain efficiency | Series architecture | Silicon Carbide (SiC) | Supercapacitor | Turbocompound",
+      "abstract": "The use of series architecture nowadays is mainly on hybrid buses. In comparison with series-parallel and parallel architectures, which are usually exploited on medium-size cars, the series architecture allows achieving internal combustion engine higher efficiency. The downside of this architecture, due to a double energy conversion (i.e., mechanical energy converted in electrical energy and electrical energy converted again in mechanical energy), is that additional losses are introduced. For this reason, the parallel and the series/parallel architectures were considered more suitable for hybrid medium-size cars. Nevertheless, the use of new technologies can change this scenario. Regarding storage systems, supercapacitors achieved a significant energy density, and they guarantee much higher efficiency than battery storage. Moreover, the use of wide-bandgap components for power electronic converters, such as silicon carbide devices, assure lower losses. In this scenario, the series architecture can become competitive on medium-size cars. This paper shows a review of.",
+      "citations": 10,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 85,
+              "rank": 18,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 83,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": null,
+              "percentile": 76,
+              "rank": 51,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 72,
+              "rank": 10,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 71,
+              "rank": 201,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 69,
+              "rank": 73,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 65,
+              "rank": 38,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 58,
+              "rank": 90,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85118530745",
+      "title": "State‐space approach for spmsm sensorless passive algorithm tuning",
+      "doi": "10.3390/en14217180",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "14",
+      "issue_id": "21",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Carbone Lorenzo; Cosso Simone; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "57324886200;57324695200;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Carbone L.",
+      "keywords": "Permanent Magnet Synchronous Motors (PMSM) | Rotor flux observer | Sensorless control | Speed control | Stability analysis",
+      "abstract": "Sensorless algorithms for Permanent Magnet Synchronous Motors (PMSM) have achieved increasing interest in the technical literature over the last few years. They can be divided into active methods and passive methods: the first inject high‐frequency signals exploiting rotor anisotropy, whereas the second are based on observers. Recently, a sensorless control based on a rotor flux observer has been presented in the technical literature, which gives very accurate results in terms of rotor position estimation and robustness. In this paper, the aforementioned observer is considered and a procedure for choosing stabilizing gains of the observer is proposed. The contribution of the paper is three‐fold: the mathematical modelling of the rotor flux observer, the methodology for the definition of the observer gains, and the presentation of the experimental results.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 85,
+              "rank": 18,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 83,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": null,
+              "percentile": 76,
+              "rank": 51,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 72,
+              "rank": 10,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 71,
+              "rank": 201,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 69,
+              "rank": 73,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 65,
+              "rank": 38,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 58,
+              "rank": 90,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85096868481",
+      "title": "A New Modulation Strategy for Exploiting Discontinuous Conduction Mode in a Double-Input Three-Switch Bidirectional DC-DC Converter",
+      "doi": "10.1109/TIE.2020.3038059",
+      "venue": "IEEE Transactions on Industrial Electronics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "68",
+      "issue_id": "11",
+      "pages": "10815-10825",
+      "issn": "02780046",
+      "eIssn": "15579948",
+      "source_id": "26053",
+      "authors": "Passalacqua Massimiliano; Marchesoni Mario; Vaccaro Luis",
+      "author_ids": "57195070159;6701827441;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Passalacqua M.",
+      "keywords": "DC-DC converter | discontinuous conduction mode (DCM) | efficiency | modulation strategy | multiinput converter",
+      "abstract": "A double-input bidirectional dc-dc converter, with an innovative architecture, exploiting the use of only three switches, is taken into account in this article. The modulation strategy proposed in the technical literature for controlling such a converter leads to a very low efficiency at low-load because the converter is only able to operate in continuous conduction mode when currents are low. A new modulation strategy, for exploiting discontinuous conduction mode, is here proposed. The efficiency increase is evaluated with a MATLAB/Simulink Plecs simulation model. The control algorithm and the simulation model are validated with experimental results carried out on a converter prototype.",
+      "citations": 15,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 96,
+              "rank": 33,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 95,
+              "rank": 17,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 97,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 97,
+              "rank": 20,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85119066418",
+      "title": "Development and Evaluation of Sensorless Control Systems for SPMSM Drives in the Extreme Low-Speed Region",
+      "doi": null,
+      "venue": "2021 23rd European Conference on Power Electronics and Applications EPE 2021 Ecce Europe",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101065464",
+      "authors": "Benevieri Alessandro; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "57226763007;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Benevieri A.",
+      "keywords": "Control of drive | Electrical drive | Estimation technique | Permanent magnet motor | Sensorless control",
+      "abstract": "Sensorless algorithms for Permanent Magnet Synchronous Motors (PMSMs) are widely studied in the technical literature. Active methods are based on high-frequency voltage injection, have the advantage of working in the low-speed region and at standstill, but they have some drawbacks such as acoustic noise, additional losses, and torque ripple. Passive methods, on the other hand, do not require the injection of additional signals, however, their performance deteriorates significantly in the low-speed region. Many observers are studied in the technical literature. However, it is difficult to perform a fair comparison among the proposed algorithms since the conditions in which the experimental tests are carried out are always different. Indeed, different studies perform different tests (i.e., with different speed and torque profiles) and with different test benches. The aim of this paper is to make a fair comparison between four different passive algorithms, selected among the most promising proposed in the technical literature. For all the algorithms same tests are performed using the same Surface PMSM test bench.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85113255669",
+      "title": "Induction motor direct torque control with synchronous PWM",
+      "doi": "10.3390/en14165025",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "14",
+      "issue_id": "16",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Benevieri Alessandro; Maragliano Gianmarco; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "57226763007;36778746300;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Benevieri A.",
+      "keywords": "Direct torque control | Induction motor drive | Synchronous PWM",
+      "abstract": "A novel induction motor direct torque control (DTC) algorithm with synchronous modu-lation is presented. Compared to the traditional DTC method, whose main drawback is the presence of low‐frequency torque harmonics (sub‐harmonics), in the proposed method, the PWM switching frequency is imposed to be an integer multiple of the main supply frequency. This is achieved by continuously adjusting the PWM switching period to significantly reduce low‐frequency harmon-ics. The devised algorithm has been tested on an inverter‐fed induction motor drive system, and the obtained results show an important reduction of the sub‐harmonic spectral content of the developed torque with respect to a conventional direct torque control while maintaining at the same time a high dynamic response.",
+      "citations": 8,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 85,
+              "rank": 18,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 83,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": null,
+              "percentile": 76,
+              "rank": 51,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 72,
+              "rank": 10,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 71,
+              "rank": 201,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 69,
+              "rank": 73,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 65,
+              "rank": 38,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 58,
+              "rank": 90,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85112867086",
+      "title": "Modulating Signals Effect on Capacitor Voltage Ripple in Full Bridge Modular Multilevel Converters",
+      "doi": "10.1109/AEITHVDC52364.2021.9474595",
+      "venue": "2021 Aeit Hvdc International Conference Aeit Hvdc 2021",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101056105",
+      "authors": "Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis; Bordignon Paolo",
+      "author_ids": "6701827441;57195070159;21935399500;6603367451",
+      "authorAffiliationIds": "60025153;60025153;60025153;126760071",
+      "corresponding": "Marchesoni M.",
+      "keywords": "Full Bridge Cell | HVDC | MMC | Voltage Ripple",
+      "abstract": "Nowadays HVDC based on Voltage Source Converters (VSC) are based on the Modular Multilevel Converter (MMC) and the applications in which the Full Bridge (FB) Cells are used are increasing. Therefore, this paper presents an analytical study of the MMC interaction between the converter currents and voltages. The study is applied to the case of the FB Cell based MMC, with special attention to the capacitor voltage ripple caused by this interaction.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85124908491",
+      "title": "Currents and Torque Oscillations Mitigation in High Power Induction Motor Drives",
+      "doi": "10.1109/CPE-POWERENG50821.2021.9501186",
+      "venue": "2021 IEEE 15th International Conference on Compatibility Power Electronics and Power Engineering Cpe Powereng 2021",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101076702",
+      "authors": "Kumar Krishneel; Marchesoni Mario; Maule Zeno; Passalacqua Massimiliano; Soso Francesco; Vaccaro Luis",
+      "author_ids": "57438065800;6701827441;57458767100;57195070159;35249557100;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60122276;60025153;60122276;60025153",
+      "corresponding": "Kumar K.",
+      "keywords": "Compensation | Induction motor | Instability | Speed control | Torque oscillation | V/Hz",
+      "abstract": "Induction machines are always the most used machines in industry, due to the several advantages they offer. The quite simple V/Hz control strategy is one of the most commonly used strategies to control induction motors speed, due to its simplicity and ease of implementation. However, using this strategy for controlling high power induction motors may cause instability in some regions, leading to high oscillations in currents and in motor torque. Therefore, the authors propose an improved version of the V/Hz control strategy, which compensates for these oscillations by correcting the speed reference using the stator current. The results obtained are presented, showing excellent results in compensating for these oscillations in motor currents and torque.",
+      "citations": 5,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85094911821",
+      "title": "A High-Efficiency Control of a Double-Input Converter for Renewable Energies and Hybrid Vehicles",
+      "doi": "10.23919/EPE20ECCEEurope43536.2020.9215752",
+      "venue": "2020 22nd European Conference on Power Electronics and Applications EPE 2020 Ecce Europe",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101024171",
+      "authors": "Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Marchesoni M.",
+      "keywords": "Converter control | Efficiency | Electric vehicle | Smart grids",
+      "abstract": "A double-input DC-DC converter is taken into account in this paper. The converter is bidirectional and both currents can be controlled independently. On the one hand it allows to reduce the number of switches, on the other hand, it exhibits a higher efficiency in comparison to a traditional solution with two half-bridge converters in parallel connection. However, the control strategy proposed in the technical literature forces the converter to work in Continuous Conduction Mode at low-load, which leads to a low conversion efficiency. In this paper, a novel control, which exploits Discontinuous Conduction Mode, is presented. Efficiency increase is evaluated with a thermal model in MATLAB/Simulink Plecs environment and the control algorithm is then validated with experimental tests on a converter prototype.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85091156136",
+      "title": "An improved control strategy for an innovative DC-DC converter for interfacing energy storage systems",
+      "doi": "10.1109/SPEEDAM48782.2020.9161905",
+      "venue": "2020 International Symposium on Power Electronics Electrical Drives Automation and Motion Speedam 2020",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": null,
+      "issue_id": null,
+      "pages": "811-815",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101021766",
+      "authors": "Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Marchesoni M.",
+      "keywords": "Conversion efficiency | DC-DC conversion | Discontinuous Conduction Mode",
+      "abstract": "The modulation strategy, proposed in the technical literature to control the three-switch double-input bidirectional DC-DC converter, forces the converter itself to work in Continuous Conduction Mode at low-load and therefore efficiency drops significantly. In this paper, a novel modulation strategy, exploiting Discontinuous Conduction Mode at low-load, is proposed. Converter efficiency increase is evaluated with simulations in MATLAB/Simulink Plecs environment. Finally, the control is validated with experimental tests.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85076675691",
+      "title": "Performance improvement in a sensorless surface-mounted PMSM drive based on rotor flux observer",
+      "doi": "10.1016/j.conengprac.2019.104276",
+      "venue": "Control Engineering Practice",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "96",
+      "issue_id": null,
+      "pages": null,
+      "issn": "09670661",
+      "eIssn": null,
+      "source_id": "18174",
+      "authors": "Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis; Calvini Marco; Venturini Marco",
+      "author_ids": "6701827441;57195070159;21935399500;14422097400;58351076300",
+      "authorAffiliationIds": "60025153;60025153;60025153;123668789;123668789",
+      "corresponding": "Marchesoni M.",
+      "keywords": "Permanent magnet motors (PMSM) | Rotor flux observer | Sensorless control | Speed control",
+      "abstract": "Permanent magnet synchronous motor sensorless algorithms for low speed region are usually based on rotor anisotropy. Although many studies showed a good behavior of this type of control, high frequency voltage injection is required, which causes loud acoustic noise in addition to electrical losses. On the other hand, methods based on back electromotive force or rotor flux observer, which guarantee high performance in the medium–high speed region, do not required voltage injection. In this paper, a rotor flux observer based algorithm performance is analyzed, in order to extend its use also in the low speed region. Behavior both with no-load, linear torque, quadratic torque, constant torque and compressor-load torque is tested, especially focusing on motor starting. Improvements to rotor flux observer algorithms available in the scientific literature are discussed and their effectiveness is verified by experimental results.",
+      "citations": 26,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Applied Mathematics",
+              "percentile": 95,
+              "rank": 28,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 85,
+              "rank": 143,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 84,
+              "rank": 58,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 82,
+              "rank": 171,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Applied Mathematics",
+              "percentile": 96,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 86,
+              "rank": 96,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 97,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 85,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85078198084",
+      "title": "Turbocompound power unit modelling for a supercapacitor-based series hybrid vehicle application",
+      "doi": "10.3390/en13020447",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "13",
+      "issue_id": "2",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Repetto Matteo; Passalacqua Massimiliano; Vaccaro Luis; Marchesoni Mario; Prato Alessandro Pini",
+      "author_ids": "56264520300;57195070159;21935399500;6701827441;55493328400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Repetto M.",
+      "keywords": "Efficiency | Fuel economy | Hybrid electric vehicle (HEV), series architecture | Supercapacitor | Turbocharger | Turbocompound",
+      "abstract": "In this paper, starting from the measurements available for a 2000 cm<sup>3</sup> turbocharged diesel engine, an analytical model of the turbocharger is proposed and validated. The model is then used to extrapolate the efficiency of a power unit with a diesel engine combined with a turbocompound system. The obtained efficiency map is used to evaluate the fuel economy of a supercapacitor-based series hybrid vehicle equipped with the turbocompound power unit. The turbocompound model, in accordance with the studies available in the technical literature, shows that the advantages (in terms of efficiency increase) are significant at high loads. For this reason, turbocompound introduction allows a significant efficiency improvement in a series hybrid vehicle, where the engine always works at high-load. The fuel economy of the proposed vehicle is compared with other hybrid and conventional vehicle configurations.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 85,
+              "rank": 17,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 83,
+              "rank": 13,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 73,
+              "rank": 183,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 72,
+              "rank": 7,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 72,
+              "rank": 62,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 67,
+              "rank": 33,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 69,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85077446316",
+      "title": "A refined loss evaluation of a three-switch double input DC-DC converter for hybrid vehicle applications",
+      "doi": "10.3390/en13010204",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "13",
+      "issue_id": "1",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Marchesoni M.",
+      "keywords": "Battery | DC-DC converter | Efficiency | Hybrid electric vehicle (HEV) | Multi-input converter | Supercapacitor",
+      "abstract": "In this paper, an accurate efficiency evaluation of an innovative three-switch double input DC-DC converter for hybrid vehicle applications was carried out. The converter was used to interface two storages, (e.g., supercapacitor and battery) to the DC link. A refined model was created in MATLAB/Simulink Plecs environment and it was used to compare the traditional four-switch converter (i.e., two DC-DC converters in parallel connection) with the innovative three-switch converter. Loss and efficiency contour maps were obtained for both converters and a comparison between them was performed. A prototype of the three-switch converter was realized and used to validate the simulation thermal model by comparing both efficiency and current waveforms obtained with simulations and experimental tests.",
+      "citations": 14,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 85,
+              "rank": 17,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 83,
+              "rank": 13,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 73,
+              "rank": 183,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 72,
+              "rank": 7,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 72,
+              "rank": 62,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 67,
+              "rank": 33,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 69,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85076947747",
+      "title": "Solid-state transformers in locomotives fed through AC lines: A review and future developments",
+      "doi": "10.3390/en12244711",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Review",
+      "year": 2019,
+      "volume": "12",
+      "issue_id": "24",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Farnesi Stefano; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "54392715100;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Farnesi S.",
+      "keywords": "Medium frequency transformer | Modular Multilevel Converter (MMC) | Power electronic transformer | Railway electric traction | Soft-switching | Solid State Transformer (SST)",
+      "abstract": "One of the most important innovation expectation in railway electrical equipment is the replacement of the on-board transformer with a high power converter. Since the transformer operates at line-frequency (i.e., 50 Hz or 16 2/3 Hz), it represents a critical component from weight point of view and, moreover, it is characterized by quite poor efficiency. High power converters for this application are characterized by a medium frequency inductive coupling and are commonly referred as Power Electronic Transformers (PET), Medium Frequency Topologies or Solid-State Transformers (SST). Many studies were carried out and various prototypes were realized until now, however, the realization of such a system has some difficulties, mainly related to the high input voltage (i.e., 25 kV for 50 Hz lines and 15 kV for 16 2/3 Hz lines) and the limited performance of available power electronic switches. The aim of this study is to present a survey on the main solutions proposed in the technical literature and, analyzing pros and cons of these studies, to introduce new possible circuit topologies for this application.",
+      "citations": 19,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 81,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 71,
+              "rank": 62,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 69,
+              "rank": 208,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 66,
+              "rank": 33,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 63,
+              "rank": 9,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 60,
+              "rank": 72,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85068677902",
+      "title": "Fuel Economy and EMS for a Series Hybrid Vehicle Based on Supercapacitor Storage",
+      "doi": "10.1109/TPEL.2019.2895209",
+      "venue": "IEEE Transactions on Power Electronics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "34",
+      "issue_id": "10",
+      "pages": "9966-9977",
+      "issn": "08858993",
+      "eIssn": "19410107",
+      "source_id": "26055",
+      "authors": "Passalacqua Massimiliano; Lanzarotto Damiano; Repetto Matteo; Vaccaro Luis; Bonfiglio Andrea; Marchesoni Mario",
+      "author_ids": "57195070159;57195070345;56264520300;21935399500;36607521000;6701827441",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Passalacqua M.",
+      "keywords": "Energy efficiency | fuel economy | hybrid electric vehicles (HEVs) | series architecture | supercapacitors",
+      "abstract": "The large-scale spread of hybrid electric vehicles (HEVs) in the automotive industry is dominated today by continuous variable transmission parallel powertrain as far as medium size car are concerned. As a matter of fact, the tendency in this sector is to design parallel architectures in that they have provided until now a higher overall powertrain efficiency. However, technological improvements in many electric components and their increased efficiency can reshape this vision and give new outlines on HEV structure design. This paper aims to show the potentials of the series architecture, thanks to the latest electrical improvements especially in storage systems and power electronics. In particular, simulation models and fuel consumption data over different road missions are presented for the series architecture proposed in this study. In addition, a comparison between these results and data available in the scientific literature for state-of-the-art HEVs is reported.",
+      "citations": 40,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 95,
+              "rank": 50,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 97,
+              "rank": 19,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85076668962",
+      "title": "A new common mode voltage reduction method in a generalized space vector modulator for cascaded multilevel converters",
+      "doi": "10.23919/EPE.2019.8914889",
+      "venue": "2019 21st European Conference on Power Electronics and Applications EPE 2019 Ecce Europe",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100939561",
+      "authors": "Maragliano Gianmarco; Carpita Mauro; Kissling Simon; Marchesoni Mario; Passalacqua Massimiliano; Pidancier Thomas; Vaccaro Filippo; Vaccaro Luis",
+      "author_ids": "36778746300;6603270189;57189070776;6701827441;57195070159;57203972480;57204173615;21935399500",
+      "authorAffiliationIds": "60025153;60101868;60101868;60025153;60025153;60101868;121671530;60025153",
+      "corresponding": "Maragliano G.",
+      "keywords": "Common mode voltage | Multilevel converters | Space Vector Modulation (SVM) | Voltage Source Converter (VSC)",
+      "abstract": "High switching frequency employed in modern power electronic converters is cause of important common mode electrical quantities, having as consequences the premature motor failure and other unwanted effects in drive systems. A new SVM scheme for cascaded multilevel converter, aimed to the attenuation of these consequences, is proposed.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85075636678",
+      "title": "An Improved Low-Noise Sensorless PMSM Drive able to Face Highly Intermittent Load Torque",
+      "doi": "10.1109/SLED.2019.8896293",
+      "venue": "2019 IEEE 10th International Symposium on Sensorless Control for Electrical Drives Sled 2019",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100962400",
+      "authors": "Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis; Calvini Marco; Venturini Marco",
+      "author_ids": "6701827441;57195070159;21935399500;14422097400;58351076300",
+      "authorAffiliationIds": "60025153;60025153;60025153;123668789;123668789",
+      "corresponding": "Marchesoni M.",
+      "keywords": "Permanent magnet motors (PMSM) | Rotor flux observer | Sensorless control | Speed control",
+      "abstract": "Sensorless algorithms for Permanent Magnet Synchronous Motor (PMSM) are generally divided in methods for the low speed region and methods for the medium-high speed region. Algorithms based on high frequency injection show a good behavior for low motor speed, nevertheless voltage injection is associated to loud acoustic noise and additional losses. On the contrary, methods based on back-electromotive force and on rotor flux observer are passive methods (i.e. they do not require additional voltage injection); however they guarantees high performance only in the medium-high speed region. In this paper, rotor flux observer based sensorless algorithm performance is analyzed, specially focusing on behavior at low speed. No-load, linear torque, quadratic torque and compressor-type torque load is experimentally tested.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85075632529",
+      "title": "Low speed performance improvement in a self-commissioned sensorless PMSM drive based on rotor flux observer",
+      "doi": "10.23919/EPE.2019.8915004",
+      "venue": "2019 21st European Conference on Power Electronics and Applications EPE 2019 Ecce Europe",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100958234",
+      "authors": "Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis; Calvini Marco; Venturini Marco",
+      "author_ids": "6701827441;57195070159;21935399500;14422097400;58351076300",
+      "authorAffiliationIds": "60025153;60025153;60025153;123668963;123668963",
+      "corresponding": "Marchesoni M.",
+      "keywords": "Permanent Magnet Synchronous Motor (PMSM) | Rotor flux observer | Self-commissioning | Sensorlcss control | Speed control",
+      "abstract": "A self-commissioning sensorless algorithm for surface mounted permanent magnet synchronous motors is shown in this paper. The sensorless method is based on rotor flux observer and, differently from methods based on motor anisotropy, it does not require high frequency voltage injection; therefore, it does not cause additional losses and acoustic noise. The aim of this paper is to evaluate sensorless behavior in the low speed region, where performance of methods without high frequency voltage injection generally worsen. In particular, motor starting with rated torque at standstill and with intermittent torque is analyzed. Regarding self-commissioning algorithm, the estimation of motor parameters becomes crucial if this algorithm is used together with sensorless control, since the estimated values not only are used to realize the motion control (e.g., field oriented control) but also to estimate rotor position. Sensorless algorithm sensitiveness to motor parameter uncertainties is investigated. Experimental results are shown, using four different motors of various sizing.",
+      "citations": 5,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85070835514",
+      "title": "Soft-Switching Power Converters for Efficient Grid Applications",
+      "doi": "10.1109/EEEIC.2019.8783409",
+      "venue": "Proceedings 2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2019",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100924363",
+      "authors": "Farnesi Stefano; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "54392715100;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Farnesi S.",
+      "keywords": "Grid Integration | Medium Voltage Converter | Modular Multilevel Converter | Soft Switching | Solid State Transformer",
+      "abstract": "Nowadays, the Modular Multilevel Converter represents an important solution for grid applications, as it can easily extend the output voltage range, as required for instance in high voltage applications. The present paper studies the generalization of such a converter to a resonant version, not already used in high power applications, analyzing how it could perform in grid applications.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85065866430",
+      "title": "Supercapacitor storage sizing analysis for a series hybrid vehicle",
+      "doi": "10.3390/en12091759",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "12",
+      "issue_id": "9",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Passalacqua Massimiliano; Carpita Mauro; Gavin Serge; Marchesoni Mario; Repetto Matteo; Vaccaro Luis; Wasterlain Sébastien",
+      "author_ids": "57195070159;6603270189;36650500300;6701827441;56264520300;21935399500;59890575100",
+      "authorAffiliationIds": "60025153;60101868;60101868;60025153;60025153;60025153;60101868",
+      "corresponding": "Passalacqua M.",
+      "keywords": "Energy efficiency | Energy Management System (EMS) | Hybrid Electric Vehicle (HEV) | Series architecture | Storage sizing | Supercapacitor",
+      "abstract": "The increasing interest in Hybrid Electric Vehicles led to the study of new powertrain structures. In particular, it was demonstrated in the technical literature how series architecture can be more efficient, compared to parallel one, if supercapacitors are used as storage system. Since supercapacitors are characterized by high efficiency and high power density, but have low specific energy, storage sizing is a critical point with this technology. In this study, a detailed analysis on the effect of supercapacitor storage sizing on series architecture was carried out. In particular, in series architecture, supercapacitor storage sizing influences both engine number of starts and the energy that can be stored during regenerative braking. The first aspect affects the comfort, whereas the second aspect directly influences powertrain efficiency. Vehicle model and Energy Management System were studied and simulations were carried out for different storage energy, in order to define the optimal sizing.",
+      "citations": 15,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 81,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 71,
+              "rank": 62,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 69,
+              "rank": 208,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 66,
+              "rank": 33,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 63,
+              "rank": 9,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 60,
+              "rank": 72,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85068558901",
+      "title": "Capacitor voltage ripple minimization in voltage source converter for HVDC applications",
+      "doi": "10.1109/AEIT-HVDC.2019.8740647",
+      "venue": "2019 Aeit Hvdc International Conference Aeit Hvdc 2019",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100915608",
+      "authors": "Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis; Carpita Mauro; Gavin Serge; Kissling Simon",
+      "author_ids": "6701827441;57195070159;21935399500;6603270189;36650500300;57189070776",
+      "authorAffiliationIds": "60025153;60025153;60025153;60101868;60101868;60101868",
+      "corresponding": "Marchesoni M.",
+      "keywords": "Efficiency | HVDC | MMC | Multilevel converters | Voltage ripple reduction",
+      "abstract": "In this paper an exhaustive study on the effects of the circulating currents in the modular multilevel converter in HVDC applications is presented. In the first part, an analytical study of the converter is reported, with emphasis on the capacitors voltage ripple in presence of different circulating currents. In particular, the effects of the second and fourth harmonic components in the circulating current are evaluated in a general working point and, in particular, in the more significant working points corresponding to the inverter, rectifier, inductive and capacitive operation modes. The second part is a simulated HVDC plant verification of the voltage capacitor ripple expression.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85066999039",
+      "title": "Soft-switching cells for Modular Multilevel Converters for efficient grid integration of renewable sources",
+      "doi": "10.3934/energy.2019.3.246",
+      "venue": "Aims Energy",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "7",
+      "issue_id": "3",
+      "pages": "246-263",
+      "issn": "23338326",
+      "eIssn": "23338334",
+      "source_id": "21100836837",
+      "authors": "Farnesi Stefano; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis",
+      "author_ids": "54392715100;6701827441;57195070159;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Farnesi S.",
+      "keywords": "Grid integration | Medium voltage converter | Modular Multilevel Converter | Soft switching | Solid state transformer",
+      "abstract": "The Modular Multilevel Converter (MMC) concept is a modern energy conversion structure that stands out for a number of interesting features that opens wide application chances in Power Systems, for example for efficient grid integration of renewable sources. In these high-voltage, high-power application fields, a high efficiency is mandatory. In this regard, an interesting and promising development opportunity could be to make soft-switching the elementary converters of the submodules (cells), half H-bridges or full H-bridges, obtaining at the same time the advantage of increasing the switching frequency. The-Active Resonant Commutated Pole Converter (ARCP) or the Auxiliary Quasi Resonant DC-link Inverter (AQRDCL) soft-switching topologies appear adequate for this purpose. This paper is dedicated to examining these development possibilities.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 60,
+              "rank": 128,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 56,
+              "rank": 60,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 44,
+              "rank": 172,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 38,
+              "rank": 133,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 33,
+              "rank": 66,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 29,
+              "rank": 127,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85057056879",
+      "title": "Transformer Inrush Currents in a NPC Based Converter System for Cold Ironing Applications",
+      "doi": null,
+      "venue": "2018 20th European Conference on Power Electronics and Applications EPE 2018 Ecce Europe",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100887401",
+      "authors": "Mantegazza Emanuele; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Filippo; Vaccaro Luis",
+      "author_ids": "57204173047;6701827441;57195070159;57204173615;21935399500",
+      "authorAffiliationIds": "121671530;60025153;60025153;121671530;60025153",
+      "corresponding": "Mantegazza E.",
+      "keywords": "AC/AC converter | Interleaved converters | Multilevel converters | Voltage Source Converter (VSC)",
+      "abstract": "In this paper, the effects of the transformer inrush currents in a real plant for Cold Ironing, with a power equal to 11 MVA, based on a conversion system using 4 NPC converters in parallel is presented. The first part describes the plant and the related problems, while in the second part two possible solutions are presented with the support of real measured data.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85050146720",
+      "title": "Overview of different hybrid vehicle architectures",
+      "doi": "10.1016/j.ifacol.2018.07.036",
+      "venue": null,
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": "51",
+      "issue_id": "9",
+      "pages": "218-222",
+      "issn": null,
+      "eIssn": "24058963",
+      "source_id": null,
+      "authors": "Lanzarotto D.; Marchesoni M.; Passalacqua M.; Prato A. Pini; Repetto M.",
+      "author_ids": "57195070345;6701827441;57195070159;55493328400;56264520300",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Lanzarotto D.",
+      "keywords": "energy efficiency | hybrid electric vehicle | parallel architecture | series architecture | silicon carbide (SiC) | supercapacitor",
+      "abstract": "The large boom in the Hybrid Electric Vehicle (HEV) market sector has seen the spread of three main powertrain configurations: Discontinuously Variable Transmission (DVT) parallel architectures, Continuously Variable Transmission (CVT) parallel architectures and series architectures. In particular, CVT powertrains can count the highest number of sales in the HEV industry. In spite of this fact, in depth electrical losses analysis of this configuration and the introduction of more efficient electric component question the adoption of this powertrain as the model of energy efficiency. This paper aims to summarize the main results available in the scientific literature on this topic. It is firstly shown a fuel consumption comparison between the two parallel powertrains, secondly a brief description of the main electric component innovations is reported in order to fully understand the effects they have on the series architectures. Lastly, a fuel consumption comparison between the most efficient parallel solution and the series architecture is shown for the purpose of identifying the most efficient powertrain architecture.",
+      "citations": 44,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 42,
+              "rank": 218,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 32,
+              "rank": 161,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85050069606",
+      "title": "Conceptual design upgrade on hybrid pow ertrains resulting from electric improv ements",
+      "doi": "10.2495/TDI-V2-N2-146-154",
+      "venue": "International Journal of Transport Development and Integration",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "2",
+      "issue_id": "2",
+      "pages": "146-154",
+      "issn": "20588305",
+      "eIssn": "20588313",
+      "source_id": "21100922651",
+      "authors": "Passalacqua M.; Lanzarotto D.; Repetto M.; Marchesoni M.",
+      "author_ids": "57195070159;57195070345;56264520300;6701827441",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Passalacqua M.",
+      "keywords": "Hybrid vehicle | Parallel architecture | Powertrain efficiency | Series architecture | Supercapacitor",
+      "abstract": "Hybrid vehicles have experienced a great boom in recent years thanks to the increasing spread of 'parallel' architectures, often realized by a planetary gear train (Hybrid Synergy Drive). At the same time, an enhancement of electrical and electronic components has been experienced; these improvements especially concern reliability and efficiency. Particularly, the possibility of using supercapacitors with increasing storage performances makes possible to manage higher power flows together with a superior efficiency. These innovations may challenge the architecture used nowadays on medium size cars. The hybrid series architecture, which allows the optimal management of the combustion engine, has been disadvantaged until now by the electric powertrain efficiency. In the current scenario, this architecture could benefit from the above-mentioned technology, becoming a competitive alternative to the actual powertrain configurations. The aim of this article is the efficiency analysis, in order to evaluate the operational energy efficiency achievable thanks to this configuration. This analysis will be carried out considering all the possible working conditions of the different powertrains.",
+      "citations": 14,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Automotive Engineering",
+              "percentile": 51,
+              "rank": 66,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 40,
+              "rank": 248,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Transportation",
+              "percentile": 35,
+              "rank": 102,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85050165996",
+      "title": "Energy comparison between different parallel hybrid vehicles architectures",
+      "doi": "10.2495/EQ-V2-N4-370-380",
+      "venue": "International Journal of Energy Production and Management",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2017,
+      "volume": "2",
+      "issue_id": "4",
+      "pages": "370-380",
+      "issn": "20563272",
+      "eIssn": "20563280",
+      "source_id": "21100903414",
+      "authors": "Lanzarotto D.; Passalacqua M.; Repetto M.",
+      "author_ids": "57195070345;57195070159;56264520300",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Lanzarotto D.",
+      "keywords": "Continuously variable transmission | Hybrid vehicle | Parallel architecture | Powertrain efficiency",
+      "abstract": "A great boom of hybrid vehicles has taken place on the automotive market in recent years, in particular, all these vehicles are now equipped with a continuously variable transmission (CVT) thanks to the use of a planetary gear train and two electric motor-generators. The benefit provided by this system is the possibility to optimally control the engine velocity from an energy standpoint; in addition, drive comfort is increased thanks to the continuously variable transmission. However, this is obtained at the cost of some amount of electrical losses in the components necessary to realize the above-mentioned structure. This paper aims to evaluate the overall efficiency of this particular power train on different road missions; the same missions will be simulated at the same time for an identical hybrid vehicle equipped with a conventional transmission system. In order to perform an energy analysis of the two architectures, one has to accurately address the main components generating energy losses: it will be thus presented the set of equations from which the mathematical stationary model of the CVT was obtained and how the different electric components and the internal combustion engine were modeled. In addition, a brief description on the CVT optimization logic will be reported, the validity of this process will be then confirmed by comparing the ICE working points deriving from it and those declared by Toyota. Finally, the fuel economy values coming from various road simulations will be compared in order to determine if or which hybrid architecture proves to be the most efficient one.",
+      "citations": 13,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Sociology and Political Science",
+              "percentile": 74,
+              "rank": 392,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 51,
+              "rank": 160,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 37,
+              "rank": 196,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Global and Planetary Change",
+              "percentile": 35,
+              "rank": 84,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85041452438",
+      "title": "Electrical-loss analysis of power-split hybrid electric vehicles",
+      "doi": "10.3390/en10122142",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2017,
+      "volume": "10",
+      "issue_id": "12",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Bonfiglio Andrea; Lanzarotto Damiano; Marchesoni Mario; Passalacqua Massimiliano; Procopio Renato; Repetto Matteo",
+      "author_ids": "36607521000;57195070345;6701827441;57195070159;7801615894;56264520300",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Bonfiglio A.",
+      "keywords": "Continuously variable transmission | Electric machine | Energy efficiency | Hybrid electric vehicle | Hybrid synergy drive | Power-split device",
+      "abstract": "The growing development of hybrid electric vehicles (HEVs) has seen the spread of architectures with transmission based on planetary gear train, realized thanks to two electric machines. This architecture, by continuously regulating the transmission ratio, allows the internal combustion engine (ICE) to work in optimal conditions. On the one hand, the average ICE efficiency is increased thanks to better loading situations, while, on the other hand, electrical losses are introduced due to the power circulation between the two electrical machines mentioned above. The aim of this study is then to accurately evaluate electrical losses and the average ICE efficiency in various operating conditions and over different road missions. The models used in this study are presented for both the Continuously Variable Transmission (CVT) architecture and the Discontinuously Variable Transmission (DVT) architecture. In addition, efficiency maps of the main components are shown. Finally, the simulation results are presented to point out strengths and weaknesses of the CVT architecture.",
+      "citations": 18,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 80,
+              "rank": 18,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 73,
+              "rank": 55,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 69,
+              "rank": 202,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 63,
+              "rank": 7,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 55,
+              "rank": 67,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85025175637",
+      "title": "Advantages of using supercapacitors and silicon carbide on hybrid vehicle series architecture",
+      "doi": "10.3390/en10070920",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2017,
+      "volume": "10",
+      "issue_id": "7",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Passalacqua Massimiliano; Lanzarotto Damiano; Repetto Matteo; Marchesoni Mario",
+      "author_ids": "57195070159;57195070345;56264520300;6701827441",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Passalacqua M.",
+      "keywords": "Fuel economy | Hybrid vehicle | Power electronics | Series architecture | SiC | Supercapacitor",
+      "abstract": "In recent years enormous growth has taken place in the hybrid vehicle sector; parallel architecture is the most widespread configuration regarding medium size cars. At the same time, storage systems and power electronics have experienced some important innovations. The development of supercapacitors has permitted management of high power with elevated efficiency. Moreover, the availability on the market of silicon carbide components has allowed a significant reduction of power electronic losses. These improvements may challenge the hybrid architecture used in medium size cars nowadays. On one hand, series architecture would relevantly benefit from an electric powertrain efficiency increase, on the other hand, these innovations would generate low benefits in parallel architectures. The aim of this paper is to evaluate electric component average efficiency over different road missions, in order to estimate fuel economy over various working conditions and finally to establish which hybrid configuration is most efficient in vehicle applications.",
+      "citations": 20,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 80,
+              "rank": 18,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 73,
+              "rank": 55,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 69,
+              "rank": 202,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 63,
+              "rank": 7,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 55,
+              "rank": 67,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273517",
+      "authors": "Cosso, S.; Benevieri, A.; Passalacqua, M.; Vaccaro, L.; Formentini, A.; Marchesoni, M.",
+      "legacy_id": 670873,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Hybrid Energy Storage Systems for Plug-in Fuel Cell Electric Vehicle",
+      "scopus_id": "2-s2.0-105016628730",
+      "doi": "10.1109/ICCEP65222.2025.11143723",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1274176",
+      "authors": "Benevieri, A.; Passalacqua, M.; Formentini, A.; Vaccaro, L.; Marchesoni, M.",
+      "legacy_id": 671654,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "A Fast Model-Based Control for a Double-Input Three-Switch Bidirectional DC-DC Converter",
+      "scopus_id": "2-s2.0-105018374326",
+      "doi": "10.1109/TIA.2025.3618221",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1274196",
+      "authors": "Villa, Matteo; Cosso, Simone; Benevieri, Alessandro; Vaccaro, Luis; Passalacqua, Massimiliano; Kissling, Simon; Carpita, Mauro; Marchesoni, Mario",
+      "legacy_id": 671658,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Best Practice in PCB Design with Experimental Validation of a 50 A-120 V Converter for Low-Voltage Propulsion and Energy Applications",
+      "doi": "10.3390/electronics14214195",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1274177",
+      "authors": "Hussain, S.; Cosso, S.; Passalacqua, M.; Vaccaro, L. R.; Formentini, A.; Marchesoni, M.",
+      "legacy_id": 671657,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Efficiency Performance of 7-Level Multiplexed and 3-Level Neutral Point Clamped (NPC) Converters",
+      "scopus_id": "2-s2.0-105004856805",
+      "doi": "10.3390/en18092161",
+      "isi_id": "WOS:001486234200001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273448",
+      "authors": "Benevieri, A.; Passalacqua, M.; Formentini, A.; Vaccaro, L.; Marchesoni, M.",
+      "legacy_id": 670793,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "A Fast Model-Based Control for a Double-Input Three-Switch Bidirectional DC-DC Converter",
+      "scopus_id": "2-s2.0-86000438523",
+      "doi": "10.1109/ECCE55643.2024.10861341",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273182",
+      "authors": "Rodkin, D.; Formentini, A.; Passalacqua, M.; Vaccaro, L.; Marchesoni, M.",
+      "legacy_id": 670540,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "High efficiency control of AC-DC Matrix based buck converters: DCM modulation",
+      "scopus_id": "2-s2.0-86000451001",
+      "doi": "10.1109/ECCE55643.2024.10861334",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273516",
+      "authors": "Benevieri, A.; Cosso, S.; Formentini, A.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 670795,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Advances and Perspectives in Multilevel Converters: A Comprehensive Review",
+      "scopus_id": "2-s2.0-85211943269",
+      "doi": "10.3390/electronics13234736",
+      "isi_id": "WOS:001377756000001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273450",
+      "authors": "Carbone, L.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 670794,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Medium Voltage Sensorless Induction Motor Drive for Subsea Applications",
+      "scopus_id": "2-s2.0-85207502241",
+      "doi": "10.1109/ICEM60801.2024.10700411",
+      "isi_id": "WOS:001533422200287",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220060",
+      "authors": "Carbone, L.; Marchesoni, M.; Passalacqua, M.; Postiglione, G.; Vaccaro, L.; Vitaloni, C.",
+      "legacy_id": 598407,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Sensorless Control of Medium Voltage Induction Motor with LC Filter and Long Cable in Oil Pump Applications",
+      "scopus_id": "2-s2.0-85199493229",
+      "doi": "10.1109/TEC.2024.3433590",
+      "isi_id": "WOS:001492763800001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1169717",
+      "authors": "Carbone, Lorenzo; Marchesoni, Mario; Passalacqua, Massimiliano; Vaccaro, Luis; Formentini, Andrea",
+      "legacy_id": 540145,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "H2-LMI-Based High Performance Control for Matrix Converter",
+      "scopus_id": "2-s2.0-85179786373",
+      "doi": "10.1109/TIE.2023.3333014",
+      "isi_id": "WOS:001121225900001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1208998",
+      "authors": "Ravera, Alessandro; Formentini, Andrea; Lodi, Matteo; Oliveri, Alberto; Passalacqua, Massimiliano; Storace, Marco",
+      "legacy_id": 585151,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Modeling the Effect of Air-Gap Length and Number of Turns on Ferrite-Core Inductors Working up to Magnetic Saturation in a Buck Converter",
+      "scopus_id": "2-s2.0-85204943069",
+      "doi": "10.1109/TCSI.2024.3421261",
+      "isi_id": "WOS:001266925700001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1186535",
+      "authors": "Benevieri, Alessandro; Carbone, Lorenzo; Cosso, Simone; Marchesoni, Mario; Passalacqua, Massimiliano; Savio, Stefano; Vaccaro, Luis",
+      "legacy_id": 565766,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "A New Feed-Forward Control for Dynamics Improvement in a Dual-Input DC–DC Converter for Hybrid Vehicle Applications",
+      "scopus_id": "2-s2.0-85192750704",
+      "doi": "10.3390/en17092170",
+      "isi_id": "WOS:001220050000001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1223135",
+      "authors": "Cosso, S.; Benevieri Innocenti, A.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.; Pozzobon, P.",
+      "legacy_id": 602466,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "A New Topology of Multi-Input Bidirectional DC-DC Converters for Hybrid Energy Storage Systems",
+      "scopus_id": "2-s2.0-85207391518",
+      "doi": "10.3390/en17205120",
+      "isi_id": "WOS:001341679900001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1223136",
+      "authors": "Benevieri Innocenti, A.; Marchesoni, M.; Passalacqua, M.; Pozzobon, P.; Vaccaro, L.",
+      "legacy_id": 602486,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Synchronous DTC for torque sub-harmonic reduction in low switching frequency induction motor drives",
+      "scopus_id": "2-s2.0-85207857965",
+      "doi": "10.1016/j.conengprac.2024.106133",
+      "isi_id": "WOS:001350171800001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273181",
+      "authors": "Benevieri, A.; Carbone, L.; Cosso, S.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 670538,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Double input DC-DC converter for highly flexible and reliable Battery Storage Systems",
+      "scopus_id": "2-s2.0-85178325957",
+      "doi": "10.1051/e3sconf/202341401006",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273097",
+      "authors": "Benevieri, A.; Formentini, A.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 669976,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Model Predictive Control of a Double Input Bidirectional Boost DC-DC Converter",
+      "scopus_id": "2-s2.0-85175145117",
+      "doi": "10.23919/EPE23ECCEEurope58414.2023.10264606",
+      "isi_id": "WOS:001486234200001",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1140715",
+      "authors": "Cosso, S.; Kumar, K.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 500734,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Stability Issues in V/f Controlled Medium Voltage Induction Motor Drives Considering Magnetizing Inductance Variation",
+      "scopus_id": "2-s2.0-85163516463",
+      "doi": "10.1109/TEC.2023.3288673",
+      "isi_id": "WOS:001142609200027",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1117761",
+      "authors": "BENEVIERI INNOCENTI, Alessandro; Formentini, Andrea; Marchesoni, Mario; Passalacqua, Massimiliano; Vaccaro, LUIS RAMON",
+      "legacy_id": 475545,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Sensorless Control with Switching Frequency Square Wave Voltage Injection for SPMSM with Low Rotor Magnetic Anisotropy",
+      "doi": "10.1109/TPEL.2023.3270357",
+      "isi_id": "WOS:001022008800070",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "21"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1096273",
+      "authors": "Benevieri, A.; Cosso, S.; Formentini, A.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 436374,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Sensorless Control Exploiting PWM Ripple in PMSM with Low Anisotropy",
+      "scopus_id": "2-s2.0-85136221181",
+      "doi": "10.1109/SPEEDAM53979.2022.9842129",
+      "isi_id": "WOS:001429387900039",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1061760",
+      "authors": "Passalacqua, M.; Grosjean, G.; Kissling, S.; Bozorg, M.; Marchesoni, M.; Carpita, M.",
+      "legacy_id": 396433,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "A State-Space Approach to the Modelling and Control of the Neutral Leg of a Four Legs, Three-Phase Inverter",
+      "scopus_id": "2-s2.0-85103880162",
+      "doi": "10.1109/TIE.2021.3070495",
+      "isi_id": "WOS:000733446400080",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "7",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1099233",
+      "authors": "BENEVIERI INNOCENTI, Alessandro; Carbone, Lorenzo; Cosso, Simone; Kumar, Krishneel; Marchesoni, Mario; Passalacqua, Massimiliano; Vaccaro, LUIS RAMON",
+      "legacy_id": 441260,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Surface Permanent Magnet Synchronous Motors’ Passive Sensorless Control: A Review",
+      "scopus_id": "2-s2.0-85140610785",
+      "doi": "10.3390/en15207747",
+      "isi_id": "WOS:000872728200001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "11",
+      "citations_scopus": "14"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1079592",
+      "authors": "Carbone, L.; Cosso, S.; Kumar, K.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 417385,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Induction Motor Field-Oriented Sensorless Control with Filter and Long Cable",
+      "scopus_id": "2-s2.0-85125071541",
+      "doi": "10.3390/en15041484",
+      "isi_id": "WOS:000763035300001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "7",
+      "citations_scopus": "12"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1080337",
+      "authors": "Carbone, L.; Cosso, S.; Kumar, K.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 418209,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Stability Analysis of Open-Loop V/Hz Controlled Asynchronous Machines and Two Novel Mitigation Strategies for Oscillations Suppression",
+      "scopus_id": "2-s2.0-85124875347",
+      "doi": "10.3390/en15041404",
+      "isi_id": "WOS:000763346000001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "10",
+      "citations_scopus": "13"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102628",
+      "authors": "Schiapparelli, G. -P.; Passalacqua, M.; D'Agostino, F.; Vaccaro, L.; Marchesoni, M.; Silvestro, F.",
+      "legacy_id": 446070,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Experimental Assessment of Power Converters Control Strategies for Shipboard Microgrids",
+      "scopus_id": "2-s2.0-85137987811",
+      "doi": "10.1109/EEEIC/ICPSEurope54979.2022.9854761",
+      "isi_id": "WOS:000861373200212",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1055800",
+      "authors": "Benevieri, A.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 390077,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Experimental Low-Speed Performance Evaluation of Sensorless Passive Algorithms for SPMSM",
+      "scopus_id": "2-s2.0-85112608002",
+      "doi": "10.1109/TEC.2021.3101583",
+      "isi_id": "WOS:000761234400064",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "22",
+      "citations_scopus": "25"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102635",
+      "authors": "Cosso, S.; Formentini, A.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 446085,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "A fast control for a three-switch multi-input DC-DC converter",
+      "scopus_id": "2-s2.0-85141581126",
+      "isi_id": "WOS:000886231602107",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "3",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1055834",
+      "authors": "Kumar, Krishneel; Marchesoni, Mario; Maule, Zeno; Passalacqua, Massimiliano; Soso, Francesco; Vaccaro, Luis",
+      "legacy_id": 390107,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "Currents and Torque Oscillations Mitigation in High Power Induction Motor Drives",
+      "scopus_id": "2-s2.0-85124908491",
+      "doi": "10.1109/CPE-POWERENG50821.2021.9501186",
+      "isi_id": "WOS:000943271400031",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1056271",
+      "authors": "Benevieri, A.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 390551,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "Development and evaluation of sensorless control systems for SPMSM drives in the extreme low-speed region",
+      "scopus_id": "2-s2.0-85119066418",
+      "isi_id": "WOS:000832143900058",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1034074",
+      "authors": "Passalacqua, M.; Marchesoni, M.; Vaccaro, L.",
+      "legacy_id": 365249,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "A New Modulation Strategy for Exploiting Discontinuous Conduction Mode in a Double-Input Three-Switch Bidirectional DC-DC Converter",
+      "scopus_id": "2-s2.0-85096868481",
+      "doi": "10.1109/TIE.2020.3038059",
+      "isi_id": "WOS:000679564400046",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "9",
+      "citations_scopus": "15"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1075540",
+      "authors": "Carbone, L.; Cosso, S.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 412407,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "State‐space approach for spmsm sensorless passive algorithm tuning",
+      "scopus_id": "2-s2.0-85118530745",
+      "doi": "10.3390/en14217180",
+      "isi_id": "WOS:000719027600001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1077803",
+      "authors": "Benevieri, A.; Carbone, L.; Cosso, S.; Kumar, K.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 415114,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "Series architecture on hybrid electric vehicles: A review",
+      "scopus_id": "2-s2.0-85121029388",
+      "doi": "10.3390/en14227672",
+      "isi_id": "WOS:000724237800001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "7",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1055781",
+      "authors": "Benevieri, A.; Maragliano, G.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 390031,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "Induction motor direct torque control with synchronous PWM",
+      "scopus_id": "2-s2.0-85113255669",
+      "doi": "10.3390/en14165025",
+      "isi_id": "WOS:000689165600001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "8",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1049242",
+      "authors": "Passalacqua, Massimiliano",
+      "ssd": "Settore ING-IND/32 - Convertitori, Macchine e Azionamenti Elettrici",
+      "legacy_id": 382638,
+      "year": 2021,
+      "miur_type": "-2",
+      "title": "Sensorless Passive Control Algorithms for Medium to High Power Synchronous Motor Drives",
+      "doi": "10.15167/passalacqua-massimiliano_phd2021-07-19",
+      "type": "Tesi di dottorato"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1055795",
+      "authors": "Marchesoni, M.; Passalacqua, M.; Vaccaro, L.; Bordignon, P.",
+      "legacy_id": 390061,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "Modulating Signals Effect on Capacitor Voltage Ripple in Full Bridge Modular Multilevel Converters",
+      "scopus_id": "2-s2.0-85112867086",
+      "doi": "10.1109/AEITHVDC52364.2021.9474595",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1000027",
+      "authors": "Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 325604,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "A refined loss evaluation of a three-switch double input DC-DC converter for hybrid vehicle applications",
+      "scopus_id": "2-s2.0-85077446316",
+      "doi": "10.3390/en13010204",
+      "isi_id": "WOS:000520425800204",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "8",
+      "citations_scopus": "14"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1010369",
+      "authors": "Marchesoni, M.; Passalacqua, M.; Vaccaro, L.; Calvini, M.; Venturini, M.",
+      "legacy_id": 337528,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Performance improvement in a sensorless surface-mounted PMSM drive based on rotor flux observer",
+      "scopus_id": "2-s2.0-85076675691",
+      "doi": "10.1016/j.conengprac.2019.104276",
+      "isi_id": "WOS:000517664100002",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "19",
+      "citations_scopus": "26"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1010028",
+      "authors": "Repetto, M.; Passalacqua, M.; Vaccaro, L.; Marchesoni, M.; Prato, A. P.",
+      "legacy_id": 337169,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Turbocompound power unit modelling for a supercapacitor-based series hybrid vehicle application",
+      "scopus_id": "2-s2.0-85078198084",
+      "doi": "10.3390/en13020447",
+      "isi_id": "WOS:000520432300161",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "6",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1034056",
+      "authors": "Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 365220,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "A High-Efficiency Control of a Double-Input Converter for Renewable Energies and Hybrid Vehicles",
+      "scopus_id": "2-s2.0-85094911821",
+      "doi": "10.23919/EPE20ECCEEurope43536.2020.9215752",
+      "isi_id": "WOS:000629036800166",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1025770",
+      "authors": "Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 355658,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "An improved control strategy for an innovative DC-DC converter for interfacing energy storage systems",
+      "scopus_id": "2-s2.0-85091156136",
+      "doi": "10.1109/SPEEDAM48782.2020.9161905",
+      "isi_id": "WOS:000612838400137",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/953777",
+      "authors": "Passalacqua, M.; Lanzarotto, D.; Repetto, M.; Vaccaro, L.; Bonfiglio, A.; Marchesoni, M.",
+      "legacy_id": 273404,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Fuel Economy and EMS for a Series Hybrid Vehicle Based on Supercapacitor Storage",
+      "scopus_id": "2-s2.0-85068677902",
+      "doi": "10.1109/TPEL.2019.2895209",
+      "isi_id": "WOS:000474581900052",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "29",
+      "citations_scopus": "40"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/979463",
+      "authors": "Passalacqua, M.; Carpita, M.; Gavin, S.; Marchesoni, M.; Repetto, M.; Vaccaro, L.; Wasterlain, S.",
+      "legacy_id": 302398,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Supercapacitor storage sizing analysis for a series hybrid vehicle",
+      "scopus_id": "2-s2.0-85065866430",
+      "doi": "10.3390/en12091759",
+      "isi_id": "WOS:000469761700175",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "13",
+      "citations_scopus": "15"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/983905",
+      "authors": "Farnesi, S.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 307161,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Soft-Switching Power Converters for Efficient Grid Applications",
+      "scopus_id": "2-s2.0-85070835514",
+      "doi": "10.1109/EEEIC.2019.8783409",
+      "isi_id": "WOS:000502821300091",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1003406",
+      "authors": "Marchesoni, M.; Passalacqua, M.; Vaccaro, L.; Calvini, M.; Venturini, M.",
+      "legacy_id": 329502,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Low speed performance improvement in a self-commissioned sensorless PMSM drive based on rotor flux observer",
+      "scopus_id": "2-s2.0-85075632529",
+      "doi": "10.23919/EPE.2019.8915004",
+      "isi_id": "WOS:000515073401045",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "3",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/983898",
+      "authors": "Marchesoni, M.; Passalacqua, M.; Vaccaro, L.; Carpita, M.; Gavin, S.; Kissling, S.",
+      "legacy_id": 307151,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Capacitor voltage ripple minimization in voltage source converter for HVDC applications",
+      "scopus_id": "2-s2.0-85068558901",
+      "doi": "10.1109/AEIT-HVDC.2019.8740647",
+      "isi_id": "WOS:000491419200024",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/979427",
+      "authors": "Farnesi, S.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 302376,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Soft-switching cells for Modular Multilevel Converters for efficient grid integration of renewable sources",
+      "scopus_id": "2-s2.0-85066999039",
+      "doi": "10.3934/energy.2019.3.246",
+      "isi_id": "WOS:000474458100001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1003199",
+      "authors": "Maragliano, G.; Carpita, M.; Kissling, S.; Marchesoni, M.; Passalacqua, M.; Pidancier, T.; Vaccaro, F.; Vaccaro, L.",
+      "legacy_id": 329258,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "A new common mode voltage reduction method in a generalized space vector modulator for cascaded multilevel converters",
+      "scopus_id": "2-s2.0-85076668962",
+      "doi": "10.23919/EPE.2019.8914889",
+      "isi_id": "WOS:000515073400085",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1003582",
+      "authors": "Marchesoni, M.; Passalacqua, M.; Vaccaro, L.; Calvini, M.; Venturini, M.",
+      "legacy_id": 329681,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "An Improved Low-Noise Sensorless PMSM Drive able to Face Highly Intermittent Load Torque",
+      "scopus_id": "2-s2.0-85075636678",
+      "doi": "10.1109/SLED.2019.8896293",
+      "isi_id": "WOS:000728098700017",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/999627",
+      "authors": "Farnesi, S.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.",
+      "legacy_id": 325106,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Solid-state transformers in locomotives fed through AC lines: A review and future developments",
+      "scopus_id": "2-s2.0-85076947747",
+      "doi": "10.3390/en12244711",
+      "isi_id": "WOS:000506918400104",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "15",
+      "citations_scopus": "19"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/931737",
+      "authors": "Passalacqua, M.; Lanzarotto, D.; Repetto, M.; Marchesoni, M.",
+      "legacy_id": 247944,
+      "year": 2018,
+      "miur_type": "262",
+      "title": "Conceptual design upgrade on hybrid powertrains resulting from electric improvements",
+      "scopus_id": "2-s2.0-85050069606",
+      "doi": "10.2495/TDI-V2-N2-146-154",
+      "isi_id": "WOS:000562631700013",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "7",
+      "citations_scopus": "14"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/943670",
+      "authors": "Lanzarotto, D.; Marchesoni, M.; Passalacqua, M.; Prato, A. Pini; Repetto, M.",
+      "legacy_id": 262308,
+      "year": 2018,
+      "miur_type": "268",
+      "title": "Overview of different hybrid vehicle architectures",
+      "scopus_id": "2-s2.0-85050146720",
+      "isi_id": "WOS:000439162300037",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_isi": "29",
+      "citations_scopus": "44"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/943676",
+      "authors": "Mantegazza, Emanuele; Marchesoni, Mario; Passalacqua, Massimiliano; Vaccaro, Filippo; Vaccaro, Luis",
+      "legacy_id": 262314,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Transformer Inrush Currents in a NPC Based Converter System for Cold Ironing Applications",
+      "scopus_id": "2-s2.0-85057056879",
+      "isi_id": "WOS:000450299300143",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/885543",
+      "authors": "Passalacqua, Massimiliano; Lanzarotto, Damiano; Repetto, Matteo; Marchesoni, Mario",
+      "legacy_id": 196824,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "Conceptual design upgrade on hybrid powertrains resulting from electrics improvements",
+      "isi_id": "WOS:000562631700013",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1108613",
+      "authors": "Lanzarotto, D.; Passalacqua, M.; Repetto, M.",
+      "legacy_id": 456716,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "Energy comparison between different parallel hybrid vehicles architectures",
+      "scopus_id": "2-s2.0-85050165996",
+      "doi": "10.2495/eq-v2-n4-370-380",
+      "isi_id": "WOS:000562630900007",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "7",
+      "citations_scopus": "13"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/885552",
+      "authors": "Bonfiglio, Andrea; Lanzarotto, Damiano; Marchesoni, Mario; Passalacqua, Massimiliano; Procopio, Renato; Repetto, Matteo",
+      "legacy_id": 196836,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "Electrical-Loss Analysis of Power-Split Hybrid Electric Vehicles",
+      "scopus_id": "2-s2.0-85041452438",
+      "doi": "10.3390/en10122142",
+      "isi_id": "WOS:000423156900213",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "14",
+      "citations_scopus": "18"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/882091",
+      "authors": "Passalacqua, Massimiliano; Lanzarotto, Damiano; Repetto, Matteo; Marchesoni, Mario",
+      "legacy_id": 192968,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "Advantages of using supercapacitors and silicon carbide on hybrid vehicle series architecture",
+      "scopus_id": "2-s2.0-85025175637",
+      "doi": "10.3390/en10070920",
+      "isi_id": "WOS:000406700200091",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "21",
+      "citations_scopus": "20"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1107873",
+      "authors": "Lanzarotto, D.; Passalacqua, M.; Repetto, M.",
+      "legacy_id": 456715,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "Energy comparison between different parallel hybrid vehicles architectures",
+      "scopus_id": "2-s2.0-85050165996",
+      "doi": "10.2495/eq-v2-n4-370-380",
+      "isi_id": "WOS:000562630900007",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "7",
+      "citations_scopus": "13"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:15:04.974005"
+}

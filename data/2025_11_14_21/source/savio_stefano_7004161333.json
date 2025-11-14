@@ -1,0 +1,2158 @@
+{
+  "surname": "Savio",
+  "name": "Stefano",
+  "unit": "ELE",
+  "email": "stefano.savio@unige.it",
+  "phone": "+39 010 33 52182",
+  "page": "https://rubrica.unige.it/personale/VUZEUlpp",
+  "website": "",
+  "unige_id": "053900",
+  "scopus_id": "7004161333",
+  "role": "Professore associato",
+  "grade": "Prof.Associato DPR 232/11 art.2 - t.pieno - cl. 8",
+  "ssd": "IIND-08/A (Convertitori, macchine e azionamenti elettrici)",
+  "location": [
+    {
+      "building": "Opera Pia - padiglione D (ED_161450401)",
+      "floor": "1° piano",
+      "room": "US_161450401.I.011"
+    }
+  ],
+  "career": [
+    {
+      "role": "PA",
+      "from": "2012-05-01 00:00:00.0000000",
+      "to": "2222-02-02 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [
+    {
+      "title": "Responsabile per l'Assicurazione della Qualità del Dipartimento",
+      "from": "2025-04-29 00:00:00.0000000",
+      "to": "2028-04-28 00:00:00.0000000",
+      "unit": "Dipartimento di ingegneria navale, elettrica, elettronica e delle telecomunicazioni - DITEN"
+    }
+  ],
+  "teaching": {
+    "2025": [
+      {
+        "course": "METODI E MODELLI PER LA PREDIZIONE DI DEPENDABILITY DEI SISTEMI INDUSTRIALI (118113)",
+        "degree": "L-9 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "METODI E MODELLI PER LA PREDIZIONE DI DEPENDABILITY DEI SISTEMI INDUSTRIALI (118113)",
+        "degree": "L-9 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "MACCHINE ELETTRICHE (66171)",
+        "degree": "L-9 - INGEGNERIA ELETTRICA"
+      }
+    ],
+    "2024": [
+      {
+        "course": "MACCHINE ELETTRICHE (66171)",
+        "degree": "L-9 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "AFFIDABILITÀ E SICUREZZA DEI SISTEMI (94678)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "AFFIDABILITÀ E SICUREZZA DEI SISTEMI (94678)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      }
+    ],
+    "2023": [
+      {
+        "course": "MACCHINE ELETTRICHE (66171)",
+        "degree": "L-9 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "AFFIDABILITÀ E SICUREZZA DEI SISTEMI (94678)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      }
+    ],
+    "2022": [
+      {
+        "course": "MACCHINE ELETTRICHE (66171)",
+        "degree": "L-9 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "AFFIDABILITÀ E SICUREZZA DEI SISTEMI (94678)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      }
+    ],
+    "2021": [
+      {
+        "course": "MACCHINE ELETTRICHE (66171)",
+        "degree": "L-9 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "AFFIDABILITÀ E SICUREZZA DEI SISTEMI (94678)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "AZIONAMENTI ELETTRICI (72307)",
+        "degree": "L-9 - INGEGNERIA MECCANICA"
+      }
+    ],
+    "2020": [
+      {
+        "course": "MACCHINE ELETTRICHE (66171)",
+        "degree": "L-9 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "AFFIDABILITÀ E SICUREZZA DEI SISTEMI (94678)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 11,
+      "total_products": 52,
+      "journals": 7,
+      "conferences": 41,
+      "citations": 645,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 7,
+      "total_products": 18,
+      "journals": 6,
+      "conferences": 12,
+      "citations": 482,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 6,
+      "total_products": 12,
+      "journals": 4,
+      "conferences": 8,
+      "citations": 406,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 2,
+      "total_products": 6,
+      "journals": 2,
+      "conferences": 4,
+      "citations": 12,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-105013881215",
+      "title": "Digital Control of Multilevel Interleaved GaN DC-DC Converter for Fuel Cell Electric Powertrains",
+      "doi": "10.1109/TIA.2025.3599817",
+      "venue": "IEEE Transactions on Industry Applications",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "00939994",
+      "eIssn": "19399367",
+      "source_id": "17361",
+      "authors": "Savio Stefano; Giuffrida Simone; Mandrile Fabio; Stella Fausto; Armando Eric Giacomo; Bojoi Radu",
+      "author_ids": "7004161333;59117055600;57206669520;57195946876;24476525700;57216646029",
+      "authorAffiliationIds": null,
+      "corresponding": "Savio S.",
+      "keywords": "DC-DC converters | digital control | Fuel cells | Gallium Nitride (GaN) | Multilevel converters",
+      "abstract": "Fuel cells are increasingly recognized as a viable alternative to traditional battery packs in electric vehicles, particularly for long-distance transport requiring reduced weight and extended range. Despite their advantages, the low and load-dependent output voltage of fuel cell stacks (typically below 200 V) requires the use of high-efficiency boost DC-DC converters to achieve the required voltage (400-800 V) for electric powertrains. In this context, gallium nitride (GaN) technology enables switching frequencies exceeding 100 kHz, making it a prime candidate for high-power, high-density DC-DC converters. The main focus of this paper is the development and implementation of an advanced digital control solution tailored to a high-power, multilevel interleaved GaN-based DC-DC converter operating at a 100 kHz switching frequency. The high switching frequency, while beneficial for reducing passive component sizes and improving transient response, introduces significant challenges in synchronization, sampling, and the precise control of multiple interleaved cells. Analog control systems struggle to handle these requirements effectively, motivating the adoption of a digital control strategy that ensures high performance and flexibility. Experimental validation is performed on a reduced-scale prototype, demonstrating the robustness of the control scheme under dynamic conditions, including voltage step changes and load transients. The results confirm the effectiveness of the proposed digital control strategy in maintaining accurate voltage regulation, current sharing, and capacitor balancing, even under the demanding operating conditions imposed by high switching frequencies.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 90,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 89,
+              "rank": 102,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 88,
+              "rank": 49,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85192750704",
+      "title": "A New Feed-Forward Control for Dynamics Improvement in a Dual-Input DC–DC Converter for Hybrid Vehicle Applications",
+      "doi": "10.3390/en17092170",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "17",
+      "issue_id": "9",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Benevieri Alessandro; Carbone Lorenzo; Cosso Simone; Marchesoni Mario; Passalacqua Massimiliano; Savio Stefano; Vaccaro Luis",
+      "author_ids": "57226763007;57324886200;57324695200;6701827441;57195070159;7004161333;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Benevieri A.",
+      "keywords": "control strategy | DCM | DC–DC converter | feed forward | multi-input converter",
+      "abstract": "In this study, a double-input single-output bidirectional DC–DC converter is considered. This particular architecture allows less switches to be used than a conventional solution. A new feed-forward current control for this DC–DC converter with three switches is presented in this paper. The modulation technique proposed in the literature for the aforementioned converter leads to a consistent loss reduction at low load, exploiting the DCM. As a drawback, when using this control strategy, the dynamic response worsens significantly. To speed up the control, a feed-forward approach is designed and implemented using a simplified converter electrical model. The proposed strategy is compared with the conventional PI controller, and it is validated and verified through simulation results in the MATLAB/Simulink/PLECS environment and through experimental tests using a converter prototype.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 90,
+              "rank": 15,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 85,
+              "rank": 39,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 82,
+              "rank": 173,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 75,
+              "rank": 73,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 71,
+              "rank": 38,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 68,
+              "rank": 32,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 105,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-86000465810",
+      "title": "Design of a 75kW Three-Level DC/DC GaN Converter for Automotive Fuel-cell Application",
+      "doi": "10.1109/ECCE55643.2024.10861727",
+      "venue": "2024 IEEE Energy Conversion Congress and Exposition Ecce 2024 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "2475-2482",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101281529",
+      "authors": "Giuffrida Simone; Savio Stefano; Mandrile Fabio; Stella Fausto; Armando Eric; Bojoi Radu",
+      "author_ids": "59117055600;7004161333;57206669520;57195946876;24476525700;57216646029",
+      "authorAffiliationIds": "60012162;60012162;60012162;60012162;60012162;60012162",
+      "corresponding": "Giuffrida S.",
+      "keywords": "Automotive | DC/DC converter | Fuel-cell | GaN HEMTs | Multilevel",
+      "abstract": "Nowadays, fuel cells represent a promising alternative to replace battery packs for electric vehicles where weight is a concern or where electrical charging is not possible. With respect to a battery pack, built up to 800V, the output voltage of fuel cell stacks is rather low (typically below 200V) and also it is strongly dependent on the load current. Therefore, the integration of a fuel cell in an electrical powertrain needs a DC-DC converter that must exhibit high efficiency and power density. Therefore, this paper presents the design and optimization of a 75 kW, multi-level DC-DC converter leveraging the benefits of the gallium-nitride (GaN) power devices and on the ceramic technology for the capacitors. The paper presents results regarding the GaN device selection with loss analysis, the DC link capacitor sizing and the design of magnetic components. The estimated power density of the converter is 41.7kW/L with a 99.1% overall maximum efficiency.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-86000458329",
+      "title": "Digital Control of a Multilevel Interleaved DC-DC GaN Converter for Fuel Cell Traction Applications",
+      "doi": "10.1109/ECCE55643.2024.10861747",
+      "venue": "2024 IEEE Energy Conversion Congress and Exposition Ecce 2024 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "4484-4490",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101281529",
+      "authors": "Savio Stefano; Giuffrida Simone; Mandrile Fabio; Stella Fausto; Armando Eric; Bojoi Radu",
+      "author_ids": "7004161333;59117055600;57206669520;57195946876;24476525700;57216646029",
+      "authorAffiliationIds": "60012162;60012162;60012162;60012162;60012162;60012162",
+      "corresponding": "Savio S.",
+      "keywords": "DCDC converter | Digital control | Fuel cells | GaN",
+      "abstract": "Nowadays, fuel cells represent a promising alternative to replace battery packs for electric vehicles where weight or the limited range is a concern. With respect to a battery pack, built up to 800 V, the output voltage of fuel cell stacks is rather low (typically below 200 V) and it is strongly dependent on the load current. Therefore, the integration of a fuel cell in an electrical powertrain needs a DC-DC converter. To maximize the power density, the gallium-nitride (GaN) technology represents an interesting solution as it allows unprecedented performance in terms of switching frequency. As the rated voltage of available GaN devices is limited to 650 V, multilevel solutions must be employed for DC-DC converters whose output is 800 V. As the switching frequencies are usually above 100 kHz, the control of such converters is challenging, especially when multiple interleaved switching cells must be controlled. The literature reports several publications focusing on the adopted topologies for DC-DC conversion, while few papers deal with the digital control of such multilevel DC-DC converters. Therefore, the goal of this paper is the digital control applied to a high-power multilevel interleaved GaN DC-DC converter for an electrical powertrain fed by fuel cell.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85192689187",
+      "title": "Cost Effective 3D Printed Heatsink for Fast Prototyping of WBG Power Converters",
+      "doi": "10.1109/APEC48139.2024.10509035",
+      "venue": "Conference Proceedings IEEE Applied Power Electronics Conference and Exposition APEC",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "2562-2567",
+      "issn": "10482334",
+      "eIssn": null,
+      "source_id": "31003",
+      "authors": "Stella Fausto; Savio Stefano; Vico Enrico; Bojoi Radu; Armando Eric",
+      "author_ids": "57195946876;7004161333;57221641780;57216646029;24476525700",
+      "authorAffiliationIds": "60012162;60012162;60012162;60012162;60012162",
+      "corresponding": "Stella F.",
+      "keywords": "3D Printing | Advanced Cooling | Heatsink | Liquid Cooling | Rapid Prototyping | Wide Bandgap",
+      "abstract": "Power density has become a critical figure of merit in power conversion systems, especially in automotive and aerospace applications. Nowadays, wide band gap (WBG) devices are revolutionizing power conversion by enabling unprecedented levels of efficiency and power density. High power density is possible only with advanced integrated cooling solutions based on custom-made heatsinks that must be properly tailored to match the packages of the WBG devices selected for the application. However, the design and prototyping of custom-made heatsinks, typically crafted from aluminium, require significant cost and time during the converter iterative prototyping phases. To address these challenges, this digest proposes a liquid-cooled heatsink made of a combination of 3D-printed plastic material and aluminium. The proposed heatsink, tailored for rapid prototyping, leads to a drastic reduction in costs and development time compared to traditional aluminium heatsinks. Moreover, the incorporation of plastic material delivers additional benefits, including reduced weight and seamless integration with electronic components, owing to its inherent insulating properties.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 55,
+              "rank": 447,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 57,
+              "rank": 410,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85162210149",
+      "title": "An Integrated Capacitive Power Transfer System for Field Excitation of Wound Field Synchronous Machine",
+      "doi": "10.1109/APEC43580.2023.10131173",
+      "venue": "Conference Proceedings IEEE Applied Power Electronics Conference and Exposition APEC",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": "2023-March",
+      "issue_id": null,
+      "pages": "829-835",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "31003",
+      "authors": "Savio Stefano; Hassan Gillani Syed Muhammad; Pratik Ujjwal; Chattopadhyay Ritvik; Husain Iqbal; Pantic Zeljko",
+      "author_ids": "7004161333;58318211500;57200517361;55976417200;7006220122;35223647000",
+      "authorAffiliationIds": "60012162;60279548;60279548;60279548;60279548;60279548",
+      "corresponding": "Savio S.",
+      "keywords": "brushless | Capacitive Power Transfer (CPT) | wireless power transfer | Wound Field Synchronous Machine (WFSM)",
+      "abstract": "The development of cost-effective electric vehicles has renewed interest in Wound Field Synchronous Machines (WFSMs) for traction applications. However, low efficiency and frequent maintenance of the brushes prevent a wider adoption of WFSMs. To overcome these challenges, the application of wireless power transfer systems for field excitation has recently been explored. This paper presents an integrated Capacitive Power Transfer (CPT) system for field excitation of WFSMs. The proposed coupling structure for CPT is placed within the air gap of the machine. The CPT coupling plates are made of magnetic material. The novelty of the proposed approach is that the presented design allows power transfer to the rotor without increasing the active volume of the machine. A preliminary feasibility analysis of the system is performed through Finite Element Analysis (FEA) simulations. A prototype with a stator and a Computer Numerical Control (CNC) fabricated replica of a rotor is developed to test the proposed CPT system. Experimental verification of the proposed power transfer system demonstrates an efficiency of 81.3% with a transferred power of 64 W at 2 MHz frequency.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 55,
+              "rank": 447,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 49,
+              "rank": 406,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85067817812",
+      "title": "Data-driven ship digital twin for estimating the speed loss caused by the marine fouling",
+      "doi": "10.1016/j.oceaneng.2019.05.045",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "186",
+      "issue_id": null,
+      "pages": null,
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Coraddu Andrea; Oneto Luca; Baldi Francesco; Cipollini Francesca; Atlar Mehmet; Savio Stefano",
+      "author_ids": "55193514900;41262130900;57213300200;57197726257;6701684164;7004161333",
+      "authorAffiliationIds": "60024724;60121711;60019637;60121711;60024724;60025153",
+      "corresponding": "Coraddu A.",
+      "keywords": "Condition based maintenance | Data-Driven Models | Deep learning | Digital twin | Fouling | Hull and propeller maintenance | ISO 19030",
+      "abstract": "Shipping is responsible for approximately the 90% of world trade leading to significant impacts on the environment. As a consequence, a crucial issue for the maritime industry is to develop technologies able to increase the ship efficiency, by reducing fuel consumption and unnecessary maintenance operations. For example, the marine fouling phenomenon has a deep impact, since to prevent or reduce its growth which affects the ship consumption, costly drydockings for cleaning the hull and the propeller are needed and must be scheduled based on a speed loss estimation. In this work a data driven Digital Twin of the ship is built, leveraging on the large amount of information collected from the on-board sensors, and is used for estimating the speed loss due to marine fouling. A thorough comparison between the proposed method and ISO 19030, which is the de-facto standard for dealing with this task, is carried out on real-world data coming from two Handymax chemical/product tankers. Results clearly show the effectiveness of the proposal and its better speedloss prediction accuracy with respect to the ISO 19030, thus allowing reducing the fuel consumption due to fouling.",
+      "citations": 212,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 87,
+              "rank": 12,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 76,
+              "rank": 32,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85053839190",
+      "title": "Improvements of the Ship Energy Efficiency by a Steam Powered Turbogenerator in LNG Propulsion Applications",
+      "doi": "10.1109/SPEEDAM.2018.8445202",
+      "venue": "Speedam 2018 Proceedings International Symposium on Power Electronics Electrical Drives Automation and Motion",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": null,
+      "issue_id": null,
+      "pages": "449-455",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100878002",
+      "authors": "Altosole M.; Campora U.; Savio S.",
+      "author_ids": "13006187800;6508251998;7004161333",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Altosole M.",
+      "keywords": "Heat recovery | LNG fuel | Marine hybrid propulsion | Ship energy efficiency | Steam turbogenerator",
+      "abstract": "This paper focuses on potential benefits due to the Waste Heat Recovery (WHR) from marine dual fuel engines. WHR solutions are usually adopted for the traditional diesel oil applications, while for gas fueled engines are currently under consideration (mainly due to the relatively high investment costs). In order to promote this ecofriendly technology within a marine hybrid propulsion system, it is important to assess the possible improvements in the ship energy efficiency, identifying an appropriate application and analyzing its overall performance level. Compared to traditional diesel oil, the use of the Liquefied Natural Gas (LNG) as fuel allows a better exploitation of the engine exhaust gas energy, resulting into a larger availability of steam for the surplus production of the ship electric energy. In order to evaluate the feasibility of an efficient WHR system in LNG propulsion applications, a numerical code representing the steam powered turbogenerator dynamics is presented. For the proposed case study, simulation results show a good behavior in the most critical electric load variations, confirming the correct sizing of the several WHR system components.",
+      "citations": 11,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85061160245",
+      "title": "Unintrusive Monitoring of Induction Motors Bearings via Deep Learning on Stator Currents",
+      "doi": "10.1016/j.procs.2018.10.503",
+      "venue": "Procedia Computer Science",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": "144",
+      "issue_id": null,
+      "pages": "42-51",
+      "issn": null,
+      "eIssn": "18770509",
+      "source_id": "19700182801",
+      "authors": "Cipollini Francesca; Oneto Luca; Coraddu Andrea; Savio Stefano; Anguita Davide",
+      "author_ids": "57197726257;41262130900;55193514900;7004161333;7004764744",
+      "authorAffiliationIds": "60121711;60121711;60024724;60025153;60121711",
+      "corresponding": "Cipollini F.",
+      "keywords": "Bearings | Deep Learning | Induction Motors | Monitoring | Stator Currents",
+      "abstract": "Induction motors are fundamental components of several modern automation system, and they are one of the central pivot of the developing e-mobility era. The most vulnerable parts of an induction motor are the bearings, the stator winding and the rotor bars. Consequently, monitoring and maintaining them during operations is vital. In this work, authors propose an Induction Motors bearings monitoring tool which leverages on stator currents signals processed with a Deep Learning architecture. Differently from the state-of-the-art approaches which exploit vibration signals, collected by easily damageable and intrusive vibration probes, the stator currents signals are already commonly available, or easily and unintrusively collectable. Moreover, instead of using now-classical data-driven models, authors exploit a Deep Learning architecture able to extract from the stator current signal a compact and expressive representation of the bearings state, ultimately providing a bearing fault detection system. In order to estimate the effectiveness of the proposal, authors collected a series of data from an inverter-fed motor mounting different artificially damaged bearings. Results show that the proposed approach provides a promising and effective yet simple bearing fault detection system.",
+      "citations": 14,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 55,
+              "rank": 107,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 67,
+              "rank": 70,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84953876479",
+      "title": "Machine learning approaches for improving condition-based maintenance of naval propulsion plants",
+      "doi": "10.1177/1475090214540874",
+      "venue": "Proceedings of the Institution of Mechanical Engineers Part M Journal of Engineering for the Maritime Environment",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2016,
+      "volume": "230",
+      "issue_id": "1",
+      "pages": "136-153",
+      "issn": "14750902",
+      "eIssn": "20413084",
+      "source_id": "25596",
+      "authors": "Coraddu Andrea; Oneto Luca; Ghio Aessandro; Savio Stefano; Anguita Davide; Figari Massimo",
+      "author_ids": "55193514900;41262130900;23492204700;7004161333;7004764744;6507282370",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60121711;60025153",
+      "corresponding": "Coraddu A.",
+      "keywords": "asset decay forecast | COmbined Diesel eLectric And Gas propulsion plant | Condition-based maintenance | gas turbine | machine learning",
+      "abstract": "Availability, reliability and economic sustainability of naval propulsion plants are key elements to cope with because maintenance costs represent a large slice of total operational expenses. Depending on the adopted strategy, impact of maintenance on overall expenses can remarkably vary; for example, letting an asset running up until breakdown can lead to unaffordable costs. As a matter of fact, a desideratum is to progress maintenance technology of ship propulsion systems from breakdown or preventive maintenance up to more effective condition-based maintenance approaches. The central idea in condition-based maintenance is to monitor the propulsion equipment by exploiting heterogeneous sensors, enabling diagnosis and, most of all, prognosis of the propulsion system's components and of their potential future failures. The success of condition-based maintenance clearly hinges on the capability of developing effective predictive models; for this purpose, effective use of machine learning methods is proposed in this article. In particular, authors take into consideration an application of condition-based maintenance to gas turbines used for vessel propulsion, where the performance and advantages of exploiting machine learning methods in modeling the degradation of the propulsion plant over time are tested. Experiments, conducted on data generated from a sophisticated simulator of a gas turbine, mounted on a Frigate characterized by a COmbined Diesel eLectric And Gas propulsion plant type, will allow to show the effectiveness of the proposed machine learning approaches and to benchmark them in a realistic maritime application.",
+      "citations": 135,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 68,
+              "rank": 37,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 66,
+              "rank": 249,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2016,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 71,
+              "rank": 25,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 70,
+              "rank": 161,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84946196162",
+      "title": "Machine learning for wear forecasting of naval assets for condition-based maintenance applications",
+      "doi": "10.1109/ESARS.2015.7101499",
+      "venue": "Electrical Systems for Aircraft Railway and Ship Propulsion Esars",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2015,
+      "volume": "2015-May",
+      "issue_id": null,
+      "pages": null,
+      "issn": "21659400",
+      "eIssn": "21659427",
+      "source_id": "21100228516",
+      "authors": "Coraddu Andrea; Oneto Luca; Ghio Alessandro; Savio Stefano; Figari Massimo; Anguita Davide",
+      "author_ids": "55193514900;41262130900;23492204700;7004161333;6507282370;7004764744",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60121711",
+      "corresponding": "Coraddu A.",
+      "keywords": "Condition-Based Maintenance | Machine Learning | Naval Propulsion Plant | Publicly Distributed Dataset",
+      "abstract": "Economic sustainability of running Naval Propulsion Plants is a key element to cope with, and maintenance costs represent a large slice of total operational expenses: last decades' approaches, based on a repairing-replacing methodology, are being trespassed by more effective approaches, relying on effective continuous monitoring of assets wear. In this framework, Condition-Based Maintenance (CBM) is becoming key thanks to the enhancing capabilities of monitoring the propulsion equipment by exploiting heterogeneous sensors: this enables diagnosis and prognosis of the propulsion system's components and of their potential future failures. The success of CBM is based on the capability of developing effective predictive models, for which purpose state-of-the-art Machine Learning (ML) methods must be developed. Nevertheless, testing the performance of ML models for CBM purposes is not straightforward, mostly due to the lack of publicly available datasets for benchmarking purposes: thus, we present in this work a new dataset, that will be freely distributed to the community working on ML models for CBM, generated from an accurate simulator of a naval vessel Gas Turbine propulsion plant. The latter is then used for benchmarking the effectiveness of two state-of-the-art ML techniques in the considered maritime domain.",
+      "citations": 21,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84959356346",
+      "title": "Railway Transportation Efficiency Improvement: Loco Health Assessment by Time Domain Data Analysis to Support Condition Based Maintenance Implementation",
+      "doi": "10.1016/j.trpro.2015.03.032",
+      "venue": "Transportation Research Procedia",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2015,
+      "volume": "6",
+      "issue_id": null,
+      "pages": "424-433",
+      "issn": "23521457",
+      "eIssn": "23521465",
+      "source_id": "21100448300",
+      "authors": "Capasso Marco; Savio Stefano; Firpo Pierluigi; Parisi Gianluca",
+      "author_ids": "57147221200;7004161333;6602760106;57146745600",
+      "authorAffiliationIds": "60025153;60025153;60086239;60086239",
+      "corresponding": "Capasso M.",
+      "keywords": "Condition Based Maintenance | Diagnostics | Independent Component Analysis | Inverter-fed induction motor",
+      "abstract": "Health estimate of loco mechanical transmission components usually implies the on-board installation of fit-to-purpose devices and the use of specific protocols for data acquisition. In this paper the authors present a different approach, based on the acquisition and post-processing of the stator currents of an induction traction motor, easy to be measured and already monitored by standard on-board automation systems. The use of a PWM inverter for the electrical drive of the traction unit introduces harmonics in the stator currents, and an analogous effect is due to the presence, for instance, of a bearing fault. For this reason, the authors have paid great attention to the choice of a reliable de-noising technique for the removal of the harmonic content due to the electronic conversion unit. The so cleaned stator current time series have been then processed by the Independent Component Analysis (ICA) method, in order to identify some current \"features\" able to predict motor condition. On the basis of a huge amount of data deriving from a laboratory test campaign, the author present and discuss in the paper the results of their study.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Transportation",
+              "percentile": 35,
+              "rank": 101,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84927632010",
+      "title": "Numerical investigation on ship energy efficiency by Monte Carlo simulation",
+      "doi": "10.1177/1475090214524184",
+      "venue": "Proceedings of the Institution of Mechanical Engineers Part M Journal of Engineering for the Maritime Environment",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2014,
+      "volume": "228",
+      "issue_id": "3",
+      "pages": "220-234",
+      "issn": "14750902",
+      "eIssn": "20413084",
+      "source_id": "25596",
+      "authors": "Coraddu Andrea; Figari Massimo; Savio Stefano",
+      "author_ids": "55193514900;6507282370;7004161333",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Coraddu A.",
+      "keywords": "Marine engineering | Marine systems | Naval architecture | Numerical modeling | Simulation",
+      "abstract": "In this article, the authors present a procedure to predict the energy efficiency operational indicator by Monte Carlo simulations, estimating the total ship fuel consumption as a function of displacement and speed considered as random variables. To characterize the probability density function of displacement and speed, a complete series of operating data concerning 2 years of navigation, of a RoPax engaged in a commercial trade in the Mediterranean Sea, were collected and used.",
+      "citations": 41,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 68,
+              "rank": 37,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 66,
+              "rank": 249,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2014,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 65,
+              "rank": 30,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 59,
+              "rank": 212,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84894441228",
+      "title": "Integration of seakeeping and powering computational techniques with meteo-marine forecasting data for in-service ship energy assessment",
+      "doi": null,
+      "venue": "Developments in Maritime Transportation and Exploitation of Sea Resources Proceedings of Imam 2013 15th International Congress of the International Maritime Association of the Mediterranean",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2014,
+      "volume": "1",
+      "issue_id": null,
+      "pages": "93-101",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100286947",
+      "authors": "Coraddu A.; Figari M.; Savio S.; Villa D.; Orlandi A.",
+      "author_ids": "55193514900;6507282370;7004161333;56250522200;8072174500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60082857",
+      "corresponding": "Coraddu A.",
+      "keywords": null,
+      "abstract": "The integrated use of modern seakeeping and powering computational techniques and state of the art meteo-marine forecasting and hindcasting resources has the potential of disclosing new ways to approach some relevant issues, such as for instance operations planning at sea, weather routing, in-service ship energy management and pollution control. Such an integrated approach could be profitably used during ship design for optimizing both hydrodynamic and powering characteristics too. In this paper the authors describe preliminary results of a study aimed at estimating the in-service optimal efficiency propulsion plant setting for a ship in real seaways conditions. To this aim numerical simulations of seakeeping and powering conditions of a ship along a real route in the Mediterranean sea have been performed. In the simulations detailed meteo-marine hindcasting data, consisting of wind data and complete directional waves spectra along the route, have been used. Strip theory has been applied for the seakeeping computation in order to evaluate the contribution of waves added resistance in realistic seaways. Such results have been then used in powering computation, to evaluate the dynamically evolving engine conditions in terms of fuel consumption. The results of such computations have been analyzed to evaluate the in-service optimization potentialities for the available setting of propulsion plant. Finally, heuristic hints are preliminarily suggested by the authors as a support for the use of scenario simulations with realistic meteo-marine data in the powering matching phases of the ship design process. © 2014 Taylor & Francis Group, London.",
+      "citations": 20,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84891349590",
+      "title": "Ship energy assessment by numerical simulation marine 2013",
+      "doi": null,
+      "venue": "Computational Methods in Marine Engineering V Proceedings of the 5th International Conference on Computational Methods in Marine Engineering Marine 2013",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2013,
+      "volume": null,
+      "issue_id": null,
+      "pages": "530-540",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100277019",
+      "authors": "Coraddu A.; Figari M.; Savio S.",
+      "author_ids": "55193514900;6507282370;7004161333",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Coraddu A.",
+      "keywords": "Energy management | Energy modelling | Marine engineering | Simulation",
+      "abstract": "Traditionally, the environmental performance of marine systems in terms of exhaust emissions has never been among the primary concerns of the maritime industry. However, this situation is going to quickly change, as in the shipping sector Energy Efficiency Design and Operation IMO Indexes testify. In such a context it is worth mentioning that the greening of shipping operations can be effectively achieved by a suitable system design and energy management. Ship Energy Efficiency Management Plan (SEEMP) should be a tool to monitor and to optimize ship and fleet efficiency performance; as a consequence it will have a deep impact on the reduction not only of the exhaust gas emissions but also of the operational costs. To reach this goal energy modelling represents the keyword. In particular, the estimate by simulation, of onboard power generation, consumption and losses plays a fundamental role for driving, for instance, a decision support tool toward the optimal choices as far as energy management is concerned. To this purpose, in the paper the authors present the outcomes of the activities carried out to develop a simulation tool able to represent an overall ship system from the energetic point of view. Modelling approach and the results of numerical simulations performed by the authors to estimate vessel fuel consumption in a real case study are shown and discussed.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84864885198",
+      "title": "Probability of achieving the energy efficiency index by Monte Carlo simulation",
+      "doi": null,
+      "venue": "Rina Royal Institution of Naval Architects International Conference on Managing Reliability and Maintainability in the Maritime Industry Papers",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2012,
+      "volume": null,
+      "issue_id": null,
+      "pages": "107-114",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100208092",
+      "authors": "Figari M.; Savio S.; Coraddu Andrea",
+      "author_ids": "6507282370;7004161333;55193514900",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Figari M.",
+      "keywords": null,
+      "abstract": "IMO is introducing two different emission indexes for a vessel: the Energy Efficiency Design Index (EEDI) and the Energy Efficiency Operational Indicator (EEOI). Both EEDI and EEOI will be probably used as part of a levy scheme to force the maritime sector to significantly reduce the carbon footprint. At present do exist few ports and/or states applying fees based on ship emissions. The reliability of a regular shipping service, or service reliability, defined as the probability to complete the link within schedule, is an important parameter that greatly influences commercial aspects, as well as the ship carbon footprint. In this paper the authors present a procedure to evaluate the EEOI indicator by Monte Carlo simulation, estimating the total ship fuel consumption as a function of the random variables displacement and speed. A complete series of operating data concerning two years of navigation, for a commercial trade in the Mediterranean Sea, were collected and used to validate the code. © 2012: The Royal Institution of Naval Architects.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-78650379423",
+      "title": "Reliability and availability performances of a universal and flexible power management system",
+      "doi": "10.1109/ISIE.2010.5637723",
+      "venue": "IEEE International Symposium on Industrial Electronics",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2010,
+      "volume": null,
+      "issue_id": null,
+      "pages": "2461-2468",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "85690",
+      "authors": "Magro Micaela Caserza; Savio Stefano",
+      "author_ids": "6603834120;7004161333",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Magro M.C.",
+      "keywords": null,
+      "abstract": "This paper presents the results of the activities carried out by the authors within the European Project UNIFLEX-PM. The core of the activities dealt with the reliability and availability analysis of the new architecture proposed by the Consortium for a power management system to be used in the power distribution network. In particular, the contents of the paper address the analysis of the effects on system stochastic performances deriving from basic components wear-out phenomena, and the ones deriving from the adoption of different redundancy strategies and maintenance policies. Aim of these additional studies is to highlight the lack of a bottleneck from the dependability point of view, so paving the way toward the future development of an industrial product based on the new power converter architecture proposed and investigated during the project. © 2010 IEEE.",
+      "citations": 7,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85073394145",
+      "title": "Stochastic performances estimate of a universal and flexible power management system for the future European electricity network",
+      "doi": "10.24084/repqj08.425",
+      "venue": "Renewable Energy and Power Quality Journal",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2010,
+      "volume": "1",
+      "issue_id": "8",
+      "pages": "629-636",
+      "issn": null,
+      "eIssn": "2172038X",
+      "source_id": "21100916460",
+      "authors": "Magro Micaela Caserza; Savio Stefano",
+      "author_ids": "6603834120;7004161333",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Magro M.C.",
+      "keywords": "Availability | Monte Carlo method | Power conversion | Power distribution | Reliability",
+      "abstract": "This paper presents the final results of the activities carried out by the authors to estimate the availability performances of an innovative modular power conversion architecture, developed within the UNIFLEX-PM (Universal and Flexible Power Management) EU project. The performed study also addresses the analysis of the effects on system stochastic performances deriving from basic components wear out phenomena, and the ones deriving from the adoption of different redundancy strategies and maintenance policies. The UNIFLEX-PM architecture represents an innovative solution for power management in the distribution networks, thus the reliability and availability studies have been focused on obtaining basic figures useful to define the effectiveness of the proposed solution through comparison with a power converter architecture already used for building commercial products and assumed as the reference case.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-77949357840",
+      "title": "Dependability and impact analysis for a universal and flexible power management system",
+      "doi": "10.1080/09398368.2009.11463737",
+      "venue": "EPE Journal European Power Electronics and Drives Journal",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2009,
+      "volume": "19",
+      "issue_id": "4",
+      "pages": "51-58",
+      "issn": "09398368",
+      "eIssn": "23769319",
+      "source_id": "24776",
+      "authors": "Magro Micaela Caserza; Savio Stefano",
+      "author_ids": "6603834120;7004161333",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Magro M.C.",
+      "keywords": "Availability | Monte Carlo method | Power conversion | Power distribution | Reliability",
+      "abstract": "This paper presents the final results of the activities carried out by the authors to estimate the reliability and availability performances of an innovative modular power conversion architecture, developed within the UNIFLEX-PM (Universal and Flexible Power Management) EU project. The performed study addresses also the analysis of the effects on system stochastic performances deriving from basic components wear out phenomena, and the ones deriving from the adoption of different redundancy strategies and maintenance policies. The UNIFLEX-PM architecture represents an innovative solution for power management in the distribution networks, thus the reliability and availability studies have been focused on obtaining basic figures useful to define the effectiveness of the proposed solution through comparison with a power converter architecture already used for building commercial products and assumed as the reference case. The results show that with a suitable technological choice for some critical basic components (such as the DC link capacitors), the UNIFLEX-PM stochastic performances are fully comparable with the ones provided by the commercial solution.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-62749155338",
+      "title": "Base reliability analysis for an universal and flexible power management system",
+      "doi": "10.1109/EEEI.2008.4736702",
+      "venue": "IEEE Convention of Electrical and Electronics Engineers in Israel Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2008,
+      "volume": null,
+      "issue_id": null,
+      "pages": "265-269",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "145204",
+      "authors": "Magro Micaela Caserza; Savio Stefano",
+      "author_ids": "6603834120;7004161333",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Magro M.C.",
+      "keywords": "Power conversion | Power distribution | Reliability estimation | Reliability modeling",
+      "abstract": "This paper presents the results of the study carried out by the authors to estimate the reliability performances of an innovative modular power conversion architecture, developed within the UNIFLEX-PM EU project. The paper not only deals with the analysis of the base reliability, but also presents two further studies. Namely, the paper also addresses the analysis performed to identify the impact of basic components wear out on the system stochastic performances, and the analysis carried out to investigate the effects deriving from the adoption of different redundancy strategies as far as the reliability of the whole application is concerned. © 2008 IEEE.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84857553073",
+      "title": "Estimate of components reliability and maintenance strategies impact on trains delay",
+      "doi": "10.7148/2007-0447",
+      "venue": "21st European Conference on Modelling and Simulation Simulations in United Europe Ecms 2007",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2007,
+      "volume": null,
+      "issue_id": null,
+      "pages": "447-452",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100198434",
+      "authors": "Dazzi Giovanni; Savio Stefano; Firpo Pierluigi",
+      "author_ids": "55039820600;7004161333;6602760106",
+      "authorAffiliationIds": "60025153;60025153;60083122",
+      "corresponding": "Dazzi G.",
+      "keywords": "Maintenance | Monte Carlo | Reliability | Train delay",
+      "abstract": "In this paper the authors present a procedure for estimating the impact of design choices, dealing with subsystems architecture, basic components reliability performances or maintenance policies, on the service quality provided by a railway or metro system. The procedure is based on the use of an innovative modular simulator, developed by the authors. Through a Monte Carlo approach and a suitable post-processing of the results of the simulated samples, the tool provides the user with a set of indicators for estimating the service quality and the effectiveness of different traffic and fleet management policies, as well as maintenance strategies, in both rated and degraded operating conditions. © 2007 ECMS.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-36148956216",
+      "title": "A cost effective solution to manage rail cargo fleets: The final assessment of the F-MAN project",
+      "doi": "10.2495/CR060901",
+      "venue": "Wit Transactions on the Built Environment",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2006,
+      "volume": "88",
+      "issue_id": null,
+      "pages": "923-932",
+      "issn": "17433509",
+      "eIssn": null,
+      "source_id": "5700191221",
+      "authors": "Cosulich G.; Derito A.; Giannettoni M.; Savio S.",
+      "author_ids": "6603166019;6507485721;6507523317;7004161333",
+      "authorAffiliationIds": "100801606;100801606;60025153;60025153",
+      "corresponding": "Cosulich G.",
+      "keywords": "Cargo fleet management | IT-based system | Railway | Simulation",
+      "abstract": "The objectives of the EU project Rail Car Asset Management (hereinafter referred to with its short name, F-MAN) were to investigate the feasibility, the potential impacts and benefits of a new approach toward the management of a freight railcars fleet, aiming at improving the competitiveness of Railway Cargo Operators in the context of freight transport. To reach its objectives, the F-MAN Consortium has identified the requirements, designed the architecture, specified and developed the components (on-board and ground fixed) of an IT-based system enabling enhanced fleet management of freight railcars and introducing asset management in the process of the international transport chain. In the paper the authors show the quantitative results of the final assessment of the project, describing also the characteristics of the simulation tool to this aim developed.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-79961119059",
+      "title": "Results of the evaluation of F-man - An innovative solution for the management of railway cargo fleets",
+      "doi": "10.3182/20060829-3-nl-2908.00058",
+      "venue": "IFAC Proceedings Volumes IFAC Papersonline",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2006,
+      "volume": "11",
+      "issue_id": "PART 1",
+      "pages": "331-336",
+      "issn": "14746670",
+      "eIssn": null,
+      "source_id": "21100456158",
+      "authors": "Cosulich G.; Derito A.; Giannettoni M.; Savio S.",
+      "author_ids": "6603166019;6507485721;6507523317;7004161333",
+      "authorAffiliationIds": "100801606;100801606;60025153;60025153",
+      "corresponding": "Cosulich G.",
+      "keywords": "Asset management | Cargo fleet | IT-based system | Railway",
+      "abstract": "In this paper the authors present the quantitative results of the final assessment of the EU project Rail Car Asset Management (hereinafter referred to with its short name, F-MAN). The objectives of the project were to investigate the feasibility, the potential impacts and benefits of a new approach toward the management of a freight railcars fleet, aiming at improving the competitiveness of Railway Cargo Operators in the context of freight transport. The F-MAN Consortium identified the requirements, designed the architecture, specified and developed the on-board and ground fixed components of an IT-based system enabling enhanced fleet management of freight railcars and introducing asset management in the process of the international transport chain. Copyright © 2006 IFAC.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 42,
+              "rank": 218,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-33748376650",
+      "title": "A new conversion system for the interface of generating and storage devices in hybrid fuel-cell vehicles",
+      "doi": "10.1109/ISIE.2005.1529150",
+      "venue": "IEEE International Symposium on Industrial Electronics",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2005,
+      "volume": "IV",
+      "issue_id": null,
+      "pages": "1477-1482",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "85690",
+      "authors": "Carpaneto M.; Ferrando G.; Marchesoni M.; Savio S.",
+      "author_ids": "14422109200;57199552745;6701827441;7004161333",
+      "authorAffiliationIds": "60025153;60025153;60000251-60025153;60000251-60025153",
+      "corresponding": "Carpaneto M.",
+      "keywords": null,
+      "abstract": "A new conversion system for small size hybrid electric vehicles has been studied, aiming at the optimization of the energy flows among the generating and storage devices and the traction motor and looking for the maximization of the energetic efficiency of the whole conversion chain. A reduced scale prototype has been developed and the main results that have been obtained are shown. © 2005 IEEE.",
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-33748343628",
+      "title": "Failures impact analysis for a fuel cell vehicle based on current and future stochastic performances of traction chain power components",
+      "doi": "10.1109/ISIE.2005.1529147",
+      "venue": "IEEE International Symposium on Industrial Electronics",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2005,
+      "volume": "IV",
+      "issue_id": null,
+      "pages": "1459-1464",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "85690",
+      "authors": "Marchesoni Mario; Savio Stefano",
+      "author_ids": "6701827441;7004161333",
+      "authorAffiliationIds": "60000251-60025153;60000251-60025153",
+      "corresponding": "Marchesoni M.",
+      "keywords": null,
+      "abstract": "Fuel cell hybrid vehicles represent today a technological challenge for solving most of the environmental problems related to road transport. This paper aims at estimating the reliability and economic feasibility of such a vehicle, where the conjoint presence of fuel cells, traction batteries and supercapacitors could represent a bottleneck from that perspective. © 2005 IEEE.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-33947652316",
+      "title": "Reliability analysis of a fuel cell electric city car",
+      "doi": "10.1109/epe.2005.219673",
+      "venue": "2005 European Conference on Power Electronics and Applications",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2005,
+      "volume": "2005",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "5300152709",
+      "authors": "Marchesoni Mario; Savio Stefano",
+      "author_ids": "6701827441;7004161333",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Marchesoni M.",
+      "keywords": "Battery management systems | Fuel cells system | Hybrid electric vehicle | Reliability | Supercapacitor",
+      "abstract": "Automotive industry is seeking for a viable alternative to internal combustion engines, because of the increasing environmental concern, which suggests to intensify the search for cleaner and more efficient vehicles. Fuel cell electric vehicles are very promising on this respect, but the increased demands of consumers worldwide will be satisfied only when the new vehicles will be also less expensive to manufacture and operate. Reliability, availability and maintenance costs will play a very significant role in establishing the commercial success of the future vehicles. However, the not excellent reliability features of the fuel cells and of the energy storage devices, which are almost always used to achieve load levelling or to optimize the power flows, may represent a very critical issue. A detailed analysis of a fuel cell electric city car is shown in this paper, in order to give the reader a preliminary overview about its overall reliability and economic feasibility.",
+      "citations": 18,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-66549124384",
+      "title": "Stochastic estimate of redundancy effects for non conventional ac locomotive traction drives",
+      "doi": "10.1109/ISIE.2004.1571967",
+      "venue": "IEEE International Symposium on Industrial Electronics",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2004,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "1099-1104",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "85690",
+      "authors": "Fazio Vincenzo; Marchesoni Mario; Savio Stefano",
+      "author_ids": "26641843100;6701827441;7004161333",
+      "authorAffiliationIds": "100801606;60025153-60000251;60025153-60000251",
+      "corresponding": "Fazio V.",
+      "keywords": "Power electronics | Redundant architecture | Reliability | Stochastic performance. | Traction drive",
+      "abstract": "The direct connection of locomotive power electronics equipment to medium voltage ac overhead lines seems to be a practicable option todav. Low frequency onboard transformers could therefore be eliminated, thus resulting in more efficient and lighter rail vehicles drive chains. However, the removal of the conventional transformer requires the development of innovative power conversion architectures, which should be carefullv analvzed in all respects. Aim of this paper is to evaluate, through a comparative analysis, the effectiveness deriving from the adoption of redundant configurations in a non-conventional ac loco traction drive, which allows the use of transformers of greatlh% reduced size. Playing power electronics a fundamental role in the solutions analysed by- the authors, a detailed analysis based on the Monte Carlo procedure has been carried out to compare the stochastic performances of the loco electrical drive systems under analysis, as a function of the reliability characteristics of their basic components. © 2004 IEEE.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-4644296430",
+      "title": "The European project COMBINE 2 to improve knowledge on future rail traffic management systems",
+      "doi": null,
+      "venue": "Advances in Transport",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2004,
+      "volume": "15",
+      "issue_id": null,
+      "pages": "695-704",
+      "issn": "1462608X",
+      "eIssn": null,
+      "source_id": "17691",
+      "authors": "Giannettoni M.; Savio S.",
+      "author_ids": "6507523317;7004161333",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Giannettoni M.",
+      "keywords": "Mixed signalling | Railway | Traffic Management System",
+      "abstract": "In this paper the authors present the results of verification and evaluation activities carried out for the final assessment of the project called COMBINE 2, co-funded by the European Union within the Information Society Technologies Programme. The objectives of the COMBINE 2 project were twofold: on one hand, to estimate the impact on rail traffic management of installing in-vehicle positioning and communication equipment, in order to reduce the technical gap between current and future signalling systems, on the other hand, to address the new generation of Traffic Management Systems (TMSs) able to efficiently manage large railway networks equipped with mixed signalling systems. To reach those objectives, COMBINE 2 has also devised new approaches for traffic optimisation and new methodologies for managing the interaction among TMSs controlling adjacent railway areas. Such approaches and methodologies have been validated through the implementation of a Demonstrator able to deal with railway networks equipped with fixed and moving block signalling systems.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-4644242737",
+      "title": "Fleet management in railway freight transport: The EU project F-MAN",
+      "doi": null,
+      "venue": "Advances in Transport",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2004,
+      "volume": "15",
+      "issue_id": null,
+      "pages": "361-370",
+      "issn": "1462608X",
+      "eIssn": null,
+      "source_id": "17691",
+      "authors": "Giannettoni M.; Savio S.",
+      "author_ids": "6507523317;7004161333",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Giannettoni M.",
+      "keywords": "Fleet management | Freight | Railway",
+      "abstract": "The paper presents the ongoing results of the project Rail Car Asset Management (hereinafter referred to with its short name, F-MAN). The project started in October 2001 and it is partially funded by the European Union within the \"Information Society Technologies\" programme. The main goal of the F-MAN research project is to investigate feasibility and benefits related to the development of innovative tools enabling a brand new approach toward the management of the internationally operated fleets of freight wagons. To reach its objectives, the F-MAN Consortium, which brings together partners with expertise in rail freight operation, transport and logistics applications, as well as in communication and information technologies, started its activities with a thorough survey on the current practice and needs of freight railcars management, identifying major problems and limitations toward an improved exploitation of the fleets in the upcoming European rail transport scenario. This allowed us to specify the requirements of a new fleet management approach and to design and develop an innovative system providing a set of tools enabling unprecedented quality, availability and exploitation of the information necessary for an effective management of railcars fleets for national and international freight transport.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84861491758",
+      "title": "How to reduce industrial systems maintenance cost through an optimised troubleshooting process",
+      "doi": "10.1109/PTC.2003.1304144",
+      "venue": "2003 IEEE Bologna Powertech Conference Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2003,
+      "volume": "1",
+      "issue_id": null,
+      "pages": "265-272",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100202741",
+      "authors": "Fazio Vincenzo; Firpo Pierluigi; Savio Stefano",
+      "author_ids": "26641843100;6602760106;7004161333",
+      "authorAffiliationIds": "60025153;100801606;60025153",
+      "corresponding": "Fazio V.",
+      "keywords": "Fault isolation | Maintenance | Reliability",
+      "abstract": "When traditional or innovative maintenance policies are applied, the effectiveness of the actions carried out is highly influenced by the possibilities to isolate in the shortest time the faulted items. Fault isolation is directly related to the troubleshooting process adopted and impacts on the time needed to carry out the maintenance actions. Through the adoption of suitable maintenance policies, supported by an effective troubleshooting process, the Mean Time To Repair of the single equipment can be reduced, system availability increased and the Life Cycle Cost of the whole system decreased. In this paper the authors present a modelling procedure, based on Monte Carlo method for generating failure occurrence times of basic items, to simulate the troubleshooting process and to identify optimal solutions taking into account an a priori defined cost function. Such probabilistic approach has been applied to a case study and the results are presented and discussed in the paper. © 2003 IEEE.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-70349441730",
+      "title": "Power electronics reliability and stochastic performances of innovative ac traction drives: A comparative analysis",
+      "doi": "10.1109/PTC.2003.1304473",
+      "venue": "2003 IEEE Bologna Powertech Conference Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2003,
+      "volume": "3",
+      "issue_id": null,
+      "pages": "734-741",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100202741",
+      "authors": "Bozzo Riccardo; Fazio Vincenzo; Savio Stefano",
+      "author_ids": "7006475772;26641843100;7004161333",
+      "authorAffiliationIds": "100801606;60025153;60025153",
+      "corresponding": "Bozzo R.",
+      "keywords": "Electrical drives | Power electronics | Reliability",
+      "abstract": "An on-board line transformer is adopted on actual ac locomotives to reduce line voltages to levels suitable to power electronic components and to guarantee galvanic insulation. Unfortunately, such a transformer is heavy, expensive and represents one of the main reasons why traction vehicles often exceed the targets for weight and dimensions. Aim of this paper is to evaluate, trough a comparison with a conventional architecture, the effectiveness deriving from the adoption of a non-conventional conversion system, which allows the use of transformers of greatly reduced size. Flaying power electronics a fundamental role in both solutions, a detailed analysis based on the Monte Carlo procedure has been carried out to compare the stochastic performances of the loco electrical drive systems under analysis, as a function of the reliability characteristics of their basic components. © 2003 IEEE.",
+      "citations": 12,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84863296148",
+      "title": "AC locomotive conversion systems without heavy transformers: Is it a practicable solution?",
+      "doi": "10.1109/isie.2002.1025955",
+      "venue": "IEEE International Symposium on Industrial Electronics",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2002,
+      "volume": "4",
+      "issue_id": null,
+      "pages": "1172-1177",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "85690",
+      "authors": "Marchesoni Mario; Novaro Roberto; Savio Stefano",
+      "author_ids": "6701827441;9235503200;7004161333",
+      "authorAffiliationIds": "60025153;100860496;60025153",
+      "corresponding": "Marchesoni M.",
+      "keywords": null,
+      "abstract": "All actual ac locomotives have an on board line transformer to reduce line voltages to levels suitable to power electronic devices and to guarantee galvanic insulation to the on board equipment. Unfortunately, such a transformer is heavy, expensive and represents one of main reasons why traction vehicles often exceed the targets for weight and dimensions. Two innovative conversion systems have been studied, which permit the use of transformers of greatly reduced size. Suitable control an & modulation techniques have been also developed, and some simulation results are presented. In addition, a further analysis has been carried out to allow a fair comparison between one of the two innovative loco electrical drive systems and a conventional one, taking into account their reliability performances. Some important achievements are shown and the complete set of the results is presented and discussed.",
+      "citations": 37,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0034851165",
+      "title": "Effect of MTTF and MTTR statistical uncertainty on mission dependability for power electronics equipped systems",
+      "doi": null,
+      "venue": "IEEE International Symposium on Industrial Electronics",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2001,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "1339-1344",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "85690",
+      "authors": "Fazio V.; Firpo P.; Savio S.",
+      "author_ids": "26641843100;6602760106;7004161333",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Fazio V.",
+      "keywords": null,
+      "abstract": "In order to predict and assess the RAM (Reliability, Availability, Maintainability) or dependability characteristics of high reliability systems, suitable models, implemented and solved by means of appropriate software tools, have usually to be utilised. The results deriving from such procedure are obviously function of the dependability parameters (Mean Time To Failure MTTF and Mean Time To Repair MTTR) of each basic component, which are usually known or can be assessed by on-the-field reliability demonstration tests with an associate statistical confidence limit. Aim of this paper is to evaluate the impact of such statistical uncertainty on the dependability measures carried out at the system level. A modelling procedure, previously developed by the authors and based on the Monte Carlo method, is adopted for simulating the performances of the system as a function of the dependability characteristics of its components. The results of a real case study, represented by a multivoltage vehicle for railway applications, will be shown and discussed.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-4544334593",
+      "title": "Moving block and traffic management in railway applications: The EC project COMBINE",
+      "doi": null,
+      "venue": "Advances in Transport",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2000,
+      "volume": "7",
+      "issue_id": null,
+      "pages": "11-20",
+      "issn": "1462608X",
+      "eIssn": null,
+      "source_id": "17691",
+      "authors": "Giuliari M.; Pellegrini F.; Savio S.",
+      "author_ids": "6506970944;7006173840;7004161333",
+      "authorAffiliationIds": "60025153;101733634;60025153",
+      "corresponding": "Giuliari M.",
+      "keywords": null,
+      "abstract": "In the Fourth Framework Research and Development (R&D) Programme, the European Union (EU) has promoted, within Telematics Application Programme, several projects, devoted to Transport Sector, containing high profile telematics technology applied to planning and operational tasks. In this paper the authors present the main characteristics of one of these projects, called COMBINE, acronym of enhanced COntrol center for a Moving Block sIgNalling systEm. The project aims to lay the technical basis for the implementation of innovative optimisation tools in moving block traffic management systems; this requires both the analysis of moving block operation parameters and the definition of an effective system architecture for control system.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-4544264888",
+      "title": "Reliability demonstration for complex redundant systems in railway applications",
+      "doi": null,
+      "venue": "Advances in Transport",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2000,
+      "volume": "7",
+      "issue_id": null,
+      "pages": "923-932",
+      "issn": "1462608X",
+      "eIssn": null,
+      "source_id": "17691",
+      "authors": "Bozzo R.; Fazio V.; Firpo P.; Savio S.",
+      "author_ids": "7006475772;26641843100;6602760106;7004161333",
+      "authorAffiliationIds": "60025153;60025153;100367842;60025153",
+      "corresponding": "Bozzo R.",
+      "keywords": null,
+      "abstract": "When high reliability requirements are set in the specification of complex, large and high investment demanding systems, the reliability demonstration, which the customer acceptance will be based on, can be a very critical task as the cumulative testing time available for the on-the-field reliability assessment is often not sufficient to ensure acceptable consumer and producer risks. In these circumstances, suitable reliability models, to be implemented and solved by means of appropriate software tools, are to be used in order to predict and assess the system reliability performances. In this paper the authors present a modelling procedure, based on Monte Carlo method, for simulating a long-term reliability test and able to fulfil the above requirements. The core of the simulation is a representation of the system behaviour, in the presence of failures, in the state-space where transitions are driven by the events generated by the Monte Carlo reliability model of the basic components.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0034429648",
+      "title": "An innovative procedure for reliability assessment of power electronics equipped systems: A real case study",
+      "doi": null,
+      "venue": "IEEE International Symposium on Industrial Electronics",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2000,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "511-516",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "85690",
+      "authors": "Fazio V.; Savio S.; Firpo P.",
+      "author_ids": "26641843100;7004161333;6602760106",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Fazio V.",
+      "keywords": null,
+      "abstract": "Suitable models, to be implemented and solved by means of appropriate software tools, are usually to be used in order to predict and assess the reliability related behaviour of a system. In this paper the authors present a modelling procedure, based on the Monte Carlo method, for simulating the performances of a power electronics equipped system as a function of the reliability of its components. The core of the simulation is a representation of the system behaviour, in the presence of failures, in the state-space where transitions are driven by the events generated by the Monte Carlo reliability model of the basic elements. The results of a real case study, represented by a multivoltage vehicle for railway applications, are shown and discussed.",
+      "citations": 8,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0033357925",
+      "title": "Modelling of diagnostics aided RCM procedure for transportation systems dependability and cost evaluation",
+      "doi": null,
+      "venue": "IEEE International Symposium on Industrial Electronics",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1999,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "877-882",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "85690",
+      "authors": "Savio Stefano",
+      "author_ids": "7004161333",
+      "authorAffiliationIds": "60025153",
+      "corresponding": "Savio S.",
+      "keywords": null,
+      "abstract": "For producing high-quality mass transit systems, the performances have to be necessarily evaluated taking into account all the aspects related to the system effectiveness (functional characteristics, dependability features and other technical parameters) against the cost constraints. In particular, the preventive and corrective maintenance requirements, which highly influence both the system dependability and Life Cycle Cost (LCC), have to be defined in order to perform only the preventive actions which are absolutely necessary and cost-effective. In this paper the author presents a methodological approach, based on Stochastic Petri Nets, to quantify system dependability and cost if a diagnostics aided Reliability Centered Maintenance (RCM) program is implemented.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0032301401",
+      "title": "Voltage regulation of AC/DC converters for railway applications: A comparison among control strategies",
+      "doi": null,
+      "venue": "IEEE Conference on Control Applications Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1998,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "1394-1398",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "25434",
+      "authors": "Galaverna Marco; Savio Stefano; Sciutto Giuseppe; Tenca Pierluigi",
+      "author_ids": "6603023418;7004161333;7003892246;55962997800",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Galaverna M.",
+      "keywords": null,
+      "abstract": "Several railway networks and all metrorail systems are fed by Electrical Substations (ESSs) equipped with diode AC/DC converters which frequently do not lead to satisfactory performance as to line voltage drop and load sharing among Substations. The authors, starting from the formulation of a general model of electric traction systems, deal with the benefits of Substation voltage regulation. Some regulation strategies, based on minimization of objective functions, have been tested through computer simulation whose results show that effective regulating actions can be achieved by assuming a cost function that takes into account both line voltage and power delivered by Electrical Substations.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0032272917",
+      "title": "Automatic conflict detection and resolution in metrorail systems: Evaluation approach for MARCO EU project",
+      "doi": null,
+      "venue": "Proceedings of the International Conference on Urban Transport and the Environment for the 21st Century",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1998,
+      "volume": null,
+      "issue_id": null,
+      "pages": "461-470",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "64186",
+      "authors": "D'Addio G. F.; Mazzucchelli M.; Savio S.",
+      "author_ids": "6601969294;15623683200;7004161333",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "D'Addio G.",
+      "keywords": null,
+      "abstract": "The European Union (EU) is promoting, within Telematics Application Programme, several Research and Development (R&D) projects, devoted to Transport Sector, containing high profile telematics technology applied to planning and operational tasks. In particular, MARCO, acronym of Multilevel Advanced Railways Conflict resolution and Operation control, concerns the development of telematics tools for traffic conflict management: the project purpose is to develop a set of tools, algorithms and technologies for the Conflict Detection and Resolution (CDR) in a wide range of real time applications within railways and metros networks. In order to assess MARCO functionality in metrorail applications, a CDR demonstrator will be developed and installed in Milan Underground at Sesto terminus, and subsequently tested and evaluated during traffic real operations through suitable procedures. In this paper the authors present a proposal for evaluating, on the basis of objective indicators, the performances of the above mentioned demonstrator, taking into account both a comparison between historical field data and actual operations, and a comparison between actual operations and simulated operations (without MARCO) in presence of the same traffic conditions.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0031677349",
+      "title": "Reliability centered maintenance: A solution to optimize mass transit system cost effectiveness",
+      "doi": null,
+      "venue": "IEE Conference Publication",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1998,
+      "volume": null,
+      "issue_id": "453",
+      "pages": "211-216",
+      "issn": "05379989",
+      "eIssn": null,
+      "source_id": "34914",
+      "authors": "D'Addio G. F.; Firpo P.; Savio S.",
+      "author_ids": "6601969294;6602760106;7004161333",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "D'Addio G.",
+      "keywords": null,
+      "abstract": "The design of mass transit systems must take into account cost effectiveness concept, in order to maximize system effectiveness (functional performances, dependability and other technical parameters) and to reduce system life cycle cost. As far as maintenance aspects are concerned, the application of Reliability Centered Maintenance (RCM) principles plays a fundamental role for both reducing Operations and Support (O&S) cost and maintaining a high level in system effectiveness. In this paper the authors present an approach based on Stochastic Petri Nets, able to give the designer all the significant measures needed in the RCM analysis, when a predefined cost effectiveness target has to be reached.",
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0031362066",
+      "title": "Optimized reliability centered maintenance of vehicles electrical drives for high speed railway applications",
+      "doi": null,
+      "venue": "IEEE International Symposium on Industrial Electronics",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1997,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "555-560",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "85690",
+      "authors": "D'Addio Gian Francesco; Savio Stefano; Firpo Pierluigi",
+      "author_ids": "6601969294;7004161333;6602760106",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "D'Addio G.",
+      "keywords": null,
+      "abstract": "The performances of railway vehicles are heavily influenced by maintenance actions, whose scheduling has to be defined taking into account cost constraints, together with system dependability targets. For this reason, starting from the choices developed during the design phase, an effective maintenance plan should be dynamically customized to system behaviour during operation. The authors present in this paper a probabilistic approach based on Stochastic Petri Nets in order to effectively implement a Reliability Centered Maintenance (RCM) program, which fulfils the above mentioned requirements, and outline how such approach, utilized in jets, nuclear power generation and weapon systems industry, may be profitably used in the transportation field too.",
+      "citations": 10,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0030721373",
+      "title": "Safety specification and acceptance in ship control systems: A novel approach based on dynamic system modelling",
+      "doi": null,
+      "venue": "Proceedings of the International Conference on Marine Technology Odra",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1997,
+      "volume": null,
+      "issue_id": null,
+      "pages": "373-382",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "74820",
+      "authors": "D'Addio Gian Francesco; Firpo Pierluigi; Savio Stefano; Sciutto Giuseppe",
+      "author_ids": "6601969294;6602760106;7004161333;7003892246",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "D'Addio G.",
+      "keywords": null,
+      "abstract": "The system safety program safety requirements for a ship control system are determined, along with the design needed to achieve the specified safety requirements. The implementation of the system safety program comprises hazard and safety analysis activities, based on stochastic principles, which provide quantitative evaluations of the probability of dangerous failures occurrence, by solving appropriate system models like stochastic Petri nets. The compliance with safety requirements are verified by integrating the above quantitative results with hazard severity analysis and risk assessment procedure.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0030398213",
+      "title": "Electrical substation dependability analysis for high speed railway systems: A simplified approach",
+      "doi": null,
+      "venue": "Proceedings of the International Conference on Computer Aided Design Manufacture and Operation in the Railway and Other Mass Transit Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1996,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "139-148",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "94140",
+      "authors": "Cosulich G.; Firpo P.; Savio S.",
+      "author_ids": "6603166019;6602760106;7004161333",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Cosulich G.",
+      "keywords": null,
+      "abstract": "In railway applications such as in other industrial fields, if Product Assurance requirements are specified, the design of each subsystem has to face dependability analysis. In the case of reconfigurable redundant systems with repair actions, such activity may not be performed by utilizing conventional procedures, based on Reliability Block Diagrams and Fault Trees, but innovative methods, such as Markov Chains or Petri Nets, have to be used. Being the latter procedures very difficult to manage as the system complexity increases, the authors present in this paper a simplified hybrid procedure which utilizes both the conventional and the innovative methods, showing its application to the dependability analysis of an Electrical Substation for High Speed railway systems.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0029773070",
+      "title": "Power electronics reliability impact on service dependability for railway systems: a real case study",
+      "doi": null,
+      "venue": "IEEE International Symposium on Industrial Electronics",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1996,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "996-1001",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "85690",
+      "authors": "Cosulich Giovanni; Firpo Pierluigi; Savio Stefano",
+      "author_ids": "6603166019;6602760106;7004161333",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Cosulich G.",
+      "keywords": null,
+      "abstract": "Service Dependability has been recognized in the transportation literature as an effective measure of transit systems quality. Dependability models link this measure of service quality with Reliability, Availability and Maintainability characteristics of the subsystems operating in the transport system. Purpose of this paper is to present a dependability model for the analysis of the impact of power electronics reliability on the Service Dependability in the case of a vehicle for High Speed railway applications.",
+      "citations": 15,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0029754283",
+      "title": "Computer modelling and simulation for high speed railway applications",
+      "doi": null,
+      "venue": "Proceedings of the International Conference on Applications of Advanced Technologies in Transportation Engineering",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1996,
+      "volume": null,
+      "issue_id": null,
+      "pages": "54-58",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "57584",
+      "authors": "Ianniello C.; Savio S.; Sciutto G.",
+      "author_ids": "6602807806;7004161333;7003892246",
+      "authorAffiliationIds": "60212274;60212274;60212274",
+      "corresponding": "Ianniello C.",
+      "keywords": null,
+      "abstract": "An electrified transportation system can reach, as in the case of high speed railway applications, extreme technical complexity, together with large physical extension, and requires huge investments. For this reason the design approach has to be based on well defined quality procedures supported by operative tools. The technical design of the system has mandatorily to face dependability verification and validation activities, starting from the conceptual phase, which is the most critical one as far as the total Life Cycle Cost of the system will be concerned. In this paper the authors show how modelling and simulation may allow the designer to take appropriate decisions in order to accomplish specification requirements.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0029734257",
+      "title": "Role of Petri nets modelling in the safety assessment process for guided transport systems",
+      "doi": null,
+      "venue": "Proceedings of the International Conference on Applications of Advanced Technologies in Transportation Engineering",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1996,
+      "volume": null,
+      "issue_id": null,
+      "pages": "558-562",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "57584",
+      "authors": "Cosulich G.; Firpo P.; Savio S.; Sciutto G.",
+      "author_ids": "6603166019;6602760106;7004161333;7003892246",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Cosulich G.",
+      "keywords": null,
+      "abstract": "Operators and designers of Guided Transport Systems (GTS) are employing a probabilistic approach for the safety design and management problems due to the increasing use of digital systems in vital areas of GTS. Safety verification and validation activities must be performed during the development phases of the system design to ensure compliance with the quantitative safety requirements. Stochastic Petri nets based on the Markov Chain theory are used as safety modelling tools. The application of stochastic Petri nets in the appropriate safety program as suggested by the international standards on system safety is discussed.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0029708043",
+      "title": "RAM requirements optimal apportionment in guided transport systems",
+      "doi": null,
+      "venue": "Proceedings of the International Conference on Software for Electrical Engineering Analysis and Design Electrosoft",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1996,
+      "volume": null,
+      "issue_id": null,
+      "pages": "483-490",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "10300153335",
+      "authors": "Cosulich G.; Firpo P.; Savio S.",
+      "author_ids": "6603166019;6602760106;7004161333",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Cosulich G.",
+      "keywords": null,
+      "abstract": "In railway applications, as in other industrial fields, the design of any subsystem has to face Reliability, Availability and Maintainability (RAM) analysis, if Product Assurance requirements are specified. For this reason, the first step in the design process is to translate the overall system RAM requirements into requirements for each subsystem, equipment or component. Starting from the different approaches usually adopted, the authors present in this paper the characteristics of a software tool able to automatically optimize RAM parameters (failure and repair rates) allocation, once known system dependability targets.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0029217623",
+      "title": "Optimized train running curve for electrical energy saving in autotransformer supplied AC railway systems",
+      "doi": "10.1049/cp:19950174",
+      "venue": "IEE Conference Publication",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1995,
+      "volume": null,
+      "issue_id": "405",
+      "pages": "23-27",
+      "issn": "05379989",
+      "eIssn": null,
+      "source_id": "34914",
+      "authors": "Firpo P.; Savio S.",
+      "author_ids": "6602760106;7004161333",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Firpo P.",
+      "keywords": null,
+      "abstract": "In an attempt to provide a solution on how to reduce electrical energy consumption in autotransformer supplied AC railway systems, a general purpose procedure based on the integrated use if traffic simulator and optimization code is described. Based on direct climbing method, the optimization code allows the identification of several parameters that effects the train running curve and the optimization of these parameters leading to energy savings. A case study is presented to illustrate the viability of the proposed procedure.",
+      "citations": 14,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84884318890",
+      "title": "Locomotive drive harmonic pollution in AC traction systems",
+      "doi": "10.1109/ISIE.1993.268733",
+      "venue": "IEEE International Symposium on Industrial Electronics",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1993,
+      "volume": null,
+      "issue_id": null,
+      "pages": "622-628",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "85690",
+      "authors": "Firpo P.; Fracchia M.; Savio S.",
+      "author_ids": "6602760106;7004022170;7004161333",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Firpo P.",
+      "keywords": null,
+      "abstract": "AC railway systems operating at high voltage (20, 25 or 50 kV) and network frequency (50 or 60 Hz) are currently the best choice for new track design, thanks to their reliability and efficiency. However, AC railway systems are connected to the national power grid by single phase transformers and consequently the three phase voltage vectors on the public system result unbalanced. Moreover, AC locomotive electronic drives generate a current harmonic distortion which heavily affects network voltage waveform. A study of the harmonic evaluation methods has been held in order to choose the best methodology for this application. On the basis of this study, a deterministic approach has been carried on: a time domain analysis of a AC traction system has been developed in order to evaluate the amount of unbalance and of harmonic pollution in the main power supply network; this analysis allows to verify the observance of the IEEE 519 and lEC 1000 EM Recommendations and Standards. The simulation results are presented and discussed and some considerations about optimized harmonic reduction techniques are proposed.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85215504321",
+      "title": "AUDIO FREQUENCY SIGNALLING COMPATIBILITY OF CHOPPER-FED DC MOTOR DRIVES IN UNDERGROUND RAILWAY SYSTEMS.",
+      "doi": "10.23919/EMC.1991.10781046",
+      "venue": "9th International Zurich Symposium and Technical Exhibition on Electromagnetic Compatibility EMC 1991",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1991,
+      "volume": null,
+      "issue_id": null,
+      "pages": "667-672",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101270293",
+      "authors": "Cesario P.; Dapelo M.; Romano P.; Savio S.; Sciutto G.",
+      "author_ids": "7801585159;59521024400;59514314200;7004161333;7003892246",
+      "authorAffiliationIds": "60028868;60073836;60073836;60025153;60025153",
+      "corresponding": "Cesario P.",
+      "keywords": null,
+      "abstract": "The paper presents a method to predict harmonic behaviour of traction currents in underground railway systems. The method is based on modelling and simulation of the complete system taking into account bridges and transformers of the electrical substation, on-board chopper-controlled traction equipment and auxiliary equipments, feeding line and rails. The model is described, its validity within the frequency range is discussed and simulation results are shown for different dc drive control situations in traction and brake.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0023577863",
+      "title": "NEW PWM CONTROL SYSTEM FOR UPS USING HYSTERESIS COMPARATOR.",
+      "doi": null,
+      "venue": "Conference Record IAS Annual Meeting IEEE Industry Applications Society",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1987,
+      "volume": null,
+      "issue_id": null,
+      "pages": "749-754",
+      "issn": "01972618",
+      "eIssn": null,
+      "source_id": "17898",
+      "authors": "Carpita M.; Mazzucchelli M.; Savio S.; Sciutto G.",
+      "author_ids": "6603270189;15623683200;7004161333;7003892246",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Carpita M.",
+      "keywords": null,
+      "abstract": "A control system for uninterruptible power supplies has been designed that is based on a double regulation loop, which allows the response time during load transients to be reduced. The main feature is the control of the current flowing through the filter capacitor so that it can be limited within a given range. This is made possible by the internal current loop. The external voltage loop makes it possible to obtain better dynamic response in comparison with conventional systems. The advantages of such a solution are good dynamic responses to load variations and simpler determination of the current in the switches. Digital simulations of both the power and the control systems have been performed using the EMTP general-purpose program.",
+      "citations": 11,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 23,
+              "rank": 312,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 19,
+              "rank": 804,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 12,
+              "rank": 332,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-0022902384",
+      "title": "DIGITAL SIMULATION OF UPS USING EMTP GENERAL PURPOSE PROGRAM.",
+      "doi": null,
+      "venue": "Proceedings of the Annual International PCI Conference Power Conversion International",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1986,
+      "volume": null,
+      "issue_id": null,
+      "pages": "85-92",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "58906",
+      "authors": "Cesario P.; Mazzucchelli M.; Odone A.; Puglisi L.; Savio S.",
+      "author_ids": "7801585159;15623683200;6602241004;7006443886;7004161333",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Cesario P.",
+      "keywords": null,
+      "abstract": "In this paper the simulation of an Uninterruptible Power Supply utilizing two GTO inverters is presented. By means of EMTP general purpose program the models of dc to dc converter and inverters are studied, and their interactions are evaluated to verify the design of the UPS system. Simulation results and experimental data for a 100 kVA UPS are presented and evaluated.",
+      "citations": 0,
+      "quartile": null
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1219929",
+      "authors": "Postma, A. M.; Coraddu, A.; van Biert, L.; Savio, S.",
+      "legacy_id": 598175,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "A Health-Aware Control Strategy for Enhanced Performance and Extended Hybrid Powertrain Lifecycle",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1186535",
+      "authors": "Benevieri, Alessandro; Carbone, Lorenzo; Cosso, Simone; Marchesoni, Mario; Passalacqua, Massimiliano; Savio, Stefano; Vaccaro, Luis",
+      "legacy_id": 565766,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "A New Feed-Forward Control for Dynamics Improvement in a Dual-Input DC–DC Converter for Hybrid Vehicle Applications",
+      "scopus_id": "2-s2.0-85192750704",
+      "doi": "10.3390/en17092170",
+      "isi_id": "WOS:001220050000001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1182015",
+      "authors": "Walker, Jake M.; Coraddu, Andrea; Savio, Stefano; Oneto, Luca",
+      "legacy_id": 559506,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Shallow and Deep Learning Models for Vessel Motions Forecasting during Adverse Weather Conditions",
+      "doi": "10.59490/moses.2023.660",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1005068",
+      "authors": "Coraddu, A.; Oneto, L.; Baldi, F.; Cipollini, F.; Atlar, M.; Savio, S.",
+      "legacy_id": 331369,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Data-driven ship digital twin for estimating the speed loss caused by the marine fouling",
+      "scopus_id": "2-s2.0-85067817812",
+      "doi": "10.1016/j.oceaneng.2019.05.045",
+      "isi_id": "WOS:000483626500036",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "165",
+      "citations_scopus": "212"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1181975",
+      "authors": "Savio, Stefano; Oneto, Luca; Coraddu, Andrea; Cepollini, Francesca",
+      "legacy_id": 559286,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Unsupervised Deep Learning for Induction Motors Bearings Monitoring",
+      "doi": "10.1007/s41688-018-0025-2",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/912017",
+      "authors": "Altosole, Marco; Campora, Ugo; Savio, Stefano",
+      "legacy_id": 226304,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Improvements of the Ship Energy Efficiency by a Steam Powered Turbogenerator in LNG Propulsion Applications",
+      "scopus_id": "2-s2.0-85053839190",
+      "isi_id": "WOS:000445031300075",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "11",
+      "citations_scopus": "11"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/905091",
+      "authors": "Cipollini, Francesca; Oneto, Luca; Coraddu, Andrea; Savio, Stefano; Anguita, Davide",
+      "legacy_id": 218875,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Unintrusive Monitoring of Induction Motors Bearings via Deep Learning on Stator Currents",
+      "scopus_id": "2-s2.0-85061160245",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "14"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/909200",
+      "authors": "Laviola, Michele; Figari, Massimo; Altosole, Marco; Savio, Stefano",
+      "legacy_id": 223307,
+      "year": 2018,
+      "miur_type": "268",
+      "title": "LNG fueled barge for cold ironing: feasibility study for the emission abatement in the Port of Genoa",
+      "isi_id": "WOS:000582491800028",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_isi": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/713004",
+      "authors": "Coraddu, Andrea; Oneto, Luca; Ghio, Alessandro; Savio, Stefano; Anguita, Davide; Figari, Massimo",
+      "legacy_id": 102817,
+      "year": 2016,
+      "miur_type": "262",
+      "title": "Machine learning approaches for improving condition-based maintenance of naval propulsion plants",
+      "scopus_id": "2-s2.0-84953876479",
+      "doi": "10.1177/1475090214540874",
+      "isi_id": "WOS:000367845400012",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "98",
+      "citations_scopus": "135"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/822432",
+      "authors": "Coraddu, Andrea; Oneto, Luca; Ghio, Alessandro; Savio, Stefano; Figari, Massimo; Anguita, Davide",
+      "legacy_id": 126410,
+      "year": 2015,
+      "miur_type": "273",
+      "title": "Machine learning for wear forecasting of naval assets for condition-based maintenance applications",
+      "scopus_id": "2-s2.0-84946196162",
+      "doi": "10.1109/ESARS.2015.7101499",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "21"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/663365",
+      "authors": "Coraddu, Andrea; Figari, Massimo; Savio, Stefano",
+      "legacy_id": 100495,
+      "year": 2014,
+      "miur_type": "262",
+      "title": "Numerical investigation on ship energy efficiency by Monte Carlo simulation",
+      "scopus_id": "2-s2.0-84927632010",
+      "doi": "10.1177/1475090214524184",
+      "isi_id": "WOS:000340730100002",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "36",
+      "citations_scopus": "41"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/713002",
+      "authors": "Coraddu, Andrea; Figari, Massimo; Ghio, Alessandro; Oneto, Luca; Savio, Stefano",
+      "legacy_id": 102815,
+      "year": 2014,
+      "miur_type": "273",
+      "title": "A Sustainability Analytics Matlab® Tool to Predict Ship Energy Consumption",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/588935",
+      "authors": "Coraddu, Andrea; Figari, Massimo; Savio, Stefano",
+      "legacy_id": 97833,
+      "year": 2013,
+      "miur_type": "273",
+      "title": "SHIP ENERGY ASSESSMENT BY NUMERICAL SIMULATION",
+      "scopus_id": "2-s2.0-84891349590",
+      "isi_id": "WOS:000346074700045",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/714412",
+      "authors": "Coraddu, Andrea; Figari, Massimo; A., Orlandi; Savio, Stefano; Villa, Diego",
+      "legacy_id": 102963,
+      "year": 2013,
+      "miur_type": "273",
+      "title": "Integration of seakeeping and powering computational techniques with meteo-marine forecasting data for in-service ship energy assessment",
+      "scopus_id": "2-s2.0-84894441228",
+      "isi_id": "WOS:000328328400011",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "5",
+      "citations_scopus": "20"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/504761",
+      "authors": "Coraddu, Andrea; Figari, Massimo; Savio, Stefano",
+      "legacy_id": 93076,
+      "year": 2012,
+      "miur_type": "273",
+      "title": "ENERGY EFFICIENCY INDEX STATISTICAL ANALYSIS THROUGH VESSEL OPERATING DATA",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/317598",
+      "authors": "Coraddu, Andrea; Figari, Massimo; Savio, Stefano",
+      "legacy_id": 70482,
+      "year": 2012,
+      "miur_type": "273",
+      "title": "PROBABILITY OF ACHIEVING THE ENERGY EFFICIENCY INDEX BY MONTE CARLO SIMULATION",
+      "scopus_id": "2-s2.0-84864885198",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/239316",
+      "authors": "CASERZA MAGRO, Micaela; Savio, Stefano",
+      "legacy_id": 40770,
+      "year": 2010,
+      "miur_type": "273",
+      "title": "Reliability and Availability Performances of a Universal and Flexible Power Management System",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/239314",
+      "authors": "CASERZA MAGRO, Micaela; Savio, Stefano",
+      "legacy_id": 40768,
+      "year": 2010,
+      "miur_type": "273",
+      "title": "Stochastic performances estimate of a universal and flexible power management system for the future European electricity network",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/221000",
+      "authors": "CASERZA MAGRO, Micaela; Savio, Stefano",
+      "legacy_id": 30719,
+      "year": 2009,
+      "miur_type": "262",
+      "title": "Dependability and impact analysis for a universal and flexible power management system",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/239313",
+      "authors": "CASERZA MAGRO, Micaela; Savio, Stefano",
+      "legacy_id": 40767,
+      "year": 2008,
+      "miur_type": "273",
+      "title": "Base reliability analysis for an universal and flexible power management system",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/239311",
+      "authors": "G., Dazzi; P., Firpo; Savio, Stefano",
+      "legacy_id": 40766,
+      "year": 2008,
+      "miur_type": "273",
+      "title": "A modular tool for prediction of design choices impact on railway Service Dependability",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/239595",
+      "authors": "G., Dazzi; P., Firpo; Savio, Stefano",
+      "legacy_id": 40933,
+      "year": 2007,
+      "miur_type": "273",
+      "title": "An approach to predict design choices impact on railway Service Dependability",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/239594",
+      "authors": "G., Dazzi; P., Firpo; Savio, Stefano",
+      "legacy_id": 40932,
+      "year": 2007,
+      "miur_type": "273",
+      "title": "Estimate of components reliability and maintenance strategies impact on trains delay",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/239189",
+      "authors": "F., Iov; F., Blaabjerg; R., Bassett; J., Clare; A., Rufer; Savio, Stefano; P., Biller; P., Taylor; B., Sneyers",
+      "legacy_id": 40703,
+      "year": 2007,
+      "miur_type": "273",
+      "title": "Advanced Power Converter for Universal and Flexible Power Management in Future Electricity Network",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/239143",
+      "authors": "G., Cosulich; A., Derito; M., Giannettoni; Savio, Stefano",
+      "legacy_id": 40673,
+      "year": 2006,
+      "miur_type": "273",
+      "title": "The results of the evaluation of F-MAN – An innovative solution for the management of railway cargo fleets",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/239141",
+      "authors": "G., Cosulich; A., Derito; M., Giannettoni; Savio, Stefano",
+      "legacy_id": 40672,
+      "year": 2006,
+      "miur_type": "273",
+      "title": "A cost effective solution to manage rail cargo fleets: the final assessment of F-MAN project",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/239187",
+      "authors": "G., Dazzi; P., Firpo; Savio, Stefano",
+      "legacy_id": 40702,
+      "year": 2006,
+      "miur_type": "273",
+      "title": "A modular tool for Service Dependability estimate in railway and metro systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/249473",
+      "authors": "Marchesoni, Mario; Savio, Stefano",
+      "legacy_id": 47204,
+      "year": 2005,
+      "miur_type": "273",
+      "title": "Failures impact analysis for a fuel cell vehicle based on current and future stochastic performances of traction chain power components",
+      "scopus_id": "2-s2.0-33748343628",
+      "isi_id": "WOS:000235418900247",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/248278",
+      "authors": "Carpaneto, Matteo; G., Ferrando; Marchesoni, Mario; Savio, Stefano",
+      "legacy_id": 46369,
+      "year": 2005,
+      "miur_type": "273",
+      "title": "A new conversion system for the interface of generating and storage devices in hybrid fuel-cell vehicles",
+      "scopus_id": "2-s2.0-33748376650",
+      "isi_id": "WOS:000235418900250",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "4",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/252657",
+      "authors": "Marchesoni, Mario; Savio, Stefano",
+      "legacy_id": 49281,
+      "year": 2005,
+      "miur_type": "273",
+      "title": "Reliability analysis of a fuel cell electric city car",
+      "scopus_id": "2-s2.0-33947652316",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "18"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/234265",
+      "authors": "M., Giannettoni; Savio, Stefano",
+      "legacy_id": 37844,
+      "year": 2004,
+      "miur_type": "273",
+      "title": "Fleet management in railway freight transport: the EU project F-MAN",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/234266",
+      "authors": "M., Giannettoni; Savio, Stefano",
+      "legacy_id": 37845,
+      "year": 2004,
+      "miur_type": "273",
+      "title": "The European project COMBINE 2 to improve knowledge on future rail traffic management systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/234264",
+      "authors": "V., Fazio; Marchesoni, Mario; Savio, Stefano",
+      "legacy_id": 37843,
+      "year": 2004,
+      "miur_type": "273",
+      "title": "Stochastic estimate of redundancy effects for non conventional ac locomotive traction drives",
+      "scopus_id": "2-s2.0-66549124384",
+      "isi_id": "WOS:000233365800189",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/253257",
+      "authors": "Bozzo, Riccardo; Marchesoni, Mario; Savio, Stefano",
+      "legacy_id": 49513,
+      "year": 2003,
+      "miur_type": "273",
+      "title": "The impact of power components reliability on train delay for conventional and innovative AC traction electrical drives",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/234257",
+      "authors": "Marchesoni, Mario; Novaro, R.; Savio, Stefano",
+      "legacy_id": 37842,
+      "year": 2002,
+      "miur_type": "273",
+      "title": "AC locomotive conversion systems without heavy transformers: is it a practicable solution?",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/234255",
+      "authors": "Marchesoni, Mario; Novaro, R.; Savio, Stefano",
+      "legacy_id": 37841,
+      "year": 2002,
+      "miur_type": "273",
+      "title": "Effectiveness of AC locomotive traction systems adopting high frequency conversion modules",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/318457",
+      "authors": "Marchesoni, Mario; Mazzucchelli, MAURIZIO FRANCO; Puglisi, Luciano; Savio, Stefano",
+      "legacy_id": 71082,
+      "year": 1990,
+      "miur_type": "273",
+      "title": "Analysis and design of electric traction systems: performing digital sim­ulation by EMTP",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/188827",
+      "authors": "Marchesoni, Mario; R., Salutari; Savio, Stefano; Sciutto, Giuseppe",
+      "legacy_id": 13997,
+      "year": 1990,
+      "miur_type": "262",
+      "title": "Azionamenti in corrente alternata alimentati direttamente da linea di contatto a 3 kV",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/423317",
+      "authors": "Marchesoni, Mario; R., Salutari; Savio, Stefano; Sciutto, Giuseppe",
+      "legacy_id": 90078,
+      "year": 1990,
+      "miur_type": "273",
+      "title": "Control strategies for electric traction AC drives directly fed through 3 kV overhead",
+      "isi_id": "WOS:A1990BR98X00003",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/420123",
+      "authors": "M., Galaverna; Marchesoni, Mario; P., Pozzobon; Savio, Stefano",
+      "legacy_id": 89891,
+      "year": 1990,
+      "miur_type": "273",
+      "title": "Power conditioning system interconnecting accumulator batteries to AC line with decoupled control of real and reactive power",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/423316",
+      "authors": "Marchesoni, Mario; R., Salutari; Savio, Stefano; Sciutto, Giuseppe",
+      "legacy_id": 90077,
+      "year": 1989,
+      "miur_type": "273",
+      "title": "Azionamenti AC per trazione ferroviaria alimentati direttamente da linea di contatto a 3 kV",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/422715",
+      "authors": "M., Carpita; Marchesoni, Mario; Puglisi, Luciano; Savio:, S.",
+      "legacy_id": 90066,
+      "year": 1988,
+      "miur_type": "273",
+      "title": "A new control strategy for medium-voltage asynchronous drives with NPC-GTO inverters",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/421514",
+      "authors": "Bertini, Sandro; Marchesoni, Mario; Savio, Stefano; Sciutto, Giuseppe",
+      "legacy_id": 90038,
+      "year": 1987,
+      "miur_type": "273",
+      "title": "Optimized design of air-core inductors for applications in power electronics",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/318454",
+      "authors": "M., Carpita; Mazzucchelli, MAURIZIO FRANCO; Savio, Stefano; Sciutto, Giuseppe",
+      "legacy_id": 71079,
+      "year": 1987,
+      "miur_type": "273",
+      "title": "A new PWM control sys­tem for UPS using hysteresis com­pa­rator",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/318451",
+      "authors": "Mazzucchelli, MAURIZIO FRANCO; Puglisi, Luciano; Savio, Stefano; Sciutto, Giuseppe",
+      "legacy_id": 71078,
+      "year": 1987,
+      "miur_type": "273",
+      "title": "Digital sim­ulation of a high-dynamics brushless motor drive for robotic ap­plications",
+      "type": "04.01 - Contributo in atti di convegno"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:15:11.893884"
+}

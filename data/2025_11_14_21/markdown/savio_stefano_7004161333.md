@@ -1,0 +1,972 @@
+# Savio Stefano
+
+## Overview
+- **Unit:** ELE
+- **Role:** Professore associato
+- **Grade:** Prof.Associato DPR 232/11 art.2 - t.pieno - cl. 8
+- **SSD:** IIND-08/A (Convertitori, macchine e azionamenti elettrici)
+- **Scopus ID:** 7004161333
+- **UNIGE ID:** 053900
+- **Retrieved at:** 2025-11-14T15:15:11.893884
+
+## Contact
+- **Email:** stefano.savio@unige.it
+- **Phone:** +39 010 33 52182
+- **Page:** https://rubrica.unige.it/personale/VUZEUlpp
+- **Locations:** Opera Pia - padiglione D (ED_161450401), 1° piano, US_161450401.I.011
+
+## Career
+- PA, 2012-05-01 → 2222-02-02
+
+## Responsibilities
+- **Title:** Responsabile per l'Assicurazione della Qualità del Dipartimento
+  - **Unit:** Dipartimento di ingegneria navale, elettrica, elettronica e delle telecomunicazioni - DITEN
+  - **Period:** 2025-04-29 → 2028-04-28
+
+## Teaching
+### 2025
+- Metodi E Modelli Per La Predizione Di Dependability Dei Sistemi Industriali (118113), L-9 - Ingegneria Elettrica
+- Metodi E Modelli Per La Predizione Di Dependability Dei Sistemi Industriali (118113), L-9 - Ingegneria Elettrica
+- Macchine Elettriche (66171), L-9 - Ingegneria Elettrica
+
+### 2024
+- Macchine Elettriche (66171), L-9 - Ingegneria Elettrica
+- Affidabilità E Sicurezza Dei Sistemi (94678), Lm-28 - Ingegneria Elettrica
+- Affidabilità E Sicurezza Dei Sistemi (94678), Lm-28 - Ingegneria Elettrica
+
+### 2023
+- Macchine Elettriche (66171), L-9 - Ingegneria Elettrica
+- Affidabilità E Sicurezza Dei Sistemi (94678), Lm-28 - Ingegneria Elettrica
+
+### 2022
+- Macchine Elettriche (66171), L-9 - Ingegneria Elettrica
+- Affidabilità E Sicurezza Dei Sistemi (94678), Lm-28 - Ingegneria Elettrica
+
+### 2021
+- Macchine Elettriche (66171), L-9 - Ingegneria Elettrica
+- Affidabilità E Sicurezza Dei Sistemi (94678), Lm-28 - Ingegneria Elettrica
+- Azionamenti Elettrici (72307), L-9 - Ingegneria Meccanica
+
+### 2020
+- Macchine Elettriche (66171), L-9 - Ingegneria Elettrica
+- Affidabilità E Sicurezza Dei Sistemi (94678), Lm-28 - Ingegneria Elettrica
+
+## Scopus Metrics
+- absolute; Docs: 52; Journals: 7; Conferences: 41; Citations: 645; H-index: 11
+- 15 years (2010-2025); Docs: 18; Journals: 6; Conferences: 12; Citations: 482; H-index: 7
+- 10 years (2015-2025); Docs: 12; Journals: 4; Conferences: 8; Citations: 406; H-index: 6
+- 05 years (2020-2025); Docs: 6; Journals: 2; Conferences: 4; Citations: 12; H-index: 2
+
+## Scopus Products
+1.
+   - **Title:** Digital Control of Multilevel Interleaved GaN DC-DC Converter for Fuel Cell Electric Powertrains
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/TIA.2025.3599817
+   - **Scopus ID:** 2-s2.0-105013881215
+   - **ISSN:** 00939994
+   - **eISSN:** 19399367
+   - **Authors:** Savio Stefano; Giuffrida Simone; Mandrile Fabio; Stella Fausto; Armando Eric Giacomo; Bojoi Radu
+   - **Keywords:** DC-DC converters | digital control | Fuel cells | Gallium Nitride (GaN) | Multilevel converters
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+   - **Source Id:** 17361
+   - **Author Ids:** 7004161333;59117055600;57206669520;57195946876;24476525700;57216646029
+   - **Corresponding:** Savio S.
+2.
+   - **Title:** A New Feed-Forward Control for Dynamics Improvement in a Dual-Input DC–DC Converter for Hybrid Vehicle Applications
+   - **Venue:** Energies
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.3390/en17092170
+   - **Scopus ID:** 2-s2.0-85192750704
+   - **eISSN:** 19961073
+   - **Volume:** 17
+   - **Issue:** 9
+   - **Authors:** Benevieri Alessandro; Carbone Lorenzo; Cosso Simone; Marchesoni Mario; Passalacqua Massimiliano; Savio Stefano; Vaccaro Luis
+   - **Keywords:** control strategy | DCM | DC–DC converter | feed forward | multi-input converter
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2024:
+     - Control and Optimization (Q1, rank 15, percentile 90)
+     - Engineering (miscellaneous) (Q1, rank 39, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 173, percentile 82)
+     - Energy Engineering and Power Technology (Q1, rank 73, percentile 75)
+     - Fuel Technology (Q2, rank 38, percentile 71)
+     - Energy (miscellaneous) (Q2, rank 32, percentile 68)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 105, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 57226763007;57324886200;57324695200;6701827441;57195070159;7004161333;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+3.
+   - **Title:** Design of a 75kW Three-Level DC/DC GaN Converter for Automotive Fuel-cell Application
+   - **Venue:** 2024 IEEE Energy Conversion Congress and Exposition Ecce 2024 Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ECCE55643.2024.10861727
+   - **Scopus ID:** 2-s2.0-86000465810
+   - **Pages:** 2475-2482
+   - **Authors:** Giuffrida Simone; Savio Stefano; Mandrile Fabio; Stella Fausto; Armando Eric; Bojoi Radu
+   - **Keywords:** Automotive | DC/DC converter | Fuel-cell | GaN HEMTs | Multilevel
+   - **Source Id:** 21101281529
+   - **Author Ids:** 59117055600;7004161333;57206669520;57195946876;24476525700;57216646029
+   - **Authoraffiliationids:** 60012162;60012162;60012162;60012162;60012162;60012162
+   - **Corresponding:** Giuffrida S.
+4.
+   - **Title:** Digital Control of a Multilevel Interleaved DC-DC GaN Converter for Fuel Cell Traction Applications
+   - **Venue:** 2024 IEEE Energy Conversion Congress and Exposition Ecce 2024 Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ECCE55643.2024.10861747
+   - **Scopus ID:** 2-s2.0-86000458329
+   - **Pages:** 4484-4490
+   - **Authors:** Savio Stefano; Giuffrida Simone; Mandrile Fabio; Stella Fausto; Armando Eric; Bojoi Radu
+   - **Keywords:** DCDC converter | Digital control | Fuel cells | GaN
+   - **Source Id:** 21101281529
+   - **Author Ids:** 7004161333;59117055600;57206669520;57195946876;24476525700;57216646029
+   - **Authoraffiliationids:** 60012162;60012162;60012162;60012162;60012162;60012162
+   - **Corresponding:** Savio S.
+5.
+   - **Title:** Cost Effective 3D Printed Heatsink for Fast Prototyping of WBG Power Converters
+   - **Venue:** Conference Proceedings IEEE Applied Power Electronics Conference and Exposition APEC
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/APEC48139.2024.10509035
+   - **Scopus ID:** 2-s2.0-85192689187
+   - **ISSN:** 10482334
+   - **Pages:** 2562-2567
+   - **Authors:** Stella Fausto; Savio Stefano; Vico Enrico; Bojoi Radu; Armando Eric
+   - **Keywords:** 3D Printing | Advanced Cooling | Heatsink | Liquid Cooling | Rapid Prototyping | Wide Bandgap
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 447, percentile 55)
+     2024:
+     - Electrical and Electronic Engineering (Q2, rank 410, percentile 57)
+   - **Source Id:** 31003
+   - **Author Ids:** 57195946876;7004161333;57221641780;57216646029;24476525700
+   - **Authoraffiliationids:** 60012162;60012162;60012162;60012162;60012162
+   - **Corresponding:** Stella F.
+6.
+   - **Title:** An Integrated Capacitive Power Transfer System for Field Excitation of Wound Field Synchronous Machine
+   - **Venue:** Conference Proceedings IEEE Applied Power Electronics Conference and Exposition APEC
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/APEC43580.2023.10131173
+   - **Scopus ID:** 2-s2.0-85162210149
+   - **Volume:** 2023-March
+   - **Pages:** 829-835
+   - **Authors:** Savio Stefano; Hassan Gillani Syed Muhammad; Pratik Ujjwal; Chattopadhyay Ritvik; Husain Iqbal; Pantic Zeljko
+   - **Keywords:** brushless | Capacitive Power Transfer (CPT) | wireless power transfer | Wound Field Synchronous Machine (WFSM)
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 447, percentile 55)
+     2023:
+     - Electrical and Electronic Engineering (Q3, rank 406, percentile 49)
+   - **Source Id:** 31003
+   - **Author Ids:** 7004161333;58318211500;57200517361;55976417200;7006220122;35223647000
+   - **Authoraffiliationids:** 60012162;60279548;60279548;60279548;60279548;60279548
+   - **Corresponding:** Savio S.
+7.
+   - **Title:** Data-driven ship digital twin for estimating the speed loss caused by the marine fouling
+   - **Venue:** Ocean Engineering
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 212
+   - **DOI:** 10.1016/j.oceaneng.2019.05.045
+   - **Scopus ID:** 2-s2.0-85067817812
+   - **ISSN:** 00298018
+   - **Volume:** 186
+   - **Authors:** Coraddu Andrea; Oneto Luca; Baldi Francesco; Cipollini Francesca; Atlar Mehmet; Savio Stefano
+   - **Keywords:** Condition based maintenance | Data-Driven Models | Deep learning | Digital twin | Fouling | Hull and propeller maintenance | ISO 19030
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 6, percentile 95)
+     - Environmental Engineering (Q1, rank 38, percentile 83)
+     2019:
+     - Ocean Engineering (Q1, rank 12, percentile 87)
+     - Environmental Engineering (Q1, rank 32, percentile 76)
+   - **Source Id:** 28339
+   - **Author Ids:** 55193514900;41262130900;57213300200;57197726257;6701684164;7004161333
+   - **Authoraffiliationids:** 60024724;60121711;60019637;60121711;60024724;60025153
+   - **Corresponding:** Coraddu A.
+8.
+   - **Title:** Improvements of the Ship Energy Efficiency by a Steam Powered Turbogenerator in LNG Propulsion Applications
+   - **Venue:** Speedam 2018 Proceedings International Symposium on Power Electronics Electrical Drives Automation and Motion
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/SPEEDAM.2018.8445202
+   - **Scopus ID:** 2-s2.0-85053839190
+   - **Pages:** 449-455
+   - **Authors:** Altosole M.; Campora U.; Savio S.
+   - **Keywords:** Heat recovery | LNG fuel | Marine hybrid propulsion | Ship energy efficiency | Steam turbogenerator
+   - **Source Id:** 21100878002
+   - **Author Ids:** 13006187800;6508251998;7004161333
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Altosole M.
+9.
+   - **Title:** Unintrusive Monitoring of Induction Motors Bearings via Deep Learning on Stator Currents
+   - **Venue:** Procedia Computer Science
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1016/j.procs.2018.10.503
+   - **Scopus ID:** 2-s2.0-85061160245
+   - **eISSN:** 18770509
+   - **Volume:** 144
+   - **Pages:** 42-51
+   - **Authors:** Cipollini Francesca; Oneto Luca; Coraddu Andrea; Savio Stefano; Anguita Davide
+   - **Keywords:** Bearings | Deep Learning | Induction Motors | Monitoring | Stator Currents
+   - **Quartile:**
+     2025:
+     - Computer Science (all) (Q2, rank 107, percentile 55)
+     2018:
+     - Computer Science (all) (Q2, rank 70, percentile 67)
+   - **Source Id:** 19700182801
+   - **Author Ids:** 57197726257;41262130900;55193514900;7004161333;7004764744
+   - **Authoraffiliationids:** 60121711;60121711;60024724;60025153;60121711
+   - **Corresponding:** Cipollini F.
+10.
+   - **Title:** Machine learning approaches for improving condition-based maintenance of naval propulsion plants
+   - **Venue:** Proceedings of the Institution of Mechanical Engineers Part M Journal of Engineering for the Maritime Environment
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 135
+   - **DOI:** 10.1177/1475090214540874
+   - **Scopus ID:** 2-s2.0-84953876479
+   - **ISSN:** 14750902
+   - **eISSN:** 20413084
+   - **Volume:** 230
+   - **Issue:** 1
+   - **Pages:** 136-153
+   - **Authors:** Coraddu Andrea; Oneto Luca; Ghio Aessandro; Savio Stefano; Anguita Davide; Figari Massimo
+   - **Keywords:** asset decay forecast | COmbined Diesel eLectric And Gas propulsion plant | Condition-based maintenance | gas turbine | machine learning
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q2, rank 37, percentile 68)
+     - Mechanical Engineering (Q2, rank 249, percentile 66)
+     2016:
+     - Ocean Engineering (Q2, rank 25, percentile 71)
+     - Mechanical Engineering (Q2, rank 161, percentile 70)
+   - **Source Id:** 25596
+   - **Author Ids:** 55193514900;41262130900;23492204700;7004161333;7004764744;6507282370
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60121711;60025153
+   - **Corresponding:** Coraddu A.
+11.
+   - **Title:** Machine learning for wear forecasting of naval assets for condition-based maintenance applications
+   - **Venue:** Electrical Systems for Aircraft Railway and Ship Propulsion Esars
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 21
+   - **DOI:** 10.1109/ESARS.2015.7101499
+   - **Scopus ID:** 2-s2.0-84946196162
+   - **ISSN:** 21659400
+   - **eISSN:** 21659427
+   - **Volume:** 2015-May
+   - **Authors:** Coraddu Andrea; Oneto Luca; Ghio Alessandro; Savio Stefano; Figari Massimo; Anguita Davide
+   - **Keywords:** Condition-Based Maintenance | Machine Learning | Naval Propulsion Plant | Publicly Distributed Dataset
+   - **Source Id:** 21100228516
+   - **Author Ids:** 55193514900;41262130900;23492204700;7004161333;6507282370;7004764744
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60121711
+   - **Corresponding:** Coraddu A.
+12.
+   - **Title:** Railway Transportation Efficiency Improvement: Loco Health Assessment by Time Domain Data Analysis to Support Condition Based Maintenance Implementation
+   - **Venue:** Transportation Research Procedia
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1016/j.trpro.2015.03.032
+   - **Scopus ID:** 2-s2.0-84959356346
+   - **ISSN:** 23521457
+   - **eISSN:** 23521465
+   - **Volume:** 6
+   - **Pages:** 424-433
+   - **Authors:** Capasso Marco; Savio Stefano; Firpo Pierluigi; Parisi Gianluca
+   - **Keywords:** Condition Based Maintenance | Diagnostics | Independent Component Analysis | Inverter-fed induction motor
+   - **Quartile:**
+     2025:
+     - Transportation (Q3, rank 101, percentile 35)
+   - **Source Id:** 21100448300
+   - **Author Ids:** 57147221200;7004161333;6602760106;57146745600
+   - **Authoraffiliationids:** 60025153;60025153;60086239;60086239
+   - **Corresponding:** Capasso M.
+13.
+   - **Title:** Numerical investigation on ship energy efficiency by Monte Carlo simulation
+   - **Venue:** Proceedings of the Institution of Mechanical Engineers Part M Journal of Engineering for the Maritime Environment
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 41
+   - **DOI:** 10.1177/1475090214524184
+   - **Scopus ID:** 2-s2.0-84927632010
+   - **ISSN:** 14750902
+   - **eISSN:** 20413084
+   - **Volume:** 228
+   - **Issue:** 3
+   - **Pages:** 220-234
+   - **Authors:** Coraddu Andrea; Figari Massimo; Savio Stefano
+   - **Keywords:** Marine engineering | Marine systems | Naval architecture | Numerical modeling | Simulation
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q2, rank 37, percentile 68)
+     - Mechanical Engineering (Q2, rank 249, percentile 66)
+     2014:
+     - Ocean Engineering (Q2, rank 30, percentile 65)
+     - Mechanical Engineering (Q2, rank 212, percentile 59)
+   - **Source Id:** 25596
+   - **Author Ids:** 55193514900;6507282370;7004161333
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Coraddu A.
+14.
+   - **Title:** Integration of seakeeping and powering computational techniques with meteo-marine forecasting data for in-service ship energy assessment
+   - **Venue:** Developments in Maritime Transportation and Exploitation of Sea Resources Proceedings of Imam 2013 15th International Congress of the International Maritime Association of the Mediterranean
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 20
+   - **Scopus ID:** 2-s2.0-84894441228
+   - **Volume:** 1
+   - **Pages:** 93-101
+   - **Authors:** Coraddu A.; Figari M.; Savio S.; Villa D.; Orlandi A.
+   - **Source Id:** 21100286947
+   - **Author Ids:** 55193514900;6507282370;7004161333;56250522200;8072174500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60082857
+   - **Corresponding:** Coraddu A.
+15.
+   - **Title:** Ship energy assessment by numerical simulation marine 2013
+   - **Venue:** Computational Methods in Marine Engineering V Proceedings of the 5th International Conference on Computational Methods in Marine Engineering Marine 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-84891349590
+   - **Pages:** 530-540
+   - **Authors:** Coraddu A.; Figari M.; Savio S.
+   - **Keywords:** Energy management | Energy modelling | Marine engineering | Simulation
+   - **Source Id:** 21100277019
+   - **Author Ids:** 55193514900;6507282370;7004161333
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Coraddu A.
+16.
+   - **Title:** Probability of achieving the energy efficiency index by Monte Carlo simulation
+   - **Venue:** Rina Royal Institution of Naval Architects International Conference on Managing Reliability and Maintainability in the Maritime Industry Papers
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-84864885198
+   - **Pages:** 107-114
+   - **Authors:** Figari M.; Savio S.; Coraddu Andrea
+   - **Source Id:** 21100208092
+   - **Author Ids:** 6507282370;7004161333;55193514900
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Figari M.
+17.
+   - **Title:** Reliability and availability performances of a universal and flexible power management system
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/ISIE.2010.5637723
+   - **Scopus ID:** 2-s2.0-78650379423
+   - **Pages:** 2461-2468
+   - **Authors:** Magro Micaela Caserza; Savio Stefano
+   - **Source Id:** 85690
+   - **Author Ids:** 6603834120;7004161333
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Magro M.C.
+18.
+   - **Title:** Stochastic performances estimate of a universal and flexible power management system for the future European electricity network
+   - **Venue:** Renewable Energy and Power Quality Journal
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.24084/repqj08.425
+   - **Scopus ID:** 2-s2.0-85073394145
+   - **eISSN:** 2172038X
+   - **Volume:** 1
+   - **Issue:** 8
+   - **Pages:** 629-636
+   - **Authors:** Magro Micaela Caserza; Savio Stefano
+   - **Keywords:** Availability | Monte Carlo method | Power conversion | Power distribution | Reliability
+   - **Source Id:** 21100916460
+   - **Author Ids:** 6603834120;7004161333
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Magro M.C.
+19.
+   - **Title:** Dependability and impact analysis for a universal and flexible power management system
+   - **Venue:** EPE Journal European Power Electronics and Drives Journal
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1080/09398368.2009.11463737
+   - **Scopus ID:** 2-s2.0-77949357840
+   - **ISSN:** 09398368
+   - **eISSN:** 23769319
+   - **Volume:** 19
+   - **Issue:** 4
+   - **Pages:** 51-58
+   - **Authors:** Magro Micaela Caserza; Savio Stefano
+   - **Keywords:** Availability | Monte Carlo method | Power conversion | Power distribution | Reliability
+   - **Source Id:** 24776
+   - **Author Ids:** 6603834120;7004161333
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Magro M.C.
+20.
+   - **Title:** Base reliability analysis for an universal and flexible power management system
+   - **Venue:** IEEE Convention of Electrical and Electronics Engineers in Israel Proceedings
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/EEEI.2008.4736702
+   - **Scopus ID:** 2-s2.0-62749155338
+   - **Pages:** 265-269
+   - **Authors:** Magro Micaela Caserza; Savio Stefano
+   - **Keywords:** Power conversion | Power distribution | Reliability estimation | Reliability modeling
+   - **Source Id:** 145204
+   - **Author Ids:** 6603834120;7004161333
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Magro M.C.
+21.
+   - **Title:** Estimate of components reliability and maintenance strategies impact on trains delay
+   - **Venue:** 21st European Conference on Modelling and Simulation Simulations in United Europe Ecms 2007
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.7148/2007-0447
+   - **Scopus ID:** 2-s2.0-84857553073
+   - **Pages:** 447-452
+   - **Authors:** Dazzi Giovanni; Savio Stefano; Firpo Pierluigi
+   - **Keywords:** Maintenance | Monte Carlo | Reliability | Train delay
+   - **Source Id:** 21100198434
+   - **Author Ids:** 55039820600;7004161333;6602760106
+   - **Authoraffiliationids:** 60025153;60025153;60083122
+   - **Corresponding:** Dazzi G.
+22.
+   - **Title:** A cost effective solution to manage rail cargo fleets: The final assessment of the F-MAN project
+   - **Venue:** Wit Transactions on the Built Environment
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.2495/CR060901
+   - **Scopus ID:** 2-s2.0-36148956216
+   - **ISSN:** 17433509
+   - **Volume:** 88
+   - **Pages:** 923-932
+   - **Authors:** Cosulich G.; Derito A.; Giannettoni M.; Savio S.
+   - **Keywords:** Cargo fleet management | IT-based system | Railway | Simulation
+   - **Source Id:** 5700191221
+   - **Author Ids:** 6603166019;6507485721;6507523317;7004161333
+   - **Authoraffiliationids:** 100801606;100801606;60025153;60025153
+   - **Corresponding:** Cosulich G.
+23.
+   - **Title:** Results of the evaluation of F-man - An innovative solution for the management of railway cargo fleets
+   - **Venue:** IFAC Proceedings Volumes IFAC Papersonline
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.3182/20060829-3-nl-2908.00058
+   - **Scopus ID:** 2-s2.0-79961119059
+   - **ISSN:** 14746670
+   - **Volume:** 11
+   - **Issue:** Part 1
+   - **Pages:** 331-336
+   - **Authors:** Cosulich G.; Derito A.; Giannettoni M.; Savio S.
+   - **Keywords:** Asset management | Cargo fleet | IT-based system | Railway
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q3, rank 218, percentile 42)
+   - **Source Id:** 21100456158
+   - **Author Ids:** 6603166019;6507485721;6507523317;7004161333
+   - **Authoraffiliationids:** 100801606;100801606;60025153;60025153
+   - **Corresponding:** Cosulich G.
+24.
+   - **Title:** A new conversion system for the interface of generating and storage devices in hybrid fuel-cell vehicles
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ISIE.2005.1529150
+   - **Scopus ID:** 2-s2.0-33748376650
+   - **Volume:** IV
+   - **Pages:** 1477-1482
+   - **Authors:** Carpaneto M.; Ferrando G.; Marchesoni M.; Savio S.
+   - **Source Id:** 85690
+   - **Author Ids:** 14422109200;57199552745;6701827441;7004161333
+   - **Authoraffiliationids:** 60025153;60025153;60000251-60025153;60000251-60025153
+   - **Corresponding:** Carpaneto M.
+25.
+   - **Title:** Failures impact analysis for a fuel cell vehicle based on current and future stochastic performances of traction chain power components
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ISIE.2005.1529147
+   - **Scopus ID:** 2-s2.0-33748343628
+   - **Volume:** IV
+   - **Pages:** 1459-1464
+   - **Authors:** Marchesoni Mario; Savio Stefano
+   - **Source Id:** 85690
+   - **Author Ids:** 6701827441;7004161333
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Marchesoni M.
+26.
+   - **Title:** Reliability analysis of a fuel cell electric city car
+   - **Venue:** 2005 European Conference on Power Electronics and Applications
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 18
+   - **DOI:** 10.1109/epe.2005.219673
+   - **Scopus ID:** 2-s2.0-33947652316
+   - **Volume:** 2005
+   - **Authors:** Marchesoni Mario; Savio Stefano
+   - **Keywords:** Battery management systems | Fuel cells system | Hybrid electric vehicle | Reliability | Supercapacitor
+   - **Source Id:** 5300152709
+   - **Author Ids:** 6701827441;7004161333
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchesoni M.
+27.
+   - **Title:** Stochastic estimate of redundancy effects for non conventional ac locomotive traction drives
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ISIE.2004.1571967
+   - **Scopus ID:** 2-s2.0-66549124384
+   - **Volume:** 2
+   - **Pages:** 1099-1104
+   - **Authors:** Fazio Vincenzo; Marchesoni Mario; Savio Stefano
+   - **Keywords:** Power electronics | Redundant architecture | Reliability | Stochastic performance. | Traction drive
+   - **Source Id:** 85690
+   - **Author Ids:** 26641843100;6701827441;7004161333
+   - **Authoraffiliationids:** 100801606;60025153-60000251;60025153-60000251
+   - **Corresponding:** Fazio V.
+28.
+   - **Title:** The European project COMBINE 2 to improve knowledge on future rail traffic management systems
+   - **Venue:** Advances in Transport
+   - **Year:** 2004
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-4644296430
+   - **ISSN:** 1462608X
+   - **Volume:** 15
+   - **Pages:** 695-704
+   - **Authors:** Giannettoni M.; Savio S.
+   - **Keywords:** Mixed signalling | Railway | Traffic Management System
+   - **Source Id:** 17691
+   - **Author Ids:** 6507523317;7004161333
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Giannettoni M.
+29.
+   - **Title:** Fleet management in railway freight transport: The EU project F-MAN
+   - **Venue:** Advances in Transport
+   - **Year:** 2004
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-4644242737
+   - **ISSN:** 1462608X
+   - **Volume:** 15
+   - **Pages:** 361-370
+   - **Authors:** Giannettoni M.; Savio S.
+   - **Keywords:** Fleet management | Freight | Railway
+   - **Source Id:** 17691
+   - **Author Ids:** 6507523317;7004161333
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Giannettoni M.
+30.
+   - **Title:** How to reduce industrial systems maintenance cost through an optimised troubleshooting process
+   - **Venue:** 2003 IEEE Bologna Powertech Conference Proceedings
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/PTC.2003.1304144
+   - **Scopus ID:** 2-s2.0-84861491758
+   - **Volume:** 1
+   - **Pages:** 265-272
+   - **Authors:** Fazio Vincenzo; Firpo Pierluigi; Savio Stefano
+   - **Keywords:** Fault isolation | Maintenance | Reliability
+   - **Source Id:** 21100202741
+   - **Author Ids:** 26641843100;6602760106;7004161333
+   - **Authoraffiliationids:** 60025153;100801606;60025153
+   - **Corresponding:** Fazio V.
+31.
+   - **Title:** Power electronics reliability and stochastic performances of innovative ac traction drives: A comparative analysis
+   - **Venue:** 2003 IEEE Bologna Powertech Conference Proceedings
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/PTC.2003.1304473
+   - **Scopus ID:** 2-s2.0-70349441730
+   - **Volume:** 3
+   - **Pages:** 734-741
+   - **Authors:** Bozzo Riccardo; Fazio Vincenzo; Savio Stefano
+   - **Keywords:** Electrical drives | Power electronics | Reliability
+   - **Source Id:** 21100202741
+   - **Author Ids:** 7006475772;26641843100;7004161333
+   - **Authoraffiliationids:** 100801606;60025153;60025153
+   - **Corresponding:** Bozzo R.
+32.
+   - **Title:** AC locomotive conversion systems without heavy transformers: Is it a practicable solution?
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 37
+   - **DOI:** 10.1109/isie.2002.1025955
+   - **Scopus ID:** 2-s2.0-84863296148
+   - **Volume:** 4
+   - **Pages:** 1172-1177
+   - **Authors:** Marchesoni Mario; Novaro Roberto; Savio Stefano
+   - **Source Id:** 85690
+   - **Author Ids:** 6701827441;9235503200;7004161333
+   - **Authoraffiliationids:** 60025153;100860496;60025153
+   - **Corresponding:** Marchesoni M.
+33.
+   - **Title:** Effect of MTTF and MTTR statistical uncertainty on mission dependability for power electronics equipped systems
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0034851165
+   - **Volume:** 2
+   - **Pages:** 1339-1344
+   - **Authors:** Fazio V.; Firpo P.; Savio S.
+   - **Source Id:** 85690
+   - **Author Ids:** 26641843100;6602760106;7004161333
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Fazio V.
+34.
+   - **Title:** Moving block and traffic management in railway applications: The EC project COMBINE
+   - **Venue:** Advances in Transport
+   - **Year:** 2000
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-4544334593
+   - **ISSN:** 1462608X
+   - **Volume:** 7
+   - **Pages:** 11-20
+   - **Authors:** Giuliari M.; Pellegrini F.; Savio S.
+   - **Source Id:** 17691
+   - **Author Ids:** 6506970944;7006173840;7004161333
+   - **Authoraffiliationids:** 60025153;101733634;60025153
+   - **Corresponding:** Giuliari M.
+35.
+   - **Title:** Reliability demonstration for complex redundant systems in railway applications
+   - **Venue:** Advances in Transport
+   - **Year:** 2000
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-4544264888
+   - **ISSN:** 1462608X
+   - **Volume:** 7
+   - **Pages:** 923-932
+   - **Authors:** Bozzo R.; Fazio V.; Firpo P.; Savio S.
+   - **Source Id:** 17691
+   - **Author Ids:** 7006475772;26641843100;6602760106;7004161333
+   - **Authoraffiliationids:** 60025153;60025153;100367842;60025153
+   - **Corresponding:** Bozzo R.
+36.
+   - **Title:** An innovative procedure for reliability assessment of power electronics equipped systems: A real case study
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **Scopus ID:** 2-s2.0-0034429648
+   - **Volume:** 2
+   - **Pages:** 511-516
+   - **Authors:** Fazio V.; Savio S.; Firpo P.
+   - **Source Id:** 85690
+   - **Author Ids:** 26641843100;7004161333;6602760106
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Fazio V.
+37.
+   - **Title:** Modelling of diagnostics aided RCM procedure for transportation systems dependability and cost evaluation
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0033357925
+   - **Volume:** 2
+   - **Pages:** 877-882
+   - **Authors:** Savio Stefano
+   - **Source Id:** 85690
+   - **Author Ids:** 7004161333
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Savio S.
+38.
+   - **Title:** Voltage regulation of AC/DC converters for railway applications: A comparison among control strategies
+   - **Venue:** IEEE Conference on Control Applications Proceedings
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0032301401
+   - **Volume:** 2
+   - **Pages:** 1394-1398
+   - **Authors:** Galaverna Marco; Savio Stefano; Sciutto Giuseppe; Tenca Pierluigi
+   - **Source Id:** 25434
+   - **Author Ids:** 6603023418;7004161333;7003892246;55962997800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Galaverna M.
+39.
+   - **Title:** Automatic conflict detection and resolution in metrorail systems: Evaluation approach for MARCO EU project
+   - **Venue:** Proceedings of the International Conference on Urban Transport and the Environment for the 21st Century
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0032272917
+   - **Pages:** 461-470
+   - **Authors:** D'Addio G. F.; Mazzucchelli M.; Savio S.
+   - **Source Id:** 64186
+   - **Author Ids:** 6601969294;15623683200;7004161333
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** D'Addio G.
+40.
+   - **Title:** Reliability centered maintenance: A solution to optimize mass transit system cost effectiveness
+   - **Venue:** IEE Conference Publication
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-0031677349
+   - **ISSN:** 05379989
+   - **Issue:** 453
+   - **Pages:** 211-216
+   - **Authors:** D'Addio G. F.; Firpo P.; Savio S.
+   - **Source Id:** 34914
+   - **Author Ids:** 6601969294;6602760106;7004161333
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** D'Addio G.
+41.
+   - **Title:** Optimized reliability centered maintenance of vehicles electrical drives for high speed railway applications
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **Scopus ID:** 2-s2.0-0031362066
+   - **Volume:** 2
+   - **Pages:** 555-560
+   - **Authors:** D'Addio Gian Francesco; Savio Stefano; Firpo Pierluigi
+   - **Source Id:** 85690
+   - **Author Ids:** 6601969294;7004161333;6602760106
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** D'Addio G.
+42.
+   - **Title:** Safety specification and acceptance in ship control systems: A novel approach based on dynamic system modelling
+   - **Venue:** Proceedings of the International Conference on Marine Technology Odra
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0030721373
+   - **Pages:** 373-382
+   - **Authors:** D'Addio Gian Francesco; Firpo Pierluigi; Savio Stefano; Sciutto Giuseppe
+   - **Source Id:** 74820
+   - **Author Ids:** 6601969294;6602760106;7004161333;7003892246
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** D'Addio G.
+43.
+   - **Title:** Electrical substation dependability analysis for high speed railway systems: A simplified approach
+   - **Venue:** Proceedings of the International Conference on Computer Aided Design Manufacture and Operation in the Railway and Other Mass Transit Systems
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0030398213
+   - **Volume:** 2
+   - **Pages:** 139-148
+   - **Authors:** Cosulich G.; Firpo P.; Savio S.
+   - **Source Id:** 94140
+   - **Author Ids:** 6603166019;6602760106;7004161333
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Cosulich G.
+44.
+   - **Title:** Power electronics reliability impact on service dependability for railway systems: a real case study
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **Scopus ID:** 2-s2.0-0029773070
+   - **Volume:** 2
+   - **Pages:** 996-1001
+   - **Authors:** Cosulich Giovanni; Firpo Pierluigi; Savio Stefano
+   - **Source Id:** 85690
+   - **Author Ids:** 6603166019;6602760106;7004161333
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Cosulich G.
+45.
+   - **Title:** Computer modelling and simulation for high speed railway applications
+   - **Venue:** Proceedings of the International Conference on Applications of Advanced Technologies in Transportation Engineering
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0029754283
+   - **Pages:** 54-58
+   - **Authors:** Ianniello C.; Savio S.; Sciutto G.
+   - **Source Id:** 57584
+   - **Author Ids:** 6602807806;7004161333;7003892246
+   - **Authoraffiliationids:** 60212274;60212274;60212274
+   - **Corresponding:** Ianniello C.
+46.
+   - **Title:** Role of Petri nets modelling in the safety assessment process for guided transport systems
+   - **Venue:** Proceedings of the International Conference on Applications of Advanced Technologies in Transportation Engineering
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0029734257
+   - **Pages:** 558-562
+   - **Authors:** Cosulich G.; Firpo P.; Savio S.; Sciutto G.
+   - **Source Id:** 57584
+   - **Author Ids:** 6603166019;6602760106;7004161333;7003892246
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Cosulich G.
+47.
+   - **Title:** RAM requirements optimal apportionment in guided transport systems
+   - **Venue:** Proceedings of the International Conference on Software for Electrical Engineering Analysis and Design Electrosoft
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0029708043
+   - **Pages:** 483-490
+   - **Authors:** Cosulich G.; Firpo P.; Savio S.
+   - **Source Id:** 10300153335
+   - **Author Ids:** 6603166019;6602760106;7004161333
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Cosulich G.
+48.
+   - **Title:** Optimized train running curve for electrical energy saving in autotransformer supplied AC railway systems
+   - **Venue:** IEE Conference Publication
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1049/cp:19950174
+   - **Scopus ID:** 2-s2.0-0029217623
+   - **ISSN:** 05379989
+   - **Issue:** 405
+   - **Pages:** 23-27
+   - **Authors:** Firpo P.; Savio S.
+   - **Source Id:** 34914
+   - **Author Ids:** 6602760106;7004161333
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Firpo P.
+49.
+   - **Title:** Locomotive drive harmonic pollution in AC traction systems
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 1993
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ISIE.1993.268733
+   - **Scopus ID:** 2-s2.0-84884318890
+   - **Pages:** 622-628
+   - **Authors:** Firpo P.; Fracchia M.; Savio S.
+   - **Source Id:** 85690
+   - **Author Ids:** 6602760106;7004022170;7004161333
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Firpo P.
+50.
+   - **Title:** Audio Frequency Signalling Compatibility Of Chopper-Fed Dc Motor Drives In Underground Railway Systems.
+   - **Venue:** 9th International Zurich Symposium and Technical Exhibition on Electromagnetic Compatibility EMC 1991
+   - **Year:** 1991
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EMC.1991.10781046
+   - **Scopus ID:** 2-s2.0-85215504321
+   - **Pages:** 667-672
+   - **Authors:** Cesario P.; Dapelo M.; Romano P.; Savio S.; Sciutto G.
+   - **Source Id:** 21101270293
+   - **Author Ids:** 7801585159;59521024400;59514314200;7004161333;7003892246
+   - **Authoraffiliationids:** 60028868;60073836;60073836;60025153;60025153
+   - **Corresponding:** Cesario P.
+51.
+   - **Title:** New Pwm Control System For Ups Using Hysteresis Comparator.
+   - **Venue:** Conference Record IAS Annual Meeting IEEE Industry Applications Society
+   - **Year:** 1987
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **Scopus ID:** 2-s2.0-0023577863
+   - **ISSN:** 01972618
+   - **Pages:** 749-754
+   - **Authors:** Carpita M.; Mazzucchelli M.; Savio S.; Sciutto G.
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 312, percentile 23)
+     - Electrical and Electronic Engineering (Q4, rank 804, percentile 19)
+     - Control and Systems Engineering (Q4, rank 332, percentile 12)
+   - **Source Id:** 17898
+   - **Author Ids:** 6603270189;15623683200;7004161333;7003892246
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Carpita M.
+52.
+   - **Title:** Digital Simulation Of Ups Using Emtp General Purpose Program.
+   - **Venue:** Proceedings of the Annual International PCI Conference Power Conversion International
+   - **Year:** 1986
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0022902384
+   - **Pages:** 85-92
+   - **Authors:** Cesario P.; Mazzucchelli M.; Odone A.; Puglisi L.; Savio S.
+   - **Source Id:** 58906
+   - **Author Ids:** 7801585159;15623683200;6602241004;7006443886;7004161333
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Cesario P.

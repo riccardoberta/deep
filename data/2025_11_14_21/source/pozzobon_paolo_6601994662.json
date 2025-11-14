@@ -1,0 +1,2952 @@
+{
+  "surname": "Pozzobon",
+  "name": "Paolo",
+  "unit": "ELE",
+  "email": "paolo.pozzobon@unige.it",
+  "phone": "+39 010 33 52181",
+  "page": "https://rubrica.unige.it/personale/VUZEUlpo",
+  "website": "",
+  "unige_id": "053901",
+  "scopus_id": "6601994662",
+  "role": "Professore associato",
+  "grade": "Prof.Associato DPR 232/11 art.2 - t.pieno - cl. 4",
+  "ssd": "IIND-08/A (Convertitori, macchine e azionamenti elettrici)",
+  "location": [
+    {
+      "building": "Opera Pia - padiglione D (ED_161450401)",
+      "floor": "1° piano",
+      "room": "US_161450401.I.012"
+    }
+  ],
+  "career": [
+    {
+      "role": "PA",
+      "from": "2012-05-01 00:00:00.0000000",
+      "to": "2222-02-02 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {
+    "2025": [
+      {
+        "course": "ELETTRONICA DI POTENZA PER L'ENERGIA E LA MOBILITÀ (112259)",
+        "degree": "L-9 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "LABORATORIO SOFTWARE E HARDWARE PER I SISTEMI ELETTRONICI DI POTENZA (101447)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      }
+    ],
+    "2024": [
+      {
+        "course": "ELETTRONICA DI POTENZA E AZIONAMENTI ELETTRICI (84373)",
+        "degree": "L-9 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "LABORATORIO SOFTWARE E HARDWARE PER I SISTEMI ELETTRONICI DI POTENZA (101447)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      }
+    ],
+    "2023": [
+      {
+        "course": "ELETTRONICA DI POTENZA E AZIONAMENTI ELETTRICI (84373)",
+        "degree": "L-9 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "LABORATORIO SOFTWARE E HARDWARE PER I SISTEMI ELETTRONICI DI POTENZA (101447)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      }
+    ],
+    "2022": [
+      {
+        "course": "ELETTRONICA DI POTENZA E AZIONAMENTI ELETTRICI (84373)",
+        "degree": "L-9 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "LABORATORIO SOFTWARE E HARDWARE PER I SISTEMI ELETTRONICI DI POTENZA (101447)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      }
+    ],
+    "2021": [
+      {
+        "course": "ELETTRONICA DI POTENZA E AZIONAMENTI ELETTRICI (84373)",
+        "degree": "L-9 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "LABORATORIO SOFTWARE E HARDWARE PER I SISTEMI ELETTRONICI DI POTENZA (101447)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "AZIONAMENTI ELETTRICI (72307)",
+        "degree": "L-9 - INGEGNERIA MECCANICA"
+      }
+    ],
+    "2020": [
+      {
+        "course": "ELETTRONICA DI POTENZA E AZIONAMENTI ELETTRICI (84373)",
+        "degree": "L-9 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "LABORATORIO SOFTWARE E HARDWARE PER I SISTEMI ELETTRONICI DI POTENZA (101447)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "AZIONAMENTI ELETTRICI (72307)",
+        "degree": "L-9 - INGEGNERIA MECCANICA"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 15,
+      "total_products": 45,
+      "journals": 19,
+      "conferences": 25,
+      "citations": 782,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 2,
+      "total_products": 3,
+      "journals": 3,
+      "conferences": 0,
+      "citations": 9,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 2,
+      "total_products": 3,
+      "journals": 3,
+      "conferences": 0,
+      "citations": 9,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 2,
+      "total_products": 3,
+      "journals": 3,
+      "conferences": 0,
+      "citations": 9,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-85207857965",
+      "title": "Synchronous DTC for torque sub-harmonic reduction in low switching frequency induction motor drives",
+      "doi": "10.1016/j.conengprac.2024.106133",
+      "venue": "Control Engineering Practice",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "154",
+      "issue_id": null,
+      "pages": null,
+      "issn": "09670661",
+      "eIssn": null,
+      "source_id": "18174",
+      "authors": "Benevieri A.; Marchesoni M.; Passalacqua M.; Pozzobon P.; Vaccaro L.",
+      "author_ids": "57226763007;6701827441;57195070159;6601994662;21935399500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Benevieri A.",
+      "keywords": "DTC | High power | Induction motor | Low frequency ripple torque | Synchronous modulation",
+      "abstract": "A direct torque control (DTC) algorithm with synchronous modulation for high-power induction motors is presented in this paper. While maintaining the dynamic response and robustness of a PI-based DTC operating in the stationary reference frame, the proposed scheme is able to keep an integer PWM modulation ratio, adjusting the stator flux angle and the switching period at each control step so that the synchronicity condition is always satisfied. In this way, it is possible to achieve an improvement of the very low-frequency harmonic spectrum of the torque, in particular by reducing torque sub-harmonics. These represent one of the main problems associated with low-frequency modulation typical of high-power drives and their reduction allows to avoid drawbacks such as resonance and mechanical stresses. The performance of the proposed algorithm is evaluated with experimental tests on a small-scale test bench.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Applied Mathematics",
+              "percentile": 95,
+              "rank": 28,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 85,
+              "rank": 143,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 84,
+              "rank": 58,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 82,
+              "rank": 171,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85207391518",
+      "title": "A New Topology of Multi-Input Bidirectional DC-DC Converters for Hybrid Energy Storage Systems",
+      "doi": "10.3390/en17205120",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "17",
+      "issue_id": "20",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Cosso Simone; Benevieri Alessandro; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis; Pozzobon Paolo",
+      "author_ids": "57324695200;57226763007;6701827441;57195070159;21935399500;6601994662",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Cosso S.",
+      "keywords": "DC-DC converter | hybrid electric vehicle (HEV) | hybrid energy storage system (HESS) | multi-input topology",
+      "abstract": "A new topology of multi-input bidirectional DC-DC converters is proposed in this paper. The converter has a boost behavior, i.e., the output voltage is higher than the sum of the input voltages. This family of converters is particularly suited for hybrid energy storage systems, where different DC sources are connected together and where the output voltage is significantly higher than the voltage of a single storage. The proposed converter reduces the number of required switches, leading to higher efficiency and reduced complexity compared to traditional n-input converters. The new topology demonstrates superior performance by enabling higher efficiency with fewer components. A dedicated control, based on PI controllers, is provided to ensure stable operation under dynamic conditions. The effectiveness of the proposed solution is tested using experimental results on a four-input 20 A/100 V converter prototype.",
+      "citations": 4,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 90,
+              "rank": 15,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 85,
+              "rank": 39,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 82,
+              "rank": 173,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 75,
+              "rank": 73,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 71,
+              "rank": 38,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 68,
+              "rank": 32,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 105,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85192146249",
+      "title": "Taphonomy of the fauna and chert assemblages from the Middle Palaeolithic site of Vajo Salsone, Eastern Italian Alps",
+      "doi": "10.1016/j.qsa.2024.100183",
+      "venue": "Quaternary Science Advances",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "14",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "26660334",
+      "source_id": "21101067621",
+      "authors": "Thun Hohenstein Ursula; Caffarelli Lavinia; Arnetta Gianluca; Rivals Florent; Pozzobon Paolo; Gialanella Stefano; Delpiano Davide; Peresani Marco",
+      "author_ids": "57216828735;59035545300;57842520300;22136269300;6601994662;7005974634;57193241708;7801552498",
+      "authorAffiliationIds": "60024690;60024690;60024690;60105014-60032907-60022415;60024690;60015986;60024690;60024690-60021199",
+      "corresponding": "Thun Hohenstein U.",
+      "keywords": "Mesowear | Microwear | Mousterian | Taphonomy | XRF spectrometry | Zooarchaeology",
+      "abstract": "The Vajo Salsone site is located at an altitude of 376m a.s.l. on the right slope of the Valpantena valley, in the Veneto Pre-Alps, north of the town of Verona. The site was discovered in 2017 during the construction of a truckable road. It is a small and narrow karst cavity filled with Pleistocene sediments that yield abundant Middle Palaeolithic artefacts and faunal remains, often coated by carbonate encrustations. The lithic assemblage shows the predominance of the Levallois method and is characterised by a large number of retouched elements, including foliated points. These artefacts, typical of the Late Middle Palaeolithic period in central and south-eastern Europe, make Vajo Salsone an exceptional case, as their recovery is rather sporadic west of the Balkan Peninsula and south of the Alps. The fauna is dominated by ungulates, the most abundant being the red deer followed by roe deer, chamois and elk. Among the carnivores, wolf is common, while fox and bear are rare. This fauna suggests an environment characterised by open glades and closed forests, with a discontinuous presence of alpine grasslands and wetlands. Taphonomic analysis of the bone surfaces is complicated by the presence of concretions on most of the remains, which also show a high degree of fragmentation. Post-depositional fractures are common, and weathering is light. Only cervid bones show anthropogenic modifications related to hunting and hominin exploitation such as cut marks, scraping, impacts and burnt modifications. Some long bone diaphysis bear marks testifying to the use of these fragments as retouchers for flint artefacts. Such use has been evidenced at other Middle Palaeolithic sites in the area. Furthermore, the good state of preservation of the occlusal surface enamel of the cervid teeth allowed us to carry out meso and microwear analyses which provided data on seasonality and site occupation. With regard to dental wear analysis, the red deer from Vajo Salsone had mesowear suggesting a mixed feeding and grazing diets, whereas microwear analysis showed that the individuals had a diet between mixed feeding and browsing. The taphonomic study of the site has been integrated by X–RFS analysis of the alterations occurred to the lithic artefacts, which include deep patination and the formation of calcareous crusts. All the data presented here are consistent with the hypothesis of a short-distance displacement of the material from a single archaeological deposit possibly related to human occupation during the warm season.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Geology",
+              "percentile": 76,
+              "rank": 77,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Earth-Surface Processes",
+              "percentile": 75,
+              "rank": 46,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Earth and Planetary Sciences (miscellaneous)",
+              "percentile": 74,
+              "rank": 49,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Geology",
+              "percentile": 69,
+              "rank": 102,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Earth-Surface Processes",
+              "percentile": 66,
+              "rank": 62,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Earth and Planetary Sciences (miscellaneous)",
+              "percentile": 65,
+              "rank": 63,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84859763848",
+      "title": "Genetic algorithm approach for the determination of the electrical parameters of railway traction lines",
+      "doi": "10.1016/j.measurement.2006.07.007",
+      "venue": "Measurement Journal of the International Measurement Confederation",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2008,
+      "volume": "41",
+      "issue_id": "2",
+      "pages": "169-177",
+      "issn": "02632241",
+      "eIssn": null,
+      "source_id": "15424",
+      "authors": "Mariscotti A.; Pozzobon P.",
+      "author_ids": "23091663200;6601994662",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Mariscotti A.",
+      "keywords": "Capacitance | Conductance | Electric variables measurement | Genetic algorithm | Guideway transportation power systems | Inductance | Resistance",
+      "abstract": "The problem of electrical parameters identification in complex systems, and in particular in electric railway traction systems, is considered. Parameters are determined by an indirect approach: only the terminal variables (voltages and currents and, impedance and admittance, which can be readily calculated) are measured and the per-unit-length electrical parameters are determined using a multiconductor transmission line model of the track section under test. It will be shown that some parameters cannot be measured directly, that they are not constant with frequency and that they may depend on other external conditions. An indirect method for parameters identification is proposed through an adaptive algorithm (AA), so that the calculated terminal variables match the measured ones. The AA is based on a genetic algorithm (GA) approach, with details on pattern generation (through mutation and recombination) and determination of the degree of fitness and, as a consequence, of matching and stop criteria. There is a general accordance with model previsions, within common variations of the most critical properties of the test track. © 2006 Elsevier Ltd. All rights reserved.",
+      "citations": 4,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 92,
+              "rank": 15,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 88,
+              "rank": 115,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-34147108057",
+      "title": "Simplified modeling of 2 × 25-kV AT railway system for the solution of low frequency and large-scale problems",
+      "doi": "10.1109/TPWRD.2006.883020",
+      "venue": "IEEE Transactions on Power Delivery",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2007,
+      "volume": "22",
+      "issue_id": "1",
+      "pages": "296-301",
+      "issn": "08858977",
+      "eIssn": null,
+      "source_id": "17370",
+      "authors": "Mariscotti Andrea; Pozzobon Paolo; Vanti Maurizio",
+      "author_ids": "23091663200;6601994662;8661387500",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Mariscotti A.",
+      "keywords": "Guideway transportation power systems | Load-flow analysis | Power distribution interference | Power system harmonics | Power system stability",
+      "abstract": "An electric traction system supplied at 2 × 25 kV with autotransformers is considered. The conductors arrangement is that of the new European High Speed Railway Line under construction. The system is analyzed with a validated multiconductor transmission line model with the aim of model simplification with reduction of the number of conductors and use of the lumped-circuit model. The scope is that of load-flow and voltage stability problems, which may be large-scale problems and benefit from model simplification and reduction of computational effort. © 2006 IEEE.",
+      "citations": 60,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 90,
+              "rank": 98,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 85,
+              "rank": 49,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-33749370541",
+      "title": "The internal impedance of traction rails for DC railways in the 1-100 kHz frequency range",
+      "doi": "10.1109/TIM.2006.880912",
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2006,
+      "volume": "55",
+      "issue_id": "5",
+      "pages": "1616-1619",
+      "issn": "00189456",
+      "eIssn": null,
+      "source_id": "15361",
+      "authors": "Filippone Francesco; Mariscotti Andrea; Pozzobon Paolo",
+      "author_ids": "6602887819;23091663200;6601994662",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Filippone F.",
+      "keywords": "Electric variables measurement | Electromagnetic interference | Inductance measurement | Rail transportation power systems | Resistance measurement",
+      "abstract": "The electrical behavior of the sample steel traction rails is analyzed, considering the resistance and internal inductance. Measurements are performed on a sample rail with a circulation of audiofrequency current (with frequency regulated on a wide frequency interval range of 1-100 kHz) superimposed on a dc supply current. The results complete the other measurement results obtained with a 50-Hz bias current; the resistance values are 30%-50% smaller, whereas the internal inductance is almost similar. © 2006 IEEE.",
+      "citations": 23,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 91,
+              "rank": 16,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 88,
+              "rank": 119,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-33745596800",
+      "title": "Measurement of AT electric railway system currents at power-supply frequency and validation of a multiconductor transmission-line model",
+      "doi": "10.1109/TPWRD.2006.874109",
+      "venue": "IEEE Transactions on Power Delivery",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2006,
+      "volume": "21",
+      "issue_id": "3",
+      "pages": "1721-1726",
+      "issn": "08858977",
+      "eIssn": null,
+      "source_id": "17370",
+      "authors": "Cella Roberto; Giangaspero Giuseppe; Mariscotti Andrea; Montepagano Angelo; Pozzobon Paolo; Ruscelli Marco; Vanti Maurizio",
+      "author_ids": "57198257619;14028335900;23091663200;14028728500;6601994662;14028869200;8661387500",
+      "authorAffiliationIds": "60073836;60073836;60025153;60073836;60025153;60073836;60025153",
+      "corresponding": "Cella R.",
+      "keywords": "Guideway transportation power systems | Power distribution interference | Power system harmonics",
+      "abstract": "An electric traction system supplied at 2 × 25 kV with autotransformers (ATs) is considered. The conductors' arrangement is that of the new European High Speed Railway Line (HSRL) under construction: The overhead supply conductors in contact with the train pantograph are connected to a symmetrical circuit (the feeder) with the purpose of current balancing; the traction return current flows from the rolling stock axles back to the supply (i.e., substation) through the traction rails and additional return conductors. The test campaign carried on the Rome-Naples HSRL allowed the validation of the multiconductor transmission line model used for system analysis. Measurements were performed in normal system configuration (2 × 25-kV supply) and degraded configuration (1 × 25 kV with AT and feeder not operating). Metrological issues (accuracy and consistency) are detailed for the presented results. © 2006 IEEE.",
+      "citations": 77,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 90,
+              "rank": 98,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 85,
+              "rank": 49,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-23944496319",
+      "title": "Distribution of the traction return current in AT electric railway systems",
+      "doi": "10.1109/TPWRD.2005.848721",
+      "venue": "IEEE Transactions on Power Delivery",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2005,
+      "volume": "20",
+      "issue_id": "3",
+      "pages": "2119-2128",
+      "issn": "08858977",
+      "eIssn": null,
+      "source_id": "17370",
+      "authors": "Mariscotti Andrea; Pozzobon Paolo; Vanti Maurizio",
+      "author_ids": "23091663200;6601994662;8661387500",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Mariscotti A.",
+      "keywords": "Guideway transportation power systems | Power distribution interference | Power system harmonics",
+      "abstract": "The problem of determination of the accurate distribution of the return current in AT (autotransformer) electric traction systems (supplied at 2 × 25 kV) for High Speed Railways is considered. The path of the traction return current flowing from the rolling stock axles back to the supply (i.e., substation) is composed of the traction rails and additional earth potential conductors. The overhead supply conductors in contact with the train pantograph are connected to a symmetrical circuit (the feeder) with the purpose of current balancing. This arrangement and its influence on current to earth are considered: the return current divides among rails (as signalling disturbing current) and earth, depending on the value of the electric parameters of the system and the earth and on the circuit arrangement and on the relative position of system devices. The amplitude (as a percentage of the total return current) of the disturbing current may be high enough to cause interference to signalling. This work investigates the behavior of the return current in AT electric railway systems, on the basis of a reference system for the variation of the most important electrical parameters. © 2005 IEEE.",
+      "citations": 64,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 90,
+              "rank": 98,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 85,
+              "rank": 49,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-21244433977",
+      "title": "Experimental results on low rail-to-rail conductance values",
+      "doi": "10.1109/TVT.2005.844667",
+      "venue": "IEEE Transactions on Vehicular Technology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2005,
+      "volume": "54",
+      "issue_id": "3",
+      "pages": "1219-1222",
+      "issn": "00189545",
+      "eIssn": null,
+      "source_id": "17393",
+      "authors": "Mariscotti A.; Pozzobon P.",
+      "author_ids": "23091663200;6601994662",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Mariscotti A.",
+      "keywords": "Conductivity | Electric variables measurement | Guideway transportation power systems",
+      "abstract": "Measurement results concerning rail-to-rail conductance are presented, based on two measurement campaigns performed in Italy at Rigutino (AR) and Anagni (FR) in spring/summer 2003. Rails in the two sites are isolated from the sleepers and the earth and the weather conditions were hot and dry, so the measured conductance values represent a lower bound. Results cover more than three frequency decades from 10 Hz to 10 kHz. © 2005 IEEE.",
+      "citations": 32,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Aerospace Engineering",
+              "percentile": 97,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 93,
+              "rank": 63,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Automotive Engineering",
+              "percentile": 93,
+              "rank": 9,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 93,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-7244234104",
+      "title": "Determination of the electrical parameters of railway traction lines: Calculation, measurement, and reference data",
+      "doi": "10.1109/TPWRD.2004.835285",
+      "venue": "IEEE Transactions on Power Delivery",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2004,
+      "volume": "19",
+      "issue_id": "4",
+      "pages": "1538-1546",
+      "issn": "08858977",
+      "eIssn": null,
+      "source_id": "17370",
+      "authors": "Mariscotti Andrea; Pozzobon Paolo",
+      "author_ids": "23091663200;6601994662",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Mariscotti A.",
+      "keywords": null,
+      "abstract": "A comprehensive analysis of published experimental data and formulae for the determination of the electrical parameters of railway traction lines is performed. Several results from different authors are presented with particular attention to different assumptions and environmental conditions. Additional measurements were performed over the 5 Hz-200 kHz frequency range on a line section purposely prepared at La Spezia Railway Station (Italian State Railways). Theoretical formulae are considered and their validity is checked against, experimental data. There is general accordance within common variations of the most critical parameters; calculations and measurements agree over the entire frequency range and are very accurate in the frequency range 50 Hz-50 kHz, where significant conducted disturbance lies. © 2004 IEEE.",
+      "citations": 84,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 90,
+              "rank": 98,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 85,
+              "rank": 49,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-3943067120",
+      "title": "Resistance and internal inductance of traction rails at power frequency: A survey",
+      "doi": "10.1109/TVT.2004.830968",
+      "venue": "IEEE Transactions on Vehicular Technology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2004,
+      "volume": "53",
+      "issue_id": "4",
+      "pages": "1069-1075",
+      "issn": "00189545",
+      "eIssn": null,
+      "source_id": "17393",
+      "authors": "Mariscotti Andrea; Pozzobon Paolo",
+      "author_ids": "23091663200;6601994662",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Mariscotti A.",
+      "keywords": null,
+      "abstract": "The electrical behavior of traction rails is considered. The values of resistance and internal inductance resulting from 80 years of literature are evaluated and compared; average values (with confidence intervals) are derived as a reference for further developments. The values are the results of direct measurements and information from practice and convention, so attention is given to measuring methods and to any simplifying assumption. The statistical properties of the published experimental results are evaluated as well as the correspondence with theoretical results. © 2004 IEEE.",
+      "citations": 40,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Aerospace Engineering",
+              "percentile": 97,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 93,
+              "rank": 63,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Automotive Engineering",
+              "percentile": 93,
+              "rank": 9,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 93,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-2942599751",
+      "title": "Measurement of the internal impedance of traction rails at audiofrequency",
+      "doi": "10.1109/TIM.2004.827321",
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2004,
+      "volume": "53",
+      "issue_id": "3",
+      "pages": "792-797",
+      "issn": "00189456",
+      "eIssn": null,
+      "source_id": "15361",
+      "authors": "Mariscotti Andrea; Pozzobon Paolo",
+      "author_ids": "23091663200;6601994662",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Mariscotti A.",
+      "keywords": "Electric variables measurement | Frequency measurement | Inductance measurement | Rail transportation power systems | Resistance measurement | Time measurement",
+      "abstract": "The electrical behavior of sample steel traction rails is analyzed considering the resistance and the internal inductance. Measurements are performed on a sample rail with circulation of audiofrequency current superimposed on a 50-Hz supply current.",
+      "citations": 29,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 91,
+              "rank": 16,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 88,
+              "rank": 119,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-1242263418",
+      "title": "Low-frequency magnetic field in DC railway substations",
+      "doi": "10.1109/TVT.2003.822334",
+      "venue": "IEEE Transactions on Vehicular Technology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2004,
+      "volume": "53",
+      "issue_id": "1",
+      "pages": "192-198",
+      "issn": "00189545",
+      "eIssn": null,
+      "source_id": "17393",
+      "authors": "Mariscotti A.; Pozzobon P.",
+      "author_ids": "23091663200;6601994662",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Mariscotti A.",
+      "keywords": "Electromagnetic measurements | Guideway transportation power systems | Magnetic fields | Substations",
+      "abstract": "A measurement campaign was carried out at Orte and S.Oreste dc substations along a high-speed trunk of the Italian railway lines. The results consist of H-field values measured at the two substations, inside the buildings (near the rectifier groups) and outside (in the area surrounding the high-voltage input line, the HV/MV transformers, and the rectifier transformers) for different load conditions during normal service. The goal of this work is to determine the H-field intensity at low and medium frequency at dc railway substations. The measurement results are post-processed to extract statistical properties (namely, average values, dispersion, and distribution histograms). This information may contribute to updating and integrating standards regarding dc substation electromagnetic environment and specific immunity tests for housed equipment.",
+      "citations": 8,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Aerospace Engineering",
+              "percentile": 97,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 93,
+              "rank": 63,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Automotive Engineering",
+              "percentile": 93,
+              "rank": 9,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 93,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-0038630570",
+      "title": "Synthesis of line impedance expressions for railway traction systems",
+      "doi": "10.1109/TVT.2003.808750",
+      "venue": "IEEE Transactions on Vehicular Technology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2003,
+      "volume": "52",
+      "issue_id": "2",
+      "pages": "420-430",
+      "issn": "00189545",
+      "eIssn": null,
+      "source_id": "17393",
+      "authors": "Mariscotti Andrea; Pozzobon Paolo",
+      "author_ids": "23091663200;6601994662",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Mariscotti A.",
+      "keywords": "Guideway transportation power systems | Impedance | Transmission line theory",
+      "abstract": "An important element for the analysis of the electromagnetic conducted emissions in railway traction systems is the line impedance Z at the pantograph terminals. Simplified expressions of Z are derived under various assumptions, and their validity is checked against an analytically derived reference expression. A sensitivity analysis of Z is performed with respect to some electrical parameters of the traction line. The influence of the substation impedance as a terminal condition for the traction line is considered for dc substations; several substation configurations (rated power and filter characteristics) in use in different countries are considered.",
+      "citations": 54,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Aerospace Engineering",
+              "percentile": 97,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 93,
+              "rank": 63,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Automotive Engineering",
+              "percentile": 93,
+              "rank": 9,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 93,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-64749113208",
+      "title": "Proposal of an artificial traction line network for the measurement of locomotive conducted emissions",
+      "doi": "10.1109/ICSMC2.2003.1429130",
+      "venue": "IEEE International Symposium on Electromagnetic Compatibility",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2003,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "1188-1191",
+      "issn": "10774076",
+      "eIssn": "21581118",
+      "source_id": "17274",
+      "authors": "Mariscotti A.; Pozzobon P.",
+      "author_ids": "23091663200;6601994662",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Mariscotti A.",
+      "keywords": "Electromagnetic conductive interference | Power system harmonics | Rail transportation power systems",
+      "abstract": "The spectrum of locomotive conducted emissions is largely influenced by the electric behaviour of the supply network and by the interaction between the supply network itself and the locomotive on-board apparatus. The main sources of variations of the impedance at the locomotive pantograph are considered: the influence of frequency on the value of the electrical per-unit-length parameters, the number of tracks and the locomotive position. Reference impedance curves are computed and then synthesised in an Artificial Traction Line Network (ATLN). Some practical aspects of the ATLN are considered for the realisation of the test fixture and its use for the measurement of locomotive conducted emissions performed at a test bench in the workshop. DC electrical traction systems are considered in this paper; the parameters of the Italian system are taken as reference.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-4644307152",
+      "title": "Measurement and Analysis of Low-Frequency Magnetic Field Emissions in Rolling Stock",
+      "doi": "10.23919/EMC.2002.10880071",
+      "venue": "International Symposium on Electromagnetic Compatibility 2002 EMC Europe Sorrento",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2002,
+      "volume": null,
+      "issue_id": null,
+      "pages": "1201-1204",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101278680",
+      "authors": "Bellan B.; Betti P.; Carillo D.; Dramore M.; Drarco M.; De Capua C.; Gaggelli A.; Grandolfo M.; Maradei F.; Mariscotti A.; Pignari S.; Pozzobon P.; Rossi P.; Violi A. G.",
+      "author_ids": "59668471200;58886419200;7801376484;59668504100;59668533500;6701321959;6602645267;7006577497;57226721394;23091663200;6701834930;6601994662;57202031281;59668533600",
+      "authorAffiliationIds": "60023256;132322224;132322224;60032350;60017293;60017293;132322224;60010062;60032350;60025153;60023256;60025153;60083946;132322224",
+      "corresponding": "Bellan B.",
+      "keywords": null,
+      "abstract": "This paper addresses the problem of low-frequency magnetic field emissions in rolling stock. In particular, an experimental procedure is proposed for the characterization magnetic field emissions in both the engine-driver cab and passengers compartments. Nonstationary characteristics of the magnetic flux density time-series are identified, quantitatively described, and related to the physics of the process that generates the electromagnetic field. This is done via time-frequency representation of the spectral content of the measured signals. Indications related to safety assessment are also addressed, by extending concepts developed in previous works and normative documents for multiple-frequency, harmonic fields.",
+      "citations": 8,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-3242779302",
+      "title": "Procedure for the measurement of the electrical parameters of railway traction lines",
+      "doi": null,
+      "venue": "12th Imeko Tc4 International Symposium Electrical Measurements and Instrumentation",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2002,
+      "volume": null,
+      "issue_id": null,
+      "pages": "15-19",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100932824",
+      "authors": "Mariscotti A.; Pozzobon P.",
+      "author_ids": "23091663200;6601994662",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Mariscotti A.",
+      "keywords": "Electric variables measurement | Rail transportation power systems",
+      "abstract": "Measurements of the electrical parameters of a traction line were performed over the 0-200 kHz frequency range on a line section purposely prepared at La Spezia (Italy). The electrical parameters are determined by an indirect approach: only the terminal variables (voltages and currents and hence impedance and admittance) may be measured and the per-unit-length electrical parameters are determined using a Multiconductor Transmission Line model of the test track section; the parameters of the model are adjusted so that the calculated terminal variables match the measurement results. There is a general accordance with model previsions, within common variations of the most critical properties, e.g. ground and ballast characteristics and rails permeability; the results are very accurate in the frequency range 50 Hz - 50 kHz.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0342467820",
+      "title": "Electrical compatibility in railway systems - Results of the ESCARV project",
+      "doi": null,
+      "venue": "Eb Elektrische Bahnen",
+      "type": "Trade Journal",
+      "sub_type": "Article",
+      "year": 2001,
+      "volume": "99",
+      "issue_id": "6-7",
+      "pages": "284-291",
+      "issn": "00135437",
+      "eIssn": null,
+      "source_id": "24542",
+      "authors": "Henning Uwe; Petersen Anders Jenry; Würgler Dieter; Staudt Volker; Graupner Winfried; Pozzobon Paolo",
+      "author_ids": "7005599253;7202330568;6507266471;6602566453;57214019875;6601994662",
+      "authorAffiliationIds": ";;;;;60025153",
+      "corresponding": "Henning U.",
+      "keywords": null,
+      "abstract": "In 2000 the project ESCARV (Electrical System Compatibility - ESC - for Advanced Railway Vehicles) has been successfully finished. Its main topic was to develop reliable approaches by which railways and railway industry can solve ESC-questions before implementing any new system. In summer 2001 the ESC User Group will be officially founded which will offer the project results to a wide circle of users.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 8,
+              "rank": 915,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Automotive Engineering",
+              "percentile": 4,
+              "rank": 129,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-0035275185",
+      "title": "Electromagnetic emissions from electical rotating machinery",
+      "doi": "10.1109/60.911406",
+      "venue": "IEEE Transactions on Energy Conversion",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2001,
+      "volume": "16",
+      "issue_id": "1",
+      "pages": "68-73",
+      "issn": "08858969",
+      "eIssn": null,
+      "source_id": "28824",
+      "authors": "Ferrari P.; Mariscotti A.; Motta A.; Pozzobon P.",
+      "author_ids": "56209915500;23091663200;23025903700;6601994662",
+      "authorAffiliationIds": "105228733;105228733;60073836;105228733",
+      "corresponding": "Ferrari P.",
+      "keywords": null,
+      "abstract": "The problem of evaluation of the electromagnetic emissions from large power electrical rotating machinery is considered. The results of three measurement campaigns are reported: emissions are correlated with the operating conditions and the characteristics of the machine under test. The measured electric and magnetic field spectra are treated so that they may be used as a reference for preliminary evaluation on similar machines.",
+      "citations": 26,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 93,
+              "rank": 62,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 90,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-0033687509",
+      "title": "Measurement of the internal impedance of traction rails at 50 Hz",
+      "doi": "10.1109/19.843067",
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2000,
+      "volume": "49",
+      "issue_id": "2",
+      "pages": "294-299",
+      "issn": "00189456",
+      "eIssn": null,
+      "source_id": "15361",
+      "authors": "Mariscotti Andrea; Pozzobon Paolo",
+      "author_ids": "23091663200;6601994662",
+      "authorAffiliationIds": "60000251-60025153;60000251-60025153",
+      "corresponding": "Mariscotti A.",
+      "keywords": null,
+      "abstract": "The electrical behavior of sample steel traction rails is analyzed considering the resistance and the external and internal inductance. Measurements are performed on two rail arrangements at different current levels (up to nearly 2 kA) at 50 Hz and over an extended frequency range (50 Hz to 100 kHz) at low currents, so that skin effect and saturation phenomena are clearly visible. Great accordance with the results obtained using Carson's formulas is found.",
+      "citations": 29,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 91,
+              "rank": 16,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 88,
+              "rank": 119,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-0038366890",
+      "title": "Track and traction line impedance expressions for deterministic and probabilistic voltage distortion analysis",
+      "doi": "10.1109/ICHQP.2000.897745",
+      "venue": "Proceedings of International Conference on Harmonics and Quality of Power Ichqp",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2000,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "589-594",
+      "issn": "15406008",
+      "eIssn": "21640610",
+      "source_id": "21100228510",
+      "authors": "Fracchia M.; Mariscotti A.; Pozzobon P.",
+      "author_ids": "7004022170;23091663200;6601994662",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Fracchia M.",
+      "keywords": "Conductors | Electromagnetic interference | Electronic switching systems | Filters | Frequency | Impedance | Rail transportation | Resonance | Static power converters | Voltage",
+      "abstract": "In railway traction systems an important source of electromagnetic interference are the static power converters of the electrical supply substation (ESS) and the locomotive propulsion drives and auxiliary systems. The voltage distortion on the catenary is analysed considering the system operating conditions and in particular locomotive position. This work considers the variability of the line impedance at the pantograph terminals due to the random position of the locomotive along the track of a DC railway traction system. A formulation of line voltage waves is presented and evaluated for the case of two locomotives on the line section between two ESS.",
+      "citations": 14,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 35,
+              "rank": 354,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 34,
+              "rank": 213,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 654,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 32,
+              "rank": 92,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 32,
+              "rank": 132,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-0033720436",
+      "title": "Reference curves of the pantograph impedance in DC railway systems",
+      "doi": "10.1109/ISCAS.2000.857155",
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2000,
+      "volume": "1",
+      "issue_id": null,
+      "pages": "I-555-I-558",
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Ferrari P.; Mariscotti A.; Pozzobon P.",
+      "author_ids": "56209915500;23091663200;6601994662",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Ferrari P.",
+      "keywords": null,
+      "abstract": "The spectrum of the conducted emissions of a locomotive drive is largely influenced by the electric behaviour of the supply net and by the interaction between the net itself and the on-board passive components (input filter). The main sources of variations of the impedance at the locomotive pantograph on a DC railway system are considered: substation filter, locomotive filter and locomotive position. A sensitivity analysis is performed to produce reference impedance curves.",
+      "citations": 28,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-0033714030",
+      "title": "Assessment of H-field levels inside a DC railway substation",
+      "doi": null,
+      "venue": "IEEE International Symposium on Electromagnetic Compatibility",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2000,
+      "volume": "1",
+      "issue_id": null,
+      "pages": "175-179",
+      "issn": "01901494",
+      "eIssn": null,
+      "source_id": "17274",
+      "authors": "Amendolara A.; Laurenti G.; Mariscotti A.; Pozzobon P.",
+      "author_ids": "7801308902;58351617900;23091663200;6601994662",
+      "authorAffiliationIds": "101125136;101125136;101125136;101125136",
+      "corresponding": "Amendolara A.",
+      "keywords": null,
+      "abstract": "The results of the measurement campaign performed at Orte and S. Oreste substations along the high speed Italian railway line are presented and discussed. The presented results consist of H-field values measured at the two substations, inside the buildings (near the rectifier groups) and outside (in the area surrounding the high voltage input line, the HV/MV transformers and the rectifier transformers). This work is aimed both to collect meaningful values for the H-field intensity at substations (to contribute to standard preparation and update) and to determine suitable measuring procedures for this kind of tests.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84886839368",
+      "title": "Electromagnetic radiated emissions from electrical rotating machinery",
+      "doi": "10.1109/IEMDC.1999.769202",
+      "venue": "IEEE International Electric Machines and Drives Conference Iemdc 1999 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1999,
+      "volume": null,
+      "issue_id": null,
+      "pages": "646-648",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100265060",
+      "authors": "Ferrari P.; Mariscotti A.; Motta A.; Pozzobon P.",
+      "author_ids": "56209915500;23091663200;23025903700;6601994662",
+      "authorAffiliationIds": "60025153;60025153;60073836;60025153",
+      "corresponding": "Ferrari P.",
+      "keywords": null,
+      "abstract": "The evaluation of the electromagnetic emissions from large power electrical rotating machinery is considered. The results of two measurement campaigns are reported: emissions are correlated with the operating conditions and the characteristics of the machine under test. The electric and magnetic field spectra are a reference for preliminary evaluation on similar machines; the results may contribute to assess suitable limits for electromagnetic emissions. © 1999 IEEE.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0032676611",
+      "title": "Measurement of the internal impedance of traction rails at 50 Hz",
+      "doi": null,
+      "venue": "Conference Record IEEE Instrumentation and Measurement Technology Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Article",
+      "year": 1999,
+      "volume": "1",
+      "issue_id": null,
+      "pages": "338-343",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "15045",
+      "authors": "Mariscotti A.; Pozzobon P.",
+      "author_ids": "23091663200;6601994662",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Mariscotti A.",
+      "keywords": null,
+      "abstract": "The electrical behaviour of sample steel traction rails is analyzed considering the resistance and inductance (both external and internal). Measurements are performed on two rails arrangements at different current levels (up to nearly 2 kA) at 50 Hz and over an extended frequency range (50 Hz to 100 kHz) at low currents, so that skin effect and saturation phenomema are clearly visible. Great accordance with the results obtained using Carson's formulae is experienced.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 36,
+              "rank": 634,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-0032628955",
+      "title": "Integrated modelling of audiofrequency track circuits",
+      "doi": "10.1049/cp:19990252",
+      "venue": "IEE Conference Publication",
+      "type": "Conference Proceeding",
+      "sub_type": "Article",
+      "year": 1999,
+      "volume": null,
+      "issue_id": "464",
+      "pages": "101-106",
+      "issn": "05379989",
+      "eIssn": null,
+      "source_id": "34914",
+      "authors": "D'Addio G.; Ferrari P.; Mariscotti A.; Pozzobon P.",
+      "author_ids": "6601969294;56209915500;23091663200;6601994662",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "D'Addio G.",
+      "keywords": null,
+      "abstract": "A 25 kV ac railway system is considered, where the variable length (10-20 km) section comprised between two Electrical SubStations (ESSs) is equipped with AudioFrequency Track Circuits (both transformer and s-bond coupled). The railway system is modelled using Multiconductor Transmission Line (MTL) approach; the ESSs, the vehicle and the Tuning Unit of the Track Circuit are described by means of their equivalent circuit. The results consist of the analysis of the influence of s-bond circuits on the rail-to-rail impedance and the calculation of the disturbing voltage at the receiver terminals produced by samples of locomotive traction current from field data.",
+      "citations": 13,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0032259194",
+      "title": "Modelling of electromagnetic emission from catenary-pantograph sliding contact",
+      "doi": null,
+      "venue": "Proceedings of the International Conference on Computer Aided Design Manufacture and Operation in the Railway and Other Advanced Mass Transit Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1998,
+      "volume": null,
+      "issue_id": null,
+      "pages": "881-890",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "57559",
+      "authors": "Brillante S.; Ferrari P.; Pozzobon P.",
+      "author_ids": "6602214633;56209915500;6601994662",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Brillante S.",
+      "keywords": null,
+      "abstract": "This paper deals with the electromagnetic noise emission at radio frequencies (in the range 9 kHz to 1 GHz) into the neighbourhood from an electrical railway system. The study has been conceived in order to obtain a preliminary modelling of electromagnetic emissions due to dynamic interaction between catenary and pantograph which can be considered the source of the largest values of noise emission. The proposed sub-model of the electrical interaction between pantograph and catenary, implemented by using Matlab-Simulink<sup>R</sup>, is able to describe the complex phenomenon of pantograph current collection during both sliding and bouncing (in presence of electric arc). The electric arc, which is influenced by numerous and interactive variables, is not the only source of electromagnetic noise and it is demonstrated that also local mechanical irregularities, during real sliding phase without electric arc, can represent a strong source of noise emission. The model gives out, among many electrical variables, values of contact resistance which represent the interface between sliding contact model and line model. It also calculates the magnetic field surrounding the railway vehicle in function of the distance from the pantograph-catenary contact.",
+      "citations": 11,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0032208011",
+      "title": "Transient and steady-state short-circuit currents in rectifiers for DC traction supply",
+      "doi": "10.1109/25.728534",
+      "venue": "IEEE Transactions on Vehicular Technology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 1998,
+      "volume": "47",
+      "issue_id": "4",
+      "pages": "1390-1404",
+      "issn": "00189545",
+      "eIssn": null,
+      "source_id": "17393",
+      "authors": "Pozzobon Paolo",
+      "author_ids": "6601994662",
+      "authorAffiliationIds": "60025153",
+      "corresponding": "Pozzobon P.",
+      "keywords": "Power system faults | Rail transportation power systems | Rectifiers",
+      "abstract": "This paper presents some significant extension and analytical formalization of the knowledge on transient and steadystate short-circuit currents in dc traction systems. Electrical supply substations (ESS's) in modern metrorail and railway dc systems are equipped with 6- and 12-pulse diode bridge rectifiers. Large existing plants are equipped with 6-pulse converters, but the 12-pulse option is preferred in the design of new plants in the parallel configuration. Such a converter presents a good compromise between number and voltage/current rating of semiconductor devices, complexity and rating of transformers, de-side voltage ripple, and ac-side current harmonic content. In this paper, the author considers the features of 6- and 12-pulse conversion units in terms of transient and steady-state short-circuit currents on zero fault impedance. Accurate determination of the transient dc short-circuit current is important for correct rating and tuning of protection devices and power equipment (high-speed circuit breakers, isolator switches, switchgears, de-bus bars, etc.). An analytical solution of the short-circuit behavior is given for zero fault impedance currents: phase currents of the transformer, transient short-circuit dc current, approximate expression of the dc short-circuit current, and accurate expression of the steadystate dc short-circuit current. The general calculation method used in the paper is extensible to any conversion unit with a double secondary transformer. © 1998 IEEE.",
+      "citations": 90,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Aerospace Engineering",
+              "percentile": 97,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 93,
+              "rank": 63,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Automotive Engineering",
+              "percentile": 93,
+              "rank": 9,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 93,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85015367607",
+      "title": "Railway lines models for impedance evaluation",
+      "doi": "10.1109/ICHQP.1998.760121",
+      "venue": "Proceedings of International Conference on Harmonics and Quality of Power Ichqp",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1998,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "641-646",
+      "issn": "15406008",
+      "eIssn": "21640610",
+      "source_id": "21100228510",
+      "authors": "Ferrari P.; Pozzobon P.",
+      "author_ids": "56209915500;6601994662",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Ferrari P.",
+      "keywords": "frequency domain analysis | multiconductortransmission lines. impedance,sensitivity | Rail transportation power systems",
+      "abstract": "This paper deals with modeling of electrified railway lines using the multiconductor transmission lines (MTLs) approach, in order to investigate the harmonic impedance seen at the train pantograph at various locations along the line. A railway line model has been studied and a sensitivity analysis with respect to the structure of the model has been performed in relation to a simple traction system. Different equivalent models with reduced number of conductors have been considered. Calculation results, obtained estimating the impedance at various locations as a function of the position along the line and for frequencies up to 6 kHz, are reported and widely described in the paper.",
+      "citations": 18,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 35,
+              "rank": 354,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 34,
+              "rank": 213,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 654,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 32,
+              "rank": 92,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 32,
+              "rank": 132,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-33746599712",
+      "title": "A method for integrated harmonic analysis of multi-converter systems",
+      "doi": "10.1109/ICHQP.1998.759947",
+      "venue": "Proceedings of International Conference on Harmonics and Quality of Power Ichqp",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1998,
+      "volume": "1",
+      "issue_id": null,
+      "pages": "426-431",
+      "issn": "15406008",
+      "eIssn": "21640610",
+      "source_id": "21100228510",
+      "authors": "Ferrari P.; Giuliari M.; Pozzobon A.; Pozzobon P.",
+      "author_ids": "56209915500;6506970944;56512026300;6601994662",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Ferrari P.",
+      "keywords": "choppers. modeling | electromagnetic interference | frequency domain analysis | harmonic analysis | Rail transportation power systems | rectifiers",
+      "abstract": "The paper describes a method for deterministic frequency-domain harmonics calculation in multi-converter DC electric rail systems. Self commutation static power converters are present on the locomotives for propulsion and natural commutation diode rectifiers are present in electrical supply substations. The method allows the integrated simultaneous solution of the system. Interactions between various apparatus with regard to disturbances generation and propagation can be considered and evaluated.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 35,
+              "rank": 354,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 34,
+              "rank": 213,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 654,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 32,
+              "rank": 92,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 32,
+              "rank": 132,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-0030616054",
+      "title": "Fuzzy identification of rail track parameters",
+      "doi": null,
+      "venue": "Proceedings of the IEEE ASME Joint Railroad Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1997,
+      "volume": null,
+      "issue_id": null,
+      "pages": "11-20",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "76464",
+      "authors": "Hill Roland John; Pozzobon Paolo",
+      "author_ids": "7404752157;6601994662",
+      "authorAffiliationIds": "60030480;60030480",
+      "corresponding": "Hill R.",
+      "keywords": null,
+      "abstract": "The numerical values of rail track and traction line impedance and admittance are site and environment specific and are consequently difficult to assess except for precisely known conditions. Identification of track parameters based on fuzzy techniques represents a promising approach since only approximate qualitative knowledge of the track component and ground material properties and their environmental variations will be required. Such a fuzzy model is described in this paper. The model has been calibrated using verified reference data derived by finite element analysis, and is accurate to less than 30% compared with the given reference data.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0030399517",
+      "title": "Feeding impedance model for electrified rail track",
+      "doi": null,
+      "venue": "Proceedings of the International Conference on Computer Aided Design Manufacture and Operation in the Railway and Other Mass Transit Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1996,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "177-186",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "94140",
+      "authors": "Hill R. J.; Pozzobon P.; Brillante S.; Pozzobon A.",
+      "author_ids": "7404752157;6601994662;6602214633;56512026300",
+      "authorAffiliationIds": "60030480;60030480;60030480;60030480",
+      "corresponding": "Hill R.",
+      "keywords": null,
+      "abstract": "A model for investigating resonance conditions in electrified railway track is presented. The short-circuit and open-circuit input impedances as functions of frequency and feeding track length are calculated from frequency-dependent track phase impedances and admittances found from verified finite element modelling. The corresponding characteristic impedances and propagation constants are also calculated. The results of the study are useful to practising engineers in assessing power and data transmission properties of rail track.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0030394391",
+      "title": "Computer methods for electromagnetic analysis of electric rail traction systems",
+      "doi": null,
+      "venue": "Proceedings of the International Conference on Computer Aided Design Manufacture and Operation in the Railway and Other Mass Transit Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1996,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "413-421",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "94140",
+      "authors": "Pozzobon A.; Pozzobon P.",
+      "author_ids": "56512026300;6601994662",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Pozzobon A.",
+      "keywords": null,
+      "abstract": "Some general computer methods for electromagnetic analysis of electric rail traction systems are commented, with particular regard to problems related to harmonic pollution and electromagnetic compatibility. Some modelling approaches are described in terms of possible applications, hardware requirements, mathematical models used, in specific applications to electric rail traction systems (modelling and simulation of power semiconductor devices, power electronic converters, electrical machines, traction line and track, signalling devices). Main requirements of software tools for industrial users are pointed out.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0029755413",
+      "title": "EMC issues in electric railway traction systems",
+      "doi": null,
+      "venue": "Proceedings of the International Conference on Applications of Advanced Technologies in Transportation Engineering",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1996,
+      "volume": null,
+      "issue_id": null,
+      "pages": "44-48",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "57584",
+      "authors": "Mazzucchelli M.; Pozzobon P.; Sciutto G.",
+      "author_ids": "15623683200;6601994662;7003892246",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Mazzucchelli M.",
+      "keywords": null,
+      "abstract": "The authors outline the main Electromagnetic Compatibility problems which occur in electric railway systems, related to technological development, meeting of customers needs and environmental impact.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0029464503",
+      "title": "Electromagnetic fields in traction systems: Modelling and applications",
+      "doi": "10.1108/eb051943",
+      "venue": "COMPEL the International Journal for Computation and Mathematics in Electrical and Electronic Engineering",
+      "type": "Journal",
+      "sub_type": "Review",
+      "year": 1995,
+      "volume": "14",
+      "issue_id": "4",
+      "pages": "207-211",
+      "issn": "03321649",
+      "eIssn": null,
+      "source_id": "28454",
+      "authors": "Brillante S.; Hill R. J.; Leonard P. J.; Pozzobon P.",
+      "author_ids": "6602214633;7404752157;7103410756;6601994662",
+      "authorAffiliationIds": "60030480;60030480;60030480;60025153",
+      "corresponding": "Brillante S.",
+      "keywords": null,
+      "abstract": "A two-dimensional electromagnetic field model of a railway track and traction line is used to determine the equivalent track distributed transmission line parameters in the frequency range DC to 30kHz. The model is solved using the finite-element method to find the minimum energy condition for two conditions: current excitation to obtain the resistance and inductance, and voltage excitation for the conductance and capacitance. The results have been confirmed using practical test data, and their application is illustrated in a time-domain circuit simulation to model interference between power and signalling currents in a 750V DC electric railway. © 1995, MCB UP Limited",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Applied Mathematics",
+              "percentile": 61,
+              "rank": 262,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computational Theory and Mathematics",
+              "percentile": 54,
+              "rank": 93,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 51,
+              "rank": 486,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 44,
+              "rank": 541,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-0029354527",
+      "title": "A frequency domain model for 3 kv dc traction dc-side resonance identification",
+      "doi": "10.1109/59.466516",
+      "venue": "IEEE Transactions on Power Systems",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 1995,
+      "volume": "10",
+      "issue_id": "3",
+      "pages": "1369-1375",
+      "issn": "08858950",
+      "eIssn": "15580679",
+      "source_id": "28825",
+      "authors": "Hill R. J.; Pozzobon P.; Sciutto G.; Fracchia M.",
+      "author_ids": "7404752157;6601994662;7003892246;7004022170",
+      "authorAffiliationIds": "60171480;60171480;60171480;60025153",
+      "corresponding": "Hill R.J.",
+      "keywords": null,
+      "abstract": "Frequency-dependent effects in railway traction power systems arise from the impedance of substation & locomotive line filters and the traction line. Harmonic noise from traction drives and substations can excite resonances and produce overcurrent or overvoltage conditions at critical points in the network. In this paper, the harmonic feeding impedances of a 3 kV DC traction system seen from the rectifier substation, locomotive drive converter and pantograph terminals are presented. Several substation and locomotive filters are considered with a frequency-dependent traction line. Resonances attributed to the substation filter, locomotive filter and traction line are separate and distinct, the line introducing poles and zeros in the audio frequency (AF) range which vary in frequency and magnitude with locomotive position. © 1995 IEEE",
+      "citations": 19,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 96,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 94,
+              "rank": 17,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-0029237153",
+      "title": "Modelling for electromagnetic interference assessment in electric railway traction systems",
+      "doi": "10.1049/cp:19950196",
+      "venue": "IEE Conference Publication",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1995,
+      "volume": null,
+      "issue_id": "405",
+      "pages": "148-152",
+      "issn": "05379989",
+      "eIssn": null,
+      "source_id": "34914",
+      "authors": "Brillante S.; Hill R. J.; Pozzobon A.; Pozzobon P.; Sciutto G.",
+      "author_ids": "6602214633;7404752157;56512026300;6601994662;7003892246",
+      "authorAffiliationIds": "60030480;60030480;60030480;60030480;60030480",
+      "corresponding": "Brillante S.",
+      "keywords": null,
+      "abstract": "Electromagnetic field and circuit simulation models are described which enable a railway traction system with substations, traction drives, track signalling equipment, track and traction line to be assessed for low and audio frequency electromagnetic interference. The novel features are the derivation of frequency-dependent track and traction line impedance by the finite-element method of electromagnetic field analysis and the representation of the frequency dependency in circuit simulation by current-dependent voltage sources. Example interference spectra are given for cab signal current with audio frequency track signalling on a 3 kV DC traction system with 12-pulse rectifier substations and an inverter-fed traction drive.",
+      "citations": 5,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0028758624",
+      "title": "Accurate track modelling for fault current studies on third-rail metro railways",
+      "doi": null,
+      "venue": "Proceedings of the IEEE ASME Joint Railroad Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1994,
+      "volume": null,
+      "issue_id": null,
+      "pages": "97-102",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "76464",
+      "authors": "Fracchia M.; Hill R. J.; Pozzobon P.; Sciutto G.",
+      "author_ids": "7004022170;7404752157;6601994662;7003892246",
+      "authorAffiliationIds": "60030480;60030480;60030480;60030480",
+      "corresponding": "Fracchia M.",
+      "keywords": null,
+      "abstract": "The use of a constant inductance and resistance model for rail track impedance in traction power system fault transient studies gives rise to inaccuracies due to the actual frequency dependency of the line. In this paper, an accurate frequency-dependent track model for a third-rail metro railway is described in which the track feeding impedance is synthesized from the self and mutual impedances and represented by a discrete-component linear circuit network. The model is used to simulate current rise in a third-rail traction system short-circuit fault. Results are given for short and long track section feeding lengths and show significant differences compared with a constant-parameter track model.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0028700012",
+      "title": "Identification of catenary harmonics in 3kV DC railway traction systems",
+      "doi": null,
+      "venue": "Mediterranean Electrotechnical Conference MELECON",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1994,
+      "volume": "2",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "95558",
+      "authors": "Coles P. C.; Fracchia M.; Hill R. J.; Pozzobon P.; Szelag A.",
+      "author_ids": "7103212651;7004022170;7404752157;6601994662;36194487700",
+      "authorAffiliationIds": "60030480;60030480;60030480;60030480;60030480",
+      "corresponding": "Coles P.",
+      "keywords": null,
+      "abstract": "An accurate, frequency-dependent rail track and traction line feeding impedance model for an overhead catenary electrified railway is described. The model is based on the track self and mutual impedances and admittances which are represented by discrete-component electrical circuit networks. Verification for accuracy is demonstrated by comparing the model track feeding impedance with reference data. The track model is used in a time-domain simulation of a DC traction network with a 12-pulse rectifier substation and a power electronic controlled traction drive to investigate the distribution of traction system current harmonics in the catenary, rails and ground.",
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84947694080",
+      "title": "MODELLING FOR THE PREDICTION OF INTERFERENCE BETWEEN POWER AND SIGNALLING CURRENTS IN RAILWAY TRACTION SYSTEMS",
+      "doi": "10.23919/EMC.1994.10777645",
+      "venue": "EMC 1994 Roma International Symposium on Electromagnetic Compatibility",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1994,
+      "volume": null,
+      "issue_id": null,
+      "pages": "611-616",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101269601",
+      "authors": "Hill R. J.; Fracchia M.; Pozzobon A.; Pozzobon P.; Sciutto G.",
+      "author_ids": "7404752157;7004022170;56512026300;6601994662;7003892246",
+      "authorAffiliationIds": "60030480;60025153;60025153;60025153;60025153",
+      "corresponding": "Hill R.J.",
+      "keywords": "Biological system modeling | Frequency shift keying | Harmonic analysis | Integrated circuit modeling | Interference | Noise | Rails | Receivers | Rectifiers | Substations",
+      "abstract": "Electrical circuit simulation models are described which enable a complete railway traction system, consisting of substations, traction drives, track signalling equipment, track and traction line to be assessed for low and audio frequency interference.Sample interference harmonic spectra are given for a 750 V DC traction system with inverter-fed traction drives and audio frequency track circuits.It is shown that the inclusion of a coupled line rail track/traction line model is vital to enable both common mode and differential mode effects to be studied.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0028257067",
+      "title": "Accurate track modelling for fault current studies on third-rail metro railways",
+      "doi": null,
+      "venue": "1994 ASME IEEE Joint Railroad Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1994,
+      "volume": null,
+      "issue_id": null,
+      "pages": "97-102",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "24440",
+      "authors": "Fracchia M.; Hill R. J.; Pozzobon P.; Sciutto G.",
+      "author_ids": "7004022170;7404752157;6601994662;7003892246",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Fracchia M.",
+      "keywords": null,
+      "abstract": "The use of a constant inductance and resistance model for rail track impedance in traction power system fault transient studies gives rise to inaccuracies due to the actual frequency dependency of the line. In this paper, an accurate frequency-dependent track model for a third-rail metro railway is described in which the track feeding impedance is synthesized from the self and mutual impedances and represented by a discrete-component linear circuit network. The model is used to simulate current rise in a third-rail traction system short-circuit fault. Results are given for short and long track section feeding lengths and show significant differences compared with a constant-parameter track model.",
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0027878336",
+      "title": "Generalized model for harmonic analysis of natural commutation conversion systems",
+      "doi": null,
+      "venue": "IEE Conference Publication",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1993,
+      "volume": "8",
+      "issue_id": "377",
+      "pages": "179-184",
+      "issn": "05379987",
+      "eIssn": null,
+      "source_id": "34914",
+      "authors": "Bolognani S.; Fracchia M.; Pozzobon P.; Zigliotto M.",
+      "author_ids": "7006685205;7004022170;6601994662;55962943300",
+      "authorAffiliationIds": "60000481;60000481;60000481;60000481",
+      "corresponding": "Bolognani S.",
+      "keywords": null,
+      "abstract": "In order to take into account the wide spreading of high power non linear loads continuously increasing harmonic pollution in the utility networks and the new directives regarding electromagnetic compatibility, accurate evaluation of harmonic distortion introduced by conversion systems is necessary both for new plants and for upgrading of existing ones. This paper presents a generalized model for harmonic analysis and its implementation on a Personal Computer. The proposed methodology can be defined as a deterministic approach operating in the frequency domain by means of an iterative algorithm and allows to obtain the harmonic content of the required currents and voltages in steady state conditions as well as the time waveforms of any relevant system variable. With respect to the time domain models this one eliminates the computation time necessary for the transient behaviour determination which is not required for harmonic analysis. In comparison with the frequency domain models it presents two main characteristics: an accurate frequency model for any natural commutation static conversion structure (comparable with the time domain static converters models) and no convergence problems for the iteration process. The results of the implementation of the algorithm are reported and discussed in the case of a significant power application: the twelve pulse bridge rectifier for 3 kV dc railway traction supply. A comparison with the results achieved by a time domain method is pointed out in terms of computation time and results accuracy.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0027807931",
+      "title": "Modelling and simulation of supply current interference in traction systems arising from multi-level converters in high-power locomotive drives",
+      "doi": null,
+      "venue": "IEE Conference Publication",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1993,
+      "volume": "7",
+      "issue_id": "377",
+      "pages": "24-28",
+      "issn": "05379987",
+      "eIssn": null,
+      "source_id": "34914",
+      "authors": "Coles P. C.; Fracchia M.; Hill R. J.; Pozzobon P.; Sciutto G.",
+      "author_ids": "7103212651;7004022170;7404752157;6601994662;7003892246",
+      "authorAffiliationIds": "60030480;60030480;60030480;60030480;60030480",
+      "corresponding": "Coles P.",
+      "keywords": null,
+      "abstract": "A railway traction system simulator intended for the study of electrical interference produced by converter-fed traction drives is described. The simulation model comprises a neutral-point-clamped inverter drive, a 3 kV DC 12-pulse rectifier substation and a section of traction line. Time and frequency domain simulation results demonstrate the influence of the system DC current and nonlinear traction line impedance on the production of higher frequency harmonics in the catenary power supply circuit.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85066485819",
+      "title": "Power control with stepped-wave modulated vsi",
+      "doi": "10.1109/APT.1993.686850",
+      "venue": "Joint International Power Conference Quot Athens Power Tech Quot Planning Operation and Control in Today S Electric Power Systems Apt 1993 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1993,
+      "volume": "1",
+      "issue_id": null,
+      "pages": "92-96",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100908419",
+      "authors": "Fracchia M.; Pozzobon P.",
+      "author_ids": "7004022170;6601994662",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Fracchia M.",
+      "keywords": null,
+      "abstract": "In the past few years semiconductor technology led to the availability of power switches able to manage high voltage and high current. Today GTOs are rated up to 4500 V and 2500 A, so that they can be utilized for very high power applications (tens of MVV) in converters oriented to power control on transmission and distribution networks. Main requirements of a power conditioner suitable for the above applications are high conversion efficiency and low harmonic distortion of the output voltage and current. These two tasks are not normally compatible, as the first requires low switching frequency and the second the highest achievable. The stepped wave modulated voltage source inverter allows to obtain Very low harmonic content of the output voltage and current together with low switching frequency of the static devices (constant and equal to the network frequency). Several options are available for the realization of the stepped wave structures: in this paper the 12-pulse, the 18-pulse and the 24-pulse are taken into account. The harmonic distortion of the output variables is considered, together with the real and reactive power flow control capabilities,.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0026986928",
+      "title": "Mechanical effects of chopper drives torque ripple on the wheels of the E633 Italian locomotives",
+      "doi": null,
+      "venue": "National Conference Publication Institution of Engineers Australia",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1992,
+      "volume": null,
+      "issue_id": "92 pt 10",
+      "pages": "115-120",
+      "issn": "03136922",
+      "eIssn": null,
+      "source_id": "12276",
+      "authors": "Ghiara T.; Pozzobon P.",
+      "author_ids": "6603501030;6601994662",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Ghiara T.",
+      "keywords": null,
+      "abstract": "Design and operation of the electronic locomotives present the well known problems of current harmonic pollution, reliability and cooling. For the chopper driven locomotive E633 of the Italian Railways, mechanical damages on the surface of the wheels have been also encountered. In this work the authors investigate on chopper drives torque ripple, in order to find out if such ripple can be responsible for wheels' fractures.",
+      "citations": 0,
+      "quartile": null
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1223135",
+      "authors": "Cosso, S.; Benevieri Innocenti, A.; Marchesoni, M.; Passalacqua, M.; Vaccaro, L.; Pozzobon, P.",
+      "legacy_id": 602466,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "A New Topology of Multi-Input Bidirectional DC-DC Converters for Hybrid Energy Storage Systems",
+      "scopus_id": "2-s2.0-85207391518",
+      "doi": "10.3390/en17205120",
+      "isi_id": "WOS:001341679900001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1223136",
+      "authors": "Benevieri Innocenti, A.; Marchesoni, M.; Passalacqua, M.; Pozzobon, P.; Vaccaro, L.",
+      "legacy_id": 602486,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Synchronous DTC for torque sub-harmonic reduction in low switching frequency induction motor drives",
+      "scopus_id": "2-s2.0-85207857965",
+      "doi": "10.1016/j.conengprac.2024.106133",
+      "isi_id": "WOS:001350171800001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/230850",
+      "authors": "Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 35637,
+      "year": 2008,
+      "miur_type": "262",
+      "title": "Genetic Algorithm approach for the determination of the electrical parameters of railway traction lines",
+      "scopus_id": "2-s2.0-84859763848",
+      "doi": "10.1016/j.measurement.2006.07.007",
+      "isi_id": "WOS:000253105500008",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/230849",
+      "authors": "Mariscotti, Andrea; Pozzobon, Paolo; Vanti, Maurizio",
+      "legacy_id": 35636,
+      "year": 2007,
+      "miur_type": "262",
+      "title": "Simplified modelling of 2x25 kV AT Railway System for the solution of low frequency and large scale problems",
+      "scopus_id": "2-s2.0-34147108057",
+      "doi": "10.1109/TPWRD.2006.883020",
+      "isi_id": "WOS:000243172600038",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "40",
+      "citations_scopus": "60"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/230847",
+      "authors": "R., Cella; G., Giangaspero; Mariscotti, Andrea; A., Montepagano; Pozzobon, Paolo; M., Ruscelli; Vanti, Maurizio",
+      "legacy_id": 35634,
+      "year": 2006,
+      "miur_type": "262",
+      "title": "Measurement of AT Electric Railway System currents and validation of a Multiconductor Transmission Line model",
+      "scopus_id": "2-s2.0-33745596800",
+      "doi": "10.1109/TPWRD.2006.874109",
+      "isi_id": "WOS:000238704500089",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "50",
+      "citations_scopus": "77"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/230848",
+      "authors": "F., Filippone; Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 35635,
+      "year": 2006,
+      "miur_type": "262",
+      "title": "The Internal Impedance of Traction Rails for DC Railways in the 1-100 kHz Frequency Range",
+      "scopus_id": "2-s2.0-33749370541",
+      "doi": "10.1109/TIM.2006.880912",
+      "isi_id": "WOS:000240756200023",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "14",
+      "citations_scopus": "23"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/248385",
+      "authors": "Mariscotti, Andrea; Pozzobon, Paolo; Vanti, M.",
+      "legacy_id": 46445,
+      "year": 2005,
+      "miur_type": "262",
+      "title": "Distribution of the traction return current in AT electric railway systems",
+      "scopus_id": "2-s2.0-23944496319",
+      "doi": "10.1109/TPWRD.2005.848721",
+      "isi_id": "WOS:000230223100044",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "42",
+      "citations_scopus": "64"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/247208",
+      "authors": "Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 45597,
+      "year": 2005,
+      "miur_type": "262",
+      "title": "Experimental results on low rail-to-rail conductance values",
+      "scopus_id": "2-s2.0-21244433977",
+      "doi": "10.1109/TVT.2005.844667",
+      "isi_id": "WOS:000229254800044",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "20",
+      "citations_scopus": "32"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/244716",
+      "authors": "Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 43999,
+      "year": 2004,
+      "miur_type": "262",
+      "title": "Determination of the electrical parameters of railway traction lines: calculation, measurement and reference data",
+      "scopus_id": "2-s2.0-7244234104",
+      "doi": "10.1109/TPWRD.2004.835285",
+      "isi_id": "WOS:000224278600003",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "53",
+      "citations_scopus": "84"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/213871",
+      "authors": "Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 27263,
+      "year": 2004,
+      "miur_type": "262",
+      "title": "Measurement of the Internal Impedance of Traction Rails at Audiofrequency",
+      "scopus_id": "2-s2.0-2942599751",
+      "doi": "10.1109/TIM.2004.827321",
+      "isi_id": "WOS:000221578200024",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "20",
+      "citations_scopus": "29"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/244967",
+      "authors": "Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 44151,
+      "year": 2004,
+      "miur_type": "262",
+      "title": "Low-frequency magnetic fields in DC railway substations",
+      "scopus_id": "2-s2.0-1242263418",
+      "doi": "10.1109/TVT.2003.822334",
+      "isi_id": "WOS:000188465400019",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/208213",
+      "authors": "Pozzobon, Paolo; Mariscotti, A.",
+      "legacy_id": 24658,
+      "year": 2004,
+      "miur_type": "262",
+      "title": "Resistance and internal inductance of traction rails at power frequency: a survey",
+      "scopus_id": "2-s2.0-3943067120",
+      "doi": "10.1109/TVT.2004.830968",
+      "isi_id": "WOS:000222884400012",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "29",
+      "citations_scopus": "40"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/259433",
+      "authors": "Mariscotti, Andrea; A., Motta; Pozzobon, Paolo",
+      "legacy_id": 53219,
+      "year": 2003,
+      "miur_type": "273",
+      "title": "Magnetic field emissions from synchronous generators",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/246453",
+      "authors": "Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 45066,
+      "year": 2003,
+      "miur_type": "262",
+      "title": "Synthesis of line impedance expressions for railway traction systems",
+      "scopus_id": "2-s2.0-0038630570",
+      "doi": "10.1109/TVT.2003.808750",
+      "isi_id": "WOS:000182858900015",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "30",
+      "citations_scopus": "54"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/392823",
+      "authors": "Pozzobon, Paolo",
+      "legacy_id": 87561,
+      "year": 2003,
+      "miur_type": "273",
+      "title": "EU funded research in the field of electrical system compatibility in railways",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/392816",
+      "authors": "S., Ahlstedt; A., Amendolara; E., Francois; U., Henning; Pozzobon, Paolo; R., Schmid; S., Shirran; B., Vittorini",
+      "legacy_id": 87553,
+      "year": 2003,
+      "miur_type": "273",
+      "title": "Electromagnetic compatibility of advanced rail transport signalling",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/260120",
+      "authors": "D., Bellan; P., Betti; D., Carillo; M., Damore; M., Darco; C., DE CAPUA; A., Gaggelli; M., Grandolfo; F., Maradei; Mariscotti, Andrea; S., Pignari; Pozzobon, Paolo; P., Rossi; A. G., Violi",
+      "legacy_id": 53649,
+      "year": 2002,
+      "miur_type": "273",
+      "title": "Measurement and analysis of low-frequency magnetic field emissions in rolling stock",
+      "isi_id": "WOS:000220176400002",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "24"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/259385",
+      "authors": "Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 53183,
+      "year": 2002,
+      "miur_type": "273",
+      "title": "Procedure for the measurement of the electrical parameters of railway traction lines",
+      "scopus_id": "2-s2.0-3242779302",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/246838",
+      "authors": "P., Ferrari; Mariscotti, Andrea; A., Motta; Pozzobon, Paolo",
+      "legacy_id": 45353,
+      "year": 2001,
+      "miur_type": "262",
+      "title": "Electromagnetic emissions from electrical rotating machinery",
+      "scopus_id": "2-s2.0-0035275185",
+      "isi_id": "WOS:000167587500012",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "20",
+      "citations_scopus": "26"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/392831",
+      "authors": "S., Brillante; Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 87568,
+      "year": 2001,
+      "miur_type": "273",
+      "title": "Calculation of electromagnetic emissions around a railway vehicle by TLM-2D",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/392837",
+      "authors": "P., Ferrari; Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 87574,
+      "year": 2000,
+      "miur_type": "273",
+      "title": "Measuring electromagnetic emission from large power rotating machines",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/203620",
+      "authors": "A., Amendolara; G., Laurenti; Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 22875,
+      "year": 2000,
+      "miur_type": "273",
+      "title": "Assessment of H-field levels inside a DC railway substation",
+      "scopus_id": "2-s2.0-0033714030",
+      "isi_id": "WOS:000166855100032",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/203621",
+      "authors": "M., Fracchia; Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 22876,
+      "year": 2000,
+      "miur_type": "273",
+      "title": "Track and traction line impedance expressions for deterministic and probabilistic voltage distortion analysis",
+      "scopus_id": "2-s2.0-0038366890",
+      "isi_id": "WOS:000166916700101",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "11",
+      "citations_scopus": "14"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393737",
+      "authors": "S., Brillante; G. F., D'Addio; P., Ferrari; Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 88448,
+      "year": 2000,
+      "miur_type": "273",
+      "title": "Measurement techniques for validating the calculation methods of electric railway traction line parameters",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/245509",
+      "authors": "Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 44402,
+      "year": 2000,
+      "miur_type": "262",
+      "title": "Measurement of the internal impedance of traction rails at 50 Hz",
+      "scopus_id": "2-s2.0-0033687509",
+      "isi_id": "WOS:000087328400017",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "20",
+      "citations_scopus": "29"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/203612",
+      "authors": "P., Ferrari; Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 22872,
+      "year": 2000,
+      "miur_type": "273",
+      "title": "Reference curves of the pantograph impedance in DC railway systems",
+      "scopus_id": "2-s2.0-0033720436",
+      "isi_id": "WOS:000088841100142",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "20",
+      "citations_scopus": "28"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393740",
+      "authors": "S., Brillante; G., D'Addio; P., Ferrari; Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 88451,
+      "year": 2000,
+      "miur_type": "273",
+      "title": "Validation of the analytical model of an electric traction line",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/259445",
+      "authors": "G., D'Addio; M., Fracchia; Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 53226,
+      "year": 1999,
+      "miur_type": "273",
+      "title": "Sensitivity analysis of railway line impedance to variations of electrical and geometrical parameters",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/203618",
+      "authors": "P., Ferrari; Mariscotti, Andrea; A., Motta; Pozzobon, Paolo",
+      "legacy_id": 22873,
+      "year": 1999,
+      "miur_type": "273",
+      "title": "Electromagnetic radiated emissions from electrical rotating machinery",
+      "isi_id": "WOS:000081429300192",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/392775",
+      "authors": "P., Ferrari; Pozzobon, Paolo",
+      "legacy_id": 87513,
+      "year": 1999,
+      "miur_type": "271",
+      "title": "Rectifier substations",
+      "type": "02.04 - Voce (in dizionario o enciclopedia)"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393733",
+      "authors": "A., Amendolara; S., Brillante; W., Cardillo; Pozzobon, Paolo",
+      "legacy_id": 88444,
+      "year": 1999,
+      "miur_type": "273",
+      "title": "The electromagnetic environment of railway installations: modelling techniques",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393731",
+      "authors": "S., Brillante; G. F., D'Addio; P., Ferrari; Pozzobon, Paolo",
+      "legacy_id": 88442,
+      "year": 1999,
+      "miur_type": "273",
+      "title": "Modelling of multiconductor transmission lines for conducted and radiated interference",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/203619",
+      "authors": "Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 22874,
+      "year": 1999,
+      "miur_type": "273",
+      "title": "Measurement of the Internal Impedance of traction rails at 50 Hz",
+      "scopus_id": "2-s2.0-0032676611",
+      "isi_id": "WOS:000081629700063",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/259443",
+      "authors": "S., Brillante; G., D'Addio; P., Ferrari; Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 53225,
+      "year": 1999,
+      "miur_type": "273",
+      "title": "Perspective of modelling and integration activities for the assessment of Electrical System Compatibility for Advanced Rail Vehicles (ESCARV EU project)",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393727",
+      "authors": "Fracchia, M.; Mazzucchelli, M.; Pozzobon, Paolo; Savio, S.",
+      "legacy_id": 88438,
+      "year": 1999,
+      "miur_type": "273",
+      "title": "International railway research projects at the Electrical Engineering Department of the University of Genova",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/314140",
+      "authors": "G., D'Addio; P., Ferrari; Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 69003,
+      "year": 1999,
+      "miur_type": "273",
+      "title": "Integrated modelling of audiofrequency track circuits",
+      "scopus_id": "2-s2.0-0032628955",
+      "isi_id": "WOS:000166959800019",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "6",
+      "citations_scopus": "13"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393722",
+      "authors": "A., Amendolara; G., Laurenti; Mariscotti, Andrea; Pozzobon, Paolo",
+      "legacy_id": 88433,
+      "year": 1999,
+      "miur_type": "273",
+      "title": "Electromagnetic emission from high speed railways",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/392758",
+      "authors": "Pozzobon, Paolo",
+      "legacy_id": 87497,
+      "year": 1998,
+      "miur_type": "262",
+      "title": "Transient and steady state short circuit currents in rectifiers for dc traction supply",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393707",
+      "authors": "S., Brillante; P., Ferrari; Pozzobon, Paolo",
+      "legacy_id": 88418,
+      "year": 1998,
+      "miur_type": "273",
+      "title": "Modelling of electromagnetic emission from catenary-pantograph sliding contact",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393715",
+      "authors": "P., Ferrari; Pozzobon, Paolo",
+      "legacy_id": 88426,
+      "year": 1998,
+      "miur_type": "273",
+      "title": "Railway line models for impedance evaluation",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393710",
+      "authors": "A., Amendolara; Pozzobon, Paolo",
+      "legacy_id": 88421,
+      "year": 1998,
+      "miur_type": "273",
+      "title": "Electromagnetic emission from trolley buses and railway vehicles",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393717",
+      "authors": "P., Ferrari; M., Giuliari; A., Pozzobon; Pozzobon, Paolo",
+      "legacy_id": 88428,
+      "year": 1998,
+      "miur_type": "273",
+      "title": "A method for integrated analysis of multi-converter systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393703",
+      "authors": "Mazzucchelli, M.; Pozzobon, Paolo; Ventura, O.",
+      "legacy_id": 88414,
+      "year": 1997,
+      "miur_type": "273",
+      "title": "Alcuni aspetti preliminari al calcolo ed alla modellistica delle emissioni elettromagnetiche associate al contatto pantografo-catenaria",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393695",
+      "authors": "R. J., Hill; Pozzobon, Paolo",
+      "legacy_id": 88408,
+      "year": 1997,
+      "miur_type": "273",
+      "title": "Fuzzy identification of rail track parameters",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393692",
+      "authors": "Mazzucchelli, M.; Pozzobon, Paolo; Ventura, O.",
+      "legacy_id": 88405,
+      "year": 1996,
+      "miur_type": "273",
+      "title": "Emissioni elettromagnetiche associate al contatto strisciante pantografo-catenaria: aspetti elementari del calcolo e della modellistica",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393685",
+      "authors": "R. J., Hill; Pozzobon, Paolo",
+      "legacy_id": 88398,
+      "year": 1996,
+      "miur_type": "298",
+      "title": "Interactions between 3kV dc and 25kV 50Hz traction systems for high speed railways",
+      "type": "07.12 - Altro"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393675",
+      "authors": "Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88388,
+      "year": 1996,
+      "miur_type": "273",
+      "title": "Disturbi elettromagnetici prodotti da apparati di propulsione e di conversione negli impianti per la trazione elettrica: normativa, modelli e simulazione",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393682",
+      "authors": "A., Pozzobon; Pozzobon, Paolo",
+      "legacy_id": 88395,
+      "year": 1996,
+      "miur_type": "273",
+      "title": "Computer methods for electromagnetic analysis of electric traction systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393679",
+      "authors": "S., Brillante; R. J., Hill; A., Pozzobon; Pozzobon, Paolo",
+      "legacy_id": 88392,
+      "year": 1996,
+      "miur_type": "273",
+      "title": "A feeding impedance model of electrified rail track",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393691",
+      "authors": "S., Brillante; R. J., Hill; Pozzobon, Paolo",
+      "legacy_id": 88404,
+      "year": 1996,
+      "miur_type": "273",
+      "title": "EMC modelling for railway traction systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393666",
+      "authors": "S., Brillante; R. J., Hill; Pozzobon, Paolo",
+      "legacy_id": 88379,
+      "year": 1995,
+      "miur_type": "273",
+      "title": "Electromagnetic fields in traction systems: modelling and applications",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393658",
+      "authors": "Mazzucchelli, M.; Pozzobon, Paolo",
+      "legacy_id": 88371,
+      "year": 1995,
+      "miur_type": "273",
+      "title": "Analisi dei disturbi elettromagnetici in audiofrequenza negli impianti di trazione ferroviaria",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393653",
+      "authors": "S., Brillante; R. J., Hill; Pozzobon, Paolo",
+      "legacy_id": 88366,
+      "year": 1995,
+      "miur_type": "273",
+      "title": "modelling crosstalk in traction power systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/201577",
+      "authors": "Mazzucchelli, MAURIZIO FRANCO; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 21605,
+      "year": 1995,
+      "miur_type": "273",
+      "title": "EMC issues in electric railway traction systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393657",
+      "authors": "S., Bolognani; Pozzobon, Paolo",
+      "legacy_id": 88370,
+      "year": 1995,
+      "miur_type": "273",
+      "title": "Modelli e simulazione per l'analisi delle interferenze elettromagnetiche condotte ed indotte",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/392806",
+      "authors": "S., Brillante; R. J., Hill; A., Pozzobon; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 87543,
+      "year": 1995,
+      "miur_type": "273",
+      "title": "Modelling for electromagnetic interference assessment in electric railway traction systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393660",
+      "authors": "R. J., Hill; Pozzobon, Paolo",
+      "legacy_id": 88373,
+      "year": 1995,
+      "miur_type": "273",
+      "title": "Computation of harmonic current in traction lines with vehicle motion",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393671",
+      "authors": "Pozzobon, Paolo; Sciutto, Giuseppe; A., Ventura",
+      "legacy_id": 88384,
+      "year": 1995,
+      "miur_type": "273",
+      "title": "Modellistica di supporto alla normativa in merito alla compatibilitàm elettromagnetica in ambiente ferroviario",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/421375",
+      "authors": "Marchesoni, Mario; Pozzobon, Paolo; Puglisi, Luciano",
+      "legacy_id": 90035,
+      "year": 1995,
+      "miur_type": "273",
+      "title": "A low EM noise emission ac drive for electric vehicle applications",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393662",
+      "authors": "M., Fracchia; L., Pierrat; Pozzobon, Paolo",
+      "legacy_id": 88375,
+      "year": 1995,
+      "miur_type": "273",
+      "title": "Probabilistic assessment of harmonic impedance in dc traction systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393534",
+      "authors": "Pozzobon, Paolo",
+      "legacy_id": 88249,
+      "year": 1995,
+      "miur_type": "298",
+      "title": "Train motion simulation by EMTP",
+      "type": "07.12 - Altro"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/392749",
+      "authors": "M., Fracchia; R. J., Hill; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 87489,
+      "year": 1995,
+      "miur_type": "262",
+      "title": "A frequency domain model for 3kV DC side resonance identification",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393672",
+      "authors": "Pozzobon, Paolo",
+      "legacy_id": 88385,
+      "year": 1995,
+      "miur_type": "273",
+      "title": "Modelling non-linear impedances in electric rail transport systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393631",
+      "authors": "M., Fracchia; R. J., Hill; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88344,
+      "year": 1994,
+      "miur_type": "273",
+      "title": "Modelling and simulation of frequency dependent track impedance and admittance in electric rail traction systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393635",
+      "authors": "M., Fracchia; R. J., Hill; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88348,
+      "year": 1994,
+      "miur_type": "273",
+      "title": "Use of frequency dependent track models in traction systems simulation",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393641",
+      "authors": "M., Fracchia; M., Galaverna; Pozzobon, Paolo; L., Puglisi",
+      "legacy_id": 88354,
+      "year": 1994,
+      "miur_type": "273",
+      "title": "Voltage regulation in electrical supply substations for dc traction systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/392802",
+      "authors": "P. C., Coles; M., Fracchia; R. J., Hill; Pozzobon, Paolo; A., Szelag",
+      "legacy_id": 87539,
+      "year": 1994,
+      "miur_type": "273",
+      "title": "Identification of Catenary Harmonics in 3kV dc traction systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393648",
+      "authors": "M., Cancedda; Pozzobon, Paolo; Sciutto, Giuseppe; M., Zucchi",
+      "legacy_id": 88361,
+      "year": 1994,
+      "miur_type": "273",
+      "title": "The impact of a new high speed railway system on the human environment",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393646",
+      "authors": "M., Fracchia; R. J., Hill; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88359,
+      "year": 1994,
+      "miur_type": "273",
+      "title": "modelling for the prediction of interference between power and signalling currents in railway traction systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393640",
+      "authors": "Pozzobon, Paolo; C., Rizzi",
+      "legacy_id": 88353,
+      "year": 1994,
+      "miur_type": "273",
+      "title": "The role of computers in research on electric rail transport systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/392797",
+      "authors": "M., Fracchia; R. J., Hill; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 87534,
+      "year": 1994,
+      "miur_type": "273",
+      "title": "Accurate track modelling for fault current studies in third rail metro railways",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393626",
+      "authors": "Fracchia, M.; Mazzucchelli, M.; Pozzobon, Paolo",
+      "legacy_id": 88339,
+      "year": 1993,
+      "miur_type": "273",
+      "title": "Modelli per l'analisi in frequenza degli impianti elettrici per la trazione ferroviaria",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/392793",
+      "authors": "P. C., Coles; M., Fracchia; R. J., Hill; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 87530,
+      "year": 1993,
+      "miur_type": "273",
+      "title": "Modelling and simulation of supply current interference in traction systems arising from multilevel converters in high power locomotives drives",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393623",
+      "authors": "M., Fracchia; R. J., Hill; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88336,
+      "year": 1993,
+      "miur_type": "273",
+      "title": "Modelli per l'analisi dell'interazione tra sistemi di trazione ferroviaria a 3kV dc e 25kV 50Hz",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393620",
+      "authors": "M., Galaverna; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88333,
+      "year": 1993,
+      "miur_type": "273",
+      "title": "Object oriented programming in railway traffic simulation for supervision and training",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/392783",
+      "authors": "M., Fracchia; Pozzobon, Paolo",
+      "legacy_id": 87520,
+      "year": 1993,
+      "miur_type": "273",
+      "title": "Power control with stepped wave modulated VSI",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/392788",
+      "authors": "S., Bolognani; M., Fracchia; Pozzobon, Paolo; M., Zigliotto",
+      "legacy_id": 87525,
+      "year": 1993,
+      "miur_type": "273",
+      "title": "A generalised model for harmonic analysis of natural commutation conversion systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393629",
+      "authors": "M., Fracchia; M., Galaverna; R. J., Hill; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88342,
+      "year": 1993,
+      "miur_type": "273",
+      "title": "A software tool for optimised maintenance of electric locomotives",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393616",
+      "authors": "M., Fracchia; Pozzobon, Paolo; L., Puglisi",
+      "legacy_id": 88329,
+      "year": 1992,
+      "miur_type": "273",
+      "title": "Le sottostazioni elettriche di conversione per l'alimentazione degli impianti di trazione: valutazione degli effetti sulle reti MT ed AT",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/319454",
+      "authors": "Mazzucchelli, MAURIZIO FRANCO; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 71208,
+      "year": 1992,
+      "miur_type": "273",
+      "title": "Rectifier Dynamic Mod­els for Short-Circuit Transient Analysis in DC Metrorail Sys­tems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393506",
+      "authors": "T., Ghiara; Pozzobon, Paolo; Sciutto, Giuseppe; R., Zecchi",
+      "legacy_id": 88221,
+      "year": 1992,
+      "miur_type": "273",
+      "title": "Simulation to investigate on torque ripple in locomotive chopper and rheostatic drives",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393498",
+      "authors": "M., Fracchia; Pozzobon, Paolo; L., Puglisi",
+      "legacy_id": 88213,
+      "year": 1992,
+      "miur_type": "273",
+      "title": "How to model LDMOS devices for high voltage low current applications",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393516",
+      "authors": "T., Ghiara; Pozzobon, Paolo",
+      "legacy_id": 88231,
+      "year": 1992,
+      "miur_type": "273",
+      "title": "Mechanical effects of chopper drives torque ripple on the wheels of the E633 italian locomotives",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393502",
+      "authors": "Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88217,
+      "year": 1992,
+      "miur_type": "273",
+      "title": "Advanced computer simulation for analysis and design of electrified transportation systems: electric plants and drives",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393509",
+      "authors": "M., Carpita; M., Fracchia; Pozzobon, Paolo; S., Tenconi",
+      "legacy_id": 88224,
+      "year": 1992,
+      "miur_type": "273",
+      "title": "Digital simulation for optimum choice of VSI structures for metrorail induction motor drives",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393495",
+      "authors": "M., Fracchia; M., Marchesoni; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88210,
+      "year": 1992,
+      "miur_type": "273",
+      "title": "Comparison between high power VSI structures for real and reactive power control",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393488",
+      "authors": "P., Cesario; M., Fracchia; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88203,
+      "year": 1991,
+      "miur_type": "273",
+      "title": "Power demand levelling in light rail transit systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/392763",
+      "authors": "D., Casini; P., Cesario; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 87502,
+      "year": 1991,
+      "miur_type": "298",
+      "title": "Various solutions for electric load compensation using energy storage systems controlled by ac/dc converters",
+      "type": "07.12 - Altro"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/392767",
+      "authors": "D., Casini; M., Galaverna; Pozzobon, Paolo; L., Puglisi",
+      "legacy_id": 87506,
+      "year": 1991,
+      "miur_type": "298",
+      "title": "Harmonic modelling of traction currents",
+      "type": "07.12 - Altro"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393494",
+      "authors": "M., Carpita; L., Fiore Donati; L., Guzzardi; Pozzobon, Paolo",
+      "legacy_id": 88209,
+      "year": 1991,
+      "miur_type": "273",
+      "title": "VMOS release of master/slave consolidation network for MHD converter: experimental results",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393493",
+      "authors": "M., Carpita; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88208,
+      "year": 1991,
+      "miur_type": "273",
+      "title": "Control strategy for local energy storage systems for decoupled managing of real and reactive power",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393490",
+      "authors": "Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88205,
+      "year": 1991,
+      "miur_type": "273",
+      "title": "Transformers parameters sensitivity of short circuit phenomena in dc metrorail systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393481",
+      "authors": "Pozzobon, Paolo",
+      "legacy_id": 88197,
+      "year": 1990,
+      "miur_type": "298",
+      "title": "Canale MHD in configurazione Faraday: metodologia di consolidamento",
+      "type": "07.12 - Altro"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393471",
+      "authors": "D., Casini; M., Galaverna; Pozzobon, Paolo; L., Puglisi",
+      "legacy_id": 88187,
+      "year": 1990,
+      "miur_type": "273",
+      "title": "Harmonic interference in signalling systems in underground railways",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393475",
+      "authors": "D., Lanciotto; Pozzobon, Paolo; Sciutto, Giuseppe; O., Ventura",
+      "legacy_id": 88191,
+      "year": 1990,
+      "miur_type": "273",
+      "title": "Tecniche di simulazione per il calcolo delle correnti di cortocircuito transitorie in un sistema di trazione metropolitano",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393485",
+      "authors": "Pozzobon, Paolo",
+      "legacy_id": 88200,
+      "year": 1990,
+      "miur_type": "298",
+      "title": "Canale MHD in configurazione Faraday: progetto di un circuito di consolidamento",
+      "type": "07.12 - Altro"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393456",
+      "authors": "N., Balestrino; G., Bisciglia; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88172,
+      "year": 1990,
+      "miur_type": "273",
+      "title": "Criterio de dimensionamiento de filtros rc en SET para installaciones ferroviarias",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393484",
+      "authors": "Pozzobon, Paolo",
+      "legacy_id": 88199,
+      "year": 1990,
+      "miur_type": "298",
+      "title": "Canale MHD in configurazione diagonale: metodologie di consolidamento e diagonalizzazione",
+      "type": "07.12 - Altro"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393465",
+      "authors": "Galaverna, M.; Pozzobon, Paolo; Salvo, F.; Savio, S.; Sciutto, Giuseppe",
+      "legacy_id": 88181,
+      "year": 1990,
+      "miur_type": "273",
+      "title": "Optimum strategy for traffic management in a light rail transit system during power supply faults",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393460",
+      "authors": "Galaverna, M.; Marchesoni, M.; Pozzobon, Paolo; Savio, S.",
+      "legacy_id": 88176,
+      "year": 1990,
+      "miur_type": "273",
+      "title": "Power conditioning systems interconnecting accumulator batteries to AC line with decoupled control of real and reactive power",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393468",
+      "authors": "T., Ghiara; M., Marchesoni; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88184,
+      "year": 1990,
+      "miur_type": "273",
+      "title": "Active power filter for traction line harmonic reduction",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393454",
+      "authors": "E., Cardelli; P., Cesario; Pozzobon, Paolo; L., Puglisi; R., Salutari",
+      "legacy_id": 88170,
+      "year": 1990,
+      "miur_type": "273",
+      "title": "Experimental methodologies for the power MOS model validation",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393464",
+      "authors": "D., Casini; P., Cesario; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88180,
+      "year": 1990,
+      "miur_type": "273",
+      "title": "Thyristor SMES control for optimised real and reactive power compensation",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393450",
+      "authors": "P., Cesario; R., Passalacqua; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88166,
+      "year": 1989,
+      "miur_type": "273",
+      "title": "EMTP nell'analisi e la progettazione dei sistemi elettronici di potenza per la trazione",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393433",
+      "authors": "P., Cesario; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88149,
+      "year": 1989,
+      "miur_type": "273",
+      "title": "Strumenti software per l'analisi e la progettazione di sistemi per la trazione elettrica",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393443",
+      "authors": "S., Bertini; L., Ottonello; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88159,
+      "year": 1989,
+      "miur_type": "273",
+      "title": "Energy storage systems for electric power networks",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393437",
+      "authors": "M., Carpita; D., Casini; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88153,
+      "year": 1989,
+      "miur_type": "273",
+      "title": "Real and reactive power operation domain analysis for electronically controlled SMES",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393429",
+      "authors": "D., Casini; P., Cesario; Pozzobon, Paolo; Sciutto, Giuseppe",
+      "legacy_id": 88145,
+      "year": 1989,
+      "miur_type": "273",
+      "title": "Various solutions for electric load compensation using energy storage systems controlled by ac/dc converters",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/393422",
+      "authors": "Marchesoni, Mario; M., Oberti; Pozzobon, Paolo; L., Puglisi",
+      "legacy_id": 88138,
+      "year": 1988,
+      "miur_type": "273",
+      "title": "CAD techniques applied to traction systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/318456",
+      "authors": "M., Boussak; G. A., Capolino; Marchesoni, Mario; Mazzucchelli, MAURIZIO FRANCO; Pozzobon, Paolo",
+      "legacy_id": 71081,
+      "year": 1988,
+      "miur_type": "273",
+      "title": "Vector control method in high power drives for industrial applications",
+      "type": "04.01 - Contributo in atti di convegno"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:15:08.561458"
+}

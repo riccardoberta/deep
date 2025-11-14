@@ -1,0 +1,15 @@
+{
+  "input_file": "DITEN_full.xlsx",
+  "year_windows": [
+    15,
+    10,
+    5
+  ],
+  "fetch_scopus": true,
+  "fetch_unige": true,
+  "fetch_iris": true,
+  "created_at": "2025-11-14T15:18:13.488272",
+  "source_count": 84,
+  "summary_path": "data/2025_11_14_21/elaborations/DITEN_full_results.xlsx",
+  "last_outputs_updated_at": "2025-11-14T15:18:15.141119+00:00"
+}

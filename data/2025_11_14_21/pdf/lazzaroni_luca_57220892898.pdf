@@ -1,0 +1,3017 @@
+%PDF-1.4
+%����
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R] /Count 25 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 2220 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(LAZZARONI LUCA) Tj
+T*
+() Tj
+T*
+(Overview) Tj
+T*
+(? Unit: ICT) Tj
+T*
+(? Grade: Contratto Gratuito \(No Anag. Prest.\)) Tj
+T*
+(? SSD: 000000000000 \(Non assegnato\)) Tj
+T*
+(? Scopus ID: 57220892898) Tj
+T*
+(? Unige Id: 404691) Tj
+T*
+(? Retrieved at: 2025-11-14T15:16:33.664141) Tj
+T*
+() Tj
+T*
+(Contact) Tj
+T*
+(? Email: luca.lazzaroni@unige.it) Tj
+T*
+(? Page: https://rubrica.unige.it/personale/UUNDXVNo) Tj
+T*
+(? Locations: Opera Pia - padiglione D \(ED161450401\), 3° piano, US161450401.III.023) Tj
+T*
+() Tj
+T*
+(Career) Tj
+T*
+(? Dr, 2020-11-01 ? 2023-10-31) Tj
+T*
+(? Cb, 2021-03-02 ? 2025-02-28) Tj
+T*
+(? Ar, 2023-10-02 ? 2025-02-28) Tj
+T*
+(? Rd, 2025-03-01 ? 2028-02-29) Tj
+T*
+() Tj
+T*
+(Teaching) Tj
+T*
+(2025) Tj
+T*
+(? Distributed Electronic Systems And Technologies For Environmental Monitoring \(94631\), ) Tj
+T*
+(Lm-26 R - Engineering For Natural Risk Management) Tj
+T*
+(? Tiny Machine Learning \(114752\), Lm-29 - Electronic Engineering) Tj
+T*
+() Tj
+T*
+(2024) Tj
+T*
+(? Distributed Electronic Systems And Technologies For Environmental Monitoring \(94631\), ) Tj
+T*
+(Lm-26 - Engineering For Natural Risk Management) Tj
+T*
+(? Tiny Machine Learning \(114752\), Lm-29 - Electronic Engineering) Tj
+T*
+() Tj
+T*
+(2023) Tj
+T*
+(? Computer Graphics Arch.- Games And Simulation \(72317\), Lm-29 - Ingegneria Elettronica) Tj
+T*
+() Tj
+T*
+(Scopus Metrics) Tj
+T*
+(? absolute; Docs: 45; Journals: 13; Conferences: 2; Citations: 211; H-index: 9) Tj
+T*
+(? 15 years \(2010-2025\); Docs: 45; Journals: 13; Conferences: 2; Citations: 211; H-index: 9) Tj
+T*
+(? 10 years \(2015-2025\); Docs: 45; Journals: 13; Conferences: 2; Citations: 211; H-index: 9) Tj
+T*
+(? 05 years \(2020-2025\); Docs: 45; Journals: 13; Conferences: 2; Citations: 211; H-index: 9) Tj
+T*
+() Tj
+T*
+(Scopus Products) Tj
+T*
+(1.) Tj
+T*
+(   ? Title: Deep Learning-Based Real-Time Driver Cognitive Distraction Detection) Tj
+T*
+(   ? Venue: IEEE Access) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 3) Tj
+T*
+(   ? Doi: 10.1109/Access.2025.3539392) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85217496091) Tj
+T*
+(   ? eISSN: 21693536) Tj
+T*
+(   ? Volume: 13) Tj
+T*
+(   ? Pages: 26589-26607) Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 2776 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Authors: Fresta Matteo; Bellotti Francesco; Bochenko Igor; Lazzaroni Luca; Merlhiot ) Tj
+T*
+(   Gaëtan; Tango Fabio; Berta Riccardo) Tj
+T*
+(   ? Keywords: Deep learning | driver cognitive distraction detection | embedded ) Tj
+T*
+(   deployment | eye-tracker | physiological signals | SHAP analysis | timeseries ) Tj
+T*
+(   processing | vehicular signals) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Engineering \(all\) \(Q1, rank 42, percentile 88\)) Tj
+T*
+(     ? Computer Science \(all\) \(Q1, rank 41, percentile 83\)) Tj
+T*
+(     ? Materials Science \(all\) \(Q1, rank 101, percentile 78\)) Tj
+T*
+(   ? Source Id: 21100374601) Tj
+T*
+(   ? Author Ids: ) Tj
+T*
+(   58308149100;55890888700;59550754000;57220892898;57194207299;55914652500;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;118247852;60258352;60025153) Tj
+T*
+(   ? Corresponding: Fresta M.) Tj
+T*
+(2.) Tj
+T*
+(   ? Title: TinyML Acceleration with MAX78000) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-71518-1_57) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85215954123) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1263 Lnee) Tj
+T*
+(   ? Pages: 468-474) Tj
+T*
+(   ? Authors: Dabbous Ali; Lazzaroni Luca; Bellotti Francesco; Presentación Sara Muñoz; ) Tj
+T*
+(   Pighetti Alessandro; Berta Riccardo) Tj
+T*
+(   ? Keywords: Convolutional Neural Network | Hardware Accelerator | MAX78000 | Power ) Tj
+T*
+(   Consumption | Time-of-Flight | Tiny Machine Learning) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: 57225054424;57220892898;55890888700;59527204900;58023909200;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Dabbous A.) Tj
+T*
+(3.) Tj
+T*
+(   ? Title: On-Board Deployability of a Deep Learning-Based System for Distraction and ) Tj
+T*
+(   Inattention Detection) Tj
+T*
+(   ? Venue: IEEE Open Journal of the Industrial Electronics Society) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1109/Ojies.2025.3601982) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105013975172) Tj
+T*
+(   ? eISSN: 26441284) Tj
+T*
+(   ? Volume: 6) Tj
+T*
+(   ? Pages: 1351-1369) Tj
+T*
+(   ? Authors: Fresta Matteo; Bellotti Francesco; Lazzaroni Luca; Ballout Hadi; Pighetti ) Tj
+T*
+(   Alessandro; Ameneiro-Prieto Óscar; Porta-Lorenzo Manuel; Sánchez-Louzán Daniel; ) Tj
+T*
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 6 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 2839 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   González-Escudeiro Cristina; Tango Fabio; Berta Riccardo) Tj
+T*
+(   ? Keywords: Deep learning \(DL\) | driver distraction detection \(DDD\) | eye-tracker | ) Tj
+T*
+(   inattention detection | on-board deployment | SHapley Additive exPlanations \(SHAP\) ) Tj
+T*
+(   analysis | time of flight sensor | time series processing | vehicular signals) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 148, percentile 85\)) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q1, rank 62, percentile 84\)) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 61, percentile 84\)) Tj
+T*
+(   ? Source Id: 21101068036) Tj
+T*
+(   ? Author Ids: 58308149100;55890888700;57220892898;59232895600;58023909200;57194191799;5) Tj
+T*
+(   7699637700;60059765900;60059537800;55914652500;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153;121898065;12189806) Tj
+T*
+(   5;121898065;121898065;60258352;60025153) Tj
+T*
+(   ? Corresponding: Fresta M.) Tj
+T*
+(4.) Tj
+T*
+(   ? Title: RAFT: Regularized Adversarial Fine-Tuning to Enhance Deep Reinforcement ) Tj
+T*
+(   Learning for Self-Parking) Tj
+T*
+(   ? Venue: IEEE Sensors Letters) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1109/Lsens.2025.3600982) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105013891403) Tj
+T*
+(   ? eISSN: 24751472) Tj
+T*
+(   ? Volume: 9) Tj
+T*
+(   ? Issue: 9) Tj
+T*
+(   ? Authors: Pighetti Alessandro; Bellotti Francesco; Berta Riccardo; Cavallaro Andrea; ) Tj
+T*
+(   Lazzaroni Luca; Oh Changjae) Tj
+T*
+(   ? Keywords: adversarial policies | automated driving \(AD\) | autonomous agents | deep ) Tj
+T*
+(   reinforcement learning \(DRL\) | parking | Sensor applications) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Instrumentation \(Q2, rank 70, percentile 63\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 397, percentile 60\)) Tj
+T*
+(   ? Source Id: 21100976671) Tj
+T*
+(   ? Author Ids: 58023909200;55890888700;6701751695;7103233230;57220892898;55391262000) Tj
+T*
+(   ? Authoraffiliationids: ) Tj
+T*
+(   60025153-60022109;60025153;60025153;60022109-60030109-60028186;60025153;60022109) Tj
+T*
+(   ? Corresponding: Pighetti A.) Tj
+T*
+(5.) Tj
+T*
+(   ? Title: Binary Neural Networks for Real-Time Structural Health Monitoring on Edge ) Tj
+T*
+(   Devices) Tj
+T*
+(   ? Venue: Digest of Technical Papers IEEE International Conference on Consumer ) Tj
+T*
+(   Electronics) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1109/Icce63647.2025.10930047) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105006570576) Tj
+T*
+(   ? Issn: 0747668x) Tj
+T*
+(   ? eISSN: 21591423) Tj
+T*
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 8 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 2725 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Authors: Dabbous Ali; Lazzaroni Luca; Sakr Fouad; Berta Riccardo; Fresta Matteo; ) Tj
+T*
+(   Bellotti Francesco) Tj
+T*
+(   ? Keywords: Binary Neural Networks | Edge Devices | Structural Health Monitoring) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q3, rank 254, percentile 38\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q3, rank 659, percentile 34\)) Tj
+T*
+(   ? Source Id: 26010) Tj
+T*
+(   ? Author Ids: 57225054424;57220892898;57216728100;6701751695;58308149100;55890888700) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60074219;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Dabbous A.) Tj
+T*
+(6.) Tj
+T*
+(   ? Title: Quantization of MobileNetV2 for Resource-Constrained Microcontrollers) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-84100-2_59) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105000833272) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1369 Lnee) Tj
+T*
+(   ? Pages: 497-504) Tj
+T*
+(   ? Authors: Lazzaroni Luca; Bellotti Francesco; Dabbous Ali; Pighetti Alessandro; Berta ) Tj
+T*
+(   Riccardo) Tj
+T*
+(   ? Keywords: Internet of Things | Microcontrollers | MobileNetV2 | Quantization | STM32 ) Tj
+T*
+(   | Tiny Machine Learning) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: 57220892898;55890888700;57225054424;58023909200;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Lazzaroni L.) Tj
+T*
+(7.) Tj
+T*
+(   ? Title: Runtime Input Monitoring of a Reinforcement Learning-Based Agent for Automated) Tj
+T*
+(    Car Parking) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-84100-2_46) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105000832063) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1369 Lnee) Tj
+T*
+(   ? Pages: 387-394) Tj
+T*
+(   ? Authors: Ballout Hadi; Berta Riccardo; Bochenko Igor; Lazzaroni Luca; Dhonthi Akshay;) Tj
+T*
+(    Hashemi Vahid; Bellotti Francesco) Tj
+T*
+(   ? Keywords: anomaly detection | Automated driving | isolation forest | local outlier ) Tj
+T*
+(   factor | novelty detection | one-class support vector machine | out of distribution ) Tj
+T*
+(   data | runtime monitoring) Tj
+T*
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 10 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 2566 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: ) Tj
+T*
+(   59232895600;6701751695;59550754000;57220892898;57305251400;48861638300;55890888700) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60072340;60072340;60025153) Tj
+T*
+(   ? Corresponding: Ballout H.) Tj
+T*
+(8.) Tj
+T*
+(   ? Title: Exploring Decision Transformer for Highway Automated Driving) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-84100-2_15) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105000831674) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1369 Lnee) Tj
+T*
+(   ? Pages: 123-130) Tj
+T*
+(   ? Authors: Forneris Luca; Bellotti Francesco; Berta Riccardo; Lazzaroni Luca; Oh ) Tj
+T*
+(   Changjae) Tj
+T*
+(   ? Keywords: Automated Driving | Decision Transformer | Decision-Making | Deep ) Tj
+T*
+(   Reinforcement Learning | Driving Simulator | High-speed Maneuvers | Offline ) Tj
+T*
+(   Reinforcement Learning) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: 58024898300;55890888700;6701751695;57220892898;55391262000) Tj
+T*
+(   ? Authoraffiliationids: 60025153-60022109;60025153;60025153;60025153;60022109) Tj
+T*
+(   ? Corresponding: Forneris L.) Tj
+T*
+(9.) Tj
+T*
+(   ? Title: Robustness Verification of a Reinforcement Learning-Based Agent for Automated ) Tj
+T*
+(   Car Parking) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-84100-2_17) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105000829693) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1369 Lnee) Tj
+T*
+(   ? Pages: 139-147) Tj
+T*
+(   ? Authors: Bellotti Francesco; Berta Riccardo; Soltanmuradov Vafali; Gómez David ) Tj
+T*
+(   Martín; Dhonthi Akshay; Hashemi Vahid; Lazzaroni Luca) Tj
+T*
+(   ? Keywords: automated parking | lidar | Marabou | noise | reinforcement learning | ) Tj
+T*
+(   Verification) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 12 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 2600 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: ) Tj
+T*
+(   55890888700;6701751695;59526612100;59388326900;57305251400;48861638300;57220892898) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60001741;60072340;60072340;60025153) Tj
+T*
+(   ? Corresponding: Bellotti F.) Tj
+T*
+(10.) Tj
+T*
+(   ? Title: Performance Comparison of YOLOv8 and YOLOv10 for Traffic Light Detection on a ) Tj
+T*
+(   Jetson Nano Board) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-84100-2_29) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105000828654) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1369 Lnee) Tj
+T*
+(   ? Pages: 242-249) Tj
+T*
+(   ? Authors: Ballout Hadi; Berta Riccardo; Dabbous Ali; Fresta Matteo; Lazzaroni Luca; ) Tj
+T*
+(   Pighetti Alessandro; Bellotti Francesco) Tj
+T*
+(   ? Keywords: automated driving | BOSCH | DTLD | intelligent transportation systems | ) Tj
+T*
+(   Jetson Nano | Traffic Light detection | YOLOv10 | YOLOv8) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: ) Tj
+T*
+(   59232895600;6701751695;57225054424;58308149100;57220892898;58023909200;55890888700) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Ballout H.) Tj
+T*
+(11.) Tj
+T*
+(   ? Title: Leveraging Neural Architecture Search for Structural Health Monitoring on ) Tj
+T*
+(   Resource-Constrained Devices) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-84100-2_38) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105000828216) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1369 Lnee) Tj
+T*
+(   ? Pages: 323-330) Tj
+T*
+(   ? Authors: Capello Alessio; Berta Riccardo; Fresta Matteo; Lazzaroni Luca; Bellotti ) Tj
+T*
+(   Francesco) Tj
+T*
+(   ? Keywords: Microcontrollers | Neural Architecture Search | Structural Health ) Tj
+T*
+(   Monitoring) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: 57388720700;6701751695;58308149100;57220892898;55890888700) Tj
+T*
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 14 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 2698 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Capello A.) Tj
+T*
+(12.) Tj
+T*
+(   ? Title: Setting Up a Lightweight Simulation Environment for Automated Driving Dataset ) Tj
+T*
+(   Collection) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-84100-2_19) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105000824318) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1369 Lnee) Tj
+T*
+(   ? Pages: 156-163) Tj
+T*
+(   ? Authors: Forneris Luca; Bellotti Francesco; Berta Riccardo; Cossu Marianna; Fresta ) Tj
+T*
+(   Matteo; Rezaieamale Raziye; Rojhan Hadise; Soltanmuradov Vafali; Tango Fabio; Lazzaroni) Tj
+T*
+(    Luca) Tj
+T*
+(   ? Keywords: Automated Driving Functions | CARLA Simulator | Dataset Collection | Lane ) Tj
+T*
+(   Change Recognition | Simulation Environment | User testing) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: 58024898300;55890888700;6701751695;57388479100;58308149100;59706629300;59) Tj
+T*
+(   706210500;59526612100;55914652500;57220892898) Tj
+T*
+(   ? Authoraffiliationids: 60025153-) Tj
+T*
+(   60022109;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60258352;600251) Tj
+T*
+(   53) Tj
+T*
+(   ? Corresponding: Forneris L.) Tj
+T*
+(13.) Tj
+T*
+(   ? Title: Green Machine Learning for the IoT \(GEMINI\): A Position Paper) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-84100-2_40) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105000824025) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1369 Lnee) Tj
+T*
+(   ? Pages: 339-346) Tj
+T*
+(   ? Authors: Lazzaroni Luca; Dabbous Ali; Nardello Matteo; Lebdeh Muath Abu; Berta ) Tj
+T*
+(   Riccardo; Yildirim Kasim Sinan; Bellotti Francesco; Brunelli Davide) Tj
+T*
+(   ? Keywords: Batteryless Device | Energy Harvesting | Intermitting Computing | Internet ) Tj
+T*
+(   of Things | Machine Learning | Online Learning | Online Sensing) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: 57220892898;57225054424;57197767089;57216973731;6701751695;23570313200;55) Tj
+T*
+(   890888700;22233293600) Tj
+T*
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 16 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 2671 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Authoraffiliationids: ) Tj
+T*
+(   60025153;60025153;60015986;60015986;60025153;60015986;60025153;60015986) Tj
+T*
+(   ? Corresponding: Lazzaroni L.) Tj
+T*
+(14.) Tj
+T*
+(   ? Title: RL-Based Generation of a Synthetic Automotive Driving Scenario Dataset) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-84100-2_47) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105000819817) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1369 Lnee) Tj
+T*
+(   ? Pages: 395-402) Tj
+T*
+(   ? Authors: Berta Riccardo; Bellotti Francesco; Cossu Marianna; Forneris Luca; Lazzaroni) Tj
+T*
+(    Luca; Pighetti Alessandro) Tj
+T*
+(   ? Keywords: Automated Driving | Dataset Engineering | Driving Scenarios | Driving ) Tj
+T*
+(   Scenarios Generator | Reinforcement Learning | Synthetic Datasets) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: 6701751695;55890888700;57388479100;58024898300;57220892898;58023909200) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Berta R.) Tj
+T*
+(15.) Tj
+T*
+(   ? Title: Benchmarking Microcontrollers with Ultra-Low Resolution Images Classification) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-84100-2_28) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105000819772) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1369 Lnee) Tj
+T*
+(   ? Pages: 234-241) Tj
+T*
+(   ? Authors: Dabbous Ali; Berta Riccardo; Lazzaroni Luca; Pighetti Alessandro; Bellotti ) Tj
+T*
+(   Francesco) Tj
+T*
+(   ? Keywords: Convolutional Neural Network | Energy Consumption | Hardware Accelerator | ) Tj
+T*
+(   MAX78000 | STM32 | Tiny Machine Learning) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: 57225054424;6701751695;57220892898;58023909200;55890888700) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Dabbous A.) Tj
+T*
+(16.) Tj
+T*
+(   ? Title: Comparing Detection-Based and Motion-Based Preprocessing of Video Frames for ) Tj
+T*
+(   Automated Driving Scenario Detection) Tj
+T*
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 18 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 2700 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-84100-2_30) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105000819117) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1369 Lnee) Tj
+T*
+(   ? Pages: 250-257) Tj
+T*
+(   ? Authors: Cossu Marianna; Berta Riccardo; Bagheri Orumi Mohammad Ali; Lazzaroni Luca; ) Tj
+T*
+(   Sauvaget Jean Louis; Touil Hind; Bellotti Francesco) Tj
+T*
+(   ? Keywords: automated driving | deep learning | detection-based preprocessing | driving) Tj
+T*
+(    scenarios | machine learning | motion-based preprocessing | Preprocessing | video ) Tj
+T*
+(   classification) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: ) Tj
+T*
+(   57388479100;6701751695;59706032700;57220892898;58864809300;59706032800;55890888700) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60258352;60258352;60025153) Tj
+T*
+(   ? Corresponding: Cossu M.) Tj
+T*
+(17.) Tj
+T*
+(   ? Title: An embedded end-to-end voice assistant) Tj
+T*
+(   ? Venue: Engineering Applications of Artificial Intelligence) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 13) Tj
+T*
+(   ? DOI: 10.1016/j.engappai.2024.108998) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85199072751) Tj
+T*
+(   ? Issn: 09521976) Tj
+T*
+(   ? Volume: 136) Tj
+T*
+(   ? Authors: Lazzaroni Luca; Bellotti Francesco; Berta Riccardo) Tj
+T*
+(   ? Keywords: Automatic speech recognition | Edge computing | Embedded systems | Smart ) Tj
+T*
+(   vehicles | Transfer learning | Voice assistants) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 32, percentile 91\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 87, percentile 91\)) Tj
+T*
+(     ? Artificial Intelligence \(Q1, rank 66, percentile 86\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 112, percentile 88\)) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 50, percentile 86\)) Tj
+T*
+(     ? Artificial Intelligence \(Q1, rank 80, percentile 82\)) Tj
+T*
+(   ? Source Id: 24182) Tj
+T*
+(   ? Author Ids: 57220892898;55890888700;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Lazzaroni L.) Tj
+T*
+(18.) Tj
+T*
+(   ? Title: CBin-NN: An Inference Engine for Binarized Neural Networks) Tj
+T*
+(   ? Venue: Electronics Switzerland) Tj
+T*
+ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 20 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2807 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 15) Tj
+T*
+(   ? DOI: 10.3390/electronics13091624) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85192745343) Tj
+T*
+(   ? eISSN: 20799292) Tj
+T*
+(   ? Volume: 13) Tj
+T*
+(   ? Issue: 9) Tj
+T*
+(   ? Authors: Sakr Fouad; Berta Riccardo; Doyle Joseph; Capello Alessio; Dabbous Ali; ) Tj
+T*
+(   Lazzaroni Luca; Bellotti Francesco) Tj
+T*
+(   ? Keywords: Binary Neural Network | Cortex-M microcontrollers | edge computing | ) Tj
+T*
+(   inference engine | Internet of Things | TinyML) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Signal Processing \(Q1, rank 36, percentile 81\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 220, percentile 78\)) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 91, percentile 76\)) Tj
+T*
+(     ? Computer Networks and Communications \(Q1, rank 131, percentile 76\)) Tj
+T*
+(     ? Hardware and Architecture \(Q2, rank 62, percentile 73\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 228, percentile 76\)) Tj
+T*
+(     ? Signal Processing \(Q1, rank 44, percentile 76\)) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 93, percentile 75\)) Tj
+T*
+(     ? Computer Networks and Communications \(Q2, rank 137, percentile 73\)) Tj
+T*
+(     ? Hardware and Architecture \(Q2, rank 62, percentile 72\)) Tj
+T*
+(   ? Source Id: 21100829272) Tj
+T*
+(   ? Author Ids: ) Tj
+T*
+(   57216728100;6701751695;57894878100;57388720700;57225054424;57220892898;55890888700) Tj
+T*
+(   ? Authoraffiliationids: ) Tj
+T*
+(   60025153-60022109;60025153;60022109;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Sakr F.) Tj
+T*
+(19.) Tj
+T*
+(   ? Title: End-to-End Dataset Collection System for Sport Activities) Tj
+T*
+(   ? Venue: Electronics Switzerland) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 8) Tj
+T*
+(   ? DOI: 10.3390/electronics13071286) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85190091988) Tj
+T*
+(   ? eISSN: 20799292) Tj
+T*
+(   ? Volume: 13) Tj
+T*
+(   ? Issue: 7) Tj
+T*
+(   ? Authors: Fresta Matteo; Bellotti Francesco; Capello Alessio; Dabbous Ali; Lazzaroni ) Tj
+T*
+(   Luca; Ansovini Flavio; Berta Riccardo) Tj
+T*
+(   ? Keywords: convolutional neural networks \(CNNs\) | edge-to-cloud architecture | ) Tj
+T*
+(   embedded systems | inertial measurement units \(IMUs\) | IoT | microcontrollers | sport ) Tj
+T*
+(   activity recognition \(SAR\) | wearable devices) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Signal Processing \(Q1, rank 36, percentile 81\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 220, percentile 78\)) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 91, percentile 76\)) Tj
+T*
+ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 22 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 2850 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(     ? Computer Networks and Communications \(Q1, rank 131, percentile 76\)) Tj
+T*
+(     ? Hardware and Architecture \(Q2, rank 62, percentile 73\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 228, percentile 76\)) Tj
+T*
+(     ? Signal Processing \(Q1, rank 44, percentile 76\)) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 93, percentile 75\)) Tj
+T*
+(     ? Computer Networks and Communications \(Q2, rank 137, percentile 73\)) Tj
+T*
+(     ? Hardware and Architecture \(Q2, rank 62, percentile 72\)) Tj
+T*
+(   ? Source Id: 21100829272) Tj
+T*
+(   ? Author Ids: ) Tj
+T*
+(   58308149100;55890888700;57388720700;57225054424;57220892898;55372827800;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Fresta M.) Tj
+T*
+(20.) Tj
+T*
+(   ? Title: Development of Deep-Learning-Based Autonomous Agents for Low-Speed Maneuvering) Tj
+T*
+(    in Unity) Tj
+T*
+(   ? Venue: Journal of Intelligent and Connected Vehicles) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 9) Tj
+T*
+(   ? Doi: 10.26599/Jicv.2023.9210039) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85206460853) Tj
+T*
+(   ? eISSN: 23999802) Tj
+T*
+(   ? Volume: 7) Tj
+T*
+(   ? Issue: 3) Tj
+T*
+(   ? Pages: 229-244) Tj
+T*
+(   ? Authors: Berta Riccardo; Lazzaroni Luca; Capello Alessio; Cossu Marianna; Forneris ) Tj
+T*
+(   Luca; Pighetti Alessandro; Bellotti Francesco) Tj
+T*
+(   ? Keywords: automated driving | autonomous agents | curriculum learning | deep ) Tj
+T*
+(   reinforcement learning | modeling and simulation) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Mechanical Engineering \(Q1, rank 29, percentile 96\)) Tj
+T*
+(     ? Automotive Engineering \(Q1, rank 7, percentile 95\)) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 23, percentile 94\)) Tj
+T*
+(     ? Transportation \(Q1, rank 10, percentile 93\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Mechanical Engineering \(Q1, rank 45, percentile 93\)) Tj
+T*
+(     ? Automotive Engineering \(Q1, rank 10, percentile 92\)) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 30, percentile 92\)) Tj
+T*
+(     ? Transportation \(Q1, rank 18, percentile 88\)) Tj
+T*
+(   ? Source Id: 21101102903) Tj
+T*
+(   ? Author Ids: ) Tj
+T*
+(   6701751695;57220892898;57388720700;57388479100;58024898300;58023909200;55890888700) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Berta R.) Tj
+T*
+(21.) Tj
+T*
+(   ? Title: Developing a TinyML Image Classifier in an Hour) Tj
+T*
+(   ? Venue: IEEE Open Journal of the Industrial Electronics Society) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 10) Tj
+T*
+ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 24 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 3025 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Doi: 10.1109/Ojies.2024.3451959) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85202787351) Tj
+T*
+(   ? eISSN: 26441284) Tj
+T*
+(   ? Volume: 5) Tj
+T*
+(   ? Pages: 946-960) Tj
+T*
+(   ? Authors: Berta Riccardo; Dabbous Ali; Lazzaroni Luca; Pau Danilo Pietro; Bellotti ) Tj
+T*
+(   Francesco) Tj
+T*
+(   ? Keywords: Edge computing | imaging sensors | Jupyter notebook | microcontroller units) Tj
+T*
+(    \(MCUs\) | neural networks \(NNs\) | quantization | tiny machine learning \(TinyML\)) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 148, percentile 85\)) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q1, rank 62, percentile 84\)) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 61, percentile 84\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 32, percentile 91\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 83, percentile 91\)) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q1, rank 43, percentile 89\)) Tj
+T*
+(   ? Source Id: 21101068036) Tj
+T*
+(   ? Author Ids: 6701751695;57225054424;57220892898;6603575177;55890888700) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60023682;60025153) Tj
+T*
+(   ? Corresponding: Berta R.) Tj
+T*
+(22.) Tj
+T*
+(   ? Title: Bringing Intelligence to the Edge for Structural Health Monitoring: The Case ) Tj
+T*
+(   Study of the Z24 Bridge) Tj
+T*
+(   ? Venue: IEEE Open Journal of the Industrial Electronics Society) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 10) Tj
+T*
+(   ? Doi: 10.1109/Ojies.2024.3434341) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85199496894) Tj
+T*
+(   ? eISSN: 26441284) Tj
+T*
+(   ? Volume: 5) Tj
+T*
+(   ? Pages: 781-794) Tj
+T*
+(   ? Authors: Dabbous Ali; Berta Riccardo; Fresta Matteo; Ballout Hadi; Lazzaroni Luca; ) Tj
+T*
+(   Bellotti Francesco) Tj
+T*
+(   ? Keywords: Deep learning | feature extraction | MINImally RandOm Convolutional KErnel ) Tj
+T*
+(   Transform \(MiniRocket\) | structural health monitoring \(SHM\) | time-series | vibrational) Tj
+T*
+(    damage detection | WaveNet \(WN\) | Z24 bridge) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 148, percentile 85\)) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q1, rank 62, percentile 84\)) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 61, percentile 84\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 32, percentile 91\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 83, percentile 91\)) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q1, rank 43, percentile 89\)) Tj
+T*
+(   ? Source Id: 21101068036) Tj
+T*
+(   ? Author Ids: 57225054424;6701751695;58308149100;59232895600;57220892898;55890888700) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Dabbous A.) Tj
+T*
+(23.) Tj
+T*
+ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 26 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 2760 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Title: Automated Parking in CARLA: A Deep Reinforcement Learning-Based Approach) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 10) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-48121-5_50) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85184134805) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1110 Lnee) Tj
+T*
+(   ? Pages: 352-357) Tj
+T*
+(   ? Authors: Lazzaroni Luca; Pighetti Alessandro; Bellotti Francesco; Capello Alessio; ) Tj
+T*
+(   Cossu Marianna; Berta Riccardo) Tj
+T*
+(   ? Keywords: Automated driving functions | Automated parking | CARLA driving simulator |) Tj
+T*
+(    Deep reinforcement learning | Gymnasium | Proximal-policy optimization) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 308, percentile 23\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: 57220892898;58023909200;55890888700;57388720700;57388479100;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Lazzaroni L.) Tj
+T*
+(24.) Tj
+T*
+(   ? Title: Low-Cost, Edge-Cloud, End-to-End System Architecture for Human Activity Data ) Tj
+T*
+(   Collection) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 5) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-48121-5_64) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85184120578) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1110 Lnee) Tj
+T*
+(   ? Pages: 444-449) Tj
+T*
+(   ? Authors: Fresta Matteo; Dabbous Ali; Bellotti Francesco; Capello Alessio; Lazzaroni ) Tj
+T*
+(   Luca; Pighetti Alessandro; Berta Riccardo) Tj
+T*
+(   ? Keywords: Edge-cloud hardware/software architectures | Embedded systems | Field data ) Tj
+T*
+(   collection | Human activity recognition | Internet of things | Sensor-based ) Tj
+T*
+(   classification | Wearable sensor) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 308, percentile 23\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: ) Tj
+T*
+(   58308149100;57225054424;55890888700;57388720700;57220892898;58023909200;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Fresta M.) Tj
+T*
+ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 28 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 2637 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(25.) Tj
+T*
+(   ? Title: YoloP-Based Pre-processing for Driving Scenario Detection) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 1) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-48121-5_60) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85184100845) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1110 Lnee) Tj
+T*
+(   ? Pages: 418-423) Tj
+T*
+(   ? Authors: Cossu Marianna; Berta Riccardo; Forneris Luca; Fresta Matteo; Lazzaroni ) Tj
+T*
+(   Luca; Sauvaget Jean Louis; Bellotti Francesco) Tj
+T*
+(   ? Keywords: Automated driving | Convolutional neural network | Deep learning | Driving ) Tj
+T*
+(   scenarios | Pre-processing | Synthetic datasets | Three-dimensional convolution | Time-) Tj
+T*
+(   series | Video classification | YoloP) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 308, percentile 23\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: ) Tj
+T*
+(   57388479100;6701751695;58024898300;58308149100;57220892898;58864809300;55890888700) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153;60258352;60025153) Tj
+T*
+(   ? Corresponding: Cossu M.) Tj
+T*
+(26.) Tj
+T*
+(   ? Title: Investigating Adversarial Policy Learning for Robust Agents in Automated ) Tj
+T*
+(   Driving Highway Simulations) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 5) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-48121-5_18) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85184090716) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1110 Lnee) Tj
+T*
+(   ? Pages: 124-129) Tj
+T*
+(   ? Authors: Pighetti Alessandro; Bellotti Francesco; Oh Changjae; Lazzaroni Luca; ) Tj
+T*
+(   Forneris Luca; Fresta Matteo; Berta Riccardo) Tj
+T*
+(   ? Keywords: Adversarial policies | Automated driving | Autonomous agents | Decision ) Tj
+T*
+(   making | Highway driving | Highway-env simulator | Proximal policy optimization | ) Tj
+T*
+(   Reinforcement learning) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 308, percentile 23\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: ) Tj
+T*
+ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 30 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 2763 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   58023909200;55890888700;55391262000;57220892898;58024898300;58308149100;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60022109;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Pighetti A.) Tj
+T*
+(27.) Tj
+T*
+(   ? Title: Building a Pipeline for Efficient Production of Synthetic Datasets for ) Tj
+T*
+(   Improving RL in Automated Driving) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-48711-8_42) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85180156595) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1113 Lnee) Tj
+T*
+(   ? Pages: 351-356) Tj
+T*
+(   ? Authors: Lazzaroni Luca; Pighetti Alessandro; Bellotti Francesco; Berta Riccardo) Tj
+T*
+(   ? Keywords: automated driving | CARLA driving simulator | deep reinforcement learning |) Tj
+T*
+(    Synthetic datasets | trajectory tracking) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 308, percentile 23\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: 57220892898;58023909200;55890888700;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Lazzaroni L.) Tj
+T*
+(28.) Tj
+T*
+(   ? Title: Application of a Serious Game for Emotion Elicitation Under Socio-Economic and) Tj
+T*
+(    Trust Based Decision-Making Scenarios for Autistic Adolescents) Tj
+T*
+(   ? Venue: Lecture Notes in Computer Science Including Subseries Lecture Notes in ) Tj
+T*
+(   Artificial Intelligence and Lecture Notes in Bioinformatics) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 1) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-49065-1_17) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85180150546) Tj
+T*
+(   ? Issn: 03029743) Tj
+T*
+(   ? eISSN: 16113349) Tj
+T*
+(   ? Volume: 14475 Lncs) Tj
+T*
+(   ? Pages: 170-180) Tj
+T*
+(   ? Authors: Ahmed Fahad; Berta Riccardo; Bellotti Francesco; Floris Federica; Lazzaroni ) Tj
+T*
+(   Luca; Barresi Giacinto; Carrion Jesus Requena) Tj
+T*
+(   ? Keywords: Affective Computing | Autism | Decision-making | Depression | Emotion ) Tj
+T*
+(   Elicitation | Game Theory | Serious Games) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Theoretical Computer Science \(Q3, rank 70, percentile 48\)) Tj
+T*
+(     ? Computer Science \(all\) \(Q3, rank 129, percentile 46\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Theoretical Computer Science \(Q3, rank 77, percentile 43\)) Tj
+T*
+ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 32 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 2709 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(     ? Computer Science \(all\) \(Q3, rank 139, percentile 42\)) Tj
+T*
+(   ? Source Id: 25674) Tj
+T*
+(   ? Author Ids: ) Tj
+T*
+(   57207729073;6701751695;55890888700;57225055996;57220892898;55877110100;19639194700) Tj
+T*
+(   ? Authoraffiliationids: ) Tj
+T*
+(   60022109-60025153;60025153;60025153;100515919;60025153;60102151;60022109) Tj
+T*
+(   ? Corresponding: Ahmed F.) Tj
+T*
+(29.) Tj
+T*
+(   ? Title: Implementing Deep Reinforcement Learning \(DRL\)-based Driving Styles for Non-) Tj
+T*
+(   Player Vehicles) Tj
+T*
+(   ? Venue: International Journal of Serious Games) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 10) Tj
+T*
+(   ? DOI: 10.17083/ijsg.v10i4.638) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85178119519) Tj
+T*
+(   ? eISSN: 23848766) Tj
+T*
+(   ? Volume: 10) Tj
+T*
+(   ? Issue: 4) Tj
+T*
+(   ? Pages: 153-170) Tj
+T*
+(   ? Authors: Forneris Luca; Pighetti Alessandro; Lazzaroni Luca; Bellotti Francesco; ) Tj
+T*
+(   Capello Alessio; Cossu Marianna; Berta Riccardo) Tj
+T*
+(   ? Keywords: Autonomous Agents | Decision Making | Driving Styles | Racing Games | ) Tj
+T*
+(   Reinforcement Learning | Serious Games) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Applied Mathematics \(Q1, rank 106, percentile 84\)) Tj
+T*
+(     ? Education \(Q1, rank 322, percentile 80\)) Tj
+T*
+(     ? Computer Graphics and Computer-Aided Design \(Q2, rank 41, percentile 69\)) Tj
+T*
+(     ? Artificial Intelligence \(Q2, rank 195, percentile 60\)) Tj
+T*
+(     ? Software \(Q2, rank 198, percentile 60\)) Tj
+T*
+(     ? Human-Computer Interaction \(Q2, rank 95, percentile 50\)) Tj
+T*
+(     2023:) Tj
+T*
+(     ? Applied Mathematics \(Q1, rank 157, percentile 75\)) Tj
+T*
+(     ? Education \(Q2, rank 422, percentile 72\)) Tj
+T*
+(     ? Computer Graphics and Computer-Aided Design \(Q2, rank 41, percentile 61\)) Tj
+T*
+(     ? Artificial Intelligence \(Q3, rank 190, percentile 45\)) Tj
+T*
+(     ? Software \(Q3, rank 229, percentile 43\)) Tj
+T*
+(     ? Human-Computer Interaction \(Q3, rank 93, percentile 36\)) Tj
+T*
+(   ? Source Id: 21101044881) Tj
+T*
+(   ? Author Ids: ) Tj
+T*
+(   58024898300;58023909200;57220892898;55890888700;57388720700;57388479100;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Forneris L.) Tj
+T*
+(30.) Tj
+T*
+(   ? Title: Socio-Economic Decision Making and Emotion Elicitation with a Serious Game in ) Tj
+T*
+(   the Wild) Tj
+T*
+(   ? Venue: Applied Sciences Switzerland) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 8) Tj
+T*
+(   ? DOI: 10.3390/app13116432) Tj
+T*
+ET
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 34 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 2954 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Scopus ID: 2-s2.0-85163083962) Tj
+T*
+(   ? eISSN: 20763417) Tj
+T*
+(   ? Volume: 13) Tj
+T*
+(   ? Issue: 11) Tj
+T*
+(   ? Authors: Ahmed Fahad; Berta Riccardo; Bellotti Francesco; Lazzaroni Luca; Floris ) Tj
+T*
+(   Federica; Barresi Giacinto; Carrion Jesus Requena) Tj
+T*
+(   ? Keywords: affective computing | decision-making patterns | electronic system ) Tj
+T*
+(   applications | emotion elicitation | game theory | serious game design | serious games ) Tj
+T*
+(   | socio-economic scenarios) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Engineering \(all\) \(Q1, rank 69, percentile 80\)) Tj
+T*
+(     ? Instrumentation \(Q1, rank 38, percentile 80\)) Tj
+T*
+(     ? Fluid Flow and Transfer Processes \(Q1, rank 21, percentile 79\)) Tj
+T*
+(     ? Computer Science Applications \(Q2, rank 294, percentile 70\)) Tj
+T*
+(     ? Materials Science \(all\) \(Q2, rank 166, percentile 64\)) Tj
+T*
+(     ? Process Chemistry and Technology \(Q2, rank 34, percentile 55\)) Tj
+T*
+(     2023:) Tj
+T*
+(     ? Engineering \(all\) \(Q1, rank 62, percentile 79\)) Tj
+T*
+(     ? Instrumentation \(Q2, rank 42, percentile 70\)) Tj
+T*
+(     ? Fluid Flow and Transfer Processes \(Q2, rank 29, percentile 70\)) Tj
+T*
+(     ? Computer Science Applications \(Q2, rank 297, percentile 63\)) Tj
+T*
+(     ? Materials Science \(all\) \(Q2, rank 171, percentile 63\)) Tj
+T*
+(     ? Process Chemistry and Technology \(Q3, rank 39, percentile 47\)) Tj
+T*
+(   ? Source Id: 21100829268) Tj
+T*
+(   ? Author Ids: ) Tj
+T*
+(   57207729073;6701751695;55890888700;57220892898;57225055996;55877110100;19639194700) Tj
+T*
+(   ? Authoraffiliationids: ) Tj
+T*
+(   60022109-60025153;60025153;60025153;60025153;100515919;60102151;60022109) Tj
+T*
+(   ? Corresponding: Ahmed F.) Tj
+T*
+(31.) Tj
+T*
+(   ? Title: Supporting a .csv-based Workflow in MongoDB for Data Analysts) Tj
+T*
+(   ? Venue: IEEE International Symposium on Industrial Electronics) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 6) Tj
+T*
+(   ? Doi: 10.1109/Isie51358.2023.10228044) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85172117910) Tj
+T*
+(   ? Volume: 2023-June) Tj
+T*
+(   ? Authors: Fresta Matteo; Capello Alessio; Bellotti Francesco; Lazzaroni Luca; Cossu ) Tj
+T*
+(   Marianna; Berta Riccardo) Tj
+T*
+(   ? Keywords: .csv files | .csv format | datasets | Measurify | MongoDB | mongoimport | ) Tj
+T*
+(   user workflow) Tj
+T*
+(   ? Source Id: 85690) Tj
+T*
+(   ? Author Ids: 58308149100;57388720700;55890888700;57220892898;57388479100;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Fresta M.) Tj
+T*
+(32.) Tj
+T*
+(   ? Title: Deep Reinforcement Learning for Automated Car Parking) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+ET
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 36 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 2676 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Citations: 6) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-30333-3_16) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85161446238) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1036 Lnee) Tj
+T*
+(   ? Pages: 125-130) Tj
+T*
+(   ? Authors: Lazzaroni Luca; Bellotti Francesco; Capello Alessio; Cossu Marianna; De ) Tj
+T*
+(   Gloria Alessandro; Berta Riccardo) Tj
+T*
+(   ? Keywords: Automated driving | autonomous agents | low-speed manoeuvering | proximal ) Tj
+T*
+(   policy optimization | reinforcement learning | unity ML-Agents | valet parking) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(     2023:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 306, percentile 20\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: 57220892898;55890888700;57388720700;57388479100;7004620974;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Lazzaroni L.) Tj
+T*
+(33.) Tj
+T*
+(   ? Title: Developing a Toolchain for Synthetic Driving Scenario Datasets) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 7) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-30333-3_29) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85161434195) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1036 Lnee) Tj
+T*
+(   ? Pages: 222-228) Tj
+T*
+(   ? Authors: Cossu Marianna; Berta Riccardo; Capello Alessio; De Gloria Alessandro; ) Tj
+T*
+(   Lazzaroni Luca; Bellotti Francesco) Tj
+T*
+(   ? Keywords: automated driving | CARLA driving simulator | Driving scenarios | driving ) Tj
+T*
+(   scenarios generator | synthetic datasets) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(     2023:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 306, percentile 20\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: 57388479100;6701751695;57388720700;7004620974;57220892898;55890888700) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Cossu M.) Tj
+T*
+(34.) Tj
+T*
+(   ? Title: Investigating High-Level Decision Making for Automated Driving) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 4) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-30333-3_41) Tj
+T*
+ET
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 38 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 2497 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Scopus ID: 2-s2.0-85161373461) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1036 Lnee) Tj
+T*
+(   ? Pages: 307-311) Tj
+T*
+(   ? Authors: Capello Alessio; Forneris Luca; Pighetti Alessandro; Bellotti Francesco; ) Tj
+T*
+(   Lazzaroni Luca; Cossu Marianna; De Gloria Alessandro; Berta Riccardo) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(     2023:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 306, percentile 20\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: 57388720700;58024898300;58023909200;55890888700;57220892898;57388479100;7) Tj
+T*
+(   004620974;6701751695) Tj
+T*
+(   ? Authoraffiliationids: ) Tj
+T*
+(   60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Capello A.) Tj
+T*
+(35.) Tj
+T*
+(   ? Title: Efficient Uploading of.Csv Datasets into a Non-Relational Database Management ) Tj
+T*
+(   System) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 7) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-30333-3_2) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85161371437) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1036 Lnee) Tj
+T*
+(   ? Pages: 9-15) Tj
+T*
+(   ? Authors: Fresta Matteo; Bellotti Francesco; Capello Alessio; Cossu Marianna; ) Tj
+T*
+(   Lazzaroni Luca; De Gloria Alessandro; Berta Riccardo) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(     2023:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 306, percentile 20\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: ) Tj
+T*
+(   58308149100;55890888700;57388720700;57388479100;57220892898;7004620974;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Fresta M.) Tj
+T*
+(36.) Tj
+T*
+(   ? Title: Explaining a Deep Reinforcement Learning \(DRL\)-Based Automated Driving Agent ) Tj
+T*
+(   in Highway Simulations) Tj
+T*
+(   ? Venue: IEEE Access) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 26) Tj
+T*
+(   ? Doi: 10.1109/Access.2023.3259544) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85151517728) Tj
+T*
+ET
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 40 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 2750 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? eISSN: 21693536) Tj
+T*
+(   ? Volume: 11) Tj
+T*
+(   ? Pages: 28522-28550) Tj
+T*
+(   ? Authors: Bellotti Francesco; Lazzaroni Luca; Capello Alessio; Cossu Marianna; De ) Tj
+T*
+(   Gloria Alessandro; Berta Riccardo) Tj
+T*
+(   ? Keywords: Automated driving | deep Q learning | explainable AI | highway simulation ) Tj
+T*
+(   environment | reinforcement learning) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Engineering \(all\) \(Q1, rank 42, percentile 88\)) Tj
+T*
+(     ? Computer Science \(all\) \(Q1, rank 41, percentile 83\)) Tj
+T*
+(     ? Materials Science \(all\) \(Q1, rank 101, percentile 78\)) Tj
+T*
+(     2023:) Tj
+T*
+(     ? Engineering \(all\) \(Q1, rank 23, percentile 92\)) Tj
+T*
+(     ? Computer Science \(all\) \(Q1, rank 29, percentile 87\)) Tj
+T*
+(     ? Materials Science \(all\) \(Q1, rank 77, percentile 83\)) Tj
+T*
+(   ? Source Id: 21100374601) Tj
+T*
+(   ? Author Ids: 55890888700;57220892898;57388720700;57388479100;7004620974;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Bellotti F.) Tj
+T*
+(37.) Tj
+T*
+(   ? Title: Designing an Interpretability Analysis Framework for Deep Reinforcement ) Tj
+T*
+(   Learning \(DRL\) Agents in Highway Automated Driving Simulation) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 1) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-26066-7_37) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85149937799) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1005 Lnee) Tj
+T*
+(   ? Pages: 239-244) Tj
+T*
+(   ? Authors: Bellotti Francesco; Lazzaroni Luca; Capello Alessio; Cossu Marianna; De ) Tj
+T*
+(   Gloria Alessandro; Berta Riccardo) Tj
+T*
+(   ? Keywords: Deep reinforcement learning | Explainable artificial intelligence | ) Tj
+T*
+(   Graphical user interface | Interpretability | Machine learning) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(     2023:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 306, percentile 20\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: 55890888700;57220892898;57388720700;57388479100;7004620974;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Bellotti F.) Tj
+T*
+(38.) Tj
+T*
+(   ? Title: Assessing Versatility of a Generic End?to?End Platform for IoT Ecosystem ) Tj
+T*
+(   Applications) Tj
+T*
+(   ? Venue: Sensors) Tj
+T*
+(   ? Year: 2022) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+ET
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 42 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 2829 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Citations: 15) Tj
+T*
+(   ? DOI: 10.3390/s22030713) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85122872651) Tj
+T*
+(   ? Issn: 14248220) Tj
+T*
+(   ? Volume: 22) Tj
+T*
+(   ? Issue: 3) Tj
+T*
+(   ? Authors: Berta Riccardo; Bellotti Francesco; De Gloria Alessandro; Lazzaroni Luca) Tj
+T*
+(   ? Keywords: Development tools | Edge computing | Embedded systems and devices | ) Tj
+T*
+(   End?to?end systems | IoT) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Instrumentation \(Q1, rank 19, percentile 90\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 136, percentile 86\)) Tj
+T*
+(     ? Atomic and Molecular Physics, and Optics \(Q1, rank 36, percentile 85\)) Tj
+T*
+(     ? Biochemistry \(Q1, rank 72, percentile 84\)) Tj
+T*
+(     ? Information Systems \(Q1, rank 87, percentile 82\)) Tj
+T*
+(     ? Analytical Chemistry \(Q1, rank 30, percentile 82\)) Tj
+T*
+(     2022:) Tj
+T*
+(     ? Instrumentation \(Q1, rank 18, percentile 87\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 146, percentile 80\)) Tj
+T*
+(     ? Atomic and Molecular Physics, and Optics \(Q1, rank 47, percentile 77\)) Tj
+T*
+(     ? Analytical Chemistry \(Q1, rank 32, percentile 77\)) Tj
+T*
+(     ? Information Systems \(Q1, rank 87, percentile 77\)) Tj
+T*
+(     ? Biochemistry \(Q2, rank 151, percentile 64\)) Tj
+T*
+(   ? Source Id: 130124) Tj
+T*
+(   ? Author Ids: 6701751695;55890888700;7004620974;57220892898) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Berta R.) Tj
+T*
+(39.) Tj
+T*
+(   ? Title: A Serious Game for Using Socio-Economic and Trust Based Decision-Making ) Tj
+T*
+(   Scenarios for Elicitation of Emotional Responses) Tj
+T*
+(   ? Venue: Lecture Notes in Computer Science Including Subseries Lecture Notes in ) Tj
+T*
+(   Artificial Intelligence and Lecture Notes in Bioinformatics) Tj
+T*
+(   ? Year: 2022) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 2) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-22124-8_5) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85144422837) Tj
+T*
+(   ? Issn: 03029743) Tj
+T*
+(   ? eISSN: 16113349) Tj
+T*
+(   ? Volume: 13647 Lncs) Tj
+T*
+(   ? Pages: 43-52) Tj
+T*
+(   ? Authors: Ahmed Fahad; Carrion Jesus Requena; Bellotti Francesco; Lazzaroni Luca; ) Tj
+T*
+(   Barresi Giacinto; Berta Riccardo) Tj
+T*
+(   ? Keywords: Affective computing | Emotion elicitation | Game theory | Serious games) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Theoretical Computer Science \(Q3, rank 70, percentile 48\)) Tj
+T*
+(     ? Computer Science \(all\) \(Q3, rank 129, percentile 46\)) Tj
+T*
+(     2022:) Tj
+T*
+(     ? Computer Science \(all\) \(Q3, rank 126, percentile 46\)) Tj
+T*
+(     ? Theoretical Computer Science \(Q3, rank 84, percentile 34\)) Tj
+T*
+(   ? Source Id: 25674) Tj
+T*
+ET
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 44 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 2770 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Author Ids: 57207729073;19639194700;55890888700;57220892898;55877110100;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60022109-60025153;60022109;60025153;60025153;60102151;60025153) Tj
+T*
+(   ? Corresponding: Ahmed F.) Tj
+T*
+(40.) Tj
+T*
+(   ? Title: High-Level Decision-Making Non-player Vehicles) Tj
+T*
+(   ? Venue: Lecture Notes in Computer Science Including Subseries Lecture Notes in ) Tj
+T*
+(   Artificial Intelligence and Lecture Notes in Bioinformatics) Tj
+T*
+(   ? Year: 2022) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 3) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-22124-8_22) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85144372798) Tj
+T*
+(   ? Issn: 03029743) Tj
+T*
+(   ? eISSN: 16113349) Tj
+T*
+(   ? Volume: 13647 Lncs) Tj
+T*
+(   ? Pages: 223-233) Tj
+T*
+(   ? Authors: Pighetti Alessandro; Forneris Luca; Lazzaroni Luca; Bellotti Francesco; ) Tj
+T*
+(   Capello Alessio; Cossu Marianna; De Gloria Alessandro; Berta Riccardo) Tj
+T*
+(   ? Keywords: ADAS | Automotive driving | Autonomous agents | Driving games | PPO | ) Tj
+T*
+(   Racing games | Reinforcement learning | Serious games) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Theoretical Computer Science \(Q3, rank 70, percentile 48\)) Tj
+T*
+(     ? Computer Science \(all\) \(Q3, rank 129, percentile 46\)) Tj
+T*
+(     2022:) Tj
+T*
+(     ? Computer Science \(all\) \(Q3, rank 126, percentile 46\)) Tj
+T*
+(     ? Theoretical Computer Science \(Q3, rank 84, percentile 34\)) Tj
+T*
+(   ? Source Id: 25674) Tj
+T*
+(   ? Author Ids: 58023909200;58024898300;57220892898;55890888700;57388720700;57388479100;7) Tj
+T*
+(   004620974;6701751695) Tj
+T*
+(   ? Authoraffiliationids: ) Tj
+T*
+(   60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Pighetti A.) Tj
+T*
+(41.) Tj
+T*
+(   ? Title: Developing a Synthetic Dataset for Driving Scenarios) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2022) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 6) Tj
+T*
+(   ? Doi: 10.1007/978-3-030-95498-7_43) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85128751579) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 866 Lnee) Tj
+T*
+(   ? Pages: 310-316) Tj
+T*
+(   ? Authors: Motta Jacopo; Bellotti Francesco; Berta Riccardo; Capello Alessio; Cossu ) Tj
+T*
+(   Marianna; De Gloria Alessandro; Lazzaroni Luca; Bonora Stefano) Tj
+T*
+(   ? Keywords: Automated driving | CARLA driving simulator | Deep learning | Driving ) Tj
+T*
+(   scenarios | Synthetic datasets | Video classification) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+ET
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 46 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 2831 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(     2022:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 295, percentile 17\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: 58708511900;55890888700;6701751695;57388720700;57388479100;7004620974;572) Tj
+T*
+(   20892898;57612714400) Tj
+T*
+(   ? Authoraffiliationids: ) Tj
+T*
+(   60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Motta J.) Tj
+T*
+(42.) Tj
+T*
+(   ? Title: Classifying Simulated Driving Scenarios from Automated Cars) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2022) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 2) Tj
+T*
+(   ? Doi: 10.1007/978-3-030-95498-7_32) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85128735875) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 866 Lnee) Tj
+T*
+(   ? Pages: 229-235) Tj
+T*
+(   ? Authors: Cossu Marianna; Villon Jorge Leonardo Quimi; Bellotti Francesco; Capello ) Tj
+T*
+(   Alessio; De Gloria Alessandro; Lazzaroni Luca; Berta Riccardo) Tj
+T*
+(   ? Keywords: Automated driving | CarLA driving simulator | Convolutional neural network ) Tj
+T*
+(   | Deep learning | Spatio-temporal convolution | Three-dimensional convolution | Time-) Tj
+T*
+(   series | Video classification) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(     2022:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 295, percentile 17\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: ) Tj
+T*
+(   57388479100;57612049500;55890888700;57388720700;7004620974;57220892898;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Cossu M.) Tj
+T*
+(43.) Tj
+T*
+(   ? Title: Adapting Autonomous Agents for Automotive Driving Games) Tj
+T*
+(   ? Venue: Lecture Notes in Computer Science Including Subseries Lecture Notes in ) Tj
+T*
+(   Artificial Intelligence and Lecture Notes in Bioinformatics) Tj
+T*
+(   ? Year: 2021) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 6) Tj
+T*
+(   ? Doi: 10.1007/978-3-030-92182-8_10) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85121903622) Tj
+T*
+(   ? Issn: 03029743) Tj
+T*
+(   ? eISSN: 16113349) Tj
+T*
+(   ? Volume: 13134 Lncs) Tj
+T*
+(   ? Pages: 101-110) Tj
+T*
+(   ? Authors: Campodonico Gabriele; Bellotti Francesco; Berta Riccardo; Capello Alessio; ) Tj
+T*
+(   Cossu Marianna; De Gloria Alessandro; Lazzaroni Luca; Taccioli Tommaso; Davio Federico) Tj
+T*
+(   ? Keywords: Automotive driving | Autonomous agents | Deep Q learning | Metrics | ) Tj
+T*
+(   Reinforcement learning | Rewards and penalties | Serious games | Stable baselines) Tj
+T*
+ET
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 48 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 2601 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Theoretical Computer Science \(Q3, rank 70, percentile 48\)) Tj
+T*
+(     ? Computer Science \(all\) \(Q3, rank 129, percentile 46\)) Tj
+T*
+(     2021:) Tj
+T*
+(     ? Computer Science \(all\) \(Q2, rank 114, percentile 50\)) Tj
+T*
+(     ? Theoretical Computer Science \(Q3, rank 78, percentile 36\)) Tj
+T*
+(   ? Source Id: 25674) Tj
+T*
+(   ? Author Ids: 57388399300;55890888700;6701751695;57388720700;57388479100;7004620974;572) Tj
+T*
+(   20892898;57388797900;57388317900) Tj
+T*
+(   ? Authoraffiliationids: ) Tj
+T*
+(   60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Campodonico G.) Tj
+T*
+(44.) Tj
+T*
+(   ? Title: Edgine, A Runtime System for IoT Edge Applications) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2021) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 2) Tj
+T*
+(   ? Doi: 10.1007/978-3-030-66729-0_31) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85101757952) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 738) Tj
+T*
+(   ? Pages: 261-266) Tj
+T*
+(   ? Authors: Berta Riccardo; Mazzara Andrea; Bellotti Francesco; De Gloria Alessandro; ) Tj
+T*
+(   Lazzaroni Luca) Tj
+T*
+(   ? Keywords: Arduino | Development tools | Edge computing | IoT | Platform-independence) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(     2021:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 280, percentile 17\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: 6701751695;57220898093;55890888700;7004620974;57220892898) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Berta R.) Tj
+T*
+(45.) Tj
+T*
+(   ? Title: Employing an IoT Framework as a Generic Serious Games Analytics Engine) Tj
+T*
+(   ? Venue: Lecture Notes in Computer Science Including Subseries Lecture Notes in ) Tj
+T*
+(   Artificial Intelligence and Lecture Notes in Bioinformatics) Tj
+T*
+(   ? Year: 2020) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 10) Tj
+T*
+(   ? Doi: 10.1007/978-3-030-63464-3_8) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85097806513) Tj
+T*
+(   ? Issn: 03029743) Tj
+T*
+(   ? eISSN: 16113349) Tj
+T*
+(   ? Volume: 12517 Lncs) Tj
+T*
+(   ? Pages: 79-88) Tj
+T*
+(   ? Authors: Lazzaroni Luca; Mazzara Andrea; Bellotti Francesco; De Gloria Alessandro; ) Tj
+T*
+(   Berta Riccardo) Tj
+T*
+ET
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 50 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 789 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Keywords: Game development | Game engine plug-in | Internet of Things | Reality-) Tj
+T*
+(   enhanced games | System architecture | Virtual sensors) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Theoretical Computer Science \(Q3, rank 70, percentile 48\)) Tj
+T*
+(     ? Computer Science \(all\) \(Q3, rank 129, percentile 46\)) Tj
+T*
+(     2020:) Tj
+T*
+(     ? Computer Science \(all\) \(Q2, rank 113, percentile 50\)) Tj
+T*
+(     ? Theoretical Computer Science \(Q4, rank 91, percentile 24\)) Tj
+T*
+(   ? Source Id: 25674) Tj
+T*
+(   ? Author Ids: 57220892898;57220898093;55890888700;7004620974;6701751695) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Lazzaroni L.) Tj
+T*
+() Tj
+T*
+ET
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 52 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+xref
+0 54
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000288 00000 n 
+0000000358 00000 n 
+0000002630 00000 n 
+0000002756 00000 n 
+0000005584 00000 n 
+0000005710 00000 n 
+0000008601 00000 n 
+0000008727 00000 n 
+0000011505 00000 n 
+0000011633 00000 n 
+0000014252 00000 n 
+0000014380 00000 n 
+0000017033 00000 n 
+0000017161 00000 n 
+0000019912 00000 n 
+0000020040 00000 n 
+0000022764 00000 n 
+0000022892 00000 n 
+0000025645 00000 n 
+0000025773 00000 n 
+0000028633 00000 n 
+0000028761 00000 n 
+0000031664 00000 n 
+0000031792 00000 n 
+0000034870 00000 n 
+0000034998 00000 n 
+0000037811 00000 n 
+0000037939 00000 n 
+0000040629 00000 n 
+0000040757 00000 n 
+0000043573 00000 n 
+0000043701 00000 n 
+0000046463 00000 n 
+0000046591 00000 n 
+0000049598 00000 n 
+0000049726 00000 n 
+0000052455 00000 n 
+0000052583 00000 n 
+0000055133 00000 n 
+0000055261 00000 n 
+0000058064 00000 n 
+0000058192 00000 n 
+0000061074 00000 n 
+0000061202 00000 n 
+0000064025 00000 n 
+0000064153 00000 n 
+0000067037 00000 n 
+0000067165 00000 n 
+0000069819 00000 n 
+0000069947 00000 n 
+0000070788 00000 n 
+trailer
+<< /Size 54 /Root 1 0 R >>
+startxref
+70916
+%%EOF

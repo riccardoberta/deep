@@ -1,0 +1,4660 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R 77 0 R 79 0 R] /Count 38 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 2306 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(AIELLO ORAZIO) Tj
+T*
+() Tj
+T*
+(Overview) Tj
+T*
+(? Unit: ICT) Tj
+T*
+(? Role: Ricercatore) Tj
+T*
+(? Grade: Ricercatore t.d. art. 24 c. 3 lett. B Legge 240/10 \(t.pieno\) + 20%) Tj
+T*
+(? SSD: IINF-01/A \(Elettronica\)) Tj
+T*
+(? Scopus ID: 57212143527) Tj
+T*
+(? Unige Id: 717921) Tj
+T*
+(? Retrieved at: 2025-11-14T15:16:16.284201) Tj
+T*
+() Tj
+T*
+(Contact) Tj
+T*
+(? Email: orazio.aiello@unige.it) Tj
+T*
+(? Page: https://rubrica.unige.it/personale/UkJAUlho) Tj
+T*
+(? Locations: Opera Pia - padiglione D \(ED161450401\), 3¬∞ piano, US161450401.III.025) Tj
+T*
+() Tj
+T*
+(Career) Tj
+T*
+(? Rd, 2021-12-01 ? 2026-02-28) Tj
+T*
+() Tj
+T*
+(Teaching) Tj
+T*
+(2025) Tj
+T*
+(? Vlsi Circuit Design \(114749\), Lm-29 - Electronic Engineering) Tj
+T*
+(? Analog Electronics \(114746\), Lm-29 - Electronic Engineering) Tj
+T*
+(? Analog Electronics \(114746\), Lm-29 - Electronic Engineering) Tj
+T*
+() Tj
+T*
+(2024) Tj
+T*
+(? Vlsi Circuit Design \(114749\), Lm-29 - Electronic Engineering) Tj
+T*
+(? Analog Electronics \(114746\), Lm-29 - Electronic Engineering) Tj
+T*
+(? Analog Electronics \(114746\), Lm-29 - Electronic Engineering) Tj
+T*
+() Tj
+T*
+(2023) Tj
+T*
+(? Microelectronics \(106786\), Lm-29 - Ingegneria Elettronica) Tj
+T*
+(? Integrated Electronics \(106772\), Lm-29 - Ingegneria Elettronica) Tj
+T*
+(? Elementi Di Elettronica \(107827\), L-P03 - Tecnologie Industriali) Tj
+T*
+() Tj
+T*
+(2022) Tj
+T*
+(? Integrated Electronics \(106772\), Lm-29 - Ingegneria Elettronica) Tj
+T*
+(? Distributed Electronic Systems And Technologies For Environmental Monitoring \(94631\), ) Tj
+T*
+(Lm-26 - Engineering For Natural Risk Management) Tj
+T*
+() Tj
+T*
+(2021) Tj
+T*
+(? Distributed Electronic Systems And Technologies For Environmental Monitoring \(94631\), ) Tj
+T*
+(Lm-26 - Engineering For Natural Risk Management) Tj
+T*
+() Tj
+T*
+(Scopus Metrics) Tj
+T*
+(? absolute; Docs: 86; Journals: 34; Conferences: 49; Citations: 956; H-index: 20) Tj
+T*
+(? 15 years \(2010-2025\); Docs: 84; Journals: 34; Conferences: 47; Citations: 952; H-index: ) Tj
+T*
+(20) Tj
+T*
+(? 10 years \(2015-2025\); Docs: 77; Journals: 31; Conferences: 43; Citations: 873; H-index: ) Tj
+T*
+(19) Tj
+T*
+(? 05 years \(2020-2025\); Docs: 59; Journals: 25; Conferences: 32; Citations: 505; H-index: ) Tj
+T*
+(10) Tj
+T*
+() Tj
+T*
+(Scopus Products) Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 2427 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(1.) Tj
+T*
+(   ? Title: On Standard Cell-Based Design for Dynamic Voltage Comparators and Relaxation ) Tj
+T*
+(   Oscillators) Tj
+T*
+(   ? Venue: Chips) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? DOI: 10.3390/chips4030031) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105017076146) Tj
+T*
+(   ? eISSN: 26740729) Tj
+T*
+(   ? Volume: 4) Tj
+T*
+(   ? Issue: 3) Tj
+T*
+(   ? Authors: Aiello Orazio) Tj
+T*
+(   ? Keywords: dynamic leakage suppression logic | rail-to-rail dynamic voltage ) Tj
+T*
+(   comparators | relaxation oscillators | standard cell-based design | supply voltage ) Tj
+T*
+(   scalable IC design | ultra-low-power circuits | utra-low-voltage) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Engineering \(miscellaneous\) \(Q3, rank 140, percentile 49\)) Tj
+T*
+(     ? Computer Science \(miscellaneous\) \(Q3, rank 104, percentile 40\)) Tj
+T*
+(     ? Materials Science \(miscellaneous\) \(Q3, rank 151, percentile 38\)) Tj
+T*
+(   ? Source Id: 21101317176) Tj
+T*
+(   ? Author Ids: 57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60025153) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(2.) Tj
+T*
+(   ? Title: A reduced effort design, low power, extremely compact, CMOS ADC based on ) Tj
+T*
+(   voltage-to-time converter) Tj
+T*
+(   ? Venue: AEU International Journal of Electronics and Communications) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 3) Tj
+T*
+(   ? DOI: 10.1016/j.aeue.2025.155790) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105001875819) Tj
+T*
+(   ? Issn: 14348411) Tj
+T*
+(   ? eISSN: 16180399) Tj
+T*
+(   ? Volume: 196) Tj
+T*
+(   ? Authors: Di Patrizio Stanchieri Guido; Aiello Orazio; De Marcellis Andrea) Tj
+T*
+(   ? Keywords: High-synthesizable | Low-voltage low-power CMOS ADC | Voltage-to-Time ) Tj
+T*
+(   converter) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 222, percentile 77\)) Tj
+T*
+(   ? Source Id: 17683) Tj
+T*
+(   ? Author Ids: 57191657351;57212143527;23975554000) Tj
+T*
+(   ? Authoraffiliationids: 60018783;60025153;60018783) Tj
+T*
+(   ? Corresponding: Di Patrizio Stanchieri G.) Tj
+T*
+(3.) Tj
+T*
+(   ? Title: A 48 nW, Universal, Multi-Mode Gm-C Filter with a Frequency Range Tunability) Tj
+T*
+(   ? Venue: Electronics Switzerland) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 6 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 2557 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? DOI: 10.3390/electronics14071334) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105002307694) Tj
+T*
+(   ? eISSN: 20799292) Tj
+T*
+(   ? Volume: 14) Tj
+T*
+(   ? Issue: 7) Tj
+T*
+(   ? Authors: Namdari Ali; Aiello Orazio; Dolatshahi Mehdi; Caviglia Daniele D.) Tj
+T*
+(   ? Keywords: CMOS | Gm-C | low power | low voltage | tunability | universal filter) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Signal Processing \(Q1, rank 36, percentile 81\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 220, percentile 78\)) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 91, percentile 76\)) Tj
+T*
+(     ? Computer Networks and Communications \(Q1, rank 131, percentile 76\)) Tj
+T*
+(     ? Hardware and Architecture \(Q2, rank 62, percentile 73\)) Tj
+T*
+(   ? Source Id: 21100829272) Tj
+T*
+(   ? Author Ids: 57217935624;57212143527;53063559900;7004012654) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60026904;60025153) Tj
+T*
+(   ? Corresponding: Namdari A.) Tj
+T*
+(4.) Tj
+T*
+(   ? Title: Low Power Design of Approximate Adders Based on Inexact Full Adder) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-71518-1_5) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85215969233) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+(   ? Volume: 1263 Lnee) Tj
+T*
+(   ? Pages: 35-40) Tj
+T*
+(   ? Authors: Ibrahim Ali; Bzeih Fatima; Srour Oussama; Hijazi Zeinab; Aiello Orazio) Tj
+T*
+(   ? Keywords: Approximate Computing | Inexact Adders | Logic Gate Architectures | Low ) Tj
+T*
+(   Power Design | VLSI circuits) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: 57199654883;59527204300;59527428100;57188768487;57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60112476;60112476;60112476;60112476;60025153) Tj
+T*
+(   ? Corresponding: Ibrahim A.) Tj
+T*
+(5.) Tj
+T*
+(   ? Title: 0.7 V, 215 nW Tunable Universal Gm-C Filter) Tj
+T*
+(   ? Venue: Lecture Notes in Electrical Engineering) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Book Series) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 2) Tj
+T*
+(   ? Doi: 10.1007/978-3-031-71518-1_6) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85215957715) Tj
+T*
+(   ? Issn: 18761100) Tj
+T*
+(   ? eISSN: 18761119) Tj
+T*
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 8 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 2761 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Volume: 1263 Lnee) Tj
+T*
+(   ? Pages: 41-47) Tj
+T*
+(   ? Authors: Namdari Ali; Aiello Orazio; Caviglia Daniele D.) Tj
+T*
+(   ? Keywords: CMOS | Gm-C | Inverter | Low-power | Tunablity | Universal filter) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Industrial and Manufacturing Engineering \(Q4, rank 330, percentile 19\)) Tj
+T*
+(   ? Source Id: 19700186822) Tj
+T*
+(   ? Author Ids: 57217935624;57212143527;7004012654) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Namdari A.) Tj
+T*
+(6.) Tj
+T*
+(   ? Title: A Fully Integrated CMOS 0.3 V 335 nW PWM-Based Light-to-Digital Converter for ) Tj
+T*
+(   Optoelectronic Sensing Systems in Biomedical Applications) Tj
+T*
+(   ? Venue: IEEE Sensors Letters) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 5) Tj
+T*
+(   ? Doi: 10.1109/Lsens.2025.3527759) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85214885457) Tj
+T*
+(   ? eISSN: 24751472) Tj
+T*
+(   ? Volume: 9) Tj
+T*
+(   ? Issue: 2) Tj
+T*
+(   ? Authors: Stanchieri G. Di Patrizio; De Marcellis A.; Faccio M.; Palange E.; Aiello O.) Tj
+T*
+(   ? Keywords: Electromagnetic wave sensors | integrated photodiode | light-to-digital ) Tj
+T*
+(   converter \(LDC\) | low-power | low-voltage | optoelectronic sensing system) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Instrumentation \(Q2, rank 70, percentile 63\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 397, percentile 60\)) Tj
+T*
+(   ? Source Id: 21100976671) Tj
+T*
+(   ? Author Ids: 57191657351;23975554000;7003775870;6701392461;57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60018783;60018783;60018783;60018783;60025153) Tj
+T*
+(   ? Corresponding: Stanchieri G.D.P.) Tj
+T*
+(7.) Tj
+T*
+(   ? Title: Sub-10nW, 73dB Gain, Inverter-Based Digital OTA with C-Muller Input Stage and ) Tj
+T*
+(   Novel CMFB for Enhanced Performance in IoT Applications) Tj
+T*
+(   ? Venue: 2025 23rd IEEE Interregional Newcas Conference Newcas 2025) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? DOI: 10.1109/NewCAS64648.2025.11107004) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105015575577) Tj
+T*
+(   ? Pages: 573-577) Tj
+T*
+(   ? Authors: Sala Riccardo Della; Shokri Reza; Aiello Orazio; Caviglia Daniele D.; Scotti) Tj
+T*
+(    Giuseppe) Tj
+T*
+(   ? Keywords: Internet of Things | inverter-based | OTA | ultra-low voltage | ultralow ) Tj
+T*
+(   power) Tj
+T*
+(   ? Source Id: 21101328533) Tj
+T*
+(   ? Author Ids: 57462337300;57224794408;57212143527;7004012654;35491669000) Tj
+T*
+(   ? Authoraffiliationids: 60032350;60025153;60025153;60025153;60032350) Tj
+T*
+(   ? Corresponding: Sala R.D.) Tj
+T*
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 10 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 2886 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(8.) Tj
+T*
+(   ? Title: A 200 FOML, 0.3 V, and 2nW Fully Differential Bulk-Driven OTA Exploiting ) Tj
+T*
+(   Current Mirrors) Tj
+T*
+(   ? Venue: 2025 23rd IEEE Interregional Newcas Conference Newcas 2025) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? DOI: 10.1109/NewCAS64648.2025.11107128) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105015512214) Tj
+T*
+(   ? Pages: 366-370) Tj
+T*
+(   ? Authors: Sala Riccardo Della; Ul Amin Noor; Aiello Orazio; Sidek Roslina Mohd; ) Tj
+T*
+(   Rokhani Fakhrul Zaman; Tommasino Pasquale) Tj
+T*
+(   ? Keywords: biomedical | body-driven | fully differential | Internet-of-things | OTA | ) Tj
+T*
+(   ultra-low power | ultra-low voltage) Tj
+T*
+(   ? Source Id: 21101328533) Tj
+T*
+(   ? Author Ids: 57462337300;60090688500;57212143527;35801306500;24483802400;6701510672) Tj
+T*
+(   ? Authoraffiliationids: 60032350;60025153;60025153;60025577;60025577;60032350) Tj
+T*
+(   ? Corresponding: Sala R.D.) Tj
+T*
+(9.) Tj
+T*
+(   ? Title: Exploring 0.3V Inverter Based OTA Designs with NOR3-Based Common Mode Feedback) Tj
+T*
+(   ? Venue: 2025 23rd IEEE Interregional Newcas Conference Newcas 2025) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? DOI: 10.1109/NewCAS64648.2025.11107086) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105015483240) Tj
+T*
+(   ? Pages: 435-439) Tj
+T*
+(   ? Authors: Sala Riccardo Della; Aiello Orazio; Nguyen Ngo Doanh; Bui Duy Hieu; Tran ) Tj
+T*
+(   Xuan Tu; Scotti Giuseppe) Tj
+T*
+(   ? Keywords: Component | Internet of Things | inverter-based | OTA | Ultra Low Power | ) Tj
+T*
+(   ultra-low voltage) Tj
+T*
+(   ? Source Id: 21101328533) Tj
+T*
+(   ? Author Ids: 57462337300;57212143527;57215284775;56024941700;16308138900;35491669000) Tj
+T*
+(   ? Authoraffiliationids: 60032350;60025153;60025153-60071364;60071364;60071364;60032350) Tj
+T*
+(   ? Corresponding: Sala R.D.) Tj
+T*
+(10.) Tj
+T*
+(   ? Title: A 138.39 FoMS, 2.8 nW, 65dB, Digital-Based OTA for Bio-Signal Processing ) Tj
+T*
+(   Applications) Tj
+T*
+(   ? Venue: 2025 23rd IEEE Interregional Newcas Conference Newcas 2025) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? DOI: 10.1109/NewCAS64648.2025.11106971) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105015439783) Tj
+T*
+(   ? Pages: 361-365) Tj
+T*
+(   ? Authors: Sala Riccardo Della; Namdari Ali; Aiello Orazio; Caviglia Daniele D.; ) Tj
+T*
+(   Tommasino Pasquale) Tj
+T*
+(   ? Keywords: High-Gain | Inverter | OTA | Subthreshold | Ultra-low power) Tj
+T*
+(   ? Source Id: 21101328533) Tj
+T*
+(   ? Author Ids: 57462337300;57217935624;57212143527;7004012654;6701510672) Tj
+T*
+(   ? Authoraffiliationids: 60032350;60025153;60025153;60025153;60032350) Tj
+T*
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 12 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 2631 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Corresponding: Sala R.D.) Tj
+T*
+(11.) Tj
+T*
+(   ? Title: VDD -Scalable and Reference-Less Body-Biased Inverter-Based OTA Exploiting ) Tj
+T*
+(   Improved Composite Transistors for ULV/ULP Applications) Tj
+T*
+(   ? Venue: 2025 23rd IEEE Interregional Newcas Conference Newcas 2025) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? DOI: 10.1109/NewCAS64648.2025.11107142) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105015379690) Tj
+T*
+(   ? Pages: 346-350) Tj
+T*
+(   ? Authors: Privitera Marco; Radovalho Luis Henrique; Aiello Orazio; Grasso Alfio Dario;) Tj
+T*
+(    Alioto Massimo) Tj
+T*
+(   ? Keywords: inverter-based amplifiers | ultra-low power | ultra-low-voltage) Tj
+T*
+(   ? Source Id: 21101328533) Tj
+T*
+(   ? Author Ids: 57224407950;60090278600;57212143527;12446187600;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60010146;60009778;60025153;60010146;60017161) Tj
+T*
+(   ? Corresponding: Privitera M.) Tj
+T*
+(12.) Tj
+T*
+(   ? Title: Multipolar Stimulator for Deep Brain Stimulation With Suppression of ) Tj
+T*
+(   Stimulation-Induced Common-Mode Artifacts) Tj
+T*
+(   ? Venue: IEEE Access) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1109/Access.2025.3602824) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105014777590) Tj
+T*
+(   ? eISSN: 21693536) Tj
+T*
+(   ? Volume: 13) Tj
+T*
+(   ? Pages: 150458-150472) Tj
+T*
+(   ? Authors: Shokri Reza; Koolivand Yarallah; Shoaei Omid; Caviglia Daniele D.; Aiello ) Tj
+T*
+(   Orazio) Tj
+T*
+(   ? Keywords: Current mode stimulation | electrical stimulation | implantable biomedical ) Tj
+T*
+(   devices | multipolar stimulation | recording systems | simultaneous stimulation) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Engineering \(all\) \(Q1, rank 42, percentile 88\)) Tj
+T*
+(     ? Computer Science \(all\) \(Q1, rank 41, percentile 83\)) Tj
+T*
+(     ? Materials Science \(all\) \(Q1, rank 101, percentile 78\)) Tj
+T*
+(   ? Source Id: 21100374601) Tj
+T*
+(   ? Author Ids: 57224794408;8645344400;7004130929;7004012654;57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60022927-60025153;60016248;60022927;60025153;60025153) Tj
+T*
+(   ? Corresponding: Shokri R.) Tj
+T*
+(13.) Tj
+T*
+(   ? Title: A 180-nm CMOS Integrated Capacitance-to-Time Converter for Capacitive Sensing ) Tj
+T*
+(   Applications) Tj
+T*
+(   ? Venue: IEEE Sensors Journal) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1109/Jsen.2025.3597027) Tj
+T*
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 14 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 2597 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Scopus ID: 2-s2.0-105013339274) Tj
+T*
+(   ? Issn: 1530437x) Tj
+T*
+(   ? eISSN: 15581748) Tj
+T*
+(   ? Volume: 25) Tj
+T*
+(   ? Issue: 19) Tj
+T*
+(   ? Pages: 36395-36406) Tj
+T*
+(   ? Authors: Darwish Hala; Reig C√†ndid; Leger Gildas; Di Patrizio Stanchieri Guido; ) Tj
+T*
+(   Aiello Orazio; De Marcellis Andrea) Tj
+T*
+(   ? Keywords: Capacitance-to-time converter | CMOS integrated circuit | differential ) Tj
+T*
+(   capacitance sensors) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Instrumentation \(Q1, rank 27, percentile 85\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 175, percentile 82\)) Tj
+T*
+(   ? Source Id: 15047) Tj
+T*
+(   ? Author Ids: 58594565100;7003954653;7003334321;57191657351;57212143527;23975554000) Tj
+T*
+(   ? Authoraffiliationids: 60002644;60002644;60023841;60018783;60025153;60018783) Tj
+T*
+(   ? Corresponding: Darwish H.) Tj
+T*
+(14.) Tj
+T*
+(   ? Title: Live Demonstration: Sea Wave Energy Harvester for Environmental Monitoring ) Tj
+T*
+(   Buoys) Tj
+T*
+(   ? Venue: Proceedings IEEE International Symposium on Circuits and Systems) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1109/Iscas56072.2025.11044215) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105010582076) Tj
+T*
+(   ? Issn: 02714310) Tj
+T*
+(   ? Authors: Nicora Filippo; Aiello Orazio; Boragno Corrado; Caviglia Daniele D.; Lo ) Tj
+T*
+(   Schiavo Alessandro) Tj
+T*
+(   ? Keywords: Energy Harvester | Wave Energy Converter) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q3, rank 652, percentile 34\)) Tj
+T*
+(   ? Source Id: 56190) Tj
+T*
+(   ? Author Ids: 59302586800;57212143527;56214231400;7004012654;59227633100) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60025153;60026777) Tj
+T*
+(   ? Corresponding: Nicora F.) Tj
+T*
+(15.) Tj
+T*
+(   ? Title: Live Demonstration: Energy Autonomous Wireless Sensor Node for Oxygen ) Tj
+T*
+(   Monitoring with LoRa Connectivity) Tj
+T*
+(   ? Venue: Proceedings IEEE International Symposium on Circuits and Systems) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1109/Iscas56072.2025.11043568) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105010581705) Tj
+T*
+(   ? Issn: 02714310) Tj
+T*
+(   ? Authors: La Rosa Roberto; Aiello Orazio) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q3, rank 652, percentile 34\)) Tj
+T*
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 16 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 2560 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Source Id: 56190) Tj
+T*
+(   ? Author Ids: 55516276800;57212143527) Tj
+T*
+(   ? Authoraffiliationids: 108144405;60025153) Tj
+T*
+(   ? Corresponding: La Rosa R.) Tj
+T*
+(16.) Tj
+T*
+(   ? Title: An Inverter-Based Difference Differential Amplifier with Active Frequency ) Tj
+T*
+(   Compensation) Tj
+T*
+(   ? Venue: 2025 IEEE 16th Latin American Symposium on Circuits and Systems Lascas 2025 ) Tj
+T*
+(   Proceedings) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1109/Lascas64004.2025.10966275) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105004560858) Tj
+T*
+(   ? Authors: Rodovalho Luis Henrique; Aiello Orazio) Tj
+T*
+(   ? Keywords: CMOS inverter | difference differential amplifier | inverter-based ) Tj
+T*
+(   amplifier) Tj
+T*
+(   ? Source Id: 21101293113) Tj
+T*
+(   ? Author Ids: 57190740930;57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60017609;60025153) Tj
+T*
+(   ? Corresponding: Rodovalho L.H.) Tj
+T*
+(17.) Tj
+T*
+(   ? Title: A Novel 0.62 nW Inverter Based Digital-OTA) Tj
+T*
+(   ? Venue: 2025 IEEE 16th Latin American Symposium on Circuits and Systems Lascas 2025 ) Tj
+T*
+(   Proceedings) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1109/Lascas64004.2025.10966369) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105004558819) Tj
+T*
+(   ? Authors: Sala Riccardo Della; Aiello Orazio; Scotti Giuseppe) Tj
+T*
+(   ? Keywords: Internet of Things | inverter-based | OTA | ultra-low power | ultra-low ) Tj
+T*
+(   voltage) Tj
+T*
+(   ? Source Id: 21101293113) Tj
+T*
+(   ? Author Ids: 57462337300;57212143527;35491669000) Tj
+T*
+(   ? Authoraffiliationids: 60032350;60025153;60032350) Tj
+T*
+(   ? Corresponding: Sala R.D.) Tj
+T*
+(18.) Tj
+T*
+(   ? Title: A 0.3V, 2.34nW and 56db Gain Bulk-Driven OTA Exploiting Cascode Output Stages ) Tj
+T*
+(   and Enhanced Current Mirrors) Tj
+T*
+(   ? Venue: 2025 IEEE 16th Latin American Symposium on Circuits and Systems Lascas 2025 ) Tj
+T*
+(   Proceedings) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1109/Lascas64004.2025.10966355) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105004557500) Tj
+T*
+(   ? Authors: Sala Riccardo Della; Aiello Orazio; Scotti Giuseppe) Tj
+T*
+(   ? Keywords: body-driven | Internet of Things | OTA | ultra-low power | ultra-low ) Tj
+T*
+(   voltage) Tj
+T*
+(   ? Source Id: 21101293113) Tj
+T*
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 18 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 2800 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Author Ids: 57462337300;57212143527;35491669000) Tj
+T*
+(   ? Authoraffiliationids: 60032350;60025153;60032350) Tj
+T*
+(   ? Corresponding: Sala R.D.) Tj
+T*
+(19.) Tj
+T*
+(   ? Title: Sustainable, Battery-Free Wireless Sensor Node with LoRaWAN Connectivity in ) Tj
+T*
+(   ABP and OTAA Activation Modes) Tj
+T*
+(   ? Venue: 2025 IEEE 16th Latin American Symposium on Circuits and Systems Lascas 2025 ) Tj
+T*
+(   Proceedings) Tj
+T*
+(   ? Year: 2025) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1109/Lascas64004.2025.10966344) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105004551157) Tj
+T*
+(   ? Authors: Rosa Roberto La; Firpo Pietro; Aiello Orazio) Tj
+T*
+(   ? Keywords: ABP \(Activation By Personalization\) | Autonomous Systems | Energy ) Tj
+T*
+(   Harvesting | Environmental Monitoring | IoT \(Internet of Things\) | LoRaWAN | OTAA ) Tj
+T*
+(   \(Over-The-Air Activation\) | Sustainable Energy | Wireless Sensor Node) Tj
+T*
+(   ? Source Id: 21101293113) Tj
+T*
+(   ? Author Ids: 55516276800;58512300500;57212143527) Tj
+T*
+(   ? Authoraffiliationids: 108144405;60025153;60025153) Tj
+T*
+(   ? Corresponding: Rosa R.L.) Tj
+T*
+(20.) Tj
+T*
+(   ? Title: A Reconfigurable, Nonlinear, Low-Power, VCO-Based ADC for Neural Recording ) Tj
+T*
+(   Applications) Tj
+T*
+(   ? Venue: Sensors) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 1) Tj
+T*
+(   ? DOI: 10.3390/s24196161) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85206334725) Tj
+T*
+(   ? eISSN: 14248220) Tj
+T*
+(   ? Volume: 24) Tj
+T*
+(   ? Issue: 19) Tj
+T*
+(   ? Authors: Shokri Reza; Koolivand Yarallah; Shoaei Omid; Caviglia Daniele D.; Aiello ) Tj
+T*
+(   Orazio) Tj
+T*
+(   ? Keywords: neural recording systems | nonlinear quantization | parabolic function ADC ) Tj
+T*
+(   | VCO-based ADC) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Instrumentation \(Q1, rank 19, percentile 90\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 136, percentile 86\)) Tj
+T*
+(     ? Atomic and Molecular Physics, and Optics \(Q1, rank 36, percentile 85\)) Tj
+T*
+(     ? Biochemistry \(Q1, rank 72, percentile 84\)) Tj
+T*
+(     ? Information Systems \(Q1, rank 87, percentile 82\)) Tj
+T*
+(     ? Analytical Chemistry \(Q1, rank 30, percentile 82\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Instrumentation \(Q1, rank 21, percentile 88\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 145, percentile 85\)) Tj
+T*
+(     ? Analytical Chemistry \(Q1, rank 30, percentile 81\)) Tj
+T*
+(     ? Atomic and Molecular Physics, and Optics \(Q1, rank 44, percentile 81\)) Tj
+T*
+(     ? Information Systems \(Q1, rank 91, percentile 80\)) Tj
+T*
+(     ? Biochemistry \(Q1, rank 86, percentile 80\)) Tj
+T*
+ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 20 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2580 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Source Id: 130124) Tj
+T*
+(   ? Author Ids: 57224794408;8645344400;7004130929;7004012654;57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60022927-60025153;60016248;60022927;60025153;60025153) Tj
+T*
+(   ? Corresponding: Shokri R.) Tj
+T*
+(21.) Tj
+T*
+(   ? Title: A 0.5 V, 32 nW Compact Inverter-Based All-Filtering Response Modes Gm-C Filter) Tj
+T*
+(    for Bio-Signal Processing) Tj
+T*
+(   ? Venue: Journal of Low Power Electronics and Applications) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 4) Tj
+T*
+(   ? DOI: 10.3390/jlpea14030040) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85205081677) Tj
+T*
+(   ? eISSN: 20799268) Tj
+T*
+(   ? Volume: 14) Tj
+T*
+(   ? Issue: 3) Tj
+T*
+(   ? Authors: Namdari Ali; Aiello Orazio; Caviglia Daniele D.) Tj
+T*
+(   ? Keywords: CMOS | Gm-C | low-power | low-voltage | universal filter) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 355, percentile 64\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 339, percentile 65\)) Tj
+T*
+(   ? Source Id: 21100332242) Tj
+T*
+(   ? Author Ids: 57217935624;57212143527;7004012654) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Namdari A.) Tj
+T*
+(22.) Tj
+T*
+(   ? Title: Analysis of a Sea Wave Energy Harvester for Environmental Monitoring Buoys) Tj
+T*
+(   ? Venue: Proceedings of the IEEE International Conference on Electronics Circuits and ) Tj
+T*
+(   Systems) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 1) Tj
+T*
+(   ? Doi: 10.1109/Icecs61496.2024.10848561) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85217616684) Tj
+T*
+(   ? Issn: 29945755) Tj
+T*
+(   ? eISSN: 29950589) Tj
+T*
+(   ? Authors: Aiello Orazio; Boragno Corrado; Caviglia Daniele D.; Schiavo Alessandro Lo; ) Tj
+T*
+(   Nicora Filippo) Tj
+T*
+(   ? Keywords: Energy Harvester | Hybrid Harvesters | Internet of Things | Wave Energy ) Tj
+T*
+(   Converter | Wireless Sensor Networks) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q4, rank 913, percentile 8\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q4, rank 941, percentile 2\)) Tj
+T*
+(   ? Source Id: 91096) Tj
+T*
+(   ? Author Ids: 57212143527;56214231400;7004012654;59227633100;59302586800) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153;60026777;60025153) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(23.) Tj
+T*
+ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 22 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 2733 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Title: Highly Linear, Digital OTA With Modified Input Stage) Tj
+T*
+(   ? Venue: 2024 19th Conference on Ph D Research in Microelectronics and Electronics ) Tj
+T*
+(   Prime 2024) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 1) Tj
+T*
+(   ? Doi: 10.1109/Prime61930.2024.10559685) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85199267708) Tj
+T*
+(   ? Authors: Shokri Reza; Caviglia Daniele D.; Aiello Orazio) Tj
+T*
+(   ? Keywords: fully-digital | Operational Transconductance Amplifier \(OTA\) | ultra-low ) Tj
+T*
+(   power | ultra-low voltage) Tj
+T*
+(   ? Source Id: 21101237948) Tj
+T*
+(   ? Author Ids: 57224794408;7004012654;57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Shokri R.) Tj
+T*
+(24.) Tj
+T*
+(   ? Title: 0.5V 32nW Inverter-Based Gm-C Filter for Bio-Signal Processing) Tj
+T*
+(   ? Venue: Proceedings IEEE International Symposium on Circuits and Systems) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 8) Tj
+T*
+(   ? Doi: 10.1109/Iscas58744.2024.10558655) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85198561757) Tj
+T*
+(   ? Issn: 02714310) Tj
+T*
+(   ? Authors: Namdari Ali; Aiello Orazio; Caviglia Daniele D.) Tj
+T*
+(   ? Keywords: CMOS | Gm-C | Low-power | Low-Voltage | Universal filter) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q3, rank 652, percentile 34\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q3, rank 537, percentile 44\)) Tj
+T*
+(   ? Source Id: 56190) Tj
+T*
+(   ? Author Ids: 57217935624;57212143527;7004012654) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Namdari A.) Tj
+T*
+(25.) Tj
+T*
+(   ? Title: Fully Synthesizable Dynamic Voltage Comparator across technology nodes and ) Tj
+T*
+(   scaled supply voltages) Tj
+T*
+(   ? Venue: Proceedings IEEE International Symposium on Circuits and Systems) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 2) Tj
+T*
+(   ? Doi: 10.1109/Iscas58744.2024.10557872) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85198532529) Tj
+T*
+(   ? Issn: 02714310) Tj
+T*
+(   ? Authors: Bui Duy Hieu; Tran Duc Manh; Caviglia Daniele D.; Aiello Orazio) Tj
+T*
+(   ? Keywords: deep subthreshold | Dynamic voltage comparator | fully synthesizable | ) Tj
+T*
+(   standard-cell design | technology-nodes and voltage scalability | ultra-low voltage) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q3, rank 652, percentile 34\)) Tj
+T*
+ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 24 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 2708 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(     2024:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q3, rank 537, percentile 44\)) Tj
+T*
+(   ? Source Id: 56190) Tj
+T*
+(   ? Author Ids: 56024941700;57546819900;7004012654;57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60071364;60071364;60025153;60025153) Tj
+T*
+(   ? Corresponding: Bui D.H.) Tj
+T*
+(26.) Tj
+T*
+(   ? Title: Inverter-Based Amplifier with Active Frequency Compensation and Adaptive ) Tj
+T*
+(   Voltage Scaling) Tj
+T*
+(   ? Venue: Proceedings IEEE International Symposium on Circuits and Systems) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 4) Tj
+T*
+(   ? Doi: 10.1109/Iscas58744.2024.10558561) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85198524520) Tj
+T*
+(   ? Issn: 02714310) Tj
+T*
+(   ? Authors: Rodovalho Luis Henrique; Aiello Orazio) Tj
+T*
+(   ? Keywords: adaptive body-biasing | adaptive voltage scaling | CMOS inverter | ) Tj
+T*
+(   inverter-based amplifier | PVT robust amplifier) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q3, rank 652, percentile 34\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q3, rank 537, percentile 44\)) Tj
+T*
+(   ? Source Id: 56190) Tj
+T*
+(   ? Author Ids: 57190740930;57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60017609;60025153) Tj
+T*
+(   ? Corresponding: Rodovalho L.H.) Tj
+T*
+(27.) Tj
+T*
+(   ? Title: A 0.4 V 180 nm CMOS Sub-?W Ultra-Compact and Low-Effort Design PWM-Based ADC) Tj
+T*
+(   ? Venue: Proceedings IEEE International Symposium on Circuits and Systems) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 4) Tj
+T*
+(   ? Doi: 10.1109/Iscas58744.2024.10558592) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85198524162) Tj
+T*
+(   ? Issn: 02714310) Tj
+T*
+(   ? Authors: Di Patrizio Stanchieri Guido; Aiello Orazio; De Marcellis Andrea) Tj
+T*
+(   ? Keywords: Highly-Synthesizable | Invert-Based ADC | IP-Reuse | Pulse-Width-Modulator ) Tj
+T*
+(   | Sub-0.6 V Supply Voltage) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q3, rank 652, percentile 34\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q3, rank 537, percentile 44\)) Tj
+T*
+(   ? Source Id: 56190) Tj
+T*
+(   ? Author Ids: 57191657351;57212143527;23975554000) Tj
+T*
+(   ? Authoraffiliationids: 60018783;60025153;60018783) Tj
+T*
+(   ? Corresponding: Di Patrizio Stanchieri G.) Tj
+T*
+(28.) Tj
+T*
+(   ? Title: SRAM-based Physically Unclonable Function using Lightweight Hamming-Code Fuzzy) Tj
+T*
+(    Extractor for Energy Harvesting Beat Sensors) Tj
+T*
+ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 26 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 2643 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Venue: International Conference on Advanced Technologies for Communications) Tj
+T*
+(   ? Year: 2024) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1109/Atc63255.2024.10908150) Tj
+T*
+(   ? Scopus ID: 2-s2.0-105000800484) Tj
+T*
+(   ? Issn: 21621039) Tj
+T*
+(   ? eISSN: 21621020) Tj
+T*
+(   ? Pages: 499-504) Tj
+T*
+(   ? Authors: Pham Hoang Long; Bui Duy Hieu; Tran Xuan Tu; Aiello Orazio) Tj
+T*
+(   ? Keywords: Beat Sensors | Internet of Things | Physically Unclonable Function) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Computer Networks and Communications \(Q4, rank 427, percentile 22\)) Tj
+T*
+(     ? Hardware and Architecture \(Q4, rank 194, percentile 17\)) Tj
+T*
+(     ? Software \(Q4, rank 443, percentile 11\)) Tj
+T*
+(     2024:) Tj
+T*
+(     ? Computer Networks and Communications \(Q4, rank 395, percentile 22\)) Tj
+T*
+(     ? Hardware and Architecture \(Q4, rank 189, percentile 15\)) Tj
+T*
+(     ? Software \(Q4, rank 422, percentile 13\)) Tj
+T*
+(   ? Source Id: 20600195633) Tj
+T*
+(   ? Author Ids: 57220746985;56024941700;16308138900;57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60071364;60071364;60071364;60025153) Tj
+T*
+(   ? Corresponding: Pham H.L.) Tj
+T*
+(29.) Tj
+T*
+(   ? Title: Capacitance-to-digital converter in dual-mode logic: power consumption vs ) Tj
+T*
+(   conversion time trade-off) Tj
+T*
+(   ? Venue: Analog Integrated Circuits and Signal Processing) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 2) Tj
+T*
+(   ? DOI: 10.1007/s10470-023-02173-9) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85165092514) Tj
+T*
+(   ? Issn: 09251030) Tj
+T*
+(   ? eISSN: 15731979) Tj
+T*
+(   ? Volume: 117) Tj
+T*
+(   ? Issue: 1-3) Tj
+T*
+(   ? Pages: 35-44) Tj
+T*
+(   ? Authors: Aiello Orazio; Crovetti Paolo) Tj
+T*
+(   ? Keywords: Capacitive-to-digital converter \(CDC\) | Dual-mode \(DM\) logic | nW power | ) Tj
+T*
+(   Power consumption versus time conversion trade-off | Ultra-low voltage) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Signal Processing \(Q2, rank 82, percentile 58\)) Tj
+T*
+(     ? Hardware and Architecture \(Q2, rank 116, percentile 50\)) Tj
+T*
+(     ? Surfaces, Coatings and Films \(Q3, rank 80, percentile 42\)) Tj
+T*
+(     2023:) Tj
+T*
+(     ? Signal Processing \(Q3, rank 68, percentile 48\)) Tj
+T*
+(     ? Surfaces, Coatings and Films \(Q3, rank 71, percentile 46\)) Tj
+T*
+(     ? Hardware and Architecture \(Q3, rank 102, percentile 42\)) Tj
+T*
+(   ? Source Id: 25569) Tj
+T*
+(   ? Author Ids: 57212143527;6506207582) Tj
+T*
+ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 28 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 2544 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Authoraffiliationids: 60025153;60012162) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(30.) Tj
+T*
+(   ? Title: Monitoring the Air Quality in an HVAC System via an Energy Harvesting Device) Tj
+T*
+(   ? Venue: Sensors) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 3) Tj
+T*
+(   ? DOI: 10.3390/s23146381) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85166028387) Tj
+T*
+(   ? Issn: 14248220) Tj
+T*
+(   ? Volume: 23) Tj
+T*
+(   ? Issue: 14) Tj
+T*
+(   ? Authors: Boragno Corrado; Aiello Orazio; Caviglia Daniele D.) Tj
+T*
+(   ? Keywords: air flux | autonomous wireless sensor networks | battery-less air ) Tj
+T*
+(   monitoring | powering HVAC systems | wind energy harvesting) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Instrumentation \(Q1, rank 19, percentile 90\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 136, percentile 86\)) Tj
+T*
+(     ? Atomic and Molecular Physics, and Optics \(Q1, rank 36, percentile 85\)) Tj
+T*
+(     ? Biochemistry \(Q1, rank 72, percentile 84\)) Tj
+T*
+(     ? Information Systems \(Q1, rank 87, percentile 82\)) Tj
+T*
+(     ? Analytical Chemistry \(Q1, rank 30, percentile 82\)) Tj
+T*
+(     2023:) Tj
+T*
+(     ? Instrumentation \(Q1, rank 24, percentile 83\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 163, percentile 79\)) Tj
+T*
+(     ? Atomic and Molecular Physics, and Optics \(Q1, rank 48, percentile 78\)) Tj
+T*
+(     ? Analytical Chemistry \(Q1, rank 36, percentile 77\)) Tj
+T*
+(     ? Information Systems \(Q1, rank 91, percentile 77\)) Tj
+T*
+(     ? Biochemistry \(Q2, rank 133, percentile 69\)) Tj
+T*
+(   ? Source Id: 130124) Tj
+T*
+(   ? Author Ids: 56214231400;57212143527;7004012654) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Boragno C.) Tj
+T*
+(31.) Tj
+T*
+(   ? Title: Ultra-Low-Power ICs for the Internet of Things) Tj
+T*
+(   ? Venue: Journal of Low Power Electronics and Applications) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Editorial) Tj
+T*
+(   ? Citations: 4) Tj
+T*
+(   ? DOI: 10.3390/jlpea13020038) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85163650949) Tj
+T*
+(   ? eISSN: 20799268) Tj
+T*
+(   ? Volume: 13) Tj
+T*
+(   ? Issue: 2) Tj
+T*
+(   ? Authors: Aiello Orazio) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 355, percentile 64\)) Tj
+T*
+(     2023:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 366, percentile 54\)) Tj
+T*
+ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 30 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 2445 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Source Id: 21100332242) Tj
+T*
+(   ? Author Ids: 57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60025153) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(32.) Tj
+T*
+(   ? Title: Rail-to-rail input/output bulk driven class AB operational amplifier with ) Tj
+T*
+(   improved composite transistors) Tj
+T*
+(   ? Venue: Analog Integrated Circuits and Signal Processing) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 3) Tj
+T*
+(   ? DOI: 10.1007/s10470-023-02160-0) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85160644835) Tj
+T*
+(   ? Issn: 09251030) Tj
+T*
+(   ? eISSN: 15731979) Tj
+T*
+(   ? Volume: 115) Tj
+T*
+(   ? Issue: 3) Tj
+T*
+(   ? Pages: 279-291) Tj
+T*
+(   ? Authors: Rodovalho Luis Henrique; Rodrigues Cesar Ramos; Aiello Orazio) Tj
+T*
+(   ? Keywords: Composite transistors | Current mirror | Forward-body-biasing | Open source) Tj
+T*
+(    PDK | Operational amplifier) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Signal Processing \(Q2, rank 82, percentile 58\)) Tj
+T*
+(     ? Hardware and Architecture \(Q2, rank 116, percentile 50\)) Tj
+T*
+(     ? Surfaces, Coatings and Films \(Q3, rank 80, percentile 42\)) Tj
+T*
+(     2023:) Tj
+T*
+(     ? Signal Processing \(Q3, rank 68, percentile 48\)) Tj
+T*
+(     ? Surfaces, Coatings and Films \(Q3, rank 71, percentile 46\)) Tj
+T*
+(     ? Hardware and Architecture \(Q3, rank 102, percentile 42\)) Tj
+T*
+(   ? Source Id: 25569) Tj
+T*
+(   ? Author Ids: 57190740930;22036272700;57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60017609;60017609;60025153) Tj
+T*
+(   ? Corresponding: Rodovalho L.H.) Tj
+T*
+(33.) Tj
+T*
+(   ? Title: Capacitance-to-Digital Converter for Harvested Systems Down to 0.3 V With No ) Tj
+T*
+(   Trimming, Reference, and Voltage Regulation) Tj
+T*
+(   ? Venue: IEEE Transactions on Circuits and Systems I Regular Papers) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 5) Tj
+T*
+(   ? Doi: 10.1109/Tcsi.2023.3237694) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85147291590) Tj
+T*
+(   ? Issn: 15498328) Tj
+T*
+(   ? eISSN: 15580806) Tj
+T*
+(   ? Volume: 70) Tj
+T*
+(   ? Issue: 4) Tj
+T*
+(   ? Pages: 1439-1449) Tj
+T*
+(   ? Authors: Aiello Orazio; Crovetti Paolo Stefano; Alioto Massimo) Tj
+T*
+(   ? Keywords: Capacitance-to-digital converter \(CDC\) | energy harvesting | IoT | ultra-) Tj
+T*
+(   low power | ultra-low voltage) Tj
+T*
+(   ? Quartile:) Tj
+T*
+ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 32 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 2716 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(     2025:) Tj
+T*
+(     ? Engineering \(all\) \(Q1, rank 28, percentile 92\)) Tj
+T*
+(     2023:) Tj
+T*
+(     ? Subject \(Q1, rank 99, percentile 87\)) Tj
+T*
+(     ? Subject \(Q1, rank 24, percentile 86\)) Tj
+T*
+(   ? Source Id: 11000153733) Tj
+T*
+(   ? Author Ids: 57212143527;6506207582;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60025153;60012162;60017161) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(34.) Tj
+T*
+(   ? Title: A Nonlinear, Low-Power, VCO-Based ADC for Neural Recording Applications) Tj
+T*
+(   ? Venue: 2023 5th Iranian International Conference on Microelectronics Iicm 2023) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 2) Tj
+T*
+(   ? Doi: 10.1109/Iicm60532.2023.10443199) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85187215044) Tj
+T*
+(   ? Pages: 199-203) Tj
+T*
+(   ? Authors: Shokri Reza; Koolivand Yarallah; Shoaei Omid; Aiello Orazio; Caviglia ) Tj
+T*
+(   Daniele) Tj
+T*
+(   ? Keywords: Neural recording systems | nonlinear quantization | parabolic function ADC ) Tj
+T*
+(   | VCO-based ADC) Tj
+T*
+(   ? Source Id: 21101206204) Tj
+T*
+(   ? Author Ids: 57224794408;8645344400;7004130929;57212143527;7004012654) Tj
+T*
+(   ? Authoraffiliationids: 60022927;60016248;60022927;60025153;60025153) Tj
+T*
+(   ? Corresponding: Shokri R.) Tj
+T*
+(35.) Tj
+T*
+(   ? Title: Multipolar Stimulator for DBS Application with Concurrent Imbalance ) Tj
+T*
+(   Compensation) Tj
+T*
+(   ? Venue: Icecs 2023 2023 30th IEEE International Conference on Electronics Circuits and) Tj
+T*
+(    Systems Technosapiens for Saving Humanity) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 2) Tj
+T*
+(   ? Doi: 10.1109/Icecs58634.2023.10382867) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85183582430) Tj
+T*
+(   ? Authors: Shokri Reza; Koolivand Yarallah; Shoaei Omid; Aiello Orazio; Caviglia ) Tj
+T*
+(   Daniele D.) Tj
+T*
+(   ? Keywords: current mode stimulation | electrical stimulation | Implantable biomedical ) Tj
+T*
+(   devices | multipolar stimulation) Tj
+T*
+(   ? Source Id: 21101198596) Tj
+T*
+(   ? Author Ids: 57224794408;8645344400;7004130929;57212143527;7004012654) Tj
+T*
+(   ? Authoraffiliationids: 60025153-60022927;60016248;60022927;60025153;60025153) Tj
+T*
+(   ? Corresponding: Shokri R.) Tj
+T*
+(36.) Tj
+T*
+(   ? Title: A 30 kHz - 3 GHz Clock Duty-Cycle Corrector Circuit for CMOS Integrated ) Tj
+T*
+(   Digital Electronic Systems) Tj
+T*
+(   ? Venue: Mixed Design of Integrated Circuits and System Mixdes 2023) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 4) Tj
+T*
+ET
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 34 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 2792 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Doi: 10.23919/Mixdes58562.2023.10203264) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85169445124) Tj
+T*
+(   ? Pages: 73-78) Tj
+T*
+(   ? Authors: Di Patrizio Stanchieri Guido; De Marcellis Andrea; Faccio Marco; Palange ) Tj
+T*
+(   Elia; Aiello Orazio) Tj
+T*
+(   ? Keywords: Clock Generators | CMOS Integrated Digital Systems | DLL | Duty-Cycle ) Tj
+T*
+(   Corrector Circuits | PLL | RAM Memory) Tj
+T*
+(   ? Source Id: 21101175279) Tj
+T*
+(   ? Author Ids: 57191657351;23975554000;7003775870;6701392461;57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60018783;60018783;60018783;60018783;60025153) Tj
+T*
+(   ? Corresponding: Di Patrizio Stanchieri G.) Tj
+T*
+(37.) Tj
+T*
+(   ? Title: Improving Energy Harvesting Performance of the PVDF Films by adding Nano ZnO) Tj
+T*
+(   ? Venue: 2023 5th International Conference on Advances in Computational Tools for ) Tj
+T*
+(   Engineering Applications Actea 2023) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 1) Tj
+T*
+(   ? Doi: 10.1109/Actea58025.2023.10194067) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85168910916) Tj
+T*
+(   ? Pages: 201-204) Tj
+T*
+(   ? Authors: Hamdan Rawad; Alyosef Ayham; Aiello Orazio; Caviglia Daniele) Tj
+T*
+(   ? Keywords: energy conversion efficiency | energy harvesting | nano ZnO | pyroelectric ) Tj
+T*
+(   coefficient | pyroelectricity) Tj
+T*
+(   ? Source Id: 21101173124) Tj
+T*
+(   ? Author Ids: 57195680082;57222742064;57212143527;7004012654) Tj
+T*
+(   ? Authoraffiliationids: 60072762;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Hamdan R.) Tj
+T*
+(38.) Tj
+T*
+(   ? Title: 38.4-pW, 0.14-mm2Body-Driven Temperature-to-Digital Converter and Voltage ) Tj
+T*
+(   Reference with 0.6-1.6-V Unregulated Supply for Battery-Less Systems) Tj
+T*
+(   ? Venue: Digest of Technical Papers Symposium on VLSI Technology) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 2) Tj
+T*
+(   ? DOI: 10.23919/VLSITechnologyandCir57934.2023.10185359) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85167588527) Tj
+T*
+(   ? Issn: 07431562) Tj
+T*
+(   ? Volume: 2023-June) Tj
+T*
+(   ? Authors: Fassio Luigi; Aiello Orazio; Alioto Massimo) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 342, percentile 65\)) Tj
+T*
+(     2023:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 386, percentile 51\)) Tj
+T*
+(   ? Source Id: 14937) Tj
+T*
+(   ? Author Ids: 57218767161;57212143527;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60017161;60017161;60017161) Tj
+T*
+(   ? Corresponding: Fassio L.) Tj
+T*
+(39.) Tj
+T*
+(   ? Title: Mitigating Cyber Attacks in LoRaWAN via Lightweight Secure Key Management ) Tj
+T*
+(   Scheme) Tj
+T*
+ET
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 36 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 2721 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Venue: IEEE Access) Tj
+T*
+(   ? Year: 2023) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 8) Tj
+T*
+(   ? Doi: 10.1109/Access.2023.3291420) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85164415741) Tj
+T*
+(   ? eISSN: 21693536) Tj
+T*
+(   ? Volume: 11) Tj
+T*
+(   ? Pages: 68301-68315) Tj
+T*
+(   ? Authors: Qadir Junaid; Butun Ismail; Gastaldo Paolo; Aiello Orazio; Caviglia Daniele ) Tj
+T*
+(   D.) Tj
+T*
+(   ? Keywords: ECDH | key derivation | key exchanging | LoRa | LoRaWAN | security | ) Tj
+T*
+(   security enhancement) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Engineering \(all\) \(Q1, rank 42, percentile 88\)) Tj
+T*
+(     ? Computer Science \(all\) \(Q1, rank 41, percentile 83\)) Tj
+T*
+(     ? Materials Science \(all\) \(Q1, rank 101, percentile 78\)) Tj
+T*
+(     2023:) Tj
+T*
+(     ? Engineering \(all\) \(Q1, rank 23, percentile 92\)) Tj
+T*
+(     ? Computer Science \(all\) \(Q1, rank 29, percentile 87\)) Tj
+T*
+(     ? Materials Science \(all\) \(Q1, rank 77, percentile 83\)) Tj
+T*
+(   ? Source Id: 21100374601) Tj
+T*
+(   ? Author Ids: 57213299572;35316899700;35612596100;57212143527;7004012654) Tj
+T*
+(   ? Authoraffiliationids: 60002014-60025153;60002014-60197889;60025153;60025153;60025153) Tj
+T*
+(   ? Corresponding: Qadir J.) Tj
+T*
+(40.) Tj
+T*
+(   ? Title: Conversion Time-Power Tradeoff in Capacitance-to-Digital Converters with Dual-) Tj
+T*
+(   Mode Logic) Tj
+T*
+(   ? Venue: 35th Sbc Sbmicro IEEE ACM Symposium on Integrated Circuits and Systems Design ) Tj
+T*
+(   Sbcci 2022 Proceedings) Tj
+T*
+(   ? Year: 2022) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 4) Tj
+T*
+(   ? Doi: 10.1109/Sbcci55532.2022.9893227) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85141725111) Tj
+T*
+(   ? Authors: Aiello Orazio; Crovetti Paolo; Alioto Massimo) Tj
+T*
+(   ? Keywords: Capacitive-to-Digital converter \(CDC\) | Dual-Mode \(DM\) Logic | nW Power | ) Tj
+T*
+(   Power consumption versus Time conversion trade-off | Ultra-Low Voltage) Tj
+T*
+(   ? Source Id: 21101120342) Tj
+T*
+(   ? Author Ids: 57212143527;6506207582;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60017161-60025153;60012162;60017161) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(41.) Tj
+T*
+(   ? Title: Capacitance-Based Voltage Regulation- and Reference-Free Temperature-to-) Tj
+T*
+(   Digital Converter down to 0.3 v and 2.5 nW for Direct Harvesting) Tj
+T*
+(   ? Venue: Esscirc 2022 IEEE 48th European Solid State Circuits Conference Proceedings) Tj
+T*
+(   ? Year: 2022) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 4) Tj
+T*
+(   ? Doi: 10.1109/Esscirc55480.2022.9911378) Tj
+T*
+ET
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 38 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 2544 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Scopus ID: 2-s2.0-85141541900) Tj
+T*
+(   ? Pages: 381-384) Tj
+T*
+(   ? Authors: Aiello Orazio; Alioto Massimo) Tj
+T*
+(   ? Keywords: harvesting | Temperature sensing | ultra-low-power) Tj
+T*
+(   ? Source Id: 21101119563) Tj
+T*
+(   ? Author Ids: 57212143527;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60017161-60025153;60017161) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(42.) Tj
+T*
+(   ? Title: DDPMnet: All-Digital Pulse Density-Based DNN Architecture with 228 Gate ) Tj
+T*
+(   Equivalents/MAC Unit, 28-TOPS/W and 1.5-TOPS/mm2 in 40nm) Tj
+T*
+(   ? Venue: Proceedings of the Custom Integrated Circuits Conference) Tj
+T*
+(   ? Year: 2022) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 4) Tj
+T*
+(   ? Doi: 10.1109/Cicc53496.2022.9772786) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85130720485) Tj
+T*
+(   ? Issn: 08865930) Tj
+T*
+(   ? Volume: 2022-April) Tj
+T*
+(   ? Authors: Gupta Animesh; Konandur Viveka; Salam Thoithoi; Jain Saurabh; Aiello Orazio;) Tj
+T*
+(    Crovetti Paolo; Alioto Massimo) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 399, percentile 60\)) Tj
+T*
+(     2022:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 368, percentile 50\)) Tj
+T*
+(   ? Source Id: 83444) Tj
+T*
+(   ? Author Ids: ) Tj
+T*
+(   57703834900;57711452700;57711198900;57193628262;57212143527;6506207582;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60017161;60017161;60017161;60017161;60017161;60012162;60017161) Tj
+T*
+(   ? Corresponding: Gupta A.) Tj
+T*
+(43.) Tj
+T*
+(   ? Title: A 1.9 nw, sub-1 v, 542 pa/v linear bulk-driven ota with 154 db cmrr for bio-) Tj
+T*
+(   sensing applications) Tj
+T*
+(   ? Venue: Journal of Low Power Electronics and Applications) Tj
+T*
+(   ? Year: 2021) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 16) Tj
+T*
+(   ? DOI: 10.3390/jlpea11040040) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85118220477) Tj
+T*
+(   ? eISSN: 20799268) Tj
+T*
+(   ? Volume: 11) Tj
+T*
+(   ? Issue: 4) Tj
+T*
+(   ? Authors: Silva Rafael Sanchotene; Rodovalho Luis Henrique; Aiello Orazio; Rodrigues ) Tj
+T*
+(   Cesar Ramos) Tj
+T*
+(   ? Keywords: Bulk-driven OTA | Self-cascode mirror | Transconductor) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 355, percentile 64\)) Tj
+T*
+(     2021:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 300, percentile 57\)) Tj
+T*
+(   ? Source Id: 21100332242) Tj
+T*
+ET
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 40 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 2416 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Author Ids: 56729782500;57190740930;57212143527;22036272700) Tj
+T*
+(   ? Authoraffiliationids: 60017609;60017609;60017161;60017609) Tj
+T*
+(   ? Corresponding: Silva R.S.) Tj
+T*
+(44.) Tj
+T*
+(   ? Title: Design of digital OTAs with operation down to 0.3 V and NW power for direct ) Tj
+T*
+(   harvesting) Tj
+T*
+(   ? Venue: IEEE Transactions on Circuits and Systems I Regular Papers) Tj
+T*
+(   ? Year: 2021) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 60) Tj
+T*
+(   ? Doi: 10.1109/Tcsi.2021.3089339) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85109265617) Tj
+T*
+(   ? Issn: 15498328) Tj
+T*
+(   ? eISSN: 15580806) Tj
+T*
+(   ? Volume: 68) Tj
+T*
+(   ? Issue: 9) Tj
+T*
+(   ? Pages: 3693-3706) Tj
+T*
+(   ? Authors: Toledo Pedro; Crovetti Paolo; Aiello Orazio; Alioto Massimo) Tj
+T*
+(   ? Keywords: Digital OTA | Internet of Things \(IoT\) | Low power | Low voltage | ) Tj
+T*
+(   Operational transconductance amplifier \(OTA\)) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Engineering \(all\) \(Q1, rank 28, percentile 92\)) Tj
+T*
+(     2021:) Tj
+T*
+(     ? Subject \(Q1, rank 106, percentile 85\)) Tj
+T*
+(     ? Subject \(Q1, rank 32, percentile 81\)) Tj
+T*
+(   ? Source Id: 11000153733) Tj
+T*
+(   ? Author Ids: 56435887500;6506207582;57212143527;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60012162;60012162;60017161;60017161) Tj
+T*
+(   ? Corresponding: Toledo P.) Tj
+T*
+(45.) Tj
+T*
+(   ? Title: A 300mV-Supply, Sub-nW-Power Digital-Based Operational Transconductance ) Tj
+T*
+(   Amplifier) Tj
+T*
+(   ? Venue: IEEE Transactions on Circuits and Systems II Express Briefs) Tj
+T*
+(   ? Year: 2021) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 37) Tj
+T*
+(   ? Doi: 10.1109/Tcsii.2021.3084243) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85107216708) Tj
+T*
+(   ? Issn: 15497747) Tj
+T*
+(   ? eISSN: 15583791) Tj
+T*
+(   ? Volume: 68) Tj
+T*
+(   ? Issue: 9) Tj
+T*
+(   ? Pages: 3073-3077) Tj
+T*
+(   ? Authors: Toledo Pedro; Crovetti Paolo; Klimach Hamilton; Bampi Sergio; Aiello Orazio;) Tj
+T*
+(    Alioto Massimo) Tj
+T*
+(   ? Keywords: digital-based analog processing | Internet of things \(IoT\) | operational ) Tj
+T*
+(   transconductance amplifier \(OTA\) | Ultra-low voltage \(ULV\)) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 97, percentile 90\)) Tj
+T*
+(     2021:) Tj
+T*
+ET
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 42 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 2798 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(     ? Electrical and Electronic Engineering \(Q1, rank 149, percentile 79\)) Tj
+T*
+(   ? Source Id: 9500153930) Tj
+T*
+(   ? Author Ids: 56435887500;6506207582;8544715900;6602489732;57212143527;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60012162;60012162;60006726;60006726;60017161;60017161) Tj
+T*
+(   ? Corresponding: Toledo P.) Tj
+T*
+(46.) Tj
+T*
+(   ? Title: Rail-to-rail dynamic voltage comparator scalable down to pW-Range power and ) Tj
+T*
+(   0.15-V supply) Tj
+T*
+(   ? Venue: IEEE Transactions on Circuits and Systems II Express Briefs) Tj
+T*
+(   ? Year: 2021) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 48) Tj
+T*
+(   ? Doi: 10.1109/Tcsii.2021.3059164) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85101432027) Tj
+T*
+(   ? Issn: 15497747) Tj
+T*
+(   ? eISSN: 15583791) Tj
+T*
+(   ? Volume: 68) Tj
+T*
+(   ? Issue: 7) Tj
+T*
+(   ? Pages: 2675-2679) Tj
+T*
+(   ? Authors: Aiello Orazio; Crovetti Paolo; Toledo Pedro; Alioto Massimo) Tj
+T*
+(   ? Keywords: Dynamic comparator | fully-synthesizable | Internet of Things | sensor ) Tj
+T*
+(   nodes | ultra-low power | ultra-low voltage) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 97, percentile 90\)) Tj
+T*
+(     2021:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 149, percentile 79\)) Tj
+T*
+(   ? Source Id: 9500153930) Tj
+T*
+(   ? Author Ids: 57212143527;6506207582;56435887500;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60017161;60012162;60012162;60017161) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(47.) Tj
+T*
+(   ? Title: Temperature Characterization of a Fully-synthesizable Rail-to-Rail Dynamic ) Tj
+T*
+(   Voltage Comparator operating down to 0.15-V: \(Invited paper\)) Tj
+T*
+(   ? Venue: 2021 19th IEEE International New Circuits and Systems Conference Newcas 2021) Tj
+T*
+(   ? Year: 2021) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 5) Tj
+T*
+(   ? Doi: 10.1109/Newcas50681.2021.9462749) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85114616365) Tj
+T*
+(   ? Authors: Aiello Orazio; Toledo Pedro) Tj
+T*
+(   ? Keywords: fully-synthesizable | Internet of Things | low area Dynamic comparator | ) Tj
+T*
+(   low design effort | sensor nodes | standard cell-based | technology portable | ) Tj
+T*
+(   Temperature dependence | ultra-low power | ultra-low voltage) Tj
+T*
+(   ? Source Id: 21101058738) Tj
+T*
+(   ? Author Ids: 57212143527;56435887500) Tj
+T*
+(   ? Authoraffiliationids: 60017161;60012162) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(48.) Tj
+T*
+(   ? Title: Self-biased and supply-voltage scalable inverter-based operational ) Tj
+T*
+(   transconductance amplifier with improved composite transistors) Tj
+T*
+(   ? Venue: Electronics Switzerland) Tj
+T*
+ET
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 44 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 2902 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Year: 2021) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 29) Tj
+T*
+(   ? DOI: 10.3390/electronics10080935) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85104042786) Tj
+T*
+(   ? eISSN: 20799292) Tj
+T*
+(   ? Volume: 10) Tj
+T*
+(   ? Issue: 8) Tj
+T*
+(   ? Authors: Rodovalho Luis Henrique; Rodrigues Cesar Ramos; Aiello Orazio) Tj
+T*
+(   ? Keywords: Composite transistors | Improved forward-body-bias | Inverter-based OTA | ) Tj
+T*
+(   Operational Transconductance Amplifier \(OTA\) | Push-pull based OTA | Supply-voltage ) Tj
+T*
+(   scalable | Ultra-Low-Power \(ULP\) | Ultra-Low-Voltage \(ULV\)) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Signal Processing \(Q1, rank 36, percentile 81\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 220, percentile 78\)) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 91, percentile 76\)) Tj
+T*
+(     ? Computer Networks and Communications \(Q1, rank 131, percentile 76\)) Tj
+T*
+(     ? Hardware and Architecture \(Q2, rank 62, percentile 73\)) Tj
+T*
+(     2021:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 280, percentile 60\)) Tj
+T*
+(     ? Computer Networks and Communications \(Q2, rank 146, percentile 59\)) Tj
+T*
+(     ? Control and Systems Engineering \(Q2, rank 110, percentile 59\)) Tj
+T*
+(     ? Signal Processing \(Q2, rank 51, percentile 56\)) Tj
+T*
+(     ? Hardware and Architecture \(Q2, rank 75, percentile 55\)) Tj
+T*
+(   ? Source Id: 21100829272) Tj
+T*
+(   ? Author Ids: 57190740930;22036272700;57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60017609;60017609;60017161) Tj
+T*
+(   ? Corresponding: Rodovalho L.H.) Tj
+T*
+(49.) Tj
+T*
+(   ? Title: Capacitance-to-Digital Converter for Operation under Uncertain Harvested ) Tj
+T*
+(   Voltage down to 0.3V with No Trimming, Reference and Voltage Regulation) Tj
+T*
+(   ? Venue: Digest of Technical Papers IEEE International Solid State Circuits Conference) Tj
+T*
+(   ? Year: 2021) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 22) Tj
+T*
+(   ? Doi: 10.1109/Isscc42613.2021.9365846) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85102333498) Tj
+T*
+(   ? Issn: 01936530) Tj
+T*
+(   ? Volume: 64) Tj
+T*
+(   ? Pages: 74-76) Tj
+T*
+(   ? Authors: Aiello Orazio; Crovetti Paolo; Alioto Massimo) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 78, percentile 92\)) Tj
+T*
+(     ? Electronic, Optical and Magnetic Materials \(Q1, rank 36, percentile 88\)) Tj
+T*
+(     2021:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 41, percentile 94\)) Tj
+T*
+(     ? Electronic, Optical and Magnetic Materials \(Q1, rank 24, percentile 90\)) Tj
+T*
+(   ? Source Id: 26020) Tj
+T*
+(   ? Author Ids: 57212143527;6506207582;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60017161;60012162;60017161) Tj
+T*
+ET
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 46 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 2943 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Corresponding: Aiello O.) Tj
+T*
+(50.) Tj
+T*
+(   ? Title: Fully-differential inverter-based OTA with improved composite transistors) Tj
+T*
+(   ? Venue: 2021 IEEE Asia Pacific Conference on Circuits and Systems Apccas 2021 and 2021) Tj
+T*
+(    IEEE Conference on Postgraduate Research in Microelectronics and Electronics Primeasia) Tj
+T*
+(    2021) Tj
+T*
+(   ? Year: 2021) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 5) Tj
+T*
+(   ? Doi: 10.1109/Apccas51387.2021.9687735) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85126717965) Tj
+T*
+(   ? Pages: 9-12) Tj
+T*
+(   ? Authors: Rodovalho Luis Henrique; Aiello Orazio; Rodrigues Cesar Ramos) Tj
+T*
+(   ? Keywords: CMOS inverter-based amplifiers | forward-body-biasing | improved composite ) Tj
+T*
+(   transistors | rectangular transistor arrays | ultra-low-power | ultra-low-voltage) Tj
+T*
+(   ? Source Id: 21101081706) Tj
+T*
+(   ? Author Ids: 57190740930;57212143527;22036272700) Tj
+T*
+(   ? Authoraffiliationids: 60017609;60017161;60017609) Tj
+T*
+(   ? Corresponding: Rodovalho L.H.) Tj
+T*
+(51.) Tj
+T*
+(   ? Title: An inverter-based OTA using improved composite transistors and bulk-driven ) Tj
+T*
+(   common-mode rejection) Tj
+T*
+(   ? Venue: 2021 IEEE Asia Pacific Conference on Circuits and Systems Apccas 2021 and 2021) Tj
+T*
+(    IEEE Conference on Postgraduate Research in Microelectronics and Electronics Primeasia) Tj
+T*
+(    2021) Tj
+T*
+(   ? Year: 2021) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 3) Tj
+T*
+(   ? Doi: 10.1109/Apccas51387.2021.9687805) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85126659039) Tj
+T*
+(   ? Pages: 13-16) Tj
+T*
+(   ? Authors: Rodovalho Luis Henrique; Rodrigues Cesar Ramos; Aiello Orazio) Tj
+T*
+(   ? Keywords: CMOS inverter-based amplifiers | forward-body-biasing | improved composite ) Tj
+T*
+(   transistors | rectangular transistor arrays | ultra-low-power | ultra-low-voltage) Tj
+T*
+(   ? Source Id: 21101081706) Tj
+T*
+(   ? Author Ids: 57190740930;22036272700;57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60017609;60017609;60017161) Tj
+T*
+(   ? Corresponding: Rodovalho L.H.) Tj
+T*
+(52.) Tj
+T*
+(   ? Title: A Two-Stage Single-Ended OTA with Improved Composite Transistors) Tj
+T*
+(   ? Venue: 2021 IEEE Nordic Circuits and Systems Conference Norcas 2021 Proceedings) Tj
+T*
+(   ? Year: 2021) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 3) Tj
+T*
+(   ? DOI: 10.1109/NorCAS53631.2021.9599859) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85123503651) Tj
+T*
+(   ? Authors: Rodovalho Luis Henrique; Rodrigues Cesar Ramos; Aiello Orazio) Tj
+T*
+(   ? Keywords: Forward-body-biasing | Operational transconductance amplifier) Tj
+T*
+(   ? Source Id: 21101073935) Tj
+T*
+(   ? Author Ids: 57190740930;22036272700;57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60017609;60017609;60017161) Tj
+T*
+ET
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 48 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 2447 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Corresponding: Rodovalho L.H.) Tj
+T*
+(53.) Tj
+T*
+(   ? Title: CMOS inverter linearization technique with active source degeneration) Tj
+T*
+(   ? Venue: 2021 IEEE Nordic Circuits and Systems Conference Norcas 2021 Proceedings) Tj
+T*
+(   ? Year: 2021) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 2) Tj
+T*
+(   ? DOI: 10.1109/NorCAS53631.2021.9599643) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85123487350) Tj
+T*
+(   ? Authors: Rodovalho Luis Henrique; Rodrigues Cesar Ramos; Aiello Orazio) Tj
+T*
+(   ? Keywords: Forward body-biasing | Inverter-based OTAs | Ultra-low voltage) Tj
+T*
+(   ? Source Id: 21101073935) Tj
+T*
+(   ? Author Ids: 57190740930;22036272700;57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60017609;60017609;60017161) Tj
+T*
+(   ? Corresponding: Rodovalho L.H.) Tj
+T*
+(54.) Tj
+T*
+(   ? Title: Design of an ultra-low voltage bias current generator highly immune to ) Tj
+T*
+(   electromagnetic interference) Tj
+T*
+(   ? Venue: Journal of Low Power Electronics and Applications) Tj
+T*
+(   ? Year: 2021) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 2) Tj
+T*
+(   ? DOI: 10.3390/jlpea11010006) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85100536737) Tj
+T*
+(   ? eISSN: 20799268) Tj
+T*
+(   ? Volume: 11) Tj
+T*
+(   ? Issue: 1) Tj
+T*
+(   ? Pages: 1-11) Tj
+T*
+(   ? Authors: Aiello Orazio) Tj
+T*
+(   ? Keywords: Current correlator | Current generators | Current mirrors | Current-) Tj
+T*
+(   splitter | Electromagnetic Interference \(EMI\) | Ultra-Low-Voltage \(ULV\) ICs) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 355, percentile 64\)) Tj
+T*
+(     2021:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 300, percentile 57\)) Tj
+T*
+(   ? Source Id: 21100332242) Tj
+T*
+(   ? Author Ids: 57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60017161) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(55.) Tj
+T*
+(   ? Title: Ultra-low-voltage inverter-based operational transconductance amplifiers with ) Tj
+T*
+(   voltage gain enhancement by improved composite transistors) Tj
+T*
+(   ? Venue: Electronics Switzerland) Tj
+T*
+(   ? Year: 2020) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 46) Tj
+T*
+(   ? DOI: 10.3390/electronics9091410) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85093881192) Tj
+T*
+(   ? eISSN: 20799292) Tj
+T*
+(   ? Volume: 9) Tj
+T*
+ET
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 50 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 2924 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Issue: 9) Tj
+T*
+(   ? Pages: 1-16) Tj
+T*
+(   ? Authors: Rodovalho Luis Henrique; Aiello Orazio; Rodrigues Cesar Ramos) Tj
+T*
+(   ? Keywords: Composite transistors | Improved forward-body-bias | Inverter-based OTA | ) Tj
+T*
+(   Operational transconductance amplifier \(OTA\) | Push-pull based OTA | Ultra-low-power ) Tj
+T*
+(   \(ULP\) | Ultra-low-voltage \(ULV\)) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Signal Processing \(Q1, rank 36, percentile 81\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 220, percentile 78\)) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 91, percentile 76\)) Tj
+T*
+(     ? Computer Networks and Communications \(Q1, rank 131, percentile 76\)) Tj
+T*
+(     ? Hardware and Architecture \(Q2, rank 62, percentile 73\)) Tj
+T*
+(     2020:) Tj
+T*
+(     ? Control and Systems Engineering \(Q2, rank 123, percentile 52\)) Tj
+T*
+(     ? Computer Networks and Communications \(Q2, rank 161, percentile 51\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 334, percentile 51\)) Tj
+T*
+(     ? Signal Processing \(Q3, rank 59, percentile 45\)) Tj
+T*
+(     ? Hardware and Architecture \(Q3, rank 94, percentile 40\)) Tj
+T*
+(   ? Source Id: 21100829272) Tj
+T*
+(   ? Author Ids: 57190740930;57212143527;22036272700) Tj
+T*
+(   ? Authoraffiliationids: 60017609;60017161;60017609) Tj
+T*
+(   ? Corresponding: Rodovalho L.H.) Tj
+T*
+(56.) Tj
+T*
+(   ? Title: On the dc offset current generated during biphasic stimulation: Experimental ) Tj
+T*
+(   study) Tj
+T*
+(   ? Venue: Electronics Switzerland) Tj
+T*
+(   ? Year: 2020) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 6) Tj
+T*
+(   ? DOI: 10.3390/electronics9081198) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85090688028) Tj
+T*
+(   ? eISSN: 20799292) Tj
+T*
+(   ? Volume: 9) Tj
+T*
+(   ? Issue: 8) Tj
+T*
+(   ? Pages: 1-14) Tj
+T*
+(   ? Authors: Aiello Orazio) Tj
+T*
+(   ? Keywords: Biphasic signal | DC offset current | Electrode stimulation | Platinum ) Tj
+T*
+(   electrode matrix) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Signal Processing \(Q1, rank 36, percentile 81\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 220, percentile 78\)) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 91, percentile 76\)) Tj
+T*
+(     ? Computer Networks and Communications \(Q1, rank 131, percentile 76\)) Tj
+T*
+(     ? Hardware and Architecture \(Q2, rank 62, percentile 73\)) Tj
+T*
+(     2020:) Tj
+T*
+(     ? Control and Systems Engineering \(Q2, rank 123, percentile 52\)) Tj
+T*
+(     ? Computer Networks and Communications \(Q2, rank 161, percentile 51\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 334, percentile 51\)) Tj
+T*
+(     ? Signal Processing \(Q3, rank 59, percentile 45\)) Tj
+T*
+(     ? Hardware and Architecture \(Q3, rank 94, percentile 40\)) Tj
+T*
+(   ? Source Id: 21100829272) Tj
+T*
+ET
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 52 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 2675 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Author Ids: 57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60017161) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(57.) Tj
+T*
+(   ? Title: Electromagnetic susceptibility of battery management systems? ICs for electric) Tj
+T*
+(    vehicles: Experimental study) Tj
+T*
+(   ? Venue: Electronics Switzerland) Tj
+T*
+(   ? Year: 2020) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 36) Tj
+T*
+(   ? DOI: 10.3390/electronics9030510) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85083219172) Tj
+T*
+(   ? eISSN: 20799292) Tj
+T*
+(   ? Volume: 9) Tj
+T*
+(   ? Issue: 3) Tj
+T*
+(   ? Authors: Aiello Orazio) Tj
+T*
+(   ? Keywords: Anechoic chamber | Battery management system \(BMS\) | Direct power injection) Tj
+T*
+(    \(DPI\) | Electric vehicles \(EVs\) | Hybrid electric vehicles \(HEVs\) | IC-level EMC | Li-) Tj
+T*
+(   ion battery pack | Susceptibility to electromagnetic interference \(EMI\)) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Signal Processing \(Q1, rank 36, percentile 81\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 220, percentile 78\)) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 91, percentile 76\)) Tj
+T*
+(     ? Computer Networks and Communications \(Q1, rank 131, percentile 76\)) Tj
+T*
+(     ? Hardware and Architecture \(Q2, rank 62, percentile 73\)) Tj
+T*
+(     2020:) Tj
+T*
+(     ? Control and Systems Engineering \(Q2, rank 123, percentile 52\)) Tj
+T*
+(     ? Computer Networks and Communications \(Q2, rank 161, percentile 51\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 334, percentile 51\)) Tj
+T*
+(     ? Signal Processing \(Q3, rank 59, percentile 45\)) Tj
+T*
+(     ? Hardware and Architecture \(Q3, rank 94, percentile 40\)) Tj
+T*
+(   ? Source Id: 21100829272) Tj
+T*
+(   ? Author Ids: 57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60012162) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(58.) Tj
+T*
+(   ? Title: Fully Digital Rail-to-Rail OTA with Sub-1000-?m¬≤ Area, 250-mV Minimum Supply, ) Tj
+T*
+(   and nW Power at 150-pF Load in 180 nm) Tj
+T*
+(   ? Venue: IEEE Solid State Circuits Letters) Tj
+T*
+(   ? Year: 2020) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 53) Tj
+T*
+(   ? Doi: 10.1109/Lssc.2020.3027666) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85091926335) Tj
+T*
+(   ? eISSN: 25739603) Tj
+T*
+(   ? Volume: 3) Tj
+T*
+(   ? Pages: 474-477) Tj
+T*
+(   ? Authors: Toledo Pedro; Crovetti Paolo; Aiello Orazio; Alioto Massimo) Tj
+T*
+(   ? Keywords: Energy harvesting | fully digital | operational transconductance amplifier ) Tj
+T*
+(   \(OTA\) | ultralow power | ultralow voltage) Tj
+T*
+(   ? Quartile:) Tj
+T*
+ET
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 54 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 2708 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 405, percentile 59\)) Tj
+T*
+(     2020:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q3, rank 446, percentile 35\)) Tj
+T*
+(   ? Source Id: 21100976126) Tj
+T*
+(   ? Author Ids: 56435887500;6506207582;57212143527;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60012162;60012162;60017161;60017161) Tj
+T*
+(   ? Corresponding: Toledo P.) Tj
+T*
+(59.) Tj
+T*
+(   ? Title: Fully synthesizable low-area analogue-to-digital converters with minimal ) Tj
+T*
+(   design effort based on the dyadic digital pulse modulation) Tj
+T*
+(   ? Venue: IEEE Access) Tj
+T*
+(   ? Year: 2020) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 49) Tj
+T*
+(   ? Doi: 10.1109/Access.2020.2986949) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85084190088) Tj
+T*
+(   ? eISSN: 21693536) Tj
+T*
+(   ? Volume: 8) Tj
+T*
+(   ? Pages: 70890-70899) Tj
+T*
+(   ? Authors: Aiello Orazio; Crovetti Paolo; Alioto Massimo) Tj
+T*
+(   ? Keywords: analog sensing Analog-to-digital converter \(ADC\) | Analog-to-digital ) Tj
+T*
+(   converter \(ADC\) | current sensing | fully-digital | fully-synthesizable | low area | ) Tj
+T*
+(   low design effort | standard cell design) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Engineering \(all\) \(Q1, rank 42, percentile 88\)) Tj
+T*
+(     ? Computer Science \(all\) \(Q1, rank 41, percentile 83\)) Tj
+T*
+(     ? Materials Science \(all\) \(Q1, rank 101, percentile 78\)) Tj
+T*
+(     2020:) Tj
+T*
+(     ? Engineering \(all\) \(Q1, rank 39, percentile 87\)) Tj
+T*
+(     ? Computer Science \(all\) \(Q1, rank 43, percentile 81\)) Tj
+T*
+(     ? Materials Science \(all\) \(Q2, rank 135, percentile 70\)) Tj
+T*
+(   ? Source Id: 21100374601) Tj
+T*
+(   ? Author Ids: 57212143527;6506207582;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60017161;60012162;60017161) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(60.) Tj
+T*
+(   ? Title: Minimum-effort design of ultra-low power interfaces for the internet of things) Tj
+T*
+(   ? Venue: 2019 26th IEEE International Conference on Electronics Circuits and Systems ) Tj
+T*
+(   Icecs 2019) Tj
+T*
+(   ? Year: 2019) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 7) Tj
+T*
+(   ? Doi: 10.1109/Icecs46596.2019.8965082) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85079158631) Tj
+T*
+(   ? Pages: 105-106) Tj
+T*
+(   ? Authors: Aiello Orazio; Crovetti Paolo; Alioto Massimo) Tj
+T*
+(   ? Keywords: Fully-synthesizable | Low area | Low design effort | Standard cell-based | ) Tj
+T*
+(   Technology portable) Tj
+T*
+(   ? Source Id: 21100944554) Tj
+T*
+(   ? Author Ids: 57212143527;6506207582;7004256085) Tj
+T*
+ET
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 56 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 2695 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Authoraffiliationids: 60012162-60017161;60012162;60017161) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(61.) Tj
+T*
+(   ? Title: Fully-synthesizable current-input ADCs for ultra-low area and minimal design ) Tj
+T*
+(   effort) Tj
+T*
+(   ? Venue: 2019 26th IEEE International Conference on Electronics Circuits and Systems ) Tj
+T*
+(   Icecs 2019) Tj
+T*
+(   ? Year: 2019) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 9) Tj
+T*
+(   ? Doi: 10.1109/Icecs46596.2019.8964789) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85079113462) Tj
+T*
+(   ? Pages: 715-718) Tj
+T*
+(   ? Authors: Aiello Orazio; Crovetti Paolo; Sharma Ayushparth; Alioto Massimo) Tj
+T*
+(   ? Keywords: Analog-to-Digital Converter | Current sensing | Fully-synthesizable | Low ) Tj
+T*
+(   area | Low design effort | Standard cell-based) Tj
+T*
+(   ? Source Id: 21100944554) Tj
+T*
+(   ? Author Ids: 57212143527;6506207582;57189657712;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60012162-60017161;60012162;60017161;60017161) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(62.) Tj
+T*
+(   ? Title: Design of Relaxation Digital-to-Analog Converters for Internet of Things ) Tj
+T*
+(   Applications in 40nm CMOS) Tj
+T*
+(   ? Venue: Proceedings Apccas 2019 2019 IEEE Asia Pacific Conference on Circuits and ) Tj
+T*
+(   Systems Innovative CAS Towards Sustainable Energy and Technology Disruption) Tj
+T*
+(   ? Year: 2019) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 19) Tj
+T*
+(   ? Doi: 10.1109/Apccas47518.2019.8953168) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85078703927) Tj
+T*
+(   ? Pages: 13-16) Tj
+T*
+(   ? Authors: Rubino Roberto; Crovetti Paolo S.; Aiello Orazio) Tj
+T*
+(   ? Keywords: Digital to Analog Converter \(DAC\) | Fully Synthesizable DAC | Internet of ) Tj
+T*
+(   Things | Relaxation Digital to Analog Converter \(ReDAC\) | Ultra Low Power) Tj
+T*
+(   ? Source Id: 21100953610) Tj
+T*
+(   ? Author Ids: 26425174900;6506207582;57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60012162;60012162;60012162-60017161) Tj
+T*
+(   ? Corresponding: Rubino R.) Tj
+T*
+(63.) Tj
+T*
+(   ? Title: Hall-effect current sensors susceptibility to EMI: Experimental study) Tj
+T*
+(   ? Venue: Electronics Switzerland) Tj
+T*
+(   ? Year: 2019) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 26) Tj
+T*
+(   ? DOI: 10.3390/electronics8111310) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85074681392) Tj
+T*
+(   ? eISSN: 20799292) Tj
+T*
+(   ? Volume: 8) Tj
+T*
+(   ? Issue: 11) Tj
+T*
+(   ? Authors: Aiello Orazio) Tj
+T*
+(   ? Keywords: Bulk current injection \(BCI\) test | Commercial current sensor | Direct ) Tj
+T*
+ET
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 58 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 2953 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   power injection \(DPI\) test | Electromagnetic compatibility \(EMC\) | Electromagnetic ) Tj
+T*
+(   interference \(EMI\) | Hall-effect current sensors | Transverse-electromagnetic \(TEM\) ) Tj
+T*
+(   test) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Signal Processing \(Q1, rank 36, percentile 81\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 220, percentile 78\)) Tj
+T*
+(     ? Control and Systems Engineering \(Q1, rank 91, percentile 76\)) Tj
+T*
+(     ? Computer Networks and Communications \(Q1, rank 131, percentile 76\)) Tj
+T*
+(     ? Hardware and Architecture \(Q2, rank 62, percentile 73\)) Tj
+T*
+(     2019:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q3, rank 376, percentile 43\)) Tj
+T*
+(     ? Computer Networks and Communications \(Q3, rank 173, percentile 43\)) Tj
+T*
+(     ? Control and Systems Engineering \(Q3, rank 142, percentile 41\)) Tj
+T*
+(     ? Signal Processing \(Q3, rank 64, percentile 38\)) Tj
+T*
+(     ? Hardware and Architecture \(Q3, rank 109, percentile 30\)) Tj
+T*
+(   ? Source Id: 21100829272) Tj
+T*
+(   ? Author Ids: 57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60012162) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(64.) Tj
+T*
+(   ? Title: A 300mV-Supply Standard-Cell-Based OTA with Digital PWM Offset Calibration) Tj
+T*
+(   ? Venue: 2019 IEEE Nordic Circuits and Systems Conference Norcas 2019 Norchip and ) Tj
+T*
+(   International Symposium of System on Chip Soc 2019 Proceedings) Tj
+T*
+(   ? Year: 2019) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 25) Tj
+T*
+(   ? Doi: 10.1109/Norchip.2019.8906958) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85076056751) Tj
+T*
+(   ? Authors: Toledo Pedro; Aiello Orazio; Crovetti Paolo S.) Tj
+T*
+(   ? Keywords: Digital Offset Calibration | Digital-Based OTA Circuit | Internet of Things) Tj
+T*
+(    \(IoT\) | Process variability | Ultra-Low Voltage \(ULV\)) Tj
+T*
+(   ? Source Id: 21100937454) Tj
+T*
+(   ? Author Ids: 56435887500;57212143527;6506207582) Tj
+T*
+(   ? Authoraffiliationids: 60012162-60006726;60012162-60017161;60012162) Tj
+T*
+(   ? Corresponding: Toledo P.) Tj
+T*
+(65.) Tj
+T*
+(   ? Title: Ultra-low voltage current biasing highly immune to EMI) Tj
+T*
+(   ? Venue: 2019 4th IEEE International Circuits and Systems Symposium Icsys 2019) Tj
+T*
+(   ? Year: 2019) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? DOI: 10.1109/ICSyS47076.2019.8982461) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85084282721) Tj
+T*
+(   ? Authors: Aiello Orazio) Tj
+T*
+(   ? Keywords: Current Correlator | Current Splitter | Electromagnetic Interference \(EMI\) ) Tj
+T*
+(   | Subthreshold ICs | UItra Low Voltage \(ULV\) current bias) Tj
+T*
+(   ? Source Id: 21100985385) Tj
+T*
+(   ? Author Ids: 57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60012162) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(66.) Tj
+T*
+ET
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 60 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+62 0 obj
+<< /Length 2468 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Title: Ultra-low power and minimal design effort interfaces for the internet of ) Tj
+T*
+(   things: Invited paper) Tj
+T*
+(   ? Venue: 2019 4th IEEE International Circuits and Systems Symposium Icsys 2019) Tj
+T*
+(   ? Year: 2019) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 14) Tj
+T*
+(   ? DOI: 10.1109/ICSyS47076.2019.8982478) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85084279946) Tj
+T*
+(   ? Authors: Aiello Orazio; Crovetti Paolo; Alioto Massimo) Tj
+T*
+(   ? Keywords: Digital-to-Analog Converter | Fully-synthesizable | low area | low design ) Tj
+T*
+(   effort | standard cell-based | technology portable | Wake-up oscillator) Tj
+T*
+(   ? Source Id: 21100985385) Tj
+T*
+(   ? Author Ids: 57212143527;6506207582;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60012162-60017161;60012162;60017161) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(67.) Tj
+T*
+(   ? Title: Fully Synthesizable Low-Area Digital-to-Analog Converter with Graceful ) Tj
+T*
+(   Degradation and Dynamic Power-Resolution Scaling) Tj
+T*
+(   ? Venue: IEEE Transactions on Circuits and Systems I Regular Papers) Tj
+T*
+(   ? Year: 2019) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 38) Tj
+T*
+(   ? Doi: 10.1109/Tcsi.2019.2903464) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85067827146) Tj
+T*
+(   ? Issn: 15498328) Tj
+T*
+(   ? eISSN: 15580806) Tj
+T*
+(   ? Volume: 66) Tj
+T*
+(   ? Issue: 8) Tj
+T*
+(   ? Pages: 2865-2875) Tj
+T*
+(   ? Authors: Aiello Orazio; Crovetti Paolo Stefano; Alioto Massimo) Tj
+T*
+(   ? Keywords: Digital-to-analog converter \(DAC\) | fully synthesizable | graceful ) Tj
+T*
+(   degradation | power-resolution scaling) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Engineering \(all\) \(Q1, rank 28, percentile 92\)) Tj
+T*
+(     2019:) Tj
+T*
+(     ? Subject \(Q1, rank 105, percentile 84\)) Tj
+T*
+(   ? Source Id: 11000153733) Tj
+T*
+(   ? Author Ids: 57212143527;6506207582;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60017161-60012162;60012162;60017161) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(68.) Tj
+T*
+(   ? Title: Breaking the boundaries between analogue and digital) Tj
+T*
+(   ? Venue: Electronics Letters) Tj
+T*
+(   ? Year: 2019) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 25) Tj
+T*
+(   ? DOI: 10.1049/el.2019.1622) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85067796054) Tj
+T*
+(   ? Issn: 00135194) Tj
+T*
+(   ? Volume: 55) Tj
+T*
+ET
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 62 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+64 0 obj
+<< /Length 2468 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Issue: 12) Tj
+T*
+(   ? Pages: 672-673) Tj
+T*
+(   ? Authors: Crovetti P. S.; Musolino F.; Aiello O.; Toledo P.; Rubino R.) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q3, rank 624, percentile 37\)) Tj
+T*
+(     2019:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 236, percentile 64\)) Tj
+T*
+(   ? Source Id: 24918) Tj
+T*
+(   ? Author Ids: 6506207582;6506815932;57212143527;56435887500;26425174900) Tj
+T*
+(   ? Authoraffiliationids: 60012162;60012162;60012162;60012162;60012162) Tj
+T*
+(   ? Corresponding: Crovetti P.S.) Tj
+T*
+(69.) Tj
+T*
+(   ? Title: A pW-Power Hz-Range Oscillator Operating With a 0.3-1.8-V Unregulated Supply) Tj
+T*
+(   ? Venue: IEEE Journal of Solid State Circuits) Tj
+T*
+(   ? Year: 2019) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 54) Tj
+T*
+(   ? Doi: 10.1109/Jssc.2018.2886336) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85065060653) Tj
+T*
+(   ? Issn: 00189200) Tj
+T*
+(   ? eISSN: 1558173X) Tj
+T*
+(   ? Volume: 54) Tj
+T*
+(   ? Issue: 5) Tj
+T*
+(   ? Pages: 1487-1496) Tj
+T*
+(   ? Authors: Aiello Orazio; Crovetti Paolo; Lin Longyang; Alioto Massimo) Tj
+T*
+(   ? Keywords: Internet of Things \(IoT\) | pW power | relaxation oscillator | ultra-low-) Tj
+T*
+(   power logic style) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 82, percentile 91\)) Tj
+T*
+(     2019:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 58, percentile 91\)) Tj
+T*
+(   ? Source Id: 17278) Tj
+T*
+(   ? Author Ids: 57212143527;6506207582;57193750534;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60017161-60012162;60012162;60017161;60017161) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(70.) Tj
+T*
+(   ? Title: Standard Cell-Based Ultra-Compact DACs in 40-nm CMOS) Tj
+T*
+(   ? Venue: IEEE Access) Tj
+T*
+(   ? Year: 2019) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 36) Tj
+T*
+(   ? Doi: 10.1109/Access.2019.2938737) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85072578940) Tj
+T*
+(   ? eISSN: 21693536) Tj
+T*
+(   ? Volume: 7) Tj
+T*
+(   ? Pages: 126479-126488) Tj
+T*
+(   ? Authors: Aiello Orazio; Crovetti Paolo; Alioto Massimo) Tj
+T*
+(   ? Keywords: Automated design | Calibration | Digital to analog converter \(DAC\) | Fully ) Tj
+T*
+(   digital | Fully synthesizable | Standard-cell-based analog circuits | Ultra-low design ) Tj
+T*
+(   effort) Tj
+T*
+ET
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 64 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+66 0 obj
+<< /Length 2613 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Engineering \(all\) \(Q1, rank 42, percentile 88\)) Tj
+T*
+(     ? Computer Science \(all\) \(Q1, rank 41, percentile 83\)) Tj
+T*
+(     ? Materials Science \(all\) \(Q1, rank 101, percentile 78\)) Tj
+T*
+(     2019:) Tj
+T*
+(     ? Engineering \(all\) \(Q1, rank 47, percentile 84\)) Tj
+T*
+(     ? Computer Science \(all\) \(Q1, rank 45, percentile 79\)) Tj
+T*
+(     ? Materials Science \(all\) \(Q2, rank 155, percentile 66\)) Tj
+T*
+(   ? Source Id: 21100374601) Tj
+T*
+(   ? Author Ids: 57212143527;6506207582;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60012162-60017161;60012162;60017161) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(71.) Tj
+T*
+(   ? Title: Wake-up oscillators with PW power consumption in dynamic leakage suppression ) Tj
+T*
+(   logic) Tj
+T*
+(   ? Venue: Proceedings IEEE International Symposium on Circuits and Systems) Tj
+T*
+(   ? Year: 2019) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 15) Tj
+T*
+(   ? Doi: 10.1109/Iscas.2019.8702365) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85066814569) Tj
+T*
+(   ? Issn: 02714310) Tj
+T*
+(   ? Volume: 2019-May) Tj
+T*
+(   ? Authors: Aiello Orazio; Crovetti Paolo; Alioto Massimo) Tj
+T*
+(   ? Keywords: Dynamic Leakage Suppression logic | Internet of Things | PW-power | ) Tj
+T*
+(   Relaxation oscillator | Wake-up oscillator) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q3, rank 652, percentile 34\)) Tj
+T*
+(     2019:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q3, rank 388, percentile 42\)) Tj
+T*
+(   ? Source Id: 56190) Tj
+T*
+(   ? Author Ids: 57212143527;6506207582;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60012162-60017161;60012162;60017161) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(72.) Tj
+T*
+(   ? Title: A Sub-Leakage PW-Power Hz-Range Relaxation Oscillator Operating with 0.3V-1.8V) Tj
+T*
+(    Unregulated Supply) Tj
+T*
+(   ? Venue: IEEE Symposium on VLSI Circuits Digest of Technical Papers) Tj
+T*
+(   ? Year: 2018) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 22) Tj
+T*
+(   ? Doi: 10.1109/Vlsic.2018.8502413) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85056811140) Tj
+T*
+(   ? Volume: 2018-June) Tj
+T*
+(   ? Pages: 119-120) Tj
+T*
+(   ? Authors: Aiello Orazio; Crovetti Paolo; Alioto Massimo) Tj
+T*
+(   ? Source Id: 68673) Tj
+T*
+(   ? Author Ids: 57212143527;6506207582;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60017161-60012162;60012162;60017161) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+ET
+endstream
+endobj
+67 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 66 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+68 0 obj
+<< /Length 2328 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(73.) Tj
+T*
+(   ? Title: Fully Synthesizable, Rail-to-Rail Dynamic Voltage Comparator for Operation ) Tj
+T*
+(   down to 0.3 v) Tj
+T*
+(   ? Venue: Proceedings IEEE International Symposium on Circuits and Systems) Tj
+T*
+(   ? Year: 2018) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 41) Tj
+T*
+(   ? Doi: 10.1109/Iscas.2018.8351106) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85057087886) Tj
+T*
+(   ? Issn: 02714310) Tj
+T*
+(   ? Volume: 2018-May) Tj
+T*
+(   ? Authors: Aiello Orazio; Crovetti Paolo; Alioto Massimo) Tj
+T*
+(   ? Keywords: Dynamic voltage comparator | fully synthesizable | standard-cell design | ) Tj
+T*
+(   ultra-low voltage) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q3, rank 652, percentile 34\)) Tj
+T*
+(     2018:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q3, rank 382, percentile 42\)) Tj
+T*
+(   ? Source Id: 56190) Tj
+T*
+(   ? Author Ids: 57212143527;6506207582;7004256085) Tj
+T*
+(   ? Authoraffiliationids: 60017161;60012162;60017161) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(74.) Tj
+T*
+(   ? Title: Reliability of integrated overtemperature sensors in electromagnetic polluted ) Tj
+T*
+(   environment) Tj
+T*
+(   ? Venue: Technologies for Smart Sensors and Sensor Fusion) Tj
+T*
+(   ? Year: 2017) Tj
+T*
+(   ? Type: Book) Tj
+T*
+(   ? Subtype: Book Chapter) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? DOI: 10.1201/b16746) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85051967553) Tj
+T*
+(   ? Pages: 437-449) Tj
+T*
+(   ? Authors: Aiello Orazio; Fiori Franco) Tj
+T*
+(   ? Source Id: 21100873850) Tj
+T*
+(   ? Author Ids: 57212143527;7006940893) Tj
+T*
+(   ? Authoraffiliationids: 60012162;60012162) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(75.) Tj
+T*
+(   ? Title: Instrumented flexible active electrode matrix suitable for human computer ) Tj
+T*
+(   interface applications) Tj
+T*
+(   ? Venue: Biomedical Physics and Engineering Express) Tj
+T*
+(   ? Year: 2016) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 2) Tj
+T*
+(   ? Doi: 10.1088/2057-1976/2/3/035020) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85046241880) Tj
+T*
+(   ? eISSN: 20571976) Tj
+T*
+(   ? Volume: 2) Tj
+T*
+(   ? Issue: 3) Tj
+T*
+(   ? Authors: Aiello Orazio; Gargiulo Gaetano; McEwan Alistair) Tj
+T*
+ET
+endstream
+endobj
+69 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 68 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+70 0 obj
+<< /Length 2660 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Keywords: Bio-potential multi-channels acquisition systems | Biomedical and ) Tj
+T*
+(   humancomputer applications | Biopotential recording | Flexible active electrode matrix ) Tj
+T*
+(   | Scaled electrodes | Wearable devices) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Nursing \(all\) \(Q2, rank 54, percentile 62\)) Tj
+T*
+(     2016:) Tj
+T*
+(     ? Nursing \(all\) \(Q3, rank 53, percentile 45\)) Tj
+T*
+(   ? Source Id: 21100788266) Tj
+T*
+(   ? Author Ids: 57212143527;7005046530;14016086300) Tj
+T*
+(   ? Authoraffiliationids: 60017161;60017803;60090755) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(76.) Tj
+T*
+(   ? Title: Design of a neural recording amplifier robust to EMI) Tj
+T*
+(   ? Venue: 2013 Asia Pacific Symposium on Electromagnetic Compatibility Apemc 2013) Tj
+T*
+(   ? Year: 2015) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 4) Tj
+T*
+(   ? Doi: 10.1109/Apemc.2013.7360665) Tj
+T*
+(   ? Scopus ID: 2-s2.0-85002306648) Tj
+T*
+(   ? Authors: Aiello Orazio; Redoute Jean Michel) Tj
+T*
+(   ? Source Id: 21100788230) Tj
+T*
+(   ? Author Ids: 57212143527;9132437300) Tj
+T*
+(   ? Authoraffiliationids: 60012162;60019578) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(77.) Tj
+T*
+(   ? Title: Susceptibility to EMI of a Battery Management System IC for electric vehicles) Tj
+T*
+(   ? Venue: IEEE International Symposium on Electromagnetic Compatibility) Tj
+T*
+(   ? Year: 2015) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 31) Tj
+T*
+(   ? Doi: 10.1109/Isemc.2015.7256257) Tj
+T*
+(   ? Scopus ID: 2-s2.0-84953853695) Tj
+T*
+(   ? Issn: 10774076) Tj
+T*
+(   ? eISSN: 21581118) Tj
+T*
+(   ? Volume: 2015-Septmber) Tj
+T*
+(   ? Pages: 749-754) Tj
+T*
+(   ? Authors: Aiello Orazio; Crovetti Paolo S.; Fiori Franco) Tj
+T*
+(   ? Keywords: Anechoic Chamber | Battery Management System \(BMS\) | Direct Power Injection) Tj
+T*
+(    \(DPI\) | Electric Vehicles \(EVs\) | Hybrid Electric Vehicles \(HEVs\) | IC-level EMC | Li-) Tj
+T*
+(   ion Battery Pack | Susceptibility to Electromagnetic Interference \(EMI\)) Tj
+T*
+(   ? Source Id: 17274) Tj
+T*
+(   ? Author Ids: 57212143527;6506207582;7006940893) Tj
+T*
+(   ? Authoraffiliationids: 60027905;60012162;60012162) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(78.) Tj
+T*
+(   ? Title: Current sensing circuit for DC-DC converters based on the miller effect) Tj
+T*
+(   ? Venue: International Conference on Applied Electronics) Tj
+T*
+(   ? Year: 2013) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 6) Tj
+T*
+ET
+endstream
+endobj
+71 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 70 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+72 0 obj
+<< /Length 2521 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Scopus ID: 2-s2.0-84890528719) Tj
+T*
+(   ? Issn: 18037232) Tj
+T*
+(   ? Authors: Aiello Orazio; Fiori Franco) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q4, rank 822, percentile 17\)) Tj
+T*
+(   ? Source Id: 20500195429) Tj
+T*
+(   ? Author Ids: 57212143527;7006940893) Tj
+T*
+(   ? Authoraffiliationids: 60012162;60012162) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(79.) Tj
+T*
+(   ? Title: Design of a temperature-compensated CMOS relaxation oscillator) Tj
+T*
+(   ? Venue: International Conference on Applied Electronics) Tj
+T*
+(   ? Year: 2013) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Scopus ID: 2-s2.0-84890447597) Tj
+T*
+(   ? Issn: 18037232) Tj
+T*
+(   ? Authors: Aiello Orazio) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q4, rank 822, percentile 17\)) Tj
+T*
+(   ? Source Id: 20500195429) Tj
+T*
+(   ? Author Ids: 57212143527) Tj
+T*
+(   ? Authoraffiliationids: 60012162) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(80.) Tj
+T*
+(   ? Title: A new MagFET-based integrated current sensor highly immune to EMI) Tj
+T*
+(   ? Venue: Microelectronics Reliability) Tj
+T*
+(   ? Year: 2013) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 20) Tj
+T*
+(   ? DOI: 10.1016/j.microrel.2012.10.013) Tj
+T*
+(   ? Scopus ID: 2-s2.0-84875521166) Tj
+T*
+(   ? Issn: 00262714) Tj
+T*
+(   ? Volume: 53) Tj
+T*
+(   ? Issue: 4) Tj
+T*
+(   ? Pages: 573-581) Tj
+T*
+(   ? Authors: Aiello Orazio; Fiori Franco) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Safety, Risk, Reliability and Quality \(Q2, rank 84, percentile 67\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 361, percentile 63\)) Tj
+T*
+(     ? Condensed Matter Physics \(Q2, rank 202, percentile 54\)) Tj
+T*
+(     ? Surfaces, Coatings and Films \(Q2, rank 63, percentile 54\)) Tj
+T*
+(     ? Atomic and Molecular Physics, and Optics \(Q2, rank 109, percentile 54\)) Tj
+T*
+(     ? Electronic, Optical and Magnetic Materials \(Q2, rank 153, percentile 50\)) Tj
+T*
+(     2013:) Tj
+T*
+(     ? Safety, Risk, Reliability and Quality \(Q1, rank 23, percentile 81\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 181, percentile 71\)) Tj
+T*
+(     ? Surfaces, Coatings and Films \(Q2, rank 28, percentile 71\)) Tj
+T*
+(     ? Atomic and Molecular Physics, and Optics \(Q2, rank 52, percentile 66\)) Tj
+T*
+ET
+endstream
+endobj
+73 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 72 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+74 0 obj
+<< /Length 2654 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(     ? Electronic, Optical and Magnetic Materials \(Q2, rank 75, percentile 62\)) Tj
+T*
+(     ? Condensed Matter Physics \(Q2, rank 146, percentile 62\)) Tj
+T*
+(   ? Source Id: 26717) Tj
+T*
+(   ? Author Ids: 57212143527;7006940893) Tj
+T*
+(   ? Authoraffiliationids: 60012162;60012162) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(81.) Tj
+T*
+(   ? Title: A new mirroring circuit for power MOS current sensing highly immune to EMI) Tj
+T*
+(   ? Venue: Sensors Switzerland) Tj
+T*
+(   ? Year: 2013) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 20) Tj
+T*
+(   ? DOI: 10.3390/s130201856) Tj
+T*
+(   ? Scopus ID: 2-s2.0-84875178318) Tj
+T*
+(   ? Issn: 14248220) Tj
+T*
+(   ? Volume: 13) Tj
+T*
+(   ? Issue: 2) Tj
+T*
+(   ? Pages: 1856-1871) Tj
+T*
+(   ? Authors: Aiello Orazio; Fiori Franco) Tj
+T*
+(   ? Keywords: CMOS integrated circuit | Current sensor | Electromagnetic compatibility ) Tj
+T*
+(   \(EMC\) | Electromagnetic interference \(EMI\) | Miller effect | SenseFET | Smart power) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Instrumentation \(Q1, rank 19, percentile 90\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 136, percentile 86\)) Tj
+T*
+(     ? Atomic and Molecular Physics, and Optics \(Q1, rank 36, percentile 85\)) Tj
+T*
+(     ? Biochemistry \(Q1, rank 72, percentile 84\)) Tj
+T*
+(     ? Information Systems \(Q1, rank 87, percentile 82\)) Tj
+T*
+(     ? Analytical Chemistry \(Q1, rank 30, percentile 82\)) Tj
+T*
+(     2013:) Tj
+T*
+(     ? Atomic and Molecular Physics, and Optics \(Q1, rank 27, percentile 82\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 114, percentile 82\)) Tj
+T*
+(     ? Analytical Chemistry \(Q2, rank 36, percentile 62\)) Tj
+T*
+(     ? Biochemistry \(Q2, rank 180, percentile 51\)) Tj
+T*
+(   ? Source Id: 130124) Tj
+T*
+(   ? Author Ids: 57212143527;7006940893) Tj
+T*
+(   ? Authoraffiliationids: 60012162;60012162) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(82.) Tj
+T*
+(   ? Title: A new current sensor based on the Miller effect highly immune to EMI) Tj
+T*
+(   ? Venue: Cccc2012 Asia Pacific Symposium on Electromagnetic Compatibility Apemc 2012 ) Tj
+T*
+(   Proceedings) Tj
+T*
+(   ? Year: 2012) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 1) Tj
+T*
+(   ? Doi: 10.1109/Apemc.2012.6238001) Tj
+T*
+(   ? Scopus ID: 2-s2.0-84864854553) Tj
+T*
+(   ? Pages: 69-72) Tj
+T*
+(   ? Authors: Aiello Orazio; Fiori Franco) Tj
+T*
+(   ? Source Id: 21100208078) Tj
+T*
+(   ? Author Ids: 57212143527;7006940893) Tj
+T*
+(   ? Authoraffiliationids: 60012162;60012162) Tj
+T*
+ET
+endstream
+endobj
+75 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 74 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+76 0 obj
+<< /Length 2568 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Corresponding: Aiello O.) Tj
+T*
+(83.) Tj
+T*
+(   ? Title: On the susceptibility of embedded thermal shutdown circuit to radio frequency ) Tj
+T*
+(   interference) Tj
+T*
+(   ? Venue: IEEE Transactions on Electromagnetic Compatibility) Tj
+T*
+(   ? Year: 2012) Tj
+T*
+(   ? Type: Journal) Tj
+T*
+(   ? Subtype: Article) Tj
+T*
+(   ? Citations: 17) Tj
+T*
+(   ? Doi: 10.1109/Temc.2011.2169964) Tj
+T*
+(   ? Scopus ID: 2-s2.0-84860192091) Tj
+T*
+(   ? Issn: 00189375) Tj
+T*
+(   ? Volume: 54) Tj
+T*
+(   ? Issue: 2) Tj
+T*
+(   ? Pages: 405-412) Tj
+T*
+(   ? Authors: Aiello Orazio; Fiori Franco) Tj
+T*
+(   ? Keywords: CMOS integrated circuits \(ICs\) | distortion | electromagnetic interference ) Tj
+T*
+(   \(EMI\) | power semiconductor devices | temperature measurement) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q2, rank 303, percentile 69\)) Tj
+T*
+(     ? Condensed Matter Physics \(Q2, rank 151, percentile 66\)) Tj
+T*
+(     ? Atomic and Molecular Physics, and Optics \(Q2, rank 83, percentile 65\)) Tj
+T*
+(     2012:) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q1, rank 90, percentile 85\)) Tj
+T*
+(     ? Atomic and Molecular Physics, and Optics \(Q1, rank 23, percentile 84\)) Tj
+T*
+(     ? Condensed Matter Physics \(Q1, rank 64, percentile 83\)) Tj
+T*
+(   ? Source Id: 26051) Tj
+T*
+(   ? Author Ids: 57212143527;7006940893) Tj
+T*
+(   ? Authoraffiliationids: 60012162;60012162) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(84.) Tj
+T*
+(   ? Title: Investigation on the susceptibility of hall-effect current sensors to EMI) Tj
+T*
+(   ? Venue: Proceedings of EMC Europe 2011 York 10th International Symposium on ) Tj
+T*
+(   Electromagnetic Compatibility) Tj
+T*
+(   ? Year: 2011) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 15) Tj
+T*
+(   ? Scopus ID: 2-s2.0-83155163797) Tj
+T*
+(   ? Pages: 368-372) Tj
+T*
+(   ? Authors: Aiello Orazio; Crovetti Paolo; Fiori Franco) Tj
+T*
+(   ? Source Id: 20700195003) Tj
+T*
+(   ? Author Ids: 57212143527;6506207582;7006940893) Tj
+T*
+(   ? Authoraffiliationids: 60012162;60012162;60012162) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(85.) Tj
+T*
+(   ? Title: A new current sensor based on MagFET highly immune to EMI) Tj
+T*
+(   ? Venue: Proceedings of the 2009 International Conference on Electromagnetics in ) Tj
+T*
+(   Advanced Applications Iceaa 09) Tj
+T*
+(   ? Year: 2009) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 4) Tj
+T*
+ET
+endstream
+endobj
+77 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 76 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+78 0 obj
+<< /Length 1772 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 802 Td
+(   ? Doi: 10.1109/Iceaa.2009.5297310) Tj
+T*
+(   ? Scopus ID: 2-s2.0-72849114479) Tj
+T*
+(   ? Pages: 784-787) Tj
+T*
+(   ? Authors: Aiello O.; Fiori F.) Tj
+T*
+(   ? Source Id: 19500157425) Tj
+T*
+(   ? Author Ids: 57212143527;7006940893) Tj
+T*
+(   ? Authoraffiliationids: 60085203;60012162) Tj
+T*
+(   ? Corresponding: Aiello O.) Tj
+T*
+(86.) Tj
+T*
+(   ? Title: STDP with adaptive synaptic delay for robot navigation control) Tj
+T*
+(   ? Venue: Proceedings of SPIE the International Society for Optical Engineering) Tj
+T*
+(   ? Year: 2007) Tj
+T*
+(   ? Type: Conference Proceeding) Tj
+T*
+(   ? Subtype: Conference Paper) Tj
+T*
+(   ? Citations: 0) Tj
+T*
+(   ? Doi: 10.1117/12.724204) Tj
+T*
+(   ? Scopus ID: 2-s2.0-36248941921) Tj
+T*
+(   ? Issn: 0277786x) Tj
+T*
+(   ? Volume: 6592) Tj
+T*
+(   ? Authors: Arena Paolo; Patan√© Luca; Distefano Francesco; Bucolo Sebastiano; Aiello ) Tj
+T*
+(   Orazio) Tj
+T*
+(   ? Keywords: Hexapod robot | STDP | Visual cue-based navigation) Tj
+T*
+(   ? Quartile:) Tj
+T*
+(     2025:) Tj
+T*
+(     ? Instrumentation \(Q4, rank 157, percentile 16\)) Tj
+T*
+(     ? Electrical and Electronic Engineering \(Q4, rank 873, percentile 12\)) Tj
+T*
+(     ? Computer Science Applications \(Q4, rank 893, percentile 9\)) Tj
+T*
+(     ? Applied Mathematics \(Q4, rank 625, percentile 6\)) Tj
+T*
+(     ? Electronic, Optical and Magnetic Materials \(Q4, rank 294, percentile 5\)) Tj
+T*
+(     ? Condensed Matter Physics \(Q4, rank 425, percentile 4\)) Tj
+T*
+(   ? Source Id: 40067) Tj
+T*
+(   ? Author Ids: 23003603300;6603946091;23004222200;23003779100;57212143527) Tj
+T*
+(   ? Authoraffiliationids: ) Tj
+T*
+(   60010146;60010146;60010146-60083732;60010146-60083732;60010146-60083732) Tj
+T*
+(   ? Corresponding: Arena P.) Tj
+T*
+() Tj
+T*
+ET
+endstream
+endobj
+79 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 78 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+xref
+0 80
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000379 00000 n 
+0000000449 00000 n 
+0000002807 00000 n 
+0000002933 00000 n 
+0000005412 00000 n 
+0000005538 00000 n 
+0000008147 00000 n 
+0000008273 00000 n 
+0000011087 00000 n 
+0000011215 00000 n 
+0000014154 00000 n 
+0000014282 00000 n 
+0000016966 00000 n 
+0000017094 00000 n 
+0000019744 00000 n 
+0000019872 00000 n 
+0000022485 00000 n 
+0000022613 00000 n 
+0000025466 00000 n 
+0000025594 00000 n 
+0000028227 00000 n 
+0000028355 00000 n 
+0000031141 00000 n 
+0000031269 00000 n 
+0000034030 00000 n 
+0000034158 00000 n 
+0000036854 00000 n 
+0000036982 00000 n 
+0000039579 00000 n 
+0000039707 00000 n 
+0000042205 00000 n 
+0000042333 00000 n 
+0000045102 00000 n 
+0000045230 00000 n 
+0000048075 00000 n 
+0000048203 00000 n 
+0000050977 00000 n 
+0000051105 00000 n 
+0000053702 00000 n 
+0000053830 00000 n 
+0000056299 00000 n 
+0000056427 00000 n 
+0000059278 00000 n 
+0000059406 00000 n 
+0000062361 00000 n 
+0000062489 00000 n 
+0000065485 00000 n 
+0000065613 00000 n 
+0000068113 00000 n 
+0000068241 00000 n 
+0000071218 00000 n 
+0000071346 00000 n 
+0000074074 00000 n 
+0000074202 00000 n 
+0000076963 00000 n 
+0000077091 00000 n 
+0000079839 00000 n 
+0000079967 00000 n 
+0000082973 00000 n 
+0000083101 00000 n 
+0000085622 00000 n 
+0000085750 00000 n 
+0000088271 00000 n 
+0000088399 00000 n 
+0000091065 00000 n 
+0000091193 00000 n 
+0000093574 00000 n 
+0000093702 00000 n 
+0000096415 00000 n 
+0000096543 00000 n 
+0000099117 00000 n 
+0000099245 00000 n 
+0000101952 00000 n 
+0000102080 00000 n 
+0000104701 00000 n 
+0000104829 00000 n 
+0000106654 00000 n 
+trailer
+<< /Size 80 /Root 1 0 R >>
+startxref
+106782
+%%EOF

@@ -1,0 +1,1934 @@
+# Rizzuto Enrico
+
+## Overview
+- **Unit:** NAV
+- **Role:** Professore ordinario
+- **Grade:** Prof.Ordinario Legge 240/10 - t.pieno - classe 4
+- **SSD:** IIND-01/B (Costruzioni e impianti navali)
+- **Scopus ID:** 6602173744
+- **UNIGE ID:** 053390
+- **Retrieved at:** 2025-11-14T15:14:19.638920
+
+## Contact
+- **Email:** enrico.rizzuto@unige.it
+- **Phone:** +39 010 33 52340
+- **Page:** https://rubrica.unige.it/personale/VUZEWFNp
+- **Locations:** Villa Cambiaso - padiglioni (ED_161450103), 1° piano, US_161450103.I.017
+
+## Career
+- PO, 2018-12-31 → 2222-02-02
+
+## Responsibilities
+- **Title:** Vice Presidente
+  - **Unit:** Centro del mare
+  - **Period:** 2023-01-01 → 2025-12-31
+
+## Teaching
+### 2025
+- Costruzioni Navali 1 (101555), L-9 - Ingegneria Navale
+- Costruzioni Navali 3 (101559), L-9 - Ingegneria Navale
+- Sicurezza Delle Strutture Marine (56840), Lm-34 - Ingegneria Navale
+
+### 2024
+- Costruzioni Navali 3 (101559), L-9 - Ingegneria Navale
+- Sicurezza Delle Strutture Marine (56840), Lm-34 - Ingegneria Navale
+
+### 2023
+- Costruzioni Navali 3 (101559), L-9 - Ingegneria Navale
+- Sicurezza Delle Strutture Navali (56840), Lm-34 - Ingegneria Navale
+
+### 2022
+- Costruzioni Navali 3 (101559), L-9 - Ingegneria Navale
+- Costruzioni Navali 5 (56840), Lm-34 - Ingegneria Navale
+
+### 2021
+- Costruzioni Navali 3 (101559), L-9 - Ingegneria Navale
+- Costruzioni Navali 5 (56840), Lm-34 - Ingegneria Navale
+
+### 2020
+- Costruzioni Navali Ii (90573), L-9 - Ingegneria Navale
+- Costruzioni Navali 5 (56840), Lm-34 - Ingegneria Navale
+
+## Scopus Metrics
+- absolute; Docs: 102; Journals: 28; Conferences: 62; Citations: 1014; H-index: 18
+- 15 years (2010-2025); Docs: 85; Journals: 25; Conferences: 50; Citations: 932; H-index: 18
+- 10 years (2015-2025); Docs: 56; Journals: 19; Conferences: 34; Citations: 573; H-index: 14
+- 05 years (2020-2025); Docs: 22; Journals: 8; Conferences: 12; Citations: 144; H-index: 6
+
+## Scopus Products
+1.
+   - **Title:** Uncertainties in the Evaluation of the Structural Capacity of the Hull Girder
+   - **Venue:** Progress in Marine Science and Technology
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.3233/PMST250088
+   - **Scopus ID:** 2-s2.0-105016235815
+   - **ISSN:** 25430955
+   - **eISSN:** 25430963
+   - **Volume:** 10
+   - **Pages:** 745-753
+   - **Authors:** Gaggero Tomaso; Rizzuto Enrico
+   - **Keywords:** BIAS | geometrical | material uncertainties | Model | Uncertainties
+   - **Quartile:**
+     2025:
+     - Safety, Risk, Reliability and Quality (Q4, rank 200, percentile 22)
+     - Ocean Engineering (Q4, rank 99, percentile 15)
+     - Mechanical Engineering (Q4, rank 640, percentile 13)
+   - **Source Id:** 21101107127
+   - **Author Ids:** 55212255700;6602173744
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Gaggero T.
+2.
+   - **Title:** Propeller design by optimisation for underwater radiated noise reduction: a full scale application
+   - **Venue:** Ocean Engineering
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1016/j.oceaneng.2025.121412
+   - **Scopus ID:** 2-s2.0-105005290279
+   - **ISSN:** 00298018
+   - **Volume:** 333
+   - **Authors:** Gaggero Stefano; Gaggero Tomaso; Tani Giorgio; Villa Diego; Rizzuto Enrico; Pinto Ottavio; Becchi Paolo; De Angelis Emilio; Viviani Michele
+   - **Keywords:** Cavitation | Optimisation | Propeller design | Underwater radiated noise
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 6, percentile 95)
+     - Environmental Engineering (Q1, rank 38, percentile 83)
+   - **Source Id:** 28339
+   - **Author Ids:** 6503976905;55212255700;55355605100;56250522200;6602173744;55820385800;12784057800;57205145488;58090077400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60083109;60122238;60122238;60025153
+   - **Corresponding:** Gaggero S.
+3.
+   - **Title:** Quantification of airborne noise emitted by ships based on class notation
+   - **Venue:** Ocean Engineering
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1016/j.oceaneng.2024.117085
+   - **Scopus ID:** 2-s2.0-85185564476
+   - **ISSN:** 00298018
+   - **Volume:** 296
+   - **Authors:** Biot Marco; Borelli Davide; Gaggero Tomaso; Lembo Enrico; Mocerino Luigia; Rognoni Giovanni; Schenone Corrado; Rizzuto Enrico; Viscardi Massimo
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 6, percentile 95)
+     - Environmental Engineering (Q1, rank 38, percentile 83)
+     2024:
+     - Ocean Engineering (Q1, rank 12, percentile 89)
+     - Environmental Engineering (Q1, rank 45, percentile 79)
+   - **Source Id:** 28339
+   - **Author Ids:** 23392103900;55213513300;55212255700;57894014100;57202288234;57772916500;6603458786;6602173744;6603757201
+   - **Authoraffiliationids:** 60018363;60025153;60025153;60083109;60017293;60018363;60025153;60025153;60017293
+   - **Corresponding:** Biot M.
+4.
+   - **Title:** A supervised statistical learning approach to the preliminary design of cruise ship Gross Tonnage
+   - **Venue:** Applied Ocean Research
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1016/j.apor.2023.103837
+   - **Scopus ID:** 2-s2.0-85181773840
+   - **ISSN:** 01411187
+   - **Volume:** 143
+   - **Authors:** Lepore Antonio; Mocerino Luigia; Palumbo Biagio; Rizzuto Enrico; Rossi Emanuele; Vitiello Luigi
+   - **Keywords:** Cruise ship | Gross Tonnage | Relative least-squares regression | Statistical learning
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 15, percentile 87)
+     2024:
+     - Ocean Engineering (Q1, rank 8, percentile 93)
+   - **Source Id:** 26776
+   - **Author Ids:** 36761079700;57202288234;36929005200;6602173744;58799927300;57190090274
+   - **Authoraffiliationids:** 60017293;60017293;60017293;60025153;60017293;60017293
+   - **Corresponding:** Lepore A.
+5.
+   - **Title:** Numerical Models For The Prediction Of Ship Airborne Noise Emissions
+   - **Venue:** Proceedings of the International Congress on Sound and Vibration
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85205351211
+   - **eISSN:** 23293675
+   - **Authors:** Biot Marco; Rognoni Giovanni; Schenone Corrado; Borelli Davide; Rizzuto Enrico; Gaggero Tomaso; Mocerino Luigia; Viscardi Massimo
+   - **Keywords:** noise emission | ray-tracing | ship | simulation
+   - **Source Id:** 21101140400
+   - **Author Ids:** 23392103900;57772916500;6603458786;55213513300;6602173744;55212255700;57202288234;6603757201
+   - **Authoraffiliationids:** 60018363;60018363;60025153;60025153;60025153;60025153;60017293;60017293
+   - **Corresponding:** Biot M.
+6.
+   - **Title:** Characterizing onboard noise in ships: Insights from statistical, machine learning and advanced noise index analyses
+   - **Venue:** Ocean Engineering
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1016/j.oceaneng.2023.115273
+   - **Scopus ID:** 2-s2.0-85165388291
+   - **ISSN:** 00298018
+   - **Volume:** 285
+   - **Authors:** Bocanegra Johan A.; Borelli Davide; Gaggero Tomaso; Rizzuto Enrico; Schenone Corrado
+   - **Keywords:** Clustering | Low frequency | Machine learning | Room criteria | Ship noise | Tonal noise
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 6, percentile 95)
+     - Environmental Engineering (Q1, rank 38, percentile 83)
+     2023:
+     - Ocean Engineering (Q1, rank 14, percentile 87)
+     - Environmental Engineering (Q1, rank 48, percentile 75)
+   - **Source Id:** 28339
+   - **Author Ids:** 57215288456;55213513300;55212255700;6602173744;6603458786
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bocanegra J.A.
+7.
+   - **Title:** SHIP URN: UNIGE Activities in the Context of LIFE-PIAQUO Project
+   - **Venue:** Progress in Marine Science and Technology
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.3233/PMST220061
+   - **Scopus ID:** 2-s2.0-85138200266
+   - **ISSN:** 25430955
+   - **eISSN:** 25430963
+   - **Volume:** 6
+   - **Pages:** 512-521
+   - **Authors:** Gaggero Stefano; Gaggero Tomaso; Tani Giorgio; Villa Diego; Rizzuto Enrico; Viviani Michele
+   - **Keywords:** Cavitation | Cavitation detection | Noise mapping | Optimization | Propeller design | Underwater radiated noise
+   - **Quartile:**
+     2025:
+     - Safety, Risk, Reliability and Quality (Q4, rank 200, percentile 22)
+     - Ocean Engineering (Q4, rank 99, percentile 15)
+     - Mechanical Engineering (Q4, rank 640, percentile 13)
+     2022:
+     - Ocean Engineering (Q4, rank 91, percentile 9)
+     - Safety, Risk, Reliability and Quality (Q4, rank 178, percentile 7)
+     - Mechanical Engineering (Q4, rank 600, percentile 4)
+   - **Source Id:** 21101107127
+   - **Author Ids:** 6503976905;55212255700;55355605100;56250522200;6602173744;58090077400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaggero S.
+8.
+   - **Title:** Preface
+   - **Venue:** Progress in Marine Science and Technology
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Editorial
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85138173330
+   - **ISSN:** 25430955
+   - **eISSN:** 25430963
+   - **Volume:** 6
+   - **Pages:** v
+   - **Authors:** Rizzuto Enrico
+   - **Quartile:**
+     2025:
+     - Safety, Risk, Reliability and Quality (Q4, rank 200, percentile 22)
+     - Ocean Engineering (Q4, rank 99, percentile 15)
+     - Mechanical Engineering (Q4, rank 640, percentile 13)
+     2022:
+     - Ocean Engineering (Q4, rank 91, percentile 9)
+     - Safety, Risk, Reliability and Quality (Q4, rank 178, percentile 7)
+     - Mechanical Engineering (Q4, rank 600, percentile 4)
+   - **Source Id:** 21101107127
+   - **Author Ids:** 6602173744
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Rizzuto E.
+9.
+   - **Title:** A novel approach to port noise characterization using an acoustic camera
+   - **Venue:** Science of the Total Environment
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 27
+   - **DOI:** 10.1016/j.scitotenv.2021.151903
+   - **Scopus ID:** 2-s2.0-85120668089
+   - **ISSN:** 00489697
+   - **eISSN:** 18791026
+   - **Volume:** 808
+   - **Authors:** Bocanegra Johan Augusto; Borelli Davide; Gaggero Tomaso; Rizzuto Enrico; Schenone Corrado
+   - **Keywords:** Acoustic camera | Beamforming technique | Noise measurements | Port noise | Ship noise
+   - **Quartile:**
+     2025:
+     - Pollution (Q1, rank 9, percentile 95)
+     - Environmental Engineering (Q1, rank 13, percentile 94)
+     - Waste Management and Disposal (Q1, rank 11, percentile 93)
+     - Environmental Chemistry (Q1, rank 11, percentile 93)
+     2022:
+     - Environmental Engineering (Q1, rank 8, percentile 95)
+     - Pollution (Q1, rank 7, percentile 95)
+     - Environmental Chemistry (Q1, rank 7, percentile 95)
+     - Waste Management and Disposal (Q1, rank 9, percentile 92)
+   - **Source Id:** 25349
+   - **Author Ids:** 57215288456;55213513300;55212255700;6602173744;6603458786
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bocanegra J.A.
+10.
+   - **Title:** Modal Response Of Cabins At Low Frequencies In A Ro-Pax Vessel
+   - **Venue:** Proceedings of the International Congress on Sound and Vibration
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-85149822408
+   - **eISSN:** 23293675
+   - **Authors:** Bocanegra Johan Augusto; Borelli Davide; Gaggero Tomaso; Rizzuto Enrico; Schenone Corrado
+   - **Keywords:** acoustic comfort | eigenmodes | onboard noise | port noise | ship noise
+   - **Source Id:** 21101140400
+   - **Author Ids:** 57215288456;55213513300;55212255700;6602173744;6603458786
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bocanegra J.A.
+11.
+   - **Title:** Evaluation Of Measurement Uncertainties In The Assessment Of The Noise Impact Of Ships
+   - **Venue:** Proceedings of the International Congress on Sound and Vibration
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85149818938
+   - **eISSN:** 23293675
+   - **Authors:** Massimo Viscardi; Rizzuto Enrico; De Angelis Emilio
+   - **Keywords:** noise measurements | underwater noise propagation | Underwater ship noise
+   - **Source Id:** 21101140400
+   - **Author Ids:** 6603757201;6602173744;57205145488
+   - **Authoraffiliationids:** 114851910;60025153;60122238
+   - **Corresponding:** Massimo V.
+12.
+   - **Title:** Validation of an Emission Model for a Marine Diesel Engine with Data from Sea Operations
+   - **Venue:** Journal of Marine Science and Application
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 28
+   - **DOI:** 10.1007/s11804-021-00227-w
+   - **Scopus ID:** 2-s2.0-85114033836
+   - **ISSN:** 16719433
+   - **eISSN:** 19935048
+   - **Volume:** 20
+   - **Issue:** 3
+   - **Pages:** 534-545
+   - **Authors:** Mocerino Luigia; Soares C. Guedes; Rizzuto Enrico; Balsamo Flavio; Quaranta Franco
+   - **Keywords:** Exhaust emissions | Four-stroke engine | Marine diesel engine model | Nitrogen oxide emissions | Sea trials | Simulation
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q2, rank 39, percentile 66)
+     - Mechanical Engineering (Q2, rank 253, percentile 65)
+     2021:
+     - Ocean Engineering (Q2, rank 46, percentile 53)
+     - Mechanical Engineering (Q3, rank 313, percentile 48)
+   - **Source Id:** 5400152711
+   - **Author Ids:** 57202288234;56978160800;6602173744;25924775200;7004685323
+   - **Authoraffiliationids:** 60017293;60004956;60025153;60017293;60017293
+   - **Corresponding:** Mocerino L.
+13.
+   - **Title:** Onboard ship noise: Acoustic comfort in cabins
+   - **Venue:** Applied Acoustics
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 45
+   - **DOI:** 10.1016/j.apacoust.2021.107912
+   - **Scopus ID:** 2-s2.0-85099781373
+   - **ISSN:** 0003682X
+   - **eISSN:** 1872910X
+   - **Volume:** 177
+   - **Authors:** Borelli Davide; Gaggero Tomaso; Rizzuto Enrico; Schenone Corrado
+   - **Keywords:** Acoustic comfort | Noise indexes | Onboard ship noise | Passenger cabins | Spectral analysis
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q1, rank 6, percentile 89)
+     2021:
+     - Acoustics and Ultrasonics (Q1, rank 7, percentile 84)
+   - **Source Id:** 12946
+   - **Author Ids:** 55213513300;55212255700;6602173744;6603458786
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Borelli D.
+14.
+   - **Title:** Airborne noise emissions from marine vessels: An analysis based on measurements in port
+   - **Venue:** Developments in Maritime Technology and Engineering Proceedings of the 5th International Conference on Maritime Technology and Engineering Martech 2020
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1201/9781003216582-39
+   - **Scopus ID:** 2-s2.0-85145495749
+   - **Volume:** 1
+   - **Pages:** 349-355
+   - **Authors:** Mocerino L.; Quaranta F.; Viscardi M.; Rizzuto E.
+   - **Source Id:** 21101129854
+   - **Author Ids:** 57202288234;7004685323;6603757201;6602173744
+   - **Authoraffiliationids:** 60017293;60017293;60017293;60025153
+   - **Corresponding:** Mocerino L.
+15.
+   - **Title:** Analysis of ship performance data for the evaluation of marine engines emissions in ports
+   - **Venue:** Developments in Maritime Technology and Engineering Proceedings of the 5th International Conference on Maritime Technology and Engineering Martech 2020
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1201/9781003216599-47
+   - **Scopus ID:** 2-s2.0-85145495333
+   - **Volume:** 2
+   - **Pages:** 449-456
+   - **Authors:** Altosole M.; Balsamo F.; Mocerino L.; Quaranta F.; Campora U.; Rizzuto E.
+   - **Source Id:** 21101129854
+   - **Author Ids:** 13006187800;25924775200;57202288234;7004685323;6508251998;6602173744
+   - **Authoraffiliationids:** 60017293;60017293;60017293;60017293;60025153;60025153
+   - **Corresponding:** Altosole M.
+16.
+   - **Title:** Statistical Analysis of Installed Power on Board Modern Cruise Ships
+   - **Venue:** Lecture Notes in Civil Engineering
+   - **Year:** 2021
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/978-981-15-4672-3_48
+   - **Scopus ID:** 2-s2.0-85092741536
+   - **ISSN:** 23662557
+   - **eISSN:** 23662565
+   - **Volume:** 64 Lnce
+   - **Pages:** 769-783
+   - **Authors:** Mocerino Luigia; Rizzuto Enrico
+   - **Keywords:** Cruise vessels | Hotelling power | Regression analysis | Statistical analysis techniques | Total installed power
+   - **Quartile:**
+     2025:
+     - Civil and Structural Engineering (Q4, rank 373, percentile 10)
+     2021:
+     - Civil and Structural Engineering (Q4, rank 296, percentile 9)
+   - **Source Id:** 21100889404
+   - **Author Ids:** 57202288234;6602173744
+   - **Authoraffiliationids:** 60017293;60025153
+   - **Corresponding:** Mocerino L.
+17.
+   - **Title:** Evaluating LIDAR Sensors for the Survey of Emissions from Ships at Harbor
+   - **Venue:** Lecture Notes in Civil Engineering
+   - **Year:** 2021
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1007/978-981-15-4672-3_49
+   - **Scopus ID:** 2-s2.0-85092709099
+   - **ISSN:** 23662557
+   - **eISSN:** 23662565
+   - **Volume:** 64 Lnce
+   - **Pages:** 784-796
+   - **Authors:** Boselli Antonella; de Marco Carmen; Mocerino Luigia; Murena Fabio; Quaranta Franco; Rizzuto Enrico; Sannino Alessia; Spinelli Nicola; Xuan Wang
+   - **Keywords:** Emissions from ships | Harbor | LIDAR | Remote sensing
+   - **Quartile:**
+     2025:
+     - Civil and Structural Engineering (Q4, rank 373, percentile 10)
+     2021:
+     - Civil and Structural Engineering (Q4, rank 296, percentile 9)
+   - **Source Id:** 21100889404
+   - **Author Ids:** 7005899926;57204788424;57202288234;7004062416;7004685323;6602173744;56579935500;7004307916;25825895800
+   - **Authoraffiliationids:** 60021199;60335446;60017293;60017293;60017293;60025153;60017293;60017293;60021199
+   - **Corresponding:** Boselli A.
+18.
+   - **Title:** Remote and optical monitoring techniques applied to the maritime sector
+   - **Venue:** Journal of Physics Conference Series
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1088/1742-6596/1589/1/012016
+   - **Scopus ID:** 2-s2.0-85090047949
+   - **ISSN:** 17426588
+   - **eISSN:** 17426596
+   - **Volume:** 1589
+   - **Issue:** 1
+   - **Authors:** Boselli A.; De Marco C.; Mocerino L.; Murena F.; Quaranta F.; Rizzuto E.; Sannino A.; Spinelli N.
+   - **Quartile:**
+     2025:
+     - Physics and Astronomy (all) (Q4, rank 192, percentile 22)
+     2020:
+     - Physics and Astronomy (all) (Q4, rank 191, percentile 18)
+   - **Source Id:** 130053
+   - **Author Ids:** 7005899926;57204788424;57202288234;7004062416;7004685323;6602173744;56579935500;7004307916
+   - **Authoraffiliationids:** 100491638;60335446;60017293;60017293;60017293;60025153;60017293;60017293
+   - **Corresponding:** Boselli A.
+19.
+   - **Title:** Committee V.1: Accidental Limit States
+   - **Venue:** Progress in Marine Science and Technology
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.3233/PMST200010
+   - **Scopus ID:** 2-s2.0-85137843676
+   - **ISSN:** 25430955
+   - **eISSN:** 25430963
+   - **Volume:** 4
+   - **Pages:** 159-177
+   - **Authors:** Rizzuto E.; Brubak L.; Hu Z.; Kim G. S.; Körgesaar M.; Nahshon K.; Nilva A.; Schipperen I.; Stadie-Frohboes G.; Suzuki K.; Tabri K.; Wægter J.
+   - **Quartile:**
+     2025:
+     - Safety, Risk, Reliability and Quality (Q4, rank 200, percentile 22)
+     - Ocean Engineering (Q4, rank 99, percentile 15)
+     - Mechanical Engineering (Q4, rank 640, percentile 13)
+   - **Source Id:** 21101107127
+   - **Author Ids:** 6602173744;18036851400;59601164900;59684839800;55756277400;23470080300;23089158900;35085515200;57190444702;59609609600;24484111400;6602228767
+   - **Corresponding:** Rizzuto E.
+20.
+   - **Title:** A new identification method for non-linear roll resonance in irregular waves
+   - **Venue:** Ocean Engineering
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1016/j.oceaneng.2019.106809
+   - **Scopus ID:** 2-s2.0-85076632265
+   - **ISSN:** 00298018
+   - **Volume:** 197
+   - **Authors:** Acanfora Maria; Balsamo Flavio; Lauria Davide; Rizzuto Enrico
+   - **Keywords:** Non-linear resonance | Ship dynamics
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 6, percentile 95)
+     - Environmental Engineering (Q1, rank 38, percentile 83)
+     2020:
+     - Ocean Engineering (Q1, rank 9, percentile 91)
+     - Environmental Engineering (Q1, rank 29, percentile 80)
+   - **Source Id:** 28339
+   - **Author Ids:** 57193798858;25924775200;56259655200;6602173744
+   - **Authoraffiliationids:** 60017293;60017293;60017293;60025153
+   - **Corresponding:** Acanfora M.
+21.
+   - **Title:** Computer model application to the evaluation of energy efficiency measures for cruise ships
+   - **Venue:** Sustainable Development and Innovations in Marine Technologies Proceedings of the 18th International Congress of the International Maritime Association of the Mediterranean Imam 2019
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-85079223335
+   - **Pages:** 369-374
+   - **Authors:** Mocerino L.; Rizzuto E.
+   - **Source Id:** 21100944631
+   - **Author Ids:** 57202288234;6602173744
+   - **Authoraffiliationids:** 60017293;60025153
+   - **Corresponding:** Mocerino L.
+22.
+   - **Title:** Preliminary approach to the application of the environmental ship index
+   - **Venue:** Sustainable Development and Innovations in Marine Technologies Proceedings of the 18th International Congress of the International Maritime Association of the Mediterranean Imam 2019
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **Scopus ID:** 2-s2.0-85079208499
+   - **Pages:** 285-291
+   - **Authors:** Mocerino L.; Rizzuto E.
+   - **Source Id:** 21100944631
+   - **Author Ids:** 57202288234;6602173744
+   - **Authoraffiliationids:** 60017293;60025153
+   - **Corresponding:** Mocerino L.
+23.
+   - **Title:** Time domain predictions of inertial loads on a drifting ship in irregular beam waves
+   - **Venue:** Ocean Engineering
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 19
+   - **DOI:** 10.1016/j.oceaneng.2019.01.051
+   - **Scopus ID:** 2-s2.0-85061341449
+   - **ISSN:** 00298018
+   - **Volume:** 174
+   - **Pages:** 135-147
+   - **Authors:** Acanfora Maria; Rizzuto Enrico
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 6, percentile 95)
+     - Environmental Engineering (Q1, rank 38, percentile 83)
+     2019:
+     - Ocean Engineering (Q1, rank 12, percentile 87)
+     - Environmental Engineering (Q1, rank 32, percentile 76)
+   - **Source Id:** 28339
+   - **Author Ids:** 57193798858;6602173744
+   - **Authoraffiliationids:** 60017293;60017293
+   - **Corresponding:** Acanfora M.
+24.
+   - **Title:** A numerical code for underwater noise propagation
+   - **Venue:** Matec Web of Conferences
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1051/matecconf/201821005017
+   - **Scopus ID:** 2-s2.0-85055510524
+   - **eISSN:** 2261236X
+   - **Volume:** 210
+   - **Authors:** Faggio Antonio; Viscardi Massimo; Coppola Tommaso; Rizzuto Enrico
+   - **Source Id:** 21100316064
+   - **Author Ids:** 57204434671;6603757201;56511683200;6602173744
+   - **Authoraffiliationids:** 60017293;60017293;60017293;60017293
+   - **Corresponding:** Faggio A.
+25.
+   - **Title:** Logistics-based fleet design for complex transportation scenarios
+   - **Venue:** Ships and Offshore Structures
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1080/17445302.2018.1454095
+   - **Scopus ID:** 2-s2.0-85044468567
+   - **ISSN:** 17445302
+   - **Volume:** 13
+   - **Issue:** 7
+   - **Pages:** 734-749
+   - **Authors:** Gaggero Tomaso; Vernengo Giuliano; Parodi Marco; Rizzuto Enrico
+   - **Keywords:** compressed natural gas (CNG) | decision-making support | design of experiments (DoE) | fleet synthesis model (FSM) | logistics | Simulation-based design (SBD)
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q2, rank 33, percentile 71)
+     - Mechanical Engineering (Q2, rank 235, percentile 68)
+     2018:
+     - Ocean Engineering (Q2, rank 30, percentile 68)
+     - Mechanical Engineering (Q2, rank 199, percentile 66)
+   - **Source Id:** 19700186818
+   - **Author Ids:** 55212255700;37662376400;57201356315;6602173744
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60017293
+   - **Corresponding:** Gaggero T.
+26.
+   - **Title:** Committee v.1 accidental limit states
+   - **Venue:** Progress in Marine Science and Technology
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.3233/978-1-61499-864-8-1
+   - **Scopus ID:** 2-s2.0-85138425738
+   - **ISSN:** 25430955
+   - **eISSN:** 25430963
+   - **Volume:** 2
+   - **Pages:** 1-72
+   - **Authors:** Rizzuto E.; Brubak L.; Hu Z.; Kim G. S.; Kõrgesaar M.; Nahshon K.; Nilva A.; Schipperen I.; Stadie-Frohboes G.; Suzuki K.; Tabri K.; Wægter J.
+   - **Keywords:** Abnormal environmental event | Accidental situations Limit states | Benchmark on grounding simulation | Collision | Emergency Response Service | Explosion Fires | Grounding
+   - **Quartile:**
+     2025:
+     - Safety, Risk, Reliability and Quality (Q4, rank 200, percentile 22)
+     - Ocean Engineering (Q4, rank 99, percentile 15)
+     - Mechanical Engineering (Q4, rank 640, percentile 13)
+   - **Source Id:** 21101107127
+   - **Author Ids:** 6602173744;18036851400;59602553700;23011986200;55756277400;23470080300;23089158900;35085515200;57190444702;59073632800;24484111400;6602228767
+   - **Corresponding:** Rizzuto E.
+27.
+   - **Title:** Climate changes and maritime transportation: A state of the art
+   - **Venue:** Technology and Science for the Ships of the Future Proceedings of Nav 2018 19th International Conference on Ship and Maritime Research
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 24
+   - **DOI:** 10.3233/978-1-61499-870-9-1005
+   - **Scopus ID:** 2-s2.0-85087647318
+   - **Pages:** 1005-1013
+   - **Authors:** Mocerino Luigia; Quaranta Franco; Rizzuto Enrico
+   - **Keywords:** Climate change | CO2 | CO2eq emissions | Green House Gases | Maritime sector
+   - **Source Id:** 21101023871
+   - **Author Ids:** 57202288234;7004685323;6602173744
+   - **Authoraffiliationids:** 60017293;60017293;60017293
+   - **Corresponding:** Mocerino L.
+28.
+   - **Title:** Airborne noise prediction of a Ro/Ro pax ferry in the port of Naples
+   - **Venue:** Technology and Science for the Ships of the Future Proceedings of Nav 2018 19th International Conference on Ship and Maritime Research
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.3233/978-1-61499-870-9-157
+   - **Scopus ID:** 2-s2.0-85087631488
+   - **Pages:** 157-165
+   - **Authors:** Coppola Tommaso; Mocerino Luigia; Rizzuto Enrico; Viscardi Massimo; Siano Daniela
+   - **Keywords:** Acoustic field in ports | Noise emissions from ships | Ship noise | Ship sources
+   - **Source Id:** 21101023871
+   - **Author Ids:** 56511683200;57202288234;6602173744;6603757201;26647006900
+   - **Authoraffiliationids:** 60017293;60017293;60017293;60017293;60083730
+   - **Corresponding:** Coppola T.
+29.
+   - **Title:** Surface treatments for ship hulls - Present situation and trends
+   - **Venue:** Technology and Science for the Ships of the Future Proceedings of Nav 2018 19th International Conference on Ship and Maritime Research
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.3233/978-1-61499-870-9-976
+   - **Scopus ID:** 2-s2.0-85087621560
+   - **Pages:** 976-985
+   - **Authors:** Delucchi Marina; Cerisola Giacomo; Rizzuto Enrico
+   - **Keywords:** Anti-friction treatments | Antifouling coatings | Fouling release coatings
+   - **Source Id:** 21101023871
+   - **Author Ids:** 57213827961;56243168100;6602173744
+   - **Authoraffiliationids:** 60025153;60025153;60017293
+   - **Corresponding:** Delucchi M.
+30.
+   - **Title:** Development, calibration and validation of a model for the acoustic field generated by a ship in port
+   - **Venue:** Maritime Transportation and Harvesting of Sea Resources
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85056800990
+   - **Volume:** 2
+   - **Pages:** 1063-1068
+   - **Authors:** Coppola T.; Quaranta F.; Rizzuto E.; Viscardi M.; Siano D.
+   - **Source Id:** 21100886381
+   - **Author Ids:** 56511683200;7004685323;6602173744;6603757201;26647006900
+   - **Authoraffiliationids:** 60017293;60017293;60017293;60017293;60083730
+   - **Corresponding:** Coppola T.
+31.
+   - **Title:** Parametric Analysis of Ship Noise Spectra
+   - **Venue:** IEEE Journal of Oceanic Engineering
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.1109/JOE.2016.2583798
+   - **Scopus ID:** 2-s2.0-85027435343
+   - **ISSN:** 03649059
+   - **Volume:** 42
+   - **Issue:** 2
+   - **Pages:** 424-438
+   - **Authors:** Traverso Federico; Gaggero Tomaso; Tani Giorgio; Rizzuto Enrico; Trucco Andrea; Viviani Michele
+   - **Keywords:** Cavitation noise | parametric analysis | ship noise spectrum
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 11, percentile 90)
+     - Mechanical Engineering (Q1, rank 88, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 86)
+     2017:
+     - Ocean Engineering (Q1, rank 5, percentile 95)
+     - Mechanical Engineering (Q1, rank 64, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 104, percentile 84)
+   - **Source Id:** 17277
+   - **Author Ids:** 6602210571;55212255700;55355605100;6602173744;7007035725;58090077400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60017293;60025153-60102151;60025153
+   - **Corresponding:** Traverso F.
+32.
+   - **Title:** Mitigation of underwater radiated noise related to shipping and its impact on marine life: A practical approach developed in the scope of AQUO project
+   - **Venue:** IEEE Journal of Oceanic Engineering
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 49
+   - **DOI:** 10.1109/JOE.2017.2673938
+   - **Scopus ID:** 2-s2.0-85016409717
+   - **ISSN:** 03649059
+   - **Volume:** 42
+   - **Issue:** 2
+   - **Pages:** 373-387
+   - **Authors:** Audoly Christian; Gaggero Tomaso; Baudin Eric; Folegot Thomas; Rizzuto Enrico; Mullor Raúl Salinas; André Michel; Rousset Céline; Kellett Paula
+   - **Keywords:** Achieve QUieter Oceans by shipping noise footprint reduction (AQUO) Project | Bioacoustics | Noise control | Noise footprint | Shipping noise | Underwater acoustics
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 11, percentile 90)
+     - Mechanical Engineering (Q1, rank 88, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 86)
+     2017:
+     - Ocean Engineering (Q1, rank 5, percentile 95)
+     - Mechanical Engineering (Q1, rank 64, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 104, percentile 84)
+   - **Source Id:** 17277
+   - **Author Ids:** 6603145552;55212255700;7005202733;14059846900;6602173744;57205741017;55958103500;56529254400;55699055000
+   - **Authoraffiliationids:** 60084005;60025153;60007398;118500447;60017293;116197832;60007592;60084005;60024724
+   - **Corresponding:** Audoly C.
+33.
+   - **Title:** On field experimental characterisation of the ship sources of acoustic pollution within a commercial harbour
+   - **Venue:** 24th International Congress on Sound and Vibration Icsv 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-85029421400
+   - **Authors:** Viscardi Massimo; Coppola Tommaso; Quaranta Franco; Rizzuto Enrico; Siano Daniela
+   - **Keywords:** Acoustic impact from ports | Noise propagation models | Ship noise emissions
+   - **Source Id:** 21100830467
+   - **Author Ids:** 6603757201;56511683200;7004685323;6602173744;26647006900
+   - **Authoraffiliationids:** 60017293;60017293;60017293;60017293;60083730
+   - **Corresponding:** Viscardi M.
+34.
+   - **Title:** Acoustical behaviour of a passenger cabin of a Ro-Pax vessel
+   - **Venue:** 24th International Congress on Sound and Vibration Icsv 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **Scopus ID:** 2-s2.0-85029404371
+   - **Authors:** Borelli Davide; Schenone Corrado; Gaggero Tomaso; Rizzuto Enrico
+   - **Keywords:** Room acoustics | Room eigenmodes | Ship cabin noise | Ship noise comfort
+   - **Source Id:** 21100830467
+   - **Author Ids:** 55213513300;6603458786;55212255700;6602173744
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60017293
+   - **Corresponding:** Borelli D.
+35.
+   - **Title:** Simulation based design of a fleet of ships under power and capacity variations
+   - **Venue:** Applied Ocean Research
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1016/j.apor.2016.09.003
+   - **Scopus ID:** 2-s2.0-84991677935
+   - **ISSN:** 01411187
+   - **Volume:** 61
+   - **Pages:** 1-15
+   - **Authors:** Vernengo Giuliano; Gaggero Tomaso; Rizzuto Enrico
+   - **Keywords:** Added resistance in waves | Compressed Natural Gas (CNG) | Fleet design | Multi-criteria decision making | Ship Synthesis Model (SSM) | Simulation Based Design (SBD) | Uncertainty quantification
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 15, percentile 87)
+     2016:
+     - Ocean Engineering (Q1, rank 18, percentile 79)
+   - **Source Id:** 26776
+   - **Author Ids:** 37662376400;55212255700;6602173744
+   - **Authoraffiliationids:** 60025153;60025153;60017293
+   - **Corresponding:** Vernengo G.
+36.
+   - **Title:** Propeller underwater radiated noise: A comparison between model scale measurements in two different facilities and full scale measurements
+   - **Venue:** Applied Ocean Research
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 37
+   - **DOI:** 10.1016/j.apor.2016.01.007
+   - **Scopus ID:** 2-s2.0-84957069507
+   - **ISSN:** 01411187
+   - **Volume:** 56
+   - **Pages:** 48-66
+   - **Authors:** Tani G.; Viviani M.; Hallander J.; Johansson T.; Rizzuto E.
+   - **Keywords:** Cavitation | Marine propulsion | Model scale measurements | Underwater acoustics | Underwater radiated noise
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 15, percentile 87)
+     2016:
+     - Ocean Engineering (Q1, rank 18, percentile 79)
+   - **Source Id:** 26776
+   - **Author Ids:** 55355605100;58090077400;6506848509;56769041200;6602173744
+   - **Authoraffiliationids:** 60025153;60025153;60113104;60113104;60025153
+   - **Corresponding:** Tani G.
+37.
+   - **Title:** Airborne noise emissions from ships: Experimental characterization of the source and propagation over land
+   - **Venue:** Applied Acoustics
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 59
+   - **DOI:** 10.1016/j.apacoust.2015.11.005
+   - **Scopus ID:** 2-s2.0-84948404939
+   - **ISSN:** 0003682X
+   - **eISSN:** 1872910X
+   - **Volume:** 104
+   - **Pages:** 158-171
+   - **Authors:** Badino Aglaia; Borelli Davide; Gaggero Tomaso; Rizzuto Enrico; Schenone Corrado
+   - **Keywords:** Airborne ship noise | Noise pollution modeling | Port noise
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q1, rank 6, percentile 89)
+     2016:
+     - Acoustics and Ultrasonics (Q1, rank 8, percentile 81)
+   - **Source Id:** 12946
+   - **Author Ids:** 55213337000;55213513300;55212255700;6602173744;6603458786
+   - **Authoraffiliationids:** ;60025153;60025153;60025153;60025153
+   - **Corresponding:** Badino A.
+38.
+   - **Title:** Material selection for the gas containment system of a compressed natural gas carrier fleet
+   - **Venue:** Applied Ocean Research
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1016/j.apor.2015.11.005
+   - **Scopus ID:** 2-s2.0-84950279126
+   - **ISSN:** 01411187
+   - **Volume:** 55
+   - **Pages:** 37-47
+   - **Authors:** Gaiotti M.; Rizzo C. M.; Rizzuto E.; Vernengo G.
+   - **Keywords:** Compressed natural gas (CNG) | Fiber reinforced plastic (FRP) | Finite element method (FEM) | Multi-objective decision making environment | Ship synthesis model (SSM)
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 15, percentile 87)
+     2016:
+     - Ocean Engineering (Q1, rank 18, percentile 79)
+   - **Source Id:** 26776
+   - **Author Ids:** 55200599100;15072981100;6602173744;37662376400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaiotti M.
+39.
+   - **Title:** Holistic control of ship noise emissions
+   - **Venue:** Noise Mapping
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 48
+   - **DOI:** 10.1515/noise-2016-0008
+   - **Scopus ID:** 2-s2.0-85029455452
+   - **eISSN:** 2084879X
+   - **Volume:** 3
+   - **Issue:** 1
+   - **Pages:** 107-119
+   - **Authors:** Borelli Davide; Gaggero Tomaso; Rizzuto Enrico; Schenone Corrado
+   - **Keywords:** Ship airborne noise | Ship green label | Ship noise pollution | Ship underwater noise | SILENV project
+   - **Quartile:**
+     2025:
+     - Urban Studies (Q1, rank 58, percentile 80)
+     - Acoustics and Ultrasonics (Q1, rank 11, percentile 80)
+     - Management, Monitoring, Policy and Law (Q2, rank 157, percentile 62)
+   - **Source Id:** 21100861552
+   - **Author Ids:** 55213513300;55212255700;6602173744;6603458786
+   - **Authoraffiliationids:** 60025153;60025153;60017293;60025153
+   - **Corresponding:** Borelli D.
+40.
+   - **Title:** Ship propeller side effects: Pressure pulses and radiated noise
+   - **Venue:** Noise Mapping
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1515/noise-2016-0021
+   - **Scopus ID:** 2-s2.0-85029416512
+   - **eISSN:** 2084879X
+   - **Volume:** 3
+   - **Issue:** 1
+   - **Pages:** 295-315
+   - **Authors:** Gaggero Stefano; Gaggero Tomaso; Rizzuto Enrico; Tani Giorgio; Villa Diego; Viviani Michele
+   - **Keywords:** AQUO Project | Cavitation noise | Pressure pulses | Propeller side effects | Ship underwater noise
+   - **Quartile:**
+     2025:
+     - Urban Studies (Q1, rank 58, percentile 80)
+     - Acoustics and Ultrasonics (Q1, rank 11, percentile 80)
+     - Management, Monitoring, Policy and Law (Q2, rank 157, percentile 62)
+   - **Source Id:** 21100861552
+   - **Author Ids:** 6503976905;55212255700;6602173744;55355605100;56250522200;58090077400
+   - **Authoraffiliationids:** 60025153;60025153;60017293;60025153;60025153;60025153
+   - **Corresponding:** Gaggero S.
+41.
+   - **Title:** Seafarers' work exposure to tonal noise components
+   - **Venue:** Icsv 2016 23rd International Congress on Sound and Vibration from Ancient to Modern Acoustics
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-84987915645
+   - **Authors:** Borelli Davide; Schenone Corrado; Gaggero Mauro; Gaggero Tomaso; Rizzuto Enrico
+   - **Source Id:** 21100779036
+   - **Author Ids:** 55213513300;6603458786;6603549713;55212255700;6602173744
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60017293
+   - **Corresponding:** Borelli D.
+42.
+   - **Title:** Statistical analysis of ship noise records
+   - **Venue:** Icsv 2016 23rd International Congress on Sound and Vibration from Ancient to Modern Acoustics
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-84987915602
+   - **Authors:** Traverso Federico; Gaggero Tomaso; Tani Giorgio; Viviani Michele; Villa Diego; Gaggero Stefano; Rizzuto Enrico; Trucco Andrea
+   - **Source Id:** 21100779036
+   - **Author Ids:** 6602210571;55212255700;55355605100;58090077400;56250522200;6503976905;6602173744;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60017293;60025153-60102151
+   - **Corresponding:** Traverso F.
+43.
+   - **Title:** Mitigation measures for controlling the ship underwater radiated noise, in the scope of AQUO project
+   - **Venue:** Mts IEEE Oceans 2015 Genova Discovering Sustainable Ocean Energy for A New World
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/OCEANS-Genova.2015.7271381
+   - **Scopus ID:** 2-s2.0-84957710111
+   - **Authors:** Audoly Christian; Rousset Celine; Rizzuto Enrico; Mullor Raul Salinas; Hallander Jan; Baudin Eric
+   - **Keywords:** noise control | shipping | underwater radiated noise
+   - **Source Id:** 21100444318
+   - **Author Ids:** 6603145552;56529254400;6602173744;57205741017;6506848509;7005202733
+   - **Authoraffiliationids:** 60084005;60084005;60025153;113277462;60113104;60007398
+   - **Corresponding:** Audoly C.
+44.
+   - **Title:** Spectral analysis of the underwater acoustic noise radiated by ships with controllable pitch propellers
+   - **Venue:** Mts IEEE Oceans 2015 Genova Discovering Sustainable Ocean Energy for A New World
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 18
+   - **DOI:** 10.1109/OCEANS-Genova.2015.7271483
+   - **Scopus ID:** 2-s2.0-84957707767
+   - **Authors:** Traverso F.; Gaggero T.; Rizzuto E.; Trucco A.
+   - **Keywords:** controllable pitch propeller | spectral analysis | underwater ship noise measurements
+   - **Source Id:** 21100444318
+   - **Author Ids:** 6602210571;55212255700;6602173744;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153-60102151
+   - **Corresponding:** Traverso F.
+45.
+   - **Title:** Validation of a simulation tool for ship traffic noise
+   - **Venue:** Mts IEEE Oceans 2015 Genova Discovering Sustainable Ocean Energy for A New World
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/OCEANS-Genova.2015.7271489
+   - **Scopus ID:** 2-s2.0-84957665291
+   - **Authors:** Gaggero T.; Rizzuto E.; Karasalo I.; Ostberg M.; Folegot T.; Six L.; Van Der Schaar M.; Andre M.
+   - **Keywords:** AQUO project | noise simulation | shipping noise
+   - **Source Id:** 21100444318
+   - **Author Ids:** 55212255700;6602173744;6603548053;57105255300;14059846900;55810833600;14061594000;55958103500
+   - **Authoraffiliationids:** 60025153;60025153;60003554;60003554;114754030;114754030;116327939;116327939
+   - **Corresponding:** Gaggero T.
+46.
+   - **Title:** Model scale investigation of the effect of different speed reduction strategies on cavitating propeller radiated noise
+   - **Venue:** Mts IEEE Oceans 2015 Genova Discovering Sustainable Ocean Energy for A New World
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/OCEANS-Genova.2015.7271534
+   - **Scopus ID:** 2-s2.0-84957636444
+   - **Authors:** Tani Giorgio; Viviani Michele; Rizzuto Enrico
+   - **Keywords:** Cavitation | CP propellers | Experimental fluid dynamics | Radiated noise | Ships operations
+   - **Source Id:** 21100444318
+   - **Author Ids:** 55355605100;58090077400;6602173744
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Tani G.
+47.
+   - **Title:** Analysis of noise on board a ship during navigation and manoeuvres
+   - **Venue:** Ocean Engineering
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 39
+   - **DOI:** 10.1016/j.oceaneng.2015.06.040
+   - **Scopus ID:** 2-s2.0-84937033900
+   - **ISSN:** 00298018
+   - **Volume:** 105
+   - **Pages:** 256-269
+   - **Authors:** Borelli D.; Gaggero T.; Rizzuto E.; Schenone C.
+   - **Keywords:** Bow thruster noise | Crew spaces noise | Manoeuvre noise | On board ship noise | Passengers comfort
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 6, percentile 95)
+     - Environmental Engineering (Q1, rank 38, percentile 83)
+     2015:
+     - Ocean Engineering (Q1, rank 17, percentile 81)
+     - Environmental Engineering (Q2, rank 32, percentile 68)
+   - **Source Id:** 28339
+   - **Author Ids:** 55213513300;55212255700;6602173744;6603458786
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Borelli D.
+48.
+   - **Title:** Modelling ice characteristics in iceberg-ship collision analyses
+   - **Venue:** Towards Green Marine Technology and Transport
+   - **Year:** 2015
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 2
+   - **DOI:** 10.1201/b18855
+   - **Scopus ID:** 2-s2.0-85054360034
+   - **Pages:** 305-316
+   - **Authors:** Ferrari N.; Rizzuto E.; Prestileo A.
+   - **Source Id:** 21100879745
+   - **Author Ids:** 36147126200;6602173744;55745711100
+   - **Authoraffiliationids:** 60025153;60025153;60072185
+   - **Corresponding:** Ferrari N.
+49.
+   - **Title:** Sound propagation at sea: A parametric investigation
+   - **Venue:** 18th International Conference on Ships and Shipping Research Nav 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85012940259
+   - **Pages:** 630-641
+   - **Authors:** Tamà Donatella; Gaggero Tomaso; Rizzuto Enrico
+   - **Source Id:** 21100795196
+   - **Author Ids:** 57193313482;55212255700;6602173744
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Tamà D.
+50.
+   - **Title:** Bonded joints in shipbuilding: A technological approach to the characterization of actual performances
+   - **Venue:** Maritime Technology and Engineering Proceedings of Martech 2014 2nd International Conference on Maritime Technology and Engineering
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84983587913
+   - **Volume:** 1
+   - **Pages:** 575-584
+   - **Authors:** Succio D.; Rizzuto E.; Gambaro C.; Lertora E.
+   - **Source Id:** 21100776075
+   - **Author Ids:** 57190867509;6602173744;23567614500;23568133900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Succio D.
+51.
+   - **Title:** Innovative de-coupling materials for the isolation of ship cabins
+   - **Venue:** Maritime Technology and Engineering Proceedings of Martech 2014 2nd International Conference on Maritime Technology and Engineering
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-84983571369
+   - **Volume:** 1
+   - **Pages:** 565-574
+   - **Authors:** Badino A.; Rizzuto E.
+   - **Source Id:** 21100776075
+   - **Author Ids:** 55213337000;6602173744
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Badino A.
+52.
+   - **Title:** Design principles and criteria
+   - **Venue:** Proceedings of the 19th International Ship and Offshore Structures Congress Issc 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84980001524
+   - **Volume:** 1
+   - **Pages:** 415-458
+   - **Authors:** Rizzuto E.; Downes J.; Radon M.; Egorov G.; Kawamura Y.; O'Neil S.; Skjong R.; Teixeira A.
+   - **Keywords:** Design for sustainability | Goal orientated design | Internalization of costs | Rational design criteria | Ship design principles | Societal cost benefit analysis
+   - **Source Id:** 21100469926
+   - **Author Ids:** 6602173744;24480407100;56865935400;57190440076;57651329500;58582345800;6701827615;7202385472
+   - **Corresponding:** Rizzuto E.
+53.
+   - **Title:** Measurements of airborne noise emitted by a ship at quay
+   - **Venue:** 22nd International Congress on Sound and Vibration Icsv 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 16
+   - **Scopus ID:** 2-s2.0-84971216384
+   - **Authors:** Borelli Davide; Gaggero Tomaso; Rizzuto Enrico; Schenone Corrado
+   - **Source Id:** 21100463497
+   - **Author Ids:** 55213513300;55212255700;6602173744;6603458786
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Borelli D.
+54.
+   - **Title:** Numerical investigation of the impact of speed reduction on propeller excitation
+   - **Venue:** Towards Green Marine Technology and Transport Proceedings of the 16th International Congress of the International Maritime Association of the Mediterranean Imam 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1201/b18855-4
+   - **Scopus ID:** 2-s2.0-84959537464
+   - **Pages:** 11-22
+   - **Authors:** Gaggero S.; Gaggero T.; Villa D.; Rizzuto E.; Hallander J.
+   - **Source Id:** 21100448534
+   - **Author Ids:** 6503976905;55212255700;56250522200;6602173744;6506848509
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60113104
+   - **Corresponding:** Gaggero S.
+55.
+   - **Title:** Modelling ice characteristics in iceberg-ship collision analyses
+   - **Venue:** Towards Green Marine Technology and Transport Proceedings of the 16th International Congress of the International Maritime Association of the Mediterranean Imam 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1201/b18855-42
+   - **Scopus ID:** 2-s2.0-84959483433
+   - **Pages:** 305-316
+   - **Authors:** Ferrari N.; Rizzuto E.; Prestileo A.
+   - **Source Id:** 21100986652
+   - **Author Ids:** 36147126200;6602173744;55745711100
+   - **Authoraffiliationids:** 60025153;60025153;60072185
+   - **Corresponding:** Ferrari N.
+56.
+   - **Title:** Experimental and numerical investigations for modelling propeller cavitation noise
+   - **Venue:** Maritime Technology and Engineering Proceedings of Martech 2014 2nd International Conference on Maritime Technology and Engineering
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1201/b17494-93
+   - **Scopus ID:** 2-s2.0-84941710372
+   - **Pages:** 695-704
+   - **Authors:** Gaggero S.; Gaggero T.; Rizzuto E.; Tani G.; Villa D.; Viviani M.; Haimov E.; Hallander J.
+   - **Source Id:** 21100986078
+   - **Author Ids:** 6503976905;55212255700;6602173744;55355605100;56250522200;58090077400;56845776300;6506848509
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;119080767;60113104
+   - **Corresponding:** Gaggero S.
+57.
+   - **Title:** Ship synthesis model for the preliminary design of a fleet of compressed natural gas carriers
+   - **Venue:** Ocean Engineering
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.1016/j.oceaneng.2014.08.012
+   - **Scopus ID:** 2-s2.0-84907313657
+   - **ISSN:** 00298018
+   - **Volume:** 89
+   - **Pages:** 189-199
+   - **Authors:** Vernengo Giuliano; Rizzuto Enrico
+   - **Keywords:** Added resistance | Compressed natural gas | Integrated design | Preliminary design | Ship synthesis model
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 6, percentile 95)
+     - Environmental Engineering (Q1, rank 38, percentile 83)
+     2014:
+     - Ocean Engineering (Q1, rank 14, percentile 84)
+     - Environmental Engineering (Q2, rank 28, percentile 72)
+   - **Source Id:** 28339
+   - **Author Ids:** 37662376400;6602173744
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Vernengo G.
+58.
+   - **Title:** Fatigue analysis of off-shore wellheads during drilling operations carried out from semi-submersible units
+   - **Venue:** Developments in Maritime Transportation and Exploitation of Sea Resources Proceedings of Imam 2013 15th International Congress of the International Maritime Association of the Mediterranean
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-84894498405
+   - **Volume:** 1
+   - **Pages:** 353-363
+   - **Authors:** Oppicini F.; Rizzuto E.; Russo M.
+   - **Source Id:** 21100286947
+   - **Author Ids:** 56045320700;6602173744;55849273300
+   - **Authoraffiliationids:** 60025153;60025153;60083053
+   - **Corresponding:** Oppicini F.
+59.
+   - **Title:** Ship side damage due to collision with icebergs
+   - **Venue:** Developments in Maritime Transportation and Exploitation of Sea Resources Proceedings of Imam 2013 15th International Congress of the International Maritime Association of the Mediterranean
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-84894496809
+   - **Volume:** 1
+   - **Pages:** 285-296
+   - **Authors:** Addario Nicolò; Rizzuto Enrico; Prestileo Alessio
+   - **Source Id:** 21100286947
+   - **Author Ids:** 56046183900;6602173744;55745711100
+   - **Authoraffiliationids:** 60025153;60025153;60072185
+   - **Corresponding:** Addario N.
+60.
+   - **Title:** Ship wake scaling and effect on propeller performances
+   - **Venue:** Developments in Maritime Transportation and Exploitation of Sea Resources Proceedings of Imam 2013 15th International Congress of the International Maritime Association of the Mediterranean
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **Scopus ID:** 2-s2.0-84894420929
+   - **Volume:** 1
+   - **Pages:** 13-21
+   - **Authors:** Gaggero Stefano; Villa Diego; Viviani Michele; Rizzuto Enrico
+   - **Source Id:** 21100286947
+   - **Author Ids:** 6503976905;56250522200;58090077400;6602173744
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaggero S.
+61.
+   - **Title:** Comparing ship underwater noise measured at sea with predictions by empirical models
+   - **Venue:** 21st International Congress on Sound and Vibration 2014 Icsv 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **Scopus ID:** 2-s2.0-84922670193
+   - **Volume:** 2
+   - **Pages:** 1510-1516
+   - **Authors:** Gaggero T.; Rizzuto E.; Traverso F.; Trucco A.
+   - **Source Id:** 21100372157
+   - **Author Ids:** 55212255700;6602173744;6602210571;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaggero T.
+62.
+   - **Title:** Acoustical impact of the ship source
+   - **Venue:** 21st International Congress on Sound and Vibration 2014 Icsv 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 32
+   - **Scopus ID:** 2-s2.0-84922618371
+   - **Volume:** 3
+   - **Pages:** 2521-2528
+   - **Authors:** Badino A.; Borelli D.; Gaggero T.; Rizzuto E.; Schenone C.
+   - **Source Id:** 21100372157
+   - **Author Ids:** 55213337000;55213513300;55212255700;6602173744;6603458786
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Badino A.
+63.
+   - **Title:** Experimental analysis of the influence of ship wake scaling on marine propeller radiated noise and pressure pulses
+   - **Venue:** 21st International Congress on Sound and Vibration 2014 Icsv 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-84922615114
+   - **Volume:** 3
+   - **Pages:** 2206-2213
+   - **Authors:** Rizzuto Enrico; Tani Giorgio; Viviani Michele
+   - **Source Id:** 21100372157
+   - **Author Ids:** 6602173744;55355605100;58090077400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Rizzuto E.
+64.
+   - **Title:** Noise footprint: A proposal within the framework of FP7 AQUO project to define a goal based approach towards the reduction of underwater radiated noise from shipping
+   - **Venue:** Proceedings of the International Conference on Offshore Mechanics and Arctic Engineering OMAE
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1115/OMAE2014-24424
+   - **Scopus ID:** 2-s2.0-84911071707
+   - **Volume:** 7
+   - **Authors:** Baudin Eric; Folegot Thomas; Andre Michel; Audoly Christian; Rizzuto Enrico; Benedetti Lanfranco
+   - **Source Id:** 91440
+   - **Author Ids:** 7005202733;14059846900;55958103500;6603145552;6602173744;7005794288
+   - **Authoraffiliationids:** 60007398;114754030;60007592;60084005;60025153;114754017
+   - **Corresponding:** Baudin E.
+65.
+   - **Title:** Bottom damage scenarios for the hull girder structural assessment
+   - **Venue:** Marine Structures
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 46
+   - **DOI:** 10.1016/j.marstruc.2013.04.001
+   - **Scopus ID:** 2-s2.0-84878155454
+   - **ISSN:** 09518339
+   - **Volume:** 33
+   - **Pages:** 33-55
+   - **Authors:** Prestileo A.; Rizzuto E.; Teixeira A. P.; Soares C. Guedes
+   - **Keywords:** Accidental scenarios | Bayesian Networks | Longitudinal strength of ships | Reliability assessment
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 7, percentile 94)
+     - Mechanical Engineering (Q1, rank 69, percentile 90)
+     - Mechanics of Materials (Q1, rank 47, percentile 88)
+     - Materials Science (all) (Q1, rank 80, percentile 82)
+     2013:
+     - Ocean Engineering (Q1, rank 11, percentile 88)
+     - Mechanical Engineering (Q1, rank 84, percentile 83)
+     - Mechanics of Materials (Q1, rank 61, percentile 80)
+     - Materials Science (all) (Q2, rank 107, percentile 74)
+   - **Source Id:** 21052
+   - **Author Ids:** 55745711100;6602173744;7202385472;56978160800
+   - **Authoraffiliationids:** 60025153;60025153;60004956;60004956
+   - **Corresponding:** Prestileo A.
+66.
+   - **Title:** Noise on board RO-Pax vessels: Measured levels on existing ships and new pre-normative requirements
+   - **Venue:** Analysis and Design of Marine Structures Proceedings of the 4th International Conference on Marine Structures Marstruct 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-84874457327
+   - **Pages:** 45-52
+   - **Authors:** Gaggero T.; Rizzuto E.
+   - **Source Id:** 21100229849
+   - **Author Ids:** 55212255700;6602173744
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Gaggero T.
+67.
+   - **Title:** Ship side damage due to collision with icebergs
+   - **Venue:** Developments in Maritime Transportation and Exploitation of Sea Resources
+   - **Year:** 2013
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.1201/b15813-38
+   - **Scopus ID:** 2-s2.0-85054941916
+   - **Pages:** 285-296
+   - **Authors:** Addario Nicolò; Rizzuto Enrico; Prestileo Alessio
+   - **Source Id:** 21100881512
+   - **Author Ids:** 56046183900;6602173744;55745711100
+   - **Authoraffiliationids:** 60025153;60025153;60072185
+   - **Corresponding:** Addario N.
+68.
+   - **Title:** Uncertainties in measurements of ship underwater noise emissions
+   - **Venue:** 11th European Conference on Underwater Acoustics 2012 Ecua 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-84871371612
+   - **Volume:** 34 2
+   - **Issue:** Part 3
+   - **Pages:** 1876-1885
+   - **Authors:** Gaggero Tomaso; Van Der Schaar Mike; Salinas Raul; Beltrán Publio; Rizzuto Enrico; André Michel
+   - **Source Id:** 21100223547
+   - **Author Ids:** 55212255700;14061594000;55533919000;55534092500;6602173744;55958103500
+   - **Authoraffiliationids:** 60025153;60007592;113277462;113277462;60025153;60007592
+   - **Corresponding:** Gaggero T.
+69.
+   - **Title:** Normative framework for ship noise: Present situation and future trends
+   - **Venue:** Noise Control Engineering Journal
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 55
+   - **DOI:** 10.3397/1.3701045
+   - **Scopus ID:** 2-s2.0-84874469865
+   - **ISSN:** 07362501
+   - **Volume:** 60
+   - **Issue:** 6
+   - **Pages:** 740-762
+   - **Authors:** Badino Aglaia; Borelli Davide; Gaggero Tomaso; Rizzuto Enrico; Schenone Corrado
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q3, rank 292, percentile 28)
+     - Acoustics and Ultrasonics (Q3, rank 39, percentile 27)
+     - Public Health, Environmental and Occupational Health (Q4, rank 546, percentile 23)
+     - Building and Construction (Q4, rank 191, percentile 22)
+     - Automotive Engineering (Q4, rank 106, percentile 21)
+     - Mechanical Engineering (Q4, rank 577, percentile 21)
+     - Aerospace Engineering (Q4, rank 132, percentile 17)
+     2012:
+     - Industrial and Manufacturing Engineering (Q2, rank 124, percentile 55)
+     - Building and Construction (Q2, rank 65, percentile 52)
+     - Aerospace Engineering (Q3, rank 55, percentile 47)
+     - Acoustics and Ultrasonics (Q3, rank 21, percentile 46)
+     - Automotive Engineering (Q3, rank 32, percentile 45)
+     - Mechanical Engineering (Q3, rank 273, percentile 45)
+     - Public Health, Environmental and Occupational Health (Q3, rank 303, percentile 29)
+   - **Source Id:** 21565
+   - **Author Ids:** 55213337000;55213513300;55212255700;6602173744;6603458786
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Badino A.
+70.
+   - **Title:** Bayesian networks for probabilistic modelling of still water bending moment for side-damaged tankers
+   - **Venue:** Ships and Offshore Structures
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1080/17445302.2011.590695
+   - **Scopus ID:** 2-s2.0-84864710237
+   - **ISSN:** 17445302
+   - **Volume:** 7
+   - **Issue:** 3
+   - **Pages:** 269-283
+   - **Authors:** Garrè Luca; Rizzuto Enrico
+   - **Keywords:** accident scenarios | Bayesian Networks | collision | probabilistic damage assessment
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q2, rank 33, percentile 71)
+     - Mechanical Engineering (Q2, rank 235, percentile 68)
+     2012:
+     - Ocean Engineering (Q2, rank 36, percentile 58)
+     - Mechanical Engineering (Q3, rank 267, percentile 46)
+   - **Source Id:** 19700186818
+   - **Author Ids:** 36337768200;6602173744
+   - **Authoraffiliationids:** 60013141;60025153
+   - **Corresponding:** Garrè L.
+71.
+   - **Title:** Robustness: Theoretical framework
+   - **Venue:** Structural Engineering International Journal of the International Association for Bridge and Structural Engineering IABSE
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 33
+   - **DOI:** 10.2749/101686612X13216060213554
+   - **Scopus ID:** 2-s2.0-84857573514
+   - **ISSN:** 10168664
+   - **Volume:** 22
+   - **Issue:** 1
+   - **Pages:** 66-72
+   - **Authors:** Sørensen John Dalsgaard; Rizzuto Enrico; Narasimhan Harikrishna; Faber Michael Havbro
+   - **Keywords:** Codes | Reliability | Risk analysis | Robustness | Structural systems
+   - **Quartile:**
+     2025:
+     - Building and Construction (Q2, rank 98, percentile 60)
+     - Civil and Structural Engineering (Q2, rank 180, percentile 56)
+     2012:
+     - Building and Construction (Q3, rank 82, percentile 40)
+     - Civil and Structural Engineering (Q3, rank 151, percentile 31)
+   - **Source Id:** 17450
+   - **Author Ids:** 7403200698;6602173744;57204231971;7101978889
+   - **Authoraffiliationids:** 60022134;60025153;60025858;60011373
+   - **Corresponding:** Sørensen J.
+72.
+   - **Title:** Modelling the outdoor noise propagation for different ship types
+   - **Venue:** Nav International Conference on Ship and Shipping Research
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **Scopus ID:** 2-s2.0-85052982545
+   - **ISSN:** 22828397
+   - **Volume:** 0
+   - **Authors:** Badino Aglaia; Borelli Davide; Gaggero Tomaso; Rizzuto Enrico; Schenone Corrado
+   - **Source Id:** 21100875435
+   - **Author Ids:** 55213337000;55213513300;55212255700;6602173744;6603458786
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Badino A.
+73.
+   - **Title:** Recent advances in the control of the impact of the underwater noise emissions by commercial ships
+   - **Venue:** Nav International Conference on Ship and Shipping Research
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85052542858
+   - **ISSN:** 22828397
+   - **Volume:** 0
+   - **Authors:** Gaggero Tomaso; Van Der Schaar Mike; Rizzuto Enrico; Andre' Michel
+   - **Source Id:** 21100875435
+   - **Author Ids:** 55212255700;14061594000;6602173744;55958103500
+   - **Authoraffiliationids:** 60025153;60007592;60025153;60007592
+   - **Corresponding:** Gaggero T.
+74.
+   - **Title:** A procedure for the preliminary selection of the main characteristics of a fleet of ships for a given trade
+   - **Venue:** Nav International Conference on Ship and Shipping Research
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85052513517
+   - **ISSN:** 22828397
+   - **Volume:** 0
+   - **Authors:** Vernengo Giuliano; Rizzuto Enrico; Longo Roberto; Nigro Angelo Lo
+   - **Source Id:** 21100875435
+   - **Author Ids:** 37662376400;6602173744;57203640889;57203641080
+   - **Authoraffiliationids:** 60025153;60025153;106592833;106592833
+   - **Corresponding:** Vernengo G.
+75.
+   - **Title:** A parametric prediction of added resistance in waves
+   - **Venue:** Nav International Conference on Ship and Shipping Research
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-84907349124
+   - **ISSN:** 22828397
+   - **Volume:** 0
+   - **Authors:** Gironi Cristina; Bruzzone Dario; Rizzuto Enrico
+   - **Source Id:** 21100875435
+   - **Author Ids:** 54953391200;6602292559;6602173744
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Gironi C.
+76.
+   - **Title:** Normative framework for noise emissions from ships: Present situation and future trends
+   - **Venue:** Advances in Marine Structures Proceedings of the 3rd International Conference on Marine Structures Marstruct 2011
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-84860817296
+   - **Pages:** 593-602
+   - **Authors:** Badino A.; Borelli D.; Gaggero T.; Rizzuto E.; Schenone C.
+   - **Source Id:** 21100201968
+   - **Author Ids:** 55213337000;55213513300;55212255700;6602173744;6603458786
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Badino A.
+77.
+   - **Title:** Underwater noise emissions: Another challenge for ship design
+   - **Venue:** Advances in Marine Structures Proceedings of the 3rd International Conference on Marine Structures Marstruct 2011
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **Scopus ID:** 2-s2.0-84860799866
+   - **Pages:** 581-591
+   - **Authors:** André M.; Gaggero T.; Rizzuto E.
+   - **Source Id:** 21100201968
+   - **Author Ids:** 55958103500;55212255700;6602173744
+   - **Authoraffiliationids:** 60007592;60025153;60025153
+   - **Corresponding:** André M.
+78.
+   - **Title:** Criteria for noise annoyance evaluation on board ships
+   - **Venue:** Sustainable Maritime Transportation and Exploitation of Sea Resources
+   - **Year:** 2011
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 22
+   - **Scopus ID:** 2-s2.0-85059580004
+   - **Pages:** 971-980
+   - **Authors:** Badino A.; Borelli D.; Gaggero T.; Rizzuto E.; Schenone C.
+   - **Source Id:** 21100894060
+   - **Author Ids:** 55213337000;55213513300;55212255700;6602173744;6603458786
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Badino A.
+79.
+   - **Title:** Analysis of airborne noise emitted from ships
+   - **Venue:** Sustainable Maritime Transportation and Exploitation of Sea Resources
+   - **Year:** 2011
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 18
+   - **Scopus ID:** 2-s2.0-85059573220
+   - **Pages:** 1001-1010
+   - **Authors:** Badino A.; Borelli D.; Gaggero T.; Rizzuto E.; Schenone C.
+   - **Source Id:** 21100894060
+   - **Author Ids:** 55213337000;55213513300;55212255700;6602173744;6603458786
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Badino A.
+80.
+   - **Title:** Acoustic impact of ships: Noise-related needs, quantification and justification
+   - **Venue:** Sustainable Maritime Transportation and Exploitation of Sea Resources
+   - **Year:** 2011
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 17
+   - **Scopus ID:** 2-s2.0-85059562964
+   - **Pages:** 961-970
+   - **Authors:** Badino A.; Borelli D.; Gaggero T.; Rizzuto E.; Schenone C.
+   - **Source Id:** 21100894060
+   - **Author Ids:** 55213337000;55213513300;55212255700;6602173744;6603458786
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Badino A.
+81.
+   - **Title:** Sustainable maritime transportation and exploitation of sea resources
+   - **Venue:** Sustainable Maritime Transportation and Exploitation of Sea Resources
+   - **Year:** 2011
+   - **Type:** Book
+   - **Subtype:** Book
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-85059558905
+   - **Pages:** 1-1117
+   - **Authors:** Rizzuto Enrico; Soares Carlos Guedes
+   - **Source Id:** 21100894060
+   - **Author Ids:** 6602173744;56978160800
+   - **Authoraffiliationids:** 60025153;60004956
+   - **Corresponding:** Rizzuto E.
+82.
+   - **Title:** Normative framework for noise emissions from ships: Present situation and future trends
+   - **Venue:** Advances in Marine Structures
+   - **Year:** 2011
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85133288498
+   - **Pages:** 593-602
+   - **Authors:** Badino A.; Borelli D.; Gaggero T.; Rizzuto E.; Schenone C.
+   - **Source Id:** 21101094529
+   - **Author Ids:** 55213337000;55213513300;55212255700;6602173744;6603458786
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Badino A.
+83.
+   - **Title:** Underwater noise emissions: Another challenge for ship design
+   - **Venue:** Advances in Marine Structures
+   - **Year:** 2011
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-85133256546
+   - **Pages:** 581-591
+   - **Authors:** André M.; Gaggero T.; Rizzuto E.
+   - **Source Id:** 21101094529
+   - **Author Ids:** 59847690300;55212255700;6602173744
+   - **Authoraffiliationids:** 60007592;60025153;60025153
+   - **Corresponding:** André M.
+84.
+   - **Title:** Reliability assessment of a tanker in grounding conditions
+   - **Venue:** 11th International Symposium on Practical Design of Ships and Other Floating Structures Prads 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 16
+   - **Scopus ID:** 2-s2.0-84864030516
+   - **Volume:** 2
+   - **Pages:** 1446-1458
+   - **Authors:** Rizzuto Enrico; Teixeira Angelo; Soares Carlos Guede
+   - **Keywords:** Damage extension | Damage scena-rios | Grounding | Longitudinal strength of damaged ships
+   - **Source Id:** 21100223544
+   - **Author Ids:** 6602173744;7202385472;56978160800
+   - **Authoraffiliationids:** 60025153;60004956;60004956
+   - **Corresponding:** Rizzuto E.
+85.
+   - **Title:** An application of bayesian networks for the optimization of a bridge layout
+   - **Venue:** Proceedings of the Institution of Mechanical Engineers Part M Journal of Engineering for the Maritime Environment
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1243/14750902JEME155
+   - **Scopus ID:** 2-s2.0-76149086228
+   - **ISSN:** 14750902
+   - **Volume:** 224
+   - **Issue:** 1
+   - **Pages:** 73-85
+   - **Authors:** Garrè L.; Perassi A.; Raffetti A.; Rizzuto E.
+   - **Keywords:** Bayesian networks | Collision causation factors | Integrated bridge systems
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q2, rank 37, percentile 68)
+     - Mechanical Engineering (Q2, rank 249, percentile 66)
+   - **Source Id:** 25596
+   - **Author Ids:** 36337768200;35574290400;35574633900;6602173744
+   - **Authoraffiliationids:** 60025153;60083122;60083122;60025153
+   - **Corresponding:** Garrè L.
+86.
+   - **Title:** Stochastic model of the still water bending moment of oil tankers
+   - **Venue:** Proceedings of Marstruct 2009 2nd International Conference on Marine Structures Analysis and Design of Marine Structures
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-70349317162
+   - **Pages:** 483-494
+   - **Authors:** Garrè L.; Rizzuto E.
+   - **Source Id:** 19300156924
+   - **Author Ids:** 36337768200;6602173744
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Garrè L.
+87.
+   - **Title:** Stochastic model of the still water bending moment of oil tankers
+   - **Venue:** Analysis and Design of Marine Structures Including Cd Rom
+   - **Year:** 2009
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 2
+   - **DOI:** 10.1201/9780203874981.ch54
+   - **Scopus ID:** 2-s2.0-85056056367
+   - **Pages:** 483-494
+   - **Authors:** Garre L.; Rizzuto E.
+   - **Source Id:** 21100884643
+   - **Author Ids:** 36337768200;6602173744
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Garre L.
+88.
+   - **Title:** Wave induced global loads for a damaged vessel
+   - **Venue:** Ships and Offshore Structures
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1080/17445300801990921
+   - **Scopus ID:** 2-s2.0-78651543455
+   - **ISSN:** 17445302
+   - **Volume:** 3
+   - **Issue:** 4
+   - **Pages:** 269-287
+   - **Authors:** Folsø Lise; Rizzuto Enrico; Pino Enrico
+   - **Keywords:** Damaged conditions | Wave induced global loads
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q2, rank 33, percentile 71)
+     - Mechanical Engineering (Q2, rank 235, percentile 68)
+   - **Source Id:** 19700186818
+   - **Author Ids:** 6507608859;6602173744;36806789900
+   - **Authoraffiliationids:** 60025153;60122238;60122238
+   - **Corresponding:** Folsø L.
+89.
+   - **Title:** Measuring damping properties of viscoelastic materials for marine applications
+   - **Venue:** Advancements in Marine Structures Proceedings of Marstruct 2007 the 1st International Conference on Marine Structures
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-84857739784
+   - **Pages:** 367-376
+   - **Authors:** Ferrari A.; Rizzuto E.
+   - **Source Id:** 21100198532
+   - **Author Ids:** 57199836867;6602173744
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Ferrari A.
+90.
+   - **Title:** Wave induced global loads for a damaged vessel
+   - **Venue:** Advancements in Marine Structures Proceedings of Marstruct 2007 the 1st International Conference on Marine Structures
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-50249151608
+   - **Pages:** 11-22
+   - **Authors:** Folsø L.; Rizzuto E.; Pino E.
+   - **Source Id:** 21100198532
+   - **Author Ids:** 6507608859;6602173744;36806789900
+   - **Authoraffiliationids:** 60025153;60025153;60122238
+   - **Corresponding:** Folsø L.
+91.
+   - **Title:** A comparison of common structural rules with previous class rules
+   - **Venue:** Rina Royal Institution of Naval Architects International Conference Developments in Classification and International Regulations Papers
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.3940/rina.dcir.2007.01
+   - **Scopus ID:** 2-s2.0-56149092652
+   - **Pages:** 41-50
+   - **Authors:** Rizzo C. M.; Rizzuto E.
+   - **Source Id:** 12700154729
+   - **Author Ids:** 15072981100;6602173744
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Rizzo C.M.
+92.
+   - **Title:** Modelling strenght degradation phenomena and inspections used for reliability assessment based on maintenance planning
+   - **Venue:** Proceedings of the International Conference on Offshore Mechanics and Arctic Engineering OMAE
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **Scopus ID:** 2-s2.0-33751351270
+   - **Volume:** 2006
+   - **Authors:** Garbatov Y.; Guedes Soares C.; Rizzo C. M.; Rizzuto E.; Ok D.; Pu Y.; Rouhan A.; Parmentier G.
+   - **Source Id:** 91440
+   - **Author Ids:** 12784798500;56978160800;15072981100;6602173744;13409470200;7103191436;16556171200;7006702393
+   - **Authoraffiliationids:** 60004956;60004956;60025153;60025153;60006222;60006222;60007398;60007398
+   - **Corresponding:** Garbatov Y.
+93.
+   - **Title:** Modal behaviour of a full-scale deck panel with anti-noise treatments
+   - **Venue:** Proceedings of the 12th International Congress of the International Maritime Association of the Mediterranean Imam 2005 Maritime Transportation and Exploitation of Ocean and Coastal Resources
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-60749137058
+   - **Volume:** 1
+   - **Pages:** 395-403
+   - **Authors:** Ferrari A.; Rizzuto E.
+   - **Source Id:** 15900154713
+   - **Author Ids:** 57199836867;6602173744
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Ferrari A.
+94.
+   - **Title:** Comparison of the JTP and JBP drafts with other class rules
+   - **Venue:** Proceedings of the 12th International Congress of the International Maritime Association of the Mediterranean Imam 2005 Maritime Transportation and Exploitation of Ocean and Coastal Resources
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-60749110054
+   - **Volume:** 1
+   - **Pages:** 507-519
+   - **Authors:** Rizzo C. M.; Rizzuto E.
+   - **Source Id:** 15900154713
+   - **Author Ids:** 15072981100;6602173744
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Rizzo C.M.
+95.
+   - **Title:** A preliminary investigation on the microstructure and properties of friction stir welds in an AL7075/AL2O3/10% reinforced alloy
+   - **Venue:** Friction Stir Welding and Processing III Proceedings of A Symposium Sponsored by the Shaping and Forming Committee of Mpmd of the Minerals Metals and Materials Society TMS
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-33644941426
+   - **Pages:** 243-251
+   - **Authors:** Marzoli L. M.; Zeltler R.; Dos Santos J. F.; Volpone M.; Rizzuto E.
+   - **Keywords:** AA7005/Al2O3/10% | Al-MMC | FSW
+   - **Source Id:** 4000148811
+   - **Author Ids:** 6507894543;57214277368;25942239600;6506947176;6602173744
+   - **Authoraffiliationids:** 60025288;60025288;60025288;60083109;60025153
+   - **Corresponding:** Marzoli L.M.
+96.
+   - **Title:** Including roll in the evaluation of bending loads for the hull girder in a seaway
+   - **Venue:** Proceedings of the International Conference on Offshore Mechanics and Arctic Engineering OMAE
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1115/OMAE2004-51401
+   - **Scopus ID:** 2-s2.0-11244306454
+   - **Volume:** 2
+   - **Pages:** 325-331
+   - **Authors:** Rizzuto Enrico
+   - **Source Id:** 91440
+   - **Author Ids:** 6602173744
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Rizzuto E.
+97.
+   - **Title:** Equivalent waves for sea loads on ship structures
+   - **Venue:** Proceedings of the International Conference on Offshore Mechanics and Arctic Engineering OMAE
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1115/OMAE2003-37439
+   - **Scopus ID:** 2-s2.0-0345170908
+   - **Volume:** 2
+   - **Pages:** 423-431
+   - **Authors:** Folso Lise; Rizzuto Enrico
+   - **Keywords:** Distribution of forces and pressures | Equivalent wave | Extreme wave loads | Ship structural loads
+   - **Source Id:** 91440
+   - **Author Ids:** 6507608859;6602173744
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Folso L.
+98.
+   - **Title:** Al-CMM friction stir welded joints: Influence on the distribution and particle size of the dispersed phase
+   - **Venue:** Metallurgia Italiana
+   - **Year:** 2003
+   - **Type:** Trade Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0346342320
+   - **ISSN:** 00260843
+   - **Volume:** 95
+   - **Issue:** 10
+   - **Pages:** 33-38
+   - **Authors:** Marzoli L.; Strombeck A. V.; Dos Santos J.; Gambaro C.; Volpone M.; Rizzuto E.
+   - **Keywords:** Materials characterization | Metal matrix composites | Welding
+   - **Quartile:**
+     2025:
+     - Metals and Alloys (Q4, rank 165, percentile 8)
+     - Mechanics of Materials (Q4, rank 395, percentile 4)
+     - Condensed Matter Physics (Q4, rank 435, percentile 2)
+   - **Source Id:** 27349
+   - **Author Ids:** 6507894543;6508187048;25942239600;23567614500;6506947176;6602173744
+   - **Authoraffiliationids:** 60025288;60025288;60025288;60025153;60083109;60025153
+   - **Corresponding:** Marzoli L.
+99.
+   - **Title:** Second-level reliability analysis of a double-hull oil tanker
+   - **Venue:** Marine Structures
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 16
+   - **DOI:** 10.1016/S0951-8339(98)00018-5
+   - **Scopus ID:** 2-s2.0-0032216366
+   - **ISSN:** 09518339
+   - **Volume:** 11
+   - **Issue:** 9
+   - **Pages:** 373-399
+   - **Authors:** Casella Guido; Rizzuto Enrico
+   - **Keywords:** Hull girder | Load combination | Longitudinal strength | Stochastic model of loads | Structural reliability | Time-variant reliability | Uncertainties
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 7, percentile 94)
+     - Mechanical Engineering (Q1, rank 69, percentile 90)
+     - Mechanics of Materials (Q1, rank 47, percentile 88)
+     - Materials Science (all) (Q1, rank 80, percentile 82)
+   - **Source Id:** 21052
+   - **Author Ids:** 7102871944;6602173744
+   - **Authoraffiliationids:** 101991850;60025153
+   - **Corresponding:** Casella G.
+100.
+   - **Title:** Combination of vertical and horizontal wave induced bending moments in midship section verifications
+   - **Venue:** Proceedings of the International Conference on Offshore Mechanics and Arctic Engineering OMAE
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0031621542
+   - **Pages:** 6
+   - **Authors:** Rizzuto Enrico
+   - **Source Id:** 91440
+   - **Author Ids:** 6602173744
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Rizzuto E.
+101.
+   - **Title:** Simulation of mechanical and thermodynamic performances of a ship propulsion plant in transient conditions
+   - **Venue:** American Society of Mechanical Engineers Paper
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0031343976
+   - **ISSN:** 04021215
+   - **Authors:** Carrera Giovanni; Rizzuto Enrico
+   - **Source Id:** 110129
+   - **Author Ids:** 7007054988;6602173744
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Carrera G.
+102.
+   - **Title:** Elastic instability of thin cylindrical shells: Numerical and experimental investigation
+   - **Venue:** Ocean Engineering
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1016/0029-8018(96)00004-2
+   - **Scopus ID:** 2-s2.0-0031074961
+   - **ISSN:** 00298018
+   - **Volume:** 24
+   - **Issue:** 2
+   - **Pages:** 133-160
+   - **Authors:** Boote D.; Mascia D.; Monti M.; Rizzuto E.; Tedeschi R.
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 6, percentile 95)
+     - Environmental Engineering (Q1, rank 38, percentile 83)
+   - **Source Id:** 28339
+   - **Author Ids:** 56214807300;6602421532;57551233800;6602173744;7006593465
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Boote D.

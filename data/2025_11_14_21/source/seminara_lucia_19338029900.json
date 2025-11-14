@@ -1,0 +1,3349 @@
+{
+  "surname": "Seminara",
+  "name": "Lucia",
+  "unit": "ICT",
+  "email": "lucia.seminara@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/UkNGWVNu",
+  "website": "",
+  "unige_id": "701297",
+  "scopus_id": "19338029900",
+  "role": "Professore associato",
+  "grade": "Prof.Associato Legge 240/10 - t.pieno - classe 0",
+  "ssd": "IINF-01/A (Elettronica)",
+  "location": [
+    {
+      "building": "Opera Pia - padiglione D (ED_161450401)",
+      "floor": "2° piano",
+      "room": "US_161450401.II.029"
+    }
+  ],
+  "career": [
+    {
+      "role": "AR",
+      "from": "2013-03-01 00:00:00.0000000",
+      "to": "2018-02-28 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2018-12-01 00:00:00.0000000",
+      "to": "2022-10-31 00:00:00.0000000"
+    },
+    {
+      "role": "PA",
+      "from": "2022-11-01 00:00:00.0000000",
+      "to": "2222-02-02 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [
+    {
+      "title": "Componente della Commissione paritetica docenti-studenti di scuola",
+      "from": "2025-11-01 00:00:00.0000000",
+      "to": "2027-10-31 00:00:00.0000000",
+      "unit": "Scuola politecnica"
+    }
+  ],
+  "teaching": {
+    "2025": [
+      {
+        "course": "ELECTRONIC DEVICES (114745)",
+        "degree": "LM-29 - ELECTRONIC ENGINEERING"
+      },
+      {
+        "course": "SENSORS (114750)",
+        "degree": "LM-29 - ELECTRONIC ENGINEERING"
+      }
+    ],
+    "2024": [
+      {
+        "course": "FILOSOFIA DELLA MEDICINA (LM) (65049)",
+        "degree": "LM-78 - METODOLOGIE FILOSOFICHE"
+      },
+      {
+        "course": "SENSING SYSTEMS (101716)",
+        "degree": "LM-29 - INGEGNERIA ELETTRONICA"
+      },
+      {
+        "course": "SENSING SYSTEMS (101716)",
+        "degree": "LM-29 - INGEGNERIA ELETTRONICA"
+      },
+      {
+        "course": "DISTRIBUTED ELECTRONIC SYSTEMS AND TECHNOLOGIES FOR ENVIRONMENTAL MONITORING (94631)",
+        "degree": "LM-26 - ENGINEERING FOR NATURAL RISK MANAGEMENT"
+      },
+      {
+        "course": "ELECTRONIC DEVICES (114745)",
+        "degree": "LM-29 - ELECTRONIC ENGINEERING"
+      },
+      {
+        "course": "SENSORS (114750)",
+        "degree": "LM-29 - ELECTRONIC ENGINEERING"
+      },
+      {
+        "course": "ELECTRONIC DEVICES (114745)",
+        "degree": "LM-29 - ELECTRONIC ENGINEERING"
+      }
+    ],
+    "2023": [
+      {
+        "course": "SENSING SYSTEMS (101716)",
+        "degree": "LM-29 - INGEGNERIA ELETTRONICA"
+      },
+      {
+        "course": "DISTRIBUTED ELECTRONIC SYSTEMS AND TECHNOLOGIES FOR ENVIRONMENTAL MONITORING (94631)",
+        "degree": "LM-26 - ENGINEERING FOR NATURAL RISK MANAGEMENT"
+      }
+    ],
+    "2022": [
+      {
+        "course": "INTEGRATED ELECTRONICS (106772)",
+        "degree": "LM-29 - INGEGNERIA ELETTRONICA"
+      },
+      {
+        "course": "SENSING SYSTEMS (101716)",
+        "degree": "LM-29 - INGEGNERIA ELETTRONICA"
+      },
+      {
+        "course": "ELETTRONICA (72344)",
+        "degree": "L-8 - INGEGNERIA ELETTRONICA E TECNOLOGIE DELL'INFORMAZIONE"
+      }
+    ],
+    "2021": [
+      {
+        "course": "INTEGRATED ELECTRONICS (106772)",
+        "degree": "LM-29 - INGEGNERIA ELETTRONICA"
+      },
+      {
+        "course": "SENSING SYSTEMS (101716)",
+        "degree": "LM-29 - INGEGNERIA ELETTRONICA"
+      }
+    ],
+    "2020": [
+      {
+        "course": "SENSING SYSTEMS (101716)",
+        "degree": "LM-29 - INGEGNERIA ELETTRONICA"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 17,
+      "total_products": 49,
+      "journals": 21,
+      "conferences": 23,
+      "citations": 982,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 16,
+      "total_products": 46,
+      "journals": 20,
+      "conferences": 21,
+      "citations": 953,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 12,
+      "total_products": 34,
+      "journals": 16,
+      "conferences": 15,
+      "citations": 534,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 6,
+      "total_products": 17,
+      "journals": 8,
+      "conferences": 7,
+      "citations": 117,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-105005770229",
+      "title": "Digital Communication Moving Beyond human-centric replication",
+      "doi": "10.1145/3706599.3707415",
+      "venue": "Conference on Human Factors in Computing Systems Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101297181",
+      "authors": "Jewitt Carey; Price Sara; Seminara Lucia; Sabnis Nihar; Steimle Jürgen; Berthouze Nadia; Minamizawa Kouta; Foerster Desiree; Otsuki Grant Jun",
+      "author_ids": "59357195100;16234800800;19338029900;58147583300;24825371700;6602671345;24587799600;58698550500;57203450413",
+      "authorAffiliationIds": "60117699;60117699;60025153;60000256;60033241;60022148;60025997;60117670;60025272",
+      "corresponding": "Jewitt C.",
+      "keywords": "digital communication | human-centric mimicry | more-than-human | senses",
+      "abstract": "This agenda-setting workshop will bring together HCI researchers and designers with colleagues from sociology, media, and communications to generate an interdisciplinary research agenda for digital communication beyond human-centric replication. It argues that the dominance of a human-centric replication paradigm in digital communication is problematic, constraining, limits digital innovation, and continues to unquestionably place humans at the center of digital futures with negative social implications for modes of digital communication and how we relate to one another. This workshop will explore and foster alternative visions of digital communication, drawing inspiration from animal and plant sensory worlds (through inspirational talks, hands-on-activities, discussion) to generate ideas towards a new way of thinking and working in sensorial immersion beyond the human-centric. We will address key research opportunities and challenges and build the foundations for a road-map for this novel area of research.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85216024842",
+      "title": "Stress Transmission in a Soft Electronic Skin with Viscoelastic Properties",
+      "doi": "10.1007/978-3-031-71518-1_29",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "1263 LNEE",
+      "issue_id": null,
+      "pages": "251-257",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Micheli Chiara; Berselli Giovanni; Seminara Lucia",
+      "author_ids": "58492753600;24483038000;19338029900",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Micheli C.",
+      "keywords": "PVDF transducers | Soft tactile sensors | Viscoelasticity",
+      "abstract": "Soft skin interfaces enhance haptic interactions. We focus on a soft electronic skin integrating PVDF (polyvinylidene fluoride tetrafluoroethylene) piezoelectric polymer transducers. Previous research revealed the PVDF’s output signal dependence on grasping speed, suggesting a viscoelastic mechanical behavior that the soft layer could influence, too. Through finite element analysis (FEA), we explore how the viscoelastic properties of the soft protective layer of an electronic skin affect stress transmission to the PVDF piezoelectric transducers below.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105015557499",
+      "title": "Machine Learning Based Contact Force Estimation Using a PVDF Tactile Sensing System",
+      "doi": "10.1109/NewCAS64648.2025.11107072",
+      "venue": "2025 23rd IEEE Interregional Newcas Conference Newcas 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": "430-434",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101328533",
+      "authors": "Yaacoub Mohamad; Khalifeh Razan; Gianoglio Christian; Ibrahim Ali; Seminara Lucia",
+      "author_ids": "58763723900;59526819900;56580140000;57199654883;19338029900",
+      "authorAffiliationIds": "60025153;60025153;60025153;60112476;60112476",
+      "corresponding": "Yaacoub M.",
+      "keywords": "Contact force | machine learning | piezoelectric polymers | tactile sensing systems",
+      "abstract": "Artificial tactile sensing systems have received significant attention in recent years due to their potential to improve human-machine interaction. Extracting contact forces is relevant for haptic perception and to support control actions. However, static force reconstruction is still a challenge for distributed sensing systems where sensors have a large bandwidth and do not measure static information. In this paper, we propose a machine learning based method for estimating the peak normal force in an indentation action on a tactile sensing system based on P(VDFTrFE) poly(vinylidene fluoride trifluoroethylene) piezoelectric polymers. A set of statistical time features is extracted from the raw signal acquired during the indentation process. These features are then used to train and evaluate an artificial neural network. Experimental results demonstrate the effectiveness of the proposed approach for force reconstruction, achieving a correlation coefficient R of 0.92247 and a mean absolute percentage error (MAPE) of 16.41%.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105002688912",
+      "title": "Robotic Haptic Exploration of Object Shape With Autonomous Symmetry Detection",
+      "doi": "10.1109/TRO.2025.3544113",
+      "venue": "IEEE Transactions on Robotics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "41",
+      "issue_id": null,
+      "pages": "2391-2405",
+      "issn": "15523098",
+      "eIssn": "19410468",
+      "source_id": "95101",
+      "authors": "Bonzini Aramis Augusto; Seminara Lucia; MacCiò Simone; Carfì Alessandro; Jamone Lorenzo",
+      "author_ids": "57251448400;19338029900;57811180200;57204949335;24479375600",
+      "authorAffiliationIds": "60022109;60025153;60025153;60025153;60022109-60176024",
+      "corresponding": "Bonzini A.A.",
+      "keywords": "Haptic exploration | haptic perception | shape estimation | symmetry | tactile sensing",
+      "abstract": "Haptic robotic exploration aims to control the movements of a robot with the objective of touching an object and retrieving physical information about it. In this work, we present an innovative exploration strategy to simultaneously detect symmetries in a 3-D object and use this information to enhance shape estimation. This is achieved by leveraging a novel formulation of Gaussian process models that allows the modeling of symmetric surfaces. Our procedure does not assume any prior knowledge about the object, neither about its shape nor about the presence and type of symmetry, necessitating only an approximate estimate of the size and boundaries (bounding box). We report experimental results both in simulation and in the real world, showing that using symmetric models leads to a reduction in shape estimation error, exploration time, and in the number of physical contacts performed by a robot when exploring objects that have symmetries.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 97,
+              "rank": 26,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 96,
+              "rank": 30,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 96,
+              "rank": 12,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105001177881",
+      "title": "Editorial: Special Issue: Towards a Transdisciplinary Approach to the Development and Control of Haptic Devices for Human-in-the-Loop Applications",
+      "doi": "10.1109/TOH.2025.3546751",
+      "venue": "IEEE Transactions on Haptics",
+      "type": "Journal",
+      "sub_type": "Editorial",
+      "year": 2025,
+      "volume": "18",
+      "issue_id": "1",
+      "pages": "3-5",
+      "issn": "19391412",
+      "eIssn": "23294051",
+      "source_id": "12100154405",
+      "authors": "Seminara Lucia; Dosen Strahinja; Berselli Giovanni; Loeb Gerald E.; Pirozzi Salvatore; Klatzky Roberta; Caiani Silvano Zipoli; Zhu Mengjia",
+      "author_ids": "19338029900;23388778600;24483038000;7006655258;6505943410;7005851396;55565900600;57216275758",
+      "authorAffiliationIds": "60025153;60022134;60025153;60143535;60026777;60027950;60021859;60142726",
+      "corresponding": "Seminara L.",
+      "keywords": null,
+      "abstract": null,
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 67,
+              "rank": 324,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 53,
+              "rank": 90,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85198255921",
+      "title": "Model-based approach for indentation on soft electronic skin",
+      "doi": "10.1016/j.mechatronics.2024.103225",
+      "venue": "Mechatronics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "102",
+      "issue_id": null,
+      "pages": null,
+      "issn": "09574158",
+      "eIssn": null,
+      "source_id": "21096",
+      "authors": "Micheli Chiara; Berselli Giovanni; Seminara Lucia",
+      "author_ids": "58492753600;24483038000;19338029900",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Micheli C.",
+      "keywords": "Finite element model analysis | Indentation experiments | Normal force reconstruction | PVDF tactile sensors | Soft electronic skin",
+      "abstract": "The primary objective of this research is to develop a model-based framework for the indentation on the surface of a soft electronic skin. In the current paper, the model has been applied to a soft electronic skin embedding piezoelectric polymer (PVDF, polyvinylidene fluoride) transducers. We revisit in a dimensionless fashion an analytical solution of the problem presented in a previous contribution for a normal force (frictionless case) and extend the analysis to account for a tangential component of the contact force (frictional case). First, the transmission of Hertzian distributed forces through the skin elastomer layer to a PVDF transducer is analyzed, assuming a half-space model for the elastomer. Then, the above mathematical formulation has been employed to perform extensive FEM simulations such to extend the analytical solutions for the half-space case to the real configuration where the elastomer layer has finite thickness and the transducer is not necessarily vertically aligned with the indenter. The model is applied to the case of a dragon skin, a well-known soft alternative to the silicone-based PDMS e-skin discussed in the previous paper. The model can be easily extended to other sensor types, provided the transducer is integrated on a rigid substrate and converts the pressure acting on its upper surface into a proportional electrical signal. The present framework is a first step towards the construction of a general design tool for soft electronic skins based on pressure transducers, regardless of the specific transducer type and material employed for the soft cover.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 80,
+              "rank": 144,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 79,
+              "rank": 208,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 77,
+              "rank": 86,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 75,
+              "rank": 240,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 82,
+              "rank": 130,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 80,
+              "rank": 188,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 78,
+              "rank": 81,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 75,
+              "rank": 229,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85159770893",
+      "title": "A hierarchical sensorimotor control framework for human-in-the-loop robotic hands",
+      "doi": "10.1126/scirobotics.add5434",
+      "venue": "Science Robotics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "8",
+      "issue_id": "78",
+      "pages": null,
+      "issn": null,
+      "eIssn": "24709476",
+      "source_id": "21100886132",
+      "authors": "Seminara Lucia; Dosen Strahinja; Mastrogiovanni Fulvio; Bianchi Matteo; Watt Simon; Beckerle Philipp; Nanayakkara Thrishantha; Drewing Knut; Moscatelli Alessandro; Klatzky Roberta L.; Loeb Gerald E.",
+      "author_ids": "19338029900;23388778600;56962745700;57202798446;7102659441;36964076200;6508336274;19933387400;54886426100;7005851396;7006655258",
+      "authorAffiliationIds": "60025153;60022134;60121711;60028868;60025779;60000765;60015150;60017134;60014416-60027509;60136640;60015183",
+      "corresponding": "Seminara L.",
+      "keywords": null,
+      "abstract": "Human manual dexterity relies critically on touch. Robotic and prosthetic hands are much less dexterous and make little use of the many tactile sensors available. We propose a framework modeled on the hierarchical sensorimotor controllers of the nervous system to link sensing to action in human-in-the-loop, haptically enabled, artificial hands.",
+      "citations": 27,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 99,
+              "rank": 1,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 99,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 99,
+              "rank": 10,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 97,
+              "rank": 11,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 99,
+              "rank": 1,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 99,
+              "rank": 4,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 99,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 98,
+              "rank": 6,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85179753846",
+      "title": "Pilot Study: Response of a Piezoelectric Polymer based Sensing system to Indentation",
+      "doi": "10.1109/SENSORS56945.2023.10325161",
+      "venue": "Proceedings of IEEE Sensors",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "19300395",
+      "eIssn": "21689229",
+      "source_id": "74882",
+      "authors": "Yaacoub Mohamad; Abbass Yahya; Gianoglio Christian; Seminara Lucia; Valle Maurizio",
+      "author_ids": "58763723900;57211312886;56580140000;19338029900;57197744325",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Yaacoub M.",
+      "keywords": "PVDF sensors | Signal analysis | Signal processing | Tactile sensing systems",
+      "abstract": "This paper proposes an investigation of the response of a sensing system based on PVDF (Polyvinylidene fluoride) piezoelectric polymer sensors to indentation. A 3-axis Cartesian robot has been used to perform indentation experiments at different speeds and normal loads. Overall, the sensing system reveals a viscoelastic behavior as both the indentation speed and normal load affect sensor response. Preliminary results show that by applying signal processing techniques it is possible to relate sensor response to the indentation speed and applied load. This pilot study paves the way toward extracting time-varying contact force information from sensor outputs.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 31,
+              "rank": 687,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 24,
+              "rank": 602,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85164995895",
+      "title": "A pilot study: Electronic skin sensitive to the grasping speed",
+      "doi": "10.1109/PRIME58259.2023.10161937",
+      "venue": "Prime 2023 18th International Conference on Ph D Research in Microelectronics and Electronics Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": "305-308",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101164803",
+      "authors": "Micheli Chiara; Abbass Yahya; Gianoglio Christian; Seminara Lucia",
+      "author_ids": "58492753600;57211312886;56580140000;19338029900",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Micheli C.",
+      "keywords": "Electronic skin | grasping speed | PVDF sensors | touch velocity",
+      "abstract": "Robotic grippers aim to be increasingly precise, being effective in object manipulation and gentle on fragile objects. In this scenario, endowing a gripper with a distributed sensing system sensitive to a set of dynamic touch patterns seems crucial to improve the gripper as a manipulation device. In humans, the velocity of touch influences haptic perception with impact on object manipulation and exploration. Therefore, the current study has also potential to drive sensory feedback for intuitive human-in-the-loop control of haptic devices. In this study, we embed an electronic skin (e-skin) into the thumb fingertip of a robotic gripper to investigate tactile sensor response during an easy task of object grasp-release, thus focusing on normal forces only. The reference electronic skin is a tactile sensing system based on piezoelectric polymers, coupled to a rigid substrate and covered by an elastomer layer. The cover layer has been chosen because it is easily disposable and for its 'human skin'-like softness characteristics. Main scope is to investigate whether piezoelectric sensors are sensitive to the grasping speed. The parameter we set is the speed of the servomotors for the proximal and distal flexion of the fingers. Increasing the speed of the servomotors results in an increase of the speed of the phalanges, i.e. the grasping speed. Two objects of different stiffness have been tested and three different features of the sensor signal have been analyzed. These preliminary results show an increasing linear behavior of the amplitudes of the maximum and minimum peaks in the sensor signal with the servomotor speed. The size of the processing window seems not to impact the relation between the signal energy and the speed, thus suggesting that the smallest window could be effectively used to extract such feature in embedded devices in real-time. These pilot studies are hints at the fact that coupling information from such features could enable inferring the grasping force and speed.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85143964866",
+      "title": "Leveraging symmetry detection to speed up haptic object exploration in robots",
+      "doi": "10.1109/ICDL53763.2022.9962206",
+      "venue": "2022 IEEE International Conference on Development and Learning ICDL 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": "95-100",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101126071",
+      "authors": "Bonzini Aramis Augusto; Seminara Lucia; MacCio Simone; Carfi Alessandro; Jamone Lorenzo",
+      "author_ids": "57251448400;19338029900;57811180200;57204949335;24479375600",
+      "authorAffiliationIds": "60022109;60025153;60025153;60025153;60022109",
+      "corresponding": "Bonzini A.A.",
+      "keywords": null,
+      "abstract": "Most objects are symmetric. In fact, humans are very good at detecting symmetry, both by vision and by touch, and they use such information to facilitate the perception of other object properties, such as shape and size; overall, this contributes to human's ability to successfully manipulate objects in unstructured environments. Inspired by this human skill, in this paper we propose a haptic exploration procedure that enables a robot to detect object symmetry, and uses such information to estimate the shape of an object with higher accuracy and in less time. We achieve this by incorporating symmetries in a Gaussian Process model, and by introducing a novel strategy to detect the presence of such symmetry. We report results obtained with a Baxter robot equipped with a custom tactile sensor on the gripper: we show that when the robot explores objects with unknown symmetries the time required to estimate the object shape is reduced by up to 50% thanks to our method.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85136331753",
+      "title": "Improving Haptic Exploration of Object Shape by Discovering Symmetries",
+      "doi": "10.1109/ICRA46639.2022.9812200",
+      "venue": "Proceedings IEEE International Conference on Robotics and Automation",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "2022-January",
+      "issue_id": null,
+      "pages": "5821-5827",
+      "issn": "10504729",
+      "eIssn": null,
+      "source_id": "25456",
+      "authors": "Bonzini Aramis Augusto; Seminara Lucia; Jamone Lorenzo",
+      "author_ids": "57251448400;19338029900;24479375600",
+      "authorAffiliationIds": "60022109;60025153;60022109",
+      "corresponding": "Bonzini A.A.",
+      "keywords": null,
+      "abstract": "The shapes of most real-world objects are symmetric with respect to at least one plane of symmetry. This information is unconsciously used by humans when they attempt to estimate the shape of an object in presence of uncertainty or missing evidence, for example if the object is partially occluded or if they are exploring the object by touch (i.e. haptic exploration). In robotics, this concept has been used for the visual estimation of object shape. However, no attempt has been made so far to incorporate this idea into haptic-based estimation. This work presents a method for the haptic exploration of object shape that includes the assumption that a symmetry could exist. The approach combines a tailored version of Gaussian Processes and a novel exploratory procedure that is able to detect the position and orientation of any plane of symmetry. Our results show that, if one or more symmetries exist, the object shape can be estimated faster and more accurately. Interestingly, in the case that no symmetry is present, the exploration process is only slightly slower, and the final accuracy of the shape estimation is not compromised.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 75,
+              "rank": 242,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 74,
+              "rank": 97,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Software",
+              "percentile": 70,
+              "rank": 146,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 68,
+              "rank": 155,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 79,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 77,
+              "rank": 65,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Software",
+              "percentile": 72,
+              "rank": 111,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 70,
+              "rank": 90,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85131825117",
+      "title": "Full-hand electrotactile feedback using electronic skin and matrix electrodes for high-bandwidth human-machine interfacing",
+      "doi": "10.1098/rsta.2021.0017",
+      "venue": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "380",
+      "issue_id": "2228",
+      "pages": null,
+      "issn": "1364503X",
+      "eIssn": null,
+      "source_id": "29784",
+      "authors": "Abbass Yahya; Dosen Strahinja; Seminara Lucia; Valle Maurizio",
+      "author_ids": "57211312886;23388778600;19338029900;57197744325",
+      "authorAffiliationIds": "60025153;60022134;60025153;60025153",
+      "corresponding": "Abbass Y.",
+      "keywords": "electronic skin | electrotactile stimulation | sensory feedback system | tactile sensors | teleoperation",
+      "abstract": "Tactile feedback is relevant in a broad range of human machine interaction systems (e.g.Teleoperation, virtual reality and prosthetics). The available tactile feedback interfaces comprise few sensing and stimulation units, which limits the amount of information conveyed to the user. The present study describes a novel technology that relies on distributed sensing and stimulation to convey comprehensive tactile feedback to the user of a robotic end effector. The system comprises six flexible sensing arrays (57 sensors) integrated on the fingers and palm of a robotic hand, embedded electronics (64 recording channels), a multichannel stimulator and seven flexible electrodes (64 stimulation pads) placed on the volar side of the subject s hand. The system was tested in seven subjects asked to recognize contact positions and identify contact sliding on the electronic skin, using distributed anode configuration (DAC) and single dedicated anode configuration. The experiments demonstrated that DAC resulted in substantially better performance. Using DAC, the system successfully translated the contact patterns into electrotactile profiles that the subjects could recognize with satisfactory accuracy (i.e. median{IQR} of 88.6{11}% for static and 93.3{5}% for dynamic patterns). The proposed system is.",
+      "citations": 15,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Mathematics (all)",
+              "percentile": 97,
+              "rank": 12,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (all)",
+              "percentile": 85,
+              "rank": 50,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Physics and Astronomy (all)",
+              "percentile": 84,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Mathematics (all)",
+              "percentile": 98,
+              "rank": 7,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (all)",
+              "percentile": 91,
+              "rank": 26,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Physics and Astronomy (all)",
+              "percentile": 88,
+              "rank": 29,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85124187953",
+      "title": "Novel Wearable Tactile Feedback System for post-stroke Rehabilitation",
+      "doi": "10.1109/BioCAS49922.2021.9645020",
+      "venue": "Biocas 2021 IEEE Biomedical Circuits and Systems Conference Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101075303",
+      "authors": "Abbass Yahya; Seminara Lucia; Saleh Moustafa; Valle Maurizio",
+      "author_ids": "57211312886;19338029900;57204771075;57197744325",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Abbass Y.",
+      "keywords": "electrotactile stimulation | sensory feedback system | tactile glove | wearable electronics",
+      "abstract": "This paper presents a novel system for tactile feedback integrating advanced sensorized glove and noninvasive stimulation interface. The system comprises a textile glove that integrates 64 sensors capable of capturing distributed tactile signals during usual manual activities, embedded interface electronics, multichannel simulator and non-invasive stimulation interface. Several experiments have been performed to test the capability of the system to capture and to deliver to the user static or dynamic patterns during manual interactions. The experiments demonstrated that the system successfully translated the mechanical interaction into electrotactile profiles within a delay of 32 ms, opening up interesting perspectives for wearable feedback systems for post-stroke rehabilitation.",
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85106591451",
+      "title": "Artificial skin and electrotactile stimulation for advanced tactile feedback in myoelectric prostheses",
+      "doi": null,
+      "venue": "Electronic Skin Sensors and Systems",
+      "type": "Book",
+      "sub_type": "Book Chapter",
+      "year": 2020,
+      "volume": null,
+      "issue_id": null,
+      "pages": "197-236",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101046681",
+      "authors": "Seminara Lucia; Strbac Matija; Amin Youssef; Valle Maurizio; Dosen Strahinja",
+      "author_ids": "19338029900;55185521500;57223977236;57197744325;23388778600",
+      "authorAffiliationIds": "60025153;60110404;60025153;60025153;60022134",
+      "corresponding": "Seminara L.",
+      "keywords": null,
+      "abstract": "Modern prosthetic arms and hands are sophisticated robotic devices that can provide some of the motor functions lost due to an amputation. However, none of the commonly used commercial systems restores somatosensory feedback to its user. In principle, the latter can be achieved by recording data from prosthesis sensors and conveying this information by stimulating the sensory structures of the amputee using invasive and noninvasive interfaces. Many such systems have been presented in the literature with promising results; however, they all rely on using only a few discrete stimulation points to transmit information and hence suffer from a limited information bandwidth. In this chapter, we propose a novel concept of a high-bandwidth feedback interface that relies on advanced sensing and stimulation to convey a large amount of information to the prosthesis user. The interface comprises an artificial skin covering the prosthesis with a dense network of tactile sensors (taxels) and a compact stimulation device delivering electrical current pulses through a matrix electrode with many conductive pads. The state-ofthe- art in the two technologies that are required for the implementation of the proposed concept are reviewed. This includes biomimetic e-skins that are suitable for the application in a wearable scenario, stimulation systems integrating a demultiplexing circuit to distribute electrical pulses, and flexible electrodes that can be produced with arbitrary shape, size, and distribution of conductive pads. Finally, the challenges in selecting feedback variables (raw signals versus high-level features) and mapping of these variables into stimulation parameters are addressed.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85087273856",
+      "title": "Temporal Asynchrony but Not Total Energy Nor Duration Improves the Judgment of Numerosity in Electrotactile Stimulation",
+      "doi": "10.3389/fbioe.2020.00555",
+      "venue": "Frontiers in Bioengineering and Biotechnology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "8",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "22964185",
+      "source_id": "21100835954",
+      "authors": "Nataletti Sara; Leo Fabrizio; Seminara Lucia; Trompetto Carlo; Valle Maurizio; Dosen Strahinja; Brayda Luca",
+      "author_ids": "57197797727;23467223100;19338029900;6602836622;57197744325;23388778600;6506625090",
+      "authorAffiliationIds": "60102151-60121711;60102151;60025153;60107402-60025153;60025153;60022134;60102151-124700387",
+      "corresponding": "Nataletti S.",
+      "keywords": "electrotactile stimulation | numerosity judgment | sensory substitution | somatosensory integration | stimulation timing | tactile feedback | touch | upper extremity",
+      "abstract": "Stroke patients suffer from impairments of both motor and somatosensory functions. The functional recovery of upper extremities is one of the primary goals of rehabilitation programs. Additional somatosensory deficits limit sensorimotor function and significantly affect its recovery after the neuromotor injury. Sensory substitution systems, providing tactile feedback, might facilitate manipulation capability, and improve patient's dexterity during grasping movements. As a first step toward this aim, we evaluated the ability of healthy subjects in exploiting electrotactile feedback on the shoulder to determine the number of perceived stimuli in numerosity judgment tasks. During the experiment, we compared four different stimulation patterns (two simultaneous: short and long, intermittent and sequential) differing in total duration, total energy, or temporal synchrony. The experiment confirmed that the subject ability to enumerate electrotactile stimuli decreased with increasing the number of active electrodes. Furthermore, we found that, in electrotactile stimulation, the temporal coding schemes, and not total energy or duration modulated the accuracy in numerosity judgment. More precisely, the sequential condition resulted in significantly better numerosity discrimination than intermittent and simultaneous stimulation. These findings, together with the fact that the shoulder appeared to be a feasible stimulation site to communicate tactile information via electrotactile feedback, can serve as a guide to deliver tactile feedback to proximal areas in stroke survivors who lack sensory integrity in distal areas of their affected arm, but retain motor skills.",
+      "citations": 10,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Histology",
+              "percentile": 94,
+              "rank": 4,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biotechnology",
+              "percentile": 83,
+              "rank": 53,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biomedical Engineering",
+              "percentile": 82,
+              "rank": 59,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Bioengineering",
+              "percentile": 81,
+              "rank": 31,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Histology",
+              "percentile": 44,
+              "rank": 34,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Biotechnology",
+              "percentile": 44,
+              "rank": 158,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Biomedical Engineering",
+              "percentile": 43,
+              "rank": 131,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Bioengineering",
+              "percentile": 34,
+              "rank": 97,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85074534380",
+      "title": "Dual-Parameter Modulation Improves Stimulus Localization in Multichannel Electrotactile Stimulation",
+      "doi": "10.1109/TOH.2019.2950625",
+      "venue": "IEEE Transactions on Haptics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "13",
+      "issue_id": "2",
+      "pages": "393-403",
+      "issn": "19391412",
+      "eIssn": "23294051",
+      "source_id": "12100154405",
+      "authors": "Seminara Lucia; Fares Hoda; Franceschi Marta; Valle Maurizio; Strbac Matija; Farina Dario; Dosen Strahinja",
+      "author_ids": "19338029900;57197743964;57038343300;57197744325;55185521500;7004908025;23388778600",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60110404;60015150;60022134",
+      "corresponding": "Seminara L.",
+      "keywords": "Electrotactile stimulation | matrix electrodes | mechanical stimulation | sensory feedback | spatial localization",
+      "abstract": "Among most challenging open issues in prosthetic research is the development of a robust bidirectional interface between a prosthesis and its user. Commercially available prosthetic systems are mechanically advanced, but they do not provide somatosensory feedback. Here, we present a novel non-invasive interface for multichannel electrotactile feedback, comprising a matrix of 24 pads, and we investigate the ability of able-bodied human subjects to localize the electrotactile stimulus delivered through the matrix. For this purpose, we tested conventional stimulation (same frequency for all pads) and a novel dual-parameter modulation scheme (interleaved frequency and intensity) designed to facilitate the spatial localization over the electrode. Electrotactile stimulation was also compared to mechanical stimulation of the same locations on the skin. Experimental results on eight able-bodied subjects demonstrated that the proposed interleaved coding substantially improved the spatial localization compared to same-frequency stimulation. The results also showed that same-frequency stimulation was equivalent to mechanical stimulation, whereas the performance with dual-parameter modulation was significantly better. These are encouraging outcomes for the application of a multichannel interface for the restoration of feedback in prosthetics. The high-resolution augmented interfaces might be used to explore novel scenarios for effective communication with the prosthesis user enabled by maximizing information transmission.",
+      "citations": 20,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 67,
+              "rank": 324,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 53,
+              "rank": 90,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 80,
+              "rank": 133,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 79,
+              "rank": 25,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85079722617",
+      "title": "Validation of screen‐printed electronic skin based on piezoelectric polymer sensors",
+      "doi": "10.3390/s20041160",
+      "venue": "Sensors Switzerland",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "20",
+      "issue_id": "4",
+      "pages": null,
+      "issn": "14248220",
+      "eIssn": null,
+      "source_id": "130124",
+      "authors": "Fares Hoda; Abbass Yahya; Valle Maurizio; Seminara Lucia",
+      "author_ids": "57197743964;57211312886;57197744325;19338029900",
+      "authorAffiliationIds": "60025153-60068774;60025153;60025153;60025153",
+      "corresponding": "Fares H.",
+      "keywords": "Electronic skin | P(VDF‐TrFE) sensors | Prosthetics | Screen printed sensor technology | Skin characterization | Tactile sensing | Technology validation",
+      "abstract": "This paper proposes a validation method of the fabrication technology of a screen‐printed electronic skin based on polyvinylidene fluoride‐trifluoroethylene P(VDF‐TrFE) piezoelectric polymer sensors. This required researchers to insure, through non‐direct sensor characterization, that printed sensors were working as expected. For that, we adapted an existing model to non-destructively extract sensor behavior in pure compression (i.e., the d33 piezocoefficient) by indentation tests over the skin surface. Different skin patches, designed to sensorize a glove and a prosthetic hand (11 skin patches, 104 sensors), have been tested. Reproducibility of the sensor response and its dependence upon sensor position on the fabrication substrate were examined, highlighting the drawbacks of employing large A3‐sized substrates. The average value of d33 for all sensors was measured at incremental preloads (1–3 N). A systematic decrease has been checked for patches located at positions not affected by substrate shrinkage. In turn, sensor reproducibility and d33 adherence to literature values validated the e‐skin fabrication technology. To extend the predictable behavior to all skin patches and thus increase the number of working sensors, the size of the fabrication substrate is to be decreased in future skin fabrication. The tests also demonstrated the efficiency of the proposed method to characterize embedded sensors which are no more accessible for direct validation.",
+      "citations": 25,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 90,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 136,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 85,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 84,
+              "rank": 72,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 82,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 82,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 90,
+              "rank": 13,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 80,
+              "rank": 135,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 79,
+              "rank": 69,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 78,
+              "rank": 42,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 76,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 67,
+              "rank": 133,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85083964448",
+      "title": "Active haptic perception in robots: A review",
+      "doi": "10.3389/fnbot.2019.00053",
+      "venue": "Frontiers in Neurorobotics",
+      "type": "Journal",
+      "sub_type": "Review",
+      "year": 2019,
+      "volume": "13",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "16625218",
+      "source_id": "21100199837",
+      "authors": "Seminara Lucia; Gastaldo Paolo; Watt Simon J.; Valyear Kenneth F.; Zuher Fernando; Mastrogiovanni Fulvio",
+      "author_ids": "19338029900;35612596100;7102659441;6505953917;55537786300;56962745700",
+      "authorAffiliationIds": "60025153;60025153;60170449;60170449;60008088;60025153",
+      "corresponding": "Seminara L.",
+      "keywords": "Active touch | Exploration | Haptic perception | Humans and robots | Robot touch | Sensorimotor control",
+      "abstract": "In the past few years a new scenario for robot-based applications has emerged. Service and mobile robots have opened new market niches. Also, new frameworks for shop-floor robot applications have been developed. In all these contexts, robots are requested to perform tasks within open-ended conditions, possibly dynamically varying. These new requirements ask also for a change of paradigm in the design of robots: on-line and safe feedback motion control becomes the core of modern robot systems. Future robots will learn autonomously, interact safely and possess qualities like self-maintenance. Attaining these features would have been relatively easy if a complete model of the environment was available, and if the robot actuators could execute motion commands perfectly relative to this model. Unfortunately, a complete world model is not available and robots have to plan and execute the tasks in the presence of environmental uncertainties which makes sensing an important component of new generation robots. For this reason, today’s new generation robots are equipped with more and more sensing components, and consequently they are ready to actively deal with the high complexity of the real world. Complex sensorimotor tasks such as exploration require coordination between the motor system and the sensory feedback. For robot control purposes, sensory feedback should be adequately organized in terms of relevant features and the associated data representation. In this paper, we propose an overall functional picture linking sensing to action in closed-loop sensorimotor control of robots for touch (hands, fingers). Basic qualities of haptic perception in humans inspire the models and categories comprising the proposed classification. The objective is to provide a reasoned, principled perspective on the connections between different taxonomies used in the Robotics and human haptic literature. The specific case of active exploration is chosen to ground interesting use cases. Two reasons motivate this choice. First, in the literature on haptics, exploration has been treated only to a limited extent compared to grasping and manipulation. Second, exploration involves specific robot behaviors that exploit distributed and heterogeneous sensory data.",
+      "citations": 67,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 76,
+              "rank": 115,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biomedical Engineering",
+              "percentile": 73,
+              "rank": 90,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Biomedical Engineering",
+              "percentile": 68,
+              "rank": 71,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 68,
+              "rank": 65,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85060892777",
+      "title": "Live Demonstration: System based on Electronic Skin and Cutaneous Electrostimulation for Sensory Feedback in Prosthetics",
+      "doi": "10.1109/BIOCAS.2018.8584710",
+      "venue": "2018 IEEE Biomedical Circuits and Systems Conference Biocas 2018 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100896985",
+      "authors": "Alameh M.; Saleh M.; Ansovini F.; Fares H.; Ibrahim A.; Franceschi M.; Seminara L.; Valle M.; Dosen S.; Farina D.",
+      "author_ids": "57191244155;57204771075;55372827800;57197743964;57199654883;57038343300;19338029900;57197744325;23388778600;7004908025",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60022134;60015150",
+      "corresponding": "Alameh M.",
+      "keywords": null,
+      "abstract": "To restore the sense of touch in upper limb prosthetics, a prosthetic device can be equipped with tactile sensors providing data to be transmitted to the user using either invasive or non-invasive interfaces. This demo will be based on our sensing - noninvasive stimulation feedback system [1]. It will show two important aspects of our technology: 1) High sensitivity: light touch detection will be enabled by the high sensitivity of electronic skin (e-skin) prototypes for fingertips, 2) Measuring complex interactions: different contact shapes and multiple contact points will be detected by the commercial e- skin prototype suitable for palm.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85052501499",
+      "title": "Multi-Channel Electrotactile Stimulation System for Touch Substitution: A Case Study",
+      "doi": "10.1109/PRIME.2018.8430345",
+      "venue": "Prime 2018 14th Conference on Ph D Research in Microelectronics and Electronics",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": null,
+      "issue_id": null,
+      "pages": "213-216",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100875439",
+      "authors": "Fares Hoda; Seminara Lucia; Chible Hussein; Dosen Strahinja; Valle Maurizio",
+      "author_ids": "57197743964;19338029900;7801443090;23388778600;57197744325",
+      "authorAffiliationIds": "60025153-60068774;60025153;60068774;60022134;60025153",
+      "corresponding": "Fares H.",
+      "keywords": "Electrotactile stimulation | frequency coding | restoration of sense of touch | somatosensory feedback | stimulation electrodes | tactile perception",
+      "abstract": "Reconstructing the sense of touch in prosthetics is a long-standing research challenge. To this aim, the prosthesis can be supplied with sensory arrays to measure the tactile interaction with the environment. In addition, a reliable feedback system is required to code and transmit the measured somatosensory information to the residual limb. This paper presents a multichannel electrotactile stimulation interface. Two coding schemes (mixed and uniform coding) were tested to assess the ability of the subject to localize the stimulation (identify the active pad). The outcome measures were position recognition and frequency discrimination. Our preliminary results show high accuracies in discriminating different frequency levels, i.e., 80% for low-level frequencies and 87% for high-level frequencies. In addition, the mixed coding has substantially improved the spatial localization. These are important insights regarding the development of multichannel sensing and stimulation systems for feedback in prosthetics.",
+      "citations": 5,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85057127422",
+      "title": "Screen Printed Tactile Sensing Arrays for Prosthetic Applications",
+      "doi": "10.1109/ISCAS.2018.8351892",
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": "2018-May",
+      "issue_id": null,
+      "pages": null,
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Fares H.; Seminara L.; Pinna L.; Valle M.; Groten J.; Hammer M.; Zirkl M.; Stadlober B.",
+      "author_ids": "57197743964;19338029900;35932431800;57197744325;34881624900;57204769126;8645083300;8645083800",
+      "authorAffiliationIds": "60025153-60068774;60025153;60025153;60025153;60027742;60027742;60027742;60027742",
+      "corresponding": "Fares H.",
+      "keywords": "flexible electronic skin | piezoelectric polymer screen printing | prosthetics | tactile sensing array",
+      "abstract": "The lack of tactile sensation in current upper limb prostheses is the key limitation to enable more intuitive use of the prosthesis and restore the functionality of the natural limb. Electronic skin in the form of tactile sensing arrays can be integrated onto the upper limb prosthetic device to record information about touch, given back to the amputee as a sensory feedback. This contribution focusses on the development of tactile sensing arrays based on PVDF-TrFE piezoelectric polymers. Both piezoelectric polymer sensors and metal contacts have been screen-printed on a transparent plastic foil. The geometric layout and size of the 4×4 array is suitable for prosthesis fingertips. Preliminary experimental validation of the skin patches is reported in this paper.",
+      "citations": 9,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 42,
+              "rank": 382,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85057081051",
+      "title": "Live Demonstration: Electrotactile feedback from an electronic skin through flexible electrode matrix",
+      "doi": "10.1109/ISCAS.2018.8351822",
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": "2018-May",
+      "issue_id": null,
+      "pages": null,
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Franceschi M.; Seminara L.; Dosen S.; Pinna L.; Fares H.; Saleh M.; Valle M.; Farina D.",
+      "author_ids": "57038343300;19338029900;23388778600;35932431800;57197743964;57204771075;57197744325;7004908025",
+      "authorAffiliationIds": "60025153;60025153;60022134;60025153;60025153;60025153;60025153;60015150",
+      "corresponding": "Franceschi M.",
+      "keywords": null,
+      "abstract": "Closing the prosthesis control loop by providing tactile sensory feedback to the user is a key point in research on active prosthetics as well as an often cited requirement of the prosthesis users.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 42,
+              "rank": 382,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85044861061",
+      "title": "Low power approximate multipliers for energy efficient data processing",
+      "doi": "10.1166/jolpe.2018.1536",
+      "venue": "Journal of Low Power Electronics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "14",
+      "issue_id": "1",
+      "pages": "110-117",
+      "issn": "15461998",
+      "eIssn": "15462005",
+      "source_id": "13000154722",
+      "authors": "Osta Mario; Ibrahim Ali; Seminara Lucia; Chible Hussein; Valle Maurizio",
+      "author_ids": "57197747347;57199654883;19338029900;7801443090;57197744325",
+      "authorAffiliationIds": "60025153-60068774;60025153;60025153;60068774;60025153",
+      "corresponding": "Osta M.",
+      "keywords": "Approximate computing techniques | Energy efficiency | Error tolerant adders | Inexact digital multipliers",
+      "abstract": "Computation accuracy can be adequately tuned on the specific application requirements in order to reduce power consumption. To give some examples, image processing and audio/speech recognition e.g., multimedia applications may provide more accurate outputs than human capabilities can appreciate. In this case, producing inexact numerical outputs can be acceptable and approximate computing circuits could be employed to reduce power consumption by decreasing the hardware complexity. This paper proposes approximate multipliers based on exact and inexact adder circuits and their FPGA implementation: the proposed multipliers can be applied for both signed and unsigned operations. Two scenarios were considered and analyzed in this paper. First, the performance of the proposed multiplier based on inexact adder is evaluated by comparing the power consumption, the accuracy of computation, and the time delay with those of an approximate multiplier based on exact adder. Second, the design parameters of the proposed multipliers are compared with those of the Baugh-Wooley multiplier. On the other hand, we analyzed and compared the performance of the unsigned approximate multipliers with respect to the signed approximate ones. Results prove that the proposed approximate multipliers achieve a reduction in power consumption of 56.3% with respect to the Baugh-Wooley multiplier at cost of less than 5% of accuracy loss.",
+      "citations": 9,
+      "quartile": [
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 19,
+              "rank": 539,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85041741532",
+      "title": "Modeling electronic skin response to normal distributed force",
+      "doi": "10.3390/s18020459",
+      "venue": "Sensors Switzerland",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "18",
+      "issue_id": "2",
+      "pages": null,
+      "issn": "14248220",
+      "eIssn": null,
+      "source_id": "130124",
+      "authors": "Seminara Lucia",
+      "author_ids": "19338029900",
+      "authorAffiliationIds": "60025153",
+      "corresponding": "Seminara L.",
+      "keywords": "Electronic skin | PVDF sensors | Skin modeling | Solid mechanics",
+      "abstract": "The reference electronic skin is a sensor array based on PVDF (Polyvinylidene fluoride) piezoelectric polymers, coupled to a rigid substrate and covered by an elastomer layer. It is first evaluated how a distributed normal force (Hertzian distribution) is transmitted to an extended PVDF sensor through the elastomer layer. A simplified approach based on Boussinesq’s half-space assumption is used to get a qualitative picture and extensive FEM simulations allow determination of the quantitative response for the actual finite elastomer layer. The ultimate use of the present model is to estimate the electrical sensor output from a measure of a basic mechanical action at the skin surface. However this requires that the PVDF piezoelectric coefficient be known a-priori. This was not the case in the present investigation. However, the numerical model has been used to fit experimental data from a real skin prototype and to estimate the sensor piezoelectric coefficient. It turned out that this value depends on the preload and decreases as a result of PVDF aging and fatigue. This framework contains all the fundamental ingredients of a fully predictive model, suggesting a number of future developments potentially useful for skin design and validation of the fabrication technology.",
+      "citations": 7,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 90,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 136,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 85,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 84,
+              "rank": 72,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 82,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 82,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 82,
+              "rank": 23,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 78,
+              "rank": 144,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 73,
+              "rank": 47,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 65,
+              "rank": 39,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 51,
+              "rank": 197,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85034455727",
+      "title": "Distributed sensing and stimulation systems for sense of touch restoration in prosthetics",
+      "doi": "10.1109/NGCAS.2017.54",
+      "venue": "Proceedings 2017 1st New Generation of CAS Ngcas 2017",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": null,
+      "issue_id": null,
+      "pages": "177-180",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100838549",
+      "authors": "Fares Hoda; Seminara Lucia; Ibrahim Ali; Franceschi Marta; Pinna Luigi; Valle Maurizio; Dosen Strahinja; Farina Dario",
+      "author_ids": "57197743964;19338029900;57199654883;57038343300;35932431800;57197744325;23388778600;7004908025",
+      "authorAffiliationIds": "60025153-60068774;60025153;60025153;60025153;60025153;60025153;60022134;60015150",
+      "corresponding": "Fares H.",
+      "keywords": "Distributed sensing | Distributed stimulation | Embedded electronics | Prosthetic hands | Somatosensory feedback",
+      "abstract": "Modern prostheses aim at restoring the functional and aesthetic characteristics of the lost limb. To foster prosthesis embodiment and functionality, it is necessary to re-establish both volitional control and sensory feedback. Contemporary feedback interfaces presented in research use few sensors and stimulation units to feedback at most two discrete feedback variables (e.g., grasping force and aperture), whereas the human sense of touch relies on a distributed network of mechanoreceptors providing high-fidelity spatial information. To provide this type of feedback in prosthetics, it is necessary to sense tactile information from artificial skin placed on the prosthesis and transmit tactile feedback above the amputation in order to map the interaction between the prosthesis and the environment. This paper will provide a perspective on the use of distributed sensing and electrical stimulation systems for the restoration of the sense of touch in prosthetics.",
+      "citations": 15,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85032685782",
+      "title": "Electronic skin and electrocutaneous stimulation to restore the sense of touch in hand prosthetics",
+      "doi": "10.1109/ISCAS.2017.8050264",
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Seminara L.; Franceschi M.; Pinna L.; Ibrahim A.; Valle M.; Dosen S.; Farina D.",
+      "author_ids": "19338029900;57038343300;35932431800;57199654883;57197744325;23388778600;7004908025",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60021110;60015150",
+      "corresponding": "Seminara L.",
+      "keywords": "electronic skin | embedded electronic system | prosthetics | tactile sensing",
+      "abstract": "Electronic skin can be integrated into a prosthetic device to endow the prosthesis with artificial cutaneous sensing, thereby partially restoring the sensory information lost due to an amputation. Non-invasive cutaneous electrostimulation transmits the tactile information sensed by the electronic skin on the prosthetic hand to the human brain, through the amputee's afferent nervous system. In this paper, our current benchtop prototype of a distributed sensing-stimulation system is presented, together with the envisaged high-fidelity solution which will be integrated into a real prosthetic hand.",
+      "citations": 9,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 45,
+              "rank": 366,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85028334850",
+      "title": "A System for Electrotactile Feedback Using Electronic Skin and Flexible Matrix Electrodes: Experimental Evaluation",
+      "doi": "10.1109/TOH.2016.2618377",
+      "venue": "IEEE Transactions on Haptics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2017,
+      "volume": "10",
+      "issue_id": "2",
+      "pages": "162-172",
+      "issn": "19391412",
+      "eIssn": null,
+      "source_id": "12100154405",
+      "authors": "Franceschi Marta; Seminara Lucia; Dosen Strahinja; Strbac Matija; Valle Maurizio; Farina Dario",
+      "author_ids": "57038343300;19338029900;23388778600;55185521500;57197744325;7004908025",
+      "authorAffiliationIds": "60025153;60025153;60021110-60110404;60276555;60025153;60015150",
+      "corresponding": "Franceschi M.",
+      "keywords": "Electronic skin | electrotactile stimulation | human-computer interaction | matrix electrodes | prosthetics | sensory substitution",
+      "abstract": "Myoelectric prostheses are successfully controlled using muscle electrical activity, thereby restoring lost motor functions. However, the somatosensory feedback from the prosthesis to the user is still missing. The sensory substitution methods described in the literature comprise mostly simple position and force sensors combined with discrete stimulation units. The present study describes a novel system for sophisticated electrotactile feedback integrating advanced distributed sensing (electronic skin) and stimulation (matrix electrodes). The system was tested in eight healthy subjects who were asked to recognize the shape, trajectory, and direction of a set of dynamic movement patterns (single lines, geometrical objects, letters) presented on the electronic skin. The experiments demonstrated that the system successfully translated the mechanical interaction into the moving electrotactile profiles, which the subjects could recognize with a good performance (shape recognition: 86±8 lines, 73±13% geometries, 72±12% letters). In particular, the subjects could identify the movement direction with a high confidence. These results are in accordance with previous studies investigating the recognition of moving stimuli in human subjects. This is an important development towards closed-loop prostheses providing comprehensive and sophisticated tactile feedback to the user, facilitating the control and the embodiment of the artificial device into the user body scheme.",
+      "citations": 68,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 67,
+              "rank": 324,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 53,
+              "rank": 90,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 74,
+              "rank": 144,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 70,
+              "rank": 27,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85034445600",
+      "title": "Achievements and open issues toward embedding tactile sensing and interpretation into electronic skin systems",
+      "doi": "10.1002/9783527679249.ch23",
+      "venue": "Material Integrated Intelligent Systems Technology and Applications",
+      "type": "Book",
+      "sub_type": "Book Chapter",
+      "year": 2016,
+      "volume": null,
+      "issue_id": null,
+      "pages": "571-593",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100870211",
+      "authors": "Ibrahim Ali; Pinna Luigi; Seminara Lucia; Valle Maurizio",
+      "author_ids": "57199654883;35932431800;19338029900;57197744325",
+      "authorAffiliationIds": "100505222;100505222;100505222;100505222",
+      "corresponding": "Ibrahim A.",
+      "keywords": null,
+      "abstract": null,
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84974575282",
+      "title": "A high-sensitivity tactile sensor based on piezoelectric polymer PVDF coupled to an ultra-low voltage organic transistor",
+      "doi": "10.1016/j.orgel.2016.05.034",
+      "venue": "Organic Electronics Physics Materials Applications",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2016,
+      "volume": "36",
+      "issue_id": null,
+      "pages": "57-60",
+      "issn": "15661199",
+      "eIssn": null,
+      "source_id": "18663",
+      "authors": "Spanu A.; Pinna L.; Viola F.; Seminara L.; Valle Maurizio; Bonfiglio A.; Cosseddu P.",
+      "author_ids": "55801736500;35932431800;56396332300;19338029900;57197744325;7004010259;23979421700",
+      "authorAffiliationIds": "60032259;60025153;60032259;60025153;60025153;60032259;60032259",
+      "corresponding": "Spanu A.",
+      "keywords": "e-skin | Organic charge modulated FETs | Piezoelectric sensors",
+      "abstract": "This paper reports on a highly sensitive tactile sensor based on a floating gate organic transistor called Organic Charge Modulated FET coupled with a flexible piezoelectric polymer (namely a film of polyvinylene fluoride, PVDF). The proposed device is able to reliably transduce pressures as low as 300 Pa, thus opening up interesting perspectives for flexible and low-cost tactile sensors for e-skin applications.",
+      "citations": 95,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 73,
+              "rank": 263,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Condensed Matter Physics",
+              "percentile": 71,
+              "rank": 128,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Chemistry (all)",
+              "percentile": 68,
+              "rank": 130,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 67,
+              "rank": 102,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Materials Chemistry",
+              "percentile": 60,
+              "rank": 129,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Biomaterials",
+              "percentile": 52,
+              "rank": 69,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2016,
+          "subjects": [
+            {
+              "subject": "Materials Chemistry",
+              "percentile": 93,
+              "rank": 16,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Condensed Matter Physics",
+              "percentile": 91,
+              "rank": 33,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 90,
+              "rank": 64,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 88,
+              "rank": 26,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Chemistry (all)",
+              "percentile": 87,
+              "rank": 48,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biomaterials",
+              "percentile": 76,
+              "rank": 17,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84992036329",
+      "title": "Towards the integration of e-skin into prosthetic devices",
+      "doi": "10.1109/PRIME.2016.7519546",
+      "venue": "2016 12th Conference on Ph D Research in Microelectronics and Electronics Prime 2016",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100782632",
+      "authors": "Franceschi Marta; Seminara Lucia; Pinna Luigi; Valle Maurizio; Ibrahim Ali; Dosen Strahinja",
+      "author_ids": "57038343300;19338029900;35932431800;57197744325;57199654883;23388778600",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153-60068774;60021110",
+      "corresponding": "Franceschi M.",
+      "keywords": "Electronic Skin | Embedded Electronic System | Prosthetic Devices",
+      "abstract": "Endowing appliances with the capability of sensing and processing touch enables tactile interaction between electronic devices and the environment. E-skin organized as a set of multiple sensing components and integrated with a dedicated embedded electronic system can implement the communication link between e-skin and surroundings. Basing the analysis on a relevant application example (i.e. human prosthetics), the present study describes a system including an electronic skin and a stimulation unit. The overall system was validated and tested in eight healthy subjects, who were asked to recognize the shape, position and direction of a set of dynamic mechanical stimuli presented on the electronic skin. The results demonstrated that tactile information was successfully translated from a mechanical interaction applied on the e-skin into electrotactile patterns, which the subjects could recognize with a good performance. As the obtained results are promising, in this paper the challenging requirements for the integration of e-skin into prosthetic devices were assessed, mainly focusing on computational complexity of the embedded data processing unit.",
+      "citations": 9,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84928676853",
+      "title": "Towards integrating intelligence in electronic skin",
+      "doi": "10.1016/j.mechatronics.2015.04.001",
+      "venue": "Mechatronics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2016,
+      "volume": "34",
+      "issue_id": null,
+      "pages": "84-94",
+      "issn": "09574158",
+      "eIssn": null,
+      "source_id": "21096",
+      "authors": "Seminara Lucia; Pinna Luigi; Ibrahim Ali; Noli Luca; Caviglia Stefano; Gastaldo Paolo; Valle Maurizio",
+      "author_ids": "19338029900;35932431800;57199654883;6507179015;56369796600;35612596100;57197744325",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Seminara L.",
+      "keywords": "E-skin | Electronic embedded systems | Materials integrated sensing | Piezoelectric polymers | Tactile information processing",
+      "abstract": "Due to its very peculiar features, the development of e-skin can be effectively tackled using a holistic approach. Starting from the definition of system specifications, the mechanical arrangement of the skin itself needs to be designed and fabricated together with the electronic embedded system, to move towards aspects such as tactile data processing algorithms and the communication channel interface. In this paper we present the design, the implementation and the results on the way of the development of an electronic skin (e-skin) system based on arrays of piezopolymer transducers. Focus of the paper is on both the development of innovative approaches for tactile information processing and electronic system embedding into the e-skin structure. In particular, Machine Learning technologies can provide a powerful tool to tackle the pattern-recognition problems involved in the tactile sensing framework and the ability of processing data represented as N-th order tensor is the key aspect of the presented research, which can be seen as an application of an existing method (Signoretto et al., 2011). The experimental session compares two different implementations of the ML-based framework, which differ in the learning paradigm adopted, namely SVM and ELM (K-ELM). The effectiveness of the adopted pattern-recognition technologies in the classification of touch modalities has been confirmed by addressing two different binary classification problems in an experiment involving 70 participants. The computational requirements for the hardware implementation of the proposed algorithm together with an overview of what exists in the existing literature are finally discussed.",
+      "citations": 33,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 80,
+              "rank": 144,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 79,
+              "rank": 208,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 77,
+              "rank": 86,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 75,
+              "rank": 240,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2016,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 92,
+              "rank": 42,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 85,
+              "rank": 93,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 85,
+              "rank": 80,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84953324863",
+      "title": "Preliminary evaluation of the tactile feedback system based on artificial skin and electrotactile stimulation",
+      "doi": "10.1109/EMBC.2015.7319407",
+      "venue": "Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society EMBS",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2015,
+      "volume": "2015-November",
+      "issue_id": null,
+      "pages": "4554-4557",
+      "issn": "1557170X",
+      "eIssn": null,
+      "source_id": "34202",
+      "authors": "Franceschi M.; Seminara L.; Pinna L.; Dosen S.; Farina D.; Valle M.",
+      "author_ids": "57038343300;19338029900;35932431800;23388778600;7004908025;57197744325",
+      "authorAffiliationIds": "60025153;60025153;60025153;60021110;60021110;60025153",
+      "corresponding": "Franceschi M.",
+      "keywords": null,
+      "abstract": "This research is motivated by the need of integrating cutaneous sensing into a prosthetic device, enabling a bidirectional communication between the amputee and the prosthetic limb. An electronic skin based on piezoelectric polymer sensors transduces mechanical contact into electrical response which is conveyed to the human subject by electrotactile stimulation. Rectangular electrode arrays are placed on each patient's forearm and experiments are conducted on five different subjects to determine how well the orientation, position and direction of single lines are recognized. Overall, subjects discriminate the different touch modalities with acceptable success rates. In particular, the direction is identified at best and longitudinal lines on the patient's skin are recognized with the highest success rates. These preliminary results assess the feasibility of the artificial skin - electrostimulation system for prosthetic applications.",
+      "citations": 13,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 41,
+              "rank": 585,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2015,
+          "subjects": [
+            {
+              "subject": null,
+              "percentile": 33,
+              "rank": 59,
+              "quartile": "Q3"
+            },
+            {
+              "subject": null,
+              "percentile": 30,
+              "rank": 2279,
+              "quartile": "Q3"
+            },
+            {
+              "subject": null,
+              "percentile": 28,
+              "rank": 46,
+              "quartile": "Q3"
+            },
+            {
+              "subject": null,
+              "percentile": 28,
+              "rank": 132,
+              "quartile": "Q3"
+            },
+            {
+              "subject": null,
+              "percentile": 21,
+              "rank": 43,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84926155544",
+      "title": "Tactile data processing method for the reconstruction of contact force distributions",
+      "doi": "10.1016/j.mechatronics.2015.02.001",
+      "venue": "Mechatronics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2015,
+      "volume": "27",
+      "issue_id": null,
+      "pages": "28-37",
+      "issn": "09574158",
+      "eIssn": null,
+      "source_id": "21096",
+      "authors": "Seminara Lucia; Capurro Marco; Valle Maurizio",
+      "author_ids": "19338029900;7004519617;57197744325",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Seminara L.",
+      "keywords": "Array signal processing | Force reconstruction | Inverse problems | Tactile sensors",
+      "abstract": "The main task of robotic skin is recognition of tactile stimuli acting on the surface of a soft elastic layer through the outputs of embedded sensor arrays. The focus of this work is the development of an algorithm for estimating the spatial distribution of contact forces as well as their intensities and directions starting from sensor data. This requires the solution of an inverse problem where only incomplete information (e.g. normal stress on the sensors) is usually available. The proposed method discretizes external forces at the nodes of a grid. The more practical solution is fixing the node number equal to the number of sensors. In this case, the inverse problem of retrieving the force distribution from sensor data is trivially solved if normal forces are applied. For multi-component force distributions, on the other hand, the problem is in principle ill-posed. A solution is achieved through an optimization procedure accounting for the physical features of the problem by the use of the Moore-Penrose pseudo-inverse matrix and of a vector depending on two continuous and adjustable scalar parameters. The algorithm has been tested on simulated single-contact problems (both Hertzian and non-Hertzian normal force distributions) with encouraging results for both accuracy and robustness of the solution.",
+      "citations": 21,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 80,
+              "rank": 144,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 79,
+              "rank": 208,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 77,
+              "rank": 86,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 75,
+              "rank": 240,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2015,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 91,
+              "rank": 46,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 85,
+              "rank": 98,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 82,
+              "rank": 90,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84919492826",
+      "title": "A tensor-based approach to touch modality classification by using machine learning",
+      "doi": "10.1016/j.robot.2014.09.022",
+      "venue": "Robotics and Autonomous Systems",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2015,
+      "volume": "63",
+      "issue_id": "P3",
+      "pages": "268-278",
+      "issn": "09218890",
+      "eIssn": null,
+      "source_id": "18079",
+      "authors": "Gastaldo P.; Pinna L.; Seminara L.; Valle M.; Zunino R.",
+      "author_ids": "35612596100;35932431800;19338029900;57197744325;7006338311",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Gastaldo P.",
+      "keywords": "Array signal processing | Kernel machines | Machine learning | PVDF tactile sensors | Touch modality",
+      "abstract": "The use of piezoelectric sensor arrays to measure contact forces has been extensively studied in connection to robotics. In this research, Polyvinylidene Fluoride (PVDF) has been used for direct measurement of the mechanical stress and large bandwidth electromechanical transduction. Additionally, a machine learning algorithm has been specifically designed to deal with the inherent tensor morphology of raw tactile data. An experiment involving 70 participants has been organized to collect the output signals under different modalities of touch. The proposed pattern-recognition system showed good accuracy in performing touch classification in a three-class classification experiment, opening interesting scenarios for the application of tensor-based models to support human-robot interactions.",
+      "citations": 48,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Mathematics (all)",
+              "percentile": 98,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 88,
+              "rank": 46,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Software",
+              "percentile": 85,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 85,
+              "rank": 143,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2015,
+          "subjects": [
+            {
+              "subject": "Mathematics (all)",
+              "percentile": 97,
+              "rank": 10,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 86,
+              "rank": 30,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 86,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Software",
+              "percentile": 81,
+              "rank": 71,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84931024078",
+      "title": "Tactile sensors with integrated piezoelectric polymer and low voltage organic thin-film transistors",
+      "doi": "10.1109/ICSENS.2014.6985358",
+      "venue": "Proceedings of IEEE Sensors",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2014,
+      "volume": "2014-December",
+      "issue_id": "December",
+      "pages": "1734-1736",
+      "issn": "19300395",
+      "eIssn": "21689229",
+      "source_id": "74882",
+      "authors": "Cosseddu P.; Viola F.; Lai S.; Raffo L.; Seminara L.; Pinna L.; Valle M.; Dahiya R.; Bonfiglio A.",
+      "author_ids": "23979421700;56396332300;54980367800;7003651730;19338029900;35932431800;57197744325;24331529200;7004010259",
+      "authorAffiliationIds": "60021199;60032259;60032259;60032259;60025153;60025153;60025153;60001490;60032259",
+      "corresponding": "Cosseddu P.",
+      "keywords": "Electronic skin | Organic TFTs | Piezoelectric polymers | Ultra-low voltage devices",
+      "abstract": "This paper presents a novel approach for realizing tactile sensors by integrating a piezoelectric polymer with a low voltage Organic Thin-Film Transistor (OTFT) on flexible plastic substrates. The transducing element consists of PVDF piezoelectric film. The proposed device architecture is similar to the extended gate scheme, whereby the transducing material is connected to OTFT via extended gate. In this scheme, the OTFTs and the transducer material may be or same substrate, as in this case, or they may be on different substrates. The piezoelectric effect induced by an external mechanical stimulus modulates the output current of the OTFT. This scheme represents a simple and innovative solution for artificial sense of touch and is particularly suitable for the low-cost fabrication of so-called \"electronic skin\". The electromechanical characterization shows that the sensing devices can detect forces stimuli within the range 0.5-8N.",
+      "citations": 11,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 31,
+              "rank": 687,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2014,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 47,
+              "rank": 342,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84920517469",
+      "title": "Towards prosthetic systems providing comprehensive tactile feedback for utility and embodiment",
+      "doi": "10.1109/BioCAS.2014.6981802",
+      "venue": "IEEE 2014 Biomedical Circuits and Systems Conference Biocas 2014 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2014,
+      "volume": null,
+      "issue_id": null,
+      "pages": "620-623",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100364848",
+      "authors": "Hartmann C.; Linde J.; Dosen S.; Farina D.; Seminara L.; Pinna L.; Valle M.; Capurro M.",
+      "author_ids": "37003647200;56470460700;23388778600;7004908025;19338029900;35932431800;57197744325;7004519617",
+      "authorAffiliationIds": "60021110;60021110;60021110;60021110;60025153;60025153;60025153;60025153",
+      "corresponding": "Hartmann C.",
+      "keywords": "closed-loop myoelectric prostheses | electro-tactile feedback | electronic skin | prosthesis embodiment | sensor fusion | spatial and intensity coding",
+      "abstract": "The present research moves in the direction of enabling a bidirectional communication between the subject brain and the prosthetic limb, by providing the prosthesis with an artificial cutaneous sensing through an electronic skin. In this preliminary study, the skin response to the applied mechanical stimuli is conveyed to the human subject using electrotactile stimulation. Experimental tests on two healthy subjects show that a short training through reinforced learning increased considerably the success rate in the identification of the impact location. This preliminary study demonstrates the feasibility of communicating the tactile information from the electronic skin to the human subject using multichannel electrocutaneous stimulation. The result is promising since it implies that it might be possible to achieve the embodiment of the artificial skin into the body scheme of the human subject, relying on the brain ability to successfully process the artificial tactile information.",
+      "citations": 18,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84902988710",
+      "title": "Computational intelligence techniques for tactile sensing systems",
+      "doi": "10.3390/s140610952",
+      "venue": "Sensors Switzerland",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2014,
+      "volume": "14",
+      "issue_id": "6",
+      "pages": "10952-10976",
+      "issn": "14248220",
+      "eIssn": null,
+      "source_id": "130124",
+      "authors": "Gastaldo Paolo; Pinna Luigi; Seminara Lucia; Valle Maurizio; Zunino Rodolfo",
+      "author_ids": "35612596100;35932431800;19338029900;57197744325;7006338311",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Gastaldo P.",
+      "keywords": "Computational intelligence | Electronic skin | Human-robot interaction | Pattern recognition | Touch modalities",
+      "abstract": "Tactile sensing helps robots interact with humans and objects effectively in real environments. Piezoelectric polymer sensors provide the functional building blocks of the robotic electronic skin, mainly thanks to their flexibility and suitability for detecting dynamic contact events and for recognizing the touch modality. The paper focuses on the ability of tactile sensing systems to support the challenging recognition of certain qualities/modalities of touch. The research applies novel computational intelligence techniques and a tensor-based approach for the classification of touch modalities; its main results consist in providing a procedure to enhance system generalization ability and architecture for multi-class recognition applications. An experimental campaign involving 70 participants using three different modalities in touching the upper surface of the sensor array was conducted, and confirmed the validity of the approach. © 2014 by the authors; licensee MDPI, Basel, Switzerland.",
+      "citations": 31,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 90,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 136,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 85,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 84,
+              "rank": 72,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 82,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 82,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2014,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 103,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 82,
+              "rank": 28,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 64,
+              "rank": 35,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 53,
+              "rank": 176,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84901917081",
+      "title": "A tensor-based pattern-recognition framework for the interpretation of touch modality in artificial skin systems",
+      "doi": "10.1109/JSEN.2014.2320820",
+      "venue": "IEEE Sensors Journal",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2014,
+      "volume": "14",
+      "issue_id": "7",
+      "pages": "2216-2225",
+      "issn": "1530437X",
+      "eIssn": null,
+      "source_id": "15047",
+      "authors": "Gastaldo Paolo; Pinna Luigi; Seminara Lucia; Valle Maurizio; Zunino Rodolfo",
+      "author_ids": "35612596100;35932431800;19338029900;57197744325;7006338311",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Gastaldo P.",
+      "keywords": "artificial skin | kernel machines | machine learning | pattern recognition | Tactile sensors | touch modality interpretation",
+      "abstract": "Artificial skin systems support human-robot interactions through touch. The interpretation of touch modalities indeed represents a crucial component for the future development of robots that can properly interact with humans. Independently of the specific employed transducer, one of the key issues is how to process the massively complex and high-dimensional tactile data. In this paper, machine learning technologies (namely, support vector machines and extreme learning machines) support a pattern-recognition framework that can fully exploit the tensor morphology of the tactile signal. Furthermore, a practical strategy is provided to address the intricacies of the training procedure. Experimental results show the effectiveness of the proposed approach. © 2001-2012 IEEE.",
+      "citations": 34,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 85,
+              "rank": 27,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 82,
+              "rank": 175,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2014,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 87,
+              "rank": 13,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 99,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84887295706",
+      "title": "Real-time reconstruction of contact shapes for large area robot skin",
+      "doi": "10.1109/ICRA.2013.6630897",
+      "venue": "Proceedings IEEE International Conference on Robotics and Automation",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2013,
+      "volume": null,
+      "issue_id": null,
+      "pages": "2360-2366",
+      "issn": "10504729",
+      "eIssn": null,
+      "source_id": "25456",
+      "authors": "Muscari Luca; Seminara Lucia; Mastrogiovanni Fulvio; Valle Maurizio; Capurro Marco; Cannata Giorgio",
+      "author_ids": "55921933200;19338029900;56962745700;57197744325;7004519617;7005466764",
+      "authorAffiliationIds": "60121711;60025153;60121711;60025153;60025153;60121711",
+      "corresponding": "Muscari L.",
+      "keywords": null,
+      "abstract": "Tactile sensing is considered a key technology for implementing complex robot interaction tasks. The contribution of this article is two-fold: (i) we propose a general-purpose algorithm for the reconstruction of deformation and force distributions for capacitance-based skin-like systems; (ii) real-time performance can be tuned according to available computational resources, which leads to an any-time formulation. Experiments (both in simulation and with real robot skin) provide a quantitative analysis of results. © 2013 IEEE.",
+      "citations": 21,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 75,
+              "rank": 242,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 74,
+              "rank": 97,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Software",
+              "percentile": 70,
+              "rank": 146,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 68,
+              "rank": 155,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2013,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 97,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 80,
+              "rank": 40,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Software",
+              "percentile": 75,
+              "rank": 90,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 67,
+              "rank": 49,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84884145968",
+      "title": "Piezoelectric polymer transducer arrays for flexible tactile sensors",
+      "doi": "10.1109/JSEN.2013.2268690",
+      "venue": "IEEE Sensors Journal",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2013,
+      "volume": "13",
+      "issue_id": "10",
+      "pages": "4022-4029",
+      "issn": "1530437X",
+      "eIssn": null,
+      "source_id": "15047",
+      "authors": "Seminara Lucia; Pinna Luigi; Valle Maurizio; Basirico Laura; Loi Alberto; Cosseddu Piero; Bonfiglio Annalisa; Ascia Alberto; Biso Maurizio; Ansaldo Alberto; Ricci Davide; Metta Giorgio",
+      "author_ids": "19338029900;35932431800;57197744325;36812734200;55388529600;23979421700;7004010259;16052373800;23670194500;14833820700;35452031700;6602884280",
+      "authorAffiliationIds": "60025153;60025153;60025153;60032259;60032259;60032259;60032259;60102151;60102151;60102151;60102151;60102151",
+      "corresponding": "Seminara L.",
+      "keywords": "artificial skin | flexible sensors | ink jet printing | materials processing | PVDF piezoelectric transducers | robotic skin",
+      "abstract": "In this paper, we propose a novel technological approach for the implementation of large-area flexible artificial skin based on arrays of piezoelectric polymer transducers. Polyvinylidene fluoride (PVDF) transducers are chosen for the high electromechanical transduction frequency bandwidth (up to 1 kHz). A low-cost and scalable technique for extracting PVDF signals is used to directly provide the piezoelectric film with patterned electrodes. If the skin is meant to cover large areas of a robot body, specific requirements have to be fulfilled from the point of view of the overall system and of the technology. Experimental tests on the prototype skin modules demonstrate the feasibility of the proposed approach and reveal the potentiality to build large area flexible skin. © 2013 IEEE.",
+      "citations": 116,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 85,
+              "rank": 27,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 82,
+              "rank": 175,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2013,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 82,
+              "rank": 17,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 79,
+              "rank": 129,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84903180711",
+      "title": "The ROBOSKIN Project: Challenges and Results",
+      "doi": "10.1007/978-3-7091-1379-0_43",
+      "venue": "CISM International Centre for Mechanical Sciences Courses and Lectures",
+      "type": "Book Series",
+      "sub_type": "Book Chapter",
+      "year": 2013,
+      "volume": "544",
+      "issue_id": null,
+      "pages": "351-358",
+      "issn": "02541971",
+      "eIssn": "23093706",
+      "source_id": "20420",
+      "authors": "Billard Aude; Bonfiglio Annalisa; Cannata Giorgio; Cosseddu Piero; Dahl Torbjorn; Dautenhahn Kerstin; Mastrogiovanni Fulvio; Metta Giorgio; Natale Lorenzo; Robins Ben; Seminara Lucia; Valle Maurizio",
+      "author_ids": "7006389948;7004010259;7005466764;23979421700;25723210400;7003305185;56962745700;6602884280;9737895100;8585983100;19338029900;57197744325",
+      "authorAffiliationIds": "60028186;60032259;60025153;60032259;60017826;60032760;60025153;60102151;60102151;60032760;60025153;60025153",
+      "corresponding": "Billard A.",
+      "keywords": "Humanoid Robot | Modular Robot | Robot Platform | Robot Programming | Tactile Feedback",
+      "abstract": "The goal of the ROBOSKIN project is to develop and demonstrate a range of new robot capabilities based on the tactile feedback provided by a robotic skin covering large areas of the robot body. So far, a principled investigation of these issues has been limited by the lack of tactile sensing technology enabling large scale experimental activities. As a matter of fact, skin based technology and embedded tactile sensors have been mostly demonstrated only at the stage of prototypes. The new capabilities are expected to improve the ability of robots to effectively and safely operate in unconstrained environments, as well as to communicate and cooperate with each other and with humans.",
+      "citations": 24,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 31,
+              "rank": 505,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Modeling and Simulation",
+              "percentile": 30,
+              "rank": 261,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Mechanics of Materials",
+              "percentile": 27,
+              "rank": 300,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 26,
+              "rank": 718,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84873958938",
+      "title": "Piezoelectric polymer transducer arrays for flexible tactile sensors",
+      "doi": "10.1109/ICSENS.2012.6411300",
+      "venue": "Proceedings of IEEE Sensors",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2012,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "74882",
+      "authors": "Seminara Lucia; Pinna Luigi; Valle Maurizio; Basirico Laura; Loi Alberto; Cosseddu Piero; Bonfiglio Annalisa; Ascia Alberto; Biso Maurizio; Ansaldo Alberto; Ricci Davide; Metta Giorgio",
+      "author_ids": "19338029900;35932431800;57197744325;36812734200;55388529600;23979421700;7004010259;16052373800;23670194500;14833820700;35452031700;6602884280",
+      "authorAffiliationIds": "60025153;60025153;60025153;60032259;60032259;60032259;60032259;60102151;60102151;60102151;60102151;60102151",
+      "corresponding": "Seminara L.",
+      "keywords": null,
+      "abstract": "The paper focuses on the manufacturing technology of modular components for large-area tactile sensors, which are made of arrays of polyvinylidene fluoride (PVDF) piezoelectric polymer taxels integrated on flexible PCBs. PVDF transducers were chosen for the high electromechanical transduction frequency bandwidth (up to 1 kHz for the given application). Patterned electrodes were inkjet printed on the PVDF film. Experimental tests on skin module prototypes demonstrate the feasibility of the proposed approach and reveal the potentiality to build large area flexible and conformable robotic skin. © 2012 IEEE.",
+      "citations": 14,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 31,
+              "rank": 687,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2012,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 33,
+              "rank": 410,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84873945403",
+      "title": "Bending response of PVDF piezoelectric sensors",
+      "doi": "10.1109/ICSENS.2012.6411405",
+      "venue": "Proceedings of IEEE Sensors",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2012,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "74882",
+      "authors": "Seminara Lucia; Valle Maurizio; Capurro Marco",
+      "author_ids": "19338029900;57197744325;7004519617",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Seminara L.",
+      "keywords": null,
+      "abstract": "The aim of the present work is to investigate the response to pure bending of a piezoelectric PVDF film as a standing-alone device. A model is proposed and experimental results show that these polymer films enjoy this property, opening very promising scenarios for their integration into flexible tactile sensing systems. © 2012 IEEE.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 31,
+              "rank": 687,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2012,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 33,
+              "rank": 410,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84855819621",
+      "title": "Piezoelectric polymer films for tactile sensors",
+      "doi": "10.1007/978-1-4614-0935-9_29",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2012,
+      "volume": "109 LNEE",
+      "issue_id": null,
+      "pages": "169-173",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Seminara Lucia; Valle Maurizio; Capurro Marco; Cirillo Paolo; Cannata Giorgio",
+      "author_ids": "19338029900;57197744325;7004519617;7004361886;7005466764",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Seminara L.",
+      "keywords": null,
+      "abstract": "Some results related to electro-mechanical characterization in frequency and temperature of PVDF piezoelectric films are reported. A rheological model of creep and recovery of the response of these samples following to a step in load or temperature is suggested. This work is intended as the first step for the electro-mechanical design of innovative integrated transduction systems for tactile sensors in robotic applications. © 2012 Springer Science+Business Media, LLC.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2012,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 27,
+              "rank": 203,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84856483621",
+      "title": "Interface electronics for tactile sensing arrays",
+      "doi": "10.1109/ICECS.2011.6122314",
+      "venue": "2011 18th IEEE International Conference on Electronics Circuits and Systems Icecs 2011",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2011,
+      "volume": null,
+      "issue_id": null,
+      "pages": "468-471",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100197501",
+      "authors": "Pinna Luigi; Carlini Giorgio; Seminara Lucia; Valle Maurizio",
+      "author_ids": "35932431800;6602861946;19338029900;57197744325",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Pinna L.",
+      "keywords": null,
+      "abstract": "This paper presents the interface electronics design and implementation of a tactile sensing system for humanoid robot applications. The tactile system is designed to cover the human tactile sensing bandwidth ranging from 1Hz to 1kHz and to operate on a wide range of input forces/pressures. Some interface electronics prototypes have been designed and fabricated. The paper reports the experimental results and the validation of the proposed implementation. We report also results of the electro-mechanical response of the tactile sensing system (i.e. tactile sensing array + interface electronics) to external mechanical stimuli. The current implementation is a first step towards dedicated IC integration. © 2011 IEEE.",
+      "citations": 5,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-79959695662",
+      "title": "Electromechanical characterization of piezoelectric PVDF polymer films for tactile sensors in robotics applications",
+      "doi": "10.1016/j.sna.2011.05.004",
+      "venue": "Sensors and Actuators A Physical",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2011,
+      "volume": "169",
+      "issue_id": "1",
+      "pages": "49-58",
+      "issn": "09244247",
+      "eIssn": null,
+      "source_id": "13660",
+      "authors": "Seminara Lucia; Capurro Marco; Cirillo Paolo; Cannata Giorgio; Valle Maurizio",
+      "author_ids": "19338029900;7004519617;7004361886;7005466764;57197744325",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Seminara L.",
+      "keywords": "Complex elastic moduli | Complex piezoelectric moduli | Piezoelectric polymers | PVDF | Tactile sensors | Viscoelastic materials",
+      "abstract": "In this paper an experimental setup and experimental procedures which allow a fast and complete characterization of piezoelectric films continuously over the 1 Hz-1 kHz frequency range are reported. Some results related to PVDF electro-mechanical characterization are also presented. This work is intended as the first step for the electro-mechanical design of innovative integrated transductions systems for tactile sensors in robotic applications. The article concludes with a summary and a discussion of future investigations. © 2011 Elsevier B.V. All rights reserved.",
+      "citations": 142,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 88,
+              "rank": 23,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Condensed Matter Physics",
+              "percentile": 85,
+              "rank": 63,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Metals and Alloys",
+              "percentile": 85,
+              "rank": 26,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 153,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Surfaces, Coatings and Films",
+              "percentile": 81,
+              "rank": 26,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 81,
+              "rank": 58,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2011,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 95,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Metals and Alloys",
+              "percentile": 93,
+              "rank": 9,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Surfaces, Coatings and Films",
+              "percentile": 88,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 88,
+              "rank": 69,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Condensed Matter Physics",
+              "percentile": 85,
+              "rank": 55,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 84,
+              "rank": 29,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-71749104677",
+      "title": "Thermal simulation and package investigation of wireless gas sensors microsystems",
+      "doi": null,
+      "venue": "15th International Workshop on Thermal Investigations of Ics and Systems Therminic 2009",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2009,
+      "volume": null,
+      "issue_id": null,
+      "pages": "66-69",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "19500157016",
+      "authors": "Paoli Andrea; Seminara Lucia; Caviglia Daniele D.; Garibbo Alessandro; Valle Maurizio",
+      "author_ids": "58768885200;19338029900;7004012654;6506630356;57197744325",
+      "authorAffiliationIds": "60025153;60083763;60025153;60083763;60025153",
+      "corresponding": "Paoli A.",
+      "keywords": null,
+      "abstract": "Gas sensor arrays based on metal oxides operating at high temperature are commonly used in many application fields. They can operate on different principles and each sensor may show very different responses to the individual gases in the environment. Data coming from the array can be merged for reliable gas detection. One point which is common to the different sensors types is that the atmosphere to be sensed must flow on or through the sensor itself. This work investigates air flows in gas sensor packages, and proposes a new package to improve gas exchange through natural convection, aiming to allow the gas detection in the case of very small gas concentrations. The study is based on multiphysics Finite Element Method simulations using a commercial software tool. ©EDA Publishing/THERMINIC 2009.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-34548040446",
+      "title": "Batch fabrication of nanostructured heterogeneous microarrays for chemical sensing",
+      "doi": null,
+      "venue": "2007 Nsti Nanotechnology Conference and Trade Show Nsti Nanotech 2007 Technical Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2007,
+      "volume": "1",
+      "issue_id": null,
+      "pages": "336-338",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "7200153171",
+      "authors": "Barborini E.; Leccardi M.; Bertolini G.; Rorato O.; Repetto P.; Bandiera D.; Gatelli M.; Raso A.; Garibbo A.; Seminara L.; Ducati C.; Milani P.",
+      "author_ids": "7004729494;24080619100;19337007400;15123204100;36890837900;15130512300;15131854000;15122891600;6506630356;19338029900;6603883362;7004296540",
+      "authorAffiliationIds": "60121947;60121947;60121947;60121947;60121947;60121947;60121947;60083763;60083763;60083763;60031101;60030318",
+      "corresponding": "Barborini E.",
+      "keywords": "Batch deposition | Clusters | Gas sensors | Nanostructure | Thin film",
+      "abstract": "Deposition of nanoparticles from the gas phase is becoming an enabling technology for batch production of nanostructured devices. Supersonic clusters beam deposition (SCBD) has been shown as a viable route for the production of nanostructured thin films. Due to high deposition rates, high lateral resolution, low temperature processing, SCBD can be used for the direct integration of nanostructured films on micro-fabricated platforms with limited or no post-growth processing. Here we present the industrial opportunities for batch fabrication of chemical sensor microarrays having nanostructured films of transition metal oxides as active elements, deposited on micro-fabricated substrates. Results on the detection of several gas species will be reported.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-1842715163",
+      "title": "Implantation of size-selected silver clusters into graphite: Linearity of implantation depth vs. scaled momentum",
+      "doi": "10.1140/epjd/e2004-00011-9",
+      "venue": "European Physical Journal D",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2004,
+      "volume": "29",
+      "issue_id": "1",
+      "pages": "49-56",
+      "issn": "14346060",
+      "eIssn": null,
+      "source_id": "27549",
+      "authors": "Seminara L.; Convers P.; Monot R.; Harbich W.",
+      "author_ids": "19338029900;57214707620;6603765348;6602856386",
+      "authorAffiliationIds": "60028186;60028186;60028186;60028186",
+      "corresponding": "Seminara L.",
+      "keywords": null,
+      "abstract": "We report on a systematic study of the implantation of size-selected Ag<inf>N</inf><sup>+</sup> clusters on a graphite sample, for different cluster sizes (N = 1, 3, 7, 9, 13) and different impact energies (E = 1-30 keV). Results show that the implantation depth scales linearly with the momentum of the cluster, with a stopping power which depends on cluster size. We have particularly investigated the effects of the size and the geometry of the cluster on the implantation into the graphite substrate. A sort of universal behavior, which unifies different elements and different cluster geometries, can be recognized by scaling the momentum with the cluster projected surface. The stopping power of the cluster while penetrating the HOPG surface has been investigated for each cluster size, and a \"molecular effect\" is recognized, meaning that the stopping power is not additive in the number of atoms of the cluster.",
+      "citations": 25,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 42,
+              "rank": 137,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1262696",
+      "authors": "Yaacoub, Mohamad; Khalifeh, Razan; Gianoglio, Christian; Ibrahim, Ali; Seminara, Lucia",
+      "legacy_id": 658233,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Machine Learning Based Contact Force Estimation Using a PVDF Tactile Sensing System",
+      "doi": "10.1109/newcas64648.2025.11107072",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1206377",
+      "authors": "Micheli, C.; Berselli, G.; Seminara, L.",
+      "legacy_id": 581792,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Model-based approach for indentation on soft electronic skin",
+      "scopus_id": "2-s2.0-85198255921",
+      "doi": "10.1016/j.mechatronics.2024.103225",
+      "isi_id": "WOS:001271451400001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1156140",
+      "authors": "Yaacoub, Mohamad; Abbass, Yahya; Gianoglio, Christian; Seminara, Lucia; Valle, Maurizio",
+      "legacy_id": 521056,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Pilot Study: Response of a Piezoelectric Polymer based Sensing system to Indentation",
+      "scopus_id": "2-s2.0-85179753846",
+      "doi": "10.1109/SENSORS56945.2023.10325161",
+      "isi_id": "WOS:001116741300311",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119618",
+      "dc.identifier.pmid": "37196072",
+      "authors": "Seminara, Lucia; Dosen, Strahinja; Mastrogiovanni, Fulvio; Bianchi, Matteo; Watt, Simon; Beckerle, Philipp; Nanayakkara, Thrishantha; Drewing, Knut; Moscatelli, Alessandro; Klatzky, Roberta L.; Loeb, Gerald E.",
+      "legacy_id": 473085,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "A hierarchical sensorimotor control framework for human-in-the-loop robotic hands",
+      "scopus_id": "2-s2.0-85159770893",
+      "doi": "10.1126/scirobotics.add5434",
+      "isi_id": "WOS:000996010000002",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "22",
+      "citations_scopus": "26"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119695",
+      "authors": "Micheli, Chiara; Abbass, Yahya; Gianoglio, Christian; Seminara, Lucia",
+      "legacy_id": 473186,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "A pilot study: electronic skin sensitive to the grasping speed",
+      "scopus_id": "2-s2.0-85164995895",
+      "doi": "10.1109/PRIME58259.2023.10161937",
+      "isi_id": "WOS:001018707400077",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1103016",
+      "authors": "Bonzini, A. A.; Seminara, L.; Macciò, S.; Carfı, A.; Jamone, L.",
+      "legacy_id": 446572,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Leveraging symmetry detection to speed up haptic object exploration in robots",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1098033",
+      "authors": "Abbass, Yahya; Dosen, Strahinja; Seminara, Lucia; Valle, Maurizio",
+      "legacy_id": 439139,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Full-hand electrotactile feedback using electronic skin and matrix electrodes for high-bandwidth human–machine interfacing",
+      "scopus_id": "2-s2.0-85131825117",
+      "isi_id": "WOS:000807162500009",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "14",
+      "citations_scopus": "15"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1103018",
+      "authors": "Bonzini, A. A.; Seminara, L.; Jamone, L.",
+      "legacy_id": 446576,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Improving Haptic Exploration of Object Shape by Discovering Symmetries",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1099177",
+      "authors": "Micheli, C.; Abbass, Y.; Gianoglio, C.; Ragusa, E.; Valle, M.; Baggetta, M.; Berselli, G.; Seminara, L.",
+      "legacy_id": 441197,
+      "year": 2022,
+      "miur_type": "274",
+      "title": "Towards human-in-the-loop haptic system for avoidance of object slippage from an insensate hand",
+      "type": "04.02 - Abstract in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1069073",
+      "authors": "Abbass, Yahya; Seminara, Lucia; Saleh, Moustafa; Valle, Maurizio",
+      "legacy_id": 404885,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "Novel Wearable Tactile Feedback System for post-stroke Rehabilitation",
+      "scopus_id": "2-s2.0-85124187953",
+      "doi": "10.1109/BioCAS49922.2021.9645020",
+      "isi_id": "WOS:000837980700087",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "3",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1027505",
+      "authors": "Seminara, Lucia; Strbac, Matija; Amin, Youssef; Valle, Maurizio; Dosen, Strahinja",
+      "legacy_id": 357618,
+      "year": 2020,
+      "miur_type": "268",
+      "title": "Artificial Skin and Electrotactile Stimulation for Advanced Tactile Feedback in Myoelectric Prostheses",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1004618",
+      "authors": "Seminara, L.; Fares, H.; Franceschi, M.; Valle, M.; Strbac, M.; Farina, D.; Dosen, S.",
+      "legacy_id": 375936,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Dual-Parameter Modulation Improves Stimulus Localization in Multichannel Electrotactile Stimulation",
+      "scopus_id": "2-s2.0-85074534380",
+      "doi": "10.1109/TOH.2019.2950625",
+      "isi_id": "WOS:000544033900012",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "17",
+      "citations_scopus": "20"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1027301",
+      "dc.identifier.pmid": "32656190",
+      "authors": "Nataletti, S.; Leo, F.; Seminara, L.; Trompetto, C.; Valle, M.; Dosen, S.; Brayda, L.",
+      "legacy_id": 357398,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Temporal Asynchrony but Not Total Energy Nor Duration Improves the Judgment of Numerosity in Electrotactile Stimulation",
+      "scopus_id": "2-s2.0-85087273856",
+      "doi": "10.3389/fbioe.2020.00555",
+      "isi_id": "WOS:000548398800001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "10",
+      "citations_scopus": "10"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1017290",
+      "dc.identifier.pmid": "32093208",
+      "authors": "Fares, H.; Abbass, Y.; Valle, M.; Seminara, L.",
+      "legacy_id": 345082,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Validation of screen‐printed electronic skin based on piezoelectric polymer sensors",
+      "scopus_id": "2-s2.0-85079722617",
+      "doi": "10.3390/s20041160",
+      "isi_id": "WOS:000522448600211",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "21",
+      "citations_scopus": "25"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/960775",
+      "authors": "Seminara, Lucia; Gastaldo, Paolo; Watt, Simon J.; Valyear, Kenneth F.; Zuher, Fernando; Mastrogiovanni, Fulvio",
+      "legacy_id": 280846,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Active Haptic Perception in Robots: A Review",
+      "scopus_id": "2-s2.0-85083964448",
+      "doi": "10.3389/fnbot.2019.00053",
+      "isi_id": "WOS:000477745300001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "56",
+      "citations_scopus": "67"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/933430",
+      "authors": "Franceschi, M.; Seminara, L.; Dosen, S.; Pinna, L.; Fares, H.; Saleh, Moustfa; Valle, M.; Farina, D.",
+      "legacy_id": 249848,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Live Demonstration: Electrotactile feedback from an electronic skin through flexible electrode matrix",
+      "scopus_id": "2-s2.0-85057081051",
+      "doi": "10.1109/ISCAS.2018.8351822",
+      "isi_id": "WOS:000451218704050",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/906441",
+      "authors": "Osta, Mario; Ibrahim, A.; Seminara, L.; Chible, H.; Valle, M.",
+      "legacy_id": 220278,
+      "year": 2018,
+      "miur_type": "262",
+      "title": "Low power approximate multipliers for energy efficient data processing",
+      "scopus_id": "2-s2.0-85044861061",
+      "doi": "10.1166/jolpe.2018.1536",
+      "isi_id": "WOS:000428173800013",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "6",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/983929",
+      "authors": "Alameh, M; Saleh, M; Ansovini, F; Fares, H; Ibrahim, A; Franceschi, M; Seminara, L; Valle, M; Dosen, S; Farina, D",
+      "legacy_id": 307191,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Live Demonstration: System based on Electronic Skin and Cutaneous Electrostimulation for Sensory Feedback in Prosthetics",
+      "scopus_id": "2-s2.0-85060892777",
+      "doi": "10.1109/BIOCAS.2018.8584710",
+      "isi_id": "WOS:000458897900044",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/932342",
+      "authors": "Fares, H.; Seminara, L.; Chible, H.; Dosen, S.; Valle, M.",
+      "legacy_id": 248604,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Multi-Channel Electrotactile Stimulation System for Touch Substitution: A Case Study",
+      "scopus_id": "2-s2.0-85052501499",
+      "doi": "10.1109/PRIME.2018.8430345",
+      "isi_id": "WOS:000495592400054",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "5",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/933432",
+      "authors": "Fares, H.; Seminara, L.; Pinna, L.; Valle, M.; Groten, J.; Hammer, M.; Zirkl, M.; Stadlober, B.",
+      "legacy_id": 249850,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Screen Printed Tactile Sensing Arrays for Prosthetic Applications",
+      "scopus_id": "2-s2.0-85057127422",
+      "doi": "10.1109/ISCAS.2018.8351892",
+      "isi_id": "WOS:000451218704118",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "9",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/968247",
+      "dc.identifier.pmid": "29401692",
+      "authors": "Seminara, L.",
+      "legacy_id": 288913,
+      "year": 2018,
+      "miur_type": "262",
+      "title": "Modeling electronic skin response to normal distributed force",
+      "scopus_id": "2-s2.0-85041741532",
+      "doi": "10.3390/s18020459",
+      "isi_id": "WOS:000427544000142",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "7",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/852328",
+      "dc.identifier.pmid": "27775538",
+      "authors": "Franceschi, Marta; Seminara, Lucia; Dosen, Strahinja; Strbac, Matjia; Valle, Maurizio; Farina, Dario",
+      "legacy_id": 160560,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "A system for electrotactile feedback using electronic skin and flexible matrix electrodes: Experimental evaluation",
+      "scopus_id": "2-s2.0-85028334850",
+      "doi": "10.1109/TOH.2016.2618377",
+      "isi_id": "WOS:000404039600002",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "59",
+      "citations_scopus": "68"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/932357",
+      "authors": "Fares, Hoda; Seminara, L.; Ibrahim, A.; Franceschi, M.; Pinna, L.; Valle, M.; Dosen, S.; Farina, D.",
+      "legacy_id": 248619,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "Distributed sensing and stimulation systems for sense of touch restoration in prosthetics",
+      "scopus_id": "2-s2.0-85034455727",
+      "doi": "10.1109/NGCAS.2017.54",
+      "isi_id": "WOS:000426111600045",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "12",
+      "citations_scopus": "15"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/907493",
+      "authors": "Seminara, L.; Franceschi, M.; Pinna, L.; Ibrahim, A.; Valle, M.; Dosen, S.; Farina, D.",
+      "legacy_id": 221437,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "Electronic skin and electrocutaneous stimulation to restore the sense of touch in hand prosthetics",
+      "scopus_id": "2-s2.0-85032685782",
+      "doi": "10.1109/ISCAS.2017.8050264",
+      "isi_id": "WOS:000424890100045",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "5",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/841777",
+      "authors": "Seminara, Lucia; Pinna, Luigi; Ibrahim, Ali; Noli, Luca; Caviglia, Stefano; Gastaldo, Paolo; Valle, Maurizio",
+      "legacy_id": 148970,
+      "year": 2016,
+      "miur_type": "262",
+      "title": "Towards integrating intelligence in electronic skin",
+      "scopus_id": "2-s2.0-84928676853",
+      "doi": "10.1016/j.mechatronics.2015.04.001",
+      "isi_id": "WOS:000376809100008",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "26",
+      "citations_scopus": "32"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/847669",
+      "authors": "Spanu, A.; Pinna, Luigi; Viola, F.; Seminara, Lucia; Valle, Maurizio; Bonfiglio, A.; Cosseddu, P.",
+      "legacy_id": 155589,
+      "year": 2016,
+      "miur_type": "262",
+      "title": "A high-sensitivity tactile sensor based on piezoelectric polymer PVDF coupled to an ultra-low voltage organic transistor",
+      "scopus_id": "2-s2.0-84974575282",
+      "doi": "10.1016/j.orgel.2016.05.034",
+      "isi_id": "WOS:000378544500008",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "89",
+      "citations_scopus": "95"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/909682",
+      "authors": "Ibrahim, A.; Pinna, L.; Seminara, L.; Valle, M.",
+      "legacy_id": 223835,
+      "year": 2016,
+      "miur_type": "268",
+      "title": "Achievements and Open Issues Toward Embedding Tactile Sensing and Interpretation into Electronic Skin Systems",
+      "scopus_id": "2-s2.0-85034445600",
+      "doi": "10.1002/9783527679249.ch23",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/847964",
+      "authors": "Franceschi, Marta; Seminara, Lucia; Pinna, Luigi; Valle, Maurizio; Ibrahim, Ali; Dosen, S.",
+      "legacy_id": 155921,
+      "year": 2016,
+      "miur_type": "273",
+      "title": "Towards the integration of e-skin into prosthetic devices",
+      "scopus_id": "2-s2.0-84992036329",
+      "doi": "10.1109/PRIME.2016.7519546",
+      "isi_id": "WOS:000390689500098",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "7",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/812118",
+      "authors": "Seminara, Lucia; Capurro, PIETRO MARCO; Valle, Maurizio",
+      "legacy_id": 115875,
+      "year": 2015,
+      "miur_type": "262",
+      "title": "Tactile data processing method for the reconstruction of contact force distributions",
+      "scopus_id": "2-s2.0-84926155544",
+      "doi": "10.1016/j.mechatronics.2015.02.001",
+      "isi_id": "WOS:000353745000004",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "20",
+      "citations_scopus": "21"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/771609",
+      "authors": "Gastaldo, Paolo; Pinna, Luigi; Seminara, Lucia; Valle, Maurizio; Zunino, Rodolfo",
+      "legacy_id": 105720,
+      "year": 2015,
+      "miur_type": "262",
+      "title": "A tensor-based approach to touch modality classification by using machine learning",
+      "scopus_id": "2-s2.0-84919492826",
+      "doi": "10.1016/j.robot.2014.09.022",
+      "isi_id": "WOS:000347507400005",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "32",
+      "citations_scopus": "48"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/847383",
+      "authors": "Franceschi, Marta; Seminara, Lucia; Pinna, Luigi; Strahinja, Dosen; Farina, Dario; Valle, Maurizio",
+      "legacy_id": 155265,
+      "year": 2015,
+      "miur_type": "273",
+      "title": "Preliminary evaluation of the tactile feedback system based on artificial skin and electrotactile stimulation",
+      "scopus_id": "2-s2.0-84953324863",
+      "doi": "10.1109/EMBC.2015.7319407",
+      "isi_id": "WOS:000371717204206",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "9",
+      "citations_scopus": "13"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/812175",
+      "authors": "Seminara, Lucia; Pinna, Luigi; Ibrahim, Ali; Noli, Luca; Capurro, PIETRO MARCO; Caviglia, Stefano; Gastaldo, Paolo; Valle, Maurizio",
+      "legacy_id": 115949,
+      "year": 2014,
+      "miur_type": "273",
+      "title": "Electronic Skin: achievements, issues and trends",
+      "doi": "10.1016/j.protcy.2014.09.015",
+      "isi_id": "WOS:000359158000063",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "21"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/710425",
+      "authors": "Gastaldo, Paolo; Pinna, Luigi; Seminara, Lucia; Valle, Maurizio; Zunino, Rodolfo",
+      "legacy_id": 102650,
+      "year": 2014,
+      "miur_type": "262",
+      "title": "A Tensor-Based Pattern-Recognition Framework for the Interpretation of Touch Modality in Artificial Skin Systems",
+      "scopus_id": "2-s2.0-84901917081",
+      "doi": "10.1109/JSEN.2014.2320820",
+      "isi_id": "WOS:000342843100001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "30",
+      "citations_scopus": "34"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/812162",
+      "authors": "Hartmann, Cornelia; Linde, John; Dosen, Strahinja; Farina, Dario; Seminara, Lucia; Pinna, Luigi; Valle, Maurizio; Capurro, PIETRO MARCO",
+      "legacy_id": 115937,
+      "year": 2014,
+      "miur_type": "273",
+      "title": "Towards prosthetic systems providing comprehensive tactile feedback for utility and embodiment",
+      "scopus_id": "2-s2.0-84920517469",
+      "doi": "10.1109/BioCAS.2014.6981802",
+      "isi_id": "WOS:000366049300173",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "18",
+      "citations_scopus": "18"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/812158",
+      "authors": "Cosseddu, Piero; Viola, Fabrizio; Lai, Stefano; Raffo, Luigi; Seminara, Lucia; Pinna, Luigi; Valle, Maurizio; Dahiya, Ravinder; Bonfiglio, Annalisa",
+      "legacy_id": 115926,
+      "year": 2014,
+      "miur_type": "273",
+      "title": "Tactile sensors with integrated piezoelectric polymer and low voltage organic thin-film transistors",
+      "scopus_id": "2-s2.0-84931024078",
+      "doi": "10.1109/ICSENS.2014.6985358",
+      "isi_id": "WOS:000588709300037",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "7",
+      "citations_scopus": "11"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/754789",
+      "authors": "Gastaldo, Paolo; Pinna, Luigi; Seminara, Lucia; Valle, Maurizio; Zunino, Rodolfo",
+      "legacy_id": 104619,
+      "year": 2014,
+      "miur_type": "262",
+      "title": "Computational intelligence techniques for tactile sensing systems",
+      "scopus_id": "2-s2.0-84902988710",
+      "doi": "10.3390/s140610952",
+      "isi_id": "WOS:000338635600079",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "27",
+      "citations_scopus": "31"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/624147",
+      "authors": "Seminara, Lucia; Pinna, Luigi; Valle, Maurizio; Basirico, L.; Loi, A.; Cosseddu, P.; Bonfiglio, A.; Ascia, A.; Biso, M.; Ansaldo, A.; Ricci, D.; Metta, Giorgio",
+      "legacy_id": 98769,
+      "year": 2013,
+      "miur_type": "262",
+      "title": "Piezoelectric polymer transducer arrays for flexible tactile sensors",
+      "scopus_id": "2-s2.0-84884145968",
+      "doi": "10.1109/JSEN.2013.2268690",
+      "isi_id": "WOS:000324497400005",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "99",
+      "citations_scopus": "116"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/660165",
+      "authors": "Muscari, Luca; Seminara, Lucia; Mastrogiovanni, Fulvio; Valle, Maurizio; Capurro, Marco; Cannata, Giorgio",
+      "legacy_id": 100379,
+      "year": 2013,
+      "miur_type": "273",
+      "title": "Real-time reconstruction of contact shapes for large area robot skin",
+      "scopus_id": "2-s2.0-84887295706",
+      "doi": "10.1109/ICRA.2013.6630897",
+      "isi_id": "WOS:000337617302055",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "11",
+      "citations_scopus": "21"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/944108",
+      "authors": "Aude, Billard; Bonfiglio, Annalisa; Cannata, Giorgio; Cosseddu, Piero; Torbjorn, Dahl; Kerstin, Dautenhahn; Mastrogiovanni, Fulvio; Metta, Giorgio; Natale, Lorenzo; Ben, Robins; Seminara, Lucia; Valle, Maurizio",
+      "legacy_id": 262820,
+      "year": 2013,
+      "miur_type": "268",
+      "title": "The ROBOSKIN project: challenges and results",
+      "scopus_id": "2-s2.0-84903180711",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_scopus": "24"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/624542",
+      "authors": "Seminara, Lucia; Valle, Maurizio; Capurro, PIETRO MARCO",
+      "legacy_id": 98774,
+      "year": 2012,
+      "miur_type": "273",
+      "title": "Bending response of PVDF piezoelectric sensors2012 IEEE Sensors",
+      "scopus_id": "2-s2.0-84873945403",
+      "doi": "10.1109/ICSENS.2012.6411405",
+      "isi_id": "WOS:000315671100213",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/812129",
+      "authors": "Seminara, Lucia; Pinna, Luigi; Capurro, PIETRO MARCO; Valle, Maurizio",
+      "legacy_id": 115881,
+      "year": 2012,
+      "miur_type": "268",
+      "title": "A Tactile Sensing System Based on Arrays of Piezoelectric Polymer Transducers",
+      "doi": "10.5772/50112",
+      "isi_id": "WOS:000370681000024",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_isi": "10"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/536343",
+      "authors": "Seminara, Lucia; Valle, Maurizio; Capurro, Pietro Marco; Cirillo, Paolo; Cannata, Giorgio",
+      "legacy_id": 94827,
+      "year": 2012,
+      "miur_type": "273",
+      "title": "Piezoelectric polymer films for tactile sensors",
+      "scopus_id": "2-s2.0-84855819621",
+      "doi": "10.1007/978-1-4614-0935-9_29",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/812167",
+      "authors": "Capurro, PIETRO MARCO; Carlini, Giorgio; Pinna, Luigi; Seminara, Lucia; Valle, Maurizio",
+      "legacy_id": 115943,
+      "year": 2012,
+      "miur_type": "275",
+      "title": "Large area tactile sensing system based on arrays of piezoelectric polymer transducers",
+      "type": "04.03 - Poster"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/624545",
+      "authors": "Seminara, Lucia; Pinna, Luigi; Valle, Maurizio; Laura, Basirico; Alberto, Loi; Piero, Cosseddu; Annalisa, Bonfiglio; Alberto, Ascia; Maurizio, Biso; Alberto, Ansaldo; Ricci, DAVIDE FRANCESCO; Metta, Giorgio",
+      "legacy_id": 98777,
+      "year": 2012,
+      "miur_type": "273",
+      "title": "Piezoelectric polymer transducer arrays for flexible tactile sensors",
+      "scopus_id": "2-s2.0-84873958938",
+      "doi": "10.1109/ICSENS.2012.6411300",
+      "isi_id": "WOS:000315671100214",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "14"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/317876",
+      "authors": "Seminara, Lucia; Capurro, PIETRO MARCO; Cirillo, Paolo; Cannata, Giorgio; Valle, Maurizio",
+      "legacy_id": 70739,
+      "year": 2011,
+      "miur_type": "262",
+      "title": "Electromechanical characterization of piezoelectric PVDF polymer films for tactile sensors in robotics applications",
+      "scopus_id": "2-s2.0-79959695662",
+      "doi": "10.1016/j.sna.2011.05.004",
+      "isi_id": "WOS:000293112700007",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "126",
+      "citations_scopus": "142"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/522357",
+      "authors": "Pinna, Luigi; Carlini, Giorgio; Seminara, Lucia; Valle, Maurizio",
+      "legacy_id": 93746,
+      "year": 2011,
+      "miur_type": "273",
+      "title": "Interface electronics for tactile sensing arrays",
+      "scopus_id": "2-s2.0-84856483621",
+      "doi": "10.1109/ICECS.2011.6122314",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/252642",
+      "authors": "Paoli, A.; Seminara, Lucia; Caviglia, Daniele; Garibbo, A.; Valle, Maurizio",
+      "legacy_id": 49269,
+      "year": 2009,
+      "miur_type": "273",
+      "title": "Thermal simulation and package investigation of wireless gas sensors microsystems",
+      "scopus_id": "2-s2.0-71749104677",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/812050",
+      "authors": "Seminara, Lucia; Convers, Pierre; Monot, Rene; Harbich, Wolfgang",
+      "legacy_id": 115770,
+      "year": 2004,
+      "miur_type": "262",
+      "title": "Implantation of size-selected silver clusters into graphite - Linearity of implantation depth vs. scaled momentum",
+      "doi": "10.1140/epjd/e2004-00011-9",
+      "isi_id": "WOS:000221058100008",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "23"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:16:40.170634"
+}

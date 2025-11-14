@@ -1,0 +1,3760 @@
+# Trucco Andrea
+
+## Overview
+- **Unit:** ICT
+- **Role:** Professore ordinario
+- **Grade:** Prof.Ordinario Legge 240/10 - t.pieno - classe 4
+- **SSD:** IINF-03/A (Telecomunicazioni)
+- **Scopus ID:** 7007035725
+- **UNIGE ID:** 055352
+- **Retrieved at:** 2025-11-14T15:18:06.308648
+
+## Contact
+- **Email:** andrea.trucco@unige.it
+- **Phone:** +39 010 33 52253
+- **Website:** http://spt.dibe.unige.it/A3US/trucco_index.html
+- **Page:** https://rubrica.unige.it/personale/VUZCWF9r
+- **Locations:** Opera Pia - padiglione C (Ex CNR) (ED_161450501), 1° piano, US_161450501.I.021
+
+## Career
+- PA, 2012-05-01 → 2016-01-31
+- PO, 2016-02-01 → 2222-02-02
+
+## Responsibilities
+- **Title:** Componente della Commissione paritetica docenti-studenti di scuola
+  - **Unit:** Scuola politecnica
+  - **Period:** 2025-11-01 → 2027-10-31
+
+## Teaching
+### 2025
+- Comunicazioni Elettriche (107330), L-8 - Ingegneria Biomedica
+- Comunicazioni Elettriche (107330), L-8 - Ingegneria Biomedica
+- Fundamentals Of Telecommunications And Signal Processing (114623), L-8 - Ingegneria Informatica
+- Fundamentals Of Telecommunications And Signal Processing (114623), L-8 - Ingegneria Informatica
+- Emissione Acustica Ed Elettromagnetica Della Nave (60338), Lm-34 - Ingegneria Navale
+- Segnali E Sistemi Per Le Telecomunicazioni (72512), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+
+### 2024
+- Fondamenti Di Telecomunicazioni (84396), Lm-28 - Ingegneria Elettrica
+- Emissione Acustica Ed Elettromagnetica Della Nave (60338), Lm-34 - Ingegneria Navale
+- Segnali E Sistemi Per Le Telecomunicazioni (72512), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+
+### 2023
+- Fondamenti Di Telecomunicazioni (84396), Lm-28 - Ingegneria Elettrica
+- Emissione Acustica Ed Elettromagnetica Della Nave (60338), Lm-34 - Ingegneria Navale
+- Segnali E Sistemi Per Le Telecomunicazioni (72512), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+
+### 2022
+- Fondamenti Di Telecomunicazioni (84396), Lm-28 - Ingegneria Elettrica
+- Emissione Acustica Ed Elettromagnetica Della Nave (60338), Lm-34 - Ingegneria Navale
+- Segnali E Sistemi Per Le Telecomunicazioni (72512), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+
+### 2021
+- Fondamenti Di Telecomunicazioni (84396), Lm-28 - Ingegneria Elettrica
+- Emissione Acustica Ed Elettromagnetica Della Nave (60338), Lm-34 - Ingegneria Navale
+- Segnali E Sistemi Per Le Telecomunicazioni (72512), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+
+### 2020
+- Fondamenti Di Telecomunicazioni (84396), Lm-28 - Ingegneria Elettrica
+- Emissione Acustica Ed Elettromagnetica Della Nave (60338), Lm-34 - Ingegneria Navale
+- Segnali E Sistemi Per Le Telecomunicazioni (72512), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+
+## Scopus Metrics
+- absolute; Docs: 175; Journals: 95; Conferences: 76; Citations: 3207; H-index: 27
+- 15 years (2010-2025); Docs: 72; Journals: 42; Conferences: 28; Citations: 1134; H-index: 18
+- 10 years (2015-2025); Docs: 38; Journals: 26; Conferences: 10; Citations: 593; H-index: 13
+- 05 years (2020-2025); Docs: 11; Journals: 11; Conferences: 0; Citations: 61; H-index: 5
+
+## Scopus Products
+1.
+   - **Title:** Regularized PCA-Based Prediction of Wind Turbine Underwater Noise From Few Unbalanced Observations
+   - **Venue:** IEEE Journal of Oceanic Engineering
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/JOE.2025.3565788
+   - **Scopus ID:** 2-s2.0-105010309720
+   - **ISSN:** 03649059
+   - **eISSN:** 15581691
+   - **Volume:** 50
+   - **Issue:** 4
+   - **Pages:** 3264-3281
+   - **Authors:** Trucco Andrea; Neves Silvana
+   - **Keywords:** Offshore wind turbine | principal component analysis (PCA) | regularization | spectral prediction | underwater noise
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 11, percentile 90)
+     - Mechanical Engineering (Q1, rank 88, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 86)
+   - **Source Id:** 17277
+   - **Author Ids:** 7007035725;57113210100
+   - **Authoraffiliationids:** 60025153-60103966;60117420
+   - **Corresponding:** Trucco A.
+2.
+   - **Title:** Predicting Underwater Noise Spectra Dominated by Wind Turbine Contributions
+   - **Venue:** IEEE Journal of Oceanic Engineering
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/JOE.2024.3415753
+   - **Scopus ID:** 2-s2.0-85207460971
+   - **ISSN:** 03649059
+   - **eISSN:** 15581691
+   - **Volume:** 49
+   - **Issue:** 4
+   - **Pages:** 1675-1694
+   - **Authors:** Trucco Andrea
+   - **Keywords:** Offshore wind turbine | principal component analysis (PCA) | spectral prediction | supervised and unsupervised learning | underwater noise
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 11, percentile 90)
+     - Mechanical Engineering (Q1, rank 88, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 86)
+     2024:
+     - Ocean Engineering (Q1, rank 7, percentile 94)
+     - Mechanical Engineering (Q1, rank 75, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 115, percentile 88)
+   - **Source Id:** 17277
+   - **Author Ids:** 7007035725
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Trucco A.
+3.
+   - **Title:** Applying collective motion models to study discordant individual behaviours within a school of fish
+   - **Venue:** Royal Society Open Science
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1098/rsos.231618
+   - **Scopus ID:** 2-s2.0-85179686840
+   - **eISSN:** 20545703
+   - **Volume:** 10
+   - **Issue:** 12
+   - **Authors:** Trucco Andrea
+   - **Keywords:** collective motion | counter-rotation | individual emergent behaviour | milling | school of fish | self-propelled particle model
+   - **Quartile:**
+     2025:
+     - Multidisciplinary (Q1, rank 34, percentile 83)
+     2023:
+     - Multidisciplinary (Q1, rank 19, percentile 89)
+   - **Source Id:** 21100446014
+   - **Author Ids:** 7007035725
+   - **Authoraffiliationids:** 60025153-60103966
+   - **Corresponding:** Trucco A.
+4.
+   - **Title:** Introducing Temporal Correlation in Rainfall and Wind Prediction From Underwater Noise
+   - **Venue:** IEEE Journal of Oceanic Engineering
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1109/JOE.2022.3223406
+   - **Scopus ID:** 2-s2.0-85147223659
+   - **ISSN:** 03649059
+   - **eISSN:** 15581691
+   - **Volume:** 48
+   - **Issue:** 2
+   - **Pages:** 349-364
+   - **Authors:** Trucco Andrea; Barla Annalisa; Bozzano Roberto; Pensieri Sara; Verri Alessandro; Solarna David
+   - **Keywords:** Acoustical meteorology | machine learning (ML) | rainfall intensity prediction | regression | temporal correlation | underwater noise | wind speed prediction
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 11, percentile 90)
+     - Mechanical Engineering (Q1, rank 88, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 86)
+     2023:
+     - Ocean Engineering (Q1, rank 4, percentile 96)
+     - Mechanical Engineering (Q1, rank 54, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 101, percentile 87)
+   - **Source Id:** 17277
+   - **Author Ids:** 7007035725;56820306000;6602292250;35311650600;57193129975;57192703421
+   - **Authoraffiliationids:** 60025153;60121711;60021199;60021199;60025153;60025153
+   - **Corresponding:** Trucco A.
+5.
+   - **Title:** Compounding Approaches for Wind Prediction From Underwater Noise by Supervised Learning
+   - **Venue:** IEEE Journal of Oceanic Engineering
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1109/JOE.2022.3162689
+   - **Scopus ID:** 2-s2.0-85131722694
+   - **ISSN:** 03649059
+   - **eISSN:** 15581691
+   - **Volume:** 47
+   - **Issue:** 4
+   - **Pages:** 1172-1187
+   - **Authors:** Trucco Andrea; Barla Annalisa; Bozzano Roberto; Fava Emanuele; Pensieri Sara; Verri Alessandro; Solarna David
+   - **Keywords:** Acoustical meteorology | noise analysis | random forest (RF) | regression | supervised machine learning | underwater acoustics | wind speed prediction
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 11, percentile 90)
+     - Mechanical Engineering (Q1, rank 88, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 86)
+     2022:
+     - Ocean Engineering (Q1, rank 7, percentile 93)
+     - Mechanical Engineering (Q1, rank 67, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 103, percentile 86)
+   - **Source Id:** 17277
+   - **Author Ids:** 7007035725;56820306000;6602292250;57239033800;35311650600;57193129975;57192703421
+   - **Authoraffiliationids:** 60025153;60121711;60021199;60121711;60021199;60121711;60025153
+   - **Corresponding:** Trucco A.
+6.
+   - **Title:** Analysis of particle size distribution in municipal wastewaters
+   - **Venue:** Environmental Technology and Innovation
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1016/j.eti.2022.102638
+   - **Scopus ID:** 2-s2.0-85130388387
+   - **eISSN:** 23521864
+   - **Volume:** 27
+   - **Authors:** Cornacchia Matteo; Moser Gabriele; Saturno Ezio; Trucco Andrea; Costamagna Paola
+   - **Keywords:** Laser diffraction | Modeling | Municipal wastewater | Particle size distribution (PSD) | Probability density function (PDF)
+   - **Quartile:**
+     2025:
+     - Plant Science (Q1, rank 16, percentile 97)
+     - Soil Science (Q1, rank 7, percentile 96)
+     - Environmental Science (all) (Q1, rank 12, percentile 95)
+     2022:
+     - Plant Science (Q1, rank 27, percentile 94)
+     - Soil Science (Q1, rank 14, percentile 90)
+     - Environmental Science (all) (Q1, rank 26, percentile 88)
+   - **Source Id:** 21100385961
+   - **Author Ids:** 57219565499;7101795745;57204182713;7007035725;7003269793
+   - **Authoraffiliationids:** 60025153-128128010;60025153;128128010;60025153;60025153
+   - **Corresponding:** Cornacchia M.
+7.
+   - **Title:** Where Do We Stand in Regularization for Life Science Studies?
+   - **Venue:** Journal of Computational Biology
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1089/cmb.2019.0371
+   - **Scopus ID:** 2-s2.0-85126152410
+   - **ISSN:** 10665277
+   - **Volume:** 29
+   - **Issue:** 3
+   - **Pages:** 213-232
+   - **Authors:** Tozzo Veronica; Azencott Chloé Agathe; Fiorini Samuele; Fava Emanuele; Trucco Andrea; Barla Annalisa
+   - **Keywords:** life sciences | regularization | supervised learning | unsupervised learning
+   - **Quartile:**
+     2025:
+     - Computational Mathematics (Q2, rank 76, percentile 63)
+     - Computational Theory and Mathematics (Q2, rank 77, percentile 62)
+     - Modeling and Simulation (Q2, rank 152, percentile 59)
+     - Genetics (Q3, rank 224, percentile 37)
+     - Molecular Biology (Q3, rank 299, percentile 27)
+     2022:
+     - Computational Mathematics (Q2, rank 64, percentile 63)
+     - Computational Theory and Mathematics (Q2, rank 63, percentile 62)
+     - Modeling and Simulation (Q2, rank 141, percentile 55)
+     - Genetics (Q3, rank 235, percentile 28)
+     - Molecular Biology (Q4, rank 302, percentile 20)
+   - **Source Id:** 29581
+   - **Author Ids:** 57201085336;16644899600;57038509000;57239033800;7007035725;56820306000
+   - **Authoraffiliationids:** 60025153;60030506-60108665-60000905;121884954;60025153;60025153;60025153
+   - **Corresponding:** Tozzo V.
+8.
+   - **Title:** The Statistics of Superdirective Beam Patterns
+   - **Venue:** IEEE Transactions on Signal Processing
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1109/TSP.2022.3156700
+   - **Scopus ID:** 2-s2.0-85126302175
+   - **ISSN:** 1053587X
+   - **eISSN:** 19410476
+   - **Volume:** 70
+   - **Pages:** 1959-1975
+   - **Authors:** Trucco Andrea
+   - **Keywords:** beam pattern statistics | Beamforming | correlation | quantile functions | random errors | Rician PDF | robust superdirectivity | superdirective arrays
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 79, percentile 92)
+     - Signal Processing (Q1, rank 18, percentile 91)
+     2022:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 90)
+     - Signal Processing (Q1, rank 13, percentile 89)
+   - **Source Id:** 17391
+   - **Author Ids:** 7007035725
+   - **Authoraffiliationids:** 60102151-60025153
+   - **Corresponding:** Trucco A.
+9.
+   - **Title:** A Supervised Learning Approach for Rainfall Detection From Underwater Noise Analysis
+   - **Venue:** IEEE Journal of Oceanic Engineering
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1109/JOE.2021.3091769
+   - **Scopus ID:** 2-s2.0-85113896023
+   - **ISSN:** 03649059
+   - **eISSN:** 15581691
+   - **Volume:** 47
+   - **Issue:** 1
+   - **Pages:** 213-225
+   - **Authors:** Trucco Andrea; Bozzano Roberto; Fava Emanuele; Pensieri Sara; Verri Alessandro; Barla Annalisa
+   - **Keywords:** Acoustical meteorology | machine learning | noise analysis | rainfall detection | supervised learning | underwater acoustics
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 11, percentile 90)
+     - Mechanical Engineering (Q1, rank 88, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 86)
+     2022:
+     - Ocean Engineering (Q1, rank 7, percentile 93)
+     - Mechanical Engineering (Q1, rank 67, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 103, percentile 86)
+   - **Source Id:** 17277
+   - **Author Ids:** 7007035725;6602292250;57239033800;35311650600;57193129975;56820306000
+   - **Authoraffiliationids:** 60025153;60021199;60025153;60021199;60121711;60121711
+   - **Corresponding:** Trucco A.
+10.
+   - **Title:** Wideband 2-D sparse array optimization combined with multiline reception for real-time 3-D medical ultrasound
+   - **Venue:** Ultrasonics
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1016/j.ultras.2020.106318
+   - **Scopus ID:** 2-s2.0-85097740914
+   - **ISSN:** 0041624X
+   - **Volume:** 111
+   - **Authors:** Sciallero Claudia; Trucco Andrea
+   - **Keywords:** 2-D arrays | 3-D medical ultrasound | Simulated annealing | Sparse array
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q1, rank 5, percentile 91)
+     2021:
+     - Acoustics and Ultrasonics (Q1, rank 4, percentile 91)
+   - **Source Id:** 13516
+   - **Author Ids:** 22035995400;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Sciallero C.
+11.
+   - **Title:** Superdirective Robust Algorithms’ Comparison for Linear Arrays
+   - **Venue:** Acoustics
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.3390/acoustics2030038
+   - **Scopus ID:** 2-s2.0-85101488601
+   - **eISSN:** 2624599X
+   - **Volume:** 2
+   - **Issue:** 3
+   - **Pages:** 707-718
+   - **Authors:** Greco Danilo; Trucco Andrea
+   - **Keywords:** broadband beamforming | frequency-invariant beam pattern | robust beamforming | sequential quadratic programming | superdirective arrays
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q2, rank 21, percentile 61)
+   - **Source Id:** 21101087776
+   - **Author Ids:** 57197399855;7007035725
+   - **Authoraffiliationids:** 60025153-60102151;60025153
+   - **Corresponding:** Greco D.
+12.
+   - **Title:** Data-driven fault diagnosis in SOFC-based power plants under off-design operating conditions
+   - **Venue:** International Journal of Hydrogen Energy
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 24
+   - **DOI:** 10.1016/j.ijhydene.2019.09.128
+   - **Scopus ID:** 2-s2.0-85073022701
+   - **ISSN:** 03603199
+   - **Volume:** 44
+   - **Issue:** 54
+   - **Pages:** 29002-29006
+   - **Authors:** Costamagna Paola; De Giorgi Andrea; Moser Gabriele; Pellaco Lissy; Trucco Andrea
+   - **Keywords:** Distributed electric generation | Energy systems | Fault detection and isolation (FDI) | Mathematical modelling | Pattern recognition | Solid oxide fuel cell (SOFC)
+   - **Quartile:**
+     2025:
+     - Condensed Matter Physics (Q1, rank 18, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 23, percentile 93)
+     - Fuel Technology (Q1, rank 15, percentile 89)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 46, percentile 85)
+     2019:
+     - Condensed Matter Physics (Q1, rank 31, percentile 92)
+     - Energy Engineering and Power Technology (Q1, rank 22, percentile 90)
+     - Fuel Technology (Q1, rank 13, percentile 87)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 29, percentile 84)
+   - **Source Id:** 26991
+   - **Author Ids:** 7003269793;56195544300;7101795745;56195782300;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60002014;60025153
+   - **Corresponding:** Costamagna P.
+13.
+   - **Title:** Data-driven techniques for fault diagnosis in power generation plants based on solid oxide fuel cells
+   - **Venue:** Energy Conversion and Management
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 50
+   - **DOI:** 10.1016/j.enconman.2018.10.107
+   - **Scopus ID:** 2-s2.0-85056198581
+   - **ISSN:** 01968904
+   - **Volume:** 180
+   - **Pages:** 281-291
+   - **Authors:** Costamagna Paola; De Giorgi Andrea; Moser Gabriele; Serpico Sebastiano B.; Trucco Andrea
+   - **Keywords:** Data-driven fault diagnosis | Distributed electric generation | Fault detection and isolation | Random forest | Solid oxide fuel cells | Support vector machine
+   - **Quartile:**
+     2025:
+     - Nuclear Energy and Engineering (Q1, rank 2, percentile 98)
+     - Energy Engineering and Power Technology (Q1, rank 12, percentile 96)
+     - Fuel Technology (Q1, rank 7, percentile 95)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 21, percentile 93)
+     2019:
+     - Nuclear Energy and Engineering (Q1, rank 2, percentile 97)
+     - Energy Engineering and Power Technology (Q1, rank 6, percentile 97)
+     - Fuel Technology (Q1, rank 4, percentile 96)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 13, percentile 93)
+   - **Source Id:** 29372
+   - **Author Ids:** 7003269793;56195544300;7101795745;7005306316;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Costamagna P.
+14.
+   - **Title:** Designing audio-visual tools to support multisensory disabilities
+   - **Venue:** Multimodal Behavior Analysis in the Wild Advances and Challenges
+   - **Year:** 2018
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 4
+   - **DOI:** 10.1016/B978-0-12-814601-9.00013-4
+   - **Scopus ID:** 2-s2.0-85067188286
+   - **Pages:** 79-102
+   - **Authors:** Noceti Nicoletta; Giuliani Luca; Sosa-Garciá Joan; Brayda Luca; Trucco Andrea; Odone Francesca
+   - **Keywords:** Assistive audio-visual tools | Complementary hearing aid | Sensorized glasses | Visual object recognition
+   - **Source Id:** 21100945969
+   - **Author Ids:** 24462257200;57188716062;55347757800;6506625090;7007035725;6602231198
+   - **Authoraffiliationids:** 60121711;60121711-60102151;60121711;60102151;60025153;60121711
+   - **Corresponding:** Noceti N.
+15.
+   - **Title:** ROOM REFLECTORS ESTIMATION from SOUND by GREEDY ITERATIVE APPROACH
+   - **Venue:** ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ICASSP.2018.8461640
+   - **Scopus ID:** 2-s2.0-85054234978
+   - **ISSN:** 15206149
+   - **Volume:** 2018-April
+   - **Pages:** 6877-6881
+   - **Authors:** Crocco Marco; Trucco Andrea; Del Bue Alessio
+   - **Keywords:** Echo Labelling problem | NP-hard | Room Reconstruction | Structure from Sound
+   - **Source Id:** 110544
+   - **Author Ids:** 14048008100;7007035725;12752759400
+   - **Authoraffiliationids:** 60102151;60025153;60102151
+   - **Corresponding:** Crocco M.
+16.
+   - **Title:** Audio Tracking in Noisy Environments by Acoustic Map and Spectral Signature
+   - **Venue:** IEEE Transactions on Cybernetics
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.1109/TCYB.2017.2711497
+   - **Scopus ID:** 2-s2.0-85021798915
+   - **ISSN:** 21682267
+   - **Volume:** 48
+   - **Issue:** 5
+   - **Pages:** 1619-1632
+   - **Authors:** Crocco Marco; Martelli Samuele; Trucco Andrea; Zunino Andrea; Murino Vittorio
+   - **Keywords:** Acoustical imaging | audio classification | audio source localization | audio tracking | particle filter | spectral signature | tracking before detect
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 2, percentile 99)
+     - Information Systems (Q1, rank 3, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 11, percentile 98)
+     - Computer Science Applications (Q1, rank 12, percentile 98)
+     - Software (Q1, rank 7, percentile 98)
+     - Human-Computer Interaction (Q1, rank 5, percentile 97)
+     2018:
+     - Control and Systems Engineering (Q1, rank 1, percentile 99)
+     - Computer Science Applications (Q1, rank 2, percentile 99)
+     - Information Systems (Q1, rank 2, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 6, percentile 99)
+     - Human-Computer Interaction (Q1, rank 2, percentile 98)
+     - Software (Q1, rank 9, percentile 97)
+   - **Source Id:** 21100274221
+   - **Author Ids:** 14048008100;36470627600;7007035725;57201591775;7006595496
+   - **Authoraffiliationids:** 60102151;60102151;60102151-60025153;60102151-60025153;60102151-60032256
+   - **Corresponding:** Crocco M.
+17.
+   - **Title:** Uncalibrated 3D room geometry estimation from sound impulse responses
+   - **Venue:** Journal of the Franklin Institute
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.1016/j.jfranklin.2017.10.024
+   - **Scopus ID:** 2-s2.0-85034426856
+   - **ISSN:** 00160032
+   - **Volume:** 354
+   - **Issue:** 18
+   - **Pages:** 8678-8709
+   - **Authors:** Crocco Marco; Trucco Andrea; Del Bue Alessio
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 59, percentile 91)
+     - Signal Processing (Q1, rank 39, percentile 80)
+     - Computer Networks and Communications (Q1, rank 134, percentile 75)
+     - Control and Systems Engineering (Q1, rank 94, percentile 75)
+     2017:
+     - Applied Mathematics (Q1, rank 27, percentile 94)
+     - Computer Networks and Communications (Q1, rank 39, percentile 86)
+     - Control and Systems Engineering (Q1, rank 34, percentile 85)
+     - Signal Processing (Q1, rank 17, percentile 83)
+   - **Source Id:** 27959
+   - **Author Ids:** 14048008100;7007035725;12752759400
+   - **Authoraffiliationids:** 60102151;60102151-60025153;60102151
+   - **Corresponding:** Crocco M.
+18.
+   - **Title:** Diagnostics and Prognostics-Oriented Modeling of an NGSR Fuel Processor for Application in SOFC Systems
+   - **Venue:** Fuel Cells
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1002/fuce.201600187
+   - **Scopus ID:** 2-s2.0-85018424830
+   - **ISSN:** 16156846
+   - **eISSN:** 16156854
+   - **Volume:** 17
+   - **Issue:** 4
+   - **Pages:** 517-534
+   - **Authors:** Pugliese F.; Trucco A.; Moser G.; Costamagna P.
+   - **Keywords:** Carbon Deposition | Chemical Reactor | Fault Detection and Isolation (FDI) | Fuel Cell | Fuel Cell System | Mathematical Modeling | Natural Gas Steam Reforming (NGSR) | Solid Oxide Fuel Cell (SOFC)
+   - **Quartile:**
+     2025:
+     - Energy Engineering and Power Technology (Q2, rank 122, percentile 62)
+     - Renewable Energy, Sustainability and the Environment (Q3, rank 164, percentile 47)
+     2017:
+     - Energy Engineering and Power Technology (Q1, rank 49, percentile 76)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 61, percentile 59)
+   - **Source Id:** 26541
+   - **Author Ids:** 56767743500;7007035725;7101795745;7003269793
+   - **Authoraffiliationids:** 60025153;60025153-60102151;60025153;60025153
+   - **Corresponding:** Pugliese F.
+19.
+   - **Title:** Parametric Analysis of Ship Noise Spectra
+   - **Venue:** IEEE Journal of Oceanic Engineering
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.1109/JOE.2016.2583798
+   - **Scopus ID:** 2-s2.0-85027435343
+   - **ISSN:** 03649059
+   - **Volume:** 42
+   - **Issue:** 2
+   - **Pages:** 424-438
+   - **Authors:** Traverso Federico; Gaggero Tomaso; Tani Giorgio; Rizzuto Enrico; Trucco Andrea; Viviani Michele
+   - **Keywords:** Cavitation noise | parametric analysis | ship noise spectrum
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 11, percentile 90)
+     - Mechanical Engineering (Q1, rank 88, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 86)
+     2017:
+     - Ocean Engineering (Q1, rank 5, percentile 95)
+     - Mechanical Engineering (Q1, rank 64, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 104, percentile 84)
+   - **Source Id:** 17277
+   - **Author Ids:** 6602210571;55212255700;55355605100;6602173744;7007035725;58090077400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60017293;60025153-60102151;60025153
+   - **Corresponding:** Traverso F.
+20.
+   - **Title:** Fault diagnosis strategies for SOFC-based power generation plants
+   - **Venue:** Sensors Switzerland
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 22
+   - **DOI:** 10.3390/s16081336
+   - **Scopus ID:** 2-s2.0-84988493385
+   - **ISSN:** 14248220
+   - **Volume:** 16
+   - **Issue:** 8
+   - **Authors:** Costamagna Paola; De Giorgi Andrea; Gotelli Alberto; Magistri Loredana; Moser Gabriele; Sciaccaluga Emanuele; Trucco Andrea
+   - **Keywords:** Fault detection and isolation (FDI) | Model-based and data-driven strategies | Pattern recognition | Quantitative modelling | Random forest (RF) | Solid oxide fuel cell (SOFC)
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2016:
+     - Instrumentation (Q1, rank 19, percentile 82)
+     - Electrical and Electronic Engineering (Q1, rank 128, percentile 80)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 41, percentile 75)
+     - Analytical Chemistry (Q2, rank 34, percentile 67)
+     - Biochemistry (Q2, rank 192, percentile 50)
+   - **Source Id:** 130124
+   - **Author Ids:** 7003269793;56195544300;57191269840;6603587580;7101795745;57191269353;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153-60102151
+   - **Corresponding:** Costamagna P.
+21.
+   - **Title:** Magnetic resonance and ultrasound contrast imaging of polymer-shelled microbubbles loaded with iron oxide nanoparticles
+   - **Venue:** Royal Society Open Science
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 27
+   - **DOI:** 10.1098/rsos.160063
+   - **Scopus ID:** 2-s2.0-84982980759
+   - **eISSN:** 20545703
+   - **Volume:** 3
+   - **Issue:** 8
+   - **Authors:** Sciallero Claudia; Balbi Luca; Paradossi Gaio; Trucco Andrea
+   - **Keywords:** Dual-mode contrast agents | Magnetic resonance imaging | Medical ultrasound | Polymeric microbubbles | Superparamagnetic iron oxide nanoparticles
+   - **Quartile:**
+     2025:
+     - Multidisciplinary (Q1, rank 34, percentile 83)
+     2016:
+     - Multidisciplinary (Q1, rank 17, percentile 79)
+   - **Source Id:** 21100446014
+   - **Author Ids:** 22035995400;56442456400;7003681369;7007035725
+   - **Authoraffiliationids:** 60025153;60113818;60027509;60025153-60102151
+   - **Corresponding:** Sciallero C.
+22.
+   - **Title:** Research initiatives in Europe: Cooperation for blue growth
+   - **Venue:** Marine Technology Society Journal
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Editorial
+   - **Citations:** 0
+   - **DOI:** 10.4031/MTSJ.50.4.1
+   - **Scopus ID:** 2-s2.0-84983439521
+   - **ISSN:** 00253324
+   - **eISSN:** 19481209
+   - **Volume:** 50
+   - **Issue:** 4
+   - **Pages:** 5-7
+   - **Authors:** Caiti Andrea; Casalino Giuseppe; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q2, rank 56, percentile 52)
+     - Oceanography (Q3, rank 79, percentile 48)
+     2016:
+     - Ocean Engineering (Q2, rank 37, percentile 58)
+     - Oceanography (Q3, rank 59, percentile 49)
+   - **Source Id:** 27862
+   - **Author Ids:** 7003811129;7006852520;7007035725
+   - **Authoraffiliationids:** 60028868;60025153;60025153
+   - **Corresponding:** Caiti A.
+23.
+   - **Title:** In vivo quantification of ultrasound targeted microbubbles to enhance cancer assessment
+   - **Venue:** Contrast Media and Molecular Imaging
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1002/cmmi.1694
+   - **Scopus ID:** 2-s2.0-84979941666
+   - **ISSN:** 15554309
+   - **eISSN:** 15554317
+   - **Volume:** 11
+   - **Issue:** 4
+   - **Pages:** 313-318
+   - **Authors:** Sciallero Claudia; Daglio Emanuele; Trucco Andrea
+   - **Keywords:** molecular imaging | nonlinear regression | quantitative medical ultrasound | targeted ultrasound contrast agents | ultrasound medical imaging
+   - **Quartile:**
+     2016:
+     - Radiology, Nuclear Medicine and Imaging (Q1, rank 32, percentile 88)
+   - **Source Id:** 5400152704
+   - **Author Ids:** 22035995400;57189217449;7007035725
+   - **Authoraffiliationids:** 60025153;116657710;60025153-60102151
+   - **Corresponding:** Sciallero C.
+24.
+   - **Title:** A Classification Approach for Model-Based Fault Diagnosis in Power Generation Systems Based on Solid Oxide Fuel Cells
+   - **Venue:** IEEE Transactions on Energy Conversion
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 44
+   - **DOI:** 10.1109/TEC.2015.2492938
+   - **Scopus ID:** 2-s2.0-84947998296
+   - **ISSN:** 08858969
+   - **Volume:** 31
+   - **Issue:** 2
+   - **Pages:** 676-687
+   - **Authors:** Costamagna Paola; De Giorgi Andrea; Magistri Loredana; Moser Gabriele; Pellaco Lissy; Trucco Andrea
+   - **Keywords:** Distributed electric generation | fault detection and isolation (FDI) | feature selection; solid oxide fuel cell (SOFC) | quantitative modeling; support vector machine (SVM)
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 62, percentile 93)
+     - Energy Engineering and Power Technology (Q1, rank 30, percentile 90)
+     2016:
+     - Energy Engineering and Power Technology (Q1, rank 9, percentile 95)
+     - Electrical and Electronic Engineering (Q1, rank 46, percentile 93)
+   - **Source Id:** 28824
+   - **Author Ids:** 7003269793;56195544300;6603587580;7101795745;56195782300;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153-60102151
+   - **Corresponding:** Costamagna P.
+25.
+   - **Title:** Audio surveillance: A systematic review
+   - **Venue:** ACM Computing Surveys
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 198
+   - **DOI:** 10.1145/2871183
+   - **Scopus ID:** 2-s2.0-84963812960
+   - **ISSN:** 03600300
+   - **eISSN:** 15577341
+   - **Volume:** 48
+   - **Issue:** 4
+   - **Authors:** Crocco Marco; Cristani Marco; Trucco Andrea; Murino Vittorio
+   - **Keywords:** Audio surveillance | Automated surveillance | Multimodal surveillance
+   - **Quartile:**
+     2025:
+     - Computer Science (all) (Q1, rank 1, percentile 99)
+     - Theoretical Computer Science (Q1, rank 1, percentile 99)
+     2016:
+     - Computer Science (all) (Q1, rank 1, percentile 99)
+     - Theoretical Computer Science (Q1, rank 3, percentile 97)
+   - **Source Id:** 23038
+   - **Author Ids:** 14048008100;8244336900;7007035725;7006595496
+   - **Authoraffiliationids:** 60102151;60032256;60025153;60102151
+   - **Corresponding:** Crocco M.
+26.
+   - **Title:** Seeing the Sound: A New Multimodal Imaging Device for Computer Vision
+   - **Venue:** Proceedings of the IEEE International Conference on Computer Vision
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/ICCVW.2015.95
+   - **Scopus ID:** 2-s2.0-84962010448
+   - **ISSN:** 15505499
+   - **Volume:** 2015-February
+   - **Pages:** 693-701
+   - **Authors:** Zunino Andrea; Crocco Marco; Martelli Samele; Trucco Andrea; Bue Alessio Del; Murino Vittorio
+   - **Keywords:** Acoustics | Array signal processing | Microphones | Optical imaging | Optical sensors | Target tracking | Visualization
+   - **Quartile:**
+     2025:
+     - Software (Q1, rank 6, percentile 98)
+     - Computer Vision and Pattern Recognition (Q1, rank 6, percentile 96)
+     2016:
+     - Software (Q1, rank 6, percentile 98)
+     - Computer Vision and Pattern Recognition (Q1, rank 4, percentile 94)
+   - **Source Id:** 110561
+   - **Author Ids:** 57201591775;14048008100;36470627600;7007035725;12752759400;7006595496
+   - **Authoraffiliationids:** 60102151-60025153;60102151;60102151;60102151-60025153;60102151;60102151-60032256
+   - **Corresponding:** Zunino A.
+27.
+   - **Title:** Statistical analysis of ship noise records
+   - **Venue:** Icsv 2016 23rd International Congress on Sound and Vibration from Ancient to Modern Acoustics
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-84987915602
+   - **Authors:** Traverso Federico; Gaggero Tomaso; Tani Giorgio; Viviani Michele; Villa Diego; Gaggero Stefano; Rizzuto Enrico; Trucco Andrea
+   - **Source Id:** 21100779036
+   - **Author Ids:** 6602210571;55212255700;55355605100;58090077400;56250522200;6503976905;6602173744;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60017293;60025153-60102151
+   - **Corresponding:** Traverso F.
+28.
+   - **Title:** Design of a sparse planar array for optimized 3D medical ultrasound imaging
+   - **Venue:** 2015 23rd European Signal Processing Conference Eusipco 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/EUSIPCO.2015.7362602
+   - **Scopus ID:** 2-s2.0-84963946855
+   - **Pages:** 1341-1345
+   - **Authors:** Sciallero Claudia; Trucco Andrea
+   - **Keywords:** 3D medical ultrasound imaging | planar array | sparse array | stochastic optimization | ultrasound signal processing
+   - **Source Id:** 21100455902
+   - **Author Ids:** 22035995400;7007035725
+   - **Authoraffiliationids:** 60025153;60025153-60102151
+   - **Corresponding:** Sciallero C.
+29.
+   - **Title:** Kernel-based learning for fault detection and identification in fuel cell systems
+   - **Venue:** Handbook of Pattern Recognition and Computer Vision 5th Edition
+   - **Year:** 2015
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.1142/9789814656535_0024
+   - **Scopus ID:** 2-s2.0-85118050156
+   - **Pages:** 455-472
+   - **Authors:** Moser Gabriele; Costamagna Paola; De Giorgi Andrea; Pellaco Lissy; Trucco Andrea; Serpico Sebastiano B.
+   - **Source Id:** 21101063119
+   - **Author Ids:** 7101795745;7003269793;56195544300;56195782300;7007035725;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Moser G.
+30.
+   - **Title:** Low-cost acoustic cameras for underwater wideband passive imaging
+   - **Venue:** IEEE Journal of Oceanic Engineering
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1109/JOE.2014.2377454
+   - **Scopus ID:** 2-s2.0-84960797590
+   - **ISSN:** 03649059
+   - **Volume:** 40
+   - **Issue:** 4
+   - **Pages:** 929-937
+   - **Authors:** Trucco Andrea; Martelli Samuele; Crocco Marco
+   - **Keywords:** 3-D digital beamforming | 3-D passive imaging | Acoustic imaging | Aperiodic planar arrays | Filter-and-sum beamforming | Low-cost hydrophones | Sensor mismatches | Sonar imaging | Superdirective planar arrays
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 11, percentile 90)
+     - Mechanical Engineering (Q1, rank 88, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 86)
+     2015:
+     - Ocean Engineering (Q1, rank 3, percentile 97)
+     - Mechanical Engineering (Q1, rank 31, percentile 94)
+     - Electrical and Electronic Engineering (Q1, rank 84, percentile 87)
+   - **Source Id:** 17277
+   - **Author Ids:** 7007035725;36470627600;14048008100
+   - **Authoraffiliationids:** 60025153-60102151;60102151;60102151
+   - **Corresponding:** Trucco A.
+31.
+   - **Title:** Spectral analysis of the underwater acoustic noise radiated by ships with controllable pitch propellers
+   - **Venue:** Mts IEEE Oceans 2015 Genova Discovering Sustainable Ocean Energy for A New World
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 18
+   - **DOI:** 10.1109/OCEANS-Genova.2015.7271483
+   - **Scopus ID:** 2-s2.0-84957707767
+   - **Authors:** Traverso F.; Gaggero T.; Rizzuto E.; Trucco A.
+   - **Keywords:** controllable pitch propeller | spectral analysis | underwater ship noise measurements
+   - **Source Id:** 21100444318
+   - **Author Ids:** 6602210571;55212255700;6602173744;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153-60102151
+   - **Corresponding:** Traverso F.
+32.
+   - **Title:** Spatially selective binaural hearing AIDS
+   - **Venue:** Ubicomp and Iswc 2015 Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the Proceedings of the 2015 ACM International Symposium on Wearable Computers
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1145/2800835.2806207
+   - **Scopus ID:** 2-s2.0-84962483115
+   - **Pages:** 957-962
+   - **Authors:** Brayda Luca; Traverso Federico; Giuliani Luca; Diotalevi Francesco; Repetto Stefania; Sansalone Sara; Trucco Andrea; Sandini Giulio
+   - **Keywords:** Disability | Hearing aid | Microphone arrays | Real time | Superdirective beamforming
+   - **Source Id:** 21100455401
+   - **Author Ids:** 6506625090;6602210571;57188716062;6602348818;7005174907;57188720417;7007035725;35280694500
+   - **Authoraffiliationids:** 60102151;60025153;60102151;60102151;113296731;113296731;60025153;60102151
+   - **Corresponding:** Brayda L.
+33.
+   - **Title:** Concentration estimation of ultrasound targeted microbubbles for improving cancer detection: A preliminary in VIVO study
+   - **Venue:** Proceedings International Symposium on Biomedical Imaging
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ISBI.2015.7163866
+   - **Scopus ID:** 2-s2.0-84944326461
+   - **ISSN:** 19457928
+   - **eISSN:** 19458452
+   - **Volume:** 2015-July
+   - **Pages:** 272-275
+   - **Authors:** Sciallero Claudia; Trucco Andrea
+   - **Keywords:** nonlinear regression | quantitative medical ultrasound | targeted ultrasound contrast agents | Ultrasound medical imaging
+   - **Quartile:**
+     2025:
+     - Radiology, Nuclear Medicine and Imaging (Q3, rank 216, percentile 39)
+     - Biomedical Engineering (Q3, rank 246, percentile 26)
+   - **Source Id:** 20300195008
+   - **Author Ids:** 22035995400;7007035725
+   - **Authoraffiliationids:** 60025153;60025153-60102151
+   - **Corresponding:** Sciallero C.
+34.
+   - **Title:** Maximum constrained directivity of oversteered end-fire sensor arrays
+   - **Venue:** Sensors Switzerland
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.3390/s150613477
+   - **Scopus ID:** 2-s2.0-84930959442
+   - **ISSN:** 14248220
+   - **Volume:** 15
+   - **Issue:** 6
+   - **Pages:** 13477-13502
+   - **Authors:** Trucco Andrea; Traverso Federico; Crocco Marco
+   - **Keywords:** Beamforming | End-fire arrays | Maximum directivity | Microphone and hydrophone arrays | Oversteering | White noise gain
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2015:
+     - Electrical and Electronic Engineering (Q1, rank 105, percentile 84)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 31, percentile 80)
+     - Analytical Chemistry (Q2, rank 30, percentile 70)
+     - Biochemistry (Q2, rank 174, percentile 55)
+   - **Source Id:** 130124
+   - **Author Ids:** 7007035725;6602210571;14048008100
+   - **Authoraffiliationids:** 60025153-60102151;60025153;60102151
+   - **Corresponding:** Trucco A.
+35.
+   - **Title:** Passive underwater imaging through optimized planar arrays of hydrophones
+   - **Venue:** 2014 Oceans St John S Oceans 2014
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/OCEANS.2014.7002999
+   - **Scopus ID:** 2-s2.0-84921746840
+   - **Authors:** Trucco Andrea; Martelli Samuele; Crocco Marco
+   - **Keywords:** Array signal processing | digital wideband beamforming | passive sonar imaging | planar array design | underwater acoustics
+   - **Source Id:** 21100368994
+   - **Author Ids:** 7007035725;36470627600;14048008100
+   - **Authoraffiliationids:** 60025153;60102151;60102151
+   - **Corresponding:** Trucco A.
+36.
+   - **Title:** Environmental acoustic noise observations in Tethys Bay (Terra Nova Bay, Ross Sea, Antarctica)
+   - **Venue:** 2014 Oceans St John S Oceans 2014
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/OCEANS.2014.7003196
+   - **Scopus ID:** 2-s2.0-84921744758
+   - **Authors:** Pensieri Sara; Bozzano Roberto; Schiano M. Elisabetta; Pensieri Laura; Traverso Federico; Trucco Andrea; Picco Paola; Bordone Andrea
+   - **Keywords:** acoustic impact | Acoustic measurements | Antarctica | Terra Nova Bay
+   - **Source Id:** 21100368994
+   - **Author Ids:** 35311650600;6602292250;7003818213;55901632800;6602210571;7007035725;7005847398;55263305200
+   - **Authoraffiliationids:** 60021199;60021199;60021199;60021199;60025153;60025153;60104723;60104723
+   - **Corresponding:** Pensieri S.
+37.
+   - **Title:** Texture analysis: Comparison of autocorrelation-based with cumulant-based approaches
+   - **Venue:** European Signal Processing Conference
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85113899658
+   - **ISSN:** 22195491
+   - **Authors:** Murino Vittorio; Ottonello Cinthya; Pagnan Sergio; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 109, percentile 44)
+     - Electrical and Electronic Engineering (Q3, rank 573, percentile 42)
+   - **Source Id:** 21100204301
+   - **Author Ids:** 7006595496;56715967000;6602690690;7007035725
+   - **Authoraffiliationids:** 60025965;60025153;126799255-126797668;60025965
+   - **Corresponding:** Murino V.
+38.
+   - **Title:** Joint feature and model selection for SVM fault diagnosis in solid oxide fuel cell systems
+   - **Venue:** Mathematical Problems in Engineering
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 16
+   - **DOI:** 10.1155/2015/282547
+   - **Scopus ID:** 2-s2.0-84930959382
+   - **ISSN:** 1024123X
+   - **eISSN:** 15635147
+   - **Volume:** 2015
+   - **Authors:** Moser Gabriele; Costamagna Paola; De Giorgi Andrea; Greco Andrea; Magistri Loredana; Pellaco Lissy; Trucco Andrea
+   - **Quartile:**
+     2015:
+     - Mathematics (all) (Q2, rank 112, percentile 65)
+     - Engineering (all) (Q2, rank 108, percentile 60)
+   - **Source Id:** 13082
+   - **Author Ids:** 7101795745;7003269793;56195544300;56681762100;6603587580;56195782300;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153-60102151
+   - **Corresponding:** Moser G.
+39.
+   - **Title:** Design of an optimum superdirective beamformer through generalized directivity maximization
+   - **Venue:** IEEE Transactions on Signal Processing
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1109/TSP.2014.2360819
+   - **Scopus ID:** 2-s2.0-84910121600
+   - **ISSN:** 1053587X
+   - **Volume:** 62
+   - **Issue:** 23
+   - **Pages:** 6118-6129
+   - **Authors:** Trucco Andrea; Crocco Marco
+   - **Keywords:** array imperfections | Beamforming | directivity | mean beam power pattern | optimum array processing | sensor mismatch | superdirective arrays | white noise gain
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 79, percentile 92)
+     - Signal Processing (Q1, rank 18, percentile 91)
+     2014:
+     - Signal Processing (Q1, rank 2, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 26, percentile 96)
+   - **Source Id:** 17391
+   - **Author Ids:** 7007035725;14048008100
+   - **Authoraffiliationids:** 60025153-60102151;60102151
+   - **Corresponding:** Trucco A.
+40.
+   - **Title:** Optimizing enhanced hybrid medical imaging through dual-mode contrast agents
+   - **Venue:** Ist 2014 2014 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IST.2014.6958450
+   - **Scopus ID:** 2-s2.0-84916598663
+   - **Pages:** 79-83
+   - **Authors:** Sciallero Claudia; Balbi Luca; Trucco Andrea
+   - **Keywords:** dual-mode contrast agents | magnetic resonance imaging | Medical ultrasound | polymeric microbubbles | superparamagnetic iron oxide nanoparticles
+   - **Source Id:** 21100349566
+   - **Author Ids:** 22035995400;56442456400;7007035725
+   - **Authoraffiliationids:** 60025153;60113818;60025153-60102151
+   - **Corresponding:** Sciallero C.
+41.
+   - **Title:** Towards fully uncalibrated room reconstruction with sound
+   - **Venue:** European Signal Processing Conference
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **Scopus ID:** 2-s2.0-84911937637
+   - **ISSN:** 22195491
+   - **Pages:** 910-914
+   - **Authors:** Crocco Marco; Trucco Andrea; Murino Vittorio; Del Bue Alessio
+   - **Keywords:** microphone calibration | Room reconstruction | simulated annealing | source localization
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 109, percentile 44)
+     - Electrical and Electronic Engineering (Q3, rank 573, percentile 42)
+   - **Source Id:** 21100204301
+   - **Author Ids:** 14048008100;7007035725;7006595496;12752759400
+   - **Authoraffiliationids:** 60102151;60102151;60102151;60102151
+   - **Corresponding:** Crocco M.
+42.
+   - **Title:** Design of frequency-invariant robust beam patterns by the oversteering of end-fire arrays
+   - **Venue:** Signal Processing
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 16
+   - **DOI:** 10.1016/j.sigpro.2013.12.014
+   - **Scopus ID:** 2-s2.0-84893050045
+   - **ISSN:** 01651684
+   - **Volume:** 99
+   - **Pages:** 129-135
+   - **Authors:** Traverso F.; Crocco M.; Trucco A.
+   - **Keywords:** Broadband beamforming | End-fire arrays | Frequency-invariant beam patterns | Microphone arrays | Oversteering | Superdirectivity
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 25, percentile 87)
+     - Computer Vision and Pattern Recognition (Q1, rank 27, percentile 84)
+     - Electrical and Electronic Engineering (Q1, rank 166, percentile 83)
+     - Control and Systems Engineering (Q1, rank 71, percentile 81)
+     - Software (Q1, rank 101, percentile 79)
+     2014:
+     - Electrical and Electronic Engineering (Q1, rank 69, percentile 89)
+     - Signal Processing (Q1, rank 10, percentile 88)
+     - Control and Systems Engineering (Q1, rank 27, percentile 87)
+     - Computer Vision and Pattern Recognition (Q1, rank 10, percentile 85)
+     - Software (Q1, rank 61, percentile 83)
+   - **Source Id:** 25548
+   - **Author Ids:** 6602210571;14048008100;7007035725
+   - **Authoraffiliationids:** 60025153;60102151;60025153-60102151
+   - **Corresponding:** Traverso F.
+43.
+   - **Title:** Fault diagnosis in fuel cell systems using quantitative models and support vector machines
+   - **Venue:** Electronics Letters
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 21
+   - **DOI:** 10.1049/el.2014.0565
+   - **Scopus ID:** 2-s2.0-84901913537
+   - **ISSN:** 00135194
+   - **Volume:** 50
+   - **Issue:** 11
+   - **Pages:** 824-826
+   - **Authors:** Pellaco L.; Costamagna P.; De Giorgi A.; Greco A.; Magistri L.; Moser G.; Trucco A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 624, percentile 37)
+     2014:
+     - Electrical and Electronic Engineering (Q2, rank 214, percentile 67)
+   - **Source Id:** 24918
+   - **Author Ids:** 56195782300;7003269793;56195544300;56681762100;6603587580;7101795745;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153-60102151
+   - **Corresponding:** Pellaco L.
+44.
+   - **Title:** Design of superdirective planar arrays with sparse aperiodic layouts for processing broadband signals via 3-D beamforming
+   - **Venue:** IEEE Transactions on Audio Speech and Language Processing
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 32
+   - **DOI:** 10.1109/TASLP.2014.2304635
+   - **Scopus ID:** 2-s2.0-84898059672
+   - **ISSN:** 15587916
+   - **Volume:** 22
+   - **Issue:** 4
+   - **Pages:** 800-815
+   - **Authors:** Crocco Marco; Trucco Andrea
+   - **Keywords:** 3-D beamforming | Acoustic imaging | Aperiodic arrays | Filter-and-sum beamforming | Microphone arrays | Planar arrays | Robust superdirective beamforming | Sparse arrays
+   - **Quartile:**
+     2014:
+     - Acoustics and Ultrasonics (Q1, rank 1, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 24, percentile 96)
+   - **Source Id:** 4700151725
+   - **Author Ids:** 14048008100;7007035725
+   - **Authoraffiliationids:** 60102151;60102151-60025153
+   - **Corresponding:** Crocco M.
+45.
+   - **Title:** Comparing ship underwater noise measured at sea with predictions by empirical models
+   - **Venue:** 21st International Congress on Sound and Vibration 2014 Icsv 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **Scopus ID:** 2-s2.0-84922670193
+   - **Volume:** 2
+   - **Pages:** 1510-1516
+   - **Authors:** Gaggero T.; Rizzuto E.; Traverso F.; Trucco A.
+   - **Source Id:** 21100372157
+   - **Author Ids:** 55212255700;6602173744;6602210571;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gaggero T.
+46.
+   - **Title:** Broadband performance of superdirective delay-and-sum beamformers steered to end-fire
+   - **Venue:** Journal of the Acoustical Society of America
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1121/1.4879674
+   - **Scopus ID:** 2-s2.0-84903141089
+   - **ISSN:** 00014966
+   - **Volume:** 135
+   - **Issue:** 6
+   - **Pages:** EL331-EL337
+   - **Authors:** Trucco A.; Traverso F.; Crocco M.
+   - **Quartile:**
+     2025:
+     - Arts and Humanities (miscellaneous) (Q1, rank 96, percentile 85)
+     - Acoustics and Ultrasonics (Q2, rank 15, percentile 72)
+     2014:
+     - Acoustics and Ultrasonics (Q1, rank 7, percentile 83)
+     - Arts and Humanities (miscellaneous) (Q1, rank 66, percentile 75)
+   - **Source Id:** 12936
+   - **Author Ids:** 7007035725;6602210571;14048008100
+   - **Authoraffiliationids:** 60025153-60102151;60025153;60102151
+   - **Corresponding:** Trucco A.
+47.
+   - **Title:** Pruned chirp zeta transform beamforming for 3-D imaging with sparse planar arrays
+   - **Venue:** IEEE Journal of Oceanic Engineering
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1109/JOE.2013.2252771
+   - **Scopus ID:** 2-s2.0-84899479046
+   - **ISSN:** 03649059
+   - **Volume:** 39
+   - **Issue:** 2
+   - **Pages:** 206-211
+   - **Authors:** Palmese Maria; Trucco Andrea
+   - **Keywords:** 3-D coherent imaging | Acoustical imaging | Active sonar systems | Chirp zeta transform (CZT) beamforming | Digital beamforming | Fast Fourier transform (FFT) pruning | Frequency-domain beamforming | Near-field wideband imaging | Planar arrays | Sparse arrays
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 11, percentile 90)
+     - Mechanical Engineering (Q1, rank 88, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 86)
+     2014:
+     - Ocean Engineering (Q1, rank 5, percentile 94)
+     - Mechanical Engineering (Q1, rank 56, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 112, percentile 82)
+   - **Source Id:** 17277
+   - **Author Ids:** 6507054061;7007035725
+   - **Authoraffiliationids:** 60025153;60025153-60102151
+   - **Corresponding:** Palmese M.
+48.
+   - **Title:** Acoustic characterization and contrast imaging of microbubbles encapsulated by polymeric shells coated or filled with magnetic nanoparticles
+   - **Venue:** Journal of the Acoustical Society of America
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 22
+   - **DOI:** 10.1121/1.4824337
+   - **Scopus ID:** 2-s2.0-84887450790
+   - **ISSN:** 00014966
+   - **Volume:** 134
+   - **Issue:** 5
+   - **Pages:** 3918-3930
+   - **Authors:** Sciallero Claudia; Grishenkov Dmitry; Kothapalli Satya V.V.N.; Oddo Letizia; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Arts and Humanities (miscellaneous) (Q1, rank 96, percentile 85)
+     - Acoustics and Ultrasonics (Q2, rank 15, percentile 72)
+     2013:
+     - Acoustics and Ultrasonics (Q1, rank 7, percentile 82)
+     - Arts and Humanities (miscellaneous) (Q2, rank 74, percentile 72)
+   - **Source Id:** 12936
+   - **Author Ids:** 22035995400;22133947500;57217446013;36629100700;7007035725
+   - **Authoraffiliationids:** 60025153-60113818;60002014-60012311;60002014;60027509;60025153-60113818-60102151
+   - **Corresponding:** Sciallero C.
+49.
+   - **Title:** Robust superdirective end-fire arrays
+   - **Venue:** Oceans 2013 Mts IEEE Bergen the Challenges of the Northern Dimension
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/OCEANS-Bergen.2013.6607994
+   - **Scopus ID:** 2-s2.0-84886394486
+   - **Authors:** Trucco A.; Traverso F.; Crocco M.
+   - **Keywords:** end-fire arrays | maximum directivity | oversteering | superdirective beamforming | white noise gain
+   - **Source Id:** 21100264282
+   - **Author Ids:** 7007035725;6602210571;14048008100
+   - **Authoraffiliationids:** 60025153;60025153;60102151
+   - **Corresponding:** Trucco A.
+50.
+   - **Title:** Ultrasound assessment of polymer-shelled magnetic microbubbles used as dual contrast agents
+   - **Venue:** Journal of the Acoustical Society of America
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1121/1.4804942
+   - **Scopus ID:** 2-s2.0-84878906439
+   - **ISSN:** 00014966
+   - **Volume:** 133
+   - **Issue:** 6
+   - **Pages:** EL478-EL484
+   - **Authors:** Sciallero Claudia; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Arts and Humanities (miscellaneous) (Q1, rank 96, percentile 85)
+     - Acoustics and Ultrasonics (Q2, rank 15, percentile 72)
+     2013:
+     - Acoustics and Ultrasonics (Q1, rank 7, percentile 82)
+     - Arts and Humanities (miscellaneous) (Q2, rank 74, percentile 72)
+   - **Source Id:** 12936
+   - **Author Ids:** 22035995400;7007035725
+   - **Authoraffiliationids:** 60025153-60113818;60025153-60113818-60102151
+   - **Corresponding:** Sciallero C.
+51.
+   - **Title:** Experimental assessment of a direct sequence spread spectrum underwater acoustic communication method
+   - **Venue:** 11th European Conference on Underwater Acoustics 2012 Ecua 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-84871371504
+   - **Volume:** 34 1
+   - **Issue:** Part 3
+   - **Pages:** 731-738
+   - **Authors:** Palmese M.; Trucco A.
+   - **Source Id:** 21100223547
+   - **Author Ids:** 6507054061;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Palmese M.
+52.
+   - **Title:** The contribution of the ligurian sea off-shore observatory to the calibration and validation of remote sensed data
+   - **Venue:** European Space Agency Special Publication ESA SP
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84892768807
+   - **ISSN:** 03796566
+   - **Volume:** 703 Sp
+   - **Authors:** Pensieri S.; Schiano M. E.; Picco P.; Canepa E.; Bozzano R.; Trucco A.
+   - **Source Id:** 27179
+   - **Author Ids:** 35311650600;7003818213;7005847398;7003447235;6602292250;7007035725
+   - **Authoraffiliationids:** 60021199;60021199;60104723;60021199;60021199;60025153
+   - **Corresponding:** Pensieri S.
+53.
+   - **Title:** Experimental assessment of a direct sequence spread spectrum underwater acoustic communication method
+   - **Venue:** Proceedings of Meetings on Acoustics
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1121/1.4767962
+   - **Scopus ID:** 2-s2.0-84878981222
+   - **ISSN:** 1939800X
+   - **Volume:** 17
+   - **Authors:** Palmese Maria; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q3, rank 38, percentile 29)
+   - **Source Id:** 21100215110
+   - **Author Ids:** 6507054061;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Palmese M.
+54.
+   - **Title:** Energy and feature-based strategies for estimating the contrast agent concentration in ultrasound medical imaging
+   - **Venue:** Proceedings IEEE Symposium on Computer Based Medical Systems
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CBMS.2012.6266306
+   - **Scopus ID:** 2-s2.0-84867315899
+   - **ISSN:** 10637125
+   - **Authors:** Sciallero Claudia; Crocco Marco; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Radiology, Nuclear Medicine and Imaging (Q3, rank 233, percentile 34)
+     - Computer Science Applications (Q3, rank 665, percentile 32)
+     2012:
+     - Radiology, Nuclear Medicine and Imaging (Q3, rank 163, percentile 33)
+     - Computer Science Applications (Q3, rank 337, percentile 27)
+   - **Source Id:** 23681
+   - **Author Ids:** 22035995400;14048008100;7007035725
+   - **Authoraffiliationids:** 60025153;60102151;60025153-60102151
+   - **Corresponding:** Sciallero C.
+55.
+   - **Title:** Simulation of non-White and non-Gaussian underwater ambient noise
+   - **Venue:** Program Book Oceans 2012 Mts IEEE Yeosu the Living Ocean and Coast Diversity of Resources and Sustainable Activities
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 29
+   - **DOI:** 10.1109/OCEANS-Yeosu.2012.6263385
+   - **Scopus ID:** 2-s2.0-84866682716
+   - **Authors:** Traverso F.; Vernazza G.; Trucco A.
+   - **Keywords:** Ambient noise | high frequency | non-Gaussian statistics
+   - **Source Id:** 21100216530
+   - **Author Ids:** 6602210571;7005048304;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153-60102151
+   - **Corresponding:** Traverso F.
+56.
+   - **Title:** Stochastic and analytic optimization of sparse aperiodic arrays and broadband beamformers with robust superdirective patterns
+   - **Venue:** IEEE Transactions on Audio Speech and Language Processing
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 61
+   - **DOI:** 10.1109/TASL.2012.2203808
+   - **Scopus ID:** 2-s2.0-84865446151
+   - **ISSN:** 15587916
+   - **Volume:** 20
+   - **Issue:** 9
+   - **Pages:** 2433-2447
+   - **Authors:** Crocco Marco; Trucco Andrea
+   - **Keywords:** Aperiodic layout | broadband beam patterns | filter-and-sum beamforming | microphone arrays | robustness to sensor mismatch | sparse arrays | superdirective arrays
+   - **Quartile:**
+     2012:
+     - Acoustics and Ultrasonics (Q1, rank 2, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 63, percentile 89)
+   - **Source Id:** 4700151725
+   - **Author Ids:** 14048008100;7007035725
+   - **Authoraffiliationids:** 60102151;60025153
+   - **Corresponding:** Crocco M.
+57.
+   - **Title:** A preliminary ultrasound assessment of multimodality contrast agents
+   - **Venue:** Memea 2012 2012 IEEE Symposium on Medical Measurements and Applications Proceedings
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/MeMeA.2012.6226632
+   - **Scopus ID:** 2-s2.0-84864213182
+   - **Pages:** 154-157
+   - **Authors:** Sciallero Claudia; Trucco Andrea
+   - **Keywords:** chirp coding | medical ultrasound | multi-pulse techniques | multimodality contrast agent | ultrasound signal processing
+   - **Source Id:** 21100206249
+   - **Author Ids:** 22035995400;7007035725
+   - **Authoraffiliationids:** 60025153-60113818;60025153-60113818-60102151
+   - **Corresponding:** Sciallero C.
+58.
+   - **Title:** A preliminary in vitro assessment of polymer-shelled microbubbles in contrast-enhanced ultrasound imaging
+   - **Venue:** Ultrasonics
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 21
+   - **DOI:** 10.1016/j.ultras.2011.10.008
+   - **Scopus ID:** 2-s2.0-84855562532
+   - **ISSN:** 0041624X
+   - **Volume:** 52
+   - **Issue:** 3
+   - **Pages:** 456-464
+   - **Authors:** Sciallero C.; Paradossi G.; Trucco A.
+   - **Keywords:** Multi-pulse techniques | Polymer-shelled microbubbles | Ultrasound contrast agents | Ultrasound medical imaging | Ultrasound signal processing
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q1, rank 5, percentile 91)
+     2012:
+     - Acoustics and Ultrasonics (Q1, rank 5, percentile 88)
+   - **Source Id:** 13516
+   - **Author Ids:** 22035995400;7003681369;7007035725
+   - **Authoraffiliationids:** 60025153-60113818;60027509;60025153-60113818-60102151
+   - **Corresponding:** Sciallero C.
+59.
+   - **Title:** Oversteering of end-fire arrays with frequency-invariant beam patterns
+   - **Venue:** European Signal Processing Conference
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84863753548
+   - **ISSN:** 22195491
+   - **Pages:** 1332-1336
+   - **Authors:** Traverso F.; Crocco M.; Trucco A.; Vernazza G.
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 109, percentile 44)
+     - Electrical and Electronic Engineering (Q3, rank 573, percentile 42)
+   - **Source Id:** 21100204301
+   - **Author Ids:** 6602210571;14048008100;7007035725;7005048304
+   - **Authoraffiliationids:** 60025153;60102151;60025153-60102151;60025153
+   - **Corresponding:** Traverso F.
+60.
+   - **Title:** Chirp coding for ultrasound imaging of polymer-shelled microbubbles
+   - **Venue:** Proceedings International Symposium on Biomedical Imaging
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ISBI.2011.5872347
+   - **Scopus ID:** 2-s2.0-80055047327
+   - **ISSN:** 19457928
+   - **eISSN:** 19458452
+   - **Pages:** 29-32
+   - **Authors:** Sciallero Claudia; Trucco Andrea
+   - **Keywords:** chirp coding | polymershelled bubbles | Ultrasound medical imaging
+   - **Quartile:**
+     2025:
+     - Radiology, Nuclear Medicine and Imaging (Q3, rank 216, percentile 39)
+     - Biomedical Engineering (Q3, rank 246, percentile 26)
+   - **Source Id:** 20300195008
+   - **Author Ids:** 22035995400;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Sciallero C.
+61.
+   - **Title:** Tuning the performance of the superdirective frequency-invariant beamforming applied to end-fire arrays
+   - **Venue:** Oceans 2011 IEEE Spain
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/Oceans-Spain.2011.6003579
+   - **Scopus ID:** 2-s2.0-80052951247
+   - **Authors:** Traverso F.; Crocco M.; Trucco A.; Vernazza G.
+   - **Source Id:** 19900193986
+   - **Author Ids:** 6602210571;14048008100;7007035725;7005048304
+   - **Authoraffiliationids:** 60025153;60102151;60025153-60102151;60025153
+   - **Corresponding:** Traverso F.
+62.
+   - **Title:** Remote characterization of seafloor adjacent to shipwrecks using mosaicking and analysis of backscatter response
+   - **Venue:** Italian Journal of Remote Sensing Rivista Italiana Di Telerilevamento
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.5721/ItJRS20114326
+   - **Scopus ID:** 2-s2.0-80054862669
+   - **eISSN:** 2279-725
+   - **Volume:** 43
+   - **Issue:** 2
+   - **Pages:** 77-92
+   - **Authors:** Masetti Giuseppe; Sacile Roberto; Trucco Andrea
+   - **Keywords:** Backscatter | Mosaic | Multibeam | Seafloor classification | Shipwreck
+   - **Source Id:** 20100195035
+   - **Author Ids:** 53871872900;56250207700;7007035725
+   - **Authoraffiliationids:** 60107402;60025153;60025153
+   - **Corresponding:** Masetti G.
+63.
+   - **Title:** Design of robust superdirective arrays with a tunable tradeoff between directivity and frequency-invariance
+   - **Venue:** IEEE Transactions on Signal Processing
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 120
+   - **DOI:** 10.1109/TSP.2011.2106780
+   - **Scopus ID:** 2-s2.0-79954466170
+   - **ISSN:** 1053587X
+   - **Volume:** 59
+   - **Issue:** 5
+   - **Pages:** 2169-2181
+   - **Authors:** Crocco Marco; Trucco Andrea
+   - **Keywords:** Beamforming robustness | broadband beamforming | filter-and-sum beamforming | frequency-invariant beam patterns | microphone arrays | superdirective arrays
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 79, percentile 92)
+     - Signal Processing (Q1, rank 18, percentile 91)
+     2011:
+     - Electrical and Electronic Engineering (Q1, rank 30, percentile 94)
+     - Signal Processing (Q1, rank 5, percentile 93)
+   - **Source Id:** 17391
+   - **Author Ids:** 14048008100;7007035725
+   - **Authoraffiliationids:** 60102151;60102151-60025153
+   - **Corresponding:** Crocco M.
+64.
+   - **Title:** A method for estimating the microbubble concentration in contrast-enhanced ultrasound imaging
+   - **Venue:** Measurement Science and Technology
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1088/0957-0233/22/11/114009
+   - **Scopus ID:** 2-s2.0-80054738910
+   - **ISSN:** 09570233
+   - **eISSN:** 13616501
+   - **Volume:** 22
+   - **Issue:** 11
+   - **Authors:** Sciallero C.; Crocco M.; Trucco A.
+   - **Keywords:** concentration estimation | nonlinear regression | quantitative medical ultrasound | ultrasound contrast agents | ultrasound medical imaging
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 109, percentile 83)
+     - Instrumentation (Q2, rank 48, percentile 74)
+     - Engineering (miscellaneous) (Q2, rank 81, percentile 71)
+     2011:
+     - Applied Mathematics (Q1, rank 71, percentile 81)
+     - Instrumentation (Q1, rank 20, percentile 78)
+   - **Source Id:** 15526
+   - **Author Ids:** 22035995400;14048008100;7007035725
+   - **Authoraffiliationids:** 60025153;60102151;60025153-60102151
+   - **Corresponding:** Sciallero C.
+65.
+   - **Title:** A regression approach to estimate the ultrasound contrast agent concentration
+   - **Venue:** Memea 2011 2011 IEEE International Symposium on Medical Measurements and Applications Proceedings
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/MeMeA.2011.5966697
+   - **Scopus ID:** 2-s2.0-80052353720
+   - **Pages:** 202-206
+   - **Authors:** Sciallero Claudia; Crocco Marco; Trucco Andrea; Vernazza Gianni
+   - **Keywords:** concentration estimation | quantitative medical ultrasound | regression | ultrasound contrast agent
+   - **Source Id:** 19900193848
+   - **Author Ids:** 22035995400;14048008100;7007035725;7005048304
+   - **Authoraffiliationids:** 60025153;60102151;60025153-60102151;60025153
+   - **Corresponding:** Sciallero C.
+66.
+   - **Title:** Estimating the performance of a superdirective microphone array with a frequency-invariant response
+   - **Venue:** 2010 IEEE Sensor Array and Multichannel Signal Processing Workshop SAM 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/SAM.2010.5606762
+   - **Scopus ID:** 2-s2.0-78650095406
+   - **Pages:** 5-8
+   - **Authors:** Traverso Federico; Crocco Marco; Trucco Andrea
+   - **Source Id:** 19700182777
+   - **Author Ids:** 6602210571;14048008100;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Traverso F.
+67.
+   - **Title:** Designing a 3-D sonar system using a sparse array and CZT beamforming
+   - **Venue:** 20th International Congress on Acoustics 2010 Ica 2010 Incorporating Proceedings of the 2010 Annual Conference of the Australian Acoustical Society
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84869131005
+   - **Volume:** 4
+   - **Pages:** 3017-3024
+   - **Authors:** Palmese Maria; Trucco Andrea
+   - **Source Id:** 21100220103
+   - **Author Ids:** 6507054061;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Palmese M.
+68.
+   - **Title:** A synthesis method for robust frequency-invariant very large bandwidth beamforming
+   - **Venue:** European Signal Processing Conference
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-84863799071
+   - **ISSN:** 22195491
+   - **Pages:** 2096-2100
+   - **Authors:** Crocco Marco; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 109, percentile 44)
+     - Electrical and Electronic Engineering (Q3, rank 573, percentile 42)
+   - **Source Id:** 21100204301
+   - **Author Ids:** 14048008100;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Crocco M.
+69.
+   - **Title:** Improving the diagnostic potentiality of contrast enhanced ultrasound imaging through the estimation of the concentration
+   - **Venue:** 2010 IEEE International Conference on Imaging Systems and Techniques Ist 2010 Proceedings
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IST.2010.5548517
+   - **Scopus ID:** 2-s2.0-77957844236
+   - **Pages:** 300-305
+   - **Authors:** Sciallero Claudia; Crocco Marco; Trucco Andrea
+   - **Keywords:** Concentration estimation | Machine learning | Molecular imaging | Quantitative medical ultrasound | Regression | Targeted contrast agents | Ultrasound imaging
+   - **Source Id:** 19700181227
+   - **Author Ids:** 22035995400;14048008100;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Sciallero C.
+70.
+   - **Title:** A computationally efficient procedure for the design of robust broadband beamformers
+   - **Venue:** IEEE Transactions on Signal Processing
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.1109/TSP.2010.2053710
+   - **Scopus ID:** 2-s2.0-77956746720
+   - **ISSN:** 1053587X
+   - **Volume:** 58
+   - **Issue:** 10
+   - **Pages:** 5420-5424
+   - **Authors:** Crocco Marco; Trucco Andrea
+   - **Keywords:** Beamforming robustness | broadband beamforming | filterand-sum beamforming | frequency-invariant beam pattern | microphone arrays | superdirective arrays
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 79, percentile 92)
+     - Signal Processing (Q1, rank 18, percentile 91)
+   - **Source Id:** 17391
+   - **Author Ids:** 14048008100;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Crocco M.
+71.
+   - **Title:** The synthesis of robust broadband beamformers for equally-spaced linear arrays
+   - **Venue:** Journal of the Acoustical Society of America
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 29
+   - **DOI:** 10.1121/1.3455852
+   - **Scopus ID:** 2-s2.0-77955778241
+   - **ISSN:** 00014966
+   - **Volume:** 128
+   - **Issue:** 2
+   - **Pages:** 691-701
+   - **Authors:** Crocco Marco; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Arts and Humanities (miscellaneous) (Q1, rank 96, percentile 85)
+     - Acoustics and Ultrasonics (Q2, rank 15, percentile 72)
+   - **Source Id:** 12936
+   - **Author Ids:** 14048008100;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Crocco M.
+72.
+   - **Title:** An efficient digital CZT beamforming design for near-field 3-D sonar imaging
+   - **Venue:** IEEE Journal of Oceanic Engineering
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 64
+   - **DOI:** 10.1109/JOE.2010.2054175
+   - **Scopus ID:** 2-s2.0-77956343125
+   - **ISSN:** 03649059
+   - **Volume:** 35
+   - **Issue:** 3
+   - **Pages:** 584-594
+   - **Authors:** Palmese Maria; Trucco Andrea
+   - **Keywords:** 3-D acoustic imaging | Chirp zeta transform (CZT) | computational load evaluation | digital beamforming | frequency-domain beamforming | near-field imaging | planar arrays | sonar systems
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 11, percentile 90)
+     - Mechanical Engineering (Q1, rank 88, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 86)
+   - **Source Id:** 17277
+   - **Author Ids:** 6507054061;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Palmese M.
+73.
+   - **Title:** Erratum: Three-dimensional acoustic imaging by chirp zeta transform digital beamforming (IEEE Transactions on Instrumentation and Measurement (2009) 58:7 (2080-2086))
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Erratum
+   - **Citations:** 0
+   - **DOI:** 10.1109/TIM.2009.2034588
+   - **Scopus ID:** 2-s2.0-77957000404
+   - **ISSN:** 00189456
+   - **Volume:** 58
+   - **Issue:** 12
+   - **Pages:** 4012
+   - **Authors:** Palmese Maria; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 6507054061;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Palmese M.
+74.
+   - **Title:** Combining multi-pulse excitation and chirp coding in contrast-enhanced ultrasound imaging
+   - **Venue:** Measurement Science and Technology
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 22
+   - **DOI:** 10.1088/0957-0233/20/10/104017
+   - **Scopus ID:** 2-s2.0-70350683509
+   - **ISSN:** 09570233
+   - **eISSN:** 13616501
+   - **Volume:** 20
+   - **Issue:** 10
+   - **Authors:** Crocco M.; Pellegretti P.; Sciallero C.; Trucco A.
+   - **Keywords:** Chirp coding | Echographic imaging | Multi-pulse techniques | Ultrasound contrast agents | Ultrasound medical imaging | Ultrasound signal processing
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 109, percentile 83)
+     - Instrumentation (Q2, rank 48, percentile 74)
+     - Engineering (miscellaneous) (Q2, rank 81, percentile 71)
+   - **Source Id:** 15526
+   - **Author Ids:** 14048008100;7801594635;22035995400;7007035725
+   - **Authoraffiliationids:** 60025153;60113818;60025153;60025153
+   - **Corresponding:** Crocco M.
+75.
+   - **Title:** Interpolation of medical ultrasound images from coherent and noncoherent signals
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1109/TIM.2009.2015519
+   - **Scopus ID:** 2-s2.0-67649625143
+   - **ISSN:** 00189456
+   - **Volume:** 58
+   - **Issue:** 7
+   - **Pages:** 2048-2060
+   - **Authors:** Trucco Andrea; Curletto Simone; Palmese Maria
+   - **Keywords:** Acoustical imaging | Echographic medical scanners | Interpolation of ultrasound images | Linear-array imaging | Nyquist-shaped pulses | Signal interpolation | Spatial sampling | Ultrasound medical imaging
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 7007035725;6506846892;6507054061
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Trucco A.
+76.
+   - **Title:** Processing and analysis of underwater acoustic images generated by mechanically scanned sonar systems
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 30
+   - **DOI:** 10.1109/TIM.2009.2015520
+   - **Scopus ID:** 2-s2.0-67649621651
+   - **ISSN:** 00189456
+   - **Volume:** 58
+   - **Issue:** 7
+   - **Pages:** 2061-2071
+   - **Authors:** Trucco Andrea; Garofalo Matteo; Repetto Stefania; Vernazza Gianni
+   - **Keywords:** Acoustic imaging | Contrast enhancement | Fanshaped-beam sonar system | Image analysis | Image processing | Interpolation | Mechanically scanned sonar system | Object detection | Pencil-beam sonar system | Speckle reduction | Underwater imaging
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 7007035725;15622820900;7005174907;7005048304
+   - **Authoraffiliationids:** 60025153;60102151;60025153;60025153
+   - **Corresponding:** Trucco A.
+77.
+   - **Title:** Three-dimensional acoustic imaging by chirp zeta transform digital beamforming
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 59
+   - **DOI:** 10.1109/TIM.2009.2015523
+   - **Scopus ID:** 2-s2.0-67649600656
+   - **ISSN:** 00189456
+   - **Volume:** 58
+   - **Issue:** 7
+   - **Pages:** 2080-2086
+   - **Authors:** Palmese Maria; Trucco Andrea
+   - **Keywords:** 3-D acoustic imaging | Chirp zeta transform (CZT) | Computational load evaluation | Digital beamforming | Frequency-domain beamforming | Planar arrays | Sonar systems
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 6507054061;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Palmese M.
+78.
+   - **Title:** A comparative analysis of multi-pulse techniques in contrast-enhanced ultrasound medical imaging
+   - **Venue:** Ultrasonics
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1016/j.ultras.2008.05.008
+   - **Scopus ID:** 2-s2.0-56949087181
+   - **ISSN:** 0041624X
+   - **Volume:** 49
+   - **Issue:** 1
+   - **Pages:** 120-125
+   - **Authors:** Crocco M.; Palmese M.; Sciallero C.; Trucco A.
+   - **Keywords:** Echographic simulation | Multi-pulse techniques | Ultrasound contrast agents | Ultrasound medical imaging | Ultrasound signal processing
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q1, rank 5, percentile 91)
+   - **Source Id:** 13516
+   - **Author Ids:** 14048008100;6507054061;22035995400;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Crocco M.
+79.
+   - **Title:** Combining multi-pulse excitation and chirp coding in contrast enhanced echographic imaging
+   - **Venue:** Ist 2008 IEEE Workshop on Imaging Systems and Techniques Proceedings
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IST.2008.4659938
+   - **Scopus ID:** 2-s2.0-57849120270
+   - **Pages:** 45-49
+   - **Authors:** Crocco Marco; Pellegretti Paolo; Sciallero Claudia; Trucco Andrea
+   - **Keywords:** Chirp coding | Contrast agents | Echographic imaging | Multi pulse techniques
+   - **Source Id:** 14000156210
+   - **Author Ids:** 14048008100;7801594635;22035995400;7007035725
+   - **Authoraffiliationids:** 60025153;60113818;60025153;60025153
+   - **Corresponding:** Crocco M.
+80.
+   - **Title:** Experimental validation of a chirp-based underwater acoustic communication method
+   - **Venue:** Proceedings European Conference on Noise Control
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-84874926120
+   - **ISSN:** 22265147
+   - **Pages:** 147-152
+   - **Authors:** Palmese M.; Bertolotto G.; Pescetto A.; Trucco A.
+   - **Source Id:** 21100215101
+   - **Author Ids:** 6507054061;23007816800;6506761928;7007035725
+   - **Authoraffiliationids:** 60025153;60083109;60122238;60025153
+   - **Corresponding:** Palmese M.
+81.
+   - **Title:** Global synthesis of superdirective frequency-invariant beam patterns
+   - **Venue:** Proceedings European Conference on Noise Control
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84874861461
+   - **ISSN:** 22265147
+   - **Pages:** 81-86
+   - **Authors:** Crocco M.; Repetto S.; Trucco A.
+   - **Source Id:** 21100215101
+   - **Author Ids:** 14048008100;7005174907;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Crocco M.
+82.
+   - **Title:** Experimental validation of a chirp-based underwater acoustic communication method
+   - **Venue:** Proceedings of Meetings on Acoustics
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1121/1.2988054
+   - **Scopus ID:** 2-s2.0-84865956851
+   - **ISSN:** 1939800X
+   - **Volume:** 4
+   - **Authors:** Palmese Maria; Bertolotto Giacomo; Pescetto Alessandro; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q3, rank 38, percentile 29)
+   - **Source Id:** 21100215110
+   - **Author Ids:** 6507054061;23007816800;6506761928;7007035725
+   - **Authoraffiliationids:** 60025153;60083109;60122238;60025153
+   - **Corresponding:** Palmese M.
+83.
+   - **Title:** Global synthesis of superdirective frequency-invariant beam patterns
+   - **Venue:** Proceedings of Meetings on Acoustics
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1121/1.2976159
+   - **Scopus ID:** 2-s2.0-84863803286
+   - **ISSN:** 1939800X
+   - **Volume:** 4
+   - **Authors:** Crocco Marco; Repetto Stefania; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q3, rank 38, percentile 29)
+   - **Source Id:** 21100215110
+   - **Author Ids:** 14048008100;7005174907;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Crocco M.
+84.
+   - **Title:** Devising an affordable sonar system for underwater 3-D vision
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 74
+   - **DOI:** 10.1109/TIM.2008.922111
+   - **Scopus ID:** 2-s2.0-52649167281
+   - **ISSN:** 00189456
+   - **Volume:** 57
+   - **Issue:** 10
+   - **Pages:** 2348-2354
+   - **Authors:** Trucco Andrea; Palmese Maria; Repetto Stefania
+   - **Keywords:** Real-time 3-D acoustic camera | Simulation of underwater acoustic signals | Sparse planar arrays | Three-dimensional acoustic imaging | Underwater sonar imaging
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 7007035725;6507054061;7005174907
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Trucco A.
+85.
+   - **Title:** From 3-D sonar images to augmented reality models for objects buried on the seafloor
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 28
+   - **DOI:** 10.1109/TIM.2007.913703
+   - **Scopus ID:** 2-s2.0-41549086497
+   - **ISSN:** 00189456
+   - **Volume:** 57
+   - **Issue:** 4
+   - **Pages:** 820-828
+   - **Authors:** Palmese Maria; Trucco Andrea
+   - **Keywords:** Augmented reality | Image processing and analysis | Imaging sonar systems | Investigation of buried objects | Segmentation | Surface fitting | Three-dimensional (3-D) acoustic imaging | Underwater imaging
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 6507054061;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Palmese M.
+86.
+   - **Title:** Chirp zeta transform beamforming for three-dimensional acoustic imaging
+   - **Venue:** Journal of the Acoustical Society of America
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1121/1.2794881
+   - **Scopus ID:** 2-s2.0-38049049803
+   - **ISSN:** 00014966
+   - **Volume:** 122
+   - **Issue:** 5
+   - **Pages:** EL191-EL195
+   - **Authors:** Palmese Maria; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Arts and Humanities (miscellaneous) (Q1, rank 96, percentile 85)
+     - Acoustics and Ultrasonics (Q2, rank 15, percentile 72)
+   - **Source Id:** 12936
+   - **Author Ids:** 6507054061;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Palmese M.
+87.
+   - **Title:** On the optimization of the transmitted beam in contrast-enhanced ultrasound medical imaging
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1109/TIM.2007.900151
+   - **Scopus ID:** 2-s2.0-34547879971
+   - **ISSN:** 00189456
+   - **Volume:** 56
+   - **Issue:** 4
+   - **Pages:** 1239-1248
+   - **Authors:** Curletto Simone; Palmese Maria; Trucco Andrea
+   - **Keywords:** Near-field wideband beamforming optimization | Nonlinear response measurement | Transmission beam pressure | Ultrasound contrast agents (UCAs) | Ultrasound medical imaging
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 6506846892;6507054061;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Curletto S.
+88.
+   - **Title:** Spread spectrum modulation for acoustic communication in shallow water channel
+   - **Venue:** Oceans 2007 Europe
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 20
+   - **DOI:** 10.1109/oceanse.2007.4302308
+   - **Scopus ID:** 2-s2.0-36348979844
+   - **Authors:** Palmese Maria; Bertolotto Giacomo; Pescetto Alessandro; Trueco Andrea
+   - **Keywords:** Chirp modulation | Pseudonoise coded communication | Underwater acoustic communication | Underwater mobile robots
+   - **Source Id:** 21100996432
+   - **Author Ids:** 6507054061;23007816800;6506761928;7007035725
+   - **Authoraffiliationids:** 60000251-60025153;60083109;60122238;60000251-60025153
+   - **Corresponding:** Palmese M.
+89.
+   - **Title:** On the robustness of multi-pulse techniques against undesired effects in contrast enhanced ultrasound imaging
+   - **Venue:** Proceedings of the 2007 IEEE International Workshop on Imaging Systems and Techniques Ist 07
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ist.2007.379571
+   - **Scopus ID:** 2-s2.0-34748919666
+   - **Authors:** Crocco Marco; Sciallero Claudia; Trucco Andrea
+   - **Keywords:** Contrast agents | Echographic imaging | Multi pulse techniques | Robustness
+   - **Source Id:** 21100984531
+   - **Author Ids:** 14048008100;22035995400;7007035725
+   - **Authoraffiliationids:** 60000251;60000251;60000251
+   - **Corresponding:** Crocco M.
+90.
+   - **Title:** Digital near field beamforming for efficient 3-D underwater acoustic image generation
+   - **Venue:** Proceedings of the 2007 IEEE International Workshop on Imaging Systems and Techniques Ist 07
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/ist.2007.379570
+   - **Scopus ID:** 2-s2.0-34748823117
+   - **Authors:** Palmese Maria; Trucco Andrea
+   - **Keywords:** 3-D acoustic imaging | Frequency-domain near field beamforming | Planar arrays | Sonar systems
+   - **Source Id:** 7900153128
+   - **Author Ids:** 6507054061;7007035725
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Palmese M.
+91.
+   - **Title:** 3-D underwater acoustic imaging by an efficient frequency domain beamforming
+   - **Venue:** Ist 2006 Proceedings of the 2006 IEEE International Workshop on Imagining Systems and Techniques
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/IST.2006.1650781
+   - **Scopus ID:** 2-s2.0-33845598482
+   - **Volume:** 2006
+   - **Pages:** 86-90
+   - **Authors:** Palmese Maria; De Toni Giovanni; Trucco Andrea
+   - **Keywords:** 3-D acoustic imaging | Chirp zeta transform | Digital beamforming | Frequency domain implementation | Sonar systems
+   - **Source Id:** 5100153514
+   - **Author Ids:** 6507054061;57224713193;7007035725
+   - **Authoraffiliationids:** 60025153;102012228;60025153
+   - **Corresponding:** Palmese M.
+92.
+   - **Title:** Experimental assessment of image enhancement and object detection methods applied to mechanically scanned sonar systems
+   - **Venue:** Ist 2006 Proceedings of the 2006 IEEE International Workshop on Imagining Systems and Techniques
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IST.2006.1650789
+   - **Scopus ID:** 2-s2.0-33845585496
+   - **Volume:** 2006
+   - **Pages:** 125-130
+   - **Authors:** Repetto S.; Ayala V.; Garofalo M.; Scarpa M.; Trucco A.
+   - **Keywords:** Acoustic imaging systems | Fan-shaped-beam sonar system | Image analysis techniques | Image enhancement techniques | Pencil-beam sonar system
+   - **Source Id:** 5100153514
+   - **Author Ids:** 7005174907;53763082600;15622820900;55900114400;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153;101603721;60025153
+   - **Corresponding:** Repetto S.
+93.
+   - **Title:** On the interpolation of echographic images exploiting band-pass signals
+   - **Venue:** Ist 2006 Proceedings of the 2006 IEEE International Workshop on Imagining Systems and Techniques
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IST.2006.1650778
+   - **Scopus ID:** 2-s2.0-33845568369
+   - **Volume:** 2006
+   - **Pages:** 71-75
+   - **Authors:** Curletto Simone; Trucco Andrea
+   - **Source Id:** 5100153514
+   - **Author Ids:** 6506846892;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Curletto S.
+94.
+   - **Title:** Evaluation of object specular reflection in acoustical imaging, with special emphasis on synthetic aperture systems
+   - **Venue:** Proceedings of the Institute of Acoustics
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84871011212
+   - **ISSN:** 14786095
+   - **Volume:** 28
+   - **Issue:** Part 5
+   - **Pages:** 298-304
+   - **Authors:** Granara M.; Palmese M.; Trucco A.
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q4, rank 50, percentile 6)
+   - **Source Id:** 21100223154
+   - **Author Ids:** 6508116928;6507054061;7007035725
+   - **Authoraffiliationids:** 100854094;60025153;60025153
+   - **Corresponding:** Granara M.
+95.
+   - **Title:** Design and assessment of a low-cost 3-D sonar imaging system based on a sparse array
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/IMTC.2006.236937
+   - **Scopus ID:** 2-s2.0-36048978156
+   - **ISSN:** 10915281
+   - **Pages:** 410-415
+   - **Authors:** Repetto S.; Palmese M.; Trucco A.
+   - **Keywords:** 3-D acoustic imaging | Beamforming | Sparse planar arrays | Underwater sonar imaging
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 7005174907;6507054061;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Repetto S.
+96.
+   - **Title:** Characterizing the objects embedded in the sea-bottom by processing 3-D acoustic images
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IMTC.2006.235958
+   - **Scopus ID:** 2-s2.0-36048961475
+   - **ISSN:** 10915281
+   - **Pages:** 168-173
+   - **Authors:** Palmese Maria; Trucco Andrea
+   - **Keywords:** 3-D acoustical imaging | Augmented reality modelling | Buried objects investigation | Image processing and analysis | Segmentation | Surface fitting
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 6507054061;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Palmese M.
+97.
+   - **Title:** Ultrasound pulse optimization for the measurement of the contrast agent responses
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IMTC.2006.235037
+   - **Scopus ID:** 2-s2.0-34547866588
+   - **ISSN:** 10915281
+   - **Pages:** 1694-1698
+   - **Authors:** Curletto Simone; Trueco Andrea
+   - **Keywords:** Nonlinear response measurement | Transmission beam profile | Ultrasound contrast agent | Weights array and transmission carrier frequencies optimization
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 6506846892;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Curletto S.
+98.
+   - **Title:** Harmonic beamforming: Performance analysis and imaging results
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1109/TIM.2006.884397
+   - **Scopus ID:** 2-s2.0-33947306587
+   - **ISSN:** 00189456
+   - **Volume:** 55
+   - **Issue:** 6
+   - **Pages:** 1965-1974
+   - **Authors:** Trucco Andrea; Bertora Franco
+   - **Keywords:** Beamforming | Harmonic imaging | Ultrasound contrast agents (UCAs) | Ultrasound imaging | Wideband signal processing
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 7007035725;6602595412
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60113818
+   - **Corresponding:** Trucco A.
+99.
+   - **Title:** GIS tools application for risk assessment of toxic waste buried in seafloor sediments
+   - **Venue:** Chemistry and Ecology
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1080/02757540600670828
+   - **Scopus ID:** 2-s2.0-33748311897
+   - **ISSN:** 02757540
+   - **eISSN:** 10290370
+   - **Volume:** 22
+   - **Issue:** Suppl. 1
+   - **Pages:** S145-S161
+   - **Authors:** Caiti A.; Minciardi R.; Palmese M.; Robba M.; Sacile R.; Trucco A.
+   - **Keywords:** Environmental monitoring | Geographical information systems | Image processing | Underwater acoustics
+   - **Quartile:**
+     2025:
+     - Ecology, Evolution, Behavior and Systematics (Q1, rank 169, percentile 77)
+     - Ecology (Q2, rank 126, percentile 74)
+     - Earth and Planetary Sciences (all) (Q2, rank 53, percentile 73)
+     - Environmental Science (all) (Q2, rank 89, percentile 62)
+   - **Source Id:** 23407
+   - **Author Ids:** 7003811129;7005785660;6507054061;7004979187;56250207700;7007035725
+   - **Authoraffiliationids:** 126435116-60028868;126435116-60025153;126435116-60025153;126435116-60025153;126435116-60025153;126435116-60025153
+   - **Corresponding:** Caiti A.
+100.
+   - **Title:** Signal processing strategy for the exploitation of ultrasound contrast agents by current medical instrumentation
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1109/TIM.2006.876401
+   - **Scopus ID:** 2-s2.0-33746354311
+   - **ISSN:** 00189456
+   - **Volume:** 55
+   - **Issue:** 4
+   - **Pages:** 1397-1406
+   - **Authors:** Trucco Andrea; Curletto Simone
+   - **Keywords:** Beam pressure profile | Optimized array transmission | Ultrasound contrast agents | Ultrasound medical imaging | Weighting windows | Wideband beamforming
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 7007035725;6506846892
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Trucco A.
+101.
+   - **Title:** Acoustic imaging of underwater embedded objects: Signal simulation for three-dimensional sonar instrumentation
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 44
+   - **DOI:** 10.1109/TIM.2006.876402
+   - **Scopus ID:** 2-s2.0-33746346442
+   - **ISSN:** 00189456
+   - **Volume:** 55
+   - **Issue:** 4
+   - **Pages:** 1339-1347
+   - **Authors:** Palmese Maria; Trucco Andrea
+   - **Keywords:** Acoustic imaging | Buried objects | Signal simulation | Sonar systems | Three-dimensional (3-D) acoustic instrumentation | Underwater acoustics
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 6507054061;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Palmese M.
+102.
+   - **Title:** A stochastic approach to the synthesis of a robust frequency-invariant filter-and-sum beamformer
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 46
+   - **DOI:** 10.1109/TIM.2006.876403
+   - **Scopus ID:** 2-s2.0-33746330741
+   - **ISSN:** 00189456
+   - **Volume:** 55
+   - **Issue:** 4
+   - **Pages:** 1407-1415
+   - **Authors:** Trucco Andrea; Crocco Marco; Repetto Stefania
+   - **Keywords:** Broadband beamforming | Data-independent beamforming | Frequency-invariant beam pattern (FIBP) | Microphone arrays | Simulated annealing (SA) | Superdirective arrays
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 7007035725;14048008100;7005174907
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Trucco A.
+103.
+   - **Title:** Designing superdirective microphone arrays with a frequency-invariant beam pattern
+   - **Venue:** IEEE Sensors Journal
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1109/JSEN.2006.874019
+   - **Scopus ID:** 2-s2.0-33947166252
+   - **ISSN:** 1530437X
+   - **Volume:** 6
+   - **Issue:** 3
+   - **Pages:** 737-746
+   - **Authors:** Repetto Stefania; Trucco Andrea
+   - **Keywords:** Broadband beamforming | Data-independent beamforming | Frequency-invariant beam pattern (FIBP) | Microphone arrays | Simulated annealing | Superdirective arrays
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 27, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 175, percentile 82)
+   - **Source Id:** 15047
+   - **Author Ids:** 7005174907;7007035725
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Repetto S.
+104.
+   - **Title:** A simulation method for the design of a 3-D acoustical imaging system for sub-bottom investigation
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IMTC.2004.1351289
+   - **Scopus ID:** 2-s2.0-33847167013
+   - **ISSN:** 10915281
+   - **Volume:** 2
+   - **Pages:** 1240-1245
+   - **Authors:** Palmese Maria; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 6507054061;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Palmese M.
+105.
+   - **Title:** Advanced generation of ultrasound beams for the measurement of the contrast agent responses
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IMTC.2003.1207926
+   - **Scopus ID:** 2-s2.0-33847127370
+   - **ISSN:** 10915281
+   - **Volume:** 2
+   - **Pages:** 1108-1112
+   - **Authors:** Curletto Simone; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 6506846892;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Curletto S.
+106.
+   - **Title:** High-resolution 3-D imaging by a sparse array: Array optimization and image simulation
+   - **Venue:** Oceans 2005 Europe
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/OCEANSE.2005.1513152
+   - **Scopus ID:** 2-s2.0-33746915738
+   - **Volume:** 2
+   - **Pages:** 763-768
+   - **Authors:** Repetto S.; Palmese M.; Trucco A.
+   - **Source Id:** 4700152814
+   - **Author Ids:** 7005174907;6507054061;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Repetto S.
+107.
+   - **Title:** On the analysis of buried objects by processing 3-D acoustic images
+   - **Venue:** Oceans 2005 Europe
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/OCEANSE.2005.1511740
+   - **Scopus ID:** 2-s2.0-33746680393
+   - **Volume:** 1
+   - **Pages:** 356-361
+   - **Authors:** Palmese M.; Caiti A.; Trucco A.
+   - **Source Id:** 4700152814
+   - **Author Ids:** 6507054061;7003811129;7007035725
+   - **Authoraffiliationids:** 105427934-60025153;105427934-60028868;105427934-60025153
+   - **Corresponding:** Palmese M.
+108.
+   - **Title:** Frequency-invariant beamforming in very short arrays for AUVs instrumentation
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IMTC.2002.1007112
+   - **Scopus ID:** 2-s2.0-33746346960
+   - **ISSN:** 10915281
+   - **Volume:** 2
+   - **Pages:** 1113-1118
+   - **Authors:** Repetto Stefania; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 7005174907;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Repetto S.
+109.
+   - **Title:** Risk assessment of seafloor waste: Acoustical imaging of buried waste
+   - **Venue:** Journal of Computational Acoustics
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1142/S0218396X05002694
+   - **Scopus ID:** 2-s2.0-22244490307
+   - **ISSN:** 0218396X
+   - **Volume:** 13
+   - **Issue:** 2
+   - **Pages:** 385-401
+   - **Authors:** Caiti Andrea; Palmese Maria; Trucco Andrea
+   - **Keywords:** 3D image processing | Backscattering | Image segmentation | Octree | Risk assessment | Sea bottom
+   - **Source Id:** 13189
+   - **Author Ids:** 7003811129;6507054061;7007035725
+   - **Authoraffiliationids:** 60028868;60025153;60025153
+   - **Corresponding:** Caiti A.
+110.
+   - **Title:** On the shaping of the main lobe in wide-band arrays
+   - **Venue:** IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1109/TUFFC.2005.1428045
+   - **Scopus ID:** 2-s2.0-19344372167
+   - **ISSN:** 08853010
+   - **Volume:** 52
+   - **Issue:** 4
+   - **Pages:** 619-630
+   - **Authors:** Curletto Simone; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q1, rank 4, percentile 93)
+     - Instrumentation (Q1, rank 20, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 138, percentile 86)
+   - **Source Id:** 12998
+   - **Author Ids:** 6506846892;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Curletto S.
+111.
+   - **Title:** Analysis of buried objects in 3D underwater acoustic images by a volumetric segmentation algorithm
+   - **Venue:** Proceedings of Mts IEEE Oceans 2005
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/OCEANS.2005.1639849
+   - **Scopus ID:** 2-s2.0-33947111523
+   - **Volume:** 2005
+   - **Pages:** 791-797
+   - **Authors:** Palmese M.; Trucco A.
+   - **Source Id:** 5300152514
+   - **Author Ids:** 6507054061;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Palmese M.
+112.
+   - **Title:** Improving harmonic imaging by a novel beamforming process for ultrasound medical scanners
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICIP.2005.1530467
+   - **Scopus ID:** 2-s2.0-33749247813
+   - **ISSN:** 15224880
+   - **Volume:** 3
+   - **Pages:** 3-616
+   - **Authors:** Trucco Andrea; Bertora Franco
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 7007035725;6602595412
+   - **Authoraffiliationids:** 60025153;125019718
+   - **Corresponding:** Trucco A.
+113.
+   - **Title:** An alternative frequency domain beamforming
+   - **Venue:** Proceedings IEEE Ultrasonics Symposium
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ULTSYM.2004.1418164
+   - **Scopus ID:** 2-s2.0-21644445442
+   - **ISSN:** 10510117
+   - **Volume:** 3
+   - **Pages:** 1749-1752
+   - **Authors:** Bertora F.; Pellegretti P.; Questa A.; Parodi C.; Trucco A.
+   - **Source Id:** 101599
+   - **Author Ids:** 6602595412;7801594635;8601560000;16172182500;7007035725
+   - **Authoraffiliationids:** 60113818;60113818;60113818;60025153;60025153
+   - **Corresponding:** Bertora F.
+114.
+   - **Title:** Frequency invariant beamforming in very short arrays
+   - **Venue:** Ocean 04 Mts IEEE Techno Ocean 04 Bridges Across the Oceans Conference Proceedings
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-19644376021
+   - **Volume:** 2
+   - **Pages:** 635-640
+   - **Authors:** Trucco Andrea; Repetto Stefania
+   - **Source Id:** 145321
+   - **Author Ids:** 7007035725;7005174907
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Trucco A.
+115.
+   - **Title:** A flexible method to simulate 3-D underwater sub-bottom images
+   - **Venue:** Ocean 04 Mts IEEE Techno Ocean 04 Bridges Across the Oceans Conference Proceedings
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-19544376956
+   - **Volume:** 4
+   - **Pages:** 2346-2353
+   - **Authors:** Palmese Maria; Trucco Andrea
+   - **Source Id:** 21100496316
+   - **Author Ids:** 6507054061;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Palmese M.
+116.
+   - **Title:** A new beamforming technique aimed at improving the ultrasound harmonic imaging
+   - **Venue:** 2004 IEEE International Workshop on Imaging Systems and Techniques Ist
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-15844419770
+   - **Pages:** 71-75
+   - **Authors:** Trucco Andrea; Bertora Franco
+   - **Keywords:** Beamforming | Harmonic Imaging | Ultrasound Imaging | Wide-Band Signal Processing
+   - **Source Id:** 145102
+   - **Author Ids:** 7007035725;6602595412
+   - **Authoraffiliationids:** 60025153;60113818
+   - **Corresponding:** Trucco A.
+117.
+   - **Title:** A stochastic approach for the apodization of very short arrays
+   - **Venue:** Ultrasonics
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1016/j.ultras.2003.12.038
+   - **Scopus ID:** 2-s2.0-1642632782
+   - **ISSN:** 0041624X
+   - **Volume:** 42
+   - **Issue:** 1-9
+   - **Pages:** 425-429
+   - **Authors:** Repetto S.; Trucco A.
+   - **Keywords:** Array apodization | Beam pattern optimization | Simulated annealing | Weighting window synthesis
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q1, rank 5, percentile 91)
+   - **Source Id:** 13516
+   - **Author Ids:** 7005174907;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Repetto S.
+118.
+   - **Title:** On the stability of wideband beam patterns with respect to weighting and envelope fluctuations
+   - **Venue:** Ultrasonics
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1016/j.ultras.2003.12.006
+   - **Scopus ID:** 2-s2.0-1642617164
+   - **ISSN:** 0041624X
+   - **Volume:** 42
+   - **Issue:** 1-9
+   - **Pages:** 997-1003
+   - **Authors:** Curletto Simone; Parodi Caterina; Trucco Andrea
+   - **Keywords:** Pulse envelope | Sensitivity fluctuations | Weighting window | Wideband beam pattern
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q1, rank 5, percentile 91)
+   - **Source Id:** 13516
+   - **Author Ids:** 6506846892;58363193700;7007035725
+   - **Authoraffiliationids:** 60025153;60113818;60025153
+   - **Corresponding:** Curletto S.
+119.
+   - **Title:** Harmonic beamforming: A new approach to removing the linear contribution from harmonic imaging
+   - **Venue:** Proceedings of the IEEE Ultrasonics Symposium
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-4143065975
+   - **ISSN:** 10510117
+   - **Volume:** 1
+   - **Pages:** 457-460
+   - **Authors:** Trucco Andrea; Bertora Franco
+   - **Source Id:** 101599
+   - **Author Ids:** 7007035725;6602595412
+   - **Authoraffiliationids:** 60025153;60113818
+   - **Corresponding:** Trucco A.
+120.
+   - **Title:** Object reconstruction and feature extraction from 3-D underwater acoustic scattering measurements
+   - **Venue:** Proceedings of the Tenth International Congress on Sound and Vibration
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-2342428970
+   - **Pages:** 2449-2456
+   - **Authors:** Caiti A.; Murino V.; Palmese M.; Trucco A.
+   - **Source Id:** 93047
+   - **Author Ids:** 7003811129;7006595496;6507054061;7007035725
+   - **Authoraffiliationids:** 101907701-60028868;101907701-60032256;101907701-60025153;101907701-60025153
+   - **Corresponding:** Caiti A.
+121.
+   - **Title:** Image projection and composition with a front-scan sonar system: Methods and experimental results
+   - **Venue:** IEEE Journal of Oceanic Engineering
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1109/JOE.2003.819316
+   - **Scopus ID:** 2-s2.0-0347900650
+   - **ISSN:** 03649059
+   - **Volume:** 28
+   - **Issue:** 4
+   - **Pages:** 687-698
+   - **Authors:** Trucco Andrea; Palmese Maria; Repetto Stefania
+   - **Keywords:** Acoustic image interpolation | Acoustic ray tracing | Imaging sonar systems | Resolution cell projection
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 11, percentile 90)
+     - Mechanical Engineering (Q1, rank 88, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 86)
+   - **Source Id:** 17277
+   - **Author Ids:** 7007035725;6507054061;7005174907
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Trucco A.
+122.
+   - **Title:** Flattening the side-lobes of wide-band beam patterns
+   - **Venue:** IEEE Journal of Oceanic Engineering
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1109/JOE.2003.819317
+   - **Scopus ID:** 2-s2.0-0346009245
+   - **ISSN:** 03649059
+   - **Volume:** 28
+   - **Issue:** 4
+   - **Pages:** 760-762
+   - **Authors:** Trucco Andrea; Curletto Simone
+   - **Keywords:** Array weighting | Beam pattern optimization | Simulated annealing | Wide-band beamforming
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 11, percentile 90)
+     - Mechanical Engineering (Q1, rank 88, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 86)
+   - **Source Id:** 17277
+   - **Author Ids:** 7007035725;6506846892
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Trucco A.
+123.
+   - **Title:** Extraction of 3-D information from sonar image sequences
+   - **Venue:** IEEE Transactions on Systems Man and Cybernetics Part B Cybernetics
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 16
+   - **DOI:** 10.1109/TSMCB.2003.814300
+   - **Scopus ID:** 2-s2.0-0042265729
+   - **ISSN:** 10834419
+   - **Volume:** 33
+   - **Issue:** 4
+   - **Pages:** 687-699
+   - **Authors:** Trucco Andrea; Curletto Simone
+   - **Keywords:** Acoustic image processing | Depth estimating | Feature tracking | Seafloor analysis | Sonar imaging
+   - **Source Id:** 12955
+   - **Author Ids:** 7007035725;6506846892
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Trucco A.
+124.
+   - **Title:** Main lobe shaping in wide-band arrays
+   - **Venue:** Oceans Conference Record IEEE
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/oceans.2003.178363
+   - **Scopus ID:** 2-s2.0-1542610560
+   - **ISSN:** 01977385
+   - **Volume:** 5
+   - **Pages:** 2869-2874
+   - **Authors:** Curletto Simone; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q3, rank 84, percentile 28)
+     - Oceanography (Q4, rank 117, percentile 23)
+   - **Source Id:** 13654
+   - **Author Ids:** 6506846892;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Curletto S.
+125.
+   - **Title:** A holographic system for subsea recording and analysis of plankton and other marine particles (HOLOMAR)
+   - **Venue:** Oceans Conference Record IEEE
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/oceans.2003.178428
+   - **Scopus ID:** 2-s2.0-12144289913
+   - **ISSN:** 01977385
+   - **Volume:** 2
+   - **Pages:** 830-837
+   - **Authors:** Watson John; Alexander S.; Chavidan V.; Craig G.; Diard A.; Foresti G. L.; Gentili S.; Hendry D. C.; Hobson P. R.; Lampitt R. S.; Nareid H.; Nebrensky J. J.; Pescetto A.; Pieroni G. G.; Player M. A.; Saw K.; Serpico S.; Tipping K.; Trucco A.
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q3, rank 84, percentile 28)
+     - Oceanography (Q4, rank 117, percentile 23)
+   - **Source Id:** 13654
+   - **Author Ids:** 35396124700;7402790968;57209898647;7101867237;6506549262;7006427233;7004229097;7006187679;35778258500;7004317264;6602567713;6602213411;6506761928;35584434700;23002014900;36800356200;7005306316;7801508249;7007035725
+   - **Authoraffiliationids:** 60015875;60015875;;60015875;100371427;60025965;60025965;60015875;60020623;60020623;60015875;60020623;60025153;60025965;60015875;60010934;60015875;60010934;60025153
+   - **Corresponding:** Watson J.
+126.
+   - **Title:** Planar antenna array design with a multi-purpose Ga-based procedure
+   - **Venue:** Microwave and Optical Technology Letters
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 21
+   - **DOI:** 10.1002/mop.10629
+   - **Scopus ID:** 2-s2.0-0037147375
+   - **ISSN:** 08952477
+   - **Volume:** 35
+   - **Issue:** 6
+   - **Pages:** 428-430
+   - **Authors:** Caorsi Salvatore; Lommi Andrea; Massa Andrea; Piffer Stefano; Trucco Andrea
+   - **Keywords:** Genetic algorithms | Planar antenna array
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 542, percentile 45)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 199, percentile 35)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 156, percentile 34)
+     - Condensed Matter Physics (Q3, rank 296, percentile 33)
+   - **Source Id:** 12250
+   - **Author Ids:** 7102084534;6506912559;7005085831;57197975521;7007035725
+   - **Authoraffiliationids:** 60015197;60015197;60015986;60015986;60025153
+   - **Corresponding:** Caorsi S.
+127.
+   - **Title:** Projection and mosaicking of real data gathered with a front-scan sonar system
+   - **Venue:** Oceans Conference Record IEEE
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0038645281
+   - **ISSN:** 01977385
+   - **Volume:** 4
+   - **Pages:** 2466-2471
+   - **Authors:** Repetto Stefania; Palmese Maria; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q3, rank 84, percentile 28)
+     - Oceanography (Q4, rank 117, percentile 23)
+   - **Source Id:** 13654
+   - **Author Ids:** 7005174907;6507054061;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Repetto S.
+128.
+   - **Title:** Feature tracking and depth estimation in front-scan sonar image sequences
+   - **Venue:** Oceans Conference Record IEEE
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0038307826
+   - **ISSN:** 01977385
+   - **Volume:** 3
+   - **Pages:** 1306-1311
+   - **Authors:** Trucco Andrea; Curletto Simone; Pescetto Alessandro
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q3, rank 84, percentile 28)
+     - Oceanography (Q4, rank 117, percentile 23)
+   - **Source Id:** 13654
+   - **Author Ids:** 7007035725;6506846892;6506761928
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Trucco A.
+129.
+   - **Title:** Mosaicking data in seafloor front-scan imaging
+   - **Venue:** Acta Acustica United with Acustica
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-14244273306
+   - **ISSN:** 14367947
+   - **Volume:** 88
+   - **Issue:** 5
+   - **Pages:** 767-770
+   - **Authors:** Trucco A.; Palmese M.; Repetto S.
+   - **Source Id:** 12941
+   - **Author Ids:** 7007035725;6507054061;7005174907
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Trucco A.
+130.
+   - **Title:** Observation of acoustical signal fluctuations by time-frequency analysis methods
+   - **Venue:** Acta Acustica United with Acustica
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-14244272904
+   - **ISSN:** 14367947
+   - **Volume:** 88
+   - **Issue:** 5
+   - **Pages:** 653-657
+   - **Authors:** Palmese M.; Bozzo A.; Jesus S.; Onofre J.; Picco P.; Trucco A.
+   - **Source Id:** 12941
+   - **Author Ids:** 6507054061;57212497769;7003729485;6506077203;7005847398;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Palmese M.
+131.
+   - **Title:** Weighting and thinning wide-band arrays by simulated annealing
+   - **Venue:** Ultrasonics
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 56
+   - **DOI:** 10.1016/S0041-624X(02)00163-4
+   - **Scopus ID:** 2-s2.0-0036565949
+   - **ISSN:** 0041624X
+   - **Volume:** 40
+   - **Issue:** 1-8
+   - **Pages:** 485-489
+   - **Authors:** Trucco Andrea
+   - **Keywords:** Acoustic imaging | Array thinning | Beamforming systems | Stochastic optimization | Wide-band arrays
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q1, rank 5, percentile 91)
+   - **Source Id:** 13516
+   - **Author Ids:** 7007035725
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Trucco A.
+132.
+   - **Title:** Sidelobe reduction in sparse linear arrays by genetic algorithms
+   - **Venue:** Microwave and Optical Technology Letters
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 61
+   - **DOI:** 10.1002/mop.10128
+   - **Scopus ID:** 2-s2.0-0037022147
+   - **ISSN:** 08952477
+   - **Volume:** 32
+   - **Issue:** 3
+   - **Pages:** 194-196
+   - **Authors:** Lommi Andrea; Massa Andrea; Storti Enrico; Trucco Andrea
+   - **Keywords:** Beam pattern | Beamforming | Genetic algorithms | Linear array
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 542, percentile 45)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 199, percentile 35)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 156, percentile 34)
+     - Condensed Matter Physics (Q3, rank 296, percentile 33)
+   - **Source Id:** 12250
+   - **Author Ids:** 6506912559;7005085831;37075950700;7007035725
+   - **Authoraffiliationids:** 60025153-60015986;60025153-60015986;60025153-60015986;60025153-60015986
+   - **Corresponding:** Lommi A.
+133.
+   - **Title:** Synthesizing wide-band sparse arrays by simulated annealing
+   - **Venue:** Oceans Conference Record IEEE
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 19
+   - **Scopus ID:** 2-s2.0-0035672992
+   - **ISSN:** 01977385
+   - **Volume:** 2
+   - **Pages:** 989-994
+   - **Authors:** Trucco A.
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q3, rank 84, percentile 28)
+     - Oceanography (Q4, rank 117, percentile 23)
+   - **Source Id:** 13654
+   - **Author Ids:** 7007035725
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Trucco A.
+134.
+   - **Title:** Experimental results on the detection of embédded objects by a prewhitening filter
+   - **Venue:** IEEE Journal of Oceanic Engineering
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.1109/48.972119
+   - **Scopus ID:** 2-s2.0-0035493206
+   - **ISSN:** 03649059
+   - **Volume:** 26
+   - **Issue:** 4
+   - **Pages:** 783-794
+   - **Authors:** Trucco Andrea
+   - **Keywords:** Acoustic detection | AR modeling | Buried objects | Prewhitening filters | Sonar systems
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 11, percentile 90)
+     - Mechanical Engineering (Q1, rank 88, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 86)
+   - **Source Id:** 17277
+   - **Author Ids:** 7007035725
+   - **Authoraffiliationids:** 60000251-60025153
+   - **Corresponding:** Trucco A.
+135.
+   - **Title:** Detection of objects buried in the seafloor by a pattern-recognition approach
+   - **Venue:** IEEE Journal of Oceanic Engineering
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 29
+   - **DOI:** 10.1109/48.972118
+   - **Scopus ID:** 2-s2.0-0035493126
+   - **ISSN:** 03649059
+   - **Volume:** 26
+   - **Issue:** 4
+   - **Pages:** 769-782
+   - **Authors:** Trucco Andrea
+   - **Keywords:** Acoustic detection | Buried objects | Feature extraction | Pattern recognition | Sonar systems
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 11, percentile 90)
+     - Mechanical Engineering (Q1, rank 88, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 86)
+   - **Source Id:** 17277
+   - **Author Ids:** 7007035725
+   - **Authoraffiliationids:** 60000251-60025153
+   - **Corresponding:** Trucco A.
+136.
+   - **Title:** Synthesis of unequally spaced arrays with asymmetric beam patterns
+   - **Venue:** Journal of Computational Acoustics
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1142/S0218396X01001303
+   - **Scopus ID:** 2-s2.0-0035638321
+   - **ISSN:** 0218396X
+   - **Volume:** 9
+   - **Issue:** 3
+   - **Pages:** 789-803
+   - **Authors:** Trucco Andrea; Murino Vittorio
+   - **Source Id:** 13189
+   - **Author Ids:** 7007035725;7006595496
+   - **Authoraffiliationids:** 60025153;60032256
+   - **Corresponding:** Trucco A.
+137.
+   - **Title:** Acoustic detection of objects buried in the seafloor
+   - **Venue:** Electronics Letters
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1049/el:20001065
+   - **Scopus ID:** 2-s2.0-0034247134
+   - **ISSN:** 00135194
+   - **Volume:** 36
+   - **Issue:** 18
+   - **Pages:** 1595-1596
+   - **Authors:** Trucco A.; Pescetto A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 624, percentile 37)
+   - **Source Id:** 24918
+   - **Author Ids:** 7007035725;6506761928
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Trucco A.
+138.
+   - **Title:** Synthesizing asymmetric beam patterns
+   - **Venue:** IEEE Journal of Oceanic Engineering
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 27
+   - **DOI:** 10.1109/48.855383
+   - **Scopus ID:** 2-s2.0-0034226748
+   - **ISSN:** 03649059
+   - **Volume:** 25
+   - **Issue:** 3
+   - **Pages:** 347-350
+   - **Authors:** Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 11, percentile 90)
+     - Mechanical Engineering (Q1, rank 88, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 86)
+   - **Source Id:** 17277
+   - **Author Ids:** 7007035725
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Trucco A.
+139.
+   - **Title:** Aperture and element minimization in linear sparse arrays with desired beam patterns
+   - **Venue:** Ultrasonics
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1016/S0041-624X(99)00089-X
+   - **Scopus ID:** 2-s2.0-0033885890
+   - **ISSN:** 0041624X
+   - **Volume:** 38
+   - **Issue:** 1
+   - **Pages:** 161-165
+   - **Authors:** Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q1, rank 5, percentile 91)
+   - **Source Id:** 13516
+   - **Author Ids:** 7007035725
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Trucco A.
+140.
+   - **Title:** Camera to record underwater particles using simultaneous in-line and off-axis hologrammetry and its associated replay facility
+   - **Venue:** Conference on Lasers and Electro Optics Europe Technical Digest
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0033714163
+   - **Pages:** 329
+   - **Authors:** Hobson P. R.; Chalvidan V.; Craig G.; Foresti G. L.; Gentili S.; Lampitt R. S.; Lucas-Leclin B.; Nareid H.; Nebrensky J. J.; Pescetto A.; Pieroni G. G.; Player M. A.; Serpico S.; Tipping K.; Trucco A.; Watson J.
+   - **Source Id:** 60644
+   - **Author Ids:** 35778258500;6506314805;7101867237;7006427233;7004229097;7004317264;6506652411;6602567713;6602213411;6506761928;35584434700;23002014900;7005306316;7801508249;7007035725;35396124700
+   - **Authoraffiliationids:** 60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623
+   - **Corresponding:** Hobson P.
+141.
+   - **Title:** Data extraction system for underwater particle holography
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-0033712635
+   - **ISSN:** 0277786X
+   - **Volume:** 4076
+   - **Pages:** 120-129
+   - **Authors:** Nebrensky J. J.; Craig G.; Hobson P. R.; Lampitt R. S.; Nareid H.; Pescetto A.; Trucco A.; Watson J.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 6602213411;7101867237;35778258500;7004317264;6602567713;6506761928;7007035725;35396124700
+   - **Authoraffiliationids:** 60020623;60020623;60020623;60020623;60020623;60020623;60020623;60020623
+   - **Corresponding:** Nebrensky J.
+142.
+   - **Title:** Three-dimensional image generation processing in underwater acoustic vision
+   - **Venue:** Proceedings of the IEEE
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 201
+   - **DOI:** 10.1109/5.899059
+   - **Scopus ID:** 2-s2.0-0001731180
+   - **ISSN:** 00189219
+   - **Volume:** 88
+   - **Issue:** 12
+   - **Pages:** 1903-1946
+   - **Authors:** Murino Vittorio; Trucco Andrea
+   - **Keywords:** Acoustic vision | Array signal processing | Biomedical acoustic imaging | Image analysis | Image processing | Image reconstruction | Image segmentation | Object recognition | Pattern recognition | Undemater technology | Underwater acoustic imaging
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 3, percentile 99)
+     - Computer Science (all) (Q1, rank 2, percentile 99)
+   - **Source Id:** 17915
+   - **Author Ids:** 7006595496;7007035725
+   - **Authoraffiliationids:** 60032256;60025153
+   - **Corresponding:** Murino V.
+143.
+   - **Title:** Segmentation of underwater 3D acoustical images for augmented and virtual reality applications
+   - **Venue:** Oceans Conference Record IEEE
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **Scopus ID:** 2-s2.0-0033350546
+   - **ISSN:** 01977385
+   - **Volume:** 1
+   - **Pages:** 459-465
+   - **Authors:** Giannitrapani Riccardo; Trucco Andrea; Murino Vittorio
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q3, rank 84, percentile 28)
+     - Oceanography (Q4, rank 117, percentile 23)
+   - **Source Id:** 13654
+   - **Author Ids:** 6603048859;7007035725;7006595496
+   - **Authoraffiliationids:** 60025965;60025965;60025965
+   - **Corresponding:** Giannitrapani R.
+144.
+   - **Title:** Buried object detection by auto-regressive pre-whitening
+   - **Venue:** Oceans Conference Record IEEE
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-0033313870
+   - **ISSN:** 01977385
+   - **Volume:** 1
+   - **Pages:** 126-132
+   - **Authors:** Trucco Andrea; Di Serio Stefano; Murino Vittorio
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q3, rank 84, percentile 28)
+     - Oceanography (Q4, rank 117, percentile 23)
+   - **Source Id:** 13654
+   - **Author Ids:** 7007035725;57498939700;7006595496
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Trucco A.
+145.
+   - **Title:** Probabilistic reconstruction of underwater 3D acoustic maps
+   - **Venue:** Acustica
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0033279790
+   - **ISSN:** 00017884
+   - **Volume:** 85
+   - **Issue:** 2
+   - **Pages:** 197-202
+   - **Authors:** Trucco Andrea
+   - **Source Id:** 110306
+   - **Author Ids:** 7007035725
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Trucco A.
+146.
+   - **Title:** A confidence-based approach to enhancing underwater acoustic image formation
+   - **Venue:** IEEE Transactions on Image Processing
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 21
+   - **DOI:** 10.1109/83.743860
+   - **Scopus ID:** 2-s2.0-0033078070
+   - **ISSN:** 10577149
+   - **Volume:** 8
+   - **Issue:** 2
+   - **Pages:** 270-285
+   - **Authors:** Murino Vittorio; Trucco Andrea
+   - **Keywords:** Acoustic imaging | Image enhancement | Image generation | Underwater acoustics
+   - **Quartile:**
+     2025:
+     - Computer Graphics and Computer-Aided Design (Q1, rank 3, percentile 98)
+     - Software (Q1, rank 15, percentile 97)
+   - **Source Id:** 25534
+   - **Author Ids:** 7006595496;7007035725
+   - **Authoraffiliationids:** 60000251-60032256;60000251-60025153
+   - **Corresponding:** Murino V.
+147.
+   - **Title:** Stochastic optimization of linear sparse arrays
+   - **Venue:** IEEE Journal of Oceanic Engineering
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 172
+   - **DOI:** 10.1109/48.775291
+   - **Scopus ID:** 2-s2.0-0032688009
+   - **ISSN:** 03649059
+   - **Volume:** 24
+   - **Issue:** 3
+   - **Pages:** 291-298
+   - **Authors:** Trucco Andrea; Murino Vittorio
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 11, percentile 90)
+     - Mechanical Engineering (Q1, rank 88, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 86)
+   - **Source Id:** 17277
+   - **Author Ids:** 7007035725;7006595496
+   - **Authoraffiliationids:** 60025153;60032256
+   - **Corresponding:** Trucco A.
+148.
+   - **Title:** Thinning and weighting of large planar arrays by simulated annealing
+   - **Venue:** IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 210
+   - **DOI:** 10.1109/58.753023
+   - **Scopus ID:** 2-s2.0-0033100608
+   - **ISSN:** 08853010
+   - **Volume:** 46
+   - **Issue:** 2
+   - **Pages:** 347-355
+   - **Authors:** Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q1, rank 4, percentile 93)
+     - Instrumentation (Q1, rank 20, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 138, percentile 86)
+   - **Source Id:** 12998
+   - **Author Ids:** 7007035725
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Trucco A.
+149.
+   - **Title:** A geometrical approach to the surface-fitting problem in underwater three-dimensional acoustic images
+   - **Venue:** Measurement Science and Technology
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1088/0957-0233/10/12/304
+   - **Scopus ID:** 2-s2.0-0033502786
+   - **ISSN:** 09570233
+   - **Volume:** 10
+   - **Issue:** 12
+   - **Pages:** 1135-1141
+   - **Authors:** Murino Vittorio; Trucco Andrea
+   - **Keywords:** Geometrical approaches | Surface fitting | Three-dimensional acoustic imaging | Underwater vision
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 109, percentile 83)
+     - Instrumentation (Q2, rank 48, percentile 74)
+     - Engineering (miscellaneous) (Q2, rank 81, percentile 71)
+   - **Source Id:** 15526
+   - **Author Ids:** 7006595496;7007035725
+   - **Authoraffiliationids:** 60032256;60025153
+   - **Corresponding:** Murino V.
+150.
+   - **Title:** Sonic imaging in air by a low-cost system
+   - **Venue:** Acoustics Letters
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-1842739271
+   - **ISSN:** 01401599
+   - **Volume:** 21
+   - **Issue:** 5
+   - **Pages:** 88-91
+   - **Authors:** Trucco Andrea
+   - **Source Id:** 12939
+   - **Author Ids:** 7007035725
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Trucco A.
+151.
+   - **Title:** Statistical and neural techniques to buried object detection and classification
+   - **Venue:** Oceans Conference Record IEEE
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0032256918
+   - **ISSN:** 01977385
+   - **Volume:** 3
+   - **Pages:** 1269-1273
+   - **Authors:** Granara M.; Pescetto A.; Repetto F.; Tacconi G.; Trucco A.
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q3, rank 84, percentile 28)
+     - Oceanography (Q4, rank 117, percentile 23)
+   - **Source Id:** 13654
+   - **Author Ids:** 6508116928;6506761928;7003510422;7003915727;7007035725
+   - **Authoraffiliationids:** 100854094;100854094;100854094;100854094;100854094
+   - **Corresponding:** Granara M.
+152.
+   - **Title:** A probabilistic approach to the coupled reconstruction and restoration of underwater acoustic images
+   - **Venue:** IEEE Transactions on Pattern Analysis and Machine Intelligence
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 33
+   - **DOI:** 10.1109/34.655646
+   - **Scopus ID:** 2-s2.0-0031648527
+   - **ISSN:** 01628828
+   - **Volume:** 20
+   - **Issue:** 1
+   - **Pages:** 9-22
+   - **Authors:** Murino Vittorio; Trucco Andrea; Regazzoni Carlo S.
+   - **Keywords:** Beamforming | Confidence-based approach | Markov random fields | Physics-based vision | Reconstruction | Restoration | Underwater acoustic imaging
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 1, percentile 99)
+     - Computational Theory and Mathematics (Q1, rank 1, percentile 99)
+     - Software (Q1, rank 3, percentile 99)
+     - Artificial Intelligence (Q1, rank 4, percentile 99)
+     - Computer Vision and Pattern Recognition (Q1, rank 2, percentile 99)
+   - **Source Id:** 24254
+   - **Author Ids:** 7006595496;7007035725;35513672400
+   - **Authoraffiliationids:** 60025965;60025153;60025153
+   - **Corresponding:** Murino V.
+153.
+   - **Title:** Cell location with front-scan sonar systems
+   - **Venue:** Acoustics Letters
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0011237612
+   - **ISSN:** 01401599
+   - **Volume:** 21
+   - **Issue:** 4
+   - **Pages:** 65-68
+   - **Authors:** Trucco Andrea; Pedemonte Alessandro; Pescetto Alessandro
+   - **Source Id:** 12939
+   - **Author Ids:** 7007035725;57508178700;6506761928
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Trucco A.
+154.
+   - **Title:** Edge/region-based segmentation and reconstruction of underwater acoustic images by Markov random fields
+   - **Venue:** Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition
+   - **Year:** 1998
+   - **Type:** Unknown
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/CVPR.1998.698638
+   - **Scopus ID:** 2-s2.0-0032293272
+   - **ISSN:** 10636919
+   - **Pages:** 408-413
+   - **Authors:** Murino Vittorio; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q1, rank 1, percentile 99)
+     - Software (Q1, rank 2, percentile 99)
+   - **Source Id:** 24212
+   - **Author Ids:** 7006595496;7007035725
+   - **Authoraffiliationids:** 60025965;60025965
+   - **Corresponding:** Murino V.
+155.
+   - **Title:** A least-squares approximation for the delays used in focused beamforming
+   - **Venue:** Journal of the Acoustical Society of America
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 34
+   - **DOI:** 10.1121/1.423286
+   - **Scopus ID:** 2-s2.0-0031829751
+   - **ISSN:** 00014966
+   - **Volume:** 104
+   - **Issue:** 1
+   - **Pages:** 171-175
+   - **Authors:** Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Arts and Humanities (miscellaneous) (Q1, rank 96, percentile 85)
+     - Acoustics and Ultrasonics (Q2, rank 15, percentile 72)
+   - **Source Id:** 12936
+   - **Author Ids:** 7007035725
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Trucco A.
+156.
+   - **Title:** Iterative model reconstruction for phase unwrapping
+   - **Venue:** European Space Agency Special Publication ESA SP
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-5244238710
+   - **ISSN:** 03796566
+   - **Issue:** 414 Part 3
+   - **Pages:** 1707-1710
+   - **Authors:** Smits P. C.; Trucco A.; Bo G.; Vernazza G.
+   - **Source Id:** 27179
+   - **Author Ids:** 7102366572;7007035725;36979606600;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60032259
+   - **Corresponding:** Smits P.
+157.
+   - **Title:** Synthesis of aperiodic planar arrays by a stochastic approach
+   - **Venue:** Oceans Conference Record IEEE
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **Scopus ID:** 2-s2.0-0031355189
+   - **ISSN:** 01977385
+   - **Volume:** 2
+   - **Pages:** 820-825
+   - **Authors:** Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q3, rank 84, percentile 28)
+     - Oceanography (Q4, rank 117, percentile 23)
+   - **Source Id:** 13654
+   - **Author Ids:** 7007035725
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Trucco A.
+158.
+   - **Title:** On nonlinear effects of envelope detection in beamforming systems
+   - **Venue:** IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1109/58.655212
+   - **Scopus ID:** 2-s2.0-0031190711
+   - **ISSN:** 08853010
+   - **Volume:** 44
+   - **Issue:** 4
+   - **Pages:** 948-952
+   - **Authors:** Trucco Andrea; Murino Vittorio
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q1, rank 4, percentile 93)
+     - Instrumentation (Q1, rank 20, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 138, percentile 86)
+   - **Source Id:** 12998
+   - **Author Ids:** 7007035725;7006595496
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Trucco A.
+159.
+   - **Title:** Synthesis of sparse planar arrays
+   - **Venue:** Electronics Letters
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 51
+   - **DOI:** 10.1049/el:19971261
+   - **Scopus ID:** 2-s2.0-0031245484
+   - **ISSN:** 00135194
+   - **Volume:** 33
+   - **Issue:** 22
+   - **Pages:** 1834-1835
+   - **Authors:** Trucco A.; Omodei E.; Repetto P.
+   - **Keywords:** Acoustic imaging | Beamfarming arrays
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 624, percentile 37)
+   - **Source Id:** 24918
+   - **Author Ids:** 7007035725;6505832316;57225676218
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Trucco A.
+160.
+   - **Title:** Enlarging the scanning region of a focused beamforming system
+   - **Venue:** Electronics Letters
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1049/el:19970999
+   - **Scopus ID:** 2-s2.0-0031199353
+   - **ISSN:** 00135194
+   - **Volume:** 33
+   - **Issue:** 17
+   - **Pages:** 1502-1504
+   - **Authors:** Trucco A.
+   - **Keywords:** Acoustic imaging | Beamforming arrays
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 624, percentile 37)
+   - **Source Id:** 24918
+   - **Author Ids:** 7007035725
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Trucco A.
+161.
+   - **Title:** Object pose estimation in underwater acoustic images
+   - **Venue:** IEEE International Conference on Image Processing
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-84961725621
+   - **Volume:** 1
+   - **Pages:** 873-876
+   - **Authors:** Murino Vittorio; Foresti Gian Luca; Trucco Andrea
+   - **Source Id:** 92868
+   - **Author Ids:** 7006595496;7006427233;7007035725
+   - **Authoraffiliationids:** 60025965;60025965;60025965
+   - **Corresponding:** Murino V.
+162.
+   - **Title:** Markov-based methodology for the restoration of underwater acoustic images
+   - **Venue:** International Journal of Imaging Systems and Technology
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1002/(SICI)1098-1098(1997)8:4<386::AID-IMA5>3.0.CO;2-6
+   - **Scopus ID:** 2-s2.0-0030673779
+   - **ISSN:** 08999457
+   - **Volume:** 8
+   - **Issue:** 4
+   - **Pages:** 386-395
+   - **Authors:** Murino Vittorio; Trucco Andrea
+   - **Keywords:** Markov random fields | Reconstruction | Restoration | Underwater acoustic imaging
+   - **Quartile:**
+     2025:
+     - Radiology, Nuclear Medicine and Imaging (Q1, rank 54, percentile 84)
+     - Computer Vision and Pattern Recognition (Q1, rank 40, percentile 76)
+     - Computer Science Applications (Q2, rank 274, percentile 72)
+     - Health Informatics (Q2, rank 46, percentile 72)
+     - Biomedical Engineering (Q2, rank 121, percentile 63)
+   - **Source Id:** 35932
+   - **Author Ids:** 7006595496;7007035725
+   - **Authoraffiliationids:** 60025965;60025153
+   - **Corresponding:** Murino V.
+163.
+   - **Title:** A voting-based approach for fast object recognition in underwater acoustic images
+   - **Venue:** IEEE Journal of Oceanic Engineering
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 29
+   - **DOI:** 10.1109/48.557540
+   - **Scopus ID:** 2-s2.0-0030644992
+   - **ISSN:** 03649059
+   - **Volume:** 22
+   - **Issue:** 1
+   - **Pages:** 57-65
+   - **Authors:** Foresti Gian Luca; Murino Vittorio; Regazzoni Carlo S.; Trucco Andrea
+   - **Keywords:** Acoustic imaging | Image line pattern recognition | Object attitude estimation | Object recognition | Underwater vehicles | Voting methods
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q1, rank 11, percentile 90)
+     - Mechanical Engineering (Q1, rank 88, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 86)
+   - **Source Id:** 17277
+   - **Author Ids:** 7006427233;7006595496;35513672400;7007035725
+   - **Authoraffiliationids:** 60025965-60025153-60000251;60025965-60025153-60000251;60025153-60000251;60025153-100794112
+   - **Corresponding:** Foresti G.
+164.
+   - **Title:** Beam pattern formulation and analysis for wide-band beamforming systems using sparse arrays
+   - **Venue:** Signal Processing
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 43
+   - **DOI:** 10.1016/s0165-1684(96)00166-1
+   - **Scopus ID:** 2-s2.0-0030644108
+   - **ISSN:** 01651684
+   - **Volume:** 56
+   - **Issue:** 2
+   - **Pages:** 177-183
+   - **Authors:** Murino Vittorio; Trucco Andrea; Tesei Alessandra
+   - **Keywords:** Acoustic imaging | Sparse arrays | Wide-band beamforming
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 25, percentile 87)
+     - Computer Vision and Pattern Recognition (Q1, rank 27, percentile 84)
+     - Electrical and Electronic Engineering (Q1, rank 166, percentile 83)
+     - Control and Systems Engineering (Q1, rank 71, percentile 81)
+     - Software (Q1, rank 101, percentile 79)
+   - **Source Id:** 25548
+   - **Author Ids:** 7006595496;7007035725;55535266800
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Murino V.
+165.
+   - **Title:** A co-operative approach to feature extraction from acoustic images
+   - **Venue:** Applied Signal Processing
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-8544224307
+   - **ISSN:** 09410635
+   - **Volume:** 3
+   - **Issue:** 3
+   - **Pages:** 128-135
+   - **Authors:** Murino Vittorio; Trucco Andrea
+   - **Keywords:** Acoustic imaging | Echo detection | Feature extraction | Sonar imaging | Underwater vision | Voting methods
+   - **Source Id:** 83499
+   - **Author Ids:** 7006595496;7007035725
+   - **Authoraffiliationids:** 60025965;60025153
+   - **Corresponding:** Murino V.
+166.
+   - **Title:** Spurious effects reduction by the reconstruction of acoustic images from bispectrum
+   - **Venue:** IEEE International Conference on Image Processing
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0030394870
+   - **Volume:** 3
+   - **Pages:** 571-574
+   - **Authors:** Trucco Andrea; Ottonello Cinthya; Murino Vittorio
+   - **Source Id:** 92868
+   - **Author Ids:** 7007035725;56715967000;7006595496
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Trucco A.
+167.
+   - **Title:** Stochastic approach to optimizing the aperture and the number of elements of an aperiodic array
+   - **Venue:** Oceans Conference Record IEEE
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 22
+   - **Scopus ID:** 2-s2.0-0030386349
+   - **ISSN:** 01977385
+   - **Volume:** 3
+   - **Pages:** 1510-1515
+   - **Authors:** Trucco Andrea; Repetto Francesco
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q3, rank 84, percentile 28)
+     - Oceanography (Q4, rank 117, percentile 23)
+   - **Source Id:** 13654
+   - **Author Ids:** 7007035725;7003510422
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Trucco A.
+168.
+   - **Title:** Synthesis of unequally spaced arrays by simulated annealing
+   - **Venue:** IEEE Transactions on Signal Processing
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 346
+   - **DOI:** 10.1109/78.482017
+   - **Scopus ID:** 2-s2.0-0029733612
+   - **ISSN:** 1053587X
+   - **Volume:** 44
+   - **Issue:** 1
+   - **Pages:** 119-123
+   - **Authors:** Murino Vittorio; Trucco Andrea; Regazzoni Carlo S.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 79, percentile 92)
+     - Signal Processing (Q1, rank 18, percentile 91)
+   - **Source Id:** 17391
+   - **Author Ids:** 7006595496;7007035725;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Murino V.
+169.
+   - **Title:** Significance of envelope detection in underwater acoustic imaging systems
+   - **Venue:** Proceedings of the IEEE Symposium on Autonomous Underwater Vehicle Technology
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0029701045
+   - **Pages:** 179-184
+   - **Authors:** Trucco Andrea; Murino Vittorio
+   - **Source Id:** 27299
+   - **Author Ids:** 7007035725;7006595496
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Trucco A.
+170.
+   - **Title:** Markov random field approach for restoration of underwater acoustic images
+   - **Venue:** Oceans Conference Record IEEE
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0029546435
+   - **ISSN:** 01977385
+   - **Volume:** 3
+   - **Pages:** 1900-1906
+   - **Authors:** Murino Vittorio; Frumento Enrico; Gabino Flavio; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q3, rank 84, percentile 28)
+     - Oceanography (Q4, rank 117, percentile 23)
+   - **Source Id:** 13654
+   - **Author Ids:** 7006595496;6507550337;6507051858;7007035725
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Murino V.
+171.
+   - **Title:** Hybrid approach for accurate echo detection in the formation of acoustic images
+   - **Venue:** Oceans Conference Record IEEE
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0029491579
+   - **ISSN:** 01977385
+   - **Volume:** 3
+   - **Pages:** 1877-1882
+   - **Authors:** Murino Vittorio; Trucco Andrea
+   - **Quartile:**
+     2025:
+     - Ocean Engineering (Q3, rank 84, percentile 28)
+     - Oceanography (Q4, rank 117, percentile 23)
+   - **Source Id:** 13654
+   - **Author Ids:** 7006595496;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Murino V.
+172.
+   - **Title:** A fast object orientation estimation and recognition technique for underwater acoustic imaging
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 1995
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/3-540-60298-4_337
+   - **Scopus ID:** 2-s2.0-84947748158
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 974
+   - **Pages:** 715-720
+   - **Authors:** Tesei Alessandra; Trucco Andrea; Zambonini Daniele
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 55535266800;7007035725;56971398300
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Tesei A.
+173.
+   - **Title:** Underwater 3D imaging by FFT dynamic focusing beamforming
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 1994
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 23
+   - **DOI:** 10.1109/ICIP.1994.413242
+   - **Scopus ID:** 2-s2.0-84996523402
+   - **ISSN:** 15224880
+   - **Volume:** 1
+   - **Pages:** 890-894
+   - **Authors:** Murino V.; Trucco A.
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 7006595496;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Murino V.
+174.
+   - **Title:** Acoustic image improvement by confidence levels
+   - **Venue:** Proceedings of the IEEE Ultrasonics Symposium
+   - **Year:** 1994
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ultsym.1994.401844
+   - **Scopus ID:** 2-s2.0-0028751391
+   - **ISSN:** 10510117
+   - **Volume:** 3
+   - **Pages:** 1367-1370
+   - **Authors:** Murino Vittorio; Trucco Andrea
+   - **Source Id:** 101599
+   - **Author Ids:** 7006595496;7007035725
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Murino V.
+175.
+   - **Title:** A Noncoherent Correlation Technique and Focused Beamforming for Ultrasonic Underwater Imaging: A Comparative Analysis
+   - **Venue:** IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control
+   - **Year:** 1994
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 27
+   - **DOI:** 10.1109/58.308497
+   - **Scopus ID:** 2-s2.0-0028501058
+   - **ISSN:** 08853010
+   - **Volume:** 41
+   - **Issue:** 5
+   - **Pages:** 621-630
+   - **Authors:** Murino Vittorio; Regazzoni Carlo S.; Trucco Andrea; Vernazza Gianni
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q1, rank 4, percentile 93)
+     - Instrumentation (Q1, rank 20, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 138, percentile 86)
+   - **Source Id:** 12998
+   - **Author Ids:** 7006595496;35513672400;7007035725;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Murino V.

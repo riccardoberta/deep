@@ -1,0 +1,1042 @@
+{
+  "surname": "Tortora",
+  "name": "Matteo",
+  "unit": "ELE",
+  "email": "matteo.tortora@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/UkFAW11u",
+  "website": "",
+  "unige_id": "727077",
+  "scopus_id": "57219050694",
+  "role": "Ricercatore",
+  "grade": "Ricercatore t.d. art. 24 c. 3 lett. A Legge 240/10 (t.pieno)",
+  "ssd": "IIND-08/B (Sistemi elettrici per l'energia)",
+  "location": [],
+  "career": [
+    {
+      "role": "RD",
+      "from": "2024-08-01 00:00:00.0000000",
+      "to": "2027-07-31 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {},
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 6,
+      "total_products": 16,
+      "journals": 8,
+      "conferences": 7,
+      "citations": 110,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 6,
+      "total_products": 16,
+      "journals": 8,
+      "conferences": 7,
+      "citations": 110,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 6,
+      "total_products": 16,
+      "journals": 8,
+      "conferences": 7,
+      "citations": 110,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 6,
+      "total_products": 16,
+      "journals": 8,
+      "conferences": 7,
+      "citations": 110,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-85218433800",
+      "title": "Erratum: Correction: Machine learning predicts pulmonary long Covid sequelae using clinical data (BMC medical informatics and decision making (2024) 24 1 DOI: 10.1186/s12911-024-02745-3.)",
+      "doi": "10.1186/s12911-025-02918-8",
+      "venue": "BMC Medical Informatics and Decision Making",
+      "type": "Journal",
+      "sub_type": "Erratum",
+      "year": 2025,
+      "volume": "25",
+      "issue_id": "1",
+      "pages": "68",
+      "issn": null,
+      "eIssn": "14726947",
+      "source_id": "23602",
+      "authors": "Cordelli Ermanno; Soda Paolo; Citter Sara; Schiavon Elia; Salvatore Christian; Fazzini Deborah; Clementi Greta; Cellina Michaela; Cozzi Andrea; Bortolotto Chandra; Preda Lorenzo; Francini Luisa; Tortora Matteo; Castiglioni Isabella; Papa Sergio; Sona Diego; Alì Marco",
+      "author_ids": "50861065300;22036116900;59445794000;57409784900;55517025900;57207453088;58172076300;37058609300;57200316191;36898193500;7005579364;57226177374;57219050694;6603570829;57195054331;55945221700;56997951000",
+      "authorAffiliationIds": "60005308;60005308-60031040;60083112-60015986;122934984;122934984-60105475;100320384;100320384;60110962;129013265;60015197-60026556;60015197-60026556;60005308;60005308-60025153;60012306;100320384;60083112;100320384-60102062",
+      "corresponding": "Cordelli E.",
+      "keywords": null,
+      "abstract": null,
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Health Policy",
+              "percentile": 93,
+              "rank": 23,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Health Informatics",
+              "percentile": 81,
+              "rank": 31,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 79,
+              "rank": 202,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105014144694",
+      "title": "Deep learning for human locomotion analysis in lower-limb exoskeletons: a comparative study",
+      "doi": "10.3389/fcomp.2025.1597143",
+      "venue": "Frontiers in Computer Science",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "7",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "26249898",
+      "source_id": "21101062832",
+      "authors": "Coser Omar; Tamantini Christian; Tortora Matteo; Furia Leonardo; Sicilia Rosa; Zollo Loredana; Soda Paolo",
+      "author_ids": "58896480000;57215525489;57219050694;58885337700;57201738807;55902740000;22036116900",
+      "authorAffiliationIds": "60005308;60005308-60012572;60005308-60025153;60005308;60005308;60005308;60005308-60031040",
+      "corresponding": "Coser O.",
+      "keywords": "deep learning | explainable AI | human locomotion | multimodal learning | neural networks",
+      "abstract": "Introduction: Wearable robotics for lower-limb assistance is increasingly investigated to enhance mobility in individuals with physical impairments and to augment performance in able-bodied users. A major challenge in this domain is the development of accurate and adaptive control systems that ensure seamless human-robot interaction across diverse terrains. While neural networks have recently shown promise in time-series analysis, no prior work has tackled the combined task of classifying ground conditions into five terrain classes and estimating high-level locomotion parameters such as ramp slope and stair height. Methods: This study presents an experimental comparison of eight deep neural network architectures for terrain classification and locomotion parameter estimation. The models are trained on the publicly available CAMARGO 2021 dataset using inertial (IMU) and electromyographic (EMG) signals. Particular attention is given to evaluating the performance of IMU-only inputs versus combined IMU+EMG data, with an emphasis on cost-efficiency and sensor minimization. The tested architectures include LSTM, CNN, and hybrid CNN-LSTM models, among others. Model explainability is assessed via SHAP analysis to guide sensor selection. Results: IMU-only configurations matched or outperformed those using both IMU and EMG, supporting a more efficient setup. The LSTM model, using only three IMU sensors, achieved high terrain classification accuracy (0.94 ± 0.04) and reliably estimated ramp slopes (1.95 ± 0.58°). The CNN-LSTM architecture demonstrated superior performance in stair height estimation, achieving a accuracy of 15.65 ± 7.40 mm. SHAP analysis confirmed that sensor reduction did not compromise model accuracy. Discussion: The results highlight the feasibility of using lightweight, IMU-only setups for real-time terrain classification and locomotion parameter estimation. The proposed system achieves an inference time of ~2 ms, making it suitable for real-time wearable robotics applications. This study paves the way for more accessible and deployable solutions in assistive and augmentative lower-limb robotic systems. Code and models are publicly available at: [https://github.com/cosbidev/Human-Locomotion-Identification].",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Vision and Pattern Recognition",
+              "percentile": 73,
+              "rank": 46,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Science (miscellaneous)",
+              "percentile": 69,
+              "rank": 54,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 68,
+              "rank": 310,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 55,
+              "rank": 85,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105010582966",
+      "title": "Can Foundation Models Really Segment Tumors? A Benchmarking Odyssey in Lung CT Imaging",
+      "doi": "10.1109/CBMS65348.2025.00083",
+      "venue": "Proceedings IEEE Symposium on Computer Based Medical Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": "375-380",
+      "issn": "10637125",
+      "eIssn": null,
+      "source_id": "23681",
+      "authors": "Ayllon Elena Mulero; Mantegna Massimiliano; Shen Linlin; Soda Paolo; Guarrasi Valerio; Tortora Matteo",
+      "author_ids": "59353441200;59863779900;7401704647;22036116900;57219750978;57219050694",
+      "authorAffiliationIds": "60005308;60005308;60000937;60005308-60031040;60005308;60025153",
+      "corresponding": "Ayllon E.M.",
+      "keywords": "Foundation Models | Lung Cancer | Medical Imaging | MedSAM | SAM | Segmentation",
+      "abstract": "Accurate lung tumor segmentation is crucial for improving diagnosis, treatment planning, and patient outcomes in oncology. However, the complexity of tumor morphology, size, and location poses significant challenges for automated segmentation. This study presents a comprehensive benchmarking analysis of deep learning-based segmentation models, comparing traditional architectures such as U-Net and DeepLabV3, selfconfiguring models like nnUNet, and foundation models like MedSAM, and MedSAM 2. Evaluating performance across two lung tumor segmentation datasets, we assess segmentation accuracy and computational efficiency under various learning paradigms, including few-shot learning and fine-tuning. The results reveal that while traditional models struggle with tumor delineation, foundation models, particularly MedSAM 2, outperform them in both accuracy and computational efficiency. These findings underscore the potential of foundation models for lung tumor segmentation, highlighting their applicability in improving clinical workflows and patient outcomes.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Radiology, Nuclear Medicine and Imaging",
+              "percentile": 34,
+              "rank": 233,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 32,
+              "rank": 665,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105004792609",
+      "title": "Benchmarking GAN-Based vs Classical Data Augmentation on Biomedical Images",
+      "doi": "10.1007/978-3-031-87660-8_7",
+      "venue": "Lecture Notes in Computer Science",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "15615 LNCS",
+      "issue_id": null,
+      "pages": "92-104",
+      "issn": "03029743",
+      "eIssn": "16113349",
+      "source_id": "25674",
+      "authors": "Mantegna Massimiliano; Tronchin Lorenzo; Tortora Matteo; Soda Paolo",
+      "author_ids": "59863779900;57219258227;57219050694;22036116900",
+      "authorAffiliationIds": "60005308-126413140;60031040;60025153;60005308-60031040",
+      "corresponding": "Mantegna M.",
+      "keywords": "Data Augmentation | Deep Learning | GANs | Medical imaging | MedMNIST",
+      "abstract": "The medical field faces significant data shortages due to the high image acquisition and maintenance costs. Data Augmentation aims to mitigate this by increasing data availability and enhancing image generalization. However, traditional DA methods often produce data with limited quality and diversity. Generative Adversarial Networks present a promising alternative, offering potential solutions to data scarcity issues. This paper evaluates the impact of GAN-based data augmentation in medical imaging and provides a benchmark for the efficacy of synthetic data in downstream classification tasks. To this aim, we performed a wide set of tests using three different GAN architectures on six 2D datasets from the standardized MedMNIST biomedical image collection, conducting a total of 696 experiments. Our results reveal that while GAN-based DA methods show promise with low-dimensional datasets, traditional DA methods still outperform them.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 48,
+              "rank": 70,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 46,
+              "rank": 129,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85210516904",
+      "title": "Machine learning predicts pulmonary Long Covid sequelae using clinical data",
+      "doi": "10.1186/s12911-024-02745-3",
+      "venue": "BMC Medical Informatics and Decision Making",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "24",
+      "issue_id": "1",
+      "pages": null,
+      "issn": null,
+      "eIssn": "14726947",
+      "source_id": "23602",
+      "authors": "Cordelli Ermanno; Soda Paolo; Citter Sara; Schiavon Elia; Salvatore Christian; Fazzini Deborah; Clementi Greta; Cellina Michaela; Cozzi Andrea; Bortolotto Chandra; Preda Lorenzo; Francini Luisa; Tortora Matteo; Castiglioni Isabella; Papa Sergio; Sona Diego; Alì Marco",
+      "author_ids": "50861065300;22036116900;59445794000;57409784900;55517025900;57207453088;58172076300;37058609300;57200316191;36898193500;7005579364;57226177374;57219050694;6603570829;57195054331;55945221700;56997951000",
+      "authorAffiliationIds": "60005308;60005308-60031040;60083112-60015986;122934984;122934984-60105475;100320384;100320384;60110962;60046817;60015197-60026556;60015197-60026556;60005308;60005308-60025153;60012306;100320384;60083112;100320384-60102062",
+      "corresponding": "Cordelli E.",
+      "keywords": "Artificial intelligence | Long-COVID | Multimodal learning | Post-COVID syndrome | Prognosis",
+      "abstract": "Long COVID is a multi-systemic disease characterized by the persistence or occurrence of many symptoms that in many cases affect the pulmonary system. These, in turn, may deteriorate the patient’s quality of life making it easier to develop severe complications. Being able to predict this syndrome is therefore important as this enables early treatment. In this work, we investigated three machine learning approaches that use clinical data collected at the time of hospitalization to this goal. The first works with all the descriptors feeding a traditional shallow learner, the second exploits the benefits of an ensemble of classifiers, and the third is driven by the intrinsic multimodality of the data so that different models learn complementary information. The experiments on a new cohort of data from 152 patients show that it is possible to predict pulmonary Long Covid sequelae with an accuracy of up to 94%. As a further contribution, this work also publicly discloses the related data repository to foster research in this field.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Health Policy",
+              "percentile": 93,
+              "rank": 23,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Health Informatics",
+              "percentile": 81,
+              "rank": 31,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 79,
+              "rank": 202,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Health Policy",
+              "percentile": 91,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 78,
+              "rank": 206,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Health Informatics",
+              "percentile": 77,
+              "rank": 35,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85205587545",
+      "title": "Virtual Scanner: Leveraging Resilient Generative AI for Radiological Imaging in the Era of Medical Digital Twins",
+      "doi": null,
+      "venue": "Ceur Workshop Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": "3762",
+      "issue_id": null,
+      "pages": "12-17",
+      "issn": "16130073",
+      "eIssn": null,
+      "source_id": "21100218356",
+      "authors": "Adornato Carolina; Assolito Cecilia; Cordelli Ermanno; Di Feola Francesco; Guarrasi Valerio; Iannello Giulio; Marcoccia Lorenzo; Ayllon Elena Mulero; Restivo Rebecca; Rofena Aurora; Sicilia Rosa; Soda Paolo; Tortora Matteo; Tronchin Lorenzo",
+      "author_ids": "59353018700;59353299300;50861065300;59663039300;57219750978;6701387714;59353724400;59353441200;59352874400;58546772300;57201738807;22036116900;57219050694;57219258227",
+      "authorAffiliationIds": "60005308;60005308;60005308;60005308-60031040;60005308;60005308;60005308;60005308;60005308;60005308;60005308;60005308-60031040;60005308;60005308-60031040",
+      "corresponding": "Adornato C.",
+      "keywords": "Generative Artificial Intelligence | Medical Imaging | Multimodal Learning | Radiology | Resilient AI | Virtual Scanner",
+      "abstract": "Advancements in generative artificial intelligence (AI) are setting the stage for transformative changes in medical imaging, particularly through the development of the Virtual Scanner. This innovative approach leverages resilient generative AI to synthesize radiological images, addressing critical challenges in the field such as data scarcity, patient exposure to radiation, and the limitations of current imaging technologies. By harnessing the power of Generative Adversarial Networks (GANs) and focusing on the resilience of these algorithms, the Virtual Scanner aims to enhance diagnostic accuracy, improve patient care, and fill gaps in multimodal datasets. Our research explores both unimodal and multimodal techniques, including GAN ensembles, latent augmentation, and advanced texture synthesis, to create robust and adaptable generative models. Through extensive experimentation and analysis, we demonstrate the potential of the Virtual Scanner to revolutionize medical diagnostics by providing a safer, more efficient, and comprehensive imaging solution. The implications of this work extend beyond immediate medical applications, offering insights into the development of AI technologies capable of navigating the complexities of real-world data.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 11,
+              "rank": 214,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 10,
+              "rank": 215,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85205566611",
+      "title": "Towards AI-driven Next Generation Personalized Healthcare and Well-being",
+      "doi": null,
+      "venue": "Ceur Workshop Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": "3762",
+      "issue_id": null,
+      "pages": "534-539",
+      "issn": "16130073",
+      "eIssn": null,
+      "source_id": "21100218356",
+      "authors": "Aksu Fatih; Bria Alessandro; Caragliano Alice Natalina; Caruso Camillo Maria; Chen Wenting; Cordelli Ermanno; Coser Omar; Francesconi Arianna; Furia Leonardo; Guarrasi Valerio; Iannello Giulio; Lauretti Clemente; Manni Guido; Marino Giustino; Paolo Domenico; Ruffini Filippo; Shen Linlin; Sicilia Rosa; Soda Paolo; Tamantini Christian; Tortora Matteo; Wu Zhuoru; Zollo Loredana",
+      "author_ids": "57250752200;55332315800;59353510400;57963063200;57211169509;50861065300;58896480000;59353092400;58885337700;57219750978;6701387714;57190843525;58641157200;59353092500;58640937300;58642094000;7401704647;57201738807;22036116900;57215525489;57219050694;59156444900;55902740000",
+      "authorAffiliationIds": "60107210;60001711;60005308;60005308;60013983;60005308;60005308;60005308;60005308;60005308;60005308;60005308;60005308;60005308;60005308;60005308;60000937;60005308;60005308-60031040;60005308;60005308;60000937;60005308",
+      "corresponding": "Aksu F.",
+      "keywords": "Artificial Intelligence | Healthcare Robotics | Multimodal Learning | Precision Medicine | Resilient AI | Stress Detection",
+      "abstract": "In the last few years Artificial Intelligence (AI) is emerging as a game changer in many areas of society and, in particular, its integration in medicine heralds a transformative approach towards personalized healthcare and well-being, promising significant improvements in diagnostic precision, therapeutic outcomes, and patient care. Our research explores the cutting-edge realms of multimodal AI, resilient AI, and healthcare robotics, aiming to harness the synergy of diverse data modalities and advanced computational models to redefine healthcare paradigms. This multidisciplinary effort seeks to bridge technology and clinical practice, advancing AI-driven next generation personalized healthcare and well-being.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 11,
+              "rank": 214,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 10,
+              "rank": 215,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85178494887",
+      "title": "Deep pathomics: A new image-based tool for predicting response to treatment in stage III non-small cell lung cancer",
+      "doi": "10.1371/journal.pone.0294259",
+      "venue": "Plos One",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "18",
+      "issue_id": "11 November",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19326203",
+      "source_id": "10600153309",
+      "authors": "Nibid Lorenzo; Greco Carlo; Cordelli Ermanno; Sabarese Giovanna; Fiore Michele; Liu Charles Z.; Ippolito Edy; Sicilia Rosa; Miele Marianna; Tortora Matteo; Taffon Chiara; Rakaee Mehrdad; Soda Paolo; Ramella Sara; Perrone Giuseppe",
+      "author_ids": "57226194703;7101808880;50861065300;56925532300;55838511044;57226193181;35319905300;57201738807;57203224752;57219050694;22954946600;57208618182;22036116900;6602902025;56530309600",
+      "authorAffiliationIds": "60005308-60276021;60005308-60276021;60005308;60276021;60005308-60276021;60005308;60005308-60276021;60005308;60005308-60276021;60005308;60005308-60276021;60105391-60002746;60005308-60031040;60005308;60005308",
+      "corresponding": "Nibid L.",
+      "keywords": null,
+      "abstract": "Despite the advantages offered by personalized treatments, there is presently no way to predict response to chemoradiotherapy in patients with non-small cell lung cancer (NSCLC). In this exploratory study, we investigated the application of deep learning techniques to histological tissue slides (deep pathomics), with the aim of predicting the response to therapy in stage III NSCLC. We evaluated 35 digitalized tissue slides (biopsies or surgical specimens) obtained from patients with stage IIIA or IIIB NSCLC. Patients were classified as responders (12/35, 34.7%) or non-responders (23/35, 65.7%) based on the target volume reduction shown on weekly CT scans performed during chemoradiation treatment. Digital tissue slides were tested by five pre-trained convolutional neural networks (CNNs)—AlexNet, VGG, MobileNet, GoogLeNet, and ResNet—using a leave-two patient-out cross validation approach, and we evaluated the networks’ performances. GoogLeNet was globally found to be the best CNN, correctly classifying 8/12 responders and 10/11 non-responders. Moreover, Deep-Pathomics was found to be highly specific (TNr: 90.1) and quite sensitive (TPr: 0.75). Our data showed that AI could surpass the capabilities of all presently available diagnostic systems, supplying additional information beyond that currently obtainable in clinical practice. The ability to predict a patient’s response to treatment could guide the development of new and more effective therapeutic AI-based approaches and could therefore be considered an effective and innovative step forward in personalised medicine.",
+      "citations": 11,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Multidisciplinary",
+              "percentile": 82,
+              "rank": 36,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Multidisciplinary",
+              "percentile": 89,
+              "rank": 18,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85184866583",
+      "title": "Exploring Early Stress Detection from Multimodal Time Series with Deep Reinforcement Learning",
+      "doi": "10.1109/BIBM58861.2023.10385549",
+      "venue": "Proceedings 2023 2023 IEEE International Conference on Bioinformatics and Biomedicine Bibm 2023",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": "1917-1920",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101201213",
+      "authors": "Furia Leonardo; Tortora Matteo; Soda Paolo; Sicilia Rosa",
+      "author_ids": "58885337700;57219050694;22036116900;57201738807",
+      "authorAffiliationIds": "60005308;60005308;60005308-60031040;60005308",
+      "corresponding": "Furia L.",
+      "keywords": "Deep Reinforcement Learning | Early Classification | Stress Detection | Time Series",
+      "abstract": "In our fast-paced world, timely access to information is essential. This urgency is highlighted in stress detection, where swift actions can mitigate harmful psycho-physiological effects. We introduce an early stress detection method using Deep Reinforcement Learning (DRL). This method utilizes DRL to efficiently analyze time series data segments, aiming for accurate and quick stress classification. We employ a dynamic observation window strategy, allowing the DRL agent to adjust based on data complexity. Our evaluations, performed on a public dataset using a Leave-One-Subject-Out (LOSO) method, emphasize DRL's potential in stress detection. The related code is available at https://github.com/cosbidev/DRL-4-Early-Stress-Detection.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85173821377",
+      "title": "Sustainable AI: inside the deep, alongside the green",
+      "doi": null,
+      "venue": "Ceur Workshop Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": "3486",
+      "issue_id": null,
+      "pages": "622-627",
+      "issn": "16130073",
+      "eIssn": null,
+      "source_id": "21100218356",
+      "authors": "Conte Francesco; Cordelli Ermanno; Guarrasi Valerio; Iannello Giulio; Sicilia Rosa; Soda Paolo; Tortora Matteo; Tronchin Lorenzo",
+      "author_ids": "57151673600;50861065300;57219750978;6701387714;57201738807;22036116900;57219050694;57219258227",
+      "authorAffiliationIds": "60005308;60005308;60005308;60005308;60005308;60005308;60005308;60005308",
+      "corresponding": "Conte F.",
+      "keywords": "Artificial Intelligence | Green technology | Sustainable AI",
+      "abstract": "The increasingly inordinate production of productivity-enhancing technologies in today's society has led to an increased risk of damaging the environment from which key resources are derived, if conducted in an uncontrolled manner. It is therefore necessary to optimise strategies to make technological progress more sustainable. Artificial Intelligence (AI) plays a crucial role in this scenario and it is therefore crucial to consider sustainable AI as an integral step in the whole process. In this work we present the results and the topics under investigations in our laboratory focused on the responsible use of AI to meet technological improvement.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 11,
+              "rank": 214,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 15,
+              "rank": 197,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85159837640",
+      "title": "RadioPathomics: Multimodal Learning in Non-Small Cell Lung Cancer for Adaptive Radiotherapy",
+      "doi": "10.1109/ACCESS.2023.3275126",
+      "venue": "IEEE Access",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "11",
+      "issue_id": null,
+      "pages": "47563-47578",
+      "issn": null,
+      "eIssn": "21693536",
+      "source_id": "21100374601",
+      "authors": "Tortora Matteo; Cordelli Ermanno; Sicilia Rosa; Nibid Lorenzo; Ippolito Edy; Perrone Giuseppe; Ramella Sara; Soda Paolo",
+      "author_ids": "57219050694;50861065300;57201738807;57226194703;35319905300;56530309600;6602902025;22036116900",
+      "authorAffiliationIds": "60005308;60005308;60005308;60005308;60005308;60005308;60005308;60005308-60031040",
+      "corresponding": "Tortora M.",
+      "keywords": "Late fusion | machine learning | multimodal learning | non-small-cell lung cancer | pathomics | radiomics",
+      "abstract": "Current practice in cancer treatment collects multimodal data, such as radiology images, histopathology slides, genomics and clinical data. The importance of these data sources taken individually has fostered the recent rise of radiomics and pathomics, i.e., the extraction of quantitative features from radiology and histopathology images collected to predict clinical outcomes or guide clinical decisions using artificial intelligence algorithms. Nevertheless, how to combine them into a single multimodal framework is still an open issue. In this work, we develop a multimodal late fusion approach that combines hand-crafted features computed from radiomics, pathomics and clinical data to predict radiotherapy treatment outcomes for non-small-cell lung cancer patients. Within this context, we investigate eight different late fusion rules and two patient-wise aggregation rules leveraging the richness of information given by CT images, whole-slide scans and clinical data. The experiments in leave-one-patient-out cross-validation on an in-house cohort of 33 patients show that the proposed fusion-based multimodal paradigm, with an AUC equal to 90.9%, outperforms each unimodal approach, suggesting that data integration can advance precision medicine. The results also show that late fusion favourably compares against early fusion, another commonly used multimodal approach. As a further contribution, we explore the chance to use a deep learning framework against hand-crafted features. In our scenario characterised by different modalities and a limited amount of data, as it may happen in different areas of cancer research, the results show that the latter is still a viable and effective option for extracting relevant information with respect to the former.",
+      "citations": 29,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 88,
+              "rank": 42,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 83,
+              "rank": 41,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 78,
+              "rank": 101,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 92,
+              "rank": 23,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 87,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 83,
+              "rank": 77,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85139441625",
+      "title": "Comparison of current methods for anti-dsDNA antibody detection and reshaping diagnostic strategies",
+      "doi": "10.1111/sji.13220",
+      "venue": "Scandinavian Journal of Immunology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "96",
+      "issue_id": "6",
+      "pages": null,
+      "issn": "03009475",
+      "eIssn": "13653083",
+      "source_id": "21357",
+      "authors": "Infantino Maria; Palterer Boaz; Previtali Giulia; Alessio Maria Grazia; Villalta Danilo; Carbone Teresa; Platzgummer Stefan; Paura Giusi; Castiglione Caterina; Fabris Martina; Pesce Giampaola; Porcelli Brunetta; Terzuoli Lucia; Bacarelli Maria Romana; Tampoia Marilina; Cinquanta Luigi; Brusca Ignazio; Buzzolini Francesca; Benucci Maurizio; Tortora Matteo; Tronchin Lorenzo; Guarrasi Valerio; Soda Paolo; Manfredi Mariangela; Bizzaro Nicola",
+      "author_ids": "36965614500;56951095800;55490402600;57207503836;7004275129;55058677500;8654475400;57201632700;57216689009;6603673392;7006017773;7003587601;7003560791;6602988303;6602393031;6701577816;56001373100;57735705300;6602125228;57219050694;57219258227;57219750978;22036116900;8927547000;7006151423",
+      "authorAffiliationIds": "100555723;60021859;60138561;60138561;60046822;125524191;114613506;128100720;60073798;60212208;60107402-60025153;60082057-60002838;60082057-60002838;60082057-60015354;100425514;60104443;60085498;60046822-60085498;100555723;60005308;60005308;60005308-60032350;60005308;100555723;60212208",
+      "corresponding": "Infantino M.",
+      "keywords": "anti-dsDNA antibodies | diagnostic accuracy | immunoassay",
+      "abstract": "Anti–double-stranded DNA antibodies (anti-dsDNA) are considered a specific marker for systemic lupus erythematosus (SLE). Though the Farr technique was once the reference method for their detection, it has been almost entirely replaced by more recently developed assays. However, there is still no solid evidence of the commutability of these methods in terms of diagnostic accuracy and their correlation with the Crithidia luciliae immunofluorescence test (CLIFT). Anti-dsDNA antibody levels were measured in 80 subjects: 24 patients with SLE, 36 disease controls drawn from different autoimmune rheumatic diseases (14 systemic sclerosis, 10 Sjögren's syndrome, nine autoimmune myositis, three mixed connective tissue disease), 10 inflammatory arthritis and 10 apparently healthy blood donors by eight different methods: fluorescence enzyme immunoassay, microdot array, chemiluminescent immunoassay (two assays), multiplex flow immunoassay, particle multi-analyte technology immunoassay and two CLIFT. At the recommended manufacturer cut-off, the sensitivity varied from 67% to 92%, while the specificity ranged from 84% to 98%. Positive agreement among CLIFT and the other assays was higher than negative agreement. Mean agreement among methods assessed by the Cohen's kappa was 0.715, ranging from moderate (0.588) to almost perfect (0.888). Evaluation of the concordance among quantitative values by regression analysis showed a poor correlation index (mean r2, 0.66). The present study shows that current technologies for anti-dsDNA antibody detection are not fully comparable. In particular, their different correlation with CLIFT influences their positioning in the diagnostic algorithm for SLE (either in association or sequentially). Considering the high intermethod variability, harmonization and commutability of anti-dsDNA antibody testing remains an unachieved goal.",
+      "citations": 18,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Immunology",
+              "percentile": 39,
+              "rank": 147,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Immunology",
+              "percentile": 56,
+              "rank": 94,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85141518334",
+      "title": "PyTrack: A Map-Matching-Based Python Toolbox for Vehicle Trajectory Reconstruction",
+      "doi": "10.1109/ACCESS.2022.3216565",
+      "venue": "IEEE Access",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "10",
+      "issue_id": null,
+      "pages": "112713-112720",
+      "issn": null,
+      "eIssn": "21693536",
+      "source_id": "21100374601",
+      "authors": "Tortora Matteo; Cordelli Ermanno; Soda Paolo",
+      "author_ids": "57219050694;50861065300;22036116900",
+      "authorAffiliationIds": "60005308;60005308;60005308",
+      "corresponding": "Tortora M.",
+      "keywords": "global navigation satellite system | hidden Markov model | Intelligent transportation systems | library | map-matching | OpenStreetMap | Python | trajectory",
+      "abstract": "The exponential growth of IoT devices, smartphones, smartwatches, and vehicles equipped with positioning technology, such as Global Positioning System (GPS) modules, has boosted the development of location-based services for several applications in Intelligent Transportation Systems. However, the inherent error of location-based technologies makes it necessary to align the positioning trajectories to the actual underlying road network, a process known as map-matching. To the best of our knowledge, there are no comprehensive tools that allow us to model street networks, conduct topological and spatial analyses of the underlying street graph, perform map-matching processes on GPS point trajectories, and deeply analyse and elaborate these reconstructed trajectories. To address this issue, we present PyTrack, an open-source map-matching-based Python toolbox designed for academics, researchers and practitioners that integrate the recorded GPS coordinates with data provided by the OpenStreetMap, an open-source geographic information system. This manuscript overviews the architecture of the library offering a detailed description of its capabilities and modules. Besides, we provide an introductory guide to getting started with PyTrack covering the most fundamental steps of our framework. For more information on PyTrack, users are encouraged to visit the official repository at https://github.com/cosbidev/PyTrack or the official documentation at https://pytrack-lib.readthedocs.io.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 88,
+              "rank": 42,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 83,
+              "rank": 41,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 78,
+              "rank": 101,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 92,
+              "rank": 22,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 89,
+              "rank": 25,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 82,
+              "rank": 78,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85113278649",
+      "title": "Deep Reinforcement Learning for Fractionated Radiotherapy in Non-Small Cell Lung Carcinoma",
+      "doi": "10.1016/j.artmed.2021.102137",
+      "venue": "Artificial Intelligence in Medicine",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "119",
+      "issue_id": null,
+      "pages": null,
+      "issn": "09333657",
+      "eIssn": "18732860",
+      "source_id": "24140",
+      "authors": "Tortora Matteo; Cordelli Ermanno; Sicilia Rosa; Miele Marianna; Matteucci Paolo; Iannello Giulio; Ramella Sara; Soda Paolo",
+      "author_ids": "57219050694;50861065300;57201738807;57203224752;36932685800;6701387714;6602902025;22036116900",
+      "authorAffiliationIds": "60005308;60005308;60005308;60005308;60005308;60005308;60005308;60005308",
+      "corresponding": "Tortora M.",
+      "keywords": "D3QN | Deep reinforcement learning | NSCLC | Particle swarm optimization | Radiation therapy | Tumour treatment optimization",
+      "abstract": "Lung cancer is by far the leading cause of cancer death among both men and women. Radiation therapy is one of the main approaches to lung cancer treatment, and its planning is crucial for the therapy outcome. However, the current practice that uniformly delivers the dose does not take into account the patient-specific tumour features that may affect treatment success. Since radiation therapy is by its very nature a sequential procedure, Deep Reinforcement Learning (DRL) is a well-suited methodology to overcome this limitation. In this respect, in this work we present a DRL controller optimizing the daily dose fraction delivered to the patient on the basis of CT scans collected over time during the therapy, offering a personalized treatment not only for volume adaptation, as currently intended, but also for daily fractionation. Furthermore, this contribution introduces a virtual radiotherapy environment based on a set of ordinary differential equations modelling the tissue radiosensitivity by combining both the effect of the radiotherapy treatment and cell growth. Their parameters are estimated from CT scans routinely collected using the Particle Swarm Optimization algorithm. This permits the DRL to learn the optimal behaviour through an iterative trial and error process with the environment. We performed several experiments considering three rewards functions modelling treatment strategies with different tissue aggressiveness and two exploration strategies for the exploration-exploitation dilemma. The results show that our DRL approach can adapt to radiation therapy treatment, optimizing its behaviour according to the different reward functions and outperforming the current clinical practice.",
+      "citations": 24,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Health Informatics",
+              "percentile": 94,
+              "rank": 9,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Medicine (miscellaneous)",
+              "percentile": 94,
+              "rank": 26,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 90,
+              "rank": 48,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Medicine (miscellaneous)",
+              "percentile": 92,
+              "rank": 22,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 89,
+              "rank": 29,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85110925482",
+      "title": "Exploring deep pathomics in lung cancer",
+      "doi": "10.1109/CBMS52027.2021.00092",
+      "venue": "Proceedings IEEE Symposium on Computer Based Medical Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": "2021-June",
+      "issue_id": null,
+      "pages": "407-412",
+      "issn": "10637125",
+      "eIssn": null,
+      "source_id": "23681",
+      "authors": "Liu Charles Z.; Sicilia Rosa; Tortora Matteo; Cordelli Ermanno; Nibid Lorenzo; Sabarese Giovanna; Perrone Giuseppe; Fiore Michele; Ramella Sara; Soda Paolo",
+      "author_ids": "57226193181;57201738807;57219050694;50861065300;57226194703;56925532300;56530309600;55838511044;6602902025;22036116900",
+      "authorAffiliationIds": "60005308;60005308;60005308;60005308;60005308;60005308;60005308;60005308;60005308;60005308",
+      "corresponding": "Liu C.Z.",
+      "keywords": "Deep Learning | Lung Cancer | Pathomics | Scalable Learning | Transfer Learning",
+      "abstract": "Recent years have witnessed the rise of pathomics as a mean to describe histopathological images with quantitative biomarkers for predictive and prognostic ends, combining digital pathology, omic science and artificial intelligence. This novel research branch is the counterpart of radiomics which pursues the same aims extracting knowledge from radiological images. In this paper, we present the design of a pathomic deep learning-based system to predict the treatment outcome in non-small cell lung cancer patients. We describe the system design and optimization under the condition of limited data and limited training, with corresponding tests. The experimental results show the feasibility of the proposed scalable architecture providing also a comparison between different transfer learning strategies.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Radiology, Nuclear Medicine and Imaging",
+              "percentile": 34,
+              "rank": 233,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 32,
+              "rank": 665,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 40,
+              "rank": 442,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Radiology, Nuclear Medicine and Imaging",
+              "percentile": 39,
+              "rank": 187,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85089375439",
+      "title": "Time-window SIQR analysis of COVID-19 outbreak and containment measures in italy",
+      "doi": "10.1109/CBMS49503.2020.00059",
+      "venue": "Proceedings IEEE Symposium on Computer Based Medical Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": "2020-July",
+      "issue_id": null,
+      "pages": "277-282",
+      "issn": "10637125",
+      "eIssn": null,
+      "source_id": "23681",
+      "authors": "Cordelli Ermanno; Tortora Matteo; Sicilia Rosa; Soda Paolo",
+      "author_ids": "50861065300;57219050694;57201738807;22036116900",
+      "authorAffiliationIds": "60005308;60005308;60005308;60005308",
+      "corresponding": "Cordelli E.",
+      "keywords": "Basic reproductive number | Coronavirus | COVID-19 | Italy | Particle swarm optimization",
+      "abstract": "The COVID-19 disease caused by the coronavirus SARS-nCoV2 is currently a global public health threat and Italy is one of the countries mostly suffering from this epidemic. It is therefore important to analyze epidemic data, considering also that the government deployed laws limiting the societal activities. We model COVID-19 dynamics with a SIQR (susceptible - infectious - quarantined - recovered) model, where we take into account the temporal variability of its parameters. Particle Swarm Optimization is used to find out the best parameters in the case of Italy and of Italian regions where the epidemic has the greatest impact. The basic reproductive number is estimated by a novel approach that averages out different PSO fits computed considering different temporal time-windows and reducing possible noise in the data. The results on data collected from February 24 to April 24 show that our approach is able to fit the data with low errors and that the basic reproductive number is characterized by a descending trend in time from 3.5 to a value below 1.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Radiology, Nuclear Medicine and Imaging",
+              "percentile": 34,
+              "rank": 233,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 32,
+              "rank": 665,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 38,
+              "rank": 425,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Radiology, Nuclear Medicine and Imaging",
+              "percentile": 34,
+              "rank": 189,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1230856",
+      "authors": "Aksu, F.; Bria, A.; Caragliano, A. N.; Caruso, C. M.; Chen, W.; Cordelli, E.; Coser, O.; Francesconi, A.; Furia, L.; Guarrasi, V.; Iannello, G.; Lauretti, C.; Manni, G.; Marino, G.; Paolo, D.; Ruffini, F.; Shen, L.; Sicilia, R.; Soda, P.; Tamantini, C.; Tortora, M.; Wu, Z.; Zollo, L.",
+      "legacy_id": 614849,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Towards AI-driven Next Generation Personalized Healthcare and Well-being",
+      "scopus_id": "2-s2.0-85205566611",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1230855",
+      "dc.identifier.pmid": "39604988",
+      "authors": "Cordelli, E.; Soda, P.; Citter, S.; Schiavon, E.; Salvatore, C.; Fazzini, D.; Clementi, G.; Cellina, M.; Cozzi, A.; Bortolotto, C.; Preda, L.; Francini, L.; Tortora, M.; Castiglioni, I.; Papa, S.; Sona, D.; Alì, M.",
+      "legacy_id": 614847,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Machine learning predicts pulmonary Long Covid sequelae using clinical data",
+      "scopus_id": "2-s2.0-85210516904",
+      "doi": "10.1186/s12911-024-02745-3",
+      "isi_id": "WOS:001364895500002",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1230857",
+      "authors": "Adornato, C.; Assolito, C.; Cordelli, E.; Di Feola, F.; Guarrasi, V.; Iannello, G.; Marcoccia, L.; Ayllon, E. M.; Restivo, R.; Rofena, A.; Sicilia, R.; Soda, P.; Tortora, M.; Tronchin, L.",
+      "legacy_id": 614848,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Virtual Scanner: Leveraging Resilient Generative AI for Radiological Imaging in the Era of Medical Digital Twins",
+      "scopus_id": "2-s2.0-85205587545",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1230862",
+      "dc.identifier.pmid": "38015944",
+      "authors": "Nibid, L.; Greco, C.; Cordelli, E.; Sabarese, G.; Fiore, M.; Liu, C. Z.; Ippolito, E.; Sicilia, R.; Miele, M.; Tortora, M.; Taffon, C.; Rakaee, M.; Soda, P.; Ramella, S.; Perrone, G.",
+      "legacy_id": 591732,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Deep pathomics: A new image-based tool for predicting response to treatment in stage III non-small cell lung cancer",
+      "scopus_id": "2-s2.0-85178494887",
+      "doi": "10.1371/journal.pone.0294259",
+      "isi_id": "WOS:001124505200036",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "9",
+      "citations_scopus": "11"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1215715",
+      "authors": "Conte, F.; Cordelli, E.; Guarrasi, V.; Iannello, G.; Sicilia, R.; Soda, P.; Tortora, M.; Tronchin, L.",
+      "legacy_id": 591727,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Sustainable AI: inside the deep, alongside the green",
+      "scopus_id": "2-s2.0-85173821377",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1215555",
+      "authors": "Tortora, M.; Cordelli, E.; Sicilia, R.; Nibid, L.; Ippolito, E.; Perrone, G.; Ramella, S.; Soda, P.",
+      "legacy_id": 591726,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "RadioPathomics: Multimodal Learning in Non-Small Cell Lung Cancer for Adaptive Radiotherapy",
+      "scopus_id": "2-s2.0-85159837640",
+      "doi": "10.1109/ACCESS.2023.3275126",
+      "isi_id": "WOS:001010128600001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "20",
+      "citations_scopus": "29"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1230859",
+      "authors": "Furia, L.; Tortora, M.; Soda, P.; Sicilia, R.",
+      "legacy_id": 591730,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Exploring Early Stress Detection from Multimodal Time Series with Deep Reinforcement Learning",
+      "scopus_id": "2-s2.0-85184866583",
+      "doi": "10.1109/BIBM58861.2023.10385549",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1215716",
+      "authors": "Tortora, M.; Cordelli, E.; Soda, P.",
+      "legacy_id": 591731,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "PyTrack: A Map-Matching-Based Python Toolbox for Vehicle Trajectory Reconstruction",
+      "scopus_id": "2-s2.0-85141518334",
+      "doi": "10.1109/ACCESS.2022.3216565",
+      "isi_id": "WOS:000878108600001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1230860",
+      "authors": "Liu, C. Z.; Sicilia, R.; Tortora, M.; Cordelli, E.; Nibid, L.; Sabarese, G.; Perrone, G.; Fiore, M.; Ramella, S.; Soda, P.",
+      "legacy_id": 591728,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "Exploring deep pathomics in lung cancer",
+      "scopus_id": "2-s2.0-85110925482",
+      "doi": "10.1109/CBMS52027.2021.00092",
+      "isi_id": "WOS:000847341000070",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "4",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1230858",
+      "dc.identifier.pmid": "34531006",
+      "authors": "Tortora, M.; Cordelli, E.; Sicilia, R.; Miele, M.; Matteucci, P.; Iannello, G.; Ramella, S.; Soda, P.",
+      "legacy_id": 591733,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "Deep Reinforcement Learning for Fractionated Radiotherapy in Non-Small Cell Lung Carcinoma",
+      "scopus_id": "2-s2.0-85113278649",
+      "doi": "10.1016/j.artmed.2021.102137",
+      "isi_id": "WOS:000697022300003",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "17",
+      "citations_scopus": "24"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1230861",
+      "authors": "Cordelli, E.; Tortora, M.; Sicilia, R.; Soda, P.",
+      "legacy_id": 591729,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "Time-window SIQR analysis of COVID-19 outbreak and containment measures in italy",
+      "scopus_id": "2-s2.0-85089375439",
+      "doi": "10.1109/CBMS49503.2020.00059",
+      "isi_id": "WOS:000786468800052",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "6"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:15:59.133115"
+}

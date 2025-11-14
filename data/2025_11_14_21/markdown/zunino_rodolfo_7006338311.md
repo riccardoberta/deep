@@ -1,0 +1,4373 @@
+# Zunino Rodolfo
+
+## Overview
+- **Unit:** ICT
+- **Role:** Professore ordinario
+- **Grade:** Prof.Ordinario Legge 240/10 - t.pieno - classe 2
+- **SSD:** IINF-01/A (Elettronica)
+- **Scopus ID:** 7006338311
+- **UNIGE ID:** 054565
+- **Retrieved at:** 2025-11-14T15:16:47.887621
+
+## Contact
+- **Email:** rodolfo.zunino@unige.it
+- **Phone:** +39 010 33 52269
+- **Page:** https://rubrica.unige.it/personale/VUZDXlxs
+- **Locations:** Opera Pia - padiglione D (ED_161450401), 2° piano, US_161450401.II.030
+
+## Career
+- PA, 2012-05-01 → 2020-10-31
+- PO, 2020-11-01 → 2222-02-02
+
+## Responsibilities
+- **Title:** Membro della Giunta di dipartimento
+  - **Unit:** Dipartimento di ingegneria navale, elettrica, elettronica e delle telecomunicazioni - DITEN
+  - **Period:** 2024-11-01 → 2027-10-31
+
+## Teaching
+### 2025
+- Elettronica (72344), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Elettronica (72344), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Programmazione Dei Sistemi Elettronici (108694), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Sistemi Elettronici Embedded (72530), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Elettronica 2 (108693), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Elettronica 2 (108693), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Sicurezza Informatica E Internet Delle Cose (118504), Stsi Lm - Indirizzo Scienze E Tecnologie Per La Societa' Dell'Informazione
+- Electronics For Security (114751), Lm-29 - Electronic Engineering
+
+### 2024
+- Architetture Hardware Di Sistemi Embedded (94785), Lm-33 - Ingegneria Meccanica - Progettazione E Produzione
+- Architetture Hardware Di Sistemi Embedded (94785), Lm-33 - Ingegneria Meccanica - Progettazione E Produzione
+- Modulo A Di Sistemi Elettronici Embedded (72530), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Programmazione Dei Sistemi Elettronici (108694), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Elementi Di Elettronica (107827), L-P03 - Tecnologie Industriali
+
+### 2023
+- Cyber Security (86950), Lm-29 - Ingegneria Elettronica
+- Architetture Hardware Di Sistemi Embedded (94785), Lm-33 - Ingegneria Meccanica - Progettazione E Produzione
+- Programmazione Dei Sistemi Elettronici (108694), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Modulo A Di Sistemi Elettronici Embedded (72530), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Cyber Security E Internet Of Things (98581), Stsi Lm - Indirizzo Scienze E Tecnologie Per La Societa' Dell'Informazione
+
+### 2022
+- Cyber Security (86950), Lm-29 - Ingegneria Elettronica
+- Architetture Hardware Di Sistemi Embedded (94785), Lm-33 - Ingegneria Meccanica - Progettazione E Produzione
+- Modulo A Di Sistemi Elettronici Embedded (72530), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Laboratorio Di Informatica E Telematica (94721), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+
+### 2021
+- Cyber Security (86950), Lm-29 - Ingegneria Elettronica
+- Architetture Hardware Di Sistemi Embedded (94785), Lm-33 - Ingegneria Meccanica - Progettazione E Produzione
+- Modulo A Di Sistemi Elettronici Embedded (72530), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Cyber Security E Internet Of Things (98581), Stsi Lm - Indirizzo Scienze E Tecnologie Per La Societa' Dell'Informazione
+
+### 2020
+- Cyber Security (86950), Lm-29 - Ingegneria Elettronica
+- Architetture Hardware Di Sistemi Embedded (94785), Lm-33 - Ingegneria Meccanica - Progettazione E Produzione
+- Modulo A Di Sistemi Elettronici Embedded (72530), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Cryptography (106869), Cybersecurity And Critical Infrastructure Protection
+- Cryptographic Protocols & Blockchain Technologies (106856), Cybersecurity And Critical Infrastructure Protection
+- Informatica Legale, Privacy And Cyber Crime (106875), Cybersecurity And Critical Infrastructure Protection
+- Social Engineering And Intelligence For Cyber Security (106879), Cybersecurity And Critical Infrastructure Protection
+- Introduction To Cybersecurity (106850), Cybersecurity And Critical Infrastructure Protection
+
+## Scopus Metrics
+- absolute; Docs: 207; Journals: 88; Conferences: 92; Citations: 2816; H-index: 26
+- 15 years (2010-2025); Docs: 82; Journals: 37; Conferences: 33; Citations: 1587; H-index: 19
+- 10 years (2015-2025); Docs: 55; Journals: 25; Conferences: 19; Citations: 626; H-index: 12
+- 05 years (2020-2025); Docs: 30; Journals: 15; Conferences: 8; Citations: 150; H-index: 8
+
+## Scopus Products
+1.
+   - **Title:** Supporting in-Sensor Computing with Hardware-Aware Neural Architecture Search
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2025
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-71518-1_48
+   - **Scopus ID:** 2-s2.0-85216033591
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 1263 Lnee
+   - **Pages:** 407-412
+   - **Authors:** Mattia Garavagno Andrea; Ragusa Edoardo; Zunino Rodolfo; Frisoli Antonio; Gastaldo Paolo
+   - **Keywords:** hardware-aware neural architecture search | In-sensor computing | tinyML
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 57890031900;56580248800;7006338311;6603070041;35612596100
+   - **Authoraffiliationids:** 60025153-60028039;60025153;60025153;60028039;60025153
+   - **Corresponding:** Mattia Garavagno A.
+2.
+   - **Title:** Towards Energy-Efficient Smart Sensing Nodes for Automatic Structural Health Monitoring
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2025
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-71518-1_50
+   - **Scopus ID:** 2-s2.0-85215950120
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 1263 Lnee
+   - **Pages:** 422-428
+   - **Authors:** Ragusa Edoardo; Zonzini Federica; Gastaldo Paolo; Zunino Rodolfo; De Marchi Luca
+   - **Keywords:** Energy profiling | Smart Sensors | Tiny CNNs | Vibration inspection
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 56580248800;57204769530;35612596100;7006338311;57210976394
+   - **Authoraffiliationids:** 60025153;60028218;60025153;60025153;60028218
+   - **Corresponding:** Ragusa E.
+3.
+   - **Title:** Filling the Pareto-Optimal Front for Affordance Segmentation on Embedded Devices Using RGB-D Cameras
+   - **Venue:** IEEE Sensors Journal
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/JSEN.2025.3574506
+   - **Scopus ID:** 2-s2.0-105007421510
+   - **ISSN:** 1530437X
+   - **eISSN:** 15581748
+   - **Volume:** 25
+   - **Issue:** 14
+   - **Pages:** 27467-27477
+   - **Authors:** Ragusa Edoardo; Paolo Canuti Giovanni; Lugani Simone; Zunino Rodolfo; Gastaldo Paolo
+   - **Keywords:** Affordance segmentation (AS) | embedded systems | grasping | microcontrollers | tiny CNNs | wearable robots
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 27, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 175, percentile 82)
+   - **Source Id:** 15047
+   - **Author Ids:** 56580248800;60004874500;58864648100;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Ragusa E.
+4.
+   - **Title:** Tiny Neural Networks for Session-Level Traffic Classification
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2025
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-84100-2_41
+   - **Scopus ID:** 2-s2.0-105000819605
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 1369 Lnee
+   - **Pages:** 347-354
+   - **Authors:** Chehade Adel; Ragusa Edoardo; Gastaldo Paolo; Zunino Rodolfo
+   - **Keywords:** Internet of Things | Network Traffic Analysis | Session Classification | Tiny CNNs
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 59706455200;56580248800;35612596100;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Chehade A.
+5.
+   - **Title:** Enhanced HW-NAS for Affordance Segmentation on Wearable Robotics
+   - **Venue:** Proceedings of the IEEE International Conference on Electronics Circuits and Systems
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICECS61496.2024.10848579
+   - **Scopus ID:** 2-s2.0-85217615857
+   - **ISSN:** 29945755
+   - **eISSN:** 29950589
+   - **Authors:** Ragusa Edoardo; Zunino Rodolfo; Loconsole Claudio; Frisoli Antonio; Gastaldo Paolo
+   - **Keywords:** Affordance segmentation | CNNs | Embedded Systems | Grasping | Wearable robots
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 913, percentile 8)
+     2024:
+     - Electrical and Electronic Engineering (Q4, rank 941, percentile 2)
+   - **Source Id:** 91096
+   - **Author Ids:** 56580248800;7006338311;36195922700;6603070041;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60114022-60028039;60028039;60025153
+   - **Corresponding:** Ragusa E.
+6.
+   - **Title:** Design and Implementation of Tiny Deep Neural Networks for Landing Pad Detection on UAVs
+   - **Venue:** IEEE Access
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/ACCESS.2024.3454363
+   - **Scopus ID:** 2-s2.0-85203524214
+   - **eISSN:** 21693536
+   - **Volume:** 12
+   - **Pages:** 124009-124020
+   - **Authors:** Ragusa Edoardo; Taccioli Tommaso; Canepa Alessio; Zunino Rodolfo; Gastaldo Paolo
+   - **Keywords:** Embedded systems | landing pad detection | microcontrollers | tiny CNNs | UAVs
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 42, percentile 88)
+     - Computer Science (all) (Q1, rank 41, percentile 83)
+     - Materials Science (all) (Q1, rank 101, percentile 78)
+     2024:
+     - Engineering (all) (Q1, rank 32, percentile 90)
+     - Computer Science (all) (Q1, rank 33, percentile 86)
+     - Materials Science (all) (Q1, rank 87, percentile 81)
+   - **Source Id:** 21100374601
+   - **Author Ids:** 56580248800;57388797900;7004014399;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Ragusa E.
+7.
+   - **Title:** Compression-Accuracy Co-Optimization Through Hardware-Aware Neural Architecture Search for Vibration Damage Detection
+   - **Venue:** IEEE Internet of Things Journal
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1109/JIOT.2024.3419251
+   - **Scopus ID:** 2-s2.0-85197040934
+   - **eISSN:** 23274662
+   - **Volume:** 11
+   - **Issue:** 19
+   - **Pages:** 31745-31757
+   - **Authors:** Ragusa Edoardo; Zonzini Federica; De Marchi Luca; Zunino Rodolfo
+   - **Keywords:** Automatic structural health monitoring (ASHM) | compression-accuracy co-optimization | energy profiling | hardware-aware neural architecture search (NAS) | smart sensor systems
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 20, percentile 96)
+     - Hardware and Architecture (Q1, rank 9, percentile 96)
+     - Signal Processing (Q1, rank 12, percentile 94)
+     - Computer Science Applications (Q1, rank 62, percentile 93)
+     - Information Systems (Q1, rank 32, percentile 93)
+     2024:
+     - Hardware and Architecture (Q1, rank 6, percentile 97)
+     - Computer Networks and Communications (Q1, rank 16, percentile 96)
+     - Signal Processing (Q1, rank 8, percentile 95)
+     - Information Systems (Q1, rank 21, percentile 95)
+     - Computer Science Applications (Q1, rank 45, percentile 95)
+   - **Source Id:** 21100338350
+   - **Author Ids:** 56580248800;57204769530;57210976394;7006338311
+   - **Authoraffiliationids:** 60025153;60028218;60028218;60025153
+   - **Corresponding:** Ragusa E.
+8.
+   - **Title:** Lightweight Neural Networks for Affordance Segmentation: Enhancement of the Decoder Module
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2024
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1007/978-3-031-48121-5_63
+   - **Scopus ID:** 2-s2.0-85184096408
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 1110 Lnee
+   - **Pages:** 437-443
+   - **Authors:** Lugani Simone; Ragusa Edoardo; Zunino Rodolfo; Gastaldo Paolo
+   - **Keywords:** Affordance Segmentation | Embedded Computer Vision | Wearable Robots
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+     2024:
+     - Industrial and Manufacturing Engineering (Q4, rank 308, percentile 23)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 58864648100;56580248800;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Lugani S.
+9.
+   - **Title:** Affordance Segmentation Using Tiny Networks for Sensing Systems in Wearable Robotic Devices
+   - **Venue:** IEEE Sensors Journal
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1109/JSEN.2023.3308615
+   - **Scopus ID:** 2-s2.0-85170541519
+   - **ISSN:** 1530437X
+   - **eISSN:** 15581748
+   - **Volume:** 23
+   - **Issue:** 19
+   - **Pages:** 23916-23926
+   - **Authors:** Ragusa Edoardo; Dosen Strahinja; Zunino Rodolfo; Gastaldo Paolo
+   - **Keywords:** Affordance segmentation | embedded systems | grasping | microcontrollers | tiny convolutional neural networks (CNNs) | wearable robots
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 27, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 175, percentile 82)
+     2023:
+     - Instrumentation (Q1, rank 20, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 148, percentile 81)
+   - **Source Id:** 15047
+   - **Author Ids:** 56580248800;23388778600;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60022134;60025153;60025153
+   - **Corresponding:** Ragusa E.
+10.
+   - **Title:** An approximate randomization-based neural network with dedicated digital architecture for energy-constrained devices
+   - **Venue:** Neural Computing and Applications
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1007/s00521-022-08034-2
+   - **Scopus ID:** 2-s2.0-85142935817
+   - **ISSN:** 09410643
+   - **eISSN:** 14333058
+   - **Volume:** 35
+   - **Issue:** 9
+   - **Pages:** 6753-6766
+   - **Authors:** Ragusa Edoardo; Gianoglio Christian; Zunino Rodolfo; Gastaldo Paolo
+   - **Keywords:** Digital architectures | Extreme learning machine | FPGA | Low-power | Random vector functional link networks | Randomization-based neural networks | Threshold function
+   - **Quartile:**
+     2025:
+     - Software (Q1, rank 43, percentile 91)
+     - Artificial Intelligence (Q1, rank 57, percentile 88)
+     2023:
+     - Software (Q1, rank 42, percentile 89)
+     - Artificial Intelligence (Q1, rank 50, percentile 85)
+   - **Source Id:** 24800
+   - **Author Ids:** 56580248800;56580140000;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Ragusa E.
+11.
+   - **Title:** Affordance Segmentation Using RGB-D Sensors for Application in Portable Embedded Systems
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2023
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1007/978-3-031-30333-3_14
+   - **Scopus ID:** 2-s2.0-85161369827
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 1036 Lnee
+   - **Pages:** 109-116
+   - **Authors:** Ragusa Edoardo; Ghezzi Matteo Pastorino; Zunino Rodolfo; Gastaldo Paolo
+   - **Keywords:** Affordance prediction | CNNs | embedded systems | Grasp selection | prosthetics
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+     2023:
+     - Industrial and Manufacturing Engineering (Q4, rank 306, percentile 20)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 56580248800;58308130900;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Ragusa E.
+12.
+   - **Title:** Text-Image Sentiment Analysis
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2023
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1007/978-3-031-23804-8_14
+   - **Scopus ID:** 2-s2.0-85149915000
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 13397 Lncs
+   - **Pages:** 169-180
+   - **Authors:** Chen Qian; Ragusa Edoardo; Chaturvedi Iti; Cambria Erik; Zunino Rodolfo
+   - **Keywords:** Sentiment analysis | Text-image joint | Weighted score
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+     2023:
+     - Computer Science (all) (Q3, rank 121, percentile 48)
+     - Theoretical Computer Science (Q3, rank 69, percentile 47)
+   - **Source Id:** 25674
+   - **Author Ids:** 57196048094;56580248800;12646151300;56140547500;7006338311
+   - **Authoraffiliationids:** 60078616;60025153;60078616;60078616;60025153
+   - **Corresponding:** Chen Q.
+13.
+   - **Title:** Random Weights Neural Network for Low-Cost Readout of Colorimetric Reactions: Accurate Detection of Antioxidant Levels
+   - **Venue:** Lecture Notes in Networks and Systems
+   - **Year:** 2023
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1007/978-3-031-16281-7_10
+   - **Scopus ID:** 2-s2.0-85138011595
+   - **ISSN:** 23673370
+   - **eISSN:** 23673389
+   - **Volume:** 546 Lnns
+   - **Pages:** 95-104
+   - **Authors:** Ragusa Edoardo; Mastronardi Valentina; Pedone Deborah; Moglianetti Mauro; Pompa Pier Paolo; Zunino Rodolfo; Gastaldo Paolo
+   - **Keywords:** Embedded systems | Point of care devices | Random weights neural networks
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 146, percentile 25)
+     - Computer Networks and Communications (Q3, rank 410, percentile 25)
+     - Control and Systems Engineering (Q4, rank 302, percentile 20)
+     2023:
+     - Signal Processing (Q4, rank 113, percentile 14)
+     - Control and Systems Engineering (Q4, rank 277, percentile 13)
+     - Computer Networks and Communications (Q4, rank 354, percentile 10)
+   - **Source Id:** 21100901469
+   - **Author Ids:** 56580248800;57219834370;56814858900;25825351300;7003705815;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60102151;60102151;60102151-60332746;60102151;60025153;60025153
+   - **Corresponding:** Ragusa E.
+14.
+   - **Title:** Design of a Quantitative Readout in a Point-of-Care Device for Cisplatin Detection
+   - **Venue:** IEEE Sensors Letters
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1109/LSENS.2022.3219628
+   - **Scopus ID:** 2-s2.0-85141613394
+   - **eISSN:** 24751472
+   - **Volume:** 6
+   - **Issue:** 11
+   - **Authors:** Ragusa Edoardo; Zunino Rodolfo; Mastronardi Valentina; Moglianetti Mauro; Pompa Pier P.; Gastaldo Paolo
+   - **Keywords:** automatic readout | machine learning (ML) | point-of-care (POC) devices | Sensor applications
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q2, rank 70, percentile 63)
+     - Electrical and Electronic Engineering (Q2, rank 397, percentile 60)
+     2022:
+     - Instrumentation (Q2, rank 39, percentile 71)
+     - Electrical and Electronic Engineering (Q2, rank 233, percentile 68)
+   - **Source Id:** 21100976671
+   - **Author Ids:** 56580248800;7006338311;57219834370;25825351300;7003705815;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60102151;60102151;60025153;60025153
+   - **Corresponding:** Ragusa E.
+15.
+   - **Title:** The LAMA system: A “smart” magnetometer network for harbour protection
+   - **Venue:** Journal of Applied Geophysics
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1016/j.jappgeo.2022.104743
+   - **Scopus ID:** 2-s2.0-85132505937
+   - **ISSN:** 09269851
+   - **Volume:** 204
+   - **Authors:** Soldani Maurizio; Faggioni Osvaldo; Zunino Rodolfo; Carbone Alessandro; Gemma Marco
+   - **Keywords:** Environmental magnetism | Harbour protection | Magnetic anomaly detection | Marine geophysics | Time series analysis | Underwater magnetic systems
+   - **Quartile:**
+     2025:
+     - Geophysics (Q2, rank 49, percentile 72)
+     2022:
+     - Geophysics (Q2, rank 52, percentile 66)
+   - **Source Id:** 28435
+   - **Author Ids:** 17136096200;6602181469;7006338311;57758908700;57759106100
+   - **Authoraffiliationids:** 60000243;60000243-60025153;60025153;128254647;128254647
+   - **Corresponding:** Soldani M.
+16.
+   - **Title:** From a Chemotherapeutic Drug to a High-Performance Nanocatalyst: A Fast Colorimetric Test for Cisplatin Detection at ppb Level
+   - **Venue:** Biosensors
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.3390/bios12060375
+   - **Scopus ID:** 2-s2.0-85132311033
+   - **eISSN:** 20796374
+   - **Volume:** 12
+   - **Issue:** 6
+   - **Authors:** Mastronardi Valentina; Moglianetti Mauro; Ragusa Edoardo; Zunino Rodolfo; Pompa Pier Paolo
+   - **Keywords:** cisplatin | colorimetric test | machine learning | nanocatalyst | point-of-care
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 10, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 22, percentile 92)
+     - Clinical Biochemistry (Q1, rank 12, percentile 90)
+     - Analytical Chemistry (Q1, rank 16, percentile 90)
+     - Biomedical Engineering (Q1, rank 43, percentile 87)
+     - Biotechnology (Q1, rank 45, percentile 86)
+     2022:
+     - Engineering (miscellaneous) (Q1, rank 33, percentile 78)
+     - Instrumentation (Q2, rank 40, percentile 70)
+     - Analytical Chemistry (Q2, rank 54, percentile 62)
+     - Biomedical Engineering (Q2, rank 116, percentile 58)
+     - Biotechnology (Q2, rank 130, percentile 56)
+     - Clinical Biochemistry (Q3, rank 58, percentile 49)
+   - **Source Id:** 21100293900
+   - **Author Ids:** 57219834370;25825351300;56580248800;7006338311;7003705815
+   - **Authoraffiliationids:** 60102151;60102151;60025153;60025153;60102151
+   - **Corresponding:** Mastronardi V.
+17.
+   - **Title:** Detection-based video surveillance using Deep Neural Networks on STM32 microcontroller
+   - **Venue:** Icecs 2022 29th IEEE International Conference on Electronics Circuits and Systems Proceedings
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICECS202256217.2022.9970956
+   - **Scopus ID:** 2-s2.0-85145358911
+   - **Authors:** Canepa Alessio; Ragusa Edoardo; Zunino Rodolfo; Gastaldo Paolo
+   - **Keywords:** Computer Vision | Deep Learning | Embedded Systems | Surveillance
+   - **Source Id:** 21101129746
+   - **Author Ids:** 7004014399;56580248800;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Canepa A.
+18.
+   - **Title:** A Pipelined Implementation of the n-mode Tensor-Matrix Multiplication
+   - **Venue:** Icecs 2022 29th IEEE International Conference on Electronics Circuits and Systems Proceedings
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICECS202256217.2022.9970979
+   - **Scopus ID:** 2-s2.0-85145357032
+   - **Authors:** Ragusa Edoardo; Gianoglio Christian; Zunino Rodolfo; Valle Maurizio; Gastaldo Paolo
+   - **Keywords:** Digital Architectures | Low-Power | Multidimensional Array | Tensors
+   - **Source Id:** 21101129746
+   - **Author Ids:** 56580248800;56580140000;7006338311;57197744325;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Ragusa E.
+19.
+   - **Title:** Design and Deployment of an Image Polarity Detector with Visual Attention
+   - **Venue:** Cognitive Computation
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 16
+   - **DOI:** 10.1007/s12559-021-09829-6
+   - **Scopus ID:** 2-s2.0-85099752269
+   - **ISSN:** 18669956
+   - **eISSN:** 18669964
+   - **Volume:** 14
+   - **Issue:** 1
+   - **Pages:** 261-273
+   - **Authors:** Ragusa Edoardo; Apicella Tommaso; Gianoglio Christian; Zunino Rodolfo; Gastaldo Paolo
+   - **Keywords:** Convolutional neural network | Embedded systems | Image polarity detection
+   - **Quartile:**
+     2025:
+     - Cognitive Neuroscience (Q1, rank 7, percentile 94)
+     - Computer Vision and Pattern Recognition (Q1, rank 16, percentile 90)
+     - Computer Science Applications (Q1, rank 102, percentile 89)
+     2022:
+     - Computer Science Applications (Q1, rank 142, percentile 82)
+     - Cognitive Neuroscience (Q1, rank 21, percentile 81)
+     - Computer Vision and Pattern Recognition (Q1, rank 20, percentile 80)
+   - **Source Id:** 19400158515
+   - **Author Ids:** 56580248800;57216366806;56580140000;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Ragusa E.
+20.
+   - **Title:** Efficient Digital Implementation of n-mode Tensor-Matrix Multiplication
+   - **Venue:** 2021 IEEE 3rd International Conference on Artificial Intelligence Circuits and Systems Aicas 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/AICAS51828.2021.9458404
+   - **Scopus ID:** 2-s2.0-85113339876
+   - **Authors:** Gianoglio Christian; Ragusa Edoardo; Zunino Rodolfo; Gastaldo Paolo
+   - **Keywords:** Digital Architectures | Low-Power | Multidimensional Array | Tensors
+   - **Source Id:** 21101056807
+   - **Author Ids:** 56580140000;56580248800;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gianoglio C.
+21.
+   - **Title:** Random-based networks with dropout for embedded systems
+   - **Venue:** Neural Computing and Applications
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1007/s00521-020-05414-4
+   - **Scopus ID:** 2-s2.0-85093104100
+   - **ISSN:** 09410643
+   - **eISSN:** 14333058
+   - **Volume:** 33
+   - **Issue:** 12
+   - **Pages:** 6511-6526
+   - **Authors:** Ragusa Edoardo; Gianoglio Christian; Zunino Rodolfo; Gastaldo Paolo
+   - **Keywords:** Embedded systems | Internet of Things | Random-based neural networks
+   - **Quartile:**
+     2025:
+     - Software (Q1, rank 43, percentile 91)
+     - Artificial Intelligence (Q1, rank 57, percentile 88)
+     2021:
+     - Software (Q1, rank 58, percentile 85)
+     - Artificial Intelligence (Q1, rank 43, percentile 84)
+   - **Source Id:** 24800
+   - **Author Ids:** 56580248800;56580140000;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Ragusa E.
+22.
+   - **Title:** T-rexnet—a hardware-aware neural network for real-time detection of small moving objects
+   - **Venue:** Sensors Switzerland
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.3390/s21041252
+   - **Scopus ID:** 2-s2.0-85100595529
+   - **ISSN:** 14248220
+   - **Volume:** 21
+   - **Issue:** 4
+   - **Pages:** 1-18
+   - **Authors:** Canepa Alessio; Ragusa Edoardo; Zunino Rodolfo; Gastaldo Paolo
+   - **Keywords:** Neural networks | Object detection | Real-time | Surveillance
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2021:
+     - Instrumentation (Q1, rank 12, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 134, percentile 81)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 42, percentile 79)
+     - Analytical Chemistry (Q1, rank 27, percentile 79)
+     - Information Systems (Q1, rank 77, percentile 78)
+     - Biochemistry (Q2, rank 145, percentile 66)
+   - **Source Id:** 130124
+   - **Author Ids:** 7004014399;56580248800;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Canepa A.
+23.
+   - **Title:** 1-D Convolutional Neural Networks for Touch Modalities Classification
+   - **Venue:** 2021 28th IEEE International Conference on Electronics Circuits and Systems Icecs 2021 Proceedings
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1109/ICECS53924.2021.9665576
+   - **Scopus ID:** 2-s2.0-85124619783
+   - **Authors:** Gianoglio Christian; Ragusa Edoardo; Zunino Rodolfo; Valle Maurizio
+   - **Keywords:** CNNs | embedded systems | Touch modalities classification
+   - **Source Id:** 21101075833
+   - **Author Ids:** 56580140000;56580248800;7006338311;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gianoglio C.
+24.
+   - **Title:** A pose-based hand image classification method retrainable on embedded target devices
+   - **Venue:** 2021 28th IEEE International Conference on Electronics Circuits and Systems Icecs 2021 Proceedings
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICECS53924.2021.9665637
+   - **Scopus ID:** 2-s2.0-85124589590
+   - **Authors:** Canepa Alessio; Ragusa Edoardo; Gianoglio Christian; Gastaldo Paolo; Zunino Rodolfo
+   - **Keywords:** Computer Vision | Deep Learning | Embedded Systems | Grasping
+   - **Source Id:** 21101075833
+   - **Author Ids:** 7004014399;56580248800;56580140000;35612596100;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Canepa A.
+25.
+   - **Title:** Image Polarity Detection on Resource-Constrained Devices
+   - **Venue:** IEEE Intelligent Systems
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1109/MIS.2020.3011586
+   - **Scopus ID:** 2-s2.0-85089293993
+   - **ISSN:** 15411672
+   - **eISSN:** 19411294
+   - **Volume:** 35
+   - **Issue:** 6
+   - **Pages:** 50-57
+   - **Authors:** Ragusa Edoardo; Gianoglio Christian; Zunino Rodolfo; Gastaldo Paolo
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 46, percentile 91)
+     - Artificial Intelligence (Q1, rank 62, percentile 87)
+     2020:
+     - Computer Networks and Communications (Q1, rank 30, percentile 91)
+     - Artificial Intelligence (Q1, rank 28, percentile 87)
+   - **Source Id:** 110111
+   - **Author Ids:** 56580248800;56580140000;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Ragusa E.
+26.
+   - **Title:** Balancing computational complexity and generalization ability: A novel design for ELM
+   - **Venue:** Neurocomputing
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1016/j.neucom.2020.03.046
+   - **Scopus ID:** 2-s2.0-85083295650
+   - **ISSN:** 09252312
+   - **eISSN:** 18728286
+   - **Volume:** 401
+   - **Pages:** 405-417
+   - **Authors:** Ragusa Edoardo; Gastaldo Paolo; Zunino Rodolfo; Cambria Erik
+   - **Keywords:** Electronic embedded systems | Extreme learning machine | Similarity functions
+   - **Quartile:**
+     2025:
+     - Cognitive Neuroscience (Q1, rank 10, percentile 92)
+     - Computer Science Applications (Q1, rank 124, percentile 87)
+     - Artificial Intelligence (Q1, rank 85, percentile 82)
+     2020:
+     - Cognitive Neuroscience (Q1, rank 6, percentile 94)
+     - Computer Science Applications (Q1, rank 51, percentile 92)
+     - Artificial Intelligence (Q1, rank 23, percentile 90)
+   - **Source Id:** 24807
+   - **Author Ids:** 56580248800;35612596100;7006338311;56140547500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60078616
+   - **Corresponding:** Ragusa E.
+27.
+   - **Title:** Improving the Robustness of Threshold-Based Single Hidden Layer Neural Networks via Regularization
+   - **Venue:** Proceedings 2020 IEEE International Conference on Artificial Intelligence Circuits and Systems Aicas 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/AICAS48895.2020.9073976
+   - **Scopus ID:** 2-s2.0-85085040599
+   - **Pages:** 276-280
+   - **Authors:** Ragusa Edoardo; Gianoglio Christian; Zunino Rodolfo; Gastaldo Paolo
+   - **Source Id:** 21100983105
+   - **Author Ids:** 56580248800;56580140000;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Ragusa E.
+28.
+   - **Title:** An hardware-aware image polarity detector enhanced with visual attention
+   - **Venue:** Proceedings of the International Joint Conference on Neural Networks
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IJCNN48605.2020.9206826
+   - **Scopus ID:** 2-s2.0-85093846854
+   - **Authors:** Ragusa Edoardo; Apicella Tommaso; Gianoglio Christian; Zunino Rodolfo; Gastaldo Paolo
+   - **Keywords:** CNN | embedded systems | image polarity detection
+   - **Source Id:** 96537
+   - **Author Ids:** 56580248800;57216366806;56580140000;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Ragusa E.
+29.
+   - **Title:** A Design Strategy for the Efficient Implementation of Random Basis Neural Networks on Resource-Constrained Devices
+   - **Venue:** Neural Processing Letters
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1007/s11063-019-10165-y
+   - **Scopus ID:** 2-s2.0-85076624919
+   - **ISSN:** 13704621
+   - **eISSN:** 1573773X
+   - **Volume:** 51
+   - **Issue:** 2
+   - **Pages:** 1611-1629
+   - **Authors:** Ragusa Edoardo; Gianoglio Christian; Zunino Rodolfo; Gastaldo Paolo
+   - **Keywords:** CPLD | Digital architectures | FPGA | Random basis networks | Threshold function
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 110, percentile 79)
+     - Software (Q1, rank 105, percentile 79)
+     - Artificial Intelligence (Q1, rank 117, percentile 76)
+     - Neuroscience (all) (Q2, rank 29, percentile 74)
+     2020:
+     - Computer Networks and Communications (Q2, rank 102, percentile 69)
+     - Artificial Intelligence (Q2, rank 91, percentile 60)
+     - Software (Q2, rank 159, percentile 59)
+     - Neuroscience (all) (Q3, rank 61, percentile 45)
+   - **Source Id:** 24806
+   - **Author Ids:** 56580248800;56580140000;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Ragusa E.
+30.
+   - **Title:** Unsupervised monitoring system for predictive maintenance of high voltage apparatus
+   - **Venue:** Energies
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.3390/en13051109
+   - **Scopus ID:** 2-s2.0-85081613972
+   - **eISSN:** 19961073
+   - **Volume:** 13
+   - **Issue:** 5
+   - **Authors:** Gianoglio Christian; Ragusa Edoardo; Bruzzone Andrea; Gastaldo Paolo; Zunino Rodolfo; Guastavino Francesco
+   - **Keywords:** Embedded systems | Partial discharges | Predictive maintenance
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2020:
+     - Control and Optimization (Q1, rank 17, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 13, percentile 83)
+     - Electrical and Electronic Engineering (Q2, rank 183, percentile 73)
+     - Energy (miscellaneous) (Q2, rank 7, percentile 72)
+     - Energy Engineering and Power Technology (Q2, rank 62, percentile 72)
+     - Fuel Technology (Q2, rank 33, percentile 67)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 69, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 56580140000;56580248800;58402050900;35612596100;7006338311;7006692709
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Gianoglio C.
+31.
+   - **Title:** Data-driven video grasping classification for low-power embedded system
+   - **Venue:** 2019 26th IEEE International Conference on Electronics Circuits and Systems Icecs 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/ICECS46596.2019.8964645
+   - **Scopus ID:** 2-s2.0-85079182347
+   - **Pages:** 871-874
+   - **Authors:** Ragusa Edoardo; Gianoglio Christian; Zunino Rodolfo; Gastaldo Paolo
+   - **Keywords:** CNNs | Embedded systems | Grasping classification | Prosthetics
+   - **Source Id:** 21100944554
+   - **Author Ids:** 56580248800;56580140000;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Ragusa E.
+32.
+   - **Title:** A computationally light pruning strategy for single layer neural networks based on threshold function
+   - **Venue:** 2019 26th IEEE International Conference on Electronics Circuits and Systems Icecs 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICECS46596.2019.8964894
+   - **Scopus ID:** 2-s2.0-85079179021
+   - **Pages:** 89-92
+   - **Authors:** Ragusa Edoardo; Gianoglio Christian; Zunino Rodolfo; Gastaldo Paolo
+   - **Keywords:** Embedded systems | Neural networks | Threshold function
+   - **Source Id:** 21100944554
+   - **Author Ids:** 56580248800;56580140000;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Ragusa E.
+33.
+   - **Title:** Cognitive Insights into Sentic Spaces Using Principal Paths
+   - **Venue:** Cognitive Computation
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1007/s12559-019-09651-1
+   - **Scopus ID:** 2-s2.0-85069176199
+   - **ISSN:** 18669956
+   - **eISSN:** 18669964
+   - **Volume:** 11
+   - **Issue:** 5
+   - **Pages:** 656-675
+   - **Authors:** Ragusa Edoardo; Gastaldo Paolo; Zunino Rodolfo; Ferrarotti Marco Jacopo; Rocchia Walter; Decherchi Sergio
+   - **Keywords:** Affective computing | Concept embedding | Sentiment analysis | Topological analysis
+   - **Quartile:**
+     2025:
+     - Cognitive Neuroscience (Q1, rank 7, percentile 94)
+     - Computer Vision and Pattern Recognition (Q1, rank 16, percentile 90)
+     - Computer Science Applications (Q1, rank 102, percentile 89)
+     2019:
+     - Computer Science Applications (Q1, rank 60, percentile 90)
+     - Cognitive Neuroscience (Q1, rank 10, percentile 90)
+     - Computer Vision and Pattern Recognition (Q1, rank 12, percentile 86)
+   - **Source Id:** 19400158515
+   - **Author Ids:** 56580248800;35612596100;7006338311;56543455500;6603344433;23090052400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60102151;60102151;60102151
+   - **Corresponding:** Ragusa E.
+34.
+   - **Title:** A survey on deep learning in image polarity detection: Balancing generalization performances and computational costs
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 30
+   - **DOI:** 10.3390/electronics8070783
+   - **Scopus ID:** 2-s2.0-85071026354
+   - **eISSN:** 20799292
+   - **Volume:** 8
+   - **Issue:** 7
+   - **Authors:** Ragusa Edoardo; Cambria Erik; Zunino Rodolfo; Gastaldo Paolo
+   - **Keywords:** Computing resources | Convolutional neural networks | Deep learning | Image polarity detection | Transfer learning
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+     2019:
+     - Electrical and Electronic Engineering (Q3, rank 376, percentile 43)
+     - Computer Networks and Communications (Q3, rank 173, percentile 43)
+     - Control and Systems Engineering (Q3, rank 142, percentile 41)
+     - Signal Processing (Q3, rank 64, percentile 38)
+     - Hardware and Architecture (Q3, rank 109, percentile 30)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 56580248800;56140547500;7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60078616;60025153;60025153
+   - **Corresponding:** Ragusa E.
+35.
+   - **Title:** The Applicability of a SIEM Solution: Requirements and Evaluation
+   - **Venue:** Proceedings 2019 IEEE 28th International Conference on Enabling Technologies Infrastructure for Collaborative Enterprises Wetice 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 21
+   - **DOI:** 10.1109/WETICE.2019.00036
+   - **Scopus ID:** 2-s2.0-85071682002
+   - **Pages:** 132-137
+   - **Authors:** Mokalled Hassan; Catelli Rosario; Casola Valentina; Debertol Daniele; Meda Ermete; Zunino Rodolfo
+   - **Keywords:** cybersecurity | evaluation | requirements | Security Information and Event Management | Security Operation Centre | SIEM | SOC
+   - **Source Id:** 21100927191
+   - **Author Ids:** 57197732278;57210848004;6506461115;8433449900;36658082700;7006338311
+   - **Authoraffiliationids:** 60025153-123049224;123049224-60017293;60017293;123049224;123049224;60025153
+   - **Corresponding:** Mokalled H.
+36.
+   - **Title:** Learning with Similarity Functions: a Tensor-Based Framework
+   - **Venue:** Cognitive Computation
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1007/s12559-018-9590-9
+   - **Scopus ID:** 2-s2.0-85053384656
+   - **ISSN:** 18669956
+   - **eISSN:** 18669964
+   - **Volume:** 11
+   - **Pages:** 31-49
+   - **Authors:** Ragusa Edoardo; Gastaldo Paolo; Zunino Rodolfo; Cambria Erik
+   - **Keywords:** Intelligent embedded systems | Similarity functions | Tensor data | Tensor-based learning
+   - **Quartile:**
+     2025:
+     - Cognitive Neuroscience (Q1, rank 7, percentile 94)
+     - Computer Vision and Pattern Recognition (Q1, rank 16, percentile 90)
+     - Computer Science Applications (Q1, rank 102, percentile 89)
+     2019:
+     - Computer Science Applications (Q1, rank 60, percentile 90)
+     - Cognitive Neuroscience (Q1, rank 10, percentile 90)
+     - Computer Vision and Pattern Recognition (Q1, rank 12, percentile 86)
+   - **Source Id:** 19400158515
+   - **Author Ids:** 56580248800;35612596100;7006338311;56140547500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60078616
+   - **Corresponding:** Ragusa E.
+37.
+   - **Title:** A comprehensive framework for the security risk management of cyber-physical systems
+   - **Venue:** Advanced Sciences and Technologies for Security Applications
+   - **Year:** 2019
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 12
+   - **DOI:** 10.1007/978-3-319-95597-1_3
+   - **Scopus ID:** 2-s2.0-85071662642
+   - **ISSN:** 16135113
+   - **eISSN:** 23639466
+   - **Pages:** 49-68
+   - **Authors:** Mokalled Hassan; Pragliola Concetta; Debertol Daniele; Meda Ermete; Zunino Rodolfo
+   - **Keywords:** Ansaldo STS | Cyber-physical system | Cybersecurity | Risk management
+   - **Quartile:**
+     2025:
+     - Political Science and International Relations (Q3, rank 401, percentile 46)
+     - Safety, Risk, Reliability and Quality (Q3, rank 166, percentile 35)
+     - Computer Networks and Communications (Q3, rank 401, percentile 26)
+     - Safety Research (Q3, rank 82, percentile 25)
+     - Computer Science Applications (Q4, rank 772, percentile 21)
+     - Health, Toxicology and Mutagenesis (Q4, rank 124, percentile 14)
+     2019:
+     - Political Science and International Relations (Q3, rank 380, percentile 28)
+     - Safety Research (Q4, rank 63, percentile 20)
+     - Safety, Risk, Reliability and Quality (Q4, rank 133, percentile 18)
+     - Health, Toxicology and Mutagenesis (Q4, rank 113, percentile 12)
+     - Computer Science Applications (Q4, rank 579, percentile 9)
+     - Computer Networks and Communications (Q4, rank 283, percentile 7)
+   - **Source Id:** 21100937105
+   - **Author Ids:** 57197732278;25931091700;8433449900;36658082700;7006338311
+   - **Authoraffiliationids:** 60073836-60025153-60068774;60073836;60073836;60073836;60025153
+   - **Corresponding:** Mokalled H.
+38.
+   - **Title:** A digital implementation of extreme learning machines for resource-constrained devices
+   - **Venue:** IEEE Transactions on Circuits and Systems II Express Briefs
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 26
+   - **DOI:** 10.1109/TCSII.2018.2806085
+   - **Scopus ID:** 2-s2.0-85042122677
+   - **ISSN:** 15497747
+   - **eISSN:** 15583791
+   - **Volume:** 65
+   - **Issue:** 8
+   - **Pages:** 1104-1108
+   - **Authors:** Ragusa Edoardo; Gianoglio Christian; Gastaldo Paolo; Zunino Rodolfo
+   - **Keywords:** CPLD | digital architectures | extreme learning machine | FPGA | Neural networks | threshold function
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 97, percentile 90)
+     2018:
+     - Electrical and Electronic Engineering (Q1, rank 137, percentile 79)
+   - **Source Id:** 9500153930
+   - **Author Ids:** 56580248800;56580140000;35612596100;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Ragusa E.
+39.
+   - **Title:** Bayesian network based extreme learning machine for subjectivity detection
+   - **Venue:** Journal of the Franklin Institute
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 149
+   - **DOI:** 10.1016/j.jfranklin.2017.06.007
+   - **Scopus ID:** 2-s2.0-85024868159
+   - **ISSN:** 00160032
+   - **Volume:** 355
+   - **Issue:** 4
+   - **Pages:** 1780-1797
+   - **Authors:** Chaturvedi Iti; Ragusa Edoardo; Gastaldo Paolo; Zunino Rodolfo; Cambria Erik
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 59, percentile 91)
+     - Signal Processing (Q1, rank 39, percentile 80)
+     - Computer Networks and Communications (Q1, rank 134, percentile 75)
+     - Control and Systems Engineering (Q1, rank 94, percentile 75)
+     2018:
+     - Applied Mathematics (Q1, rank 22, percentile 95)
+     - Control and Systems Engineering (Q1, rank 35, percentile 85)
+     - Computer Networks and Communications (Q1, rank 45, percentile 84)
+     - Signal Processing (Q1, rank 18, percentile 82)
+   - **Source Id:** 27959
+   - **Author Ids:** 12646151300;56580248800;35612596100;7006338311;56140547500
+   - **Authoraffiliationids:** 60078616;60025153;60025153;60025153;60078616
+   - **Corresponding:** Chaturvedi I.
+40.
+   - **Title:** Learning with similarity functions: A novel design for the extreme learning machine
+   - **Venue:** Neurocomputing
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1016/j.neucom.2016.05.116
+   - **Scopus ID:** 2-s2.0-85014115331
+   - **ISSN:** 09252312
+   - **eISSN:** 18728286
+   - **Volume:** 261
+   - **Pages:** 37-49
+   - **Authors:** Gastaldo P.; Bisio F.; Gianoglio C.; Ragusa E.; Zunino R.
+   - **Keywords:** Extreme learning machine | Similarity functions | Single-layer feedforward neural networks
+   - **Quartile:**
+     2025:
+     - Cognitive Neuroscience (Q1, rank 10, percentile 92)
+     - Computer Science Applications (Q1, rank 124, percentile 87)
+     - Artificial Intelligence (Q1, rank 85, percentile 82)
+     2017:
+     - Computer Science Applications (Q1, rank 62, percentile 89)
+     - Artificial Intelligence (Q1, rank 22, percentile 88)
+     - Cognitive Neuroscience (Q1, rank 21, percentile 77)
+   - **Source Id:** 24807
+   - **Author Ids:** 35612596100;55547779800;56580140000;56580248800;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Gastaldo P.
+41.
+   - **Title:** Spam detection of Twitter traffic: A framework based on random forests and non-uniform feature sampling
+   - **Venue:** Proceedings of the 2016 IEEE ACM International Conference on Advances in Social Networks Analysis and Mining Asonam 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 18
+   - **DOI:** 10.1109/ASONAM.2016.7752331
+   - **Scopus ID:** 2-s2.0-85006742027
+   - **Pages:** 811-817
+   - **Authors:** Meda Claudia; Ragusa Edoardo; Gianoglio Christian; Zunino Rodolfo; Ottaviano Augusto; Scillia Eugenio; Surlinelli Roberto
+   - **Keywords:** Automated Tools | Cyber Security | Social Network Analysis | Spam detection
+   - **Source Id:** 21100789853
+   - **Author Ids:** 56685186400;56580248800;56580140000;7006338311;56022476000;56023174500;36702235700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;116509853;116509853;116509853
+   - **Corresponding:** Meda C.
+42.
+   - **Title:** SIM-ELM: Connecting the ELM model with similarity-function learning
+   - **Venue:** Neural Networks
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1016/j.neunet.2015.10.011
+   - **Scopus ID:** 2-s2.0-84947976021
+   - **ISSN:** 08936080
+   - **eISSN:** 18792782
+   - **Volume:** 74
+   - **Pages:** 22-34
+   - **Authors:** Gastaldo Paolo; Bisio Federica; Decherchi Sergio; Zunino Rodolfo
+   - **Keywords:** Extreme learning machine | Randomization in learning | Similarity functions | Supervised learning
+   - **Quartile:**
+     2025:
+     - Cognitive Neuroscience (Q1, rank 11, percentile 91)
+     - Artificial Intelligence (Q1, rank 88, percentile 82)
+     2016:
+     - Artificial Intelligence (Q1, rank 12, percentile 92)
+     - Cognitive Neuroscience (Q1, rank 7, percentile 92)
+   - **Source Id:** 24804
+   - **Author Ids:** 35612596100;55547779800;23090052400;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60102151;60025153
+   - **Corresponding:** Gastaldo P.
+43.
+   - **Title:** A piezoelectric power supplier for autonomous underwater sensors
+   - **Venue:** Energy Harvesting Technology Methods and Applications
+   - **Year:** 2016
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85061696773
+   - **Pages:** 129-146
+   - **Authors:** Perelli Andrea; Zunino Rodolfo; Rossi Fabio; Agata Viscusi
+   - **Keywords:** Energy harvesting | Piezoelectricity | Underwater | Von-Karman Vortex
+   - **Source Id:** 21100898830
+   - **Author Ids:** 55902582900;7006338311;57199786105;57206476370
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Perelli A.
+44.
+   - **Title:** Sentiment-oriented information retrieval: Affective analysis of documents based on the SenticNet framework
+   - **Venue:** Studies in Computational Intelligence
+   - **Year:** 2016
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 5
+   - **DOI:** 10.1007/978-3-319-30319-2_8
+   - **Scopus ID:** 2-s2.0-84961621910
+   - **ISSN:** 1860949X
+   - **Volume:** 639
+   - **Pages:** 175-197
+   - **Authors:** Bisio Federica; Meda Claudia; Gastaldo Paolo; Zunino Rodolfo; Cambria Erik
+   - **Keywords:** Senticnet | Sentiment analysis | SLAIR | Text mining
+   - **Quartile:**
+     2025:
+     - Artificial Intelligence (Q3, rank 308, percentile 37)
+     2016:
+     - Artificial Intelligence (Q3, rank 112, percentile 30)
+   - **Source Id:** 4900152708
+   - **Author Ids:** 55547779800;56685186400;35612596100;7006338311;56140547500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60005510
+   - **Corresponding:** Bisio F.
+45.
+   - **Title:** Machine learning-based system for detecting unseen malicious software
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2016
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1007/978-3-319-20227-3_2
+   - **Scopus ID:** 2-s2.0-84950238078
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 351
+   - **Pages:** 9-15
+   - **Authors:** Bisio Federica; Gastaldo Paolo; Meda Claudia; Nasta Stefano; Zunino Rodolfo
+   - **Keywords:** Machine learning | Malware detection | Support vector machine
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+     2016:
+     - Industrial and Manufacturing Engineering (Q3, rank 211, percentile 30)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 55547779800;35612596100;56685186400;57008038500;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio F.
+46.
+   - **Title:** Inductive bias for semi-supervised extreme learning machine
+   - **Venue:** Neurocomputing
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1016/j.neucom.2015.04.104
+   - **Scopus ID:** 2-s2.0-84940062177
+   - **ISSN:** 09252312
+   - **eISSN:** 18728286
+   - **Volume:** 174
+   - **Pages:** 154-167
+   - **Authors:** Bisio Federica; Decherchi Sergio; Gastaldo Paolo; Zunino Rodolfo
+   - **Keywords:** Extreme learning machine | Inductive bias | Semi-supervised learning
+   - **Quartile:**
+     2025:
+     - Cognitive Neuroscience (Q1, rank 10, percentile 92)
+     - Computer Science Applications (Q1, rank 124, percentile 87)
+     - Artificial Intelligence (Q1, rank 85, percentile 82)
+     2016:
+     - Computer Science Applications (Q1, rank 86, percentile 83)
+     - Artificial Intelligence (Q2, rank 47, percentile 70)
+     - Cognitive Neuroscience (Q2, rank 36, percentile 59)
+   - **Source Id:** 24807
+   - **Author Ids:** 55547779800;23090052400;35612596100;7006338311
+   - **Authoraffiliationids:** 60025153;60102151;60025153;60025153
+   - **Corresponding:** Bisio F.
+47.
+   - **Title:** A learning scheme based on similarity functions for affective common-sense reasoning
+   - **Venue:** Proceedings of the International Joint Conference on Neural Networks
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/IJCNN.2015.7280633
+   - **Scopus ID:** 2-s2.0-84951000029
+   - **Volume:** 2015-September
+   - **Authors:** Bisio Federica; Gastaldo Paolo; Zunino Rodolfo; Cambria Erik
+   - **Keywords:** Silicon
+   - **Source Id:** 96537
+   - **Author Ids:** 55547779800;35612596100;7006338311;56140547500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60078616
+   - **Corresponding:** Bisio F.
+48.
+   - **Title:** Hardware Architectures for Vector Quantization in Very Low Bit-Rate Image Coding
+   - **Venue:** International Workshop on Hdtv 1996
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.5594/M001253
+   - **Scopus ID:** 2-s2.0-85022343832
+   - **Pages:** 198-202
+   - **Authors:** Ancona Fabio; Rovetta Stefano; Zunino Rodolfo
+   - **Source Id:** 21100822807
+   - **Author Ids:** 57195557700;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+49.
+   - **Title:** Multibest: Multiple Vector Interpolation for Vector-Quantization Based Image Compression
+   - **Venue:** International Workshop on Hdtv 1996
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.5594/M001257
+   - **Scopus ID:** 2-s2.0-85022335003
+   - **Pages:** 231-241
+   - **Authors:** Ancona F.; Passaggio F.; Rovetta S.; Zunino R.
+   - **Source Id:** 21100822807
+   - **Author Ids:** 57195557700;7801418745;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+50.
+   - **Title:** Analog Implementation of Vector Quantization
+   - **Venue:** International Workshop on Hdtv 1996
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.5594/M001240
+   - **Scopus ID:** 2-s2.0-85022332675
+   - **Pages:** 97-105
+   - **Authors:** Ancona Fabio; Rovetta Stefano; Zunino Rodolfo
+   - **Source Id:** 21100822807
+   - **Author Ids:** 57195557700;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+51.
+   - **Title:** Hardware Architectures for Vector Quantization in Very Low Bit-Rate Image Coding
+   - **Venue:** International Workshop on Hdtv 1996
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.5594/M001241
+   - **Scopus ID:** 2-s2.0-84892175716
+   - **Pages:** 106-116
+   - **Authors:** Ancona Fabio; Rovetta Stefano; Zunino Rodolfo
+   - **Source Id:** 21100822807
+   - **Author Ids:** 57195557700;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+52.
+   - **Title:** Real-time monitoring of Twitter traffic by using semantic networks
+   - **Venue:** Proceedings of the 2015 IEEE ACM International Conference on Advances in Social Networks Analysis and Mining Asonam 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1145/2808797.2809371
+   - **Scopus ID:** 2-s2.0-84962598346
+   - **Pages:** 966-969
+   - **Authors:** Bisio Federica; Meda Claudia; Zunino Rodolfo; Surlinelli Roberto; Scillia Eugenio; Ottaviano Augusto
+   - **Keywords:** Semantic network | Social Network analysis | Text mining
+   - **Source Id:** 21100455410
+   - **Author Ids:** 55547779800;56685186400;7006338311;36702235700;56023174500;56022476000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;116509853;116509853;116509853
+   - **Corresponding:** Bisio F.
+53.
+   - **Title:** An ELM-based model for affective analogical reasoning
+   - **Venue:** Neurocomputing
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 88
+   - **DOI:** 10.1016/j.neucom.2014.01.064
+   - **Scopus ID:** 2-s2.0-84969228568
+   - **ISSN:** 09252312
+   - **eISSN:** 18728286
+   - **Volume:** 149
+   - **Issue:** Part A
+   - **Pages:** 443-455
+   - **Authors:** Cambria Erik; Gastaldo Paolo; Bisio Federica; Zunino Rodolfo
+   - **Keywords:** Analogical reasoning | Artificial intelligence | Extreme learning machine | Natural language processing | Opinion mining
+   - **Quartile:**
+     2025:
+     - Cognitive Neuroscience (Q1, rank 10, percentile 92)
+     - Computer Science Applications (Q1, rank 124, percentile 87)
+     - Artificial Intelligence (Q1, rank 85, percentile 82)
+     2015:
+     - Computer Science Applications (Q1, rank 96, percentile 81)
+     - Artificial Intelligence (Q2, rank 51, percentile 66)
+     - Cognitive Neuroscience (Q2, rank 39, percentile 52)
+   - **Source Id:** 24807
+   - **Author Ids:** 56140547500;35612596100;55547779800;7006338311
+   - **Authoraffiliationids:** 60078616;60025153;60025153;60025153
+   - **Corresponding:** Cambria E.
+54.
+   - **Title:** Sensor integration in associative visual structures
+   - **Venue:** European Signal Processing Conference
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85113872253
+   - **ISSN:** 22195491
+   - **Authors:** Ancona Fabio; Parodi Giancarlo; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 109, percentile 44)
+     - Electrical and Electronic Engineering (Q3, rank 573, percentile 42)
+   - **Source Id:** 21100204301
+   - **Author Ids:** 57195557700;7006518995;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+55.
+   - **Title:** A tensor-based approach to touch modality classification by using machine learning
+   - **Venue:** Robotics and Autonomous Systems
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 48
+   - **DOI:** 10.1016/j.robot.2014.09.022
+   - **Scopus ID:** 2-s2.0-84919492826
+   - **ISSN:** 09218890
+   - **Volume:** 63
+   - **Issue:** P3
+   - **Pages:** 268-278
+   - **Authors:** Gastaldo P.; Pinna L.; Seminara L.; Valle M.; Zunino R.
+   - **Keywords:** Array signal processing | Kernel machines | Machine learning | PVDF tactile sensors | Touch modality
+   - **Quartile:**
+     2025:
+     - Mathematics (all) (Q1, rank 6, percentile 98)
+     - Control and Systems Engineering (Q1, rank 46, percentile 88)
+     - Software (Q1, rank 71, percentile 85)
+     - Computer Science Applications (Q1, rank 143, percentile 85)
+     2015:
+     - Mathematics (all) (Q1, rank 10, percentile 97)
+     - Control and Systems Engineering (Q1, rank 30, percentile 86)
+     - Computer Science Applications (Q1, rank 71, percentile 86)
+     - Software (Q1, rank 71, percentile 81)
+   - **Source Id:** 18079
+   - **Author Ids:** 35612596100;35932431800;19338029900;57197744325;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Gastaldo P.
+56.
+   - **Title:** A machine learning approach for Twitter spammers detection
+   - **Venue:** Proceedings International Carnahan Conference on Security Technology
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 25
+   - **DOI:** 10.1109/CCST.2014.6987029
+   - **Scopus ID:** 2-s2.0-84931062795
+   - **ISSN:** 10716572
+   - **Volume:** 2014-October
+   - **Issue:** October
+   - **Authors:** Meda Claudia; Bisio Federica; Gastaldo Paolo; Zunino Rodolfo
+   - **Keywords:** Machine Learning | Social Network Security | Twitter Spam Detection
+   - **Quartile:**
+     2025:
+     - Law (Q1, rank 183, percentile 83)
+     - Electrical and Electronic Engineering (Q2, rank 442, percentile 55)
+   - **Source Id:** 145377
+   - **Author Ids:** 56685186400;55547779800;35612596100;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Meda C.
+57.
+   - **Title:** Computational intelligence techniques for tactile sensing systems
+   - **Venue:** Sensors Switzerland
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 31
+   - **DOI:** 10.3390/s140610952
+   - **Scopus ID:** 2-s2.0-84902988710
+   - **ISSN:** 14248220
+   - **Volume:** 14
+   - **Issue:** 6
+   - **Pages:** 10952-10976
+   - **Authors:** Gastaldo Paolo; Pinna Luigi; Seminara Lucia; Valle Maurizio; Zunino Rodolfo
+   - **Keywords:** Computational intelligence | Electronic skin | Human-robot interaction | Pattern recognition | Touch modalities
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2014:
+     - Electrical and Electronic Engineering (Q1, rank 103, percentile 84)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 28, percentile 82)
+     - Analytical Chemistry (Q2, rank 35, percentile 64)
+     - Biochemistry (Q2, rank 176, percentile 53)
+   - **Source Id:** 130124
+   - **Author Ids:** 35612596100;35932431800;19338029900;57197744325;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Gastaldo P.
+58.
+   - **Title:** A high-linearity design for rail-to-rail fully differential current conveyors
+   - **Venue:** 2014 21st IEEE International Conference on Electronics Circuits and Systems Icecs 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ICECS.2014.7050044
+   - **Scopus ID:** 2-s2.0-84925436747
+   - **Pages:** 550-553
+   - **Authors:** Caviglia S.; Gastaldo P.; Zunino R.; Caviglia D. D.
+   - **Keywords:** complex filters | current-mode circuits | differential voltage current conveyor
+   - **Source Id:** 21101179872
+   - **Author Ids:** 56369796600;35612596100;7006338311;7004012654
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Caviglia S.
+59.
+   - **Title:** Semi-supervised machine learning approach for unknown malicious software detection
+   - **Venue:** Inista 2014 IEEE International Symposium on Innovations in Intelligent Systems and Applications Proceedings
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/INISTA.2014.6873597
+   - **Scopus ID:** 2-s2.0-84906696338
+   - **Pages:** 52-59
+   - **Authors:** Bisio Federica; Gastaldo Paolo; Zunino Rodolfo; Decherchi Sergio
+   - **Keywords:** biased regularization | malware detection | semi-supervised | SVM
+   - **Source Id:** 21100332184
+   - **Author Ids:** 55547779800;35612596100;7006338311;23090052400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60102151
+   - **Corresponding:** Bisio F.
+60.
+   - **Title:** A tensor-based pattern-recognition framework for the interpretation of touch modality in artificial skin systems
+   - **Venue:** IEEE Sensors Journal
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 34
+   - **DOI:** 10.1109/JSEN.2014.2320820
+   - **Scopus ID:** 2-s2.0-84901917081
+   - **ISSN:** 1530437X
+   - **Volume:** 14
+   - **Issue:** 7
+   - **Pages:** 2216-2225
+   - **Authors:** Gastaldo Paolo; Pinna Luigi; Seminara Lucia; Valle Maurizio; Zunino Rodolfo
+   - **Keywords:** artificial skin | kernel machines | machine learning | pattern recognition | Tactile sensors | touch modality interpretation
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 27, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 175, percentile 82)
+     2014:
+     - Instrumentation (Q1, rank 13, percentile 87)
+     - Electrical and Electronic Engineering (Q1, rank 99, percentile 84)
+   - **Source Id:** 15047
+   - **Author Ids:** 35612596100;35932431800;19338029900;57197744325;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Gastaldo P.
+61.
+   - **Title:** Extreme learning machines
+   - **Venue:** IEEE Intelligent Systems
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Note
+   - **Citations:** 324
+   - **DOI:** 10.1109/MIS.2013.140
+   - **Scopus ID:** 2-s2.0-84919336343
+   - **ISSN:** 15411672
+   - **Volume:** 28
+   - **Issue:** 6
+   - **Pages:** 30-59
+   - **Authors:** Cambria Erik; Huang Guang Bin; Kasun Liyanaarachchi Lekamalage Chamara; Zhou Hongming; Vong Chi Man; Lin Jiarun; Yin Jianping; Cai Zhiping; Liu Qiang; Li Kuan; Leung Victor C.M.; Feng Liang; Ong Yew Soon; Lim Meng Hiot; Akusok Anton; Lendasse Amaury; Corona Francesco; Nian Rui; Miche Yoan; Gastaldo Paolo; Zunino Rodolfo; Decherchi Sergio; Yang Xuefeng; Mao Kezhi; Oh Beom Seok; Jeon Jehyoung; Toh Kar Ann; Teoh Andrew Beng Jin; Kim Jaihie; Yu Hanchao; Chen Yiqiang; Liu Junfa
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 46, percentile 91)
+     - Artificial Intelligence (Q1, rank 62, percentile 87)
+     2013:
+     - Computer Networks and Communications (Q1, rank 37, percentile 82)
+     - Artificial Intelligence (Q1, rank 37, percentile 75)
+   - **Source Id:** 110111
+   - **Author Ids:** 56140547500;7403425167;49861636200;55716788800;6507859587;52663842300;35316676700;57072282500;57001286200;55431017700;7102336029;59584359700;7006735298;7201473152;55545946000;6602644355;23392086100;8544855500;15063034600;35612596100;7006338311;23090052400;56194089500;7006403609;34977256000;55647336600;7103138852;9733887900;8859952200;49362643700;35408792800;55983700400
+   - **Authoraffiliationids:** 60002243;60005510;60005510;60005510;60022317;60024350;60024350;60024350;60024350;60024350;60010365;60078616;60078616;60005510;60103653;60103653-60027856;60103653;60022422;60103653;60025153;60025153;60102151;60005510;60005510;60016912;60016912;60016912;60016912;60016912;60019499;60019499;60019499
+   - **Corresponding:** Cambria E.
+62.
+   - **Title:** Design and performance analysis of the mechanical structure of a piezoelectric generator by von Karman vortexes for underwater energy harvesting
+   - **Venue:** Oceans 2013 Mts IEEE Bergen the Challenges of the Northern Dimension
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/OCEANS-Bergen.2013.6608169
+   - **Scopus ID:** 2-s2.0-84886380614
+   - **Authors:** Perelli A.; Leoncini D. A.; Sandroni G.; Faggioni O.; Zunino R.; Soldani M.
+   - **Keywords:** energy harvesting | fluid dynamics | piezoelectricity | Von-Karman Vortex
+   - **Source Id:** 21100264282
+   - **Author Ids:** 55902582900;23473869300;55902461600;6602181469;7006338311;17136096200
+   - **Authoraffiliationids:** 113952024;60025153;60025153;60025153;60025153;60007111
+   - **Corresponding:** Perelli A.
+63.
+   - **Title:** Circular-ELM for the reduced-reference assessment of perceived image quality
+   - **Venue:** Neurocomputing
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 69
+   - **DOI:** 10.1016/j.neucom.2011.12.050
+   - **Scopus ID:** 2-s2.0-84870245922
+   - **ISSN:** 09252312
+   - **eISSN:** 18728286
+   - **Volume:** 102
+   - **Pages:** 78-89
+   - **Authors:** Decherchi Sergio; Gastaldo Paolo; Zunino Rodolfo; Cambria Erik; Redi Judith
+   - **Keywords:** Circular backpropagation | Extreme learning machine | Image quality assessment
+   - **Quartile:**
+     2025:
+     - Cognitive Neuroscience (Q1, rank 10, percentile 92)
+     - Computer Science Applications (Q1, rank 124, percentile 87)
+     - Artificial Intelligence (Q1, rank 85, percentile 82)
+     2013:
+     - Computer Science Applications (Q1, rank 105, percentile 78)
+     - Artificial Intelligence (Q2, rank 54, percentile 63)
+     - Cognitive Neuroscience (Q2, rank 37, percentile 51)
+   - **Source Id:** 24807
+   - **Author Ids:** 23090052400;35612596100;7006338311;56140547500;23398318700
+   - **Authoraffiliationids:** 60102151;60025153;60025153;60017161;60006288
+   - **Corresponding:** Decherchi S.
+64.
+   - **Title:** Supporting visual quality assessment with machine learning
+   - **Venue:** Eurasip Journal on Image and Video Processing
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 45
+   - **DOI:** 10.1186/1687-5281-2013-54
+   - **Scopus ID:** 2-s2.0-84911890032
+   - **ISSN:** 16875176
+   - **eISSN:** 16875281
+   - **Volume:** 2013
+   - **Issue:** 1
+   - **Authors:** Gastaldo Paolo; Zunino Rodolfo; Redi Judith
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 69, percentile 64)
+     - Electrical and Electronic Engineering (Q2, rank 358, percentile 64)
+     - Information Systems (Q2, rank 191, percentile 61)
+     2013:
+     - Electrical and Electronic Engineering (Q2, rank 243, percentile 61)
+     - Information Systems (Q2, rank 108, percentile 51)
+     - Signal Processing (Q2, rank 38, percentile 50)
+   - **Source Id:** 5200152707
+   - **Author Ids:** 35612596100;7006338311;23398318700
+   - **Authoraffiliationids:** 60025153;60025153;60006288
+   - **Corresponding:** Gastaldo P.
+65.
+   - **Title:** Combining ELMs with random projections
+   - **Venue:** IEEE Intelligent Systems
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 32
+   - **Scopus ID:** 2-s2.0-84906949151
+   - **ISSN:** 15411672
+   - **Volume:** 28
+   - **Issue:** 6
+   - **Pages:** 46-48
+   - **Authors:** Gastaldo Paolo; Zunino Rodolfo; Cambria Erik; Decherchi Sergio
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 46, percentile 91)
+     - Artificial Intelligence (Q1, rank 62, percentile 87)
+     2013:
+     - Computer Networks and Communications (Q1, rank 37, percentile 82)
+     - Artificial Intelligence (Q1, rank 37, percentile 75)
+   - **Source Id:** 110111
+   - **Author Ids:** 35612596100;7006338311;56140547500;23090052400
+   - **Authoraffiliationids:** 60025153;60025153;60002243;60102151
+   - **Corresponding:** Gastaldo P.
+66.
+   - **Title:** Embedded implementation of Edwards curve- and extended Jacobi quartic curve-based cryptosystems
+   - **Venue:** 2013 8th International Conference for Internet Technology and Secured Transactions Icitst 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICITST.2013.6750229
+   - **Scopus ID:** 2-s2.0-84896621825
+   - **Pages:** 394-400
+   - **Authors:** Peretti Chiara; Gastaldo Paolo; Stramezzi Marco; Zunino Rodolfo
+   - **Source Id:** 21100298637
+   - **Author Ids:** 54414790200;35612596100;56078144900;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Peretti C.
+67.
+   - **Title:** Data intensive review mining for sentiment classification across heterogeneous domains
+   - **Venue:** Proceedings of the 2013 IEEE ACM International Conference on Advances in Social Networks Analysis and Mining Asonam 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1145/2492517.2500280
+   - **Scopus ID:** 2-s2.0-84893315838
+   - **Pages:** 1061-1067
+   - **Authors:** Bisio Federica; Gastaldo Paolo; Peretti Chiara; Zunino Rodolfo; Cambria Erik
+   - **Keywords:** Cross-domain sentiment classification | Sentiment analysis
+   - **Source Id:** 21100285447
+   - **Author Ids:** 55547779800;35612596100;54414790200;7006338311;56140547500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60017161
+   - **Corresponding:** Bisio F.
+68.
+   - **Title:** An analyst-adaptive approach to focused Crawlers
+   - **Venue:** Proceedings of the 2013 IEEE ACM International Conference on Advances in Social Networks Analysis and Mining Asonam 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1145/2492517.2500328
+   - **Scopus ID:** 2-s2.0-84893255438
+   - **Pages:** 1073-1077
+   - **Authors:** Zunino Rodolfo; Bisio Federica; Peretti Chiara; Surlinelli Roberto; Scillia Eugenio; Ottaviano Augusto; Sangiacomo Fabio
+   - **Keywords:** Analyst-adaptation | Focused Crawler | OSINT
+   - **Source Id:** 21100285447
+   - **Author Ids:** 7006338311;55547779800;54414790200;36702235700;56023174500;56022476000;36683078600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;114176378;114176378;114176378;114176699
+   - **Corresponding:** Zunino R.
+69.
+   - **Title:** Efficient digital implementation of extreme learning machines for classification
+   - **Venue:** IEEE Transactions on Circuits and Systems II Express Briefs
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 85
+   - **DOI:** 10.1109/TCSII.2012.2204112
+   - **Scopus ID:** 2-s2.0-84865355028
+   - **ISSN:** 15497747
+   - **eISSN:** 15583791
+   - **Volume:** 59
+   - **Issue:** 8
+   - **Pages:** 496-500
+   - **Authors:** Decherchi Sergio; Gastaldo Paolo; Leoncini Alessio; Zunino Rodolfo
+   - **Keywords:** Complex programmable logic device (CPLD) | extreme learning machine (ELM) | field-programmable gate array (FPGA) | hardware (HW) neural networks (NNs)
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 97, percentile 90)
+   - **Source Id:** 9500153930
+   - **Author Ids:** 23090052400;35612596100;36682628400;7006338311
+   - **Authoraffiliationids:** 60102151;60025153;60025153;60025153
+   - **Corresponding:** Decherchi S.
+70.
+   - **Title:** Semantic models for style-based text clustering
+   - **Venue:** Proceedings 5th IEEE International Conference on Semantic Computing ICSC 2011
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ICSC.2011.24
+   - **Scopus ID:** 2-s2.0-81255156387
+   - **Pages:** 75-82
+   - **Authors:** Leoncini Alessio; Sangiacomo Fabio; Peretti Chiara; Argentesi Sonia; Zunino Rodolfo; Cambria Erik
+   - **Keywords:** Kernel K-Means | Multilingual document clustering | Semantic text clustering | Text mining | WordNet
+   - **Source Id:** 20500195091
+   - **Author Ids:** 36682628400;36683078600;54414790200;54392479600;7006338311;56140547500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025200
+   - **Corresponding:** Leoncini A.
+71.
+   - **Title:** Computational intelligence methods for underwater magnetic-based protection systems
+   - **Venue:** Proceedings of the International Joint Conference on Neural Networks
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IJCNN.2011.6033227
+   - **Scopus ID:** 2-s2.0-80054765918
+   - **Pages:** 238-245
+   - **Authors:** Decherchi Sergio; Leoncini Davide; Gastaldo Paolo; Zunino Rodolfo; Faggioni Osvaldo; Soldani Maurizio
+   - **Source Id:** 96537
+   - **Author Ids:** 23090052400;23473869300;35612596100;7006338311;6602181469;17136096200
+   - **Authoraffiliationids:** 60102151;60025153;60025153;60025153;60000243;60000243
+   - **Corresponding:** Decherchi S.
+72.
+   - **Title:** Semantic oriented clustering of documents
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2011
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1007/978-3-642-21111-9_59
+   - **Scopus ID:** 2-s2.0-79957789137
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 6677 Lncs
+   - **Issue:** Part 3
+   - **Pages:** 523-529
+   - **Authors:** Leoncini Alessio; Sangiacomo Fabio; Decherchi Sergio; Gastaldo Paolo; Zunino Rodolfo
+   - **Keywords:** Clustering | EuroWordNet | Semantic Orientation
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+     2011:
+     - Computer Science (all) (Q2, rank 79, percentile 55)
+     - Theoretical Computer Science (Q3, rank 85, percentile 26)
+   - **Source Id:** 25674
+   - **Author Ids:** 36682628400;36683078600;23090052400;35612596100;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Leoncini A.
+73.
+   - **Title:** Tactile-data classification of contact materials using computational intelligence
+   - **Venue:** IEEE Transactions on Robotics
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 94
+   - **DOI:** 10.1109/TRO.2011.2130030
+   - **Scopus ID:** 2-s2.0-79958766030
+   - **ISSN:** 15523098
+   - **Volume:** 27
+   - **Issue:** 3
+   - **Pages:** 635-639
+   - **Authors:** Decherchi Sergio; Gastaldo Paolo; Dahiya Ravinder S.; Valle Maurizio; Zunino Rodolfo
+   - **Keywords:** Computational intelligence (CI) | machine learning | material classification | tactile sensing | tactile-data processing
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 26, percentile 97)
+     - Computer Science Applications (Q1, rank 30, percentile 96)
+     - Control and Systems Engineering (Q1, rank 12, percentile 96)
+     2011:
+     - Control and Systems Engineering (Q1, rank 3, percentile 98)
+     - Computer Science Applications (Q1, rank 8, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 14, percentile 97)
+   - **Source Id:** 95101
+   - **Author Ids:** 23090052400;35612596100;24331529200;57197744325;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60083112;60025153;60025153
+   - **Corresponding:** Decherchi S.
+74.
+   - **Title:** Interactions of visual attention and quality perception
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 48
+   - **DOI:** 10.1117/12.876712
+   - **Scopus ID:** 2-s2.0-79953705114
+   - **ISSN:** 0277786X
+   - **Volume:** 7865
+   - **Authors:** Redi Judith; Liu Hantao; Zunino Rodolfo; Heynderickx Ingrid
+   - **Keywords:** eye-tracking | image quality assessment | scene saliency | subjective quality evaluation | Visual attention
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+     2011:
+     - Electrical and Electronic Engineering (Q3, rank 360, percentile 38)
+     - Condensed Matter Physics (Q3, rank 273, percentile 28)
+     - Applied Mathematics (Q3, rank 278, percentile 27)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 134, percentile 27)
+     - Computer Science Applications (Q4, rank 342, percentile 24)
+   - **Source Id:** 40067
+   - **Author Ids:** 23398318700;55581726800;7006338311;6701861864
+   - **Authoraffiliationids:** 60006288;60006288;60025153;60006288-60016561
+   - **Corresponding:** Redi J.
+75.
+   - **Title:** Operative assessment of predicted generalization errors on non-stationary distributions in data-intensive applications
+   - **Venue:** Intelligent Data Analysis
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3233/IDA-2010-0463
+   - **Scopus ID:** 2-s2.0-79953299698
+   - **ISSN:** 1088467X
+   - **eISSN:** 15714128
+   - **Volume:** 15
+   - **Issue:** 2
+   - **Pages:** 193-214
+   - **Authors:** Decherchi Sergio; Gastaldo Paolo; Sangiacomo Fabio; Leoncini Alessio; Zunino Rodolfo
+   - **Keywords:** clustering | data mining | K-Winner machine | non-stationary distribution | Statistical learning theory
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q3, rank 95, percentile 44)
+     - Artificial Intelligence (Q3, rank 313, percentile 36)
+     - Theoretical Computer Science (Q3, rank 92, percentile 32)
+     2011:
+     - Computer Vision and Pattern Recognition (Q3, rank 39, percentile 30)
+     - Artificial Intelligence (Q3, rank 106, percentile 25)
+     - Theoretical Computer Science (Q4, rank 88, percentile 23)
+   - **Source Id:** 11300153726
+   - **Author Ids:** 23090052400;35612596100;36683078600;36682628400;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Decherchi S.
+76.
+   - **Title:** Efficient approximate Regularized Least Squares by Toeplitz matrix
+   - **Venue:** Pattern Recognition Letters
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1016/j.patrec.2010.10.011
+   - **Scopus ID:** 2-s2.0-78649332563
+   - **ISSN:** 01678655
+   - **Volume:** 32
+   - **Issue:** 3
+   - **Pages:** 468-475
+   - **Authors:** Decherchi Sergio; Gastaldo Paolo; Zunino Rodolfo
+   - **Keywords:** Digital signal processor | Large-scale learning | Levinson-Trench-Zohar algorithm | Regularized Least Squares | Resources limited device | Toeplitz matrix
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 27, percentile 86)
+     - Computer Vision and Pattern Recognition (Q1, rank 29, percentile 83)
+     - Software (Q1, rank 112, percentile 77)
+     - Artificial Intelligence (Q1, rank 124, percentile 75)
+     2011:
+     - Signal Processing (Q1, rank 12, percentile 82)
+     - Computer Vision and Pattern Recognition (Q1, rank 12, percentile 79)
+     - Software (Q1, rank 81, percentile 77)
+     - Artificial Intelligence (Q2, rank 41, percentile 71)
+   - **Source Id:** 24825
+   - **Author Ids:** 23090052400;35612596100;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Decherchi S.
+77.
+   - **Title:** Hausdorff distance for template detection and efficient implementation on embedded systems
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ISIE.2010.5637569
+   - **Scopus ID:** 2-s2.0-78650368215
+   - **Pages:** 1623-1626
+   - **Authors:** Petracca Gaetano; Leoncini Alessio; Sangiacomo Fabio; Zunino Rodolfo
+   - **Source Id:** 85690
+   - **Author Ids:** 36683054300;36682628400;36683078600;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Petracca G.
+78.
+   - **Title:** SeaLab advanced information retrieval
+   - **Venue:** Proceedings 2010 IEEE 4th International Conference on Semantic Computing ICSC 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ICSC.2010.48
+   - **Scopus ID:** 2-s2.0-79952045913
+   - **Pages:** 444-445
+   - **Authors:** Sangiacomo Fabio; Leoncini Alessio; Decherchi Sergio; Gastaldo Paolo; Zunino Rodolfo
+   - **Keywords:** Hybrid metric | Kernel K-means | Semantic representation | Support vector machines | Text clustering | WordNet
+   - **Source Id:** 19700188344
+   - **Author Ids:** 36683078600;36682628400;23090052400;35612596100;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Sangiacomo F.
+79.
+   - **Title:** Color distribution information for the reduced-reference assessment of perceived image quality
+   - **Venue:** IEEE Transactions on Circuits and Systems for Video Technology
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 60
+   - **DOI:** 10.1109/TCSVT.2010.2087456
+   - **Scopus ID:** 2-s2.0-79551593878
+   - **ISSN:** 10518215
+   - **Volume:** 20
+   - **Issue:** 12
+   - **Pages:** 1757-1769
+   - **Authors:** Redi Judith A.; Gastaldo Paolo; Heynderickx Ingrid; Zunino Rodolfo
+   - **Keywords:** Computational intelligence | correlogram | image quality assessment
+   - **Quartile:**
+     2025:
+     - Media Technology (Q1, rank 1, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 31, percentile 96)
+   - **Source Id:** 26027
+   - **Author Ids:** 23398318700;35612596100;6701861864;7006338311
+   - **Authoraffiliationids:** 60006288;60025153;60016561-60006288;60025153
+   - **Corresponding:** Redi J.
+80.
+   - **Title:** No-reference image quality assessment based on localized gradient statistics: Application to JPEG and JPEG2000
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1117/12.838982
+   - **Scopus ID:** 2-s2.0-77949467777
+   - **ISSN:** 0277786X
+   - **Volume:** 7527
+   - **Authors:** Liu Hantao; Redi Judith; Alers Hani; Zunino Rodolfo; Heynderickx Ingrid
+   - **Keywords:** Image quality assessment | JPEG | JPEG2000 | Neural network | Objective metric
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 55581726800;23398318700;35221190800;7006338311;6701861864
+   - **Authoraffiliationids:** 60006288;60025153;60006288;60025153;60006288-60016561
+   - **Corresponding:** Liu H.
+81.
+   - **Title:** Using unsupervised analysis to constrain generalization bounds for support vector classifiers
+   - **Venue:** IEEE Transactions on Neural Networks
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 20
+   - **DOI:** 10.1109/TNN.2009.2038695
+   - **Scopus ID:** 2-s2.0-77649275505
+   - **ISSN:** 10459227
+   - **Volume:** 21
+   - **Issue:** 3
+   - **Pages:** 424-438
+   - **Authors:** Decherchi Sergio; Ridella Sandro; Zunino Rodolfo; Gastaldo Paolo; Anguita Davide
+   - **Keywords:** Maximal discrepancy (MD) | Mixed unsupervised and supervised methods | Support vector machine (SVM) | Vector quantization (VQ)
+   - **Source Id:** 24243
+   - **Author Ids:** 23090052400;7006643280;7006338311;35612596100;7004764744
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Decherchi S.
+82.
+   - **Title:** Comparing subjective image quality measurement methods for the creation of public databases
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 29
+   - **DOI:** 10.1117/12.839195
+   - **Scopus ID:** 2-s2.0-77049100324
+   - **ISSN:** 0277786X
+   - **Volume:** 7529
+   - **Authors:** Redi Judith; Liu Hantao; Alers Hani; Zunino Rodolfo; Heynderickx Ingrid
+   - **Keywords:** Image quality | Psychometrics | Quality ruler | Single stimulus | Subjective quality assessment
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 23398318700;55581726800;35221190800;7006338311;6701861864
+   - **Authoraffiliationids:** 60025153;60006288;60006288;60025153;60006288-60016561
+   - **Corresponding:** Redi J.
+83.
+   - **Title:** A preliminary study on SVM based analysis of underwater magnetic signals for port protection
+   - **Venue:** Advances in Intelligent and Soft Computing
+   - **Year:** 2009
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1007/978-3-642-04091-7_5
+   - **Scopus ID:** 2-s2.0-84886056794
+   - **ISSN:** 18675662
+   - **Volume:** 63 Aisc
+   - **Pages:** 37-44
+   - **Authors:** Leoncini Davide; Decherchi Sergio; Faggioni Osvaldo; Gastaldo Paolo; Soldani Maurizio; Zunino Rodolfo
+   - **Keywords:** Magnetic signal processing | Port protection | Support Vector Machine | Underwater detection systems
+   - **Source Id:** 21100778844
+   - **Author Ids:** 23473869300;23090052400;6602181469;35612596100;17136096200;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60000243;60025153;60000243;60025153
+   - **Corresponding:** Leoncini D.
+84.
+   - **Title:** Preface
+   - **Venue:** Advances in Intelligent and Soft Computing
+   - **Year:** 2009
+   - **Type:** Book Series
+   - **Subtype:** Editorial
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84886039625
+   - **ISSN:** 18675662
+   - **Volume:** 63 Aisc
+   - **Authors:** Herrero Álvaro; Gastaldo Paolo; Corchado Emilio; Zunino Rodolfo
+   - **Source Id:** 21100778844
+   - **Author Ids:** 8892618100;35612596100;6602872701;7006338311
+   - **Corresponding:** Herrero A.
+85.
+   - **Title:** Text clustering for digital forensics analysis
+   - **Venue:** Advances in Intelligent and Soft Computing
+   - **Year:** 2009
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 28
+   - **DOI:** 10.1007/978-3-642-04091-7_4
+   - **Scopus ID:** 2-s2.0-84857840005
+   - **ISSN:** 18675662
+   - **Volume:** 63 Aisc
+   - **Pages:** 29-36
+   - **Authors:** Decherchi Sergio; Tacconi Simone; Redi Judith; Leoncini Alessio; Sangiacomo Fabio; Zunino Rodolfo
+   - **Keywords:** Digital investigation | Forensics analysis | Text clustering
+   - **Source Id:** 21100778844
+   - **Author Ids:** 23090052400;15519701000;23398318700;36682628400;36683078600;7006338311
+   - **Authoraffiliationids:** 60025153;100930491;60025153;60025153;60025153;60025153
+   - **Corresponding:** Decherchi S.
+86.
+   - **Title:** Hybrid neural systems for reduced-reference image quality assessment
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2009
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1007/978-3-642-04277-5_69
+   - **Scopus ID:** 2-s2.0-70450243101
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 5769 Lncs
+   - **Issue:** Part 2
+   - **Pages:** 684-693
+   - **Authors:** Redi Judith; Gastaldo Paolo; Zunino Rodolfo
+   - **Keywords:** Image quality assessment | Neural networks | Svm
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 23398318700;35612596100;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Redi J.
+87.
+   - **Title:** Circuit implementation of SVM training
+   - **Venue:** Proceedings of the International Joint Conference on Neural Networks
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IJCNN.2009.5178613
+   - **Scopus ID:** 2-s2.0-70449371500
+   - **Pages:** 646-651
+   - **Authors:** Decherchi Sergio; Gastaldo Paolo; Parodi Mauro; Zunino Rodolfo
+   - **Source Id:** 96537
+   - **Author Ids:** 23090052400;35612596100;35508934400;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Decherchi S.
+88.
+   - **Title:** Maximal-Discrepancy bounds for Regularized Classifiers
+   - **Venue:** Proceedings of the International Joint Conference on Neural Networks
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IJCNN.2009.5178614
+   - **Scopus ID:** 2-s2.0-70449370294
+   - **Pages:** 652-656
+   - **Authors:** Decherchi Sergio; Gastaldo Paolo; Redi Judith; Zunino Rodolfo
+   - **Source Id:** 96537
+   - **Author Ids:** 23090052400;35612596100;23398318700;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Decherchi S.
+89.
+   - **Title:** Neural projection techniques for the visual inspection of network traffic
+   - **Venue:** Neurocomputing
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 29
+   - **DOI:** 10.1016/j.neucom.2008.12.038
+   - **Scopus ID:** 2-s2.0-69249203697
+   - **ISSN:** 09252312
+   - **Volume:** 72
+   - **Issue:** 16-18
+   - **Pages:** 3649-3658
+   - **Authors:** Herrero Álvaro; Corchado Emilio; Gastaldo Paolo; Zunino Rodolfo
+   - **Keywords:** Computer network security | Network traffic monitoring | Neural projection models
+   - **Quartile:**
+     2025:
+     - Cognitive Neuroscience (Q1, rank 10, percentile 92)
+     - Computer Science Applications (Q1, rank 124, percentile 87)
+     - Artificial Intelligence (Q1, rank 85, percentile 82)
+   - **Source Id:** 24807
+   - **Author Ids:** 8892618100;6602872701;35612596100;7006338311
+   - **Authoraffiliationids:** 60022866;60022866;60025153;60025153
+   - **Corresponding:** Herrero A.
+90.
+   - **Title:** Hypermetric k-means clustering for content-based document management
+   - **Venue:** Advances in Soft Computing
+   - **Year:** 2009
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-540-88181-0_8
+   - **Scopus ID:** 2-s2.0-58149117962
+   - **ISSN:** 16153871
+   - **eISSN:** 18600794
+   - **Volume:** 53
+   - **Pages:** 61-68
+   - **Authors:** Decherchi Sergio; Gastaldo Paolo; Redi Judith; Zunino Rodolfo
+   - **Keywords:** Document clustering | Homeland security | Kernel k-means
+   - **Source Id:** 21100778845
+   - **Author Ids:** 23090052400;35612596100;23398318700;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Decherchi S.
+91.
+   - **Title:** How to apply spatial saliency into objective metrics for JPEG compressed images?
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 17
+   - **DOI:** 10.1109/ICIP.2009.5414035
+   - **Scopus ID:** 2-s2.0-77951950985
+   - **ISSN:** 15224880
+   - **Pages:** 961-964
+   - **Authors:** Redi Judith; Liu Hantao; Gastaldo Paolo; Zunino Rodolfo; Heynderickx Ingrid
+   - **Keywords:** Image quality assessment | Neural networks | Objective metric | Visual attention
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 23398318700;55581726800;35612596100;7006338311;6701861864
+   - **Authoraffiliationids:** 60025153;60006288;60025153;60025153;60006288-60016561
+   - **Corresponding:** Redi J.
+92.
+   - **Title:** Low-complexity, linear circuit implementation of support vector machines training
+   - **Venue:** Electronics Letters
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1049/el:20082210
+   - **Scopus ID:** 2-s2.0-57349158096
+   - **ISSN:** 00135194
+   - **Volume:** 44
+   - **Issue:** 25
+   - **Pages:** 1478-1479
+   - **Authors:** Decherchi S.; Gastaldo P.; Parodi M.; Zunino R.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 624, percentile 37)
+   - **Source Id:** 24918
+   - **Author Ids:** 23090052400;35612596100;35508934400;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Decherchi S.
+93.
+   - **Title:** Enhanced montgomery multiplication on DSP architectures for embedded public-key cryptosystems
+   - **Venue:** Eurasip Journal on Embedded Systems
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1155/2008/583926
+   - **Scopus ID:** 2-s2.0-84886068262
+   - **ISSN:** 16873955
+   - **eISSN:** 16873963
+   - **Volume:** 2008
+   - **Authors:** Gastaldo P.; Parodi G.; Zunino R.
+   - **Source Id:** 4000151614
+   - **Author Ids:** 35612596100;7006518995;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Gastaldo P.
+94.
+   - **Title:** Co-occurrence matrixes for the quality assessment of coded images
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2008
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1007/978-3-540-87536-9_92
+   - **Scopus ID:** 2-s2.0-58849093305
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 5163 Lncs
+   - **Issue:** Part 1
+   - **Pages:** 897-906
+   - **Authors:** Redi Judith; Gastaldo Paolo; Zunino Rodolfo; Heynderickx Ingrid
+   - **Keywords:** Neural networks | Objective quality assessment
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 23398318700;35612596100;7006338311;6701861864
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60016561-60006288
+   - **Corresponding:** Redi J.
+95.
+   - **Title:** Non-stationary data mining: The network security issue
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2008
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-540-87559-8_4
+   - **Scopus ID:** 2-s2.0-51849135406
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 5164 Lncs
+   - **Issue:** Part 2
+   - **Pages:** 32-41
+   - **Authors:** Decherchi Sergio; Gastaldo Paolo; Redi Judith; Zunino Rodolfo
+   - **Keywords:** Clustering | Data mining | Intrusion detection systems | K-winner machine | Network security
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 23090052400;35612596100;23398318700;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Decherchi S.
+96.
+   - **Title:** Co-occurrence matrixes for the quality assessment of coded images
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ISIE.2007.4374840
+   - **Scopus ID:** 2-s2.0-50049123919
+   - **Pages:** 1584-1589
+   - **Authors:** Redi Judith; Gastaldo Paolo; Parodi Giovanni; Zunino Rodolfo
+   - **Source Id:** 85690
+   - **Author Ids:** 23398318700;35612596100;7006518995;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Redi J.
+97.
+   - **Title:** Embedded public-key cryptosystems via enhanced Montgomery multiplication
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ISIE.2007.4374882
+   - **Scopus ID:** 2-s2.0-50049106185
+   - **Pages:** 1820-1825
+   - **Authors:** Gastaldo Paolo; Parodi Giovanni; Picasso Francesco; Zunino Rodolfo
+   - **Source Id:** 85690
+   - **Author Ids:** 35612596100;7006518995;23390382200;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gastaldo P.
+98.
+   - **Title:** Auto-associative neural techniques for intrusion detection systems
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ISIE.2007.4374898
+   - **Scopus ID:** 2-s2.0-50049104205
+   - **Pages:** 1905-1910
+   - **Authors:** Herrero Álvaro; Corchado Emilio; Gastaldo Paolo; Picasso Francesco; Zunino Rodolfo
+   - **Source Id:** 85690
+   - **Author Ids:** 8892618100;6602872701;35612596100;23390382200;7006338311
+   - **Authoraffiliationids:** 60022866;60022866;60025153;60025153;60025153
+   - **Corresponding:** Herrero A.
+99.
+   - **Title:** IDS based on bio-inspired models
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2007
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-540-74827-4_17
+   - **Scopus ID:** 2-s2.0-38049079250
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 4693 Lnai
+   - **Issue:** Part 2
+   - **Pages:** 133-140
+   - **Authors:** Gastaldo Paolo; Picasso Francesco; Zunino Rodolfo; Herrero Álvaro; Corchado Emilio; Sáiz José Manuel
+   - **Keywords:** Auto-associative back-propagation | Computer network security | Intrusion detection | Projection methods | Unsupervised learning | Visualization
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 35612596100;23390382200;7006338311;8892618100;6602872701;36849297700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60022866;60022866;60022866
+   - **Corresponding:** Gastaldo P.
+100.
+   - **Title:** Intrusion detection at packet level by unsupervised architectures
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2007
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1007/978-3-540-77226-2_72
+   - **Scopus ID:** 2-s2.0-38449095007
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 4881 Lncs
+   - **Pages:** 718-727
+   - **Authors:** Herrero Álvaro; Corchado Emilio; Gastaldo Paolo; Leoncini Davide; Picasso Francesco; Zunino Rodolfo
+   - **Keywords:** Auto associative back propagation | Intrusion detection system | Network security | Self-organizing map | Vector quantization
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 8892618100;6602872701;35612596100;23473869300;23390382200;7006338311
+   - **Authoraffiliationids:** 60022866;60022866;60025153;60025153;60025153;60025153
+   - **Corresponding:** Herrero A.
+101.
+   - **Title:** No-reference quality assessment of JPEG images by using CBP neural networks
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2007
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1007/978-3-540-74695-9_58
+   - **Scopus ID:** 2-s2.0-38149045163
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 4669 Lncs
+   - **Issue:** Part 2
+   - **Pages:** 564-572
+   - **Authors:** Gastaldo Paolo; Parodi Giovanni; Redi Judith; Zunino Rodolfo
+   - **Keywords:** Feedforward neural networks | Image quality assessment | JPEG
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 35612596100;7006518995;23398318700;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gastaldo P.
+102.
+   - **Title:** A comparison of neural projection techniques applied to intrusion detection systems
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2007
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1007/978-3-540-73007-1_138
+   - **Scopus ID:** 2-s2.0-38049169198
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 4507 Lncs
+   - **Pages:** 1138-1146
+   - **Authors:** Herrero Álvaro; Corchado Emilio; Gastaldo Paolo; Zunino Rodolfo
+   - **Keywords:** Auto-associative back-propagation | Computer network security | Exploratory projection pursuit | Intrusion detection | Neural networks | Principal component analysis | Unsupervised learning | Visualization
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 8892618100;6602872701;35612596100;7006338311
+   - **Authoraffiliationids:** 60022866;60022866;60025153;60025153
+   - **Corresponding:** Herrero A.
+103.
+   - **Title:** Efficient implementation of SVM training on embedded electronic systems
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2007
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1007/978-3-540-73400-0_33
+   - **Scopus ID:** 2-s2.0-37249056533
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 4578 Lnai
+   - **Pages:** 269-276
+   - **Authors:** Gastaldo Paolo; Parodi Giovanni; Decherchi Sergio; Zunino Rodolfo
+   - **Keywords:** DSP | Embedded systems | SMO | Support vector machine
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 35612596100;7006518995;23090052400;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gastaldo P.
+104.
+   - **Title:** Prospects of quantum-classical optimization for digital design
+   - **Venue:** Applied Mathematics and Computation
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1016/j.amc.2005.11.129
+   - **Scopus ID:** 2-s2.0-33748081753
+   - **ISSN:** 00963003
+   - **Volume:** 179
+   - **Issue:** 2
+   - **Pages:** 581-595
+   - **Authors:** Gastaldo Paolo; Ridella Sandro; Zunino Rodolfo
+   - **Keywords:** Optimal design of digital systems | Quantum computing | Support vector machines | Vector quantization
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 38, percentile 94)
+     - Computational Mathematics (Q1, rank 15, percentile 92)
+     - Computer Science (all) (Q1, rank 45, percentile 81)
+   - **Source Id:** 25170
+   - **Author Ids:** 35612596100;7006643280;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Gastaldo P.
+105.
+   - **Title:** Soft-max circuit design with adjustable gain
+   - **Venue:** IEE Proceedings Circuits Devices and Systems
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1049/ip-cds:20050105
+   - **Scopus ID:** 2-s2.0-33745304596
+   - **ISSN:** 13502409
+   - **Volume:** 153
+   - **Issue:** 3
+   - **Pages:** 231-240
+   - **Authors:** Piombo D.; Zunino R.
+   - **Source Id:** 17412
+   - **Author Ids:** 56619487500;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Piombo D.
+106.
+   - **Title:** Embedded electronics systems for training support vector machines
+   - **Venue:** IEEE International Conference on Neural Networks Conference Proceedings
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ijcnn.2006.247212
+   - **Scopus ID:** 2-s2.0-40649112899
+   - **ISSN:** 10987576
+   - **Pages:** 2838-2844
+   - **Authors:** Decherchi Sergio; Parodi Giovanni; Gastaldo Paolo; Zunino Rodolfo
+   - **Source Id:** 110573
+   - **Author Ids:** 23090052400;7006518995;35612596100;7006338311
+   - **Authoraffiliationids:** ;;;60000251
+   - **Corresponding:** Decherchi S.
+107.
+   - **Title:** Analog Soft Max circuit with dynamic gain control
+   - **Venue:** 2005 Phd Research in Microelectronics and Electronics Proceedingsof the Conference
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/RME.2005.1543015
+   - **Scopus ID:** 2-s2.0-33750321023
+   - **Volume:** I
+   - **Pages:** 79-82
+   - **Authors:** Piombo Davide; Zunino Rodolfo
+   - **Source Id:** 5000156805
+   - **Author Ids:** 23480123500;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Piombo D.
+108.
+   - **Title:** DSP-based neural systems for the perceptual assessment of visual quality
+   - **Venue:** Proceedings of the International Joint Conference on Neural Networks
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IJCNN.2005.1555910
+   - **Scopus ID:** 2-s2.0-33745963953
+   - **Volume:** 1
+   - **Pages:** 663-668
+   - **Authors:** Gastaldo Paolo; Parodi Giovanni; Zunino Rodolfo
+   - **Source Id:** 96537
+   - **Author Ids:** 35612596100;7006518995;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Gastaldo P.
+109.
+   - **Title:** Analog current-mode design for Soft-Max computation
+   - **Venue:** Proceedings of the International Joint Conference on Neural Networks
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IJCNN.2005.1555931
+   - **Scopus ID:** 2-s2.0-33745934237
+   - **Volume:** 2
+   - **Pages:** 669-674
+   - **Authors:** Piombo Davide; Zunino Rodolfo
+   - **Source Id:** 96537
+   - **Author Ids:** 23480123500;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Piombo D.
+110.
+   - **Title:** Objective quality assessment of displayed images by using neural networks
+   - **Venue:** Signal Processing Image Communication
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 46
+   - **DOI:** 10.1016/j.image.2005.03.013
+   - **Scopus ID:** 2-s2.0-22644431944
+   - **ISSN:** 09235965
+   - **Volume:** 20
+   - **Issue:** 7
+   - **Pages:** 643-661
+   - **Authors:** Gastaldo Paolo; Zunino Rodolfo; Heynderickx Ingrid; Vicario Elena
+   - **Keywords:** Neural networks | Objective image quality | Perceptual quality
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 30, percentile 84)
+     - Computer Vision and Pattern Recognition (Q1, rank 32, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 192, percentile 80)
+     - Software (Q1, rank 117, percentile 76)
+   - **Source Id:** 13803
+   - **Author Ids:** 35612596100;7006338311;6701861864;7004018542
+   - **Authoraffiliationids:** 60025153;60025153;60016561;60016561
+   - **Corresponding:** Gastaldo P.
+111.
+   - **Title:** Neural networks for the no-reference assessment of perceived quality
+   - **Venue:** Journal of Electronic Imaging
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 29
+   - **DOI:** 10.1117/1.1988313
+   - **Scopus ID:** 2-s2.0-28044438919
+   - **ISSN:** 10179909
+   - **eISSN:** 1560229X
+   - **Volume:** 14
+   - **Issue:** 3
+   - **Pages:** 1-11
+   - **Authors:** Gastaldo Paolo; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 537, percentile 46)
+     - Computer Science Applications (Q3, rank 592, percentile 39)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 154, percentile 35)
+   - **Source Id:** 25978
+   - **Author Ids:** 35612596100;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Gastaldo P.
+112.
+   - **Title:** Using K-Winner Machines for domain analysis
+   - **Venue:** Neurocomputing
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1016/j.neucom.2004.05.003
+   - **Scopus ID:** 2-s2.0-8644225660
+   - **ISSN:** 09252312
+   - **Volume:** 62
+   - **Issue:** 1-4
+   - **Pages:** 367-388
+   - **Authors:** Ridella Sandro; Zunino Rodolfo
+   - **Keywords:** Domain analysis | K-Winner Machine | Mixed supervised-unsupervised learning | Structural risk minimization | Vector quantization
+   - **Quartile:**
+     2025:
+     - Cognitive Neuroscience (Q1, rank 10, percentile 92)
+     - Computer Science Applications (Q1, rank 124, percentile 87)
+     - Artificial Intelligence (Q1, rank 85, percentile 82)
+   - **Source Id:** 24807
+   - **Author Ids:** 7006643280;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Ridella S.
+113.
+   - **Title:** Vector quantization complexity and quantum computing
+   - **Venue:** IEEE International Conference on Neural Networks Conference Proceedings
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IJCNN.2004.1381201
+   - **Scopus ID:** 2-s2.0-10944229787
+   - **ISSN:** 10987576
+   - **Volume:** 4
+   - **Pages:** 3257-3262
+   - **Authors:** Gastaldo Paolo; Ridella Sandro; Zunino Rodolfo
+   - **Source Id:** 110573
+   - **Author Ids:** 35612596100;7006643280;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Gastaldo P.
+114.
+   - **Title:** Unsupervised clustering and the capacity of support vector machines
+   - **Venue:** IEEE International Conference on Neural Networks Conference Proceedings
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-10844282737
+   - **ISSN:** 10987576
+   - **Volume:** 3
+   - **Pages:** 2023-2028
+   - **Authors:** Anguita Davide; Ridella Sandro; Rivieccio Fabio; Zunino Rodolfo
+   - **Source Id:** 110573
+   - **Author Ids:** 7004764744;7006643280;6505767415;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Anguita D.
+115.
+   - **Title:** Model selection in top quark tagging with a support vector classifier
+   - **Venue:** IEEE International Conference on Neural Networks Conference Proceedings
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/IJCNN.2004.1380934
+   - **Scopus ID:** 2-s2.0-10844249293
+   - **ISSN:** 10987576
+   - **Volume:** 3
+   - **Pages:** 2059-2064
+   - **Authors:** Anguita Davide; Ridella Sandro; Rivieccio Fabio; Zunino Rodolfo; Amerio Silvia; Lazzizzera Ignazio
+   - **Source Id:** 110573
+   - **Author Ids:** 7004764744;7006643280;6505767415;7006338311;35226945800;35227498500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60015986;60015986
+   - **Corresponding:** Anguita D.
+116.
+   - **Title:** No-reference quality assessment of JPEG images by using CBP neural networks
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **Scopus ID:** 2-s2.0-4344699967
+   - **ISSN:** 02714310
+   - **Volume:** 5
+   - **Pages:** V-772-V-775
+   - **Authors:** Gastaldo Paolo; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 35612596100;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Gastaldo P.
+117.
+   - **Title:** A Model-Selection Approach to the VLSI Design of Vector Quantizers
+   - **Venue:** Proceedings of the International Joint Conference on Neural Networks
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0141683761
+   - **Volume:** 2
+   - **Pages:** 959-964
+   - **Authors:** Bracco Massimiliano; Ridella Sandro; Zunino Rodolfo
+   - **Source Id:** 96537
+   - **Author Ids:** 7003353849;7006643280;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bracco M.
+118.
+   - **Title:** CBP neural network for objective assessment of image quality
+   - **Venue:** Proceedings of the International Joint Conference on Neural Networks
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-0141573471
+   - **Volume:** 1
+   - **Pages:** 194-199
+   - **Authors:** Gastaldo Paolo; Zunino Rodolfo; Vicario Elena; Heynderickx Ingrid
+   - **Source Id:** 96537
+   - **Author Ids:** 35612596100;7006338311;7004018542;6701861864
+   - **Authoraffiliationids:** 60025153;60025153;60016561;60016561
+   - **Corresponding:** Gastaldo P.
+119.
+   - **Title:** Training Support Vector Machines: A Quantum-Computing Perspective
+   - **Venue:** Proceedings of the International Joint Conference on Neural Networks
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **Scopus ID:** 2-s2.0-0141459894
+   - **Volume:** 2
+   - **Pages:** 1587-1592
+   - **Authors:** Anguita Davide; Ridella Sandro; Rivieccio Fabio; Zunino Rodolfo
+   - **Source Id:** 96537
+   - **Author Ids:** 7004764744;7006643280;6505767415;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Anguita D.
+120.
+   - **Title:** Digital Implementation of Hierarchical Vector Quantization
+   - **Venue:** IEEE Transactions on Neural Networks
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1109/TNN.2003.816355
+   - **Scopus ID:** 2-s2.0-0242611600
+   - **ISSN:** 10459227
+   - **Volume:** 14
+   - **Issue:** 5
+   - **Pages:** 1072-1084
+   - **Authors:** Bracco Massimiliano; Ridella Sandro; Zunino Rodolfo
+   - **Keywords:** Digital very large-scale integration (VLSI) | Minimum description length (MDL) | Vector quantization (VQ)
+   - **Source Id:** 24243
+   - **Author Ids:** 7003353849;7006643280;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bracco M.
+121.
+   - **Title:** Hyperparameter design criteria for support vector classifiers
+   - **Venue:** Neurocomputing
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 56
+   - **DOI:** 10.1016/S0925-2312(03)00430-2
+   - **Scopus ID:** 2-s2.0-0242320493
+   - **ISSN:** 09252312
+   - **Volume:** 55
+   - **Issue:** 1-2
+   - **Pages:** 109-134
+   - **Authors:** Anguita Davide; Ridella Sandro; Rivieccio Fabio; Zunino Rodolfo
+   - **Keywords:** Generalization error estimate | Hyperparameters tuning | k-fold cross-validation | Maximal-discrepancy criterion | Support vector classifier
+   - **Quartile:**
+     2025:
+     - Cognitive Neuroscience (Q1, rank 10, percentile 92)
+     - Computer Science Applications (Q1, rank 124, percentile 87)
+     - Artificial Intelligence (Q1, rank 85, percentile 82)
+   - **Source Id:** 24807
+   - **Author Ids:** 7004764744;7006643280;6505767415;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Anguita D.
+122.
+   - **Title:** Quantum optimization for training support vector machines
+   - **Venue:** Neural Networks
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 103
+   - **DOI:** 10.1016/S0893-6080(03)00087-X
+   - **Scopus ID:** 2-s2.0-0038158194
+   - **ISSN:** 08936080
+   - **Volume:** 16
+   - **Issue:** 5-6
+   - **Pages:** 763-770
+   - **Authors:** Anguita Davide; Ridella Sandro; Rivieccio Fabio; Zunino Rodolfo
+   - **Keywords:** Quadratic-programming | Quantum optimization | Robust classification | Support vector machine
+   - **Quartile:**
+     2025:
+     - Cognitive Neuroscience (Q1, rank 11, percentile 91)
+     - Artificial Intelligence (Q1, rank 88, percentile 82)
+   - **Source Id:** 24804
+   - **Author Ids:** 7004764744;7006643280;6505767415;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Anguita D.
+123.
+   - **Title:** Hausdorff distance for robust and adaptive template selection in visual target detection
+   - **Venue:** Electronics Letters
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1049/el:20021179
+   - **Scopus ID:** 2-s2.0-0037028255
+   - **ISSN:** 00135194
+   - **Volume:** 38
+   - **Issue:** 25
+   - **Pages:** 1651-1653
+   - **Authors:** Gastaldo P.; Zunino R.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 624, percentile 37)
+   - **Source Id:** 24918
+   - **Author Ids:** 35612596100;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Gastaldo P.
+124.
+   - **Title:** Objective quality assessment of MPEG-2 video streams by using CBP neural networks
+   - **Venue:** IEEE Transactions on Neural Networks
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 33
+   - **DOI:** 10.1109/TNN.2002.1021894
+   - **Scopus ID:** 2-s2.0-0036650987
+   - **ISSN:** 10459227
+   - **Volume:** 13
+   - **Issue:** 4
+   - **Pages:** 939-947
+   - **Authors:** Gastaldo Paolo; Rovetta Stefano; Zunino Rodolfo
+   - **Keywords:** Circular backpropagation (CBP) | Compressed video | Digital TV | Objective quality assessment
+   - **Source Id:** 24243
+   - **Author Ids:** 35612596100;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153-60011264;60000251-60025153
+   - **Corresponding:** Gastaldo P.
+125.
+   - **Title:** Objective assessment of MPEG-2 video quality
+   - **Venue:** Journal of Electronic Imaging
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 20
+   - **DOI:** 10.1117/1.1479703
+   - **Scopus ID:** 2-s2.0-0036638198
+   - **ISSN:** 10179909
+   - **eISSN:** 1560229X
+   - **Volume:** 11
+   - **Issue:** 3
+   - **Pages:** 365-374
+   - **Authors:** Gastaldo Paolo; Zunino Rodolfo; Rovetta Stefano
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 537, percentile 46)
+     - Computer Science Applications (Q3, rank 592, percentile 39)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 154, percentile 35)
+   - **Source Id:** 25978
+   - **Author Ids:** 35612596100;7006338311;7003745558
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Gastaldo P.
+126.
+   - **Title:** Circular back-propagation networks for measuring displayed image quality
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2002
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1007/3-540-46084-5_197
+   - **Scopus ID:** 2-s2.0-84893529304
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 2415 Lncs
+   - **Pages:** 1219-1224
+   - **Authors:** Gastaldo Paolo; Zunino Rodolfo; Heynderickx Ingrid; Vicario Elena
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 35612596100;7006338311;6701861864;7004018542
+   - **Authoraffiliationids:** 60025153;60025153;60016561;60016561
+   - **Corresponding:** Gastaldo P.
+127.
+   - **Title:** Automatic hyperparameter tuning for support vector machines
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2002
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1007/3-540-46084-5_217
+   - **Scopus ID:** 2-s2.0-56549103236
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 2415 Lncs
+   - **Pages:** 1345-1350
+   - **Authors:** Anguita Davide; Ridella Sandro; Rivieccio Fabio; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 7004764744;7006643280;6505767415;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Anguita D.
+128.
+   - **Title:** Analog implementation of the soft-max function
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 24
+   - **Scopus ID:** 2-s2.0-0036296841
+   - **ISSN:** 02714310
+   - **Volume:** 2
+   - **Pages:** II/120
+   - **Authors:** Zunino Rodolfo; Gastaldo Paolo
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 7006338311;35612596100
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Zunino R.
+129.
+   - **Title:** Hausdorff distance for target detection
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **Scopus ID:** 2-s2.0-0036291070
+   - **ISSN:** 02714310
+   - **Volume:** 5
+   - **Pages:** V/664
+   - **Authors:** Gastaldo Paolo; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 35612596100;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Gastaldo P.
+130.
+   - **Title:** Image quality assessment by using neural networks
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 23
+   - **DOI:** 10.1109/ISCAS.2002.1010688
+   - **Scopus ID:** 2-s2.0-0036287833
+   - **ISSN:** 02714310
+   - **Volume:** 5
+   - **Pages:** V/253-V/256
+   - **Authors:** Carrai Paola; Heynderickx Ingrid; Gastaldo Paolo; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 56989328500;6701861864;35612596100;7006338311
+   - **Authoraffiliationids:** 60016561;60016561;;
+   - **Corresponding:** Carrai P.
+131.
+   - **Title:** Empirical measure of multiclass generalization performance: The K-winner machine case
+   - **Venue:** IEEE Transactions on Neural Networks
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Letter
+   - **Citations:** 8
+   - **DOI:** 10.1109/72.963791
+   - **Scopus ID:** 2-s2.0-0035505574
+   - **ISSN:** 10459227
+   - **Volume:** 12
+   - **Issue:** 6
+   - **Pages:** 1525-1529
+   - **Authors:** Ridella S.; Zunino R.
+   - **Keywords:** Generalization theory | K-winner machine | VC-dimension | Vector quantization
+   - **Source Id:** 24243
+   - **Author Ids:** 7006643280;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Ridella S.
+132.
+   - **Title:** K-winner machines for pattern classification
+   - **Venue:** IEEE Transactions on Neural Networks
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 38
+   - **DOI:** 10.1109/72.914531
+   - **Scopus ID:** 2-s2.0-0035272777
+   - **ISSN:** 10459227
+   - **Volume:** 12
+   - **Issue:** 2
+   - **Pages:** 371-385
+   - **Authors:** Ridella Sandro; Rovetta Stefano; Zunino Rodolfo
+   - **Keywords:** Pattern classification | Supervised learning | Unsupervised learning | Vector quantization
+   - **Source Id:** 24243
+   - **Author Ids:** 7006643280;7003745558;7006338311
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153;60000251-60025153
+   - **Corresponding:** Ridella S.
+133.
+   - **Title:** Performance characterization of K-Winner machines
+   - **Venue:** Proceedings of the International Joint Conference on Neural Networks
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0034876362
+   - **Volume:** 2
+   - **Pages:** 1227-1232
+   - **Authors:** Ridella S.; Zunino R.
+   - **Source Id:** 96537
+   - **Author Ids:** 7006643280;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Ridella S.
+134.
+   - **Title:** Objective assessment of MPEG-video quality: A neural-network approach
+   - **Venue:** Proceedings of the International Joint Conference on Neural Networks
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 20
+   - **Scopus ID:** 2-s2.0-0034868979
+   - **Volume:** 2
+   - **Pages:** 1432-1437
+   - **Authors:** Gastaldo P.; Rovetta S.; Zunino R.
+   - **Source Id:** 96537
+   - **Author Ids:** 35612596100;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Gastaldo P.
+135.
+   - **Title:** IAVQ - interval-arithmetic vector quantization for image compression
+   - **Venue:** IEEE Transactions on Circuits and Systems II Analog and Digital Signal Processing
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1109/82.899630
+   - **Scopus ID:** 2-s2.0-0034462303
+   - **ISSN:** 10577130
+   - **Volume:** 47
+   - **Issue:** 12
+   - **Pages:** 1378-1390
+   - **Authors:** Ridella Sandro; Rovetta Stefano; Zunino Rodolfo
+   - **Source Id:** 34461
+   - **Author Ids:** 7006643280;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ridella S.
+136.
+   - **Title:** Vector quantization for license-plate location and image coding
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 93
+   - **DOI:** 10.1109/41.824138
+   - **Scopus ID:** 2-s2.0-0034135670
+   - **ISSN:** 02780046
+   - **Volume:** 47
+   - **Issue:** 1
+   - **Pages:** 159-167
+   - **Authors:** Zunino Rodolfo; Rovetta Stefano
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+   - **Source Id:** 26053
+   - **Author Ids:** 7006338311;7003745558
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Zunino R.
+137.
+   - **Title:** Augmenting Vector Quantization with Interval Arithmetics for image-coding applications
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ISCAS.2000.856058
+   - **Scopus ID:** 2-s2.0-0033720390
+   - **ISSN:** 02714310
+   - **Volume:** 3
+   - **Pages:** I-307-I-310
+   - **Authors:** Ridella Sandro; Rovetta Stefano; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 7006643280;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ridella S.
+138.
+   - **Title:** K-Winner Machine model
+   - **Venue:** Proceedings of the International Joint Conference on Neural Networks
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ijcnn.2000.857822
+   - **Scopus ID:** 2-s2.0-0033686239
+   - **Volume:** 1
+   - **Pages:** 106-111
+   - **Authors:** Ridella Sandro; Rovetta Stefano; Zunino Rodolfo
+   - **Source Id:** 96537
+   - **Author Ids:** 7006643280;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ridella S.
+139.
+   - **Title:** A multiprocessor-oriented visual tracking system
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1109/41.778256
+   - **Scopus ID:** 2-s2.0-0033172143
+   - **ISSN:** 02780046
+   - **Volume:** 46
+   - **Issue:** 4
+   - **Pages:** 842-850
+   - **Authors:** Rovetta Stefano; Zunino Rodolfo
+   - **Keywords:** Machine vision | Multilayer perceptrons | Multiprocessing | Neural network applications | Neurocontrollers | Tracking
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+   - **Source Id:** 26053
+   - **Author Ids:** 7003745558;7006338311
+   - **Authoraffiliationids:** 60000251-60025153;60025153
+   - **Corresponding:** Rovetta S.
+140.
+   - **Title:** Representation and generalization properties of class-entropy networks
+   - **Venue:** IEEE Transactions on Neural Networks
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1109/72.737491
+   - **Scopus ID:** 2-s2.0-0032785933
+   - **ISSN:** 10459227
+   - **Volume:** 10
+   - **Issue:** 1
+   - **Pages:** 31-47
+   - **Authors:** Ridella Sandro; Rovetta Stefano; Zunino Rodolfo
+   - **Keywords:** Class-entropy networks | Clustering methods | Generalization | Minimum entropy methods | Noise-injection | Pruning
+   - **Source Id:** 24243
+   - **Author Ids:** 7006643280;7003745558;7006338311
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153;60000251-60025153
+   - **Corresponding:** Ridella S.
+141.
+   - **Title:** Circuit implementation of K-winner machine
+   - **Venue:** Electronics Letters
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1049/el:19990820
+   - **Scopus ID:** 2-s2.0-0032653791
+   - **ISSN:** 00135194
+   - **Volume:** 35
+   - **Issue:** 14
+   - **Pages:** 1172-1173
+   - **Authors:** Ridella S.; Rovetta S.; Zunino R.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 624, percentile 37)
+   - **Source Id:** 24918
+   - **Author Ids:** 7006643280;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ridella S.
+142.
+   - **Title:** Efficient training of neural gas vector quantizers with analog circuit implementation
+   - **Venue:** IEEE Transactions on Circuits and Systems II Analog and Digital Signal Processing
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.1109/82.769777
+   - **Scopus ID:** 2-s2.0-0033148429
+   - **ISSN:** 10577130
+   - **Volume:** 46
+   - **Issue:** 6
+   - **Pages:** 688-698
+   - **Authors:** Rovetta Stefano; Zunino Rodolfo
+   - **Source Id:** 34461
+   - **Author Ids:** 7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Rovetta S.
+143.
+   - **Title:** License-plate localization by using vector quantization
+   - **Venue:** ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Article
+   - **Citations:** 16
+   - **DOI:** 10.1109/icassp.1999.759939
+   - **Scopus ID:** 2-s2.0-0032688790
+   - **ISSN:** 07367791
+   - **Volume:** 2
+   - **Pages:** 1113-1116
+   - **Authors:** Rovetta Stefano; Zunino Rodolfo
+   - **Source Id:** 110544
+   - **Author Ids:** 7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Rovetta S.
+144.
+   - **Title:** Analog vector quantization chip for flexible video compression systems
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0032678417
+   - **ISSN:** 02714310
+   - **Volume:** 4
+   - **Pages:** V-367-V-370
+   - **Authors:** Rovetta Stefano; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Rovetta S.
+145.
+   - **Title:** Circular backpropagation networks embed vector quantization
+   - **Venue:** IEEE Transactions on Neural Networks
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 22
+   - **DOI:** 10.1109/72.774275
+   - **Scopus ID:** 2-s2.0-0032664582
+   - **ISSN:** 10459227
+   - **Volume:** 10
+   - **Issue:** 4
+   - **Pages:** 972-975
+   - **Authors:** Ridella Sandro; Rovetta Stefano; Zunino Rodolfo
+   - **Source Id:** 24243
+   - **Author Ids:** 7006643280;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ridella S.
+146.
+   - **Title:** Visual location of license plates by vector quantization
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-0032630875
+   - **ISSN:** 02714310
+   - **Volume:** 4
+   - **Pages:** V-135-V-138
+   - **Authors:** Zunino Rodolfo; Rovetta Stefano
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 7006338311;7003745558
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Zunino R.
+147.
+   - **Title:** VLSI circuits with fractal layout for spatial image decorrelation
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **Scopus ID:** 2-s2.0-0032626825
+   - **ISSN:** 02714310
+   - **Volume:** 4
+   - **Pages:** V-110-V-113
+   - **Authors:** Rovetta Stefano; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Rovetta S.
+148.
+   - **Title:** Minimal-connectivity circuit for analogue sorting
+   - **Venue:** IEE Proceedings Circuits Devices and Systems
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1049/ip-cds:19990323
+   - **Scopus ID:** 2-s2.0-0032623386
+   - **ISSN:** 13502409
+   - **Volume:** 146
+   - **Issue:** 3
+   - **Pages:** 108-110
+   - **Authors:** Rovetta S.; Zunino R.
+   - **Source Id:** 17412
+   - **Author Ids:** 7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Rovetta S.
+149.
+   - **Title:** Fractal circuit layout for spatial decorrelation of images
+   - **Venue:** Electronics Letters
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1049/el:19981335
+   - **Scopus ID:** 2-s2.0-0032178734
+   - **ISSN:** 00135194
+   - **Volume:** 34
+   - **Issue:** 20
+   - **Pages:** 1929-1930
+   - **Authors:** Zunino R.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 624, percentile 37)
+   - **Source Id:** 24918
+   - **Author Ids:** 7006338311
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Zunino R.
+150.
+   - **Title:** Analog vector quantization VLSI circuit
+   - **Venue:** Alta Frequenza Rivista Di Elettronica
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0032153942
+   - **ISSN:** 11201908
+   - **Volume:** 10
+   - **Issue:** 5
+   - **Pages:** 54-57
+   - **Authors:** Novaro Andrea; Rimassa Luca; Rovetta Stefano; Zunino Rodolfo
+   - **Source Id:** 24118
+   - **Author Ids:** 6603962209;24081448600;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Novaro A.
+151.
+   - **Title:** An image-recognition system implemented on hierarchical parallel architectures
+   - **Venue:** International Journal of Pattern Recognition and Artificial Intelligence
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1142/S0218001498000208
+   - **Scopus ID:** 2-s2.0-0345180732
+   - **ISSN:** 02180014
+   - **Volume:** 12
+   - **Issue:** 3
+   - **Pages:** 293-310
+   - **Authors:** Ancona Fabio; Rovetta Stefano; Zunino Rodolfo
+   - **Keywords:** Associative memory | Hierarchical topologies | Parallel architectures | Real-time image-recognition system
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 86, percentile 50)
+     - Artificial Intelligence (Q3, rank 282, percentile 43)
+     - Software (Q3, rank 308, percentile 38)
+   - **Source Id:** 24310
+   - **Author Ids:** 57195557700;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+152.
+   - **Title:** Plastic algorithm for adaptive vector quantisation
+   - **Venue:** Neural Computing and Applications
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 24
+   - **DOI:** 10.1007/BF01413708
+   - **Scopus ID:** 2-s2.0-0032333871
+   - **ISSN:** 09410643
+   - **Volume:** 7
+   - **Issue:** 1
+   - **Pages:** 37-51
+   - **Authors:** Ridella S.; Rovetta S.; Zunino R.
+   - **Keywords:** Gross-validation | Image Coding | Lyme disease | Plastic Algorithm | Vector Quantisation
+   - **Quartile:**
+     2025:
+     - Software (Q1, rank 43, percentile 91)
+     - Artificial Intelligence (Q1, rank 57, percentile 88)
+   - **Source Id:** 24800
+   - **Author Ids:** 7006643280;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ridella S.
+153.
+   - **Title:** Hypercube structures with high-connectivity supporting nodes
+   - **Venue:** Journal of Systems Architecture
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1016/S1383-7621(97)00033-7
+   - **Scopus ID:** 2-s2.0-0032095442
+   - **ISSN:** 13837621
+   - **Volume:** 44
+   - **Issue:** 9-10
+   - **Pages:** 803-814
+   - **Authors:** Ancona Fabio; Zunino Rodolfo
+   - **Keywords:** High-connectivity nodes | Hypercube architectures | Message routing | Transputers
+   - **Quartile:**
+     2025:
+     - Software (Q1, rank 84, percentile 83)
+     - Hardware and Architecture (Q1, rank 44, percentile 81)
+   - **Source Id:** 12398
+   - **Author Ids:** 57195557700;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Ancona F.
+154.
+   - **Title:** Neural hardware for image processing
+   - **Venue:** Midwest Symposium on Circuits and Systems
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0031376417
+   - **Volume:** 2
+   - **Pages:** 1342-1345
+   - **Authors:** Ancona Fabio; Rovetta Stefano; Zunino Rodolfo
+   - **Source Id:** 26047
+   - **Author Ids:** 57195557700;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+155.
+   - **Title:** Encoder for vector quantization neural networks
+   - **Venue:** Midwest Symposium on Circuits and Systems
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0031354987
+   - **Volume:** 2
+   - **Pages:** 1286-1289
+   - **Authors:** Ancona Fabio; Rovetta Stefano; Zunino Rodolfo
+   - **Source Id:** 26047
+   - **Author Ids:** 57195557700;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+156.
+   - **Title:** VLSI circuit for programmable sorting
+   - **Venue:** Midwest Symposium on Circuits and Systems
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0031340855
+   - **Volume:** 2
+   - **Pages:** 1061-1064
+   - **Authors:** Ancona Fabio; Rovetta Stefano; Zunino Rodolfo
+   - **Source Id:** 26047
+   - **Author Ids:** 57195557700;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+157.
+   - **Title:** CBP networks as a generalized neural model
+   - **Venue:** IEEE International Conference on Neural Networks Conference Proceedings
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ICNN.1997.611666
+   - **Scopus ID:** 2-s2.0-0030721344
+   - **ISSN:** 10987576
+   - **Volume:** 1
+   - **Pages:** 210-214
+   - **Authors:** Ridella Sandro; Rovetta Stefano; Zunino Rodolfo
+   - **Source Id:** 110573
+   - **Author Ids:** 7006643280;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ridella S.
+158.
+   - **Title:** Optimal data allocation for processor-tree architectures
+   - **Venue:** Conference Proceedings of the Euromicro
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EURMIC.1997.617312
+   - **Scopus ID:** 2-s2.0-0030714525
+   - **ISSN:** 10896503
+   - **Pages:** 351-358
+   - **Authors:** Ancona Fabio; Zunino Rodolfo
+   - **Source Id:** 18655
+   - **Author Ids:** 57195557700;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Ancona F.
+159.
+   - **Title:** On the importance of sorting in «neural gas» training of vector quantizers
+   - **Venue:** IEEE International Conference on Neural Networks Conference Proceedings
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/ICNN.1997.614171
+   - **Scopus ID:** 2-s2.0-0030707024
+   - **ISSN:** 10987576
+   - **Volume:** 3
+   - **Pages:** 1804-1808
+   - **Authors:** Ancona F.; Ridella S.; Rovetta S.; Zunino R.
+   - **Source Id:** 110573
+   - **Author Ids:** 57195557700;7006643280;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+160.
+   - **Title:** BP networks for partial discharge analysis and dielectric classification
+   - **Venue:** IEEE International Conference on Neural Networks Conference Proceedings
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ICNN.1997.611631
+   - **Scopus ID:** 2-s2.0-0030691493
+   - **ISSN:** 10987576
+   - **Volume:** 1
+   - **Pages:** 37-42
+   - **Authors:** Bozzo Riccardo; Sciutto Luca; Zunino Rodolfo
+   - **Source Id:** 110573
+   - **Author Ids:** 7006475772;6507924722;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bozzo R.
+161.
+   - **Title:** Parallel architectures for vector quantization
+   - **Venue:** IEEE International Conference on Neural Networks Conference Proceedings
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ICNN.1997.616144
+   - **Scopus ID:** 2-s2.0-0030674689
+   - **ISSN:** 10987576
+   - **Volume:** 2
+   - **Pages:** 899-903
+   - **Authors:** Ancona F.; Rovetta S.; Zunino R.
+   - **Source Id:** 110573
+   - **Author Ids:** 57195557700;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+162.
+   - **Title:** Hardware implementation of the neural gas
+   - **Venue:** IEEE International Conference on Neural Networks Conference Proceedings
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICNN.1997.616161
+   - **Scopus ID:** 2-s2.0-0030650887
+   - **ISSN:** 10987576
+   - **Volume:** 2
+   - **Pages:** 991-994
+   - **Authors:** Ancona F.; Rovetta S.; Zunino R.
+   - **Source Id:** 110573
+   - **Author Ids:** 57195557700;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+163.
+   - **Title:** Implementing probabilistic neural networks
+   - **Venue:** Neural Computing and Applications
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 21
+   - **DOI:** 10.1007/BF01413860
+   - **Scopus ID:** 2-s2.0-21744457566
+   - **ISSN:** 09410643
+   - **Volume:** 5
+   - **Issue:** 3
+   - **Pages:** 152-159
+   - **Authors:** Ancona Fabio; Colla Anna Maria; Rovetta Stefano; Zunino Rodolfo
+   - **Keywords:** Digital neural processor | Generalisation | Hardware implementation | Probabilistic neural networks | Random optimisation
+   - **Quartile:**
+     2025:
+     - Software (Q1, rank 43, percentile 91)
+     - Artificial Intelligence (Q1, rank 57, percentile 88)
+   - **Source Id:** 24800
+   - **Author Ids:** 57195557700;8371953800;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;100352486;60025153;60025153
+   - **Corresponding:** Ancona F.
+164.
+   - **Title:** An efficient technique for implementing an image-compression neural algorithm on concurrent multiprocessor architectures
+   - **Venue:** Engineering Applications of Artificial Intelligence
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1016/s0952-1976(97)00039-0
+   - **Scopus ID:** 2-s2.0-0031363974
+   - **ISSN:** 09521976
+   - **Volume:** 10
+   - **Issue:** 6
+   - **Pages:** 573-580
+   - **Authors:** Ancona Fabio; Rovetta Stefano; Zunino Rodolfo
+   - **Keywords:** Experimental and theoretical results | Image compression | Neural networks | Parallel architectures
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 32, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 87, percentile 91)
+     - Artificial Intelligence (Q1, rank 66, percentile 86)
+   - **Source Id:** 24182
+   - **Author Ids:** 57195557700;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+165.
+   - **Title:** Transputer-based implementation of distributed associative memories
+   - **Venue:** Parallel Computing
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1016/s0167-8191(97)00068-9
+   - **Scopus ID:** 2-s2.0-0031244839
+   - **ISSN:** 01678191
+   - **Volume:** 23
+   - **Issue:** 10
+   - **Pages:** 1479-1491
+   - **Authors:** Ancona Fabio; Rovetta Stefano; Zunino Rodolfo
+   - **Keywords:** Distributed associative memory | Experimental results | Image-classification system | Parallel architecture | Transputer-based system
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q1, rank 32, percentile 76)
+     - Computer Graphics and Computer-Aided Design (Q2, rank 35, percentile 73)
+     - Computer Networks and Communications (Q2, rank 151, percentile 72)
+     - Software (Q2, rank 165, percentile 67)
+     - Hardware and Architecture (Q2, rank 78, percentile 66)
+     - Artificial Intelligence (Q2, rank 171, percentile 65)
+   - **Source Id:** 26138
+   - **Author Ids:** 57195557700;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+166.
+   - **Title:** Circular backpropagation networks for classification
+   - **Venue:** IEEE Transactions on Neural Networks
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 115
+   - **DOI:** 10.1109/72.554194
+   - **Scopus ID:** 2-s2.0-0030817465
+   - **ISSN:** 10459227
+   - **Volume:** 8
+   - **Issue:** 1
+   - **Pages:** 84-97
+   - **Authors:** Ridella Sandro; Rovetta Stefano; Zunino Rodolfo
+   - **Keywords:** Backpropagation | Feedforward neural networks | Knowledge representation | Pattern classification
+   - **Source Id:** 24243
+   - **Author Ids:** 7006643280;7003745558;7006338311
+   - **Authoraffiliationids:** 60000251-60025153;60025153;60000251-60025153
+   - **Corresponding:** Ridella S.
+167.
+   - **Title:** Mixed analog-digital circuit for linear-time programmable sorting
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-0030655082
+   - **ISSN:** 02714310
+   - **Volume:** 3
+   - **Pages:** 1968-1971
+   - **Authors:** Oddone Giorgio; Rovetta Stefano; Uneddu Gianni; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 6602631565;7003745558;6506291538;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Oddone G.
+168.
+   - **Title:** VLSI architectures for programmable sorting of analog quantities with multiple-chip support
+   - **Venue:** Proceedings of the IEEE Great Lakes Symposium on VLSI
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0030652696
+   - **ISSN:** 10661395
+   - **Pages:** 94-99
+   - **Authors:** Ancona Fabio; Oddone Giorgio; Rovetta Stefano; Uneddu Gianni; Zunino Rodolfo
+   - **Source Id:** 26647
+   - **Author Ids:** 57195557700;6602631565;7003745558;6506291538;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+169.
+   - **Title:** Parallel VLSI architectures for cryptographic systems
+   - **Venue:** Proceedings of the IEEE Great Lakes Symposium on VLSI
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-0030652694
+   - **ISSN:** 10661395
+   - **Pages:** 176-181
+   - **Authors:** Ancona Fabio; De Gloria Alessandro; Zunino Rodolfo
+   - **Source Id:** 26647
+   - **Author Ids:** 57195557700;7004620974;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+170.
+   - **Title:** Concurrent VLSI architectures for vector quantization
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0030646976
+   - **ISSN:** 02714310
+   - **Volume:** 3
+   - **Pages:** 2076-2079
+   - **Authors:** Ancona Fabio; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 57195557700;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Ancona F.
+171.
+   - **Title:** Vector quantization circuit for trainable neural networks
+   - **Venue:** Proceedings of the IEEE International Conference on Electronics Circuits and Systems
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0030360903
+   - **Volume:** 2
+   - **Pages:** 1131-1134
+   - **Authors:** Ancona Fabio; Oddone Giorgio; Rovetta Stefano; Uneddu Gianni; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 913, percentile 8)
+   - **Source Id:** 91096
+   - **Author Ids:** 57195557700;6602631565;7003745558;6506291538;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+172.
+   - **Title:** Stability and deadlock avoidance in distributed systems for traffic control
+   - **Venue:** IEEE Transactions on Vehicular Technology
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1109/25.543743
+   - **Scopus ID:** 2-s2.0-0030288147
+   - **ISSN:** 00189545
+   - **Volume:** 45
+   - **Issue:** 4
+   - **Pages:** 732-743
+   - **Authors:** Parodi Giancarlo; Vernazza Gianni; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 63, percentile 93)
+     - Automotive Engineering (Q1, rank 9, percentile 93)
+     - Computer Networks and Communications (Q1, rank 38, percentile 93)
+   - **Source Id:** 17393
+   - **Author Ids:** 7006518995;7005048304;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Parodi G.
+173.
+   - **Title:** Distributed VLSI implementation of "fractal" cryptography
+   - **Venue:** Alta Frequenza Rivista Di Elettronica
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0030282135
+   - **ISSN:** 11201908
+   - **Volume:** 8
+   - **Issue:** 6
+   - **Pages:** 38-41
+   - **Authors:** Ancona Fabio; De Gloria Alessandro; Zunino Rodolfo
+   - **Source Id:** 24118
+   - **Author Ids:** 57195557700;7004620974;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+174.
+   - **Title:** Devices with optimal performances in tree architectures
+   - **Venue:** Alta Frequenza Rivista Di Elettronica
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0030233348
+   - **ISSN:** 11201908
+   - **Volume:** 8
+   - **Issue:** 5
+   - **Pages:** 74-76
+   - **Authors:** Ancona Fabio; Rovetta Stefano; Zunino Rodolfo
+   - **Source Id:** 24118
+   - **Author Ids:** 57195557700;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+175.
+   - **Title:** Enhanced WTA network with linear output and stable transimpedance
+   - **Venue:** Alta Frequenza Rivista Di Elettronica
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0030231650
+   - **ISSN:** 11201908
+   - **Volume:** 8
+   - **Issue:** 5
+   - **Pages:** 71-73
+   - **Authors:** Ancona Fabio; Oddone Giorgio; Rovetta Stefano; Uneddu Gianni; Zunino Rodolfo
+   - **Source Id:** 24118
+   - **Author Ids:** 57195557700;6602631565;7003745558;6506291538;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+176.
+   - **Title:** Neural networks based visual tracking system
+   - **Venue:** Proceedings of International Workshop on Neural Networks for Identification Control Robotics and Signal Image Processing Nicrosp
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0029751012
+   - **Pages:** 128-135
+   - **Authors:** Boni A.; Dolce A.; Rovetta S.; Zunino R.
+   - **Source Id:** 51489
+   - **Author Ids:** 35916687600;57190668199;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Boni A.
+177.
+   - **Title:** Parallel approach to plastic neural gas
+   - **Venue:** IEEE International Conference on Neural Networks Conference Proceedings
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0029749776
+   - **Volume:** 1
+   - **Pages:** 126-130
+   - **Authors:** Ancona Fabio; Rovetta Stefano; Zunino Rodolfo
+   - **Source Id:** 110573
+   - **Author Ids:** 57195557700;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ancona F.
+178.
+   - **Title:** Limiting the effects of weight errors in feed forward networks using interval arithmetic
+   - **Venue:** IEEE International Conference on Neural Networks Conference Proceedings
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0029748883
+   - **Volume:** 1
+   - **Pages:** 414-416
+   - **Authors:** Anguita Davide; Ridella Sandro; Rovetta Stefano; Zunino Rodolfo
+   - **Source Id:** 110573
+   - **Author Ids:** 7004764744;7006643280;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Anguita D.
+179.
+   - **Title:** Interpolation approaches to vector quantization for image compression
+   - **Venue:** Neural Networks for Signal Processing Proceedings of the IEEE Workshop
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0029703675
+   - **Pages:** 391-400
+   - **Authors:** Carrato Sergio; Passaggio Filippo; Rovetta Stefano; Zunino Rodolfo
+   - **Source Id:** 24241
+   - **Author Ids:** 7004596594;7801418745;7003745558;7006338311
+   - **Authoraffiliationids:** 60018363;60018363;60018363;60018363
+   - **Corresponding:** Carrato S.
+180.
+   - **Title:** Adaptive internal representation in circular back-propagation networks
+   - **Venue:** Neural Computing Applications
+   - **Year:** 1995
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1007/BF01414647
+   - **Scopus ID:** 2-s2.0-21844511090
+   - **ISSN:** 09410643
+   - **eISSN:** 14333058
+   - **Volume:** 3
+   - **Issue:** 4
+   - **Pages:** 222-233
+   - **Authors:** Ridella S.; Rovetta S.; Zunino R.
+   - **Keywords:** Adaptive representation | Classification | Data analysis | Lyme disease | Multilayer perceptron | Prototypes
+   - **Quartile:**
+     2025:
+     - Software (Q1, rank 43, percentile 91)
+     - Artificial Intelligence (Q1, rank 57, percentile 88)
+   - **Source Id:** 24800
+   - **Author Ids:** 7006643280;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ridella S.
+181.
+   - **Title:** Incorporating a priori knowledge into neural networks
+   - **Venue:** Electronics Letters
+   - **Year:** 1995
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1049/el:19951309
+   - **Scopus ID:** 2-s2.0-0029389181
+   - **ISSN:** 00135194
+   - **Volume:** 31
+   - **Issue:** 22
+   - **Pages:** 1930-1931
+   - **Authors:** Anguita D.; Ridella S.; Rovetta S.; Zunino R.
+   - **Keywords:** Backpropagation | Multilayer perceptrons | Neural networks | Pattern classification
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 624, percentile 37)
+   - **Source Id:** 24918
+   - **Author Ids:** 7004764744;7006643280;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Anguita D.
+182.
+   - **Title:** Shared-memory architecture to implement a high-connectivity processing node
+   - **Venue:** Electronics Letters
+   - **Year:** 1995
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1049/el:19951300
+   - **Scopus ID:** 2-s2.0-0029386861
+   - **ISSN:** 00135194
+   - **Volume:** 31
+   - **Issue:** 22
+   - **Pages:** 1903-1904
+   - **Authors:** Ancona D.; Anguita D.; Rovetta S.; Zunino R.
+   - **Keywords:** Memory architecture | Transputers
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 624, percentile 37)
+   - **Source Id:** 24918
+   - **Author Ids:** 57194911302;7004764744;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Ancona D.
+183.
+   - **Title:** Neural structures for visual motion tracking
+   - **Venue:** Machine Vision and Applications
+   - **Year:** 1995
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1007/BF01211489
+   - **Scopus ID:** 2-s2.0-0029536165
+   - **ISSN:** 09328092
+   - **eISSN:** 14321769
+   - **Volume:** 8
+   - **Issue:** 5
+   - **Pages:** 275-288
+   - **Authors:** Anguita Davide; Parodi Giancarlo; Zunino Rodolfo
+   - **Keywords:** Motion tracking | Network ensembles | Neural networks | Real-time systems
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 52, percentile 69)
+     - Computer Science Applications (Q2, rank 376, percentile 61)
+     - Hardware and Architecture (Q2, rank 91, percentile 61)
+     - Software (Q2, rank 203, percentile 59)
+   - **Source Id:** 12984
+   - **Author Ids:** 7004764744;7006518995;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Anguita D.
+184.
+   - **Title:** Compact digital pseudorandom number generator
+   - **Venue:** Electronics Letters
+   - **Year:** 1995
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1049/el:19950695
+   - **Scopus ID:** 2-s2.0-0029639465
+   - **ISSN:** 00135194
+   - **Volume:** 31
+   - **Issue:** 12
+   - **Pages:** 956-958
+   - **Authors:** Anguita D.; Rovetta S.; Zunino R.
+   - **Keywords:** Random number generation
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 624, percentile 37)
+   - **Source Id:** 24918
+   - **Author Ids:** 7004764744;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Anguita D.
+185.
+   - **Title:** Learning in large neural networks
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 1995
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/BFb0046638_39
+   - **Scopus ID:** 2-s2.0-84957715046
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 919
+   - **Pages:** 269-274
+   - **Authors:** Anguita Davide; Passaggio Filippo; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 7004764744;7801418745;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Anguita D.
+186.
+   - **Title:** Digital neuroimplementations of visual motion-tracking systems
+   - **Venue:** Neural Networks for Signal Processing Proceedings of the IEEE Workshop
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0029239415
+   - **Pages:** 571-580
+   - **Authors:** Colla Anna Maria; Trogu Luca; Zunino Rodolfo
+   - **Source Id:** 24241
+   - **Author Ids:** 8371953800;6504439539;7006338311
+   - **Authoraffiliationids:** 100352486;100352486;100352486
+   - **Corresponding:** Colla A.
+187.
+   - **Title:** Validation of a large medical database
+   - **Venue:** Proceedings of the IEEE Symposium on Computer Based Medical Systems
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0029232302
+   - **ISSN:** 10637125
+   - **Pages:** 57-64
+   - **Authors:** Rovetta Guido; Monteforte Patrizia; Bianchi Gerolamo; Rovetta Stefano; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Radiology, Nuclear Medicine and Imaging (Q3, rank 233, percentile 34)
+     - Computer Science Applications (Q3, rank 665, percentile 32)
+   - **Source Id:** 23681
+   - **Author Ids:** 7005171129;55894266100;57213188648;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Rovetta G.
+188.
+   - **Title:** Prototyping neural networks learn lyme borreliosis
+   - **Venue:** Proceedings of the IEEE Symposium on Computer Based Medical Systems
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0029225386
+   - **ISSN:** 10637125
+   - **Pages:** 111-117
+   - **Authors:** Rovetta Stefano; Zunino Rodolfo; Buffrini Laura; Rovetta Guido
+   - **Quartile:**
+     2025:
+     - Radiology, Nuclear Medicine and Imaging (Q3, rank 233, percentile 34)
+     - Computer Science Applications (Q3, rank 665, percentile 32)
+   - **Source Id:** 23681
+   - **Author Ids:** 7003745558;7006338311;6603659951;7005171129
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Rovetta S.
+189.
+   - **Title:** Neural approaches to the diagnosis and characterization of the lyme disease
+   - **Venue:** Proceedings of the IEEE Symposium on Computer Based Medical Systems
+   - **Year:** 1994
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0028563216
+   - **ISSN:** 10637125
+   - **Pages:** 194-199
+   - **Authors:** Bianchi G.; Buffrini L.; Monteforte P.; Rovetta G.; Rovetta S.; Zunino R.
+   - **Quartile:**
+     2025:
+     - Radiology, Nuclear Medicine and Imaging (Q3, rank 233, percentile 34)
+     - Computer Science Applications (Q3, rank 665, percentile 32)
+   - **Source Id:** 23681
+   - **Author Ids:** 57213188648;6603659951;55894266100;7005171129;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bianchi G.
+190.
+   - **Title:** Class-Entropy minimisation networks for domain analysis and rule extraction
+   - **Venue:** Neural Computing Applications
+   - **Year:** 1994
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1007/BF01423097
+   - **Scopus ID:** 2-s2.0-0040630146
+   - **ISSN:** 09410643
+   - **eISSN:** 14333058
+   - **Volume:** 2
+   - **Issue:** 1
+   - **Pages:** 40-52
+   - **Authors:** Ridella Sandro; Speroni Gian Luca; Trebino Paolo; Zunino Rodolfo
+   - **Keywords:** Class Entropy Networks | Domain analysis | Lyme disease | Rule extraction | Supervised methods
+   - **Quartile:**
+     2025:
+     - Software (Q1, rank 43, percentile 91)
+     - Artificial Intelligence (Q1, rank 57, percentile 88)
+   - **Source Id:** 24800
+   - **Author Ids:** 7006643280;6701741192;6503920847;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Ridella S.
+191.
+   - **Title:** An efficient implementation of BP on RISC-based workstations
+   - **Venue:** Neurocomputing
+   - **Year:** 1994
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 24
+   - **DOI:** 10.1016/0925-2312(94)90034-5
+   - **Scopus ID:** 2-s2.0-0028378798
+   - **ISSN:** 09252312
+   - **Volume:** 6
+   - **Issue:** 1
+   - **Pages:** 57-65
+   - **Authors:** Anguita D.; Parodi G.; Zunino R.
+   - **Keywords:** Backpropagation | matrix multiplication | neural computation | neural network implementation | Risc architecture
+   - **Quartile:**
+     2025:
+     - Cognitive Neuroscience (Q1, rank 10, percentile 92)
+     - Computer Science Applications (Q1, rank 124, percentile 87)
+     - Artificial Intelligence (Q1, rank 85, percentile 82)
+   - **Source Id:** 24807
+   - **Author Ids:** 7004764744;7006518995;7006338311
+   - **Corresponding:** Anguita D.
+192.
+   - **Title:** Associative structures for vision
+   - **Venue:** Multidimensional Systems and Signal Processing
+   - **Year:** 1994
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1007/BF00985864
+   - **Scopus ID:** 2-s2.0-0028262797
+   - **ISSN:** 09236082
+   - **eISSN:** 15730824
+   - **Volume:** 5
+   - **Issue:** 1
+   - **Pages:** 75-96
+   - **Authors:** Anguita Davide; Parodi Giancarlo; Zunino Rodolfo
+   - **Keywords:** associative memories | integrative associative structures | neural networks | Robust computer vision | stimulus reponse
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 46, percentile 93)
+     - Signal Processing (Q1, rank 31, percentile 84)
+     - Computer Science Applications (Q1, rank 225, percentile 77)
+     - Software (Q1, rank 118, percentile 76)
+     - Information Systems (Q1, rank 118, percentile 76)
+     - Hardware and Architecture (Q1, rank 56, percentile 76)
+     - Artificial Intelligence (Q2, rank 135, percentile 72)
+   - **Source Id:** 12409
+   - **Author Ids:** 7004764744;7006518995;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Anguita D.
+193.
+   - **Title:** Pruning and rule extraction using class entropy
+   - **Venue:** 1993 IEEE International Conference on Neural Networks
+   - **Year:** 1993
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-84943269332
+   - **Pages:** 250-256
+   - **Authors:** Ridella Sandro; Speroni Gianluca; Trebino Paolo; Zunino Rodolfo
+   - **Source Id:** 21100514244
+   - **Author Ids:** 7006643280;6701741192;6503920847;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Ridella S.
+194.
+   - **Title:** A performance analysis of an associative system for image classification
+   - **Venue:** Pattern Recognition Letters
+   - **Year:** 1993
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1016/0167-8655(93)90149-8
+   - **Scopus ID:** 2-s2.0-0027882889
+   - **ISSN:** 01678655
+   - **Volume:** 14
+   - **Issue:** 11
+   - **Pages:** 861-868
+   - **Authors:** Diaspro Alberto; Parodi Giancarlo; Zunino Rodolfo
+   - **Keywords:** Associative memory | image classification | performance analysis | robust computer vision
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 27, percentile 86)
+     - Computer Vision and Pattern Recognition (Q1, rank 29, percentile 83)
+     - Software (Q1, rank 112, percentile 77)
+     - Artificial Intelligence (Q1, rank 124, percentile 75)
+   - **Source Id:** 24825
+   - **Author Ids:** 7004555976;7006518995;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Diaspro A.
+195.
+   - **Title:** Parallel implementation of associative memories for image classification
+   - **Venue:** Parallel Computing
+   - **Year:** 1993
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1016/0167-8191(93)90014-C
+   - **Scopus ID:** 2-s2.0-0027609378
+   - **ISSN:** 01678191
+   - **Volume:** 19
+   - **Issue:** 6
+   - **Pages:** 667-684
+   - **Authors:** Pagano Fabrizio; Parodi Giancarlo; Zunino Rodolfo
+   - **Keywords:** Associative memory | experimental results | parallel implementation | real-time associative visual systems | transputer network
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q1, rank 32, percentile 76)
+     - Computer Graphics and Computer-Aided Design (Q2, rank 35, percentile 73)
+     - Computer Networks and Communications (Q2, rank 151, percentile 72)
+     - Software (Q2, rank 165, percentile 67)
+     - Hardware and Architecture (Q2, rank 78, percentile 66)
+     - Artificial Intelligence (Q2, rank 171, percentile 65)
+   - **Source Id:** 26138
+   - **Author Ids:** 7006496170;7006518995;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Pagano F.
+196.
+   - **Title:** Using chaos to generate keys for associative noise-like coding memories
+   - **Venue:** Neural Networks
+   - **Year:** 1993
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1016/S0893-6080(05)80059-0
+   - **Scopus ID:** 2-s2.0-0027313817
+   - **ISSN:** 08936080
+   - **Volume:** 6
+   - **Issue:** 4
+   - **Pages:** 559-572
+   - **Authors:** Parodi Giancarlo; Ridella Sandro; Zunino Rodolfo
+   - **Keywords:** Associative memory | Chaos | Computer vision | Deterministic pseudorandom processing | Image classification | Key generation | Noise-like coding memory | Robust pattern processing
+   - **Quartile:**
+     2025:
+     - Cognitive Neuroscience (Q1, rank 11, percentile 91)
+     - Artificial Intelligence (Q1, rank 88, percentile 82)
+   - **Source Id:** 24804
+   - **Author Ids:** 7006518995;7006643280;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Parodi G.
+197.
+   - **Title:** Associative noise-like coding memories for classification of biopolymers structures
+   - **Venue:** Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society EMBS
+   - **Year:** 1992
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IEMBS.1992.5762073
+   - **Scopus ID:** 2-s2.0-85067208567
+   - **ISSN:** 1557170X
+   - **Volume:** 5
+   - **Pages:** 1860-1861
+   - **Authors:** Diaspro Alberto; Zunino Rodolfo; Parodi Giancarlo
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 585, percentile 41)
+   - **Source Id:** 34202
+   - **Author Ids:** 59865399500;7006338311;7006518995
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Diaspro A.
+198.
+   - **Title:** On the need for integrated approaches to image understanding
+   - **Venue:** European Transactions on Telecommunications
+   - **Year:** 1992
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1002/ett.4460030507
+   - **Scopus ID:** 2-s2.0-84985823805
+   - **ISSN:** 1124318X
+   - **eISSN:** 15418251
+   - **Volume:** 3
+   - **Issue:** 5
+   - **Pages:** 465-478
+   - **Authors:** Moneta Carlo; Vernazza Gianni; Zunino Rodolfo
+   - **Source Id:** 18817
+   - **Author Ids:** 57163832400;7005048304;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Moneta C.
+199.
+   - **Title:** A symbolic-neural classification system assisting the characterization of the lyme-disease
+   - **Venue:** Conference Proceedings IEEE International Conference on Systems Man and Cybernetics
+   - **Year:** 1992
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICSMC.1992.271788
+   - **Scopus ID:** 2-s2.0-84960470289
+   - **ISSN:** 1062922X
+   - **Volume:** 1992-January
+   - **Pages:** 136-139
+   - **Authors:** Moneta Carlo; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 643, percentile 35)
+     - Control and Systems Engineering (Q3, rank 257, percentile 32)
+     - Human-Computer Interaction (Q4, rank 155, percentile 19)
+   - **Source Id:** 145097
+   - **Author Ids:** 57163832400;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Moneta C.
+200.
+   - **Title:** Automated diagnosis and disease characterization using neural network analysis
+   - **Venue:** Conference Proceedings IEEE International Conference on Systems Man and Cybernetics
+   - **Year:** 1992
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/ICSMC.1992.271790
+   - **Scopus ID:** 2-s2.0-84960433087
+   - **ISSN:** 1062922X
+   - **Volume:** 1992-January
+   - **Pages:** 123-128
+   - **Authors:** Moneta Carlo; Parodi Giancarlo; Rovetta Stefano; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 643, percentile 35)
+     - Control and Systems Engineering (Q3, rank 257, percentile 32)
+     - Human-Computer Interaction (Q4, rank 155, percentile 19)
+   - **Source Id:** 145097
+   - **Author Ids:** 57163832400;7006518995;7003745558;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Moneta C.
+201.
+   - **Title:** An Integrated Associative Structure For Vision
+   - **Venue:** Proceedings of the International Joint Conference on Neural Networks
+   - **Year:** 1992
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IJCNN.1992.227159
+   - **Scopus ID:** 2-s2.0-84911254454
+   - **Volume:** 3
+   - **Pages:** 291-296
+   - **Authors:** Cerrato Alberto; Parodi Giancarlo; Zunino Rodolfo
+   - **Source Id:** 96537
+   - **Author Ids:** 57748603100;7006518995;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Cerrato A.
+202.
+   - **Title:** Distributed key-generation structures for associative image-classification
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 1992
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ISCAS.1992.230203
+   - **Scopus ID:** 2-s2.0-84911254453
+   - **ISSN:** 02714310
+   - **Volume:** 3
+   - **Pages:** 1549-1552
+   - **Authors:** Parodi Giancarlo; Ridella Sandro; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 7006518995;7006643280;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Parodi G.
+203.
+   - **Title:** Speeding up scene recognition by using an associative noise-like coding memory
+   - **Venue:** Conference Proceedings Annual Phoenix Conference
+   - **Year:** 1991
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **Scopus ID:** 2-s2.0-0026120253
+   - **Pages:** 10-16
+   - **Authors:** Parodi Giancarlo; Regazzoni Carlo; Vernazza Gianni; Zunino Rodolfo
+   - **Source Id:** 63048
+   - **Author Ids:** 7006518995;35513672400;7005048304;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Parodi G.
+204.
+   - **Title:** Transputer-based architectures for associative image classification
+   - **Venue:** Proceedings of the 3rd IEEE Symposium on Parallel and Distributed Processing 1991
+   - **Year:** 1991
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/SPDP.1991.218273
+   - **Scopus ID:** 2-s2.0-85067179583
+   - **Pages:** 241-248
+   - **Authors:** Anguita D.; Parodi G.; Ponta D.; Zunino R.
+   - **Source Id:** 21100913126
+   - **Author Ids:** 7004764744;7006518995;6602172678;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Anguita D.
+205.
+   - **Title:** Map-Driven Image Interpretation By Associative Model Indexing
+   - **Venue:** Proceedings of Iapr Workshop on Machine Vision Applications Mva 1990
+   - **Year:** 1990
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-105016907170
+   - **Pages:** 385-388
+   - **Authors:** Foresti Gianluca; Murino Vittorio; Regazzoni Carlo S.; Zunino Rodolfo
+   - **Source Id:** 21101333580
+   - **Author Ids:** 7006427233;7006595496;35513672400;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Foresti G.
+206.
+   - **Title:** Image classification by using associative noise-like coding memories
+   - **Venue:** Conference Proceedings Annual Phoenix Conference
+   - **Year:** 1990
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/pccc.1990.101603
+   - **Scopus ID:** 2-s2.0-0025661861
+   - **Pages:** 73-77
+   - **Authors:** Parodi Giancarlo; Zunino Rodolfo
+   - **Source Id:** 63048
+   - **Author Ids:** 7006518995;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Parodi G.
+207.
+   - **Title:** A Distributed Intelligence Methodology for Railway Traffic Control
+   - **Venue:** IEEE Transactions on Vehicular Technology
+   - **Year:** 1990
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 37
+   - **DOI:** 10.1109/25.131008
+   - **Scopus ID:** 2-s2.0-0025472092
+   - **ISSN:** 00189545
+   - **eISSN:** 19399359
+   - **Volume:** 39
+   - **Issue:** 3
+   - **Pages:** 263-270
+   - **Authors:** Vernazza Gianni; Zunino Rodolfo
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 63, percentile 93)
+     - Automotive Engineering (Q1, rank 9, percentile 93)
+     - Computer Networks and Communications (Q1, rank 38, percentile 93)
+   - **Source Id:** 17393
+   - **Author Ids:** 7005048304;7006338311
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Vernazza G.

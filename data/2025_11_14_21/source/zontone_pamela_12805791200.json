@@ -1,0 +1,2888 @@
+{
+  "surname": "Zontone",
+  "name": "Pamela",
+  "unit": "ICT",
+  "email": "pamela.zontone@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/UkFGXl5h",
+  "website": "",
+  "unige_id": "721548",
+  "scopus_id": "12805791200",
+  "role": "Ricercatore",
+  "grade": "Ricercatore t.d. art. 24 c. 3 lett. A Legge 240/10 (t.pieno)",
+  "ssd": "IINF-03/A (Telecomunicazioni)",
+  "location": [
+    {
+      "building": "Opera Pia - padiglione C (Ex CNR) (ED_161450501)",
+      "floor": "1° piano",
+      "room": "US_161450501.I.016"
+    }
+  ],
+  "career": [
+    {
+      "role": "RD",
+      "from": "2023-04-17 00:00:00.0000000",
+      "to": "2026-04-16 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {
+    "2025": [
+      {
+        "course": "COGNITIVE TELECOMMUNICATION SYSTEMS (60279)",
+        "degree": "LM-27 - INTERNET AND MULTIMEDIA ENGINEERING"
+      },
+      {
+        "course": "INTRODUZIONE AI SISTEMI COGNITIVI DINAMICI - RAISE LIGURIA (113558)",
+        "degree": "FORMAZIONE ALLA CITTADINANZA"
+      },
+      {
+        "course": "PYTHON (118063)",
+        "degree": "LM-27 - INTERNET AND MULTIMEDIA ENGINEERING"
+      }
+    ],
+    "2024": [
+      {
+        "course": "COGNITIVE DATA FUSION (86960)",
+        "degree": "LM-29 - INGEGNERIA ELETTRONICA"
+      },
+      {
+        "course": "FONDAMENTI DI PROGRAMMAZIONE PER L'ELABORAZIONE DI SEGNALI E DATI (111042)",
+        "degree": "L-8 - INGEGNERIA ELETTRONICA E TECNOLOGIE DELL'INFORMAZIONE"
+      },
+      {
+        "course": "COGNITIVE TELECOMMUNICATION SYSTEMS (60279)",
+        "degree": "LM-27 - INTERNET AND MULTIMEDIA ENGINEERING"
+      },
+      {
+        "course": "INTRODUZIONE AI SISTEMI COGNITIVI DINAMICI - RAISE LIGURIA (113558)",
+        "degree": "FORMAZIONE ALLA CITTADINANZA"
+      }
+    ],
+    "2023": [
+      {
+        "course": "COGNITIVE DATA FUSION (86960)",
+        "degree": "LM-29 - INGEGNERIA ELETTRONICA"
+      },
+      {
+        "course": "COGNITIVE TELECOMMUNICATION SYSTEMS (60279)",
+        "degree": "LM-27 - INTERNET AND MULTIMEDIA ENGINEERING"
+      },
+      {
+        "course": "INTRODUZIONE AI SISTEMI COGNITIVI DINAMICI - RAISE LIGURIA (113558)",
+        "degree": "FORMAZIONE ALLA CITTADINANZA"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 13,
+      "total_products": 44,
+      "journals": 16,
+      "conferences": 27,
+      "citations": 461,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 13,
+      "total_products": 33,
+      "journals": 14,
+      "conferences": 18,
+      "citations": 395,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 11,
+      "total_products": 27,
+      "journals": 13,
+      "conferences": 13,
+      "citations": 349,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 9,
+      "total_products": 24,
+      "journals": 12,
+      "conferences": 11,
+      "citations": 213,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-105002287594",
+      "title": "Vehicle localization in an explainable dynamic Bayesian network framework for self-aware agents",
+      "doi": "10.1016/j.inffus.2025.103136",
+      "venue": "Information Fusion",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "122",
+      "issue_id": null,
+      "pages": null,
+      "issn": "15662535",
+      "eIssn": null,
+      "source_id": "26099",
+      "authors": "Slavic Giulia; Zontone Pamela; Marcenaro Lucio; Gómez David Martín; Regazzoni Carlo",
+      "author_ids": "57218159779;12805791200;6603377664;59388326900;35513672400",
+      "authorAffiliationIds": "60025153-60001741;60025153;60025153;60001741;60025153",
+      "corresponding": "Slavic G.",
+      "keywords": "Anomaly detection | Dynamic Bayesian networks | Explainable machine learning | Visual-based localization",
+      "abstract": "This paper proposes a method to perform Visual-Based Localization within an explainable self-awareness framework, by combining deep learning with traditional signal processing methods. Localization, along with anomaly detection, is an important challenge in video surveillance and fault detection. Let us consider, for example, the case of a vehicle patrolling a train station: it must continuously know its location to effectively monitor the surroundings and respond to potential threats. In the proposed method, a Dynamic Bayesian Network model is learned. A vocabulary of clusters is obtained using the odometry and video data, and is employed to guide the training of the video model. As the video model, a combination of a Variational Autoencoder and a Kalman Filter is adopted. In the online phase, a Coupled Markov Jump Particle Filter is proposed for Visual-Based Localization. This filter combines a set of Kalman Filters with a Particle Filter, allowing us to extract possible anomalies in the test scenario as well. The proposed method is integrated into a framework based on awareness theories, and is data-driven, hierarchical, probabilistic, and explainable. The method is evaluated on trajectories from four real-world datasets, i.e., two terrestrial and two aerial. The localization accuracy and explainability of the method are analyzed in detail. We achieve a mean localization accuracy in meters of 1.65, 0.98, 0.23, and 0.87, on the four datasets.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 99,
+              "rank": 2,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 98,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 98,
+              "rank": 3,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Software",
+              "percentile": 97,
+              "rank": 12,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105004880386",
+      "title": "A Generative Model Approach for LiDAR-Based Classification and Ego Vehicle Localization Using Dynamic Bayesian Networks",
+      "doi": "10.3390/app15095181",
+      "venue": "Applied Sciences Switzerland",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "15",
+      "issue_id": "9",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20763417",
+      "source_id": "21100829268",
+      "authors": "Adnan Muhammad; Zontone Pamela; Martín Gómez David; Marcenaro Lucio; Regazzoni Carlo",
+      "author_ids": "58488399400;12805791200;59746433000;6603377664;35513672400",
+      "authorAffiliationIds": "60025153-60001741;60025153;60001741;60025153;60025153",
+      "corresponding": "Adnan M.",
+      "keywords": "anomaly detection | autonomous vehicle navigation | Dynamic Bayesian Networks | interaction dictionaries | LiDAR-based localization | Markov Jump Particle Filter | probabilistic modeling | track classification",
+      "abstract": "Our work presents a robust framework for classifying static and dynamic tracks and localizing an ego vehicle in dynamic environments using LiDAR data. Our methodology leverages generative models, specifically Dynamic Bayesian Networks (DBNs), interaction dictionaries, and a Markov Jump Particle Filter (MJPF), to accurately classify objects within LiDAR point clouds and localize the ego vehicle without relying on external odometry data during testing. The classification phase effectively distinguishes between static and dynamic objects with high accuracy, achieving an F1 score of 91%. The localization phase utilizes a combined dictionary approach, integrating multiple static landmarks to improve robustness, particularly during simultaneous multi-track observations and no-observation intervals. Experimental results validate the efficacy of our proposed approach in enhancing localization accuracy and maintaining consistency in diverse scenarios",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 80,
+              "rank": 69,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Instrumentation",
+              "percentile": 80,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fluid Flow and Transfer Processes",
+              "percentile": 79,
+              "rank": 21,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 70,
+              "rank": 294,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 64,
+              "rank": 166,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Process Chemistry and Technology",
+              "percentile": 55,
+              "rank": 34,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85218784759",
+      "title": "Modeling Interactions between Autonomous Agents in a Multi-Agent Self-Awareness Architecture",
+      "doi": "10.1109/TMM.2025.3543110",
+      "venue": "IEEE Transactions on Multimedia",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "27",
+      "issue_id": null,
+      "pages": "5035-5049",
+      "issn": "15209210",
+      "eIssn": "19410077",
+      "source_id": "16211",
+      "authors": "Alemaw Abrham Shiferaw; Slavic Giulia; Zontone Pamela; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo",
+      "author_ids": "57473774100;57218159779;12805791200;6603377664;59388326900;35513672400",
+      "authorAffiliationIds": "60025153-60001741;60025153-60001741;60025153;60025153;60001741;60025153",
+      "corresponding": "Alemaw A.S.",
+      "keywords": "Hierarchical dynamic bayesian networks | linear prediction models | multi-modal perception | variational autoencoder | world model",
+      "abstract": "Learning from experience is a fundamental capability of intelligent agents. Autonomous systems rely on sensors that provide data about the environment and internal situations to their perception systems for learning and inference mechanisms. These systems can also learn Self-Aware and Situation-Aware generative modules from these data to localize themselves and interact with the environment. In this paper, we propose a self-aware cognitive architecture capable to perform tasks where the interactions between the self-state of an agent and the surrounding environment are explicitly and dynamically represented. We specifically develop a Deep Learning (DL) based Self-Aware interaction model, empowered by learning from Multi-Modal Perception (MMP) and World Models using multi-sensory data in a novel Multi-Agent Self-Awareness Architecture (MASAA). Two sub-modules are developed, the Situation Model (SM) and the First-Person model (FPM), that address different and interrelated aspects of the World Model (WM). The MMP model, instead, aims at learning the mapping of different sensory perceptions into Exteroceptive (EI) and Proprioceptive (PI) latent information. The WM then uses the learned MMP model as experience to predict dynamic self-behaviors and interaction patterns within the experienced environment. WM and MMP Models are learned in a data-driven way, starting from the lower-dimensional odometry data used to guide the learning of higher-dimensional video data, thus generating coupled Generalized State Hierarchical Dynamic Bayesian Networks (GS-HDBNs). We test our model on KITTI, CARLA, and iCab datasets, achieving high performance and a low average localization error (RMSE) of 2.897%, when considering two interacting agents.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Media Technology",
+              "percentile": 96,
+              "rank": 3,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 95,
+              "rank": 41,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 95,
+              "rank": 10,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 94,
+              "rank": 52,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105015737114",
+      "title": "Convolutional Autoencoder-Based Anomaly Detection in PPG Signals Using a Necklace Wearable Device",
+      "doi": "10.1109/MetroAutomotive64646.2025.11119279",
+      "venue": "2025 IEEE International Workshop on Metrology for Automotive Metroautomotive 2025 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": "79-84",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101329138",
+      "authors": "Grasso Anna Lo; Zontone Pamela; Affanni Antonio; Rinaldo Roberto",
+      "author_ids": "57219297312;12805791200;55957389200;7003771007",
+      "authorAffiliationIds": "60025965;60025153;60025965;60025965",
+      "corresponding": "Grasso A.L.",
+      "keywords": "Anomaly detection | Convolutional Autoencoder | Photoplethysmography | Reconstruction Error | ROC curve",
+      "abstract": "Detecting anomalies in PPG signals is crucial for the early identification of cardiovascular conditions, such as arrhythmias, poor perfusion, or stress induced by daily activities, thereby enabling timely interventions. This approach supports continuous, non-invasive monitoring and promotes advancements in data-driven healthcare. In this paper, we summarize the design and implementation of a wearable necklace sensor developed for monitoring the well-being of individuals during daily activities, such as driving, by acquiring PPG signals. Furthermore, we introduce an anomaly detection method for PPG signals based on a Convolutional Autoencoder (CAE). CAE architectures are particularly well-suited for tasks involving data compression and reconstruction, as they effectively capture local data relationships and preserve spatial structures. They are especially advantageous for processing PPG signals. Moreover, their reduced number of parameters compared to traditional Autoencoders (AE) makes them computationally more efficient compared to dense AE. The proposed approach is validated using a dataset of normal PPG signals, acquired through our innovative necklace sensor, for training, along with various anomalous PPG datasets sourced from public databases for testing. Experimental results demonstrate that the CAE successfully generalizes well from the training data and achieves highly effective discrimination between normal and anomalous signals, with AUC scores approaching one across all analyzed cases.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85205241043",
+      "title": "Advanced Necklace for Real-Time PPG Monitoring in Drivers",
+      "doi": "10.3390/s24185908",
+      "venue": "Sensors",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "24",
+      "issue_id": "18",
+      "pages": null,
+      "issn": null,
+      "eIssn": "14248220",
+      "source_id": "130124",
+      "authors": "Lo Grasso Anna; Zontone Pamela; Rinaldo Roberto; Affanni Antonio",
+      "author_ids": "57219297312;12805791200;7003771007;55957389200",
+      "authorAffiliationIds": "60025965;60025153;60025965;60025965",
+      "corresponding": "Lo Grasso A.",
+      "keywords": "electrocardiogram | heart rate monitoring | motion artifacts | photoplethysmography | sliding DFT",
+      "abstract": "Monitoring heart rate (HR) through photoplethysmography (PPG) signals is a challenging task due to the complexities involved, even during routine daily activities. These signals can indeed be heavily contaminated by significant motion artifacts resulting from the subjects’ movements, which can lead to inaccurate heart rate estimations. In this paper, our objective is to present an innovative necklace sensor that employs low-computational-cost algorithms for heart rate estimation in individuals performing non-abrupt movements, specifically drivers. Our solution facilitates the acquisition of signals with limited motion artifacts and provides acceptable heart rate estimations at a low computational cost. More specifically, we propose a wearable sensor necklace for assessing a driver’s well-being by providing information about the driver’s physiological condition and potential stress indicators through HR data. This innovative necklace enables real-time HR monitoring within a sleek and ergonomic design, facilitating seamless and continuous data gathering while driving. Prioritizing user comfort, the necklace’s design ensures ease of wear, allowing for extended use without disrupting driving activities. The collected physiological data can be transmitted wirelessly to a mobile application for instant analysis and visualization. To evaluate the sensor’s performance, two algorithms for estimating the HR from PPG signals are implemented in a microcontroller: a modified version of the mountaineer’s algorithm and a sliding discrete Fourier transform. The goal of these algorithms is to detect meaningful peaks corresponding to each heartbeat by using signal processing techniques to remove noise and motion artifacts. The developed design is validated through experiments conducted in a simulated driving environment in our lab, during which drivers wore the sensor necklace. These experiments demonstrate the reliability of the wearable sensor necklace in capturing dynamic changes in HR levels associated with driving-induced stress. The algorithms integrated into the sensor are optimized for low computational cost and effectively remove motion artifacts that occur when users move their heads.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 90,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 136,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 85,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 84,
+              "rank": 72,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 82,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 82,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 88,
+              "rank": 21,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 85,
+              "rank": 145,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 81,
+              "rank": 30,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 81,
+              "rank": 44,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 80,
+              "rank": 91,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 80,
+              "rank": 86,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85215671467",
+      "title": "Classifying Static and Dynamic Tracks for LiDAR-Based Navigation of Autonomous Vehicle Systems",
+      "doi": "10.1109/ICFSP62546.2024.10785465",
+      "venue": "2024 9th International Conference on Frontiers of Signal Processing Icfsp 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "111-117",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101270636",
+      "authors": "Adnan Muhammad; Zontone Pamela; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo",
+      "author_ids": "58488399400;12805791200;6603377664;59388326900;35513672400",
+      "authorAffiliationIds": "60025153-60001741;60025153;60025153;60001741;60025153",
+      "corresponding": "Adnan M.",
+      "keywords": "Autonomous vehicles | Classifications | Clustering | Multi-target tracking",
+      "abstract": "In recent years we have seen a significant increase in research on autonomous vehicles, which is attracting considerable attention because of its potential to revolutionize transportation. In this paper, a method is presented for classifying static and dynamic tracks in autonomous vehicles using odometry and LiDAR data. Using the multi-target tracking algorithm, we are able to detect and track objects with high precision. We used an unsupervised clustering algorithm to create innovative interaction models, which will be employed for vehicle localization in the future. Because clustering is based upon time and spatial proximity, we are able to create interaction models using dynamic bayesian networks (DBNs) that allow us to classify and differentiate static from dynamic tracks. Based on our method, we achieve an accuracy of 87% in distinguishing between static and dynamic obstacles, thereby enhancing navigation by identifying and differentiating different types of obstacles efficiently.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85213734034",
+      "title": "Incremental Learning Through Fusion of Discrete Anomaly Models from Odometry Signals in Autonomous Agent Navigation",
+      "doi": "10.1109/SiPS62058.2024.00023",
+      "venue": "IEEE Workshop on Signal Processing Systems Sips Design and Implementation",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "83-88",
+      "issn": "15206130",
+      "eIssn": null,
+      "source_id": "26058",
+      "authors": "Humayun Muhammad Farhan; Zontone Pamela; Marcenaro Lucio; Gómez David Martín; Regazzoni Carlo",
+      "author_ids": "57762469100;12805791200;6603377664;59388326900;35513672400",
+      "authorAffiliationIds": "60025153-60001741;60025153;60025153;60001741;60025153",
+      "corresponding": "Humayun M.F.",
+      "keywords": "Adaptive Particle filtering | Anomaly detection | Generative model fusion | Incremental learning | Self-aware agent",
+      "abstract": "This paper presents a dynamic data-driven approach for efficient anomaly detection, extraction, and fusion of multiple heterogeneous anomaly models in a generative fashion. First, we propose an adaptive Bayesian filtering technique based on a combination of Null force hypothesis and Particle filtering to accurately track the trajectories of normal and abnormal cases. We then analyze the generalized vectors and clusters generated from adaptive filtering and sequential clustering procedures to effectively detect areas with high abnormalities. To achieve this, we use probabilistic distance measurements. Finally, to increase the agent's vocabulary, we fuse different anomaly distributions to generate coupled anomaly models that allow the agent to have incremental learning capabilities. Our approach is completely data-driven and does not require any previous knowledge of the data or the environment. We show that our proposed method can effectively detect anomalies using low-dimensional odometry data and can eventually improve itself over time through iterative generation of fused anomaly models.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 43,
+              "rank": 110,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Applied Mathematics",
+              "percentile": 43,
+              "rank": 379,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 40,
+              "rank": 593,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 29,
+              "rank": 165,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Applied Mathematics",
+              "percentile": 62,
+              "rank": 252,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 53,
+              "rank": 86,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 51,
+              "rank": 470,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 41,
+              "rank": 131,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85207695150",
+      "title": "Learning 3D LiDAR Perception Models for Self-Aware Autonomous Systems",
+      "doi": "10.23919/FUSION59988.2024.10706364",
+      "venue": "Fusion 2024 27th International Conference on Information Fusion",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101256248",
+      "authors": "Memon Saleemullah; Krayani Ali; Zontone Pamela; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo",
+      "author_ids": "57209179084;57211429954;12805791200;6603377664;59388326900;35513672400",
+      "authorAffiliationIds": "60025153-60001741;60025153;60025153;60025153;60001741;60025153",
+      "corresponding": "Memon S.",
+      "keywords": "3D LiDAR | Generative Dynamic Bayesian Network (GDBN) | Intelligent Transportation Systems (ITSs) | Self-Awareness",
+      "abstract": "Intelligent transportation systems (ITSs) provide a paradigm change in perceiving and interacting with transportation networks, leading to enhanced levels of safety, sustainability, and efficiency. Vehicular-to-everything (V2X) communication is the core component in the ITSs. The proprioceptive and exteroceptive sensors allow these vehicles to be aware of the surrounding environment and respond to emergencies by utilizing their abilities to reach a high level of self-awareness. In this paper, we propose a self-awareness approach to learn a generative dynamic Bayesian network (G-DBN) from the real-time LiDAR perception. Without reducing the dimensionality, we perform offline training and online testing phases on the three-dimensional (3D) point clouds. In the offline training phase, initially, the raw point clouds are preprocessed using a joint probabilistic data association filter (JPDAF) to obtain the 3D tracks of the multiple vehicles in space. Then, we perform an unsupervised clustering on all the generalized states (GSs) containing positions and velocities (a 6D vector) by considering the growing neural gas (GNG) technique, thus achieving a trained model from the 3D LiDAR point clouds. In the online testing phase, the high-dimensional Markov jump particle filter (HD-MJPF) utilizes the G-DBN's probabilistic information to predict the positions of multiple vehicles and to detect the abnormalities at the discrete and continuous levels in normal and abnormal scenarios. Our proposed approach is useful for learning high-dimensional generative models and provides a way to meet the current curse of dimensionality challenges, that machine learning models are suffering.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85207692161",
+      "title": "Integrated Learning and Decision Making for Autonomous Agents through Energy based Bayesian Models",
+      "doi": "10.23919/FUSION59988.2024.10706431",
+      "venue": "Fusion 2024 27th International Conference on Information Fusion",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101256248",
+      "authors": "Alemaw Abrham Shiferaw; Zontone Pamela; Marcenaro Lucio; Marin Pablo; Gomez David Martin; Regazzoni Carlo",
+      "author_ids": "57473774100;12805791200;6603377664;57190806708;59388326900;35513672400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Alemaw A.S.",
+      "keywords": null,
+      "abstract": "Generalizability and interpretability are common terminologies that can be found in today's machine learning algorithm design. Generalizability requires a clear understanding of one's own action (self-awareness) and a robust interaction with the environment (situation awareness). Many current studies are devoted in developing an algorithm that is more robust in generalizing unseen situations while explaining self-action. However, such algorithms are complex and are not yet fully developed to be used in production. Intelligent transportation systems like self-driving cars are one of the emerging technologies that need generalizability and explainability in anomalous conditions. We propose to enhance generalizability and interpretability of a self-driving car model by introducing a novel methodology that fuses multi-sensorial data from proprioceptive and exteroceptive sensors of an agent, coupled in a Hierarchical Dynamic Bayesian Network model, in an Active Inference framework. The developed model has three stages: 1) a lower dimensional unsupervised learning stage, considering odometry and action modalities, carried out by first applying Null Force Filtering and then by applying modified GNG clustering algorithms; 2) a self-supervised higher-dimensional video modality learning stage assisted by the learned odometry vocabularies; and 3) an online model-based active learning in continuous and discrete state spaces, and action spaces, in the Active Inference framework. The developed system is tested using the CARLA simulator environment for localizing interacting agents, and exhibits low error compared to state-of-the-art methods.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85202443570",
+      "title": "Joint Data-Driven Analysis of Visual-Odometric Anomaly Signals in Generative Ai-Based Agents",
+      "doi": "10.1109/ICASSPW62465.2024.10626634",
+      "venue": "2024 IEEE International Conference on Acoustics Speech and Signal Processing Workshops Icasspw 2024 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "264-268",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101245171",
+      "authors": "Slavic Giulia; Bracco Mattia; Marcenaro Lucio; Gómez David Martín; Regazzoni Carlo; Zontone Pamela",
+      "author_ids": "57218159779;59302446500;6603377664;57204878586;35513672400;12805791200",
+      "authorAffiliationIds": "60025153-60001741;60025153;60025153;60001741;60025153;60025153",
+      "corresponding": "Slavic G.",
+      "keywords": "anomaly detection | explainability | Kalman filtering | particle filtering | Variational autoencoder",
+      "abstract": "This paper presents a data-driven model that, by exploring the correlation between the data coming from two sensors (GPS and camera), allows us to explain the odometry anomalies by analyzing video data. Our approach uses a Markov Jump Particle Filter (MJPF) to process the odometry data of a vehicle, extracting its features and identifying instant anomalies. Simultaneously, the object causing the anomaly is detected and tracked in the video data. After that, the correlation between the odometric trajectories and the object trajectories is determined in both normal and abnormal cases. Another correlation coefficient is then employed to calculate the distance between the computed correlations. The proposed method is evaluated using multi-modal data collected from a vehicle operating in a closed environment, where pedestrians represent anomalies. We show that our system is able to distinguish which video anomaly better explains the odometry anomaly.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85170345345",
+      "title": "Drivers’ Mental Engagement Analysis Using Multi-Sensor Fusion Approaches Based on Deep Convolutional Neural Networks",
+      "doi": "10.3390/s23177346",
+      "venue": "Sensors",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "23",
+      "issue_id": "17",
+      "pages": null,
+      "issn": "14248220",
+      "eIssn": null,
+      "source_id": "130124",
+      "authors": "Aminosharieh Najafi Taraneh; Affanni Antonio; Rinaldo Roberto; Zontone Pamela",
+      "author_ids": "57490617200;55957389200;7003771007;12805791200",
+      "authorAffiliationIds": "60025965;60025965;60025965;60025965",
+      "corresponding": "Aminosharieh Najafi T.",
+      "keywords": "deep convolutional neural network | drivers’ mental engagement | electrocardiogram | electrodermal activity | electroencephalogram | sensor fusion",
+      "abstract": "In this paper, we present a comprehensive assessment of individuals’ mental engagement states during manual and autonomous driving scenarios using a driving simulator. Our study employed two sensor fusion approaches, combining the data and features of multimodal signals. Participants in our experiment were equipped with Electroencephalogram (EEG), Skin Potential Response (SPR), and Electrocardiogram (ECG) sensors, allowing us to collect their corresponding physiological signals. To facilitate the real-time recording and synchronization of these signals, we developed a custom-designed Graphical User Interface (GUI). The recorded signals were pre-processed to eliminate noise and artifacts. Subsequently, the cleaned data were segmented into 3 s windows and labeled according to the drivers’ high or low mental engagement states during manual and autonomous driving. To implement sensor fusion approaches, we utilized two different architectures based on deep Convolutional Neural Networks (ConvNets), specifically utilizing the Braindecode Deep4 ConvNet model. The first architecture consisted of four convolutional layers followed by a dense layer. This model processed the synchronized experimental data as a 2D array input. We also proposed a novel second architecture comprising three branches of the same ConvNet model, each with four convolutional layers, followed by a concatenation layer for integrating the ConvNet branches, and finally, two dense layers. This model received the experimental data from each sensor as a separate 2D array input for each ConvNet branch. Both architectures were evaluated using a Leave-One-Subject-Out (LOSO) cross-validation approach. For both cases, we compared the results obtained when using only EEG signals with the results obtained by adding SPR and ECG signals. In particular, the second fusion approach, using all sensor signals, achieved the highest accuracy score, reaching 82.0%. This outcome demonstrates that our proposed architecture, particularly when integrating EEG, SPR, and ECG signals at the feature level, can effectively discern the mental engagement of drivers.",
+      "citations": 9,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 90,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 136,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 85,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 84,
+              "rank": 72,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 82,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 82,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 83,
+              "rank": 24,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 79,
+              "rank": 163,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 78,
+              "rank": 48,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 77,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 77,
+              "rank": 91,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 69,
+              "rank": 133,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85148975747",
+      "title": "Driver Attention Assessment Using Physiological Measures from EEG, ECG, and EDA Signals †",
+      "doi": "10.3390/s23042039",
+      "venue": "Sensors",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "23",
+      "issue_id": "4",
+      "pages": null,
+      "issn": "14248220",
+      "eIssn": null,
+      "source_id": "130124",
+      "authors": "Aminosharieh Najafi Taraneh; Affanni Antonio; Rinaldo Roberto; Zontone Pamela",
+      "author_ids": "57490617200;55957389200;7003771007;12805791200",
+      "authorAffiliationIds": "60025965;60025965;60025965;60025965",
+      "corresponding": "Aminosharieh Najafi T.",
+      "keywords": "blink rate | driver attention | driving simulator | electrocardiogram | electrodermal activity | electroencephalogram",
+      "abstract": "In this paper, we consider the evaluation of the mental attention state of individuals driving in a simulated environment. We tested a pool of subjects while driving on a highway and trying to overcome various obstacles placed along the course in both manual and autonomous driving scenarios. Most systems described in the literature use cameras to evaluate features such as blink rate and gaze direction. In this study, we instead analyse the subjects’ Electrodermal activity (EDA) Skin Potential Response (SPR), their Electrocardiogram (ECG), and their Electroencephalogram (EEG). From these signals we extract a number of physiological measures, including eye blink rate and beta frequency band power from EEG, heart rate from ECG, and SPR features, then investigate their capability to assess the mental state and engagement level of the test subjects. In particular, and as confirmed by statistical tests, the signals reveal that in the manual scenario the subjects experienced a more challenged mental state and paid higher attention to driving tasks compared to the autonomous scenario. A different experiment in which subjects drove in three different setups, i.e., a manual driving scenario and two autonomous driving scenarios characterized by different vehicle settings, confirmed that manual driving is more mentally demanding than autonomous driving. Therefore, we can conclude that the proposed approach is an appropriate way to monitor driver attention.",
+      "citations": 28,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 90,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 136,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 85,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 84,
+              "rank": 72,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 82,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 82,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 83,
+              "rank": 24,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 79,
+              "rank": 163,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 78,
+              "rank": 48,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 77,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 77,
+              "rank": 91,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 69,
+              "rank": 133,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85179140616",
+      "title": "Application of Supervised Learning Techniques for Sports and Daily Activities Identification Using Accelerometer Data",
+      "doi": "10.1109/STAR58331.2023.10302440",
+      "venue": "2023 IEEE International Workshop on Sport Technology and Research STAR 2023 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": "116-121",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101190444",
+      "authors": "Zontone Pamela; Affanni Antonio; Pin Davide; Rinaldo Roberto",
+      "author_ids": "12805791200;55957389200;58753742100;7003771007",
+      "authorAffiliationIds": "60025965;60025965;60025965;60025965",
+      "corresponding": "Zontone P.",
+      "keywords": "Deep Learning | Human Activity Recognition | Inertial Measurement Unit | Machine Learning",
+      "abstract": "Human Activity Recognition (HAR) is a research area that is receiving increasing attention in recent years. In this paper we propose the application of different supervised learning algorithms to recognize distinct human activities. In particular, we use a dataset that includes inertial measurements recorded from sensors placed in various positions on the subjects' body, while performing sports and daily activities. Considering possible real-life applications of the system, we analyze only the acceleration signal coming from a single and low-complexity sensor placed on the torso of the subjects. We derive different statistical features from the three axial accelerations. These features are the input of Machine Learning algorithms with the purpose of recognizing the particular activity carried out by the subjects. The unprocessed acceleration signals are instead sent to Deep Learning algorithms, giving us the opportunity to compare the performance of the classifiers. In the end, we achieve accuracy values of 73.3% and 86.6% in classifying 19 types of different human activities, using a Random Forest (RF) classifier and a 1D Convolutional Neural Network (CNN) network, respectively.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85179129950",
+      "title": "Wearable Sensor for Boxer Performance Improvement",
+      "doi": "10.1109/STAR58331.2023.10302655",
+      "venue": "2023 IEEE International Workshop on Sport Technology and Research STAR 2023 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": "110-115",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101190444",
+      "authors": "Affanni Antonio; Rinaldo Roberto; Zontone Pamela",
+      "author_ids": "55957389200;7003771007;12805791200",
+      "authorAffiliationIds": "60025965;60025965;60025965",
+      "corresponding": "Affanni A.",
+      "keywords": "Boxing Performance Measurement | Punch Force | Wearable Sensors",
+      "abstract": "Measuring punch force is crucial for assessing the performance and progress of boxers during training and matches. In this paper, we present a novel wearable sensor designed specifically to measure punch force in boxers. The sensor is a unique example of a measuring wearable device that can be easily integrated into commercial boxing gloves, making it suitable for both training and matches. The module is lightweight, compact, and fits into commercial gloves without compromising comfort or mobility. Moreover, the sensor incorporates wireless communication capabilities, enabling real-time monitoring of punch force data on a companion mobile application or a dedicated display unit, facilitating immediate feedback and analysis. We conducted tests with four amateur boxers, and we chose the boxers trying to cover a wide range of standard categories. The results demonstrate that the sensor reliably measures punch force across different boxing techniques such as straights and hooks, with accuracy in the order of 6 % of full scale. The presented wearable sensor represents a significant advancement in wearable sensor technology for boxing; its integration into commercial gloves allows for seamless adoption by boxers of all skill levels, enhancing training efficiency and promoting better performance during matches.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85178343777",
+      "title": "Convolutional Neural Networks Using Scalograms for Stress Recognition in Drivers",
+      "doi": "10.23919/EUSIPCO58844.2023.10290079",
+      "venue": "European Signal Processing Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": "1185-1189",
+      "issn": "22195491",
+      "eIssn": null,
+      "source_id": "21100204301",
+      "authors": "Zontone Pamela; Affanni Antonio; Piras Alessandro; Rinaldo Roberto",
+      "author_ids": "12805791200;55957389200;57202664963;7003771007",
+      "authorAffiliationIds": "60025965;60025965;60025965;60025965",
+      "corresponding": "Zontone P.",
+      "keywords": "Convolutional Neural Network | Electrodermal Activity | Heart Rate | Scalogram | Stress Detection",
+      "abstract": "In this paper we present a system which allows the detection of stress in drivers by analyzing a two-dimensional representation of their electrodermal activity Skin Potential Response (SPR) signal, and their electrocardiogram signal. Signals were logged during a simulated drive, in an experiment carried out in a company using a professional car driving simulator. Subjects had to overcome some stress-inducing events located at specific positions during the drive. The acquired SPR and heart rate signals are analyzed with scalogram plots, in order to obtain a time-frequency representation of the signals. The 2D scalogram representation is segmented into images, associated to short time segments, which are classified using a Convolutional Neural Network architecture. We show that the use of scalograms can allow the system to perform well in distinguishing among stress and non-stress situations, achieving a 91.78% accuracy. The same system was tested on real driving data available from a public dataset, achieving a 99.24% accuracy.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 44,
+              "rank": 109,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 42,
+              "rank": 573,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85126327872",
+      "title": "Analysis of Physiological Signals for Stress Recognition with Different Car Handling Setups",
+      "doi": "10.3390/electronics11060888",
+      "venue": "Electronics Switzerland",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "11",
+      "issue_id": "6",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20799292",
+      "source_id": "21100829272",
+      "authors": "Zontone Pamela; Affanni Antonio; Bernardini Riccardo; Del Linz Leonida; Piras Alessandro; Rinaldo Roberto",
+      "author_ids": "12805791200;55957389200;7005276670;57216836480;57202664963;7003771007",
+      "authorAffiliationIds": "60025965;60025965;60025965;127837093;60025965;60025965",
+      "corresponding": "Zontone P.",
+      "keywords": "Electrodermal activity | Heart rate variability | Machine learning | Motion artifact removal | Stress recognition in drivers",
+      "abstract": "When designing a car, the vehicle dynamics and handling are important aspects, as they can satisfy a purpose in professional racing, as well as contributing to driving pleasure and safety, real and perceived, in regular drivers. In this paper, we focus on the assessment of the emotional response in drivers while they are driving on a track with different car handling setups. The experiments were performed using a dynamic professional simulator prearranged with different car setups. We recorded various physiological signals, allowing us to analyze the response of the drivers and analyze which car setup is more influential in terms of stress arising in the subjects. We logged two skin potential responses (SPRs), the electrocardiogram (ECG) signal, and eye tracking information. In the experiments, three car setups were used (neutral, understeering, and oversteering). To evaluate how these affect the drivers, we analyzed their physiological signals using two statistical tests (t-test and Wilcoxon test) and various machine learning (ML) algorithms. The results of the Wilcoxon test show that SPR signals provide higher statistical significance when evaluating stress among different drivers, compared to the ECG and eye tracking signals. As for the ML classifiers, we count the number of positive or “stress” labels of 15 s SPR time intervals for each subject and each particular car setup. With the support vector machine classifier, the mean value of the number of positive labels for the four subjects is equal to 13.13% for the base setup, 44.16% for the oversteering setup, and 39.60% for the understeering setup. In the end, our findings show that the base car setup appears to be the least stressful, and that our system enables us to effectively recognize stress while the subjects are driving in the different car configurations.",
+      "citations": 18,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 81,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 78,
+              "rank": 220,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 76,
+              "rank": 91,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 76,
+              "rank": 131,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 73,
+              "rank": 62,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 68,
+              "rank": 92,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 66,
+              "rank": 248,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 66,
+              "rank": 129,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 61,
+              "rank": 48,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 60,
+              "rank": 68,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85123883329",
+      "title": "Exploring Physiological Signal Responses to Traffic-Related Stress in Simulated Driving †",
+      "doi": "10.3390/s22030939",
+      "venue": "Sensors",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "22",
+      "issue_id": "3",
+      "pages": null,
+      "issn": "14248220",
+      "eIssn": null,
+      "source_id": "130124",
+      "authors": "Zontone Pamela; Affanni Antonio; Rinaldo Roberto; Piras Alessandro",
+      "author_ids": "12805791200;55957389200;7003771007;57202664963",
+      "authorAffiliationIds": "60025965;60025965;60025965;60025965",
+      "corresponding": "Zontone P.",
+      "keywords": "Electrocardiogram | Electrodermal activity | Machine Learning | Motion artifact removal | Stress detection in drivers",
+      "abstract": "In this paper, we propose a relatively noninvasive system that can automatically assess the impact of traffic conditions on drivers. We analyze the physiological signals recorded from a set of individuals while driving in a simulated urban scenario in two different traffic scenarios, i.e., with traffic and without traffic. The experiments were carried out in a laboratory located at the University of Udine, employing a driving simulator equipped with a moving platform. We acquired two Skin Potential Response (SPR) signals from the hands of the drivers, and an electrocardiogram (ECG) signal from their chest. In the proposed scheme, the SPR signals are then processed through a Motion Artifact (MA) removal algorithm such that possible motion artifacts arising during the drive are reduced. An analysis considering the scalogram of the single cleaned SPR signal is presented. This signal, along with the ECG, is then fed to various Machine Learning (ML) algorithms. More specifically, some statistical features are extracted from each signal segment which, after being analyzed through a binary ML model, are labeled as corresponding to a stressful situation or not. Our results confirm the applicability of the proposed approach to identify stress in the two scenarios. This is also in accordance with our findings considering the SPR signal scalograms.",
+      "citations": 16,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 90,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 136,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 85,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 84,
+              "rank": 72,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 82,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 82,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 87,
+              "rank": 18,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 80,
+              "rank": 146,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 77,
+              "rank": 47,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 77,
+              "rank": 32,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 77,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 64,
+              "rank": 151,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85114961949",
+      "title": "Stress recognition in a simulated city environment using Skin Potential Response (SPR) signals",
+      "doi": "10.1109/MetroAutomotive50197.2021.9502867",
+      "venue": "2021 IEEE International Workshop on Metrology for Automotive Metroautomotive 2021 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": null,
+      "issue_id": null,
+      "pages": "135-140",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101059038",
+      "authors": "Zontone Pamela; Affanni Antonio; Piras Alessandro; Rinaldo Roberto",
+      "author_ids": "12805791200;55957389200;57202664963;7003771007",
+      "authorAffiliationIds": "60025965;60025965;60025965;60025965",
+      "corresponding": "Zontone P.",
+      "keywords": "3D Driving Simulator | Electrodermal Activity | Machine Learning | Skin Potential Response | Stress Detection",
+      "abstract": "In this paper we propose a Machine Learning (ML) classification algorithm, for stress recognition in subjects driving in a simulated city environment. Two Skin Potential Response (SPR) signals, one from each hand, are logged from the subjects and processed to remove possible motion artifacts that could appear in the recordings. This is achieved using a motion artifact removal algorithm that, taking as input the two SPR signals, outputs a single processed SPR signal. We define a number of statistical features extracted from this resulting SPR signal, and use them in a supervised learning algorithm which allows the classification of each time interval as characterized by stress or by the absence of stress. The experiments have been performed in laboratory, using a driving simulator with a motorized motion platform. The subjects had to drive, for a certain amount of time, in a city environment in two different scenarios, characterized by the presence or absence of traffic. Our findings indicate that the use of the SPR signals and of the ML classifier allow the recognition of stress situations, also showing that, in our experiment, the subjects result to be less stressed in the traffic-free scenario.",
+      "citations": 13,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85099294479",
+      "title": "Emotional response analysis using electrodermal activity, electrocardiogram and eye tracking signals in drivers with various car setups",
+      "doi": "10.23919/Eusipco47968.2020.9287446",
+      "venue": "European Signal Processing Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": "2021-January",
+      "issue_id": null,
+      "pages": "1160-1164",
+      "issn": "22195491",
+      "eIssn": null,
+      "source_id": "21100204301",
+      "authors": "Zontone Pamela; Affanni Antonio; Bernardini Riccardo; Del Linz Leonida; Piras Alessandro; Rinaldo Roberto",
+      "author_ids": "12805791200;55957389200;7005276670;57216836480;57202664963;7003771007",
+      "authorAffiliationIds": "60025965;60025965;60025965;131073157;60025965;60025965",
+      "corresponding": "Zontone P.",
+      "keywords": "Electrocardiogram | Eye Tracking | Skin Potential Response | Stress Detection | Supervised Machine Learning Algorithm",
+      "abstract": "In the automotive industry, it is important to evaluate different car setups in order to match a professional driver's preference or to match the most acceptable setup for most drivers. Therefore, it is of great significance to devise objective and automatic procedures to assess a driver's response to different car settings. In this work, we analyze different physiological signals in order to evaluate how a particular car setup can be more or less stressful than others. In detail, we record an endosomatic Electrodermal Activity (EDA) signal, called Skin Potential Response (SPR), the Electrocardiogram (ECG) signal, and eye tracking coordinates. We eliminate motion artifacts by processing two SPR signals, one from each hand of the driver. Tests are carried out in a company that designs driving simulators, where the tested individuals had to drive along a straight highway with several lane changes. Three different car setups have been tested (neutral, understeering, and oversteering). We apply a statistical test to the data extracted from the cleaned SPR signal, and we then compare the results with the ones obtained using a Machine Learning algorithm. We show that we are able to discriminate the drivers' response to each setup, and, in particular, that the base car setup generates the least intense emotional response when compared to the understeering and the oversteering car setups.",
+      "citations": 21,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 44,
+              "rank": 109,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 42,
+              "rank": 573,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85122830062",
+      "title": "Skin potential response for stress recognition in simulated urban driving",
+      "doi": "10.21014/acta_imeko.v10i4.1138",
+      "venue": "Acta Imeko",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "10",
+      "issue_id": "4",
+      "pages": "117-123",
+      "issn": "0237028X",
+      "eIssn": "2221870X",
+      "source_id": "21100407601",
+      "authors": "Zontone Pamela; Affanni Antonio; Piras Alessandro; Rinaldo Roberto",
+      "author_ids": "12805791200;55957389200;57202664963;7003771007",
+      "authorAffiliationIds": "60025965;60025965;60025965;60025965",
+      "corresponding": "Zontone P.",
+      "keywords": "3D driving simulator | Electrodermal activity | Machine Learning | Skin Potential Response | Stress recognition",
+      "abstract": "In this paper, we address the problem of possible stress conditions arising in car drivers, thus affecting their driving performance. We apply various Machine Learning (ML) algorithms to analyse the stress of subjects while driving in an urban area in two different situations: one with cars, pedestrians and traffic along the course, and the other characterized by the complete absence of any of these possible stress-inducing factors. To evaluate the presence of a stress condition we use two Skin Potential Response (SPR) signals, recorded from each hand of the test subjects, and process them through a Motion Artifact (MA) removal algorithm which reduces the artifacts that might be introduced by the hand movements. We then compute some statistical features starting from the cleaned SPR signal. A binary classification ML algorithm is then fed with these features, giving as an output a label that indicates if a time interval belongs to a stress condition or not. Tests are carried out in a laboratory at the University of Udine, where a car driving simulator with a motorized motion platform has been prearranged. We show that the use of one single SPR signal, along with the application of ML algorithms, enables the detection of possible stress conditions while the subjects are driving, in the traffic and no traffic situations. As expected, we observe that the test individuals are less stressed in the situation without traffic, confirming the effectiveness of the proposed slightly invasive system for detection of stress in drivers.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 53,
+              "rank": 88,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 51,
+              "rank": 482,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 49,
+              "rank": 373,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 32,
+              "rank": 409,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 28,
+              "rank": 506,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Instrumentation",
+              "percentile": 21,
+              "rank": 107,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85083970560",
+      "title": "Car Driver's Sympathetic Reaction Detection through Electrodermal Activity and Electrocardiogram Measurements",
+      "doi": "10.1109/TBME.2020.2987168",
+      "venue": "IEEE Transactions on Biomedical Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "67",
+      "issue_id": "12",
+      "pages": "3413-3424",
+      "issn": "00189294",
+      "eIssn": "15582531",
+      "source_id": "16318",
+      "authors": "Zontone Pamela; Affanni Antonio; Bernardini Riccardo; Piras Alessandro; Rinaldo Roberto; Formaggia Fabio; Minen Diego; Minen Michela; Savorgnan Carlo",
+      "author_ids": "12805791200;55957389200;7005276670;57202664963;7003771007;57216661128;8307606300;57216656568;15926250800",
+      "authorAffiliationIds": "60025965;60025965;60025965;60025965;60025965;122402063;122402063;122402063;122402063",
+      "corresponding": "Zontone P.",
+      "keywords": "electrocardiogram | motion artifact | skin potential response | Stress detection | supervised learning algorithm",
+      "abstract": "Objective: in this paper we propose a system to detect a subject's sympathetic reaction, which is related to unexpected or challenging events during a car drive. Methods: we use the Electrocardiogram (ECG) signal and the Skin Potential Response (SPR) signal, which has several advantages with respect to other Electrodermal (EDA) signals. We record one SPR signal for each hand, and use an algorithm that, selecting the smoother signal, is able to remove motion artifacts. We extract statistical features from the ECG and SPR signals in order to classify signal segments and identify the presence or absence of emotional events via a Supervised Learning Algorithm. The experiments were carried out in a company which specializes in driving simulator equipment, using a motorized platform and a driving simulator. Different subjects were tested with this setup, with different challenging events happening on predetermined locations on the track. Results: we obtain an Accuracy as high as 79.10% for signal blocks and as high as 91.27% for events. Conclusion: results demonstrate the good performance of the presented system in detecting sympathetic reactions, and the effectiveness of the motion artifact removal procedure. Significance: our work demonstrates the possibility to classify the emotional state of the driver, using the ECG and EDA signals and a slightly invasive setup. In particular, the proposed use of SPR and of the motion artifact removal procedure are crucial for the effectiveness of the system.",
+      "citations": 39,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Biomedical Engineering",
+              "percentile": 79,
+              "rank": 68,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Biomedical Engineering",
+              "percentile": 90,
+              "rank": 23,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85083996120",
+      "title": "Stress evaluation in simulated autonomous and manual driving through the analysis of skin potential response and electrocardiogram signals",
+      "doi": "10.3390/s20092494",
+      "venue": "Sensors Switzerland",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "20",
+      "issue_id": "9",
+      "pages": null,
+      "issn": "14248220",
+      "eIssn": null,
+      "source_id": "130124",
+      "authors": "Zontone Pamela; Affanni Antonio; Bernardini Riccardo; Linz Leonida Del; Piras Alessandro; Rinaldo Roberto",
+      "author_ids": "12805791200;55957389200;7005276670;57211535476;57202664963;7003771007",
+      "authorAffiliationIds": "60025965;60025965;60025965;60025965;60025965;60025965",
+      "corresponding": "Zontone P.",
+      "keywords": "Autonomous driving | Electrocardiogram | Skin potential response | Stress recognition | Supervised learning algorithm",
+      "abstract": "The evaluation of car drivers’ stress condition is gaining interest as research on Autonomous Driving Systems (ADS) progresses. The analysis of the stress response can be used to assess the acceptability of ADS and to compare the driving styles of different autonomous drive algorithms. In this contribution, we present a system based on the analysis of the Electrodermal Activity Skin Potential Response (SPR) signal, aimed to reveal the driver’s stress induced by different driving situations. We reduce motion artifacts by processing two SPR signals, recorded from the hands of the subjects, and outputting a single clean SPR signal. Statistical features of signal blocks are sent to a Supervised Learning Algorithm, which classifies between stress and normal driving (non-stress) conditions. We present the results obtained from an experiment using a professional driving simulator, where a group of people is asked to undergo manual and autonomous driving on a highway, facing some unexpected events meant to generate stress. The results of our experiment show that the subjects generally appear more stressed during manual driving, indicating that the autonomous drive can possibly be well received by the public. During autonomous driving, however, significant peaks of the SPR signal are evident during unexpected events. By examining the electrocardiogram signal, the average heart rate is generally higher in the manual case compared to the autonomous case. This further supports our previous findings, even if it may be due, in part, to the physical activity involved in manual driving.",
+      "citations": 29,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 90,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 136,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 85,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 84,
+              "rank": 72,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 82,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 82,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 90,
+              "rank": 13,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 80,
+              "rank": 135,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 79,
+              "rank": 69,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 78,
+              "rank": 42,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 76,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 67,
+              "rank": 133,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85096787922",
+      "title": "Supervised learning techniques for stress detection in car drivers",
+      "doi": "10.25046/aj050603",
+      "venue": "Advances in Science Technology and Engineering Systems",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "5",
+      "issue_id": "6",
+      "pages": "22-29",
+      "issn": null,
+      "eIssn": "24156698",
+      "source_id": "21100898760",
+      "authors": "Zontone Pamela; Affanni Antonio; Bernardini Riccardo; Del Linz Leonida; Piras Alessandro; Rinaldo Roberto",
+      "author_ids": "12805791200;55957389200;7005276670;57216836480;57202664963;7003771007",
+      "authorAffiliationIds": "60025965;60025965;60025965;112536896;60025965;60025965",
+      "corresponding": "Zontone P.",
+      "keywords": "Deep Learning | Electrodermal Activity | Heart Rate Variability | Machine Learning | Motion Artifact | Stress Detection in Car Drivers | Supervised Learning Algorithm",
+      "abstract": "In this paper we propose the application of supervised learning techniques to recognize stress situations in drivers by analyzing their Skin Potential Response (SPR) and the Electrocardiogram (ECG). A sensing device is used to acquire the SPR from both hands of the drivers, and the ECG from their chest. We also consider a motion artifact removal algorithm that allows the generation of a single cleaned SPR signal, starting from the two SPR signals, which could be characterized by artifacts due to vibrations or movements of the hands on the wheel. From both the cleaned SPR and the ECG signals we compute some statistical features that are used as input to six Machine Learning Algorithms for stress or non-stress episodes classification. The SPR and ECG signals are also used as input to Deep Learning Algorithms, thus allowing us to compare the performance of the different classifiers. The experiments have been carried out in a firm specialized in developing professional car driving simulators. In particular, a dynamic driving simulator has been used, with subjects driving along a straight road affected by some unanticipated stress-evoking events, located at different positions. We obtain an accuracy of 88.13% in stress recognition using a Long Short-Term Memory (LSTM) network.",
+      "citations": 16,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85070540268",
+      "title": "Low-complexity classification algorithm to identify drivers’ stress using electrodermal activity (EDA) measurements",
+      "doi": "10.1007/978-3-030-21726-6_3",
+      "venue": "Lecture Notes in Computational Vision and Biomechanics",
+      "type": "Book Series",
+      "sub_type": "Book Chapter",
+      "year": 2020,
+      "volume": "32",
+      "issue_id": null,
+      "pages": "25-33",
+      "issn": "22129391",
+      "eIssn": "22129413",
+      "source_id": "21100380994",
+      "authors": "Zontone Pamela; Affanni Antonio; Bernardini Riccardo; Piras Alessandro; Rinaldo Roberto",
+      "author_ids": "12805791200;55957389200;7005276670;57202664963;7003771007",
+      "authorAffiliationIds": "60025965;60025965;60025965;60025965;60025965",
+      "corresponding": "Zontone P.",
+      "keywords": "Skin potential response | Stress detection | Support vector machine",
+      "abstract": "We present a system where a simple and low-complexity classification algorithm is used to identify the stress of a person while driving a car, using EDA Skin Potential Response (SPR) measurements. An adaptive filter, which takes the steering wheel signal as a reference signal, is used to remove the motion artifacts that appear in the recorded SPR signal as a consequence of hand movements introduced by steering the wheel and by vibrations. Statistical features are then extracted from the resulting signal, which should well represent the emotional and stress components of the SPR signal. These features are given as an input to a Support Vector Machine (SVM) classifier in order to detect the existence of stress in a given time interval. Data are collected from tests on different subjects, carried out in a scenario where stress is induced at random moments through sudden sounds, with a metronome frequency ticking sound that gives the pace for the steering wheel movement. An accuracy of 87.40% is obtained when we consider both the stress triggers and the metronome frequency change as stress-inducing events for the subjects. We then utilize our classification system with real data confirming the good performance of our system.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Vision and Pattern Recognition",
+              "percentile": 69,
+              "rank": 53,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 67,
+              "rank": 63,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 67,
+              "rank": 241,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 61,
+              "rank": 377,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 59,
+              "rank": 200,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Biomedical Engineering",
+              "percentile": 51,
+              "rank": 163,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 30,
+              "rank": 415,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 25,
+              "rank": 514,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 22,
+              "rank": 84,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Biomedical Engineering",
+              "percentile": 18,
+              "rank": 188,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 17,
+              "rank": 187,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Computer Vision and Pattern Recognition",
+              "percentile": 15,
+              "rank": 72,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85075607252",
+      "title": "Stress detection through Electrodermal Activity (EDA) and Electrocardiogram (ECG) analysis in car drivers",
+      "doi": "10.23919/EUSIPCO.2019.8902631",
+      "venue": "European Signal Processing Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": "2019-September",
+      "issue_id": null,
+      "pages": null,
+      "issn": "22195491",
+      "eIssn": null,
+      "source_id": "21100204301",
+      "authors": "Zontone Pamela; Affanni Antonio; Bernardini Riccardo; Piras Alessandro; Rinaldo Roberto",
+      "author_ids": "12805791200;55957389200;7005276670;57202664963;7003771007",
+      "authorAffiliationIds": "60025965;60025965;60025965;60025965;60025965",
+      "corresponding": "Zontone P.",
+      "keywords": "Electrocardiogram | Motion Artifact Removal | Skin Potential Response | Stress Detection | Supervised Machine Learning Algorithm",
+      "abstract": "The stress in a driver, happening during unforeseen events or taxing situations, is linked to a subject's sympathetic system response. We present a system which detects the stress presence in car drivers through the analysis of an endosomatic Electrodermal Activity (EDA) signal, namely, Skin Potential Response (SPR), coupled with the analysis of the Electrocardiogram (ECG) signal. To log these signals we utilize a device which records the SPR from each hand of the driver, and the ECG from the chest. In the case of the SPR signal, since the hands movement injects motion artifacts, we also utilize an algorithm that dynamically selects the smoother signal coming from the two hands, and is thus able to output a clean SPR signal. Statistical features are then derived from the ECG and SPR signals, allowing their classification using a Supervised Machine Learning Algorithm. Various subjects were tested in an environment set in a company which develops professional driving simulators, both in hardware and software, and consisted in a motorized platform, a cockpit and a 180<sup>◦</sup> projection screen. The test encompassed driving through a highway, with some unforeseen events happening at some positions. In the end we get a Balanced Accuracy in stress detection of 77.59 % for the considered events.",
+      "citations": 71,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 44,
+              "rank": 109,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 42,
+              "rank": 573,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85065916706",
+      "title": "Dual channel Electrodermal activity sensor for motion artifact removal in car drivers' stress detection",
+      "doi": "10.1109/SAS.2019.8706023",
+      "venue": "Sas 2019 2019 IEEE Sensors Applications Symposium Conference Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100905989",
+      "authors": "Affanni Antonio; Piras Alessandro; Rinaldo Roberto; Zontone Pamela",
+      "author_ids": "55957389200;57202664963;7003771007;12805791200",
+      "authorAffiliationIds": "60025965;60025965;60025965;60025965",
+      "corresponding": "Affanni A.",
+      "keywords": "Motion Artifact | Skin Potential Response | Stress Detection",
+      "abstract": "In this paper we present a dual channel sensor for electrodermal activity measurement, with particular attention to the drivers' stress detection. The sensor captures the elec-trodermal signals that are present on the hands of the driver, transmits them via WiFi to a laptop and then the data are processed. In particular, we developed a novel algorithm for the removal of motion artifacts that arise when the driver moves the hands on the steering wheel. We performed several kinds of tests: first in laboratory, then on a professional driving simulator and finally in a real car in city traffic. The algorithm has been compared to several well known algorithms for signal separation. We identified, as an indicator of performances, the spectral flatness of the outputs. In this application, the proposed method outperformed the benchmark algorithms.",
+      "citations": 15,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85044118417",
+      "title": "Driver's stress detection using Skin Potential Response signals",
+      "doi": "10.1016/j.measurement.2018.03.040",
+      "venue": "Measurement Journal of the International Measurement Confederation",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "122",
+      "issue_id": null,
+      "pages": "264-274",
+      "issn": "02632241",
+      "eIssn": null,
+      "source_id": "15424",
+      "authors": "Affanni Antonio; Bernardini Riccardo; Piras Alessandro; Rinaldo Roberto; Zontone Pamela",
+      "author_ids": "55957389200;7005276670;57202664963;7003771007;12805791200",
+      "authorAffiliationIds": "60025965;60025965;60025965;60025965;60025965",
+      "corresponding": "Affanni A.",
+      "keywords": "Adaptive filters | Electrodermal activity | Motion artifact | Skin potential response | Stress detection",
+      "abstract": "The problem of automatic detection of car drivers’ stress levels has become increasingly important, due to its impact on people security, and more generally on people health and well-being. Among the various techniques proposed for stress detection, Electrodermal Activity (EDA) monitoring is particularly interesting to gain information about the inner stress affecting a person, due to its correlation with the sympathetic nervous system response. In the application to driver's stress detection, EDA parameters are strongly affected by Motion Artifact caused by physical movements of the subject under test. In this paper, we propose a scheme based on EDA Skin Potential Response (SPR) measurements, together with records of the steering wheel angle, which is used in an adaptive filter setup to remove motion artifacts. We also show that, by appropriately processing EDA/SPR signals only, it is possible to efficiently locate stress events during driving. We then propose an experimental setup which allows defining a ground-truth for stress events recognition, and which confirms the validity of the proposed approach.",
+      "citations": 50,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 92,
+              "rank": 15,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 88,
+              "rank": 115,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 86,
+              "rank": 17,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 81,
+              "rank": 126,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-83255184361",
+      "title": "Emotion based classification of natural images",
+      "doi": "10.1145/2064448.2064470",
+      "venue": "International Conference on Information and Knowledge Management Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2011,
+      "volume": null,
+      "issue_id": null,
+      "pages": "17-22",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101215011",
+      "authors": "Dellagiacoma Michela; Zontone Pamela; Boato Giulia; Albertazzi Liliana",
+      "author_ids": "54794110900;12805791200;8662845900;56365267800",
+      "authorAffiliationIds": "60015986;60015986;60015986;60015986",
+      "corresponding": "Dellagiacoma M.",
+      "keywords": "emotion | emotional semantic image retrieval | image classification | image features",
+      "abstract": "Images convey opinions and emotional messages in the communication process. With the increasing use of images in various scenarios, the area of opinion mining and sentiment analysis has recently received a huge burst of interest. In particular, in the context of social web the ability of identify different emotions in images might help providing diversification of results, thus proposing different viewpoints to users. In this paper we analyze which are the features (e.g., colors, texture) that are more strictly related to the emotional content of a picture, thus allowing a classification connected with the emotion conveyed by images. We present the results on a set of natural images in order to reduce as much as possible the interaction with content semantics. © 2011 ACM.",
+      "citations": 20,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-80051648825",
+      "title": "A segment-based image saliency detection",
+      "doi": "10.1109/ICASSP.2011.5946629",
+      "venue": "ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2011,
+      "volume": null,
+      "issue_id": null,
+      "pages": "1217-1220",
+      "issn": "15206149",
+      "eIssn": null,
+      "source_id": "110544",
+      "authors": "Muratov O.; Zontone P.; Boato G.; De Natale F. G.B.",
+      "author_ids": "49061255900;12805791200;8662845900;7003297760",
+      "authorAffiliationIds": "60015986;60015986;60015986;60015986",
+      "corresponding": "Muratov O.",
+      "keywords": "Image analysis | visual attention | visual saliency",
+      "abstract": "This paper presents a novel method of visual saliency detection. The use of saliency promises benefits to multimedia applications. However, up to now just few reasonable applications of saliency exist. It is clear that limited accuracy is one of the possible reasons for this. Another reason could be that in general saliency allows us to detect salient regions of the image rather than objects. To fill this gap we study to what extend the integration of segmentation into saliency detection allows the estimation of saliency of objects. In this paper we propose a method that operates with segments rather than with separate pixels. The comparison with state-of-the-art methods shows that our method is successful in highlighting the mass of the object of interest. Finally, we discuss possible directions for the further work. © 2011 IEEE.",
+      "citations": 14,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-79951722691",
+      "title": "Performance evaluation of wavelet-based distributed video coding schemes",
+      "doi": "10.1007/s11760-009-0141-4",
+      "venue": "Signal Image and Video Processing",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2011,
+      "volume": "5",
+      "issue_id": "1",
+      "pages": "49-60",
+      "issn": "18631703",
+      "eIssn": "18631711",
+      "source_id": "6200180165",
+      "authors": "Bernardini Riccardo; Rinaldo Roberto; Vitali Andrea; Zontone Pamela",
+      "author_ids": "7005276670;7003771007;8450642100;12805791200",
+      "authorAffiliationIds": "60025965;60025965;60023682;60025965",
+      "corresponding": "Bernardini R.",
+      "keywords": "Distributed video coding | Error correcting codes | Modulo reduction | Wavelet transform",
+      "abstract": "In this paper we propose and compare different distributed video coding (DVC) schemes based on the use of the wavelet transform, which naturally allows for spatial and other forms of scalability. In particular, we propose a hybrid encoder which utilizes channel codes, and evaluate its performance in the absence of a feedback channel. The proposed scheme uses statistical models for the estimation of the required bitrate at the encoder. We also propose a scheme that is based on a modulo reduction procedure and does not use channel codes at the receiver/transmitter. These schemes are compared with more conventional coders that do not or only partially exploit the distributed coding paradigm. Experimental results show that the considered schemes have good performance when compared with similar asymmetric video compression schemes, and that DVC can be an interesting option in appropriate scenarios. © 2009 Springer-Verlag London Limited.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 62,
+              "rank": 74,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 59,
+              "rank": 400,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2011,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 54,
+              "rank": 268,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 42,
+              "rank": 39,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84865234317",
+      "title": "Image and collateral text in support of auto-annotation and sentiment analysis",
+      "doi": null,
+      "venue": "Acl 2010 Textgraphs 2010 2010 Workshop on Graph Based Methods for Natural Language Processing Proceedings of the Workshop",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2010,
+      "volume": null,
+      "issue_id": null,
+      "pages": "88-92",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100255452",
+      "authors": "Zontone Pamela; Boato Giulia; Hare Jonathon; Lewis Paul; Siersdorfer Stefan; Minack Enrico",
+      "author_ids": "12805791200;8662845900;8840160700;7402868963;7801642131;27568017400",
+      "authorAffiliationIds": "60015986;60015986;60025225;60025225;60020084;60020084",
+      "corresponding": "Zontone P.",
+      "keywords": null,
+      "abstract": "We present a brief overview of the way in which image analysis, coupled with associated collateral text, is being used for auto-annotation and sentiment analysis. In particular, we describe our approach to auto-annotation using the graphtheoretic dominant set clustering algorithm and the annotation of images with sentiment scores from SentiWordNet. Preliminary results are given for both, and our planned work aims to explore synergies between the two approaches. © 2010 The Association for Computational Linguistics.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-78651076396",
+      "title": "Impact of contrast modification on human feeling: An objective and subjective assessment",
+      "doi": "10.1109/ICIP.2010.5651509",
+      "venue": "Proceedings International Conference on Image Processing Icip",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2010,
+      "volume": null,
+      "issue_id": null,
+      "pages": "1757-1760",
+      "issn": "15224880",
+      "eIssn": null,
+      "source_id": "144684",
+      "authors": "Zontone P.; Carli M.; Boato G.; De Natale F. G.B.",
+      "author_ids": "12805791200;57218214191;8662845900;7003297760",
+      "authorAffiliationIds": "60015986;60012630;60015986;60015986",
+      "corresponding": "Zontone P.",
+      "keywords": "Contrast adjustment | Digital forensics | Feeling modification | Opinion mining | Subjective test",
+      "abstract": "Images are powerful means of communication. Adding images to documents, websites, magazines, helps attracting the attention and providing an immediate feeling about the content of the document itself. At the same time, images can be used to influence the attitude of the reader. In the digital era it is easier than ever to create and share multimedia documents making extensive use of visual data. Furthermore, it is extremely easy to modify and adapt the images in order to make them more suitable to convey a concept. These modifications may simply consist in focusing the attention on a specific part of the image, to heavier manipulations such as changing the visual appearance or the contents to bias the opinion of the observer. This creates a rising interest for the availability of automatic blind tools able to detect possible modifications of images, and to correlate these modifications with the relevant impact on the viewer. This paper proposes an example of application of these concepts that exploits a tool for automatic detection of contrast modifications and analyzes their impact on human feeling. The results of instrumental and subjective studies are presented and discussed. © 2010 IEEE.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Vision and Pattern Recognition",
+              "percentile": 62,
+              "rank": 64,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 60,
+              "rank": 78,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Software",
+              "percentile": 50,
+              "rank": 247,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85121288287",
+      "title": "Image and collateral text in support of auto-annotation and sentiment analysis",
+      "doi": null,
+      "venue": "Proceedings of the Annual Meeting of the Association for Computational Linguistics",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2010,
+      "volume": null,
+      "issue_id": null,
+      "pages": "88-92",
+      "issn": "0736587X",
+      "eIssn": null,
+      "source_id": "21101138302",
+      "authors": "Zontone Pamela; Boato Giulia; Hare Jonathon; Lewis Paul; Siersdorfer Stefan; Minack Enrico",
+      "author_ids": "12805791200;8662845900;8840160700;7402868963;7801642131;27568017400",
+      "authorAffiliationIds": "60015986;60015986;60025225;60025225;60020084;60020084",
+      "corresponding": "Zontone P.",
+      "keywords": null,
+      "abstract": "We present a brief overview of the way in which image analysis, coupled with associated collateral text, is being used for auto-annotation and sentiment analysis. In particular, we describe our approach to auto-annotation using the graph-theoretic dominant set clustering algorithm and the annotation of images with sentiment scores from SentiWordNet. Preliminary results are given for both, and our planned work aims to explore synergies between the two approaches.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Language and Linguistics",
+              "percentile": 99,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Linguistics and Language",
+              "percentile": 99,
+              "rank": 12,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 90,
+              "rank": 89,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84891461550",
+      "title": "Image diversity analysis: Context opinion and bias",
+      "doi": null,
+      "venue": "Ceur Workshop Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2009,
+      "volume": "515",
+      "issue_id": null,
+      "pages": null,
+      "issn": "16130073",
+      "eIssn": null,
+      "source_id": "21100218356",
+      "authors": "Zontone P.; Boato G.; Natale F. G.B.De; Rosa A. De; Barni M.; Piva A.; Hare J. S.; Dupplaw D.; Lewis P. H.",
+      "author_ids": "12805791200;8662845900;7003297760;7006122064;7005442155;7005293392;8840160700;8688723800;7402868963",
+      "authorAffiliationIds": "60015986;60015986;60015986;60103966;60103966;60103966;60025225;60025225;60025225",
+      "corresponding": "Zontone P.",
+      "keywords": null,
+      "abstract": "The diffusion of new Internet and web technologies has increased the distribution of different digital content, such as text, sounds, images and videos. In this paper we focus on images and their role in the analysis of diversity. We consider diversity as a concept that takes into account the wide variety of information sources, and their differences in perspective and viewpoint. We describe a number of different dimensions of diversity; in particular, we analyze the dimensions related to image searches and context analysis, emotions conveyed by images and opinion mining, and bias analysis.",
+      "citations": 7,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 11,
+              "rank": 214,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-77951958278",
+      "title": "Multiple description for robust scalable video coding",
+      "doi": "10.1109/ICIP.2009.5414051",
+      "venue": "Proceedings International Conference on Image Processing Icip",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2009,
+      "volume": null,
+      "issue_id": null,
+      "pages": "905-908",
+      "issn": "15224880",
+      "eIssn": null,
+      "source_id": "144684",
+      "authors": "Alfonso D.; Bernardini R.; Celetto L.; Rinaldo R.; Zontone P.",
+      "author_ids": "7003533474;7005276670;8450642000;7003771007;12805791200",
+      "authorAffiliationIds": "60023682;60025965;60023682;60025965;60025965",
+      "corresponding": "Alfonso D.",
+      "keywords": null,
+      "abstract": "Scalable Video Coding (SVC) was recently standardized as an extension of the H.264/AVC standard. A scalable coder allows to combine different layers of spatial, temporal and quality scalability, and is a viable solution for adaptation to user characteristics and network conditions. On the other hand, Multiple description coding (MDC) can provide error resilience and graceful quality degradation for transmission over error-prone channels. In this paper, we propose a video codec that combines the SVC and MDC coding paradigms. In particular, the enhancement data of the SVC coder are transmitted using MDC. The resulting fully compatible coder takes advantage of the efficiency of SVC and of the robustness of MDC techniques. The effectiveness of the proposed solution is confirmed by experiments. ©2009 IEEE.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Vision and Pattern Recognition",
+              "percentile": 62,
+              "rank": 64,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 60,
+              "rank": 78,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Software",
+              "percentile": 50,
+              "rank": 247,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-67649191520",
+      "title": "Forward error protection for robust video streaming based on distributed video coding principles",
+      "doi": "10.1049/cp:20080411",
+      "venue": "Iet Conference Publications",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2008,
+      "volume": null,
+      "issue_id": "543 CP",
+      "pages": "747-752",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "5400152619",
+      "authors": "Naccari M.; Tagliasacchi M.; Tubaro S.; Zontone P.; Rinaldo R.; Bernardini R.",
+      "author_ids": "18038447300;8451910100;7003411765;12805791200;7003771007;7005276670",
+      "authorAffiliationIds": "60023256;60023256;60023256;60025965;60025965;60025965",
+      "corresponding": "Naccari M.",
+      "keywords": "Channel induced distortion estimation | Distributed video coding | Error resilience | Rate allocation",
+      "abstract": "This paper proposes an error resilient coding scheme that employs distributed video coding tools. A bitstream, produced by any standard motion-compensated predictive codec (MPEG-x, H.26x), is sent over an error-prone channel. In addition, a Wyner-Ziv encoded auxiliary bitstream is sent as redundant information to serve as a forward error correction code. At the decoder side, error concealed reconstructed frames are used as side information by the Wyner-Ziv decoder, and the corrected frame is used as a reference by future frames, thus reducing drift. We explicitly target the problem of rate allocation at the encoder side, by estimating the channel induced distortion in the transform domain. Experimental results conducted over a simulated error-prone channel reveal that the proposed scheme has comparable or better performance than a scheme where forward error correction codes are used. Moreover the proposed solution shows good performance when compared to a scheme that uses the intra-macroblock refresh procedure. ©2008 The Institution of Engineering and Technology.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-63249103880",
+      "title": "Cross-layer joint optimization of FEC channel codes and Multiple Description Coding for video delivery over IEEE 802.11e links",
+      "doi": "10.1109/NGMAST.2008.35",
+      "venue": "Proceedings the 2nd International Conference on Next Generation Mobile Applications Services and Technologies Ngmast 2008",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2008,
+      "volume": null,
+      "issue_id": null,
+      "pages": "472-478",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "17300154956",
+      "authors": "Milani Simone; Calvagno Giancarlo; Bernardini Riccardo; Zontone Pamela",
+      "author_ids": "22635175200;7003853616;7005276670;12805791200",
+      "authorAffiliationIds": "60000481;60000481;60025965;60025965",
+      "corresponding": "Milani S.",
+      "keywords": null,
+      "abstract": "The paper presents two cross-layer optimization strategies based on the IEEE 802.11e standard that enable a robust video transmission using adaptively Forward Error Correction (FEC) channel codes at transport layer and a Multiple Description Coding (MDC) architecture. The first approach estimates an array of correlation measures for the Group of Picture to be transmitted and classifies it using a vector quantizer. The most appropriate coding mode is selected according to the correlation class and the channel conditions obtained through a cross-layer signalling protocol. The second solution relies on a parametric model of the channel distortion based on the percentage of null quantized transform coefficients, which can be obtained during the coding operations. According to the state of the network, the optimization algorithm estimates the expected quality of the reconstructed sequence for each mode and chooses the best one. Experimental results show that both algorithms perform well with a small computational effort but different playout delays. © 2008 IEEE.",
+      "citations": 9,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-51449089663",
+      "title": "Performance evaluation of distributed video coding schemes",
+      "doi": "10.1109/ICASSP.2008.4517708",
+      "venue": "ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2008,
+      "volume": null,
+      "issue_id": null,
+      "pages": "709-712",
+      "issn": "15206149",
+      "eIssn": null,
+      "source_id": "110544",
+      "authors": "Bernardini R.; Rinaldo R.; Zontone P.; Vitali A.",
+      "author_ids": "7005276670;7003771007;12805791200;8450642100",
+      "authorAffiliationIds": "60025965;60025965;60025965;60023682",
+      "corresponding": "Bernardini R.",
+      "keywords": "Distributed video coding | Source coding",
+      "abstract": "Distributed Video Coding (DVC) has recently been proposed for emerging scenarios, where sources of correlated video do not communicate, as in some video-surveillance applications, or to simplify the coder for video equipment with power consumption constraints. In this paper we propose and compare different DVC schemes. In particular, we propose the use of the wavelet transform and analyze the performance of encoders based on turbo-codes and on a novel modulo-reduction procedure. The proposed schemes do not need feedback from the receiver and use statistical models for the estimation of the required bit-rate. Experimental results show that the proposed schemes have good performance when compared with similar asymmetric video compression schemes, and that DVC can be an interesting option in appropriate scenarios. ©2008 IEEE.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-44749085521",
+      "title": "Rate allocation for robust video streaming based on distributed video coding",
+      "doi": "10.1016/j.image.2008.04.004",
+      "venue": "Signal Processing Image Communication",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2008,
+      "volume": "23",
+      "issue_id": "5",
+      "pages": "391-403",
+      "issn": "09235965",
+      "eIssn": null,
+      "source_id": "13803",
+      "authors": "Bernardini R.; Naccari M.; Rinaldo R.; Tagliasacchi M.; Tubaro S.; Zontone P.",
+      "author_ids": "7005276670;18038447300;7003771007;8451910100;7003411765;12805791200",
+      "authorAffiliationIds": "60025965;60023256;60025965;60023256;60023256;60025965",
+      "corresponding": "Bernardini R.",
+      "keywords": "Channel induced distortion estimation | Distributed video coding | Error resilience | Rate allocation",
+      "abstract": "This paper proposes an error resilient coding scheme that employs distributed video coding tools. A bitstream, produced by any standard motion-compensated predictive codec (MPEG-x, H.26x), is sent over an error-prone channel. In addition, a Wyner-Ziv encoded auxiliary bitstream is sent as redundant information to serve as a forward error correction code. At the decoder side, error concealed reconstructed frames are used as side information by the Wyner-Ziv decoder, and the corrected frame is used as a reference by future frames, thus reducing drift. We explicitly target the problem of rate allocation at the encoder side, by estimating the channel induced distortion in the transform domain. Rate adaptivity is achieved at the frame, subband and bitplane granularity. Experimental results conducted over a simulated error-prone channel reveal that the proposed scheme has comparable or better performance than a scheme where forward error correction codes are used. Moreover the proposed solution shows good performance when compared to a scheme that uses the intra-macroblock refresh procedure. © 2008.",
+      "citations": 10,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 84,
+              "rank": 30,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Vision and Pattern Recognition",
+              "percentile": 81,
+              "rank": 32,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 80,
+              "rank": 192,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Software",
+              "percentile": 76,
+              "rank": 117,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84863765793",
+      "title": "Error concealment usinga DVC approach for video streaming applications",
+      "doi": null,
+      "venue": "European Signal Processing Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2007,
+      "volume": null,
+      "issue_id": null,
+      "pages": "668-672",
+      "issn": "22195491",
+      "eIssn": null,
+      "source_id": "21100204301",
+      "authors": "Bernardini R.; Fumagalli M.; Naccari M.; Rinaldo R.; Tagliasacchi M.; Tubaro S.; Zontone P.",
+      "author_ids": "7005276670;24477148700;18038447300;7003771007;8451910100;7003411765;12805791200",
+      "authorAffiliationIds": "60025965;60023256;60023256;60025965;60023256;60023256;60025965",
+      "corresponding": "Bernardini R.",
+      "keywords": null,
+      "abstract": "In this paper we consider an error resilience scheme, based on a Distributed Video Coding (DVC) paradigm, for the transmission of coded video over an error prone channel. In the proposed scheme, an auxiliary stream which contains generalized parity bits is generated for each coded frame. At the decoder side, error concealed decoded frames are used as side information to feed a Wyner-Ziv turbo decoder. We use an extended version of the Recursive Optimal per-Pixel Estimate (ROPE) algorithm to establish how many parity bits should be sent to the turbo decoder in order to correct the decoded and concealed frame. To validate the proposed scheme, tests with video sequences and realistic loss patterns are reported. © 2007 EURASIP.",
+      "citations": 4,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 44,
+              "rank": 109,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 42,
+              "rank": 573,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-48149092994",
+      "title": "Real-time multiple description video streaming over QoS-based wireless networks",
+      "doi": "10.1109/ICIP.2007.4380000",
+      "venue": "Proceedings International Conference on Image Processing Icip",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2007,
+      "volume": "4",
+      "issue_id": null,
+      "pages": "245-248",
+      "issn": "15224880",
+      "eIssn": null,
+      "source_id": "144684",
+      "authors": "Bernardini R.; Durigon M.; Rinaldo R.; Zontone P.; Vitali A.",
+      "author_ids": "7005276670;8450641800;7003771007;12805791200;8450642100",
+      "authorAffiliationIds": "60025965;60025965;60025965;60025965;60023682",
+      "corresponding": "Bernardini R.",
+      "keywords": "Transport protocols | Video coding | Wireless lAN",
+      "abstract": "We consider the problem of robust video streaming over networks that support QoS differentiation, such as the 802.11e wireless network infrastructure. We consider the benefits obtained matching the H.264 Data Partitioning (DP) mode with such a QoS-based interface. We compare this solution with an innovative scheme which combines a Multiple Description (MD) coding framework with a QoS-based network. Results are reported using both a simple IID channel model and a more realistic wireless network, simulated using the OmNet++ network simulator. © 2007 IEEE.",
+      "citations": 11,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Vision and Pattern Recognition",
+              "percentile": 62,
+              "rank": 64,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 60,
+              "rank": 78,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Software",
+              "percentile": 50,
+              "rank": 247,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-48149102667",
+      "title": "Wavelet domain distributed coding for video",
+      "doi": "10.1109/ICIP.2006.313171",
+      "venue": "Proceedings International Conference on Image Processing Icip",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2006,
+      "volume": null,
+      "issue_id": null,
+      "pages": "245-248",
+      "issn": "15224880",
+      "eIssn": null,
+      "source_id": "144684",
+      "authors": "Bernardini R.; Rinaldo R.; Zontone P.; Alfonso D.; Vitali A.",
+      "author_ids": "7005276670;7003771007;12805791200;7003533474;8450642100",
+      "authorAffiliationIds": "60025965;60025965;60025965;60023682;60023682",
+      "corresponding": "Bernardini R.",
+      "keywords": "Data compression | Source coding | Video coding",
+      "abstract": "In this paper we present a wavelet domain distributed coder for video which allows for scalability and does not require any feedback channel. Efficient distributed coding is obtained by processing the wavelet transform with a suitable \"folding\" function and compressing the folded coefficients with a wavelet coder. At the receiver side, we use the statistical properties between similar frames to recover the compressed frame. Experimental results show that the proposed scheme has good performance when compared with similar asymmetric video compression schemes. ©2006 IEEE.",
+      "citations": 15,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Vision and Pattern Recognition",
+              "percentile": 62,
+              "rank": 64,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 60,
+              "rank": 78,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Software",
+              "percentile": 50,
+              "rank": 247,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-33645735424",
+      "title": "Frame-based multiple-description video coding with extended orthogonal filter banks",
+      "doi": "10.1155/ASP/2006/53623",
+      "venue": "Eurasip Journal on Applied Signal Processing",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2006,
+      "volume": "2006",
+      "issue_id": null,
+      "pages": null,
+      "issn": "11108657",
+      "eIssn": null,
+      "source_id": "26646",
+      "authors": "Bernardini R.; Durigon M.; Rinaldo R.; Vitali A.; Zontone P.",
+      "author_ids": "7005276670;8450641800;7003771007;8450642100;12805791200",
+      "authorAffiliationIds": "60025965;60025965;60025965;60023682;60025965",
+      "corresponding": "Bernardini R.",
+      "keywords": null,
+      "abstract": "We propose a frame-based multiple-description video coder. Theanalysis filter bank is the extension of an orthogonal filter bankwhich computes the spatial polyphase components of the originalvideo frames. The output of the filter bank is a set of videosequences which can be compressed with a standard coder. Thefilter bank design is carried out by taking into account twoimportant requirements for video coding, namely, the fact that thedual synthesis filter bank is FIR, and that loss recovery does notenhance the quantization error. We give explicit results about therequired properties of the redundant channel filter and thereconstruction error bounds in case of packet errors. We show thatthe proposed scheme has good error robustness to losses and goodperformance, both in terms of objective and visual quality, whencompared to single description and other multiple descriptionvideo coders based on spatial subsampling. PSNR gains of 5 dBor more are typical for packet loss probability as low as 5.",
+      "citations": 7,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-33749238012",
+      "title": "Bit allocation and quantizer optimization in Multiple Description coding with oversampled filterbanks",
+      "doi": "10.1109/ICIP.2005.1530536",
+      "venue": "Proceedings International Conference on Image Processing Icip",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2005,
+      "volume": "3",
+      "issue_id": null,
+      "pages": "3-892",
+      "issn": "15224880",
+      "eIssn": null,
+      "source_id": "144684",
+      "authors": "Bernardini R.; Rinaldo R.; Zontone P.; Celetto L.; Vitali A.",
+      "author_ids": "7005276670;7003771007;12805791200;8450642000;8450642100",
+      "authorAffiliationIds": "60025965;60025965;60025965;60023682;60023682",
+      "corresponding": "Bernardini R.",
+      "keywords": null,
+      "abstract": "Multiple Description coding has been recently proposed for images and video transmission in packet erasure channels because of its good loss recovery capability. In this paper, we consider the problem of bit allocation and quantization optimization for frame based multiple description coding schemes obtained by means of an oversampled filterbank. We generalize the well known solution of orthogonal filterbanks, where the same quantizer should be used in each channel, to the case of oversampled filterbanks with coefficient losses. The resulting design procedure can be used to adaptively adjust the quantizers to the channel conditions. We show that the proposed approach is beneficial by means of experiments with images and video. © 2005 IEEE.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Vision and Pattern Recognition",
+              "percentile": 62,
+              "rank": 64,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 60,
+              "rank": 78,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Software",
+              "percentile": 50,
+              "rank": 247,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1272139",
+      "authors": "Tekulu, Micheale; Krayani, Ali; Zontone, Pamela; Marcenaro, Lucio; Caprile, Francesco; Masaracchia, Antonino; Regazzoni, Carlo",
+      "legacy_id": 669314,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Anomaly Detection for Unmanned Surface Vehicles Based on a Multi-Modal Bayesian Generative Model",
+      "doi": "10.15439/2025f3412",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1247476",
+      "authors": "Slavic, Giulia; Zontone, Pamela; Marcenaro, Lucio; Martín Gómez, David; Regazzoni, Carlo",
+      "legacy_id": 639327,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Vehicle localization in an explainable dynamic Bayesian network framework for self-aware agents",
+      "scopus_id": "2-s2.0-105002287594",
+      "doi": "10.1016/j.inffus.2025.103136",
+      "isi_id": "WOS:001469422600001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1263459",
+      "authors": "Adnan, M.; Zontone, P.; Martin Gomez, D.; Marcenaro, L.; Regazzoni, C.",
+      "legacy_id": 659196,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "A Generative Model Approach for LiDAR-Based Classification and Ego Vehicle Localization Using Dynamic Bayesian Networks",
+      "scopus_id": "2-s2.0-105004880386",
+      "doi": "10.3390/app15095181",
+      "isi_id": "WOS:001486122000001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220793",
+      "authors": "Alemaw, Abrham Shiferaw; Zontone, Pamela; Marcenaro, Lucio; Marin, Pablo; Gomez, David Martin; Regazzoni, Carlo",
+      "legacy_id": 599483,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Integrated Learning and Decision Making for Autonomous Agents through Energy based Bayesian Models",
+      "scopus_id": "2-s2.0-85207692161",
+      "doi": "10.23919/fusion59988.2024.10706431",
+      "isi_id": "WOS:001334560000159",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1211735",
+      "authors": "Lo Grasso, Anna; Zontone, Pamela; Rinaldo, Roberto; Affanni, Antonio",
+      "legacy_id": 588708,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Advanced Necklace for Real-Time PPG Monitoring in Drivers",
+      "scopus_id": "2-s2.0-85205241043",
+      "doi": "10.3390/s24185908",
+      "isi_id": "WOS:001323542900001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1211655",
+      "authors": "Slavic, G.; Bracco, M.; Marcenaro, L.; Gomez, D. M.; Regazzoni, C.; Zontone, P.",
+      "legacy_id": 588646,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Joint Data-Driven Analysis of Visual-Odometric Anomaly Signals in Generative Ai-Based Agents",
+      "scopus_id": "2-s2.0-85202443570",
+      "doi": "10.1109/ICASSPW62465.2024.10626634",
+      "isi_id": "WOS:001307820800092",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1263477",
+      "authors": "Adnan, Muhammad; Zontone, Pamela; Marcenaro, Lucio; Gómez, David Martín; Regazzoni, Carlo",
+      "legacy_id": 659214,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Classifying Static and Dynamic Tracks for LiDAR-Based Navigation of Autonomous Vehicle Systems",
+      "scopus_id": "2-s2.0-85215671467",
+      "doi": "10.1109/icfsp62546.2024.10785465",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220794",
+      "authors": "Xxx, Saleemullah; Krayani, Ali; Zontone, Pamela; Marcenaro, Lucio; Gomez, David Martin; Regazzoni, Carlo",
+      "legacy_id": 599485,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Learning 3D LiDAR Perception Models for Self-Aware Autonomous Systems",
+      "scopus_id": "2-s2.0-85207695150",
+      "doi": "10.23919/fusion59988.2024.10706364",
+      "isi_id": "WOS:001334560000092",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1263478",
+      "authors": "Humayun, Muhammad Farhan; Zontone, Pamela; Marcenaro, Lucio; Gómez, David Martín; Regazzoni, Carlo",
+      "legacy_id": 659217,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Incremental Learning Through Fusion of Discrete Anomaly Models from Odometry Signals in Autonomous Agent Navigation",
+      "scopus_id": "2-s2.0-85213734034",
+      "doi": "10.1109/sips62058.2024.00023",
+      "isi_id": "WOS:001442968500015",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1219855",
+      "authors": "Affanni, A.; Rinaldo, R.; Zontone, P.",
+      "legacy_id": 598076,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Wearable Sensor for Boxer Performance Improvement",
+      "scopus_id": "2-s2.0-85179129950",
+      "doi": "10.1109/STAR58331.2023.10302655",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1219856",
+      "authors": "Zontone, P.; Affanni, A.; Pin, D.; Rinaldo, R.",
+      "legacy_id": 598079,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Application of Supervised Learning Techniques for Sports and Daily Activities Identification Using Accelerometer Data",
+      "scopus_id": "2-s2.0-85179140616",
+      "doi": "10.1109/STAR58331.2023.10302440",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1146058",
+      "dc.identifier.pmid": "37687801",
+      "authors": "Aminosharieh Najafi, T.; Affanni, A.; Rinaldo, R.; Zontone, P.",
+      "legacy_id": 502125,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Drivers’ Mental Engagement Analysis Using Multi-Sensor Fusion Approaches Based on Deep Convolutional Neural Networks",
+      "scopus_id": "2-s2.0-85170345345",
+      "doi": "10.3390/s23177346",
+      "isi_id": "WOS:001061123400001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1211696",
+      "authors": "Zontone, Pamela; Affanni, Antonio; Piras, Alessandro; Rinaldo, Roberto",
+      "legacy_id": 588687,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Convolutional Neural Networks Using Scalograms for Stress Recognition in Drivers",
+      "scopus_id": "2-s2.0-85178343777",
+      "doi": "10.23919/eusipco58844.2023.10290079",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119945",
+      "authors": "Aminosharieh Najafi, T.; Affanni, A.; Rinaldo, R.; Zontone, P.",
+      "legacy_id": 473438,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Driver Attention Assessment Using Physiological Measures from EEG, ECG, and EDA Signals †",
+      "scopus_id": "2-s2.0-85148975747",
+      "doi": "10.3390/s23042039",
+      "isi_id": "WOS:000941757300001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "20",
+      "citations_scopus": "28"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119948",
+      "authors": "Zontone, P.; Affanni, A.; Bernardini, R.; Del Linz, L.; Piras, A.; Rinaldo, R.",
+      "legacy_id": 473441,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Analysis of Physiological Signals for Stress Recognition with Different Car Handling Setups",
+      "scopus_id": "2-s2.0-85126327872",
+      "doi": "10.3390/electronics11060888",
+      "isi_id": "WOS:000776804400001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "12",
+      "citations_scopus": "18"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119950",
+      "authors": "Zontone, P.; Affanni, A.; Rinaldo, R.; Piras, A.",
+      "legacy_id": 473443,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Exploring Physiological Signal Responses to Traffic-Related Stress in Simulated Driving †",
+      "scopus_id": "2-s2.0-85123883329",
+      "doi": "10.3390/s22030939",
+      "isi_id": "WOS:000759483300001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "9",
+      "citations_scopus": "16"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119919",
+      "authors": "Zontone, P.; Affanni, A.; Bernardini, R.; Del Linz, L.; Piras, A.; Rinaldo, R.",
+      "legacy_id": 473412,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "Emotional response analysis using electrodermal activity, electrocardiogram and eye tracking signals in drivers with various car setups",
+      "scopus_id": "2-s2.0-85099294479",
+      "doi": "10.23919/Eusipco47968.2020.9287446",
+      "isi_id": "WOS:000632622300233",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "18",
+      "citations_scopus": "21"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119940",
+      "authors": "Zontone, P.; Affanni, A.; Piras, A.; Rinaldo, R.",
+      "legacy_id": 473433,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "Stress recognition in a simulated city environment using Skin Potential Response (SPR) signals",
+      "scopus_id": "2-s2.0-85114961949",
+      "doi": "10.1109/MetroAutomotive50197.2021.9502867",
+      "isi_id": "WOS:000793864300025",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "10",
+      "citations_scopus": "13"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119942",
+      "authors": "Zontone, P.; Affanni, A.; Piras, A.; Rinaldo, R.",
+      "legacy_id": 473435,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "Skin potential response for stress recognition in simulated urban driving",
+      "scopus_id": "2-s2.0-85122830062",
+      "doi": "10.21014/acta_imeko.v10i4.1138",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119918",
+      "authors": "Zontone, P.; Affanni, A.; Bernardini, R.; Piras, A.; Rinaldo, R.",
+      "legacy_id": 473411,
+      "year": 2020,
+      "miur_type": "268",
+      "title": "Low-complexity classification algorithm to identify drivers’ stress using electrodermal activity (EDA) measurements",
+      "scopus_id": "2-s2.0-85070540268",
+      "doi": "10.1007/978-3-030-21726-6_3",
+      "isi_id": "WOS:000507991800003",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_isi": "6",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119949",
+      "authors": "Zontone, P; Affanni, A; Bernardini, R; Brisinda, D; Del Linz, L; Formaggia, F; Minen, D; Minen, M; Savorgnan, C; Piras, A; Rinaldo, R; Fenici, R",
+      "legacy_id": 473442,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Comparative assessment of drivers' stress induced by autonomous and manual driving with heart rate variability parameters and machine learning analysis of electrodermal activity",
+      "doi": "10.1093/ehjci/ehaa946.3515",
+      "isi_id": "WOS:000606106303522",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220444",
+      "authors": "Affanni, A; Zontone, P; Fenici, R; Brisinda, D; Bacchin, D; Gamberini, L; Pluchino, P; Bruschetta, M; Savorgnan, C; Formaggia, F; Minen, M; Minen, D",
+      "legacy_id": 598853,
+      "year": 2020,
+      "miur_type": "268",
+      "title": "Assisted/autonomous vs. human driving assessment on the DiM driving simulator using objective/subjective characterization",
+      "doi": "10.1007/978-3-658-26435-2_23",
+      "isi_id": "WOS:000587597600018",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_isi": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119956",
+      "authors": "Zontone, P.; Affanni, A.; Bernardini, R.; Linz, L. D.; Piras, A.; Rinaldo, R.",
+      "legacy_id": 473449,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Stress evaluation in simulated autonomous and manual driving through the analysis of skin potential response and electrocardiogram signals",
+      "scopus_id": "2-s2.0-85083996120",
+      "doi": "10.3390/s20092494",
+      "isi_id": "WOS:000537106200058",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "28",
+      "citations_scopus": "29"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119943",
+      "authors": "Zontone, P.; Affanni, A.; Bernardini, R.; Piras, A.; Rinaldo, R.; Formaggia, F.; Minen, D.; Minen, M.; Savorgnan, C.",
+      "legacy_id": 473436,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Car Driver's Sympathetic Reaction Detection through Electrodermal Activity and Electrocardiogram Measurements",
+      "scopus_id": "2-s2.0-85083970560",
+      "doi": "10.1109/TBME.2020.2987168",
+      "isi_id": "WOS:000591819700014",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "27",
+      "citations_scopus": "40"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119957",
+      "authors": "Zontone, P.; Affanni, A.; Bernardini, R.; Del Linz, L.; Piras, A.; Rinaldo, R.",
+      "legacy_id": 473450,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Supervised learning techniques for stress detection in car drivers",
+      "scopus_id": "2-s2.0-85096787922",
+      "doi": "10.25046/aj050603",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "16"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119934",
+      "authors": "Zontone, P.; Affanni, A.; Bernardini, R.; Piras, A.; Rinaldo, R.",
+      "legacy_id": 473427,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Stress detection through Electrodermal Activity (EDA) and Electrocardiogram (ECG) analysis in car drivers",
+      "scopus_id": "2-s2.0-85075607252",
+      "doi": "10.23919/EUSIPCO.2019.8902631",
+      "isi_id": "WOS:000604567700105",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "54",
+      "citations_scopus": "70"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119927",
+      "authors": "Affanni, Antonio; Piras, Alessandro; Rinaldo, Roberto; Zontone, Pamela",
+      "legacy_id": 473420,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Dual channel Electrodermal activity sensor for motion artifact removal in car drivers' stress detection",
+      "scopus_id": "2-s2.0-85065916706",
+      "doi": "10.1109/SAS.2019.8706023",
+      "isi_id": "WOS:000474727000056",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "15"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119944",
+      "authors": "Affanni, Antonio; Bernardini, Riccardo; Piras, Alessandro; Rinaldo, Roberto; Zontone, Pamela",
+      "legacy_id": 473437,
+      "year": 2018,
+      "miur_type": "262",
+      "title": "Driver’s stress detection using Skin Potential Response signals",
+      "scopus_id": "2-s2.0-85044118417",
+      "doi": "10.1016/j.measurement.2018.03.040",
+      "isi_id": "WOS:000429508900033",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "46",
+      "citations_scopus": "50"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119954",
+      "authors": "Bernardini, Riccardo; Rinaldo, Roberto; Vitali, Andrea; Zontone, Pamela",
+      "legacy_id": 473447,
+      "year": 2011,
+      "miur_type": "262",
+      "title": "Performance evaluation of wavelet-based distributed video coding schemes",
+      "scopus_id": "2-s2.0-79951722691",
+      "doi": "10.1007/s11760-009-0141-4",
+      "isi_id": "WOS:000287451900005",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119939",
+      "authors": "M., Dellagiacoma; Zontone, Pamela; Boato, Giulia; Albertazzi, Liliana",
+      "legacy_id": 473432,
+      "year": 2011,
+      "miur_type": "273",
+      "title": "Emotion Based Classification of Natural Images",
+      "scopus_id": "2-s2.0-83255184361",
+      "doi": "10.1145/2064448.206447",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "20"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119933",
+      "authors": "Muratov, Oleg; Zontone, Pamela; Boato, Giulia; De Natale, Francesco",
+      "legacy_id": 473426,
+      "year": 2011,
+      "miur_type": "273",
+      "title": "A Segment - based Image Saliency Detection",
+      "scopus_id": "2-s2.0-80051648825",
+      "doi": "10.1109/ICASSP.2011.5946629",
+      "isi_id": "WOS:000296062401115",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "8",
+      "citations_scopus": "14"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119930",
+      "authors": "Zontone, Pamela; Boato, Giulia; J., Hare; P., Lewis; S., Siersdorfer; E., Minack",
+      "legacy_id": 473423,
+      "year": 2010,
+      "miur_type": "273",
+      "title": "Image and collateral text in support of auto-annotation and sentiment analysis",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119931",
+      "authors": "Boato, Giulia; De Natale, Francesco; Zontone, Pamela",
+      "legacy_id": 473424,
+      "year": 2010,
+      "miur_type": "273",
+      "title": "How digital forensics may help assessing the perceptual impact of image formation and manipulation",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119920",
+      "authors": "Zontone, Pamela; Marco, Carli; Boato, Giulia; De Natale, Francesco",
+      "legacy_id": 473413,
+      "year": 2010,
+      "miur_type": "273",
+      "title": "Impact of Contrast Modification on Human Feeling: an Objective and Subjective Assessment",
+      "scopus_id": "2-s2.0-78651076396",
+      "isi_id": "WOS:000287728001212",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "4",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119936",
+      "authors": "Alfonso, Daniele; Bernardini, Riccardo; Celetto, Luca; Rinaldo, Roberto; Zontone, Pamela",
+      "legacy_id": 473429,
+      "year": 2009,
+      "miur_type": "273",
+      "title": "MULTIPLE DESCRIPTION FOR ROBUST SCALABLE VIDEO CODING",
+      "scopus_id": "2-s2.0-77951958278",
+      "doi": "10.1109/ICIP.2009.5414051",
+      "isi_id": "WOS:000280464300226",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119935",
+      "authors": "Zontone, P; G., Boato; DE NATALE, F. G. B.; A., DE ROSA; M., Barni; A., Piva; J. S., Hare; D., Dupplaw; P. H., Lewis",
+      "legacy_id": 473428,
+      "year": 2009,
+      "miur_type": "273",
+      "title": "Image Diversity Analysis: Context, Opinion and Bias",
+      "scopus_id": "2-s2.0-84891461550",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119951",
+      "authors": "R., Bernardini; S., Milani; G., Calvagno; Zontone, P",
+      "legacy_id": 473444,
+      "year": 2009,
+      "miur_type": "262",
+      "title": "Cross-Layer Joint Optimisation of FEC channel codes and Multiple Description Coding for video delivery over IEEE 802.11e links",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119924",
+      "authors": "Bernardini, Riccardo; Rinaldo, Roberto; Zontone, Pamela; Vitali, A.",
+      "legacy_id": 473417,
+      "year": 2008,
+      "miur_type": "273",
+      "title": "Performance Evaluation of Distributed Video Coding Schemes",
+      "scopus_id": "2-s2.0-51449089663",
+      "doi": "10.1109/ICASSP.2008.4517708",
+      "isi_id": "WOS:000257456700178",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119923",
+      "authors": "R., Bernardini; S., Milani; G., Calvagno; Zontone, P",
+      "legacy_id": 473416,
+      "year": 2008,
+      "miur_type": "273",
+      "title": "Cross-Layer Joint Optimization of FEC channel codes and Multiple Description Coding for video delivery over IEEE 802.11e links",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119955",
+      "authors": "R., Bernardini; M., Naccari; R., Rinaldo; M., Tagliasacchi; S., Tubaro; Zontone, P",
+      "legacy_id": 473448,
+      "year": 2008,
+      "miur_type": "262",
+      "title": "Rate allocation for robust video streaming based on distributed video coding",
+      "scopus_id": "2-s2.0-44749085521",
+      "isi_id": "WOS:000257519500006",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "9",
+      "citations_scopus": "10"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119921",
+      "authors": "S., Milani; Zontone, P",
+      "legacy_id": 473414,
+      "year": 2008,
+      "miur_type": "273",
+      "title": "Cross-Layer Optimization Strategies for Video Transmission over IEEE 802.11e Networks",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1219857",
+      "authors": "Naccari, M.; Tagliasacchi, M.; Tubaro, S.; Zontone, P.; Rinaldo, R.; Bernardini, R.",
+      "legacy_id": 598078,
+      "year": 2008,
+      "miur_type": "273",
+      "title": "Forward error protection for robust video streaming based on distributed video coding principles",
+      "scopus_id": "2-s2.0-67649191520",
+      "doi": "10.1049/cp:20080411",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119925",
+      "authors": "R., Bernardini; M., Durigon; R., Rinaldo; A., Vitali; Zontone, P",
+      "legacy_id": 473418,
+      "year": 2007,
+      "miur_type": "273",
+      "title": "Real-Time Multiple Description Video Streaming over QoS-based wireless networks",
+      "scopus_id": "2-s2.0-48149092994",
+      "isi_id": "WOS:000253487201245",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "11"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119947",
+      "authors": "R., Bernardini; M., Durigon; R., Rinaldo; Zontone, P",
+      "legacy_id": 473440,
+      "year": 2007,
+      "miur_type": "262",
+      "title": "Robust Transmission of Video using Frame-Based Multiple Descriptions",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119922",
+      "authors": "Bernardini, Riccardo; Fumagalli, M.; Naccari, R.; Rinaldo, Roberto; Tagliasacchi, M.; Tubaro, S.; Zontone, Pamela",
+      "legacy_id": 473415,
+      "year": 2007,
+      "miur_type": "273",
+      "title": "Error Concealment Using a DVC Approach for Video Streaming Applications",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119929",
+      "authors": "R., Bernardini; M., Fumagalli; M., Naccari; R., Rinaldo; M., Tagliasacchi; S., Tubaro; Zontone, P",
+      "legacy_id": 473422,
+      "year": 2007,
+      "miur_type": "273",
+      "title": "Error concealment using a DVC approach for video streaming applications",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119952",
+      "authors": "Bernardini, Riccardo; Durigon, Marco; Rinaldo, Roberto; Vitali, A.; Zontone, Pamela",
+      "legacy_id": 473445,
+      "year": 2006,
+      "miur_type": "262",
+      "title": "Frame-based multiple-description video coding with extended orthogonal filter banks",
+      "scopus_id": "2-s2.0-33645735424",
+      "isi_id": "WOS:000242068700001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119926",
+      "authors": "Bernardini, R.; Rinaldo, R; Zontone, P.; Alfonso, D.; Vitali, A.",
+      "legacy_id": 473419,
+      "year": 2006,
+      "miur_type": "273",
+      "title": "Wavelet domain distributed coding for video",
+      "scopus_id": "2-s2.0-48149102667",
+      "doi": "10.1109/ICIP.2006.313171",
+      "isi_id": "WOS:000245768500062",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "9",
+      "citations_scopus": "15"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119938",
+      "authors": "Bernardini, Riccardo; Celetto, Luca; Rinaldo, Roberto; Vitali, Andrea; Zontone, Pamela",
+      "legacy_id": 473431,
+      "year": 2005,
+      "miur_type": "273",
+      "title": "Bit allocation and quantizer optimization in multiple description coding with oversampled filterbanks",
+      "scopus_id": "2-s2.0-33749238012",
+      "isi_id": "WOS:000235773303169",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1119941",
+      "authors": "R., Bernardini; L., Celetto; R., Rinaldo; A., Vitali; Zontone, P",
+      "legacy_id": 473434,
+      "year": 2005,
+      "miur_type": "273",
+      "title": "Bit allocation and quantizer optimization in MDC with oversampled filter banks",
+      "type": "04.01 - Contributo in atti di convegno"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:18:13.226438"
+}

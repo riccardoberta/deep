@@ -1,0 +1,3093 @@
+{
+  "surname": "Lazzaroni",
+  "name": "Luca",
+  "unit": "ICT",
+  "email": "luca.lazzaroni@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/UUNDXVNo",
+  "website": "",
+  "unige_id": "404691",
+  "scopus_id": "57220892898",
+  "role": null,
+  "grade": "Contratto Gratuito (No Anag. Prest.)",
+  "ssd": "000000000000 (Non assegnato)",
+  "location": [
+    {
+      "building": "Opera Pia - padiglione D (ED_161450401)",
+      "floor": "3° piano",
+      "room": "US_161450401.III.023"
+    }
+  ],
+  "career": [
+    {
+      "role": "DR",
+      "from": "2020-11-01 00:00:00.0000000",
+      "to": "2023-10-31 00:00:00.0000000"
+    },
+    {
+      "role": "CB",
+      "from": "2021-03-02 00:00:00.0000000",
+      "to": "2025-02-28 00:00:00.0000000"
+    },
+    {
+      "role": "AR",
+      "from": "2023-10-02 00:00:00.0000000",
+      "to": "2025-02-28 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2025-03-01 00:00:00.0000000",
+      "to": "2028-02-29 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {
+    "2025": [
+      {
+        "course": "DISTRIBUTED ELECTRONIC SYSTEMS AND TECHNOLOGIES FOR ENVIRONMENTAL MONITORING (94631)",
+        "degree": "LM-26 R - ENGINEERING FOR NATURAL RISK MANAGEMENT"
+      },
+      {
+        "course": "TINY MACHINE LEARNING (114752)",
+        "degree": "LM-29 - ELECTRONIC ENGINEERING"
+      }
+    ],
+    "2024": [
+      {
+        "course": "DISTRIBUTED ELECTRONIC SYSTEMS AND TECHNOLOGIES FOR ENVIRONMENTAL MONITORING (94631)",
+        "degree": "LM-26 - ENGINEERING FOR NATURAL RISK MANAGEMENT"
+      },
+      {
+        "course": "TINY MACHINE LEARNING (114752)",
+        "degree": "LM-29 - ELECTRONIC ENGINEERING"
+      }
+    ],
+    "2023": [
+      {
+        "course": "COMPUTER GRAPHICS ARCH.- GAMES AND SIMULATION (72317)",
+        "degree": "LM-29 - INGEGNERIA ELETTRONICA"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 9,
+      "total_products": 45,
+      "journals": 13,
+      "conferences": 2,
+      "citations": 211,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 9,
+      "total_products": 45,
+      "journals": 13,
+      "conferences": 2,
+      "citations": 211,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 9,
+      "total_products": 45,
+      "journals": 13,
+      "conferences": 2,
+      "citations": 211,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 9,
+      "total_products": 45,
+      "journals": 13,
+      "conferences": 2,
+      "citations": 211,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-85217496091",
+      "title": "Deep Learning-Based Real-Time Driver Cognitive Distraction Detection",
+      "doi": "10.1109/ACCESS.2025.3539392",
+      "venue": "IEEE Access",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "13",
+      "issue_id": null,
+      "pages": "26589-26607",
+      "issn": null,
+      "eIssn": "21693536",
+      "source_id": "21100374601",
+      "authors": "Fresta Matteo; Bellotti Francesco; Bochenko Igor; Lazzaroni Luca; Merlhiot Gaëtan; Tango Fabio; Berta Riccardo",
+      "author_ids": "58308149100;55890888700;59550754000;57220892898;57194207299;55914652500;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;118247852;60258352;60025153",
+      "corresponding": "Fresta M.",
+      "keywords": "Deep learning | driver cognitive distraction detection | embedded deployment | eye-tracker | physiological signals | SHAP analysis | timeseries processing | vehicular signals",
+      "abstract": "Driver distraction is one of the main causes of traffic accidents. While there are different types of distraction (manual, visual, cognitive), cognitive distraction is particularly challenging, being only partially related to visual features detectable through cameras or an eye tracker system. Moreover, since cognitive distraction is not a point in time phenomenon, spotting this kind of distraction requires the processing of a certain time interval, which poses a further challenge for real-time performance. After a data collection campaign with N =42 subjects undertaking a twenty-question task (TQT) in a driving simulator, we developed a driver cognitive distraction detection system, with the goal of filling in some key gaps we identified in the literature towards real world deployment. First, we assessed the effectiveness of state-of-the-art time series-oriented deep learning models in learning features from 60 Hz raw input signals, thus implementing an end-to-end machine learning approach, without manual feature engineering. We demonstrated that such models are able to classify time-windows as small as 0.5 seconds, and are also more robust to sensor failures. Second, also with the support of AI explainability, we showed that processing vehicular data is fundamental to ensure performance, while physiological signals provide a less important, but still useful, contribution. Third, through a between- and within-subject design comparison, we showed that eye-tracker and, particularly, physiological signals are much more prone to inter-individual variability, thus overfitting. This is fundamental to consider for commercial deployment, as it would require fine-tuning the system with data from the actual end-user. Fourth, we quantitatively measured the effect of such variability for all types of signals, demonstrating its huge relevance, and shown that deep learning models dedicated to time series processing are better able to generalize across users than the more commonly employed shallow machine learning models. Finally, with a focus on in-vehicle deployability, which is of significant industrial interest, we measured also such metrics as model size, inference time, and energy consumption, showing feasibility on two embedded platforms, which is a key advancement towards on-board deployment of robust, real-time cognitive distraction detection systems.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 88,
+              "rank": 42,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 83,
+              "rank": 41,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 78,
+              "rank": 101,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85215954123",
+      "title": "TinyML Acceleration with MAX78000",
+      "doi": "10.1007/978-3-031-71518-1_57",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "1263 LNEE",
+      "issue_id": null,
+      "pages": "468-474",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Dabbous Ali; Lazzaroni Luca; Bellotti Francesco; Presentación Sara Muñoz; Pighetti Alessandro; Berta Riccardo",
+      "author_ids": "57225054424;57220892898;55890888700;59527204900;58023909200;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Dabbous A.",
+      "keywords": "Convolutional Neural Network | Hardware Accelerator | MAX78000 | Power Consumption | Time-of-Flight | Tiny Machine Learning",
+      "abstract": "The advancement of edge devices equipped with specialized hardware accelerators has brought the deployment and execution of Deep Neural Network (DNN) models nearer to users and real-world sensor systems. This paper investigates the potential of the MAX78000 microcontroller in accelerating Tiny Machine Learning applications, which require real-time processing and low power consumption. We compare its performance against other platforms like the STM32H7 and Raspberry Pi 4, focusing on a case study involving the detection of miniature mobile robots using an ultra-low-resolution Time-of-Flight sensor. Despite slightly lower accuracy, the MAX78000 outperforms other platforms in terms of inference time, power, and energy consumption, making it a reliable choice for power-constrained applications.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105013975172",
+      "title": "On-Board Deployability of a Deep Learning-Based System for Distraction and Inattention Detection",
+      "doi": "10.1109/OJIES.2025.3601982",
+      "venue": "IEEE Open Journal of the Industrial Electronics Society",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "6",
+      "issue_id": null,
+      "pages": "1351-1369",
+      "issn": null,
+      "eIssn": "26441284",
+      "source_id": "21101068036",
+      "authors": "Fresta Matteo; Bellotti Francesco; Lazzaroni Luca; Ballout Hadi; Pighetti Alessandro; Ameneiro-Prieto Óscar; Porta-Lorenzo Manuel; Sánchez-Louzán Daniel; González-Escudeiro Cristina; Tango Fabio; Berta Riccardo",
+      "author_ids": "58308149100;55890888700;57220892898;59232895600;58023909200;57194191799;57699637700;60059765900;60059537800;55914652500;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;121898065;121898065;121898065;121898065;60258352;60025153",
+      "corresponding": "Fresta M.",
+      "keywords": "Deep learning (DL) | driver distraction detection (DDD) | eye-tracker | inattention detection | on-board deployment | SHapley Additive exPlanations (SHAP) analysis | time of flight sensor | time series processing | vehicular signals",
+      "abstract": "Driver distraction recognition is gaining increasing interest in improving traffic safety, as well as in automated driving. This article reports the experience we have gained developing a driver distraction detection (DDD) system within the Hi-Drive research project on driving automation. Targeting on-board deployability, we have faced several leading-edge research issues that have not been addressed together in published research works. We propose a compact sensory configuration and a limited computational resource system architecture, also exploiting careful manual and automated labeling, trying to find a tradeoff among conflicting needs in terms of accuracy, privacy preservation, energy efficiency, and costs. Our system detects two levels of insufficient attention, which are keys not only for designing a proper driver warning and information management strategy but also for better managing the transition among different automation levels. Our experiments confirmed on real-world data, and in the three-class task, the importance of distinguishing users among training, validation, and testing to prevent overestimating model performance by overfitting individual participant patterns present in all three subsets. We analyzed the complexity of the three-class problem, which is also related to the relatively low representation of the intermediate distraction class in the dataset. We showed that the size of the classifiable time window is a critical performance factor and found that a 5 s length seems to achieve the best tradeoff between latency, time resolution, and the need for capturing sufficient temporal information to detect distraction. Another empirical finding comes from a SHAP values-based explainability analysis and concerns the importance of vehicular signals for the detection task, particularly in the three-class problem. This is significant, as such signals are inexpensively available in vehicles, and their processing does not add further privacy concerns. Finally, assessing performance on three state-of-the-art embedded platforms, we observed that the developed deep learning models are able to effectively run on limited-resource, on-board deployable devices, meeting real-time performance requirements, also on a mainstream, low-cost microcontroller. We argue that these findings open significant perspectives toward an effective and efficient field deployment of DDD electronic systems.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 85,
+              "rank": 148,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 84,
+              "rank": 62,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 84,
+              "rank": 61,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105013891403",
+      "title": "RAFT: Regularized Adversarial Fine-Tuning to Enhance Deep Reinforcement Learning for Self-Parking",
+      "doi": "10.1109/LSENS.2025.3600982",
+      "venue": "IEEE Sensors Letters",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "9",
+      "issue_id": "9",
+      "pages": null,
+      "issn": null,
+      "eIssn": "24751472",
+      "source_id": "21100976671",
+      "authors": "Pighetti Alessandro; Bellotti Francesco; Berta Riccardo; Cavallaro Andrea; Lazzaroni Luca; Oh Changjae",
+      "author_ids": "58023909200;55890888700;6701751695;7103233230;57220892898;55391262000",
+      "authorAffiliationIds": "60025153-60022109;60025153;60025153;60022109-60030109-60028186;60025153;60022109",
+      "corresponding": "Pighetti A.",
+      "keywords": "adversarial policies | automated driving (AD) | autonomous agents | deep reinforcement learning (DRL) | parking | Sensor applications",
+      "abstract": "Deep reinforcement learning (DRL) is a powerful method for local motion planning in automated driving. However, training of DRL agents is difficult and subject to instability. We propose regularized adversarial fine-tuning (RAFT), an adversarial DRL training framework, and test it in an automated parking (AP) scenario in the car learning to act (CARLA) simulator. Results show that RAFT enhances the performance of a state-of-the-art agent in its original operational design domain (ODD) (static parking, without adversary), by improving its robustness, as evidenced by an increase in all measured metrics. The success rate rises, the mean alignment error shrinks, and the gear reversal rate drops. Notably, we achieved this result not by designing an ad-hoc reward function, but simply by adding a general regularization term to the baseline adversary reward. The results open up new research perspectives for extending the ODD of DRL-based AP to dynamic scenes.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 63,
+              "rank": 70,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 60,
+              "rank": 397,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105006570576",
+      "title": "Binary Neural Networks for Real-Time Structural Health Monitoring on Edge Devices",
+      "doi": "10.1109/ICCE63647.2025.10930047",
+      "venue": "Digest of Technical Papers IEEE International Conference on Consumer Electronics",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "0747668X",
+      "eIssn": "21591423",
+      "source_id": "26010",
+      "authors": "Dabbous Ali; Lazzaroni Luca; Sakr Fouad; Berta Riccardo; Fresta Matteo; Bellotti Francesco",
+      "author_ids": "57225054424;57220892898;57216728100;6701751695;58308149100;55890888700",
+      "authorAffiliationIds": "60025153;60025153;60074219;60025153;60025153;60025153",
+      "corresponding": "Dabbous A.",
+      "keywords": "Binary Neural Networks | Edge Devices | Structural Health Monitoring",
+      "abstract": "Structural Health Monitoring (SHM) is critical to ensuring the safety of civil structures. SHM has been mostly addressed through cloud/workstation solutions, but new approaches are also considering edge devices, whose proximity to data sources allows minimizing latency and bandwidth. Typical SHM methods demand extensive data processing and high computational resources, that cannot be sustained by edge devices. In this paper, we investigate the application of binary neural networks (BNNs) to the SHM problem, exploiting their efficiency and reduced computational cost, without too much degrading classification performance, which makes them a very promising solution for edge computing. Using the Z24 Bridge dataset, our results show that BNNs can achieve state-of-the-art accuracy while reducing model size by approximately 90×, energy consumption by a factor 14, with a 12× latency cut, allowing real-time operation on a Raspberry Pi 4 device.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 38,
+              "rank": 254,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 659,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105000833272",
+      "title": "Quantization of MobileNetV2 for Resource-Constrained Microcontrollers",
+      "doi": "10.1007/978-3-031-84100-2_59",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "1369 LNEE",
+      "issue_id": null,
+      "pages": "497-504",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Lazzaroni Luca; Bellotti Francesco; Dabbous Ali; Pighetti Alessandro; Berta Riccardo",
+      "author_ids": "57220892898;55890888700;57225054424;58023909200;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Lazzaroni L.",
+      "keywords": "Internet of Things | Microcontrollers | MobileNetV2 | Quantization | STM32 | Tiny Machine Learning",
+      "abstract": "The proliferation of IoT and edge computing devices demands for efficient deployment strategies due to their limited computational capabilities and energy constraints. This paper investigates the application of deep learning models in such resource-constrained environments, focusing on the quantization of the MobileNetV2 architecture. We evaluate three primary quantization techniques: dynamic quantization, static quantization, and quantization-aware training. Using a subset of the Vehicle Make and Model Recognition dataset, specifically the Most Stolen Vehicles in the US in 2017, we compare our results with a previous study, highlighting the advancements achieved through MobileNetV2 and its quantization process. Deployment on two STM32 boards, L4 and H7 series, demonstrates the effectiveness of the quantized MobileNetV2 model in achieving efficient, low-power, and low-latency execution on low-power MCUs.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105000832063",
+      "title": "Runtime Input Monitoring of a Reinforcement Learning-Based Agent for Automated Car Parking",
+      "doi": "10.1007/978-3-031-84100-2_46",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "1369 LNEE",
+      "issue_id": null,
+      "pages": "387-394",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Ballout Hadi; Berta Riccardo; Bochenko Igor; Lazzaroni Luca; Dhonthi Akshay; Hashemi Vahid; Bellotti Francesco",
+      "author_ids": "59232895600;6701751695;59550754000;57220892898;57305251400;48861638300;55890888700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60072340;60072340;60025153",
+      "corresponding": "Ballout H.",
+      "keywords": "anomaly detection | Automated driving | isolation forest | local outlier factor | novelty detection | one-class support vector machine | out of distribution data | runtime monitoring",
+      "abstract": "Ensuring reliability and safety of the decision-making process of neural architectures for automated driving (AD) is a trendy topic for research. Runtime monitoring algorithms continuously observe a model’s input, detecting anomalies and deviations from the normal data distribution in real-time, so to promptly notify about potential model failure. This paper describes a study to compare a noise-free training environment, in which anomalies are only visible in the test set, and an environment in which out of distribution (OOD) data is present also in validation. We consider two well-known types of noise: Pixel and Gaussian, and three state of the art monitor algorithms: one-class Support Vector Machine (OCSVM), Local Outlier Factor (LOF) and Isolation Forest (IF). As a case study, we take a self-parking vehicle autonomous agent trained through reinforcement learning in the CARLA driving simulator. Results reveal that OCSVM beats LOF and IF in noise-free training, while LOF performs better in the OOD-aware validation case. More research is needed to address generalization, also considering real-world cases, and exploit OOD awareness to increase overall model’s performance.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105000831674",
+      "title": "Exploring Decision Transformer for Highway Automated Driving",
+      "doi": "10.1007/978-3-031-84100-2_15",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "1369 LNEE",
+      "issue_id": null,
+      "pages": "123-130",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Forneris Luca; Bellotti Francesco; Berta Riccardo; Lazzaroni Luca; Oh Changjae",
+      "author_ids": "58024898300;55890888700;6701751695;57220892898;55391262000",
+      "authorAffiliationIds": "60025153-60022109;60025153;60025153;60025153;60022109",
+      "corresponding": "Forneris L.",
+      "keywords": "Automated Driving | Decision Transformer | Decision-Making | Deep Reinforcement Learning | Driving Simulator | High-speed Maneuvers | Offline Reinforcement Learning",
+      "abstract": "The evolution of Automated Driving Functions (ADFs) is contingent upon the effective implementation of Decision-Making (DM), context perception, and predictive vehicle control. Conventional Deep Reinforcement Learning (DRL) methodologies frequently prove inadequate in dynamic settings, largely due to their inherent limitations in addressing real-time DM and assigning long-term credit. DRL via sequence modeling represents a promising avenue for addressing these challenges by combining the strengths of Attention-based architectures, such Transformer, and DRL. The integration of self-attention mechanisms with offline DRL enables long-term credit assignment, fine-tuning and prevent continuous interaction with the environment, mitigating risks related to real-world simulations and trial-and-error approaches. This paper examines the potential of Decision Transformer (DT) within the AD domain. A DT model was implemented and trained within the highway-env simulation environment. To do so, an offline RL dataset was constructed using a pre-trained Deep Q-Network (DQN) agent. The model was evaluated by comparing its performance against that of the pre-trained DQN and a random agent. Results demonstrated that the DT model exhibited superior DM capabilities, with higher average returns and longer episode durations than DQN. These findings highlight the potential of Transformer-based DRL in AD.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105000829693",
+      "title": "Robustness Verification of a Reinforcement Learning-Based Agent for Automated Car Parking",
+      "doi": "10.1007/978-3-031-84100-2_17",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "1369 LNEE",
+      "issue_id": null,
+      "pages": "139-147",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Bellotti Francesco; Berta Riccardo; Soltanmuradov Vafali; Gómez David Martín; Dhonthi Akshay; Hashemi Vahid; Lazzaroni Luca",
+      "author_ids": "55890888700;6701751695;59526612100;59388326900;57305251400;48861638300;57220892898",
+      "authorAffiliationIds": "60025153;60025153;60025153;60001741;60072340;60072340;60025153",
+      "corresponding": "Bellotti F.",
+      "keywords": "automated parking | lidar | Marabou | noise | reinforcement learning | Verification",
+      "abstract": "Safety critical systems require careful verification of their performance in well-defined operational conditions. We have verified the performance of an automated driving (AD) parking agent trained through a reinforcement learning-based automated driving (AD) parking agent in three exemplary critical scenarios in the CARLA driving simulation environment. Results, obtained through the Marabou formal verification tool, show that the system does not produce outputs in a range that would violate expert-defined safety assumptions. Analyzing robustness to input signal perturbation, we observe that injection of Gaussian and pixel noise decreases slightly the safety performance. Interestingly, especially at higher noise levels, the agent frequently decides to remain stationary, which would allow the system to safely issue a take-over request to the driver. These results indicate significant further research in the field.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105000828654",
+      "title": "Performance Comparison of YOLOv8 and YOLOv10 for Traffic Light Detection on a Jetson Nano Board",
+      "doi": "10.1007/978-3-031-84100-2_29",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "1369 LNEE",
+      "issue_id": null,
+      "pages": "242-249",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Ballout Hadi; Berta Riccardo; Dabbous Ali; Fresta Matteo; Lazzaroni Luca; Pighetti Alessandro; Bellotti Francesco",
+      "author_ids": "59232895600;6701751695;57225054424;58308149100;57220892898;58023909200;55890888700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Ballout H.",
+      "keywords": "automated driving | BOSCH | DTLD | intelligent transportation systems | Jetson Nano | Traffic Light detection | YOLOv10 | YOLOv8",
+      "abstract": "Detecting traffic lights is crucial for the development of advanced driver-assistance systems (ADAS). Accurate traffic light detection allows for timely responses to changing traffic conditions, thereby enhancing road safety and reducing accidents. However, achieving high detection accuracy with small model size and fast inference times poses significant challenges, particularly for deployment on resource-constrained devices. In this study, we perform a detailed performance comparison of YOLOv8 and YOLOv10 nano models for traffic light detection (TLD), specifically targeting deployment on an NVIDIA Jetson Nano board. The evaluation focuses on key metrics including mean average precision (mAP), inference speed, and computational efficiency under real-time constraints. YOLOv8 demonstrated slightly superior mAP, indicating better detection accuracy. In contrast, YOLOv10 exhibited faster inference speeds due to its architectural optimizations. This comparison underscores the trade-offs between model complexity and deployment feasibility in embedded systems, providing insights for selecting the appropriate model for TLD applications in resource-constrained environments. Further research is needed to explore additional datasets, particularly those containing traffic lights at night, and to apply quantized models on smaller edge devices.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105000828216",
+      "title": "Leveraging Neural Architecture Search for Structural Health Monitoring on Resource-Constrained Devices",
+      "doi": "10.1007/978-3-031-84100-2_38",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "1369 LNEE",
+      "issue_id": null,
+      "pages": "323-330",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Capello Alessio; Berta Riccardo; Fresta Matteo; Lazzaroni Luca; Bellotti Francesco",
+      "author_ids": "57388720700;6701751695;58308149100;57220892898;55890888700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Capello A.",
+      "keywords": "Microcontrollers | Neural Architecture Search | Structural Health Monitoring",
+      "abstract": "In recent decades signal processing incorporated the capabilities offered by Deep Learning (DL) models, especially for complex tasks. DL models demand significant memory, power, and computational resources, posing challenges for Microcontroller Units (MCUs) with limited capacities. The possibility to run models directly on the edge device is key in connectivity-limited scenarios such as Structural Health Monitoring (SHM). For those scenarios, it is necessary to use Tiny Machine Learning techniques to reduces computational requirements. This study focuses on the impact of the extended version of the state-of-the-art Neural Architecture Search (NAS) tool, μNAS, for SHM applications, targeting four commonly used MCUs. Our assessment is based on the Z24 Bridge benchmark dataset, a common dataset for SHM we employed to train and evaluate models. We then discuss if the models found fit the constraints of the MCUs and the possible tradeoffs between error rate and model computational requirements. We also offer a comparison with the Raspberry Pi 4 Model B to highlight μNAS’s capability in achieving high accuracy with higher computing capabilities. The obtained results are promising, as the found models satisfy the given constraints both in term of accuracy and memory footprint.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105000824318",
+      "title": "Setting Up a Lightweight Simulation Environment for Automated Driving Dataset Collection",
+      "doi": "10.1007/978-3-031-84100-2_19",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "1369 LNEE",
+      "issue_id": null,
+      "pages": "156-163",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Forneris Luca; Bellotti Francesco; Berta Riccardo; Cossu Marianna; Fresta Matteo; Rezaieamale Raziye; Rojhan Hadise; Soltanmuradov Vafali; Tango Fabio; Lazzaroni Luca",
+      "author_ids": "58024898300;55890888700;6701751695;57388479100;58308149100;59706629300;59706210500;59526612100;55914652500;57220892898",
+      "authorAffiliationIds": "60025153-60022109;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60258352;60025153",
+      "corresponding": "Forneris L.",
+      "keywords": "Automated Driving Functions | CARLA Simulator | Dataset Collection | Lane Change Recognition | Simulation Environment | User testing",
+      "abstract": "Dataset availability is a fundamental requirement for advancing Automated Driving Functions (ADFs) through ever more reliable machine learning systems. The huge costs related to the development of real-world datasets have spurred the utilization of simulations environments to collect data from virtual reality scenarios. Such synthetic data can be used to pre-train neural models, that may in turn be fine-tuned on a smaller amount of real-world data. We present the development of a lightweight simulation environment, specifically targeting data collection for Driver Maneuver Intention Recognition (DMIR) systems. We created a realistic highway driving scenario to capture Lane Change (LC) intentions. The simulation setup offers a driving experience through a comprehensive system that closely replicates real-world conditions, including a wide screen, steering wheel, and pedals for the vehicle control. Procedural traffic generation was implemented to maintain computational efficiency while ensuring realism. Preliminary tests with four participants demonstrated the simulator's effectiveness, yielding an average of six LCs per minute. User feedback highlighted areas for improvement, such as perceived road width and traffic realism, indicating potential enhancements like additional cameras for a broader field of view. Our findings underscore the viability of simulation environments in extensively and cost-effectively generating data usable to advance AD technologies.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105000824025",
+      "title": "Green Machine Learning for the IoT (GEMINI): A Position Paper",
+      "doi": "10.1007/978-3-031-84100-2_40",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "1369 LNEE",
+      "issue_id": null,
+      "pages": "339-346",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Lazzaroni Luca; Dabbous Ali; Nardello Matteo; Lebdeh Muath Abu; Berta Riccardo; Yildirim Kasim Sinan; Bellotti Francesco; Brunelli Davide",
+      "author_ids": "57220892898;57225054424;57197767089;57216973731;6701751695;23570313200;55890888700;22233293600",
+      "authorAffiliationIds": "60025153;60025153;60015986;60015986;60025153;60015986;60025153;60015986",
+      "corresponding": "Lazzaroni L.",
+      "keywords": "Batteryless Device | Energy Harvesting | Intermitting Computing | Internet of Things | Machine Learning | Online Learning | Online Sensing",
+      "abstract": "The proliferation of IoT devices has significantly increased global energy consumption and carbon footprint due to the reliance on computationally intensive Machine Learning (ML) techniques. Traditionally implemented on high-end embedded devices or exploiting cloud computing, these applications further exacerbate environmental impacts. As IoT technology advances, there’s a shift towards smaller, low-power devices, necessitating decentralized computation. This shift has given rise to Tiny Machine Learning (TinyML), enabling ML tasks on edge devices. However, to fully exploit TinyML, integrated frameworks are essential for efficiently developing and deploying smart applications, especially on devices operating intermittently on harvested energy. The Green Machine Learning for the IoT (GEMINI) project aims to address these challenges by creating a framework for sustainable TinyML applications on battery-powered and batteryless energy-harvesting edge devices. GEMINI targets shifting computational workloads from the cloud to the edge, optimizing latency, bandwidth, energy use, and privacy. By integrating energy harvesting methods, zero-power communication protocols, and intermittent computing strategies, GEMINI seeks to ensure robust ML inference under intermittent power conditions. The project aims to include efficient data collection, ML model generation, and online learning directly on edge devices, reducing reliance on constant cloud connectivity. The open-source framework intends to offer a comprehensive toolkit for developing sustainable IoT solutions.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105000819817",
+      "title": "RL-Based Generation of a Synthetic Automotive Driving Scenario Dataset",
+      "doi": "10.1007/978-3-031-84100-2_47",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "1369 LNEE",
+      "issue_id": null,
+      "pages": "395-402",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Berta Riccardo; Bellotti Francesco; Cossu Marianna; Forneris Luca; Lazzaroni Luca; Pighetti Alessandro",
+      "author_ids": "6701751695;55890888700;57388479100;58024898300;57220892898;58023909200",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Berta R.",
+      "keywords": "Automated Driving | Dataset Engineering | Driving Scenarios | Driving Scenarios Generator | Reinforcement Learning | Synthetic Datasets",
+      "abstract": "The increasing complexity of automated driving functions (ADFs) necessitates efficient data collection strategies due to the significant resources required for real-world data acquisition. Traditional methods rely on real-world vehicles, which implies costly and time-consuming collection. On the other hand, modern synthetic data generation methods do not explicitly account for the variation in complexity between the scenario classes and the data balance in relation to the training performance of the model. This paper presents a novel approach for generating synthetic automotive driving scenario datasets using a Reinforcement Learning (RL) -based framework. The system is designed to optimize data distribution dynamically at runtime, thus enhancing the stability of the training procedure. The proposed architecture iteratively guides the scenario generation process by identifying the most difficult scenarios in terms of model training F1 score performance. Preliminary experimental results demonstrate that this approach effectively stabilizes the training procedure for different scenario classes by introducing a controlled data imbalance. The study provides promising insights into the potential of RL-driven data generation for learning modules, also highlighting areas for future research to further enhance the capabilities of the system.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105000819772",
+      "title": "Benchmarking Microcontrollers with Ultra-Low Resolution Images Classification",
+      "doi": "10.1007/978-3-031-84100-2_28",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "1369 LNEE",
+      "issue_id": null,
+      "pages": "234-241",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Dabbous Ali; Berta Riccardo; Lazzaroni Luca; Pighetti Alessandro; Bellotti Francesco",
+      "author_ids": "57225054424;6701751695;57220892898;58023909200;55890888700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Dabbous A.",
+      "keywords": "Convolutional Neural Network | Energy Consumption | Hardware Accelerator | MAX78000 | STM32 | Tiny Machine Learning",
+      "abstract": "The advancement of edge devices equipped with specialized hardware accelerators, data caches, and microcontroller units (MCUs) has brought the deployment and execution of Deep Neural Network (DNN) models closer to users and real-world sensor systems. This paper explores the potential of various specialized MCUs across four real-world applications (waste classification, presence detection, miniature robot detection, and sign language interpretation). We evaluate three well-known MCU (STM32H7, Arduino, and MAX78000) comparing their inference time and power/energy consumption on four ultra-low resolution image-classification datasets with varying input and task complexities. Our findings indicate that all MCUs deliver excellent performance in terms of inference time and energy consumption for real-time applications, with the MAX78000 outperforming the others in all the metrics considered, thanks to the use of a DNN accelerator.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105000819117",
+      "title": "Comparing Detection-Based and Motion-Based Preprocessing of Video Frames for Automated Driving Scenario Detection",
+      "doi": "10.1007/978-3-031-84100-2_30",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "1369 LNEE",
+      "issue_id": null,
+      "pages": "250-257",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Cossu Marianna; Berta Riccardo; Bagheri Orumi Mohammad Ali; Lazzaroni Luca; Sauvaget Jean Louis; Touil Hind; Bellotti Francesco",
+      "author_ids": "57388479100;6701751695;59706032700;57220892898;58864809300;59706032800;55890888700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60258352;60258352;60025153",
+      "corresponding": "Cossu M.",
+      "keywords": "automated driving | deep learning | detection-based preprocessing | driving scenarios | machine learning | motion-based preprocessing | Preprocessing | video classification",
+      "abstract": "In the automotive field, accurate detection and classification of driving scenarios is a key element for safety and efficiency for advanced driving systems. High-level pre-processing is an effective method for accelerating the learning process of neural models by extracting the most informative features from frames while eliminating outliers, noise, and irrelevant data. This research investigates and compares two high-level preprocessing approaches, detection-based and motion-based, in the context of driving scenario video-clip classification. Detection-based preprocessing (DbPP) detect high-level features, such as vehicle bounding boxes and road lane segmentation, to highlight key spatial information. Motion-based preprocessing (MbPP), on the other hand, uses Optical Flow to capture temporal information among frames. While both approaches demonstrate satisfactory performance, our experiments indicate that DbPP generally offers better results and reliability, with an accuracy of 88% compared to MbPP’s 83%. Additionally, DbPP demonstrates faster computation times, making it more suitable for real-time applications, while it requires more memory than MbPP. This study also highlights the significance of effective preprocessing in enhancing the accuracy and efficiency of driving scenario detection.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85199072751",
+      "title": "An embedded end-to-end voice assistant",
+      "doi": "10.1016/j.engappai.2024.108998",
+      "venue": "Engineering Applications of Artificial Intelligence",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "136",
+      "issue_id": null,
+      "pages": null,
+      "issn": "09521976",
+      "eIssn": null,
+      "source_id": "24182",
+      "authors": "Lazzaroni Luca; Bellotti Francesco; Berta Riccardo",
+      "author_ids": "57220892898;55890888700;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Lazzaroni L.",
+      "keywords": "Automatic speech recognition | Edge computing | Embedded systems | Smart vehicles | Transfer learning | Voice assistants",
+      "abstract": "Voice assistants are spreading in various environments, such as houses and cars, bringing the possibility of controlling heterogeneous Internet of Things devices with simple voice commands. However, massive use of the cloud connection for speech processing requires an efficient and robust Internet connection and raises concerns in terms of privacy. Therefore, we propose an end-to-end solution able to work totally offline, based on a system architecture combining different Deep Learning models to implement all the steps of the speech elaboration process. Being interested in targeting the Italian language, we exploited the transfer learning paradigm, which allows leveraging models trained in English on large datasets and fine-tuning them to the target language on a smaller dataset. The proposed system architecture is configurable and easily extensible to other languages. Experimental results in an automotive application use case show that our solution outperforms the other embedded models and achieves performance comparable to state-of-the-art cloud-connected solutions for Automatic Speech Recognition. Moreover, overall latency is significantly reduced by eliminating the need to connect to the cloud.",
+      "citations": 13,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 91,
+              "rank": 32,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 91,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 86,
+              "rank": 66,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 88,
+              "rank": 112,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 86,
+              "rank": 50,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 82,
+              "rank": 80,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85192745343",
+      "title": "CBin-NN: An Inference Engine for Binarized Neural Networks",
+      "doi": "10.3390/electronics13091624",
+      "venue": "Electronics Switzerland",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "13",
+      "issue_id": "9",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20799292",
+      "source_id": "21100829272",
+      "authors": "Sakr Fouad; Berta Riccardo; Doyle Joseph; Capello Alessio; Dabbous Ali; Lazzaroni Luca; Bellotti Francesco",
+      "author_ids": "57216728100;6701751695;57894878100;57388720700;57225054424;57220892898;55890888700",
+      "authorAffiliationIds": "60025153-60022109;60025153;60022109;60025153;60025153;60025153;60025153",
+      "corresponding": "Sakr F.",
+      "keywords": "Binary Neural Network | Cortex-M microcontrollers | edge computing | inference engine | Internet of Things | TinyML",
+      "abstract": "Binarization is an extreme quantization technique that is attracting research in the Internet of Things (IoT) field, as it radically reduces the memory footprint of deep neural networks without a correspondingly significant accuracy drop. To support the effective deployment of Binarized Neural Networks (BNNs), we propose CBin-NN, a library of layer operators that allows the building of simple yet flexible convolutional neural networks (CNNs) with binary weights and activations. CBin-NN is platform-independent and is thus portable to virtually any software-programmable device. Experimental analysis on the CIFAR-10 dataset shows that our library, compared to a set of state-of-the-art inference engines, speeds up inference by 3.6 times and reduces the memory required to store model weights and activations by 7.5 times and 28 times, respectively, at the cost of slightly lower accuracy (2.5%). An ablation study stresses the importance of a Quantized Input Quantized Kernel Convolution layer to improve accuracy and reduce latency at the cost of a slight increase in model size.",
+      "citations": 15,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 81,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 78,
+              "rank": 220,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 76,
+              "rank": 91,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 76,
+              "rank": 131,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 73,
+              "rank": 62,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 76,
+              "rank": 228,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 76,
+              "rank": 44,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 75,
+              "rank": 93,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 73,
+              "rank": 137,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 72,
+              "rank": 62,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85190091988",
+      "title": "End-to-End Dataset Collection System for Sport Activities",
+      "doi": "10.3390/electronics13071286",
+      "venue": "Electronics Switzerland",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "13",
+      "issue_id": "7",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20799292",
+      "source_id": "21100829272",
+      "authors": "Fresta Matteo; Bellotti Francesco; Capello Alessio; Dabbous Ali; Lazzaroni Luca; Ansovini Flavio; Berta Riccardo",
+      "author_ids": "58308149100;55890888700;57388720700;57225054424;57220892898;55372827800;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Fresta M.",
+      "keywords": "convolutional neural networks (CNNs) | edge-to-cloud architecture | embedded systems | inertial measurement units (IMUs) | IoT | microcontrollers | sport activity recognition (SAR) | wearable devices",
+      "abstract": "Datasets are key to developing new machine learning-based applications but are very costly to prepare, which hinders research and development in the field. We propose an edge-to-cloud end-to-end system architecture optimized for sport activity recognition dataset collection and application deployment. Tests in authentic contexts of use in four different sports have revealed the system’s ability to effectively collect machine learning-usable data, with an energy consumption compatible with the timeframe of most of the sport types. The proposed architecture relies on a key feature of the Measurify internet of things framework for the management of measurement data (i.e.,.csv dataset management) and supports a workflow designed for efficient data labeling of signal timeseries. The architecture is independent of any specific sport, and a new dataset generation application can be set up in a few days, even by novice developers. With a view to concretely supporting the R&D community, our work is released open-source.",
+      "citations": 8,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 81,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 78,
+              "rank": 220,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 76,
+              "rank": 91,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 76,
+              "rank": 131,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 73,
+              "rank": 62,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 76,
+              "rank": 228,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 76,
+              "rank": 44,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 75,
+              "rank": 93,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 73,
+              "rank": 137,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 72,
+              "rank": 62,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85206460853",
+      "title": "Development of Deep-Learning-Based Autonomous Agents for Low-Speed Maneuvering in Unity",
+      "doi": "10.26599/JICV.2023.9210039",
+      "venue": "Journal of Intelligent and Connected Vehicles",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "7",
+      "issue_id": "3",
+      "pages": "229-244",
+      "issn": null,
+      "eIssn": "23999802",
+      "source_id": "21101102903",
+      "authors": "Berta Riccardo; Lazzaroni Luca; Capello Alessio; Cossu Marianna; Forneris Luca; Pighetti Alessandro; Bellotti Francesco",
+      "author_ids": "6701751695;57220892898;57388720700;57388479100;58024898300;58023909200;55890888700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Berta R.",
+      "keywords": "automated driving | autonomous agents | curriculum learning | deep reinforcement learning | modeling and simulation",
+      "abstract": "This study provides a systematic analysis of the resource-consuming training of deep reinforcement-learning (DRL) agents for simulated low-speed automated driving (AD). In Unity, this study established two case studies: garage parking and navigating an obstacle-dense area. Our analysis involves training a path-planning agent with real-time-only sensor information. This study addresses research questions insufficiently covered in the literature, exploring curriculum learning (CL), agent generalization (knowledge transfer), computation distribution (CPU vs. GPU), and mapless navigation. CL proved necessary for the garage scenario and beneficial for obstacle avoidance. It involved adjustments at different stages, including terminal conditions, environment complexity, and reward function hyperparameters, guided by their evolution in multiple training attempts. Fine-tuning the simulation tick and decision period parameters was crucial for effective training. The abstraction of high-level concepts (e.g., obstacle avoidance) necessitates training the agent in sufficiently complex environments in terms of the number of obstacles. While blogs and forums discuss training machine learning models in Unity, a lack of scientific articles on DRL agents for AD persists. However, since agent development requires considerable training time and difficult procedures, there is a growing need to support such research through scientific means. In addition to our findings, we contribute to the R&D community by providing our environment with open sources.",
+      "citations": 9,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 96,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Automotive Engineering",
+              "percentile": 95,
+              "rank": 7,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 94,
+              "rank": 23,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Transportation",
+              "percentile": 93,
+              "rank": 10,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 93,
+              "rank": 45,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Automotive Engineering",
+              "percentile": 92,
+              "rank": 10,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 92,
+              "rank": 30,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Transportation",
+              "percentile": 88,
+              "rank": 18,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85202787351",
+      "title": "Developing a TinyML Image Classifier in an Hour",
+      "doi": "10.1109/OJIES.2024.3451959",
+      "venue": "IEEE Open Journal of the Industrial Electronics Society",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "5",
+      "issue_id": null,
+      "pages": "946-960",
+      "issn": null,
+      "eIssn": "26441284",
+      "source_id": "21101068036",
+      "authors": "Berta Riccardo; Dabbous Ali; Lazzaroni Luca; Pau Danilo Pietro; Bellotti Francesco",
+      "author_ids": "6701751695;57225054424;57220892898;6603575177;55890888700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60023682;60025153",
+      "corresponding": "Berta R.",
+      "keywords": "Edge computing | imaging sensors | Jupyter notebook | microcontroller units (MCUs) | neural networks (NNs) | quantization | tiny machine learning (TinyML)",
+      "abstract": "Tiny machine learning technologies are bringing intelligence ever closer to the sensor, thus enabling the key benefits of edge computing (e.g., reduced latency, improved data security, higher energy efficiency, and lower bandwidth consumption, also without the need for constant connectivity). This promises to significantly enhance industrial applications but requires suited development tools to deal with the complexity of the edge technologies and context. We propose an agile Jupyter Python notebook as a simple, manageable tool to efficiently and effectively develop microcontroller-based intelligent imaging classification sensors. The notebook implements a methodology involving hyperparameter tuning and comparison of different shallow and deep learning models, with quantization. It exports TensorFlow Lite models, deployable on several microcontroller families, and optionally exploits the STM32Cube.AI developer cloud service, which allows benchmarking the developed models on a set of real-world tiny hardware target platforms. Assessment concerns various types of metrics, both for machine learning (e.g., accuracy) and embedded systems (e.g., memory footprint, latency, and energy consumption). We have verified the support for development effectiveness and efficiency on four ultralow resolution image-classification datasets, with different levels of input and task complexity. In all cases, the tool was able to build microcontroller-deployment ready, beyond the state-of-the-art models, within 1 h on Google Colab CPUs.",
+      "citations": 10,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 85,
+              "rank": 148,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 84,
+              "rank": 62,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 84,
+              "rank": 61,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 91,
+              "rank": 32,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 91,
+              "rank": 83,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 89,
+              "rank": 43,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85199496894",
+      "title": "Bringing Intelligence to the Edge for Structural Health Monitoring: The Case Study of the Z24 Bridge",
+      "doi": "10.1109/OJIES.2024.3434341",
+      "venue": "IEEE Open Journal of the Industrial Electronics Society",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "5",
+      "issue_id": null,
+      "pages": "781-794",
+      "issn": null,
+      "eIssn": "26441284",
+      "source_id": "21101068036",
+      "authors": "Dabbous Ali; Berta Riccardo; Fresta Matteo; Ballout Hadi; Lazzaroni Luca; Bellotti Francesco",
+      "author_ids": "57225054424;6701751695;58308149100;59232895600;57220892898;55890888700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Dabbous A.",
+      "keywords": "Deep learning | feature extraction | MINImally RandOm Convolutional KErnel Transform (MiniRocket) | structural health monitoring (SHM) | time-series | vibrational damage detection | WaveNet (WN) | Z24 bridge",
+      "abstract": "Structural health monitoring (SHM) is key in civil engineering because of the importance and the aging of the infrastructure. We argue that applying leading-edge, data-driven methods of large-scale complex industrial systems may be beneficial, particularly for accuracy and responsiveness. A fundamental step concerns the identification of the best tools to extract meaningful information from the vibrational raw signals. To this end, we study the application of two convolutional neural network architectures that have emerged in the literature for efficient feature extraction from time series, namely WaveNet and MINImally RandOm Convolutional KErnel Transform (MiniRocket). The test bench is the Z24 bridge progressive damage test classification dataset. Results show that a model based on WaveNet reaches state-of-the-art performance, also reducing model size and computational complexity. WaveNet proves perfectly suited to interpret the bridge vibration waveforms directly in the time domain, without any specific preprocessing. On the other hand, MiniRocket excels for ease of configuration (only two hyperparameters are to be tweaked), overall training efficiency, and model size, lending itself as a valuable agile alternative (e.g., for rapid prototyping). Our main advancement is, thus, the identification and characterization of highly effective feature extraction methods, employable in different SHM tasks. We have assessed the performance of the models on two embedded platforms, proposing a smart sensor system where a local hub collects the signals from a constellation of inertial sensors and infers damage assessment onsite, allowing the bridge to self-assess its health state without resorting to connectivity nor cloud resources.",
+      "citations": 10,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 85,
+              "rank": 148,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 84,
+              "rank": 62,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 84,
+              "rank": 61,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 91,
+              "rank": 32,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 91,
+              "rank": 83,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 89,
+              "rank": 43,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85184134805",
+      "title": "Automated Parking in CARLA: A Deep Reinforcement Learning-Based Approach",
+      "doi": "10.1007/978-3-031-48121-5_50",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": "1110 LNEE",
+      "issue_id": null,
+      "pages": "352-357",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Lazzaroni Luca; Pighetti Alessandro; Bellotti Francesco; Capello Alessio; Cossu Marianna; Berta Riccardo",
+      "author_ids": "57220892898;58023909200;55890888700;57388720700;57388479100;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Lazzaroni L.",
+      "keywords": "Automated driving functions | Automated parking | CARLA driving simulator | Deep reinforcement learning | Gymnasium | Proximal-policy optimization",
+      "abstract": "This paper focuses on developing a Deep Reinforcement Learning (DRL)—based agent for real-time trajectory planning and tracking in a simulated parking environment, specifically low-speed maneuvers in a parking area with comb-shaped spaces and a random distribution of non-player vehicles. We rely on CARLA as a virtual driving simulator due to its realistic graphics and physics simulation capabilities, and on the Gymnasium and Stable-Baselines3 toolkits for training the agent. We show that the agent is able to achieve a success rate of 97% in reaching the target parking lot without collisions. However, integrating CARLA with DRL frameworks poses challenges, such as determining suitable environment and neural network update frequencies. Despite these issues, the results demonstrate the potential of DRL agents in developing automated driving functions.",
+      "citations": 10,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 23,
+              "rank": 308,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85184120578",
+      "title": "Low-Cost, Edge-Cloud, End-to-End System Architecture for Human Activity Data Collection",
+      "doi": "10.1007/978-3-031-48121-5_64",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": "1110 LNEE",
+      "issue_id": null,
+      "pages": "444-449",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Fresta Matteo; Dabbous Ali; Bellotti Francesco; Capello Alessio; Lazzaroni Luca; Pighetti Alessandro; Berta Riccardo",
+      "author_ids": "58308149100;57225054424;55890888700;57388720700;57220892898;58023909200;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Fresta M.",
+      "keywords": "Edge-cloud hardware/software architectures | Embedded systems | Field data collection | Human activity recognition | Internet of things | Sensor-based classification | Wearable sensor",
+      "abstract": "Research in the Internet of Things (IoT) have paved the way to a new generation of applications and services that collect huge quantities of data from the field and do a significant part of the processing on the edge. This requires availability of efficient and effective methodologies and tools for a workflow spanning from the edge to the cloud. This paper presents a generic, complete workflow and relevant system architecture for field data collection and analysis with a focus on the human physical activities. The data source is given by a low-cost embedded system that can be placed on the user body to collect heterogeneous data on the performed movements. The system features a 9 DoF IMU sensor, to ensure a high level of configurability, connected to a custom board equipped with a rechargeable battery for wireless data collection. Data are transmitted via Bluetooth Low Energy (BLE) to a smartphone/tablet app, which manages the data transfer to Measurify, a cloud-based open-source framework designed for building measurement-oriented applications. Results from a preliminary functional experiment confirm the ability of the proposed end-to-end system architecture to efficiently implement the whole targeted edge-cloud workflow.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 23,
+              "rank": 308,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85184100845",
+      "title": "YoloP-Based Pre-processing for Driving Scenario Detection",
+      "doi": "10.1007/978-3-031-48121-5_60",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": "1110 LNEE",
+      "issue_id": null,
+      "pages": "418-423",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Cossu Marianna; Berta Riccardo; Forneris Luca; Fresta Matteo; Lazzaroni Luca; Sauvaget Jean Louis; Bellotti Francesco",
+      "author_ids": "57388479100;6701751695;58024898300;58308149100;57220892898;58864809300;55890888700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60258352;60025153",
+      "corresponding": "Cossu M.",
+      "keywords": "Automated driving | Convolutional neural network | Deep learning | Driving scenarios | Pre-processing | Synthetic datasets | Three-dimensional convolution | Time-series | Video classification | YoloP",
+      "abstract": "Recognition of driving scenarios is getting ever more relevant in research, especially for assessing performance of advanced driving assistance systems (ADAS) and automated driving functions. However, the complexity of traffic situations makes this task challenging. In order to improve the detection rate achieved through state-of-the-art deep learning models, we have investigated the use of the YoloP fully convolutional neural network architecture as a pre-processing step to extract high-level features for a residual 3D convolutional neural network We observed thar this approach reduces computational complexity, resulting in optimized model performance, also in terms of generalization from training on a synthetic dataset to testing in a real-world one.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 23,
+              "rank": 308,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85184090716",
+      "title": "Investigating Adversarial Policy Learning for Robust Agents in Automated Driving Highway Simulations",
+      "doi": "10.1007/978-3-031-48121-5_18",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": "1110 LNEE",
+      "issue_id": null,
+      "pages": "124-129",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Pighetti Alessandro; Bellotti Francesco; Oh Changjae; Lazzaroni Luca; Forneris Luca; Fresta Matteo; Berta Riccardo",
+      "author_ids": "58023909200;55890888700;55391262000;57220892898;58024898300;58308149100;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60022109;60025153;60025153;60025153;60025153",
+      "corresponding": "Pighetti A.",
+      "keywords": "Adversarial policies | Automated driving | Autonomous agents | Decision making | Highway driving | Highway-env simulator | Proximal policy optimization | Reinforcement learning",
+      "abstract": "This research explores an emerging approach, the adversarial policy learning paradigm, that aims to increase safety and robustness in deep reinforcement learning models for automated driving. We propose an iterative procedure to train an adversarial agent acting in a highway-simulated environment to attack a victim agent that is to be improved. Each training iteration consists of two phases. The adversarial agent is first trained to disrupt the victim-agent policy. The victim model is then trained to overcome the defects observed by the attack from the adversarial agent. The experimental results demonstrate that the victim agent trained with adversarial attacks outperforms the original agent.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 23,
+              "rank": 308,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85180156595",
+      "title": "Building a Pipeline for Efficient Production of Synthetic Datasets for Improving RL in Automated Driving",
+      "doi": "10.1007/978-3-031-48711-8_42",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": "1113 LNEE",
+      "issue_id": null,
+      "pages": "351-356",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Lazzaroni Luca; Pighetti Alessandro; Bellotti Francesco; Berta Riccardo",
+      "author_ids": "57220892898;58023909200;55890888700;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Lazzaroni L.",
+      "keywords": "automated driving | CARLA driving simulator | deep reinforcement learning | Synthetic datasets | trajectory tracking",
+      "abstract": "Online deep reinforcement learning training poses challenges due to its length and instability, despite the development of learning algorithms targeted to overcome these issues. Offline learning has emerged as a potential solution, but it reintroduces the issue of dataset production, which is resource-consuming and challenging even in simulation environments. This paper investigates efficient dataset creation for offline learning in the context of automated driving. Our proposed solution is a pipeline based on the CARLA simulator, which offers a wide variety in terms of car models, weather conditions, and environments. The pipeline aims to produce high-quality datasets for pre-training, training, and fine-tuning models, targeting improved training speed and reduced divergence. By leveraging CARLA’s level of realism, we address the resource-intensive nature of dataset production, providing researchers and car manufacturers with a valuable tool for advancing the development of robust automated driving systems.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 23,
+              "rank": 308,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85180150546",
+      "title": "Application of a Serious Game for Emotion Elicitation Under Socio-Economic and Trust Based Decision-Making Scenarios for Autistic Adolescents",
+      "doi": "10.1007/978-3-031-49065-1_17",
+      "venue": "Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": "14475 LNCS",
+      "issue_id": null,
+      "pages": "170-180",
+      "issn": "03029743",
+      "eIssn": "16113349",
+      "source_id": "25674",
+      "authors": "Ahmed Fahad; Berta Riccardo; Bellotti Francesco; Floris Federica; Lazzaroni Luca; Barresi Giacinto; Carrion Jesus Requena",
+      "author_ids": "57207729073;6701751695;55890888700;57225055996;57220892898;55877110100;19639194700",
+      "authorAffiliationIds": "60022109-60025153;60025153;60025153;100515919;60025153;60102151;60022109",
+      "corresponding": "Ahmed F.",
+      "keywords": "Affective Computing | Autism | Decision-making | Depression | Emotion Elicitation | Game Theory | Serious Games",
+      "abstract": "The relationship between decision-making and emotions has been extensively studied in both theoretical and empirical research. Game Theory-based paradigms utilizing socio-economic and trust-based contexts have been established to elicit specific emotional responses in autistic individuals. Serious games, incorporating cohesive storylines and multiple interactions within these contexts, can serve as engaging tools for emotion elicitation in autistic individuals. As autistic adolescents tend to show higher engagement with games, we aimed to investigate applicability in this population. To achieve this, we developed a mobile serious game that combines four socio-economic and trust-based game paradigms, aiming to evoke specific emotions of varying intensities during different interactions. This paper presents the outcomes of a preliminary experiment involving thirteen participants. The results show that the game’s designed interactions successfully elicited emotional responses aligning with the expectations derived from literature in non-game applications.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 48,
+              "rank": 70,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 46,
+              "rank": 129,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 43,
+              "rank": 77,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 42,
+              "rank": 139,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85178119519",
+      "title": "Implementing Deep Reinforcement Learning (DRL)-based Driving Styles for Non-Player Vehicles",
+      "doi": "10.17083/ijsg.v10i4.638",
+      "venue": "International Journal of Serious Games",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "10",
+      "issue_id": "4",
+      "pages": "153-170",
+      "issn": null,
+      "eIssn": "23848766",
+      "source_id": "21101044881",
+      "authors": "Forneris Luca; Pighetti Alessandro; Lazzaroni Luca; Bellotti Francesco; Capello Alessio; Cossu Marianna; Berta Riccardo",
+      "author_ids": "58024898300;58023909200;57220892898;55890888700;57388720700;57388479100;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Forneris L.",
+      "keywords": "Autonomous Agents | Decision Making | Driving Styles | Racing Games | Reinforcement Learning | Serious Games",
+      "abstract": "A realistic representation of the traffic participants is a key feature of serious games for driving. We propose a novel method for improving the behavioral planning of non-player vehicles (NPVs) by supporting implementation of (i) “human-like”, high-level decision making and (ii) different driving styles. The method relies on the deep reinforcement learning (DRL) technology, which is gaining ever more interest in the real-world automated driving research. We designed a system architecture including advanced driving assistance systems (ADAS) and trained the agent in the highway-env DRL environment. Compared to a low-level decision making system, our system performs better both in terms of safety and speed. Moreover, the proposed approach allows reducing the number of training steps by more than one order of magnitude. This makes the development of new models much more efficient. As a second main contribution, we demonstrate that it is possible to train agents characterized by different driving behaviors, by tweaking the weights of the factors of a general DRL reward function. This approach avoids heuristic coding of the driving styles, saving development and maintenance time. The developed agent models can then be seamlessly deployed as NPVs in any target SG in the same development environment (i.e., highway-env). Furthermore, the information and lessons learned presented in this article can be useful to effectively and efficiently train similar agents in their target SG environment.",
+      "citations": 10,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Applied Mathematics",
+              "percentile": 84,
+              "rank": 106,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Education",
+              "percentile": 80,
+              "rank": 322,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Graphics and Computer-Aided Design",
+              "percentile": 69,
+              "rank": 41,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 60,
+              "rank": 195,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Software",
+              "percentile": 60,
+              "rank": 198,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 50,
+              "rank": 95,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Applied Mathematics",
+              "percentile": 75,
+              "rank": 157,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Education",
+              "percentile": 72,
+              "rank": 422,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Graphics and Computer-Aided Design",
+              "percentile": 61,
+              "rank": 41,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 45,
+              "rank": 190,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Software",
+              "percentile": 43,
+              "rank": 229,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 36,
+              "rank": 93,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85163083962",
+      "title": "Socio-Economic Decision Making and Emotion Elicitation with a Serious Game in the Wild",
+      "doi": "10.3390/app13116432",
+      "venue": "Applied Sciences Switzerland",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "13",
+      "issue_id": "11",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20763417",
+      "source_id": "21100829268",
+      "authors": "Ahmed Fahad; Berta Riccardo; Bellotti Francesco; Lazzaroni Luca; Floris Federica; Barresi Giacinto; Carrion Jesus Requena",
+      "author_ids": "57207729073;6701751695;55890888700;57220892898;57225055996;55877110100;19639194700",
+      "authorAffiliationIds": "60022109-60025153;60025153;60025153;60025153;100515919;60102151;60022109",
+      "corresponding": "Ahmed F.",
+      "keywords": "affective computing | decision-making patterns | electronic system applications | emotion elicitation | game theory | serious game design | serious games | socio-economic scenarios",
+      "abstract": "There is a growing body of research in the literature that investigates the relationship between emotions and decision-making in socio-economic contexts. Previous research has used Serious Games (SGs) based on game theory paradigms with socio-economic contexts to explore this relationship in controlled settings, but it is unclear whether such SGs can be applied in the wild, which would improve their usability in natural settings. The emergence and widespread availability of mobile computing technologies have enabled the creation of diverse SG implementations. We developed a mobile SG that combines four socio-economic interactions (trust game, ultimatum game, dictator game, prisoner’s dilemma game) into one narrative and conducted an initial experiment with eight participants. This study discusses the challenges of deploying SGs in the wild and proposes solutions to overcome them. The results from the preliminary user experience experiment indicate that the SG is a suitable tool for emotion elicitation in the wild and that the results are similar to those observed in previous studies under controlled environments. We argue that these findings suggest that mobile SGs have potential for studying the relationship between emotions and decision-making in socio-economic contexts in the wild, improving the reach of these methods beyond laboratory settings.",
+      "citations": 8,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 80,
+              "rank": 69,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Instrumentation",
+              "percentile": 80,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fluid Flow and Transfer Processes",
+              "percentile": 79,
+              "rank": 21,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 70,
+              "rank": 294,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 64,
+              "rank": 166,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Process Chemistry and Technology",
+              "percentile": 55,
+              "rank": 34,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 79,
+              "rank": 62,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Instrumentation",
+              "percentile": 70,
+              "rank": 42,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Fluid Flow and Transfer Processes",
+              "percentile": 70,
+              "rank": 29,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 63,
+              "rank": 297,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 63,
+              "rank": 171,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Process Chemistry and Technology",
+              "percentile": 47,
+              "rank": 39,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85172117910",
+      "title": "Supporting a .csv-based Workflow in MongoDB for Data Analysts",
+      "doi": "10.1109/ISIE51358.2023.10228044",
+      "venue": "IEEE International Symposium on Industrial Electronics",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": "2023-June",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "85690",
+      "authors": "Fresta Matteo; Capello Alessio; Bellotti Francesco; Lazzaroni Luca; Cossu Marianna; Berta Riccardo",
+      "author_ids": "58308149100;57388720700;55890888700;57220892898;57388479100;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Fresta M.",
+      "keywords": ".csv files | .csv format | datasets | Measurify | MongoDB | mongoimport | user workflow",
+      "abstract": "The use of .csv files is very widespread, because of the simplicity of its tabular format and the support by popular editing tools. We propose a novel workflow for enhancing integration of such files with MongoDB storage, and investigate its applicability over a representative sample from the data. world collection. Compared to mongoimport (which is the MongoDB command-line file backup tool), our solution has much higher latency times, but automatizes the data type check and offers users two main degrees of flexibility, that are particularly useful in application development and deployment: possibility of spotting and rejecting duplicate records and possibility of rejecting single rows, instead of whole files in case of errors. Moreover, the reliance on the Measurify IoT application framework allows users to create application-relevant resources by simply enhancing .csv with semantics, while still providing a transparent end-to-end .csv file storage workflow.",
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85161446238",
+      "title": "Deep Reinforcement Learning for Automated Car Parking",
+      "doi": "10.1007/978-3-031-30333-3_16",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": "1036 LNEE",
+      "issue_id": null,
+      "pages": "125-130",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Lazzaroni Luca; Bellotti Francesco; Capello Alessio; Cossu Marianna; De Gloria Alessandro; Berta Riccardo",
+      "author_ids": "57220892898;55890888700;57388720700;57388479100;7004620974;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Lazzaroni L.",
+      "keywords": "Automated driving | autonomous agents | low-speed manoeuvering | proximal policy optimization | reinforcement learning | unity ML-Agents | valet parking",
+      "abstract": "This article explores the development of a Deep Reinforcement Learning (DRL) -based agent able to perform both path planning and trajectory execution, processing sensor perception information and directly controlling the steering wheel and the acceleration, like a normal driver. As a preliminary investigation, we limit our research to low-speed manoeuvers, in a challenging narrow drivable area. The vehicle’s agent completely relies on the real-time information from the sensors, thus avoiding the need of a map. We show the validity of the proposed system in a simulated car parking test, in which the agent has been able to achieve high target reach rates, with a limited number of manoeuvers (gear inversion rate), outperforming the well-established Hybrid A-Star path planning algorithm in both the metrics. Further research is needed for improving the generalization ability of the agent and its application in more dynamic driving environments.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 20,
+              "rank": 306,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85161434195",
+      "title": "Developing a Toolchain for Synthetic Driving Scenario Datasets",
+      "doi": "10.1007/978-3-031-30333-3_29",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": "1036 LNEE",
+      "issue_id": null,
+      "pages": "222-228",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Cossu Marianna; Berta Riccardo; Capello Alessio; De Gloria Alessandro; Lazzaroni Luca; Bellotti Francesco",
+      "author_ids": "57388479100;6701751695;57388720700;7004620974;57220892898;55890888700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Cossu M.",
+      "keywords": "automated driving | CARLA driving simulator | Driving scenarios | driving scenarios generator | synthetic datasets",
+      "abstract": "Formalization of driving scenarios is key to define the operational design domain (ODD) of Automated Driving Functions (ADF). Training machine learning (ML) requires huge datasets, that are costly to produce. We propose a toolchain to generate driving scenario video-clip datasets based on the state-of-the-art CarLA driving simulator engine. Scenarios are randomically generated based on a set of parametric features, that are specified by the user. The variability includes both environmental and scenario-specific aspects. As an initial experiment, we have generated a dataset with 200 samples for each one of the 6 implemented classes. The tool is able to achieve a generation rate of about 130 scenarios (7 s. long each) per hour. The tool includes a verification module, which checks the successful completion of each sample.",
+      "citations": 7,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 20,
+              "rank": 306,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85161373461",
+      "title": "Investigating High-Level Decision Making for Automated Driving",
+      "doi": "10.1007/978-3-031-30333-3_41",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": "1036 LNEE",
+      "issue_id": null,
+      "pages": "307-311",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Capello Alessio; Forneris Luca; Pighetti Alessandro; Bellotti Francesco; Lazzaroni Luca; Cossu Marianna; De Gloria Alessandro; Berta Riccardo",
+      "author_ids": "57388720700;58024898300;58023909200;55890888700;57220892898;57388479100;7004620974;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Capello A.",
+      "keywords": null,
+      "abstract": "As the quality of perception systems available for automated driving (AD) increases, we investigate the development of an AD agent based on Reinforcement Learning which exploits underlying systems for longitudinal and lateral control. The goal is addressed by designing high-level actions, trying to imitate the commands of a real driver. The proposed agent is trained in a simulated motorway environment and compared to an agent which outputs low-level actions. Our preliminary results show similar performance results, a more pronounced human-like behaviour and a huge reduction in needed training time because of the higher-level of the available actions.",
+      "citations": 4,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 20,
+              "rank": 306,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85161371437",
+      "title": "Efficient Uploading of.Csv Datasets into a Non-Relational Database Management System",
+      "doi": "10.1007/978-3-031-30333-3_2",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": "1036 LNEE",
+      "issue_id": null,
+      "pages": "9-15",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Fresta Matteo; Bellotti Francesco; Capello Alessio; Cossu Marianna; Lazzaroni Luca; De Gloria Alessandro; Berta Riccardo",
+      "author_ids": "58308149100;55890888700;57388720700;57388479100;57220892898;7004620974;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Fresta M.",
+      "keywords": null,
+      "abstract": "Measurement-oriented non-relational databases often have a fixed structure schema to better manage and guarantee integrity of their data. However, this leads to a redundancy of field values into the database or does not allow storing most of the existing measurement files. We propose a solution to massively load various format.csv datasets without requiring any user modification of the original file. The core of the solution is given by a key-value pair.json file mapping the database resources to the.csv columns, and adding further context information, if not already present. The solution aims at effectiveness, efficiency and flexibility. The implemented module has been successfully tested in a couple of use cases using existing datasets.",
+      "citations": 7,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 20,
+              "rank": 306,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85151517728",
+      "title": "Explaining a Deep Reinforcement Learning (DRL)-Based Automated Driving Agent in Highway Simulations",
+      "doi": "10.1109/ACCESS.2023.3259544",
+      "venue": "IEEE Access",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "11",
+      "issue_id": null,
+      "pages": "28522-28550",
+      "issn": null,
+      "eIssn": "21693536",
+      "source_id": "21100374601",
+      "authors": "Bellotti Francesco; Lazzaroni Luca; Capello Alessio; Cossu Marianna; De Gloria Alessandro; Berta Riccardo",
+      "author_ids": "55890888700;57220892898;57388720700;57388479100;7004620974;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Bellotti F.",
+      "keywords": "Automated driving | deep Q learning | explainable AI | highway simulation environment | reinforcement learning",
+      "abstract": "As deep learning models have become increasingly complex, it is critical to understand their decision-making, particularly in safety-relevant applications. In order to support a quantitative interpretation of an autonomous agent trained through Deep Reinforcement Learning (DRL) in the highway-env simulation environment, we propose a framework featuring three types of views for analyzing data: (i) episode timeline, (ii) frame by frame, and (iii) aggregated statistical analysis, also including heatmaps for a better spatial understanding. Our methodology allowed a novel, consistent description of the behavior of the agent. The main motivator for the taken action is typically the longitudinal distance from the second-closest and, to a lower extent, third-closest vehicle. In the overtakes, also the agent's position in lanes becomes relevant. The analysis identified interesting patterns and an issue in the last frames of an episode, when the agent is unable to overtake the last two vehicles, arguably because of the lack of reference vehicles ahead. We observed a clear differentiation between attention and SHAP values (estimating the importance of each feature for each decision), reflecting the architecture of the neural network, where the first layer implements the attention mechanism, while the deeper ones make the actual decision. Attention focuses on the proximity of the ego, while the decision is taken on a wider horizon, denoting a valuable anticipation capability. To support research, the proposed framework is released as open source.",
+      "citations": 26,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 88,
+              "rank": 42,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 83,
+              "rank": 41,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 78,
+              "rank": 101,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 92,
+              "rank": 23,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 87,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 83,
+              "rank": 77,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85149937799",
+      "title": "Designing an Interpretability Analysis Framework for Deep Reinforcement Learning (DRL) Agents in Highway Automated Driving Simulation",
+      "doi": "10.1007/978-3-031-26066-7_37",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": "1005 LNEE",
+      "issue_id": null,
+      "pages": "239-244",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Bellotti Francesco; Lazzaroni Luca; Capello Alessio; Cossu Marianna; De Gloria Alessandro; Berta Riccardo",
+      "author_ids": "55890888700;57220892898;57388720700;57388479100;7004620974;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Bellotti F.",
+      "keywords": "Deep reinforcement learning | Explainable artificial intelligence | Graphical user interface | Interpretability | Machine learning",
+      "abstract": "Explainability is a key requirement for users to effectively understand, trust, and manage artificial intelligence applications, especially those concerning safety. We present the design of a framework aimed at supporting a quantitative explanation of the behavioural planning performed in automated driving (AD) highway simulations by a high-level decision making agent trained through deep reinforcement learning (DRL). The framework relies on the computation of SHAP values and keeps into consideration a neural architecture featuring an attention layer. The framework is particularly devoted to study the relationship between attention and interpretability, and how to represent, analyze and compare attention and SHAP values in a 2D spatial highway environment. The framework features three main visualization areas, that are obtained by processing quantities such as attention, SHAP values, vehicular observations: Episode view, plotting quantities on an episode’s timeline; Frame view, reporting the measurement values step by step; Aggregated view, showing, also on 2D maps, statistical values from the aggregation of several simulation episodes. To the best of our knowledge, this is the first in-depth explainability analysis of a DRL-based decision-making AD system, also including a statistical analysis. We hope that the upcoming open source release of the designed framework will be useful to further advance research in the field.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 20,
+              "rank": 306,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85122872651",
+      "title": "Assessing Versatility of a Generic End‐to‐End Platform for IoT Ecosystem Applications",
+      "doi": "10.3390/s22030713",
+      "venue": "Sensors",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "22",
+      "issue_id": "3",
+      "pages": null,
+      "issn": "14248220",
+      "eIssn": null,
+      "source_id": "130124",
+      "authors": "Berta Riccardo; Bellotti Francesco; De Gloria Alessandro; Lazzaroni Luca",
+      "author_ids": "6701751695;55890888700;7004620974;57220892898",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Berta R.",
+      "keywords": "Development tools | Edge computing | Embedded systems and devices | End‐to‐end systems | IoT",
+      "abstract": "Availability of efficient development tools for data‐rich IoT applications is becoming ever more important. Such tools should support cross‐platform deployment and seamless and effective applicability in a variety of domains. In this view, we assessed the versatility of an edge‐to‐cloud system featuring Measurify, a framework for managing smart things. The framework exposes to developers a set of measurement‐oriented resources that can be used in different contexts. The tool has been assessed in the development of end‐to‐end IoT applications in six Electronic and Information Technologies Engineering BSc theses that have highlighted the potential of such a system, both from a didactic and a professional point of view. The main design abstractions of the system (i.e., generic sensor configuration, simple language with chainable operations for processing data on the edge, seamless WiFi/GSM communication) allowed developers to be productive and focus on the application requirements and the high‐level design choices needed to define the edge system (microcontroller and its sensors), avoiding the large set‐up times necessary to start a solution from scratch. The experience also highlighted some usability issues that will be addressed in an upcoming release of the system.",
+      "citations": 15,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 90,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 136,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 85,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 84,
+              "rank": 72,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 82,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 82,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 87,
+              "rank": 18,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 80,
+              "rank": 146,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 77,
+              "rank": 47,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 77,
+              "rank": 32,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 77,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 64,
+              "rank": 151,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85144422837",
+      "title": "A Serious Game for Using Socio-Economic and Trust Based Decision-Making Scenarios for Elicitation of Emotional Responses",
+      "doi": "10.1007/978-3-031-22124-8_5",
+      "venue": "Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "13647 LNCS",
+      "issue_id": null,
+      "pages": "43-52",
+      "issn": "03029743",
+      "eIssn": "16113349",
+      "source_id": "25674",
+      "authors": "Ahmed Fahad; Carrion Jesus Requena; Bellotti Francesco; Lazzaroni Luca; Barresi Giacinto; Berta Riccardo",
+      "author_ids": "57207729073;19639194700;55890888700;57220892898;55877110100;6701751695",
+      "authorAffiliationIds": "60022109-60025153;60022109;60025153;60025153;60102151;60025153",
+      "corresponding": "Ahmed F.",
+      "keywords": "Affective computing | Emotion elicitation | Game theory | Serious games",
+      "abstract": "The relationship between Decision-Making and emotions has been investigated in literature both through theoretical and empirical research. Particularly, some paradigms have been defined, rooted in the Game Theory, that use socio-economic and/or trust based contexts to produce specific emotional responses in people. However, experiments with such game paradigms have most frequently been carried out in controlled settings only. As these methods have a potential usefulness in a variety of areas, we are interested in verifying their applicability “in the wild”. To this end, we have developed a mobile game that integrates in a single plot four of the above mentioned socio-economic and trust-based game paradigms and aims at eliciting specific types and valences of emotions in different interactions. The paper discusses the outcomes of an experiment we carried out with eight participants in order to preliminarily test the usability of our game in authentic contexts of use. The results confirm that the designed game interactions are able to elicit emotional responses in the participants, also in ecological settings, that were expected based on the literature.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 48,
+              "rank": 70,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 46,
+              "rank": 129,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 46,
+              "rank": 126,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 34,
+              "rank": 84,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85144372798",
+      "title": "High-Level Decision-Making Non-player Vehicles",
+      "doi": "10.1007/978-3-031-22124-8_22",
+      "venue": "Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "13647 LNCS",
+      "issue_id": null,
+      "pages": "223-233",
+      "issn": "03029743",
+      "eIssn": "16113349",
+      "source_id": "25674",
+      "authors": "Pighetti Alessandro; Forneris Luca; Lazzaroni Luca; Bellotti Francesco; Capello Alessio; Cossu Marianna; De Gloria Alessandro; Berta Riccardo",
+      "author_ids": "58023909200;58024898300;57220892898;55890888700;57388720700;57388479100;7004620974;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Pighetti A.",
+      "keywords": "ADAS | Automotive driving | Autonomous agents | Driving games | PPO | Racing games | Reinforcement learning | Serious games",
+      "abstract": "Availability of realistic driver models, also able to represent various driving styles, is key to add traffic in serious games on automotive driving. We propose a new architecture for behavioural planning of vehicles, that decide their motion taking high-level decisions, such as “keep lane”, “overtake” and “go to rightmost lane”. This is similar to a driver’s high-level reasoning and takes into account the availability of ever more sophisticated Advanced Driving Assistance Systems (ADAS) in current vehicles. Compared to a low-level decision making system, our model performs better both in terms of safety and average speed. As a significant advantage, the hierarchical approach allows to reduce the number of training steps, which is critical for ML models, by more than one order of magnitude. The developed agent seems to show a more realistic behaviour. We also showed feasibility of training models able to differentiate their performance in a way similar to the driving styles. We believe that such agents could be profitably employed in state of the art SGs for driving, improving the realism of single NPVs and overall traffic.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 48,
+              "rank": 70,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 46,
+              "rank": 129,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 46,
+              "rank": 126,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 34,
+              "rank": 84,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85128751579",
+      "title": "Developing a Synthetic Dataset for Driving Scenarios",
+      "doi": "10.1007/978-3-030-95498-7_43",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "866 LNEE",
+      "issue_id": null,
+      "pages": "310-316",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Motta Jacopo; Bellotti Francesco; Berta Riccardo; Capello Alessio; Cossu Marianna; De Gloria Alessandro; Lazzaroni Luca; Bonora Stefano",
+      "author_ids": "58708511900;55890888700;6701751695;57388720700;57388479100;7004620974;57220892898;57612714400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Motta J.",
+      "keywords": "Automated driving | CARLA driving simulator | Deep learning | Driving scenarios | Synthetic datasets | Video classification",
+      "abstract": "Driving scenarios detection is an important aspect of the development of automated driving functions (ADF). Given the lack of publicly available datasets with driving scenario labels, we designed a toolchain for generating synthetic video datasets of driving scenarios, based on the OpenSCENARIO format, a well-established, public and vendor-independent standard. The experience reported in this paper shows the feasibility of a full end-to-end implementation of a workflow allowing designers to quickly create datasets for pre-training machine learning models. Video clips are recorded through a driving simulator which runs different sessions implementing variations of a pre-defined set of driving scenarios. The user specifies through a configuration file each parameter value range (e.g., vehicle speed, distance, weather conditions) that represent the intended variability within each scenario. Preliminary results show effectiveness of the approach and indicate directions on how to improve the system and reduce the need for human intervention in post-production.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 17,
+              "rank": 295,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85128735875",
+      "title": "Classifying Simulated Driving Scenarios from Automated Cars",
+      "doi": "10.1007/978-3-030-95498-7_32",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "866 LNEE",
+      "issue_id": null,
+      "pages": "229-235",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Cossu Marianna; Villon Jorge Leonardo Quimi; Bellotti Francesco; Capello Alessio; De Gloria Alessandro; Lazzaroni Luca; Berta Riccardo",
+      "author_ids": "57388479100;57612049500;55890888700;57388720700;7004620974;57220892898;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Cossu M.",
+      "keywords": "Automated driving | CarLA driving simulator | Convolutional neural network | Deep learning | Spatio-temporal convolution | Three-dimensional convolution | Time-series | Video classification",
+      "abstract": "Detection of driving scenarios is getting ever more importance for assessment and control of automated driving functions. This paper investigates the performance of two versions of a high-end 3D convolutional network for scenario classification. The first one uses fully 3D kernels, the second one separates, in each constituting block, the 2D spatial convolution from the temporal convolution, (2 + 1)D. We made the tests on a synthetic dataset created by specifying scenarios in OpenScenario and running them in the CarLA 3D simulator. We focused our analysis on three main performance profiles: at different frame per second rates, different video clip lengths, and different weather conditions. Results show an overall robustness of the 3D predictors, and seem to suggest two different use cases: (2 + 1)D looks more suited when the scenario changes quickly or a low latency is required, while the plain 3D solution is better for slow-changing scenarios and when FPS can be low.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 17,
+              "rank": 295,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85121903622",
+      "title": "Adapting Autonomous Agents for Automotive Driving Games",
+      "doi": "10.1007/978-3-030-92182-8_10",
+      "venue": "Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": "13134 LNCS",
+      "issue_id": null,
+      "pages": "101-110",
+      "issn": "03029743",
+      "eIssn": "16113349",
+      "source_id": "25674",
+      "authors": "Campodonico Gabriele; Bellotti Francesco; Berta Riccardo; Capello Alessio; Cossu Marianna; De Gloria Alessandro; Lazzaroni Luca; Taccioli Tommaso; Davio Federico",
+      "author_ids": "57388399300;55890888700;6701751695;57388720700;57388479100;7004620974;57220892898;57388797900;57388317900",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Campodonico G.",
+      "keywords": "Automotive driving | Autonomous agents | Deep Q learning | Metrics | Reinforcement learning | Rewards and penalties | Serious games | Stable baselines",
+      "abstract": "This article investigates the feasibility of implementing a reinforcement learning agent able to plan the trajectory of a simple automated vehicle 2D model in a motorway simulation. The goal is to use it to implement a non-player vehicle in serious games for driving. The agent extends a Deep Q Learning agent developed by Eduard Leurent in Stable Baselines by adding rewards in order to better meet the traffic laws. The motorway environment was enhanced as well, in order to increase realism. A multilayer perceptron model, processing cinematic inputs from the ego and other vehicles, was tested in different traffic conditions and outperformed the original model and other policies such as a heuristic and a minimal-reward one. Our experience stresses the importance of defining episode metrics to assess agent behavior, keeping into accounts factors related to safety (e.g., keeping a safe time to collision) and consumption (e.g., limiting accelerations and decelerations). This is key to define rewards and penalties able to properly train the model to meet the traffic laws while keeping a high-speed performance.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 48,
+              "rank": 70,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 46,
+              "rank": 129,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 50,
+              "rank": 114,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 36,
+              "rank": 78,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85101757952",
+      "title": "Edgine, A Runtime System for IoT Edge Applications",
+      "doi": "10.1007/978-3-030-66729-0_31",
+      "venue": "Lecture Notes in Electrical Engineering",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": "738",
+      "issue_id": null,
+      "pages": "261-266",
+      "issn": "18761100",
+      "eIssn": "18761119",
+      "source_id": "19700186822",
+      "authors": "Berta Riccardo; Mazzara Andrea; Bellotti Francesco; De Gloria Alessandro; Lazzaroni Luca",
+      "author_ids": "6701751695;57220898093;55890888700;7004620974;57220892898",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Berta R.",
+      "keywords": "Arduino | Development tools | Edge computing | IoT | Platform-independence",
+      "abstract": "The diffusion of Internet of Things (IoT) technologies has paved the way to new applications and services. In this context, developers need tools for efficient design and implementation. This paper proposes Edgine (Edge engine), a cross-platform open-source edge computing system. The system is the edge computing extension of Measurify, a cloud Application Programming Interface (API) dedicated to the collection and processing of measurements from the field. Particularly, Edgine can be remotely programmed to perform various kinds of processing on the field sensors’ data streams, thus allowing optimizing resource utilization, and reducing latency, bandwidth, transmission energy and computational burden on the cloud side. This paper presents three simple application cases that show effectiveness and versatility of the tool. To the best of our knowledge this is the first end-to-end development system dedicated to IoT measurements, open source, programmable on both the edge and cloud side, platform independent and non-cloud-vendor locked.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 19,
+              "rank": 330,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 17,
+              "rank": 280,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85097806513",
+      "title": "Employing an IoT Framework as a Generic Serious Games Analytics Engine",
+      "doi": "10.1007/978-3-030-63464-3_8",
+      "venue": "Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": "12517 LNCS",
+      "issue_id": null,
+      "pages": "79-88",
+      "issn": "03029743",
+      "eIssn": "16113349",
+      "source_id": "25674",
+      "authors": "Lazzaroni Luca; Mazzara Andrea; Bellotti Francesco; De Gloria Alessandro; Berta Riccardo",
+      "author_ids": "57220892898;57220898093;55890888700;7004620974;6701751695",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Lazzaroni L.",
+      "keywords": "Game development | Game engine plug-in | Internet of Things | Reality-enhanced games | System architecture | Virtual sensors",
+      "abstract": "This paper proposes the use of a new data toolchain for serious games analytics. The toolchain relies on the open source Measurify Internet of Things (IoT) framework, and particularly takes advantage of its edge computing extension (namely, Edgine), which can be seamlessly deployed cross-platform on embedded devices and PCs as well. The Edgine is programmed to download from Measurify a set of scripts, that are periodically executed so to get data from sensors, pre-process them and send the extracted information to the Measurify APIs. Virtual sensors can be built in game engine scripts. This paper describes the implementation of the plug-in which deploys Edgine in Unity 3D, allowing an easy delivery of virtual sensor information to Measurify. Just as a proof of concept, we present the utilization of the whole chain within a trivial game scene, showing the application development efficiency provided by a tool which is made available open source to researchers and developers.",
+      "citations": 10,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 48,
+              "rank": 70,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 46,
+              "rank": 129,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 50,
+              "rank": 113,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 24,
+              "rank": 91,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1274016",
+      "authors": "Cossu, M.; Berta, R.; Bagheri Orumi, M. A.; Lazzaroni, L.; Sauvaget, J. -L.; Touil, H.; Bellotti, F.",
+      "legacy_id": 671338,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Comparing Detection-Based and Motion-Based Preprocessing of Video Frames for Automated Driving Scenario Detection",
+      "scopus_id": "2-s2.0-105000819117",
+      "doi": "10.1007/978-3-031-84100-2_30",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1274017",
+      "authors": "Lazzaroni, L.; Dabbous, A.; Nardello, M.; Lebdeh, M. A.; Berta, R.; Yildirim, K. S.; Bellotti, F.; Brunelli, D.",
+      "legacy_id": 671337,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Green Machine Learning for the IoT (GEMINI): A Position Paper",
+      "scopus_id": "2-s2.0-105000824025",
+      "doi": "10.1007/978-3-031-84100-2_40",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273979",
+      "authors": "Ballout, H.; Berta, R.; Dabbous, A.; Fresta, M.; Lazzaroni, L.; Pighetti, A.; Bellotti, F.",
+      "legacy_id": 671342,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Performance Comparison of YOLOv8 and YOLOv10 for Traffic Light Detection on a Jetson Nano Board",
+      "scopus_id": "2-s2.0-105000828654",
+      "doi": "10.1007/978-3-031-84100-2_29",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1274020",
+      "authors": "Dabbous, A.; Lazzaroni, L.; Sakr, F.; Berta, R.; Fresta, M.; Bellotti, F.",
+      "legacy_id": 671335,
+      "year": 2025,
+      "miur_type": "268",
+      "title": "Binary Neural Networks for Real-Time Structural Health Monitoring on Edge Devices",
+      "scopus_id": "2-s2.0-105006570576",
+      "doi": "10.1109/ICCE63647.2025.10930047",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273997",
+      "authors": "Capello, A.; Berta, R.; Fresta, M.; Lazzaroni, L.; Bellotti, F.",
+      "legacy_id": 671340,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Leveraging Neural Architecture Search for Structural Health Monitoring on Resource-Constrained Devices",
+      "scopus_id": "2-s2.0-105000828216",
+      "doi": "10.1007/978-3-031-84100-2_38",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1274019",
+      "authors": "Forneris, L.; Bellotti, F.; Berta, R.; Lazzaroni, L.; Oh, C.",
+      "legacy_id": 671336,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Exploring Decision Transformer for Highway Automated Driving",
+      "scopus_id": "2-s2.0-105000831674",
+      "doi": "10.1007/978-3-031-84100-2_15",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273999",
+      "authors": "Ballout, H.; Berta, R.; Bochenko, I.; Lazzaroni, L.; Dhonthi, A.; Hashemi, V.; Bellotti, F.",
+      "legacy_id": 671339,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Runtime Input Monitoring of a Reinforcement Learning-Based Agent for Automated Car Parking",
+      "scopus_id": "2-s2.0-105000832063",
+      "doi": "10.1007/978-3-031-84100-2_46",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273976",
+      "authors": "Dabbous, A.; Berta, R.; Lazzaroni, L.; Pighetti, A.; Bellotti, F.",
+      "legacy_id": 671343,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Benchmarking Microcontrollers with Ultra-Low Resolution Images Classification",
+      "scopus_id": "2-s2.0-105000819772",
+      "doi": "10.1007/978-3-031-84100-2_28",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273996",
+      "authors": "Lazzaroni, L.; Bellotti, F.; Dabbous, A.; Pighetti, A.; Berta, R.",
+      "legacy_id": 671341,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Quantization of MobileNetV2 for Resource-Constrained Microcontrollers",
+      "scopus_id": "2-s2.0-105000833272",
+      "doi": "10.1007/978-3-031-84100-2_59",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1274641",
+      "authors": "Forneris, Luca; Bellotti, Francesco; Berta, Riccardo; Cossu, Marianna; Fresta, Matteo; Rezaieamale, Raziye; Rojhan, Hadise; Soltanmuradov, Vafali; Tango, Fabio; Lazzaroni, Luca",
+      "legacy_id": 672211,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Setting Up a Lightweight Simulation Environment for Automated Driving Dataset Collection",
+      "scopus_id": "2-s2.0-105000824318",
+      "doi": "10.1007/978-3-031-84100-2_19",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1274640",
+      "authors": "Bellotti, Francesco; Berta, Riccardo; Soltanmuradov, Vafali; Gómez, David Martín; Dhonthi, Akshay; Hashemi, Vahid; Lazzaroni, Luca",
+      "legacy_id": 672210,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Robustness Verification of a Reinforcement Learning-Based Agent for Automated Car Parking",
+      "scopus_id": "2-s2.0-105000829693",
+      "doi": "10.1007/978-3-031-84100-2_17",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1239055",
+      "authors": "Dabbous, A.; Lazzaroni, L.; Bellotti, F.; Presentacion, S. M.; Pighetti, A.; Berta, R.",
+      "legacy_id": 628267,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "TinyML Acceleration with MAX78000",
+      "scopus_id": "2-s2.0-85215954123",
+      "doi": "10.1007/978-3-031-71518-1_57",
+      "isi_id": "WOS:001450720500057",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273966",
+      "authors": "Fresta, M.; Bellotti, F.; Lazzaroni, L.; Ballout, H.; Pighetti, A.; Ameneiro-Prieto, O.; Porta-Lorenzo, M.; Sanchez-Louzan, D.; Gonzalez-Escudeiro, C.; Tango, F.; Berta, R.",
+      "legacy_id": 671344,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "On-Board Deployability of a Deep Learning-Based System for Distraction and Inattention Detection",
+      "scopus_id": "2-s2.0-105013975172",
+      "doi": "10.1109/OJIES.2025.3601982",
+      "isi_id": "WOS:001566916000003",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1238975",
+      "authors": "Fresta, Matteo; Bellotti, Francesco; Bochenko, Igor; Lazzaroni, Luca; Merlhiot, Gaëtan; Tango, Fabio; Berta, Riccardo",
+      "legacy_id": 628167,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Deep Learning-Based Real-Time Driver Cognitive Distraction Detection",
+      "scopus_id": "2-s2.0-85217496091",
+      "doi": "10.1109/ACCESS.2025.3539392",
+      "isi_id": "WOS:001422050900005",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1274756",
+      "authors": "Lazzaroni, Luca; Bellotti, Francesco; Pighetti, Alessandro; Forneris, Luca; Fresta, Matteo; Ballout, Hadi; Oh, Changjae; Pantawane, Sanwardhini; Berta, Riccardo",
+      "legacy_id": 671834,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "An Embedded System Architecture for Robust Deep Learning-based Traffic Light Detection",
+      "doi": "10.1109/JSEN.2025.3627477",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273961",
+      "authors": "Berta, R.; Bellotti, F.; Cossu, M.; Forneris, L.; Lazzaroni, L.; Pighetti, A.",
+      "legacy_id": 671334,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "RL-Based Generation of a Synthetic Automotive Driving Scenario Dataset",
+      "scopus_id": "2-s2.0-105000819817",
+      "doi": "10.1007/978-3-031-84100-2_47",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1274021",
+      "authors": "Pighetti, A.; Bellotti, F.; Berta, R.; Cavallaro, A.; Lazzaroni, L.; Oh, C.",
+      "legacy_id": 661474,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "RAFT: Regularized Adversarial Fine-Tuning to Enhance Deep Reinforcement Learning for Self-Parking",
+      "scopus_id": "2-s2.0-105013891403",
+      "doi": "10.1109/LSENS.2025.3600982",
+      "isi_id": "WOS:001566915200005",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1216983",
+      "authors": "Lazzaroni, L.; Bellotti, F.; Berta, R.",
+      "legacy_id": 595197,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "An embedded end-to-end voice assistant",
+      "scopus_id": "2-s2.0-85199072751",
+      "doi": "10.1016/j.engappai.2024.108998",
+      "isi_id": "WOS:001275638700001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "12"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1163918",
+      "authors": "Cossu, M.; Berta, R.; Forneris, L.; Fresta, M.; Lazzaroni, L.; Sauvaget, J. -L.; Bellotti, F.",
+      "legacy_id": 532272,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "YoloP-Based Pre-processing for Driving Scenario Detection",
+      "scopus_id": "2-s2.0-85184100845",
+      "doi": "10.1007/978-3-031-48121-5_60",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1163919",
+      "authors": "Fresta, M.; Dabbous, A.; Bellotti, F.; Capello, A.; Lazzaroni, L.; Pighetti, A.; Berta, R.",
+      "legacy_id": 532271,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Low-Cost, Edge-Cloud, End-to-End System Architecture for Human Activity Data Collection",
+      "scopus_id": "2-s2.0-85184120578",
+      "doi": "10.1007/978-3-031-48121-5_64",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1164036",
+      "authors": "Lazzaroni, L.; Pighetti, A.; Bellotti, F.; Berta, R.",
+      "legacy_id": 532305,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Building a Pipeline for Efficient Production of Synthetic Datasets for Improving RL in Automated Driving",
+      "scopus_id": "2-s2.0-85180156595",
+      "doi": "10.1007/978-3-031-48711-8_42",
+      "isi_id": "WOS:001455978800042",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220877",
+      "authors": "Berta, R.; Lazzaroni, L.; Capello, A.; Cossu, M.; Forneris, L.; Pighetti, A.; Bellotti, F.",
+      "legacy_id": 599568,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Development of Deep-Learning-Based Autonomous Agents for Low-Speed Maneuvering in Unity",
+      "scopus_id": "2-s2.0-85206460853",
+      "doi": "10.26599/JICV.2023.9210039",
+      "isi_id": "WOS:001390213800006",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1163956",
+      "authors": "Ahmed, F.; Berta, R.; Bellotti, F.; Floris, F.; Lazzaroni, L.; Barresi, G.; Carrion, J. R.",
+      "legacy_id": 532286,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Application of a Serious Game for Emotion Elicitation Under Socio-Economic and Trust Based Decision-Making Scenarios for Autistic Adolescents",
+      "scopus_id": "2-s2.0-85180150546",
+      "doi": "10.1007/978-3-031-49065-1_17",
+      "isi_id": "WOS:001148163700017",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1189455",
+      "authors": "Fresta, Matteo; Bellotti, Francesco; Capello, Alessio; Dabbous, Ali; Lazzaroni, Luca; Ansovini, Flavio; Berta, Riccardo",
+      "legacy_id": 567806,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "End-to-End Dataset Collection System for Sport Activities",
+      "scopus_id": "2-s2.0-85190091988",
+      "doi": "10.3390/electronics13071286",
+      "isi_id": "WOS:001200933700001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1216981",
+      "authors": "Dabbous, A.; Berta, R.; Fresta, M.; Ballout, H.; Lazzaroni, L.; Bellotti, F.",
+      "legacy_id": 595170,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Bringing Intelligence to the Edge for Structural Health Monitoring: The Case Study of the Z24 Bridge",
+      "scopus_id": "2-s2.0-85199496894",
+      "doi": "10.1109/OJIES.2024.3434341",
+      "isi_id": "WOS:001286808200001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "10"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1164095",
+      "authors": "Lazzaroni, Luca",
+      "ssd": "Settore ING-INF/01 - Elettronica",
+      "legacy_id": 532505,
+      "year": 2024,
+      "miur_type": "-2",
+      "title": "The Facets of Edge AI in Automotive: Exploring Embedded Frameworks, Voice Assistants, and Deep Reinforcement Learning",
+      "doi": "10.15167/lazzaroni-luca_phd2024-03-14",
+      "type": "Tesi di dottorato"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1216980",
+      "authors": "Berta, Riccardo; Dabbous, Ali; Lazzaroni, Luca; Pietro Pau, Danilo; Bellotti, Francesco",
+      "legacy_id": 595169,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Developing a TinyML Image Classifier in an Hour",
+      "scopus_id": "2-s2.0-85202787351",
+      "doi": "10.1109/OJIES.2024.3451959",
+      "isi_id": "WOS:001316189900001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "10"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1189456",
+      "authors": "Sakr, F.; Berta, R.; Doyle, J.; Capello, A.; Dabbous, A.; Lazzaroni, L.; Bellotti, F.",
+      "legacy_id": 567807,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "CBin-NN: An Inference Engine for Binarized Neural Networks",
+      "scopus_id": "2-s2.0-85192745343",
+      "doi": "10.3390/electronics13091624",
+      "isi_id": "WOS:001219788700001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "15"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1163917",
+      "authors": "Lazzaroni, Luca; Pighetti, Alessandro; Bellotti, Francesco; Capello, Alessio; Cossu, Marianna; Berta, Riccardo",
+      "legacy_id": 532267,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Automated Parking in CARLA: A Deep Reinforcement Learning-Based Approach",
+      "scopus_id": "2-s2.0-85184134805",
+      "doi": "10.1007/978-3-031-48121-5_50",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "10"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1163922",
+      "authors": "Pighetti, A.; Bellotti, F.; Oh, C.; Lazzaroni, L.; Forneris, L.; Fresta, M.; Berta, R.",
+      "legacy_id": 532270,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Investigating Adversarial Policy Learning for Robust Agents in Automated Driving Highway Simulations",
+      "scopus_id": "2-s2.0-85184090716",
+      "doi": "10.1007/978-3-031-48121-5_18",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1142300",
+      "authors": "Fresta, M.; Bellotti, F.; Capello, A.; Cossu, M.; Lazzaroni, L.; De Gloria, A.; Berta, R.",
+      "legacy_id": 502515,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Efficient Uploading of.Csv Datasets into a Non-Relational Database Management System",
+      "scopus_id": "2-s2.0-85161371437",
+      "doi": "10.1007/978-3-031-30333-3_2",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1142303",
+      "authors": "Bellotti, F.; Lazzaroni, L.; Capello, A.; Cossu, M.; De Gloria, A.; Berta, R.",
+      "legacy_id": 502518,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Designing an Interpretability Analysis Framework for Deep Reinforcement Learning (DRL) Agents in Highway Automated Driving Simulation",
+      "scopus_id": "2-s2.0-85149937799",
+      "doi": "10.1007/978-3-031-26066-7_37",
+      "isi_id": "WOS:001455992200037",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1156238",
+      "authors": "Fresta, M.; Capello, A.; Bellotti, F.; Lazzaroni, L.; Cossu, M.; Berta, R.",
+      "legacy_id": 521174,
+      "year": 2023,
+      "miur_type": "268",
+      "title": "Supporting a .csv-based Workflow in MongoDB for Data Analysts",
+      "scopus_id": "2-s2.0-85172117910",
+      "doi": "10.1109/ISIE51358.2023.10228044",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1142119",
+      "authors": "Ahmed, F.; Berta, R.; Bellotti, Francesco; Lazzaroni, L.; Floris, F.; Barresi, G.; Carrion, J. R.",
+      "legacy_id": 502312,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Socio-Economic Decision Making and Emotion Elicitation with a Serious Game in the Wild",
+      "scopus_id": "2-s2.0-85163083962",
+      "doi": "10.3390/app13116432",
+      "isi_id": "WOS:001005872700001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1142302",
+      "authors": "Bellotti, F.; Lazzaroni, L.; Capello, A.; Cossu, M.; De Gloria, A.; Berta, R.",
+      "legacy_id": 502517,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Explaining a Deep Reinforcement Learning (DRL)-Based Automated Driving Agent in Highway Simulations",
+      "scopus_id": "2-s2.0-85151517728",
+      "doi": "10.1109/ACCESS.2023.3259544",
+      "isi_id": "WOS:000966402700001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "10",
+      "citations_scopus": "26"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1142297",
+      "authors": "Lazzaroni, L.; Bellotti, F.; Capello, A.; Cossu, M.; De Gloria, A.; Berta, R.",
+      "legacy_id": 502512,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Deep Reinforcement Learning for Automated Car Parking",
+      "scopus_id": "2-s2.0-85161446238",
+      "doi": "10.1007/978-3-031-30333-3_16",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1142299",
+      "authors": "Capello, A.; Forneris, L.; Pighetti, A.; Bellotti, F.; Lazzaroni, L.; Cossu, M.; De Gloria, A.; Berta, R.",
+      "legacy_id": 502514,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Investigating High-Level Decision Making for Automated Driving",
+      "scopus_id": "2-s2.0-85161373461",
+      "doi": "10.1007/978-3-031-30333-3_41",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1156215",
+      "authors": "Forneris, Luca; Pighetti, Alessandro; Lazzaroni, Luca; Bellotti, Francesco; Capello, Alessio; Cossu, Marianna; Berta, Riccardo",
+      "legacy_id": 521166,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Implementing Deep Reinforcement Learning (DRL)-based Driving Styles for Non-Player Vehicles",
+      "scopus_id": "2-s2.0-85178119519",
+      "doi": "10.17083/ijsg.v10i4.638",
+      "isi_id": "WOS:001111368500009",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "8",
+      "citations_scopus": "10"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1142298",
+      "authors": "Cossu, M.; Berta, R.; Capello, A.; De Gloria, A.; Lazzaroni, L.; Bellotti, F.",
+      "legacy_id": 502513,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Developing a Toolchain for Synthetic Driving Scenario Datasets",
+      "scopus_id": "2-s2.0-85161434195",
+      "doi": "10.1007/978-3-031-30333-3_29",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1106258",
+      "authors": "Pighetti, A.; Forneris, L.; Lazzaroni, L.; Bellotti, F.; Capello, A.; Cossu, M.; De Gloria, A.; Berta, R.",
+      "legacy_id": 452649,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "High-Level Decision-Making Non-player Vehicles",
+      "scopus_id": "2-s2.0-85144372798",
+      "doi": "10.1007/978-3-031-22124-8_22",
+      "isi_id": "WOS:000922049800022",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1069288",
+      "authors": "Berta, R.; Bellotti, F.; De Gloria, A.; Lazzaroni, L.",
+      "legacy_id": 405120,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Assessing Versatility of a Generic End‐to‐End Platform for IoT Ecosystem Applications",
+      "scopus_id": "2-s2.0-85122872651",
+      "doi": "10.3390/s22030713",
+      "isi_id": "WOS:000754536000001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "9",
+      "citations_scopus": "15"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1106080",
+      "authors": "Ahmed, Fahad; Requena Carrion, Jesus; Bellotti, Francesco; Lazzaroni, Luca; Barresi, Giacinto; Berta, Riccardo",
+      "legacy_id": 445803,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "A Serious Game for Using Socio-Economic and Trust Based Decision-Making Scenarios for Elicitation of Emotional Responses",
+      "scopus_id": "2-s2.0-85144422837",
+      "doi": "10.1007/978-3-031-22124-8_5",
+      "isi_id": "WOS:000922049800005",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1094515",
+      "authors": "Motta, J.; Bellotti, F.; Berta, R.; Capello, A.; Cossu, M.; De Gloria, A.; Lazzaroni, L.; Bonora, S.",
+      "legacy_id": 433874,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Developing a Synthetic Dataset for Driving Scenarios",
+      "scopus_id": "2-s2.0-85128751579",
+      "doi": "10.1007/978-3-030-95498-7_43",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1094516",
+      "authors": "Cossu, M.; Villon, J. L. Q.; Bellotti, F.; Capello, A.; De Gloria, A.; Lazzaroni, L.; Berta, R.",
+      "legacy_id": 433875,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Classifying Simulated Driving Scenarios from Automated Cars",
+      "scopus_id": "2-s2.0-85128735875",
+      "doi": "10.1007/978-3-030-95498-7_32",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1094517",
+      "authors": "Campodonico, G.; Bellotti, F.; Berta, R.; Capello, A.; Cossu, M.; De Gloria, A.; Lazzaroni, L.; Taccioli, T.; Davio, F.",
+      "legacy_id": 433876,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "Adapting Autonomous Agents for Automotive Driving Games",
+      "scopus_id": "2-s2.0-85121903622",
+      "doi": "10.1007/978-3-030-92182-8_10",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1055342",
+      "authors": "Berta, R.; Mazzara, A.; Bellotti, F.; De Gloria, A.; Lazzaroni, L.",
+      "legacy_id": 389560,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "Edgine, A Runtime System for IoT Edge Applications",
+      "scopus_id": "2-s2.0-85101757952",
+      "doi": "10.1007/978-3-030-66729-0_31",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1055350",
+      "authors": "Lazzaroni, L.; Mazzara, A.; Bellotti, F.; De Gloria, A.; Berta, R.",
+      "legacy_id": 389569,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "Employing an IoT Framework as a Generic Serious Games Analytics Engine",
+      "scopus_id": "2-s2.0-85097806513",
+      "doi": "10.1007/978-3-030-63464-3_8",
+      "isi_id": "WOS:001548090600008",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "8",
+      "citations_scopus": "10"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:16:33.664141"
+}

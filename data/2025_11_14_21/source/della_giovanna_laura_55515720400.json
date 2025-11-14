@@ -1,0 +1,1321 @@
+{
+  "surname": "Della Giovanna",
+  "name": "Laura",
+  "unit": "ELE",
+  "email": "laura.dellagiovanna@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/V0pDW15r",
+  "website": "",
+  "unige_id": "294042",
+  "scopus_id": "55515720400",
+  "role": "Ricercatore",
+  "grade": "Ricercatore t.d. art. 24 c. 3 lett. A Legge 240/10 (t.pieno)",
+  "ssd": "IIND-08/A (Convertitori, macchine e azionamenti elettrici)",
+  "location": [
+    {
+      "building": "Opera Pia - padiglione D (ED_161450401)",
+      "floor": "1° piano",
+      "room": "US_161450401.I.023"
+    }
+  ],
+  "career": [
+    {
+      "role": "AR",
+      "from": "2015-01-02 00:00:00.0000000",
+      "to": "2016-05-01 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2023-06-01 00:00:00.0000000",
+      "to": "2026-05-31 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {
+    "2025": [
+      {
+        "course": "COSTRUZIONE E DIAGNOSTICA DEI COMPONENTI ELETTROMECCANICI (86833)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "ELECTRIC MACHINES AND MAINTENANCE (101140)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2024": [
+      {
+        "course": "COSTRUZIONE E DIAGNOSTICA DEI COMPONENTI ELETTROMECCANICI (86833)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "ELECTRIC MACHINES AND MAINTENANCE (101140)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2023": [
+      {
+        "course": "COSTRUZIONE E DIAGNOSTICA DEI COMPONENTI ELETTROMECCANICI (86833)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "ELECTRIC MACHINES AND MAINTENANCE (101140)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 4,
+      "total_products": 22,
+      "journals": 4,
+      "conferences": 18,
+      "citations": 60,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 4,
+      "total_products": 22,
+      "journals": 4,
+      "conferences": 18,
+      "citations": 60,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 4,
+      "total_products": 13,
+      "journals": 4,
+      "conferences": 9,
+      "citations": 33,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 1,
+      "total_products": 7,
+      "journals": 3,
+      "conferences": 4,
+      "citations": 2,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-85204938095",
+      "title": "Partial Discharge Inception Voltage Monitoring of Enameled Wires under Thermal Stress over Time",
+      "doi": "10.3390/en17184578",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "17",
+      "issue_id": "18",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Khan Ishtiaq; Guastavino Francesco; Della Giovanna Laura; Torello Eugenia",
+      "author_ids": "58900081000;7006692709;55515720400;6701506640",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Khan I.",
+      "keywords": "electrical aging | electrical insulation | nano-filler enamel | partial discharge inception voltage",
+      "abstract": "Electrical insulation is a critical component in electrical machines. The performance of the insulation system can be adversely affected by operating conditions that induce aging. Assessing the impact of environmental stresses is essential for predicting the failure of electrical insulation. Predicting maintenance to prevent service interruptions caused by insulation breakdown is a key objective. For type I insulating systems used in low-voltage and low-power rotating electrical machines, it has been demonstrated that partial discharges (PDs) are a contributing factor to electrical insulation breakdown. In fact, these insulating systems are not able to withstand the action of PD activity. The inception and evolution of PD activity is an indication of the poor conditions of the electrical insulating system, and this activity can be produced by the electronic power supply. The progressive reduction in partial discharge inception voltage (PDIV) is attributed to the deterioration of insulation properties induced by operational stresses. This study aims to evaluate and compare the effects of thermal stress on various types of enameled wires by collecting the PDIV values over time. In this paper, the authors analyze some particular effects of thermal stress as an aging factor. During the tests, an electrical stress was applied, which acted as a conditioning stress rather than one capable of producing degradation phenomena, as it was not high enough to initiate PD activity. In this research study, twisted pairs prepared from copper wires were evaluated. These wires were coated with various types of enamel and belonged to the thermal class of 200 °C. The samples were subjected to thermal aging tests at different temperatures. An electrical conditioning stress was also applied during all the tests and pertained to the same voltage, amplitude and frequency. The PDIV value pertaining to each sample was regularly measured to monitor its evolution over time.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 90,
+              "rank": 15,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 85,
+              "rank": 39,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 82,
+              "rank": 173,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 75,
+              "rank": 73,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 71,
+              "rank": 38,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 68,
+              "rank": 32,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 105,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85182944471",
+      "title": "Effects of a DC Offset on Lifetime and PD Activity during AC Aging Tests on Enameled Twisted Pairs",
+      "doi": "10.1109/TDEI.2024.3353704",
+      "venue": "IEEE Transactions on Dielectrics and Electrical Insulation",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "31",
+      "issue_id": "3",
+      "pages": "1533-1540",
+      "issn": "10709878",
+      "eIssn": "15584135",
+      "source_id": "17343",
+      "authors": "Guastavino F.; Giovanna L. Della; Gallesi F.; Torello E.",
+      "author_ids": "7006692709;55515720400;57215699439;6701506640",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Guastavino F.",
+      "keywords": "Aging | electrical insulation | HVdc | lifetime estimation | partial discharges (PDs) | wire",
+      "abstract": "The insulating systems are one of the most important parts for the proper operation of the electrical devices and can be subject to deterioration due to several phenomena like partial discharges (PDs). Nowadays, due to the increasing presence of the power electronic devices, there is an interest in studies relevant to the PD activity not only in the presence of pure sinusoidal voltage waveforms but also when a dc component is added as a result of electronic ac/dc conversions or floating potential operations. This work is focused on aging tests on twisted pairs specimens applying pure ac or ac + dc waveforms. The test voltage waveforms are applied to twisted pairs specimens until the total breakdown, assumed as end life criterion, is reached defining the life curves both in ac and ac + dc cases. During the aging, PDs are acquired, and it is possible to compute derived quantities useful to define a predictive model of the residual specimen lifetime. For what it concerns the presence of an overlapped dc component, the obtained results suggest that, considering the conditions imposed in this study, no remarkable changes in the aging phenomena and in the measured PD activity are identified.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 79,
+              "rank": 204,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 77,
+              "rank": 219,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85205935562",
+      "title": "Transient Earth Voltage Sensor Measurements as a Nonintrusive Tool for Partial Discharge Analysis in Switchgears",
+      "doi": "10.1109/TDEI.2024.3470755",
+      "venue": "IEEE Transactions on Dielectrics and Electrical Insulation",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "31",
+      "issue_id": "6",
+      "pages": "2930-2937",
+      "issn": "10709878",
+      "eIssn": "15584135",
+      "source_id": "17343",
+      "authors": "Guastavino F.; Giovanna L. Della; Gallesi F.; Torello E.",
+      "author_ids": "7006692709;55515720400;57215699439;6701506640",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Guastavino F.",
+      "keywords": "Partial discharge (PD) measurement | PDs | switchgear | transient earth voltage (TEV) sensor",
+      "abstract": "Partial discharges (PDs) are a major cause of electrical stress and insulation failure, but their presence is also a symptom of insulation problems. Online PDs measurement allows for continuous monitoring of the insulation system. An online PDs measurement system for air-insulated switchgear (AIS) is developed, based on transient earth voltage (TEV) sensors, and evaluated for morphological analysis of insulation defects. The evaluation is conducted comparing the developed system with a conventional PD measurement system based on the IEC 60270 standard. The aim of the proposed system is to facilitate its integration with minimal retrofitting and operational disruption assuring the possibility to identify and analyze the defects. A pilot system, employing an AIS, is designed and tested. The results from both the PDs measurement systems are presented and discussed. Furthermore, the impact of a high capacitive load connected to the switchgear is investigated, and the possible effects of a capacitive load due to an MV cable is considered by simulating the realistic cable geometry.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 79,
+              "rank": 204,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 77,
+              "rank": 219,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105000458328",
+      "title": "HVDC Defect Identification: Partial Discharges Signal Acquisition and Machine Learning Classification",
+      "doi": "10.1109/CEIDP61745.2024.10907670",
+      "venue": "Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "00849162",
+      "eIssn": null,
+      "source_id": "18789",
+      "authors": "Guastavino F.; Khan I. A.; Torello E.; Raza M. H.; Della Giovanna L.",
+      "author_ids": "7006692709;58900081000;6701506640;59699742400;55515720400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Guastavino F.",
+      "keywords": null,
+      "abstract": "The aim of this work is to achieve effective features to enable machine learning algorithms to identify defects and incipient faults in the case of insulating systems used for high-voltage direct current (HVDC) applications. Partial discharge (PD) testing and analysis has become a key tool in all aspects of the design, commissioning, maintenance and monitoring of AC and DC insulating systems. In this study, PD measurements were conducted on a medium voltage (MV) cable segment with artificial defects. These measurements were performed under a negative HVDC power supply using various sensors, including a High Frequency Current Transformer (HFCT), a Rogowski Coil, and a VHF Antenna. The acquired signals were post-processed using the Normalized Auto-correlation Function (NACF). The 3D NACF space plots have been obtained by selecting the three larger dispersion components obtained by the comparison of the NACF of the acquired signals. The objective was to analyze the differences in the measured PD signal data obtained with the three different sensors using machine learning algorithms. This analysis provides insights into the effectiveness of the developed features and their potential when different kind of sensors are used for the detection of faults in case of HVDC applications.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 30,
+              "rank": 691,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 23,
+              "rank": 238,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 27,
+              "rank": 705,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 19,
+              "rank": 247,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105000374004",
+      "title": "A Comparative Study of Conducted and Irradiated Signals for PD Pattern Recognition",
+      "doi": "10.1109/CEIDP61745.2024.10907291",
+      "venue": "Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "00849162",
+      "eIssn": null,
+      "source_id": "18789",
+      "authors": "Guastavino F.; Della Giovanna L.; Khan I. A.; Raza M. H.; Torello E.",
+      "author_ids": "7006692709;55515720400;58900081000;59699742400;6701506640",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Guastavino F.",
+      "keywords": null,
+      "abstract": "This research study aims to investigate the influence of various partial discharge (PD) sensors in handling PD signals separations. Two PD sources have been used to generate surface partial discharges. Surface partial discharges were generated using two PD sources, and the signals were detected using three different sensors: a High-Frequency Current Transformer (HFCT), a resistor (R<inf>M</inf>), and a VHF antenna. The primary objective is to highlight the strengths and challenges associated with each PD sensor, particularly in the context of signal separation and clustering. The impact of the characteristics of the selected sensors is examined. The study evaluates the efficiency, potential, and limitations of the sensor-clustering algorithm sets to evaluate the possibilities in employing them for fault detection and maintenance planning.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 30,
+              "rank": 691,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 23,
+              "rank": 238,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 27,
+              "rank": 705,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 19,
+              "rank": 247,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85185712546",
+      "title": "Partial Discharge Measurement to Predict the Lifetime of High Frequency High Voltage Transformers",
+      "doi": "10.1109/CEIDP51414.2023.10410556",
+      "venue": "Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "00849162",
+      "eIssn": null,
+      "source_id": "18789",
+      "authors": "Guastavino F.; Giovanna L. Della; Galbiati S.; Massa B.; Torello E.",
+      "author_ids": "7006692709;55515720400;58046226700;58046075700;6701506640",
+      "authorAffiliationIds": "60025153;60025153;60305174;60305174;60025153",
+      "corresponding": "Guastavino F.",
+      "keywords": null,
+      "abstract": "High Frequency/High Voltage Pulsed (HF/HVP) transformers are often used in low power applications. The insulation system is the most critical part of the design because the limited dimensions lead to the presence of high electrical stresses, furthermore the characteristics of the high voltage winding and of the high voltage pulses, result in a not uniform voltage distribution along the winding itself. The high electrical field concentrations require high performance insulating systems including enamels, filled polymers, loaded cast resins. The aim of this work is to implement a tool to be used during the manufacturing process to evaluate the quality of the insulating system as regards the expected lifetime. This tool, based on the partial discharge measurements, should be able to discriminate among HF/HVP transformers having expected lifetimes longer or shorter than a predefined value.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 30,
+              "rank": 691,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 23,
+              "rank": 238,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85185705807",
+      "title": "Study of the Partial Discharge Inception Voltage Variation over Time on Enameled Wires Subjected to Thermal-Electrical Stress",
+      "doi": "10.1109/CEIDP51414.2023.10410540",
+      "venue": "Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "00849162",
+      "eIssn": null,
+      "source_id": "18789",
+      "authors": "Guastavino F.; Torello E.; Giovanna L. Della; Khan I.",
+      "author_ids": "7006692709;6701506640;55515720400;58900081000",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Guastavino F.",
+      "keywords": null,
+      "abstract": "The electrical insulation is a crucial element in electrical machines. The performance of the insulation system can be affected by the operating conditions that cause ageing of the insulation. The evaluation of the effects of the environment stresses is a key in the prediction of the electrical insulation breakdown. Being capable of forecasting the maintenance avoiding the out of service due to insulation breakdown is certainly an objective. It is proven that partial discharges (PD) are one of the causes of electrical insulation breakdown. The evolution of PD is an indication of the condition of the electrical insulating system. The severe lowering of the Partial Discharge Inception Voltage (PDIV) value can be a signal of the approaching to the insulation total breakdown. The continuous lowering of the PDIV is due to the degradation of the insulation properties caused by the stresses applied during the operation time. The aim of this study is to evidence and compare the effects of thermal stress on different kind of enamelled wires analysing the PDIV because is one of the accelerating factors together with relative humidity and frequency of the applied voltage [1]-[7]. In this study, twisted pairs made with copper wires covered with different enamels and having thermal class 200°C were assessed. The samples were subjected to thermo-electrical aging tests at the same voltage amplitude and frequency while different temperatures have been applied. The PDIV relevant to the samples was measured regularly to monitor its evolution over time.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 30,
+              "rank": 691,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 23,
+              "rank": 238,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85070468747",
+      "title": "Electrical treeing in nanocomposite based on LDPE/EVA blends",
+      "doi": "10.1109/TDEI.2019.008000",
+      "venue": "IEEE Transactions on Dielectrics and Electrical Insulation",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "26",
+      "issue_id": "4",
+      "pages": "1287-1292",
+      "issn": "10709878",
+      "eIssn": "15584135",
+      "source_id": "17343",
+      "authors": "Giovanna L. Della; Guastavino F.; Torello E.; Hoyos M.; Tiemblo P.",
+      "author_ids": "55515720400;7006692709;6701506640;23018428300;7004068140",
+      "authorAffiliationIds": "60025153;60025153;60025153;60028902;60028902",
+      "corresponding": "Giovanna L.D.",
+      "keywords": "accelerated aging | dielectrics materials | electrical treeing | nanocomposites materials | partial discharges",
+      "abstract": "The aim of this work is the investigation of the performances of nanocomposite materials in the presence of electrical treeing. The nanocomposite materials based on polyolefin matrices were prepared by extrusion and then molded into slabs from which it was possible to prepare apposite specimens to perform electrical treeing tests. The polymeric employed matrices are low density polyethylene (LDPE) and ethylene vinyl acetate (EVA). The considered fillers were commercial modified montmorillonite having a lamellar structure and unmodified silica presenting a spherical shape. The behavior of the different materials were compared and correlated with the material properties and structure. The treeing inception voltage (TIV) and the time to breakdown (TBD) as the final event of the electrical tree growth were considered. Furthermore, in order to identify the presence of defects inside the specimens due to the preparation process the partial discharge (PD) activity was monitored. The PD patterns were acquired by a phase resolved partial discharge analyzer (PRPDA).",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 79,
+              "rank": 204,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 82,
+              "rank": 119,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85009743229",
+      "title": "PD evolution of conventional and corona resistant enamels",
+      "doi": "10.1109/CEIDP.2016.7785686",
+      "venue": "Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": "2016-December",
+      "issue_id": null,
+      "pages": "259-262",
+      "issn": "00849162",
+      "eIssn": null,
+      "source_id": "18789",
+      "authors": "Guastavino F.; Cordano D.; Torello E.; Della Giovanna L.",
+      "author_ids": "7006692709;56716555600;6701506640;55515720400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Guastavino F.",
+      "keywords": null,
+      "abstract": "The stator motor windings of low voltage rotating electrical machines are usually insulated by organic enamel. When the motors are supplied by power electronic converters, the stator insulation system is subjected to different voltage waveforms such as PWM. Due to reflection phenomena, overvoltage can be associated to pulsed waveforms and partial discharge (PD) activity can incept leading to the insulating system failure in short time. In this work the PD evolution is monitored both for conventional and corona resistant enamels subjected to different voltage waveforms at different amplitudes. Suitable twisted pair specimens insulated by the considered enamels have been prepared and tested. Aging tests have been performed, monitoring the PD activity until the enamel breakdown, which is assumed as the end-point criterion. Pulsed and sinusoidal voltage waveforms have been applied having different amplitudes. In order to monitor the degradation phenomena, the partial discharge activity has been observed by means of a phase resolved partial discharge analyzer. In order to evidence the behavior of the considered enamels the obtained life curves have been compared; the trends of partial discharge activities have been evidenced and have been related with the degradation phenomena.",
+      "citations": 11,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 30,
+              "rank": 691,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 23,
+              "rank": 238,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84988359634",
+      "title": "Surface PD evolution of conventional and nanocomposite enamels",
+      "doi": "10.1109/ICD.2016.7547727",
+      "venue": "Proceedings of the 2016 IEEE International Conference on Dielectrics Icd 2016",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "760-763",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100779040",
+      "authors": "Guastavino F.; Torello E.; Cordano D.; Giovanna L. Della",
+      "author_ids": "7006692709;6701506640;56716555600;55515720400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Guastavino F.",
+      "keywords": "electrical aging | electrical insulation | enamel insulated wires | partial discharges | PWM",
+      "abstract": "The stator motor windings of low voltage rotating electrical machines are usually insulated by organic enamel. When the motors are supplied by power electronic converters, the stator insulation system is subjected to pulsed voltage waveform and a fast degradation of the insulating system could occur. In fact, it is possible that partial discharge (PD) activity incepts leading to the deterioration of the insulating system. In this work the evolution of partial discharges is monitored when twisted pairs of copper enameled wires are subjected to sinusoidal and pulsed PWM-like voltage waveform. Conventional and nanocomposite enamels have been considered monitoring the behavior during the degradation processes evidencing the main peculiarities of each enamel when subjected to the PD action.",
+      "citations": 7,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84987899022",
+      "title": "Aging tests on type i insulating systems applying pulsed waveform",
+      "doi": "10.1109/ICD.2016.7547665",
+      "venue": "Proceedings of the 2016 IEEE International Conference on Dielectrics Icd 2016",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": "1",
+      "issue_id": null,
+      "pages": "556-560",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100779040",
+      "authors": "Guastavino F.; Cordano D.; Torello E.; Giovanna L. Della",
+      "author_ids": "7006692709;56716555600;6701506640;55515720400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Guastavino F.",
+      "keywords": null,
+      "abstract": "Nowadays the massive adoption of electronic converters to supply induction motors leads to critical problems during the normal operation. One of the most investigated problem is the unexpected early failure of the stator winding insulation. When the motors are supplied by electronic converters, the stator insulating system could be subjected to overvoltages due to resonance and reflection phenomena. If these overvoltages exceed the partial discharges inception voltage, partial discharge activity incepts. The erosion of the enamel used to insulate the stator winding wires, due to the presence of partial discharges, leads to the degradation of the dielectric characteristics of the insulating system and to a total breakdown conditions in the short-medium term. This test campaign aimed at the investigation of the unipolar pulses voltage waveforms role on the degradation of Type I stator winding insulation systems.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84959573817",
+      "title": "Electrical treeing characterisation of nanocomposite blends",
+      "doi": "10.1109/CEIDP.2015.7352124",
+      "venue": "Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2015,
+      "volume": "2015-December",
+      "issue_id": null,
+      "pages": "816-819",
+      "issn": "00849162",
+      "eIssn": null,
+      "source_id": "18789",
+      "authors": "Guastavino F.; Della Giovanna Leoncini; Torello E.; Hoyos M.; Magro P. Tiemblo",
+      "author_ids": "7006692709;55515720400;6701506640;23018428300;56191541800",
+      "authorAffiliationIds": "60025153;60025153;60025153;60028902;60028902",
+      "corresponding": "Guastavino F.",
+      "keywords": "electrical treeing | nanocomposite | partial discharges",
+      "abstract": "In this work thermoplastic polymeric blends based on Low Density Polyethylene (LDPE) and Ethylene Vinyl Acetate (EVA) have been studied. The blends have been prepared by twin screw compounding. In order to obtain different nanocomposite materials, montmorillonite and silica fillers have been considered. These two fillers are characterised by different aspect ratios: the first having a lamellar structure while the second one presenting a spherical shape. The morphology of the prepared blends has been assessed by means of chemical physical analyses. Electrical treeing tests have been performed on suitable specimens. The tree inception voltage has been determined to evaluate both the effect of the filler and the good adhesion of the needle to the nanostructured sample material. During the tests, partial discharges have been acquired by means of a Phase Resolved Partial Discharge Analyser (PRPDA). The evolution of the parameters relevant to the partial discharges activity has been monitored in order to identify the tree growth morphology. Furthermore life models have been defined putting in relation the obtained lifetime values, relevant to the specimen total breakdown, and the change of parameters directly obtained by the Partial Discharges (PD) detection.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 30,
+              "rank": 691,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 23,
+              "rank": 238,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84959526890",
+      "title": "Electrical aging tests on nanocomposite polymer blends based on LDPE",
+      "doi": "10.1109/CEIDP.2015.7352136",
+      "venue": "Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2015,
+      "volume": "2015-December",
+      "issue_id": null,
+      "pages": "812-815",
+      "issn": "00849162",
+      "eIssn": null,
+      "source_id": "18789",
+      "authors": "Guastavino F.; Giovanna L. Della; Torello E.; Garcia N.; Magro P. Tiemblo",
+      "author_ids": "7006692709;55515720400;6701506640;57219718610;56191541800",
+      "authorAffiliationIds": "60025153;60025153;60025153;60028902;60028902",
+      "corresponding": "Guastavino F.",
+      "keywords": "aging | LDPE | nanocomposite | polyolefins",
+      "abstract": "The insulation of power supply cables is increasingly performed by non-polar polymers. These materials, mainly polyolefins, combine low density and low cost of production. Among them, cross-linked polyethylene (XLPE) is up to date the best choice for an effective high voltage insulation. The aim of this work is to investigate the possibility to find out a new materials for electrical insulations that could be a valid substitute of XLPE. The dispersion of polar polymers, such as EVA, in non-polar polymers could be a strategy to better disperse polar nanofillers in the polymer matrices, leading to better performances. In this work the electrical behaviour of the LDPE and EVA composites, in the short and medium term, has been investigated after an assessment of the dispersion quality, of the morphology and of the thermal properties of the prepared samples.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 30,
+              "rank": 691,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 23,
+              "rank": 238,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84936818582",
+      "title": "Electrical treeing in LDPE-EVA blend based nanocomposites",
+      "doi": "10.1109/CEIDP.2014.6995879",
+      "venue": "2014 IEEE Conference on Electrical Insulation and Dielectric Phenomena CEIDP 2014",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2014,
+      "volume": null,
+      "issue_id": null,
+      "pages": "780-783",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100398486",
+      "authors": "Guastavino F.; Della Giovanna L.; Torello E.; Hoyos M.; Tiemblo Magro P.",
+      "author_ids": "7006692709;55515720400;6701506640;23018428300;56716343400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60028902;60028902",
+      "corresponding": "Guastavino F.",
+      "keywords": null,
+      "abstract": "In this work thermoplastic polymeric blends based on low density polyethylene (LDPE) and ethylene vinyl acetate (EVA) have been investigated. The blends have been obtained mixing together portions of 80% of LDPE and 20% of EVA adding montmorillonite and silica as fillers to get different nanocomposite materials with different nanofillers amounts: chosen percentage were 3% and 7% by weight. The aim of this research program was to identify the behaviour of these nanocomposite blends when subjected to electrical treeing and to identify the effect of the interface polymer matrix - nanofiller and the effect of the blends chemical-physical structure on the tree growth. The materials have been prepared by twin screw compounding following an optimized procedure leading to obtain good quality blends. The homogeneity of the compound has been verified by means of chemical-physical analysis. Suitable specimens have been realized by hot compression moulding. Electrical needle-plane tests have been performed in order to evidence the performance of the nanocomposite blends against the treeing growths.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84936817494",
+      "title": "LDPE/EVA nanocomposite lifetime studies",
+      "doi": "10.1109/CEIDP.2014.6995736",
+      "venue": "2014 IEEE Conference on Electrical Insulation and Dielectric Phenomena CEIDP 2014",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2014,
+      "volume": null,
+      "issue_id": null,
+      "pages": "784-787",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100398486",
+      "authors": "Guastavino F.; Della Giovanna L.; Torello E.; Garcia N.; Tiemblo Magro P.",
+      "author_ids": "7006692709;55515720400;6701506640;57219718610;56716343400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60028902;60028902",
+      "corresponding": "Guastavino F.",
+      "keywords": null,
+      "abstract": "In this work thermoplastic polymeric blends have been investigated. Such blends are based on low density polyethylene mixed in 80:20 (wt. %/wt. %) ratio with ethylene vinyl acetate. The nanocomposites has been obtained by adding montmorillonite and silica as fillers. The aim is to identify a new class of insulating materials for medium voltage equipment that could substitute the conventional ones characterized by high life cycle costs. The materials have been prepared by twin screw compounding following an optimized procedure that leads to good quality of the blends. The uniformity of the blends have been verified by means of chemical-physical analysis. Suitable specimens have been prepared by hot compression molding setting temperature, pressure and process time parameters. In this way a good thickness uniformity of the specimens has been obtained in order to perform electrical tests and to characterize the prepared blends. The electrical behavior has been investigated by means of electrical strength and electrical aging tests to trace lifetime curves.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84901743736",
+      "title": "Electrical ageing test on random wire wound stator insulation applying voltage pulses",
+      "doi": "10.1109/CEIDP.2013.6748225",
+      "venue": "Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2013,
+      "volume": null,
+      "issue_id": null,
+      "pages": "206-209",
+      "issn": "00849162",
+      "eIssn": null,
+      "source_id": "18789",
+      "authors": "Guastavino F.; Porcile F.; Ratto A.; Della Giovanna L.; Secondo G.",
+      "author_ids": "7006692709;55549244400;36941984700;55515720400;6603592830",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60102057",
+      "corresponding": "Guastavino F.",
+      "keywords": null,
+      "abstract": "The adoption of switching electronic converters for squirrel cage motor drives can lead to some critical issues during the normal operation. The early failure of the stator winding insulation is one of the most investigated problems. The cost of motor failure is measured by interruption of plant output as well as extent of repair or replacement. The Surge Test is one of the most important tests for industrial electric motors, insofar as it allows the accurate checking of the machine functionality in order to identify any possible fault in the windings. Surge test is non-destructive and it has to be conducted at test voltage amplitudes so that they do not produce any winding damage and any significant insulation system degradation. This research presents the outcome of an experimental campaign in order to investigate the role of the voltage pulses on the degradation of the stator winding insulation of Type I electric motors: during the study the inter-turn, the groundwall and the phase-phase insulation systems have been taken into account. Electrical aging test have been performed using a surge test waveform at the terminals of the windings. Suitable electrical parameters have been monitored in order to identify the life end conditions. The amplitude of the applied voltage have been varied and the life time values have been collected and analysed. Furthermore the correlation between the repetitive partial discharge inception voltage and the life time has been investigated. © 2013 IEEE.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 30,
+              "rank": 691,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 23,
+              "rank": 238,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84901741724",
+      "title": "Electrical behavior of nanocomposites based on LDPE-EVA blend",
+      "doi": "10.1109/CEIDP.2013.6748263",
+      "venue": "Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2013,
+      "volume": null,
+      "issue_id": null,
+      "pages": "788-791",
+      "issn": "00849162",
+      "eIssn": null,
+      "source_id": "18789",
+      "authors": "Guastavino F.; Della Giovanna L.; Porcile F.; Torello E.; Magro P. Tiemblo; Nuñez M. Hoyos",
+      "author_ids": "7006692709;55515720400;55549244400;6701506640;56191541800;56191549200",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60028902;60028902",
+      "corresponding": "Guastavino F.",
+      "keywords": null,
+      "abstract": "This work investigates thermoplastic polymeric blends based on low density polyethylene and ethylene vinyl acetate mixed together in 80:20 weight ratio. These blends have been mixed with montmorillonite and silica as fillers to obtain nanocomposites with different nanofiller amounts: percentage of 3% and 7% by weight have been chosen. The aim is to identify a new class of insulating materials for medium/high voltage equipment that could substitute the conventional ones characterized by high life cycle costs. The materials have been prepared by twin screw compounding following an optimized procedure that should lead to good quality of the blends. Suitable specimens have been processed by hot compression molding. Temperature, pressure and process time parameters, necessary to realize the samples, have been set to obtain a good thickness uniformity of the specimens. The preparation procedure has been studied in order to perform electrical tests characterizing the prepared blends. The electrical behavior has been investigated by means of electrical strength and electrical aging tests and the obtained results have been compared in order to better understand the nanofillers effects and determine which blends could lead to higher electrical performances. © 2013 IEEE.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 30,
+              "rank": 691,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 23,
+              "rank": 238,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84901741338",
+      "title": "Processing LDPE-EVA blend with montmorillonite and silica nanoparticles",
+      "doi": "10.1109/CEIDP.2013.6748289",
+      "venue": "Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2013,
+      "volume": null,
+      "issue_id": null,
+      "pages": "547-550",
+      "issn": "00849162",
+      "eIssn": null,
+      "source_id": "18789",
+      "authors": "Guastavino F.; Della Giovanna L.; Ratto A.; Torello E.; Magro P. Tiemblo; Garcia N. Garcia",
+      "author_ids": "7006692709;55515720400;36941984700;6701506640;56191541800;57219718610",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60028902;60028902",
+      "corresponding": "Guastavino F.",
+      "keywords": null,
+      "abstract": "This study focuses on blends with thermoplastic polymers matrices. The nanocomposites blends based on polyolefins could represents a new class of insulating materials with low environmental impact and good electrical performances. The materials object of this study have been prepared by adding different kinds and percentage of nanofillers as montmorillonite and silica to a thermoplastic polymeric matrix based on low density polyethylene (LDPE) and ethylene vinyl acetate (EVA). The materials have been prepared by extrusion: different procedures have been followed in order to obtain homogenous blends and uniform dispersion of the fillers. The chemical-physical materials properties have been investigated in order to determine the processing parameters relevant to the best material preparation procedure. The determination of the best processing method represents the first step to really evaluate the material potentialities and obtain a comprehensive knowledge on the effects of the nanofiller interactions with the blend matrix. © 2013 IEEE.",
+      "citations": 7,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 30,
+              "rank": 691,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 23,
+              "rank": 238,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84891606929",
+      "title": "Partial discharges measurements on conventional and nanocomposite enameled wires varying the ambient conditions",
+      "doi": "10.1109/ICSD.2013.6619755",
+      "venue": "Proceedings of IEEE International Conference on Solid Dielectrics Icsd",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2013,
+      "volume": null,
+      "issue_id": null,
+      "pages": "298-301",
+      "issn": "15535282",
+      "eIssn": "21591687",
+      "source_id": "21100278102",
+      "authors": "Guastavino F.; Ratto A.; Torello E.; Della Giovanna L.; Biondi G.; Loggi G.",
+      "author_ids": "7006692709;36941984700;6701506640;55515720400;24398197000;54393619900",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;105887890;105887890",
+      "corresponding": "Guastavino F.",
+      "keywords": "electrical aging | insulating enamels | nanocomposite material | partial discharges",
+      "abstract": "Stator motor windings of low voltage rotating electrical machines are usually insulated by organic enamel. If during the normal operation partial discharges incept, degradation phenomena and in particular erosion, due to partial discharges, could take place leading the insulating system to breakdown conditions. In this research activity, conventional and nanocomposite enamels have been analyzed: suitable twisted pair specimens insulated by the considered enamels have been prepared and tested. The specimens have been subjected to electrical aging varying the ambient conditions and in particular varying the relative humidity level. The specimens have been subjected to different 50 Hz sinusoidal voltage waveforms having amplitude level higher than the partial discharges inception voltage in order to operate in presence of partial discharges activity. During the aging, digital partial discharges acquisition has been performed in order to obtain useful information about the degradation processes. The time to breakdown of the tested specimens have been collected: analyzing and comparing the obtained results in terms of both time to breakdown and partial discharges activity it has been possible to evidence the different behavior between the considered enamels when subjected to the erosion effects. © 2013 IEEE.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84870779959",
+      "title": "Surface partial discharges aging on thin polymeric nanocomposite films",
+      "doi": "10.1109/ICElMach.2012.6350131",
+      "venue": "Proceedings 2012 20th International Conference on Electrical Machines ICEM 2012",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2012,
+      "volume": null,
+      "issue_id": null,
+      "pages": "1836-1840",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100223114",
+      "authors": "Guastavino F.; Ratto A.; Della Giovanna L.; Gómez-Elvira J. M.; Garcia N.",
+      "author_ids": "7006692709;36941984700;55515720400;6701642152;57219718610",
+      "authorAffiliationIds": "60025153;60025153;60025153;60028902;60028902",
+      "corresponding": "Guastavino F.",
+      "keywords": "accelerate aging | insulation | nanocomposites | partial discharges | surface discharges | syndiotactic polypropylene",
+      "abstract": "The following study evidences the effects of surface partial discharges aging on thin polymeric films in specific ambient conditions. The study has been performed on syndiotactic polypropylene and its nanocomposites. The specimens have been prepared by adding two different nanofillers to the pure polymer: montmorillonite and sepiolite, which are both silicate clays. In order to obtain a good dispersion of the considered nanofillers inside the matrix, the nanostructured materials have been prepared by extrusion. The nanofiller dispersion has been analyzed by means of a scanning electron microscope. Electrical breakdown strength measurements have been performed and surface partial discharges aging tests have been carried out inside an environmental chamber in order to control both the relative humidity level and the temperature. The specimens breakdown condition has been chosen as end point criterion and the concerning times to breakdown have been collected and compared in order to evidence the different behavior among the pure polymer and its nanocomposites. © 2012 IEEE.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84872091760",
+      "title": "Electrical aging tests on conventional and nanocomposite enamelled wires varying both the relative humidity and the applied voltage amplitude",
+      "doi": "10.1109/CEIDP.2012.6378842",
+      "venue": "Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2012,
+      "volume": null,
+      "issue_id": null,
+      "pages": "561-564",
+      "issn": "00849162",
+      "eIssn": null,
+      "source_id": "18789",
+      "authors": "Guastavino F.; Della Giovanna L.; Porcile F.; Ratto A.; Torello E.",
+      "author_ids": "7006692709;55515720400;55549244400;36941984700;6701506640",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Guastavino F.",
+      "keywords": null,
+      "abstract": "Electrical machines and in particular electrical motors used in industry applications are usually coupled with inverter drives in order to better control both the motor torque and speed. Due to the presence of these inverter drives, the stator motor windings are subjected to severe voltage waveforms. When the electrical motors having stator windings insulated by means of type I random wire wound are subjected to this kind of severe voltage waveforms, reliability problems, due to the insulating system degradation, increase. In this research work, conventional and nanocomposite enamels have been analyzed: suitable twisted pair specimens insulated by the studied enamels have been prepared and tested. The tests were performed applying sinusoidal voltages having different amplitudes and varying the relative humidity. During the aging tests campaign the amplitude voltage waveform have been always set higher than the partial discharges inception voltage in order to operate in presence of surface partial discharges. The enamel breakdown conditions have been chosen as end-point criterion and the lifetime values have been collected and compared. In order to evidence the behavior of the considered conventional and nanocomposite enamels, the material life curves have been computed. Analyzing the obtained results it has been possible to find out the relations among the time to breakdown, the relative humidity and the voltage amplitude. © 2012 IEEE.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 30,
+              "rank": 691,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 23,
+              "rank": 238,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84872070531",
+      "title": "Syndiotactic polypropylene based nanocomposites: Short and long term electrical characterisation",
+      "doi": "10.1109/CEIDP.2012.6378843",
+      "venue": "Annual Report Conference on Electrical Insulation and Dielectric Phenomena CEIDP",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2012,
+      "volume": null,
+      "issue_id": null,
+      "pages": "565-568",
+      "issn": "00849162",
+      "eIssn": null,
+      "source_id": "18789",
+      "authors": "Guastavino F.; Ratto A.; Della Giovanna L.; Gòmez-Elvira J. M.; Garcìa N.",
+      "author_ids": "7006692709;36941984700;55515720400;6701642152;57219718610",
+      "authorAffiliationIds": "60025153;60025153;60025153;60028902;60028902",
+      "corresponding": "Guastavino F.",
+      "keywords": null,
+      "abstract": "In these last years, different research studies constantly investigated the possibility to find a new class of materials in the field of medium/high voltage insulation. Nowadays, the conventional materials that are commonly used in this field of interest are non-recyclable. In this research activity, the electrical behavior of new recyclable nanostructured materials is investigated in order to study the feasibility of their future employment as substitutes for the currently employed materials. The materials have been prepared by adding different kinds of nanofiller to the syndiotactic polypropylene matrix; in order to obtain a good dispersion of the considered nanofillers, the materials have been processed by extrusion and their final homogeneity have been investigated by means of a scanning electron microscope. In order to investigate the electrical performances of these materials, suitable film specimens have been prepared by hot compression molding technique and subsequently electrical aging tests have been performed to evidence the short and the medium term behavior of the tested materials. The short term behavior has been investigated by dielectric strength measurements, while the medium term behavior has been evaluated by electrical aging tests. During the aging tests, the specimens have been subjected to 50 Hz frequency sinusoidal voltage waveform: different voltage amplitudes have been considered and the breakdown condition has been chosen as end-point criterion. The relevant times to breakdown have been collected and used to plot the life curves. Analyzing and comparing the obtained results it has been possible to highlight a different behaviour among the nanocomposites and the pure polymer. © 2012 IEEE.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 30,
+              "rank": 691,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 23,
+              "rank": 238,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1207395",
+      "authors": "Khan, Ishtiaq; Guastavino, Francesco; Della Giovanna, Laura; Torello, Eugenia",
+      "legacy_id": 583166,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Partial Discharge Inception Voltage Monitoring of Enameled Wires under Thermal Stress over Time",
+      "scopus_id": "2-s2.0-85204938095",
+      "doi": "10.3390/en17184578",
+      "isi_id": "WOS:001323568300001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220697",
+      "authors": "Guastavino, F.; Della Giovanna, L.; Gallesi, F.; Torello, E.",
+      "legacy_id": 589711,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Transient Earth Voltage Sensor Measurements as a Nonintrusive Tool for Partial Discharge Analysis in Switchgears",
+      "scopus_id": "2-s2.0-85205935562",
+      "doi": "10.1109/tdei.2024.3470755",
+      "isi_id": "WOS:001381815100016",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1160338",
+      "authors": "Guastavino, F.; Della Giovanna, L.; Gallesi, F.; Torello, E.",
+      "legacy_id": 527479,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Effects of a DC Offset on Lifetime and PD Activity during AC Aging Tests on Enameled Twisted Pairs",
+      "scopus_id": "2-s2.0-85182944471",
+      "doi": "10.1109/TDEI.2024.3353704",
+      "isi_id": "WOS:001237222600056",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1261136",
+      "authors": "Guastavino, F.; Khan, I. A.; Torello, E.; Raza, M. H.; Della Giovanna, L.",
+      "legacy_id": 656293,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "HVDC Defect Identification: Partial Discharges Signal Acquisition and Machine Learning Classification",
+      "scopus_id": "2-s2.0-105000458328",
+      "doi": "10.1109/CEIDP61745.2024.10907670",
+      "isi_id": "WOS:001471713900067",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1261137",
+      "authors": "Guastavino, F.; Della Giovanna, L.; Khan, I.; Raza, M. H.; Torello, E.",
+      "legacy_id": 648587,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "A Comparative Study of Conducted and Irradiated Signals for PD Pattern Recognition",
+      "scopus_id": "2-s2.0-105000374004",
+      "doi": "10.1109/ceidp61745.2024.10907291",
+      "isi_id": "WOS:001471713900003",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1222296",
+      "authors": "Guastavino, F.; Della Giovanna, L.; Galbiati, S.; Massa, B.; Torello, E.",
+      "legacy_id": 601306,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Partial Discharge Measurement to Predict the Lifetime of High Frequency High Voltage Transformers",
+      "scopus_id": "2-s2.0-85185712546",
+      "doi": "10.1109/ceidp51414.2023.10410556",
+      "isi_id": "WOS:001169469200115",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1222295",
+      "authors": "Guastavino, F.; Torello, E.; Della Giovanna, L.; Khan, I.",
+      "legacy_id": 601292,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Study of the Partial Discharge Inception Voltage Variation Over Time on Enameled Wires Subjected to Thermal-Electrical Stress",
+      "scopus_id": "2-s2.0-85185705807",
+      "doi": "10.1109/ceidp51414.2023.10410540",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/970346",
+      "authors": "Giovanna, L. Della; Guastavino, F.; Torello, E.; Hoyos, M.; Tiemblo, P.",
+      "legacy_id": 291483,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Electrical treeing in nanocomposite based on LDPE/EVA blends",
+      "scopus_id": "2-s2.0-85070468747",
+      "doi": "10.1109/TDEI.2019.008000",
+      "isi_id": "WOS:000480322400032",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/864996",
+      "authors": "Guastavino, Francesco; Cordano, Davide; Torello, Eugenia; DELLA GIOVANNA, Laura",
+      "legacy_id": 174726,
+      "year": 2016,
+      "miur_type": "273",
+      "title": "Aging tests on type i insulating systems applying pulsed waveform",
+      "scopus_id": "2-s2.0-84987899022",
+      "doi": "10.1109/ICD.2016.7547665",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/865001",
+      "authors": "Guastavino, Francesco; Cordano, Davide; Torello, Eugenia; DELLA GIOVANNA, Laura",
+      "legacy_id": 174730,
+      "year": 2016,
+      "miur_type": "273",
+      "title": "PD evolution of conventional and corona resistant enamels",
+      "scopus_id": "2-s2.0-85009743229",
+      "doi": "10.1109/CEIDP.2016.7785686",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "11"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/864992",
+      "authors": "Guastavino, Francesco; Torello, Eugenia; Cordano, Davide; DELLA GIOVANNA, Laura",
+      "legacy_id": 174716,
+      "year": 2016,
+      "miur_type": "273",
+      "title": "Surface PD evolution of conventional and nanocomposite enamels",
+      "scopus_id": "2-s2.0-84988359634",
+      "doi": "10.1109/ICD.2016.7547727",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/857738",
+      "authors": "Guastavino, Francesco; Della Giovanna, L.; Torello, Eugenia; Hoyos, M.; Tiemblo Magro, P.",
+      "legacy_id": 166562,
+      "year": 2015,
+      "miur_type": "273",
+      "title": "Electrical treeing characterisation of nanocomposite blends",
+      "scopus_id": "2-s2.0-84959573817",
+      "doi": "10.1109/CEIDP.2015.7352124",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/857731",
+      "authors": "Guastavino, Francesco; Della Giovanna, L.; Torello, Eugenia; Garcia, N.; Tiemblo Magro, P.",
+      "legacy_id": 166553,
+      "year": 2015,
+      "miur_type": "273",
+      "title": "Electrical aging tests on nanocomposite polymer blends based on LDPE",
+      "scopus_id": "2-s2.0-84959526890",
+      "doi": "10.1109/CEIDP.2015.7352136",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/810348",
+      "authors": "Guastavino, Francesco; DELLA GIOVANNA, Laura; Torello, Eugenia; Hoyos, M.; Tiemblo Magro, P.",
+      "legacy_id": 112431,
+      "year": 2014,
+      "miur_type": "273",
+      "title": "Electrical treeing in LDPE-EVA blend based nanocomposites",
+      "scopus_id": "2-s2.0-84936818582",
+      "doi": "10.1109/CEIDP.2014.6995879",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/810356",
+      "authors": "Guastavino, Francesco; DELLA GIOVANNA, Laura; Torello, Eugenia; Garcia, N.; Tiemblo Magro, P.",
+      "legacy_id": 113475,
+      "year": 2014,
+      "miur_type": "273",
+      "title": "LDPE/EVA nanocomposite lifetime studies",
+      "scopus_id": "2-s2.0-84936817494",
+      "doi": "10.1109/CEIDP.2014.6995736",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/715580",
+      "authors": "Guastavino, Francesco; L., Della Giovanna; Ratto, Alessandro; Torello, Eugenia; P., Tiemblo Magro; N., Garcia Garcia",
+      "legacy_id": 103047,
+      "year": 2013,
+      "miur_type": "273",
+      "title": "Processing LDPE-EVA blend with montmorillonite and silica nanoparticles",
+      "scopus_id": "2-s2.0-84901741338",
+      "doi": "10.1109/CEIDP.2013.6748289",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/715581",
+      "authors": "Guastavino, Francesco; L., Della Giovanna; F., Porcile; Torello, Eugenia; P., Tiemblo Magro; M., Hoyos Nunez",
+      "legacy_id": 103048,
+      "year": 2013,
+      "miur_type": "273",
+      "title": "Electrical behavior of nanocomposites based on LDPE-EVA blend",
+      "scopus_id": "2-s2.0-84901741724",
+      "doi": "10.1109/CEIDP.2013.6748263",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/715584",
+      "authors": "Guastavino, Francesco; F., Porcile; A., Ratto; L., Della Giovanna; G., Secondo",
+      "legacy_id": 103051,
+      "year": 2013,
+      "miur_type": "273",
+      "title": "Electrical ageing test on random wire wound stator insulation applying voltage pulses2013 Annual Report Conference on Electrical Insulation and Dielectric Phenomena",
+      "scopus_id": "2-s2.0-84901743736",
+      "doi": "10.1109/CEIDP.2013.6748225",
+      "isi_id": "WOS:000360957000049",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/633895",
+      "authors": "Guastavino, Francesco; Ratto, Alessandro; Torello, Eugenia; L., Della Giovanna; G., Biondi; G., Loggi",
+      "legacy_id": 99696,
+      "year": 2013,
+      "miur_type": "273",
+      "title": "Partial discharges measurements on conventional and nanocomposite enameled wires varying the ambient conditions",
+      "scopus_id": "2-s2.0-84891606929",
+      "doi": "10.1109/ICSD.2013.6619755",
+      "isi_id": "WOS:000339117400067",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/542718",
+      "authors": "Guastavino, Francesco; A., Ratto; L., Della Giovanna; J. M., Gómez Elvira; N., Garcìa",
+      "legacy_id": 95603,
+      "year": 2012,
+      "miur_type": "273",
+      "title": "Surface Partial Discharges Aging on Thin Polymeric Nanocomposite Films",
+      "scopus_id": "2-s2.0-84870779959",
+      "doi": "10.1109/ICElMach.2012.6350131",
+      "isi_id": "WOS:000333806701126",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/633901",
+      "authors": "Guastavino, Francesco; Ratto, A.; Della Giovanna, L.; Gomez Elvira, J. M.; DA CRUZ GARCIA, NUNO RICARDO",
+      "legacy_id": 99702,
+      "year": 2012,
+      "miur_type": "273",
+      "title": "Syndiotactic polypropylene based nanocomposites: Short and long term electrical characterisation",
+      "scopus_id": "2-s2.0-84872070531",
+      "doi": "10.1109/CEIDP.2012.6378843",
+      "isi_id": "WOS:000316899800132",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/633897",
+      "authors": "Guastavino, Francesco; DELLA GIOVANNA, Laura; Porcile, Fabio; Ratto, Alessandro; Torello, Eugenia",
+      "legacy_id": 99698,
+      "year": 2012,
+      "miur_type": "273",
+      "title": "Electrical aging tests on conventional and nanocomposite enamelled wires varying both the relative humidity and the applied voltage amplitude",
+      "scopus_id": "2-s2.0-84872091760",
+      "doi": "10.1109/CEIDP.2012.6378842",
+      "isi_id": "WOS:000316899800131",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:14:50.788733"
+}

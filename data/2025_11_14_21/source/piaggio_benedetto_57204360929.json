@@ -1,0 +1,1626 @@
+{
+  "surname": "Piaggio",
+  "name": "Benedetto",
+  "unit": "NAV",
+  "email": "benedetto.piaggio@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/VkVOWFNr",
+  "website": "",
+  "unige_id": "369392",
+  "scopus_id": "57204360929",
+  "role": "Ricercatore",
+  "grade": "Ricercatore t.d. art. 24 c. 3 lett. B Legge 240/10 (t.pieno) + 20%",
+  "ssd": "IIND-01/A (Architettura navale)",
+  "location": [
+    {
+      "building": "Villa Cambiaso - padiglioni (ED_161450103)",
+      "floor": "1° piano",
+      "room": "US_161450103.I.037"
+    }
+  ],
+  "career": [
+    {
+      "role": "DR",
+      "from": "2016-11-01 00:00:00.0000000",
+      "to": "2019-10-31 00:00:00.0000000"
+    },
+    {
+      "role": "CB",
+      "from": "2017-03-24 00:00:00.0000000",
+      "to": "2020-09-20 00:00:00.0000000"
+    },
+    {
+      "role": "AR",
+      "from": "2019-12-02 00:00:00.0000000",
+      "to": "2021-02-28 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2021-03-01 00:00:00.0000000",
+      "to": "2027-10-31 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {
+    "2025": [
+      {
+        "course": "PROGETTO DELLE IMBARCAZIONI A VELA (56996)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "SHIP MANOEUVRABILITY (101149)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      },
+      {
+        "course": "SHIP MANOEUVRABILITY (101149)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      },
+      {
+        "course": "SHIP STABILITY (101123)",
+        "degree": "L-28 R - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2024": [
+      {
+        "course": "PROGETTO DELLE IMBARCAZIONI A VELA A (CDL) (56996)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "SHIP STABILITY (101123)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      },
+      {
+        "course": "SHIP MANOEUVRABILITY (101149)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      },
+      {
+        "course": "SHIP MANOEUVRABILITY (101149)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2023": [
+      {
+        "course": "PROGETTO DELLE IMBARCAZIONI A VELA A (56996)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "SHIP STABILITY (101123)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      },
+      {
+        "course": "SHIP MANOEUVRABILITY (101149)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      },
+      {
+        "course": "SHIP MANOEUVRABILITY (101149)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2022": [
+      {
+        "course": "SHIP MANOEUVRABILITY (101149)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      },
+      {
+        "course": "SHIP STABILITY (101123)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2021": [
+      {
+        "course": "SHIP MANOEUVRABILITY (101149)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      },
+      {
+        "course": "SHIP STABILITY (101123)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2020": [
+      {
+        "course": "SHIP MANOEUVRABILITY (101149)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 10,
+      "total_products": 23,
+      "journals": 14,
+      "conferences": 8,
+      "citations": 243,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 10,
+      "total_products": 23,
+      "journals": 14,
+      "conferences": 8,
+      "citations": 243,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 10,
+      "total_products": 23,
+      "journals": 14,
+      "conferences": 8,
+      "citations": 243,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 8,
+      "total_products": 18,
+      "journals": 13,
+      "conferences": 4,
+      "citations": 180,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-105018119374",
+      "title": "A 6-DOF submarine manoeuvrability prediction code - Part I: Development and validation",
+      "doi": "10.1016/j.oceaneng.2025.122718",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "342",
+      "issue_id": null,
+      "pages": null,
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Berté Lorenzo; Villa Diego; Viviani Michele; Mazzarello Giorgio; Carmone Francesco; Piaggio Benedetto",
+      "author_ids": "60102798400;56250522200;58090077400;57892552100;60130828100;57204360929",
+      "authorAffiliationIds": "60025153;60025153;60025153;60083109;60083109;60025153",
+      "corresponding": "Berté L.",
+      "keywords": "Control and stability | Hydrodynamics | Manoeuvrability | Rudder | Stern planes | Submarines | Underwater vehicles",
+      "abstract": "A software that accurately predicts submarine manoeuvring behaviour is essential for hull, sail and control surfaces design. In this context, the availability of a reliable 6-DOF parametric, modular, and robust model is highly advantageous at early design-stage. The here presented mathematical model is based on strip theory for calculating the linear forces on the bare hull, combined with non-linear cross-flow drag forces. The contribution of control surfaces and the sail are evaluated using a formulation derived from experiments and literature data, allowing to consider the specific geometry of the exposed surfaces and the hull sections on which they are mounted, thus including all mutual interaction effects between the various components, such as the body-wing and wing-body. In this first part of work a comparison between the results of the manoeuvring code and experimental data or other data available in literature is presented, demonstrating satisfactory reliability and robustness with a view to estimating stability and controllability.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105016237135",
+      "title": "Development of a CFD Based Submarine Manoeuvrability Prediction Code",
+      "doi": "10.3233/PMST250034",
+      "venue": "Progress in Marine Science and Technology",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "10",
+      "issue_id": null,
+      "pages": "262-272",
+      "issn": "25430955",
+      "eIssn": "25430963",
+      "source_id": "21101107127",
+      "authors": "Bertè Lorenzo; Piaggio Benedetto; Scotto Luca; Becchetti Sebastiano; Viviani Michele; Villa Diego",
+      "author_ids": "60102798400;57204360929;60102642500;60102345100;58090077400;56250522200",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Bertè L.",
+      "keywords": "Computational Fluid Dynamics | hydrodynamics | rudders | submarines",
+      "abstract": "An in-depth understanding of submarine control surfaces hydrodynamics during manoeuvring is a crucial step for reliable prediction methods at all design stages. In this paper, a CFD based approach using a viscous RANS code is presented. The use of CFD allows a better understanding of the underlying physics to properly tune a modular framework in the well-known MMG approach, with the aim to better capture the effect and mutual interactions of different hull and sail configurations. The proposed method considers the actual flow around the stern planes interacting with the hull, including the amplification of forces given by the body-wing and wing-body interactions and considers the straightening effects of hull during manoeuvre. This paper tries to overcome the actual lack of available experimental evidences in literature for these topics. The understanding of this phenomenon, rarely considered in literature, is important in terms of design of the depth control system of the submarine while sailing. In the present study, the two standard configurations for stern plane installation are considered, namely cross- and X-planes, highlighting the differences in behaviour and hydrodynamic interaction due to configuration changes.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 22,
+              "rank": 200,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 15,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 13,
+              "rank": 640,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85180686068",
+      "title": "Assessment of Numerical Captive Model Tests for Underwater Vehicles: The DARPA SUB-OFF Test Case",
+      "doi": "10.3390/jmse11122325",
+      "venue": "Journal of Marine Science and Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "11",
+      "issue_id": "12",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20771312",
+      "source_id": "21100830140",
+      "authors": "Zheku Vito Vasilis; Villa Diego; Piaggio Benedetto; Gaggero Stefano; Viviani Michele",
+      "author_ids": "58033617300;56250522200;57204360929;6503976905;58090077400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Zheku V.V.",
+      "keywords": "CFD | DARPA | manoeuvrability | naval hydrodynamics | RANS | submarines | underwater vehicles",
+      "abstract": "During the early design stage of an underwater vehicle, the correct assessment of its manoeuvrability is a crucial task. Conducting experimental tests still has high costs, especially when dealing with small vehicles characterized by low available budget. In the current investigation, virtual towing tank tests are simulated using the open-source OpenFOAM library in order to assess the reliability of CFD methods for the prediction of hydrodynamic forces and moments. A well-known case study, the Defence Advanced Research Projects Agency (DARPA) SUB-OFF model, is used, and the outcomes are compared to the experimental results available in the literature. Five different configurations are investigated for pure drift tests, rudder tests and pure rotation in both vertical and horizontal plane. The results show an overall good agreement with the experimental data with a quite low demanding mesh arrangement of 3M cells, a favourable balance between accuracy and computational time. In more detail, the expected error in the most significant forces during manoeuvres is less than 2% for the fully appended configuration (the submarine real operative condition), whereas the accuracy is moderately reduced for the barehull configuration (a case not representative of a real hull) with an expected error of 15%. A possible reason for the differences observed could be attributed to the description of the two streamwise vortices generated when manoeuvring. Apart from the lateral force and yaw moment, the results of the longitudinal force are also presented, having a greater disparity when compared to the experimental data. Nevertheless, the longitudinal force has no important role for the purpose of making stability and control predictions. The study contributes to the validation and consolidation of CFD methods, offering insights into their accuracy and limitations for practical applications in underwater vehicles.",
+      "citations": 11,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 75,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 73,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 72,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 66,
+              "rank": 126,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 66,
+              "rank": 36,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 61,
+              "rank": 100,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85171563043",
+      "title": "Follow-the-Leader Guidance, Navigation, and Control of Surface Vessels: Design and Experiments",
+      "doi": "10.1109/JOE.2023.3292422",
+      "venue": "IEEE Journal of Oceanic Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "48",
+      "issue_id": "4",
+      "pages": "997-1008",
+      "issn": "03649059",
+      "eIssn": "15581691",
+      "source_id": "17277",
+      "authors": "Piaggio Benedetto; Garofano Vittorio; Donnarumma Silvia; Alessandri Angelo; Negenborn Rudy; Martelli Michele",
+      "author_ids": "57204360929;57210819545;55350308600;7005735677;16480813000;55521641400",
+      "authorAffiliationIds": "60025153;60118236;60025153;60025153;60118236;60025153",
+      "corresponding": "Piaggio B.",
+      "keywords": "Azimuth-drive propulsion | escort tugs | follow-the-leader control | line of sight (LOS) | track keeping",
+      "abstract": "A novel follow-the-leader approach for azimuth-driven vessels is devised and experimentally tested in a model-scale outdoor scenario. The vessels are equipped with global navigation satellite and inertial navigation systems. A line-of-sight algorithm ensures the yaw-check ability of the follower vessel along the leader's path, while a speed-regulation allows to track its velocity. Track generation, guidance, navigation, and control modules are designed and assembled to be executed on-board in real time. The results of an outdoor experimental campaign are illustrated to show the effectiveness of the proposed approach.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 90,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 88,
+              "rank": 88,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 135,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 96,
+              "rank": 4,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 92,
+              "rank": 54,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 87,
+              "rank": 101,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85147365813",
+      "title": "Twin-screw vessel manoeuvrability: The traditional twin-rudder configuration vs pod-drives",
+      "doi": "10.1016/j.oceaneng.2023.113725",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "271",
+      "issue_id": null,
+      "pages": null,
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Piaggio Benedetto; Sommariva Guglielmo; Franceschi Andrea; Villa Diego; Viviani Michele",
+      "author_ids": "57204360929;58090472000;57221162704;56250522200;58090077400",
+      "authorAffiliationIds": "60025153;60122238;60122238;60025153;60025153",
+      "corresponding": "Piaggio B.",
+      "keywords": null,
+      "abstract": "The employment of twin pod-drives is spreading nowadays through the fleet of modern twin-screw vessels. The adoption of this steering device is of interest for both new-buildings and for retrofit because of the high manoeuvring effectiveness in restricted waters, free-sailing efficiency, hybrid-electric optimal engine control room space optimization and noise-comfort. In terms of manoeuvring, in particular, the control system offers great side-stepping and turning ability. On the other hand, the pod configuration could result in poorer course-keeping and yaw checking abilities at high-speed due to the more open stern shapes, together with the reduced appendages extension. In this respect, the IMO yaw-checking ability, represented by the usual overshoot angles of the zig-zag manoeuvre, should be carefully checked since an early stage. In this work, a simulation tool specifically developed to deal with twin rudder or twin pod ship configurations is described and validated against experimental results. Then, a first application of the tool is shown, presenting the results of a comparative study of spade and flap rudder setups against pod-driven units for a specific group of ships, allowing to show that, in this case, a proper design of pod units is not detrimental of the yaw checking ability.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 87,
+              "rank": 14,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 75,
+              "rank": 48,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85140026825",
+      "title": "The heel influence on ship manoeuvrability: Single and twin-screw surface vessels",
+      "doi": "10.1016/j.oceaneng.2022.112721",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "266",
+      "issue_id": null,
+      "pages": null,
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Piaggio B.; Franceschi A.; Villa D.; Ferrari V.; Tonelli R.; Viviani M.",
+      "author_ids": "57204360929;57221162704;56250522200;56016852400;7004058063;58090077400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60029978;60029978;60025153",
+      "corresponding": "Piaggio B.",
+      "keywords": "4 Degrees of Freedom | Heel effect | IMO standards | Manoeuvrability | Turning | Zigzag",
+      "abstract": "Low transverse metacentric height and high speed are peculiar destabilising factors in ship manoeuvrability according to the attainable large heeling angles. The phenomenon indeed occurs in the case of vessels characterised by loading conditions with low transverse stability — e.g. high centre of mass of container vessels and RoRos. Starting from Kijima's single-screw container vessel evidence, an extension of the study to twin-screw ferry vessels is undertaken, with the scope of quantifying its effect in terms of turning and zig-zag IMO margins at an early design stage. Given the relevant impact, an enlarged captive model testing campaign executed on a sample of reference vessels was analysed to further characterise and extend the concepts to a broader class of modern single and twin-screw vessels, thus motivating the study. As a further result, this analysis allowed to underline the need of a review of the IMO intact stability code when dealing with heeling angle during a turn.",
+      "citations": 7,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 84,
+              "rank": 16,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 75,
+              "rank": 46,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85144980982",
+      "title": "Submarine Manoeuvrability Design: Traditional Cross-Plane vs. x-Plane Configurations in Intact and Degraded Conditions",
+      "doi": "10.3390/jmse10122014",
+      "venue": "Journal of Marine Science and Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "10",
+      "issue_id": "12",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20771312",
+      "source_id": "21100830140",
+      "authors": "Piaggio Benedetto; Vernengo Giuliano; Ferrando Marco; Mazzarello Giorgio; Viviani Michele",
+      "author_ids": "57204360929;37662376400;7006903025;57892552100;58090077400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60083109;60025153",
+      "corresponding": "Piaggio B.",
+      "keywords": "design | manoeuvrability | rudder | stern planes | submarines | underwater vehicles",
+      "abstract": "Submarines’ manoeuvrability both in intact and degraded operating conditions is the main design concern starting at the very early stages of design. This increased complexity of the design process compared to a surface vehicle can only be handled by using dynamics numerical simulations on both the vertical and horizontal manoeuvring planes. To this aim, a 6-DoF method is presented, validated, and applied to study the manoeuvring characteristics of several vessels. The analysis has been conducted considering two standpoints, i.e., to verify the design handling capabilities of the vehicles at low and high speeds and to study the off-design residual abilities in the eventual case of emergency operations with jammed/lost-control surfaces. The influence of different design features, such as, e.g., the stern plane “+” and “x” configurations, fairway size and positioning, hull dimensional ratios and restoring capabilities have been analysed in terms of impact on turning ability, course and depth changing abilities, and vertical/horizontal course stability, including the vertical damping ratio and critical velocity.",
+      "citations": 4,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 75,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 73,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 72,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 61,
+              "rank": 39,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 61,
+              "rank": 137,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 55,
+              "rank": 110,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85133540544",
+      "title": "Z-Drive Escort Tug manoeuvrability model and simulation, Part II: A full-scale validation",
+      "doi": "10.1016/j.oceaneng.2022.111881",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "259",
+      "issue_id": null,
+      "pages": null,
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Piaggio Benedetto; Viviani Michele; Martelli Michele; Figari Massimo",
+      "author_ids": "57204360929;58090077400;55521641400;6507282370",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Piaggio B.",
+      "keywords": "Azimuthal Stern Drive | Dynamic simulation | Escort towing | Manoeuvring | Tugs | Z-Drive",
+      "abstract": "A deep insight into the manoeuvring characterisation of a wider class of Azimuthal Stern Drive Escort tugs (ASD) is undertaken with the scope of defining a real-time parametric manoeuvring simulation code for the free-sailing and towing operations. In the part I of the work a physics-based 4-DOF prediction parametric tool for the dynamic behaviour of the ASD tug has been developed, and a validation with model-scale Escort-towing tests has been presented. In the present paper a second validation methodology, based on full-scale measurements, is discussed. This verification envisages simulator's capability of describing the free-sailing performance of a different but compatible hull, having dimensions, propulsion, skeg characteristics significantly different with respect to the “parent design” used to develop the tool. The experimental campaign involves the measurements purposely performed during sea trials onto two sister-ship ASD new-buildings (RM3213). Turning circle, zig-zag manoeuvres, and Dieudonne’ spiral tests are deeply analysed and the results used for validation purpose. The simulation results showed a satisfactory agreement with the full scale manoeuvres, positively demonstrating the ability of the parametric mathematical formulations to forecast customised tug manoeuvrability for tug design purposes.",
+      "citations": 12,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 84,
+              "rank": 16,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 75,
+              "rank": 46,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85138153375",
+      "title": "Numerical Approaches for Submarine Hydrodynamic Design and Performance Analysis",
+      "doi": "10.3233/PMST220035",
+      "venue": "Progress in Marine Science and Technology",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "6",
+      "issue_id": null,
+      "pages": "279-286",
+      "issn": "25430955",
+      "eIssn": "25430963",
+      "source_id": "21101107127",
+      "authors": "Gaggero Stefano; Piaggio Benedetto; Vernengo Giuliano; Villa Diego; Viviani Michele; Gualeni Paola",
+      "author_ids": "6503976905;57204360929;37662376400;56250522200;58090077400;15057843300",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Gaggero S.",
+      "keywords": "Computational Fluid Dynamics (CFD) | Free surface flow | Maneuvering | Resistance | Submarine",
+      "abstract": "Submarines bring many interesting hydrodynamic challenges that need to be properly addressed to provide precise and reliable information about their performance. Hydrodynamic performance must be evaluated at least in two main operating conditions, namely when it is deeply submerged and at snorkel depth. There are relevant differences in terms of hydrodynamic since the forward speed in the latter condition is typically much lower and of interaction with the free surface. Moreover, submarines used to sail at snorkel depth if they need to accomplish specific tasks, such as communication, that involves the use of surface piercing masts. The proposed study analyses the opportunity provided by different Computational Fluid Dynamic (CFD) approaches to correctly address submarine performance. The resistance in both conditions, masts free surface hydrodynamics and maneuvering behaviors are addressed. Ad-hoc approaches based on in-house developed numerical procedures and open-source software are presented. Different CFD techniques have been used, including Reynolds Averaged Navire Stokes (RANS), Detached Eddy Simulation (DES) and Smoothed Particle Hydrodynamics (SPH), according to the particular physics that need to be studied.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 22,
+              "rank": 200,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 15,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 13,
+              "rank": 640,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 9,
+              "rank": 91,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 7,
+              "rank": 178,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 4,
+              "rank": 600,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85131965307",
+      "title": "Development and assessment of CFD methods to calculate propeller and hull impact on the rudder inflow for a twin-screw ship",
+      "doi": "10.1016/j.apor.2022.103227",
+      "venue": "Applied Ocean Research",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "125",
+      "issue_id": null,
+      "pages": null,
+      "issn": "01411187",
+      "eIssn": null,
+      "source_id": "26776",
+      "authors": "Franceschi Andrea; Piaggio Benedetto; Villa Diego; Viviani Michele",
+      "author_ids": "57221162704;57204360929;56250522200;58090077400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Franceschi A.",
+      "keywords": "Manoeuvrability | OpenFOAM | Reynolds average Navier–Stokes (RANS) | Rudder–propeller interaction | Straightening coefficients",
+      "abstract": "The purpose of this study is to investigate the feasibility of a simple but robust approach for the identification of the main interaction effect of hull and propeller on the rudder inflow in a conventional manoeuvring simulator. The manoeuvring simulator adopts a modular/MMG based approach in which the hull, the rudders and the propellers are described by separate mathematical models which take into account the interaction phenomena. The propeller–rudder interaction factor is examined by means of a numerical model developed in OpenFOAM for the prediction of the performance of a rudder in behind propeller condition. Differently the hull–rudder interaction factor is numerically obtained by means of two different approaches. The proposed kinematic method shows the minimum additional computational cost without loss of accuracy. It is based on the analysis of rudder inflow fields (in a PIV fashioned), therefore It can be carried out in a post-processing phase of CFD simulations adopted to extract the hydrodynamic coefficients. This study validates the method by comparing it with the classical approach also used in the experimental campaign, based on the analysis of rudder forces from virtual captive tests. The approaches demonstrate to improve the overall accuracy of the main manoeuvring parameters with respect to the ones obtained by means of a calibrated semi-empirical model.",
+      "citations": 19,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 87,
+              "rank": 15,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 87,
+              "rank": 13,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85216188579",
+      "title": "An investigation on the heel influence on manoeuverability: A twin-screw RORO vessel case study",
+      "doi": "10.1201/9781003320272-46",
+      "venue": "Proceedings in Marine Technology and Ocean Engineering",
+      "type": "Book Series",
+      "sub_type": "Book Chapter",
+      "year": 2022,
+      "volume": "1",
+      "issue_id": null,
+      "pages": "417-423",
+      "issn": "2638647X",
+      "eIssn": "26386461",
+      "source_id": "21101270843",
+      "authors": "Piaggio B.; Rimini B.; Villa D.; Viviani M.; Ferrari V.; Tonelli R.",
+      "author_ids": "57204360929;59531979500;56250522200;58090077400;56016852400;7004058063",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60029978;60029978",
+      "corresponding": "Piaggio B.",
+      "keywords": null,
+      "abstract": "Low transverse metacentric height and high speed are peculiar destabilizing factors in ship manoeuverability according to the attainable large heeling angles. The phenomenon indeed occurs in the case of vessels characterized by loading conditions with low transverse stability – e.g. high centre of mass of container vessels and ROROs: starting from Kijima’s single screw container vessel evidence, an extension of the study to twin-screw ferry vessels is undertaken, with the scope of quantifying its effect in terms of turning and ziz-zag IMO margins at an early design stage.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 37,
+              "rank": 73,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85108896596",
+      "title": "Assessment of the manoeuvrability characteristics of a twin shaft naval vessel using an open-source cfd code",
+      "doi": "10.3390/jmse9060665",
+      "venue": "Journal of Marine Science and Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "9",
+      "issue_id": "6",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20771312",
+      "source_id": "21100830140",
+      "authors": "Franceschi Andrea; Piaggio Benedetto; Tonelli Roberto; Villa Diego; Viviani Michele",
+      "author_ids": "57221162704;57204360929;7004058063;56250522200;58090077400",
+      "authorAffiliationIds": "60025153;60025153;60029978;60025153;60025153",
+      "corresponding": "Franceschi A.",
+      "keywords": "DTMB 5415 | Hydrodynamic coefficients | Manoeuvrability | Reynolds average navier-stokes (RANS) | Virtual captive tests",
+      "abstract": "The purpose of this study is to assess the quality of the manoeuvre prediction of a twin-shaft naval vessel by means of a time-domain simulator based on Computational Fluid Dynamics (CFD) hydrodynamic coefficients. The simulator uses a modular approach in which the hull, rudders, appendices and propellers are based on different mathematical models. The hydrodynamic coefficients of the hull in the bare and appended configurations are computed using virtual captive tests performed with an open-source CFD code: OpenFoam. This paper demonstrates that the application of the CFD hydrodynamic coefficients led to a good estimate of the macroscopic characteristics of the main IMO manoeuvres with respect to the experimental measures. The adopted test case is the DTMB 5415M frigate both with and without appendages. This test case has been investigated in several research studies and international benchmark workshops, such as SIMMAN 2008, SIMMAN 2014 and many CFD workgroups.",
+      "citations": 23,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 75,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 73,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 72,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 57,
+              "rank": 42,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 51,
+              "rank": 159,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 49,
+              "rank": 121,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85145495960",
+      "title": "Z-drive escort tug manoeuvrability modelling: From model-scale to full-scale validation",
+      "doi": "10.1201/9781003216599-23",
+      "venue": "Developments in Maritime Technology and Engineering Proceedings of the 5th International Conference on Maritime Technology and Engineering Martech 2020",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "207-216",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101129854",
+      "authors": "Piaggio B.; Viviani M.; Martelli M.; Figari M.",
+      "author_ids": "57204360929;58090077400;55521641400;6507282370",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Piaggio B.",
+      "keywords": null,
+      "abstract": "A deep insight into the manoeuvring characterisation of a broader class of Azimuthal Stern Drive Escort tugs (ASD) is undertaken with the scope of defining a parametric manoeuvring simulation code for the free-sailing and towing operations. To this end, given a simple set of tug design parameters (main dimensions, skeg size, azimuthal size, propeller pitch, main engines, etc.), a physics-based 4-DOF mathematical prediction tool for the dynamic behaviour of the ASD tug has been developed in calm seas. Two independent validation processes have been provided to prove the suitability of the modelling: the first model-scale, while the second full-scale. The present paper presents the free-sailing full-scale validation of a different but compatible hull, having dimensions, propulsion, skeg characteristics significantly different with respect to the “parent-design” (RM2812) used to develop the code principally. The verification involved the measurements purposely performed during sea trials onto two sister-ship ASD new-buildings (RM3213).",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85097799057",
+      "title": "Investigation of the manoeuvrability characteristics of a Gate Rudder system using numerical, experimental, and full-scale techniques",
+      "doi": "10.1016/j.apor.2020.102419",
+      "venue": "Applied Ocean Research",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "106",
+      "issue_id": null,
+      "pages": null,
+      "issn": "01411187",
+      "eIssn": null,
+      "source_id": "26776",
+      "authors": "Carchen Alessandro; Turkmen Serkan; Piaggio Benedetto; Shi Weichao; Sasaki Noriyuki; Atlar Mehmet",
+      "author_ids": "57195154251;57073056700;57204360929;55758703700;55031259600;6701684164",
+      "authorAffiliationIds": "60006222;60006222;60025153;60006222;60024724;60024724",
+      "corresponding": "Carchen A.",
+      "keywords": "CFD simulation | flap effect | full-scale trials | Gate Rudder | manoeuvrability | MMG model | simulation",
+      "abstract": "The Gate Rudder is a recently introduced twin rudder system whose major advantages stem from its energy-saving properties. The two foil-shaped blades of the rudder, placed aside of the propeller, act as a partial duct in the wake of the hull producing additional thrust. However, since the rudder is a primary safety device on any vessel, investigating the manoeuvrability performance of the Gate Rudder is a critical aspect that needs careful and detailed consideration. Owing to its peculiar working principle and location, the standard manoeuvrability prediction methods cannot produce reliable results since they are applied to rudders acting behind the propellers. This paper presents the first comprehensive investigation into the manoeuvrability performance of a Gate Rudder system, which includes the development of a modified MMG model, towing tank experiments and full-scale measurements. The modified MMG model was conceived to predict the manoeuvring motions of a ship with the Gate Rudder system. A generalised prediction method is defined based on this modified MMG model and detailed CFD analysis of the flow pattern around the Gate Rudder for two commercial hull-forms. The simulation model of the Gate Rudder is validated by means of towing tank tests and full-scale manoeuvring trials. The sea trials were conducted onboard two sister container vessels, the first fitted with the first-ever Gate Rudder system and the second with a high-performance flap rudder. This also allowed to compare the two different steering systems.",
+      "citations": 26,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 87,
+              "rank": 15,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 82,
+              "rank": 18,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85084856179",
+      "title": "Numerical analysis of escort tug manoeuvrability characteristics – Part II: The skeg effect",
+      "doi": "10.1016/j.apor.2020.102199",
+      "venue": "Applied Ocean Research",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "100",
+      "issue_id": null,
+      "pages": null,
+      "issn": "01411187",
+      "eIssn": null,
+      "source_id": "26776",
+      "authors": "Piaggio Benedetto; Villa Diego; Viviani Michele; Figari Massimo",
+      "author_ids": "57204360929;56250522200;58090077400;6507282370",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Piaggio B.",
+      "keywords": "Captive model tests | Escort tug | Manoeuvrability | Reynolds average navier-Stokes (RANS) | Skeg",
+      "abstract": "This paper presents a CFD-RANS investigation of the effect of the skeg hydrodynamics on the manoeuvrability of an Azimuth Stern Drive Escort Tug. This study is devoted to identifying a proper mathematical model to be included in a dynamic manoeuvring simulator. The hydrodynamic problem is therefore decomposed in the hull and skeg components. The hydrodynamic characteristics of the skeg were so explored by varying its span and chord systematically, allowing deep insight into the physics of both components and their mutual interaction. The distribution of the forces acting on hull and skeg were studied in detail in their dependence from the skeg geometrical characteristics. Suitable mathematical formulations for the skeg forces were implemented in an MMG-like manoeuvring model-based onto the CFD captive simulations. Lastly, the impact on the tug's manoeuvrability of the previously mentioned variations was then investigated. Turning, Zig-Zag, Escort Capability, Escort Mirror ability and Escort Stability manoeuvres were simulated. The results of these manoeuvres are presented, showing the great potential of this manoeuvring model in representing a wider class of Escort tugs.",
+      "citations": 20,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 87,
+              "rank": 15,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 83,
+              "rank": 16,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85079632224",
+      "title": "An all-round design-to-simulation approach of a new Z-drive escort tug class",
+      "doi": "10.1115/1.4045440",
+      "venue": "Journal of Offshore Mechanics and Arctic Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "142",
+      "issue_id": "3",
+      "pages": null,
+      "issn": "08927219",
+      "eIssn": "1528896X",
+      "source_id": "20985",
+      "authors": "Figari Massimo; Martinelli Luca; Piaggio Benedetto; Enoizi Lucia; Viviani Michele; Villa Diego",
+      "author_ids": "6507282370;57203641272;57204360929;57204365897;58090077400;56250522200",
+      "authorAffiliationIds": "60025153;110039644;60025153;110039644;60025153;60025153",
+      "corresponding": "Figari M.",
+      "keywords": null,
+      "abstract": "An industrial-academic collaboration between Rosetti Marino shipyard and University of Genoa presided over a deep theoretical and experimental insight into the maneuvering performances of a new escort tug family. The presented z-drive azimuthal stern drive class is characterized by high intact/damage stability margins, good maneuvering capability, and stable behavior during escort indirect assistance. The project addresses three main research areas: hydrodynamic design of the hull with escort capability, simulation of the escort capabilities in different operational scenario, and development of control logics that will allow autonomous or unmanned operations. The tug design concept is supported by a customized simulation tool that enables the evaluation of the free-sailing and towing maneuvering characteristics for Azimuth Stern Drive (ASD) tugs at high-speed (Escort) and low speed (Harbor Assistance) in a real-time environment. The paper describes the methodological approach adopted for the design and maneuvering characterization of such a class, across some preliminary results. Computational fluid dynamics (CFD) calculations and towing tank tests have been performed onto a prototype tug hull in order to assess the hull design and to infer simulation models able to describe the behavior of a family of vessels. In particular, the propulsion and maneuverability aspects in escort operations are deeply investigated.",
+      "citations": 13,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 64,
+              "rank": 42,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 61,
+              "rank": 286,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 63,
+              "rank": 36,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 60,
+              "rank": 235,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85079662814",
+      "title": "Numerical analysis of escort tug manoeuvrability characteristics",
+      "doi": "10.1016/j.apor.2020.102075",
+      "venue": "Applied Ocean Research",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "97",
+      "issue_id": null,
+      "pages": null,
+      "issn": "01411187",
+      "eIssn": null,
+      "source_id": "26776",
+      "authors": "Piaggio Benedetto; Villa Diego; Viviani Michele",
+      "author_ids": "57204360929;56250522200;58090077400",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Piaggio B.",
+      "keywords": "Captive model tests | Escort tug | Manoeuvring | Reynolds average Navier-Stokes (RANS) | Validation",
+      "abstract": "The adoption of RANS techniques is widely spread in terms of resistance and self-propulsion prognosis for merchant and military vessels; however, on the other hand, the captive evaluation of hydrodynamic manoeuvring forces across numerical procedures still concerns great computational effort and challenge. When it comes to deal with Escort or tractor tugs, characterised by rather full hull forms, typical of harbour tugs, with the addition of extensive foiled shaped fore-skegs solutions, the ability of predicting manoeuvring and handling of such vessels becomes a great added value at an early design stage, as an alternative to physical model scale testing, since very scarce data are present in open literature. Escort vessels in particular, both operate at low and high speed, in addition to the typical harbour tasks entailed, making the manoeuvring modelling even more complicated. In present work, a low-speed and high-speed numerical methodology based on the OpenFOAM finite volume method on polyhedral unstructured mesh is investigated and validated against purposely designed model tests carried out in towing tank: Pure yaw, pure drift, drift and yaw, and drift and heel simulation results are compared with experimental data in terms of forces first, and impact on manoeuvring lastly, showing satisfactory agreement with experiments. Finally, Escort capability tests run at tank are compared with a purposely calibrated manoeuvring model on the RANS results.",
+      "citations": 30,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 87,
+              "rank": 15,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 83,
+              "rank": 16,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85110438737",
+      "title": "Follow-the-leader control strategy for azimuth propulsion system on surface vessels",
+      "doi": "10.24868/issn.2631-8741.2020.004",
+      "venue": "Proceedings of the International Ship Control Systems Symposium",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": "1",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "26318741",
+      "source_id": "21101052918",
+      "authors": "Piaggio B.; Garofano V.; Donnarumma S.; Alessandri A.; Negenborn R. R.; Martelli M.",
+      "author_ids": "57204360929;57210819545;55350308600;7005735677;16480813000;55521641400",
+      "authorAffiliationIds": "60025153;60118236;60025153;60025153;60118236;60025153",
+      "corresponding": "Piaggio B.",
+      "keywords": "Azimuthal Propulsion | Follow-the-Leader | Line-of-Sight | Path-Following | Platooning | Tugs",
+      "abstract": "This paper presents an effective autonomous follow-the-leader strategy for Azimuthal Stern Drive vessels. The control logic has been investigated from a theoretical point of view. A line-of-sight algorithm is exploited to ensure yaw-check ability, while a speed-check feature is implemented to track the velocity of the target along the path. For this purpose, a linearised manoeuvrability model for azimuthal drive surface vessels is presented. A model-based control synthesis is proposed to ensure the stability of the closed-loop system and robust PID controllers are designed by using Linear Matrix Inequalities technique. The control strategy has been successively validated in two steps, initially by using simulation techniques, and then experimentally using an outdoor scenario with model scale tugs. The path planning, navigation, guidance and control modules are studied, detailed, and digitally implemented on-board of the model scale tugs. The models are supplied with GNSS+INS navigation system. Low-level management and control of Azimuthals angles and shaft revolutions is implemented on-board. High-level decen-tralised path planning, guidance, and control sequence evaluation are dealt with at a remote ground station. In particular, the presented follow-the-leader strategy meets the most generic needs of platooning convoys, and, in the specific instance, of Escort convoy tugs. The operative profile of the latter concerns long-lasting and routine chases with the continuous demand of tuning heading and speed to track the target vessels, until the rare occurrence of an emergency event. In a realistic scenario, the proposed control system would be beneficial for the tug master’s lucidity and alertness, while reducing avoidable risks. At the end of the paper, the results of the experimental campaign are shown to demonstrate the effectiveness of the proposed control logic.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 20,
+              "rank": 793,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 20,
+              "rank": 93,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 14,
+              "rank": 327,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 9,
+              "rank": 174,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85073011172",
+      "title": "Z-Drive Escort Tug manoeuvrability model and simulation",
+      "doi": "10.1016/j.oceaneng.2019.106461",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "191",
+      "issue_id": null,
+      "pages": null,
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Piaggio Benedetto; Viviani Michele; Martelli Michele; Figari Massimo",
+      "author_ids": "57204360929;58090077400;55521641400;6507282370",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Piaggio B.",
+      "keywords": "Azimuthal Stern Drive | Dynamic simulation | Escort towing | Manoeuvring Model | Tugs | z-Drive",
+      "abstract": "The ability to predict the tug's handling, effectiveness, and safety at early design stage is paramount in view of an optimal design process. In this framework, the availability of a reliable manoeuvrability prediction model is beneficial. This paper presents a novel 4-DOF parametric manoeuvrability model dedicated to the manoeuvrability analysis of Azimuthal Stern Drive Escort Tugs. An extensive captive model testing campaign is exploited to develop the mathematical model, conceived following the MMG model concept. The modelling pursues a physics-based approach aimed at characterising the complete manoeuvring hydrodynamics of the vessel. The hull+skeg and azimuthals force contributions are analysed separately and are then coupled to analyse their interaction. A complete, real-time simulator is presented, which is capable of simulating the dynamics of a towing convoy in several real case scenarios. This capability is envisaged to become a very useful tool for the tug designer, allowing to address realistic operational conditions with a focus on manoeuvring capabilities, risk assessment, risk mitigation, operational safety and effectiveness.",
+      "citations": 32,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 87,
+              "rank": 12,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 76,
+              "rank": 32,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85087607228",
+      "title": "A new escort tug family designed to anticipate new safety requirements and operational needs",
+      "doi": "10.3233/978-1-61499-870-9-986",
+      "venue": "Technology and Science for the Ships of the Future Proceedings of Nav 2018 19th International Conference on Ship and Maritime Research",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": null,
+      "issue_id": null,
+      "pages": "986-993",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101023871",
+      "authors": "Figari Massimo; Martinelli Luca; Martelli Michele; Enoizi Lucia; Piaggio Benedetto",
+      "author_ids": "6507282370;57203641272;55521641400;57204365897;57204360929",
+      "authorAffiliationIds": "60025153;110039644;60025153;110039644;60025153",
+      "corresponding": "Figari M.",
+      "keywords": "Escort tug | Maneuvrability | Simulation | Tug",
+      "abstract": "The aim of the paper is to describe an industry-academic collaboration to conduct a research project whose main goal is the design of a new escort tug family characterized by high intact/damage stability margins, good maneuvering capability and stable behavior during escort indirect assistance. The project is focused on three main research areas: hydrodynamic design and internal subdivision of the hull, simulation of the escort capabilities in different operational scenario, development of control logics that will allow autonomous or unmanned operations. The paper describes the methodological approach adopted for the design and will show some preliminary results. The tug has been designed to be in compliance with new amendments of the 2008 Intact Stability Code (Res. MSC.415(97)) which will enter into force on 1st January 2020) both for towing and for escort operations. Furthermore, a significant step towards enhancement of ship's safety is granted by tug's capability to withstand a damage in accordance with criteria applicable to OSVs. This paper describes the prototype hull and its stability characteristics. CFD calculations and towing tank tests have been performed in order to assess the hull design and to infer simulation models able to describe the behavior of a family of vessels. In particular, the propulsion and maneuverability aspects in escort operations are deeply investigated. Results of the project will form the bases for the conceptual application to a remotely controlled or autonomous escort tug.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85055354752",
+      "title": "Escort tug hydrodynamic forces estimation in a design framework: From model test to manoeuvrability simulation",
+      "doi": "10.1115/OMAE2018-78052",
+      "venue": "Proceedings of the International Conference on Offshore Mechanics and Arctic Engineering OMAE",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": "11B",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "91440",
+      "authors": "Piaggio Benedetto; Viviani Michele; Martelli Michele",
+      "author_ids": "57204360929;58090077400;55521641400",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Piaggio B.",
+      "keywords": null,
+      "abstract": "The manoeuvring capabilities of an escort tug are essential key-features with a view to an all-around design approach devoted to an optimum oriented framework. From the hull geometry settlement and propulsive solution definition, the ability to predict thoroughly the operative life in terms of handling, effectiveness, and safety becomes fundamental, even more with the perspective of developing smart control logics supporting the masters. With such an aim, the availability of a reliable manoeuvrability model is of fundamental importance. In this context, it is important to define an optimum set of captive manoeuvrability tests, whether experimental or numerical, in order to correctly identify the vessel escort performances in simulation; this, always keeping in mind the necessity to limit the effort in view of an application at an early-design stage. Starting from a wide experimental matrix, purposely designed and realized, the present investigation focuses on the quality and robustness of the different regression manoeuvrability models by letting vary the subsets of tests, in order to determine, finally, which is the most suitable hull model to be adopted and which is the minimum set to be performed.",
+      "citations": 13,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85055339380",
+      "title": "All around approach for the design of a new escort tug family",
+      "doi": "10.1115/OMAE2018-77914",
+      "venue": "Proceedings of the International Conference on Offshore Mechanics and Arctic Engineering OMAE",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": "11B",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "91440",
+      "authors": "Figari Massimo; Martinelli Luca; Viviani Michele; Villa Diego; Enoizi Lucia; Piaggio Benedetto",
+      "author_ids": "6507282370;57203641272;58090077400;56250522200;57204365897;57204360929",
+      "authorAffiliationIds": "60025153;110039644;60025153;60025153;110039644;60025153",
+      "corresponding": "Figari M.",
+      "keywords": null,
+      "abstract": "The aim of the paper is to describe an industrial-academic collaboration whose main goal is the design of a new escort tug family characterized by high intact/damage stability margins, good maneuvering capability and stable behavior during escort indirect assistance. The project addresses three main research areas: hydrodynamic design of the hull with escort capability, simulation of the escort capabilities in different operational scenario, development of control logics that will allow autonomous or unmanned operations. The paper describes the methodological approach adopted for the design and will show some preliminary results. The results refer to the first part of the project. CFD calculations and towing tank tests have been performed onto a prototype tug hull in order to assess the hull design and to infer simulation models able to describe the behavior of a family of vessels. In particular, the propulsion and maneuverability aspects in escort operations are deeply investigated. Results of the project will form the bases for the conceptual application to a remotely controlled or autonomous escort tug.",
+      "citations": 5,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85055317705",
+      "title": "Manoeuvring model and simulation of the non-linear dynamic interaction between tethered ship and tug during escort",
+      "doi": null,
+      "venue": "Maritime Transportation and Harvesting of Sea Resources",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": "1",
+      "issue_id": null,
+      "pages": "95-104",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100886381",
+      "authors": "Piaggio B.; Martelli M.; Viviani M.; Figari M.",
+      "author_ids": "57204360929;55521641400;58090077400;6507282370",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Piaggio B.",
+      "keywords": null,
+      "abstract": "When dealing with towing and Escort operations—indissolubly—a wider and complete modelling of the involved dynamics becomes fundamental, on both ship and tug side, even more so making unavoidable the need of correctly ponder the cables constraining coupling. With the aim to better understand the peculiarities of tug-ship interaction, a 6-DOF time domain simulator comprehensive of the propulsion dynamics has been developed, across the inter-connection imposed by the towing-line. Particular attention is focused on discovering the operational capabilities of the tug in exerting a force on the assisted ship during Escort, and the subsequent great influence that the reaction makes on the tug handling and effectiveness. A conceptual and critical discussion stands out, preparing the ground to future design strategies and hinting different solutions to be investigated, directly facing the operative profile of the vessel.",
+      "citations": 10,
+      "quartile": null
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1268177",
+      "authors": "Berte', Lorenzo; Villa, Diego; Viviani, Michele; Mazzarello, Giorgio; Carmone, Francesco Paolo; Piaggio, Benedetto",
+      "legacy_id": 664883,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "A 6-DOF submarine manoeuvrability prediction code - Part I: Development and validation",
+      "scopus_id": "2-s2.0-105018119374",
+      "doi": "10.1016/j.oceaneng.2025.122718",
+      "isi_id": "WOS:001590500600006",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1275376",
+      "authors": "Bertè, Lorenzo; Villa, Diego; Mazzarello, Giorgio; Carmone, Francesco P.; Viviani, Michele; Piaggio, Benedetto",
+      "legacy_id": 673097,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Development and Validation of a Submarine Manoeuvrability Prediction Code for Design",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1263279",
+      "authors": "Bertè, Lorenzo; Piaggio, Benedetto; Scotto, Luca; Becchetti, Sebastiano; Viviani, Michele; Villa, Diego",
+      "legacy_id": 659016,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Development of a CFD Based Submarine Manoeuvrability Prediction Code",
+      "scopus_id": "2-s2.0-105016237135",
+      "doi": "10.3233/PMST250034",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1107213",
+      "authors": "Piaggio, Benedetto; Sommariva, Guglielmo; Franceschi, Andrea; Villa, Diego; Viviani, Michele",
+      "legacy_id": 454323,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Twin-screw vessel manoeuvrability: The traditional twin-rudder configuration vs pod-drives",
+      "scopus_id": "2-s2.0-85147365813",
+      "doi": "10.1016/j.oceaneng.2023.113725",
+      "isi_id": "WOS:000963437100001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1142595",
+      "authors": "Piaggio, Benedetto; Garofano, Vittorio; Donnarumma, Silvia; Alessandri, Angelo; Negenborn, Rudy; Martelli, Michele",
+      "legacy_id": 502847,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Follow-the-Leader Guidance, Navigation, and Control of Surface Vessels: Design and Experiments",
+      "scopus_id": "2-s2.0-85171563043",
+      "doi": "10.1109/JOE.2023.3292422",
+      "isi_id": "WOS:001071946500001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1159155",
+      "authors": "Zheku, V. V.; Villa, D.; Piaggio, B.; Gaggero, S.; Viviani, M.",
+      "legacy_id": 525709,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Assessment of Numerical Captive Model Tests for Underwater Vehicles: The DARPA SUB-OFF Test Case",
+      "scopus_id": "2-s2.0-85180686068",
+      "doi": "10.3390/jmse11122325",
+      "isi_id": "WOS:001131216000001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "9",
+      "citations_scopus": "11"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1093177",
+      "authors": "Piaggio, B.; Viviani, M.; Martelli, M.; Figari, M.",
+      "legacy_id": 432195,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Z-Drive Escort Tug manoeuvrability model and simulation, Part II: A full-scale validation",
+      "scopus_id": "2-s2.0-85133540544",
+      "doi": "10.1016/j.oceaneng.2022.111881",
+      "isi_id": "WOS:000830492000002",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "9",
+      "citations_scopus": "12"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1083299",
+      "authors": "Piaggio, B.; Rimini, B.; Villa, D.; Viviani, M.; Ferrari, V.; Tonelli, R.",
+      "legacy_id": 421445,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "An investigation on the heel influence on manoeuverability: A twin-screw RORO vessel case study",
+      "scopus_id": "2-s2.0-85216188579",
+      "doi": "10.1201/9781003320272-46",
+      "isi_id": "WOS:001242710400046",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1094915",
+      "authors": "Gaggero, S.; Piaggio, B.; Vernengo, G.; Villa, D.; Viviani, M.; Gualeni, P",
+      "legacy_id": 434374,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Numerical Approaches for Submarine Hydrodynamic Design and Performance Analysis",
+      "scopus_id": "2-s2.0-85138153375",
+      "doi": "10.3233/PMST220035",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1097453",
+      "authors": "Piaggio, B.; Franceschi, A.; Villa, D.; Ferrari, V.; Tonelli, R.; Viviani, M.",
+      "legacy_id": 438138,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "The heel influence on ship manoeuvrability: Single and twin-screw surface vessels",
+      "scopus_id": "2-s2.0-85140026825",
+      "doi": "10.1016/j.oceaneng.2022.112721",
+      "isi_id": "WOS:000875627500004",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "6",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1089428",
+      "authors": "Franceschi, Andrea; Piaggio, Benedetto; Villa, Diego; Viviani, Michele",
+      "legacy_id": 427861,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Development and assessment of CFD methods to calculate propeller and hull impact on the rudder inflow for a twin-screw ship",
+      "scopus_id": "2-s2.0-85131965307",
+      "doi": "10.1016/j.apor.2022.103227",
+      "isi_id": "WOS:000829053900001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "14",
+      "citations_scopus": "18"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1104153",
+      "authors": "Piaggio, Benedetto; Vernengo, Giuliano; Ferrando, Marco; Mazzarello, Giorgio; Viviani, Michele",
+      "legacy_id": 448260,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Submarine Manoeuvrability Design: Traditional Cross-Plane vs. x-Plane Configurations in Intact and Degraded Conditions",
+      "scopus_id": "2-s2.0-85144980982",
+      "doi": "10.3390/jmse10122014",
+      "isi_id": "WOS:000901123400001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1034002",
+      "authors": "Piaggio, Benedetto; Viviani, Michele; Martelli, Michele; Figari, Massimo",
+      "legacy_id": 357938,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "Z-drive escort tug manoeuvrability modelling: From model-scale to full-scale validation",
+      "scopus_id": "2-s2.0-85145495960",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1058586",
+      "authors": "Franceschi, A.; Piaggio, B.; Tonelli, R.; Villa, D.; Viviani, M.",
+      "legacy_id": 393064,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "Assessment of the manoeuvrability characteristics of a twin shaft naval vessel using an open-source cfd code",
+      "scopus_id": "2-s2.0-85108896596",
+      "doi": "10.3390/jmse9060665",
+      "isi_id": "WOS:000666543200001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "17",
+      "citations_scopus": "22"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1045079",
+      "authors": "Charchen, Alessandro; Turkmen, S.; Piaggio, Benedetto; Shia, W.; Sasaki, N.; Atlar, M.",
+      "legacy_id": 357927,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "Investigation of the manoeuvrability characteristics of a Gate Rudder system using numerical, experimental, and full-scale techniques",
+      "scopus_id": "2-s2.0-85097799057",
+      "doi": "10.1016/j.apor.2020.102419",
+      "isi_id": "WOS:000612308200004",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "22",
+      "citations_scopus": "26"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1000334",
+      "authors": "Piaggio, Benedetto; Villa, Diego; Viviani, Michele",
+      "legacy_id": 326034,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Numerical analysis of escort tug manoeuvrability characteristics",
+      "scopus_id": "2-s2.0-85079662814",
+      "doi": "10.1016/j.apor.2020.102075",
+      "isi_id": "WOS:000526414100009",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "20",
+      "citations_scopus": "30"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1045081",
+      "authors": "Piaggio, B; Garofano, V; Donnarumma, S; Alessandri, A; Negenborn, Rr; Martelli, M",
+      "legacy_id": 377859,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "Follow-the-Leader Control Strategy for Azimuth Propulsion System on Surface Vessels",
+      "scopus_id": "2-s2.0-85110438737",
+      "doi": "10.24868/issn.2631-8741.2020.004",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1011303",
+      "authors": "Piaggio, Benedetto; Villa, Diego; Viviani, Michele; Figari, Massimo",
+      "legacy_id": 338639,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Numerical analysis of escort tug manoeuvrability characteristics – Part II: The skeg effect",
+      "scopus_id": "2-s2.0-85084856179",
+      "doi": "10.1016/j.apor.2020.102199",
+      "isi_id": "WOS:000542340000014",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "13",
+      "citations_scopus": "20"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/995222",
+      "authors": "Piaggio, Benedetto",
+      "ssd": "Settore ING-IND/01 - Architettura Navale",
+      "legacy_id": 320034,
+      "year": 2020,
+      "miur_type": "-2",
+      "title": "AZIMUTH-DRIVE ESCORT TUG MANOEUVRABILITY MODEL, SIMULATION AND CONTROL",
+      "doi": "10.15167/piaggio-benedetto_phd2020-04-28",
+      "type": "Tesi di dottorato"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1000316",
+      "authors": "Figari, Massimo; Martinelli, Luca; Piaggio, Benedetto; Enoizi, Lucia; Viviani, Michele; Villa, Diego",
+      "legacy_id": 326018,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "An All-Round Design-to-Simulation Approach of a New Z-Drive Escort Tug Class",
+      "scopus_id": "2-s2.0-85079632224",
+      "doi": "10.1115/1.4045440",
+      "isi_id": "WOS:000617345900009",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "12",
+      "citations_scopus": "13"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/978581",
+      "authors": "Enoizi, Lucia; Piaggio, Benedetto; Martinelli, Luca; Figari, Massimo; Faggioni, Nicolo'",
+      "legacy_id": 301359,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Rosmanditen: a Theoretical and Experimental Insight into ASD Tug Manoeuvrability",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/975901",
+      "authors": "Piaggio, Benedetto; Viviani, Michele; Martelli, Michele; Figari, Massimo",
+      "legacy_id": 298482,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Z-Drive Escort Tug manoeuvrability model and simulation",
+      "scopus_id": "2-s2.0-85073011172",
+      "doi": "10.1016/j.oceaneng.2019.106461",
+      "isi_id": "WOS:000502888100013",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "26",
+      "citations_scopus": "32"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/912543",
+      "authors": "Figari, Massimo; Martinelli, Luca; Viviani, Michele; Villa, Diego; Enoizi, Lucia; Piaggio, Benedetto",
+      "legacy_id": 226896,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "ALL AROUND APPROACH FOR THE DESIGN OF A NEW ESCORT TUG FAMILY",
+      "scopus_id": "2-s2.0-85055339380",
+      "doi": "10.1115/OMAE2018-77914",
+      "isi_id": "WOS:000449890600007",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "4",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/929263",
+      "authors": "Piaggio, B.; Viviani, M.; Martelli, M",
+      "legacy_id": 245180,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Escort Tug Hydrodynamic Forces Estimation in a Design Framework: From Model Test to Manoeuvrability Simulation",
+      "scopus_id": "2-s2.0-85055354752",
+      "doi": "10.1115/OMAE2018-78052",
+      "isi_id": "WOS:000449890600008",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "3",
+      "citations_scopus": "13"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/929309",
+      "authors": "Figari, Massimo; Martinelli, Luca; Martelli, Michele; Enoizi, Lucia; Piaggio, Benedetto",
+      "legacy_id": 245241,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "A New Escort Tug Family Designed to Anticipate New Safety Requirements and Operational Needs",
+      "scopus_id": "2-s2.0-85087607228",
+      "doi": "10.3233/978-1-61499-870-9-986",
+      "isi_id": "WOS:000567876300115",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "3",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/882182",
+      "authors": "Piaggio, Benedetto; Martelli, M.; Viviani, M.; Figari, M.",
+      "legacy_id": 193076,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "Manoeuvring model and simulation of the non-linear dynamic interaction between tethered ship and tug during escort",
+      "scopus_id": "2-s2.0-85055317705",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "10"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:13:34.200655"
+}

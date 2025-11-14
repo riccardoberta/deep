@@ -1,0 +1,5456 @@
+# Randazzo Andrea
+
+## Overview
+- **Unit:** ICT
+- **Role:** Professore ordinario
+- **Grade:** Prof.Ordinario Legge 240/10 - t.pieno - classe 2
+- **SSD:** IINF-02/A (Campi elettromagnetici)
+- **Scopus ID:** 7006280562
+- **UNIGE ID:** 700788
+- **Retrieved at:** 2025-11-14T15:16:58.968914
+
+## Contact
+- **Email:** andrea.randazzo@unige.it
+- **Phone:** 010 33 56588
+- **Website:** http://www.aem.dibe.unige.it/
+- **Page:** https://rubrica.unige.it/personale/UkNHXFJh
+- **Locations:** Opera Pia - padiglione D (ED_161450401), 3° piano, US_161450401.III.005
+
+## Career
+- RU, 2012-05-01 → 2014-12-28
+- PA, 2014-12-29 → 2019-11-30
+- PO, 2019-12-01 → 2222-02-02
+
+## Teaching
+### 2025
+- Campi Elettromagnetici (80127), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Electromagnetic Monitoring Techniques (94664), Lm-26 - Engineering For Natural Risk Management
+- Electromagnetic Sensing And Imaging (114765), Lm-29 - Electronic Engineering
+- Antennas (90316), Lm-27 - Internet And Multimedia Engineering
+- Antennas (90316), Lm-27 - Internet And Multimedia Engineering
+- Electromagnetic Technologies And Compatibility (114759), Lm-29 - Electronic Engineering
+
+### 2024
+- Electromagnetic Sensing And Imaging (106823), Lm-29 - Ingegneria Elettronica
+- Advanced Antenna Engineering (80853), Lm-29 - Ingegneria Elettronica
+- Campi Elettromagnetici (80127), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Antennas (90316), Lm-27 - Internet And Multimedia Engineering
+- Antennas (90316), Lm-27 - Internet And Multimedia Engineering
+- Electromagnetic Techniques For Monitoring Structures And Protecting Systems (94664), Lm-26 - Engineering For Natural Risk Management
+- Electromagnetic Technologies And Compatibility (114759), Lm-29 - Electronic Engineering
+
+### 2023
+- Advanced Electromagnetics Engineering (106769), Lm-29 - Ingegneria Elettronica
+- Advanced Antenna Engineering (80853), Lm-29 - Ingegneria Elettronica
+- Electromagnetic Sensing And Imaging (106823), Lm-29 - Ingegneria Elettronica
+- Campi Elettromagnetici (80127), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Antennas (90316), Lm-27 - Internet And Multimedia Engineering
+- Electromagnetic Techniques For Monitoring Structures And Protecting Systems (94664), Lm-26 - Engineering For Natural Risk Management
+
+### 2022
+- Advanced Antenna Engineering (80853), Lm-29 - Ingegneria Elettronica
+- Electromagnetic Sensing And Imaging (106823), Lm-29 - Ingegneria Elettronica
+- Advanced Electromagnetics Engineering (106769), Lm-29 - Ingegneria Elettronica
+- Antennas (90316), Lm-27 - Internet And Multimedia Engineering
+- Electromagnetic Techniques For Monitoring Structures And Protecting Systems (94664), Lm-26 - Engineering For Natural Risk Management
+
+### 2021
+- Electromagnetic Sensing And Imaging (106823), Lm-29 - Ingegneria Elettronica
+- Advanced Electromagnetics Engineering (106769), Lm-29 - Ingegneria Elettronica
+- Antennas (90316), Lm-27 - Internet And Multimedia Engineering
+- Electromagnetic Techniques For Monitoring Structures And Protecting Systems (94664), Lm-26 - Engineering For Natural Risk Management
+
+### 2020
+- I.E.S. And Elect. Waves Mod.A (66149), Lm-29 - Ingegneria Elettronica
+- Antennas (90316), Lm-27 - Internet And Multimedia Engineering
+- Electromagnetic Techniques For Monitoring Structures And Protecting Systems (94664), Lm-26 - Engineering For Natural Risk Management
+
+## Scopus Metrics
+- absolute; Docs: 269; Journals: 104; Conferences: 157; Citations: 3002; H-index: 30
+- 15 years (2010-2025); Docs: 214; Journals: 84; Conferences: 124; Citations: 1782; H-index: 24
+- 10 years (2015-2025); Docs: 170; Journals: 64; Conferences: 101; Citations: 1264; H-index: 21
+- 05 years (2020-2025); Docs: 101; Journals: 43; Conferences: 54; Citations: 622; H-index: 13
+
+## Scopus Products
+1.
+   - **Title:** Stroke Detection and Monitoring by Means of a Multifrequency Microwave Inversion Approach
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.3390/electronics14030543
+   - **Scopus ID:** 2-s2.0-85217642112
+   - **eISSN:** 20799292
+   - **Volume:** 14
+   - **Issue:** 3
+   - **Authors:** Fedeli Alessandro; Schenone Valentina; Estatico Claudio; Randazzo Andrea
+   - **Keywords:** inverse scattering | microwave imaging | multifrequency methods | stroke diagnostics
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 55512997500;57216360162;9739222400;7006280562
+   - **Authoraffiliationids:** 60025153-130272028;60025153;60025153;60025153-130272028
+   - **Corresponding:** Fedeli A.
+2.
+   - **Title:** A Method to Include the Effects of Tortuosity in the Electromagnetic Field Expressions produced by Vertical Lightning Channels
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/TAP.2025.3605025
+   - **Scopus ID:** 2-s2.0-105015729629
+   - **ISSN:** 0018926X
+   - **eISSN:** 15582221
+   - **Authors:** Mestriner Daniele; Aramini Riccardo; Brignone Massimo; Nicora Martino; Procopio Renato; Randazzo Andrea
+   - **Keywords:** Electromagnetic fields | Lightning | Numerical models | Regularization
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+   - **Source Id:** 17337
+   - **Author Ids:** 57115575100;15759187700;8580886100;57210463204;7801615894;7006280562
+   - **Corresponding:** Mestriner D.
+3.
+   - **Title:** Antenna Arrays Diagnosis Through Inverse-Based Approaches
+   - **Venue:** 2025 Ursi International Symposium on Electromagnetic Theory Emts 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.46620/URSIEMTS25/LPZI8405
+   - **Scopus ID:** 2-s2.0-105013751148
+   - **Authors:** Costanzo Sandra; Di Massa Giuseppe; Fedeli Alessandro; Randazzo Andrea
+   - **Source Id:** 21101321955
+   - **Author Ids:** 14029886000;57201738411;55512997500;7006280562
+   - **Authoraffiliationids:** 60020261;60020261;60025153;60025153
+   - **Corresponding:** Costanzo S.
+4.
+   - **Title:** Mild Data-Driven Inversion for Microwave Nondestructive Diagnostics of Plants and Trees
+   - **Venue:** Eucap 2025 19th European Conference on Antennas and Propagation
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EuCAP63536.2025.10999253
+   - **Scopus ID:** 2-s2.0-105007513543
+   - **Authors:** Fedeli Alessandro; Estatico Claudio; Randazzo Andrea
+   - **Keywords:** inverse problems | Microwave imaging | mild data-driven methods | plant diagnostics
+   - **Source Id:** 21101300336
+   - **Author Ids:** 55512997500;9739222400;7006280562
+   - **Authoraffiliationids:** 60025153-130090973;60025153;60025153
+   - **Corresponding:** Fedeli A.
+5.
+   - **Title:** Inverse-Based Approaches for Fault Detection in Antenna Arrays
+   - **Venue:** Eucap 2025 19th European Conference on Antennas and Propagation
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EuCAP63536.2025.10999861
+   - **Scopus ID:** 2-s2.0-105007497735
+   - **Authors:** Costanzo Sandra; Di Massa Giuseppe; Fedeli Alessandro; Randazzo Andrea
+   - **Keywords:** Antenna arrays | fault detection | inverse problems
+   - **Source Id:** 21101300336
+   - **Author Ids:** 14029886000;57201738411;55512997500;7006280562
+   - **Authoraffiliationids:** 60020261;60020261;60025153;60025153
+   - **Corresponding:** Costanzo S.
+6.
+   - **Title:** An Antenna Array Diagnosis Approach Based on CNN Inversion and CFAR Detection
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/TAP.2025.3573617
+   - **Scopus ID:** 2-s2.0-105007418441
+   - **ISSN:** 0018926X
+   - **eISSN:** 15582221
+   - **Volume:** 73
+   - **Issue:** 9
+   - **Pages:** 6252-6262
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Randazzo Andrea
+   - **Keywords:** Antenna arrays | antenna diagnostics | constant false alarm rate (CFAR) | convolutional neural network (CNN) | inverse source
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+   - **Source Id:** 17337
+   - **Author Ids:** 57216360162;55512997500;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Schenone V.
+7.
+   - **Title:** Reconstruction of the Lightning Return-Stroke Current from the Radiated Magnetic Field
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/TAP.2025.3536797
+   - **Scopus ID:** 2-s2.0-105002681872
+   - **ISSN:** 0018926X
+   - **eISSN:** 15582221
+   - **Volume:** 73
+   - **Issue:** 4
+   - **Pages:** 2521-2532
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Procopio Renato; Randazzo Andrea; Rubinstein Marcos
+   - **Keywords:** Electromagnetic propagation | inverse problems | lightning current
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+   - **Source Id:** 17337
+   - **Author Ids:** 15759187700;8580886100;57115575100;7801615894;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;128065441
+   - **Corresponding:** Aramini R.
+8.
+   - **Title:** Quantitative Inversion of Multiantenna Ground-Penetrating Radar Data with Modeling Error Correction Based on Long Short-Term Memory Cells
+   - **Venue:** Remote Sensing
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.3390/rs16122050
+   - **Scopus ID:** 2-s2.0-85197237391
+   - **eISSN:** 20724292
+   - **Volume:** 16
+   - **Issue:** 12
+   - **Authors:** Fedeli Alessandro; Schenone Valentina; Randazzo Andrea
+   - **Keywords:** ground penetrating radar | inverse scattering | long short-term memory | quantitative imaging
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 12, percentile 94)
+     2024:
+     - Earth and Planetary Sciences (all) (Q1, rank 13, percentile 93)
+   - **Source Id:** 86430
+   - **Author Ids:** 55512997500;57216360162;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+9.
+   - **Title:** Application of a mild data-driven technique to Lippmann–Schwinger inverse scattering in variable-exponent Lebesgue spaces for microwave imaging
+   - **Venue:** Inverse Problems
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1088/1361-6420/ad3ea9
+   - **Scopus ID:** 2-s2.0-85192190447
+   - **ISSN:** 02665611
+   - **eISSN:** 13616420
+   - **Volume:** 40
+   - **Issue:** 6
+   - **Authors:** Estatico Claudio; Schenone Valentina; Fedeli Alessandro; Randazzo Andrea
+   - **Keywords:** Banach-spaces | data-driven regularization | inverse scattering | microwave imaging | variable-exponent Lebesgue spaces
+   - **Quartile:**
+     2025:
+     - Mathematical Physics (Q1, rank 21, percentile 77)
+     - Applied Mathematics (Q2, rank 200, percentile 70)
+     - Theoretical Computer Science (Q2, rank 58, percentile 57)
+     - Signal Processing (Q2, rank 83, percentile 57)
+     - Computer Science Applications (Q3, rank 495, percentile 49)
+     2024:
+     - Mathematical Physics (Q1, rank 22, percentile 75)
+     - Applied Mathematics (Q2, rank 203, percentile 69)
+     - Signal Processing (Q2, rank 77, percentile 58)
+     - Theoretical Computer Science (Q2, rank 60, percentile 56)
+     - Computer Science Applications (Q3, rank 478, percentile 49)
+   - **Source Id:** 28497
+   - **Author Ids:** 9739222400;57216360162;55512997500;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+10.
+   - **Title:** Improved Chebyshev Spectral Method Modeling for Vector Radiative Transfer in Atmospheric Propagation
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1109/TAP.2024.3378831
+   - **Scopus ID:** 2-s2.0-85189176394
+   - **ISSN:** 0018926X
+   - **eISSN:** 15582221
+   - **Volume:** 72
+   - **Issue:** 5
+   - **Pages:** 4465-4476
+   - **Authors:** Tavanti Emanuele; Caviglia Daniele D.; Randazzo Andrea
+   - **Keywords:** Atmospheric propagation | electromagnetic scattering | multiple scattering | random media | vector radiative transfer (VRT)
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 81, percentile 91)
+   - **Source Id:** 17337
+   - **Author Ids:** 57038817000;7004012654;7006280562
+   - **Authoraffiliationids:** 60025153-60028868;60025153;60025153
+   - **Corresponding:** Tavanti E.
+11.
+   - **Title:** On the Edge Recurrent Neural Network Approach for Ground Moving FMCW Radar Target Classification
+   - **Venue:** IEEE Transactions on Consumer Electronics
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1109/TCE.2023.3343460
+   - **Scopus ID:** 2-s2.0-85180329478
+   - **ISSN:** 00983063
+   - **eISSN:** 15584127
+   - **Volume:** 70
+   - **Issue:** 1
+   - **Pages:** 522-534
+   - **Authors:** Gianoglio Christian; Rizik Ali; Tavanti Emanuele; Caviglia Daniele D.; Randazzo Andrea
+   - **Keywords:** and target classification | Deep neural networks | radar | recurrent neural networks
+   - **Quartile:**
+     2025:
+     - Media Technology (Q1, rank 9, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 157, percentile 84)
+     2024:
+     - Media Technology (Q1, rank 16, percentile 77)
+     - Electrical and Electronic Engineering (Q2, rank 256, percentile 73)
+   - **Source Id:** 26048
+   - **Author Ids:** 56580140000;57214804817;57038817000;7004012654;7006280562
+   - **Authoraffiliationids:** 60025153;60012162;60028868;60025153;60025153
+   - **Corresponding:** Gianoglio C.
+12.
+   - **Title:** Noncontact Measurement of Sea Wave Dynamics and Velocity Estimation with a Low-Cost FMCW Radar Sensor
+   - **Venue:** 2024 7th International Conference on Signal Processing and Information Security Icspis 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICSPIS63676.2024.10812610
+   - **Scopus ID:** 2-s2.0-85216637589
+   - **Authors:** Chawraba Assil; Randazzo Andrea; Cavigila Daniele D.
+   - **Keywords:** 2D FFT range-Doppler map | FMCW radar | normalized power spectrum | sea wave characterization | time-domain IQ signal | water flow velocity
+   - **Source Id:** 21101272180
+   - **Author Ids:** 58864725300;7006280562;59314853700
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60025153
+   - **Corresponding:** Chawraba A.
+13.
+   - **Title:** Microwave Characterization of Brain Stroke Through a Mild Data-Driven Inversion Strategy
+   - **Venue:** 2024 IEEE 10th World Forum on Internet of Things Wf Iot 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/WF-IoT62078.2024.10811330
+   - **Scopus ID:** 2-s2.0-85216563497
+   - **Pages:** 725-729
+   - **Authors:** Fedeli Alessandro; Schenone Valentina; Estatico Claudio; Randazzo Andrea
+   - **Keywords:** brain stroke imaging | inverse scattering | Microwave characterization | mild-data driven approach
+   - **Source Id:** 21101272024
+   - **Author Ids:** 55512997500;57216360162;9739222400;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+14.
+   - **Title:** A Novel Lebesgue-Space Inversion Approach for Microwave Stroke Imaging
+   - **Venue:** 2024 IEEE International Conference on Metrology for Extended Reality Artificial Intelligence and Neural Engineering Metroxraine 2024 Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/MetroXRAINE62247.2024.10796016
+   - **Scopus ID:** 2-s2.0-85216088017
+   - **Pages:** 107-112
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Estatico Claudio; Sciarrone Andrea; Bisio Igor; Lavagetto Fabio; Randazzo Andrea
+   - **Keywords:** inverse scattering | Microwave imaging | mild-data driven approach | stroke imaging
+   - **Source Id:** 21101271412
+   - **Author Ids:** 57216360162;55512997500;9739222400;36180166900;8546192900;7004136693;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Schenone V.
+15.
+   - **Title:** Hydrological Sensing via FMCW Radar Technology of Sea Waves
+   - **Venue:** 2024 16th International Symposium on Electronics and Telecommunications Isetc 2024 Conference Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ISETC63109.2024.10797262
+   - **Scopus ID:** 2-s2.0-85216025106
+   - **Authors:** Chawraba Assil; Randazzo Andrea; Ghaith Alaa; Cavigila Daniele D.
+   - **Keywords:** 2D FFT range-Doppler map | FMCW radar | sea wave characterization | water flow velocity
+   - **Source Id:** 21101270674
+   - **Author Ids:** 58864725300;7006280562;57212345855;59314853700
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60068774;60025153
+   - **Corresponding:** Chawraba A.
+16.
+   - **Title:** Characterizing Coastal Wave Energy Dynamics Using Enhanced FMCW Radar Signal Processing Techniques
+   - **Venue:** 2024 16th International Symposium on Electronics and Telecommunications Isetc 2024 Conference Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ISETC63109.2024.10797404
+   - **Scopus ID:** 2-s2.0-85216017673
+   - **Authors:** Chawraba Assil; Randazzo Andrea; Cavigila Daniele D.
+   - **Keywords:** Fast Fourier Transform (FFT) | FMCW Radar | Non-contact measurement | Normalized power spectrum | Signal processing
+   - **Source Id:** 21101270674
+   - **Author Ids:** 58864725300;7006280562;59314853700
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60025153
+   - **Corresponding:** Chawraba A.
+17.
+   - **Title:** Frequency-domain Expressions of the Time-Windowed Electric Fields Radiated by a Lightning Flash
+   - **Venue:** Iclp 2024 37th International Conference on Lightning Protection
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85215686103
+   - **Pages:** 708-713
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Procopio Renato; Randazzo Andrea; Rubinstein Marcos
+   - **Source Id:** 21101270624
+   - **Author Ids:** 15759187700;8580886100;57115575100;7801615894;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;127343000
+   - **Corresponding:** Aramini R.
+18.
+   - **Title:** Sensitivity Analysis on the Reconstruction of the Attenuation Function for Short Time-Windows Measurements
+   - **Venue:** Iclp 2024 37th International Conference on Lightning Protection
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85215675068
+   - **Pages:** 688-693
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Procopio Renato; Randazzo Andrea; Rubinstein Marcos
+   - **Source Id:** 21101270624
+   - **Author Ids:** 15759187700;8580886100;57115575100;7801615894;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;127343000
+   - **Corresponding:** Aramini R.
+19.
+   - **Title:** Numerical Assessment of a Microwave Imaging Technique for Pediatric Stroke Diagnostics
+   - **Venue:** Proceedings of the International Conference on Electromagnetics in Advanced Applications Iceaa
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICEAA61917.2024.10701636
+   - **Scopus ID:** 2-s2.0-85208714502
+   - **ISSN:** 28351355
+   - **eISSN:** 27662284
+   - **Issue:** 2024
+   - **Pages:** 596
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Parodi Costanza; Bisio Igor; Sciarrone Andrea; Rossi Andrea; Lavagetto Fabio; Randazzo Andrea
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 164, percentile 13)
+     - Radiation (Q4, rank 66, percentile 10)
+     - Computer Networks and Communications (Q4, rank 492, percentile 10)
+     - Electrical and Electronic Engineering (Q4, rank 908, percentile 9)
+     2024:
+     - Instrumentation (Q4, rank 166, percentile 4)
+     - Computer Networks and Communications (Q4, rank 487, percentile 4)
+     - Electrical and Electronic Engineering (Q4, rank 933, percentile 3)
+     - Radiation (Q4, rank 65, percentile 3)
+   - **Source Id:** 21101257984
+   - **Author Ids:** 57216360162;55512997500;57566447600;8546192900;36180166900;7403475016;7004136693;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60016041;60025153;60025153;60016041;60025153;60025153
+   - **Corresponding:** Schenone V.
+20.
+   - **Title:** Microwave Imaging of Partially Known Targets Through a Mild Data-Driven Approach
+   - **Venue:** Proceedings of the International Conference on Electromagnetics in Advanced Applications Iceaa
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICEAA61917.2024.10701876
+   - **Scopus ID:** 2-s2.0-85208700154
+   - **ISSN:** 28351355
+   - **eISSN:** 27662284
+   - **Issue:** 2024
+   - **Pages:** 421
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Estatico Claudio; Randazzo A.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 164, percentile 13)
+     - Radiation (Q4, rank 66, percentile 10)
+     - Computer Networks and Communications (Q4, rank 492, percentile 10)
+     - Electrical and Electronic Engineering (Q4, rank 908, percentile 9)
+     2024:
+     - Instrumentation (Q4, rank 166, percentile 4)
+     - Computer Networks and Communications (Q4, rank 487, percentile 4)
+     - Electrical and Electronic Engineering (Q4, rank 933, percentile 3)
+     - Radiation (Q4, rank 65, percentile 3)
+   - **Source Id:** 21101257984
+   - **Author Ids:** 57216360162;55512997500;9739222400;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Schenone V.
+21.
+   - **Title:** Near-Shore Sea-Wave Monitoring Using FMCW Radar
+   - **Venue:** 25th International Microwave and Radar Conference MIKON 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/MIKON60251.2024.10633958
+   - **Scopus ID:** 2-s2.0-85203201062
+   - **Pages:** 349-352
+   - **Authors:** Chawraba Assil; Randazzo Andrea; Chebli Hussein; Cavigila Daniele D.
+   - **Keywords:** FMCW Radar | Range-Doppler processing | Sea waves
+   - **Source Id:** 21101246445
+   - **Author Ids:** 58864725300;7006280562;58221791700;59314853700
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60068774;60025153
+   - **Corresponding:** Chawraba A.
+22.
+   - **Title:** RNN-Based Multistatic Scattered-Field Processing for the Solution of Electromagnetic Imaging Problems in Multilayer Environments
+   - **Venue:** 2024 4th Ursi Atlantic Radio Science Meeting at Rasc 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.46620/URSIATRASC24/PTVL2537
+   - **Scopus ID:** 2-s2.0-85199803088
+   - **Authors:** Fedeli Alessandro; Schenone Valentina; Randazzo Andrea
+   - **Source Id:** 21101239186
+   - **Author Ids:** 55512997500;57216360162;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+23.
+   - **Title:** A Microwave Imaging Reconstruction Technique with Mild-Data-Driven Regularization in Variable-Exponent Lebesgue Spaces
+   - **Venue:** 2024 4th Ursi Atlantic Radio Science Meeting at Rasc 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.46620/URSIATRASC24/VHIP2784
+   - **Scopus ID:** 2-s2.0-85199792142
+   - **Authors:** Schenone Valentina; Estatico Claudio; Fedeli Alessandro; Randazzo Andrea
+   - **Source Id:** 21101239186
+   - **Author Ids:** 57216360162;9739222400;55512997500;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Schenone V.
+24.
+   - **Title:** Preliminary Design and Test of a Microwave Inline Moisture Sensor for the Carasau Bread Industry
+   - **Venue:** IEEE Open Journal of Antennas and Propagation
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1109/OJAP.2024.3431092
+   - **Scopus ID:** 2-s2.0-85199096390
+   - **eISSN:** 26376431
+   - **Volume:** 5
+   - **Issue:** 5
+   - **Pages:** 1166-1180
+   - **Authors:** Muntoni Giacomo; Lodi Matteo B.; Fedeli Alessandro; Melis Andrea; Maccio Claudia; Pastorino Matteo; Randazzo Andrea; Mazzarella Giuseppe; Fanti Alessandro
+   - **Keywords:** Carasau bread | Dielectric properties | food engineering | moisture sensor | patch antenna
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 199, percentile 80)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 166, percentile 82)
+   - **Source Id:** 21101059745
+   - **Author Ids:** 56964448000;57211403950;55512997500;41262209800;57705618900;7004880389;7006280562;7006097620;36664325500
+   - **Authoraffiliationids:** 60032259;60032259;60025153;60032259;60032259;60025153;60025153;60032259;60032259
+   - **Corresponding:** Muntoni G.
+25.
+   - **Title:** Nonlinear and Hybrid Inversion Techniques for Ground Penetrating Radar Imaging
+   - **Venue:** Ground Penetrating Radar from Theoretical Endeavors to Computational Electromagnetics Signal Processing Antenna Design and Field Applications
+   - **Year:** 2024
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.1002/9781394284405.ch2
+   - **Scopus ID:** 2-s2.0-85194527334
+   - **Pages:** 35-58
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Source Id:** 21101225618
+   - **Author Ids:** 57216360162;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Schenone V.
+26.
+   - **Title:** Brain Stroke Microwave Diagnostics in Children Through a Nonlinear Inverse-Scattering Technique
+   - **Venue:** 18th European Conference on Antennas and Propagation Eucap 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EuCAP60739.2024.10501405
+   - **Scopus ID:** 2-s2.0-85192499934
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Parodi Costanza; Bisio Igor; Sciarrone Andrea; Rossi Andrea; Lavagetto Fabio; Randazzo Andrea
+   - **Keywords:** inverse scattering | Lebesgue spaces | microwave imaging | Paediatric stroke
+   - **Source Id:** 21101220747
+   - **Author Ids:** 57216360162;55512997500;57566447600;8546192900;36180166900;7403475016;7004136693;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60016041;60025153;60025153;60016041;60025153;60025153
+   - **Corresponding:** Schenone V.
+27.
+   - **Title:** A Mild Data-Driven Approach Based on a Lebesgue-Space Inversion Procedure for Microwave Imaging Applications
+   - **Venue:** 18th European Conference on Antennas and Propagation Eucap 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EuCAP60739.2024.10501560
+   - **Scopus ID:** 2-s2.0-85192488776
+   - **Authors:** Estatico Claudio; Schenone Valentina; Fedeli Alessandro; Randazzo Andrea
+   - **Keywords:** data-driven inversion | inverse problems | Microwave imaging | variable-exponent Lebesgue spaces
+   - **Source Id:** 21101220747
+   - **Author Ids:** 9739222400;57216360162;55512997500;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+28.
+   - **Title:** Real-Time Sea Monitoring Using FMCW Radar
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2024
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-48121-5_67
+   - **Scopus ID:** 2-s2.0-85184116963
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 1110 Lnee
+   - **Pages:** 468-473
+   - **Authors:** Chawraba Assil; Rizik Ali; Randazzo Andrea; Caviglia Daniele
+   - **Keywords:** 2D FFT | Doppler features | Feature extraction | FMCW radar | Range-Doppler processing | Sea monitoring
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+     2024:
+     - Industrial and Manufacturing Engineering (Q4, rank 308, percentile 23)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 58864725300;57214804817;7006280562;7004012654
+   - **Authoraffiliationids:** 60025153-60068774;60012162;60025153;60025153
+   - **Corresponding:** Chawraba A.
+29.
+   - **Title:** A Combined Iterative Data-Driven Inversion Strategy for Microwave Imaging
+   - **Venue:** IEEE Conference on Antenna Measurements and Applications Cama
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CAMA62287.2024.10986182
+   - **Scopus ID:** 2-s2.0-105005831050
+   - **ISSN:** 24741760
+   - **eISSN:** 26436795
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Estatico Claudio; Randazzo Andrea
+   - **Keywords:** data-driven techniques | iterative methods | microwave imaging
+   - **Quartile:**
+     2025:
+     - Radiation (Q3, rank 53, percentile 28)
+     - Instrumentation (Q3, rank 140, percentile 25)
+     - Computer Networks and Communications (Q4, rank 432, percentile 21)
+     2024:
+     - Radiation (Q4, rank 53, percentile 21)
+     - Instrumentation (Q4, rank 141, percentile 19)
+     - Computer Networks and Communications (Q4, rank 430, percentile 15)
+   - **Source Id:** 21101136249
+   - **Author Ids:** 57216360162;55512997500;9739222400;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Schenone V.
+30.
+   - **Title:** Feasibility Analysis of Theranostic Magnetic Scaffolds for Microwave Monitoring of Hyperthermia Treatment of Bone Tumors
+   - **Venue:** IEEE Journal of Electromagnetics RF and Microwaves in Medicine and Biology
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1109/JERM.2023.3288741
+   - **Scopus ID:** 2-s2.0-85164408866
+   - **eISSN:** 24697249
+   - **Volume:** 7
+   - **Issue:** 4
+   - **Pages:** 344-353
+   - **Authors:** Lodi Matteo Bruno; Curreli Nicola; Dachena Chiara; Fedeli Alessandro; Scapaticci Rosa; Randazzo Andrea; Pastorino Matteo; Fanti Alessandro
+   - **Keywords:** Electromagnetic waves propagation | hyperthermia | magnetic biomaterials | microwave imaging | theranostic
+   - **Quartile:**
+     2025:
+     - Radiation (Q1, rank 4, percentile 95)
+     - Radiology, Nuclear Medicine and Imaging (Q1, rank 26, percentile 92)
+     - Instrumentation (Q1, rank 22, percentile 88)
+     2023:
+     - Radiation (Q1, rank 8, percentile 87)
+     - Radiology, Nuclear Medicine and Imaging (Q1, rank 63, percentile 81)
+     - Instrumentation (Q1, rank 33, percentile 76)
+   - **Source Id:** 21100902029
+   - **Author Ids:** 57211403950;56487698400;57206901870;55512997500;55223916300;7006280562;7004880389;36664325500
+   - **Authoraffiliationids:** 60032259-126431541;60102151;126431541-60025153;126431541-60025153;60001111;126431541-60025153;126431541-60025153;60032259-126431541
+   - **Corresponding:** Lodi M.B.
+31.
+   - **Title:** Computation of the attenuation function of the lightning return-stroke current from electromagnetic fields measured in a short-duration time-window — Part II: Numerical implementation
+   - **Venue:** Electric Power Systems Research
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1016/j.epsr.2023.109410
+   - **Scopus ID:** 2-s2.0-85153090880
+   - **ISSN:** 03787796
+   - **Volume:** 221
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Pastorino Matteo; Procopio Renato; Rachidi Farhad; Randazzo Andrea; Rubinstein Marcos
+   - **Keywords:** Electromagnetic fields | Inverse problems | Lightning
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+     - Energy Engineering and Power Technology (Q1, rank 60, percentile 81)
+     2023:
+     - Electrical and Electronic Engineering (Q1, rank 158, percentile 80)
+     - Energy Engineering and Power Technology (Q1, rank 61, percentile 77)
+   - **Source Id:** 16044
+   - **Author Ids:** 15759187700;8580886100;57115575100;7004880389;7801615894;7003719604;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60028186;60025153;128065441
+   - **Corresponding:** Aramini R.
+32.
+   - **Title:** Computation of the attenuation function of the lightning return-stroke current from electromagnetic fields measured in a short-duration time-window, Part I: Theoretical investigation
+   - **Venue:** Electric Power Systems Research
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1016/j.epsr.2023.109392
+   - **Scopus ID:** 2-s2.0-85152236005
+   - **ISSN:** 03787796
+   - **Volume:** 221
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Pastorino Matteo; Procopio Renato; Rachidi Farhad; Randazzo Andrea; Rubinstein Marcos
+   - **Keywords:** Electromagnetic fields | Inverse problems | Lightning
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 126, percentile 87)
+     - Energy Engineering and Power Technology (Q1, rank 60, percentile 81)
+     2023:
+     - Electrical and Electronic Engineering (Q1, rank 158, percentile 80)
+     - Energy Engineering and Power Technology (Q1, rank 61, percentile 77)
+   - **Source Id:** 16044
+   - **Author Ids:** 15759187700;8580886100;57115575100;7004880389;7801615894;7003719604;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60028186;60025153;128065441
+   - **Corresponding:** Aramini R.
+33.
+   - **Title:** In-situ microwave tomography for parts’ cooldown monitoring in powder bed fusion of polymers
+   - **Venue:** Additive Manufacturing
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1016/j.addma.2023.103433
+   - **Scopus ID:** 2-s2.0-85148023824
+   - **eISSN:** 22148604
+   - **Volume:** 65
+   - **Authors:** Sillani Francesco; Poretti Samuel; Pagani Tommaso; Hajdaj Fatlind; Schmid Manfred; Randazzo Andrea; Pastorino Matteo; Wegener Konrad
+   - **Keywords:** Cooldown history | Crystallization | Microwave tomography | Selective laser sintering | Temperature monitoring
+   - **Quartile:**
+     2025:
+     - Engineering (miscellaneous) (Q1, rank 7, percentile 97)
+     - Biomedical Engineering (Q1, rank 11, percentile 96)
+     - Industrial and Manufacturing Engineering (Q1, rank 15, percentile 96)
+     - Materials Science (all) (Q1, rank 22, percentile 95)
+     2023:
+     - Engineering (miscellaneous) (Q1, rank 5, percentile 97)
+     - Industrial and Manufacturing Engineering (Q1, rank 11, percentile 97)
+     - Biomedical Engineering (Q1, rank 11, percentile 96)
+     - Materials Science (all) (Q1, rank 19, percentile 96)
+   - **Source Id:** 21100349533
+   - **Author Ids:** 57203820430;25927504500;58102772000;58102135300;56242779100;7006280562;7004880389;16246992400
+   - **Authoraffiliationids:** 60074317-60025858;129182337;129182337;129182337;60074317;60025153;60025153;60025858
+   - **Corresponding:** Sillani F.
+34.
+   - **Title:** A Multifrequency Inverse-Scattering Technique for Brain Stroke Microwave Diagnostics
+   - **Venue:** 2023 IEEE International Conference on Metrology for Extended Reality Artificial Intelligence and Neural Engineering Metroxraine 2023 Proceedings
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/MetroXRAINE58569.2023.10405642
+   - **Scopus ID:** 2-s2.0-85185819357
+   - **Pages:** 502-506
+   - **Authors:** Fedeli Alessandro; Maheswaran Maurica; Schenone Valentina; Sciarrone Andrea; Bisio Igor; Lavagetto Fabio; Pastorino Matteo; Randazzo Andrea; Estatico Claudio
+   - **Keywords:** Brain stroke | inverse scattering | microwave imaging
+   - **Source Id:** 21101202153
+   - **Author Ids:** 55512997500;58902474300;57216360162;36180166900;8546192900;7004136693;7004880389;7006280562;9739222400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+35.
+   - **Title:** Evaluation of the Return-Stroke Current Attenuation Function from the Vertical Electric Field by Means of the Regularization of an Inverse Problem
+   - **Venue:** 17th International Symposium on Lightning Protection Sipda 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/SIPDA59763.2023.10349194
+   - **Scopus ID:** 2-s2.0-85182395942
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Pastorino Matteo; Procopio Renato; Randazzo Andrea; Rubinstein Marcos
+   - **Keywords:** attenuation function | electromagnetic fields | inverse problems | Lightning | reconstruction
+   - **Source Id:** 21101196397
+   - **Author Ids:** 15759187700;8580886100;57115575100;7004880389;7801615894;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;128065441
+   - **Corresponding:** Aramini R.
+36.
+   - **Title:** Welcome to 2023 IEEE CAMA
+   - **Venue:** IEEE Conference on Antenna Measurements and Applications Cama
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Editorial
+   - **Citations:** 0
+   - **DOI:** 10.1109/CAMA57522.2023.10352701
+   - **Scopus ID:** 2-s2.0-85182319050
+   - **ISSN:** 24741760
+   - **eISSN:** 26436795
+   - **Pages:** 1
+   - **Authors:** Pichot Christian; Pastorino Matteo; Randazzo Andrea
+   - **Quartile:**
+     2025:
+     - Radiation (Q3, rank 53, percentile 28)
+     - Instrumentation (Q3, rank 140, percentile 25)
+     - Computer Networks and Communications (Q4, rank 432, percentile 21)
+   - **Source Id:** 21101136249
+   - **Author Ids:** 7101858631;7004880389;7006280562
+   - **Authoraffiliationids:** 60008134;60025153;60025153
+   - **Corresponding:** Pichot C.
+37.
+   - **Title:** Microwave Imaging for the Diagnosis of Stroke in Pediatric Patients: An Initial Study
+   - **Venue:** IEEE Conference on Antenna Measurements and Applications Cama
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CAMA57522.2023.10352828
+   - **Scopus ID:** 2-s2.0-85182283448
+   - **ISSN:** 24741760
+   - **eISSN:** 26436795
+   - **Pages:** 126-129
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Parodi Costanza; Bisio Igor; Sciarrone Andrea; Rossi Andrea; Lavagetto Fabio; Randazzo Andrea
+   - **Keywords:** inverse scattering | microwave imaging | pediatric stroke
+   - **Quartile:**
+     2025:
+     - Radiation (Q3, rank 53, percentile 28)
+     - Instrumentation (Q3, rank 140, percentile 25)
+     - Computer Networks and Communications (Q4, rank 432, percentile 21)
+   - **Source Id:** 21101136249
+   - **Author Ids:** 57216360162;55512997500;57566447600;8546192900;36180166900;7403475016;7004136693;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60016041;60025153;60025153;60016041;60025153;60025153
+   - **Corresponding:** Schenone V.
+38.
+   - **Title:** Improved Time-Frequency Filtering to Decode Frequency-Coded Cross-Polarized Chipless RFID Tags
+   - **Venue:** IEEE Conference on Antenna Measurements and Applications Cama
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CAMA57522.2023.10352838
+   - **Scopus ID:** 2-s2.0-85182280889
+   - **ISSN:** 24741760
+   - **eISSN:** 26436795
+   - **Pages:** 935-938
+   - **Authors:** Tavanti Emanuele; Randazzo Andrea; Costa Filippo; Genovesi Simone; Manara Giuliano
+   - **Keywords:** Chipless radio frequency identification (RFID) | high-impedance surface (HIS) | Time-frequency transforms
+   - **Quartile:**
+     2025:
+     - Radiation (Q3, rank 53, percentile 28)
+     - Instrumentation (Q3, rank 140, percentile 25)
+     - Computer Networks and Communications (Q4, rank 432, percentile 21)
+   - **Source Id:** 21101136249
+   - **Author Ids:** 57038817000;7006280562;24482938300;35193749000;7006025870
+   - **Authoraffiliationids:** 60028868;60025153;60028868;60028868;60028868
+   - **Corresponding:** Tavanti E.
+39.
+   - **Title:** An Equivalent Attenuation Function for the Computation of the Lightning Field Radiated by a Tortuous Channel
+   - **Venue:** IEEE Conference on Antenna Measurements and Applications Cama
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/CAMA57522.2023.10352872
+   - **Scopus ID:** 2-s2.0-85182276702
+   - **ISSN:** 24741760
+   - **eISSN:** 26436795
+   - **Pages:** 956-961
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Petrarca Carlo; Procopio Renato; Randazzo Andrea; Rubinstein Marcos
+   - **Keywords:** lightning | regularization | tortuosity
+   - **Quartile:**
+     2025:
+     - Radiation (Q3, rank 53, percentile 28)
+     - Instrumentation (Q3, rank 140, percentile 25)
+     - Computer Networks and Communications (Q4, rank 432, percentile 21)
+   - **Source Id:** 21101136249
+   - **Author Ids:** 15759187700;8580886100;57115575100;7004208484;7801615894;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;114851910;60025153;60025153;130704963
+   - **Corresponding:** Aramini R.
+40.
+   - **Title:** Chebyshev Spectral Solver for Vector Radiative Transfer in the Atmosphere
+   - **Venue:** IEEE Conference on Antenna Measurements and Applications Cama
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CAMA57522.2023.10352746
+   - **Scopus ID:** 2-s2.0-85182266909
+   - **ISSN:** 24741760
+   - **eISSN:** 26436795
+   - **Pages:** 1031-1034
+   - **Authors:** Tavanti Emanuele; Caviglia Daniele D.; Randazzo Andrea
+   - **Keywords:** atmospheric propagation | electromagnetic scattering | Radiative transfer
+   - **Quartile:**
+     2025:
+     - Radiation (Q3, rank 53, percentile 28)
+     - Instrumentation (Q3, rank 140, percentile 25)
+     - Computer Networks and Communications (Q4, rank 432, percentile 21)
+   - **Source Id:** 21101136249
+   - **Author Ids:** 57038817000;7004012654;7006280562
+   - **Authoraffiliationids:** 60028868;60025153;60025153
+   - **Corresponding:** Tavanti E.
+41.
+   - **Title:** Diagnosis of Defective Elements in Steerable Antenna Arrays by Means of a Non-Standard Regularization Approach
+   - **Venue:** IEEE Conference on Antenna Measurements and Applications Cama
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CAMA57522.2023.10352887
+   - **Scopus ID:** 2-s2.0-85182259294
+   - **ISSN:** 24741760
+   - **eISSN:** 26436795
+   - **Pages:** 217-220
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Estatico Claudio; Randazzo Andrea
+   - **Keywords:** Antenna arrays | antenna diagnostics | inverse problems
+   - **Quartile:**
+     2025:
+     - Radiation (Q3, rank 53, percentile 28)
+     - Instrumentation (Q3, rank 140, percentile 25)
+     - Computer Networks and Communications (Q4, rank 432, percentile 21)
+   - **Source Id:** 21101136249
+   - **Author Ids:** 57216360162;55512997500;9739222400;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Schenone V.
+42.
+   - **Title:** Reconstruction of the lightning channel-base current from remote measurements of electric and magnetic field by means of regularization techniques
+   - **Venue:** 2023 International Conference on Electromagnetics in Advanced Applications Iceaa 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICEAA57318.2023.10297752
+   - **Scopus ID:** 2-s2.0-85178193042
+   - **Pages:** 187
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Pastorino Matteo; Procopio Renato; Randazzo Andrea; Rubinstein Marcos
+   - **Source Id:** 21101188848
+   - **Author Ids:** 15759187700;8580886100;57115575100;7004880389;7801615894;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;128065441
+   - **Corresponding:** Aramini R.
+43.
+   - **Title:** Identification of Defective Elements in Antenna Arrays Through an Inverse Approach
+   - **Venue:** 17th European Conference on Antennas and Propagation Eucap 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EuCAP57121.2023.10133355
+   - **Scopus ID:** 2-s2.0-85162266635
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Estatico Claudio; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Antenna arrays | inverse problems | Lebesgue spaces
+   - **Source Id:** 21101158924
+   - **Author Ids:** 57216360162;55512997500;9739222400;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Schenone V.
+44.
+   - **Title:** A Multifrequency Electromagnetic Imaging Approach for the Detection of Brain Injuries
+   - **Venue:** 17th European Conference on Antennas and Propagation Eucap 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.23919/EuCAP57121.2023.10133540
+   - **Scopus ID:** 2-s2.0-85162242667
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Estatico Claudio; Bisio Igor; Lavagetto Fabio; Sciarrone Andrea; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Brain stroke | electromagnetic imaging | inverse problems | multifrequency methods
+   - **Source Id:** 21101158924
+   - **Author Ids:** 57216360162;55512997500;9739222400;8546192900;7004136693;36180166900;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Schenone V.
+45.
+   - **Title:** Microwave Medical Imaging of the Human Neck using a Neural-Networks-Based Inversion Procedure: A Phantom Study
+   - **Venue:** 17th European Conference on Antennas and Propagation Eucap 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/EuCAP57121.2023.10133743
+   - **Scopus ID:** 2-s2.0-85162232603
+   - **Authors:** Dachena Chiara; Fedeli Alessandro; Fanti Alessandro; Lodi Matteo B.; Fumera Giorgio; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** inverse scattering | machine learning | Microwave imaging | neck diseases
+   - **Source Id:** 21101158924
+   - **Author Ids:** 57206901870;55512997500;36664325500;57211403950;6602513262;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60032259;60032259;60032259;60025153;60025153
+   - **Corresponding:** Dachena C.
+46.
+   - **Title:** Assessment of a non-Hilbertian Inverse Scattering Approach for Electromagnetic Tomography in Subsurface Environments
+   - **Venue:** 17th European Conference on Antennas and Propagation Eucap 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EuCAP57121.2023.10133256
+   - **Scopus ID:** 2-s2.0-85162190228
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Estatico Claudio; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Finite-element method | inverse scattering problems | Lebesgue spaces | subsurface imaging
+   - **Source Id:** 21101158924
+   - **Author Ids:** 57216360162;55512997500;9739222400;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Schenone V.
+47.
+   - **Title:** Microwave-Based Subsurface Characterization through a Combined Finite Element and Variable Exponent Spaces Technique
+   - **Venue:** Sensors
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.3390/s23010167
+   - **Scopus ID:** 2-s2.0-85145874372
+   - **ISSN:** 14248220
+   - **Volume:** 23
+   - **Issue:** 1
+   - **Authors:** Schenone Valentina; Estatico Claudio; Gragnani Gian Luigi; Pastorino Matteo; Randazzo Andrea; Fedeli Alessandro
+   - **Keywords:** finite element | inverse scattering | Lebesgue spaces | subsurface imaging
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2023:
+     - Instrumentation (Q1, rank 24, percentile 83)
+     - Electrical and Electronic Engineering (Q1, rank 163, percentile 79)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 48, percentile 78)
+     - Analytical Chemistry (Q1, rank 36, percentile 77)
+     - Information Systems (Q1, rank 91, percentile 77)
+     - Biochemistry (Q2, rank 133, percentile 69)
+   - **Source Id:** 130124
+   - **Author Ids:** 57216360162;9739222400;6701681576;7004880389;7006280562;55512997500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Schenone V.
+48.
+   - **Title:** A Non-Hilbertian Inversion Technique for the Diagnosis of Faulty Elements in Antenna Arrays
+   - **Venue:** Lecture Notes in Networks and Systems
+   - **Year:** 2023
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-16281-7_17
+   - **Scopus ID:** 2-s2.0-85138009358
+   - **ISSN:** 23673370
+   - **eISSN:** 23673389
+   - **Volume:** 546 Lnns
+   - **Pages:** 173-181
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Estatico Claudio; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Diagnosis of antenna array | Inverse problems | Non-Hilbertian methods
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 146, percentile 25)
+     - Computer Networks and Communications (Q3, rank 410, percentile 25)
+     - Control and Systems Engineering (Q4, rank 302, percentile 20)
+     2023:
+     - Signal Processing (Q4, rank 113, percentile 14)
+     - Control and Systems Engineering (Q4, rank 277, percentile 13)
+     - Computer Networks and Communications (Q4, rank 354, percentile 10)
+   - **Source Id:** 21100901469
+   - **Author Ids:** 57216360162;55512997500;9739222400;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Schenone V.
+49.
+   - **Title:** Initial Experimental Tests of an ANN-Based Microwave Imaging Technique for Neck Diagnostics
+   - **Venue:** IEEE Microwave and Wireless Components Letters
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1109/LMWC.2022.3194805
+   - **Scopus ID:** 2-s2.0-85136086121
+   - **ISSN:** 15311309
+   - **eISSN:** 15581764
+   - **Volume:** 32
+   - **Issue:** 12
+   - **Pages:** 1495-1498
+   - **Authors:** Dachena Chiara; Fedeli Alessandro; Fanti Alessandro; Lodi Matteo B.; Fumera Giorgio; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Artificial neural networks (ANNs) | biomedical imaging | inverse scattering | machine learning (ML) | microwave imaging (MWI)
+   - **Quartile:**
+     2022:
+     - Electrical and Electronic Engineering (Q2, rank 207, percentile 72)
+     - Condensed Matter Physics (Q2, rank 119, percentile 71)
+   - **Source Id:** 17295
+   - **Author Ids:** 57206901870;55512997500;36664325500;57211403950;6602513262;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60032259-60114714;60032259;60032259;60025153;60025153
+   - **Corresponding:** Dachena C.
+50.
+   - **Title:** On the reconstruction of the attenuation function of a return-stroke current from the Fourier Transform of finite-duration measurements
+   - **Venue:** International Journal of Electrical Power and Energy Systems
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1016/j.ijepes.2022.108186
+   - **Scopus ID:** 2-s2.0-85129236133
+   - **ISSN:** 01420615
+   - **Volume:** 142
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Pastorino Matteo; Procopio Renato; Rachidi Farhad; Randazzo Andrea; Rubinstein Marcos
+   - **Keywords:** Electromagnetic fields | Inverse problems | Lightning
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 57, percentile 94)
+     - Energy Engineering and Power Technology (Q1, rank 25, percentile 92)
+     2022:
+     - Electrical and Electronic Engineering (Q1, rank 61, percentile 91)
+     - Energy Engineering and Power Technology (Q1, rank 26, percentile 89)
+   - **Source Id:** 17985
+   - **Author Ids:** 15759187700;8580886100;57115575100;7004880389;7801615894;7003719604;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60028186;60025153;128065441
+   - **Corresponding:** Aramini R.
+51.
+   - **Title:** On the Fourier Transform of Measured Electric Fields Radiated by a Lightning Return Stroke
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1109/TEMC.2022.3154648
+   - **Scopus ID:** 2-s2.0-85127513704
+   - **ISSN:** 00189375
+   - **eISSN:** 1558187X
+   - **Volume:** 64
+   - **Issue:** 4
+   - **Pages:** 1257-1264
+   - **Authors:** Aramini Riccardo; Brignone Massimo; Mestriner Daniele; Pastorino Matteo; Procopio Renato; Randazzo Andrea; Rubinstein Marcos
+   - **Keywords:** Distribution theory | fast Fourier transform (FT) (FFT) | lightning
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+     2022:
+     - Electrical and Electronic Engineering (Q2, rank 256, percentile 65)
+     - Condensed Matter Physics (Q2, rank 150, percentile 64)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 76, percentile 64)
+   - **Source Id:** 26051
+   - **Author Ids:** 15759187700;8580886100;57115575100;7004880389;7801615894;7006280562;7201682529
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;106110786
+   - **Corresponding:** Aramini R.
+52.
+   - **Title:** 2-D Green's Function for an Elliptically Layered Cylindrical PEC Enclosure
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1109/TAP.2022.3146874
+   - **Scopus ID:** 2-s2.0-85124185240
+   - **ISSN:** 0018926X
+   - **eISSN:** 15582221
+   - **Volume:** 70
+   - **Issue:** 8
+   - **Pages:** 7338-7343
+   - **Authors:** Randazzo Andrea; Fedeli Alessandro; Pastorino Matteo
+   - **Keywords:** Electromagnetic scattering | Green's function | integral equations | stratified media
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+     2022:
+     - Electrical and Electronic Engineering (Q1, rank 80, percentile 89)
+   - **Source Id:** 17337
+   - **Author Ids:** 7006280562;55512997500;7004880389
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Randazzo A.
+53.
+   - **Title:** Microwaves as Diagnostic Tool for Pituitary Tumors: Preliminary Investigations
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.3390/electronics11101608
+   - **Scopus ID:** 2-s2.0-85130196652
+   - **eISSN:** 20799292
+   - **Volume:** 11
+   - **Issue:** 10
+   - **Authors:** Casula Filippo; Lodi Matteo Bruno; Curreli Nicola; Fedeli Alessandro; Scapaticci Rosa; Muntoni Giacomo; Randazzo Andrea; Djuric Nikola; Vannucci Luca; Fanti Alessandro
+   - **Keywords:** diagnostics | inverse problem | microwaves | pituitary tumors | transmission line model
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+     2022:
+     - Control and Systems Engineering (Q2, rank 92, percentile 68)
+     - Electrical and Electronic Engineering (Q2, rank 248, percentile 66)
+     - Computer Networks and Communications (Q2, rank 129, percentile 66)
+     - Signal Processing (Q2, rank 48, percentile 61)
+     - Hardware and Architecture (Q2, rank 68, percentile 60)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 57695617900;57211403950;56487698400;55512997500;55223916300;56964448000;7006280562;35174255600;7003973501;36664325500
+   - **Authoraffiliationids:** 60032259;60032259;60102151;60025153;60001111;60032259;60025153;60068801;60031135;60032259
+   - **Corresponding:** Casula F.
+54.
+   - **Title:** An LSTM Based Strategy for Data and Model Calibration in Subsurface Electromagnetic Imaging
+   - **Venue:** IEEE Conference on Antenna Measurements and Applications Cama
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/CAMA56352.2022.10002550
+   - **Scopus ID:** 2-s2.0-85148283678
+   - **ISSN:** 24741760
+   - **eISSN:** 26436795
+   - **Volume:** 2022-December
+   - **Authors:** Fedeli Alessandro; Schenone Valentina; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** calibration | long short-term memory | nonlinear inversion | subsurface imaging
+   - **Quartile:**
+     2025:
+     - Radiation (Q3, rank 53, percentile 28)
+     - Instrumentation (Q3, rank 140, percentile 25)
+     - Computer Networks and Communications (Q4, rank 432, percentile 21)
+   - **Source Id:** 21101136249
+   - **Author Ids:** 55512997500;57216360162;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+55.
+   - **Title:** Nonlinear Inversion for Microwave Characterization of Targets in Non-Homogeneous Media
+   - **Venue:** 2022 International Conference on Electromagnetics in Advanced Applications Iceaa 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICEAA49419.2022.9899997
+   - **Scopus ID:** 2-s2.0-85141010293
+   - **Pages:** 97
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Estatico Claudio; Pastorino Matteo; Randazzo Andrea
+   - **Source Id:** 21101117512
+   - **Author Ids:** 57216360162;55512997500;9739222400;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Schenone V.
+56.
+   - **Title:** A Hybrid Qualitative-Quantitative Electromagnetic Imaging Method for Subsurface Prospecting
+   - **Venue:** Ist 2022 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IST55454.2022.9827669
+   - **Scopus ID:** 2-s2.0-85135927840
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea; Estatico Claudio
+   - **Keywords:** Electromagnetic imaging | Ground Penetrating Radar | inverse scattering | Lebesgue spaces
+   - **Source Id:** 21101101230
+   - **Author Ids:** 57216360162;55512997500;7004880389;7006280562;9739222400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Schenone V.
+57.
+   - **Title:** Detection of Failures in Antenna Arrays Through a Lebesgue-Space Approach
+   - **Venue:** IEEE Open Journal of Antennas and Propagation
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 16
+   - **DOI:** 10.1109/OJAP.2022.3181345
+   - **Scopus ID:** 2-s2.0-85131730938
+   - **eISSN:** 26376431
+   - **Volume:** 3
+   - **Pages:** 652-662
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Estatico Claudio; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** antenna arrays | Antenna diagnostics | inverse source | Lebesgue spaces
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 199, percentile 80)
+     2022:
+     - Electrical and Electronic Engineering (Q2, rank 299, percentile 59)
+   - **Source Id:** 21101059745
+   - **Author Ids:** 57216360162;55512997500;9739222400;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Schenone V.
+58.
+   - **Title:** Designing a Microwave Moisture Content Sensor for Carasau Bread: A Feasibility Study
+   - **Venue:** 2022 16th European Conference on Antennas and Propagation Eucap 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-85130623533
+   - **Authors:** Muntoni Giacomo; Fedeli Alessandro; Lodi Matteo Bruno; Simone Marco; Randazzo Andrea; Mazzarella Giuseppe; Fanti Alessandro
+   - **Keywords:** dielectric properties | food engineering | moisture | moisture sensor | patch antenna
+   - **Source Id:** 21101089648
+   - **Author Ids:** 56964448000;55512997500;57211403950;55866781100;7006280562;7006097620;36664325500
+   - **Authoraffiliationids:** 60032259;60025153;60032259;60032259;60025153;60032259;60032259
+   - **Corresponding:** Muntoni G.
+59.
+   - **Title:** A Microwave Imaging Technique Based on Artificial Neural Networks for Neck Tumors Detection
+   - **Venue:** 2022 16th European Conference on Antennas and Propagation Eucap 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85130602960
+   - **Authors:** Dachena Chiara; Fedeli Alessandro; Fanti Alessandro; Lodi Matteo B.; Fumera Giorgio; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** artificial neural networks | Microwave imaging | neck phantom | tumor detection
+   - **Source Id:** 21101089648
+   - **Author Ids:** 57206901870;55512997500;36664325500;57211403950;6602513262;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60032259;60032259;60032259;60025153;60025153
+   - **Corresponding:** Dachena C.
+60.
+   - **Title:** A Hybrid Lebesgue-Space Inverse-Scattering Technique for Microwave Imaging of Objects Hidden Behind a Wall
+   - **Venue:** 2022 16th European Conference on Antennas and Propagation Eucap 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-85130591267
+   - **Authors:** Randazzo Andrea; Ponti Cristina; Fedeli Alessandro; Pastorino Matteo; Schettini Giuseppe
+   - **Keywords:** inverse scattering | Through-the-wall imaging | variable-exponent Banach spaces
+   - **Source Id:** 21101089648
+   - **Author Ids:** 7006280562;26536362600;55512997500;7004880389;7102615533
+   - **Authoraffiliationids:** 60025153;60012630;60025153;60025153;60012630
+   - **Corresponding:** Randazzo A.
+61.
+   - **Title:** Multistatic Electromagnetic Imaging of Dielectric Targets with LSTM Cells
+   - **Venue:** 2022 16th European Conference on Antennas and Propagation Eucap 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85130587858
+   - **Authors:** Fedeli Alessandro; Schenone Valentina; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** electromagnetic imaging | inverse scattering | long short-term memory
+   - **Source Id:** 21101089648
+   - **Author Ids:** 55512997500;57216360162;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+62.
+   - **Title:** A Robust SVM Color-Based Food Segmentation Algorithm for the Production Process of a Traditional Carasau Bread
+   - **Venue:** IEEE Access
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1109/ACCESS.2022.3147206
+   - **Scopus ID:** 2-s2.0-85124103230
+   - **eISSN:** 21693536
+   - **Volume:** 10
+   - **Pages:** 15359-15377
+   - **Authors:** Mannaro Katiuscia; Baire Matteo; Fanti Alessandro; Lodi Matteo Bruno; Didaci Luca; Fedeli Alessandro; Cocco Luisanna; Randazzo Andrea; Mazzarella Giuseppe; Fumera Giorgio
+   - **Keywords:** Computer vision | food tecnology | image color analysis | image processing | image segmentation | machine learning | support vector machines
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 42, percentile 88)
+     - Computer Science (all) (Q1, rank 41, percentile 83)
+     - Materials Science (all) (Q1, rank 101, percentile 78)
+     2022:
+     - Engineering (all) (Q1, rank 22, percentile 92)
+     - Computer Science (all) (Q1, rank 25, percentile 89)
+     - Materials Science (all) (Q1, rank 78, percentile 82)
+   - **Source Id:** 21100374601
+   - **Author Ids:** 23398019900;57206893052;36664325500;57211403950;55887100400;55512997500;37861007600;7006280562;7006097620;6602513262
+   - **Authoraffiliationids:** 60032259;60032259;60032259;60032259;60032259;60025153;60032259;60025153;60032259;60032259
+   - **Corresponding:** Mannaro K.
+63.
+   - **Title:** Experimental Assessment of a Novel Hybrid Scheme for Quantitative GPR Imaging
+   - **Venue:** IEEE Geoscience and Remote Sensing Letters
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1109/LGRS.2021.3121808
+   - **Scopus ID:** 2-s2.0-85122858958
+   - **ISSN:** 1545598X
+   - **eISSN:** 15580571
+   - **Volume:** 19
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Estatico Claudio; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Buried object detection | electromagnetic (EM) inverse scattering (IS) problems | ground-penetrating radar (GPR)
+   - **Quartile:**
+     2025:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 22, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 90, percentile 91)
+     2022:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 43, percentile 79)
+     - Electrical and Electronic Engineering (Q1, rank 160, percentile 78)
+   - **Source Id:** 17259
+   - **Author Ids:** 57216360162;55512997500;9739222400;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Schenone V.
+64.
+   - **Title:** A Short-Range FMCW Radar-Based Approach for Multi-Target Human-Vehicle Detection
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 50
+   - **DOI:** 10.1109/TGRS.2021.3138687
+   - **Scopus ID:** 2-s2.0-85122079795
+   - **ISSN:** 01962892
+   - **eISSN:** 15580644
+   - **Volume:** 60
+   - **Authors:** Tavanti Emanuele; Rizik Ali; Fedeli Alessandro; Caviglia Daniele D.; Randazzo Andrea
+   - **Keywords:** electromagnetic scattering | Frequency-modulated continuous wave (FMCW) radar data processing | machine learning (ML) | radar imaging
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2022:
+     - Earth and Planetary Sciences (all) (Q1, rank 8, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 59, percentile 92)
+   - **Source Id:** 17360
+   - **Author Ids:** 57038817000;57214804817;55512997500;7004012654;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Tavanti E.
+65.
+   - **Title:** 2-D TM GPR Imaging through a Multiscaling Multifrequency Approach in Lp Spaces
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 22
+   - **DOI:** 10.1109/TGRS.2021.3049423
+   - **Scopus ID:** 2-s2.0-85099724246
+   - **ISSN:** 01962892
+   - **eISSN:** 15580644
+   - **Volume:** 59
+   - **Issue:** 12
+   - **Pages:** 10011-10021
+   - **Authors:** Salucci Marco; Estatico Claudio; Fedeli Alessandro; Oliveri Giacomo; Pastorino Matteo; Povoli Sergio; Randazzo Andrea; Rocca Paolo
+   - **Keywords:** Banach spaces | buried object detection | electromagnetic scattering inverse problems | ground-penetrating radar (GPR)
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2021:
+     - Earth and Planetary Sciences (all) (Q1, rank 4, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 42, percentile 94)
+   - **Source Id:** 17360
+   - **Author Ids:** 54387549100;9739222400;55512997500;6701615935;7004880389;57221664000;7006280562;22035972900
+   - **Authoraffiliationids:** 60015986;60025153;60025153;60015986;60025153;60015986;60025153;60015986
+   - **Corresponding:** Salucci M.
+66.
+   - **Title:** Assessment of an Lp-space multi-focusing inversion method for subsoil mapping with multi-frequency data
+   - **Venue:** Microwave and Optical Technology Letters
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1002/mop.32921
+   - **Scopus ID:** 2-s2.0-85107219408
+   - **ISSN:** 08952477
+   - **eISSN:** 10982760
+   - **Volume:** 63
+   - **Issue:** 10
+   - **Pages:** 2559-2564
+   - **Authors:** Randazzo Andrea; Estatico Claudio; Fedeli Alessandro; Rosatti Pietro; Salucci Marco; Zardi Francesco; Pastorino Matteo
+   - **Keywords:** electromagnetic imaging | inverse problems | subsoil mapping
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 542, percentile 45)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 199, percentile 35)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 156, percentile 34)
+     - Condensed Matter Physics (Q3, rank 296, percentile 33)
+     2021:
+     - Electrical and Electronic Engineering (Q2, rank 345, percentile 51)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 107, percentile 48)
+     - Condensed Matter Physics (Q3, rank 224, percentile 46)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 149, percentile 42)
+   - **Source Id:** 12250
+   - **Author Ids:** 7006280562;9739222400;55512997500;57206725859;54387549100;57206727509;7004880389
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60015986;60015986;60015986;60025153
+   - **Corresponding:** Randazzo A.
+67.
+   - **Title:** Cost-Efficient FMCW Radar for Multi-Target Classification in Security Gate Monitoring
+   - **Venue:** IEEE Sensors Journal
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.1109/JSEN.2021.3095674
+   - **Scopus ID:** 2-s2.0-85115293964
+   - **ISSN:** 1530437X
+   - **eISSN:** 15581748
+   - **Volume:** 21
+   - **Issue:** 18
+   - **Pages:** 20447-20461
+   - **Authors:** Rizik Ali; Tavanti Emanuele; Chible Hussien; Caviglia Daniele D.; Randazzo Andrea
+   - **Keywords:** edge computing | electromagnetic scattering | FMCW radar | range-Doppler processing | target classification
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 27, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 175, percentile 82)
+     2021:
+     - Instrumentation (Q1, rank 14, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 147, percentile 79)
+   - **Source Id:** 15047
+   - **Author Ids:** 57214804817;57038817000;7801443090;7004012654;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60068774;60025153;60025153
+   - **Corresponding:** Rizik A.
+68.
+   - **Title:** A two-step inverse-scattering technique in variable-exponent lebesgue spaces for through-the-wall microwave imaging: Experimental results
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 23
+   - **DOI:** 10.1109/TGRS.2021.3052608
+   - **Scopus ID:** 2-s2.0-85101450906
+   - **ISSN:** 01962892
+   - **eISSN:** 15580644
+   - **Volume:** 59
+   - **Issue:** 9
+   - **Pages:** 7189-7200
+   - **Authors:** Randazzo Andrea; Ponti Cristina; Fedeli Alessandro; Estatico Claudio; D'Atanasio Paolo; Pastorino Matteo; Schettini Giuseppe
+   - **Keywords:** Electromagnetic scattering | Inverse problems | Microwave imaging | Through-the-wall imaging (TWI) | Variable-exponent Lebesgue spaces
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2021:
+     - Earth and Planetary Sciences (all) (Q1, rank 4, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 42, percentile 94)
+   - **Source Id:** 17360
+   - **Author Ids:** 7006280562;26536362600;55512997500;9739222400;6506533668;7004880389;7102615533
+   - **Authoraffiliationids:** 60025153;60012630-60103966;60025153;60025153;60003686;60025153;60012630-60103966
+   - **Corresponding:** Randazzo A.
+69.
+   - **Title:** Microwave Imaging for the Diagnosis of Cervical Diseases: A Feasibility Analysis
+   - **Venue:** IEEE Journal of Electromagnetics RF and Microwaves in Medicine and Biology
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 27
+   - **DOI:** 10.1109/JERM.2020.3042711
+   - **Scopus ID:** 2-s2.0-85097952145
+   - **eISSN:** 24697249
+   - **Volume:** 5
+   - **Issue:** 3
+   - **Pages:** 277-285
+   - **Authors:** Dachena Chiara; Fedeli Alessandro; Fanti Alessandro; Lodi Matteo B.; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** inverse problems | Microwave imaging | spinal cord | tomography
+   - **Quartile:**
+     2025:
+     - Radiation (Q1, rank 4, percentile 95)
+     - Radiology, Nuclear Medicine and Imaging (Q1, rank 26, percentile 92)
+     - Instrumentation (Q1, rank 22, percentile 88)
+     2021:
+     - Radiation (Q1, rank 5, percentile 91)
+     - Instrumentation (Q1, rank 17, percentile 87)
+     - Radiology, Nuclear Medicine and Imaging (Q1, rank 57, percentile 81)
+   - **Source Id:** 21100902029
+   - **Author Ids:** 57206901870;55512997500;36664325500;57211403950;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60032259-60114714;60032259;60025153;60025153
+   - **Corresponding:** Dachena C.
+70.
+   - **Title:** Through-the-Wall Imaging by means of a Hybrid Inverse-Scattering Procedure
+   - **Venue:** 2021 34th General Assembly and Scientific Symposium of the International Union of Radio Science Ursi Gass 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/URSIGASS51995.2021.9560268
+   - **Scopus ID:** 2-s2.0-85118261941
+   - **Authors:** Randazzo Andrea; Ponti Cristina; Schenone Valentina; Fedeli Alessandro; Estatico Claudio; D'Atanasio Paolo; Pastorino Matteo; Schettini Giuseppe
+   - **Source Id:** 21101063823
+   - **Author Ids:** 7006280562;26536362600;57216360162;55512997500;9739222400;6506533668;7004880389;7102615533
+   - **Authoraffiliationids:** 60025153;60012630;60025153;60025153;60025153;60003686;60025153;60012630
+   - **Corresponding:** Randazzo A.
+71.
+   - **Title:** An Iterative Multifrequency Approach in LpSpaces for Multiscaling Detection of Buried Objects
+   - **Venue:** 2021 34th General Assembly and Scientific Symposium of the International Union of Radio Science Ursi Gass 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/URSIGASS51995.2021.9560286
+   - **Scopus ID:** 2-s2.0-85118253765
+   - **Authors:** Randazzo Andrea; Capra Federico; Estatico Claudio; Fedeli Alessandro; Salucci Marco; Zardi Francesco; Pastorino Matteo
+   - **Source Id:** 21101063823
+   - **Author Ids:** 7006280562;57316782200;9739222400;55512997500;54387549100;57206727509;7004880389
+   - **Authoraffiliationids:** 60025153;60015986;60025153;60025153;60015986;60015986;60025153
+   - **Corresponding:** Randazzo A.
+72.
+   - **Title:** FE-Based Microwave Inverse Scattering in Nonconstant-Exponent Spaces: A Numerical Assessment
+   - **Venue:** 2021 International Conference on Electromagnetics in Advanced Applications Iceaa 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICEAA52647.2021.9539589
+   - **Scopus ID:** 2-s2.0-85116307583
+   - **Pages:** 351
+   - **Authors:** Fedeli A.; Schenone V.; Pastorino M.; Randazzo A.
+   - **Source Id:** 21101060563
+   - **Author Ids:** 55512997500;57216360162;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+73.
+   - **Title:** Two Ways for Early Detection of a Stroke through a Wearable Smart Helmet: Signal Processing vs. Electromagnetism
+   - **Venue:** IEEE Wireless Communications
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1109/MWC.001.2000401
+   - **Scopus ID:** 2-s2.0-85111168674
+   - **ISSN:** 15361284
+   - **eISSN:** 15580687
+   - **Volume:** 28
+   - **Issue:** 3
+   - **Pages:** 22-27
+   - **Authors:** Bisio Igor; Fedeli Alessandro; Garibotto Chiara; Lavagetto Fabio; Pastorino Matteo; Randazzo Andrea
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 24, percentile 97)
+     - Computer Science Applications (Q1, rank 29, percentile 97)
+     2021:
+     - Computer Science Applications (Q1, rank 5, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 10, percentile 98)
+   - **Source Id:** 18935
+   - **Author Ids:** 8546192900;55512997500;57053502600;7004136693;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+74.
+   - **Title:** A Breath Monitoring Approach Based on Electrical Impedance Measurements
+   - **Venue:** IEEE Journal of Electromagnetics RF and Microwaves in Medicine and Biology
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1109/JERM.2020.3031491
+   - **Scopus ID:** 2-s2.0-85106984949
+   - **eISSN:** 24697249
+   - **Volume:** 5
+   - **Issue:** 2
+   - **Pages:** 179-186
+   - **Authors:** Tavanti Emanuele; Gambari Gianluca; Boero Federico; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** breath rate monitoring | Electrical impedance | wearable devices
+   - **Quartile:**
+     2025:
+     - Radiation (Q1, rank 4, percentile 95)
+     - Radiology, Nuclear Medicine and Imaging (Q1, rank 26, percentile 92)
+     - Instrumentation (Q1, rank 22, percentile 88)
+     2021:
+     - Radiation (Q1, rank 5, percentile 91)
+     - Instrumentation (Q1, rank 17, percentile 87)
+     - Radiology, Nuclear Medicine and Imaging (Q1, rank 57, percentile 81)
+   - **Source Id:** 21100902029
+   - **Author Ids:** 57038817000;57218476376;57200958692;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;126296272;126296272;60025153;60025153;60025153
+   - **Corresponding:** Tavanti E.
+75.
+   - **Title:** A Microwave Imaging Technique for Neck Diseases Monitoring
+   - **Venue:** 15th European Conference on Antennas and Propagation Eucap 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/EuCAP51087.2021.9411191
+   - **Scopus ID:** 2-s2.0-85105519543
+   - **Authors:** Dachena Chiara; Fedeli Alessandro; Fanti Alessandro; Lodi Matteo B.; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Cervical disease | hybrid inversion approach | microwave imaging
+   - **Source Id:** 21101044864
+   - **Author Ids:** 57206901870;55512997500;36664325500;57200266678;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Dachena C.
+76.
+   - **Title:** Nonlinear Inverse-Scattering in Variable-Exponent Spaces for Multifrequency Subsurface Imaging
+   - **Venue:** 15th European Conference on Antennas and Propagation Eucap 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EuCAP51087.2021.9411107
+   - **Scopus ID:** 2-s2.0-85105431689
+   - **Authors:** Fedeli Alessandro; Schenone Valentina; Estatico Claudio; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Inverse scattering | Lebesgue spaces | Subsurface imaging
+   - **Source Id:** 21101044864
+   - **Author Ids:** 55512997500;57216360162;9739222400;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+77.
+   - **Title:** Analysis of a nonlinear technique for microwave imaging of targets inside conducting cylinders
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.3390/electronics10050594
+   - **Scopus ID:** 2-s2.0-85101925769
+   - **eISSN:** 20799292
+   - **Volume:** 10
+   - **Issue:** 5
+   - **Pages:** 1-18
+   - **Authors:** Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea; Gragnani Gian Luigi
+   - **Keywords:** Conducting cylinders | Inverse scattering | Tomography
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+     2021:
+     - Electrical and Electronic Engineering (Q2, rank 280, percentile 60)
+     - Computer Networks and Communications (Q2, rank 146, percentile 59)
+     - Control and Systems Engineering (Q2, rank 110, percentile 59)
+     - Signal Processing (Q2, rank 51, percentile 56)
+     - Hardware and Architecture (Q2, rank 75, percentile 55)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 55512997500;7004880389;7006280562;6701681576
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+78.
+   - **Title:** An Electrical Impedance Tomography System for Brain Stroke Imaging based on a Lebesgue-Space Inversion Procedure
+   - **Venue:** IEEE Journal of Electromagnetics RF and Microwaves in Medicine and Biology
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1109/JERM.2020.2994816
+   - **Scopus ID:** 2-s2.0-85101849905
+   - **eISSN:** 24697249
+   - **Volume:** 5
+   - **Issue:** 1
+   - **Pages:** 54-61
+   - **Authors:** Randazzo Andrea; Tavanti Emanuele; Mikulenas Mantas; Boero Federico; Fedeli Alessandro; Sansalone Andrea; Allasia Giorgio; Pastorino Matteo
+   - **Keywords:** Brain stroke | electrical impedance tomography | imaging | inverse problems | Lebesgue spaces
+   - **Quartile:**
+     2025:
+     - Radiation (Q1, rank 4, percentile 95)
+     - Radiology, Nuclear Medicine and Imaging (Q1, rank 26, percentile 92)
+     - Instrumentation (Q1, rank 22, percentile 88)
+     2021:
+     - Radiation (Q1, rank 5, percentile 91)
+     - Instrumentation (Q1, rank 17, percentile 87)
+     - Radiology, Nuclear Medicine and Imaging (Q1, rank 57, percentile 81)
+   - **Source Id:** 21100902029
+   - **Author Ids:** 7006280562;57038817000;57220067138;57200958692;55512997500;57200964848;36995727400;7004880389
+   - **Authoraffiliationids:** 60025153;60025153;120302456;120302456;60025153;120302456;120302456;60025153
+   - **Corresponding:** Randazzo A.
+79.
+   - **Title:** Nonlinear S-Parameters Inversion for Stroke Imaging
+   - **Venue:** IEEE Transactions on Microwave Theory and Techniques
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 77
+   - **DOI:** 10.1109/TMTT.2020.3040483
+   - **Scopus ID:** 2-s2.0-85097963222
+   - **ISSN:** 00189480
+   - **eISSN:** 15579670
+   - **Volume:** 69
+   - **Issue:** 3
+   - **Pages:** 1760-1771
+   - **Authors:** Fedeli Alessandro; Schenone Valentina; Randazzo Andrea; Pastorino Matteo; Henriksson Tommy; Semenov Serguei
+   - **Keywords:** Finite elements | inverse problems | Lebesgue spaces | S-parameters | stroke imaging
+   - **Quartile:**
+     2025:
+     - Radiation (Q1, rank 3, percentile 96)
+     - Condensed Matter Physics (Q1, rank 48, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 120, percentile 88)
+     2021:
+     - Radiation (Q1, rank 3, percentile 95)
+     - Condensed Matter Physics (Q1, rank 42, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 96, percentile 86)
+   - **Source Id:** 17366
+   - **Author Ids:** 55512997500;57216360162;7006280562;7004880389;59826002200;7103074188
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;114934399;114934399
+   - **Corresponding:** Fedeli A.
+80.
+   - **Title:** An Antenna Array Diagnostic Technique based on a Lebesgue-Space Inversion Procedure
+   - **Venue:** 2021 IEEE Conference on Antenna Measurements and Applications Cama 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CAMA49227.2021.9703531
+   - **Scopus ID:** 2-s2.0-85126743484
+   - **Pages:** 524-527
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Antenna diagnostics | inverse source | Lebesgue spaces
+   - **Source Id:** 21101081726
+   - **Author Ids:** 57216360162;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Schenone V.
+81.
+   - **Title:** Microwave Imaging of Dielectric Targets by Means of a Variable-Exponent Finite-Elements Approach
+   - **Venue:** 2021 IEEE Conference on Antenna Measurements and Applications Cama 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CAMA49227.2021.9703641
+   - **Scopus ID:** 2-s2.0-85126734120
+   - **Pages:** 546-549
+   - **Authors:** Schenone Valentina; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea; Estatico Claudio
+   - **Keywords:** finite element methods | Inverse scattering | Lebesgue spaces
+   - **Source Id:** 21101081726
+   - **Author Ids:** 57216360162;55512997500;7004880389;7006280562;9739222400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Schenone V.
+82.
+   - **Title:** Effect of Data Noise on LSTM-FC Scattered-Field Processing for Microwave Imaging
+   - **Venue:** Ist 2021 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IST50367.2021.9651450
+   - **Scopus ID:** 2-s2.0-85124373050
+   - **Authors:** Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** electromagnetic inverse scattering problems | long short-term memory | microwave imaging
+   - **Source Id:** 21101075538
+   - **Author Ids:** 55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+83.
+   - **Title:** Microwave Tomography of the Neck with ANNs: Preliminary Results with Simplified Numerical Phantoms
+   - **Venue:** Ist 2021 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IST50367.2021.9651379
+   - **Scopus ID:** 2-s2.0-85124356071
+   - **Authors:** Dachena Chiara; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea; Fanti Alessandro; Lodi Matteo Bruno; Fumera Giorgio
+   - **Keywords:** artificial neural networks | Microwave imaging | neck phantom
+   - **Source Id:** 21101075538
+   - **Author Ids:** 57206901870;55512997500;7004880389;7006280562;36664325500;57211403950;6602513262
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60032259;60032259;60032259
+   - **Corresponding:** Dachena C.
+84.
+   - **Title:** Microwave Characterization and Modeling of the Carasau Bread Doughs during Leavening
+   - **Venue:** IEEE Access
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1109/ACCESS.2021.3131207
+   - **Scopus ID:** 2-s2.0-85120542395
+   - **eISSN:** 21693536
+   - **Volume:** 9
+   - **Pages:** 159833-159847
+   - **Authors:** Lodi Matteo Bruno; Curreli Nicola; Melis Andrea; Garau Emanuele; Fanari Fabio; Fedeli Alessandro; Randazzo Andrea; Mazzarella Giuseppe; Fanti Alessandro
+   - **Keywords:** Carasau bread dough | dielectric materials | dielectric measurements | dielectric spectroscopy | food manufacturing | microwave measurements | open-ended coaxial probe | thermogravimetric analysis
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 42, percentile 88)
+     - Computer Science (all) (Q1, rank 41, percentile 83)
+     - Materials Science (all) (Q1, rank 101, percentile 78)
+     2021:
+     - Engineering (all) (Q1, rank 28, percentile 90)
+     - Computer Science (all) (Q1, rank 34, percentile 85)
+     - Subject (Q1, rank 124, percentile 82)
+     - Materials Science (all) (Q1, rank 104, percentile 77)
+   - **Source Id:** 21100374601
+   - **Author Ids:** 57211403950;56487698400;41262209800;57189625838;57206902315;55512997500;7006280562;7006097620;36664325500
+   - **Authoraffiliationids:** 60032259-126431541;60102151;60032259;60032259;60032259;126431541-60025153;126431541-60025153;60032259-126431541;60032259-126431541
+   - **Corresponding:** Lodi M.B.
+85.
+   - **Title:** Microwave Imaging of the Neck by Means of Artificial Neural Networks for Tumor Detection
+   - **Venue:** IEEE Open Journal of Antennas and Propagation
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 23
+   - **DOI:** 10.1109/OJAP.2021.3121177
+   - **Scopus ID:** 2-s2.0-85118250325
+   - **eISSN:** 26376431
+   - **Volume:** 2
+   - **Pages:** 1044-1056
+   - **Authors:** Dachena Chiara; Fedeli Alessandro; Fanti Alessandro; Lodi Matteo Bruno; Fumera Giorgio; Randazzo Andrea; Pastorino Matteo
+   - **Keywords:** artificial neural networks | biomedical imaging | inverse scattering | machine learning | Microwave imaging | neck tumors
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 199, percentile 80)
+     2021:
+     - Electrical and Electronic Engineering (Q3, rank 446, percentile 37)
+   - **Source Id:** 21101059745
+   - **Author Ids:** 57206901870;55512997500;36664325500;57211403950;6602513262;7006280562;7004880389
+   - **Authoraffiliationids:** 60025153;60025153;60032259-60114714;60032259;60032259;60025153;60025153
+   - **Corresponding:** Dachena C.
+86.
+   - **Title:** A through-the-wall imaging approach based on a tsvd/variable-exponent lebesgue-space method
+   - **Venue:** Remote Sensing
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.3390/rs13112028
+   - **Scopus ID:** 2-s2.0-85106976784
+   - **eISSN:** 20724292
+   - **Volume:** 13
+   - **Issue:** 11
+   - **Authors:** Randazzo Andrea; Ponti Cristina; Fedeli Alessandro; Estatico Claudio; D’atanasio Paolo; Pastorino Matteo; Schettini Giuseppe
+   - **Keywords:** Electromagnetic problems | Inverse scattering | Microwave imaging | Through-wall radar
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 12, percentile 94)
+     2021:
+     - Earth and Planetary Sciences (all) (Q1, rank 17, percentile 91)
+   - **Source Id:** 86430
+   - **Author Ids:** 7006280562;26536362600;55512997500;9739222400;6506533668;7004880389;7102615533
+   - **Authoraffiliationids:** 60025153;60012630;60025153;60025153;60003686;60025153;60012630
+   - **Corresponding:** Randazzo A.
+87.
+   - **Title:** Low-Cost FMCW Radar Human-Vehicle Classification Based on Transfer Learning
+   - **Venue:** Proceedings of the International Conference on Microelectronics Icm
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ICM50269.2020.9331808
+   - **Scopus ID:** 2-s2.0-85100556948
+   - **Volume:** 2020-December
+   - **Authors:** Rizik Ali; Randazzo Andrea; Vio Roberto; Delucchi Alessandro; Chible Hussien; Caviglia Daniele D.
+   - **Keywords:** 24 GHz | 2D FFT Processing | classification | CNN | FMCW radar | low-cost radar | Range-Doppler map | Transfer Learning
+   - **Source Id:** 144854
+   - **Author Ids:** 57214804817;7006280562;57214794400;57204907662;7801443090;7004012654
+   - **Authoraffiliationids:** 60025153;60025153;123864795;123864795;60068774;60025153
+   - **Corresponding:** Rizik A.
+88.
+   - **Title:** Pedestrian and multi-class vehicle classification in radar systems using rulex software on the raspberry pi
+   - **Venue:** Applied Sciences Switzerland
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.3390/app10249113
+   - **Scopus ID:** 2-s2.0-85098128693
+   - **eISSN:** 20763417
+   - **Volume:** 10
+   - **Issue:** 24
+   - **Pages:** 1-10
+   - **Authors:** Daher Ali Walid; Rizik Ali; Randazzo Andrea; Tavanti Emanuele; Chible Hussein; Muselli Marco; Caviglia Daniele D.
+   - **Keywords:** Cascading | Edge computing | Internet of things | Machine learning | Radar
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 69, percentile 80)
+     - Instrumentation (Q1, rank 38, percentile 80)
+     - Fluid Flow and Transfer Processes (Q1, rank 21, percentile 79)
+     - Computer Science Applications (Q2, rank 294, percentile 70)
+     - Materials Science (all) (Q2, rank 166, percentile 64)
+     - Process Chemistry and Technology (Q2, rank 34, percentile 55)
+     2020:
+     - Engineering (all) (Q2, rank 85, percentile 71)
+     - Instrumentation (Q2, rank 49, percentile 62)
+     - Fluid Flow and Transfer Processes (Q2, rank 34, percentile 59)
+     - Computer Science Applications (Q2, rank 300, percentile 56)
+     - Materials Science (all) (Q2, rank 222, percentile 51)
+     - Process Chemistry and Technology (Q2, rank 30, percentile 50)
+   - **Source Id:** 21100829268
+   - **Author Ids:** 57275978700;57214804817;7006280562;57038817000;7801443090;7003496128;7004012654
+   - **Authoraffiliationids:** 60025153-60068774-60021199;60025153-60068774;60025153;60025153;60068774;60021199;60025153
+   - **Corresponding:** Daher A.W.
+89.
+   - **Title:** A Phaseless Microwave Imaging Approach Based on a Lebesgue-Space Inversion Algorithm
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 28
+   - **DOI:** 10.1109/TAP.2020.2999789
+   - **Scopus ID:** 2-s2.0-85086699132
+   - **ISSN:** 0018926X
+   - **eISSN:** 15582221
+   - **Volume:** 68
+   - **Issue:** 12
+   - **Pages:** 8091-8103
+   - **Authors:** Estatico Claudio; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea; Tavanti Emanuele
+   - **Keywords:** Amplitude-only | Banach spaces | inverse problems | microwave imaging | regularization
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+     2020:
+     - Electrical and Electronic Engineering (Q1, rank 59, percentile 91)
+   - **Source Id:** 17337
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562;57038817000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+90.
+   - **Title:** Single Target Recognition Using a Low-Cost FMCW Radar Based on Spectrum Analysis
+   - **Venue:** Icecs 2020 27th IEEE International Conference on Electronics Circuits and Systems Proceedings
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/ICECS49266.2020.9294819
+   - **Scopus ID:** 2-s2.0-85099448120
+   - **Authors:** Rizik Ali; Tavanti Emanuele; Vio Roberto; Delucchi Alessandro; Chible Hussien; Randazzo Andrea; Caviglia Daniele D.
+   - **Keywords:** 24 GHz | Classification | Feature Extraction | FMCW Radar | Range and Doppler Profiles | Range-Doppler Map | Spectrum Analysis | Target Recognition
+   - **Source Id:** 21101033916
+   - **Author Ids:** 57214804817;57038817000;57214794400;57204907662;7801443090;7006280562;7004012654
+   - **Authoraffiliationids:** 60068774-60025153;60068774;123864795;123864795;60025153;60068774;60068774
+   - **Corresponding:** Rizik A.
+91.
+   - **Title:** A Microwave Imaging System for the Detection of Targets Hidden behind Dielectric Walls
+   - **Venue:** 2020 33rd General Assembly and Scientific Symposium of the International Union of Radio Science Ursi Gass 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.23919/URSIGASS49373.2020.9232008
+   - **Scopus ID:** 2-s2.0-85096866467
+   - **Authors:** Cicchetti Renato; Cicchetti Valentina; Costanzo Sandra; D'Atanasio Paolo; Fedeli Alessandro; Pastorino Matteo; Pisa Stefano; Pittella Erika; Piuzzi Emanuele; Ponti Cristina; Randazzo Andrea; Santarsiero Massimo; Schettini Giuseppe; Testa Orlandino
+   - **Source Id:** 21101028579
+   - **Author Ids:** 7004398705;57215835098;14029886000;6506533668;55512997500;7004880389;6603887757;24802635400;6603094570;26536362600;7006280562;7006864478;7102615533;6602217029
+   - **Authoraffiliationids:** 60032350;60032350;60020261;60003686;60025153;60025153;60032350;60134847;60032350;60012630;60025153;60012630;60012630;60032350
+   - **Corresponding:** Cicchetti R.
+92.
+   - **Title:** A Microwave Diagnostic Technique for Early-Stage Brain Stroke Characterization
+   - **Venue:** 2020 33rd General Assembly and Scientific Symposium of the International Union of Radio Science Ursi Gass 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.23919/URSIGASS49373.2020.9232318
+   - **Scopus ID:** 2-s2.0-85096860633
+   - **Authors:** Fedeli Alessandro; Randazzo Andrea; Sciarrone Andrea; Bisio Igor; Lavagetto Fabio; Pastorino Matteo
+   - **Source Id:** 21101028579
+   - **Author Ids:** 55512997500;7006280562;36180166900;8546192900;7004136693;7004880389
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+93.
+   - **Title:** Multi-Frequency Inversion of Scattered-Field Data in Lebesgue Spaces with Nonconstant Exponents
+   - **Venue:** 2020 33rd General Assembly and Scientific Symposium of the International Union of Radio Science Ursi Gass 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/URSIGASS49373.2020.9232449
+   - **Scopus ID:** 2-s2.0-85096841201
+   - **Authors:** Fedeli Alessandro; Estatico Claudio; Randazzo Andrea; Pastorino Matteo
+   - **Source Id:** 21101028579
+   - **Author Ids:** 55512997500;9739222400;7006280562;7004880389
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+94.
+   - **Title:** Through-the-wall microwave imaging: Forward and inverse scattering modeling
+   - **Venue:** Sensors Switzerland
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.3390/s20102865
+   - **Scopus ID:** 2-s2.0-85085101004
+   - **ISSN:** 14248220
+   - **Volume:** 20
+   - **Issue:** 10
+   - **Authors:** Fedeli Alessandro; Pastorino Matteo; Ponti Cristina; Randazzo Andrea; Schettini Giuseppe
+   - **Keywords:** Buried objects | Electromagnetic scattering | Inverse scattering | Microwave imaging | Through-wall radar
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2020:
+     - Instrumentation (Q1, rank 13, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 80)
+     - Information Systems (Q1, rank 69, percentile 79)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 42, percentile 78)
+     - Analytical Chemistry (Q1, rank 29, percentile 76)
+     - Biochemistry (Q2, rank 133, percentile 67)
+   - **Source Id:** 130124
+   - **Author Ids:** 55512997500;7004880389;26536362600;7006280562;7102615533
+   - **Authoraffiliationids:** 60025153;60025153;60012630;60025153;60012630
+   - **Corresponding:** Fedeli A.
+95.
+   - **Title:** Variable-Exponent Lebesgue-Space Inversion for Brain Stroke Microwave Imaging
+   - **Venue:** IEEE Transactions on Microwave Theory and Techniques
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 68
+   - **DOI:** 10.1109/TMTT.2019.2963870
+   - **Scopus ID:** 2-s2.0-85084808560
+   - **ISSN:** 00189480
+   - **eISSN:** 15579670
+   - **Volume:** 68
+   - **Issue:** 5
+   - **Pages:** 1882-1895
+   - **Authors:** Bisio Igor; Estatico Claudio; Fedeli Alessandro; Lavagetto Fabio; Pastorino Matteo; Randazzo Andrea; Sciarrone Andrea
+   - **Keywords:** Brain stroke imaging | Inverse problems | Lebesgue spaces
+   - **Quartile:**
+     2025:
+     - Radiation (Q1, rank 3, percentile 96)
+     - Condensed Matter Physics (Q1, rank 48, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 120, percentile 88)
+     2020:
+     - Radiation (Q1, rank 3, percentile 95)
+     - Condensed Matter Physics (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 82, percentile 88)
+   - **Source Id:** 17366
+   - **Author Ids:** 8546192900;9739222400;55512997500;7004136693;7004880389;7006280562;36180166900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+96.
+   - **Title:** A Tomographic Multistatic System for Biomedical Microwave Sensing
+   - **Venue:** 14th European Conference on Antennas and Propagation Eucap 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/EuCAP48036.2020.9135211
+   - **Scopus ID:** 2-s2.0-85088655098
+   - **Authors:** Bisio Igor; Estatico Claudio; Fedeli Alessandro; Lavagetto Fabio; Pastorino Matteo; Randazzo Andrea; Sciarrone Andrea
+   - **Keywords:** biomedical sensing | measurement systems | Microwave imaging
+   - **Source Id:** 21101018617
+   - **Author Ids:** 8546192900;9739222400;55512997500;7004136693;7004880389;7006280562;36180166900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+97.
+   - **Title:** Forward and Inverse Scattering Models Applied to Through-Wall Imaging
+   - **Venue:** 14th European Conference on Antennas and Propagation Eucap 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.23919/EuCAP48036.2020.9135860
+   - **Scopus ID:** 2-s2.0-85088654263
+   - **Authors:** Fedeli A.; Pastorino M.; Ponti C.; Randazzo A.; Schettini G.
+   - **Keywords:** forward electromagnetic scattering | inverse problems | microwave imaging | Through-the-wall imaging
+   - **Source Id:** 21101018617
+   - **Author Ids:** 55512997500;7004880389;26536362600;7006280562;7102615533
+   - **Authoraffiliationids:** 60025153;60025153;60012630;60025153;60025153
+   - **Corresponding:** Fedeli A.
+98.
+   - **Title:** Inverse Scattering in the Framework of Unconventional Lebesgue Spaces: A Case Study
+   - **Venue:** 14th European Conference on Antennas and Propagation Eucap 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EuCAP48036.2020.9135827
+   - **Scopus ID:** 2-s2.0-85088654090
+   - **Authors:** Estatico Claudio; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** invese scattering | Lebesgue spaces | Microwave imaging
+   - **Source Id:** 21101018617
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+99.
+   - **Title:** Microwave Imaging of Cervical Myelopathy: A Preliminary Feasibility Assessment
+   - **Venue:** 14th European Conference on Antennas and Propagation Eucap 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/EuCAP48036.2020.9135437
+   - **Scopus ID:** 2-s2.0-85088651069
+   - **Authors:** Dachena Chiara; Fanti Alessandro; Fedeli Alessandro; Mazzarella Giuseppe; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** cervical myelopathy | inverse problems | Microwave imaging
+   - **Source Id:** 21101018617
+   - **Author Ids:** 57206901870;36664325500;55512997500;7006097620;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60032259;60025153;60025153;60025153;60025153
+   - **Corresponding:** Dachena C.
+100.
+   - **Title:** Microwave imaging sensors
+   - **Venue:** Imaging Sensor Technologies and Applications
+   - **Year:** 2020
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-85114973816
+   - **Pages:** 227-252
+   - **Authors:** Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Source Id:** 21101059071
+   - **Author Ids:** 55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+101.
+   - **Title:** Microwave detection of brain injuries by means of a hybrid imaging method
+   - **Venue:** IEEE Open Journal of Antennas and Propagation
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 33
+   - **DOI:** 10.1109/OJAP.2020.3024276
+   - **Scopus ID:** 2-s2.0-85105467352
+   - **eISSN:** 26376431
+   - **Volume:** 1
+   - **Pages:** 513-523
+   - **Authors:** Fedeli Alessandro; Estatico Claudio; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** brain stroke | hybrid methods | inverse scattering | Microwave imaging
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 199, percentile 80)
+   - **Source Id:** 21101059745
+   - **Author Ids:** 55512997500;9739222400;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+102.
+   - **Title:** A hybrid asymptotic-FVTD method for the estimation of the radar cross section of 3D structures
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.3390/electronics8121388
+   - **Scopus ID:** 2-s2.0-85075458868
+   - **eISSN:** 20799292
+   - **Volume:** 8
+   - **Issue:** 12
+   - **Authors:** Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Finite volume methods | Numerical simulation | Physical optics | Radar cross-section
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+     2019:
+     - Electrical and Electronic Engineering (Q3, rank 376, percentile 43)
+     - Computer Networks and Communications (Q3, rank 173, percentile 43)
+     - Control and Systems Engineering (Q3, rank 142, percentile 41)
+     - Signal Processing (Q3, rank 64, percentile 38)
+     - Hardware and Architecture (Q3, rank 109, percentile 30)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+103.
+   - **Title:** Feature extraction for human-vehicle classification in FMCW Radar
+   - **Venue:** 2019 26th IEEE International Conference on Electronics Circuits and Systems Icecs 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/ICECS46596.2019.8965072
+   - **Scopus ID:** 2-s2.0-85079179246
+   - **Pages:** 131-132
+   - **Authors:** Rizik Ali; Randazzo Andrea; Vio Roberto; Delucchi Alessandro; Chible Hussien; Caviglia Daniele D.
+   - **Keywords:** 2D FFT | Doppler features | Feature extraction | FMCW radar
+   - **Source Id:** 21100944554
+   - **Author Ids:** 57214804817;7006280562;57214794400;57204907662;7801443090;7004012654
+   - **Authoraffiliationids:** 60025153-60068774;60025153;123864795;123864795;60068774;60025153
+   - **Corresponding:** Rizik A.
+104.
+   - **Title:** Nonlinear inverse-scattering methods in lebesgue spaces applied to microwave imaging problems
+   - **Venue:** Proceedings of the 2019 21st International Conference on Electromagnetics in Advanced Applications Iceaa 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICEAA.2019.8879297
+   - **Scopus ID:** 2-s2.0-85074928601
+   - **Pages:** 676
+   - **Authors:** Estatico C.; Fedeli A.; Pastorino M.; Randazzo A.
+   - **Source Id:** 21100935204
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+105.
+   - **Title:** Microwave imaging by means of lebesgue-space inversion: An overview
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 38
+   - **DOI:** 10.3390/electronics8090945
+   - **Scopus ID:** 2-s2.0-85071979448
+   - **eISSN:** 20799292
+   - **Volume:** 8
+   - **Issue:** 9
+   - **Authors:** Estatico Claudio; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Inverse problems | Inverse scattering | Lebesgue spaces | Microwave imaging
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+     2019:
+     - Electrical and Electronic Engineering (Q3, rank 376, percentile 43)
+     - Computer Networks and Communications (Q3, rank 173, percentile 43)
+     - Control and Systems Engineering (Q3, rank 142, percentile 41)
+     - Signal Processing (Q3, rank 64, percentile 38)
+     - Hardware and Architecture (Q3, rank 109, percentile 30)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+106.
+   - **Title:** A Field Assessment of a Rain Estimation System Based on Satellite-to-Earth Microwave Links
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 21
+   - **DOI:** 10.1109/TGRS.2018.2878338
+   - **Scopus ID:** 2-s2.0-85057877821
+   - **ISSN:** 01962892
+   - **Volume:** 57
+   - **Issue:** 5
+   - **Pages:** 2864-2875
+   - **Authors:** Colli Matteo; Stagnaro Mattia; Caridi Andrea; Lanza Luca G.; Randazzo Andrea; Pastorino Matteo; Caviglia Daniele D.; Delucchi Alessandro
+   - **Keywords:** Atmospheric measurements | attenuation measurements | geophysical measurement techniques | microwave measurements
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2019:
+     - Earth and Planetary Sciences (all) (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 43, percentile 93)
+   - **Source Id:** 17360
+   - **Author Ids:** 48161076500;57192199544;57204916103;7005744799;7006280562;7004880389;7004012654;57204907662
+   - **Authoraffiliationids:** 60025153-122492693;122492693-60025153;117766650;122492693-60025153;60025153;60025153;60025153-117766650;117766650
+   - **Corresponding:** Colli M.
+107.
+   - **Title:** Mapping the dielectric properties of unknown targets by using a network of microwave sensors: A proof-of-concept
+   - **Venue:** Sensors Switzerland
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3390/s19061270
+   - **Scopus ID:** 2-s2.0-85063013153
+   - **ISSN:** 14248220
+   - **Volume:** 19
+   - **Issue:** 6
+   - **Authors:** Estatico Claudio; Fedeli Alessandro; Gragnani Gian Luigi; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Inverse scattering | Microwaves | Sensor networks
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2019:
+     - Instrumentation (Q1, rank 17, percentile 87)
+     - Electrical and Electronic Engineering (Q1, rank 147, percentile 78)
+     - Information Systems (Q1, rank 70, percentile 76)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 46, percentile 75)
+     - Analytical Chemistry (Q2, rank 35, percentile 71)
+     - Biochemistry (Q2, rank 156, percentile 61)
+   - **Source Id:** 130124
+   - **Author Ids:** 9739222400;55512997500;6701681576;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+108.
+   - **Title:** Microwave Imaging in Stratified Media: A Multifrequency Inverse-Scattering Approach
+   - **Venue:** 13th European Conference on Antennas and Propagation Eucap 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-85068461515
+   - **Authors:** Estatico C.; Fedeli A.; Pastorino M.; Randazzo A.
+   - **Keywords:** buried object detection | Microwave imaging | stratified media
+   - **Source Id:** 21100915238
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+109.
+   - **Title:** Three-Dimensional Microwave Imaging by Using a Conjugate-Gradient Approach in Lp Banach Spaces
+   - **Venue:** 13th European Conference on Antennas and Propagation Eucap 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85068445788
+   - **Authors:** Estatico C.; Fedeli A.; Pastorino M.; Randazzo A.; Tavanti E.
+   - **Keywords:** Banach spaces | conjugate gradient | inverse problems | Microwave imaging | Newton scheme
+   - **Source Id:** 21100915238
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562;57038817000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+110.
+   - **Title:** Microwave imaging of 3D dielectric structures by means of a Newton-CG method in Lp spaces
+   - **Venue:** International Journal of Antennas and Propagation
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1155/2019/2841937
+   - **Scopus ID:** 2-s2.0-85073885316
+   - **ISSN:** 16875869
+   - **eISSN:** 16875877
+   - **Volume:** 2019
+   - **Authors:** Estatico Claudio; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea; Tavanti Emanuele
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 379, percentile 62)
+     2019:
+     - Electrical and Electronic Engineering (Q2, rank 329, percentile 50)
+   - **Source Id:** 19700186861
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562;57038817000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+111.
+   - **Title:** A field experiment of rainfall intensity estimation based on the analysis of satellite-to-earth microwave link attenuation
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2019
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1007/978-3-030-11973-7_17
+   - **Scopus ID:** 2-s2.0-85066904683
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 550
+   - **Issue:** 9783030119720
+   - **Pages:** 137-144
+   - **Authors:** Colli M.; Stagnaro M.; Caridi A.; Lanza L. G.; Randazzo A.; Pastorino M.; Caviglia D. D.; Delucchi A.
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+     2019:
+     - Industrial and Manufacturing Engineering (Q3, rank 246, percentile 27)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 48161076500;57192199544;57204916103;7005744799;7006280562;7004880389;7004012654;57204907662
+   - **Authoraffiliationids:** 60025153-122676623;60025153-122676623;117766650;60025153-122676623;60025153;60025153;60025153-117766650;117766650
+   - **Corresponding:** Colli M.
+112.
+   - **Title:** Microwave Sensor Network for Quantitative Characterization of Targets: A Proof-of-Concept
+   - **Venue:** Proceedings 2018 Advances in Wireless and Optical Communications Rtuwo 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/RTUWO.2018.8587908
+   - **Scopus ID:** 2-s2.0-85061059494
+   - **Pages:** 246-250
+   - **Authors:** Fedeli Alessandro; Gragnani Gian Luigi; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** inverse scattering. | microwaves | Sensor networks
+   - **Source Id:** 21100897133
+   - **Author Ids:** 55512997500;6701681576;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+113.
+   - **Title:** An imaging technique for brain stroke monitoring at microwaves
+   - **Venue:** Ist 2018 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IST.2018.8577144
+   - **Scopus ID:** 2-s2.0-85060708378
+   - **Authors:** Bisio Igor; Estatico Claudio; Fedeli Alessandro; Lavagetto Fabio; Pastorino Matteo; Randazzo Andrea; Sciarrone Andrea; Tavanti Emanuele
+   - **Keywords:** Banach spaces | brain stroke detection. | inverse problems | Microwave imaging
+   - **Source Id:** 21100896625
+   - **Author Ids:** 8546192900;9739222400;55512997500;7004136693;7004880389;7006280562;36180166900;57038817000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+114.
+   - **Title:** A Newton-conjugate-gradient method in L p banach spaces for three-dimensional microwave imaging
+   - **Venue:** Ist 2018 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IST.2018.8577135
+   - **Scopus ID:** 2-s2.0-85060681388
+   - **Authors:** Estatico Claudio; Pastorino Alessandro Fedeli Matteo; Pastorino Matteo; Randazzo Andrea; Tavanti Emanuele
+   - **Keywords:** Banach spaces | conjugate gradient method | Imaging techniques | inverse problems | microwaves | Newton schemes
+   - **Source Id:** 21100896625
+   - **Author Ids:** 9739222400;57224553053;7004880389;7006280562;57038817000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+115.
+   - **Title:** Three-Dimensional Microwave Imaging in Lp Banach Spaces: Numerical and Experimental Results
+   - **Venue:** IEEE Transactions on Computational Imaging
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1109/TCI.2018.2859634
+   - **Scopus ID:** 2-s2.0-85063194227
+   - **ISSN:** 25730436
+   - **eISSN:** 23339403
+   - **Volume:** 4
+   - **Issue:** 4
+   - **Pages:** 609-623
+   - **Authors:** Estatico Claudio; Pastorino Matteo; Randazzo Andrea; Tavanti Emanuele
+   - **Keywords:** dielectrics | imaging | inverse scattering | Microwaves
+   - **Source Id:** 21100854164
+   - **Author Ids:** 9739222400;7004880389;7006280562;57038817000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+116.
+   - **Title:** Quantitative Microwave Imaging Method in Lebesgue Spaces with Nonconstant Exponents
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 43
+   - **DOI:** 10.1109/TAP.2018.2869201
+   - **Scopus ID:** 2-s2.0-85053131396
+   - **ISSN:** 0018926X
+   - **Volume:** 66
+   - **Issue:** 12
+   - **Pages:** 7282-7284
+   - **Authors:** Estatico Claudio; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Inexact-Newton method | inverse scattering | Lebesgue spaces | microwave imaging
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+     2018:
+     - Electrical and Electronic Engineering (Q1, rank 59, percentile 91)
+   - **Source Id:** 17337
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+117.
+   - **Title:** Brain Stroke Imaging by Means of Microwave Tomography: Quantitative Inversion Procedure, Configuration Set Up, and Preliminary Experimental Results
+   - **Venue:** 2018 2nd Ursi Atlantic Radio Science Meeting at Rasc 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/URSI-AT-RASC.2018.8471649
+   - **Scopus ID:** 2-s2.0-85055853024
+   - **Authors:** Bisio I.; Fedeli A.; Lavagetto F.; Mancardi G. L.; Pastorino M.; Randazzo A.; Sciarrone A.
+   - **Source Id:** 21100883677
+   - **Author Ids:** 8546192900;55512997500;7004136693;10939054400;7004880389;7006280562;36180166900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+118.
+   - **Title:** Comparison between Conjugate Gradient and Landweber Based Regularization Approaches in L p Banach Spaces for Microwave Tomography
+   - **Venue:** 2018 2nd Ursi Atlantic Radio Science Meeting at Rasc 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.23919/URSI-AT-RASC.2018.8471495
+   - **Scopus ID:** 2-s2.0-85055812802
+   - **Authors:** Estatico Claudio; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Source Id:** 21100883677
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+119.
+   - **Title:** Microwave Imaging Method Developed in Lebesgue Spaces for Inspecting Dielectric Targets
+   - **Venue:** 2018 2nd Ursi Atlantic Radio Science Meeting at Rasc 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/URSI-AT-RASC.2018.8471350
+   - **Scopus ID:** 2-s2.0-85055766878
+   - **Authors:** Estatico Claudio; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Source Id:** 21100883677
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+120.
+   - **Title:** Design and Experimental Test of a Microwave System for Quantitative Biomedical Imaging
+   - **Venue:** Memea 2018 2018 IEEE International Symposium on Medical Measurements and Applications Proceedings
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/MeMeA.2018.8438599
+   - **Scopus ID:** 2-s2.0-85053147256
+   - **Authors:** Maffongelli Manuela; Poretti Samuel; Salvadè Andrea; Monleone Ricardo; Pagnamenta Claudio; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** biomedical applications | microwave systems | nonlinear inversion
+   - **Source Id:** 21100876721
+   - **Author Ids:** 36682904800;25927504500;15623387700;15623618300;23569965500;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60101870;60101870;60101870;60101870;60101870;60025153;60025153;60025153
+   - **Corresponding:** Maffongelli M.
+121.
+   - **Title:** Brain stroke microwave imaging by means of a newton-conjugate-gradient method in = L p Banach Spaces
+   - **Venue:** IEEE Transactions on Microwave Theory and Techniques
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 72
+   - **DOI:** 10.1109/TMTT.2018.2849060
+   - **Scopus ID:** 2-s2.0-85049946543
+   - **ISSN:** 00189480
+   - **Volume:** 66
+   - **Issue:** 8
+   - **Pages:** 3668-3682
+   - **Authors:** Bisio Igor; Estatico Claudio; Fedeli Alessandro; Lavagetto Fabio; Pastorino Matteo; Randazzo Andrea; Sciarrone Andrea
+   - **Keywords:** Banach spaces | brain stroke detection | conjugate gradient (CG) | inverse problems | microwave imaging
+   - **Quartile:**
+     2025:
+     - Radiation (Q1, rank 3, percentile 96)
+     - Condensed Matter Physics (Q1, rank 48, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 120, percentile 88)
+     2018:
+     - Radiation (Q1, rank 4, percentile 93)
+     - Condensed Matter Physics (Q1, rank 45, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 85, percentile 87)
+   - **Source Id:** 17366
+   - **Author Ids:** 8546192900;9739222400;55512997500;7004136693;7004880389;7006280562;36180166900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+122.
+   - **Title:** Microwave Tomography for the Inspection of Wood Materials: Imaging System and Experimental Results
+   - **Venue:** IEEE Transactions on Microwave Theory and Techniques
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 66
+   - **DOI:** 10.1109/TMTT.2018.2804905
+   - **Scopus ID:** 2-s2.0-85042685466
+   - **ISSN:** 00189480
+   - **Volume:** 66
+   - **Issue:** 7
+   - **Pages:** 3497-3510
+   - **Authors:** Boero Federico; Fedeli Alessandro; Lanini Matteo; Maffongelli Manuela; Monleone Ricardo; Pastorino Matteo; Randazzo Andrea; Salvadè Andrea; Sansalone Andrea
+   - **Keywords:** Imaging | inverse scattering | microwave systems | tomography | wood
+   - **Quartile:**
+     2025:
+     - Radiation (Q1, rank 3, percentile 96)
+     - Condensed Matter Physics (Q1, rank 48, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 120, percentile 88)
+     2018:
+     - Radiation (Q1, rank 4, percentile 93)
+     - Condensed Matter Physics (Q1, rank 45, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 85, percentile 87)
+   - **Source Id:** 17366
+   - **Author Ids:** 57200958692;55512997500;41761929500;36682904800;15623618300;7004880389;7006280562;15623387700;57200964848
+   - **Authoraffiliationids:** 120302456;60025153;60101870;60101870;60101870;60025153;60025153;60101870;120302456
+   - **Corresponding:** Boero F.
+123.
+   - **Title:** A numerical study concerning brain stroke detection by microwave imaging systems
+   - **Venue:** Multimedia Tools and Applications
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 36
+   - **DOI:** 10.1007/s11042-017-4867-7
+   - **Scopus ID:** 2-s2.0-85021268021
+   - **ISSN:** 13807501
+   - **eISSN:** 15737721
+   - **Volume:** 77
+   - **Issue:** 8
+   - **Pages:** 9341-9363
+   - **Authors:** Bisio Igor; Fedeli Alessandro; Lavagetto Fabio; Pastorino Matteo; Randazzo Andrea; Sciarrone Andrea; Tavanti Emanuele
+   - **Keywords:** Brain stroke detection | Imaging techniques | Inverse problems | Microwave imaging
+   - **Quartile:**
+     2025:
+     - Media Technology (Q1, rank 6, percentile 92)
+     - Computer Networks and Communications (Q1, rank 79, percentile 85)
+     - Software (Q1, rank 79, percentile 84)
+     - Hardware and Architecture (Q1, rank 39, percentile 83)
+     2018:
+     - Media Technology (Q1, rank 13, percentile 82)
+     - Computer Networks and Communications (Q2, rank 110, percentile 62)
+     - Hardware and Architecture (Q2, rank 66, percentile 57)
+     - Software (Q3, rank 188, percentile 48)
+   - **Source Id:** 25627
+   - **Author Ids:** 8546192900;55512997500;7004136693;7004880389;7006280562;36180166900;57038817000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+124.
+   - **Title:** Brain stroke detection by means of complex dielectric permittivity reconstruction at microwaves
+   - **Venue:** 2017 IEEE MTT S International Microwave Workshop Series on Advanced Materials and Processes for RF and Thz Applications Imws Amp 2017
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/IMWS-AMP.2017.8247391
+   - **Scopus ID:** 2-s2.0-85045998283
+   - **Pages:** 1-3
+   - **Authors:** Bisio I.; Fedeli A.; Lavagetto F.; Pastorino M.; Randazzo A.; Sciarrone A.
+   - **Keywords:** brain stroke detection | dielectric permittivity reconstruction | inverse problems | microwave imaging
+   - **Source Id:** 21100858149
+   - **Author Ids:** 8546192900;55512997500;7004136693;7004880389;7006280562;36180166900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+125.
+   - **Title:** Wood characterization by using microwave inverse scattering: Experimental results
+   - **Venue:** 2017 IEEE MTT S International Microwave Workshop Series on Advanced Materials and Processes for RF and Thz Applications Imws Amp 2017
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IMWS-AMP.2017.8247389
+   - **Scopus ID:** 2-s2.0-85045980781
+   - **Pages:** 1-3
+   - **Authors:** Fedeli A.; Pastorino M.; Randazzo A.; Lanini M.; Maffongelli M.; Monleone R.
+   - **Keywords:** inverse scattering | material characterization | Microwave imaging | wood
+   - **Source Id:** 21100858149
+   - **Author Ids:** 55512997500;7004880389;7006280562;41761929500;36682904800;15623618300
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60101870;60101870;60101870
+   - **Corresponding:** Fedeli A.
+126.
+   - **Title:** A tomograph prototype for quantitative microwave imaging: Preliminary experimental results
+   - **Venue:** Journal of Imaging
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.3390/jimaging4120139
+   - **Scopus ID:** 2-s2.0-85062263840
+   - **eISSN:** 2313433X
+   - **Volume:** 4
+   - **Issue:** 12
+   - **Authors:** Fedeli Alessandro; Maffongelli Manuela; Monleone Ricardo; Pagnamenta Claudio; Pastorino Matteo; Poretti Samuel; Randazzo Andrea; Salvadè Andrea
+   - **Keywords:** Inverse problems | Microwave imaging | Tomography
+   - **Quartile:**
+     2025:
+     - Radiology, Nuclear Medicine and Imaging (Q1, rank 46, percentile 87)
+     - Computer Graphics and Computer-Aided Design (Q1, rank 24, percentile 82)
+     - Computer Vision and Pattern Recognition (Q1, rank 33, percentile 80)
+     - Electrical and Electronic Engineering (Q1, rank 202, percentile 79)
+     2018:
+     - Electrical and Electronic Engineering (Q3, rank 410, percentile 38)
+     - Computer Vision and Pattern Recognition (Q3, rank 52, percentile 36)
+     - Computer Graphics and Computer-Aided Design (Q3, rank 50, percentile 35)
+     - Radiology, Nuclear Medicine and Imaging (Q3, rank 201, percentile 27)
+   - **Source Id:** 21100900151
+   - **Author Ids:** 55512997500;36682904800;15623618300;23569965500;7004880389;25927504500;7006280562;15623387700
+   - **Authoraffiliationids:** 60025153;60101870;60101870;60101870;60025153;60101870;60025153;60101870
+   - **Corresponding:** Fedeli A.
+127.
+   - **Title:** A numerical analysis of the two-dimensional Green's function for elliptically stratified media
+   - **Venue:** Iet Conference Publications
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1049/cp.2018.0970
+   - **Scopus ID:** 2-s2.0-85057341089
+   - **Volume:** 2018
+   - **Issue:** CP741
+   - **Authors:** Fedeli Alessandro; Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Keywords:** Electromagnetic scattering | Green's function | Integral equations | Stratified media
+   - **Source Id:** 5400152619
+   - **Author Ids:** 55512997500;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+128.
+   - **Title:** 2-D Green's Function for Scattering and Radiation Problems in Elliptically Layered Media with PEC Cores
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1109/TAP.2017.2761421
+   - **Scopus ID:** 2-s2.0-85031798854
+   - **ISSN:** 0018926X
+   - **Volume:** 65
+   - **Issue:** 12
+   - **Pages:** 7110-7118
+   - **Authors:** Fedeli Alessandro; Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Keywords:** Electromagnetic scattering | Green's function | integral equations | stratified media
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+     2017:
+     - Electrical and Electronic Engineering (Q1, rank 59, percentile 91)
+   - **Source Id:** 17337
+   - **Author Ids:** 55512997500;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+129.
+   - **Title:** An inverse scattering procedure in Lebesgue spaces with non-constant exponents
+   - **Venue:** 2017 32nd General Assembly and Scientific Symposium of the International Union of Radio Science Ursi Gass 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/URSIGASS.2017.8105143
+   - **Scopus ID:** 2-s2.0-85046158550
+   - **Volume:** 2017-January
+   - **Pages:** 1-4
+   - **Authors:** Estatico Claudio; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Source Id:** 21100858363
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+130.
+   - **Title:** Electromagnetic biomedical imaging in Banach spaces: A numerical case study
+   - **Venue:** 2017 32nd General Assembly and Scientific Symposium of the International Union of Radio Science Ursi Gass 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.23919/URSIGASS.2017.8105127
+   - **Scopus ID:** 2-s2.0-85046147425
+   - **Volume:** 2017-January
+   - **Pages:** 1-3
+   - **Authors:** Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Source Id:** 21100858363
+   - **Author Ids:** 55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+131.
+   - **Title:** A nonlinear iterative inverse scattering procedure in Lp Banach spaces for microwave biomedical imaging
+   - **Venue:** Proceedings of the 2017 19th International Conference on Electromagnetics in Advanced Applications Iceaa 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICEAA.2017.8065683
+   - **Scopus ID:** 2-s2.0-85035136063
+   - **Pages:** 1921-1924
+   - **Authors:** Bisio I.; Estatico C.; Fedeli A.; Lavagetto F.; Pastorino M.; Randazzo A.; Sciarrone A.
+   - **Source Id:** 21100840335
+   - **Author Ids:** 8546192900;9739222400;55512997500;7004136693;7004880389;7006280562;36180166900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+132.
+   - **Title:** Ground-penetrating radar for tree trunk investigation
+   - **Venue:** 2017 9th International Workshop on Advanced Ground Penetrating Radar Iwagpr 2017 Proceedings
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/IWAGPR.2017.7996079
+   - **Scopus ID:** 2-s2.0-85028536195
+   - **Authors:** Jezova Jana; Lambot Sebastien; Fedeli Alessandro; Randazzo Andrea
+   - **Source Id:** 21100828696
+   - **Author Ids:** 57190184444;6602626321;55512997500;7006280562
+   - **Authoraffiliationids:** 60000874;60000874;60025153;60025153
+   - **Corresponding:** Jezova J.
+133.
+   - **Title:** Preliminary assessment of an Lp Banach-space inversion approach for through-The-wall imaging
+   - **Venue:** 2017 IEEE Conference on Antenna Measurements and Applications Cama 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/CAMA.2017.8273391
+   - **Scopus ID:** 2-s2.0-85046267253
+   - **Volume:** 2018-January
+   - **Pages:** 167-169
+   - **Authors:** Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea; Todella Silvio
+   - **Keywords:** Banach spaces | Inverse problems | Through-The-wall imaging
+   - **Source Id:** 21101179609
+   - **Author Ids:** 55512997500;7004880389;7006280562;57201862132
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+134.
+   - **Title:** Microwave data inversion in hemorrhagic brain stroke imaging: A Newton-conjugate-gradient based approach in Lp Banach spaces (Invited paper)
+   - **Venue:** 2017 IEEE Conference on Antenna Measurements and Applications Cama 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/CAMA.2017.8273423
+   - **Scopus ID:** 2-s2.0-85046247707
+   - **Volume:** 2018-January
+   - **Pages:** 275-278
+   - **Authors:** Bisio Igor; Fedeli Alessandro; Lavagetto Fabio; Pastorino Matteo; Randazzo Andrea; Sciarrone Andrea; Estatico Claudio
+   - **Keywords:** Banach spaces | Brain stroke detection | Inverse problems | Microwave imaging
+   - **Source Id:** 21101179609
+   - **Author Ids:** 8546192900;55512997500;7004136693;7004880389;7006280562;36180166900;9739222400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+135.
+   - **Title:** Three-dimensional electromagnetic imaging of dielectric targets by means of the multiscaling inexact-Newton method
+   - **Venue:** Journal of the Optical Society of America A Optics and Image Science and Vision
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.1364/JOSAA.34.001119
+   - **Scopus ID:** 2-s2.0-85021665187
+   - **ISSN:** 10847529
+   - **eISSN:** 15208532
+   - **Volume:** 34
+   - **Issue:** 7
+   - **Pages:** 1119-1131
+   - **Authors:** Salucci Marco; Oliveri Giacomo; Anselmi Nicola; Viani Federico; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 78, percentile 54)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 134, percentile 43)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 180, percentile 41)
+     2017:
+     - Computer Vision and Pattern Recognition (Q2, rank 23, percentile 70)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 71, percentile 68)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 55, percentile 67)
+   - **Source Id:** 12320
+   - **Author Ids:** 54387549100;6701615935;55749784900;23092071900;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60015986;60015986-60007136;60015986;60015986;60025153;60025153;60025153
+   - **Corresponding:** Salucci M.
+136.
+   - **Title:** Feasibility assessment of a Banach-space inversion procedure for biomedical applications
+   - **Venue:** 2017 11th European Conference on Antennas and Propagation Eucap 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EuCAP.2017.7928247
+   - **Scopus ID:** 2-s2.0-85020216525
+   - **Pages:** 677-681
+   - **Authors:** Estatico C.; Fedeli A.; Pastorino M.; Randazzo A.
+   - **Keywords:** Banach spaces | brain stroke detection | inverse problems | Microwave imaging
+   - **Source Id:** 21100817591
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+137.
+   - **Title:** Numerical analysis of the performance of a multi-frequency inversion scheme for subsurface prospection
+   - **Venue:** 2017 11th European Conference on Antennas and Propagation Eucap 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EuCAP.2017.7928228
+   - **Scopus ID:** 2-s2.0-85020163234
+   - **Pages:** 1718-1722
+   - **Authors:** Fedeli A.; Pastorino M.; Randazzo A.
+   - **Keywords:** Banach spaces | Buried object detection | electromagnetic imaging | inverse problems
+   - **Source Id:** 21100817591
+   - **Author Ids:** 55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+138.
+   - **Title:** Application of EMFs at microwave frequencies for brain stroke detection: Preliminary results
+   - **Venue:** 2017 International Applied Computational Electromagnetics Society Symposium Italy Aces 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/ROPACES.2017.7916405
+   - **Scopus ID:** 2-s2.0-85020002223
+   - **Authors:** Bisio I.; Fedeli A.; Lavagetto F.; Luzzati G.; Pastorino M.; Raffetto M.; Randazzo A.; Tavanti E.
+   - **Keywords:** Brain stroke detection | Imaging techniques | Inverse problems | Microwave imaging
+   - **Source Id:** 21100817102
+   - **Author Ids:** 8546192900;55512997500;7004136693;55372214300;7004880389;6701772951;7006280562;57038817000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+139.
+   - **Title:** Pros and cons of microwave imaging techniques for the reconstruction of velocity profiles of cylindrical targets in axial motion
+   - **Venue:** 2017 International Applied Computational Electromagnetics Society Symposium Italy Aces 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.23919/ROPACES.2017.7916391
+   - **Scopus ID:** 2-s2.0-85019998814
+   - **Authors:** Brignone Massimo; Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Source Id:** 21100817102
+   - **Author Ids:** 8580886100;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Brignone M.
+140.
+   - **Title:** Mobile smart helmet for brain stroke early detection through neural network-based signals analysis
+   - **Venue:** Proceedings IEEE Global Communications Conference Globecom
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/GLOCOM.2017.8255029
+   - **Scopus ID:** 2-s2.0-85046449869
+   - **ISSN:** 23340983
+   - **eISSN:** 25766813
+   - **Volume:** 2018-January
+   - **Pages:** 1-6
+   - **Authors:** Bisio Igor; Fedeli Alessandro; Lavagetto Fabio; Pastorino Matteo; Randazzo Andrea; Sciarrone Andrea; Tavanti Emanuele
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 90, percentile 54)
+     - Computer Networks and Communications (Q2, rank 260, percentile 52)
+     - Artificial Intelligence (Q3, rank 262, percentile 47)
+     - Hardware and Architecture (Q3, rank 129, percentile 45)
+   - **Source Id:** 21101199922
+   - **Author Ids:** 8546192900;55512997500;7004136693;7004880389;7006280562;36180166900;57038817000
+   - **Authoraffiliationids:** 60025153-60015024;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+141.
+   - **Title:** Advanced inversion techniques for ground penetrating radar
+   - **Venue:** Journal of Telecommunications and Information Technology
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.26636/jtit.2017.119717
+   - **Scopus ID:** 2-s2.0-85030681774
+   - **ISSN:** 15094553
+   - **eISSN:** 18998852
+   - **Volume:** 2017
+   - **Issue:** 3
+   - **Pages:** 37-42
+   - **Authors:** Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Electromagnetic scattering | Ground Penetrating Radar | Inverse problems
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 515, percentile 48)
+     - Computer Networks and Communications (Q3, rank 285, percentile 47)
+     2017:
+     - Electrical and Electronic Engineering (Q3, rank 455, percentile 31)
+     - Computer Networks and Communications (Q3, rank 199, percentile 28)
+   - **Source Id:** 21100229111
+   - **Author Ids:** 55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+142.
+   - **Title:** Further investigations on the capabilities of inverse scattering procedures to recover velocity profiles of cylinders moving in the axial direction
+   - **Venue:** Ist 2016 2016 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IST.2016.7738247
+   - **Scopus ID:** 2-s2.0-85004075873
+   - **Pages:** 335-340
+   - **Authors:** Brignone Massimo; Fedeli Alessandro; Gragnani Gian Luigi; Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Source Id:** 21100788403
+   - **Author Ids:** 8580886100;55512997500;6701681576;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Brignone M.
+143.
+   - **Title:** Brain stroke detection by microwave imaging systems: Preliminary two-dimensional numerical simulations
+   - **Venue:** Ist 2016 2016 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/IST.2016.7738246
+   - **Scopus ID:** 2-s2.0-85004000433
+   - **Pages:** 330-334
+   - **Authors:** Bisio I.; Fedeli A.; Lavagetto F.; Luzzati G.; Pastorino M.; Randazzo A.; Tavanti E.
+   - **Keywords:** brain stroke detection | imaging techniques | inverse problems | Microwave imaging
+   - **Source Id:** 21100788403
+   - **Author Ids:** 8546192900;55512997500;7004136693;55372214300;7004880389;7006280562;57038817000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+144.
+   - **Title:** Microwave imaging systems: Three-dimensional reconstructions of dielectric targets
+   - **Venue:** Ist 2016 2016 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IST.2016.7738283
+   - **Scopus ID:** 2-s2.0-85003956493
+   - **Pages:** 532-536
+   - **Authors:** Estatico Claudio; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea; Tavanti Emanuele
+   - **Keywords:** Banach-space regularization | inexact-Newton scheme | inverse problems | Microwave imaging
+   - **Source Id:** 21100788403
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562;57038817000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+145.
+   - **Title:** Phaseless tomographic inverse scattering in Banach spaces
+   - **Venue:** Journal of Physics Conference Series
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1088/1742-6596/756/1/012010
+   - **Scopus ID:** 2-s2.0-84994504423
+   - **ISSN:** 17426588
+   - **eISSN:** 17426596
+   - **Volume:** 756
+   - **Issue:** 1
+   - **Authors:** Estatico C.; Fedeli A.; Pastorino M.; Randazzo A.; Tavanti E.
+   - **Quartile:**
+     2025:
+     - Physics and Astronomy (all) (Q4, rank 192, percentile 22)
+     2016:
+     - Physics and Astronomy (all) (Q3, rank 154, percentile 25)
+   - **Source Id:** 130053
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562;57038817000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+146.
+   - **Title:** Experimental analysis of dielectric structures with a two-step electromagnetic imaging method
+   - **Venue:** 2016 Ursi International Symposium on Electromagnetic Theory Emts 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/URSI-EMTS.2016.7571298
+   - **Scopus ID:** 2-s2.0-84992146842
+   - **Pages:** 13-15
+   - **Authors:** Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea; Poretti Samuel; Monleone Ricardo; Salvade Andrea
+   - **Source Id:** 21100782626
+   - **Author Ids:** 55512997500;7004880389;7006280562;25927504500;15623618300;15623387700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60101870;60101870;60101870
+   - **Corresponding:** Fedeli A.
+147.
+   - **Title:** A three-dimensional microwave imaging approach based on a Lp Banach space inversion procedure
+   - **Venue:** 2016 Ursi International Symposium on Electromagnetic Theory Emts 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/URSI-EMTS.2016.7571337
+   - **Scopus ID:** 2-s2.0-84992125262
+   - **Pages:** 148-151
+   - **Authors:** Estatico Claudio; Pastorino Matteo; Randazzo Andrea; Tavanti Emanuele
+   - **Source Id:** 21100782626
+   - **Author Ids:** 9739222400;7004880389;7006280562;57038817000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+148.
+   - **Title:** Alphabet CS for inverse scattering
+   - **Venue:** 2016 Ursi International Symposium on Electromagnetic Theory Emts 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/URSI-EMTS.2016.7571335
+   - **Scopus ID:** 2-s2.0-84992104370
+   - **Pages:** 141-143
+   - **Authors:** Anselmi Nicola; Poli Lorenzo; Randazzo Andrea; Oliveri Giacomo
+   - **Source Id:** 21100782626
+   - **Author Ids:** 55749784900;35190999400;7006280562;6701615935
+   - **Authoraffiliationids:** 60015986;60015986;60025153;60015986
+   - **Corresponding:** Anselmi N.
+149.
+   - **Title:** Multi-resolution approaches for GPR-data inversion
+   - **Venue:** 2016 Ursi International Symposium on Electromagnetic Theory Emts 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/URSI-EMTS.2016.7571299
+   - **Scopus ID:** 2-s2.0-84992036369
+   - **Pages:** 16-18
+   - **Authors:** Salucci Marco; Tenuti Lorenza; Randazzo Andrea; Rocca Paolo
+   - **Source Id:** 21100782626
+   - **Author Ids:** 54387549100;55758048000;7006280562;22035972900
+   - **Authoraffiliationids:** 60007136-60015986;60015986;60025153;60015986
+   - **Corresponding:** Salucci M.
+150.
+   - **Title:** Noise Limitations on the Recovery of Average Values of Velocity Profiles in Pipelines by Simple Imaging Systems
+   - **Venue:** IEEE Geoscience and Remote Sensing Letters
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1109/LGRS.2016.2584703
+   - **Scopus ID:** 2-s2.0-84978886220
+   - **ISSN:** 1545598X
+   - **Volume:** 13
+   - **Issue:** 9
+   - **Pages:** 1340-1344
+   - **Authors:** Brignone Massimo; Gragnani Gian Luigi; Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Keywords:** Bianisotropic media | inverse scattering procedures | moving media | reconstruction of velocity profiles | time-harmonic electromagnetic scattering
+   - **Quartile:**
+     2025:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 22, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 90, percentile 91)
+     2016:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 4, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 76, percentile 88)
+   - **Source Id:** 17259
+   - **Author Ids:** 8580886100;6701681576;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Brignone M.
+151.
+   - **Title:** A two-step multifrequency imaging technique for ground penetrating radar
+   - **Venue:** 2016 10th European Conference on Antennas and Propagation Eucap 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/EuCAP.2016.7482009
+   - **Scopus ID:** 2-s2.0-84979238821
+   - **Authors:** Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** buried objects | electromagnetic imaging | ground penetrating radar | Newton methods
+   - **Source Id:** 21100469367
+   - **Author Ids:** 55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+152.
+   - **Title:** A Banach Space Regularization Approach for Multifrequency Microwave Imaging
+   - **Venue:** International Journal of Antennas and Propagation
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1155/2016/9304371
+   - **Scopus ID:** 2-s2.0-84964066487
+   - **ISSN:** 16875869
+   - **eISSN:** 16875877
+   - **Volume:** 2016
+   - **Authors:** Estatico Claudio; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 379, percentile 62)
+     2016:
+     - Electrical and Electronic Engineering (Q2, rank 283, percentile 56)
+   - **Source Id:** 19700186861
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+153.
+   - **Title:** A multifrequency Banach-space inversion method for ground penetrating radar imaging
+   - **Venue:** 2015 European Radar Conference Eurad 2015 Proceedings
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EuRAD.2015.7346278
+   - **Scopus ID:** 2-s2.0-84962859653
+   - **Pages:** 225-228
+   - **Authors:** Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea; Estatico Claudio
+   - **Keywords:** Banach spaces | Electromagnetic propagation | Ground penetrating radar | Microwave imaging | Newton method
+   - **Source Id:** 21100455483
+   - **Author Ids:** 55512997500;7004880389;7006280562;9739222400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+154.
+   - **Title:** Nonlinear electromagnetic inverse scattering in via Frozen or Broyden update of the Fréchet derivative
+   - **Venue:** Journal of Physics Conference Series
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1088/1742-6596/657/1/012008
+   - **Scopus ID:** 2-s2.0-84953265905
+   - **ISSN:** 17426588
+   - **eISSN:** 17426596
+   - **Volume:** 657
+   - **Issue:** 1
+   - **Authors:** Tavanti E.; Estatico C.; Fedeli A.; Pastorino M.; Randazzo A.
+   - **Quartile:**
+     2025:
+     - Physics and Astronomy (all) (Q4, rank 192, percentile 22)
+     2015:
+     - Physics and Astronomy (all) (Q4, rank 156, percentile 22)
+   - **Source Id:** 130053
+   - **Author Ids:** 57038817000;9739222400;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Tavanti E.
+155.
+   - **Title:** Three-dimensional microwave imaging through a multi-zooming Inexact-Newton approach
+   - **Venue:** IEEE Antennas and Propagation Society AP S International Symposium Digest
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/APS.2015.7305038
+   - **Scopus ID:** 2-s2.0-84953729280
+   - **ISSN:** 15223965
+   - **Volume:** 2015-October
+   - **Pages:** 1298-1299
+   - **Authors:** Salucci M.; Oliveri G.; Viani F.; Massa A.; Randazzo A.; Pastorino M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 853, percentile 14)
+     2015:
+     - Electrical and Electronic Engineering (Q3, rank 491, percentile 25)
+   - **Source Id:** 18719
+   - **Author Ids:** 54387549100;6701615935;23092071900;7005085831;7006280562;7004880389
+   - **Authoraffiliationids:** 60015986-60007136;60015986;60015986;60015986-60007136;60025153;60025153
+   - **Corresponding:** Salucci M.
+156.
+   - **Title:** Reconstruction of velocity profiles of two-dimensional targets by an inverse scattering procedure based on a numerical forward solver
+   - **Venue:** 2015 1st Ursi Atlantic Radio Science Conference Ursi at Rasc 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/URSI-AT-RASC.2015.7302852
+   - **Scopus ID:** 2-s2.0-84959485934
+   - **Authors:** Brignone Massimo; Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Source Id:** 21100448536
+   - **Author Ids:** 8580886100;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Brignone M.
+157.
+   - **Title:** Microwave imaging of dielectric targets by means of an inexact-Newton method in Lp banach spaces and multifrequency processing
+   - **Venue:** 2015 1st Ursi Atlantic Radio Science Conference Ursi at Rasc 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/URSI-AT-RASC.2015.7302953
+   - **Scopus ID:** 2-s2.0-84959454424
+   - **Authors:** Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Source Id:** 21100448536
+   - **Author Ids:** 55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+158.
+   - **Title:** Multi-focusing inexact-Newton method for three-dimensional microwave imaging
+   - **Venue:** Proceedings of the 2015 International Conference on Electromagnetics in Advanced Applications Iceaa 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICEAA.2015.7297205
+   - **Scopus ID:** 2-s2.0-84955502332
+   - **Pages:** 712-715
+   - **Authors:** Salucci M.; Tenuti L.; Fedeli A.; Randazzo A.
+   - **Keywords:** Dielectrics | Image reconstruction | Microwave antennas | Microwave imaging | Microwave theory and techniques
+   - **Source Id:** 21100440505
+   - **Author Ids:** 54387549100;55758048000;55512997500;7006280562
+   - **Authoraffiliationids:** 60015986;60015986;60025153;60025153
+   - **Corresponding:** Salucci M.
+159.
+   - **Title:** Reconstruction of non-constant velocity profiles in pneumatic pipelines by microwave inverse scattering techniques
+   - **Venue:** Proceedings of the 2015 International Conference on Electromagnetics in Advanced Applications Iceaa 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICEAA.2015.7297125
+   - **Scopus ID:** 2-s2.0-84955459853
+   - **Pages:** 309-312
+   - **Authors:** Brignone M.; Raffetto M.; Randazzo A.
+   - **Keywords:** Inverse problems | Noise measurement | Optimization | Permittivity | Scattering | Signal to noise ratio
+   - **Source Id:** 21100440505
+   - **Author Ids:** 8580886100;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Brignone M.
+160.
+   - **Title:** A hybrid FVTD-PO approach for the characterization of antennas on large platforms in naval applications
+   - **Venue:** Mts IEEE Oceans 2015 Genova Discovering Sustainable Ocean Energy for A New World
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/OCEANS-Genova.2015.7271689
+   - **Scopus ID:** 2-s2.0-84957705598
+   - **Authors:** Cerruti Matteo; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** electromagnetic scattering | finite-volume timedomain method | physical optics | Time domain electromagnetics
+   - **Source Id:** 21100444318
+   - **Author Ids:** 56166539200;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Cerruti M.
+161.
+   - **Title:** A radar cross section and radar performance evaluation tool for the early stage ship design (ESSD) phase
+   - **Venue:** Mts IEEE Oceans 2015 Genova Discovering Sustainable Ocean Energy for A New World
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/OCEANS-Genova.2015.7271580
+   - **Scopus ID:** 2-s2.0-84957687191
+   - **Authors:** Cerruti Matteo; Pastorino Matteo; Randazzo Andrea; Perra Francesco; Guagnano Aldo
+   - **Keywords:** Electromagnetic scattering | Radar Cross Section | Radar performances | Ship Synthesis Model
+   - **Source Id:** 21100444318
+   - **Author Ids:** 56166539200;7004880389;7006280562;55344075500;55344026400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;113018194;113018194
+   - **Corresponding:** Cerruti M.
+162.
+   - **Title:** A multifrequency inexact-Newton method in Lp banach spaces for buried objects detection
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 62
+   - **DOI:** 10.1109/TAP.2015.2446995
+   - **Scopus ID:** 2-s2.0-84940977791
+   - **ISSN:** 0018926X
+   - **Volume:** 63
+   - **Issue:** 9
+   - **Pages:** 4198-4204
+   - **Authors:** Estatico Claudio; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Banach spaces | Buried object detection | Electromagnetic scattering inverse problems | Newton method
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+     2015:
+     - Subject (Q1, rank 36, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 62, percentile 90)
+   - **Source Id:** 17337
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+163.
+   - **Title:** Quantitative microwave imaging in Lp Banach spaces: A numerical assessment
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/I2MTC.2015.7151599
+   - **Scopus ID:** 2-s2.0-84938839803
+   - **ISSN:** 10915281
+   - **Volume:** 2015-July
+   - **Pages:** 2055-2060
+   - **Authors:** Fedeli A.; Pastorino M.; Randazzo A.
+   - **Keywords:** Dielectrics | Imaging meaurement | Inverse problems | Microwave imaging | Newton methods
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+     2015:
+     - Electrical and Electronic Engineering (Q3, rank 402, percentile 39)
+   - **Source Id:** 15045
+   - **Author Ids:** 55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+164.
+   - **Title:** Preliminary test of a prototype of microwave axial tomograph for medical applications
+   - **Venue:** 2015 IEEE International Symposium on Medical Measurements and Applications Memea 2015 Proceedings
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/MeMeA.2015.7145170
+   - **Scopus ID:** 2-s2.0-84939479842
+   - **Pages:** 46-51
+   - **Authors:** Maffongelli Manuela; Poretti Samuel; Salvade Andrea; Monleone Ricardo D.; Meani Francesco; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Biomedical imaging | breast cancer | electromagnetic scattering | microwave imaging
+   - **Source Id:** 21100403809
+   - **Author Ids:** 36682904800;25927504500;15623387700;15623618300;57193555494;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60101870;60101870;60101870;60101870;127247793;60025153;60025153;60025153
+   - **Corresponding:** Maffongelli M.
+165.
+   - **Title:** Hybrid microwave approach for phaseless imaging of dielectric targets
+   - **Venue:** IEEE Geoscience and Remote Sensing Letters
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.1109/LGRS.2014.2364077
+   - **Scopus ID:** 2-s2.0-84920987059
+   - **ISSN:** 1545598X
+   - **Volume:** 12
+   - **Issue:** 4
+   - **Pages:** 851-854
+   - **Authors:** Costanzo Sandra; Di Massa Giuseppe; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Imaging | inverse scattering | microwaves | Phase retrieval
+   - **Quartile:**
+     2025:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 22, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 90, percentile 91)
+     2015:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 7, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 89, percentile 86)
+   - **Source Id:** 17259
+   - **Author Ids:** 14029886000;57201738411;7004880389;7006280562
+   - **Authoraffiliationids:** 60020261;60020261;60025153;60025153
+   - **Corresponding:** Costanzo S.
+166.
+   - **Title:** Electromagnetic inverse scattering of axially moving cylindrical targets
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 26
+   - **DOI:** 10.1109/TGRS.2014.2342933
+   - **Scopus ID:** 2-s2.0-84907451923
+   - **ISSN:** 01962892
+   - **Volume:** 53
+   - **Issue:** 3
+   - **Pages:** 1452-1462
+   - **Authors:** Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Keywords:** Bianisotropic media | Inverse scattering procedures | Moving media | Reconstruction of permittivity and velocity profiles | Time-harmonic electromagnetic scattering
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2015:
+     - Earth and Planetary Sciences (all) (Q1, rank 4, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 95)
+   - **Source Id:** 17360
+   - **Author Ids:** 7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Pastorino M.
+167.
+   - **Title:** Direct and inverse scattering of moving cylinders at relativistic and non relativistic velocities
+   - **Venue:** Mediterranean Microwave Symposium
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/MMS.2015.7375503
+   - **Scopus ID:** 2-s2.0-84962764614
+   - **ISSN:** 21579822
+   - **eISSN:** 21579830
+   - **Volume:** 2015-January
+   - **Authors:** Gragnani G. L.; Pastorino M.; Raffetto M.; Randazzo A.
+   - **Keywords:** Direct scattering problem | elliptic cylinder | inverse scattering problem | moving media | reconstruction of permittivity and velocity profiles
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 604, percentile 39)
+   - **Source Id:** 20600195647
+   - **Author Ids:** 6701681576;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gragnani G.
+168.
+   - **Title:** A Banach-space multifrequency imaging approach for electromagnetic subsurface sensing
+   - **Venue:** Mediterranean Microwave Symposium
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/MMS.2015.7375371
+   - **Scopus ID:** 2-s2.0-84962636475
+   - **ISSN:** 21579822
+   - **eISSN:** 21579830
+   - **Volume:** 2015-January
+   - **Authors:** Estatico Claudio; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea; Tavanti Emanuele
+   - **Keywords:** Banach spaces | Electromagnetic propagation | Microwave imaging | Multifrequency processing | Subsurface sensing
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 604, percentile 39)
+   - **Source Id:** 20600195647
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562;57038817000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+169.
+   - **Title:** A microwave tomographic system for wood characterization in the forest products industry
+   - **Venue:** Wood Material Science and Engineering
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 38
+   - **DOI:** 10.1080/17480272.2014.898696
+   - **Scopus ID:** 2-s2.0-84924306554
+   - **ISSN:** 17480272
+   - **eISSN:** 17480280
+   - **Volume:** 10
+   - **Issue:** 1
+   - **Pages:** 75-85
+   - **Authors:** Pastorino Matteo; Randazzo Andrea; Fedeli Alessandro; Salvadè Andrea; Poretti Samuel; Maffongelli Manuela; Monleone Ricardo; Lanini Matteo
+   - **Keywords:** inverse problems | microwave imaging | tomography | Wood industry
+   - **Quartile:**
+     2025:
+     - Materials Science (all) (Q2, rank 169, percentile 63)
+     2015:
+     - Materials Science (all) (Q3, rank 236, percentile 46)
+   - **Source Id:** 8700153309
+   - **Author Ids:** 7004880389;7006280562;55512997500;15623387700;25927504500;36682904800;15623618300;41761929500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60101870;60101870;60101870;60101870;60101870
+   - **Corresponding:** Pastorino M.
+170.
+   - **Title:** Buried object detection by means of a L p Banach-space inversion procedure
+   - **Venue:** Radio Science
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 30
+   - **DOI:** 10.1002/2014RS005542
+   - **Scopus ID:** 2-s2.0-84923284693
+   - **ISSN:** 00486604
+   - **eISSN:** 1944799X
+   - **Volume:** 50
+   - **Issue:** 1
+   - **Pages:** 41-51
+   - **Authors:** Estatico Claudio; Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** buried object detection | electromagnetic imaging | inexact Newton algorithm | inverse problems
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q2, rank 89, percentile 55)
+     - Electrical and Electronic Engineering (Q2, rank 483, percentile 51)
+     - Condensed Matter Physics (Q3, rank 278, percentile 37)
+     2015:
+     - Earth and Planetary Sciences (all) (Q1, rank 35, percentile 79)
+     - Electrical and Electronic Engineering (Q1, rank 159, percentile 75)
+     - Condensed Matter Physics (Q2, rank 133, percentile 66)
+   - **Source Id:** 28580
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+171.
+   - **Title:** Electromagnetic subsurface prospecting by a fully nonlinear multifocusing inexact Newton method
+   - **Venue:** Journal of the Optical Society of America A Optics and Image Science and Vision
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 24
+   - **DOI:** 10.1364/JOSAA.31.002618
+   - **Scopus ID:** 2-s2.0-84942371960
+   - **ISSN:** 10847529
+   - **eISSN:** 15208532
+   - **Volume:** 31
+   - **Issue:** 12
+   - **Pages:** 2618-2629
+   - **Authors:** Salucci Marco; Oliveri Giacomo; Randazzo Andrea; Pastorino Matteo; Massa Andrea
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 78, percentile 54)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 134, percentile 43)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 180, percentile 41)
+     2014:
+     - Electronic, Optical and Magnetic Materials (Q2, rank 57, percentile 72)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 44, percentile 72)
+     - Computer Vision and Pattern Recognition (Q2, rank 22, percentile 66)
+   - **Source Id:** 12320
+   - **Author Ids:** 54387549100;6701615935;7006280562;7004880389;7005085831
+   - **Authoraffiliationids:** 60015986;60015986;60025153;60025153;60015986-60007136
+   - **Corresponding:** Salucci M.
+172.
+   - **Title:** FVTD-based analysis of brain stroke response in microwave imaging systems
+   - **Venue:** Ist 2014 2014 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IST.2014.6958511
+   - **Scopus ID:** 2-s2.0-84916626652
+   - **Pages:** 392-397
+   - **Authors:** Cerruti Matteo; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Brain stroke detection | Finite-Volume Time-Domain method | Microwave imaging
+   - **Source Id:** 21100349566
+   - **Author Ids:** 56166539200;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Cerruti M.
+173.
+   - **Title:** Quick and reliable estimates of velocity profiles in pipelines by a simple electromagnetic inverse scattering technique
+   - **Venue:** Ist 2014 2014 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IST.2014.6958513
+   - **Scopus ID:** 2-s2.0-84916619947
+   - **Pages:** 404-409
+   - **Authors:** Pastorino Matteo; Raffetto Mirco; Randazzo Andrea; Fedeli Alessandro
+   - **Keywords:** bianisotropic media | Imaging systems | microwave tomography | moving media
+   - **Source Id:** 21100349566
+   - **Author Ids:** 7004880389;6701772951;7006280562;55512997500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Pastorino M.
+174.
+   - **Title:** A numerical analysis concerning microwave imaging in Lp Banach spaces by using an inexact Newton method
+   - **Venue:** Ist 2014 2014 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IST.2014.6958437
+   - **Scopus ID:** 2-s2.0-84916599108
+   - **Pages:** 11-16
+   - **Authors:** Estatico C.; Fedeli A.; Pastorino M.; Randazzo A.
+   - **Keywords:** Banach spaces | Inverse problems | Iterative algorithms | Microwave imaging | Newton method
+   - **Source Id:** 21100349566
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+175.
+   - **Title:** Experimental validation of a novel Gauss-Newton inversion method for microwave tomographic imaging
+   - **Venue:** 2014 31th Ursi General Assembly and Scientific Symposium Ursi Gass 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/URSIGASS.2014.6929057
+   - **Scopus ID:** 2-s2.0-84919725108
+   - **Authors:** Fedeli Alessandro; Pastorino Matteo; Randazzo Andrea
+   - **Source Id:** 21100357902
+   - **Author Ids:** 55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+176.
+   - **Title:** Electromagnetic scattering by lossy multilayer elliptic cylinders
+   - **Venue:** IEEE Microwave and Wireless Components Letters
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1109/LMWC.2014.2330498
+   - **Scopus ID:** 2-s2.0-84930619974
+   - **ISSN:** 15311309
+   - **Volume:** 24
+   - **Issue:** 9
+   - **Pages:** 584-586
+   - **Authors:** Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Keywords:** Electromagnetic scattering | inhomogeneous media | lossy materials
+   - **Quartile:**
+     2014:
+     - Electrical and Electronic Engineering (Q1, rank 91, percentile 86)
+     - Condensed Matter Physics (Q1, rank 55, percentile 86)
+   - **Source Id:** 17295
+   - **Author Ids:** 7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Pastorino M.
+177.
+   - **Title:** Electromagnetic subsurface prospecting by a multifocusing inexact Newton method within the second-order Born approximation
+   - **Venue:** Journal of the Optical Society of America A Optics and Image Science and Vision
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 35
+   - **DOI:** 10.1364/JOSAA.31.001167
+   - **Scopus ID:** 2-s2.0-84902278493
+   - **ISSN:** 10847529
+   - **eISSN:** 15208532
+   - **Volume:** 31
+   - **Issue:** 6
+   - **Pages:** 1167-1179
+   - **Authors:** Salucci Marco; Oliveri Giacomo; Randazzo Andrea; Pastorino Matteo; Massa Andrea
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 78, percentile 54)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 134, percentile 43)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 180, percentile 41)
+     2014:
+     - Electronic, Optical and Magnetic Materials (Q2, rank 57, percentile 72)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 44, percentile 72)
+     - Computer Vision and Pattern Recognition (Q2, rank 22, percentile 66)
+   - **Source Id:** 12320
+   - **Author Ids:** 54387549100;6701615935;7006280562;7004880389;7005085831
+   - **Authoraffiliationids:** 60015986;60015986;60025153;60025153;60015986
+   - **Corresponding:** Salucci M.
+178.
+   - **Title:** Microwave imaging of dielectric targets by using the inexact-Newton method: A short review
+   - **Venue:** 2014 IEEE Conference on Antenna Measurements and Applications Cama 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/CAMA.2014.7003373
+   - **Scopus ID:** 2-s2.0-84946531247
+   - **Authors:** Pastorino Matteo; Randazzo Andrea
+   - **Source Id:** 21100369076
+   - **Author Ids:** 7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Pastorino M.
+179.
+   - **Title:** A Trainingless WiFi fingerprint positioning approach over mobile devices
+   - **Venue:** IEEE Antennas and Wireless Propagation Letters
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 89
+   - **DOI:** 10.1109/LAWP.2014.2316973
+   - **Scopus ID:** 2-s2.0-85018961542
+   - **ISSN:** 15361225
+   - **Volume:** 13
+   - **Pages:** 832-835
+   - **Authors:** Bisio Igor; Cerruti Matteo; Lavagetto Fabio; Marchese Mario; Pastorino Matteo; Randazzo Andrea; Sciarrone Andrea
+   - **Keywords:** Electromagnetic propagation | fingerprinting | finite-difference time-domain method | indoor positioning
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 180, percentile 82)
+     2014:
+     - Electrical and Electronic Engineering (Q1, rank 89, percentile 86)
+   - **Source Id:** 18894
+   - **Author Ids:** 8546192900;56166539200;7004136693;7004398165;7004880389;7006280562;36180166900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+180.
+   - **Title:** Two-dimensional green's function for scattering and radiation problems in elliptically-layered media
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1109/TAP.2014.2299817
+   - **Scopus ID:** 2-s2.0-84907421819
+   - **ISSN:** 0018926X
+   - **Volume:** 62
+   - **Issue:** 4
+   - **Pages:** 2071-2080
+   - **Authors:** Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Keywords:** Electromagnetic scattering | Green function | integral equations | nonhomogeneous media
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+     2014:
+     - Electrical and Electronic Engineering (Q1, rank 54, percentile 91)
+     - Subject (Q1, rank 34, percentile 91)
+   - **Source Id:** 17337
+   - **Author Ids:** 7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Pastorino M.
+181.
+   - **Title:** Electromagnetic inverse scattering of axially moving elliptic targets
+   - **Venue:** Proceedings of the 2013 International Conference on Electromagnetics in Advanced Applications Iceaa 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICEAA.2013.6632213
+   - **Scopus ID:** 2-s2.0-84888311418
+   - **Pages:** 163-166
+   - **Authors:** Pastorino M.; Raffetto M.; Randazzo A.
+   - **Source Id:** 21100268402
+   - **Author Ids:** 7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Pastorino M.
+182.
+   - **Title:** An inverse scattering approach for inspecting dielectric scatterers at microwave frequencies without phase information
+   - **Venue:** Ist 2013 2013 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/IST.2013.6729728
+   - **Scopus ID:** 2-s2.0-84894483620
+   - **Pages:** 392-397
+   - **Authors:** Costanzo Sandra; Di Massa Giuseppe; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** dielectrics | Electromagnetic imaging | inverse scattering | phase retrieval
+   - **Source Id:** 21100286952
+   - **Author Ids:** 14029886000;57201738411;7004880389;7006280562
+   - **Authoraffiliationids:** 60020261;60020261;60025153;60025153
+   - **Corresponding:** Costanzo S.
+183.
+   - **Title:** Reconstruction of dielectric and velocity profiles in pipelines through an electromagnetic inverse scattering technique
+   - **Venue:** Ist 2013 2013 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/IST.2013.6729668
+   - **Scopus ID:** 2-s2.0-84894480955
+   - **Pages:** 85-90
+   - **Authors:** Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Keywords:** Dielectric reconstruction | inverse scattering | microwaves | stochastic optimization | velocity profiling
+   - **Source Id:** 21100286952
+   - **Author Ids:** 7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Pastorino M.
+184.
+   - **Title:** Detection of subsurface metallic utilities by means of a SAP technique: Comparing MUSIC- and SVM-based approaches
+   - **Venue:** Journal of Applied Geophysics
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 27
+   - **DOI:** 10.1016/j.jappgeo.2013.01.011
+   - **Scopus ID:** 2-s2.0-84884418877
+   - **ISSN:** 09269851
+   - **Volume:** 97
+   - **Pages:** 60-68
+   - **Authors:** Meschino Simone; Pajewski Lara; Pastorino Matteo; Randazzo Andrea; Schettini Giuseppe
+   - **Keywords:** Buried object detection | Direction of arrival estimation | Electromagnetic scattering | Smart antennas | Sub-array processing
+   - **Quartile:**
+     2025:
+     - Geophysics (Q2, rank 49, percentile 72)
+     2013:
+     - Geophysics (Q2, rank 40, percentile 57)
+   - **Source Id:** 28435
+   - **Author Ids:** 35230538700;12344632700;7004880389;7006280562;7102615533
+   - **Authoraffiliationids:** 60012630;60012630;60025153;60025153;60012630
+   - **Corresponding:** Meschino S.
+185.
+   - **Title:** Microwave imaging of three-dimensional targets by means of an inexact-newton-based inversion algorithm
+   - **Venue:** International Journal of Antennas and Propagation
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1155/2013/407607
+   - **Scopus ID:** 2-s2.0-84884229973
+   - **ISSN:** 16875869
+   - **eISSN:** 16875877
+   - **Volume:** 2013
+   - **Authors:** Estatico Claudio; Pastorino Matteo; Randazzo Andrea
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 379, percentile 62)
+     2013:
+     - Electrical and Electronic Engineering (Q3, rank 361, percentile 42)
+   - **Source Id:** 19700186861
+   - **Author Ids:** 9739222400;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+186.
+   - **Title:** Imaging buried objects within the second-order Born approximation through a multiresolution-regularized inexact-Newton method
+   - **Venue:** 2013 International Symposium on Electromagnetic Theory Emts 2013 Proceedings
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **Scopus ID:** 2-s2.0-84883260718
+   - **Pages:** 116-118
+   - **Authors:** Salucci Marco; Sartori Davide; Anselmi Nicola; Randazzo Andrea; Oliveri Giacomo; Massa Andrea
+   - **Source Id:** 21100255412
+   - **Author Ids:** 54387549100;55840178500;55749784900;7006280562;6701615935;7005085831
+   - **Authoraffiliationids:** 60015986;60015986;60015986;60025153;60015986;60015986
+   - **Corresponding:** Salucci M.
+187.
+   - **Title:** Electromagnetic imaging of dielectric targets by using a tomographic systems
+   - **Venue:** 2013 International Symposium on Electromagnetic Theory Emts 2013 Proceedings
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84883241724
+   - **Pages:** 127-130
+   - **Authors:** Pastorino Matteo; Randazzo Andrea; Monleone Ricardo; Salvade Andrea; Poretti Samuel; Maffongelli Manuela
+   - **Source Id:** 21100255412
+   - **Author Ids:** 7004880389;7006280562;15623618300;15623387700;25927504500;36682904800
+   - **Authoraffiliationids:** 60025153;60025153;60101870;60101870;60101870;60101870
+   - **Corresponding:** Pastorino M.
+188.
+   - **Title:** Buried object detection by means of a Lp Banach-space inversion procedure
+   - **Venue:** 2013 International Symposium on Electromagnetic Theory Emts 2013 Proceedings
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-84883219311
+   - **Pages:** 131-134
+   - **Authors:** Estatico C.; Pastorino M.; Randazzo A.
+   - **Source Id:** 21100255412
+   - **Author Ids:** 9739222400;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+189.
+   - **Title:** Phaseless imaging of dielectric scatterers-Preliminary experimental results
+   - **Venue:** 2013 7th European Conference on Antennas and Propagation Eucap 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-84881305095
+   - **Pages:** 3852-3855
+   - **Authors:** Costanzo Sandra; Borgia Antonio; Di Massa Giuseppe; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** dielectrics | inverse scattering | microwaves | phase retrieval
+   - **Source Id:** 21100248815
+   - **Author Ids:** 14029886000;25638513000;57201738411;7004880389;7006280562
+   - **Authoraffiliationids:** 60020261;60020261;60020261;60025153;60025153
+   - **Corresponding:** Costanzo S.
+190.
+   - **Title:** Microwave imaging of elliptically shaped dielectric cylinders by means of an Lp Banach-space inversion algorithm
+   - **Venue:** Measurement Science and Technology
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1088/0957-0233/24/7/074017
+   - **Scopus ID:** 2-s2.0-84879915479
+   - **ISSN:** 09570233
+   - **eISSN:** 13616501
+   - **Volume:** 24
+   - **Issue:** 7
+   - **Authors:** Estatico C.; Fedeli A.; Pastorino M.; Randazzo A.
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 109, percentile 83)
+     - Instrumentation (Q2, rank 48, percentile 74)
+     - Engineering (miscellaneous) (Q2, rank 81, percentile 71)
+     2013:
+     - Applied Mathematics (Q1, rank 74, percentile 81)
+     - Instrumentation (Q1, rank 20, percentile 79)
+   - **Source Id:** 15526
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+191.
+   - **Title:** Microwave and millimeter-wave sensors, systems, and techniques for electromagnetic imaging and materials characterization
+   - **Venue:** International Journal of Microwave Science and Technology
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Editorial
+   - **Citations:** 3
+   - **DOI:** 10.1155/2012/132136
+   - **Scopus ID:** 2-s2.0-84871376900
+   - **ISSN:** 16875826
+   - **eISSN:** 16875834
+   - **Authors:** Randazzo Andrea; Donnell Kristen M.; Lee Yeou Song
+   - **Quartile:**
+     2012:
+     - Electrical and Electronic Engineering (Q4, rank 567, percentile 7)
+     - Radiation (Q4, rank 39, percentile 3)
+     - Condensed Matter Physics (Q4, rank 374, percentile 3)
+   - **Source Id:** 19900193584
+   - **Author Ids:** 7006280562;36550052000;8396155200
+   - **Authoraffiliationids:** 60025153;60146648;60102370
+   - **Corresponding:** Randazzo A.
+192.
+   - **Title:** Imaging of dielectric targets with metallic inclusions by means of a prototype of microwave axial tomograph
+   - **Venue:** Ist 2012 2012 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IST.2012.6295493
+   - **Scopus ID:** 2-s2.0-84870699668
+   - **Pages:** 223-227
+   - **Authors:** Salvadè A.; Monleone R.; Massimini A.; Poretti S.; Maffongelli M.; Pastorino M.; Randazzo A.
+   - **Keywords:** Imaging Systems | Inverse Problems | Microwave Sensor | Microwave Tomography | Nondestructive Testing
+   - **Source Id:** 21100222924
+   - **Author Ids:** 15623387700;15623618300;36682957200;25927504500;36682904800;7004880389;7006280562
+   - **Authoraffiliationids:** 60101870;60101870;60101870;60101870;60101870;60025153;60025153
+   - **Corresponding:** Salvadè A.
+193.
+   - **Title:** Microwave imaging of elliptically-shaped dielectric cylinders by means of a Lp Banach-space inversion algorithm
+   - **Venue:** Ist 2012 2012 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IST.2012.6295491
+   - **Scopus ID:** 2-s2.0-84870688522
+   - **Pages:** 533-537
+   - **Authors:** Estatico C.; Fedeli A.; Pastorino M.; Randazzo A.
+   - **Keywords:** Inverse problems | Iterative algorithms | Microwave imaging | Newton method
+   - **Source Id:** 21100222924
+   - **Author Ids:** 9739222400;55512997500;7004880389;7006280562
+   - **Authoraffiliationids:** 60005400;60025153;60025153;60025153
+   - **Corresponding:** Estatico C.
+194.
+   - **Title:** Trainingless fingerprinting-based indoor positioning algorithms with smartphones using electromagnetic propagation models
+   - **Venue:** Ist 2012 2012 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/IST.2012.6295537
+   - **Scopus ID:** 2-s2.0-84870666077
+   - **Pages:** 190-194
+   - **Authors:** Bisio Igor; Lavagetto Fabio; Marchese Mario; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Electromagnetic propagation | Smartphone terminals | WI-Fi Signals Fingerprint
+   - **Source Id:** 21100222924
+   - **Author Ids:** 8546192900;7004136693;7004398165;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+195.
+   - **Title:** Inversion of em scattering data through a multiresolution regularization approach within the contrast source formulation
+   - **Venue:** IEEE Antennas and Propagation Society AP S International Symposium Digest
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/APS.2012.6348672
+   - **Scopus ID:** 2-s2.0-84870502434
+   - **ISSN:** 15223965
+   - **Authors:** Oliveri Giacomo; Tommasi Andrea; Massa Andrea; Randazzo Andrea; Pastorino Matteo
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 853, percentile 14)
+     2012:
+     - Electrical and Electronic Engineering (Q3, rank 433, percentile 29)
+   - **Source Id:** 18719
+   - **Author Ids:** 6701615935;55511188900;7005085831;7006280562;7004880389
+   - **Authoraffiliationids:** 60015986;60015986;60015986;60025153;60025153
+   - **Corresponding:** Oliveri G.
+196.
+   - **Title:** Swarm optimization methods in microwave imaging
+   - **Venue:** International Journal of Microwave Science and Technology
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 29
+   - **DOI:** 10.1155/2012/491713
+   - **Scopus ID:** 2-s2.0-84870155957
+   - **ISSN:** 16875826
+   - **eISSN:** 16875834
+   - **Authors:** Randazzo Andrea
+   - **Quartile:**
+     2012:
+     - Electrical and Electronic Engineering (Q4, rank 567, percentile 7)
+     - Radiation (Q4, rank 39, percentile 3)
+     - Condensed Matter Physics (Q4, rank 374, percentile 3)
+   - **Source Id:** 19900193584
+   - **Author Ids:** 7006280562
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Randazzo A.
+197.
+   - **Title:** Nondestructive analysis of dielectric bodies by means of an ant colony optimization method
+   - **Venue:** Swarm Intelligence for Electric and Electronic Engineering
+   - **Year:** 2012
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 3
+   - **DOI:** 10.4018/978-1-4666-2666-9.ch015
+   - **Scopus ID:** 2-s2.0-84870169700
+   - **Pages:** 308-325
+   - **Authors:** Pastorino Matteo; Randazzo Andrea
+   - **Source Id:** 21100306288
+   - **Author Ids:** 7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Pastorino M.
+198.
+   - **Title:** A regularisation scheme for electromagnetic inverse problems: Application to crack detection in civil structures
+   - **Venue:** Nondestructive Testing and Evaluation
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1080/10589759.2012.665920
+   - **Scopus ID:** 2-s2.0-84864685880
+   - **ISSN:** 10589759
+   - **eISSN:** 14772671
+   - **Volume:** 27
+   - **Issue:** 3
+   - **Pages:** 189-197
+   - **Authors:** Randazzo Andrea; Estatico Claudio
+   - **Keywords:** electromagnetic imaging | inverse problems | regularisation | tomography
+   - **Quartile:**
+     2025:
+     - Physics and Astronomy (all) (Q1, rank 60, percentile 76)
+     - Mechanical Engineering (Q2, rank 216, percentile 70)
+     - Mechanics of Materials (Q2, rank 145, percentile 65)
+     - Materials Science (all) (Q2, rank 193, percentile 58)
+     2012:
+     - Mechanical Engineering (Q2, rank 163, percentile 67)
+     - Mechanics of Materials (Q2, rank 118, percentile 61)
+     - Materials Science (all) (Q2, rank 159, percentile 61)
+     - Physics and Astronomy (all) (Q2, rank 95, percentile 50)
+   - **Source Id:** 17870
+   - **Author Ids:** 7006280562;9739222400
+   - **Authoraffiliationids:** 60025153;60005400
+   - **Corresponding:** Randazzo A.
+199.
+   - **Title:** Buried object detection by an inexact Newton method applied to nonlinear inverse scattering
+   - **Venue:** International Journal of Microwave Science and Technology
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1155/2012/637301
+   - **Scopus ID:** 2-s2.0-84864934600
+   - **ISSN:** 16875826
+   - **eISSN:** 16875834
+   - **Authors:** Pastorino Matteo; Randazzo Andrea
+   - **Quartile:**
+     2012:
+     - Electrical and Electronic Engineering (Q4, rank 567, percentile 7)
+     - Radiation (Q4, rank 39, percentile 3)
+     - Condensed Matter Physics (Q4, rank 374, percentile 3)
+   - **Source Id:** 19900193584
+   - **Author Ids:** 7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Pastorino M.
+200.
+   - **Title:** A Novel Microwave Imaging Approach Based on Regularization in $l p Banach Spaces
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 87
+   - **DOI:** 10.1109/TAP.2012.2196925
+   - **Scopus ID:** 2-s2.0-84863635742
+   - **ISSN:** 0018926X
+   - **Volume:** 60
+   - **Issue:** 7
+   - **Pages:** 3373-3381
+   - **Authors:** Estatico C.; Pastorino M.; Randazzo A.
+   - **Keywords:** Inverse problems | iterative algorithms | microwave imaging | Newton method
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+     2012:
+     - Subject (Q1, rank 30, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 53, percentile 91)
+   - **Source Id:** 17337
+   - **Author Ids:** 9739222400;7004880389;7006280562
+   - **Authoraffiliationids:** 60005400;60025153;60025153
+   - **Corresponding:** Estatico C.
+201.
+   - **Title:** Sub-surface localization of buried cylinders by means of sub-array processing
+   - **Venue:** Proceedings of 6th European Conference on Antennas and Propagation Eucap 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/EuCAP.2012.6206193
+   - **Scopus ID:** 2-s2.0-84862863494
+   - **Pages:** 1373-1377
+   - **Authors:** Meschino S.; Pajewski L.; Schettini G.; Pastorino M.; Randazzo A.
+   - **Keywords:** Buried object detection | direction of arrival estimation | sub-array processing
+   - **Source Id:** 21100204902
+   - **Author Ids:** 35230538700;12344632700;7102615533;7004880389;7006280562
+   - **Authoraffiliationids:** 60012630;60012630;60012630;60025153;60025153
+   - **Corresponding:** Meschino S.
+202.
+   - **Title:** A Banach-space regularization approach for microwave imaging
+   - **Venue:** Proceedings of 6th European Conference on Antennas and Propagation Eucap 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/EuCAP.2012.6206201
+   - **Scopus ID:** 2-s2.0-84862841147
+   - **Pages:** 1382-1386
+   - **Authors:** Estatico C.; Pastorino M.; Randazzo A.
+   - **Keywords:** inverse problems | Microwave imaging | regularization
+   - **Source Id:** 21100204902
+   - **Author Ids:** 9739222400;7004880389;7006280562
+   - **Authoraffiliationids:** 60005400;60025153;60025153
+   - **Corresponding:** Estatico C.
+203.
+   - **Title:** Reconstruction of metallic inclusions inside dielectric targets by means of a microwave tomographic system
+   - **Venue:** IEEE Microwave and Wireless Components Letters
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1109/LMWC.2012.2203115
+   - **Scopus ID:** 2-s2.0-84863785657
+   - **ISSN:** 15311309
+   - **Volume:** 22
+   - **Issue:** 7
+   - **Pages:** 378-380
+   - **Authors:** Maffongelli M.; Monleone R.; Pastorino M.; Poretti S.; Randazzo A.; Salvadè A.
+   - **Keywords:** Microwave imaging | microwave sensors | nondestructive testing | tomography | wood industry
+   - **Quartile:**
+     2012:
+     - Condensed Matter Physics (Q1, rank 33, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 54, percentile 91)
+   - **Source Id:** 17295
+   - **Author Ids:** 36682904800;15623618300;7004880389;25927504500;7006280562;15623387700
+   - **Authoraffiliationids:** 60101870;60101870;60025153;60101870;60025153;60101870
+   - **Corresponding:** Maffongelli M.
+204.
+   - **Title:** Numerical assessment of the capabilities of a microwave imaging approach for the reconstruction of dielectric targets in nondestructive evaluation applications
+   - **Venue:** Measurement Science and Technology
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1088/0957-0233/23/11/114008
+   - **Scopus ID:** 2-s2.0-84868146606
+   - **ISSN:** 09570233
+   - **eISSN:** 13616501
+   - **Volume:** 23
+   - **Issue:** 11
+   - **Authors:** Pastorino M.; Randazzo A.
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 109, percentile 83)
+     - Instrumentation (Q2, rank 48, percentile 74)
+     - Engineering (miscellaneous) (Q2, rank 81, percentile 71)
+     2012:
+     - Applied Mathematics (Q1, rank 64, percentile 83)
+     - Instrumentation (Q1, rank 17, percentile 81)
+   - **Source Id:** 15526
+   - **Author Ids:** 7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Pastorino M.
+205.
+   - **Title:** Electromagnetic imaging within the contrast-source formulation by means of the multiscaling inexact Newton method
+   - **Venue:** Journal of the Optical Society of America A Optics and Image Science and Vision
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 20
+   - **DOI:** 10.1364/JOSAA.29.000945
+   - **Scopus ID:** 2-s2.0-84861864706
+   - **ISSN:** 10847529
+   - **eISSN:** 15208532
+   - **Volume:** 29
+   - **Issue:** 6
+   - **Pages:** 945-958
+   - **Authors:** Oliveri Giacomo; Randazzo Andrea; Pastorino Matteo; Massa Andrea
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 78, percentile 54)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 134, percentile 43)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 180, percentile 41)
+     2012:
+     - Electronic, Optical and Magnetic Materials (Q1, rank 46, percentile 76)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 39, percentile 73)
+     - Computer Vision and Pattern Recognition (Q2, rank 21, percentile 64)
+   - **Source Id:** 12320
+   - **Author Ids:** 6701615935;7006280562;7004880389;7005085831
+   - **Authoraffiliationids:** 60015986;60025153;60025153;60015986
+   - **Corresponding:** Oliveri G.
+206.
+   - **Title:** Impact of background noise on dielectric reconstructions obtained by a prototype of microwave axial tomograph
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 28
+   - **DOI:** 10.1109/TIM.2011.2159144
+   - **Scopus ID:** 2-s2.0-83655163893
+   - **ISSN:** 00189456
+   - **Volume:** 61
+   - **Issue:** 1
+   - **Pages:** 140-148
+   - **Authors:** Monleone Ricardo D.; Pastorino Matteo; Fortuny-Guasch Joaquim; Salvadè Andrea; Bartesaghi Thomas; Bozza Giovanni; Maffongelli Manuela; Massimini Andrea; Carbonetti Andrea; Randazzo Andrea
+   - **Keywords:** Electromagnetic Interference | imaging systems | inverse problems | microwave sensor | microwave tomography | nondestructive testing
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+     2012:
+     - Instrumentation (Q1, rank 9, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 94, percentile 84)
+   - **Source Id:** 15361
+   - **Author Ids:** 15623618300;7004880389;6603372832;15623387700;22033467000;9740507100;36682904800;36682957200;54782273000;7006280562
+   - **Authoraffiliationids:** 60101870;60025153;60103695;60101870;60101870;60025153;60101870;60101870;60101870;60025153
+   - **Corresponding:** Monleone R.
+207.
+   - **Title:** Electromagnetic inversion with the multiscaling inexact Newton method-experimental validation
+   - **Venue:** Microwave and Optical Technology Letters
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 24
+   - **DOI:** 10.1002/mop.26435
+   - **Scopus ID:** 2-s2.0-80053192974
+   - **ISSN:** 08952477
+   - **eISSN:** 10982760
+   - **Volume:** 53
+   - **Issue:** 12
+   - **Pages:** 2834-2838
+   - **Authors:** Randazzo Andrea; Oliveri Giacomo; Massa Andrea; Pastorino Matteo
+   - **Keywords:** experimental results | inexact-Newton method | inverse scattering | iterative multiscaling approach | tomographic imaging
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 542, percentile 45)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 199, percentile 35)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 156, percentile 34)
+     - Condensed Matter Physics (Q3, rank 296, percentile 33)
+     2011:
+     - Electrical and Electronic Engineering (Q2, rank 243, percentile 58)
+     - Condensed Matter Physics (Q3, rank 196, percentile 48)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 98, percentile 46)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 77, percentile 45)
+   - **Source Id:** 12250
+   - **Author Ids:** 7006280562;6701615935;7005085831;7004880389
+   - **Authoraffiliationids:** 60025153;60015986;60015986;60025153
+   - **Corresponding:** Randazzo A.
+208.
+   - **Title:** CSI-CFI formulations of the multiresolution Inexact Newton method - A numerical comparison
+   - **Venue:** 2011 30th Ursi General Assembly and Scientific Symposium Ursigass 2011
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/URSIGASS.2011.6050369
+   - **Scopus ID:** 2-s2.0-81255166836
+   - **Authors:** Oliveri Giacomo; Randazzo Andrea; Pastorino Matteo; Massa Andrea
+   - **Source Id:** 20500195093
+   - **Author Ids:** 6701615935;7006280562;7004880389;7005085831
+   - **Authoraffiliationids:** 60015986;60025153;60025153;60015986
+   - **Corresponding:** Oliveri G.
+209.
+   - **Title:** Assessment of the electromagnetic inversion with the multiscaling Inexact-Newton method
+   - **Venue:** IEEE Antennas and Propagation Society AP S International Symposium Digest
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/APS.2011.5997042
+   - **Scopus ID:** 2-s2.0-80055011610
+   - **ISSN:** 15223965
+   - **Pages:** 2541-2544
+   - **Authors:** Oliveri Giacomo; Massa Andrea; Randazzo Andrea; Pastorino Matteo
+   - **Keywords:** Electromagnetic inverse scattering | Inexact Newton Method | Iterative Multiscaling Approach | Microwave Imaging
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 853, percentile 14)
+     2011:
+     - Electrical and Electronic Engineering (Q3, rank 407, percentile 30)
+   - **Source Id:** 18719
+   - **Author Ids:** 6701615935;7005085831;7006280562;7004880389
+   - **Authoraffiliationids:** 60015986;60015986;60025153;60025153
+   - **Corresponding:** Oliveri G.
+210.
+   - **Title:** A multistatic tomographic approach to microwave imaging of dielectric targets
+   - **Venue:** Proceedings of the 5th European Conference on Antennas and Propagation Eucap 2011
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-79959681192
+   - **Pages:** 2790-2794
+   - **Authors:** Randazzo A.; Pastorino M.; Salvadè A.; Monleone R.; Maffongelli M.; Lanini M.
+   - **Source Id:** 19900192144
+   - **Author Ids:** 7006280562;7004880389;15623387700;15623618300;36682904800;41761929500
+   - **Authoraffiliationids:** 60025153;60025153;60101870;60101870;60101870;60101870
+   - **Corresponding:** Randazzo A.
+211.
+   - **Title:** Microwave axial tomograph for medical applications: Preliminary set-up configuration
+   - **Venue:** Memea 2011 2011 IEEE International Symposium on Medical Measurements and Applications Proceedings
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/MeMeA.2011.5966680
+   - **Scopus ID:** 2-s2.0-80052389695
+   - **Pages:** 176-181
+   - **Authors:** Maffongelli Manuela; Salvade Andrea; Monleone Ricardo D.; Poretti Samuel; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Biomedical imaging | Electromagnetic scattering | Imaging Systems | Inverse Problems | Microwave
+   - **Source Id:** 19900193848
+   - **Author Ids:** 36682904800;15623387700;15623618300;25927504500;7004880389;7006280562
+   - **Authoraffiliationids:** 60101870;60101870;60101870;60101870;60025153;60025153
+   - **Corresponding:** Maffongelli M.
+212.
+   - **Title:** Imaging of separate scatterers by means of a multiscaling multiregion Inexact-Newton approach
+   - **Venue:** Progress in Electromagnetics Research M
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.2528/PIERM11051404
+   - **Scopus ID:** 2-s2.0-79959871596
+   - **ISSN:** 19378726
+   - **eISSN:** 10988963
+   - **Volume:** 18
+   - **Pages:** 247-257
+   - **Authors:** Oliveri G.; Randazzo A.; Pastorino M.; Massa Andrea
+   - **Quartile:**
+     2025:
+     - Electronic, Optical and Magnetic Materials (Q3, rank 184, percentile 40)
+     - Condensed Matter Physics (Q3, rank 277, percentile 38)
+     2011:
+     - Condensed Matter Physics (Q3, rank 205, percentile 46)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 102, percentile 44)
+   - **Source Id:** 19700186909
+   - **Author Ids:** 6701615935;7006280562;7004880389;7005085831
+   - **Authoraffiliationids:** 60015986;60025153;60025153;60015986
+   - **Corresponding:** Oliveri G.
+213.
+   - **Title:** A differential evolution-based iterative multi-scaling algorithm for microwave imaging of dielectric structures
+   - **Venue:** 2010 IEEE International Conference on Imaging Systems and Techniques Ist 2010 Proceedings
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/IST.2010.5548515
+   - **Scopus ID:** 2-s2.0-77957854022
+   - **Pages:** 90-95
+   - **Authors:** Donelli M.; Massa A.; Oliveri G.; Pastorino M.; Randazzo A.
+   - **Keywords:** Differential evolution | Inverse scattering | Microwave imaging
+   - **Source Id:** 19700181227
+   - **Author Ids:** 7006135869;7005085831;6701615935;7004880389;7006280562
+   - **Authoraffiliationids:** 60015986;60015986;60015986;60025153;60025153
+   - **Corresponding:** Donelli M.
+214.
+   - **Title:** Crack detection in dielectric structures by a linear sampling approach
+   - **Venue:** International Journal of Signal and Imaging Systems Engineering
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1504/IJSISE.2010.034996
+   - **Scopus ID:** 2-s2.0-77956257544
+   - **ISSN:** 17480698
+   - **eISSN:** 17480701
+   - **Volume:** 3
+   - **Issue:** 2
+   - **Pages:** 73-80
+   - **Authors:** Bozza G.; Brignone M.; Pastorino M.; Piana M.; Randazzo A.
+   - **Keywords:** Crack detection | Imaging systems | Inverse scattering | Linear sampling method | Non-destructive testing
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q2, rank 155, percentile 59)
+     - Electrical and Electronic Engineering (Q2, rank 409, percentile 59)
+   - **Source Id:** 19500157222
+   - **Author Ids:** 9740507100;8580886100;7004880389;35557405100;7006280562
+   - **Authoraffiliationids:** 60025153;60025153-106394475;60025153;106394475-60032256;60025153
+   - **Corresponding:** Bozza G.
+215.
+   - **Title:** A fast and efficient microwave method for detecting dielectric and conducting bodies inside complex structures
+   - **Venue:** European Microwave Week 2009 Eumw 2009 Science Progress and Quality at Radiofrequencies Conference Proceedings 39th European Microwave Conference Eumc 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/EUMC.2009.5296252
+   - **Scopus ID:** 2-s2.0-72949090619
+   - **Pages:** 1618-1621
+   - **Authors:** Bozza G.; Brignone M.; Piana M.; Pastorino M.; Randazzo A.
+   - **Source Id:** 19500157491
+   - **Author Ids:** 9740507100;8580886100;35557405100;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozza G.
+216.
+   - **Title:** An inverse scattering based hybrid method for the measurement of the complex dielectric permittivities of arbitrarily shaped homogenous targets
+   - **Venue:** 2009 IEEE Intrumentation and Measurement Technology Conference I2mtc 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/IMTC.2009.5168544
+   - **Scopus ID:** 2-s2.0-70450105873
+   - **Pages:** 719-723
+   - **Authors:** Bozza Giovanni; Brignone Massimo; Pastorino Matteo; Piana Michele; Randazzov Andrea
+   - **Source Id:** 19400158531
+   - **Author Ids:** 9740507100;8580886100;7004880389;35557405100;7006280562
+   - **Authoraffiliationids:** 60025153;60032256;60025153;60083086;60025153
+   - **Corresponding:** Bozza G.
+217.
+   - **Title:** Integration of linear sampling and newton-like schemes in inverse scattering
+   - **Venue:** IEEE Antennas and Propagation Society AP S International Symposium Digest
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/APS.2009.5171684
+   - **Scopus ID:** 2-s2.0-71049193435
+   - **ISSN:** 15223965
+   - **Authors:** Bozza G.; Brignone M.; Pastorino M.; Piana M.; Randazzo A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 853, percentile 14)
+   - **Source Id:** 18719
+   - **Author Ids:** 9740507100;8580886100;7004880389;35557405100;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60032256;60025153
+   - **Corresponding:** Bozza G.
+218.
+   - **Title:** Microwave detection of unknown targets by using support vector machines
+   - **Venue:** 2009 IEEE International Workshop on Imaging Systems and Techniques Ist 2009 Proceedings
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/IST.2009.5071620
+   - **Scopus ID:** 2-s2.0-70349656983
+   - **Pages:** 141-146
+   - **Authors:** Randazzo Andrea; Pastorino Matteo
+   - **Keywords:** Component | Microwave imaging | Regression | Support vector machine
+   - **Source Id:** 19300157114
+   - **Author Ids:** 7006280562;7004880389
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Randazzo A.
+219.
+   - **Title:** A new microwave axial tomograph for the inspection of dielectric materials
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 31
+   - **DOI:** 10.1109/TIM.2009.2015521
+   - **Scopus ID:** 2-s2.0-67649621679
+   - **ISSN:** 00189456
+   - **Volume:** 58
+   - **Issue:** 7
+   - **Pages:** 2072-2079
+   - **Authors:** Salvade Andrea; Pastorino Mateo; Monleone Ricardo; Bozza Giovanni; Randazzo Andrea
+   - **Keywords:** Imaging systems | Inverse problems | Microwave tomography | Nondestructive testing | Radar
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 15623387700;7004880389;15623618300;9740507100;7006280562
+   - **Authoraffiliationids:** 60101870;60025153;60101870;60025153;60025153
+   - **Corresponding:** Salvade A.
+220.
+   - **Title:** Enhanced nonlinear inverse scattering through linear super-resolution techniques
+   - **Venue:** Ist 2008 IEEE Workshop on Imaging Systems and Techniques Proceedings
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IST.2008.4659974
+   - **Scopus ID:** 2-s2.0-57849154868
+   - **Pages:** 227-231
+   - **Authors:** Bozza Giovanni; Estatico Claudio; Nagy James G.; Pastorino Matteo; Randazzo Andrea
+   - **Source Id:** 14000156210
+   - **Author Ids:** 9740507100;9739222400;7202084277;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60032259;60000928;60025153;60025153
+   - **Corresponding:** Bozza G.
+221.
+   - **Title:** A linear sampling approach to crack detection in microwave imaging
+   - **Venue:** Ist 2008 IEEE Workshop on Imaging Systems and Techniques Proceedings
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 17
+   - **DOI:** 10.1109/IST.2008.4659973
+   - **Scopus ID:** 2-s2.0-57849153473
+   - **Pages:** 222-226
+   - **Authors:** Bozza Giovanni; Brignone Massimo; Pastorino Matteo; Piana Michele; Randazzo Andrea
+   - **Source Id:** 14000156210
+   - **Author Ids:** 9740507100;8580886100;7004880389;35557405100;7006280562
+   - **Authoraffiliationids:** 60025153;60032256;60025153;60032256;60025153
+   - **Corresponding:** Bozza G.
+222.
+   - **Title:** Microwave imaging of foreign bodies inside wood trunks
+   - **Venue:** Ist 2008 IEEE Workshop on Imaging Systems and Techniques Proceedings
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/IST.2008.4659947
+   - **Scopus ID:** 2-s2.0-57849138920
+   - **Pages:** 88-93
+   - **Authors:** Salvadè A.; Pastorino M.; Monleone R.; Randazzo A.; Bartesaghi T.; Bozza G.; Poretti S.
+   - **Keywords:** Imaging systems | Inverse problems | Microwave tomography | Non-destructive testing | Reconstruction procedures
+   - **Source Id:** 14000156210
+   - **Author Ids:** 15623387700;7004880389;15623618300;7006280562;22033467000;9740507100;25927504500
+   - **Authoraffiliationids:** 60101870;60025153;60101870;60025153;60101870;60025153;60101870
+   - **Corresponding:** Salvadè A.
+223.
+   - **Title:** Hybrid approach to the inverse scattering problem by using ant colony optimization and no-sampling linear sampling
+   - **Venue:** 2008 IEEE International Symposium on Antennas and Propagation and Usnc Ursi National Radio Science Meeting Apsursi
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/APS.2008.4619941
+   - **Scopus ID:** 2-s2.0-55649103006
+   - **Authors:** Brignone M.; Bozza G.; Randazzo A.; Aramini R.; Piana M.; Pastorino M.
+   - **Source Id:** 12600154756
+   - **Author Ids:** 8580886100;9740507100;7006280562;15759187700;35557405100;7004880389
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60015986;60032256;60025153
+   - **Corresponding:** Brignone M.
+224.
+   - **Title:** A hybrid approach to 3D microwave imaging by using linear sampling and ACO
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 61
+   - **DOI:** 10.1109/TAP.2008.929504
+   - **Scopus ID:** 2-s2.0-54249088049
+   - **ISSN:** 0018926X
+   - **Volume:** 56
+   - **Issue:** 10
+   - **Pages:** 3224-3232
+   - **Authors:** Brignone Massimo; Bozza Giovanni; Randazzo Andrea; Piana Michele; Pastorino Matteo
+   - **Keywords:** Ant colony optimization (ACO) | Inverse scattering | Linear sampling method (LSM) | Stochastic methods
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+   - **Source Id:** 17337
+   - **Author Ids:** 8580886100;9740507100;7006280562;35557405100;7004880389
+   - **Authoraffiliationids:** 60032256-60025153;60025153;60025153;60032256-60025153;60025153
+   - **Corresponding:** Brignone M.
+225.
+   - **Title:** The differential evolution algorithm as applied to array antennas and imaging
+   - **Venue:** Studies in Computational Intelligence
+   - **Year:** 2008
+   - **Type:** Book Series
+   - **Subtype:** Review
+   - **Citations:** 3
+   - **DOI:** 10.1007/978-3-540-68830-3_9
+   - **Scopus ID:** 2-s2.0-51649097683
+   - **ISSN:** 1860949X
+   - **Volume:** 143
+   - **Pages:** 239-255
+   - **Authors:** Massa Andrea; Pastorino M.; Randazzo A.
+   - **Quartile:**
+     2025:
+     - Artificial Intelligence (Q3, rank 308, percentile 37)
+   - **Source Id:** 4900152708
+   - **Author Ids:** 7005085831;7004880389;7006280562
+   - **Authoraffiliationids:** 60015986;60025153;60025153
+   - **Corresponding:** Massa A.
+226.
+   - **Title:** Microwave detection of dielectric structures by using a tomographic approach
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IMTC.2008.4547243
+   - **Scopus ID:** 2-s2.0-51349154773
+   - **ISSN:** 10915281
+   - **Pages:** 1300-1305
+   - **Authors:** Salvadè A.; Pastorino M.; Monleone R.; Bartesaghi T.; Bozza G.; Randazzo A.
+   - **Keywords:** Imaging systems | Inverse problems | Microwave sensor | Microwave tomography | Nondestructive testing | Radar | Reconstruction procedures
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 15623387700;7004880389;15623618300;22033467000;9740507100;7006280562
+   - **Authoraffiliationids:** 60101870;60025153;60101870;60101870;60025153;60025153
+   - **Corresponding:** Salvadè A.
+227.
+   - **Title:** Direction of arrival estimation based on support vector regression: Experimental validation and comparison with MUSIC
+   - **Venue:** IEEE Antennas and Wireless Propagation Letters
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 100
+   - **DOI:** 10.1109/LAWP.2007.903491
+   - **Scopus ID:** 2-s2.0-68949202035
+   - **ISSN:** 15361225
+   - **Volume:** 6
+   - **Pages:** 379-382
+   - **Authors:** Randazzo A.; Abou-Khousa M. A.; Pastorino M.; Zoughi R.
+   - **Keywords:** Directions of arrival (doas) | Support vector machines (svms)/regression | Uniform linear array (ula)
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 180, percentile 82)
+   - **Source Id:** 18894
+   - **Author Ids:** 7006280562;14048137900;7004880389;57207607521
+   - **Authoraffiliationids:** 60025153-60146648;60025153-60146648;60025153-60146648;60025153-60146648
+   - **Corresponding:** Randazzo A.
+228.
+   - **Title:** Short-range image-based method for the inspection of strong scatterers using microwaves
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 36
+   - **DOI:** 10.1109/TIM.2007.900127
+   - **Scopus ID:** 2-s2.0-34547874571
+   - **ISSN:** 00189456
+   - **Volume:** 56
+   - **Issue:** 4
+   - **Pages:** 1181-1188
+   - **Authors:** Bozza Giovanni; Estatico Claudio; Massa Andrea; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Imaging systems | Inverse problems | Inverse scattering | Microwave imaging | Newton methods
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 9740507100;9739222400;7005085831;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60015986;60025153;60025153
+   - **Corresponding:** Bozza G.
+229.
+   - **Title:** Microwave imaging for nondestructive testing of dielectric structures: Numerical simulations using an inexact Newton technique
+   - **Venue:** Materials Evaluation
+   - **Year:** 2007
+   - **Type:** Trade Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **Scopus ID:** 2-s2.0-38749097822
+   - **ISSN:** 00255327
+   - **Volume:** 65
+   - **Issue:** 9
+   - **Pages:** 917-922
+   - **Authors:** Bozza G.; Estatico C.; Pastorino M.; Randazzo A.
+   - **Keywords:** Inexact Newton technique | Inverse scattering | Microwave imaging | Nondestructive testing | Regularizing schemes
+   - **Quartile:**
+     2025:
+     - Mechanical Engineering (Q4, rank 618, percentile 16)
+     - Mechanics of Materials (Q4, rank 367, percentile 11)
+     - Materials Science (all) (Q4, rank 415, percentile 11)
+   - **Source Id:** 17801
+   - **Author Ids:** 9740507100;9739222400;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozza G.
+230.
+   - **Title:** A blade coating inspection method based on an electromagnetic inverse scattering approach
+   - **Venue:** Proceedings of the 2007 IEEE International Workshop on Imaging Systems and Techniques Ist 07
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ist.2007.379582
+   - **Scopus ID:** 2-s2.0-34748917176
+   - **Authors:** Randazzo A.; Pignone E.
+   - **Keywords:** Blade coatings | Eddy current | Electromagnetic scattering | Thickness evaluation
+   - **Source Id:** 21100990202
+   - **Author Ids:** 7006280562;8241707600
+   - **Authoraffiliationids:** 60025153;60073836
+   - **Corresponding:** Randazzo A.
+231.
+   - **Title:** Electromagnetic imaging for non-intrusive evaluation in civil engineering
+   - **Venue:** Proceedings of the 2007 IEEE International Workshop on Imaging Systems and Techniques Ist 07
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ist.2007.379581
+   - **Scopus ID:** 2-s2.0-34748913160
+   - **Authors:** Bozza G.; Estatico C.; Pastorino M.; Randazzo A.
+   - **Keywords:** Civil engineering | Electromagnetic imaging | Inverse scattering | Newton methods | Nondestructive testing
+   - **Source Id:** 7900153128
+   - **Author Ids:** 9740507100;9739222400;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60032259;60025153;60025153
+   - **Corresponding:** Bozza G.
+232.
+   - **Title:** A numerical evaluation of an optimal setup for a microwave axial tomograph aimed at the inspection of wood
+   - **Venue:** Proceedings of the 2007 IEEE International Workshop on Imaging Systems and Techniques Ist 07
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ist.2007.379588
+   - **Scopus ID:** 2-s2.0-34748883226
+   - **Authors:** Salvadè Andrea; Pastorino Matteo; Monleone Ricardo; Randazzo Andrea; Bartesaghi Thomas; Bozza Giovanni
+   - **Keywords:** Electromagnetic field simulation | Imaging systems | Microwave sensor | Microwave tomography | Nondestructive testing inverse problems | Radar | Reconstruction procedures | Scattering
+   - **Source Id:** 21100984531
+   - **Author Ids:** 15623387700;7004880389;15623618300;7006280562;22033467000;9740507100
+   - **Authoraffiliationids:** 60101870;60025153;60101870;60025153;60101870;60025153
+   - **Corresponding:** Salvadè A.
+233.
+   - **Title:** Detection of defects in wood slabs by using a microwave imaging technique
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 25
+   - **DOI:** 10.1109/imtc.2007.379332
+   - **Scopus ID:** 2-s2.0-34648831081
+   - **ISSN:** 10915281
+   - **Authors:** Pastorino M.; Salvadè A.; Monleone R.; Bartesaghi T.; Bozza G.; Randazzo A.
+   - **Keywords:** Imaging systems | Inverse problems | Microwave sensor | Microwave tomography | Nondestructive testing | Radar | Reconstruction procedures
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 7004880389;15623387700;15623618300;22033467000;9740507100;7006280562
+   - **Authoraffiliationids:** 60025153;60101870;60101870;60101870;60025153;60025153
+   - **Corresponding:** Pastorino M.
+234.
+   - **Title:** A numerical assessment of the semiconvergence behavior in an inverse-scattering approach to electromagnetic imaging
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/imtc.2007.379277
+   - **Scopus ID:** 2-s2.0-34648813258
+   - **ISSN:** 10915281
+   - **Authors:** Bozza G.; Estatico C.; Pastorino M.; Randazzo A.
+   - **Keywords:** Ill-posed problems | Imaging systems | Inexact newton methods | Inverse problems | Inverse scattering | Regularization techniques
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 9740507100;9739222400;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60032259;60025153;60025153
+   - **Corresponding:** Bozza G.
+235.
+   - **Title:** Application of an inexact-Newton method within the second-order Born approximation to buried objects
+   - **Venue:** IEEE Geoscience and Remote Sensing Letters
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 43
+   - **DOI:** 10.1109/LGRS.2006.885864
+   - **Scopus ID:** 2-s2.0-33846597139
+   - **ISSN:** 1545598X
+   - **Volume:** 4
+   - **Issue:** 1
+   - **Pages:** 51-55
+   - **Authors:** Bozza Giovanni; Estatico Claudio; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Buried objects | Inverse scattering | Iterative regularization | Newton method
+   - **Quartile:**
+     2025:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 22, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 90, percentile 91)
+   - **Source Id:** 17259
+   - **Author Ids:** 9740507100;9739222400;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60000251-60025153;60000251-60025153
+   - **Corresponding:** Bozza G.
+236.
+   - **Title:** Synthesis of metamaterial coatings for cylindrical structures by an ant-colony optimization algorithm
+   - **Venue:** Ist 2006 Proceedings of the 2006 IEEE International Workshop on Imagining Systems and Techniques
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/IST.2006.1650792
+   - **Scopus ID:** 2-s2.0-33845598481
+   - **Volume:** 2006
+   - **Pages:** 143-147
+   - **Authors:** Bozza G.; Pastorino M.; Raffetto M.; Randazzo A.
+   - **Keywords:** Ant colony optimization | Metamaterials | Synthesis
+   - **Source Id:** 5100153514
+   - **Author Ids:** 9740507100;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozza G.
+237.
+   - **Title:** A new microwave axial tomograph for the inspection of dielectric materials
+   - **Venue:** Ist 2006 Proceedings of the 2006 IEEE International Workshop on Imagining Systems and Techniques
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IST.2006.1650793
+   - **Scopus ID:** 2-s2.0-33845589277
+   - **Volume:** 2006
+   - **Pages:** 148-153
+   - **Authors:** Salvadè Andrea; Pastorino Matteo; Monleone Ricardo; Randazzo Andrea
+   - **Keywords:** Imaging systems | Inverse problems | Microwave tomography | Nondestructive testing | Radar
+   - **Source Id:** 5100153514
+   - **Author Ids:** 15623387700;7004880389;15623618300;7006280562
+   - **Authoraffiliationids:** 60101870;60025153;60101870;60025153
+   - **Corresponding:** Salvadè A.
+238.
+   - **Title:** An inexact-newton algorithm for tomographic microwave imaging
+   - **Venue:** Ist 2006 Proceedings of the 2006 IEEE International Workshop on Imagining Systems and Techniques
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IST.2006.1650791
+   - **Scopus ID:** 2-s2.0-33845562281
+   - **Volume:** 2006
+   - **Pages:** 137-142
+   - **Authors:** Bozza G.; Estatico C.; Massa A.; Pastorino M.; Randazzo A.
+   - **Keywords:** Imaging | Inverse scattering | Newton method | Regularization
+   - **Source Id:** 5100153514
+   - **Author Ids:** 9740507100;9739222400;7005085831;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60015986;60025153;60025153
+   - **Corresponding:** Bozza G.
+239.
+   - **Title:** Optimization of the directivity of a monopulse antenna with a subarray weighting by a hybrid differential evolution method
+   - **Venue:** IEEE Antennas and Wireless Propagation Letters
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 68
+   - **DOI:** 10.1109/LAWP.2006.872435
+   - **Scopus ID:** 2-s2.0-47249144421
+   - **ISSN:** 15361225
+   - **Volume:** 5
+   - **Issue:** 1
+   - **Pages:** 155-158
+   - **Authors:** Massa Andrea; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Array antennas | Evolutionary algorithm | Monopulse antennas | Sum and difference patterns
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 180, percentile 82)
+   - **Source Id:** 18894
+   - **Author Ids:** 7005085831;7004880389;7006280562
+   - **Authoraffiliationids:** 60015986;60025153;60025153
+   - **Corresponding:** Massa A.
+240.
+   - **Title:** Short-range microwave imaging technique based on an inexact-Newton method for the nondestructive inspection of dielectric objects
+   - **Venue:** IMS 2006 Proceedings of the 2006 IEEE International Workshop on Measurement Systems for Homeland Security Contraband Detection and Personal Safety
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/MSHS.2006.314345
+   - **Scopus ID:** 2-s2.0-46249095152
+   - **Pages:** 26-31
+   - **Authors:** Bozza Giovanni; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Electromagnetic diagnostics | Inexact Newton methods | Inverse scattering | Microwave imaging
+   - **Source Id:** 11800154530
+   - **Author Ids:** 9740507100;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bozza G.
+241.
+   - **Title:** Short-range image-based method for the inspection of strong scatterers using microwaves
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IMTC.2006.236934
+   - **Scopus ID:** 2-s2.0-36049047668
+   - **ISSN:** 10915281
+   - **Pages:** 397-402
+   - **Authors:** Bozza G.; Estatico C.; Massa A.; Pastorino M.; Randazzo A.
+   - **Keywords:** Imaging systems | Inverse problems | Inverse scattering | Microwave imaging | Newton methods
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 9740507100;9739222400;7005085831;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60015986;60025153;60025153
+   - **Corresponding:** Bozza G.
+242.
+   - **Title:** An inexact Newton method for microwave reconstruction of strong scatterers
+   - **Venue:** IEEE Antennas and Wireless Propagation Letters
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 63
+   - **DOI:** 10.1109/LAWP.2006.870360
+   - **Scopus ID:** 2-s2.0-34547860148
+   - **ISSN:** 15361225
+   - **Volume:** 5
+   - **Issue:** 1
+   - **Pages:** 61-64
+   - **Authors:** Bozza G.; Estatico C.; Pastorino M.; Randazzo A.
+   - **Keywords:** Experimental data | Inexact newton methods | Inverse scattering | Microwave imaging | Regularization
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 180, percentile 82)
+   - **Source Id:** 18894
+   - **Author Ids:** 9740507100;9739222400;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozza G.
+243.
+   - **Title:** The SVM-based smart antenna for estimation of the directions of arrival of electromagnetic waves
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 31
+   - **DOI:** 10.1109/TIM.2006.884295
+   - **Scopus ID:** 2-s2.0-33947328374
+   - **ISSN:** 00189456
+   - **Volume:** 55
+   - **Issue:** 6
+   - **Pages:** 1918-1925
+   - **Authors:** Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Array antennas | Direction of arrival estimation | Multiple antennas | Regression | Support vector machines (SVMs)
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 7004880389;7006280562
+   - **Authoraffiliationids:** 60000251-60025153;60000251-60025153
+   - **Corresponding:** Pastorino M.
+244.
+   - **Title:** A microwave axial tomograph: Experimental set up and reconstruction procedure
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/IMTC.2006.236933
+   - **Scopus ID:** 2-s2.0-33845570089
+   - **ISSN:** 10915281
+   - **Pages:** 392-396
+   - **Authors:** Pastorino Matteo; Salvadè Andrea; Monleone Ricardo; Randazzo Andrea
+   - **Keywords:** Imaging systems | Inverse problems | Microwave sensor | Microwave tomography | Nondestructive testing | Radar | Reconstruction procedures
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 7004880389;15623387700;15623618300;7006280562
+   - **Authoraffiliationids:** 60025153;60101870;60101870;60025153
+   - **Corresponding:** Pastorino M.
+245.
+   - **Title:** New results on electromagnetic imaging based on the inversion of synthetic and measured scattered-field data
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1109/TIM.2006.876576
+   - **Scopus ID:** 2-s2.0-33746342133
+   - **ISSN:** 00189456
+   - **Volume:** 55
+   - **Issue:** 4
+   - **Pages:** 1085-1093
+   - **Authors:** Azaro Renzo; Bozza Giovanni; Estatico Claudio; Massa Andrea; Pastorino Matteo; Pregnolato Denis; Randazzo Andrea
+   - **Keywords:** Electromagnetic scattering | Imaging systems | Inverse problems | Microwaves
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 8662846400;9740507100;9739222400;7005085831;7004880389;15924046500;7006280562
+   - **Authoraffiliationids:** 101241495;60025153;60025153;60015986;60025153;60015986;60025153
+   - **Corresponding:** Azaro R.
+246.
+   - **Title:** A regularization approach to microwave imaging under the second-order born approximation with real data
+   - **Venue:** Ist 2005 Proceedings of the 2005 IEEE International Workshop on Imaging Systems and Techniques
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **Scopus ID:** 2-s2.0-33847226954
+   - **Volume:** 2005
+   - **Pages:** 14-19
+   - **Authors:** Bozza G.; Estatico C.; Massa A.; Pastorino M.; Randazzo A.
+   - **Source Id:** 5200153047
+   - **Author Ids:** 9740507100;9739222400;7005085831;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60015986;60025153;60025153
+   - **Corresponding:** Bozza G.
+247.
+   - **Title:** Estimation of the DOA of reflected signals by means of smart antennas
+   - **Venue:** Ist 2005 Proceedings of the 2005 IEEE International Workshop on Imaging Systems and Techniques
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-33847188121
+   - **Volume:** 2005
+   - **Pages:** 2-7
+   - **Authors:** Pastorino M.; Randazzo A.; Stanchi P.
+   - **Source Id:** 5200153047
+   - **Author Ids:** 7004880389;7006280562;15623423400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Pastorino M.
+248.
+   - **Title:** A smart antenna for the DOA estimation of impinging signals and passive obstacle detection for homeland security
+   - **Venue:** IMS 2005 Proceedings of the 2005 IEEE International Workshop on Measurement Systems for Homeland Security Contraband Detection and Personal Safety
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/MSHS.2005.1502558
+   - **Scopus ID:** 2-s2.0-33745508354
+   - **Volume:** 2005
+   - **Pages:** 70-76
+   - **Authors:** Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Electromagnetic Sources | Homeland Security | Intelligent Systems | Passive Scatterers | Smart Antennas
+   - **Source Id:** 4700152231
+   - **Author Ids:** 7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Pastorino M.
+249.
+   - **Title:** Interactions between electromagnetic waves and elliptically shaped metamaterials
+   - **Venue:** IEEE Antennas and Wireless Propagation Letters
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1109/LAWP.2005.848382
+   - **Scopus ID:** 2-s2.0-31144437167
+   - **ISSN:** 15361225
+   - **Volume:** 4
+   - **Issue:** 1
+   - **Pages:** 165-168
+   - **Authors:** Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Keywords:** Double-negative materials | Electromagnetic scattering | Elliptic cylinders | Metamaterials | Series solution
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 180, percentile 82)
+   - **Source Id:** 18894
+   - **Author Ids:** 7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60000251-60025153;60025153;60025153
+   - **Corresponding:** Pastorino M.
+250.
+   - **Title:** New results on electromagnetic imaging based on the inversion of measured scattered-field data
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **Scopus ID:** 2-s2.0-28544442756
+   - **ISSN:** 10915281
+   - **Volume:** 3
+   - **Pages:** 2048-2053
+   - **Authors:** Azaro R.; Bozza G.; Estatico C.; Massa A.; Pastorino M.; Pregnolato D.; Randazzo A.
+   - **Keywords:** Electromagnetic scattering | Imaging systems | Inverse problems | Microwaves
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 8662846400;9740507100;9739222400;7005085831;7004880389;15924046500;7006280562
+   - **Authoraffiliationids:** ;60025153;60025153;60015986;60025153;60015986;60025153
+   - **Corresponding:** Azaro R.
+251.
+   - **Title:** A two-step iterative inexact-Newton method for electromagnetic imaging of dielectric structures from real data
+   - **Venue:** Inverse Problems
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 49
+   - **DOI:** 10.1088/0266-5611/21/6/S07
+   - **Scopus ID:** 2-s2.0-28544439972
+   - **ISSN:** 02665611
+   - **eISSN:** 13616420
+   - **Volume:** 21
+   - **Issue:** 6
+   - **Pages:** S81-S94
+   - **Authors:** Estatico C.; Bozza G.; Massa A.; Pastorino M.; Randazzo A.
+   - **Quartile:**
+     2025:
+     - Mathematical Physics (Q1, rank 21, percentile 77)
+     - Applied Mathematics (Q2, rank 200, percentile 70)
+     - Theoretical Computer Science (Q2, rank 58, percentile 57)
+     - Signal Processing (Q2, rank 83, percentile 57)
+     - Computer Science Applications (Q3, rank 495, percentile 49)
+   - **Source Id:** 28497
+   - **Author Ids:** 9739222400;9740507100;7005085831;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60015986;60025153;60025153
+   - **Corresponding:** Estatico C.
+252.
+   - **Title:** An inexact-Newton method for short-range microwave imaging within the second-order born approximation
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 67
+   - **DOI:** 10.1109/TGRS.2005.856631
+   - **Scopus ID:** 2-s2.0-27844535704
+   - **ISSN:** 01962892
+   - **Volume:** 43
+   - **Issue:** 11
+   - **Pages:** 2593-2605
+   - **Authors:** Estatico Claudio; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Dielectrics | Imaging | Inverse scattering | Iterative regularization | Newton methods
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 9739222400;7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60000251-60025153-101036315-101913095;60000251-60025153
+   - **Corresponding:** Estatico C.
+253.
+   - **Title:** A smart antenna system for direction of arrival estimation based on a support vector regression
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 132
+   - **DOI:** 10.1109/TAP.2005.850735
+   - **Scopus ID:** 2-s2.0-23044495266
+   - **ISSN:** 0018926X
+   - **Volume:** 53
+   - **Issue:** 7
+   - **Pages:** 2161-2168
+   - **Authors:** Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Antenna arrays | Direction of arrival (DOA) estimation | Regression | Support vector machines
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+   - **Source Id:** 17337
+   - **Author Ids:** 7004880389;7006280562
+   - **Authoraffiliationids:** 101036315;101036315
+   - **Corresponding:** Pastorino M.
+254.
+   - **Title:** Optimization of the difference patterns for monopulse antennas by a hybrid real/integer-coded differential evolution method
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 148
+   - **DOI:** 10.1109/TAP.2004.838788
+   - **Scopus ID:** 2-s2.0-13244279553
+   - **ISSN:** 0018926X
+   - **Volume:** 53
+   - **Issue:** 1 Ii
+   - **Pages:** 372-376
+   - **Authors:** Caorsi Salvatore; Massa Andrea; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Array antennas | Evolutionary algorithm | Monopulse antennas | Sum and difference patterns
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+   - **Source Id:** 17337
+   - **Author Ids:** 7102084534;7005085831;7004880389;7006280562
+   - **Authoraffiliationids:** 60015197;60015986;60025153;60025153
+   - **Corresponding:** Caorsi S.
+255.
+   - **Title:** Microwave imaging of cylindrical inhomogeneities based on an analytical forward solver and multiple illuminations
+   - **Venue:** 2004 IEEE International Workshop on Imaging Systems and Techniques Ist
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-15844430469
+   - **Pages:** 100-105
+   - **Authors:** Caorsi S.; Massa A.; Pastorino M.; Raffetto M.; Randazzo A.
+   - **Source Id:** 145102
+   - **Author Ids:** 7102084534;7005085831;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60015197;60015986;60025153;60025153;60025153
+   - **Corresponding:** Caorsi S.
+256.
+   - **Title:** Real-time SVM-based approach for localization of sources
+   - **Venue:** 2004 IEEE International Workshop on Imaging Systems and Techniques Ist
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **Scopus ID:** 2-s2.0-15844417955
+   - **Pages:** 2-6
+   - **Authors:** Pastorino M.; Randazzo A.
+   - **Keywords:** Antenna arrays | Direction of arrival estimation | Regression | Support vector machines
+   - **Source Id:** 145102
+   - **Author Ids:** 7004880389;7006280562
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Pastorino M.
+257.
+   - **Title:** Reconstruction of two-dimensional buried objects by a differential evolution method
+   - **Venue:** Inverse Problems
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 55
+   - **DOI:** 10.1088/0266-5611/20/6/S09
+   - **Scopus ID:** 2-s2.0-10844256668
+   - **ISSN:** 02665611
+   - **Volume:** 20
+   - **Issue:** 6
+   - **Pages:** S135-S150
+   - **Authors:** Massa A.; Pastorino M.; Randazzo A.
+   - **Quartile:**
+     2025:
+     - Mathematical Physics (Q1, rank 21, percentile 77)
+     - Applied Mathematics (Q2, rank 200, percentile 70)
+     - Theoretical Computer Science (Q2, rank 58, percentile 57)
+     - Signal Processing (Q2, rank 83, percentile 57)
+     - Computer Science Applications (Q3, rank 495, percentile 49)
+   - **Source Id:** 28497
+   - **Author Ids:** 7005085831;7004880389;7006280562
+   - **Authoraffiliationids:** 60015986;60025153;60025153
+   - **Corresponding:** Massa A.
+258.
+   - **Title:** Detection of PEC elliptic cylinders by a memetic algorithm using real data
+   - **Venue:** Microwave and Optical Technology Letters
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1002/mop.20442
+   - **Scopus ID:** 2-s2.0-7544230085
+   - **ISSN:** 08952477
+   - **Volume:** 43
+   - **Issue:** 4
+   - **Pages:** 271-273
+   - **Authors:** Caorsi S.; Massa A.; Pastorino M.; Randazzo A.
+   - **Keywords:** Electromagnetic imaging | Elliptic cylinders | Evolutionary algorithms
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 542, percentile 45)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 199, percentile 35)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 156, percentile 34)
+     - Condensed Matter Physics (Q3, rank 296, percentile 33)
+   - **Source Id:** 12250
+   - **Author Ids:** 7102084534;7005085831;7004880389;7006280562
+   - **Authoraffiliationids:** 60015197;60015986;60025153;60025153
+   - **Corresponding:** Caorsi S.
+259.
+   - **Title:** A microwave imaging method for NDE/NDT based on the SMW technique for the electromagnetic field prediction
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-4644280861
+   - **ISSN:** 10915281
+   - **Volume:** 1
+   - **Pages:** 184-189
+   - **Authors:** Caorsi S.; Donelli M.; Massa A.; Pastorino M.; Randazzo A.; Rosani A.
+   - **Keywords:** Inverse Scattering Technique | Microwave Sensing and Measurements | NDT/NDE | SMW Inversion Method
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 7102084534;7006135869;7005085831;7004880389;7006280562;6506074034
+   - **Authoraffiliationids:** 60015197;60015986;60015986;60025153;60025153;60015986
+   - **Corresponding:** Caorsi S.
+260.
+   - **Title:** Detection of buried objects by an electromagnetic method based on a differential evolution approach
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/IMTC.2004.1351257
+   - **Scopus ID:** 2-s2.0-4644228067
+   - **ISSN:** 10915281
+   - **Volume:** 2
+   - **Pages:** 1107-1111
+   - **Authors:** Caorsi S.; Donelli M.; Massa A.; Pastorino M.; Randazzo A.
+   - **Keywords:** Buried Objects | Genetic algorithms | Imaging Systems | Inversion Techniques | Microwaves
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 7102084534;7006135869;7005085831;7004880389;7006280562
+   - **Authoraffiliationids:** 60015197;60015986;60015986;60025153;60025153
+   - **Corresponding:** Caorsi S.
+261.
+   - **Title:** A reconstruction procedure for microwave nondestructive evaluation based on a numerically computed green's function
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1109/TIM.2004.831446
+   - **Scopus ID:** 2-s2.0-4043078400
+   - **ISSN:** 00189456
+   - **Volume:** 53
+   - **Issue:** 4
+   - **Pages:** 987-992
+   - **Authors:** Caorsi Salvatore; Massa Andrea; Pastorino Matteo; Randazzo Andrea; Rosani Andrea
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 7102084534;7005085831;7004880389;7006280562;6506074034
+   - **Authoraffiliationids:** 60015197;60015986;60025153;60025153;60015986
+   - **Corresponding:** Caorsi S.
+262.
+   - **Title:** Reconstruction algorithms for electromagnetic imaging
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 24
+   - **DOI:** 10.1109/TIM.2004.827093
+   - **Scopus ID:** 2-s2.0-2942511377
+   - **ISSN:** 00189456
+   - **Volume:** 53
+   - **Issue:** 3
+   - **Pages:** 692-699
+   - **Authors:** Pastorino Matteo; Caorsi Salvatore; Massa Andrea; Randazzo Andrea
+   - **Keywords:** Genetic algorithms | Imaging systems | Inversion techniques | Microwaves
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 7004880389;7102084534;7005085831;7006280562
+   - **Authoraffiliationids:** 60025153;60015197;60015986;60025153
+   - **Corresponding:** Pastorino M.
+263.
+   - **Title:** Electromagnetic detection of dielectric scatterers using phaseless synthetic and real data and the memetic algorithm
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 55
+   - **DOI:** 10.1109/TGRS.2003.815676
+   - **Scopus ID:** 2-s2.0-0442280595
+   - **ISSN:** 01962892
+   - **Volume:** 41
+   - **Issue:** 12 Part I
+   - **Pages:** 2745-2753
+   - **Authors:** Caorsi Salvatore; Massa Andrea; Pastorino Matteo; Randazzo Andrea
+   - **Keywords:** Electromagnetic imaging | Elliptic cylinders | Genetic algorithms | Inverse scattering
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 7102084534;7005085831;7004880389;7006280562
+   - **Authoraffiliationids:** 60015197;60015986;60025153;60025153
+   - **Corresponding:** Caorsi S.
+264.
+   - **Title:** Detection of Buried Inhomogeneous Elliptic Cylinders by a Memetic Algorithm
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 54
+   - **DOI:** 10.1109/TAP.2003.817984
+   - **Scopus ID:** 2-s2.0-0142126356
+   - **ISSN:** 0018926X
+   - **Volume:** 51
+   - **Issue:** 10 Ii
+   - **Pages:** 2878-2884
+   - **Authors:** Caorsi Salvatore; Massa Andrea; Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Keywords:** Electromagnetic imaging | Elliptic cylinders | Evolutionary algorithms
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+   - **Source Id:** 17337
+   - **Author Ids:** 7102084534;7005085831;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60015197;60015986;60025153;60025153;60025153
+   - **Corresponding:** Caorsi S.
+265.
+   - **Title:** Multi-illumination approach based on a memetic algorithm for the electromagnetic imaging of cylindrical inhomogeneities
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0038507605
+   - **Volume:** 1
+   - **Pages:** 653-658
+   - **Authors:** Caorsi S.; Massa A.; Pastorino M.; Randazzo A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 7102084534;7005085831;7004880389;7006280562
+   - **Authoraffiliationids:** 60015197;60015986;60025153;60025153
+   - **Corresponding:** Caorsi S.
+266.
+   - **Title:** A reconstruction procedure for microwave nondestructive evaluation based on a numerically computed green's function
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-0037493673
+   - **Volume:** 1
+   - **Pages:** 669-674
+   - **Authors:** Caorsi S.; Massa A.; Pastorino M.; Randazzo A.; Rosani A.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 7102084534;7005085831;7004880389;7006280562;6506074034
+   - **Authoraffiliationids:** 60015197;60015986;60025153;60025153;60015986
+   - **Corresponding:** Caorsi S.
+267.
+   - **Title:** Digital-image formation based on the inversion of microwave scattering data
+   - **Venue:** Proceedings of the 8th International Workshop on ADC Modelling and Testing Iwadc 2003
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85084022228
+   - **Authors:** Caorsi S.; Donelli M.; Gragnani G. L.; Massa A.; Pastorino M.; Randazzo A.
+   - **Keywords:** Imaging systems | Inversion techniques | Microwaves
+   - **Source Id:** 21100932446
+   - **Author Ids:** 7102084534;7006135869;6701681576;7005085831;7004880389;7006280562
+   - **Authoraffiliationids:** 60015197;60025153;60025153;60015986;60025153;60025153
+   - **Corresponding:** Caorsi S.
+268.
+   - **Title:** Reconstruction algorithms for electromagnetic imaging
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **Scopus ID:** 2-s2.0-0036053305
+   - **Volume:** 2
+   - **Pages:** 1695-1700
+   - **Authors:** Pastorino M.; Caorsi S.; Massa A.; Randazzo A.
+   - **Keywords:** Genetic algorithms | Imaging systems | Inversion techniques | Microwaves
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 7004880389;7102084534;7005085831;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Pastorino M.
+269.
+   - **Title:** Active imaging approach for NDE applications based on a hybrid genetic algorithm
+   - **Venue:** 2001 31st European Microwave Conference Eumc 2001
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/EUMA.2001.339114
+   - **Scopus ID:** 2-s2.0-84897549258
+   - **Authors:** Pastorino M.; Caorsi S.; Massa A.; Randazzo A.
+   - **Source Id:** 21100301425
+   - **Author Ids:** 7004880389;7102084534;7005085831;7006280562
+   - **Authoraffiliationids:** 60025153;60015197;60015986;60025153
+   - **Corresponding:** Pastorino M.

@@ -1,0 +1,2903 @@
+# Bracco Stefano
+
+## Overview
+- **Unit:** ELE
+- **Role:** Professore associato
+- **Grade:** Prof.Associato Legge 240/10 - t.pieno - classe 2
+- **SSD:** IIND-08/B (Sistemi elettrici per l'energia)
+- **Scopus ID:** 15049159900
+- **UNIGE ID:** 701007
+- **Retrieved at:** 2025-11-14T15:15:21.840106
+
+## Contact
+- **Email:** stefano.bracco@unige.it
+- **Page:** https://rubrica.unige.it/personale/UkNGW1pu
+- **Locations:** Campus di Savona - palazzina Delfino (ED_171000105), 1° piano, US_171000105.I.043; Opera Pia - padiglione D (ED_161450401), 1° piano, US_161450401.I.020
+
+## Career
+- RD, 2015-03-01 → 2021-07-31
+- PA, 2021-08-01 → 2222-02-02
+
+## Responsibilities
+- **Title:** Componente del Consiglio della Scuola
+  - **Unit:** Scuola politecnica
+  - **Period:** 2024-11-01 → 2027-10-31
+
+- **Title:** Membro della Giunta di dipartimento
+  - **Unit:** Dipartimento di ingegneria navale, elettrica, elettronica e delle telecomunicazioni - DITEN
+  - **Period:** 2024-11-01 → 2027-10-31
+
+## Teaching
+### 2025
+- Generazione E Distribuzione Sostenibile Dell'Energia Elettrica (111143), L-9 - Ingegneria Elettrica
+- Power Systems Simulation And Optimization (86667), Lm-30 - Energy Engineering
+- Critical Energy Infrastructures Modelling And Simulation (94669), Lm-26 - Engineering For Natural Risk Management
+- Critical Energy Infrastructures Modelling And Simulation (94669), Lm-26 - Engineering For Natural Risk Management
+- Power Systems Management (86638), Lm-30 R - Energy Engineering
+- Power Systems Management (86638), Lm-30 R - Energy Engineering
+- Energy Transition And Power Systems Management 1 (108134), Lm-77 R - Management For Energy And Environmental Transition (Meet)
+
+### 2024
+- Impianti Elettrici (66117), L-9 - Ingegneria Elettrica
+- Power Systems Simulation And Optimization (86667), Lm-30 - Energy Engineering
+- Power Systems Management (86638), Lm-30 - Energy Engineering
+- Energy Transition And Power Systems Management (108134), Lm-77 - Management For Energy And Environmental Transition (Meet)
+
+### 2023
+- Impianti Elettrici (66117), L-9 - Ingegneria Elettrica
+- Power Systems Simulation And Optimization (86667), Lm-30 - Energy Engineering
+- Power Systems Management (86638), Lm-30 - Energy Engineering
+- Critical Energy Infrastructures Modelling And Simulation (94669), Lm-26 - Engineering For Natural Risk Management
+- Energy Transition And Power Systems Management (108134), Lm-77 - Management For Energy And Environmental Transition (Meet)
+
+### 2022
+- Impianti Elettrici (66117), L-9 - Ingegneria Elettrica
+- Power Systems Management (86638), Lm-30 - Energy Engineering
+- Power Systems Simulation And Optimization (86667), Lm-30 - Energy Engineering
+- Critical Energy Infrastructures Modelling And Simulation (94669), Lm-26 - Engineering For Natural Risk Management
+- Energy Transition And Power Systems Management (108134), Lm-77 - Management For Energy And Environmental Transition (Meet)
+
+### 2021
+- Impianti Elettrici (66117), L-9 - Ingegneria Elettrica
+- Power Systems Management (86638), Lm-30 - Energy Engineering
+- Power Systems Simulation And Optimization (86667), Lm-30 - Energy Engineering
+- Critical Energy Infrastructures Modelling And Simulation (94669), Lm-26 - Engineering For Natural Risk Management
+
+### 2020
+- Impianti Elettrici (66117), L-9 - Ingegneria Elettrica
+- Power Systems Simulation And Optimization (86667), Lm-30 - Energy Engineering
+- Power Systems Management (86638), Lm-30 - Energy Engineering
+- Critical Energy Infrastructures Modelling And Simulation (94669), Lm-26 - Engineering For Natural Risk Management
+
+## Scopus Metrics
+- absolute; Docs: 126; Journals: 51; Conferences: 67; Citations: 2290; H-index: 26
+- 15 years (2010-2025); Docs: 122; Journals: 48; Conferences: 66; Citations: 2222; H-index: 26
+- 10 years (2015-2025); Docs: 104; Journals: 40; Conferences: 56; Citations: 1512; H-index: 21
+- 05 years (2020-2025); Docs: 65; Journals: 27; Conferences: 31; Citations: 702; H-index: 14
+
+## Scopus Products
+1.
+   - **Title:** Optimal energy management strategies for aggregators in renewable energy communities
+   - **Venue:** International Journal of Electrical Power and Energy Systems
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1016/j.ijepes.2025.111085
+   - **Scopus ID:** 2-s2.0-105016098101
+   - **ISSN:** 01420615
+   - **Volume:** 172
+   - **Authors:** Robbiano Tommaso; Fresia Matteo; Caliano Martina; Bracco Stefano
+   - **Keywords:** Aggregator | Energy management system | MILP | Renewable energy community | Self-consumption | Shared energy
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 57, percentile 94)
+     - Energy Engineering and Power Technology (Q1, rank 25, percentile 92)
+   - **Source Id:** 17985
+   - **Author Ids:** 59237837200;57224008583;56012332900;15049159900
+   - **Authoraffiliationids:** 60025153;60025153;60019637;60025153
+   - **Corresponding:** Robbiano T.
+2.
+   - **Title:** Optimal charging strategy for electric trucks with vehicle-to-grid at a wind-powered electric vehicle charging hub
+   - **Venue:** Sustainable Energy Grids and Networks
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1016/j.segan.2025.101899
+   - **Scopus ID:** 2-s2.0-105013309080
+   - **eISSN:** 23524677
+   - **Volume:** 43
+   - **Authors:** Francis Alphonse; Fresia Matteo; Barabino Edoardo; Bracco Stefano
+   - **Keywords:** Capability curves | Electric trucks | Electric vehicle charging hub | Energy management system | Vehicle-to-grid | Wind farm
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 131, percentile 86)
+     - Control and Systems Engineering (Q1, rank 52, percentile 86)
+     - Energy Engineering and Power Technology (Q1, rank 63, percentile 80)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 71)
+   - **Source Id:** 21100371258
+   - **Author Ids:** 59295086100;57224008583;57205541631;15049159900
+   - **Authoraffiliationids:** 60025153;60025153;115009829;60025153
+   - **Corresponding:** Francis A.
+3.
+   - **Title:** Optimal allocation and sizing of electric vehicle charging infrastructure for green last-mile logistics
+   - **Venue:** Sustainable Energy Grids and Networks
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1016/j.segan.2025.101898
+   - **Scopus ID:** 2-s2.0-105013281067
+   - **eISSN:** 23524677
+   - **Volume:** 43
+   - **Authors:** Fresia Matteo; Francis Alphonse; Parodi Michele; Ferrari Alessandro; Siri Silvia; Bracco Stefano
+   - **Keywords:** Electric vehicle routing problem | EV charging | EV fleets | Last mile delivery | Optimal design | Renewable energy sources
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 131, percentile 86)
+     - Control and Systems Engineering (Q1, rank 52, percentile 86)
+     - Energy Engineering and Power Technology (Q1, rank 63, percentile 80)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 71)
+   - **Source Id:** 21100371258
+   - **Author Ids:** 57224008583;59295086100;60042974300;60043086500;23010350500;15049159900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60121711;60025153
+   - **Corresponding:** Fresia M.
+4.
+   - **Title:** Cost-Effective Operation of Microgrids: A MILP-Based Energy Management System for Active and Reactive Power Control
+   - **Venue:** International Journal of Electrical Power and Energy Systems
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1016/j.ijepes.2025.110458
+   - **Scopus ID:** 2-s2.0-85214345855
+   - **ISSN:** 01420615
+   - **Volume:** 165
+   - **Authors:** García Sebastián; Bracco Stefano; Parejo Antonio; Fresia Matteo; Ignacio Guerrero Juan; León Carlos
+   - **Keywords:** Distributed Energy Resources | Energy Management Systems | Microgrids
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 57, percentile 94)
+     - Energy Engineering and Power Technology (Q1, rank 25, percentile 92)
+   - **Source Id:** 17985
+   - **Author Ids:** 57210714463;15049159900;55293637400;57224008583;57221816884;24724405600
+   - **Authoraffiliationids:** 60033284;60025153;60033284;60025153;60033284;60033284
+   - **Corresponding:** García S.
+5.
+   - **Title:** Integrating energy management systems and renewable energy sources in green warehouses: the energy-aware green sequencing and routing problem
+   - **Venue:** International Journal of Production Research
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1080/00207543.2025.2561776
+   - **Scopus ID:** 2-s2.0-105019668256
+   - **ISSN:** 00207543
+   - **eISSN:** 1366588X
+   - **Authors:** Aizdi Leena; Lanza Giacomo; Passacantando Mauro; Grazia Scutellà Maria; Siri Silvia; Bracco Stefano
+   - **Keywords:** electric vehicle | energy management system | Green logistics | mixed integer linear programming | renewable energy | sequencing and routing
+   - **Quartile:**
+     2025:
+     - Management Science and Operations Research (Q1, rank 5, percentile 97)
+     - Strategy and Management (Q1, rank 13, percentile 97)
+     - Industrial and Manufacturing Engineering (Q1, rank 20, percentile 95)
+   - **Source Id:** 27656
+   - **Author Ids:** 60154711600;57204800912;22635215600;60154330000;23010350500;15049159900
+   - **Authoraffiliationids:** 60028868;60028868;60012306;60028868;60121711;60025153
+   - **Corresponding:** Aizdi L.
+6.
+   - **Title:** Monitoring and Energy Simulation Analysis of a Mechanical Workshop with Photovoltaic System and Electric Mobility Infrastructures Integration
+   - **Venue:** Conference Proceedings 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EEEIC/ICPSEurope64998.2025.11169203
+   - **Scopus ID:** 2-s2.0-105019054618
+   - **Authors:** Belloni Elisa; Bracco Stefano; Briatore Federico; Fresia Matteo
+   - **Keywords:** building simulations | electric loads | Electric Vehicle (EV) infrastructure | Industry | management | mechanical workshop | photovoltaic (PV)
+   - **Source Id:** 21101340466
+   - **Author Ids:** 55413036000;15049159900;60146665700;57224008583
+   - **Authoraffiliationids:** 60003003;60025153;60025153;60025153
+   - **Corresponding:** Belloni E.
+7.
+   - **Title:** Physics-Informed Neural Network Combined with Sparse Identification Nonlinear Dynamics for Battery SOC Estimation
+   - **Venue:** Conference Proceedings 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EEEIC/ICPSEurope64998.2025.11169268
+   - **Scopus ID:** 2-s2.0-105019046180
+   - **Authors:** Guo Quanxi; Grimaccia Francesco; Niccolai Alessandro; Zhang Yanan; Bracco Stefano
+   - **Keywords:** Dynamic Changes | NaNiCl2 | PINN | SOC | Sparse Identification
+   - **Source Id:** 21101340466
+   - **Author Ids:** 60055699000;55938896600;55939985200;57401968300;15049159900
+   - **Authoraffiliationids:** 60023256;60023256;60023256;60005244;60025153
+   - **Corresponding:** Guo Q.
+8.
+   - **Title:** A Microgrid Test-Bed Architecture for Integrated Energy Systems Experimental Testing
+   - **Venue:** Conference Proceedings 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EEEIC/ICPSEurope64998.2025.11169197
+   - **Scopus ID:** 2-s2.0-105019039902
+   - **Authors:** Bonfiglio Andrea; Bracco Stefano; Procopio Renato; Robba Michela; Rossi Mansueto
+   - **Keywords:** advanced control strategies | energy management systems | laboratory prototype | Microgrid
+   - **Source Id:** 21101340466
+   - **Author Ids:** 36607521000;15049159900;7801615894;7004979187;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+9.
+   - **Title:** Optimizing Energy Management in LVDC Microgrids: A Comparative Study of Linear and Non-Linear EMS Formulations
+   - **Venue:** 2025 Aeit Hvdc International Conference Aeit Hvdc 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/AEITHVDC66044.2025.11079526
+   - **Scopus ID:** 2-s2.0-105012575188
+   - **Authors:** Robbiano Tommaso; Fresia Matteo; García Sebástian; Parejo Antonio; De-Simón-Martín Miguel; Bracco Stefano
+   - **Keywords:** DC Microgrid | Energy Management System | MILP | Optimal Power Flow
+   - **Source Id:** 21101318126
+   - **Author Ids:** 59237837200;57224008583;57210714463;55293637400;55567581000;15049159900
+   - **Authoraffiliationids:** 60025153;60025153;60033284;60033284;60020657;60025153
+   - **Corresponding:** Robbiano T.
+10.
+   - **Title:** Optimal design model for a public-private Renewable Energy Community in a small Italian municipality
+   - **Venue:** Sustainable Energy Grids and Networks
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1016/j.segan.2024.101545
+   - **Scopus ID:** 2-s2.0-85208060699
+   - **eISSN:** 23524677
+   - **Volume:** 40
+   - **Authors:** Laurini Bruno; Bonvini Barbara; Bracco Stefano
+   - **Keywords:** MILP model | Optimal design | Renewable energy community | Shared energy
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 131, percentile 86)
+     - Control and Systems Engineering (Q1, rank 52, percentile 86)
+     - Energy Engineering and Power Technology (Q1, rank 63, percentile 80)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 71)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 122, percentile 87)
+     - Control and Systems Engineering (Q1, rank 52, percentile 86)
+     - Energy Engineering and Power Technology (Q1, rank 53, percentile 82)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 77, percentile 74)
+   - **Source Id:** 21100371258
+   - **Author Ids:** 58934476700;60067693400;15049159900
+   - **Authoraffiliationids:** 60011373;60025153;60025153
+   - **Corresponding:** Laurini B.
+11.
+   - **Title:** Energy Management System for Polygeneration Microgrids, Including Battery Degradation and Curtailment Costs
+   - **Venue:** Sensors
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.3390/s24227122
+   - **Scopus ID:** 2-s2.0-85210570219
+   - **eISSN:** 14248220
+   - **Volume:** 24
+   - **Issue:** 22
+   - **Authors:** Ennassiri Yassine; de-Simón-Martín Miguel; Bracco Stefano; Robba Michela
+   - **Keywords:** electrical vehicle | energy management system | energy polygeneration | energy storage systems | solar photovoltaics | wind energy
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2024:
+     - Instrumentation (Q1, rank 21, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 145, percentile 85)
+     - Analytical Chemistry (Q1, rank 30, percentile 81)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 44, percentile 81)
+     - Information Systems (Q1, rank 91, percentile 80)
+     - Biochemistry (Q1, rank 86, percentile 80)
+   - **Source Id:** 130124
+   - **Author Ids:** 57216780419;55567581000;15049159900;7004979187
+   - **Authoraffiliationids:** 60121711;60020657;60025153;60121711
+   - **Corresponding:** Ennassiri Y.
+12.
+   - **Title:** Levelized cost of electricity in renewable energy communities: Uncertainty propagation analysis
+   - **Venue:** Applied Energy
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 24
+   - **DOI:** 10.1016/j.apenergy.2024.123278
+   - **Scopus ID:** 2-s2.0-85191474168
+   - **ISSN:** 03062619
+   - **Volume:** 366
+   - **Authors:** Pagnini Luisa; Bracco Stefano; Delfino Federico; de-Simón-Martín Miguel
+   - **Keywords:** Levelized cost of electricity | Renewable energy community | Statistical analysis | Uncertainty propagation
+   - **Quartile:**
+     2025:
+     - Management, Monitoring, Policy and Law (Q1, rank 6, percentile 98)
+     - Mechanical Engineering (Q1, rank 14, percentile 98)
+     - Building and Construction (Q1, rank 5, percentile 98)
+     - Energy (all) (Q1, rank 5, percentile 94)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 22, percentile 93)
+     2024:
+     - Management, Monitoring, Policy and Law (Q1, rank 5, percentile 98)
+     - Mechanical Engineering (Q1, rank 14, percentile 98)
+     - Building and Construction (Q1, rank 5, percentile 98)
+     - Energy (all) (Q1, rank 5, percentile 94)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 22, percentile 92)
+   - **Source Id:** 28801
+   - **Author Ids:** 55665875600;15049159900;6603766602;55567581000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60020657
+   - **Corresponding:** Pagnini L.
+13.
+   - **Title:** Optimal Operation of an Industrial Microgrid within a Renewable Energy Community: A Case Study of a Greentech Company
+   - **Venue:** Energies
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.3390/en17143567
+   - **Scopus ID:** 2-s2.0-85199907673
+   - **eISSN:** 19961073
+   - **Volume:** 17
+   - **Issue:** 14
+   - **Authors:** Fresia Matteo; Robbiano Tommaso; Caliano Martina; Delfino Federico; Bracco Stefano
+   - **Keywords:** energy management system | industry | microgrid | optimization | renewable energy community | vehicle-to-grid
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2024:
+     - Control and Optimization (Q1, rank 15, percentile 90)
+     - Engineering (miscellaneous) (Q1, rank 39, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 173, percentile 82)
+     - Energy Engineering and Power Technology (Q1, rank 73, percentile 75)
+     - Fuel Technology (Q2, rank 38, percentile 71)
+     - Energy (miscellaneous) (Q2, rank 32, percentile 68)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 105, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 57224008583;59237837200;56012332900;6603766602;15049159900
+   - **Authoraffiliationids:** 60025153;60025153;60019637;60025153;60025153
+   - **Corresponding:** Fresia M.
+14.
+   - **Title:** Optimal day-ahead active and reactive power management for microgrids with high penetration of renewables
+   - **Venue:** Energy Conversion and Management X
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 35
+   - **DOI:** 10.1016/j.ecmx.2024.100598
+   - **Scopus ID:** 2-s2.0-85193602408
+   - **eISSN:** 25901745
+   - **Volume:** 23
+   - **Authors:** Fresia Matteo; Bordo Laura; Delfino Federico; Bracco Stefano
+   - **Keywords:** Curtailment | Energy management system | Microgrid | Optimization | Reactive power management | Solar energy | Wind energy
+   - **Quartile:**
+     2025:
+     - Nuclear Energy and Engineering (Q1, rank 6, percentile 93)
+     - Energy Engineering and Power Technology (Q1, rank 41, percentile 87)
+     - Fuel Technology (Q1, rank 27, percentile 80)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 66, percentile 78)
+     2024:
+     - Nuclear Energy and Engineering (Q1, rank 6, percentile 93)
+     - Energy Engineering and Power Technology (Q1, rank 37, percentile 87)
+     - Fuel Technology (Q1, rank 20, percentile 85)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 55, percentile 81)
+   - **Source Id:** 21100896269
+   - **Author Ids:** 57224008583;59134874500;6603766602;15049159900
+   - **Authoraffiliationids:** 60025153;125275232;60025153;60025153
+   - **Corresponding:** Fresia M.
+15.
+   - **Title:** An energy management system to schedule the optimal participation to electricity markets and a statistical analysis of the bidding strategies over long time horizons
+   - **Venue:** Renewable Energy
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1016/j.renene.2024.120617
+   - **Scopus ID:** 2-s2.0-85193055806
+   - **ISSN:** 09601481
+   - **eISSN:** 18790682
+   - **Volume:** 228
+   - **Authors:** La Fata Alice; Brignone Massimo; Procopio Renato; Bracco Stefano; Delfino Federico; Barbero Giulia; Barilli Riccardo
+   - **Keywords:** Ancillary Services | Electricity Market | Energy Management System | Mixed Integer Linear Programming | Renewable Energy Sources
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 9, percentile 97)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 31, percentile 90)
+     2024:
+     - Engineering (all) (Q1, rank 7, percentile 98)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 28, percentile 90)
+   - **Source Id:** 27569
+   - **Author Ids:** 57434749400;8580886100;7801615894;15049159900;6603766602;57194587672;57889358800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;130476516;130476516
+   - **Corresponding:** La Fata A.
+16.
+   - **Title:** Energy Management System for a Smart Green Nanogrid feeding a Research Laboratory with Autonomous Mobile Robots
+   - **Venue:** IFAC Papersonline
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1016/j.ifacol.2024.07.107
+   - **Scopus ID:** 2-s2.0-85201828644
+   - **eISSN:** 24058963
+   - **Volume:** 58
+   - **Issue:** 2
+   - **Pages:** 156-161
+   - **Authors:** Fresia Matteo; De Simone Lorenzo; Traverso Ilaria; Bracco Stefano; Siri Silvia
+   - **Keywords:** Autonomous mobile robots | Battery energy storage system | Energy management system | Nanogrids | Optimal operation | Prosumer building | Renewable energy sources
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q3, rank 218, percentile 42)
+     2024:
+     - Control and Systems Engineering (Q3, rank 236, percentile 37)
+   - **Source Id:** 21100456158
+   - **Author Ids:** 57224008583;59294980900;59294552600;15049159900;23010350500
+   - **Authoraffiliationids:** 60025153;60121711;60121711;60025153;60121711
+   - **Corresponding:** Fresia M.
+17.
+   - **Title:** Probabilistic Power Forecasting in a Microgrid for the Integration of Distributed Energy Resources
+   - **Venue:** IFAC Papersonline
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1016/j.ifacol.2024.07.106
+   - **Scopus ID:** 2-s2.0-85201827180
+   - **eISSN:** 24058963
+   - **Volume:** 58
+   - **Issue:** 2
+   - **Pages:** 150-155
+   - **Authors:** Parejo Antonio; Bracco Stefano; García Sebastián; Personal Enrique; Guerrero Juan I.; León Carlos
+   - **Keywords:** demand | distributed energy resources | microgrids | probabilistic forecasting | Stochastic forecasting
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q3, rank 218, percentile 42)
+     2024:
+     - Control and Systems Engineering (Q3, rank 236, percentile 37)
+   - **Source Id:** 21100456158
+   - **Author Ids:** 55293637400;15049159900;57210714463;57194517010;25633819900;24724405600
+   - **Authoraffiliationids:** 60033284;60025153;60033284;60033284;60033284;60033284
+   - **Corresponding:** Parejo A.
+18.
+   - **Title:** Influence of Distributed Energy Resources on the performance of phase topology identification in distribution networks
+   - **Venue:** IFAC Papersonline
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1016/j.ifacol.2024.07.101
+   - **Scopus ID:** 2-s2.0-85201806697
+   - **eISSN:** 24058963
+   - **Volume:** 58
+   - **Issue:** 2
+   - **Pages:** 118-123
+   - **Authors:** García Sebastián; Bracco Stefano; Mora-Merchán Javier M.; Larios Diego F.; Personal Enrique; León Carlos
+   - **Keywords:** data analytics | Distributed Energy Resources | distribution networks | smart meters | topology identification
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q3, rank 218, percentile 42)
+     2024:
+     - Control and Systems Engineering (Q3, rank 236, percentile 37)
+   - **Source Id:** 21100456158
+   - **Author Ids:** 57210714463;15049159900;49863893700;40661668800;57194517010;24724405600
+   - **Authoraffiliationids:** 106709054;60025153;106709054;106709054;106709054;106709054
+   - **Corresponding:** García S.
+19.
+   - **Title:** Optimal Operation of an Innovative Electric Vehicle Charging Hub directly fed by Renewables
+   - **Venue:** IFAC Papersonline
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1016/j.ifacol.2024.07.109
+   - **Scopus ID:** 2-s2.0-85201791556
+   - **eISSN:** 24058963
+   - **Volume:** 58
+   - **Issue:** 2
+   - **Pages:** 168-173
+   - **Authors:** Francis Alphonse; Fresia Matteo; Bracco Stefano; Barabino Edoardo
+   - **Keywords:** Capability Curves | Energy Management System | EV Charging Hub | MILP | Renewables
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q3, rank 218, percentile 42)
+     2024:
+     - Control and Systems Engineering (Q3, rank 236, percentile 37)
+   - **Source Id:** 21100456158
+   - **Author Ids:** 59295086100;57224008583;15049159900;57205541631
+   - **Authoraffiliationids:** 60025153;60025153;60025153;119809227
+   - **Corresponding:** Francis A.
+20.
+   - **Title:** EMS for Active and Reactive Power Management in a Polygeneration Microgrid Feeding a PED
+   - **Venue:** Energies
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.3390/en17030610
+   - **Scopus ID:** 2-s2.0-85184656702
+   - **eISSN:** 19961073
+   - **Volume:** 17
+   - **Issue:** 3
+   - **Authors:** Sawhney Abhinav; Delfino Federico; Bonvini Barbara; Bracco Stefano
+   - **Keywords:** E-mobility | EMS | microgrids | MILP | optimization | positive energy district | smart grid | V2G
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2024:
+     - Control and Optimization (Q1, rank 15, percentile 90)
+     - Engineering (miscellaneous) (Q1, rank 39, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 173, percentile 82)
+     - Energy Engineering and Power Technology (Q1, rank 73, percentile 75)
+     - Fuel Technology (Q2, rank 38, percentile 71)
+     - Energy (miscellaneous) (Q2, rank 32, percentile 68)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 105, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 57998075600;6603766602;60067693400;15049159900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Sawhney A.
+21.
+   - **Title:** A Multi-Scale Control Framework for Electric and Automated Buses in Intercity Lines
+   - **Venue:** Proceedings of the IEEE Conference on Decision and Control
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CDC56724.2024.10886401
+   - **Scopus ID:** 2-s2.0-86000499976
+   - **ISSN:** 07431546
+   - **eISSN:** 25762370
+   - **Pages:** 8409-8415
+   - **Authors:** Graffione S.; Bracco S.; Pasquale C.; Sacone S.; Siri S.; Ferrara A.
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q3, rank 90, percentile 49)
+     - Modeling and Simulation (Q3, rank 233, percentile 38)
+     - Control and Systems Engineering (Q3, rank 236, percentile 38)
+     2024:
+     - Control and Optimization (Q3, rank 91, percentile 43)
+     - Control and Systems Engineering (Q3, rank 238, percentile 36)
+     - Modeling and Simulation (Q3, rank 231, percentile 36)
+   - **Source Id:** 87424
+   - **Author Ids:** 57218837347;15049159900;55811101300;6701845036;23010350500;55845601700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60015197
+   - **Corresponding:** Graffione S.
+22.
+   - **Title:** Models and Control Algorithms for Electric Automated Buses in Smart Cities
+   - **Venue:** Springer Tracts on Transportation and Traffic
+   - **Year:** 2024
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-64769-7_7
+   - **Scopus ID:** 2-s2.0-85213981101
+   - **ISSN:** 21948119
+   - **eISSN:** 21948127
+   - **Volume:** 21
+   - **Pages:** 185-212
+   - **Authors:** Siri Silvia; Bracco Stefano; Pasquale Cecilia; Sacone Simona
+   - **Quartile:**
+     2025:
+     - Urban Studies (Q3, rank 152, percentile 47)
+     - Strategy and Management (Q4, rank 400, percentile 19)
+     - Transportation (Q4, rank 129, percentile 18)
+     2024:
+     - Urban Studies (Q3, rank 177, percentile 38)
+     - Strategy and Management (Q4, rank 423, percentile 14)
+     - Transportation (Q4, rank 132, percentile 13)
+   - **Source Id:** 21100810489
+   - **Author Ids:** 23010350500;15049159900;55811101300;6701845036
+   - **Authoraffiliationids:** 60121711;60025153;60121711;60121711
+   - **Corresponding:** Siri S.
+23.
+   - **Title:** Energy Management System for the CN MOST Laboratory at the Savona University Campus
+   - **Venue:** 8th IEEE International Forum on Research and Technologies for Society and Industry Innovation Rtsi 2024 Proceeding
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/RTSI61910.2024.10761218
+   - **Scopus ID:** 2-s2.0-85213816235
+   - **Pages:** 166-171
+   - **Authors:** Fresia Matteo; Robbiano Tommaso; Siri Silvia; Bracco Stefano
+   - **Keywords:** Autonomous mo-bile robots | Battery energy storage system | Energy management system | MILP optimization | Renewable energy sources
+   - **Source Id:** 21101267110
+   - **Author Ids:** 57224008583;59237837200;23010350500;15049159900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Fresia M.
+24.
+   - **Title:** Energy Management System for the Operation of an Electric Vehicle Charging Hub Fed by Solar and Wind Energy Sources
+   - **Venue:** Proceedings 24th Eeeic International Conference on Environment and Electrical Engineering and 8th I and Cps Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/EEEIC/ICPSEurope61470.2024.10751396
+   - **Scopus ID:** 2-s2.0-85211925235
+   - **Authors:** Francis Alphonse; Fresia Matteo; Bracco Stefano; Barabino Edoardo
+   - **Keywords:** Capability Curves | Energy Management System | EV Charging | MILP | Solar | Wind
+   - **Source Id:** 21101263912
+   - **Author Ids:** 59295086100;57224008583;15049159900;57205541631
+   - **Authoraffiliationids:** 60025153;60025153;60025153;129175156
+   - **Corresponding:** Francis A.
+25.
+   - **Title:** Energy Management System for Optimal Operation of a Prosumer with Renewable Generation and Electric Vehicle Fleet with Vehicle-to-Building
+   - **Venue:** Proceedings 24th Eeeic International Conference on Environment and Electrical Engineering and 8th I and Cps Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/EEEIC/ICPSEurope61470.2024.10751461
+   - **Scopus ID:** 2-s2.0-85211899754
+   - **Authors:** Fresia Matteo; De-Simón-Martín Miguel; Bracco Stefano
+   - **Keywords:** Curtailment | Electric vehicles | Energy management system | Prosumers | Renewable energy sources | Vehicle to building | Vehicle to grid
+   - **Source Id:** 21101263912
+   - **Author Ids:** 57224008583;55567581000;15049159900
+   - **Authoraffiliationids:** 60025153;60020657;60025153
+   - **Corresponding:** Fresia M.
+26.
+   - **Title:** Resilience Improvement in PreCOVID-19 Medical Centers
+   - **Venue:** Power Systems
+   - **Year:** 2024
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-67754-0_10
+   - **Scopus ID:** 2-s2.0-85207866429
+   - **ISSN:** 16121287
+   - **eISSN:** 18604676
+   - **Volume:** Part F3518
+   - **Pages:** 321-363
+   - **Authors:** Lagrange Alexis; de Simón-Martín Miguel; González-Martínez Alberto; Bracco Stefano; Rosales-Asensio Enrique
+   - **Keywords:** Batteries | Energy resilience | Hospital | Microgrids | Solar photovoltaics
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 615, percentile 38)
+     - Energy Engineering and Power Technology (Q3, rank 205, percentile 37)
+     2024:
+     - Electrical and Electronic Engineering (Q3, rank 681, percentile 29)
+     - Energy Engineering and Power Technology (Q3, rank 214, percentile 28)
+   - **Source Id:** 21100248904
+   - **Author Ids:** 57214073820;55567581000;56943231800;15049159900;56606316400
+   - **Authoraffiliationids:** 60012570;60020657;60020657;60025153;60009669
+   - **Corresponding:** Lagrange A.
+27.
+   - **Title:** Energy Management System for a Prosumer with Vehicle-to-Home: A Case Study in Italy
+   - **Venue:** 2024 International Conference on Smart Energy Systems and Technologies Driving the Advances for Future Electrification Sest 2024 Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/SEST61601.2024.10694299
+   - **Scopus ID:** 2-s2.0-85207643426
+   - **Authors:** Ellemund Gabriel; Fresia Matteo; Bracco Stefano
+   - **Keywords:** electric vehicle | Energy management system | prosumer | V2H
+   - **Source Id:** 21101256226
+   - **Author Ids:** 59387582700;57224008583;15049159900
+   - **Authoraffiliationids:** 60004100;60025153;60025153
+   - **Corresponding:** Ellemund G.
+28.
+   - **Title:** Energy Management System for the Campus Microgrid Using an Internet of Things as a Service (IoTaaS) with Day-ahead Forecasting
+   - **Venue:** Procedia Computer Science
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1016/j.procs.2024.08.069
+   - **Scopus ID:** 2-s2.0-85204286425
+   - **eISSN:** 18770509
+   - **Volume:** 241
+   - **Pages:** 488-493
+   - **Authors:** Zhakiyev Nurkhat; Satan Aidos; Akhmetkanova Gulnar; Medeshova Aigul; Omirgaliyev Ruslan; Bracco Stefano
+   - **Keywords:** Energy Control System | Intelligent Mobile Systems | Internet of Things as a Service (IoTaaS) | Pervasive Computing | Smart Campus
+   - **Quartile:**
+     2025:
+     - Computer Science (all) (Q2, rank 107, percentile 55)
+     2024:
+     - Computer Science (all) (Q2, rank 89, percentile 62)
+   - **Source Id:** 19700182801
+   - **Author Ids:** 56043145000;57994592000;59332714200;58904981200;57237959900;15049159900
+   - **Authoraffiliationids:** 60204069-123649293;60204069;60113873;123649293;60204069;60025153
+   - **Corresponding:** Zhakiyev N.
+29.
+   - **Title:** Electric Vehicle Fleet Management for a Prosumer Building with Renewable Generation
+   - **Venue:** Energies
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 36
+   - **DOI:** 10.3390/en16207213
+   - **Scopus ID:** 2-s2.0-85175353411
+   - **eISSN:** 19961073
+   - **Volume:** 16
+   - **Issue:** 20
+   - **Authors:** Fresia Matteo; Bracco Stefano
+   - **Keywords:** curtailment | prosumer building | reactive power management | solar energy | vehicle-to-building | wind energy
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2023:
+     - Control and Optimization (Q1, rank 19, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 36, percentile 82)
+     - Electrical and Electronic Engineering (Q2, rank 200, percentile 74)
+     - Energy Engineering and Power Technology (Q2, rank 78, percentile 71)
+     - Fuel Technology (Q2, rank 40, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 25, percentile 68)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 103, percentile 62)
+   - **Source Id:** 62932
+   - **Author Ids:** 57224008583;15049159900
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Fresia M.
+30.
+   - **Title:** Economic and environmental optimal design of a multi-vector energy hub feeding a Local Energy Community
+   - **Venue:** Applied Energy
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 20
+   - **DOI:** 10.1016/j.apenergy.2023.121259
+   - **Scopus ID:** 2-s2.0-85162235474
+   - **ISSN:** 03062619
+   - **Volume:** 347
+   - **Authors:** Piazza Giorgio; Delfino Federico; Bergero Stefano; Di Somma Marialaura; Graditi Giorgio; Bracco Stefano
+   - **Keywords:** Energy community | Multi-objective optimization | Multi-vector energy hub | Optimal design
+   - **Quartile:**
+     2025:
+     - Management, Monitoring, Policy and Law (Q1, rank 6, percentile 98)
+     - Mechanical Engineering (Q1, rank 14, percentile 98)
+     - Building and Construction (Q1, rank 5, percentile 98)
+     - Energy (all) (Q1, rank 5, percentile 94)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 22, percentile 93)
+     2023:
+     - Building and Construction (Q1, rank 1, percentile 99)
+     - Management, Monitoring, Policy and Law (Q1, rank 5, percentile 98)
+     - Mechanical Engineering (Q1, rank 12, percentile 98)
+     - Energy (all) (Q1, rank 4, percentile 95)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 15, percentile 94)
+   - **Source Id:** 28801
+   - **Author Ids:** 57210463638;6603766602;15723388300;56429379700;11839275700;15049159900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60019637;60019637;60025153
+   - **Corresponding:** Piazza G.
+31.
+   - **Title:** Impact of electric mobility on the design of renewable energy collective self-consumers
+   - **Venue:** Sustainable Energy Grids and Networks
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 27
+   - **DOI:** 10.1016/j.segan.2022.100963
+   - **Scopus ID:** 2-s2.0-85144057724
+   - **eISSN:** 23524677
+   - **Volume:** 33
+   - **Authors:** Piazza Giorgio; Bracco Stefano; Delfino Federico; Somma Marialaura Di; Graditi Giorgio
+   - **Keywords:** Collective self-consumption | Electric mobility | MILP model | Optimal design | Renewable energy
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 131, percentile 86)
+     - Control and Systems Engineering (Q1, rank 52, percentile 86)
+     - Energy Engineering and Power Technology (Q1, rank 63, percentile 80)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 71)
+     2023:
+     - Control and Systems Engineering (Q1, rank 55, percentile 83)
+     - Electrical and Electronic Engineering (Q1, rank 139, percentile 82)
+     - Energy Engineering and Power Technology (Q1, rank 54, percentile 80)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 73, percentile 73)
+   - **Source Id:** 21100371258
+   - **Author Ids:** 57210463638;15049159900;6603766602;56429379700;11839275700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60019637;60019637
+   - **Corresponding:** Piazza G.
+32.
+   - **Title:** A Simulator for Long Term Planning and Real Time Scheduling of Polygenerative Microgrids
+   - **Venue:** 2023 IEEE Belgrade Powertech Powertech 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/PowerTech55446.2023.10202738
+   - **Scopus ID:** 2-s2.0-85219490938
+   - **Authors:** La Fata Alice; Brignone Massimo; Procopio Renato; Bracco Stefano; Delfino Federico; Barilli Riccardo; Ravasi Martina; Zanellini Fabio; Petronijevic Milutin
+   - **Keywords:** Demand Response | Energy Management System | Mixed Integer Linear Programming | Renewable Energy | Storage systems
+   - **Source Id:** 21101192776
+   - **Author Ids:** 57434749400;8580886100;7801615894;15049159900;6603766602;57889358800;57936785100;12645996400;14422928500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;128573362;128573362;128573362;60068806
+   - **Corresponding:** La Fata A.
+33.
+   - **Title:** Anomaly Detection in Photovoltaic Systems via Deep Learning Autoencoder
+   - **Venue:** 2023 International Conference on Smart Energy Systems and Technologies Sest 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/SEST57387.2023.10257517
+   - **Scopus ID:** 2-s2.0-85174313860
+   - **Authors:** Miraftabzadeh Seyed Mahdi; Longo Michela; Foiadelli Federica; Bracco Stefano
+   - **Keywords:** Anomaly detection | deep learning autoencoder | machine learning | photovoltaic system
+   - **Source Id:** 21101183461
+   - **Author Ids:** 57191035925;37023170900;22834091600;15049159900
+   - **Authoraffiliationids:** 60023256;60023256;60023256;60025153
+   - **Corresponding:** Miraftabzadeh S.M.
+34.
+   - **Title:** Energy Management System for the Optimal Operation of a Grid-Connected Building with Renewables and an Electric Delivery Vehicle
+   - **Venue:** Eurocon 2023 20th International Conference on Smart Technologies Proceedings
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 26
+   - **DOI:** 10.1109/EUROCON56442.2023.10198884
+   - **Scopus ID:** 2-s2.0-85168677284
+   - **Pages:** 472-477
+   - **Authors:** Bracco Stefano; Fresia Matteo
+   - **Keywords:** curtailment | electric vehicle | energy management | reactive power | renewable sources | vehicle-to-building
+   - **Source Id:** 21101173014
+   - **Author Ids:** 15049159900;57224008583
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bracco S.
+35.
+   - **Title:** Stochastic Operation Optimization of the Smart Savona Campus as an Integrated Local Energy Community Considering Energy Costs and Carbon Emissions
+   - **Venue:** Energies
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.3390/en15228418
+   - **Scopus ID:** 2-s2.0-85142731581
+   - **eISSN:** 19961073
+   - **Volume:** 15
+   - **Issue:** 22
+   - **Authors:** Di Somma Marialaura; Buonanno Amedeo; Caliano Martina; Graditi Giorgio; Piazza Giorgio; Bracco Stefano; Delfino Federico
+   - **Keywords:** integrated local energy community | multi-objective approach | sector coupling | stochastic operation optimization
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2022:
+     - Control and Optimization (Q1, rank 21, percentile 83)
+     - Engineering (miscellaneous) (Q1, rank 27, percentile 82)
+     - Electrical and Electronic Engineering (Q2, rank 197, percentile 73)
+     - Energy Engineering and Power Technology (Q2, rank 77, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 18, percentile 67)
+     - Fuel Technology (Q2, rank 39, percentile 67)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 103, percentile 56)
+   - **Source Id:** 62932
+   - **Author Ids:** 56429379700;56287900600;56012332900;11839275700;57210463638;15049159900;6603766602
+   - **Authoraffiliationids:** 60019637;60019637;60019637;60019637;60025153;60025153;60025153
+   - **Corresponding:** Di Somma M.
+36.
+   - **Title:** An efficient Energy Management System for long term planning and real time scheduling of flexible polygeneration systems
+   - **Venue:** Renewable Energy
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.1016/j.renene.2022.10.030
+   - **Scopus ID:** 2-s2.0-85140341631
+   - **ISSN:** 09601481
+   - **eISSN:** 18790682
+   - **Volume:** 200
+   - **Pages:** 1180-1201
+   - **Authors:** La Fata Alice; Brignone Massimo; Procopio Renato; Bracco Stefano; Delfino Federico; Barilli Riccardo; Ravasi Martina; Zanellini Fabio
+   - **Keywords:** Energy management system | Mixed integer linear programming | Renewable energy source polygeneration
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 9, percentile 97)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 31, percentile 90)
+     2022:
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 23, percentile 90)
+   - **Source Id:** 27569
+   - **Author Ids:** 57434749400;8580886100;7801615894;15049159900;6603766602;57889358800;57936785100;12645996400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;128573362;128573362;128573362
+   - **Corresponding:** La Fata A.
+37.
+   - **Title:** On the participation of small-scale high performance combined heat and power plants to the Italian ancillary services market within Virtually Aggregated Mixed Units
+   - **Venue:** Energy
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1016/j.energy.2021.122275
+   - **Scopus ID:** 2-s2.0-85119196605
+   - **ISSN:** 03605442
+   - **Volume:** 239
+   - **Authors:** Bracco Stefano; Bianchi Enrico; Bianco Giovanni; Giacchino Alessandro; Ramaglia Alessandro; Delfino Federico
+   - **Keywords:** Ancillary services market | Business plan analysis | Combined heat and power | Microturbines | Virtually aggregated mixed units
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 4, percentile 99)
+     - Civil and Structural Engineering (Q1, rank 7, percentile 98)
+     - Mechanical Engineering (Q1, rank 19, percentile 97)
+     - Building and Construction (Q1, rank 7, percentile 97)
+     - Management, Monitoring, Policy and Law (Q1, rank 13, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 34, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 16, percentile 95)
+     - Pollution (Q1, rank 10, percentile 94)
+     - Industrial and Manufacturing Engineering (Q1, rank 23, percentile 94)
+     - Fuel Technology (Q1, rank 10, percentile 93)
+     - Energy (all) (Q1, rank 7, percentile 91)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 32, percentile 89)
+     2022:
+     - Modeling and Simulation (Q1, rank 5, percentile 98)
+     - Civil and Structural Engineering (Q1, rank 7, percentile 98)
+     - Building and Construction (Q1, rank 5, percentile 97)
+     - Mechanical Engineering (Q1, rank 17, percentile 97)
+     - Management, Monitoring, Policy and Law (Q1, rank 11, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 32, percentile 95)
+     - Industrial and Manufacturing Engineering (Q1, rank 17, percentile 95)
+     - Energy Engineering and Power Technology (Q1, rank 16, percentile 93)
+     - Fuel Technology (Q1, rank 8, percentile 93)
+     - Pollution (Q1, rank 12, percentile 92)
+     - Energy (all) (Q1, rank 7, percentile 90)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 28, percentile 88)
+   - **Source Id:** 29348
+   - **Author Ids:** 15049159900;57191512790;57216240455;57204650870;55694009200;6603766602
+   - **Authoraffiliationids:** 60025153;60073836;60025153;60073836;60073836;60025153
+   - **Corresponding:** Bracco S.
+38.
+   - **Title:** Impact of the uncertainties of load and forecast of power production from renewables on the operating cost of a microgrid
+   - **Venue:** 2022 IEEE International Conference on Environment and Electrical Engineering and 2022 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/EEEIC/ICPSEurope54979.2022.9854540
+   - **Scopus ID:** 2-s2.0-85219490624
+   - **Authors:** La Fata Alice; Signoretti Fabio; Brignone Massimo; Bracco Stefano
+   - **Keywords:** Energy Management System | Load Forecast | Microgrid | Renewable Energy Sources
+   - **Source Id:** 21101107964
+   - **Author Ids:** 57434749400;57889864500;8580886100;15049159900
+   - **Authoraffiliationids:** 60025153;60012162;60025153;60025153
+   - **Corresponding:** La Fata A.
+39.
+   - **Title:** Real-Time Power System Laboratories at the University of Genoa
+   - **Venue:** 2022 Aeit International Annual Conference Aeit 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.23919/AEIT56783.2022.9951786
+   - **Scopus ID:** 2-s2.0-85143621135
+   - **Authors:** Bonfiglio Andrea; Bracco Stefano; D'Agostino Fabio; Delfino Federico; Laiolo Paola; Invernizzi Marco; Massucco Stefano; Procopio Renato; Saviozzi Matteo; Silvestro Federico
+   - **Keywords:** Power Laboratories | Power Systems | Real Time Simulation
+   - **Source Id:** 21101125262
+   - **Author Ids:** 36607521000;15049159900;56553864200;6603766602;56576462300;6701527755;6603357712;7801615894;56027556100;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+40.
+   - **Title:** Ensiel National Energy Transition Real Time Lab: a Novel Tool to Shape the Future Energy System
+   - **Venue:** 2022 Aeit International Annual Conference Aeit 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.23919/AEIT56783.2022.9951729
+   - **Scopus ID:** 2-s2.0-85143614787
+   - **Authors:** Benedetto Giorgio; Bompard Ettore; Mazza Andrea; Pons Enrico; Bruno Sergio; Giannoccaro Giovanni; La Scala Massimo; De Caro Fabrizio; Bonfiglio Andrea; Bracco Stefano; Invernizzi Marco; Rossi Mansueto; De Paola Antonio; Thomas Dimitrios; Kotsakis Evangelos; Fulli Gianluca; Villacci Domenico
+   - **Keywords:** Co-simulation | Control-in-the-Loop | Frequency Control | Power Hardware-in-the-Loop | Real Time Simulation | Software-in-the-Loop
+   - **Source Id:** 21101125262
+   - **Author Ids:** 57945789200;6602152775;55375438700;11339101500;7101968133;52263394500;56962766200;57197856138;36607521000;15049159900;6701527755;7403708681;55605029400;57188994200;6508183852;55924499600;6602560464
+   - **Authoraffiliationids:** 60012162;60012162;60012162;60012162;60027299;60027299;60027299;60004300;60025153;60025153;60025153;60025153;60103695;60103695;60103695;60103695;60017293
+   - **Corresponding:** Benedetto G.
+41.
+   - **Title:** Optimal planning and operation of a small size Microgrid within a Positive Energy District
+   - **Venue:** 2022 Aeit International Annual Conference Aeit 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.23919/AEIT56783.2022.9951718
+   - **Scopus ID:** 2-s2.0-85143584315
+   - **Authors:** Sawhney Abhinav; Bracco Stefano; Delfino Federico; Bonvini Barbara
+   - **Keywords:** carbon neutrality | energy management system | microgrid | optimal planning | positive energy district
+   - **Source Id:** 21101125262
+   - **Author Ids:** 57998075600;15049159900;6603766602;60067693400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Sawhney A.
+42.
+   - **Title:** Application to Real Case Studies
+   - **Venue:** Springerbriefs in Applied Sciences and Technology
+   - **Year:** 2022
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 7
+   - **DOI:** 10.1007/978-3-030-95932-6_4
+   - **Scopus ID:** 2-s2.0-85129686319
+   - **ISSN:** 2191530X
+   - **eISSN:** 21915318
+   - **Pages:** 77-120
+   - **Authors:** de Simón-Martín Miguel; Bracco Stefano; Piazza Giorgio; Pagnini Luisa Carlotta; González-Martínez Alberto; Delfino Federico
+   - **Quartile:**
+     2025:
+     - Energy Engineering and Power Technology (Q4, rank 264, percentile 19)
+     - Mathematics (all) (Q4, rank 358, percentile 13)
+     - Chemical Engineering (all) (Q4, rank 241, percentile 11)
+     - Materials Science (all) (Q4, rank 421, percentile 9)
+     - Engineering (all) (Q4, rank 314, percentile 9)
+     - Biotechnology (Q4, rank 289, percentile 9)
+     2022:
+     - Mathematics (all) (Q4, rank 302, percentile 22)
+     - Engineering (all) (Q4, rank 252, percentile 16)
+     - Energy Engineering and Power Technology (Q4, rank 211, percentile 16)
+     - Chemical Engineering (all) (Q4, rank 229, percentile 15)
+     - Biotechnology (Q4, rank 252, percentile 15)
+     - Materials Science (all) (Q4, rank 401, percentile 11)
+   - **Source Id:** 21100321695
+   - **Author Ids:** 55567581000;15049159900;57210463638;55665875600;56943231800;6603766602
+   - **Authoraffiliationids:** 60020657;60025153;60025153;60025153;60020657;60025153
+   - **Corresponding:** de Simón-Martín M.
+43.
+   - **Title:** The Role of Energy Communities in the Energy Framework
+   - **Venue:** Springerbriefs in Applied Sciences and Technology
+   - **Year:** 2022
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 4
+   - **DOI:** 10.1007/978-3-030-95932-6_2
+   - **Scopus ID:** 2-s2.0-85129659689
+   - **ISSN:** 2191530X
+   - **eISSN:** 21915318
+   - **Pages:** 7-29
+   - **Authors:** de Simón-Martín Miguel; Bracco Stefano; Piazza Giorgio; Pagnini Luisa Carlotta; González-Martínez Alberto; Delfino Federico
+   - **Quartile:**
+     2025:
+     - Energy Engineering and Power Technology (Q4, rank 264, percentile 19)
+     - Mathematics (all) (Q4, rank 358, percentile 13)
+     - Chemical Engineering (all) (Q4, rank 241, percentile 11)
+     - Materials Science (all) (Q4, rank 421, percentile 9)
+     - Engineering (all) (Q4, rank 314, percentile 9)
+     - Biotechnology (Q4, rank 289, percentile 9)
+     2022:
+     - Mathematics (all) (Q4, rank 302, percentile 22)
+     - Engineering (all) (Q4, rank 252, percentile 16)
+     - Energy Engineering and Power Technology (Q4, rank 211, percentile 16)
+     - Chemical Engineering (all) (Q4, rank 229, percentile 15)
+     - Biotechnology (Q4, rank 252, percentile 15)
+     - Materials Science (all) (Q4, rank 401, percentile 11)
+   - **Source Id:** 21100321695
+   - **Author Ids:** 55567581000;15049159900;57210463638;55665875600;56943231800;6603766602
+   - **Authoraffiliationids:** 60020657;60025153;60025153;60025153;60020657;60025153
+   - **Corresponding:** de Simón-Martín M.
+44.
+   - **Title:** Conclusions
+   - **Venue:** Springerbriefs in Applied Sciences and Technology
+   - **Year:** 2022
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-030-95932-6_5
+   - **Scopus ID:** 2-s2.0-85129619724
+   - **ISSN:** 2191530X
+   - **eISSN:** 21915318
+   - **Pages:** 121-125
+   - **Authors:** de Simón-Martín Miguel; Bracco Stefano; Piazza Giorgio; Pagnini Luisa Carlotta; González-Martínez Alberto; Delfino Federico
+   - **Quartile:**
+     2025:
+     - Energy Engineering and Power Technology (Q4, rank 264, percentile 19)
+     - Mathematics (all) (Q4, rank 358, percentile 13)
+     - Chemical Engineering (all) (Q4, rank 241, percentile 11)
+     - Materials Science (all) (Q4, rank 421, percentile 9)
+     - Engineering (all) (Q4, rank 314, percentile 9)
+     - Biotechnology (Q4, rank 289, percentile 9)
+     2022:
+     - Mathematics (all) (Q4, rank 302, percentile 22)
+     - Engineering (all) (Q4, rank 252, percentile 16)
+     - Energy Engineering and Power Technology (Q4, rank 211, percentile 16)
+     - Chemical Engineering (all) (Q4, rank 229, percentile 15)
+     - Biotechnology (Q4, rank 252, percentile 15)
+     - Materials Science (all) (Q4, rank 401, percentile 11)
+   - **Source Id:** 21100321695
+   - **Author Ids:** 55567581000;15049159900;57210463638;55665875600;56943231800;6603766602
+   - **Authoraffiliationids:** 60020657;60025153;60025153;60025153;60020657;60025153
+   - **Corresponding:** de Simón-Martín M.
+45.
+   - **Title:** Introduction
+   - **Venue:** Springerbriefs in Applied Sciences and Technology
+   - **Year:** 2022
+   - **Type:** Book Series
+   - **Subtype:** Editorial
+   - **Citations:** 1
+   - **DOI:** 10.1007/978-3-030-95932-6_1
+   - **Scopus ID:** 2-s2.0-85129608950
+   - **ISSN:** 2191530X
+   - **eISSN:** 21915318
+   - **Pages:** 1-5
+   - **Authors:** de Simón-Martín Miguel; Bracco Stefano; Piazza Giorgio; Pagnini Luisa Carlotta; González-Martínez Alberto; Delfino Federico
+   - **Quartile:**
+     2025:
+     - Energy Engineering and Power Technology (Q4, rank 264, percentile 19)
+     - Mathematics (all) (Q4, rank 358, percentile 13)
+     - Chemical Engineering (all) (Q4, rank 241, percentile 11)
+     - Materials Science (all) (Q4, rank 421, percentile 9)
+     - Engineering (all) (Q4, rank 314, percentile 9)
+     - Biotechnology (Q4, rank 289, percentile 9)
+     2022:
+     - Mathematics (all) (Q4, rank 302, percentile 22)
+     - Engineering (all) (Q4, rank 252, percentile 16)
+     - Energy Engineering and Power Technology (Q4, rank 211, percentile 16)
+     - Chemical Engineering (all) (Q4, rank 229, percentile 15)
+     - Biotechnology (Q4, rank 252, percentile 15)
+     - Materials Science (all) (Q4, rank 401, percentile 11)
+   - **Source Id:** 21100321695
+   - **Author Ids:** 55567581000;15049159900;57210463638;55665875600;56943231800;6603766602
+   - **Authoraffiliationids:** 60020657;60025153;60025153;60025153;60020657;60025153
+   - **Corresponding:** de Simón-Martín M.
+46.
+   - **Title:** The Levelized Cost of Energy Indicator
+   - **Venue:** Springerbriefs in Applied Sciences and Technology
+   - **Year:** 2022
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 5
+   - **DOI:** 10.1007/978-3-030-95932-6_3
+   - **Scopus ID:** 2-s2.0-85129577110
+   - **ISSN:** 2191530X
+   - **eISSN:** 21915318
+   - **Pages:** 31-76
+   - **Authors:** de Simón-Martín Miguel; Bracco Stefano; Piazza Giorgio; Pagnini Luisa Carlotta; González-Martínez Alberto; Delfino Federico
+   - **Quartile:**
+     2025:
+     - Energy Engineering and Power Technology (Q4, rank 264, percentile 19)
+     - Mathematics (all) (Q4, rank 358, percentile 13)
+     - Chemical Engineering (all) (Q4, rank 241, percentile 11)
+     - Materials Science (all) (Q4, rank 421, percentile 9)
+     - Engineering (all) (Q4, rank 314, percentile 9)
+     - Biotechnology (Q4, rank 289, percentile 9)
+     2022:
+     - Mathematics (all) (Q4, rank 302, percentile 22)
+     - Engineering (all) (Q4, rank 252, percentile 16)
+     - Energy Engineering and Power Technology (Q4, rank 211, percentile 16)
+     - Chemical Engineering (all) (Q4, rank 229, percentile 15)
+     - Biotechnology (Q4, rank 252, percentile 15)
+     - Materials Science (all) (Q4, rank 401, percentile 11)
+   - **Source Id:** 21100321695
+   - **Author Ids:** 55567581000;15049159900;57210463638;55665875600;56943231800;6603766602
+   - **Authoraffiliationids:** 60020657;60025153;60025153;60025153;60020657;60025153
+   - **Corresponding:** de Simón-Martín M.
+47.
+   - **Title:** Electrification of lpt in algeciras bay: A new methodology to assess the consumption of an equivalent e-bus
+   - **Venue:** Energies
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.3390/en14165117
+   - **Scopus ID:** 2-s2.0-85113344066
+   - **eISSN:** 19961073
+   - **Volume:** 14
+   - **Issue:** 16
+   - **Authors:** Leone Carola; Piazza Giorgio; Longo Michela; Bracco Stefano
+   - **Keywords:** Charging infrastructure | Electric bus consumption | Electric heavy-duty vehicles | Local public transport | Simulation
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2021:
+     - Control and Optimization (Q1, rank 18, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 19, percentile 83)
+     - Subject (Q1, rank 51, percentile 76)
+     - Energy (miscellaneous) (Q2, rank 10, percentile 72)
+     - Electrical and Electronic Engineering (Q2, rank 201, percentile 71)
+     - Energy Engineering and Power Technology (Q2, rank 73, percentile 69)
+     - Fuel Technology (Q2, rank 38, percentile 65)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 58)
+   - **Source Id:** 62932
+   - **Author Ids:** 57204720688;57210463638;37023170900;15049159900
+   - **Authoraffiliationids:** 60023256;60025153;60023256;60025153
+   - **Corresponding:** Leone C.
+48.
+   - **Title:** Key performance indicators for an energy community based on sustainable technologies
+   - **Venue:** Sustainability Switzerland
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 32
+   - **DOI:** 10.3390/su13168789
+   - **Scopus ID:** 2-s2.0-85112342761
+   - **eISSN:** 20711050
+   - **Volume:** 13
+   - **Issue:** 16
+   - **Authors:** Bianco Giovanni; Bonvini Barbara; Bracco Stefano; Delfino Federico; Laiolo Paola; Piazza Giorgio
+   - **Keywords:** Energy community | Energy efficiency | Hydrogen | Microgrid | Photovoltaics | Renewable energy | Storage | Sustainable energy | Wind
+   - **Quartile:**
+     2025:
+     - Geography, Planning and Development (Q1, rank 70, percentile 91)
+     - Environmental Science (miscellaneous) (Q1, rank 37, percentile 87)
+     - Computer Science (miscellaneous) (Q1, rank 24, percentile 86)
+     - Management, Monitoring, Policy and Law (Q1, rank 61, percentile 85)
+     - Computer Networks and Communications (Q1, rank 89, percentile 83)
+     - Hardware and Architecture (Q1, rank 46, percentile 80)
+     - Energy Engineering and Power Technology (Q1, rank 65, percentile 80)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 96, percentile 69)
+     2021:
+     - Geography, Planning and Development (Q1, rank 99, percentile 86)
+     - Environmental Science (miscellaneous) (Q1, rank 20, percentile 85)
+     - Computer Science (miscellaneous) (Q1, rank 15, percentile 83)
+     - Subject (Q1, rank 50, percentile 76)
+     - Management, Monitoring, Policy and Law (Q1, rank 92, percentile 75)
+     - Computer Networks and Communications (Q2, rank 105, percentile 70)
+     - Energy Engineering and Power Technology (Q2, rank 72, percentile 69)
+     - Hardware and Architecture (Q2, rank 56, percentile 66)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 89, percentile 58)
+   - **Source Id:** 21100240100
+   - **Author Ids:** 57216240455;60067693400;15049159900;6603766602;56576462300;57210463638
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bianco G.
+49.
+   - **Title:** Short-term power forecasting framework for microgrids using combined baseline and regression models
+   - **Venue:** Applied Sciences Switzerland
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.3390/app11146420
+   - **Scopus ID:** 2-s2.0-85110872574
+   - **eISSN:** 20763417
+   - **Volume:** 11
+   - **Issue:** 14
+   - **Authors:** Parejo Antonio; Bracco Stefano; Personal Enrique; Larios Diego Francisco; Delfino Federico; León Carlos
+   - **Keywords:** Artificial neural networks | Microgrids | Multistep forecasting | Renewable energy sources | Short-term forecasting | Smart grids
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 69, percentile 80)
+     - Instrumentation (Q1, rank 38, percentile 80)
+     - Fluid Flow and Transfer Processes (Q1, rank 21, percentile 79)
+     - Computer Science Applications (Q2, rank 294, percentile 70)
+     - Materials Science (all) (Q2, rank 166, percentile 64)
+     - Process Chemistry and Technology (Q2, rank 34, percentile 55)
+     2021:
+     - Engineering (all) (Q2, rank 81, percentile 73)
+     - Instrumentation (Q2, rank 52, percentile 62)
+     - Computer Science Applications (Q2, rank 301, percentile 59)
+     - Fluid Flow and Transfer Processes (Q2, rank 37, percentile 58)
+     - Materials Science (all) (Q2, rank 219, percentile 51)
+     - Process Chemistry and Technology (Q3, rank 32, percentile 48)
+   - **Source Id:** 21100829268
+   - **Author Ids:** 55293637400;15049159900;57194517010;40661668800;6603766602;24724405600
+   - **Authoraffiliationids:** 60033284;60025153;60033284;60033284;60025153;60033284
+   - **Corresponding:** Parejo A.
+50.
+   - **Title:** Optimal design of electric mobility services for a Local Energy Community
+   - **Venue:** Sustainable Energy Grids and Networks
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 37
+   - **DOI:** 10.1016/j.segan.2021.100440
+   - **Scopus ID:** 2-s2.0-85100638236
+   - **eISSN:** 23524677
+   - **Volume:** 26
+   - **Authors:** Piazza G.; Bracco S.; Delfino F.; Siri S.
+   - **Keywords:** Bike sharing | Car sharing | Electric mobility services | Electric shuttle | Local energy community | MILP model | Optimization | Renewables | Storage
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 131, percentile 86)
+     - Control and Systems Engineering (Q1, rank 52, percentile 86)
+     - Energy Engineering and Power Technology (Q1, rank 63, percentile 80)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 71)
+     2021:
+     - Electrical and Electronic Engineering (Q1, rank 131, percentile 81)
+     - Control and Systems Engineering (Q1, rank 54, percentile 80)
+     - Energy Engineering and Power Technology (Q1, rank 50, percentile 78)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 63, percentile 70)
+   - **Source Id:** 21100371258
+   - **Author Ids:** 57210463638;15049159900;6603766602;23010350500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60121711
+   - **Corresponding:** Piazza G.
+51.
+   - **Title:** Simulation Models for the Evaluation of Energy Consumptions of Electric Buses in Different Urban Traffic Scenarios
+   - **Venue:** 2021 16th International Conference on Ecological Vehicles and Renewable Energies Ever 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/EVER52347.2021.9456661
+   - **Scopus ID:** 2-s2.0-85113306206
+   - **Authors:** Bracco Stefano; Bianco Giovanni; Siri Silvia; Barbagelata Cecilia; Casati Consuelo; Siri Enrico
+   - **Keywords:** driver behaviour | electric bus | energy consumption | sensitivity analysis | traffic
+   - **Source Id:** 21101056809
+   - **Author Ids:** 15049159900;57216240455;23010350500;57227617900;57228161700;57218713171
+   - **Authoraffiliationids:** 60025153;60025153;60121711;60121711;60121711;60121711
+   - **Corresponding:** Bracco S.
+52.
+   - **Title:** Optimization-based reliability assessment of multi-energy systems
+   - **Venue:** Proceedings of the 31st European Safety and Reliability Conference Esrel 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.3850/978-981-18-2016-8_491-cd
+   - **Scopus ID:** 2-s2.0-85135487530
+   - **Pages:** 1676-1682
+   - **Authors:** Wu Raphael; Bussino Emanuela; Bracco Stefano; Siri Silvia; Gabrielli Paolo; Sansavini Giovanni
+   - **Keywords:** Alternating renewal process | Multi-Energy System | Optimization | Reliability | Uninterrupted supply
+   - **Source Id:** 21101100101
+   - **Author Ids:** 57192910356;57832283800;15049159900;23010350500;58707851000;24333140600
+   - **Authoraffiliationids:** 60025858;60025858;60025153;60121711;60121711;60121711
+   - **Corresponding:** Wu R.
+53.
+   - **Title:** Optimization of low-carbon multi-energy systems with seasonal geothermal energy storage: The Anergy Grid of ETH Zurich
+   - **Venue:** Energy Conversion and Management X
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 52
+   - **DOI:** 10.1016/j.ecmx.2020.100052
+   - **Scopus ID:** 2-s2.0-85090409187
+   - **eISSN:** 25901745
+   - **Volume:** 8
+   - **Authors:** Gabrielli Paolo; Acquilino Alberto; Siri Silvia; Bracco Stefano; Sansavini Giovanni; Mazzotti Marco
+   - **Keywords:** Energy networks | Geothermal storage | MINLP | Multi-energy systems | Seasonal storage | Yearly scheduling
+   - **Quartile:**
+     2025:
+     - Nuclear Energy and Engineering (Q1, rank 6, percentile 93)
+     - Energy Engineering and Power Technology (Q1, rank 41, percentile 87)
+     - Fuel Technology (Q1, rank 27, percentile 80)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 66, percentile 78)
+     2020:
+     - Nuclear Energy and Engineering (Q1, rank 13, percentile 81)
+     - Energy Engineering and Power Technology (Q2, rank 75, percentile 66)
+     - Fuel Technology (Q2, rank 40, percentile 60)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 81, percentile 58)
+   - **Source Id:** 21100896269
+   - **Author Ids:** 58707851000;57218847075;23010350500;15049159900;24333140600;7005206227
+   - **Authoraffiliationids:** 60025858;60025858;60121711;60025153;60025858;60025858
+   - **Corresponding:** Gabrielli P.
+54.
+   - **Title:** Opportunity fast-charging of e-buses: A preliminary study for the city of Savona
+   - **Venue:** 2020 Aeit International Conference of Electrical and Electronic Technologies for Automotive Aeit Automotive 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-85099676932
+   - **Authors:** Leone Carola; Longo Michela; Foiadelli Federica; Bracco Stefano; Piazza Giorgio; Delfino Federico
+   - **Keywords:** E-mobility | Electric bus | Opportunity charging | Public transport
+   - **Source Id:** 21101034134
+   - **Author Ids:** 57204720688;37023170900;22834091600;15049159900;57210463638;6603766602
+   - **Authoraffiliationids:** 60023256;60023256;60023256;60025153;60025153;60025153
+   - **Corresponding:** Leone C.
+55.
+   - **Title:** A study for the optimal exploitation of solar, wind and hydro resources and electrical storage systems in the bormida valley in the North of Italy
+   - **Venue:** Energies
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.3390/en13205291
+   - **Scopus ID:** 2-s2.0-85093362938
+   - **eISSN:** 19961073
+   - **Volume:** 13
+   - **Issue:** 20
+   - **Authors:** Bracco Stefano
+   - **Keywords:** Hydro | Loads | Optimization | Renewable energy | Solar | Storage batteries | Wind
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2020:
+     - Control and Optimization (Q1, rank 17, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 13, percentile 83)
+     - Electrical and Electronic Engineering (Q2, rank 183, percentile 73)
+     - Energy (miscellaneous) (Q2, rank 7, percentile 72)
+     - Energy Engineering and Power Technology (Q2, rank 62, percentile 72)
+     - Fuel Technology (Q2, rank 33, percentile 67)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 69, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 15049159900
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Bracco S.
+56.
+   - **Title:** E-Mobility Microgrid Laboratory at the Savona Campus of Genova University
+   - **Venue:** 12th Aeit International Annual Conference Aeit 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.23919/AEIT50178.2020.9241138
+   - **Scopus ID:** 2-s2.0-85097136612
+   - **Authors:** Bracco Stefano; Delfino Federico; Piazza Giorgio
+   - **Keywords:** e-mobitity | microgrid | optimization | prosumer building | V2B | V2G
+   - **Source Id:** 21101029719
+   - **Author Ids:** 15049159900;6603766602;57210463638
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bracco S.
+57.
+   - **Title:** Smart Charging of Electric Vehicles to Minimize Renewable Power Curtailment in Polygeneration Prosumer Buildings
+   - **Venue:** 2020 15th International Conference on Ecological Vehicles and Renewable Energies Ever 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/EVER48776.2020.9243112
+   - **Scopus ID:** 2-s2.0-85096671744
+   - **Authors:** De Simon-Martin Miguel; De La Puente-Gil Alvaro; Juan Blanes-Peiro Jorge; Bracco Stefano; Delfino Federico; Piazza Giorgio
+   - **Keywords:** Electric vehicles | nanogrids | power curtailment | prosumer buildings | renewable energy | smart charging
+   - **Source Id:** 21101028404
+   - **Author Ids:** 55567581000;57194462807;57190424813;15049159900;6603766602;57210463638
+   - **Authoraffiliationids:** 60020657;60020657;60020657;60025153;60025153;60025153
+   - **Corresponding:** De Simon-Martin M.
+58.
+   - **Title:** V2G technology to mitigate PV uncertainties
+   - **Venue:** 2020 15th International Conference on Ecological Vehicles and Renewable Energies Ever 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/EVER48776.2020.9242991
+   - **Scopus ID:** 2-s2.0-85096651698
+   - **Authors:** Bracco Stefano; Delfino Federico; Piazza Giorgio; De Simon-Martin Miguel
+   - **Keywords:** data analysis | electric vehicles | PV estimation | PVGIS | V2G
+   - **Source Id:** 21101028404
+   - **Author Ids:** 15049159900;6603766602;57210463638;55567581000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60020657
+   - **Corresponding:** Bracco S.
+59.
+   - **Title:** A Building Energy Management System for demand response in smart grids
+   - **Venue:** IEEE International Conference on Automation Science and Engineering
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/CASE48305.2020.9216880
+   - **Scopus ID:** 2-s2.0-85094176741
+   - **ISSN:** 21618070
+   - **eISSN:** 21618089
+   - **Volume:** 2020-August
+   - **Pages:** 1485-1490
+   - **Authors:** Bianco G.; Bracco S.; Delfino F.; Gambelli L.; Robba M.; Rossi M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 600, percentile 39)
+     - Control and Systems Engineering (Q3, rank 240, percentile 37)
+   - **Source Id:** 20500195424
+   - **Author Ids:** 57216240455;15049159900;6603766602;57216240444;7004979187;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bianco G.
+60.
+   - **Title:** Sustainable microgrids with energy storage as a means to increase power resilience in critical facilities: An application to a hospital
+   - **Venue:** International Journal of Electrical Power and Energy Systems
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 113
+   - **DOI:** 10.1016/j.ijepes.2020.105865
+   - **Scopus ID:** 2-s2.0-85078154401
+   - **ISSN:** 01420615
+   - **Volume:** 119
+   - **Authors:** Lagrange Alexis; de Simón-Martín Miguel; González-Martínez Alberto; Bracco Stefano; Rosales-Asensio Enrique
+   - **Keywords:** Batteries | Energy resilience | Hospital | Microgrids | Solar photovoltaics
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 57, percentile 94)
+     - Energy Engineering and Power Technology (Q1, rank 25, percentile 92)
+     2020:
+     - Electrical and Electronic Engineering (Q1, rank 91, percentile 86)
+     - Energy Engineering and Power Technology (Q1, rank 33, percentile 85)
+   - **Source Id:** 17985
+   - **Author Ids:** 57214073820;55567581000;56943231800;15049159900;56606316400
+   - **Authoraffiliationids:** 60012570-60020657;60020657;60020657;60025153;60020657
+   - **Corresponding:** Lagrange A.
+61.
+   - **Title:** A Demand Response Energy Management System (DR-EMS) for sustainable district
+   - **Venue:** 7th International Conference on Control Decision and Information Technologies Codit 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/CoDIT49905.2020.9263796
+   - **Scopus ID:** 2-s2.0-85098246709
+   - **Pages:** 551-556
+   - **Authors:** Bianco Giovanni; Bracco Stefano; Delfino Federico; Ferro Giulio; Parodi Luca; Robba Michela; Rossi Mansueto
+   - **Source Id:** 21101032762
+   - **Author Ids:** 57216240455;15049159900;6603766602;57062015700;57215421077;7004979187;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bianco G.
+62.
+   - **Title:** Energy Management System for Pulau Ubin Islanded Microgrid Test-bed in Singapore
+   - **Venue:** Proceedings 2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/EEEIC/ICPSEurope49358.2020.9160658
+   - **Scopus ID:** 2-s2.0-85090423062
+   - **Authors:** Bertolotti Valentina; Procopio Renato; Rosini Alessandro; Bracco Stefano; Delfino Federico; Soh Chew Beng; Cao Shuyu; Wei Feng
+   - **Keywords:** Islanded Microgrid | power optimization | Pulau Ubin
+   - **Source Id:** 21101021268
+   - **Author Ids:** 57218843174;7801615894;57204050700;15049159900;6603766602;35202127400;7202703635;50062108000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;100379158;100379158;100379158
+   - **Corresponding:** Bertolotti V.
+63.
+   - **Title:** Electricity Spot Prices Forecasting for MIBEL by using Deep Learning: A comparison between NAR, NARX and LSTM networks
+   - **Venue:** Proceedings 2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/EEEIC/ICPSEurope49358.2020.9160587
+   - **Scopus ID:** 2-s2.0-85090413898
+   - **Authors:** De Simon-Martin Miguel; Bracco Stefano; Rosales-Asensio Enrique; Piazza Giorgio; Delfino Federico; Giribone Pier Giuseppe
+   - **Keywords:** Deep Learning Dynamic Neural Networks | Electricity Markets | Electricity Price Forecasting | LSTM | NAR | NARX | Time Series
+   - **Source Id:** 21101021268
+   - **Author Ids:** 55567581000;15049159900;56606316400;57210463638;6603766602;59016027900
+   - **Authoraffiliationids:** 60020657;60020657;60025153;60025153;60025153;60025153
+   - **Corresponding:** De Simon-Martin M.
+64.
+   - **Title:** Hydrogen as an energy vector to optimize the energy exploitation of a self-consumption solar photovoltaic facility in a dwelling house
+   - **Venue:** Energy Reports
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1016/j.egyr.2019.10.034
+   - **Scopus ID:** 2-s2.0-85074538541
+   - **eISSN:** 23524847
+   - **Volume:** 6
+   - **Pages:** 155-166
+   - **Authors:** Martín-García Íñigo; Rosales-Asensio Enrique; González-Martínez Alberto; Bracco Stefano; Delfino Federico; de Simón-Martín Miguel
+   - **Keywords:** Energy vector | Hydrogen | Nano-grids | Power storage | Smart grids | Solar photovoltaics
+   - **Quartile:**
+     2025:
+     - Energy (all) (Q1, rank 11, percentile 86)
+     2020:
+     - Energy (all) (Q2, rank 25, percentile 62)
+   - **Source Id:** 21100389511
+   - **Author Ids:** 57211586835;56606316400;56943231800;15049159900;6603766602;55567581000
+   - **Authoraffiliationids:** 60020657;60020657;60020657;60025153;60025153;60020657
+   - **Corresponding:** Martín-García Í.
+65.
+   - **Title:** A building energy management system based on an equivalent electric circuit model
+   - **Venue:** Energies
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.3390/en13071689
+   - **Scopus ID:** 2-s2.0-85082884408
+   - **eISSN:** 19961073
+   - **Volume:** 13
+   - **Issue:** 7
+   - **Authors:** Bianco Giovanni; Bracco Stefano; Delfino Federico; Gambelli Lorenzo; Robba Michela; Rossi Mansueto
+   - **Keywords:** Building energy management system | Equivalent electric circuit | Optimization | Simulation
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2020:
+     - Control and Optimization (Q1, rank 17, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 13, percentile 83)
+     - Electrical and Electronic Engineering (Q2, rank 183, percentile 73)
+     - Energy (miscellaneous) (Q2, rank 7, percentile 72)
+     - Energy Engineering and Power Technology (Q2, rank 62, percentile 72)
+     - Fuel Technology (Q2, rank 33, percentile 67)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 69, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 57216240455;15049159900;6603766602;57216240444;7004979187;7403708681
+   - **Authoraffiliationids:** 60025153-60121711;60025153;60025153;60025153;60121711;60025153
+   - **Corresponding:** Bianco G.
+66.
+   - **Title:** Design of a sustainable polygeneration microgrid for the retrofitting of an industrial site: Ansaldo Energia case study
+   - **Venue:** E3s Web of Conferences
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1051/e3sconf/201911303009
+   - **Scopus ID:** 2-s2.0-85071867297
+   - **ISSN:** 25550403
+   - **eISSN:** 22671242
+   - **Volume:** 113
+   - **Authors:** Bianchi Enrico; Bracco Stefano; Cannizzaro Fabio; Delfino Federico; Giacchino Alessandro
+   - **Source Id:** 21100795900
+   - **Author Ids:** 57191512790;15049159900;57210914509;6603766602;57204650870
+   - **Authoraffiliationids:** 60073836;60025153;60025153;60025153;60073836
+   - **Corresponding:** Bianchi E.
+67.
+   - **Title:** Evaluating LCOE in sustainable microgrids for smart city applications
+   - **Venue:** E3s Web of Conferences
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1051/e3sconf/201911303006
+   - **Scopus ID:** 2-s2.0-85071835988
+   - **ISSN:** 25550403
+   - **eISSN:** 22671242
+   - **Volume:** 113
+   - **Authors:** Bracco Stefano; Delfino Federico; Laiolo Paola; Pagnini Luisa; Piazza Giorgio
+   - **Source Id:** 21100795900
+   - **Author Ids:** 15049159900;6603766602;56576462300;55665875600;57210463638
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bracco S.
+68.
+   - **Title:** Nanogrids with renewable sources, electrical storage and vehicle-to-home systems in the household sector: Analysis for a single-family dwelling
+   - **Venue:** 2019 IEEE Milan Powertech Powertech 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/PTC.2019.8810757
+   - **Scopus ID:** 2-s2.0-85072340311
+   - **Authors:** Bracco Stefano; Delfino Federico; Piazza Giorgio; Foiadelli Federica; Longo Michela
+   - **Keywords:** Electrical loads | Nanogrids | Photovoltaics | Storage system | Vehicle-to-home
+   - **Source Id:** 21100929352
+   - **Author Ids:** 15049159900;6603766602;57210463638;22834091600;37023170900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60023256;60023256
+   - **Corresponding:** Bracco S.
+69.
+   - **Title:** Integration of electric mobility services within an existing polygeneration microgrid
+   - **Venue:** Proceedings 2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/EEEIC.2019.8783664
+   - **Scopus ID:** 2-s2.0-85070834824
+   - **Authors:** Piazza G.; Bracco S.; Siri S.; Delfino F.
+   - **Source Id:** 21100924363
+   - **Author Ids:** 57210463638;15049159900;23010350500;6603766602
+   - **Authoraffiliationids:** 60025153;60025153;60121711;60025153
+   - **Corresponding:** Piazza G.
+70.
+   - **Title:** A flexible test-bed pilot facility for the analysis and simulation of Smart Microgrids
+   - **Venue:** Proceedings 2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/EEEIC.2019.8783875
+   - **Scopus ID:** 2-s2.0-85070807380
+   - **Authors:** De Simón-Martín Miguel; Bracco Stefano; Rossi Mansueto; Delfino Federico; González-Martínez Alberto; Blanes-Peiró Jorge Juan
+   - **Keywords:** key performance indicator | LCOE | living laboratory | microgrid | polygeneration
+   - **Source Id:** 21100924363
+   - **Author Ids:** 55567581000;15049159900;7403708681;6603766602;56943231800;57190424813
+   - **Authoraffiliationids:** 60020657;60025153;60025153;60025153;60020657;60020657
+   - **Corresponding:** De Simón-Martín M.
+71.
+   - **Title:** On the integration of solar PV and storage batteries within a microgrid
+   - **Venue:** Proceedings 2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/EEEIC.2019.8783861
+   - **Scopus ID:** 2-s2.0-85070802080
+   - **Authors:** Bracco Stefano; Delfino Federico; Foiadelli Federica; Longo Michela
+   - **Keywords:** management | microgrid | optimization | photovoltaic | storage
+   - **Source Id:** 21100924363
+   - **Author Ids:** 15049159900;6603766602;22834091600;37023170900
+   - **Authoraffiliationids:** 60025153;60025153;60023256;60023256
+   - **Corresponding:** Bracco S.
+72.
+   - **Title:** Electric Vehicles and Storage Systems Integrated within a Sustainable Urban District Fed by Solar Energy
+   - **Venue:** Journal of Advanced Transportation
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1155/2019/9572746
+   - **Scopus ID:** 2-s2.0-85077499599
+   - **ISSN:** 01976729
+   - **eISSN:** 20423195
+   - **Volume:** 2019
+   - **Authors:** Bracco Stefano; Delfino Federico; Longo Michela; Siri Silvia
+   - **Quartile:**
+     2025:
+     - Economics and Econometrics (Q1, rank 172, percentile 76)
+     - Automotive Engineering (Q1, rank 33, percentile 75)
+     - Mechanical Engineering (Q2, rank 201, percentile 72)
+     - Computer Science Applications (Q2, rank 315, percentile 67)
+     - Strategy and Management (Q2, rank 180, percentile 64)
+     2019:
+     - Economics and Econometrics (Q1, rank 151, percentile 76)
+     - Automotive Engineering (Q2, rank 26, percentile 71)
+     - Strategy and Management (Q2, rank 131, percentile 69)
+     - Mechanical Engineering (Q2, rank 202, percentile 65)
+     - Computer Science Applications (Q2, rank 263, percentile 58)
+   - **Source Id:** 18895
+   - **Author Ids:** 15049159900;6603766602;37023170900;23010350500
+   - **Authoraffiliationids:** 60025153;60025153;60023256;60121711
+   - **Corresponding:** Bracco S.
+73.
+   - **Title:** A simplified study for reactive power management in autonomous microgrids
+   - **Venue:** Wseas Transactions on Power Systems
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **Scopus ID:** 2-s2.0-85076252294
+   - **ISSN:** 17905060
+   - **eISSN:** 2224350X
+   - **Volume:** 14
+   - **Pages:** 107-112
+   - **Authors:** Rosini A.; Bonfiglio A.; Mestriner D.; Minetti M.; Bracco S.
+   - **Keywords:** Autonomous microgrids | Microgrids | Power electronic converters | Power management | Reactive power | Voltage control
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q3, rank 240, percentile 41)
+     - Electrical and Electronic Engineering (Q3, rank 621, percentile 37)
+     2019:
+     - Subject (Q2, rank 456, percentile 54)
+     - Subject (Q3, rank 128, percentile 36)
+     - Subject (Q3, rank 259, percentile 34)
+     - Subject (Q3, rank 912, percentile 26)
+     - Industrial and Manufacturing Engineering (Q4, rank 261, percentile 23)
+   - **Source Id:** 19700190300
+   - **Author Ids:** 57204050700;36607521000;57115575100;57210474295;15049159900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Rosini A.
+74.
+   - **Title:** The University of Genoa Smart City Demo Site
+   - **Venue:** 2018 110th Aeit International Annual Conference Aeit 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.23919/AEIT.2018.8577374
+   - **Scopus ID:** 2-s2.0-85060314528
+   - **Authors:** Bracco Stefano; Brignone Massimo; Delfino Federico; Laiolo Paola; Procopio Renato
+   - **Keywords:** Energy Island | Living Lab | Smart City | Sustainability | Sustainable Energy
+   - **Source Id:** 21100895607
+   - **Author Ids:** 15049159900;8580886100;6603766602;56576462300;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bracco S.
+75.
+   - **Title:** Planning & open-air demonstrating smart city sustainable districts
+   - **Venue:** Sustainability Switzerland
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 45
+   - **DOI:** 10.3390/su10124636
+   - **Scopus ID:** 2-s2.0-85058030650
+   - **eISSN:** 20711050
+   - **Volume:** 10
+   - **Issue:** 12
+   - **Authors:** Bracco Stefano; Delfino Federico; Laiolo Paola; Morini Andrea
+   - **Keywords:** Living lab | Smart city | Sustainability | Sustainable energy | Sustainable environment | Wellbeing
+   - **Quartile:**
+     2025:
+     - Geography, Planning and Development (Q1, rank 70, percentile 91)
+     - Environmental Science (miscellaneous) (Q1, rank 37, percentile 87)
+     - Computer Science (miscellaneous) (Q1, rank 24, percentile 86)
+     - Management, Monitoring, Policy and Law (Q1, rank 61, percentile 85)
+     - Computer Networks and Communications (Q1, rank 89, percentile 83)
+     - Hardware and Architecture (Q1, rank 46, percentile 80)
+     - Energy Engineering and Power Technology (Q1, rank 65, percentile 80)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 96, percentile 69)
+     2018:
+     - Geography, Planning and Development (Q1, rank 143, percentile 78)
+     - Management, Monitoring, Policy and Law (Q2, rank 110, percentile 64)
+     - Renewable Energy, Sustainability and the Environment (Q3, rank 81, percentile 49)
+   - **Source Id:** 21100240100
+   - **Author Ids:** 15049159900;6603766602;56576462300;7006658135
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bracco S.
+76.
+   - **Title:** Creation of hubs for sustainable mobility
+   - **Venue:** Proceedings 2018 2nd European Conference on Electrical Engineering and Computer Science Eecs 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EECS.2018.00061
+   - **Scopus ID:** 2-s2.0-85076374017
+   - **Pages:** 296-301
+   - **Authors:** Bracco Stefano; Longo Michela; Pastorelli Andrea; Ramundo Samuele
+   - **Keywords:** Accessibility | Electric Vehicles | Hub | Mobility | Multimodal Transport
+   - **Source Id:** 21100938711
+   - **Author Ids:** 15049159900;37023170900;57212273158;57212268137
+   - **Authoraffiliationids:** 60025153;60023256;60023256;60023256
+   - **Corresponding:** Bracco S.
+77.
+   - **Title:** An Optimization Model for Polygeneration Microgrids with Renewables, Electrical and Thermal Storage: Application to the Savona Campus
+   - **Venue:** Proceedings 2018 IEEE International Conference on Environment and Electrical Engineering and 2018 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/EEEIC.2018.8493965
+   - **Scopus ID:** 2-s2.0-85056538673
+   - **Authors:** Bracco Stefano; Brignone Massimo; Delfino Federico; Pampararo Fabio; Rossi Mansueto; Ferro Giulio; Robba Michela
+   - **Keywords:** Demand response | district heating | polygeneration microgrids | renewable energy | thermal storage
+   - **Source Id:** 21100885800
+   - **Author Ids:** 15049159900;8580886100;6603766602;36782697700;7403708681;57062015700;7004979187
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60121711;60121711
+   - **Corresponding:** Bracco S.
+78.
+   - **Title:** Towards the New Concept of Smart Roads: Regulatory Framework and Emerging Projects Overview
+   - **Venue:** 2018 International Conference of Electrical and Electronic Technologies for Automotive Automotive 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.23919/EETA.2018.8493237
+   - **Scopus ID:** 2-s2.0-85056892310
+   - **Authors:** Franzo Simone; Latilla Vito Manfredi; Longo Michela; Bracco Stefano
+   - **Keywords:** Intelligent Transport Systems | regulation | Smart road
+   - **Source Id:** 21100886522
+   - **Author Ids:** 57188845753;57191667877;37023170900;15049159900
+   - **Authoraffiliationids:** 60023256;60023256;60023256;60025153
+   - **Corresponding:** Franzo S.
+79.
+   - **Title:** Energy planning of sustainable districts: Towards the exploitation of small size intermittent renewables in urban areas
+   - **Venue:** Applied Energy
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 57
+   - **DOI:** 10.1016/j.apenergy.2018.07.074
+   - **Scopus ID:** 2-s2.0-85050277949
+   - **ISSN:** 03062619
+   - **Volume:** 228
+   - **Pages:** 2288-2297
+   - **Authors:** Bracco Stefano; Delfino Federico; Ferro Giulio; Pagnini Luisa; Robba Michela; Rossi Mansueto
+   - **Keywords:** Cogeneration | Distributed resources | Optimal planning | Renewable energy | Smart district
+   - **Quartile:**
+     2025:
+     - Management, Monitoring, Policy and Law (Q1, rank 6, percentile 98)
+     - Mechanical Engineering (Q1, rank 14, percentile 98)
+     - Building and Construction (Q1, rank 5, percentile 98)
+     - Energy (all) (Q1, rank 5, percentile 94)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 22, percentile 93)
+     2018:
+     - Building and Construction (Q1, rank 1, percentile 99)
+     - Management, Monitoring, Policy and Law (Q1, rank 2, percentile 99)
+     - Energy (all) (Q1, rank 1, percentile 99)
+     - Mechanical Engineering (Q1, rank 7, percentile 98)
+   - **Source Id:** 28801
+   - **Author Ids:** 15049159900;6603766602;57062015700;55665875600;7004979187;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bracco S.
+80.
+   - **Title:** Electrical storage systems based on Sodium/Nickel chloride batteries: A mathematical model for the cell electrical parameter evaluation validated on a real smart microgrid application
+   - **Venue:** Journal of Power Sources
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 29
+   - **DOI:** 10.1016/j.jpowsour.2018.07.115
+   - **Scopus ID:** 2-s2.0-85050926097
+   - **ISSN:** 03787753
+   - **Volume:** 399
+   - **Pages:** 372-382
+   - **Authors:** Bracco Stefano; Delfino Federico; Trucco Angela; Zin Stefano
+   - **Keywords:** Electrical storage systems | Electrochemical cell model | Experimental validation | Smart microgrid | Sodium/Nickel chloride batteries
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 71, percentile 92)
+     - Energy Engineering and Power Technology (Q1, rank 33, percentile 90)
+     - Physical and Theoretical Chemistry (Q1, rank 21, percentile 89)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 57, percentile 81)
+     2018:
+     - Energy Engineering and Power Technology (Q1, rank 4, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 15, percentile 97)
+     - Physical and Theoretical Chemistry (Q1, rank 7, percentile 95)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 10, percentile 94)
+   - **Source Id:** 18063
+   - **Author Ids:** 15049159900;6603766602;8135855700;57188586312
+   - **Authoraffiliationids:** 60025153;60025153;60025153;116728375
+   - **Corresponding:** Bracco S.
+81.
+   - **Title:** Optimization model for the design of a smart energy infrastructure with electric mobility
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1016/j.ifacol.2018.07.033
+   - **Scopus ID:** 2-s2.0-85050157313
+   - **eISSN:** 24058963
+   - **Volume:** 51
+   - **Issue:** 9
+   - **Pages:** 200-205
+   - **Authors:** Bracco S.; Cancemi C.; Causa F.; Longo M.; Siri S.
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q3, rank 218, percentile 42)
+     2018:
+     - Control and Systems Engineering (Q3, rank 161, percentile 32)
+   - **Author Ids:** 15049159900;57192254805;57202993153;37023170900;23010350500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60023256;60121711
+   - **Corresponding:** Bracco S.
+82.
+   - **Title:** A simple strategy to optimally design and manage a photovoltaic plant integrated with a storage system for different applications
+   - **Venue:** 2017 Aeit International Annual Conference Infrastructures for Energy and ICT Opportunities for Fostering Innovation Aeit 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/AEIT.2017.8240515
+   - **Scopus ID:** 2-s2.0-85045936906
+   - **Volume:** 2017-January
+   - **Pages:** 1-6
+   - **Authors:** Bracco Stefano; Brignone Massimo; Delfino Federico; Girdinio Paola; Laiolo Paola; Procopio Renato; Rossi Mansueto
+   - **Keywords:** management | optimization | photovoltaic | planning | storage
+   - **Source Id:** 21100858105
+   - **Author Ids:** 15049159900;8580886100;6603766602;7003430835;56576462300;7801615894;7403708681
+   - **Authoraffiliationids:** 120591612;120591612;120591612-60025153;120591612;60025153;60025153;120591612
+   - **Corresponding:** Bracco S.
+83.
+   - **Title:** An energy management system for the savona campus smart polygeneration microgrid
+   - **Venue:** IEEE Systems Journal
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 62
+   - **DOI:** 10.1109/JSYST.2015.2419273
+   - **Scopus ID:** 2-s2.0-85030477023
+   - **ISSN:** 19328184
+   - **eISSN:** 19379234
+   - **Volume:** 11
+   - **Issue:** 3
+   - **Pages:** 1799-1809
+   - **Authors:** Bracco Stefano; Brignone Massimo; Delfino Federico; Procopio Renato
+   - **Keywords:** Energy management | energy storage | load flow (LF) | optimization methods | power generation dispatch
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 25, percentile 95)
+     - Electrical and Electronic Engineering (Q1, rank 49, percentile 95)
+     - Control and Systems Engineering (Q1, rank 25, percentile 93)
+     - Computer Science Applications (Q1, rank 68, percentile 93)
+     - Information Systems (Q1, rank 35, percentile 93)
+     2017:
+     - Electrical and Electronic Engineering (Q1, rank 66, percentile 90)
+     - Control and Systems Engineering (Q1, rank 26, percentile 89)
+   - **Source Id:** 11300153734
+   - **Author Ids:** 15049159900;8580886100;6603766602;7801615894
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bracco S.
+84.
+   - **Title:** Preliminary study on electric mobility applied to a University Campus in North Italy
+   - **Venue:** 2017 6th International Conference on Clean Electrical Power Renewable Energy Resources Impact Iccep 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICCEP.2017.8004801
+   - **Scopus ID:** 2-s2.0-85028504353
+   - **Pages:** 117-121
+   - **Authors:** Bracco Stefano; Brenna Morris; Delfmo Federico; Foiadelli Federica; Longo Michela
+   - **Keywords:** Electric Vehicles | Energy Efficiency | Energy Policy | Renewable Energy Sources
+   - **Source Id:** 21100828603
+   - **Author Ids:** 15049159900;8958410500;57195503113;22834091600;37023170900
+   - **Authoraffiliationids:** 60025153;60023256;60025153;60023256;60023256
+   - **Corresponding:** Bracco S.
+85.
+   - **Title:** Decentralized generation in urban districts: Optimal planning considering uncertainties
+   - **Venue:** Conference Proceedings 2017 17th IEEE International Conference on Environment and Electrical Engineering and 2017 1st IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/EEEIC.2017.7977463
+   - **Scopus ID:** 2-s2.0-85026743852
+   - **Authors:** Bracco Stefano; Delfino Federico; Rossi Mansueto; Robba Michela; Pagnini Luisa
+   - **Keywords:** Cogeneration | Optimal planning | Photovoltaic | Smart districts | Wind turbines
+   - **Source Id:** 21100826217
+   - **Author Ids:** 15049159900;6603766602;7403708681;7004979187;55665875600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60121711;60025153
+   - **Corresponding:** Bracco S.
+86.
+   - **Title:** Smart microgrid monitoring: Evaluation of key performance indicators for a PV plant connected to a LV microgrid
+   - **Venue:** 2017 IEEE Pes Innovative Smart Grid Technologies Conference Europe Isgt Europe 2017 Proceedings
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/ISGTEurope.2017.8260322
+   - **Scopus ID:** 2-s2.0-85046287118
+   - **Volume:** 2018-January
+   - **Pages:** 1-6
+   - **Authors:** Bracco Stefano; Delfino Federico; Foiadelli Federica; Longo Michela
+   - **Keywords:** data acquisition | key performance indicators | microgrid | photovoltaic systems
+   - **Source Id:** 21100958325
+   - **Author Ids:** 15049159900;6603766602;22834091600;37023170900
+   - **Authoraffiliationids:** 60025153;60025153;60023256;60023256
+   - **Corresponding:** Bracco S.
+87.
+   - **Title:** Superheater and drum lifetime estimation: An approach based on dynamic analysis
+   - **Venue:** Journal of Energy Resources Technology Transactions of the ASME
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1115/1.4035020
+   - **Scopus ID:** 2-s2.0-85054268022
+   - **ISSN:** 01950738
+   - **eISSN:** 15288994
+   - **Volume:** 139
+   - **Issue:** 3
+   - **Authors:** Benato Alberto; Anna Stoppato; Alberto Mirandola; Destro Nicola; Bracco Stefano
+   - **Quartile:**
+     2025:
+     - Geochemistry and Petrology (Q1, rank 16, percentile 90)
+     - Mechanical Engineering (Q1, rank 104, percentile 85)
+     - Energy Engineering and Power Technology (Q1, rank 67, percentile 79)
+     - Fuel Technology (Q2, rank 36, percentile 73)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 104, percentile 66)
+     2017:
+     - Energy Engineering and Power Technology (Q3, rank 125, percentile 39)
+     - Mechanical Engineering (Q3, rank 374, percentile 35)
+     - Fuel Technology (Q3, rank 60, percentile 33)
+     - Renewable Energy, Sustainability and the Environment (Q3, rank 112, percentile 25)
+     - Geochemistry and Petrology (Q4, rank 96, percentile 19)
+   - **Source Id:** 27019
+   - **Author Ids:** 56071012200;6602314818;6603923961;56241410700;15049159900
+   - **Authoraffiliationids:** 60000481;60000481;60000481;60000481;60025153
+   - **Corresponding:** Benato A.
+88.
+   - **Title:** Electric Vehicle Use in Public Fleets: The Case of the Genoa University
+   - **Venue:** Proceedings of 8th International Conference on Energy and Environment Energy Saved Today is Asset for Future Ciem 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/CIEM.2017.8120773
+   - **Scopus ID:** 2-s2.0-85041226956
+   - **Pages:** 490-494
+   - **Authors:** Foiadelli Federica; Longo Michela; Delfino Federico; Bracco Stefano; Spina Domenico; Dhaene Tom
+   - **Keywords:** Electric vehicles | Electrical storage systems | Modeling | Renewable energy sources | Smart microgrids
+   - **Source Id:** 21100933089
+   - **Author Ids:** 22834091600;37023170900;6603766602;15049159900;57195345985;6603882624
+   - **Authoraffiliationids:** 60023256;60023256;60025153;60025153;60033316;60033316
+   - **Corresponding:** Foiadelli F.
+89.
+   - **Title:** A mathematical model for the dynamic simulation of low size cogeneration gas turbines within smart microgrids
+   - **Venue:** Energy
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 47
+   - **DOI:** 10.1016/j.energy.2016.11.033
+   - **Scopus ID:** 2-s2.0-85006797214
+   - **ISSN:** 03605442
+   - **Volume:** 119
+   - **Pages:** 710-723
+   - **Authors:** Bracco Stefano; Delfino Federico
+   - **Keywords:** Cogeneration | Dynamic simulation | Microturbine | Smart microgrid
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 4, percentile 99)
+     - Civil and Structural Engineering (Q1, rank 7, percentile 98)
+     - Mechanical Engineering (Q1, rank 19, percentile 97)
+     - Building and Construction (Q1, rank 7, percentile 97)
+     - Management, Monitoring, Policy and Law (Q1, rank 13, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 34, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 16, percentile 95)
+     - Pollution (Q1, rank 10, percentile 94)
+     - Industrial and Manufacturing Engineering (Q1, rank 23, percentile 94)
+     - Fuel Technology (Q1, rank 10, percentile 93)
+     - Energy (all) (Q1, rank 7, percentile 91)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 32, percentile 89)
+     2017:
+     - Civil and Structural Engineering (Q1, rank 4, percentile 98)
+     - Building and Construction (Q1, rank 5, percentile 97)
+     - Industrial and Manufacturing Engineering (Q1, rank 10, percentile 97)
+     - Mechanical Engineering (Q1, rank 18, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 44, percentile 93)
+     - Pollution (Q1, rank 8, percentile 92)
+   - **Source Id:** 29348
+   - **Author Ids:** 15049159900;6603766602
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bracco S.
+90.
+   - **Title:** Smart microgrids in smart campuses with electric vehicles and storage systems: Analysis of possible operating scenarios
+   - **Venue:** IEEE 2nd International Smart Cities Conference Improving the Citizens Quality of Life Isc2 2016 Proceedings
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 18
+   - **DOI:** 10.1109/ISC2.2016.7580794
+   - **Scopus ID:** 2-s2.0-84994134055
+   - **Authors:** Brenna Morris; Foiadelli Federica; Longo Michela; Bracco Stefano; Delfino Federico
+   - **Keywords:** Electric vehicles | Electrical storage systems | Renewable energy sources | Smart microgrids
+   - **Source Id:** 21100784246
+   - **Author Ids:** 8958410500;22834091600;37023170900;15049159900;6603766602
+   - **Authoraffiliationids:** 60023256;60023256;60023256;60025153;60025153
+   - **Corresponding:** Brenna M.
+91.
+   - **Title:** Optimal planning of the energy production mix in smart districts including renewable and cogeneration power plants
+   - **Venue:** IEEE 2nd International Smart Cities Conference Improving the Citizens Quality of Life Isc2 2016 Proceedings
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/ISC2.2016.7580795
+   - **Scopus ID:** 2-s2.0-84994097608
+   - **Authors:** Bracco Stefano; Delfino Federico; Rossi Mansueto; Robba Michela; Pagnini Luisa
+   - **Keywords:** Cogeneration | Optimal planning | Photovoltaic | Smart districts | Wind turbines
+   - **Source Id:** 21100784246
+   - **Author Ids:** 15049159900;6603766602;7403708681;7004979187;55665875600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60121711;60025153
+   - **Corresponding:** Bracco S.
+92.
+   - **Title:** Sustainable electric mobility analysis in the Savona Campus of the University of Genoa
+   - **Venue:** Eeeic 2016 International Conference on Environment and Electrical Engineering
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/EEEIC.2016.7555562
+   - **Scopus ID:** 2-s2.0-84988409090
+   - **Authors:** Brenna Morris; Foiadelli Federica; Longo Michela; Bracco Stefano; Delfino Federico
+   - **Keywords:** data analysis | electric vehicles | Smart microgrid
+   - **Source Id:** 21100780440
+   - **Author Ids:** 8958410500;22834091600;37023170900;15049159900;6603766602
+   - **Authoraffiliationids:** 60023256;60023256;60023256;60025153;60025153
+   - **Corresponding:** Brenna M.
+93.
+   - **Title:** A model predictive control approach for the optimization of polygeneration microgrids and demand response strategies
+   - **Venue:** Eeeic 2016 International Conference on Environment and Electrical Engineering
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/EEEIC.2016.7555621
+   - **Scopus ID:** 2-s2.0-84988355393
+   - **Authors:** Bracco Stefano; Delfino Federico; Procopio Renato; Rossi Mansueto; Robba Michela
+   - **Keywords:** Demand response | model predictive control | optimal control | polygeneration microgrids | renewable energy
+   - **Source Id:** 21100780440
+   - **Author Ids:** 15049159900;6603766602;7801615894;7403708681;7004979187
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60121711
+   - **Corresponding:** Bracco S.
+94.
+   - **Title:** A multi-objective optimization tool for the daily management of sustainable smart microgrids: Case Study: The savona campus SPM and SEB facilities
+   - **Venue:** 2016 International Symposium on Power Electronics Electrical Drives Automation and Motion Speedam 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/SPEEDAM.2016.7526018
+   - **Scopus ID:** 2-s2.0-84994176891
+   - **Pages:** 683-688
+   - **Authors:** Bracco Stefano; Delfino Federico; Rossi Mansueto; Robba Michela
+   - **Keywords:** energy management systems | optimization | smart microgrids | sustainable buildings
+   - **Source Id:** 21100784241
+   - **Author Ids:** 15049159900;6603766602;7403708681;7004979187
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60121711
+   - **Corresponding:** Bracco S.
+95.
+   - **Title:** Distributed optimal power flow for islanded microgrids: An application to the Smart Polygeneration Microgrid of the Genoa University
+   - **Venue:** IEEE 2nd International Smart Cities Conference Improving the Citizens Quality of Life Isc2 2016 Proceedings
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ISC2.2016.7580793
+   - **Scopus ID:** 2-s2.0-84994165298
+   - **Authors:** Buono Luca; Sanseverino Eleonora Riva; Di Silvestre Maria Luisa; Bracco Stefano; Delfino Federico
+   - **Keywords:** Distributed optimization | Micro-grids | Optimal power flow
+   - **Source Id:** 21100784246
+   - **Author Ids:** 57194134150;57218479108;6701724984;15049159900;6603766602
+   - **Authoraffiliationids:** 60017697;60017697;60017697;60025153;60025153
+   - **Corresponding:** Buono L.
+96.
+   - **Title:** A pilot facility for analysis and simulation of smart microgrids feeding smart buildings
+   - **Venue:** Renewable and Sustainable Energy Reviews
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 37
+   - **DOI:** 10.1016/j.rser.2015.12.225
+   - **Scopus ID:** 2-s2.0-84954305717
+   - **ISSN:** 13640321
+   - **eISSN:** 18790690
+   - **Volume:** 58
+   - **Pages:** 1247-1255
+   - **Authors:** Bracco Stefano; Delfino Federico; Pampararo Fabio; Robba Michela; Rossi Mansueto
+   - **Keywords:** Experimental test-bed | Optimization | Renewable energy | Smart grids | Sustainable buildings
+   - **Quartile:**
+     2025:
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 7, percentile 97)
+     2016:
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 6, percentile 95)
+   - **Source Id:** 27567
+   - **Author Ids:** 15049159900;6603766602;36782697700;7004979187;7403708681
+   - **Authoraffiliationids:** 120591612;120591612;120591612;60121711;120591612
+   - **Corresponding:** Bracco S.
+97.
+   - **Title:** DESOD : A mathematical programming tool to optimally design a distributed energy system
+   - **Venue:** Energy
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 71
+   - **DOI:** 10.1016/j.energy.2016.01.050
+   - **Scopus ID:** 2-s2.0-84958766749
+   - **ISSN:** 03605442
+   - **Volume:** 100
+   - **Pages:** 298-309
+   - **Authors:** Bracco Stefano; Dentici Gabriele; Siri Silvia
+   - **Keywords:** Cogeneration | Distributed generation | Optimal design | Renewables | Storage | Trigeneration
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 4, percentile 99)
+     - Civil and Structural Engineering (Q1, rank 7, percentile 98)
+     - Mechanical Engineering (Q1, rank 19, percentile 97)
+     - Building and Construction (Q1, rank 7, percentile 97)
+     - Management, Monitoring, Policy and Law (Q1, rank 13, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 34, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 16, percentile 95)
+     - Pollution (Q1, rank 10, percentile 94)
+     - Industrial and Manufacturing Engineering (Q1, rank 23, percentile 94)
+     - Fuel Technology (Q1, rank 10, percentile 93)
+     - Energy (all) (Q1, rank 7, percentile 91)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 32, percentile 89)
+     2016:
+     - Civil and Structural Engineering (Q1, rank 4, percentile 98)
+     - Industrial and Manufacturing Engineering (Q1, rank 9, percentile 97)
+     - Mechanical Engineering (Q1, rank 16, percentile 97)
+     - Building and Construction (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 47, percentile 92)
+     - Pollution (Q1, rank 8, percentile 92)
+     - Energy (all) (Q1, rank 6, percentile 91)
+   - **Source Id:** 29348
+   - **Author Ids:** 15049159900;55694520700;23010350500
+   - **Authoraffiliationids:** 60025153;60121711;60121711
+   - **Corresponding:** Bracco S.
+98.
+   - **Title:** LTE: A procedure to predict power plants dynamic behaviour and components lifetime reduction during transient operation
+   - **Venue:** Applied Energy
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 75
+   - **DOI:** 10.1016/j.apenergy.2015.10.162
+   - **Scopus ID:** 2-s2.0-84946866666
+   - **ISSN:** 03062619
+   - **Volume:** 162
+   - **Pages:** 880-891
+   - **Authors:** Benato A.; Bracco S.; Stoppato A.; Mirandola A.
+   - **Keywords:** Combined cycle power plant | Dynamic model | Plant flexibility | Residual life
+   - **Quartile:**
+     2025:
+     - Management, Monitoring, Policy and Law (Q1, rank 6, percentile 98)
+     - Mechanical Engineering (Q1, rank 14, percentile 98)
+     - Building and Construction (Q1, rank 5, percentile 98)
+     - Energy (all) (Q1, rank 5, percentile 94)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 22, percentile 93)
+     2016:
+     - Subject (Q1, rank 1, percentile 99)
+     - Building and Construction (Q1, rank 1, percentile 99)
+     - Energy (all) (Q1, rank 1, percentile 99)
+     - Management, Monitoring, Policy and Law (Q1, rank 3, percentile 99)
+     - Mechanical Engineering (Q1, rank 7, percentile 98)
+   - **Source Id:** 28801
+   - **Author Ids:** 56071012200;15049159900;6602314818;6603923961
+   - **Authoraffiliationids:** 60000481;60025153;60000481;60000481
+   - **Corresponding:** Benato A.
+99.
+   - **Title:** The Smart City Energy infrastructures at the Savona Campus of the University of Genoa
+   - **Venue:** Aeit 2016 International Annual Conference Sustainable Development in the Mediterranean Area Energy and ICT Networks of the Future
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 19
+   - **DOI:** 10.23919/AEIT.2016.7892774
+   - **Scopus ID:** 2-s2.0-85018379665
+   - **Authors:** Bracco Stefano; Delfino Federico; Laiolo Paola; Rossi Mansueto
+   - **Keywords:** energy management | microgrids | power system planning | Smart city | sustainability
+   - **Source Id:** 21100866813
+   - **Author Ids:** 15049159900;6603766602;56576462300;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bracco S.
+100.
+   - **Title:** Dynamic simulation of combined cycle power plant cycling in the electricity market
+   - **Venue:** Energy Conversion and Management
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 58
+   - **DOI:** 10.1016/j.enconman.2015.07.050
+   - **Scopus ID:** 2-s2.0-84947116319
+   - **ISSN:** 01968904
+   - **Volume:** 107
+   - **Pages:** 76-85
+   - **Authors:** Benato A.; Bracco S.; Stoppato A.; Mirandola A.
+   - **Keywords:** Combined cycle | Dynamic model | Low cycle fatigue | Plant flexibility | Residual life
+   - **Quartile:**
+     2025:
+     - Nuclear Energy and Engineering (Q1, rank 2, percentile 98)
+     - Energy Engineering and Power Technology (Q1, rank 12, percentile 96)
+     - Fuel Technology (Q1, rank 7, percentile 95)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 21, percentile 93)
+     2016:
+     - Fuel Technology (Q1, rank 2, percentile 98)
+     - Energy Engineering and Power Technology (Q1, rank 4, percentile 98)
+     - Nuclear Energy and Engineering (Q1, rank 2, percentile 97)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 12, percentile 91)
+   - **Source Id:** 29372
+   - **Author Ids:** 56071012200;15049159900;6602314818;6603923961
+   - **Authoraffiliationids:** 60000481;60025153;60000481;60000481
+   - **Corresponding:** Benato A.
+101.
+   - **Title:** An equivalent electric circuit for the thermal Network of the Savona Campus Smart Polygeneration Microgrid
+   - **Venue:** 2015 IEEE Eindhoven Powertech Powertech 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/PTC.2015.7232394
+   - **Scopus ID:** 2-s2.0-84951304251
+   - **Authors:** Barillari Luca; Bracco Stefano; Brignone Massimo; Delfino Federico; Pampararo Fabio; Pacciani Carola; Procopio Renato; Rossi Mansueto; Nilberto Alessandro
+   - **Keywords:** Energy Management | Optimization Algorithm | Parameter Identification | Smart grids | Thermal Network
+   - **Source Id:** 21100431809
+   - **Author Ids:** 55568698600;15049159900;8580886100;6603766602;36782697700;57016725100;7801615894;7403708681;9245207700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Barillari L.
+102.
+   - **Title:** A dynamic optimization-based architecture for polygeneration microgrids with tri-generation, renewables, storage systems and electrical vehicles
+   - **Venue:** Energy Conversion and Management
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 129
+   - **DOI:** 10.1016/j.enconman.2015.03.013
+   - **Scopus ID:** 2-s2.0-84925293286
+   - **ISSN:** 01968904
+   - **Volume:** 96
+   - **Pages:** 511-520
+   - **Authors:** Bracco Stefano; Delfino Federico; Pampararo Fabio; Robba Michela; Rossi Mansueto
+   - **Keywords:** Optimization | Renewable energy | Smart grids
+   - **Quartile:**
+     2025:
+     - Nuclear Energy and Engineering (Q1, rank 2, percentile 98)
+     - Energy Engineering and Power Technology (Q1, rank 12, percentile 96)
+     - Fuel Technology (Q1, rank 7, percentile 95)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 21, percentile 93)
+     2015:
+     - Nuclear Energy and Engineering (Q1, rank 2, percentile 97)
+     - Energy Engineering and Power Technology (Q1, rank 8, percentile 95)
+     - Fuel Technology (Q1, rank 5, percentile 94)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 19, percentile 85)
+   - **Source Id:** 29372
+   - **Author Ids:** 15049159900;6603766602;36782697700;7004979187;7403708681
+   - **Authoraffiliationids:** 113360839;113360839;113360839;60121711;113360839
+   - **Corresponding:** Bracco S.
+103.
+   - **Title:** The role of high efficiency trigeneration plants within sustainable smart microgrids: Performance analysis and experimental tests
+   - **Venue:** 2015 Aeit International Annual Conference Aeit 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/AEIT.2015.7415236
+   - **Scopus ID:** 2-s2.0-84964853716
+   - **Authors:** Bracco Stefano; Delfino Federico
+   - **Keywords:** Absorption chiller | Microturbine | Smart microgrid | Test bed | Trigeneration
+   - **Source Id:** 21100826364
+   - **Author Ids:** 15049159900;6603766602
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bracco S.
+104.
+   - **Title:** Key performance indicators in assessing new technology for electricity transmission and distribution networks
+   - **Venue:** Eco Friendly Innovation in Electricity Transmission and Distribution Networks
+   - **Year:** 2015
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 2
+   - **DOI:** 10.1016/B978-1-78242-010-1.00002-1
+   - **Scopus ID:** 2-s2.0-84942942637
+   - **Pages:** 47-63
+   - **Authors:** Delfino F.; Bracco S.; Pampararo F.
+   - **Keywords:** Emissions reductions | Energy efficiency | EU policies | Key performance indicators
+   - **Source Id:** 21100962785
+   - **Author Ids:** 6603766602;15049159900;36782697700
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Delfino F.
+105.
+   - **Title:** A receding-horizon approach for active and reactive power flows optimization in microgrids
+   - **Venue:** 2014 IEEE Conference on Control Applications Cca Part of 2014 IEEE Multi Conference on Systems and Control Msc 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/CCA.2014.6981445
+   - **Scopus ID:** 2-s2.0-84920546202
+   - **Pages:** 867-872
+   - **Authors:** Bonfiglio A.; Bracco S.; Brignone M.; Delfino F.; Pampararo F.; Procopio R.; Robba M.; Rossi M.
+   - **Source Id:** 21101060560
+   - **Author Ids:** 36607521000;15049159900;8580886100;6603766602;36782697700;7801615894;7004979187;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60121711;60025153
+   - **Corresponding:** Bonfiglio A.
+106.
+   - **Title:** Dynamic behaviour analysis of a single pressure heat recovery steam generator during cycling operation
+   - **Venue:** 27th International Conference on Efficiency Cost Optimization Simulation and Environmental Impact of Energy Systems ECOS 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-84943590007
+   - **Authors:** Benato Alberto; Stoppato Anna; Bracco Stefano
+   - **Keywords:** Deregulated electricity market | Dynamic model | Heat recovery steam generator | Low cycle fatigue | Residual
+   - **Source Id:** 21100405479
+   - **Author Ids:** 56071012200;6602314818;15049159900
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Benato A.
+107.
+   - **Title:** Day ahead microgrid optimization: A comparison among different models
+   - **Venue:** Opt I 2014 1st International Conference on Engineering and Applied Sciences Optimization Proceedings
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 26
+   - **Scopus ID:** 2-s2.0-84911872204
+   - **Pages:** 1153-1165
+   - **Authors:** Bonfiglio A.; Barillari L.; Bendato I.; Bracco S.; Brignone M.; Delfino F.; Pampararo F.; Procopio R.; Robba M.; Rossi M.
+   - **Keywords:** Energy storage | Micorgrids | Optimal power flow | Smartgrids
+   - **Source Id:** 21100348502
+   - **Author Ids:** 36607521000;55568698600;56426374300;15049159900;8580886100;6603766602;36782697700;7801615894;7004979187;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+108.
+   - **Title:** Combined cycle power plants: A comparison between two different dynamic models to evaluate transient behaviour and residual life
+   - **Venue:** Energy Conversion and Management
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 81
+   - **DOI:** 10.1016/j.enconman.2014.06.017
+   - **Scopus ID:** 2-s2.0-84908661093
+   - **ISSN:** 01968904
+   - **Volume:** 87
+   - **Pages:** 1269-1280
+   - **Authors:** Benato Alberto; Stoppato Anna; Bracco Stefano
+   - **Keywords:** Combined cycle power plants | Creep-fatigue model | Deregulated market | Drum | Dynamic simulation | Superheater | Sustainability
+   - **Quartile:**
+     2025:
+     - Nuclear Energy and Engineering (Q1, rank 2, percentile 98)
+     - Energy Engineering and Power Technology (Q1, rank 12, percentile 96)
+     - Fuel Technology (Q1, rank 7, percentile 95)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 21, percentile 93)
+     2014:
+     - Nuclear Energy and Engineering (Q1, rank 2, percentile 97)
+     - Energy Engineering and Power Technology (Q1, rank 6, percentile 96)
+     - Fuel Technology (Q1, rank 4, percentile 95)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 17, percentile 85)
+   - **Source Id:** 29372
+   - **Author Ids:** 56071012200;6602314818;15049159900
+   - **Authoraffiliationids:** 60000481;60000481;60025153
+   - **Corresponding:** Benato A.
+109.
+   - **Title:** Optimal control of active power flows in Smart Microgrids
+   - **Venue:** 2014 IEEE Innovative Smart Grid Technologies Asia Isgt Asia 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ISGT-Asia.2014.6873853
+   - **Scopus ID:** 2-s2.0-84906674294
+   - **Pages:** 560-565
+   - **Authors:** Bonfiglio Andrea; Brignone Massimo; Delfino Federico; Pampararo Fabio; Procopio Renato; Rossi Mansueto; Robba Michela; Bracco Stefano
+   - **Keywords:** Microgrid | Optimal Control | Optimization | Power Systems | Renewable Energy Soureces (RES)
+   - **Source Id:** 21100332188
+   - **Author Ids:** 36607521000;8580886100;6603766602;36782697700;7801615894;7403708681;7004979187;15049159900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+110.
+   - **Title:** Dynamic simulation of a steam generator for ironing machines
+   - **Venue:** Energy Conversion and Management
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1016/j.enconman.2014.04.004
+   - **Scopus ID:** 2-s2.0-84899581529
+   - **ISSN:** 01968904
+   - **Volume:** 84
+   - **Pages:** 13-19
+   - **Authors:** Bracco Stefano; Cravero Carlo
+   - **Keywords:** Dynamic simulation | Ironing machine | Steam generator
+   - **Quartile:**
+     2025:
+     - Nuclear Energy and Engineering (Q1, rank 2, percentile 98)
+     - Energy Engineering and Power Technology (Q1, rank 12, percentile 96)
+     - Fuel Technology (Q1, rank 7, percentile 95)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 21, percentile 93)
+     2014:
+     - Nuclear Energy and Engineering (Q1, rank 2, percentile 97)
+     - Energy Engineering and Power Technology (Q1, rank 6, percentile 96)
+     - Fuel Technology (Q1, rank 4, percentile 95)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 17, percentile 85)
+   - **Source Id:** 29372
+   - **Author Ids:** 15049159900;56024477100
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bracco S.
+111.
+   - **Title:** A mathematical model for the optimal operation of the University of Genoa Smart Polygeneration Microgrid: Evaluation of technical, economic and environmental performance indicators
+   - **Venue:** Energy
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 99
+   - **DOI:** 10.1016/j.energy.2013.10.039
+   - **Scopus ID:** 2-s2.0-84891482146
+   - **ISSN:** 03605442
+   - **Volume:** 64
+   - **Pages:** 912-922
+   - **Authors:** Bracco Stefano; Delfino Federico; Pampararo Fabio; Robba Michela; Rossi Mansueto
+   - **Keywords:** Combined heat and power | Distributed management systems | Information and communication technologies | Optimization | Smart grid
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 4, percentile 99)
+     - Civil and Structural Engineering (Q1, rank 7, percentile 98)
+     - Mechanical Engineering (Q1, rank 19, percentile 97)
+     - Building and Construction (Q1, rank 7, percentile 97)
+     - Management, Monitoring, Policy and Law (Q1, rank 13, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 34, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 16, percentile 95)
+     - Pollution (Q1, rank 10, percentile 94)
+     - Industrial and Manufacturing Engineering (Q1, rank 23, percentile 94)
+     - Fuel Technology (Q1, rank 10, percentile 93)
+     - Energy (all) (Q1, rank 7, percentile 91)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 32, percentile 89)
+     2014:
+     - Pollution (Q1, rank 5, percentile 95)
+     - Energy (all) (Q1, rank 4, percentile 93)
+   - **Source Id:** 29348
+   - **Author Ids:** 15049159900;6603766602;36782697700;7004979187;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60121711;60025153
+   - **Corresponding:** Bracco S.
+112.
+   - **Title:** An optimization algorithm for the operation planning of the University of Genoa smart polygeneration microgrid
+   - **Venue:** Proceedings of Irep Symposium Bulk Power System Dynamics and Control Ix Optimization Security and Control of the Emerging Power Grid Irep 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 35
+   - **DOI:** 10.1109/IREP.2013.6629397
+   - **Scopus ID:** 2-s2.0-84890466863
+   - **Authors:** Bonfiglio Andrea; Barillari Luca; Brignone Massimo; Delfino Federico; Pampararo Fabio; Procopio Renato; Rossi Mansueto; Bracco Stefano; Robba Michela
+   - **Source Id:** 21100275408
+   - **Author Ids:** 36607521000;55568698600;8580886100;6603766602;36782697700;7801615894;7403708681;15049159900;7004979187
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+113.
+   - **Title:** Economic and environmental optimization model for the design andthe operation of a combined heat and power distributed generation system in an urban area
+   - **Venue:** Energy
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 201
+   - **DOI:** 10.1016/j.energy.2013.04.004
+   - **Scopus ID:** 2-s2.0-84878661258
+   - **ISSN:** 03605442
+   - **Volume:** 55
+   - **Pages:** 1014-1024
+   - **Authors:** Bracco Stefano; Dentici Gabriele; Siri Silvia
+   - **Keywords:** Building energy consumptions | CHP technologies | Distributed generation system | District heating network | Optimization
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 4, percentile 99)
+     - Civil and Structural Engineering (Q1, rank 7, percentile 98)
+     - Mechanical Engineering (Q1, rank 19, percentile 97)
+     - Building and Construction (Q1, rank 7, percentile 97)
+     - Management, Monitoring, Policy and Law (Q1, rank 13, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 34, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 16, percentile 95)
+     - Pollution (Q1, rank 10, percentile 94)
+     - Industrial and Manufacturing Engineering (Q1, rank 23, percentile 94)
+     - Fuel Technology (Q1, rank 10, percentile 93)
+     - Energy (all) (Q1, rank 7, percentile 91)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 32, percentile 89)
+     2013:
+     - Energy (all) (Q1, rank 4, percentile 93)
+     - Pollution (Q1, rank 7, percentile 93)
+   - **Source Id:** 29348
+   - **Author Ids:** 15049159900;55694520700;23010350500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bracco S.
+114.
+   - **Title:** Planning and management of sustainable microgrids: The test-bed facilities at the University of Genoa
+   - **Venue:** IEEE AFRICON Conference
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 28
+   - **DOI:** 10.1109/AFRCON.2013.6757862
+   - **Scopus ID:** 2-s2.0-84897441276
+   - **ISSN:** 21530025
+   - **eISSN:** 21530033
+   - **Authors:** Bracco Stefano; Delfino Federico; Pampararo Fabio; Robba Michela; Rossi Mansueto
+   - **Keywords:** CHP technologies | control | microgrids | renewables | sustainable buildings | test-bed facilities
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 667, percentile 33)
+     - Computer Science Applications (Q3, rank 705, percentile 28)
+   - **Source Id:** 88865
+   - **Author Ids:** 15049159900;6603766602;36782697700;7004979187;7403708681
+   - **Authoraffiliationids:** 60025153;113749052-60025153;113749052-60025153;60121711-60025153;113749052-60025153
+   - **Corresponding:** Bracco S.
+115.
+   - **Title:** The smart microgrid pilot project of the University of Genoa: Power and communication architectures
+   - **Venue:** Aeit Annual Conference 2013 Innovation and Scientific and Technical Culture for Development Aeit 2013 Selected Proceedings Papers
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/aeit.2013.6666794
+   - **Scopus ID:** 2-s2.0-84893384882
+   - **Authors:** Bonfiglio A.; Barillari L.; Delfino F.; Pampararo F.; Procopio R.; Rossi M.; Invernizzi M.; Denegri G. B.; Bracco S.
+   - **Keywords:** Energy management system | integration of private microgrids into public distribution networks | Smart grid
+   - **Source Id:** 21101015978
+   - **Author Ids:** 36607521000;55568698600;6603766602;36782697700;7801615894;7403708681;6701527755;7004649825;15049159900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bonfiglio A.
+116.
+   - **Title:** The University of Genoa smart polygeneration microgrid test-bed facility: The overall system, the technologies and the research challenges
+   - **Venue:** Renewable and Sustainable Energy Reviews
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 100
+   - **DOI:** 10.1016/j.rser.2012.10.009
+   - **Scopus ID:** 2-s2.0-84869869650
+   - **ISSN:** 13640321
+   - **Volume:** 18
+   - **Pages:** 442-459
+   - **Authors:** Bracco Stefano; Delfino Federico; Pampararo Fabio; Robba Michela; Rossi Mansueto
+   - **Keywords:** Control | Distributed generation | Optimization | Renewable energy | Simulation | Smart grids
+   - **Quartile:**
+     2025:
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 7, percentile 97)
+     2013:
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 6, percentile 94)
+   - **Source Id:** 27567
+   - **Author Ids:** 15049159900;6603766602;36782697700;7004979187;7403708681
+   - **Authoraffiliationids:** 113216375;113216466;113216466;60121711;113216466
+   - **Corresponding:** Bracco S.
+117.
+   - **Title:** Economic and environmental performances quantification of the university of Genoa Smart Polygeneration Microgrid
+   - **Venue:** 2012 IEEE International Energy Conference and Exhibition Energycon 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 31
+   - **DOI:** 10.1109/EnergyCon.2012.6348222
+   - **Scopus ID:** 2-s2.0-84870814640
+   - **Pages:** 593-598
+   - **Authors:** Bracco Stefano; Delfino Federico; Pampararo Fabio; Robba Michela; Rossi Mansueto
+   - **Keywords:** avoided CO2 emissions | cogeneration | primary energy saving | running costs | Smart grid
+   - **Source Id:** 21100223117
+   - **Author Ids:** 15049159900;6603766602;36782697700;7004979187;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bracco S.
+118.
+   - **Title:** A system of systems model for the control of the University of Genoa Smart Polygeneration Microgrid
+   - **Venue:** Proceedings 2012 7th International Conference on System of Systems Engineering Sose 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 26
+   - **DOI:** 10.1109/SYSoSE.2012.6384186
+   - **Scopus ID:** 2-s2.0-84878662045
+   - **Pages:** 7-12
+   - **Authors:** Bracco Stefano; Delfino Federico; Pampararo Fabio; Robba Michela; Rossi Mansueto
+   - **Keywords:** optimal control | polygeneration | renewable energy | Smart microgrid
+   - **Source Id:** 21100220364
+   - **Author Ids:** 15049159900;6603766602;36782697700;7004979187;7403708681
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bracco S.
+119.
+   - **Title:** Dynamic simulation of combined cycles operating in transient conditions: An innovative approach to determine the steam drums life consumption
+   - **Venue:** Proceedings of the 25th International Conference on Efficiency Cost Optimization and Simulation of Energy Conversion Systems and Processes ECOS 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-84896368298
+   - **Volume:** 1
+   - **Pages:** 85-99
+   - **Authors:** Bracco Stefano
+   - **Keywords:** Combined cycles | Cycling | Life consumption | Rainflow method | Steam drum
+   - **Source Id:** 21100497795
+   - **Author Ids:** 15049159900
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Bracco S.
+120.
+   - **Title:** A non-conventional interpretation of thermal regeneration in steam cycles
+   - **Venue:** Applied Energy
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1016/j.apenergy.2011.12.047
+   - **Scopus ID:** 2-s2.0-84862320105
+   - **ISSN:** 03062619
+   - **Volume:** 97
+   - **Pages:** 548-557
+   - **Authors:** Bracco Stefano; Damiani Lorenzo
+   - **Keywords:** COP | Cycle efficiency | Feedwater heaters | Heat pump | Regenerative Rankine cycle
+   - **Quartile:**
+     2025:
+     - Management, Monitoring, Policy and Law (Q1, rank 6, percentile 98)
+     - Mechanical Engineering (Q1, rank 14, percentile 98)
+     - Building and Construction (Q1, rank 5, percentile 98)
+     - Energy (all) (Q1, rank 5, percentile 94)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 22, percentile 93)
+     2012:
+     - Subject (Q1, rank 1, percentile 99)
+     - Energy (all) (Q1, rank 2, percentile 97)
+   - **Source Id:** 28801
+   - **Author Ids:** 15049159900;36099941100
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bracco S.
+121.
+   - **Title:** Simulation models of steam drums based on the heat transfer equations
+   - **Venue:** Applied Mathematical Sciences
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **Scopus ID:** 2-s2.0-78650441641
+   - **eISSN:** 1312885X
+   - **Volume:** 4
+   - **Issue:** 73-76
+   - **Pages:** 3687-3712
+   - **Authors:** Bracco Stefano
+   - **Keywords:** Dynamic simulation | Finite differences | Heat transfer | Insulation | Metal | Steam drum
+   - **Source Id:** 25166
+   - **Author Ids:** 15049159900
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Bracco S.
+122.
+   - **Title:** Exergetic optimization of single level combined gas-steam power plants considering different objective functions
+   - **Venue:** Energy
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 41
+   - **DOI:** 10.1016/j.energy.2010.07.021
+   - **Scopus ID:** 2-s2.0-78649807644
+   - **ISSN:** 03605442
+   - **Volume:** 35
+   - **Issue:** 12
+   - **Pages:** 5365-5373
+   - **Authors:** Bracco Stefano; Siri Silvia
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 4, percentile 99)
+     - Civil and Structural Engineering (Q1, rank 7, percentile 98)
+     - Mechanical Engineering (Q1, rank 19, percentile 97)
+     - Building and Construction (Q1, rank 7, percentile 97)
+     - Management, Monitoring, Policy and Law (Q1, rank 13, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 34, percentile 96)
+     - Energy Engineering and Power Technology (Q1, rank 16, percentile 95)
+     - Pollution (Q1, rank 10, percentile 94)
+     - Industrial and Manufacturing Engineering (Q1, rank 23, percentile 94)
+     - Fuel Technology (Q1, rank 10, percentile 93)
+     - Energy (all) (Q1, rank 7, percentile 91)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 32, percentile 89)
+   - **Source Id:** 29348
+   - **Author Ids:** 15049159900;23010350500
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bracco S.
+123.
+   - **Title:** A simple dynamic model and stability analysis of a steam boiler drum
+   - **Venue:** Proceedings of the Institution of Mechanical Engineers Part A Journal of Power and Energy
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1243/09576509JPE783
+   - **Scopus ID:** 2-s2.0-70450216972
+   - **ISSN:** 09576509
+   - **Volume:** 223
+   - **Issue:** 7
+   - **Pages:** 809-820
+   - **Authors:** Bracco S.; Troilo M.; Trucco A.
+   - **Keywords:** Dynamic simulation | Stability analysis | Steam boiler drum
+   - **Quartile:**
+     2025:
+     - Mechanical Engineering (Q2, rank 323, percentile 56)
+     - Energy Engineering and Power Technology (Q2, rank 152, percentile 53)
+   - **Source Id:** 20405
+   - **Author Ids:** 15049159900;57219711625;8135855700
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bracco S.
+124.
+   - **Title:** Mathematical models of air-cooled condensers for thermoelectric units
+   - **Venue:** Wit Transactions on Ecology and the Environment
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.2495/ESU090351
+   - **Scopus ID:** 2-s2.0-71649084480
+   - **ISSN:** 17433541
+   - **Volume:** 121
+   - **Pages:** 399-410
+   - **Authors:** Bracco S.; Caligaris O.; Trucco A.
+   - **Keywords:** Air-cooled condenser | Non-condensable gases | Simulation model
+   - **Quartile:**
+     2025:
+     - Environmental Science (all) (Q4, rank 193, percentile 19)
+   - **Source Id:** 5700191202
+   - **Author Ids:** 15049159900;55301375700;8135855700
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bracco S.
+125.
+   - **Title:** The wet compression technology for gas turbine power plants: Thermodynamic model
+   - **Venue:** Applied Thermal Engineering
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 36
+   - **DOI:** 10.1016/j.applthermaleng.2006.10.013
+   - **Scopus ID:** 2-s2.0-33750514051
+   - **ISSN:** 13594311
+   - **Volume:** 27
+   - **Issue:** 4
+   - **Pages:** 699-704
+   - **Authors:** Bracco Stefano; Pierfederici Alessandro; Trucco Angela
+   - **Keywords:** Combined cycle units | Fogging | Gas turbine | Wet compression
+   - **Quartile:**
+     2025:
+     - Mechanical Engineering (Q1, rank 56, percentile 92)
+     - Fluid Flow and Transfer Processes (Q1, rank 8, percentile 92)
+     - Industrial and Manufacturing Engineering (Q1, rank 46, percentile 88)
+     - Energy Engineering and Power Technology (Q1, rank 47, percentile 85)
+   - **Source Id:** 13688
+   - **Author Ids:** 15049159900;15049738300;8135855700
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bracco S.
+126.
+   - **Title:** Dynamic simulator of a combined cycle power plant: Focus on the heat recovery steam generator
+   - **Venue:** ECOS 2007 Proceedings of the 20th International Conference on Efficiency Cost Optimization Simulation and Environmental Impact of Energy Systems
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 18
+   - **Scopus ID:** 2-s2.0-84905257741
+   - **Volume:** 1
+   - **Pages:** 189-196
+   - **Authors:** Bracco Stefano; Crosa Giampaolo; Trucco Angela
+   - **Keywords:** Combined cycle power plants | Dynamic simulation | HRSG
+   - **Source Id:** 21100395719
+   - **Author Ids:** 15049159900;7003850009;8135855700
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bracco S.

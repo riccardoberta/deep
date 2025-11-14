@@ -1,0 +1,3467 @@
+# Dellepiane Silvana
+
+## Overview
+- **Unit:** ICT
+- **Role:** Professore associato
+- **Grade:** Prof.Associato DPR 232/11 art.2 - t.pieno - cl. 8
+- **SSD:** IINF-03/A (Telecomunicazioni)
+- **Scopus ID:** 7004291247
+- **UNIGE ID:** 053862
+- **Retrieved at:** 2025-11-14T15:17:18.191283
+
+## Contact
+- **Email:** silvana.dellepiane@unige.it
+- **Phone:** +39 010 33 52754
+- **Page:** https://rubrica.unige.it/personale/VUZEU1xr
+- **Locations:** Opera Pia - padiglione C (Ex CNR) (ED_161450501), 1° piano, US_161450501.I.015
+
+## Career
+- PA, 2012-05-01 → 2222-02-02
+
+## Responsibilities
+- **Title:** Componente della Commissione paritetica docenti-studenti di scuola
+  - **Unit:** Scuola politecnica
+  - **Period:** 2025-11-01 → 2027-10-31
+
+## Teaching
+### 2025
+- Comunicazioni Elettriche (107330), L-8 - Ingegneria Biomedica
+- Digital Image Processing (104782), Lm-27 - Internet And Multimedia Engineering
+- Elaborazione Digitale Delle Immagini Storico-Artistiche (Lm) (52644), Lm-89 R - Storia Dell'Arte E Valorizzaz. Patrimonio Artistico
+- Elaborazione Digitale Delle Immagini Storico-Artistiche (Lm) (52644), Lm-89 R - Storia Dell'Arte E Valorizzaz. Patrimonio Artistico
+
+### 2024
+- Elaborazione Digitale Delle Immagini Storico-Artistiche (Lm) (52644), Lm-89 - Storia Dell'Arte E Valorizzaz. Patrimonio Artistico
+- Elaborazione Digitale Delle Immagini Storico-Artistiche (Lm) (52644), Lm-89 - Storia Dell'Arte E Valorizzaz. Patrimonio Artistico
+- Comunicazioni Elettriche (107330), L-8 - Ingegneria Biomedica
+- Digital Image Processing (80972), Lm-29 - Ingegneria Elettronica
+- Digital Image Processing (104782), Lm-27 - Internet And Multimedia Engineering
+
+### 2023
+- Elaborazione Digitale Delle Immagini Storico-Artistiche (Lm) (52644), Lm-89 - Storia Dell'Arte E Valorizzaz. Patrimonio Artistico
+- Comunicazioni Elettriche (107330), L-8 - Ingegneria Biomedica
+- Digital Image Processing (80972), Lm-29 - Ingegneria Elettronica
+- Misure Elettriche Ed Elettroniche (68239), L/Snt3 - Tecniche Di Radiologia Medica, Per Immagini E Radiot
+- Digital Image Processing (104782), Lm-27 - Internet And Multimedia Engineering
+
+### 2022
+- Elaborazione Digitale Delle Immagini Storico-Artistiche (Lm) (52644), Lm-89 - Storia Dell'Arte E Valorizzaz. Patrimonio Artistico
+- Comunicazioni Elettriche (107330), L-8 - Ingegneria Biomedica
+- Digital Image Processing (80972), Lm-29 - Ingegneria Elettronica
+- Misure Elettriche Ed Elettroniche (68239), L/Snt3 - Tecniche Di Radiologia Medica, Per Immagini E Radiot
+- Digital Image Processing (104782), Lm-27 - Internet And Multimedia Engineering
+
+### 2021
+- Elaborazione Digitale Delle Immagini Storico-Artistiche (Lm) (52644), Lm-89 - Storia Dell'Arte E Valorizzaz. Patrimonio Artistico
+- Comunicazioni Elettriche (107330), L-8 - Ingegneria Biomedica
+- Digital Image Processing (80972), Lm-29 - Ingegneria Elettronica
+- Digital Image Processing (104782), Lm-27 - Internet And Multimedia Engineering
+- Cooperazione Allo Sviluppo (108849), Corsi Di Ateneo
+
+### 2020
+- Elaborazione Digitale Delle Immagini Storico-Artistiche (Lm) (52644), Lm-89 - Storia Dell'Arte E Valorizzaz. Patrimonio Artistico
+- Comunicazioni Elettriche (65958), L-8 - Ingegneria Biomedica
+- Digital Image Processing (80972), Lm-29 - Ingegneria Elettronica
+- Digital Image Processing (90142), Lm-27 - Internet And Multimedia Engineering
+
+## Scopus Metrics
+- absolute; Docs: 164; Journals: 44; Conferences: 99; Citations: 1530; H-index: 17
+- 15 years (2010-2025); Docs: 66; Journals: 20; Conferences: 33; Citations: 530; H-index: 11
+- 10 years (2015-2025); Docs: 44; Journals: 16; Conferences: 19; Citations: 239; H-index: 8
+- 05 years (2020-2025); Docs: 23; Journals: 11; Conferences: 9; Citations: 108; H-index: 6
+
+## Scopus Products
+1.
+   - **Title:** A Supervised System Integrating Image Processing and Machine Learning for the Staging of Chronic Hepatic Diseases
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3390/electronics14081534
+   - **Scopus ID:** 2-s2.0-105003634347
+   - **eISSN:** 20799292
+   - **Volume:** 14
+   - **Issue:** 8
+   - **Authors:** Iaconi Giulia; Wehbe Alaa; Borro Paolo; Macciò Marco; Dellepiane Silvana
+   - **Keywords:** chronic liver disease | classification | convolutional neural network | image processing | machine learning
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 57374524500;59337953600;6602622687;59756010300;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60107402;60113818;60025153-130272028
+   - **Corresponding:** Iaconi G.
+2.
+   - **Title:** Signal Processing and Feature Extraction in Markerless Telerehabilitation
+   - **Venue:** IEEE Transactions on Neural Systems and Rehabilitation Engineering
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/TNSRE.2025.3541153
+   - **Scopus ID:** 2-s2.0-85217915659
+   - **ISSN:** 15344320
+   - **eISSN:** 15580210
+   - **Volume:** 33
+   - **Pages:** 911-924
+   - **Authors:** Dellepiane Silvana G.; Ferraro Federica; Baffigo Camilla; Simonini Marina
+   - **Keywords:** markerless motion capture (MMC) sensor | nonlinear signal processing | skeletal joint detection | Telerehabilitation
+   - **Quartile:**
+     2025:
+     - Rehabilitation (Q1, rank 1, percentile 99)
+     - Neuroscience (all) (Q1, rank 13, percentile 88)
+     - Internal Medicine (Q1, rank 23, percentile 87)
+     - Biomedical Engineering (Q1, rank 58, percentile 82)
+   - **Source Id:** 16321
+   - **Author Ids:** 7004291247;57222745417;59559842800;26023713300
+   - **Authoraffiliationids:** 60025153-130272028;60025153;60025153;132344519
+   - **Corresponding:** Dellepiane S.G.
+3.
+   - **Title:** Virtual Reality and Markerless Motion Capture in Children Rehabilitation
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICC52391.2025.11161734
+   - **Scopus ID:** 2-s2.0-105018450171
+   - **ISSN:** 15503607
+   - **Pages:** 3686-3692
+   - **Authors:** Hotiet Hawraa; Baffigo Camilla; Truffelli Romina; Simonini Marina; Dellepiane Silvana
+   - **Keywords:** Cerebral Palsy | Exergames | Kinect-V2 Sensor | Markerless Motion Capture (MMC) | Neurological Conditions | Pediatric Rehabilitation | Virtual Reality (VR)
+   - **Source Id:** 33201
+   - **Author Ids:** 59552863000;59559842800;9737219200;26023713300;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;133255720;133255720;60025153
+   - **Corresponding:** Hotiet H.
+4.
+   - **Title:** Evaluation of Machine Learning Models for Movement Classification in Exergame-Based Rehabilitation
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2025
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-84100-2_48
+   - **Scopus ID:** 2-s2.0-105000829298
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 1369 Lnee
+   - **Pages:** 403-410
+   - **Authors:** Hotiet Hawraa; Wehbe Alaa; Ferraro Federica; Dellepiane Silvana
+   - **Keywords:** digital rehabilitation | healthcare technology | machine learning algorithms | motion tracking | motor function recovery | ReMoVES
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 59552863000;59337953600;57222745417;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153-132395467
+   - **Corresponding:** Hotiet H.
+5.
+   - **Title:** STORMS: A Pilot Feasibility Study for Occupational TeleRehabilitation in Multiple Sclerosis
+   - **Venue:** Sensors
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.3390/s24196470
+   - **Scopus ID:** 2-s2.0-85206441910
+   - **eISSN:** 14248220
+   - **Volume:** 24
+   - **Issue:** 19
+   - **Authors:** Vestito Lucilla; Ferraro Federica; Iaconi Giulia; Genesio Giulia; Bandini Fabio; Mori Laura; Trompetto Carlo; Dellepiane Silvana
+   - **Keywords:** home telerehabilitation | Internet of Medical Things | multiple sclerosis | occupational rehabilitation | remote patient monitoring
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2024:
+     - Instrumentation (Q1, rank 21, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 145, percentile 85)
+     - Analytical Chemistry (Q1, rank 30, percentile 81)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 44, percentile 81)
+     - Information Systems (Q1, rank 91, percentile 80)
+     - Biochemistry (Q1, rank 86, percentile 80)
+   - **Source Id:** 130124
+   - **Author Ids:** 56386219700;57222745417;57374524500;58636440600;7004363066;51565392300;6602836622;7004291247
+   - **Authoraffiliationids:** 60025153-60107402;60025153;60025153;60025153;60085005;60025153-60107402;60025153-60107402-129517534;60025153-129517534
+   - **Corresponding:** Vestito L.
+6.
+   - **Title:** Use of superpixels for improvement of inter-rater and intra-rater reliability during annotation of medical images
+   - **Venue:** Medical Image Analysis
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1016/j.media.2024.103141
+   - **Scopus ID:** 2-s2.0-85187801049
+   - **ISSN:** 13618415
+   - **eISSN:** 13618423
+   - **Volume:** 94
+   - **Authors:** Gut Daniel; Trombini Marco; Kucybała Iwona; Krupa Kamil; Rozynek Miłosz; Dellepiane Silvana; Tabor Zbisław; Wojciechowski Wadim
+   - **Keywords:** Data quality | Deep learning training | Diagnostic imaging | Image annotation | Inter-rater reliability | Superpixel segmentation
+   - **Quartile:**
+     2025:
+     - Radiology, Nuclear Medicine and Imaging (Q1, rank 2, percentile 99)
+     - Radiological and Ultrasound Technology (Q1, rank 1, percentile 99)
+     - Health Informatics (Q1, rank 2, percentile 99)
+     - Computer Graphics and Computer-Aided Design (Q1, rank 2, percentile 98)
+     - Computer Vision and Pattern Recognition (Q1, rank 8, percentile 95)
+     2024:
+     - Radiology, Nuclear Medicine and Imaging (Q1, rank 1, percentile 99)
+     - Radiological and Ultrasound Technology (Q1, rank 1, percentile 99)
+     - Health Informatics (Q1, rank 2, percentile 99)
+     - Computer Graphics and Computer-Aided Design (Q1, rank 2, percentile 98)
+     - Computer Vision and Pattern Recognition (Q1, rank 7, percentile 95)
+   - **Source Id:** 17271
+   - **Author Ids:** 57216160553;57210213170;57193527821;57210998371;57268824900;7004291247;6602838478;7004383657
+   - **Authoraffiliationids:** 60017351;60025153;60021323;60021323;60021323;60025153;60017351;60021323
+   - **Corresponding:** Gut D.
+7.
+   - **Title:** Integrating YOLO for Advanced Content-Based Image Retrieval in Lung Cancer Imaging
+   - **Venue:** Proceedings of the IEEE International Conference on Electronics Circuits and Systems
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICECS61496.2024.10848862
+   - **Scopus ID:** 2-s2.0-85217615155
+   - **ISSN:** 29945755
+   - **eISSN:** 29950589
+   - **Authors:** Wehbe Alaa; Hotiet Hawraa; Minetti Irene; Dellapiane Silvana
+   - **Keywords:** Content-Based Image Medical Retrieval | Lung Cancer | Medical Imaging | Object Detection | TNM staging
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 913, percentile 8)
+     2024:
+     - Electrical and Electronic Engineering (Q4, rank 941, percentile 2)
+   - **Source Id:** 91096
+   - **Author Ids:** 59337953600;59552863000;36172521500;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60113818;60025153
+   - **Corresponding:** Wehbe A.
+8.
+   - **Title:** Enhanced Lung Cancer Detection and TNM Staging Using YOLOv8 and TNMClassifier: An Integrated Deep Learning Approach for CT Imaging
+   - **Venue:** IEEE Access
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1109/ACCESS.2024.3462629
+   - **Scopus ID:** 2-s2.0-85204640836
+   - **eISSN:** 21693536
+   - **Volume:** 12
+   - **Pages:** 141414-141424
+   - **Authors:** Wehbe Alaa; Dellepiane Silvana; Minetti Irene
+   - **Keywords:** CT images | Lung cancer classification | TNM staging | YOLOv8
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 42, percentile 88)
+     - Computer Science (all) (Q1, rank 41, percentile 83)
+     - Materials Science (all) (Q1, rank 101, percentile 78)
+     2024:
+     - Engineering (all) (Q1, rank 32, percentile 90)
+     - Computer Science (all) (Q1, rank 33, percentile 86)
+     - Materials Science (all) (Q1, rank 87, percentile 81)
+   - **Source Id:** 21100374601
+   - **Author Ids:** 59337953600;7004291247;36172521500
+   - **Authoraffiliationids:** 60025153;60025153;60113818
+   - **Corresponding:** Wehbe A.
+9.
+   - **Title:** A goal-driven unsupervised image segmentation method combining graph-based processing and Markov random fields
+   - **Venue:** Pattern Recognition
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 30
+   - **DOI:** 10.1016/j.patcog.2022.109082
+   - **Scopus ID:** 2-s2.0-85140090693
+   - **ISSN:** 00313203
+   - **Volume:** 134
+   - **Authors:** Trombini Marco; Solarna David; Moser Gabriele; Dellepiane Silvana
+   - **Keywords:** Graph signal processing | Magnetic resonance imagery | Markovian modeling | Parametric model estimation | Pattern recognition | Segmentation | Synthetic aperture radar
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 8, percentile 96)
+     - Software (Q1, rank 25, percentile 95)
+     - Computer Vision and Pattern Recognition (Q1, rank 11, percentile 93)
+     - Artificial Intelligence (Q1, rank 36, percentile 92)
+     2023:
+     - Signal Processing (Q1, rank 9, percentile 93)
+     - Software (Q1, rank 30, percentile 92)
+     - Computer Vision and Pattern Recognition (Q1, rank 10, percentile 91)
+     - Artificial Intelligence (Q1, rank 33, percentile 90)
+   - **Source Id:** 24823
+   - **Author Ids:** 57210213170;57192703421;7101795745;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Trombini M.
+10.
+   - **Title:** The SPeRA web Portal for Cooperation Associations and Projects in Africa
+   - **Venue:** 2023 IEEE Global Humanitarian Technology Conference Ghtc 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/GHTC56179.2023.10354760
+   - **Scopus ID:** 2-s2.0-85182735297
+   - **Pages:** 419-424
+   - **Authors:** Trombini Marco; Morando Matteo; Riboli Edoardo Berti; Zanna Mauro; Rudelli Andrea; Dellepiane Silvana
+   - **Keywords:** Development cooperation | humanitarian projects | PVOs
+   - **Source Id:** 21101196760
+   - **Author Ids:** 57210213170;57038386800;55961844900;58821283600;58821495200;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;130737759;130738005;60025153
+   - **Corresponding:** Trombini M.
+11.
+   - **Title:** Spatial Exploration Indicators in the Remote Assessment of Visual Neglect
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2023
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-43153-1_46
+   - **Scopus ID:** 2-s2.0-85173574659
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 14234 Lncs
+   - **Pages:** 552-563
+   - **Authors:** Ferraro Federica; Iaconi Giulia; Genesio Giulia; Truffelli Romina; Amella Roberta; Simonini Marina; Dellepiane Silvana
+   - **Keywords:** assessment test | Spatial exploration | USN
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+     2023:
+     - Computer Science (all) (Q3, rank 121, percentile 48)
+     - Theoretical Computer Science (Q3, rank 69, percentile 47)
+   - **Source Id:** 25674
+   - **Author Ids:** 57222745417;57374524500;58636440600;9737219200;57403311600;26023713300;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60086675;60086675;60086675;60025153-130272028
+   - **Corresponding:** Ferraro F.
+12.
+   - **Title:** Graph-Based Segmentation and Markov Random Field for Covid-19 Infection in Lung CT Volumes
+   - **Venue:** Lecture Notes in Networks and Systems
+   - **Year:** 2023
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-16281-7_5
+   - **Scopus ID:** 2-s2.0-85137998701
+   - **ISSN:** 23673370
+   - **eISSN:** 23673389
+   - **Volume:** 546 Lnns
+   - **Pages:** 43-52
+   - **Authors:** Iaconi Giulia; Ferraro Federica; Balletto Marco; Solarna David; Trombini Marco; Moser Gabriele; Dellepiane Silvana
+   - **Keywords:** Biomedical image | Graph-cut | Markov random field | Unsupervised segmentation
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 146, percentile 25)
+     - Computer Networks and Communications (Q3, rank 410, percentile 25)
+     - Control and Systems Engineering (Q4, rank 302, percentile 20)
+     2023:
+     - Signal Processing (Q4, rank 113, percentile 14)
+     - Control and Systems Engineering (Q4, rank 277, percentile 13)
+     - Computer Networks and Communications (Q4, rank 354, percentile 10)
+   - **Source Id:** 21100901469
+   - **Author Ids:** 57374524500;57222745417;57889711300;57192703421;57210213170;7101795745;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Iaconi G.
+13.
+   - **Title:** Signal processing for remote monitoring of home-based rehabilitation support activities
+   - **Venue:** 2022 IEEE International Conference on E Health Networking Application and Services Healthcom 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/HealthCom54947.2022.9982749
+   - **Scopus ID:** 2-s2.0-85146285250
+   - **Pages:** 192-198
+   - **Authors:** Ferraro Federica; Iaconi Giulia; Simonini Marina; Dellepiane Silvana
+   - **Keywords:** Exergame | Remote monitoring | Signal Processing | Tele-rehabilitation
+   - **Source Id:** 21101131440
+   - **Author Ids:** 57222745417;57374524500;26023713300;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60086675;60025153
+   - **Corresponding:** Ferraro F.
+14.
+   - **Title:** A study protocol for occupational rehabilitation in multiple sclerosis
+   - **Venue:** Sensors
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.3390/s21248436
+   - **Scopus ID:** 2-s2.0-85121296119
+   - **ISSN:** 14248220
+   - **Volume:** 21
+   - **Issue:** 24
+   - **Authors:** Trombini Marco; Ferraro Federica; Iaconi Giulia; Vestito Lucilla; Bandini Fabio; Mori Laura; Trompetto Carlo; Dellepiane Silvana
+   - **Keywords:** Internet of Medical Things | Multiple sclerosis | Occupational rehabilitation | Remote patient monitoring | Telerehabilitation
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2021:
+     - Instrumentation (Q1, rank 12, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 134, percentile 81)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 42, percentile 79)
+     - Analytical Chemistry (Q1, rank 27, percentile 79)
+     - Information Systems (Q1, rank 77, percentile 78)
+     - Biochemistry (Q2, rank 145, percentile 66)
+   - **Source Id:** 130124
+   - **Author Ids:** 57210213170;57222745417;57374524500;56386219700;7004363066;51565392300;6602836622;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153-60107402;60085005;60025153-60107402;60025153-60107402;60025153
+   - **Corresponding:** Trombini M.
+15.
+   - **Title:** Camera color correction for cultural heritage preservation based on clustered data
+   - **Venue:** Journal of Imaging
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.3390/jimaging7070115
+   - **Scopus ID:** 2-s2.0-85111470153
+   - **eISSN:** 2313433X
+   - **Volume:** 7
+   - **Issue:** 7
+   - **Authors:** Trombini Marco; Ferraro Federica; Manfredi Emanuela; Petrillo Giovanni; Dellepiane Silvana
+   - **Keywords:** Camera characterization | Chemical composition | Color correction
+   - **Quartile:**
+     2025:
+     - Radiology, Nuclear Medicine and Imaging (Q1, rank 46, percentile 87)
+     - Computer Graphics and Computer-Aided Design (Q1, rank 24, percentile 82)
+     - Computer Vision and Pattern Recognition (Q1, rank 33, percentile 80)
+     - Electrical and Electronic Engineering (Q1, rank 202, percentile 79)
+     2021:
+     - Radiology, Nuclear Medicine and Imaging (Q2, rank 82, percentile 73)
+     - Computer Graphics and Computer-Aided Design (Q2, rank 26, percentile 71)
+     - Electrical and Electronic Engineering (Q2, rank 214, percentile 69)
+     - Computer Vision and Pattern Recognition (Q2, rank 35, percentile 63)
+   - **Source Id:** 21100900151
+   - **Author Ids:** 57210213170;57222745417;57208238365;7004587940;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Trombini M.
+16.
+   - **Title:** On the assessment of unilateral spatial neglect via digital tests
+   - **Venue:** International IEEE EMBS Conference on Neural Engineering Ner
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/NER49283.2021.9441471
+   - **Scopus ID:** 2-s2.0-85107485569
+   - **ISSN:** 19483546
+   - **eISSN:** 19483554
+   - **Volume:** 2021-May
+   - **Pages:** 802-806
+   - **Authors:** Ferraro Federica; Trombini Marco; Truffelli Romina; Simonini Marina; Dellepiane Silvana
+   - **Keywords:** Cognitive assessment | Digital solution | Unilateral spatial neglect
+   - **Quartile:**
+     2025:
+     - Mechanical Engineering (Q3, rank 450, percentile 38)
+     - Artificial Intelligence (Q3, rank 312, percentile 37)
+   - **Source Id:** 21100291854
+   - **Author Ids:** 57222745417;57210213170;9737219200;26023713300;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60086675;60086675;60025153
+   - **Corresponding:** Ferraro F.
+17.
+   - **Title:** On the use of boundary gradient for the analysis of MR wrist bones volumes segmentation
+   - **Venue:** ACM International Conference Proceeding Series
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1145/3468945.3468950
+   - **Scopus ID:** 2-s2.0-85116589308
+   - **Pages:** 27-32
+   - **Authors:** Trombini Marco; Ferraro Federica; Dellepiane Silvana
+   - **Keywords:** boundary gradient | carpal bones | Volume segmentation
+   - **Source Id:** 11600154611
+   - **Author Ids:** 57210213170;57222745417;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Trombini M.
+18.
+   - **Title:** A solution for the remote care of frail elderly individuals via exergames
+   - **Venue:** Sensors
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.3390/s21082719
+   - **Scopus ID:** 2-s2.0-85103980596
+   - **ISSN:** 14248220
+   - **Volume:** 21
+   - **Issue:** 8
+   - **Authors:** Trombini Marco; Ferraro Federica; Morando Matteo; Regesta Giovanni; Dellepiane Silvana
+   - **Keywords:** Elder care | Exergames | IoT solution | Telerehabilitation
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2021:
+     - Instrumentation (Q1, rank 12, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 134, percentile 81)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 42, percentile 79)
+     - Analytical Chemistry (Q1, rank 27, percentile 79)
+     - Information Systems (Q1, rank 77, percentile 78)
+     - Biochemistry (Q2, rank 145, percentile 66)
+   - **Source Id:** 130124
+   - **Author Ids:** 57210213170;57222745417;57038386800;57222742464;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;126017466;60025153
+   - **Corresponding:** Trombini M.
+19.
+   - **Title:** Hepatic Elastometry and Glissonian Line in the Assessment of Liver Fibrosis
+   - **Venue:** Ultrasound in Medicine and Biology
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1016/j.ultrasmedbio.2020.12.015
+   - **Scopus ID:** 2-s2.0-85099316766
+   - **ISSN:** 03015629
+   - **eISSN:** 1879291X
+   - **Volume:** 47
+   - **Issue:** 4
+   - **Pages:** 947-959
+   - **Authors:** Borro Paolo; Ziola Sebastiano; Pasta Andrea; Trombini Marco; Labanca Sara; Marenco Simona; Solarna David; Pisciotta Livia; Baldissarro Isabella; Picciotto Antonino; Dellepiane Silvana
+   - **Keywords:** Fibrosis staging | Liver fibrosis | Neural networks | Transient elastography
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q1, rank 13, percentile 76)
+     - Radiological and Ultrasound Technology (Q2, rank 25, percentile 61)
+     - Biophysics (Q2, rank 65, percentile 58)
+     2021:
+     - Acoustics and Ultrasonics (Q1, rank 8, percentile 82)
+     - Radiological and Ultrasound Technology (Q2, rank 16, percentile 74)
+     - Biophysics (Q2, rank 38, percentile 72)
+   - **Source Id:** 35716
+   - **Author Ids:** 6602622687;57216541841;57204044185;57210213170;56568449700;36725021200;57192703421;6602289161;56331932500;59140484800;7004291247
+   - **Authoraffiliationids:** 60003700;60003700;60003700;60025153;60003700;60003700;60025153;60003700-60107402;60003700;60003700;60025153
+   - **Corresponding:** Borro P.
+20.
+   - **Title:** On the performance assessment during the practice of an exergame for cerebellar ataxia patients
+   - **Venue:** Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society EMBS
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/EMBC46164.2021.9630289
+   - **Scopus ID:** 2-s2.0-85122549318
+   - **ISSN:** 1557170X
+   - **Volume:** 2021-January
+   - **Pages:** 5747-5751
+   - **Authors:** Trombini Marco; Ferraro Federica; Nardelli Alice; Vestito Lucilla; Schenone Giulia; Mori Laura; Trompetto Carlo; Dellepiane Silvana
+   - **Keywords:** assessment | cerebellar ataxia | upper-limb
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 585, percentile 41)
+     2021:
+     - Subject (Q3, rank 62, percentile 34)
+     - Subject (Q3, rank 78, percentile 32)
+     - Subject (Q3, rank 79, percentile 27)
+     - Subject (Q3, rank 188, percentile 25)
+   - **Source Id:** 34202
+   - **Author Ids:** 57210213170;57222745417;58772575700;56386219700;57406176700;51565392300;6602836622;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60107402;60107402;60025153;60025153;60025153
+   - **Corresponding:** Trombini M.
+21.
+   - **Title:** Improved visuospatial neglect after tDCS and computer-assisted cognitive training in Posterior Cortical Atrophy: a single-case study
+   - **Venue:** Neurocase
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1080/13554794.2020.1862242
+   - **Scopus ID:** 2-s2.0-85097755792
+   - **ISSN:** 13554794
+   - **eISSN:** 14653656
+   - **Volume:** 27
+   - **Issue:** 1
+   - **Pages:** 57-63
+   - **Authors:** Vestito Lucilla; Trombini Marco; Mori Laura; Dellepiane Silvana; Trompetto Carlo; Morando Matteo; Bandini Fabio
+   - **Keywords:** computer-assisted cognitive training | posterior cortical atrophy | posterior parietal cortex | tDCS | Visuospatial neglect
+   - **Quartile:**
+     2025:
+     - Arts and Humanities (miscellaneous) (Q2, rank 216, percentile 67)
+     - Neurology (clinical) (Q4, rank 312, percentile 22)
+     2021:
+     - Arts and Humanities (miscellaneous) (Q2, rank 177, percentile 52)
+     - Neurology (clinical) (Q3, rank 264, percentile 26)
+   - **Source Id:** 17468
+   - **Author Ids:** 56386219700;57210213170;51565392300;7004291247;6602836622;57038386800;7004363066
+   - **Authoraffiliationids:** 60107402;60025153;60107402-60025153;60025153;60107402-60025153;60025153;60280823
+   - **Corresponding:** Vestito L.
+22.
+   - **Title:** A Digital Image Processing Approach for Hepatic Diseases Staging based on the Glisson's Capsule
+   - **Venue:** Icecie 2020 2020 2nd International Conference on Electrical Control and Instrumentation Engineering Proceedings
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ICECIE50279.2020.9309633
+   - **Scopus ID:** 2-s2.0-85100026726
+   - **Authors:** Trombini Marco; Borro Paolo; Ziola Sebastiano; Dellepiane Silvana
+   - **Keywords:** Glisson's capsule | liver diseases | ultrasound imaging
+   - **Source Id:** 21101034428
+   - **Author Ids:** 57210213170;6602622687;57216541841;7004291247
+   - **Authoraffiliationids:** 60025153;60107402;60107402;60025153
+   - **Corresponding:** Trombini M.
+23.
+   - **Title:** Unilateral spatial neglect rehabilitation supported by a digital solution: Two case-studies
+   - **Venue:** Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society EMBS
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/EMBC44109.2020.9175834
+   - **Scopus ID:** 2-s2.0-85090997986
+   - **ISSN:** 1557170X
+   - **Volume:** 2020-July
+   - **Pages:** 3670-3675
+   - **Authors:** Trombini Marco; Vestito Lucilla; Morando Matteo; Mori Laura; Trompetto Carlo; Bandini Fabio; Dellepiane Silvana
+   - **Keywords:** rehabilitation | transcranial direct-current stimulation | unilateral spatial neglect
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 585, percentile 41)
+     2020:
+     - Subject (Q3, rank 79, percentile 27)
+     - Subject (Q3, rank 70, percentile 26)
+     - Subject (Q3, rank 63, percentile 26)
+     - Subject (Q4, rank 177, percentile 22)
+   - **Source Id:** 34202
+   - **Author Ids:** 57210213170;56386219700;57038386800;51565392300;6602836622;7004363066;7004291247
+   - **Authoraffiliationids:** 60025153;60107402;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Trombini M.
+24.
+   - **Title:** Application of SVM for evaluation of training performance in exergames for motion rehabilitation
+   - **Venue:** ACM International Conference Proceeding Series
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1145/3332340.3332342
+   - **Scopus ID:** 2-s2.0-85069933862
+   - **Pages:** 1-5
+   - **Authors:** Morando Matteo; Trombini Marco; Dellepiane Silvana
+   - **Keywords:** Exergaming | Game-based rehabilitation | Leap motion | Machine learning | Microsoft Kinect V2 | Support Vector Machines (SVM) | Telemedicine
+   - **Source Id:** 11600154611
+   - **Author Ids:** 57038386800;57210213170;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Morando M.
+25.
+   - **Title:** Sustainable technologies for health education in low and middle income countries
+   - **Venue:** 31st European Modeling and Simulation Symposium Emss 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85073798037
+   - **Pages:** 226-230
+   - **Authors:** Ferrara Elisa; Dellepiane Silvana; Frascio Marco
+   - **Keywords:** LMS | Medicine | MHealth | Surgery education | Sustainable technologies
+   - **Source Id:** 21100933301
+   - **Author Ids:** 56781145000;7004291247;6602119395
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ferrara E.
+26.
+   - **Title:** A novel digital-camera characterization method for pigment identification in cultural heritage
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2019
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1007/978-3-030-13940-7_15
+   - **Scopus ID:** 2-s2.0-85064218662
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 11418 Lncs
+   - **Pages:** 195-206
+   - **Authors:** Manfredi Emanuela; Petrillo Giovanni; Dellepiane Silvana
+   - **Keywords:** Calibration | Camera characterization | Color identification | Colorimeter
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+     2019:
+     - Computer Science (all) (Q2, rank 95, percentile 57)
+     - Theoretical Computer Science (Q3, rank 77, percentile 35)
+   - **Source Id:** 25674
+   - **Author Ids:** 57208238365;7004587940;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Manfredi E.
+27.
+   - **Title:** ReMoVES Remote Monitoring Validation Engineering System: New Way of Care
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2019
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1007/978-3-030-04672-9_15
+   - **Scopus ID:** 2-s2.0-85061373133
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 540
+   - **Pages:** 227-240
+   - **Authors:** Ferrara Elisa; Ponte Serena; Morando Matteo; Dellepiane Silvana
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+     2019:
+     - Industrial and Manufacturing Engineering (Q3, rank 246, percentile 27)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 56781145000;56781229500;57038386800;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Ferrara E.
+28.
+   - **Title:** Monitoring Home-Based Activity of Stroke Patients: A Digital Solution for Visuo-Spatial Neglect Evaluation
+   - **Venue:** Biosystems and Biorobotics
+   - **Year:** 2019
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 3
+   - **DOI:** 10.1007/978-3-030-01845-0_139
+   - **Scopus ID:** 2-s2.0-85055351342
+   - **ISSN:** 21953562
+   - **eISSN:** 21953570
+   - **Volume:** 21
+   - **Pages:** 696-701
+   - **Authors:** Morando M.; Bonotti E. Bacci; Giannarelli G.; Olivieri S.; Dellepiane S.; Cecchi F.
+   - **Quartile:**
+     2025:
+     - Artificial Intelligence (Q4, rank 435, percentile 12)
+     - Mechanical Engineering (Q4, rank 663, percentile 9)
+     - Biomedical Engineering (Q4, rank 317, percentile 5)
+     2019:
+     - Mechanical Engineering (Q4, rank 447, percentile 23)
+     - Biomedical Engineering (Q4, rank 196, percentile 13)
+     - Artificial Intelligence (Q4, rank 178, percentile 12)
+   - **Source Id:** 21100826748
+   - **Author Ids:** 57038386800;57204360933;57202114661;57204360655;7004291247;7007094305
+   - **Authoraffiliationids:** 60025153;60083100;60083100;60083100;60025153;60083100
+   - **Corresponding:** Morando M.
+29.
+   - **Title:** Quantification of ultrasound imaging in the staging of hepatic fibrosis
+   - **Venue:** Panminerva Medica
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.23736/S0031-0808.18.03416-X
+   - **Scopus ID:** 2-s2.0-85046973359
+   - **ISSN:** 00310808
+   - **eISSN:** 18271898
+   - **Volume:** 60
+   - **Issue:** 2
+   - **Pages:** 44-51
+   - **Authors:** Borro Paolo; Dellepiane Silvana G.; Pellicano Rinaldo; Gemme Laura; Fagoonee Sharmila; Testino Gianni
+   - **Keywords:** Elasticity imaging techniques | Ethanol | Liver cirrhosis | Ultrasonography
+   - **Quartile:**
+     2018:
+     - Medicine (all) (Q1, rank 66, percentile 88)
+   - **Source Id:** 16485
+   - **Author Ids:** 6602622687;7004291247;7005853671;56422411700;6603221574;7006462423
+   - **Authoraffiliationids:** 60107402;60025153;60005091;60025153;60021199;120687413
+   - **Corresponding:** Borro P.
+30.
+   - **Title:** Definition of motion and biophysical indicators for home-based rehabilitation through serious games
+   - **Venue:** Information Switzerland
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 24
+   - **DOI:** 10.3390/info9050105
+   - **Scopus ID:** 2-s2.0-85046684924
+   - **eISSN:** 20782489
+   - **Volume:** 9
+   - **Issue:** 5
+   - **Authors:** Morando Matteo; Ponte Serena; Ferrara Elisa; Dellepiane Silvana
+   - **Keywords:** Electrodermal activity | Game-based rehabilitation | Heart rate | Leap motion | Machine learning | Microsoft kinect | Post-stroke rehabilitation | Serious games
+   - **Quartile:**
+     2025:
+     - Information Systems (Q1, rank 115, percentile 76)
+     2018:
+     - Information Systems (Q3, rank 172, percentile 40)
+   - **Source Id:** 21100223111
+   - **Author Ids:** 57038386800;56781229500;56781145000;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Morando M.
+31.
+   - **Title:** An automatic data-driven method for SAR image segmentation in sea surface analysis
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 27
+   - **DOI:** 10.1109/TGRS.2017.2769710
+   - **Scopus ID:** 2-s2.0-85041651610
+   - **ISSN:** 01962892
+   - **Volume:** 56
+   - **Issue:** 5
+   - **Pages:** 2633-2646
+   - **Authors:** Gemme Laura; Dellepiane Silvana G.
+   - **Keywords:** Automatic graph-based segmentation | Multiseed | Sea monitoring | Synthetic aperture radar (SAR) images | Unsupervised
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2018:
+     - Earth and Planetary Sciences (all) (Q1, rank 3, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 30, percentile 95)
+   - **Source Id:** 17360
+   - **Author Ids:** 56422411700;7004291247
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Gemme L.
+32.
+   - **Title:** Biophysical and motion features extraction for an effective home-based rehabilitation
+   - **Venue:** ACM International Conference Proceeding Series
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1145/3175587.3175597
+   - **Scopus ID:** 2-s2.0-85041897766
+   - **Pages:** 79-85
+   - **Authors:** Morando Matteo; Ponte Serena; Femara Elisa; Dellepiane Silvana
+   - **Keywords:** Electrodermal activity | Game-based rehabilitation | Games | Heart rate | Leap Motion | Microsoft Kinect V2 | Post-stroke rehabilitation | Serious games
+   - **Source Id:** 11600154611
+   - **Author Ids:** 57038386800;56781229500;56781145000;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Morando M.
+33.
+   - **Title:** Automatic MPST-cut for segmentation of carpal bones from MR volumes
+   - **Venue:** Computers in Biology and Medicine
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1016/j.compbiomed.2017.06.011
+   - **Scopus ID:** 2-s2.0-85021062557
+   - **ISSN:** 00104825
+   - **eISSN:** 18790534
+   - **Volume:** 87
+   - **Pages:** 335-346
+   - **Authors:** Gemme Laura; Nardotto Sonia; Dellepiane Silvana G.
+   - **Keywords:** Automatic volume segmentation | Carpal bones | Graph-segmentation | Magnetic Resonance volumes | MPST-cut | Shape factor
+   - **Quartile:**
+     2025:
+     - Health Informatics (Q1, rank 11, percentile 93)
+     - Computer Science Applications (Q1, rank 81, percentile 91)
+     2017:
+     - Computer Science Applications (Q2, rank 150, percentile 73)
+     - Health Informatics (Q2, rank 17, percentile 73)
+   - **Source Id:** 17957
+   - **Author Ids:** 56422411700;55419898600;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Gemme L.
+34.
+   - **Title:** Multitemporal Volume Registration for the Analysis of Rheumatoid Arthritis Evolution in the Wrist
+   - **Venue:** International Journal of Biomedical Imaging
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1155/2017/7232751
+   - **Scopus ID:** 2-s2.0-85042223327
+   - **ISSN:** 16874188
+   - **eISSN:** 16874196
+   - **Volume:** 2017
+   - **Authors:** Ferretti Roberta; Dellepiane Silvana G.
+   - **Quartile:**
+     2025:
+     - Radiology, Nuclear Medicine and Imaging (Q2, rank 174, percentile 50)
+     2017:
+     - Radiology, Nuclear Medicine and Imaging (Q2, rank 86, percentile 69)
+   - **Source Id:** 4000150002
+   - **Author Ids:** 57215478984;7004291247
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Ferretti R.
+35.
+   - **Title:** Sustainable cooperative distance learning system for education in developing countries
+   - **Venue:** 2016 Ist Africa Conference Ist Africa 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ISTAFRICA.2016.7530648
+   - **Scopus ID:** 2-s2.0-84985906216
+   - **Authors:** Ferrara Elisa; Ponte Serena; Caputo Enza; Frascio Marco; Dellepiane Silvana
+   - **Keywords:** cooperative learning | LMS | Sustainable technologies
+   - **Source Id:** 21100777454
+   - **Author Ids:** 56781145000;56781229500;57191042357;6602119395;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Ferrara E.
+36.
+   - **Title:** Multi-temporal MRI carpal bone volumes analysis by principal axes registration
+   - **Venue:** Progress in Biomedical Optics and Imaging Proceedings of SPIE
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1117/12.2211054
+   - **Scopus ID:** 2-s2.0-84978863682
+   - **ISSN:** 16057422
+   - **Volume:** 9788
+   - **Authors:** Ferretti Roberta; Dellepiane Silvana
+   - **Keywords:** Carpal bone | MRI | Multi-temporal analysis | Principal axes registration
+   - **Quartile:**
+     2025:
+     - Radiology, Nuclear Medicine and Imaging (Q4, rank 271, percentile 23)
+     - Atomic and Molecular Physics, and Optics (Q4, rank 200, percentile 16)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 263, percentile 15)
+     - Biomaterials (Q4, rank 131, percentile 10)
+     2016:
+     - Radiology, Nuclear Medicine and Imaging (Q4, rank 207, percentile 22)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 183, percentile 16)
+     - Atomic and Molecular Physics, and Optics (Q4, rank 137, percentile 15)
+     - Biomaterials (Q4, rank 64, percentile 10)
+   - **Source Id:** 130022
+   - **Author Ids:** 57215478984;7004291247
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Ferretti R.
+37.
+   - **Title:** A fuzzy graph-based segmentation for marine and maritime applications in SAR images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IGARSS.2015.7325948
+   - **Scopus ID:** 2-s2.0-84962596448
+   - **Volume:** 2015-November
+   - **Pages:** 1044-1047
+   - **Authors:** Gemme Laura; Dellepiane Silvana
+   - **Keywords:** Automatic segmentation | fuzzy connectedness | graph-based theory | sea monitoring
+   - **Source Id:** 82000
+   - **Author Ids:** 56422411700;7004291247
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Gemme L.
+38.
+   - **Title:** Monitoring game-based motor rehabilitation of patients at home for better plans of care and quality of life
+   - **Venue:** Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society EMBS
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/EMBC.2015.7319256
+   - **Scopus ID:** 2-s2.0-84953231862
+   - **ISSN:** 1557170X
+   - **Volume:** 2015-November
+   - **Pages:** 3941-3944
+   - **Authors:** Ponte S.; Gabrielli S.; Jonsdottir J.; Morando M.; Dellepiane S.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 585, percentile 41)
+     2015:
+     - Subject (Q3, rank 59, percentile 33)
+     - Subject (Q3, rank 2279, percentile 30)
+     - Subject (Q3, rank 46, percentile 28)
+     - Subject (Q3, rank 132, percentile 28)
+     - Subject (Q4, rank 43, percentile 21)
+   - **Source Id:** 34202
+   - **Author Ids:** 56781229500;8883252000;15845677800;57038386800;7004291247
+   - **Authoraffiliationids:** 60025153;60103308;60083100;60025153;60025153
+   - **Corresponding:** Ponte S.
+39.
+   - **Title:** Azimuth ambiguity spatial correlation composite (ASCC): A novel method for ghost enhancement in SAR images
+   - **Venue:** Mts IEEE Oceans 2015 Genova Discovering Sustainable Ocean Energy for A New World
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/OCEANS-Genova.2015.7271542
+   - **Scopus ID:** 2-s2.0-84957712295
+   - **Authors:** Gemme Laura; Dellepiane Silvana; Vernazza Gianni
+   - **Keywords:** Ambiguity | Cosmo-SkyMed | Data fusion | Geostatistical spatial correlation
+   - **Source Id:** 21100444318
+   - **Author Ids:** 56422411700;7004291247;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Gemme L.
+40.
+   - **Title:** Fuzzy clustering of digital images by exploiting densitometric and topological information
+   - **Venue:** European Signal Processing Conference
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85113909315
+   - **ISSN:** 22195491
+   - **Authors:** Mari M.; Garcia C.; Dellepiane S.
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 109, percentile 44)
+     - Electrical and Electronic Engineering (Q3, rank 573, percentile 42)
+   - **Source Id:** 21100204301
+   - **Author Ids:** 57104798200;57670484700;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Mari M.
+41.
+   - **Title:** A new Graph-Based method for automatic segmentation
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2015
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1007/978-3-319-23231-7_54
+   - **Scopus ID:** 2-s2.0-84944810308
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 9279
+   - **Pages:** 601-611
+   - **Authors:** Gemme Laura; Dellepiane Silvana
+   - **Keywords:** Graph theory | Minimum Path Spanning Tree | MRI volumes | Unsupervised segmentation
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+     2015:
+     - Computer Science (all) (Q2, rank 87, percentile 57)
+     - Theoretical Computer Science (Q3, rank 76, percentile 36)
+   - **Source Id:** 25674
+   - **Author Ids:** 56422411700;7004291247
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Gemme L.
+42.
+   - **Title:** Color spaces in data fusion of Multi-temporal images
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2015
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/978-3-319-23231-7_55
+   - **Scopus ID:** 2-s2.0-84944752353
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 9279
+   - **Pages:** 612-622
+   - **Authors:** Ferretti Roberta; Dellepiane Silvana
+   - **Keywords:** Color | Data fusion | Triphasic
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+     2015:
+     - Computer Science (all) (Q2, rank 87, percentile 57)
+     - Theoretical Computer Science (Q3, rank 76, percentile 36)
+   - **Source Id:** 25674
+   - **Author Ids:** 57215478984;7004291247
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Ferretti R.
+43.
+   - **Title:** Optimizing and evaluating a graph-based segmentation of MRI wrist bones
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2015
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1007/978-3-319-23222-5_20
+   - **Scopus ID:** 2-s2.0-84944682021
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 9281
+   - **Pages:** 159-166
+   - **Authors:** Nardotto Sonia; Ferretti Roberta; Gemme Laura; Dellepiane Silvana
+   - **Keywords:** 3D graph-based segmentation | Carpal bones | MRI volumes | Quantitative evaluation
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+     2015:
+     - Computer Science (all) (Q2, rank 87, percentile 57)
+     - Theoretical Computer Science (Q3, rank 76, percentile 36)
+   - **Source Id:** 25674
+   - **Author Ids:** 55419898600;57215478984;56422411700;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Nardotto S.
+44.
+   - **Title:** Prediction of healthy blood with data mining classification by using decision tree, naïve Bayesian and SVM approaches
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1117/12.2179871
+   - **Scopus ID:** 2-s2.0-84925431268
+   - **ISSN:** 0277786X
+   - **eISSN:** 1996756X
+   - **Volume:** 9443
+   - **Authors:** Khalilinezhad Mahdieh; Minaei Behrooz; Vernazza Gianni; Dellepiane Silvana
+   - **Keywords:** Blood donor | Classification Algorithm | Data mining
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+     2015:
+     - Electrical and Electronic Engineering (Q3, rank 418, percentile 36)
+     - Computer Science Applications (Q3, rank 371, percentile 27)
+     - Condensed Matter Physics (Q3, rank 299, percentile 25)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 160, percentile 25)
+     - Applied Mathematics (Q4, rank 311, percentile 23)
+   - **Source Id:** 40067
+   - **Author Ids:** 53877890900;57189260415;7005048304;7004291247
+   - **Authoraffiliationids:** 60025153;60012835;60012835;60025153
+   - **Corresponding:** Khalilinezhad M.
+45.
+   - **Title:** The SEAGOSS project: Monitoring coastal seawater in Italy by remote sensing data
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/IGARSS.2014.6947480
+   - **Scopus ID:** 2-s2.0-84911446521
+   - **Pages:** 4454-4457
+   - **Authors:** De Martino Michaela; Dellepiane Silvana; Gemme Laura; Moser Gabriele; Serpico Sebastiano B.; Toma Matteo; Degano Cristiana; Loiaconi Aldo; Mainenti Ilaria; Cusati Luis Alberto; Pedroncini Andrea
+   - **Keywords:** Coastal monitoring | marine circulation model | oil slicks | satellite data | Support Vector Machines
+   - **Source Id:** 82000
+   - **Author Ids:** 7102899067;7004291247;56422411700;7101795745;7005306316;56041324800;6602277633;56422493200;56422305300;56362914400;56363169900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;101838253;101838253;101838253;115905199;115905199
+   - **Corresponding:** De Martino M.
+46.
+   - **Title:** Infrastructure for data management and user centered rehabilitation in Rehab@Home project
+   - **Venue:** ACM International Conference Proceeding Series
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1145/2674396.2674419
+   - **Scopus ID:** 2-s2.0-84939239547
+   - **Volume:** 2014-May
+   - **Authors:** Ferrara Elisa; Nardotto Sonia; Ponte Serena; Dellepiane Silvana G.
+   - **Keywords:** Data collection | Data management | Rehabilitation | Risk monitoring | Serious games based rehabilitation environment | Stroke relapse prevention | User centered home rehabilitation
+   - **Source Id:** 11600154611
+   - **Author Ids:** 56781145000;55419898600;56781229500;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Ferrara E.
+47.
+   - **Title:** Quality assessment of despeckled SAR images
+   - **Venue:** IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 97
+   - **DOI:** 10.1109/JSTARS.2013.2279501
+   - **Scopus ID:** 2-s2.0-84894456422
+   - **ISSN:** 19391404
+   - **eISSN:** 21511535
+   - **Volume:** 7
+   - **Issue:** 2
+   - **Pages:** 691-707
+   - **Authors:** Dellepiane Silvana G.; Angiati Elena
+   - **Keywords:** Adaptive filters | anisotropic diffusion | despeckling | frequency analysis | SAR images | statistical analysis
+   - **Quartile:**
+     2025:
+     - Atmospheric Science (Q1, rank 19, percentile 87)
+     - Computers in Earth Sciences (Q1, rank 11, percentile 86)
+     2014:
+     - Atmospheric Science (Q1, rank 22, percentile 77)
+     - Computers in Earth Sciences (Q1, rank 6, percentile 75)
+   - **Source Id:** 17700155033
+   - **Author Ids:** 7004291247;24075443000
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Dellepiane S.G.
+48.
+   - **Title:** Extracting hidden patterns in blood donor database using association rule mining
+   - **Venue:** Proceedings of the European Conference on Data Mining 2014 and International Conferences on Intelligent Systems and Agents 2014 and Theory and Practice in Modern Computing 2014 Part of the Multi Conference on Computer Science and Information Systems Mccsis 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-84929305142
+   - **Pages:** 12-20
+   - **Authors:** Khalilinezhad Mahdieh; Dellepiane Silvana; Abedi Farshid; Vernazza Gianni
+   - **Keywords:** Apriori algorithm | Association rules | Blood donor | Data mining
+   - **Source Id:** 21100390392
+   - **Author Ids:** 53877890900;7004291247;37092529200;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60013544;60025153
+   - **Corresponding:** Khalilinezhad M.
+49.
+   - **Title:** Fuzzy image segmentation: An automatic unsupervised method
+   - **Venue:** Lecture Notes in Computational Vision and Biomechanics
+   - **Year:** 2014
+   - **Type:** Book Series
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1007/978-3-319-04039-4_4
+   - **Scopus ID:** 2-s2.0-84927603495
+   - **ISSN:** 22129391
+   - **eISSN:** 22129413
+   - **Volume:** 15
+   - **Pages:** 65-88
+   - **Authors:** Dellepiane Silvana G.; Nardotto Sonia
+   - **Keywords:** Connectedness | Egmentation | Fuzzy processing | MSlesion detection
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 53, percentile 69)
+     - Signal Processing (Q2, rank 63, percentile 67)
+     - Mechanical Engineering (Q2, rank 241, percentile 67)
+     - Computer Science Applications (Q2, rank 377, percentile 61)
+     - Artificial Intelligence (Q2, rank 200, percentile 59)
+     - Biomedical Engineering (Q2, rank 163, percentile 51)
+     2014:
+     - Mechanical Engineering (Q4, rank 415, percentile 20)
+     - Biomedical Engineering (Q4, rank 164, percentile 9)
+     - Computer Science Applications (Q4, rank 459, percentile 8)
+     - Signal Processing (Q4, rank 76, percentile 7)
+     - Artificial Intelligence (Q4, rank 141, percentile 6)
+     - Computer Vision and Pattern Recognition (Q4, rank 61, percentile 5)
+   - **Source Id:** 21100380994
+   - **Author Ids:** 7004291247;55419898600
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Dellepiane S.
+50.
+   - **Title:** A data fusion approach for the analysis of azimuth ambiguities
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/IGARSS.2013.6723744
+   - **Scopus ID:** 2-s2.0-84894265054
+   - **Pages:** 4138-4141
+   - **Authors:** Dellepiane Silvana; De Martino Michaela; Toma Matteo
+   - **Keywords:** Cosmo-Skymed | Data Fusion | Sea monitoring
+   - **Source Id:** 82000
+   - **Author Ids:** 7004291247;7102899067;56041324800
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+51.
+   - **Title:** Cosmo SkyMed in support of flood monitoring
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IGARSS.2012.6351448
+   - **Scopus ID:** 2-s2.0-84873170647
+   - **Pages:** 778-781
+   - **Authors:** Dellepiane Silvana; Angiati Elena
+   - **Keywords:** Cosmo-Skymed | Data fusion | flood detection | segmentation
+   - **Source Id:** 82000
+   - **Author Ids:** 7004291247;24075443000
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Dellepiane S.
+52.
+   - **Title:** Coastal and maritime monitoring using polarimetric and stripmap COSMO SkyMed images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IGARSS.2012.6351865
+   - **Scopus ID:** 2-s2.0-84873137252
+   - **Pages:** 7613-7616
+   - **Authors:** Dellepiane Silvana; Angiati Elena
+   - **Keywords:** Cosmo/Skymed | data fusion | Sea monitoring | Segmentation
+   - **Source Id:** 82000
+   - **Author Ids:** 7004291247;24075443000
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Dellepiane S.
+53.
+   - **Title:** Extracting information from remote sensing data for applications to flood monitoring and damage evaluation
+   - **Venue:** Proceedings of the 2012 Tyrrhenian Workshop on Advances in Radar and Remote Sensing from Earth Observation to Homeland Security Tywrrs 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/TyWRRS.2012.6381142
+   - **Scopus ID:** 2-s2.0-84872038244
+   - **Pages:** 275-282
+   - **Authors:** Serpico Sebastiano B.; Dellepiane Silvana; Moser Gabriele; Angiati Elena; Boni Giorgio; Rudari Roberto; Candela Laura
+   - **Source Id:** 21100225602
+   - **Author Ids:** 7005306316;7004291247;7101795745;24075443000;7004208139;6507764404;8569203700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;112224719;112224719;60031612
+   - **Corresponding:** Serpico S.B.
+54.
+   - **Title:** Dual-polarimetric Cosmo/Skymed SAR data for sea monitoring
+   - **Venue:** Proceedings of the 2012 Tyrrhenian Workshop on Advances in Radar and Remote Sensing from Earth Observation to Homeland Security Tywrrs 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/TyWRRS.2012.6381153
+   - **Scopus ID:** 2-s2.0-84872025245
+   - **Pages:** 344-348
+   - **Authors:** Dellepiane Silvana; Angiati Elena; Cianci Luca
+   - **Keywords:** Cosmo/Skymed | Data fusion | Sea monitoring | Statistical analysis
+   - **Source Id:** 21100225602
+   - **Author Ids:** 7004291247;24075443000;55548140200
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+55.
+   - **Title:** An automatic unsupervised fuzzy method for image segmentation
+   - **Venue:** Computational Modelling of Objects Represented in Images Fundamentals Methods and Applications III Proceedings of the International Symposium Compimage 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-84867737912
+   - **Pages:** 307-312
+   - **Authors:** Dellepiane Silvana G.; Carbone Valeria; Nardotto Sonia
+   - **Source Id:** 21100218087
+   - **Author Ids:** 7004291247;55419961400;55419898600
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.G.
+56.
+   - **Title:** A new method for cross-normalization and multitemporal visualization of SAR images for the detection of flooded areas
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 69
+   - **DOI:** 10.1109/TGRS.2011.2174999
+   - **Scopus ID:** 2-s2.0-84862984588
+   - **ISSN:** 01962892
+   - **Volume:** 50
+   - **Issue:** 7 Part 2
+   - **Pages:** 2765-2779
+   - **Authors:** Dellepiane Silvana G.; Angiati Elena
+   - **Keywords:** Data fusion | flood detection | image enhancement | multitemporal synthetic aperture radar (SAR) imagery | RGB composition
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2012:
+     - Earth and Planetary Sciences (all) (Q1, rank 3, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 34, percentile 94)
+   - **Source Id:** 17360
+   - **Author Ids:** 7004291247;24075443000
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Dellepiane S.
+57.
+   - **Title:** Information extraction from remote sensing images for flood monitoring and damage evaluation
+   - **Venue:** Proceedings of the IEEE
+   - **Year:** 2012
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 66
+   - **DOI:** 10.1109/JPROC.2012.2198030
+   - **Scopus ID:** 2-s2.0-84866550700
+   - **ISSN:** 00189219
+   - **Volume:** 100
+   - **Issue:** 10
+   - **Pages:** 2946-2970
+   - **Authors:** Serpico Sebastiano B.; Dellepiane Silvana; Boni Giorgio; Moser Gabriele; Angiati Elena; Rudari Roberto
+   - **Keywords:** Damage evaluation | flood modeling | flood monitoring | image processing | pattern recognition | rapid mapping | remote sensing
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 3, percentile 99)
+     - Computer Science (all) (Q1, rank 2, percentile 99)
+     2012:
+     - Electrical and Electronic Engineering (Q1, rank 3, percentile 99)
+   - **Source Id:** 17915
+   - **Author Ids:** 7005306316;7004291247;7004208139;7101795745;24075443000;6507764404
+   - **Authoraffiliationids:** 60025153;60025153;60025153-113086164;60025153;60025153;60025153-113086164
+   - **Corresponding:** Serpico S.B.
+58.
+   - **Title:** Quality assessment of despeckled SAR images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/IGARSS.2011.6050059
+   - **Scopus ID:** 2-s2.0-80955125301
+   - **Pages:** 3803-3806
+   - **Authors:** Dellepiane Silvana G.; Angiati Elena
+   - **Keywords:** de-speckling | frequency domain | quality assessment | SAR | statistic
+   - **Source Id:** 82000
+   - **Author Ids:** 7004291247;24075443000
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Dellepiane S.
+59.
+   - **Title:** Identification of roofs perimeter from aerial and satellite images
+   - **Venue:** 17th DSP 2011 International Conference on Digital Signal Processing Proceedings
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ICDSP.2011.6005016
+   - **Scopus ID:** 2-s2.0-80053169441
+   - **Authors:** Angiati Elena; Dellepiane Silvana
+   - **Keywords:** adaptive growing | automatic seed-points extraction | optical image | Segmentation
+   - **Source Id:** 19900194917
+   - **Author Ids:** 24075443000;7004291247
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Angiati E.
+60.
+   - **Title:** Asthma and COPD exacerbations: An 8 year survey
+   - **Venue:** European Journal of Internal Medicine
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Letter
+   - **Citations:** 4
+   - **DOI:** 10.1016/j.ejim.2010.11.015
+   - **Scopus ID:** 2-s2.0-79952701705
+   - **ISSN:** 09536205
+   - **Volume:** 22
+   - **Issue:** 2
+   - **Pages:** e9-e11
+   - **Authors:** Ciprandi Giorgio; Ruffoni Silvano; Tosca Mariangela; Minetti Irene; Dellepiane Silvana
+   - **Keywords:** Asthma | COPD | Exacerbations
+   - **Quartile:**
+     2025:
+     - Internal Medicine (Q1, rank 27, percentile 84)
+     2011:
+     - Internal Medicine (Q2, rank 31, percentile 73)
+     - Subject (Q2, rank 1173, percentile 62)
+   - **Source Id:** 26617
+   - **Author Ids:** 7102823647;6602806591;16742490600;36172521500;7004291247
+   - **Authoraffiliationids:** 60107402;60107402;60016041;60025153;60025153
+   - **Corresponding:** Ciprandi G.
+61.
+   - **Title:** Flooded areas assessment by integrating hydraulic flood analysis to the detailed flood maps generated with a multi-temporal image segmentation approach using Cosmo-Skymed
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1117/12.868294
+   - **Scopus ID:** 2-s2.0-78649741790
+   - **ISSN:** 0277786X
+   - **Volume:** 7829
+   - **Authors:** Boni G.; Angiati E.; Candela L.; Dellepiane S.; Macchiavello G.; Rudari R.
+   - **Keywords:** COSMO-SkyMed | flood maps | hydraulic model | image processing | multi-temporal | segmentation | water depth | water velocities
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7004208139;24075443000;8569203700;7004291247;8203206000;6507764404
+   - **Authoraffiliationids:** 102075139;60025153;60031612;60025153;102075139;102075139
+   - **Corresponding:** Boni G.
+62.
+   - **Title:** A hierarchical classification method for mammographic lesions using wavelet transform and spatial features
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2010
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/978-3-642-15910-7_37
+   - **Scopus ID:** 2-s2.0-78049276748
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 6374 Lncs
+   - **Issue:** Part 1
+   - **Pages:** 324-332
+   - **Authors:** Dellepiane Silvana G.; Minetti Irene; Dellepiane Sara
+   - **Keywords:** Mammographic CAD | Morphological Image Analysis | Wavelet Analysis
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 7004291247;36172521500;57201984112
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+63.
+   - **Title:** Multi-seed segmentation of tomographic volumes based on fuzzy connectedness
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2010
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1007/978-3-642-14932-0_45
+   - **Scopus ID:** 2-s2.0-77956167809
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 6216 Lnai
+   - **Pages:** 360-367
+   - **Authors:** Dellepiane Silvana G.; Angiati Elena; Minetti Irene
+   - **Keywords:** Fuzzy Connectedness | Intensity Connectedness | Multi-Seed Segmentation
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 7004291247;24075443000;36172521500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.G.
+64.
+   - **Title:** CAPIRE: A context-aware points of interest recognition system using a CBIR approach
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2010
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/978-3-642-13789-1_11
+   - **Scopus ID:** 2-s2.0-77954649994
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 6157 Lncs
+   - **Pages:** 112-122
+   - **Authors:** Minetti Irene; Dellepiane Silvana; Valla Massimo
+   - **Keywords:** Content-Based Image Retrieval | Context-Awareness | Mobile Points of Interest Recognition | Mobile Tourism
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 36172521500;7004291247;24400344500
+   - **Authoraffiliationids:** 60025153;60025153;60023916
+   - **Corresponding:** Minetti I.
+65.
+   - **Title:** Operational evaluation of damages in flooded areas combining Cosmo-SkyMed and multispectral optical images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IGARSS.2010.5651502
+   - **Scopus ID:** 2-s2.0-78650895079
+   - **Pages:** 2414-2417
+   - **Authors:** Angiati Elena; Boni Giorgio; Candela Laura; Castelli Fabio; Dellepiane Silvana; Delogu Fabio; Pintus Fabio; Rudari Roberto; Serpico Sebastiano B.; Traverso Stefania; Versace Cosimo
+   - **Keywords:** COSMO-SkyMed | Flood damage | Flooded areas
+   - **Source Id:** 82000
+   - **Author Ids:** 24075443000;7004208139;8569203700;7102139089;7004291247;36815721600;14322478300;6507764404;7005306316;57520222000;14322604300
+   - **Authoraffiliationids:** 60025153;126813332;60031612;60021859;60025153;126813332;109902247;126813332;60025153;126813332;109901816
+   - **Corresponding:** Angiati E.
+66.
+   - **Title:** Processing and segmentation of COSMO-SkyMed images for flood monitoring
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1109/IGARSS.2010.5653960
+   - **Scopus ID:** 2-s2.0-78650877525
+   - **Pages:** 4807-4810
+   - **Authors:** Dellepiane Silvana; Angiati Elena; Vernazza Gianni
+   - **Keywords:** Cosmo/Skymed | RGB composition | Segmentation
+   - **Source Id:** 82000
+   - **Author Ids:** 7004291247;24075443000;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+67.
+   - **Title:** The opera project: EO-based flood risk management in Italy
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 17
+   - **DOI:** 10.1109/IGARSS.2009.5418250
+   - **Scopus ID:** 2-s2.0-77951099508
+   - **Volume:** 2
+   - **Pages:** II929-II932
+   - **Authors:** Boni G.; Candela L.; Castelli F.; Dellepiane S.; Palandri M.; Persi D.; Pierdicca N.; Rudari R.; Serpico S.; Siccardi F.; Versace C.
+   - **Keywords:** Satellite applications | Synthetic aperture radar | Water
+   - **Source Id:** 82000
+   - **Author Ids:** 7004208139;8569203700;7102139089;7004291247;36011994500;36011946100;6701394887;6507764404;7005306316;7003346742;14322604300
+   - **Authoraffiliationids:** 102075139;60031612;60021859;60025153;60073285;108445595;60032350;102075139;60025153;102075139;
+   - **Corresponding:** Boni G.
+68.
+   - **Title:** Optical character segmentation from structured documents
+   - **Venue:** Proceedings of the 8th IASTED International Conference on Visualization Imaging and Image Processing Viip 2008
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84887268468
+   - **Pages:** 86-91
+   - **Authors:** Adornato Massimiliano; Scagliola Carlo; Dellepiane Silvana
+   - **Keywords:** Character segmentation | OCR | Structured documents
+   - **Source Id:** 21100266584
+   - **Author Ids:** 55922174500;6603825813;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Adornato M.
+69.
+   - **Title:** From the expected scientific applications to the functional specifications, products and performance of the SABRINA missions
+   - **Venue:** 2008 IEEE Radar Conference Radar 2008
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/RADAR.2008.4720935
+   - **Scopus ID:** 2-s2.0-61849085294
+   - **Authors:** Renga A.; Moccia A.; D'Errico M.; Dellepiane S.; Angiati E.; Vernazza G.; Lombardo P.; Colone F.; Sedehi M.; Cristallini D.; Pignataro S.; Rioli Q.; Milillo G.; Bruno C.; Di Giorgio F.; Labriola M.
+   - **Keywords:** Bistatic radar | SAR interferometry | Space mission
+   - **Source Id:** 16800154720
+   - **Author Ids:** 25632802300;7003833593;7004429051;7004291247;24075443000;7005048304;7005404704;8677161800;21743651200;21741966900;6603700018;25634524200;6603214045;56421581500;26321473700;59038763600
+   - **Authoraffiliationids:** 60017293;60017293;60026777;60025153;60025153;60025153;60032350;60032350;60032350;60032350;60031612;60031612;60031612;60115446;60115446;60115446
+   - **Corresponding:** Renga A.
+70.
+   - **Title:** Design and implementation of web-based systems for image segmentation and CBIR
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.1109/TIM.2006.884286
+   - **Scopus ID:** 2-s2.0-33947324490
+   - **ISSN:** 00189456
+   - **Volume:** 55
+   - **Issue:** 6
+   - **Pages:** 1869-1877
+   - **Authors:** Antonelli Marco; Dellepiane Silvana G.; Goccia Marcello
+   - **Keywords:** Content-based image retrieval (CBIR) | Fuzzy connectivity | Isocontour | Segmentation | Web application
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 55422492100;7004291247;16047567700
+   - **Authoraffiliationids:** 60025153-101291510;60000251-60025153;60025153-60107882
+   - **Corresponding:** Antonelli M.
+71.
+   - **Title:** Segmentation of coherence maps for flood damage assessment
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/ICIP.2005.1530034
+   - **Scopus ID:** 2-s2.0-33749609721
+   - **ISSN:** 15224880
+   - **Volume:** 2
+   - **Pages:** 233-236
+   - **Authors:** Giordano Ferdinando; Goccia Marcello; Dellepiane Silvana
+   - **Keywords:** Flood area detection | Fuzzy connectivity | SAR interferometry | Segmentation
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 7102868064;16047567700;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Giordano F.
+72.
+   - **Title:** A connectivity solution for extraction of thin objects
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-20444497365
+   - **ISSN:** 15224880
+   - **Volume:** 5
+   - **Pages:** 949-952
+   - **Authors:** Antonelli Marco; Dellepiane Silvana; Vernazza Gianni; Novelli Lorena
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 55422492100;7004291247;7005048304;8449419000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Antonelli M.
+73.
+   - **Title:** Design and implementation of a web based system for image segmentation
+   - **Venue:** 2004 IEEE International Workshop on Imaging Systems and Techniques Ist
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-15844407885
+   - **Pages:** 40-43
+   - **Authors:** Antonelli Marco; Dellepiane Silvana; Vernazza Gianni
+   - **Keywords:** Fuzzy connectivity | Segmentation | Web application
+   - **Source Id:** 145102
+   - **Author Ids:** 55422492100;7004291247;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Antonelli M.
+74.
+   - **Title:** Coastline extraction from SAR images and a method for the evaluation of the coastline precision
+   - **Venue:** Pattern Recognition Letters
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 159
+   - **DOI:** 10.1016/j.patrec.2004.05.022
+   - **Scopus ID:** 2-s2.0-4544221612
+   - **ISSN:** 01678655
+   - **Volume:** 25
+   - **Issue:** 13
+   - **Pages:** 1461-1470
+   - **Authors:** Dellepiane S.; De Laurentiis R.; Giordano F.
+   - **Keywords:** Coastline detection | Coherence | Fuzzy connectedness | Interferometric synthetic aperture radar (InSAR) | Segmentation
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 27, percentile 86)
+     - Computer Vision and Pattern Recognition (Q1, rank 29, percentile 83)
+     - Software (Q1, rank 112, percentile 77)
+     - Artificial Intelligence (Q1, rank 124, percentile 75)
+   - **Source Id:** 24825
+   - **Author Ids:** 7004291247;7801605062;7102868064
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+75.
+   - **Title:** Learning optimal classifier through fuzzy recognition rate maximization
+   - **Venue:** Proceedings International Conference on Pattern Recognition
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/icpr.2004.1334059
+   - **Scopus ID:** 2-s2.0-84872647275
+   - **ISSN:** 10514651
+   - **Volume:** 1
+   - **Pages:** 204-207
+   - **Authors:** Goccia M.; Scagliola C.; Dellepiane S.
+   - **Source Id:** 24282
+   - **Author Ids:** 16047567700;6603825813;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Goccia M.
+76.
+   - **Title:** Recognition of container code characters through gray-level feature extraction and gradient-based classifier optimization
+   - **Venue:** Proceedings of the International Conference on Document Analysis and Recognition ICDAR
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 19
+   - **DOI:** 10.1109/ICDAR.2003.1227804
+   - **Scopus ID:** 2-s2.0-84945942349
+   - **ISSN:** 15205363
+   - **Volume:** 2003-January
+   - **Pages:** 973-977
+   - **Authors:** Goccia M.; Bruzzo M.; Scagliola C.; Dellepiane S.
+   - **Source Id:** 75898
+   - **Author Ids:** 16047567700;6603867494;6603825813;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Goccia M.
+77.
+   - **Title:** A fuzzy connectivity tree for hierarchical extraction of venous structures
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2003
+   - **Type:** Book Series
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1007/3-540-45103-x_112
+   - **Scopus ID:** 2-s2.0-35248883113
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 2749
+   - **Pages:** 844-852
+   - **Authors:** Dellepiane Silvana; Novelli Lorena; Bruzzo Michele; Antonelli Marco
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 7004291247;8449419000;6603867494;55422492100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+78.
+   - **Title:** Kingfisher: A system for remote sensing image database management
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1117/12.462914
+   - **Scopus ID:** 2-s2.0-0041730228
+   - **ISSN:** 0277786X
+   - **Volume:** 4881
+   - **Pages:** 669-676
+   - **Authors:** Bruzzo Michele; Giordano Ferdinando; Dellepiane Silvana
+   - **Keywords:** Content based retrieval | Image database management | Image processing | Indexing | Remote sensing images | Texture analysis
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 6603867494;7102868064;7004291247
+   - **Authoraffiliationids:** 60025153;;60025153
+   - **Corresponding:** Bruzzo M.
+79.
+   - **Title:** Texture features analysis for coastline extraction in remotely sensed images
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1117/12.454164
+   - **Scopus ID:** 2-s2.0-0036401481
+   - **ISSN:** 0277786X
+   - **Volume:** 4541
+   - **Pages:** 297-305
+   - **Authors:** De Laurentiis Raimondo; Dellepiane Silvana; Bo Giancarlo
+   - **Keywords:** Coastal management | Fuzzy-connectivity map | Image analysis | Shoreline detection | Texture analysis
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7801605062;7004291247;36979606600
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** De Laurentiis R.
+80.
+   - **Title:** Content based retrieval for remotely sensed images
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1117/12.450705
+   - **Scopus ID:** 2-s2.0-0035767995
+   - **ISSN:** 0277786X
+   - **Volume:** 4540
+   - **Pages:** 557-564
+   - **Authors:** Bruzzo Michele; Giordano Ferdinando; Pagani Laura; Dellepiane Silvana; Bo Giancarlo
+   - **Keywords:** Content based retrieval | Image database management | Indexing | Query by example
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 6603867494;7102868064;59539525400;7004291247;36979606600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bruzzo M.
+81.
+   - **Title:** Content fuzzy learning for remote sensing image database systems
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0035574207
+   - **Volume:** 3
+   - **Pages:** 1182-1184
+   - **Authors:** Bruzzo Michele; Dellepiane Silvana; Vaccaro Roberto
+   - **Keywords:** Content based retrieval | Decision tree | Image database management | Indexing | Learning by example | Relevance feedback
+   - **Source Id:** 82000
+   - **Author Ids:** 6603867494;7004291247;36747355200
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bruzzo M.
+82.
+   - **Title:** Coastline extraction in remotely sensed images by means of texture features analysis
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **Scopus ID:** 2-s2.0-0035573598
+   - **Volume:** 3
+   - **Pages:** 1493-1495
+   - **Authors:** Bo Giancarlo; Dellepiane Silvana; De Laurentiis Raimondo
+   - **Keywords:** Coastal monitoring | Fuzzy logic | Shoreline detection | Spatial contextual information | Texture features
+   - **Source Id:** 82000
+   - **Author Ids:** 36979606600;7004291247;7801605062
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bo G.
+83.
+   - **Title:** Issues in geographic data quality assessment by remote sensing techniques
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0035572082
+   - **Volume:** 4
+   - **Pages:** 1916-1918
+   - **Authors:** Bo Giancarlo; Dellepiane Silvana; Smits Paul C.; Annoni Alessandro
+   - **Keywords:** Data quality | Edge detection | Image analysis | Linear features extraction | Road networks
+   - **Source Id:** 82000
+   - **Author Ids:** 36979606600;7004291247;7102366572;55894024700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bo G.
+84.
+   - **Title:** On linear feature extraction for the detection and updating road-networks
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1117/12.413918
+   - **Scopus ID:** 2-s2.0-0035053925
+   - **ISSN:** 0277786X
+   - **Volume:** 4170
+   - **Issue:** 1
+   - **Pages:** 34-40
+   - **Authors:** Bo G.; Dellepiane S.; Smits P. C.; Annoni A.
+   - **Keywords:** Delta | Jagged | Lunaticfringe | Notch | Tooth
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 36979606600;7004291247;7102366572;55894024700
+   - **Authoraffiliationids:** 60025153;60025153;60103695;60103695
+   - **Corresponding:** Bo G.
+85.
+   - **Title:** Weighted multi-resolution phase-unwrapping method
+   - **Venue:** Nuovo Cimento Della Societa Italiana Di Fisica C
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0035592335
+   - **ISSN:** 20374909
+   - **eISSN:** 18269885
+   - **Volume:** 24
+   - **Issue:** 1
+   - **Pages:** 123-132
+   - **Authors:** Bo G.; Dellepiane S.
+   - **Quartile:**
+     2025:
+     - Astronomy and Astrophysics (Q4, rank 83, percentile 13)
+     - Physics and Astronomy (miscellaneous) (Q4, rank 81, percentile 8)
+   - **Source Id:** 15400155600
+   - **Author Ids:** 36979606600;7004291247
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bo G.
+86.
+   - **Title:** A detail preserving solution to the problem of shoreline detection in remotely sensed images
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1117/12.413910
+   - **Scopus ID:** 2-s2.0-0035048217
+   - **ISSN:** 0277786X
+   - **Volume:** 4170
+   - **Pages:** 24-33
+   - **Authors:** Bo G.; Dellepiane S.; Giorgini F.; Bartolini M.
+   - **Keywords:** Coastal management | Connectivity map | Image analysis | Shoreline detection | Texture analysis
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 36979606600;7004291247;57164593500;57197075336
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bo G.
+87.
+   - **Title:** Flood Damage Assessment Using SAR Interferometry: A Quantitative Evaluation of Results
+   - **Venue:** European Space Agency Special Publication ESA SP
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0347051462
+   - **ISSN:** 03796566
+   - **Issue:** 478
+   - **Pages:** 275-282
+   - **Authors:** Dellepiane S.; Monni S.; Bo G.; Buck C.
+   - **Source Id:** 27179
+   - **Author Ids:** 7004291247;22835514600;36979606600;7102927833
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60031159
+   - **Corresponding:** Dellepiane S.
+88.
+   - **Title:** SAR images and interferometric coherence for flood monitoring
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 37
+   - **Scopus ID:** 2-s2.0-0034546024
+   - **Volume:** 6
+   - **Pages:** 2608-2610
+   - **Authors:** Dellepiane S.; Bo G.; Monni S.; Buck C.
+   - **Source Id:** 82000
+   - **Author Ids:** 7004291247;36979606600;22835514600;7102927833
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+89.
+   - **Title:** Semiautomatic coastline detection in remotely sensed images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **Scopus ID:** 2-s2.0-0034539927
+   - **Volume:** 5
+   - **Pages:** 1869-1871
+   - **Authors:** Bo Giancarlo; Dellepiane Silvana; De Laurentiis Raimondo
+   - **Source Id:** 82000
+   - **Author Ids:** 36979606600;7004291247;7801605062
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bo G.
+90.
+   - **Title:** Improvements in flood monitoring by means of interferometric coherence
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1117/12.410662
+   - **Scopus ID:** 2-s2.0-0034466572
+   - **ISSN:** 0277786X
+   - **eISSN:** 1996756X
+   - **Volume:** 4173
+   - **Issue:** January
+   - **Pages:** 219-229
+   - **Authors:** Dellepiane S.; Bo G.; Monni S.; Buck C.
+   - **Keywords:** Backscatter intensity | Flood monitoring | Interferometric coherence | SAR
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7004291247;36979606600;22835514600;7102927833
+   - **Authoraffiliationids:** 60025153;60025153;60031159;60031159
+   - **Corresponding:** Dellepiane S.
+91.
+   - **Title:** A fuzzy approach to segment document images
+   - **Venue:** Proceedings International Conference on Image Analysis and Processing Iciap 1999
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICIAP.1999.797724
+   - **Scopus ID:** 2-s2.0-34548492136
+   - **Pages:** 987-991
+   - **Authors:** Giorgini Fabrizio; Verrini Alberto; Dellepiane Silvana
+   - **Source Id:** 21100274860
+   - **Author Ids:** 57164593500;55964597400;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Giorgini F.
+92.
+   - **Title:** Towards the integration of GIS and remote-sensing image analysis techniques
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0033357723
+   - **ISSN:** 0277786X
+   - **Volume:** 3871
+   - **Pages:** 276-283
+   - **Authors:** Smits P. C.; Annoni A.; Dellepiane S.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7102366572;55894024700;7004291247
+   - **Authoraffiliationids:** 60103695;60103695;60103695
+   - **Corresponding:** Smits P.
+93.
+   - **Title:** Multi-resolution phase model reconstruction for phase unwrapping
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0033346453
+   - **Volume:** 5
+   - **Pages:** 2395-2397
+   - **Authors:** Dellepiane Silvana; Bo Giancarlo; Smits Paul C.
+   - **Source Id:** 82000
+   - **Author Ids:** 7004291247;36979606600;7102366572
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+94.
+   - **Title:** Locally adaptive noise filtering approach for phase-unwrapping improvement
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **Scopus ID:** 2-s2.0-0033319239
+   - **ISSN:** 0277786X
+   - **Volume:** 3869
+   - **Pages:** 116-126
+   - **Authors:** Bo G.; Dellepiane S.; Beneventano G.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 36979606600;7004291247;6602663867
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bo G.
+95.
+   - **Title:** Locally adaptive approach for interferometric phase noise reduction
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 20
+   - **Scopus ID:** 2-s2.0-0033315154
+   - **Volume:** 1
+   - **Pages:** 264-266
+   - **Authors:** Bo Giancarlo; Dellepiane Silvana; Beneventano Gianna
+   - **Source Id:** 82000
+   - **Author Ids:** 36979606600;7004291247;6602663867
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bo G.
+96.
+   - **Title:** Discontinuity-adaptive markov random field model for the segmentation of intensity SAR images
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 22
+   - **DOI:** 10.1109/36.739133
+   - **Scopus ID:** 2-s2.0-0032754589
+   - **ISSN:** 01962892
+   - **Volume:** 37
+   - **Issue:** 1 Ii
+   - **Pages:** 627-631
+   - **Authors:** Smits P. C.; Dellepiane S. G.
+   - **Keywords:** Image analysis and segmentation | Interactive computing | Markov processes | Synthetic aperture radar (SAR)
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+   - **Source Id:** 17360
+   - **Author Ids:** 7102366572;7004291247
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Smits P.C.
+97.
+   - **Title:** A classification-matching combination for image retrieval
+   - **Venue:** Online and Cdrom Review
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1108/14684529910334038
+   - **Scopus ID:** 2-s2.0-3843130702
+   - **ISSN:** 13532642
+   - **Volume:** 23
+   - **Issue:** 1
+   - **Pages:** 11-18
+   - **Authors:** Encinas Julio; Lloréns Juan; De Miguel Adoración; Dellepiane Silvana
+   - **Source Id:** 110148
+   - **Author Ids:** 7004544627;7006368289;7004059686;7004291247
+   - **Authoraffiliationids:** 60001741;60001741;60001741;60025153
+   - **Corresponding:** Encinas J.
+98.
+   - **Title:** Quality assessment of image classification algorithms for land-cover mapping: A review and a proposal for a cost-based approach
+   - **Venue:** International Journal of Remote Sensing
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 310
+   - **DOI:** 10.1080/014311699212560
+   - **Scopus ID:** 2-s2.0-0033586922
+   - **ISSN:** 01431161
+   - **eISSN:** 13665901
+   - **Volume:** 20
+   - **Issue:** 8
+   - **Pages:** 1461-1486
+   - **Authors:** Smits P. C.; Dellepiane S. G.; Schowengerdt R. A.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 45, percentile 77)
+   - **Source Id:** 22674
+   - **Author Ids:** 7102366572;7004291247;35577217600
+   - **Authoraffiliationids:** 60025153;60025153;60149993
+   - **Corresponding:** Smits P.C.
+99.
+   - **Title:** Model representation and regularization for remote sensing image analysis
+   - **Venue:** Canadian Journal of Remote Sensing
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1080/07038992.1999.10874711
+   - **Scopus ID:** 2-s2.0-0009664564
+   - **ISSN:** 07038992
+   - **eISSN:** 17127971
+   - **Volume:** 25
+   - **Issue:** 2
+   - **Pages:** 121-130
+   - **Authors:** Smits Paul C.; Dellepiane Silvana G.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 50, percentile 75)
+   - **Source Id:** 13809
+   - **Author Ids:** 7102366572;7004291247
+   - **Authoraffiliationids:** 60025153-60103695;60025153
+   - **Corresponding:** Smits P.C.
+100.
+   - **Title:** Method and evaluation test design for 2D/3D image segmentation
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1117/12.326730
+   - **Scopus ID:** 2-s2.0-58149234887
+   - **ISSN:** 0277786X
+   - **Volume:** 3455
+   - **Pages:** 332-339
+   - **Authors:** Giorgini Fabrizio; Dellepiane Silvana G.; Incardona Gianluca; Piotto Francesco
+   - **Keywords:** Fuzzy connectivity | Image segmentation | Segmentation evaluation | Synthetic volumes
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 57164593500;7004291247;25936257300;25936762300
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Giorgini F.
+101.
+   - **Title:** Weighted multi-resolution phase-unwrapping method
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1117/12.331346
+   - **Scopus ID:** 2-s2.0-0011020385
+   - **ISSN:** 0277786X
+   - **Volume:** 3497
+   - **Pages:** 146-154
+   - **Authors:** Bo Giancarlo; Dellepiane Silvana G.; Smits Paul C.
+   - **Keywords:** Local slopes estimation | Phase-unwrapping | SAR interferometry | Weighted algorithm
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 36979606600;7004291247;7102366572
+   - **Authoraffiliationids:** 60025153;60025153;60103695
+   - **Corresponding:** Bo G.
+102.
+   - **Title:** Multi-temporal analysis of urban areas using textural information in space-borne imagery
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0031626240
+   - **Volume:** 5
+   - **Pages:** 2580-2582
+   - **Authors:** Smits P. C.; Dellepiane S. G.; Annoni A.; Ehrlich D.
+   - **Source Id:** 82000
+   - **Author Ids:** 7102366572;7004291247;55894024700;7102215708
+   - **Authoraffiliationids:** 60103695;60103695;60103695;60103695
+   - **Corresponding:** Smits P.
+103.
+   - **Title:** MRF based framework integrating InSAR phase unwrapping and classification
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/igarss.1998.702840
+   - **Scopus ID:** 2-s2.0-0031624965
+   - **Volume:** 1
+   - **Pages:** 168-170
+   - **Authors:** Smits P. C.; Dellepiane S. G.
+   - **Source Id:** 82000
+   - **Author Ids:** 7102366572;7004291247
+   - **Authoraffiliationids:** 60103695;60103695
+   - **Corresponding:** Smits P.C.
+104.
+   - **Title:** Spatial correlation features for classification of SAR images
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1117/12.295609
+   - **Scopus ID:** 2-s2.0-57649105687
+   - **ISSN:** 0277786X
+   - **Volume:** 3217
+   - **Pages:** 245-252
+   - **Authors:** Dellepiane Silvana; Serpico Sebastiano; Vaccaro Roberto
+   - **Keywords:** Maximum likelihood | SAR | Spatial correlation | Statistical classification
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7004291247;7005306316;36747355200
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+105.
+   - **Title:** Morphology sensitive unsupervised segmentation of multi-channel remote-sensing images
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1117/12.295608
+   - **Scopus ID:** 2-s2.0-57649103999
+   - **ISSN:** 0277786X
+   - **Volume:** 3217
+   - **Pages:** 237-244
+   - **Authors:** Smits P. C.; Ferrari E.; Ghersi R.; Dellepiane S.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7102366572;55778145318;25923823400;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Smits P.C.
+106.
+   - **Title:** Non-linear adaptive approach for image filtering
+   - **Venue:** International Conference on Digital Signal Processing DSP
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0031358758
+   - **Volume:** 1
+   - **Pages:** 303-306
+   - **Authors:** Mari M.; Dellepiane S.; Barragato G.; Venturino C.
+   - **Source Id:** 92190
+   - **Author Ids:** 57104798200;7004291247;6503975208;58091947200
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Mari M.
+107.
+   - **Title:** Discontinuity adaptive MRF model for the analysis of synthetic aperture radar images
+   - **Venue:** IEEE International Conference on Image Processing
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0031336482
+   - **Volume:** 1
+   - **Pages:** 837-840
+   - **Authors:** Smits P. C.; Dellepiane S. G.
+   - **Source Id:** 92868
+   - **Author Ids:** 7102366572;7004291247
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Smits P.
+108.
+   - **Title:** Spatial correlation features for SAR images in a small sample size context
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 1997
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/3-540-63508-4_168
+   - **Scopus ID:** 2-s2.0-84957719330
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 1311
+   - **Pages:** 560-567
+   - **Authors:** Vaccaro Roberto; Dellepiane Silvana
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 36747355200;7004291247
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Vaccaro R.
+109.
+   - **Title:** Discontinuity adaptive MRF model for synthetic aperture radar image analysis
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 1997
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/3-540-63507-6_209
+   - **Scopus ID:** 2-s2.0-84957672873
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 1310
+   - **Pages:** 255-262
+   - **Authors:** Smits P. C.; Dellepiane S. G.; Vernazza G.
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 7102366572;7004291247;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60032259
+   - **Corresponding:** Smits P.
+110.
+   - **Title:** The active role of 2-D and 3-D images: Semi-automatic segmentation
+   - **Venue:** Studies in Health Technology and Informatics
+   - **Year:** 1997
+   - **Type:** Book Series
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.3233/978-1-60750-874-8-165
+   - **Scopus ID:** 2-s2.0-84887128144
+   - **ISSN:** 09269630
+   - **eISSN:** 18798365
+   - **Volume:** 30
+   - **Pages:** 165-190
+   - **Authors:** Dellepiane Silvana
+   - **Quartile:**
+     2025:
+     - Health Informatics (Q4, rank 130, percentile 20)
+     - Health Information Management (Q4, rank 51, percentile 19)
+     - Biomedical Engineering (Q4, rank 283, percentile 15)
+   - **Source Id:** 19582
+   - **Author Ids:** 7004291247
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Dellepiane S.
+111.
+   - **Title:** An irregular MRF region label model for multi-channel image segmentation
+   - **Venue:** Pattern Recognition Letters
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1016/S0167-8655(97)00101-3
+   - **Scopus ID:** 2-s2.0-0031271064
+   - **ISSN:** 01678655
+   - **Volume:** 18
+   - **Issue:** 11-13
+   - **Pages:** 1133-1142
+   - **Authors:** Smits Paul C.; Dellepiane Silvana G.
+   - **Keywords:** Adaptive neighbourhoods | Discontinuity adaptive models | Irregular Markov random fields | Multi-image segmentation
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 27, percentile 86)
+     - Computer Vision and Pattern Recognition (Q1, rank 29, percentile 83)
+     - Software (Q1, rank 112, percentile 77)
+     - Artificial Intelligence (Q1, rank 124, percentile 75)
+   - **Source Id:** 24825
+   - **Author Ids:** 7102366572;7004291247
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Smits P.
+112.
+   - **Title:** A non-linear image processing approach through fuzzy measures
+   - **Venue:** Pattern Recognition Letters
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1016/S0167-8655(97)00090-1
+   - **Scopus ID:** 2-s2.0-0031271063
+   - **ISSN:** 01678655
+   - **Volume:** 18
+   - **Issue:** 11-13
+   - **Pages:** 1109-1115
+   - **Authors:** Mari M.; Dellepiane S.
+   - **Keywords:** Fuzzy measures | Image filtering | Non-linear techniques
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 27, percentile 86)
+     - Computer Vision and Pattern Recognition (Q1, rank 29, percentile 83)
+     - Software (Q1, rank 112, percentile 77)
+     - Artificial Intelligence (Q1, rank 124, percentile 75)
+   - **Source Id:** 24825
+   - **Author Ids:** 57104798200;7004291247
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mari M.
+113.
+   - **Title:** SAR image interpretation based on Markov mesh random fields models
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0030718441
+   - **Volume:** 2
+   - **Pages:** 737-739
+   - **Authors:** Smits P. C.; Giorgini F.; Martuccelli A.; Petrou M.; Dellepiane S. G.
+   - **Source Id:** 82000
+   - **Author Ids:** 7102366572;57164593500;6504259873;7102903976;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Smits P.
+114.
+   - **Title:** Discontinuity adaptive MRF model for remote sensing image analysis
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0030678808
+   - **Volume:** 2
+   - **Pages:** 907-909
+   - **Authors:** Smits P. C.; Dellepiane S. G.
+   - **Source Id:** 82000
+   - **Author Ids:** 7102366572;7004291247
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Smits P.
+115.
+   - **Title:** Automated hierarchical classification of SAR images
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1997
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-0030653143
+   - **Volume:** 3
+   - **Pages:** 1174-1176
+   - **Authors:** Smits P. C.; Vaccaro R.; Dellepiane S.
+   - **Source Id:** 82000
+   - **Author Ids:** 7102366572;36747355200;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Smits P.
+116.
+   - **Title:** Data fusion in a Markov random field based image segmentation approach
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1117/12.262877
+   - **Scopus ID:** 2-s2.0-57849139342
+   - **ISSN:** 0277786X
+   - **Volume:** 2955
+   - **Pages:** 85-95
+   - **Authors:** Smits Paul C.; Dellepiane Silvana G.
+   - **Keywords:** Bayesian newworks | Data fusion | Image segmentation | Markov random fields | Synthetic aperture radar data
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7102366572;7004291247
+   - **Corresponding:** Smits P.
+117.
+   - **Title:** Nonlinear image labeling for multivalued segmentation
+   - **Venue:** IEEE Transactions on Image Processing
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 44
+   - **DOI:** 10.1109/83.491317
+   - **Scopus ID:** 2-s2.0-0030108386
+   - **ISSN:** 10577149
+   - **Volume:** 5
+   - **Issue:** 3
+   - **Pages:** 429-446
+   - **Authors:** Dellepiane Silvana G.; Fontana Franco; Vernazza Gianni L.
+   - **Quartile:**
+     2025:
+     - Computer Graphics and Computer-Aided Design (Q1, rank 3, percentile 98)
+     - Software (Q1, rank 15, percentile 97)
+   - **Source Id:** 25534
+   - **Author Ids:** 7004291247;35960926700;7005048304
+   - **Authoraffiliationids:** 60000251-60025153;60025153;60000251-60025153
+   - **Corresponding:** Dellepiane S.
+118.
+   - **Title:** A segmentation method based on fuzzy topology and clustering
+   - **Venue:** Proceedings International Conference on Pattern Recognition
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/ICPR.1996.546887
+   - **Scopus ID:** 2-s2.0-84898815413
+   - **ISSN:** 10514651
+   - **Volume:** 2
+   - **Pages:** 565-569
+   - **Authors:** Mari M.; Dellepiane S.
+   - **Source Id:** 24282
+   - **Author Ids:** 57104798200;7004291247
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mari M.
+119.
+   - **Title:** Information fusion in a Markov random field-based image segmentation approach using adaptive neighbourhoods
+   - **Venue:** Proceedings International Conference on Pattern Recognition
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/ICPR.1996.546888
+   - **Scopus ID:** 2-s2.0-34047209237
+   - **ISSN:** 10514651
+   - **Volume:** 2
+   - **Pages:** 570-575
+   - **Authors:** Smits P. C.; Dellepiane S.
+   - **Source Id:** 24282
+   - **Author Ids:** 7102366572;7004291247
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Smits P.
+120.
+   - **Title:** Supervised Fuzzy Contextual Segmentation of Polarimetric SAR Images
+   - **Venue:** European Transactions on Telecommunications
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1002/ett.4460070606
+   - **Scopus ID:** 2-s2.0-0030291649
+   - **ISSN:** 1124318X
+   - **Volume:** 7
+   - **Issue:** 6
+   - **Pages:** 515-525
+   - **Authors:** Dellepiane Silvana; Fontana Franco
+   - **Source Id:** 18817
+   - **Author Ids:** 7004291247;35960926700
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Dellepiane S.
+121.
+   - **Title:** Markov random field based image segmentation with adaptive neighborhoods to the detection of fine structures in SAR data
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-0029705718
+   - **Volume:** 1
+   - **Pages:** 714-716
+   - **Authors:** Smits P. C.; Dellepiane S.; Serpico S. B.
+   - **Source Id:** 82000
+   - **Author Ids:** 7102366572;7004291247;7005306316
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Smits P.
+122.
+   - **Title:** Extraction of intensity connectedness for image processing
+   - **Venue:** Pattern Recognition Letters
+   - **Year:** 1995
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 58
+   - **DOI:** 10.1016/0167-8655(94)00088-K
+   - **Scopus ID:** 2-s2.0-0029264174
+   - **ISSN:** 01678655
+   - **Volume:** 16
+   - **Issue:** 3
+   - **Pages:** 313-324
+   - **Authors:** Dellepiane Silvana; Fontana Franco
+   - **Keywords:** Fuzzy connectedness | Image processing | Isoregion | Optimal path | Tree expansion
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 27, percentile 86)
+     - Computer Vision and Pattern Recognition (Q1, rank 29, percentile 83)
+     - Software (Q1, rank 112, percentile 77)
+     - Artificial Intelligence (Q1, rank 124, percentile 75)
+   - **Source Id:** 24825
+   - **Author Ids:** 7004291247;35960926700
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Dellepiane S.
+123.
+   - **Title:** Processing of SAR data exploiting spatial, polarimetric and topological information
+   - **Venue:** International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0029227584
+   - **Volume:** 2
+   - **Pages:** 1147-1149
+   - **Authors:** Smits P. C.; Dellepiane S.
+   - **Source Id:** 82000
+   - **Author Ids:** 7102366572;7004291247
+   - **Authoraffiliationids:** 100429766;100429766
+   - **Corresponding:** Smits P.
+124.
+   - **Title:** Image processing approach using fuzzy topology
+   - **Venue:** Proceedings of the ACM Symposium on Applied Computing
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1145/315891.316098
+   - **Scopus ID:** 2-s2.0-0029178878
+   - **Pages:** 557-561
+   - **Authors:** Smits P. C.; Del Bianco D.; Sericano A.; Dellepiane S.
+   - **Source Id:** 89358
+   - **Author Ids:** 7102366572;6507137439;6505640357;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Smits P.C.
+125.
+   - **Title:** A robust non-iterative method for image labelling using context
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 1994
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ICIP.1994.413561
+   - **Scopus ID:** 2-s2.0-84997683994
+   - **ISSN:** 15224880
+   - **Volume:** 2
+   - **Pages:** 207-211
+   - **Authors:** Dellepiane S.; Fontana F.; Vernazza G.
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 7004291247;35960926700;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+126.
+   - **Title:** Morphological study on scoliotic trunk. Three-dimensional reconstruction from photographic orthogonal projections
+   - **Venue:** Minerva Ortopedica E Traumatologica
+   - **Year:** 1993
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0027869689
+   - **ISSN:** 00264911
+   - **Volume:** 44
+   - **Issue:** 10
+   - **Pages:** 669-674
+   - **Authors:** Becchetti S.; Dellepiane S.; Mazzarello G.; Venturi G.; Vernazza G.
+   - **Source Id:** 12356
+   - **Author Ids:** 7004435550;7004291247;7003322549;7005369892;7005048304
+   - **Authoraffiliationids:** 60016041;60016041;60016041;60016041;60016041
+   - **Corresponding:** Becchetti S.
+127.
+   - **Title:** Image analysis and processing: From numerical methods to the symbolic ones
+   - **Venue:** Minerva Ortopedica E Traumatologica
+   - **Year:** 1993
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0027858785
+   - **ISSN:** 00264911
+   - **Volume:** 44
+   - **Issue:** 10
+   - **Pages:** 629-635
+   - **Authors:** Becchetti S.; Dellepiane S.; Venturi G.; Vernazza G.
+   - **Source Id:** 12356
+   - **Author Ids:** 7004435550;7004291247;7005369892;7005048304
+   - **Corresponding:** Becchetti S.
+128.
+   - **Title:** Evaluation and error detection in digital image segmentation
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1992
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0027002961
+   - **ISSN:** 0277786X
+   - **Volume:** 1768
+   - **Pages:** 25-36
+   - **Authors:** Calcagni Stefano; Venturi Giovanni; Dellepiane Silvana G.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 6506602449;7005369892;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Calcagni S.
+129.
+   - **Title:** Model generation and model matching of real images by a fuzzy approach
+   - **Venue:** Pattern Recognition
+   - **Year:** 1992
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 36
+   - **DOI:** 10.1016/0031-3203(92)90095-Z
+   - **Scopus ID:** 2-s2.0-0026817502
+   - **ISSN:** 00313203
+   - **Volume:** 25
+   - **Issue:** 2
+   - **Pages:** 115-137
+   - **Authors:** Dellepiane Silvana; Venturi Giovanni; Vernazza Gianni
+   - **Keywords:** Explicit model | Fuzzy | Image recognition | Knowledge-based systems | Medical images | Model generation | MRI
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 8, percentile 96)
+     - Software (Q1, rank 25, percentile 95)
+     - Computer Vision and Pattern Recognition (Q1, rank 11, percentile 93)
+     - Artificial Intelligence (Q1, rank 36, percentile 92)
+   - **Source Id:** 24823
+   - **Author Ids:** 7004291247;7005369892;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+130.
+   - **Title:** Exploitation of contour information from multi-echo MR slices
+   - **Venue:** Proceedings of the Annual Conference on Engineering in Medicine and Biology
+   - **Year:** 1991
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0026406359
+   - **ISSN:** 05891019
+   - **Volume:** 13
+   - **Issue:** pt 5
+   - **Pages:** 2399-2400
+   - **Authors:** Di Giuliani Andrea; Venturi Giovanni; Dellepiane Silvana
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 585, percentile 41)
+   - **Source Id:** 34202
+   - **Author Ids:** 6507811364;7005369892;7004291247
+   - **Corresponding:** Di Giuliani A.
+131.
+   - **Title:** Image segmentation: Errors, sensitivity, and uncertainty
+   - **Venue:** Proceedings of the Annual Conference on Engineering in Medicine and Biology
+   - **Year:** 1991
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 17
+   - **Scopus ID:** 2-s2.0-0026403203
+   - **ISSN:** 05891019
+   - **Volume:** 13
+   - **Issue:** pt 1
+   - **Pages:** 253-254
+   - **Authors:** Dellepiane Silvana
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 585, percentile 41)
+   - **Source Id:** 34202
+   - **Author Ids:** 7004291247
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Dellepiane S.
+132.
+   - **Title:** Fast image processing for registration and 3D reconstruction of microscopical slice images
+   - **Venue:** Proceedings of the Annual Conference on Engineering in Medicine and Biology
+   - **Year:** 1991
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0026287579
+   - **ISSN:** 05891019
+   - **Volume:** 13
+   - **Issue:** pt 3
+   - **Pages:** 1119-1120
+   - **Authors:** Bergognoni M.; Crovetto A.; Casali A. M.; Dellepiane S.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 585, percentile 41)
+   - **Source Id:** 34202
+   - **Author Ids:** 6506898697;7801314175;7007109243;7004291247
+   - **Corresponding:** Bergognoni M.
+133.
+   - **Title:** A fuzzy model for the processing and recognition of MR pathological images
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 1991
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1007/BFb0033772
+   - **Scopus ID:** 2-s2.0-84941870331
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 511 Lncs
+   - **Pages:** 444-457
+   - **Authors:** Dellepiane S.; Venturi G.; Vernazza G.
+   - **Keywords:** Knowledge-based systems | Model matching | Numerical data | Propositional models | Segmentation | Symbolic data | Visual data
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 7004291247;7005369892;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+134.
+   - **Title:** Biomedical structure recognition by successive approximations
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1991
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1117/12.50383
+   - **Scopus ID:** 2-s2.0-0026383899
+   - **ISSN:** 0277786X
+   - **Volume:** 1606
+   - **Issue:** pt 1
+   - **Pages:** 217-225
+   - **Authors:** Venturi Giovanni; Dellepiane Silvana G.; Vernazza Gianni L.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7005369892;7004291247;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Venturi G.
+135.
+   - **Title:** Model generation and performance analysis in a K-B matching process of medical images
+   - **Venue:** Proceedings ICASSP IEEE International Conference on Acoustics Speech and Signal Processing
+   - **Year:** 1991
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/icassp.1991.151040
+   - **Scopus ID:** 2-s2.0-0026374910
+   - **ISSN:** 07367791
+   - **Volume:** 4
+   - **Pages:** 3025-3028
+   - **Authors:** Venturi Giovanni; Vernazza Gianni; Dellepiane Silvana
+   - **Source Id:** 110544
+   - **Author Ids:** 7005369892;7005048304;7004291247
+   - **Corresponding:** Venturi G.
+136.
+   - **Title:** Sar image recognition by integration of intensity and textural information
+   - **Venue:** International Journal of Remote Sensing
+   - **Year:** 1991
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1080/01431169108955219
+   - **Scopus ID:** 2-s2.0-0026358552
+   - **ISSN:** 01431161
+   - **eISSN:** 13665901
+   - **Volume:** 12
+   - **Issue:** 9
+   - **Pages:** 1915-1932
+   - **Authors:** Dellepiane S.; Giusto D. D.; Serpico S. B.; Vernazza G.
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 45, percentile 77)
+   - **Source Id:** 22674
+   - **Author Ids:** 7004291247;7004570907;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+137.
+   - **Title:** From numeric up to symbolic processing of medical tomographic images
+   - **Venue:** Rivista Di Neuroradiologia
+   - **Year:** 1990
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0025255376
+   - **Volume:** 3
+   - **Issue:** 1
+   - **Pages:** 63-80
+   - **Authors:** Dellepiane S.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 17887
+   - **Author Ids:** 7004291247;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+138.
+   - **Title:** Automatic recognition for 3D organ visualization from CT spatial sequences
+   - **Venue:** Rivista Di Neuroradiologia
+   - **Year:** 1990
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0025216278
+   - **Volume:** 3
+   - **Issue:** 1
+   - **Pages:** 81-93
+   - **Authors:** Dellepiane S.; Leonardi M.; Venturi G.; Vernazza G.
+   - **Source Id:** 17887
+   - **Author Ids:** 7004291247;7101854179;7005369892;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+139.
+   - **Title:** Developments and experimental results of K-B system for workpieces recognition
+   - **Venue:** undefined
+   - **Year:** 1989
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0024902910
+   - **Pages:** 357-360
+   - **Authors:** Dellepiane S.; Narducci A.; Serpico S. B.; Vernazza G.; Zini G.
+   - **Source Id:** 144486
+   - **Author Ids:** 7004291247;6602361176;7005306316;7005048304;7005446052
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+140.
+   - **Title:** Modeling and shape decomposition of anatomical organs by using superquadric primitives
+   - **Venue:** Annual International Conference of the IEEE Engineering in Medicine and Biology Proceedings
+   - **Year:** 1989
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0024888343
+   - **ISSN:** 05891019
+   - **Volume:** 11 pt 2
+   - **Pages:** 610-611
+   - **Authors:** Armadillo R.; Castello P.; Dellepiane S.; Vernazza G.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 585, percentile 41)
+   - **Source Id:** 34202
+   - **Author Ids:** 6505925000;57001261900;7004291247;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Armadillo R.
+141.
+   - **Title:** Expert segmentation for the extraction of biomedical structures in microscopical images
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1989
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1117/12.953260
+   - **Scopus ID:** 2-s2.0-84957471048
+   - **ISSN:** 0277786X
+   - **eISSN:** 1996756X
+   - **Volume:** 1092
+   - **Pages:** 194-198
+   - **Authors:** Botto A.; Casali A.; Dellepiane S.; Ghilino G.; Vernazza G.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 57101658600;7007109243;7004291247;57101880100;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Botto A.
+142.
+   - **Title:** Merging of different segmentation techniques for cell image recognition
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1989
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1117/12.950283
+   - **Scopus ID:** 2-s2.0-84957513834
+   - **ISSN:** 0277786X
+   - **eISSN:** 1996756X
+   - **Volume:** 1027
+   - **Pages:** 208-213
+   - **Authors:** Serpico Sebastiano B.; Vernazza Gianni; Dellepiane Silvana
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7005306316;7005048304;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Serpico S.B.
+143.
+   - **Title:** A framework for processing and interpretation of three-dimensional signals from multislices
+   - **Venue:** Signal Processing
+   - **Year:** 1989
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1016/0165-1684(89)90036-4
+   - **Scopus ID:** 2-s2.0-0024771999
+   - **ISSN:** 01651684
+   - **Volume:** 18
+   - **Issue:** 3
+   - **Pages:** 239-258
+   - **Authors:** Dellepiane S.; Serpico S. B.; Vernazza G.
+   - **Keywords:** 3-D features | 3-D signals | fractals | fuzzy descriptions | knowledge-based interpretation | low-level processing
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 25, percentile 87)
+     - Computer Vision and Pattern Recognition (Q1, rank 27, percentile 84)
+     - Electrical and Electronic Engineering (Q1, rank 166, percentile 83)
+     - Control and Systems Engineering (Q1, rank 71, percentile 81)
+     - Software (Q1, rank 101, percentile 79)
+   - **Source Id:** 25548
+   - **Author Ids:** 7004291247;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+144.
+   - **Title:** Application of fractal techniques to X-ray image analysis
+   - **Venue:** Radiologia Medica
+   - **Year:** 1989
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **Scopus ID:** 2-s2.0-0024406367
+   - **ISSN:** 00338362
+   - **Volume:** 77
+   - **Issue:** 5
+   - **Pages:** 535-539
+   - **Authors:** Antognetti P. F.; Dellepiane S.; Serpico S. B.; Vernazza G.
+   - **Quartile:**
+     2025:
+     - Radiology, Nuclear Medicine and Imaging (Q1, rank 18, percentile 95)
+   - **Source Id:** 17858
+   - **Author Ids:** 7003816900;7004291247;7005306316;7005048304
+   - **Authoraffiliationids:** 60107402;60107402;60107402;60107402
+   - **Corresponding:** Antognetti P.F.
+145.
+   - **Title:** A fuzzy approach to cue detection and region merging for image segmentation
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 1989
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/3-540-51815-0_42
+   - **Scopus ID:** 2-s2.0-0004776860
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 399 Lncs
+   - **Pages:** 58-64
+   - **Authors:** Dellepiane Silvana; Vernazza Gianni
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 7004291247;7005048304
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Dellepiane S.
+146.
+   - **Title:** Information fusion by a knowledge-based system for SAR image interpretation
+   - **Venue:** Digest International Geoscience and Remote Sensing Symposium IGARSS
+   - **Year:** 1988
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0024185010
+   - **Volume:** 3
+   - **Pages:** 1845-1846
+   - **Authors:** Dellepiane S.; Giusto D. D.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 82000
+   - **Author Ids:** 7004291247;7004570907;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+147.
+   - **Title:** Analysis and classification of SAR images by a knowledge-based approach
+   - **Venue:** Proceedings International Conference on Pattern Recognition
+   - **Year:** 1988
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0024168119
+   - **Pages:** 1207-1209
+   - **Authors:** Dellepiane S.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 24282
+   - **Author Ids:** 7004291247;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+148.
+   - **Title:** Textural analysis of 3d objects by a fractal-preserving approach
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1988
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1117/12.969021
+   - **Scopus ID:** 2-s2.0-84957501280
+   - **ISSN:** 0277786X
+   - **eISSN:** 1996756X
+   - **Volume:** 1001
+   - **Pages:** 732-738
+   - **Authors:** Dambra C.; Dellepiane S.; Regazzoni C.; Serpico S. B.; Vernazza G.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 58237414800;7004291247;35513672400;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Dambra C.
+149.
+   - **Title:** A learning system for the generation of conceptual descriptions for workpiece recognition purposes
+   - **Venue:** Proceedings IECON 1988 Robotics and Vision 1988 International Conference on Industrial Electronics
+   - **Year:** 1988
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IECON.1988.660420
+   - **Scopus ID:** 2-s2.0-85069209891
+   - **Pages:** 76-81
+   - **Authors:** Dellepiane S.; Ghiglia G.; Roli F.; Serpico S. B.; Vernazza G.
+   - **Keywords:** AI approach | Frame-based description | Inductive learning by examples | Machine learning | Statistical analysis | Structured models | Workpiece recognition
+   - **Source Id:** 21101081109
+   - **Author Ids:** 7004291247;57209977185;57194734588;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+150.
+   - **Title:** Extension of IBIS for 3D organ recognition in NMR multislices
+   - **Venue:** Pattern Recognition Letters
+   - **Year:** 1988
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1016/0167-8655(88)90048-7
+   - **Scopus ID:** 2-s2.0-38249029080
+   - **ISSN:** 01678655
+   - **Volume:** 8
+   - **Issue:** 2
+   - **Pages:** 65-72
+   - **Authors:** Dellepiane S.; Regazzoni C.; Serpico S. B.; Vernazza G.
+   - **Keywords:** 3D recognition | expert systems | knowledge-based systems | medical images | signal processing
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 27, percentile 86)
+     - Computer Vision and Pattern Recognition (Q1, rank 29, percentile 83)
+     - Software (Q1, rank 112, percentile 77)
+     - Artificial Intelligence (Q1, rank 124, percentile 75)
+   - **Source Id:** 24825
+   - **Author Ids:** 7004291247;35513672400;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+151.
+   - **Title:** Information fusion by a knowledge-based system for SAR image interpretation
+   - **Venue:** Remote Sensing Proc IGARSS 88 Symposium Edinburgh 1988 Vol 3
+   - **Year:** 1988
+   - **Type:** Book
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0024228257
+   - **Pages:** 1845-1846
+   - **Authors:** Dellepiane S.; Giusto D. D.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 21100681330
+   - **Author Ids:** 7004291247;7004570907;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+152.
+   - **Title:** Exploitation of intensity and textural information in SAR image analysis driven by a knowledge-based structure
+   - **Venue:** Alpine and Mediterranean Areas Proc 8th Earsel Symposium Capri 1988
+   - **Year:** 1988
+   - **Type:** Book
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0024149917
+   - **Pages:** 49-65
+   - **Authors:** Dellepiane S.; Giusto D. D.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 110285
+   - **Author Ids:** 7004291247;7004570907;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+153.
+   - **Title:** Fractal analysis for discrimination of overlapped structures in radiological images
+   - **Venue:** IEEE Engineering in Medicine and Biology Society Annual Conference
+   - **Year:** 1988
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/iembs.1988.94553
+   - **Scopus ID:** 2-s2.0-0024111413
+   - **Volume:** 10
+   - **Issue:** pt 1
+   - **Pages:** 349-350
+   - **Authors:** Antognetti P. F.; Dellepiane S.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 87373
+   - **Author Ids:** 7003816900;7004291247;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Antognetti P.F.
+154.
+   - **Title:** Fractal Dimension Estimation By Adaptive Mask Selection.
+   - **Venue:** ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings
+   - **Year:** 1988
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **Scopus ID:** 2-s2.0-0023776128
+   - **ISSN:** 07367791
+   - **Pages:** 1116-1119
+   - **Authors:** Arduini F.; Dambra C.; Dellepiane S.; Serpico S. B.; Vernazza G.; Viviani R.
+   - **Source Id:** 110544
+   - **Author Ids:** 6602454752;58237414800;7004291247;7005306316;7005048304;7005527114
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Arduini F.
+155.
+   - **Title:** Fuzzy-Reasoning Approach To Understanding Of 2d Nmr Images.
+   - **Venue:** IEEE Engineering in Medicine and Biology Society Annual Conference
+   - **Year:** 1987
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0023570068
+   - **Pages:** 1980-1981
+   - **Authors:** Serpico S. B.; Sturaro F.; Vernazza G.; Dellepiane S.
+   - **Source Id:** 87373
+   - **Author Ids:** 7005306316;6505732901;7005048304;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Serpico S.
+156.
+   - **Title:** Recognition Of Partially Occluded Workpieces By A Knowledge-Based System.
+   - **Venue:** undefined
+   - **Year:** 1987
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0023548268
+   - **Pages:** 1149-1156
+   - **Authors:** Serpico S. B.; Vernazza G.; Dellepiane S.; Angela P.
+   - **Source Id:** 130662
+   - **Author Ids:** 7005306316;7005048304;7004291247;6507683685
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Serpico S.
+157.
+   - **Title:** Expert System For The Recognition Of Anatomical Organs From 3d Data-Base.
+   - **Venue:** IEEE Engineering in Medicine and Biology Society Annual Conference
+   - **Year:** 1987
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0023540501
+   - **Pages:** 933-934
+   - **Authors:** Dellepiane S.; Serpico S. B.; Vernazza G.; Bruzzone S.; Regazzoni C.
+   - **Source Id:** 87373
+   - **Author Ids:** 7004291247;7005306316;7005048304;57197922492;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+158.
+   - **Title:** Fractal-based image analysis in radiological applications
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1987
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1117/12.976530
+   - **Scopus ID:** 2-s2.0-0010830374
+   - **ISSN:** 0277786X
+   - **eISSN:** 1996756X
+   - **Volume:** 845
+   - **Pages:** 396-403
+   - **Authors:** Dellepiane S.; Serpico S. B.; Vernazza G.; Viviani R.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7004291247;7005306316;7005048304;7005527114
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.
+159.
+   - **Title:** Recognition of partially occluded workpieces by a knowledge-based system
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1987
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1117/12.968292
+   - **Scopus ID:** 2-s2.0-84958488368
+   - **ISSN:** 0277786X
+   - **eISSN:** 1996756X
+   - **Volume:** 858
+   - **Pages:** 1149-1156
+   - **Authors:** Serpico S. B.; Vernazza G.; Dellepiane S.; Angela P.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7005306316;7005048304;7004291247;6507683685
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Serpico S.B.
+160.
+   - **Title:** A knowledge-based system for biomedical image processing and recognition
+   - **Venue:** IEEE Transactions on Circuits and Systems
+   - **Year:** 1987
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 41
+   - **DOI:** 10.1109/TCS.1987.1086063
+   - **Scopus ID:** 2-s2.0-0023669958
+   - **ISSN:** 00984094
+   - **Volume:** 34
+   - **Issue:** 11
+   - **Pages:** 1399-1416
+   - **Authors:** Vernazza Gianni L.; Serpico Sebastiano B.; Dellepiane Silvana G.
+   - **Source Id:** 40260
+   - **Author Ids:** 7005048304;7005306316;7004291247
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Vernazza G.L.
+161.
+   - **Title:** Structural Analysis In Medical Imaging.
+   - **Venue:** undefined
+   - **Year:** 1986
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-0023005148
+   - **Pages:** 522-529
+   - **Authors:** Dellepiane S.; Serpico S. B.; Venzano L.; Vernazza Gianni
+   - **Source Id:** 130841
+   - **Author Ids:** 7004291247;7005306316;6506049856;7005048304
+   - **Corresponding:** Dellepiane S.
+162.
+   - **Title:** Image Understanding And 3d Reconstruction Of Biomedical Images.
+   - **Venue:** IEEE Engineering in Medicine and Biology Society Annual Conference
+   - **Year:** 1986
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0022987561
+   - **Pages:** 1122-1125
+   - **Authors:** Beltrame F.; Bianco B.; Dellepiane S.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 87373
+   - **Author Ids:** 56917371500;7005080001;7004291247;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Beltrame F.
+163.
+   - **Title:** Approximate Reasoning And Knowledge In Nmr Image Understanding.
+   - **Venue:** Proceedings International Conference on Pattern Recognition
+   - **Year:** 1986
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0022956166
+   - **Pages:** 943-946
+   - **Authors:** Dellepiane S.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 24282
+   - **Author Ids:** 7004291247;7005306316;7005048304
+   - **Corresponding:** Dellepiane S.
+164.
+   - **Title:** Preliminary Approach To Understanding Of Biomedical Nmr Images.
+   - **Venue:** undefined
+   - **Year:** 1986
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0022947884
+   - **Pages:** 318-322
+   - **Authors:** Dellepiane S.; Serpico S. B.; Vernazza G.
+   - **Source Id:** 130354
+   - **Author Ids:** 7004291247;7005306316;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dellepiane S.

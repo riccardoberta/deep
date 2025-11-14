@@ -1,0 +1,777 @@
+{
+  "surname": "Fruzzetti",
+  "name": "Camilla",
+  "unit": "NAV",
+  "email": "camilla.fruzzetti@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/UUJGXl5h",
+  "website": "",
+  "unige_id": "411548",
+  "scopus_id": "57427556800",
+  "role": "Ricercatore",
+  "grade": "Ricercatore t.d. art. 24 c. 3 lett. A Legge 240/10 (t.pieno)",
+  "ssd": "IIND-01/B (Costruzioni e impianti navali)",
+  "location": [
+    {
+      "building": "Villa Cambiaso - padiglioni (ED_161450103)",
+      "floor": "piano Terra",
+      "room": "US_161450103.T.115"
+    }
+  ],
+  "career": [
+    {
+      "role": "BE",
+      "from": "2020-02-15 00:00:00.0000000",
+      "to": "2023-10-31 00:00:00.0000000"
+    },
+    {
+      "role": "DR",
+      "from": "2020-11-01 00:00:00.0000000",
+      "to": "2023-10-31 00:00:00.0000000"
+    },
+    {
+      "role": "CB",
+      "from": "2021-11-03 00:00:00.0000000",
+      "to": "2024-02-28 00:00:00.0000000"
+    },
+    {
+      "role": "AR",
+      "from": "2023-11-02 00:00:00.0000000",
+      "to": "2024-06-30 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2024-07-01 00:00:00.0000000",
+      "to": "2027-06-30 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {
+    "2025": [
+      {
+        "course": "IMPIANTI NAVALI A (66131)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "IMPIANTI NAVALI A (66131)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "SHIP PROPULSION (101129)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2024": [
+      {
+        "course": "IMPIANTI NAVALI A (66131)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "SHIP PROPULSION (101129)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 3,
+      "total_products": 9,
+      "journals": 4,
+      "conferences": 4,
+      "citations": 30,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 3,
+      "total_products": 9,
+      "journals": 4,
+      "conferences": 4,
+      "citations": 30,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 3,
+      "total_products": 9,
+      "journals": 4,
+      "conferences": 4,
+      "citations": 30,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 3,
+      "total_products": 9,
+      "journals": 4,
+      "conferences": 4,
+      "citations": 30,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-105012467146",
+      "title": "Model Identification, Dynamic Positioning, and Thrust Allocation System for the milliAmpere1 Autonomous Ferry Prototype: Field Trial Results",
+      "doi": "10.1109/ACCESS.2025.3593251",
+      "venue": "IEEE Access",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "13",
+      "issue_id": null,
+      "pages": "133609-133634",
+      "issn": null,
+      "eIssn": "21693536",
+      "source_id": "21100374601",
+      "authors": "Hinostroza Miguel; Fruzzetti Camilla; Gudahl Tufte Andreas; Lexau Simon J.N.; Gusev Alexey; Eide Egil; Brekke Edmund F.; Lekkas Anastasios M.; Skjetne Roger; Martelli Michele; Breivik Morten",
+      "author_ids": "56017701600;57427556800;60029276200;59460184200;59959538000;7004958403;25031502300;6505747533;6602785213;55521641400;56206241300",
+      "authorAffiliationIds": "60013141;60025153;60013141;60013141;60013141;60013141;60013141;60013141;60013141;60025153;60013141",
+      "corresponding": "Hinostroza M.",
+      "keywords": "dynamic positioning control | full-scale experiments | Maritime autonomous surface ships | ship model identification | thrust allocation | urban electrical ferry",
+      "abstract": "Autonomous electric ferries offer an eco-friendly solution for sustainable and intelligent urban mobility. Currently, these ferries are undergoing successful trial operations on short routes for passenger transportation in European and Scandinavian cities. This paper presents experimental results on model identification, thrust allocation (TA), and dynamic positioning (DP) system for the milliAmpere1 (mA1) autonomous electric ferry prototype. The mA1 is a small prototype ferry used as a test platform in several research projects at the Norwegian University of Science and Technology (NTNU). It recently went through a system upgrade and is now equipped with four symmetrically distributed azimuth thrusters. These new systems require a new mathematical model and a reliable DP and TA system to enable autonomous operation. The DP system is responsible for calculating the total force and moment required to keep position or move between waypoints. At the same time, the TA algorithm coordinates the thrusters to ensure that the resulting force they generate matches the request from the DP control algorithm. The DP is designed with a horizontal plane control law, using a feedforward plus feedback control. The TA is formulated as a quadratic programming problem, which includes cost functions for power consumption. A third-order reference guidance system is implemented to ensure smooth and continuous signals for the DP desired position, velocity, and acceleration. Additionally, system model identification was performed to determine the parameters of the actuator dynamics. Full-scale trials were conducted to evaluate the performance of the proposed system in a sheltered basin situated in Trondheim, Norway, under low-wind conditions. The field trial results indicate that the proposed approach successfully stabilized and maintained a desired trajectory.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 88,
+              "rank": 42,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 83,
+              "rank": 41,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 78,
+              "rank": 101,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85210284265",
+      "title": "Time Domain Design of a Marine Target Tracking System Accounting for Environmental Disturbances",
+      "doi": "10.3390/jmse12112058",
+      "venue": "Journal of Marine Science and Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "12",
+      "issue_id": "11",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20771312",
+      "source_id": "21100830140",
+      "authors": "Fruzzetti Camilla; Buzzurro Cristiana; Donnarumma Silvia; Martelli Michele",
+      "author_ids": "57427556800;59426737200;55350308600;55521641400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Fruzzetti C.",
+      "keywords": "environmental disturbances | marine autonomous surface ship | target tracking",
+      "abstract": "Environmental disturbances represent significant challenges to the performance and accuracy of autonomous systems, especially in marine environments, where their impact varies based on disturbance severity and the employed guidance law. This paper comprehensively investigates a marine target tracking system using time-domain simulations incorporating realistic environmental disturbances. Three guidance laws and four key performance indicators are analysed to evaluate system performance under disturbed and ideal conditions. A robust and systematic evaluation pipeline is developed and applied to a case study featuring a scaled tugboat model. This approach provides a reliable method to assess tracking accuracy and robustness in adverse conditions. The results are selected from a wide range of possibilities to show the effect of the disturbances on the selected target tracking motion control scenario with two manoeuvres and two environmental conditions. The results are measured through the selected key performance indicators, and several phases are identified for each manoeuvre to extend the analysis not only to the global KPI values but also to the partial values of defined phases. They reveal the quantitative effects of environmental disturbances, exposing different system behaviours and trends. These findings demonstrate the effectiveness of the proposed pipeline in quantifying tracking system performance, delivering useful understandings of the system under environmental disturbances. The broader implications of this study are substantial, offering enhanced predictive accuracy for the performance of the analysed systems, particularly in the context of target tracking. Furthermore, introducing numerical key performance indicators facilitates a more rigorous comparison of different system characteristics, enabling informed decisions in designing and optimising autonomous operations in challenging environments.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 75,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 73,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 72,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 74,
+              "rank": 30,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 71,
+              "rank": 116,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 68,
+              "rank": 87,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85175652778",
+      "title": "Probabilistic operability and greenhouse gas assessment during dynamic positioning operations",
+      "doi": "10.1177/14750902231203441",
+      "venue": "Proceedings of the Institution of Mechanical Engineers Part M Journal of Engineering for the Maritime Environment",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "238",
+      "issue_id": "2",
+      "pages": "336-347",
+      "issn": "14750902",
+      "eIssn": "20413084",
+      "source_id": "25596",
+      "authors": "Fruzzetti Camilla; Donnarumma Silvia; Maggiani Francesca; Martelli Michele",
+      "author_ids": "57427556800;55350308600;58042017600;55521641400",
+      "authorAffiliationIds": "60025153;60025153;60211436;60025153",
+      "corresponding": "Fruzzetti C.",
+      "keywords": "Dynamic positioning | electric propulsion | environmental disturbances | GHG emissions | operability assessment | optimized allocation | scatter diagram analysis | station keeping capability",
+      "abstract": "A Dynamic Positioning system automatically maintains both the position and heading of a vessel by using its thrusters in the presence of external disturbances. This goal is ensured by a controller that compensates for the environmental disturbances and computes the proper set-points for each actuator. The core of such a system is composed of force and thrust allocation modules that tailor the required forces and moment over the available actuators. The propulsion systems used are often over-actuated and the thrust allocation algorithm implies an infinite number of solutions since it is impossible to solve analytically the problem. Over the years efforts from the research community dealt with the optimization in terms of accuracy, energy consumption, and maintenance with innovative allocation strategies were investigated. However, no publications or rules indicate the procedure for the evaluation of exhaust gas emission during dynamic positioning operations. For such a reason, the paper aims to develop an optimization procedure that includes an ad-hoc objective function with relative non-linear constraints for the thrust allocation logic that tends to minimize the actuators’ thrust. The procedure accounts for non-linear hydrodynamic effects on the thrust generation, including thruster-thruster and thruster-hull interactions, to obtain the most realistic results as possible. Moreover, following the IMO suggestions, the production of greenhouses gases emissions is evaluated in probabilistic terms. The proposed approach provides indicators in terms of yearly operability, fuel consumption, and environmental footprint during dynamic positioning operations that could be used for proper decisions in ship deployment.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 68,
+              "rank": 37,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 66,
+              "rank": 249,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 72,
+              "rank": 32,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 67,
+              "rank": 238,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85210082696",
+      "title": "Real-time critical marine infrastructure multi-sensor surveillance via a constrained stochastic coverage algorithm",
+      "doi": "10.24868/11141",
+      "venue": "Proceedings of the International Ship Control Systems Symposium",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "26318741",
+      "source_id": "21101052918",
+      "authors": "Ponzini F.; Fruzzetti C.; Sabatino N.",
+      "author_ids": "58576469000;57427556800;59423368900",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Ponzini F.",
+      "keywords": "coverage algorithm | critical infrastructure surveillance | dark ship detection | GNC | MASS | situational awareness",
+      "abstract": "In recent years, monitoring and protecting marine infrastructure have become increasingly critical. Surface marine vessels can provide valuable support in monitoring structures such as offshore wind farms, data cables, and pipelines. Employing surface vessels with ever-increasing autonomous capabilities allows for increased operation efficiency and strategic advantages. In critical infrastructure monitoring, the area of interest is known in advance, and the aim is to detect anomalies. This paper focuses on developing a guidance, navigation, and control framework suitable for a MASS and tailored for critical infrastructure monitoring missions. The primary goals are developing a stochastic-based coverage algorithm to ensure the surveillance of an area of interest and a real-time compliant shadow vessels monitoring system that provides situational awareness of the above-water surrounding environment, detecting threats and unexpected targets over time. The navigation in the operational environment is ensured by an appropriate proprioceptive sensing layer. The hypotheses and the methodologies are shown and explained in detail, together with the preliminary results reporting the first integration. The results are obtained via computer simulations applied to a wind farm critical infrastructure scenario; additional experimental tests are carried out in indoor and outdoor controlled environments to assess the proposed navigation and control systems capability, involving a marine autonomous surface ships test platform available in the university laboratory. The preliminary results demonstrate the ability of the systems to cooperate in the proposed architecture, monitor an Area Of Interest, detect threats, effectively manoeuvre the vessel in real-time, and estimate its state. Such a framework can be further enhanced by extending the perception capabilities for the underwater domain, integrating multiple control logic to allow for more efficient surveillance strategies, or extending the vessel capabilities beyond surveillance missions, adding capabilities like target chasing.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 20,
+              "rank": 793,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 20,
+              "rank": 93,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 14,
+              "rank": 327,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 9,
+              "rank": 174,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 13,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 11,
+              "rank": 860,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 7,
+              "rank": 348,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 4,
+              "rank": 178,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85200538613",
+      "title": "Model-Based Motion Control Design for the Milliampere1 Prototype Ferry",
+      "doi": "10.23919/ECC64448.2024.10591071",
+      "venue": "2024 European Control Conference Ecc 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "3636-3643",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101240865",
+      "authors": "Fruzzetti Camilla; Martelli Michele; Lekkas Anastasios; Skjetne Roger; Breivik Morten",
+      "author_ids": "57427556800;55521641400;6505747533;6602785213;56206241300",
+      "authorAffiliationIds": "60025153;60025153;60013141;60013141;60013141",
+      "corresponding": "Fruzzetti C.",
+      "keywords": null,
+      "abstract": "Following the recent upgrade of the propulsion plant configuration for the milliAmpere1 passenger ferry prototype, a model-based controller pipeline suitable for all the milliAmpere1 speed ranges is proposed and evaluated. Some well-known methods for force allocation and reference model systems are implemented together with a nonlinear model-based motion controller, and a comparison study for different combinations is carried out to define the best solution for this application. Considering low-speed operations, the efficiency of three force allocation solutions and three reference models with two possible thruster configurations are investigated. The resulting controllers are evaluated with five performance metrics. For higher-speed operations, a solution with a reference model and a force allocation is presented and investigated. The controllers have been tested via numerical simulations, and based on the performance metrics, indications for the best design options are provided.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85161671157",
+      "title": "Unmanned Surface Vehicle Chase a Moving Target Remotely Controlled",
+      "doi": "10.1007/978-3-031-31268-7_14",
+      "venue": "Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": "13866 LNCS",
+      "issue_id": null,
+      "pages": "243-254",
+      "issn": "03029743",
+      "eIssn": "16113349",
+      "source_id": "25674",
+      "authors": "Fruzzetti Camilla; Martelli Michele",
+      "author_ids": "57427556800;55521641400",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Fruzzetti C.",
+      "keywords": "Autonomous Surface Vessel | Guidance | Human in the loop | Target tracking",
+      "abstract": "Shortly, it is expected to have hybrid marine scenarios in which manned and unmanned vehicles navigate in the same environment. The study of the interactions between autonomous and human-controlled vessels becomes essential to improve and make the control systems more resilient. For such a reason, this paper shows a simulation architecture to test the effectiveness of a guidance law in a target tracking scenario for surface navigation. The guidance logic is based on the idea of reaching and following a target when the future motion is unknown and only the instantaneous position and speed are available. The adopted guidance law can handle both the chasing and the following phases minimising the time needed to reach the chased vehicles. The actuators’ set-point generation is ensured by speed and heading controls, properly developed for this aim. A cyber-physical testing scenario has been developed and can run in real-time. Both target and interceptor dynamics are based on detailed mathematical models in which the parameters have been validated by dedicated tank experiments. An operator remotely controls the target through a human-machine interface and tries to leave behind the autonomously controlled interceptor to make the simulation’s results more realistic. At the end of the paper, the results are reported for investigation and the conclusions are drawn.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 48,
+              "rank": 70,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 46,
+              "rank": 129,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 48,
+              "rank": 121,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 47,
+              "rank": 69,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85145613688",
+      "title": "Dynamic positioning operability assessment by using thrust allocation optimization",
+      "doi": "10.1201/9781003358961-5",
+      "venue": "Sustainable Development and Innovations in Marine Technologies Proceedings of the 19th International Congress of the International Maritime Association of the Mediterranean Imam 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": "25-32",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101130449",
+      "authors": "Fruzzetti C.; Donnarumma S.; Martelli M.; Maggiani F.",
+      "author_ids": "57427556800;55350308600;55521641400;58042017600",
+      "authorAffiliationIds": "60025153;60025153;60025153;60211436",
+      "corresponding": "Fruzzetti C.",
+      "keywords": null,
+      "abstract": "A Dynamic Positioning system can automatically maintain both the position and heading of a vessel by using its thrusters. The core is composed of force and thrust allocation modules that tailor the required forces and moment to compensate the external forces over the available actuators. The propulsion systems are often over-actuated and, then, it is impossible to solve analytically the thrust allocation algorithm. To address the challenge several methodologies are available, starting from reducing the order of the problem up to operation research techniques. The paper aims to develop an optimisation procedure that includes an ad-hoc objective function with relative non-linear constraints for the thrust allocation logic that tends to minimize the thrust of the actuator. The procedure accounts for non-linear hydrodynamic effects on the thrust generation, including thruster-thruster and thruster-hull interactions. Based on the assumption of equal available power, two different propulsion configurations are investigated in terms of yearly operability.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85138206739",
+      "title": "Rapid Prototyping for Enhanced Dynamic Positioning Systems",
+      "doi": "10.3233/PMST220075",
+      "venue": "Progress in Marine Science and Technology",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "6",
+      "issue_id": null,
+      "pages": "641-649",
+      "issn": "25430955",
+      "eIssn": "25430963",
+      "source_id": "21101107127",
+      "authors": "Donnarumma Silvia; Fruzzetti Camilla; Martelli Michele; Chiti Roberto; Pecoraro Andrea; Sebastiani Luca",
+      "author_ids": "55350308600;57427556800;55521641400;56845710200;57893035300;16022741600",
+      "authorAffiliationIds": "60025153;60025153;60025153;109904344;109904344;109904344",
+      "corresponding": "Donnarumma S.",
+      "keywords": "dynamic positioning | hardware-in-the-loop | model-based design",
+      "abstract": "The paper aims to show the design procedure for a Class-2 dynamic positioning system, from initial conceptualisation upon factory assessment test. The approach involves the use of simulation-based design combined with hardware-in-the-loop testing. This kind of approach involves a detailed knowledge of the investigated ship but gives significant well-known advantages. A custom simulation platform has been developed to have realistic feedbacks of the case-study ship. The dynamic positioning controller structure, including regulator, force and thrust allocation; have been conceptualised, and then, after the porting procedure, the dynamic positioning software has been downloaded in the real programmable logic controller. Several hardware-in-the-loop tests have been carried out to fine-tune the controller parameters. The results show, under different environmental conditions, the respect of the design criteria.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 22,
+              "rank": 200,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 15,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 13,
+              "rank": 640,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 9,
+              "rank": 91,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 7,
+              "rank": 178,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 4,
+              "rank": 600,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85123502826",
+      "title": "Dynamic target chasing: parameters and performance indicators assessment",
+      "doi": "10.1007/s00773-021-00865-3",
+      "venue": "Journal of Marine Science and Technology Japan",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "27",
+      "issue_id": "1",
+      "pages": "712-729",
+      "issn": "09484280",
+      "eIssn": null,
+      "source_id": "27784",
+      "authors": "Fruzzetti Camilla; Donnarumma Silvia; Martelli Michele",
+      "author_ids": "57427556800;55350308600;55521641400",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Fruzzetti C.",
+      "keywords": "Autonomous surface vessel | Constant bearing | Guidance | Line-of-sight | Target tracking",
+      "abstract": "This paper aims to present a systematic approach to evaluate the parameters affecting the vessel’s performances in the target tracking motion control scenario and, for this reason, three guidance laws have been formalised. Such scenario consists of reaching and following a target of which it is only possible to know the instantaneous position and velocity, hence when the future motion is unknown. The standard Line-Of-Sight, Pure Pursuit, and Constant Bearing have been modified and deeply tested. The target tracking scenario has been divided into two parts: the target approach and following strategies. The increase in system complexity needs advanced tools to predict the vehicle response in both standard and non-standard conditions. Simulation can support the designer’s effort for the transition from a traditional to an autonomous ship in the whole ship design; hence, all the guidance laws have been virtually tested and a sensitivity analysis is carried out to understand each parameter effect. Several manoeuvres have been performed and the results are shown to highlight benefits and drawbacks for each law. Eventually, key performance indicators are outlined and some suggestions are given to the proper settings of the guidance law parameters in the function of the specific mission.",
+      "citations": 11,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Oceanography",
+              "percentile": 83,
+              "rank": 26,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 76,
+              "rank": 28,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 75,
+              "rank": 178,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanics of Materials",
+              "percentile": 70,
+              "rank": 123,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 74,
+              "rank": 161,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 73,
+              "rank": 27,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Oceanography",
+              "percentile": 71,
+              "rank": 39,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanics of Materials",
+              "percentile": 71,
+              "rank": 113,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1270776",
+      "authors": "Faggioni, N.; Molinari, S.; Caviglia, A.; Fruzzetti, C.; Figari, M.",
+      "legacy_id": 668132,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "From anomaly detection to root cause analysis: a novel maritime maintenance framework using digital twin synthetic dataset",
+      "doi": "10.1088/1742-6596/3123/1/012062",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1263341",
+      "authors": "Hinostroza, Miguel; Fruzzetti, Camilla; Gudahl Tufte, Andreas; Lexau, Simon J. N.; Gusev, Alexey; Eide, Egil; Brekke, Edmund F.; Lekkas, Anastasios M.; Skjetne, Roger; Martelli, Michele; Breivik, Morten",
+      "legacy_id": 659086,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Model Identification, Dynamic Positioning, and Thrust Allocation System for the milliAmpere1 Autonomous Ferry Prototype: Field Trial Results",
+      "scopus_id": "2-s2.0-105012467146",
+      "doi": "10.1109/ACCESS.2025.3593251",
+      "isi_id": "WOS:001542442900020",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1222715",
+      "authors": "Fruzzetti, Camilla; Buzzurro, Cristiana; Donnarumma, Silvia; Martelli, Michele",
+      "legacy_id": 601826,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Time Domain Design of a Marine Target Tracking System Accounting for Environmental Disturbances",
+      "scopus_id": "2-s2.0-85210284265",
+      "doi": "10.3390/jmse12112058",
+      "isi_id": "WOS:001365472300001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1213195",
+      "authors": "Fruzzetti, C.; Martelli, M.; Lekkas, A.; Skjetne, R.; Breivik, M.",
+      "legacy_id": 590346,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Model-Based Motion Control Design for the Milliampere1 Prototype Ferry",
+      "scopus_id": "2-s2.0-85200538613",
+      "doi": "10.23919/ECC64448.2024.10591071",
+      "isi_id": "WOS:001290216503060",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1222717",
+      "authors": "Ponzini, F; Fruzzetti, C; Sabatino, N",
+      "legacy_id": 601827,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Real-time critical marine infrastructure multi-sensor surveillance via a constrained stochastic coverage algorithm",
+      "scopus_id": "2-s2.0-85210082696",
+      "doi": "10.24868/11141",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1156660",
+      "authors": "Fruzzetti, Camilla; Donnarumma, Silvia; Maggiani, Francesca; Martelli, Michele",
+      "legacy_id": 520883,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Probabilistic operability and greenhouse gas assessment during dynamic positioning operations",
+      "scopus_id": "2-s2.0-85175652778",
+      "doi": "10.1177/14750902231203441",
+      "isi_id": "WOS:001090820900001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1163615",
+      "authors": "Fruzzetti, Camilla",
+      "ssd": "Settore ING-IND/02 - Costruzioni e Impianti Navali e Marini",
+      "legacy_id": 531685,
+      "year": 2024,
+      "miur_type": "-2",
+      "title": "Guidance and motion control logic for Marine Autonomous Surface Ships",
+      "doi": "10.15167/fruzzetti-camilla_phd2024-03-06",
+      "type": "Tesi di dottorato"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1141796",
+      "authors": "Fruzzetti, C.; Martelli, M.",
+      "legacy_id": 501755,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Unmanned Surface Vehicle Chase a Moving Target Remotely Controlled",
+      "scopus_id": "2-s2.0-85161671157",
+      "doi": "10.1007/978-3-031-31268-7_14",
+      "isi_id": "WOS:001427115700014",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1074229",
+      "authors": "Fruzzetti, C.; Donnarumma, S.; Martelli, M.",
+      "legacy_id": 410829,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Dynamic target chasing: parameters and performance indicators assessment",
+      "scopus_id": "2-s2.0-85123502826",
+      "doi": "10.1007/s00773-021-00865-3",
+      "isi_id": "WOS:000745579100001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "8",
+      "citations_scopus": "11"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102440",
+      "authors": "Fruzzetti, C.; Donnarumma, S.; Martelli, M.; Maggiani, F.",
+      "legacy_id": 445779,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Dynamic positioning operability assessment by using thrust allocation optimization",
+      "scopus_id": "2-s2.0-85145613688",
+      "doi": "10.1201/9781003358961-5",
+      "isi_id": "WOS:001233620100003",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1095515",
+      "authors": "Donnarumma, Silvia; Fruzzetti, Camilla; Martelli, Michele; Roberto, Chiti; Pecoraro, Andrea; Sebastiani, Luca",
+      "legacy_id": 435375,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Rapid prototyping for enhanced dynamic positioning systems",
+      "scopus_id": "2-s2.0-85138206739",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:13:59.017657"
+}

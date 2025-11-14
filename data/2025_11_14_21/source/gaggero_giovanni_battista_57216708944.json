@@ -1,0 +1,2393 @@
+{
+  "surname": "Gaggero",
+  "name": "Giovanni Battista",
+  "unit": "ELE",
+  "email": "giovanni.gaggero@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/VktGW1tt",
+  "website": "",
+  "unige_id": "381014",
+  "scopus_id": "57216708944",
+  "role": "Ricercatore",
+  "grade": "Ricercatore t.d. art. 24 c. 3 lett. A Legge 240/10 (t.pieno)",
+  "ssd": "IIET-01/A (Elettrotecnica)",
+  "location": [
+    {
+      "building": "Opera Pia - padiglione C (Ex CNR) (ED_161450501)",
+      "floor": "3° piano",
+      "room": "US_161450501.III.018"
+    }
+  ],
+  "career": [
+    {
+      "role": "DR",
+      "from": "2018-11-01 00:00:00.0000000",
+      "to": "2021-10-31 00:00:00.0000000"
+    },
+    {
+      "role": "AR",
+      "from": "2021-11-02 00:00:00.0000000",
+      "to": "2023-06-30 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2023-07-01 00:00:00.0000000",
+      "to": "2026-06-30 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {
+    "2024": [
+      {
+        "course": "COMPATIBILITÀ ELETTROMAGNETICA (56558)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      }
+    ],
+    "2023": [
+      {
+        "course": "COMPATIBILITÀ ELETTROMAGNETICA (56558)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 10,
+      "total_products": 35,
+      "journals": 21,
+      "conferences": 12,
+      "citations": 269,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 10,
+      "total_products": 35,
+      "journals": 21,
+      "conferences": 12,
+      "citations": 269,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 10,
+      "total_products": 35,
+      "journals": 21,
+      "conferences": 12,
+      "citations": 269,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 10,
+      "total_products": 34,
+      "journals": 21,
+      "conferences": 11,
+      "citations": 262,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-105014634588",
+      "title": "Towards privacy-preserving anomaly-based intrusion detection in energy communities",
+      "doi": "10.1186/s42162-025-00565-x",
+      "venue": "Energy Informatics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "8",
+      "issue_id": "1",
+      "pages": null,
+      "issn": null,
+      "eIssn": "25208942",
+      "source_id": "21101048366",
+      "authors": "Afzal Zeeshan; Gaggero Giovanni; Asplund Mikael",
+      "author_ids": "56705229700;57216708944;22978610300",
+      "authorAffiliationIds": "60009358;60025153;60009358",
+      "corresponding": "Afzal Z.",
+      "keywords": "Cyber security | Distributed energy resources | Energy communities | Intrusion detection | Machine learning | Smart grid",
+      "abstract": "Energy communities consist of decentralized energy production, storage, consumption, and distribution and are gaining traction in modern power systems. However, these communities may increase the vulnerability of the grid to cyber threats. We propose an anomaly-based intrusion detection system to enhance the security of energy communities. The system leverages LSTM autoencoders to detect deviations from normal operational patterns in order to identify anomalies induced by attacks or faults. Operational data for training and evaluation are derived from a Simulink-based model of an energy community. The results show that the autoencoder-based intrusion detection system achieves good detection performance across multiple attack scenarios, up to 0.9270 and 0.9735 in precision and recall respectively. We also demonstrate potential for real-world application of the system by training a federated model that enables distributed intrusion detection while preserving data privacy.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 71,
+              "rank": 157,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 68,
+              "rank": 155,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 67,
+              "rank": 106,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105019060964",
+      "title": "Performance Analysis and Security Preservation of DSRC in V2X Networks",
+      "doi": "10.3390/electronics14193786",
+      "venue": "Electronics Switzerland",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "14",
+      "issue_id": "19",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20799292",
+      "source_id": "21100829272",
+      "authors": "Sohail Muhammad Saad; Portomauro Giancarlo; Gaggero Giovanni Battista; Patrone Fabio; Marchese Mario",
+      "author_ids": "59364633700;15128054100;57216708944;56536292600;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Sohail M.S.",
+      "keywords": "Denial of Service | DSRC | jamming attacks | Software-Defined Radio | V2X communications",
+      "abstract": "Protecting communications within vehicular networks is of paramount importance, particularly when data are transmitted using wireless ad-hoc technologies such as Dedicated Short-Range Communications (DSRC). Vulnerabilities in Vehicle-to-Everything (V2X) communications, especially along highways, pose significant risks, such as unauthorized interception or alteration of vehicle data. This study proposes a Software-Defined Radio (SDR)-based tool designed to assess the protection level of V2X communication systems against cyber attacks. The proposed tool can emulate both reception and transmission of IEEE 802.11p packets while testing DSRC implementation and robustness. The results of this investigation offer valuable contributions toward shaping cybersecurity strategies and frameworks designed to protect the integrity of Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I) communications.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 81,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 78,
+              "rank": 220,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 76,
+              "rank": 91,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 76,
+              "rank": 131,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 73,
+              "rank": 62,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105018907042",
+      "title": "Photo-Set: A Proposed Dataset and Benchmark for Physics-Based Cybersecurity Monitoring in Photovoltaic Systems †",
+      "doi": "10.3390/en18195318",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "18",
+      "issue_id": "19",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Mokarim Afroz; Gaggero Giovanni Battista; Ferro Giulio; Robba Michela; Girdinio Paola; Marchese Mario",
+      "author_ids": "57210415425;57216708944;57062015700;7004979187;7003430835;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60121711;60121711;60025153;60025153",
+      "corresponding": "Mokarim A.",
+      "keywords": "anomaly detection | cybersecurity | dataset | distributed energy resources | photovoltaic | smart grid",
+      "abstract": "Modern photovoltaic (PV) systems face increasing cybersecurity threats due to their integration with smart grid infrastructure. While previous research has identified vulnerabilities, the lack of standardized datasets has hindered the development and evaluation of detection algorithms. Building upon our previously introduced Photo-Set dataset, this paper presents a benchmark evaluation of anomaly detection algorithms for PV cybersecurity applications. We evaluate three state-of-the-art algorithms (One-Class SVM, Isolation Forest, and Local Outlier Factor) across 12 attack scenarios, establishing performance baselines and identifying algorithm-specific strengths and limitations. Our experimental results reveal a clear detectability hierarchy. This work proposes a standardized benchmark for PV cybersecurity research and provides the industry with evidence-based guidance for security system deployment.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105017507470",
+      "title": "Rule-Based eXplainable Autoencoder for DNS Tunneling Detection",
+      "doi": "10.3390/computers14090375",
+      "venue": "Computers",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "14",
+      "issue_id": "9",
+      "pages": null,
+      "issn": null,
+      "eIssn": "2073431X",
+      "source_id": "21100886391",
+      "authors": "De Bernardi Giacomo; Gaggero Giovanni Battista; Patrone Fabio; Zappatore Sandro; Marchese Mario; Mongelli Maurizio",
+      "author_ids": "58146713400;57216708944;56536292600;6602811400;7004398165;7005882346",
+      "authorAffiliationIds": "60021199;60025153;60025153;60025153;60025153;60021199",
+      "corresponding": "De Bernardi G.",
+      "keywords": "DNS tunnelling | eXplainable AI | intrusion detection system | statistical traffic analysis",
+      "abstract": "Artificial Intelligence (AI) and Machine Learning (ML) are employed in numerous fields and applications. Even if most of these approaches offer a very good performance, they are affected by the “black-box” problem. The way they operate and make decisions is complex and difficult for human users to interpret, making the systems impossible to manually adjust in case they make trivial (from a human viewpoint) errors. In this paper, we show how a “white-box” approach based on eXplainable AI (XAI) can be applied to the Domain Name System (DNS) tunneling detection problem, a cybersecurity problem already successfully addressed by “black-box” approaches, in order to make the detection explainable. The obtained results show that the proposed solution can achieve a performance comparable to the one offered by an autoencoder-based solution while offering a clear view of how the system makes its choices and the possibility of manual analysis and adjustments.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Science (miscellaneous)",
+              "percentile": 85,
+              "rank": 26,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 83,
+              "rank": 90,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 71,
+              "rank": 55,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105011621726",
+      "title": "Cybersecurity Issues in Electrical Protection Relays: A Systematic Review",
+      "doi": "10.3390/en18143796",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Review",
+      "year": 2025,
+      "volume": "18",
+      "issue_id": "14",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Gaggero Giovanni Battista; Girdinio Paola; Marchese Mario",
+      "author_ids": "57216708944;7003430835;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Gaggero G.B.",
+      "keywords": "cyber security | electrical protection | protection relay | review",
+      "abstract": "The increasing digitalization of power systems has revolutionized the functionality and efficiency of electrical protection relays. These digital relays enhance fault detection, monitoring, and response mechanisms, ensuring the reliability and stability of power networks. However, their connectivity and reliance on communication protocols introduce significant cybersecurity risks, making them potential targets for malicious attacks. Cyber threats against digital protection relays can lead to severe consequences, including cascading failures, equipment damage, and compromised grid security. This paper presents a comprehensive review of cybersecurity challenges in digital electrical protection relays, focusing on four key areas: (1) a taxonomy of cyber attack models targeting protection relays, (2) the associated risks and their potential impact on power systems, (3) existing mitigation strategies to enhance relay security, and (4) future research directions to strengthen resilience against cyber threats.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105016566527",
+      "title": "Photo-Set: A Dataset for Physics-Based Cybersecurity Monitoring in Photovoltaic Systems",
+      "doi": "10.1016/j.ifacol.2025.08.109",
+      "venue": "IFAC Papersonline",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "59",
+      "issue_id": "9",
+      "pages": "37-42",
+      "issn": "24058971",
+      "eIssn": "24058963",
+      "source_id": "21100456158",
+      "authors": "Mokarim Afroz; Gaggero Giovanni Battista; Ferro Giulio; Robba Michela; Marchese Mario",
+      "author_ids": "57210415425;57216708944;57062015700;7004979187;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60121711;60121711;60025153",
+      "corresponding": "Mokarim A.",
+      "keywords": "anomaly detection | cybersecurity | Dataset | photovoltaic | smart grid",
+      "abstract": "Modern smart grids are defined by the integration of distributed energy resources, such as renewable energy systems, conventional power sources, and energy storage units. These elements often utilize advanced control technologies that connect to generators via smart inverters, which exposes them to a range of cyber threats. To tackle these vulnerabilities, it is essential to have datasets that record cyberattacks on such systems, facilitating risk assessment and the creation of robust monitoring solutions. In response to this requirement, this paper presents Photo-Set, an open-source dataset specifically developed for cybersecurity analysis in photovoltaic systems.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 42,
+              "rank": 218,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85217069329",
+      "title": "Artificial Intelligence and Physics-Based Anomaly Detection in the Smart Grid: A Survey",
+      "doi": "10.1109/ACCESS.2025.3537410",
+      "venue": "IEEE Access",
+      "type": "Journal",
+      "sub_type": "Review",
+      "year": 2025,
+      "volume": "13",
+      "issue_id": null,
+      "pages": "23597-23606",
+      "issn": null,
+      "eIssn": "21693536",
+      "source_id": "21100374601",
+      "authors": "Gaggero Giovanni Battista; Girdinio Paola; Marchese Mario",
+      "author_ids": "57216708944;7003430835;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Gaggero G.B.",
+      "keywords": "AI | anomaly detection | physics-based anomaly detection | Review | smart grid",
+      "abstract": "The integration of advanced communication systems and distributed resources has transformed power systems, enhancing control and efficiency in the Smart Grid. However, this increased complexity introduces new vulnerabilities, heightening risks of cyber-attacks, equipment failures, and other anomalies. Anomaly detection methods increasingly rely on Machine Learning techniques, that represent a game-changer tool for data analysis. The aim of this survey is to review anomaly detection techniques in the Smart Grid, focusing on methods that combine Artificial Intelligence and physics-based modeling. This work systematically examines the current state of research, evaluating the investigated use cases, the algorithms, the performances and the validation of the papers, identifying key gaps, and offering insights for advancing in this research field.",
+      "citations": 16,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 88,
+              "rank": 42,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 83,
+              "rank": 41,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 78,
+              "rank": 101,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105020024502",
+      "title": "A Security Operation and Event Management (SOEM) Platform for Critical Infrastructures Protection",
+      "doi": "10.32604/cmc.2025.068509",
+      "venue": "Computers Materials and Continua",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "85",
+      "issue_id": "3",
+      "pages": "5327-5340",
+      "issn": "15462218",
+      "eIssn": "15462226",
+      "source_id": "24364",
+      "authors": "Caviglia Roberto; Aliaskharov Daniyar; Aceti Alessio; Preda Mila Dalla; Girdinio Paola; Gaggero Giovanni Battista",
+      "author_ids": "57700266100;60159359300;58609673600;60056635500;7003430835;57216708944",
+      "authorAffiliationIds": "133312116;60025153;133312116;60032256;60025153;60025153",
+      "corresponding": "Caviglia R.",
+      "keywords": "Cybersecurity | intrusion detection | monitoring | SIEM | SOC",
+      "abstract": "Industrial Control Systems (ICS) in Operational Technology (OT) environments face unique cybersecurity challenges due to legacy systems, critical operational needs, and incompatibility with standard IT security practices. To address these challenges, this paper presents the Security Operation and Event Management (SOEM) platform, a software designed to support Security Operations Centers (SOCs) in reaching full visibility of OT environments. SOEM integrates diverse log sources and intrusion detection systems, including logs generated by the control system itself and additional on-the-shelf products, to enhance situational awareness and enable rapid incident response. The pilot project was carried out within the funded project SOC-OT-IGE from the “Centro di Competenza Start 4.0” and is being developed in partnership with Ansaldo Energia and HWG Sababa. The validation has been conducted in a real-world pilot project. Thanks to the mapping to requirements for compliance with IEC 62443, the platform demonstrates its effectiveness through defined key performance indicators (KPIs). This work bridges the gap between IT-centric SOC methodologies and the specialized needs of industrial cybersecurity.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Modeling and Simulation",
+              "percentile": 85,
+              "rank": 54,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 74,
+              "rank": 254,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanics of Materials",
+              "percentile": 71,
+              "rank": 117,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 71,
+              "rank": 279,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Biomaterials",
+              "percentile": 54,
+              "rank": 66,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105019589039",
+      "title": "Securing Virtual Power Plants: Attack Vector Analysis of Cybersecurity Vulnerabilities in Ancillary Grid Services",
+      "doi": "10.1109/OJIES.2025.3622528",
+      "venue": "IEEE Open Journal of the Industrial Electronics Society",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "26441284",
+      "source_id": "21101068036",
+      "authors": "Mokarim Afroz; Gaggero Giovanni Battista; Marchese Mario",
+      "author_ids": "57210415425;57216708944;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Mokarim A.",
+      "keywords": "ancillary services | attack vectors | cybersecurity | Distributed Energy Resources (DERs) | time-critical services | Virtual Power Plants (VPPs) | vulnerabilities",
+      "abstract": "Virtual Power Plants (VPPs) have emerged as critical infrastructure for grid stability, aggregating diverse Distributed Energy Resources (DERs) to provide essential ancillary services, including frequency regulation, voltage support, and emergency response capabilities. However, the technical requirements that enable VPPs to deliver these time-critical services simultaneously create unique cybersecurity vulnerabilities that distinguish them from traditional power generation and conventional smart grid systems. This paper establishes systematic connections between VPP technical requirements and cybersecurity threats through the integrated application of NIST and MITRE frameworks. The objective is to reveal critical threats specifically pertaining to ancillary services, comprehensive attack vector classification using MITRE ATT&CK techniques adapted for VPP environments, and mitigation strategies that maintain operational performance while addressing identified vulnerabilities.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 85,
+              "rank": 148,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 84,
+              "rank": 62,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 84,
+              "rank": 61,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105016266981",
+      "title": "Integration of Forensic Analysis and Event Data Recorders in Automotive Regulation: A Proposed Approach",
+      "doi": "10.1109/CSR64739.2025.11130098",
+      "venue": "Proceedings of the 2025 IEEE International Conference on Cyber Security and Resilience Csr 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": "795-800",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101331270",
+      "authors": "Soomro Faraz Bashir; Caviglia Roberto; Gaggero Giovanni Battista; Djihadi Mageni; Marchese Mario",
+      "author_ids": "60102852400;57700266100;57216708944;60102775600;7004398165",
+      "authorAffiliationIds": "60025153-130228801;60025153-130228801;60025153;60025153;60025153",
+      "corresponding": "Soomro F.B.",
+      "keywords": "Automotive Cybersecurity | Digital Forensics | Event Data Recorder (EDR) | UNECE WP. 29 R155 | UNECE WP. 29 R160",
+      "abstract": "Automobiles are now more susceptible to cyber threats due to the integration of advanced electronic systems. United Nations Economic Commission for Europe (UNECE) WP. 29 R160 regulation requires Event Data Recorders (EDRs) for post-crash investigations, while UNECE WP. 29 R155 regulation emphasizes automotive cybersecurity through continuous threat monitoring and management. However, these two systems function separately. This study introduces a novel idea that unifies these two regulations, an integrated framework that can record both digital and physical events during an incident. This integration seeks to help post-incident analysis that distinguishes between anomalies and cyberattacks. The proposal establishes the framework for future prototyping and standardization while outlining reasoning, essential elements, advantages, and anticipated challenges.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105016108611",
+      "title": "CyberVehiCare: A Testbed for Cybersecurity of Vehicle to Everything (V2X) Automotive Systems",
+      "doi": "10.1109/CSR64739.2025.11130024",
+      "venue": "Proceedings of the 2025 IEEE International Conference on Cyber Security and Resilience Csr 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": "818-823",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101331270",
+      "authors": "Rahman Md Arafatur; Tan Sze Wei; Sohail Mohammed Saad; Gaggero Giovanni Battista; Patrone Fabio; Marchese Mario; Pillai Prashant",
+      "author_ids": "55457938100;59173456600;60102416500;57216708944;56536292600;7004398165;7102162572",
+      "authorAffiliationIds": "60007173;60007173;60025153;60025153;60025153;60025153;60007173",
+      "corresponding": "Rahman M.A.",
+      "keywords": "Automotive Cybersecurity | CAN Bus Security | Connected Vehicles | CyberVehiCare | Software-Defined Radio | Testbed | V2X Communication | Vehicle Health Monitoring",
+      "abstract": "The increasing integration of connectivity features in modern vehicles has expanded the attack surface for cyber threats, underscoring the need for robust cybersecurity research tools. This paper introduces CyberVehiCare, an innovative and realistic testbed designed to support the analysis and validation of cybersecurity mechanisms for Vehicle-to-Everything (V2X) automotive systems. By combining real components from a commercial vehicle with emulated V2X modules, CyberVehiCare enables comprehensive testing of in-vehicle and external communication vulnerabilities. The platform supports experimentation with cyberattacks, vulnerability assessments, and the development of security countermeasures, contributing to safer and more resilient automotive networks. The testbed's design, implementation, and validation are discussed, highlighting its potential to advance research.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105004023864",
+      "title": "Should We Include Cyberdefense Functionalities in Electrical Power System Protections?: A Proposed Approach",
+      "doi": "10.1109/MIE.2024.3416907",
+      "venue": "IEEE Industrial Electronics Magazine",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "19",
+      "issue_id": "1",
+      "pages": "10-16",
+      "issn": "19324529",
+      "eIssn": "19410115",
+      "source_id": "5800207505",
+      "authors": "Gaggero Giovanni Battista; Mokarim Afroz; Girdinio Paola; Marchese Mario",
+      "author_ids": "57216708944;57210415425;7003430835;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Gaggero G.B.",
+      "keywords": null,
+      "abstract": "Smart Grid technologies are evolving, especially in the distribution systems. Distributed Energy Resources are increasingly controlled by cloud platforms by using the public internet and this exposes them to cyberattacks; these attacks can cause severe issues to the power grid, and usually there are no automatic responses, but rather cyber defense is delegated to manual operations, despite the very rapid dynamics of the power system. This paper discusses the possibility of using cybersecurity functions in electrical protection as an attack-response tool, making them able to trip after the detection of an ongoing attack; these functions have the aim of guaranteeing the continuity of the power system under cyberattacks. The paper details this approach, provides a use case, and simulates the effects of the implementation of the proposed solution in the power system.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 90,
+              "rank": 92,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 88,
+              "rank": 47,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85206234694",
+      "title": "From microgrids to virtual power plants: A cybersecurity perspective",
+      "doi": null,
+      "venue": "Iot Enabled Dc Microgrids Architecture Algorithms Applications and Technologies",
+      "type": "Book",
+      "sub_type": "Book Chapter",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "103-120",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101253473",
+      "authors": "Gaggero Giovanni; Piserà Diego; Girdinio Paola; Silvestro Federico; Marchese Mario",
+      "author_ids": "57216708944;57226694852;7003430835;23026343700;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Gaggero G.",
+      "keywords": null,
+      "abstract": null,
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85192729998",
+      "title": "Impact Analysis of Cyber Attacks against Energy Communities in Distribution Grids",
+      "doi": "10.3390/electronics13091709",
+      "venue": "Electronics Switzerland",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "13",
+      "issue_id": "9",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20799292",
+      "source_id": "21100829272",
+      "authors": "Mokarim Afroz; Gaggero Giovanni Battista; Marchese Mario",
+      "author_ids": "57210415425;57216708944;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Mokarim A.",
+      "keywords": "cyber attack | European low-voltage test feeder | load demand | power manipulation | renewable energy communities",
+      "abstract": "With the advancement of regulations regarding the reduction in carbon emissions, renewable energy communities have come into the picture. However, many implications come with the installation of these communities from a cybersecurity point of view. The software platforms responsible for managing and controlling them handle a lot of crucial information, and therefore, tampering with these data can lead to several impacts on the operation of these communities and, in turn, the power grid as well. This paper examines the plausible impacts that can be caused by altering certain parameters of the system that make it a potential cyber attack target. The analysis is done by observing how the grid responds to these manipulations for both low-voltage as well as medium-voltage systems. These systems are designed along with integrated energy communities and are implemented in MATLAB/Simulink R2022b software. The observations are made by plotting the grid voltage and power profiles in normal as well as attacked conditions.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 81,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 78,
+              "rank": 220,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 76,
+              "rank": 91,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 76,
+              "rank": 131,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 73,
+              "rank": 62,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 76,
+              "rank": 228,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 76,
+              "rank": 44,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 75,
+              "rank": 93,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 73,
+              "rank": 137,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 72,
+              "rank": 62,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85218337379",
+      "title": "Toward a Security Operation Center for Operational Technology in Industrial Networks",
+      "doi": "10.1109/TechDefense63521.2024.10863654",
+      "venue": "2024 IEEE International Workshop on Technologies for Defense and Security Techdefense 2024 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "160-164",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101276067",
+      "authors": "Gaggero Giovanni Battista; Caviglia Roberto; Girdinio Paola; Marchese Mario",
+      "author_ids": "57216708944;57700266100;7003430835;7004398165",
+      "authorAffiliationIds": "60025153-100505222;60025153-130228801-100505222;60025153-100505222;60025153-100505222",
+      "corresponding": "Gaggero G.B.",
+      "keywords": null,
+      "abstract": "The integration of cyber-physical systems into critical infrastructures, such as power grids and manufacturing plants, necessitates robust security measures to safeguard Industrial Control Systems from malicious threats. Due to the unique operational demands of ICS environments, traditional IT security measures are often unsuitable. To address these challenges, we present our approach for enhancing cybersecurity in energy generation plants by correlating and consolidating alerts and logs from various monitoring devices, thereby providing real-time dashboards for anomaly and threat detection. The approach is based on the development of a platform that aids Security Operation Center (SOC) teams in monitoring operational technology within industrial networks. The paper outlines the functionalities of the platform, that will be developed within the 'SOC OT Impianti Generazione Energia' (SOC-OT IGE) project.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85209085879",
+      "title": "An IEC 62443-Based Framework for Secure-by-Design Energy Communities",
+      "doi": "10.1109/ACCESS.2024.3492316",
+      "venue": "IEEE Access",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "12",
+      "issue_id": null,
+      "pages": "166320-166332",
+      "issn": null,
+      "eIssn": "21693536",
+      "source_id": "21100374601",
+      "authors": "Gaggero Giovanni Battista; Armellin Alessandro; Girdinio Paola; Marchese Mario",
+      "author_ids": "57216708944;57699327800;7003430835;7004398165",
+      "authorAffiliationIds": "60025153;60025153-128824789;60025153;60025153",
+      "corresponding": "Gaggero G.B.",
+      "keywords": "cybersecurity | Energy community | security by design | smart grid",
+      "abstract": "The integration of the Renewable Energy Directive II (REDII) into the legislation of European Union member states and the subsequent proliferation of Renewable Energy Communities (REC) has highlighted the need for software platforms to support the administrative, financial, and technical operations of these communities. However, the rise of RECs also introduces significant cybersecurity risks, including financial losses, privacy violations, and broader threats to the stability of the distribution grid. Despite these risks, RECs present a unique opportunity to address cybersecurity concerns from inception, ensuring that security measures are integrated into their design, thereby reducing the complexity and cost of later countermeasures. This paper proposes an IEC 62443-based framework for the secure-by-design development of RECs; after analyzing the risks, the paper proposes a set of guidelines for its mitigation, and validates the proposed approach showing how a REC that respects these guidelines would be compliant with the IEC 62443 standard.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 88,
+              "rank": 42,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 83,
+              "rank": 41,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 78,
+              "rank": 101,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 90,
+              "rank": 32,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 86,
+              "rank": 33,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 81,
+              "rank": 87,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85206497978",
+      "title": "A Framework for the Deployment of Cybersecurity Monitoring Tools in the Industrial Environment",
+      "doi": "10.1109/MITP.2024.3396356",
+      "venue": "IT Professional",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "26",
+      "issue_id": "4",
+      "pages": "62-70",
+      "issn": "15209202",
+      "eIssn": "1941045X",
+      "source_id": "25053",
+      "authors": "Armellin Alessandro; Caviglia Roberto; Gaggero Giovanni; Marchese Mario",
+      "author_ids": "57699327800;57700266100;57216708944;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Armellin A.",
+      "keywords": null,
+      "abstract": "Cybersecurity monitoring is a crucial element in safeguarding large corporations against cyberattacks. Advances in technology have led to the development of several cybersecurity monitoring tools. In this scenario, it is still unclear which monitoring technologies industrial companies need to achieve specific goals and improve their cybersecurity posture. This article proposes a framework for their optimal deployment in an industrial setting. The key strengths of the proposed framework are its vendor-independent approach to technology evaluation and its adherence to the primary standards and frameworks established for industrial cybersecurity.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 64,
+              "rank": 349,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Software",
+              "percentile": 62,
+              "rank": 187,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 62,
+              "rank": 88,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 65,
+              "rank": 331,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 63,
+              "rank": 82,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Software",
+              "percentile": 62,
+              "rank": 186,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85206212466",
+      "title": "Are IDS Violating Segmentation in Industrial Networks?",
+      "doi": "10.1109/CSR61664.2024.10679425",
+      "venue": "Proceedings of the 2024 IEEE International Conference on Cyber Security and Resilience Csr 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "45-49",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101253086",
+      "authors": "Gaggero Giovanni Battista; Caviglia Roberto; Girdinio Paola; Marchese Mario",
+      "author_ids": "57216708944;57700266100;7003430835;7004398165",
+      "authorAffiliationIds": "60025153;60025153-130228801;60025153;60025153",
+      "corresponding": "Gaggero G.B.",
+      "keywords": "IEC 62443 | Industrial Control System | Intrusion Detection System | Network Segmentation",
+      "abstract": "The integration of Intrusion Detection Systems (IDS) into Industrial Control Systems (ICS) presents a paradoxical challenge wherein the very tools designed to enhance security may inadvertently introduce vulnerabilities, particularly concerning network segmentation. This paper conceptualizes common mistakes found in the industrial environment, analyzing the vul-nerabilities that could be introduced with IDS implementations within ICS, and exploring how attackers could exploit these systems to orchestrate cyberattacks, thereby violating segmentation principles and compromising critical infrastructure operations. The paper also provides a set of practical recommendations and guidelines to mitigate the risk.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85200813502",
+      "title": "BESS-Set: A Dataset for Cybersecurity Monitoring in a Battery Energy Storage System",
+      "doi": "10.1109/OAJPE.2024.3439856",
+      "venue": "IEEE Open Access Journal of Power and Energy",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "11",
+      "issue_id": null,
+      "pages": "362-372",
+      "issn": null,
+      "eIssn": "26877910",
+      "source_id": "21101059747",
+      "authors": "Battista Gaggero Giovanni; Armellin Alessandro; Ferro Giulio; Robba Michela; Girdinio Paola; Marchese Mario",
+      "author_ids": "57216708944;57699327800;57062015700;7004979187;7003430835;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60121711;60121711;60025153;60025153",
+      "corresponding": "Battista Gaggero G.",
+      "keywords": "anomaly detection | cybersecurity | Dataset | distributed energy resources | smart grid | storage",
+      "abstract": "Smart grids are nowadays featured by distributed energy resources, both renewables, traditional sources and storage systems. Generally, these components are characterized by different control technologies that interact with the generators through smart inverters. This exposes them to a variety of cyber threats. In this context, there is a need to develop datasets of attacks on these systems to evaluate the risks and allow researchers to develop proper monitoring algorithms. This paper addresses this need by presenting BESS-Set, an open-source dataset for cybersecurity analysis of a Battery Energy Storage System (BESS).",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 77,
+              "rank": 222,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 72,
+              "rank": 89,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 81,
+              "rank": 183,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 74,
+              "rank": 76,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85194761973",
+      "title": "Vulnerability Assessment of Industrial and Agricultural Control Systems within the IoT Framework",
+      "doi": "10.1201/9781003326236-19",
+      "venue": "Intelligent Computing on Iot 2 0 Big Data Analytics and Block Chain Technology",
+      "type": "Book",
+      "sub_type": "Book Chapter",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "350-371",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101225740",
+      "authors": "Caviglia Roberto; Davoli Franco; Fausto Alessandro; Gaggero Giovanni; Marchese Mario; Moheddine Aya; Patrone Fabio; Portomauro Giancarlo",
+      "author_ids": "57700266100;57220364548;57216708248;57216708944;7004398165;57210886858;56536292600;15128054100",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Caviglia R.",
+      "keywords": null,
+      "abstract": "Industrial Control System (ICS) is a general term that encompasses different types of control systems, including Supervisory Control and Data Acquisition (SCADA) and Distributed Control Systems (DCS), but also different cyber-physical environments, such as, among others, transportation, dams, emergency services, healthcare, energy, and agricultural systems. An ICS consists of combinations of monitoring and control components that act together to achieve an industrial control objective. ICSs are increasingly relying on Information and Communication Technologies (ICTs). ICSs have evolved including ICT capabilities into existing physical systems, often replacing or supplementing physical control mechanisms. Internet of Things (IoT) communication technologies are part of this action.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85192180205",
+      "title": "Industrial Control System-Anomaly Detection Dataset (ICS-ADD) for Cyber-Physical Security Monitoring in Smart Industry Environments",
+      "doi": "10.1109/ACCESS.2024.3395991",
+      "venue": "IEEE Access",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "12",
+      "issue_id": null,
+      "pages": "64140-64149",
+      "issn": null,
+      "eIssn": "21693536",
+      "source_id": "21100374601",
+      "authors": "Gaggero Giovanni Battista; Armellin Alessandro; Portomauro Giancarlo; Marchese Mario",
+      "author_ids": "57216708944;57699327800;15128054100;7004398165",
+      "authorAffiliationIds": "60025153;60025153-128824789;60025153;60025153",
+      "corresponding": "Gaggero G.B.",
+      "keywords": "cyber-events dataset | cybersecurity | Industrial control system | open source | OSSIM | smart industry | Suricata",
+      "abstract": "The increasing integration of cyber-physical systems in industrial environments has underscored the critical need of robust security mechanisms to counteract evolving cyber threats. To allow a full performance evaluation of these security mechanisms as well as the extension of their detection skills concerning new cyber-physical-attacks, this paper introduces an open-source dataset, called Industrial Control System - Anomaly Detection Dataset (ICS-ADD). ICS-ADD would like to be a valuable resource for researchers and practitioners who aim to develop, test, and benchmark new cyber-physical security monitoring and detection technologies. ICS-ADD comprises raw network traffic captures of an industrial control system (ICS) subjected to a variety of simulated cyber-attacks, including but not limited to denial of service (DoS), man-in-the-middle (MITM), and malware infiltration. In addition to raw network traffic, ICS-ADD includes the output of two widely utilized open-source security monitoring tools, OSSIM (Open Source Security Information Management) and Suricata, which offer insights concerning the detection and analysis capabilities of existing security frameworks against threats. The analysis appearing in this paper highlights the complexity and variety of modern cyber threats in industrial environments and the novelty of ICS-ADD with respect to publicly available datasets. The reported performance analysis of OSSIM and Suricata by using ICS-ADD reveals areas of improvement for the detection of new attacks, which will be object of future research concerning the protection of industrial control systems.",
+      "citations": 19,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 88,
+              "rank": 42,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 83,
+              "rank": 41,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 78,
+              "rank": 101,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 90,
+              "rank": 32,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 86,
+              "rank": 33,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 81,
+              "rank": 87,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85187220481",
+      "title": "Integrating OT data in SIEM platforms: an Energy Utility Perspective",
+      "doi": "10.1109/ICECCE61019.2023.10442554",
+      "venue": "4th International Conference on Electrical Communication and Computer Engineering Icecce 2023",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101206195",
+      "authors": "Armellin Alessandro; Gaggero Giovanni Battista; Cattelino Alessandro; Piana Loris; Raggi Stefano; Marchese Mario",
+      "author_ids": "57699327800;57216708944;57929518600;58928510300;58928435200;7004398165",
+      "authorAffiliationIds": "60025153-128824789;60025153;128824789;128824789;128824789;60025153",
+      "corresponding": "Armellin A.",
+      "keywords": "Cybersecurity | Energy Utility | Operational Technology | SIEM",
+      "abstract": "One of the main current challenges for Security Information and Event Management (SIEM) platforms is to integrate data generated by Industrial Control Systems (ICS). This paper analyzes the issue in an energy-utility company, and it proposes a possible reference architectural scheme for the cybersecurity monitoring of Operational Technology (OT) networks, making use of probes and dedicated Intrusion Detection Systems (IDS) to integrate OT logs. The paper presents some examples from real use cases and discusses future improvements of the SIEM technology to integrate heterogeneous data sources (Information Technology (IT) and OT) to develop proper correlation rules.",
+      "citations": 8,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85179139824",
+      "title": "Evaluation of the Impact of Cyber-Attacks Against Electric Vehicle Charging Stations in a Low Voltage Distribution Grid",
+      "doi": "10.1109/SmartGridComm57358.2023.10333896",
+      "venue": "2023 IEEE International Conference on Communications Control and Computing Technologies for Smart Grids Smartgridcomm 2023 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101194357",
+      "authors": "Mokarim Afroz; Gaggero Giovanni Battista; Marchese Mario",
+      "author_ids": "57210415425;57216708944;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Mokarim A.",
+      "keywords": "Cyber attacks | distribution grid | electric vehicle charging stations | low-voltage",
+      "abstract": "Electric Vehicles (EVs) are getting widely adopted in cities in order to move towards a more sustainable transport system. However, with the increased penetration of EVs and their charging infrastructure, the distribution grid becomes more vulnerable to cyber-attacks. Therefore, it is essential to analyse the impact that cyber-attacks can cause on a low-voltage distribution grid. This paper aims to evaluate the effect produced by a cyber-attack against EV charging stations in the pan-European context. The IEEE European Low-Voltage Test Feeder (ELVTF) is used as a standard model for this study. The simulations are carried out using MATLAB/Simulink platform. The results from different attack locations in the model are used to draw out the final conclusions.",
+      "citations": 9,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85171733782",
+      "title": "SPAT: A Testbed for Automotive Cybersecurity Training",
+      "doi": "10.1109/CSR57506.2023.10224967",
+      "venue": "Proceedings of the 2023 IEEE International Conference on Cyber Security and Resilience Csr 2023",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": "381-386",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101178243",
+      "authors": "Caviglia Roberto; Gaggero Giovanni Battista; Vincis Nicola; Morando Omar; Aceti Alessio; Marchese Mario",
+      "author_ids": "57700266100;57216708944;58609323200;57222380530;58609673600;7004398165",
+      "authorAffiliationIds": "60025153-130228801;60025153;130228801;130228801;130228801;60025153",
+      "corresponding": "Caviglia R.",
+      "keywords": "automotive | CANBus | cybersecurity | testbed | training",
+      "abstract": "With the increasing of cyber threats in cyber-physical systems, and especially in the automotive sector, companies need to train cybersecurity experts with vertical competencies in the field as described in the regulations R155 and R156 defined by UNECE (United Nations Economic Commission for Europe). Testbeds capable of simulating the control network, the sensors and the actuators of a vehicle represent a great tool for this purpose. This paper presents the first prototype of SPAT (Sababa Portable Automotive Testbed), a testbed for automotive cybersecurity training. SPAT includes, in a portable suitcase, all the control and network devices based on the CANBus technology of a real vehicle. We present the features of the functioning prototype, and we also discuss the next steps towards a testbed that will include the most recent communication technologies employed in the automotive sector.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85161519280",
+      "title": "An SDR-Based Cybersecurity Verification Framework for Smart Agricultural Machines",
+      "doi": "10.1109/ACCESS.2023.3282169",
+      "venue": "IEEE Access",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "11",
+      "issue_id": null,
+      "pages": "54210-54220",
+      "issn": null,
+      "eIssn": "21693536",
+      "source_id": "21100374601",
+      "authors": "Caviglia Roberto; Gaggero Giovanni; Portomauro Giancarlo; Patrone Fabio; Marchese Mario",
+      "author_ids": "57700266100;57216708944;15128054100;56536292600;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Caviglia R.",
+      "keywords": "autonomous machines | cybersecurity | penetration test | Smart agriculture | software defined radio (SDR) | wireless communications",
+      "abstract": "The agricultural sector increasingly makes use of automated and/or remotely-controlled machines to improve performance and reduce costs. These machines, called Smart Agricultural Machines (SAMs), integrate different information and communication technologies for monitoring and control purposes and can be remotely controlled by using proprietary protocols. This makes it difficult to assess the vulnerabilities of the system, in particular for non-proprietary-parties. SAMs are cyber-physical systems often employing private protocols and can be objects of attacks. In this context the paper proposes a framework, based on Software Defined Radio (SDR) technology, for cybersecurity verification of SAMs, in order to fill the gap in the state of the art since no technical standard specifically addresses cybersecurity in this environment; the paper describes the testbed developed and exploited to show the effectiveness in detecting vulnerabilities and assessing the SAM security, in particular focusing on the wireless communication channels, and reports the obtained results.",
+      "citations": 11,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 88,
+              "rank": 42,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 83,
+              "rank": 41,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 78,
+              "rank": 101,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 92,
+              "rank": 23,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 87,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 83,
+              "rank": 77,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85153051667",
+      "title": "Novel Cybersecurity Issues in Smart Energy Communities",
+      "doi": "10.1109/ICAISC56366.2023.10085312",
+      "venue": "1st International Conference in Advanced Innovation on Smart City Icaisc 2023 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101147411",
+      "authors": "Gaggero Giovanni Battista; Piserà Diego; Girdinio Paola; Silvestro Federico; Marchese Mario",
+      "author_ids": "57216708944;57226694852;7003430835;23026343700;7004398165",
+      "authorAffiliationIds": "60025153;60025153-126318742;60025153;60025153;60025153",
+      "corresponding": "Gaggero G.B.",
+      "keywords": "Cybersecurity | Energy Community | Smart Grid",
+      "abstract": "The Renewable Energy Directive (2018/2001/EU) of the European Union proposes a legal framework for the development of renewable energy sources and citizen participation in the energy transition through two new instruments: collective self-consumption schemes (CSCs) and renewable energy communities (RECs). Energy Communities are rapidly evolving, increasingly employing information and communication technologies to properly monitor and control distributed energy resources. In this scenario, it is fundamental to evaluate cybersecurity risks from the beginning, to allow researchers to develop 'secure-by-design' systems and platforms. This work analyzed common architectures and protocols commonly used to build Smart Energy Communities, evaluating the attack surfaces and possible vulnerabilities. This work also discusses some solutions which can be employed to mitigate the risk, and highlights current gaps in the state of the art.",
+      "citations": 13,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85130394047",
+      "title": "Detecting Cyberattacks on Electrical Storage Systems through Neural Network Based Anomaly Detection Algorithm",
+      "doi": "10.3390/s22103933",
+      "venue": "Sensors",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "22",
+      "issue_id": "10",
+      "pages": null,
+      "issn": "14248220",
+      "eIssn": null,
+      "source_id": "130124",
+      "authors": "Gaggero Giovanni Battista; Caviglia Roberto; Armellin Alessandro; Rossi Mansueto; Girdinio Paola; Marchese Mario",
+      "author_ids": "57216708944;57700266100;57699327800;7403708681;7003430835;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Gaggero G.B.",
+      "keywords": "anomaly detection | autoencoder | cybersecurity | distributed energy resources | electrical battery storage systems | neural network",
+      "abstract": "Distributed Energy Resources (DERs) are growing in importance Power Systems. Battery Electrical Storage Systems (BESS) represent fundamental tools in order to balance the unpredictable power production of some Renewable Energy Sources (RES). Nevertheless, BESS are usually remotely controlled by SCADA systems, so they are prone to cyberattacks. This paper analyzes the vulnerabilities of BESS and proposes an anomaly detection algorithm that, by observing the physical behavior of the system, aims to promptly detect dangerous working conditions by exploiting the capabilities of a particular neural network architecture called the autoencoder. The results show the performance of the proposed approach with respect to the traditional One Class Support Vector Machine algorithm.",
+      "citations": 21,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 90,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 136,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 85,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 84,
+              "rank": 72,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 82,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 82,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 87,
+              "rank": 18,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 80,
+              "rank": 146,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 77,
+              "rank": 47,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 77,
+              "rank": 32,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 77,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 64,
+              "rank": 151,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85140779316",
+      "title": "Reduction of the Delays Within an Intrusion Detection System (IDS) Based on Software Defined Networking (SDN)",
+      "doi": "10.1109/ACCESS.2022.3214974",
+      "venue": "IEEE Access",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "10",
+      "issue_id": null,
+      "pages": "109850-109862",
+      "issn": null,
+      "eIssn": "21693536",
+      "source_id": "21100374601",
+      "authors": "Fausto Alessandro; Gaggero Giovanni; Patrone Fabio; Marchese Mario",
+      "author_ids": "57216708248;57216708944;56536292600;7004398165",
+      "authorAffiliationIds": "60025153-128791506;60025153;60025153;60025153",
+      "corresponding": "Fausto A.",
+      "keywords": "Cybersecurity | intrusion detection system (IDS) | key performance indicators (KPI) | OpenFlow | software defined networking (SDN)",
+      "abstract": "Software Defined Networking (SDN) is a very useful tool not only to manage networks but also to increase network security, in particular by implementing Intrusion Detection Systems (IDS) directly into the SDN architecture. The implementation of IDS within the SDN paradigm can simplify the implementation, speed up incident responses, and, in general, allow to promptly react to cyber attacks through proper countermeasures. Nevertheless, embedding IDS within SDN also introduces delays that cannot be tolerated in specific network environments, like industrial control systems. This paper focuses on the implementation of an IDS based on Machine Learning (ML) algorithms into an SDN architecture and proposes a very practical approach to reduce the delay by using the sequential implementation of prototypes of increasing software and hardware complexity so allowing quick tests to highlight the main problems, solve them and pass to the next operative step. A fully validated performance evaluation is then shown by exploiting all the presented solutions and by using further improved hardware features. The overall performance is very good and compliant with most, even if not yet all, industrial control systems constraints. Results show how the proposed solutions provide a significant improvement of the latency so opening the door to a real implementation in the field.",
+      "citations": 14,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 88,
+              "rank": 42,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 83,
+              "rank": 41,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 78,
+              "rank": 101,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 92,
+              "rank": 22,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 89,
+              "rank": 25,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 82,
+              "rank": 78,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85138917455",
+      "title": "Cybersecurity Issues in Communication-Based Electrical Protections",
+      "doi": "10.1109/ICECET55527.2022.9873081",
+      "venue": "International Conference on Electrical Computer and Energy Technologies Icecet 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101110203",
+      "authors": "Gaggero Giovanni Battista; Rossi Mansueto; Girdinio Paola; Marchese Mario",
+      "author_ids": "57216708944;7403708681;7003430835;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Gaggero G.B.",
+      "keywords": "cybersecurity | electrical protection | IEC 62351 | microgrid | smart grid",
+      "abstract": "Cybersecurity is becoming a fundamental issue in Smart Grids. In the last past years, there have been remarkable advances in technologies for enhancing the security of electrical systems. Still, some systems shows severe vulnerabilities. One of them is represented by communication-based electrical protection. The present work analyzes vulnerabilities in such type of control networks. We analyze the attack models to communication-based electrical protection systems, discussing the impact of the implementation of IEC 62351 on these vulnerabilities. We also discuss possible countermeasures which can be useful to address the discussed vulnerabilities.",
+      "citations": 7,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85135051185",
+      "title": "A Framework for Network Security Verification of Automated Vehicles in the Agricultural Domain",
+      "doi": "10.1109/IEEECONF55059.2022.9810440",
+      "venue": "Proceedings of the 2022 26th International Conference Electronics Electronics 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101098734",
+      "authors": "Gaggero Giovanni Battista; Fausto Alessandro; Patrone Fabio; Marchese Mario",
+      "author_ids": "57216708944;57216708248;56536292600;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Gaggero G.B.",
+      "keywords": "Agriculture | Automation | CANbus | Cybersecurity | Verification",
+      "abstract": "The agricultural sector increasingly relies on automated vehicles. These machines are often based on a CANbus control network and equipped with different wireless interfaces to implement different functionalities, such as remote control through radio links, GPS-based localization, and Wi-Fi-based data exchange. Nevertheless, CANbus presents severe vulnerabilities that expose these vehicles to cyberattacks. In this context, it is crucial to develop efficient procedures for network security verification of automated agricultural vehicles. The present work proposes a framework for evaluating the network security of agricultural vehicles based on four main dimensions: CANbus Security and Network Segmentation, Remote control based on Radio-Links, Wireless Gateways, and GPS security. We presents a testbed we are developing to test the proposed procedures, also discussing the related methods and procedures.",
+      "citations": 7,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85117331623",
+      "title": "Toward the integration of cyber and physical security monitoring systems for critical infrastructures",
+      "doi": "10.3390/s21216970",
+      "venue": "Sensors",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "21",
+      "issue_id": "21",
+      "pages": null,
+      "issn": "14248220",
+      "eIssn": null,
+      "source_id": "130124",
+      "authors": "Fausto Alessandro; Gaggero Giovanni Battista; Patrone Fabio; Girdinio Paola; Marchese Mario",
+      "author_ids": "57216708248;57216708944;56536292600;7003430835;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Fausto A.",
+      "keywords": "Anomaly detection | Critical infrastructure | Cybersecurity | Machine learning | Physical security",
+      "abstract": "Critical Infrastructures (CIs) are sensible targets. They could be physically damaged by natural or human actions, causing service disruptions, economic losses, and, in some extreme cases, harm to people. They, therefore, need a high level of protection against possible unintentional and intentional events. In this paper, we show a logical architecture that exploits information from both physical and cybersecurity systems to improve the overall security in a power plant scenario. We propose a Machine Learning (ML)-based anomaly detection approach to detect possible anomaly events by jointly correlating data related to both the physical and cyber domains. The performance evaluation showed encouraging results—obtained by different ML algorithms—which highlights how our proposed approach is able to detect possible abnormal situations that could not have been detected by using only information from either the physical or cyber domain.",
+      "citations": 26,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 90,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 136,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 85,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 84,
+              "rank": 72,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 82,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 82,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 91,
+              "rank": 12,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 81,
+              "rank": 134,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 79,
+              "rank": 42,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 79,
+              "rank": 27,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 78,
+              "rank": 77,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 66,
+              "rank": 145,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85112518826",
+      "title": "Advancements and research trends in microgrids cybersecurity",
+      "doi": "10.3390/app11167363",
+      "venue": "Applied Sciences Switzerland",
+      "type": "Journal",
+      "sub_type": "Review",
+      "year": 2021,
+      "volume": "11",
+      "issue_id": "16",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20763417",
+      "source_id": "21100829268",
+      "authors": "Gaggero Giovanni Battista; Girdinio Paola; Marchese Mario",
+      "author_ids": "57216708944;7003430835;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Gaggero G.B.",
+      "keywords": "Anomaly detection | Cybersecurity | Intrusion detection systems (IDS) | Resiliency | Smart microgrids | Software defined networking (SDN)",
+      "abstract": "Microgrids are growing in importance in the Smart Grid paradigm for power systems. Microgrid security is becoming crucial since these systems increasingly rely on information and communication technologies. Many technologies have been proposed in the last few years for the protection of industrial control systems, ranging from cryptography, network security, security monitoring systems, and innovative control strategies resilient to cyber-attacks. Still, electrical systems and microgrids present their own peculiarities, and some effort has to be put forth to apply cyber-protection technologies in the electrical sector. In the present work, we discuss the latest advancements and research trends in the field of microgrid cybersecurity in a tutorial form.",
+      "citations": 21,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 80,
+              "rank": 69,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Instrumentation",
+              "percentile": 80,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fluid Flow and Transfer Processes",
+              "percentile": 79,
+              "rank": 21,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 70,
+              "rank": 294,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 64,
+              "rank": 166,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Process Chemistry and Technology",
+              "percentile": 55,
+              "rank": 34,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 73,
+              "rank": 81,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Instrumentation",
+              "percentile": 62,
+              "rank": 52,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 59,
+              "rank": 301,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Fluid Flow and Transfer Processes",
+              "percentile": 58,
+              "rank": 37,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 51,
+              "rank": 219,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Process Chemistry and Technology",
+              "percentile": 48,
+              "rank": 32,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85101391601",
+      "title": "A possible smart metering system evolution for rural and remote areas employing unmanned aerial vehicles and internet of things in smart grids",
+      "doi": "10.3390/s21051627",
+      "venue": "Sensors",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "21",
+      "issue_id": "5",
+      "pages": "1-23",
+      "issn": "14248220",
+      "eIssn": null,
+      "source_id": "130124",
+      "authors": "Gaggero Giovanni Battista; Marchese Mario; Moheddine Aya; Patrone Fabio",
+      "author_ids": "57216708944;7004398165;57210886858;56536292600",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Gaggero G.B.",
+      "keywords": "Internet of Things | Low Power Wide Area Network | Smart Grid | Smart Metering | UAV",
+      "abstract": "The way of generating and distributing energy throughout the electrical grid to all users is evolving. The concept of Smart Grid (SG) took place to enhance the management of the electrical grid infrastructure and its functionalities from the traditional system to an improved one. To measure the energy consumption of the users is one of these functionalities that, in some countries, has already evolved from a periodical manual consumption reading to a more frequent and automatic one, leading to the concept of Smart Metering (SM). Technology improvement could be applied to the SM systems to allow, on one hand, a more efficient way to collect the energy consumption data of each user, and, on the other hand, a better distribution of the available energy through the infrastructure. Widespread communication solutions based on existing telecommunication infrastructures instead of using ad-hoc ones can be exploited for this purpose. In this paper, we recall the basic elements and the evolution of the SM network architecture focusing on how it could further improve in the near future. We report the main technologies and protocols which can be exploited for the data exchange throughout the infrastructure and the pros and cons of each solution. Finally, we propose an innovative solution as a possible evolution of the SM system. This solution is based on a set of Internet of Things (IoT) communication technologies called Low Power Wide Area Network (LPWAN) which could be employed to improve the performance of the currently used technologies and provide additional functionalities. We also propose the employment of Unmanned Aerial Vehicles (UAVs) to periodically collect energy consumption data, with evident advantages especially if employed in rural and remote areas. We show some preliminary performance results which allow assessing the feasibility of the proposed approach.",
+      "citations": 33,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 90,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 136,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 85,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 84,
+              "rank": 72,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 82,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 82,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 91,
+              "rank": 12,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 81,
+              "rank": 134,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 79,
+              "rank": 42,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 79,
+              "rank": 27,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 78,
+              "rank": 77,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 66,
+              "rank": 145,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85084829746",
+      "title": "Detecting system fault/cyberattack within a photovoltaic system connected to the grid: A neural network-based solution",
+      "doi": "10.3390/jsan9020020",
+      "venue": "Journal of Sensor and Actuator Networks",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "9",
+      "issue_id": "2",
+      "pages": null,
+      "issn": null,
+      "eIssn": "22242708",
+      "source_id": "21100830709",
+      "authors": "Gaggero Giovanni Battista; Rossi Mansueto; Girdinio Paola; Marchese Mario",
+      "author_ids": "57216708944;7403708681;7003430835;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Gaggero G.B.",
+      "keywords": "Anomaly detection | Autoencoder | Cyber-security | Distributed energy resources | Neural networks | Photovoltaic systems",
+      "abstract": "The large spread of Distributed Energy Resources (DERs) and the related cyber-security issues introduce the need for monitoring. The proposed work focuses on an anomaly detection strategy based on the physical behavior of the industrial process. The algorithm extracts some measures of the physical parameters of the system and processes them with a neural network architecture called autoencoder in order to build a classifier making decisions about the behavior of the system and detecting possible cyber-attacks or faults. The results are quite promising for a practical application in real systems.",
+      "citations": 20,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 96,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Instrumentation",
+              "percentile": 93,
+              "rank": 12,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 88,
+              "rank": 61,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 94,
+              "rank": 8,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Optimization",
+              "percentile": 89,
+              "rank": 12,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 82,
+              "rank": 59,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85084343224",
+      "title": "Neural network architecture to detect system faults / cyberattacks anomalies within a photovoltaic system connected to the grid",
+      "doi": "10.1109/ISAECT47714.2019.9069683",
+      "venue": "2019 International Symposium on Advanced Electrical and Communication Technologies Isaect 2019",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100985351",
+      "authors": "Gaggero Giovanni Battista; Rossi Mansueto; Girdinio Paola; Marchese Mario",
+      "author_ids": "57216708944;7403708681;7003430835;7004398165",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Gaggero G.B.",
+      "keywords": "anomaly detection | industrial systems | neural networks",
+      "abstract": "Anomaly detection is an important issue heavily investigated within different research areas and application domains. Its application in the industrial systems sector may be essential also for the protection of critical infrastructures. Due to the huge amount of involved data and to their complexity the use of machine learning may be the clue. The basic idea is describing an industrial process by a series of key attributes whose measures (the features) compose a state vector including heterogeneous types of measurements. Each feature should be a key attribute which can help discriminate between a normal functioning condition and an anomaly. In this context, the paper presents the use of a deep neural network architecture called autoencoder to detect anomalies due to either system faults or cyberattacks. The chosen application field is a photovoltaic system connected to the grid. The results, even if preliminary, are really promising.",
+      "citations": 7,
+      "quartile": null
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1262358",
+      "authors": "Soomro, Faraz Bashir; Caviglia, Roberto; Gaggero, Giovanni Battista; Djihadi, Mageni; Marchese, Mario",
+      "legacy_id": 657272,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Integration of Forensic Analysis and Event Data Recorders in Automotive Regulation: A Proposed Approach",
+      "doi": "10.1109/csr64739.2025.11130098",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1270256",
+      "authors": "Mokarim, Afroz; Gaggero, Giovanni Battista; Ferro, Giulio; Robba, Michela; Girdinio, Paola; Marchese, Mario",
+      "legacy_id": 667512,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Photo-Set: A Proposed Dataset and Benchmark for Physics-Based Cybersecurity Monitoring in Photovoltaic Systems",
+      "scopus_id": "2-s2.0-105018907042",
+      "doi": "10.3390/en18195318",
+      "isi_id": "WOS:001593629100001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1270257",
+      "authors": "Afzal, Z.; Gaggero, G.; Asplund, M.",
+      "legacy_id": 667514,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Towards privacy-preserving anomaly-based intrusion detection in energy communities",
+      "scopus_id": "2-s2.0-105014634588",
+      "doi": "10.1186/s42162-025-00565-x",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273098",
+      "authors": "Mokarim, A.; Gaggero, G. B.; Marchese, M.",
+      "legacy_id": 670445,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Securing Virtual Power Plants: Attack Vector Analysis of Cybersecurity Vulnerabilities in Ancillary Grid Services",
+      "scopus_id": "2-s2.0-105019589039",
+      "doi": "10.1109/OJIES.2025.3622528",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273100",
+      "authors": "Caviglia, R.; Aliaskharov, D.; Aceti, A.; Preda, M. D.; Girdinio, P.; Gaggero, G. B.",
+      "legacy_id": 670444,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "A Security Operation and Event Management (SOEM) Platform for Critical Infrastructures Protection",
+      "scopus_id": "2-s2.0-105020024502",
+      "doi": "10.32604/cmc.2025.068509",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273103",
+      "authors": "Gaggero, G. B.; Girdinio, P.; Marchese, M.",
+      "legacy_id": 667513,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Cybersecurity Issues in Electrical Protection Relays: A Systematic Review",
+      "scopus_id": "2-s2.0-105011621726",
+      "doi": "10.3390/en18143796",
+      "isi_id": "WOS:001535319800001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1254536",
+      "authors": "Gaggero, Giovanni Battista; Girdinio, Paola; Marchese, Mario",
+      "legacy_id": 647642,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Artificial Intelligence and Physics-Based Anomaly Detection in the Smart Grid: A Survey",
+      "scopus_id": "2-s2.0-85217069329",
+      "doi": "10.1109/ACCESS.2025.3537410",
+      "isi_id": "WOS:001420679000015",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "10",
+      "citations_scopus": "16"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273101",
+      "authors": "Mokarim, A.; Gaggero, G. B.; Ferro, G.; Robba, M.; Marchese, M.",
+      "legacy_id": 670443,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Photo-Set: A Dataset for Physics-Based Cybersecurity Monitoring in Photovoltaic Systems",
+      "scopus_id": "2-s2.0-105016566527",
+      "doi": "10.1016/j.ifacol.2025.08.109",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1264636",
+      "authors": "De Bernardi, Giacomo; Gaggero, Giovanni Battista; Patrone, Fabio; Zappatore, Sandro; Marchese, Mario; Mongelli, Maurizio",
+      "legacy_id": 660623,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Rule-Based eXplainable Autoencoder for DNS Tunneling Detection",
+      "doi": "10.3390/computers14090375",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1267076",
+      "authors": "Sohail, Muhammad Saad; Portomauro, Giancarlo; Gaggero, Giovanni Battista; Patrone, Fabio; Marchese, Mario",
+      "legacy_id": 663724,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Performance Analysis and Security Preservation of DSRC in V2X Networks",
+      "doi": "10.3390/electronics14193786",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1261316",
+      "authors": "Rahman, Md Arafatur; Tan, Sze Wei; Sohail, Mohammed Saad; Gaggero, Giovanni Battista; Patrone, Fabio; Marchese, Mario; Pillai, Prashant",
+      "legacy_id": 656438,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "CyberVehiCare: A Testbed for Cybersecurity of Vehicle to Everything (V2X) Automotive Systems",
+      "doi": "10.1109/csr64739.2025.11130024",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1273076",
+      "authors": "Gaggero, G. B.; Caviglia, R.; Girdinio, P.; Marchese, M.",
+      "legacy_id": 670442,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Toward a Security Operation Center for Operational Technology in Industrial Networks",
+      "scopus_id": "2-s2.0-85218337379",
+      "doi": "10.1109/TechDefense63521.2024.10863654",
+      "isi_id": "WOS:001490855200029",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1230615",
+      "authors": "Gaggero, GIOVANNI BATTISTA; Armellin, Alessandro; Girdinio, Paola; Marchese, Mario",
+      "legacy_id": 614507,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "An IEC 62443-Based Framework for Secure-by-Design Energy Communities",
+      "scopus_id": "2-s2.0-85209085879",
+      "doi": "10.1109/ACCESS.2024.3492316",
+      "isi_id": "WOS:001358495400017",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1213360",
+      "authors": "Armellin, Alessandro; Caviglia, Roberto; Gaggero, Giovanni; Marchese, Mario",
+      "legacy_id": 590567,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "A Framework for the Deployment of Cybersecurity Monitoring Tools in the Industrial Environment",
+      "scopus_id": "2-s2.0-85206497978",
+      "doi": "10.1109/MITP.2024.3396356",
+      "isi_id": "WOS:001322577100016",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1215815",
+      "authors": "Gaggero, Giovanni Battista; Caviglia, Roberto; Girdinio, Paola; Marchese, Mario",
+      "legacy_id": 593866,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Are IDS Violating Segmentation in Industrial Networks?",
+      "scopus_id": "2-s2.0-85206212466",
+      "doi": "10.1109/csr61664.2024.10679425",
+      "isi_id": "WOS:001327167900007",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1213395",
+      "authors": "Gaggero, GIOVANNI BATTISTA; Armellin, Alessandro; Ferro, Giulio; Robba, Michela; Girdinio, Paola; Marchese, Mario",
+      "legacy_id": 582407,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "BESS-Set: A Dataset for Cybersecurity Monitoring in a Battery Energy Storage System",
+      "scopus_id": "2-s2.0-85200813502",
+      "doi": "10.1109/OAJPE.2024.3439856",
+      "isi_id": "WOS:001294286400003",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1213375",
+      "authors": "Gaggero, G. B.; Armellin, A.; Portomauro, G.; Marchese, M.",
+      "legacy_id": 582408,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Industrial Control System-Anomaly Detection Dataset (ICS-ADD) for Cyber-Physical Security Monitoring in Smart Industry Environments",
+      "scopus_id": "2-s2.0-85192180205",
+      "doi": "10.1109/ACCESS.2024.3395991",
+      "isi_id": "WOS:001219391900001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "12",
+      "citations_scopus": "19"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1232096",
+      "authors": "Gaggero, G.; Piserà, D.; Girdinio, P.; Silvestro, F.; Marchese, M.",
+      "legacy_id": 617302,
+      "year": 2024,
+      "miur_type": "268",
+      "title": "From microgrids to virtual power plants: A cybersecurity perspective",
+      "scopus_id": "2-s2.0-85206234694",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1213415",
+      "authors": "Mokarim, Afroz; Gaggero, GIOVANNI BATTISTA; Marchese, Mario",
+      "legacy_id": 590586,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Impact Analysis of Cyber Attacks against Energy Communities in Distribution Grids",
+      "scopus_id": "2-s2.0-85192729998",
+      "doi": "10.3390/electronics13091709",
+      "isi_id": "WOS:001219831600001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1174296",
+      "authors": "Caviglia, Roberto; Davoli, Franco; Fausto, Alessandro; Gaggero, Giovanni; Marchese, Mario; Moheddine, Aya; Patrone, Fabio; Portomauro, Giancarlo",
+      "legacy_id": 546820,
+      "year": 2024,
+      "miur_type": "268",
+      "title": "Vulnerability Assessment of Industrial and Agricultural Control Systems within the IoT Framework",
+      "scopus_id": "2-s2.0-85194761973",
+      "doi": "10.1201/9781003326236-19",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1213416",
+      "authors": "Gaggero, GIOVANNI BATTISTA; Mokarim, Afroz; Girdinio, Paola; Marchese, Mario",
+      "legacy_id": 590587,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Should We Include Cyberdefense Functionalities in Electrical Power System Protections?: A Proposed Approach",
+      "scopus_id": "2-s2.0-105004023864",
+      "doi": "10.1109/MIE.2024.3416907",
+      "isi_id": "WOS:001263373300001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1156237",
+      "authors": "Gaggero, G. B.; Piserà, D.; Girdinio, P.; Silvestro, F.; Marchese, M.",
+      "legacy_id": 521173,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Novel Cybersecurity Issues in Smart Energy Communities",
+      "scopus_id": "2-s2.0-85153051667",
+      "doi": "10.1109/ICAISC56366.2023.10085312",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "13"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1124015",
+      "authors": "Caviglia, Roberto; Gaggero, Giovanni; Portomauro, Giancarlo; Patrone, Fabio; Marchese, Mario",
+      "legacy_id": 478545,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "An SDR-Based Cybersecurity Verification Framework for Smart Agricultural Machines",
+      "scopus_id": "2-s2.0-85161519280",
+      "doi": "10.1109/ACCESS.2023.3282169",
+      "isi_id": "WOS:001005769100001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "8",
+      "citations_scopus": "11"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1213359",
+      "authors": "Armellin, Alessandro; Gaggero, GIOVANNI BATTISTA; Cattelino, Alessandro; Piana, Loris; Raggi, Stefano; Marchese, Mario",
+      "legacy_id": 590566,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Integrating OT data in SIEM platforms: an Energy Utility Perspective",
+      "scopus_id": "2-s2.0-85187220481",
+      "doi": "10.1109/icecce61019.2023.10442554",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1219375",
+      "authors": "Mokarim, A.; Gaggero, G. B.; Marchese, M.",
+      "legacy_id": 597566,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Evaluation of the Impact of Cyber-Attacks Against Electric Vehicle Charging Stations in a Low Voltage Distribution Grid",
+      "scopus_id": "2-s2.0-85179139824",
+      "doi": "10.1109/SmartGridComm57358.2023.10333896",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1137915",
+      "authors": "Caviglia, Roberto; Gaggero, Giovanni Battista; Vincis, Nicola; Morando, Omar; Aceti, Alessio; Marchese, Mario",
+      "legacy_id": 497865,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "SPAT: A Testbed for Automotive Cybersecurity Training",
+      "scopus_id": "2-s2.0-85171733782",
+      "doi": "10.1109/CSR57506.2023.10224967",
+      "isi_id": "WOS:001062143200059",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1068918",
+      "authors": "Gaggero, GIOVANNI BATTISTA",
+      "ssd": "Settore ING-INF/03 - Telecomunicazioni",
+      "legacy_id": 404708,
+      "year": 2022,
+      "miur_type": "-2",
+      "title": "Machine Learning based Anomaly Detection for Cybersecurity Monitoring of Critical Infrastructures",
+      "doi": "10.15167/gaggero-giovanni-battista_phd2022-03-03",
+      "type": "Tesi di dottorato"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1137777",
+      "dc.identifier.pmid": "35632342",
+      "authors": "Gaggero, Giovanni Battista; Caviglia, Roberto; Armellin, Alessandro; Rossi, Mansueto; Girdinio, Paola; Marchese, Mario",
+      "legacy_id": 497609,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Detecting Cyberattacks on Electrical Storage Systems through Neural Network Based Anomaly Detection Algorithm",
+      "scopus_id": "2-s2.0-85130394047",
+      "doi": "10.3390/s22103933",
+      "isi_id": "WOS:000804320000001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "17",
+      "citations_scopus": "20"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1091435",
+      "authors": "Gaggero, Giovanni Battista; Fausto, Alessandro; Patrone, Fabio; Marchese, Mario",
+      "legacy_id": 430156,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "A Framework for Network Security Verification of Automated Vehicles in the Agricultural Domain",
+      "scopus_id": "2-s2.0-85135051185",
+      "doi": "10.1109/IEEECONF55059.2022.9810440",
+      "isi_id": "WOS:000853483400014",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "3",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1098261",
+      "authors": "Fausto, A.; Gaggero, G. B.; Patrone, F.; Marchese, M.",
+      "legacy_id": 439573,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Reduction of the Delays within an Intrusion Detection System (IDS) based on Software Defined Networking (SDN)",
+      "scopus_id": "2-s2.0-85140779316",
+      "doi": "10.1109/ACCESS.2022.3214974",
+      "isi_id": "WOS:000871012300001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "8",
+      "citations_scopus": "14"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1095300",
+      "authors": "Gaggero, Giovanni Battista; Rossi, Mansueto; Girdinio, Paola; Marchese, Mario",
+      "legacy_id": 434950,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Cybersecurity Issues in Communication-Based Electrical Protections",
+      "scopus_id": "2-s2.0-85138917455",
+      "doi": "10.1109/ICECET55527.2022.9873081",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1150035",
+      "authors": "Gaggero, GIOVANNI BATTISTA; Girdinio, Paola; Marchese, Mario",
+      "legacy_id": 512505,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "Advancements and Research Trends in Microgrids Cybersecurity",
+      "scopus_id": "2-s2.0-85112518826",
+      "doi": "10.3390/app11167363",
+      "isi_id": "WOS:000688591300001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "18",
+      "citations_scopus": "21"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1040998",
+      "authors": "Gaggero, Giovanni Battista; Marchese, Mario; Moheddine, Aya; Patrone, Fabio",
+      "legacy_id": 373341,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "A Possible Smart Metering System Evolution for Rural and Remote Areas Employing Unmanned Aerial Vehicles and Internet of Things in Smart Grids",
+      "scopus_id": "2-s2.0-85101391601",
+      "doi": "10.3390/s21051627",
+      "isi_id": "WOS:000628638400001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "22",
+      "citations_scopus": "33"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1091436",
+      "authors": "Di Pinto, Alessandro; Carullo, Moreno; Carcano, Andrea; Marchese, Mario; Patrone, Fabio; Fausto, Alessandro; Gaggero, GIOVANNI BATTISTA",
+      "legacy_id": 430158,
+      "year": 2021,
+      "miur_type": "285",
+      "title": "METHOD AND APPARATUS FOR DETECTING ANOMALIES OF A DNS TRAFFIC",
+      "type": "05.01 - Brevetto"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1060276",
+      "authors": "Fausto, Alessandro; Gaggero, Giovanni Battista; Patrone, Fabio; Girdinio, Paola; Marchese, Mario",
+      "legacy_id": 394828,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "Toward the Integration of Cyber and Physical Security Monitoring Systems for Critical Infrastructures",
+      "scopus_id": "2-s2.0-85117331623",
+      "doi": "10.3390/s21216970",
+      "isi_id": "WOS:000719071500001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "22",
+      "citations_scopus": "26"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1017167",
+      "authors": "Gaggero, G. B.; Rossi, M.; Girdinio, P.; Marchese, M.",
+      "legacy_id": 344932,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Detecting system fault/cyberattack within a photovoltaic system connected to the grid: A neural network-based solution",
+      "scopus_id": "2-s2.0-85084829746",
+      "doi": "10.3390/jsan9020020",
+      "isi_id": "WOS:000551234700011",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "14",
+      "citations_scopus": "20"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1017169",
+      "authors": "Gaggero, G. B.; Rossi, M.; Girdinio, P.; Marchese, M.",
+      "legacy_id": 344934,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Neural network architecture to detect system faults / cyberattacks anomalies within a photovoltaic system connected to the grid",
+      "scopus_id": "2-s2.0-85084343224",
+      "doi": "10.1109/ISAECT47714.2019.9069683",
+      "isi_id": "WOS:000569987700012",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "5",
+      "citations_scopus": "7"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:14:33.712537"
+}

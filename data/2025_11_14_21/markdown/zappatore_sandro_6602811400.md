@@ -1,0 +1,1397 @@
+# Zappatore Sandro
+
+## Overview
+- **Unit:** ICT
+- **Role:** Professore associato
+- **Grade:** Prof.Associato DPR 232/11 art.2 - t.pieno - cl. 8
+- **SSD:** IINF-03/A (Telecomunicazioni)
+- **Scopus ID:** 6602811400
+- **UNIGE ID:** 053861
+- **Retrieved at:** 2025-11-14T15:18:09.927089
+
+## Contact
+- **Email:** sandro.zappatore@unige.it
+- **Phone:** +39 010 33 52990
+- **Page:** https://rubrica.unige.it/personale/VUZEU1xo
+- **Locations:** Opera Pia - padiglione E (ED_161450402), 4° piano, US_161450402.IV.002; Campus di Savona - palazzina Lagorio (ED_171000104), piano Terra, US_171000104.T.016
+
+## Career
+- PA, 2012-05-01 → 2222-02-02
+
+## Responsibilities
+- **Title:** Componente commissione ICT
+  - **Unit:** Università Degli Studi Di Genova
+  - **Period:** 2024-01-23 → 2026-10-31
+
+## Teaching
+### 2025
+- Tecnologie Per L’Informazione E La Sicurezza (108713), L-9 - Ingegneria Gestionale
+- Reti Di Comunicazione E Multimedia (83832), Lm-92 R - Digital Humanities - Interactive Systems And Digital Media
+- Reti Di Comunicazione E Multimedia (83832), Lm-92 R - Digital Humanities - Interactive Systems And Digital Media
+- Digital Communications (114551), Lm-27 - Internet And Multimedia Engineering
+
+### 2024
+- Comunicazioni Elettriche (65959), L-8 - Ingegneria Informatica
+- Digital Communications 2 (114552), Lm-27 - Internet And Multimedia Engineering
+- Digital Communications 2 (114552), Lm-27 - Internet And Multimedia Engineering
+- Digital Communications 1 (114551), Lm-27 - Internet And Multimedia Engineering
+- Tecnologie Per L’Informazione E La Sicurezza (108713), L-9 - Ingegneria Gestionale
+- Reti Di Comunicazione E Multimedia (83832), Lm-92 - Digital Humanities - Interactive Systems And Digital Media
+
+### 2023
+- Digital Communications I (104760), Lm-27 - Internet And Multimedia Engineering
+- Tecnologie Per L’Informazione E La Sicurezza (108713), L-9 - Ingegneria Gestionale
+- Reti Di Comunicazione E Multimedia (83832), Lm-92 - Digital Humanities - Interactive Systems And Digital Media
+
+### 2022
+- Reti Di Comunicazione E Multimedia (83832), Lm-92 - Digital Humanities - Comunicazione E Nuovi Media
+- Internet Programming (104779), Lm-27 - Internet And Multimedia Engineering
+- Digital Communications I (104760), Lm-27 - Internet And Multimedia Engineering
+- Tecnologie Per L’Informazione E La Sicurezza (108713), L-9 - Ingegneria Gestionale
+
+### 2021
+- Tecnologie Per L’Informazione E La Sicurezza (84195), Lm-31 - Ingegneria Gestionale
+- Reti Di Comunicazione E Comunicazione Culturale - Reti Di Comunicazione E Multimedia Mod. 1 (83832), Lm-92 - Digital Humanities - Comunicazione E Nuovi Media
+- Internet Programming (104779), Lm-27 - Internet And Multimedia Engineering
+- Digital Communications I (104760), Lm-27 - Internet And Multimedia Engineering
+
+### 2020
+- Tecnologie Per L’Informazione E La Sicurezza (84195), Lm-31 - Ingegneria Gestionale
+- Reti Di Comunicazione E Multimedia (83832), Lm-92 - Digital Humanities - Comunicazione E Nuovi Media
+- Digital Communications I (104760), Lm-27 - Internet And Multimedia Engineering
+
+## Scopus Metrics
+- absolute; Docs: 65; Journals: 26; Conferences: 25; Citations: 545; H-index: 9
+- 15 years (2010-2025); Docs: 30; Journals: 12; Conferences: 8; Citations: 432; H-index: 7
+- 10 years (2015-2025); Docs: 19; Journals: 10; Conferences: 7; Citations: 415; H-index: 7
+- 05 years (2020-2025); Docs: 6; Journals: 5; Conferences: 1; Citations: 19; H-index: 3
+
+## Scopus Products
+1.
+   - **Title:** Rule-Based eXplainable Autoencoder for DNS Tunneling Detection
+   - **Venue:** Computers
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3390/computers14090375
+   - **Scopus ID:** 2-s2.0-105017507470
+   - **eISSN:** 2073431X
+   - **Volume:** 14
+   - **Issue:** 9
+   - **Authors:** De Bernardi Giacomo; Gaggero Giovanni Battista; Patrone Fabio; Zappatore Sandro; Marchese Mario; Mongelli Maurizio
+   - **Keywords:** DNS tunnelling | eXplainable AI | intrusion detection system | statistical traffic analysis
+   - **Quartile:**
+     2025:
+     - Computer Science (miscellaneous) (Q1, rank 26, percentile 85)
+     - Computer Networks and Communications (Q1, rank 90, percentile 83)
+     - Human-Computer Interaction (Q2, rank 55, percentile 71)
+   - **Source Id:** 21100886391
+   - **Author Ids:** 58146713400;57216708944;56536292600;6602811400;7004398165;7005882346
+   - **Authoraffiliationids:** 60021199;60025153;60025153;60025153;60025153;60021199
+   - **Corresponding:** De Bernardi G.
+2.
+   - **Title:** Performance Evaluation of Machine/Deep Learning-Based Object Recognition Techniques Leveraging Channel State Information Using a Real Testbed
+   - **Venue:** IEEE Access
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/ACCESS.2024.3428612
+   - **Scopus ID:** 2-s2.0-85199114500
+   - **eISSN:** 21693536
+   - **Volume:** 12
+   - **Pages:** 98680-98692
+   - **Authors:** Bisio Igor; Fallani Caterina; Garibotto Chiara; Grattarola Aldo; Lavagetto Fabio; Sciarrone Andrea; Zappatore Sandro; Zerbino Matteo
+   - **Keywords:** Classification | CSI | deep learning | machine learning | object detection | object recognition | WiFi
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 42, percentile 88)
+     - Computer Science (all) (Q1, rank 41, percentile 83)
+     - Materials Science (all) (Q1, rank 101, percentile 78)
+     2024:
+     - Engineering (all) (Q1, rank 32, percentile 90)
+     - Computer Science (all) (Q1, rank 33, percentile 86)
+     - Materials Science (all) (Q1, rank 87, percentile 81)
+   - **Source Id:** 21100374601
+   - **Author Ids:** 8546192900;59226255200;57053502600;6603286614;7004136693;36180166900;6602811400;58734922800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+3.
+   - **Title:** Fungal Arsenic Tolerance and Bioaccumulation: Local Strains from Polluted Water vs. Allochthonous Strains
+   - **Venue:** Environments Mdpi
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.3390/environments11010023
+   - **Scopus ID:** 2-s2.0-85183174263
+   - **eISSN:** 20763298
+   - **Volume:** 11
+   - **Issue:** 1
+   - **Authors:** Canonica Laura; Cecchi Grazia; Capra Vittorio; Di Piazza Simone; Girelli Alessandro; Zappatore Sandro; Zotti Mirca
+   - **Keywords:** environmental contaminants | fungi | mycoremediation
+   - **Quartile:**
+     2025:
+     - Ecology, Evolution, Behavior and Systematics (Q1, rank 104, percentile 85)
+     - Environmental Science (all) (Q2, rank 67, percentile 72)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 139, percentile 55)
+     2024:
+     - Ecology, Evolution, Behavior and Systematics (Q1, rank 110, percentile 85)
+     - Environmental Science (all) (Q2, rank 61, percentile 74)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 128, percentile 57)
+   - **Source Id:** 21100924379
+   - **Author Ids:** 37160979500;57191866154;58843452400;37053752400;58843452500;6602811400;6603935844
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;130761214;60025153;60025153
+   - **Corresponding:** Canonica L.
+4.
+   - **Title:** Trace and ultratrace elements in spinel subgroup minerals of ultramafic rocks from the Voltri Massif (NW Italy): The influence of microstructure and texture
+   - **Venue:** European Journal of Mineralogy
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.5194/ejm-35-1091-2023
+   - **Scopus ID:** 2-s2.0-85180130407
+   - **ISSN:** 09351221
+   - **eISSN:** 16174011
+   - **Volume:** 35
+   - **Issue:** 6
+   - **Pages:** 1091-1109
+   - **Authors:** Fornasaro Silvia; Comodi Paola; Crispini Laura; Zappatore Sandro; Zucchini Azzurra; Marescotti Pietro
+   - **Quartile:**
+     2025:
+     - Geochemistry and Petrology (Q3, rank 89, percentile 46)
+     2023:
+     - Geochemistry and Petrology (Q3, rank 79, percentile 49)
+   - **Source Id:** 19652
+   - **Author Ids:** 57223127853;7003439119;6602481105;6602811400;55008243700;6603206044
+   - **Authoraffiliationids:** 60028868;60003003;60025153;60025153;60003003;60025153
+   - **Corresponding:** Fornasaro S.
+5.
+   - **Title:** Toward the remotization and robotization of the OARPAF Telescope
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1117/12.2629342
+   - **Scopus ID:** 2-s2.0-85140092812
+   - **ISSN:** 0277786X
+   - **eISSN:** 1996756X
+   - **Volume:** 12186
+   - **Authors:** Ricci Davide; Cabona Lorenzo; Tosi Silvano; Zappatore Sandro
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+     2022:
+     - Applied Mathematics (Q4, rank 523, percentile 14)
+     - Electrical and Electronic Engineering (Q4, rank 658, percentile 10)
+     - Computer Science Applications (Q4, rank 726, percentile 8)
+     - Condensed Matter Physics (Q4, rank 394, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 253, percentile 6)
+   - **Source Id:** 40067
+   - **Author Ids:** 7005630862;57194429650;56448179900;6602811400
+   - **Authoraffiliationids:** 60031125;60031125;60025153-60114732;60025153
+   - **Corresponding:** Ricci D.
+6.
+   - **Title:** Commissioning and improvements of the instrumentation and launch of the scientific exploitation of OARPAF, the Regional Astronomical Observatory of the Antola Park
+   - **Venue:** Journal of Astronomical Telescopes Instruments and Systems
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1117/1.JATIS.7.2.025003
+   - **Scopus ID:** 2-s2.0-85110633221
+   - **ISSN:** 23294124
+   - **eISSN:** 23294221
+   - **Volume:** 7
+   - **Issue:** 2
+   - **Authors:** Ricci Davide; Tosi Silvano; Cabona Lorenzo; Righi Chiara; La Camera Andrea; Marini Anna; Domi Alba; Santostefano Matteo; Balbi Evandro; Nicolosi Francesco; Ancona Massimo; Boccacci Patrizia; Bracco Gianangelo; Cardinale Roberta; Dellacasa Andrea; Landoni Marco; Pallavicini Marco; Petrolini Alessandro; Schiavi Carlo; Zappatore Sandro; Zerbi Filippo M.
+   - **Keywords:** Commissioning | Photometry | Spectroscopy | Telescopes | Échelle spectroscopy
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 44, percentile 76)
+     - Astronomy and Astrophysics (Q2, rank 29, percentile 70)
+     - Mechanical Engineering (Q2, rank 221, percentile 69)
+     - Control and Systems Engineering (Q2, rank 124, percentile 67)
+     - Space and Planetary Science (Q2, rank 38, percentile 63)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 118, percentile 61)
+     2021:
+     - Instrumentation (Q2, rank 38, percentile 72)
+     - Mechanical Engineering (Q2, rank 173, percentile 71)
+     - Control and Systems Engineering (Q2, rank 91, percentile 66)
+     - Astronomy and Astrophysics (Q2, rank 32, percentile 65)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 94, percentile 63)
+     - Space and Planetary Science (Q2, rank 44, percentile 56)
+   - **Source Id:** 21100423216
+   - **Author Ids:** 7005630862;56448179900;57194429650;57193135080;24833156300;57211837355;57194627277;57221307277;57221334230;57219764913;7006057626;55500015400;57191950236;36493910000;56211007000;55542489700;7005278071;35227836100;6603666346;6602811400;7005350024
+   - **Authoraffiliationids:** 60031125;60025153-60114732;60028999;60028999;60121711;60025153;60025153;60025153;60025153;60025153;60121711;60121711;60025153-60021199;60025153;60121711;60028999;60025153;60025153;60025153;60025153;60028999
+   - **Corresponding:** Ricci D.
+7.
+   - **Title:** Fungal richness in the extreme environments of the Libiola mine (eastern Liguria, Italy): correlations among microfungi, lithology, mineralogy, and contaminants
+   - **Venue:** Environmental Earth Sciences
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1007/s12665-019-8553-0
+   - **Scopus ID:** 2-s2.0-85070894810
+   - **ISSN:** 18666280
+   - **eISSN:** 18666299
+   - **Volume:** 78
+   - **Issue:** 17
+   - **Authors:** Cecchi Grazia; Marescotti Pietro; Di Piazza Simone; Zappatore Sandro; Zotti Mirca
+   - **Keywords:** Biogeochemical interactions | Ecotoxic metals | Fungi | Sulphide mine
+   - **Quartile:**
+     2025:
+     - Geology (Q1, rank 57, percentile 82)
+     - Earth-Surface Processes (Q1, rank 38, percentile 79)
+     - Water Science and Technology (Q2, rank 79, percentile 71)
+     - Soil Science (Q2, rank 47, percentile 71)
+     - Pollution (Q2, rank 71, percentile 60)
+     - Environmental Chemistry (Q2, rank 71, percentile 53)
+     - Global and Planetary Change (Q2, rank 61, percentile 53)
+     2019:
+     - Earth-Surface Processes (Q1, rank 31, percentile 78)
+     - Geology (Q1, rank 54, percentile 77)
+     - Water Science and Technology (Q1, rank 51, percentile 76)
+     - Soil Science (Q2, rank 33, percentile 74)
+     - Pollution (Q2, rank 43, percentile 64)
+     - Global and Planetary Change (Q2, rank 34, percentile 59)
+     - Environmental Chemistry (Q2, rank 52, percentile 55)
+   - **Source Id:** 19400158519
+   - **Author Ids:** 57191866154;6603206044;37053752400;6602811400;6603935844
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Cecchi G.
+8.
+   - **Title:** Blind detection: Advanced techniques for WiFi-based drone surveillance
+   - **Venue:** IEEE Transactions on Vehicular Technology
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 126
+   - **DOI:** 10.1109/TVT.2018.2884767
+   - **Scopus ID:** 2-s2.0-85057882869
+   - **ISSN:** 00189545
+   - **Volume:** 68
+   - **Issue:** 1
+   - **Pages:** 938-946
+   - **Authors:** Bisio Igor; Garibotto Chiara; Lavagetto Fabio; Sciarrone Andrea; Zappatore Sandro
+   - **Keywords:** data mining | Drones | fingerprint | statistical analysis | UAVs | WiFi
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 63, percentile 93)
+     - Automotive Engineering (Q1, rank 9, percentile 93)
+     - Computer Networks and Communications (Q1, rank 38, percentile 93)
+     2019:
+     - Aerospace Engineering (Q1, rank 2, percentile 98)
+     - Subject (Q1, rank 9, percentile 98)
+     - Automotive Engineering (Q1, rank 4, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 42, percentile 93)
+   - **Source Id:** 17393
+   - **Author Ids:** 8546192900;57053502600;7004136693;36180166900;6602811400
+   - **Authoraffiliationids:** 60025153-60015024;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+9.
+   - **Title:** Statistical Fingerprint-Based IDS in SDN Architecture
+   - **Venue:** 2018 International Symposium on Performance Evaluation of Computer and Telecommunication Systems Spects 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/SPECTS.2018.8574140
+   - **Scopus ID:** 2-s2.0-85060314747
+   - **Authors:** Bigotto Francesco; Boero Luca; Marchese Mario; Zappatore Sandro
+   - **Keywords:** Flow Identification | Intrusion Detection System | Malware Detection | Software Defined Networking
+   - **Source Id:** 21100895644
+   - **Author Ids:** 57205439512;57053089400;7004398165;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bigotto F.
+10.
+   - **Title:** Unauthorized Amateur UAV Detection Based on WiFi Statistical Fingerprint Analysis
+   - **Venue:** IEEE Communications Magazine
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 126
+   - **DOI:** 10.1109/MCOM.2018.1700340
+   - **Scopus ID:** 2-s2.0-85045917460
+   - **ISSN:** 01636804
+   - **Volume:** 56
+   - **Issue:** 4
+   - **Pages:** 106-111
+   - **Authors:** Bisio Igor; Garibotto Chiara; Lavagetto Fabio; Sciarrone Andrea; Zappatore Sandro
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 21, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 46, percentile 95)
+     - Computer Science Applications (Q1, rank 63, percentile 93)
+     2018:
+     - Computer Science Applications (Q1, rank 1, percentile 99)
+     - Computer Networks and Communications (Q1, rank 2, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 4, percentile 99)
+   - **Source Id:** 17249
+   - **Author Ids:** 8546192900;57053502600;7004136693;36180166900;6602811400
+   - **Authoraffiliationids:** 60025153-60015024;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+11.
+   - **Title:** Improving WiFi Statistical Fingerprint-Based Detection Techniques Against UAV Stealth Attacks
+   - **Venue:** Proceedings IEEE Global Communications Conference Globecom
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/GLOCOM.2018.8647288
+   - **Scopus ID:** 2-s2.0-85063441669
+   - **ISSN:** 23340983
+   - **eISSN:** 25766813
+   - **Authors:** Bisio Igor; Garibotto Chiara; Lavagetto Fabio; Sciarrone Andrea; Zappatore Sandro
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 90, percentile 54)
+     - Computer Networks and Communications (Q2, rank 260, percentile 52)
+     - Artificial Intelligence (Q3, rank 262, percentile 47)
+     - Hardware and Architecture (Q3, rank 129, percentile 45)
+   - **Source Id:** 21101199922
+   - **Author Ids:** 8546192900;57053502600;7004136693;36180166900;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+12.
+   - **Title:** Statistical fingerprint-based ids in sdn architecture
+   - **Venue:** Simulation Series
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/SPECTS.2018.8574140
+   - **Scopus ID:** 2-s2.0-85060050851
+   - **ISSN:** 07359276
+   - **Volume:** 50
+   - **Issue:** 11
+   - **Pages:** 1-12
+   - **Authors:** Bigotto Francesco; Boero Luca; Marchese Mario; Zappatore Sandro
+   - **Keywords:** Flow Identification | Intrusion Detection System | Malware Detection | Software Defined Networking
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 535, percentile 2)
+   - **Source Id:** 12193
+   - **Author Ids:** 57205439512;57053089400;7004398165;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bigotto F.
+13.
+   - **Title:** Support Vector Machine Meets Software Defined Networking in IDS Domain
+   - **Venue:** Proceedings of the 29th International Teletraffic Congress Itc 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 47
+   - **DOI:** 10.23919/ITC.2017.8065806
+   - **Scopus ID:** 2-s2.0-85040226061
+   - **Volume:** 3
+   - **Pages:** 25-30
+   - **Authors:** Boero Luca; Marchese Mario; Zappatore Sandro
+   - **Keywords:** Intrusion Detection System | Machine Learning | Malware Detection | Software Defined Networking
+   - **Source Id:** 21100795334
+   - **Author Ids:** 57053089400;7004398165;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Boero L.
+14.
+   - **Title:** Statistical fingerprint-based intrusion detection system (SF-IDS)
+   - **Venue:** International Journal of Communication Systems
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 24
+   - **DOI:** 10.1002/dac.3225
+   - **Scopus ID:** 2-s2.0-84995387798
+   - **ISSN:** 10745351
+   - **eISSN:** 10991131
+   - **Volume:** 30
+   - **Issue:** 10
+   - **Authors:** Boero Luca; Cello Marco; Marchese Mario; Mariconti Enrico; Naqash Talha; Zappatore Sandro
+   - **Keywords:** intrusion detection system, IP, machine learning, networking, statistical analysis
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 309, percentile 69)
+     - Computer Networks and Communications (Q2, rank 171, percentile 68)
+     2017:
+     - Electrical and Electronic Engineering (Q1, rank 162, percentile 75)
+     - Computer Networks and Communications (Q2, rank 73, percentile 73)
+   - **Source Id:** 17964
+   - **Author Ids:** 57053089400;36025044100;7004398165;57189589235;55078238900;6602811400
+   - **Authoraffiliationids:** 60025153;60025153-60021378;60025153;60022148;60025153;60025153
+   - **Corresponding:** Boero L.
+15.
+   - **Title:** A new asset tracking architecture integrating RFID, Bluetooth Low Energy tags and ad hoc smartphone applications
+   - **Venue:** Pervasive and Mobile Computing
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 39
+   - **DOI:** 10.1016/j.pmcj.2016.01.002
+   - **Scopus ID:** 2-s2.0-84957674141
+   - **ISSN:** 15741192
+   - **Volume:** 31
+   - **Pages:** 79-93
+   - **Authors:** Bisio Igor; Sciarrone Andrea; Zappatore Sandro
+   - **Keywords:** Android smartphones | Asset tracking | Bluetooth Low Energy (BLE) tag | Energy consumption | RFID tag
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 95, percentile 82)
+     - Software (Q1, rank 92, percentile 81)
+     - Computer Science Applications (Q1, rank 188, percentile 80)
+     - Information Systems (Q1, rank 98, percentile 80)
+     - Hardware and Architecture (Q1, rank 47, percentile 80)
+     2016:
+     - Subject (Q1, rank 25, percentile 93)
+     - Subject (Q1, rank 7, percentile 81)
+   - **Source Id:** 3200147819
+   - **Author Ids:** 8546192900;36180166900;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+16.
+   - **Title:** Hybrid simulated-emulated platform - HySEP
+   - **Venue:** Handbook of Research on Next Generation Mobile Communication Systems
+   - **Year:** 2015
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.4018/978-1-4666-8732-5.ch015
+   - **Scopus ID:** 2-s2.0-84958139783
+   - **Pages:** 380-409
+   - **Authors:** Bisio Igor; Delucchi Stefano; Lavagetto Fabio; Marchese Mario; Portomauro Giancarlo; Zappatore Sandro
+   - **Source Id:** 21100446332
+   - **Author Ids:** 8546192900;55694754400;7004136693;7004398165;15128054100;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+17.
+   - **Title:** Asset tracking architecture with Bluetooth Low Energy tags and ad hoc smartphone applications
+   - **Venue:** 2015 European Conference on Networks and Communications Eucnc 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/EuCNC.2015.7194118
+   - **Scopus ID:** 2-s2.0-84955442242
+   - **Pages:** 460-464
+   - **Authors:** Bisio Igor; Sciarrone Andrea; Zappatore Sandro
+   - **Source Id:** 21100440515
+   - **Author Ids:** 8546192900;36180166900;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+18.
+   - **Title:** An Ns-3 based simulative and emulative platform
+   - **Venue:** Modeling and Simulation of Computer Networks and Systems Methodologies and Applications
+   - **Year:** 2015
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 2
+   - **DOI:** 10.1016/B978-0-12-800887-4.00019-5
+   - **Scopus ID:** 2-s2.0-84940069625
+   - **Pages:** 555-575
+   - **Authors:** Bisio Igor; Delucchi Stefano; Lavagetto Fabio; Marchese Mario; Portomauro Giancarlo; Zappatore Sandro
+   - **Keywords:** Emulation | LTE | Quality of Service (QoS) | Simulation
+   - **Source Id:** 21100404889
+   - **Author Ids:** 8546192900;55694754400;7004136693;7004398165;15128054100;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+19.
+   - **Title:** Asset tracking solution with BLE and smartphones: An energy/position accuracy trade-off
+   - **Venue:** Proceedings IEEE Global Communications Conference Globecom
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/glocom.2015.7417782
+   - **Scopus ID:** 2-s2.0-84964875897
+   - **ISSN:** 23340983
+   - **eISSN:** 25766813
+   - **Authors:** Bisio Igor; Sciarrone Andrea; Zappatore Sandro
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 90, percentile 54)
+     - Computer Networks and Communications (Q2, rank 260, percentile 52)
+     - Artificial Intelligence (Q3, rank 262, percentile 47)
+     - Hardware and Architecture (Q3, rank 129, percentile 45)
+   - **Source Id:** 21101199922
+   - **Author Ids:** 8546192900;36180166900;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+20.
+   - **Title:** Hybrid simulated-emulated platform for heterogeneous access networks performance investigations
+   - **Venue:** Proceedings of the 2014 International Symposium on Performance Evaluation of Computer and Telecommunication Systems Spects 2014 Part of Summersim 2014 Multiconference
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/SPECTS.2014.6880009
+   - **Scopus ID:** 2-s2.0-84906766559
+   - **Pages:** 670-675
+   - **Authors:** Bisio Igor; Delfino Alessandro; Delucchi Stefano; Lavagetto Fabio; Marchese Mario; Portormauro Giancarlo; Zappatore Sandro
+   - **Keywords:** Heterogeneous Access Networks | Hybrid Real-Simulated Network | ns-3 | Performance Investigation | Quality of Service
+   - **Source Id:** 21100332233
+   - **Author Ids:** 8546192900;54890459700;55694754400;7004136693;7004398165;56342648700;6602811400
+   - **Corresponding:** Bisio I.
+21.
+   - **Title:** Performance evaluation of measurement data acquisition mechanisms in a distributed computing environment integrating remote laboratory instrumentation
+   - **Venue:** Future Generation Computer Systems
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1016/j.future.2012.07.007
+   - **Scopus ID:** 2-s2.0-84868248936
+   - **ISSN:** 0167739X
+   - **Volume:** 29
+   - **Issue:** 2
+   - **Pages:** 460-471
+   - **Authors:** Berruti Luca; Davoli Franco; Zappatore Sandro
+   - **Keywords:** Grid-based architecture | Performance evaluation | Tele-Laboratory platform
+   - **Quartile:**
+     2025:
+     - Hardware and Architecture (Q1, rank 5, percentile 98)
+     - Computer Networks and Communications (Q1, rank 15, percentile 97)
+     - Software (Q1, rank 26, percentile 94)
+     2013:
+     - Hardware and Architecture (Q1, rank 9, percentile 93)
+     - Software (Q1, rank 34, percentile 90)
+     - Computer Networks and Communications (Q1, rank 20, percentile 90)
+   - **Source Id:** 12264
+   - **Author Ids:** 24281322100;57220364548;6602811400
+   - **Authoraffiliationids:** 60103966-113162866;60025153-60103966;60025153-60103966
+   - **Corresponding:** Berruti L.
+22.
+   - **Title:** Preface
+   - **Venue:** Remote Instrumentation for Escience and Related Aspects
+   - **Year:** 2012
+   - **Type:** Book
+   - **Subtype:** Editorial
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-1-4614-0508-5
+   - **Scopus ID:** 2-s2.0-85025603613
+   - **Pages:** v-vii
+   - **Authors:** Davoli Franco; Lawenda Marcin; Meyer Norbert; Pugliese Roberto; Węglarz Jan; Zappatore Sandro
+   - **Source Id:** 21100439414
+   - **Author Ids:** 57220364548;8912983400;8875032400;7006876862;7004010040;6602811400
+   - **Authoraffiliationids:** 60025153;60085665;60085665;60033292;60085665;60025153
+   - **Corresponding:** Davoli F.
+23.
+   - **Title:** Network performance monitoring for remote instrumentation services: The DORII platform test case
+   - **Venue:** Remote Instrumentation for Escience and Related Aspects
+   - **Year:** 2012
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-1-4614-0508-5_19
+   - **Scopus ID:** 2-s2.0-84955415908
+   - **Pages:** 285-303
+   - **Authors:** Adami Davide; Chepstov Alexey; Davoli Franco; Lanati Matteo; Liabotis Ioannis; Vignola Stefano; Zappatore Sandro; Zafeiropoulos Anastasios
+   - **Source Id:** 21100439414
+   - **Author Ids:** 13410812300;34267544900;57220364548;24332025900;6507986808;55890855400;6602811400;24333644200
+   - **Authoraffiliationids:** 60028868;60015815;60028868;100468597;101742284;60028868;60028868;101742284
+   - **Corresponding:** Adami D.
+24.
+   - **Title:** Performance evaluation of the DORII instrument element data transfer capabilities
+   - **Venue:** Remote Instrumentation for Escience and Related Aspects
+   - **Year:** 2012
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-1-4614-0508-5_2
+   - **Scopus ID:** 2-s2.0-84955395055
+   - **Pages:** 15-24
+   - **Authors:** Berruti Luca; Davoli Franco; Vignola Stefano; Zappatore Sandro
+   - **Source Id:** 21100439414
+   - **Author Ids:** 24281322100;57220364548;55890855400;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Berruti L.
+25.
+   - **Title:** Remote instrumentation for escience and related aspects
+   - **Venue:** Remote Instrumentation for Escience and Related Aspects
+   - **Year:** 2012
+   - **Type:** Book
+   - **Subtype:** Book
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-1-4614-0508-5
+   - **Scopus ID:** 2-s2.0-84955357816
+   - **Pages:** 1-309
+   - **Authors:** Davoli Franco; Lawenda Marcin; Meyer Norbert; Pugliese Roberto; Węglarz Jan; Zappatore Sandro
+   - **Source Id:** 21100439414
+   - **Author Ids:** 57220364548;8912983400;8875032400;7006876862;7004010040;6602811400
+   - **Authoraffiliationids:** 60025153;60085665;60085665;60033292;60085665;60025153
+   - **Corresponding:** Davoli F.
+26.
+   - **Title:** Remote instrumentation services on the e-infrastructure: Applications and tools
+   - **Venue:** Remote Instrumentation Services on the E Infrastructure Applications and Tools
+   - **Year:** 2011
+   - **Type:** Book
+   - **Subtype:** Book
+   - **Citations:** 3
+   - **DOI:** 10.1007/978-1-4419-5574-6
+   - **Scopus ID:** 2-s2.0-84887937785
+   - **Pages:** 1-325
+   - **Authors:** Davoli Franco; Meyer Norbert; Pugliese Roberto; Zappatore Sandro
+   - **Source Id:** 21100267922
+   - **Author Ids:** 57220364548;8875032400;7006876862;6602811400
+   - **Authoraffiliationids:** 60025153;60085665;60033292;60025153
+   - **Corresponding:** Davoli F.
+27.
+   - **Title:** Preface
+   - **Venue:** Remote Instrumentation Services on the E Infrastructure Applications and Tools
+   - **Year:** 2011
+   - **Type:** Book
+   - **Subtype:** Editorial
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-1-4419-5574-6
+   - **Scopus ID:** 2-s2.0-84887897075
+   - **Pages:** v-vii
+   - **Authors:** Davoli Franco; Meyer Norbert; Pugliese Roberto; Zappatore Sandro
+   - **Source Id:** 21100267922
+   - **Author Ids:** 57220364548;8875032400;7006876862;6602811400
+   - **Authoraffiliationids:** 60025153;60085665;60033292;60025153
+   - **Corresponding:** Davoli F.
+28.
+   - **Title:** A grid approach for calibrating and comparing microscopic road traffic models
+   - **Venue:** Remote Instrumentation Services on the E Infrastructure Applications and Tools
+   - **Year:** 2011
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-1-4419-5574-6_19
+   - **Scopus ID:** 2-s2.0-84887873024
+   - **Pages:** 271-281
+   - **Authors:** Berruti Luca; Caligaris Carlo; Denegri Livio; Perrando Marco; Zappatore Sandro
+   - **Source Id:** 21100267922
+   - **Author Ids:** 24281322100;24536881100;17434106100;6508292029;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Berruti L.
+29.
+   - **Title:** The DORII project e-infrastructure: Deployment, applications, and measurements
+   - **Venue:** Lecture Notes of the Institute for Computer Sciences Social Informatics and Telecommunications Engineering Lnicst
+   - **Year:** 2011
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-642-17851-1_24
+   - **Scopus ID:** 2-s2.0-84885888397
+   - **ISSN:** 18678211
+   - **Volume:** 46
+   - **Pages:** 285-295
+   - **Authors:** Adami Davide; Chepstov Alexey; Davoli Franco; Koller Bastian; Lanati Matteo; Liabotis Ioannis; Vignola Stefano; Zafeiropoulo Anastasios; Zappatore Sandro
+   - **Keywords:** E-science | Remote Instrumentation Services | SOA
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q4, rank 439, percentile 19)
+     2011:
+     - Computer Networks and Communications (Q3, rank 116, percentile 41)
+   - **Source Id:** 21100220348
+   - **Author Ids:** 13410812300;34267544900;57220364548;25123069200;24332025900;6507986808;55890855400;24333644200;6602811400
+   - **Authoraffiliationids:** 60028868;60015815;60028868;60015815;;101742284;60028868;101742284;60028868
+   - **Corresponding:** Adami D.
+30.
+   - **Title:** Monitoring unauthorized internet accesses through a 'honeypot' system
+   - **Venue:** International Journal of Communication Systems
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1002/dac.1141
+   - **Scopus ID:** 2-s2.0-78650623144
+   - **ISSN:** 10745351
+   - **eISSN:** 10991131
+   - **Volume:** 24
+   - **Issue:** 1
+   - **Pages:** 75-93
+   - **Authors:** Marchese Mario; Surlinelli Roberto; Zappatore Sandro
+   - **Keywords:** honeypot | network monitoring | network security
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 309, percentile 69)
+     - Computer Networks and Communications (Q2, rank 171, percentile 68)
+     2011:
+     - Electrical and Electronic Engineering (Q3, rank 319, percentile 45)
+     - Computer Networks and Communications (Q3, rank 139, percentile 30)
+   - **Source Id:** 17964
+   - **Author Ids:** 7004398165;36702235700;6602811400
+   - **Authoraffiliationids:** 60025153;106544534;60025153
+   - **Corresponding:** Marchese M.
+31.
+   - **Title:** Remote laboratory experiments in a virtual immersive learning environment
+   - **Venue:** Advances in Multimedia
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1155/2008/426981
+   - **Scopus ID:** 2-s2.0-58149120794
+   - **ISSN:** 16875680
+   - **eISSN:** 16875699
+   - **Volume:** 2008
+   - **Authors:** Massei Gianluca; Berruti Luca; Davoli Franco; Zappatore Sandro; Scarpiello Amedeo
+   - **Source Id:** 6400153142
+   - **Author Ids:** 7003972525;24281322100;57220364548;6602811400;7801334192
+   - **Authoraffiliationids:** 60017293;60025153;60025153;60025153;60017293
+   - **Corresponding:** Massei G.
+32.
+   - **Title:** Sensor network-based localization for continuous tracking applications: Implementation and performance evaluation
+   - **Venue:** Advances in Multimedia
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1155/2008/569848
+   - **Scopus ID:** 2-s2.0-55849118139
+   - **ISSN:** 16875680
+   - **eISSN:** 16875699
+   - **Volume:** 2008
+   - **Authors:** Denegri Livio; Zappatore Sandro; Davoli Franco
+   - **Source Id:** 6400153142
+   - **Author Ids:** 17434106100;6602811400;57220364548
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Denegri L.
+33.
+   - **Title:** Investigating the performance of a middleware protocol architecture for tele-measurement
+   - **Venue:** International Journal of Communication Systems
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1002/dac.905
+   - **Scopus ID:** 2-s2.0-43949121464
+   - **ISSN:** 10745351
+   - **eISSN:** 10991131
+   - **Volume:** 21
+   - **Issue:** 5
+   - **Pages:** 509-523
+   - **Authors:** Berruti Luca; Vignola Stefano; Zappatore Sandro
+   - **Keywords:** Computer networks | Multimedia systems | Protocol architecture | Tele-measurement systems
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 309, percentile 69)
+     - Computer Networks and Communications (Q2, rank 171, percentile 68)
+   - **Source Id:** 17964
+   - **Author Ids:** 24281322100;55890855400;6602811400
+   - **Authoraffiliationids:** 60103966;60103966;60103966
+   - **Corresponding:** Berruti L.
+34.
+   - **Title:** From the LABNET server to Web Services and the Grid: The evolution of a telecommunication measurement distributed architecture
+   - **Venue:** 15th Imeko Symposium on Novelties in Electrical Measurements and Instrumentation in Parallel with the 12th Workshop on ADC Modelling and Testing
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84887384289
+   - **Authors:** Berruti L.; Caviglione L.; Davoli F.; Perrando M.; Polizzi M.; Vignola S.; Zappatore S.
+   - **Source Id:** 21100266612
+   - **Author Ids:** 24281322100;8301144200;57220364548;6508292029;25932356600;55890855400;6602811400
+   - **Authoraffiliationids:** 60025153;60021199;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Berruti L.
+35.
+   - **Title:** The VIL (Virtual Immersive Learning) Test-Bed
+   - **Venue:** Immerscom 2007 Proceedings of the 1st International Conference on Immersive Telecommunications
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.4108/ICST.IMMERSCOM2007.2110
+   - **Scopus ID:** 2-s2.0-85134499476
+   - **Authors:** Davoli Franco; Massei Gianluca; Scarpiello Amedeo; Zappatore Sandro
+   - **Keywords:** Context Awareness | Cooperative work | Distance learning | Graphical User Interface | Immersive interaction | Remote Measurement | Scene Analysis | Virtual Reality
+   - **Source Id:** 21101096957
+   - **Author Ids:** 57220364548;7003972525;7801334192;6602811400
+   - **Authoraffiliationids:** 60103966;60103966;60103966;60103966
+   - **Corresponding:** Davoli F.
+36.
+   - **Title:** Sensor Network Based Localization for Continuous Tracking Applications
+   - **Venue:** Immerscom 2007 Proceedings of the 1st International Conference on Immersive Telecommunications
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.4108/ICST.IMMERSCOM2007.2080
+   - **Scopus ID:** 2-s2.0-85134480186
+   - **Authors:** Denegri Livio; Zappatore Sandro; Davoli Franco
+   - **Keywords:** Localization | Sensor networks | Ultrasonic
+   - **Source Id:** 21101096957
+   - **Author Ids:** 17434106100;6602811400;57220364548
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Denegri L.
+37.
+   - **Title:** From the LABNET server to web services and the grid: The evolution of a telecommunication measurement distributed architecture
+   - **Venue:** 15th Imeko Tc4 Symposium on Novelties in Electrical Measurements and Instrumentation
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84896650133
+   - **Authors:** Berruti L.; Caviglione L.; Davoli F.; Perrando M.; Polizzi M.; Vignola S.; Zappatore S.
+   - **Source Id:** 21100298610
+   - **Author Ids:** 24281322100;8301144200;57220364548;6508292029;25932356600;55890855400;6602811400
+   - **Authoraffiliationids:** 60025153;60016217;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Berruti L.
+38.
+   - **Title:** Design and preliminary analysis of a framework for integrating real and virtual instrumentation within a grid infrastructure
+   - **Venue:** International Symposium on Performance Evaluation of Computer and Telecommunication Systems 2006 Spects 06 Part of the 2006 Summer Simulation Multiconference Summersim 06
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-84870003020
+   - **Pages:** 5-11
+   - **Authors:** Caviglione Luca; Davoli Franco; Molini Pietro; Zappatore Sandro
+   - **Source Id:** 21100220420
+   - **Author Ids:** 8301144200;57220364548;35488454500;6602811400
+   - **Corresponding:** Caviglione L.
+39.
+   - **Title:** LABNET: Towards remote laboratories with unified access
+   - **Venue:** IEEE Transactions on Instrumentation and Measurement
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.1109/TIM.2006.880919
+   - **Scopus ID:** 2-s2.0-33749327916
+   - **ISSN:** 00189456
+   - **Volume:** 55
+   - **Issue:** 5
+   - **Pages:** 1551-1558
+   - **Authors:** Davoli Franco; Spanò Giuseppe; Vignola Stefano; Zappatore Sandro
+   - **Keywords:** Middleware | Networked measurement devices | Telecommunication networks | Telecommunication systems measurements | Telelaboratories | Telemeasurements
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 16, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 119, percentile 88)
+   - **Source Id:** 15361
+   - **Author Ids:** 57220364548;35841372000;55890855400;6602811400
+   - **Authoraffiliationids:** 60025153-60103966;101626037;60025153;60025153-60103966
+   - **Corresponding:** Davoli F.
+40.
+   - **Title:** Mycodiversity in beech woods of Western Liguria (Italy)
+   - **Venue:** Plant Biosystems
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1080/11263500500504657
+   - **Scopus ID:** 2-s2.0-33644843715
+   - **ISSN:** 11263504
+   - **eISSN:** 17245575
+   - **Volume:** 140
+   - **Issue:** 1
+   - **Pages:** 27-33
+   - **Authors:** Zotti M.; Zappatore S.
+   - **Keywords:** Biodiversity | Fagus sylvatica | Fungal diversity | Macrofungi
+   - **Quartile:**
+     2025:
+     - Ecology, Evolution, Behavior and Systematics (Q2, rank 186, percentile 74)
+     - Plant Science (Q2, rank 160, percentile 70)
+   - **Source Id:** 16578
+   - **Author Ids:** 6603935844;6602811400
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Zotti M.
+41.
+   - **Title:** Architecting a sensor network: Analysis and implementation of a cluster building algorithm
+   - **Venue:** International Symposium on Performance Evaluation of Computer and Telecommunication Systems 2005 Spects 05 Part of the 2005 Summer Simulation Multiconference Summersim 05
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84869999779
+   - **Pages:** 567-572
+   - **Authors:** Caviglione Luca; Spanò Giuseppe; Vignola Stefano; Zappatore Sandro
+   - **Keywords:** Harsh environments | Implementation issues | Protocol architecture | Sensor networks
+   - **Source Id:** 21100220412
+   - **Author Ids:** 8301144200;35841372000;55890855400;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Caviglione L.
+42.
+   - **Title:** An Experimental Study on the Quality-of-Service of Video Encoded Sequences Over an Emulated Rain-Faded Satellite Channel
+   - **Venue:** IEEE Journal on Selected Areas in Communications
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1109/JSAC.2003.819971
+   - **Scopus ID:** 2-s2.0-1342329489
+   - **ISSN:** 07338716
+   - **Volume:** 22
+   - **Issue:** 2
+   - **Pages:** 229-237
+   - **Authors:** Celandroni Nedo; Davoli Franco; Ferro Erina; Vignola Stefano; Zappatore Sandro; Zinicola Andrea
+   - **Keywords:** Digital video broadcasting-satellite (DVB-S) | H.261 | Internet protocol (IP) | MPEG-2 | Point-to-point protocol (PPP) | Rain fading | Satellite channel | User datagram protocol (UDP) | Video quality
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 4, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 8, percentile 99)
+   - **Source Id:** 18902
+   - **Author Ids:** 7003794458;57220364548;56205423500;55890855400;6602811400;6505453652
+   - **Authoraffiliationids:** 60085207;101026249-60025153;60085207;101026249;101026249-60025153;101026249
+   - **Corresponding:** Celandroni N.
+43.
+   - **Title:** A decision support system for the management of accidental mushroom and plant poisoning
+   - **Venue:** Farmaco
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1016/S0014-827X(01)01103-X
+   - **Scopus ID:** 2-s2.0-0035396463
+   - **ISSN:** 0014827X
+   - **Volume:** 56
+   - **Issue:** 5-7
+   - **Pages:** 391-395
+   - **Authors:** Zotti Mirca; Zappatore Sandro; Caviglia Anna M.; Tosa Monica
+   - **Keywords:** Decision support system | Mushroom poisoning | Plant poisoning
+   - **Source Id:** 4800154010
+   - **Author Ids:** 6603935844;6602811400;7004608877;57205841446
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Zotti M.
+44.
+   - **Title:** A general framework for networked multimedia applications enabling access to laboratory equipment: The LABNET project experience
+   - **Venue:** Proceedings International Conference on Information Technology Coding and Computing ITCC 2001
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/ITCC.2001.918822
+   - **Scopus ID:** 2-s2.0-0041891681
+   - **Pages:** 359-365
+   - **Authors:** Davoli F.; Maryni P.; Perrando M.; Zappatore S.
+   - **Source Id:** 21100454403
+   - **Author Ids:** 57220364548;6602126813;6508292029;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Davoli F.
+45.
+   - **Title:** An integrated multiple access and hierarchical coding scheme for video communication on wireless networks
+   - **Venue:** European Transactions on Telecommunications
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1002/ett.4460110406
+   - **Scopus ID:** 2-s2.0-0041407002
+   - **ISSN:** 1124318X
+   - **Volume:** 11
+   - **Issue:** 4
+   - **Pages:** 373-382
+   - **Authors:** Bolla Raffaele; Iscra Alessandro; Marchese Mario; Nobile Carlo; Zappatore Sandro
+   - **Source Id:** 18817
+   - **Author Ids:** 7006403406;6506869764;7004398165;36824831400;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+46.
+   - **Title:** A simple multi-layer digital video coder for multimedia network applications
+   - **Venue:** Proceedings International Conference on Image Analysis and Processing Iciap 1999
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICIAP.1999.797725
+   - **Scopus ID:** 2-s2.0-84890366338
+   - **Pages:** 992-996
+   - **Authors:** Grattarola Aldo; Iscra Alessandro; Zappatore Sandro
+   - **Source Id:** 21100274860
+   - **Author Ids:** 6603286614;6506869764;6602811400
+   - **Corresponding:** Grattarola A.
+47.
+   - **Title:** Meteosat image processing for short-term cloud tracking
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0033341403
+   - **ISSN:** 0277786X
+   - **Volume:** 3871
+   - **Pages:** 84-95
+   - **Authors:** Iscra Alessandro; Marchese Mario; Zappatore Sandro
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 6506869764;7004398165;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Iscra A.
+48.
+   - **Title:** A perceived quality of service optimization for video communication in ’best-effort’ networks
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 1998
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1007/3-540-64594-2_108
+   - **Scopus ID:** 2-s2.0-84957696763
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 1425
+   - **Pages:** 366-379
+   - **Authors:** Bolla Raffaele; Iscra Alessandro; Marchese Mario; Zappatore Sandro
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 7006403406;6506869764;7004398165;6602811400
+   - **Corresponding:** Bolla R.
+49.
+   - **Title:** A congestion control scheme for multimedia traffic in packet switching ’best-effort’ networks
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 1997
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1007/bfb0037373
+   - **Scopus ID:** 2-s2.0-84947910182
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 1242
+   - **Pages:** 523-536
+   - **Authors:** Bolla R.; Marchese M.; Zappatore S.
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 7006403406;7004398165;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+50.
+   - **Title:** Interactive distance learning over ISDN in electronic engineering education
+   - **Venue:** International Journal of Engineering Education
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0030517457
+   - **ISSN:** 0949149X
+   - **Volume:** 12
+   - **Issue:** 2
+   - **Pages:** 92-99
+   - **Authors:** Davoli Franco; Maryni Piergiulio; Zappatore Sandro; Talone Paolo
+   - **Quartile:**
+     2025:
+     - Education (Q3, rank 924, percentile 44)
+     - Engineering (all) (Q3, rank 228, percentile 34)
+   - **Source Id:** 12345
+   - **Author Ids:** 57220364548;6602126813;6602811400;6603595884
+   - **Authoraffiliationids:** 60025153-126527430;60025153;60025153;60038102
+   - **Corresponding:** Davoli F.
+51.
+   - **Title:** The Tracking and Prediction of High Intensity Rainstorms
+   - **Venue:** Remote Sensing Reviews
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1080/02757259609532316
+   - **Scopus ID:** 2-s2.0-0030434039
+   - **ISSN:** 02757257
+   - **Volume:** 14
+   - **Issue:** 1-3
+   - **Pages:** 151-183
+   - **Authors:** Bolla Raffaele; Boni Giorgio; Barbera Paolo L.A.; Lanza Luca; Marchese Mario; Zappatore Sandro
+   - **Source Id:** 92584
+   - **Author Ids:** 7006403406;7004208139;7004325623;7005744799;7004398165;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+52.
+   - **Title:** Analysis and performance comparison of the RRA-ISA multiple access protocol for packet voice and data cellular systems
+   - **Venue:** IEEE International Symposium on Personal Indoor and Mobile Radio Communications PIMRC
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0029493406
+   - **Volume:** 1
+   - **Pages:** 378-382
+   - **Authors:** Bolla R.; Davoli F.; Iscra A.; Nobile C.; Zappatore S.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 844, percentile 15)
+   - **Source Id:** 21101245832
+   - **Author Ids:** 7006403406;57220364548;6506869764;36824831400;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+53.
+   - **Title:** Prediction of short-term evolution of cloud formations based on Meteosat image sequences
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 1995
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1007/3-540-60298-4_331
+   - **Scopus ID:** 2-s2.0-79953839572
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 974
+   - **Pages:** 677-682
+   - **Authors:** Bolla Raffaele; Marchese Mario; Nobile Carlo; Zappatore Sandro
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 7006403406;7004398165;36824831400;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+54.
+   - **Title:** Adaptive vector quantization for fixed bit-rate videocoding
+   - **Venue:** Signal Processing
+   - **Year:** 1993
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1016/0165-1684(93)90024-5
+   - **Scopus ID:** 2-s2.0-0027682222
+   - **ISSN:** 01651684
+   - **Volume:** 34
+   - **Issue:** 1
+   - **Pages:** 19-31
+   - **Authors:** Lavagetto F.; Zappatore S.
+   - **Keywords:** adaptive quantization | Digital video compression | vector quantization
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 25, percentile 87)
+     - Computer Vision and Pattern Recognition (Q1, rank 27, percentile 84)
+     - Electrical and Electronic Engineering (Q1, rank 166, percentile 83)
+     - Control and Systems Engineering (Q1, rank 71, percentile 81)
+     - Software (Q1, rank 101, percentile 79)
+   - **Source Id:** 25548
+   - **Author Ids:** 7004136693;6602811400
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Lavagetto F.
+55.
+   - **Title:** VQ coding for videophone applications adopting knowledge-based techniques. Implementation on parallel architectures
+   - **Venue:** European Transactions on Telecommunications and Related Technologies
+   - **Year:** 1992
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0026838323
+   - **ISSN:** 11203862
+   - **Volume:** 3
+   - **Issue:** 2
+   - **Pages:** 45-52
+   - **Authors:** Braccini Carlo; Grattarola Aldo; Lavagetto Fabio; Zappatore Sandro
+   - **Source Id:** 55306
+   - **Author Ids:** 7003400719;6603286614;7004136693;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Braccini C.
+56.
+   - **Title:** VQ coding for videophone applications adopting knowledge‐based techniques: Implementation on parallel architectures
+   - **Venue:** European Transactions on Telecommunications
+   - **Year:** 1992
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1002/ett.4460030209
+   - **Scopus ID:** 2-s2.0-84985822420
+   - **ISSN:** 1124318X
+   - **eISSN:** 15418251
+   - **Volume:** 3
+   - **Issue:** 2
+   - **Pages:** 137-144
+   - **Authors:** Braccini Carlo; Grattarola Aldo; Lavagetto Fabio; Zappatore Sandro
+   - **Source Id:** 18817
+   - **Author Ids:** 7003400719;6603286614;7004136693;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Braccini C.
+57.
+   - **Title:** Design and Analysis of an MAC-Layer Protocol for a Car-to-Infrastructure Packet Radio Network
+   - **Venue:** IEEE Transactions on Vehicular Technology
+   - **Year:** 1992
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/25.142773
+   - **Scopus ID:** 2-s2.0-0026861220
+   - **ISSN:** 00189545
+   - **eISSN:** 19399359
+   - **Volume:** 41
+   - **Issue:** 2
+   - **Pages:** 152-158
+   - **Authors:** Aicardi Michele; Davoli Franco; Giordano Alberto; Zappatore Sandro
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 63, percentile 93)
+     - Automotive Engineering (Q1, rank 9, percentile 93)
+     - Computer Networks and Communications (Q1, rank 38, percentile 93)
+   - **Source Id:** 17393
+   - **Author Ids:** 7003972162;57220364548;7201681191;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Aicardi M.
+58.
+   - **Title:** Bayesian and pseudo-Bayesian algorithms for a mobile packet radio network with an Aloha-type access channel and cellular structure
+   - **Venue:** 6th Mediterranean Electrotechnical Conference
+   - **Year:** 1992
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0026642783
+   - **Pages:** 546-553
+   - **Authors:** Aicardi M.; Davoli F.; Giordano A.; Zappatore S.
+   - **Source Id:** 101030
+   - **Author Ids:** 7003972162;57220364548;7201681191;6602811400
+   - **Corresponding:** Aicardi M.
+59.
+   - **Title:** Unbalanced tree structure for frame adaptive vector quantization of image sequences
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1990
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0025634888
+   - **ISSN:** 0277786X
+   - **Volume:** 1244
+   - **Pages:** 291-304
+   - **Authors:** Lavagetto Fabio; Zappatore Sandro
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7004136693;6602811400
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Lavagetto F.
+60.
+   - **Title:** Architecture and protocol design for a car-to-infrastructure packet radio network
+   - **Venue:** IEEE Global Telecommunications Conference and Exhibition
+   - **Year:** 1990
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0025560042
+   - **Volume:** 3
+   - **Pages:** 1579-1585
+   - **Authors:** Davoli F.; Giordano A.; Zappatore S.
+   - **Source Id:** 57792
+   - **Author Ids:** 57220364548;7201681191;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Davoli F.
+61.
+   - **Title:** Comparative evaluation of different techniques in image vector quantization
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1990
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0025535027
+   - **ISSN:** 0277786X
+   - **Volume:** 1349
+   - **Pages:** 192-202
+   - **Authors:** Lavagetto Fabio; Zappatore Sandro
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7004136693;6602811400
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Lavagetto F.
+62.
+   - **Title:** Visual model weighted DCT vector quantization for variable bitrate video coding
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1990
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0025532198
+   - **ISSN:** 0277786X
+   - **Volume:** 1360 pt 2
+   - **Pages:** 1134-1139
+   - **Authors:** Lavagetto Fabio; Zappatore Sandro
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7004136693;6602811400
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Lavagetto F.
+63.
+   - **Title:** Volumetric and pictorial reconstruction of 3D objects from correspondences in moving 2D views
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 1989
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/3-540-51815-0_58
+   - **Scopus ID:** 2-s2.0-33747809506
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 399 Lncs
+   - **Pages:** 249-258
+   - **Authors:** Braccini C.; Grattarola A.; Zappatore S.
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 7003400719;6603286614;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Braccini C.
+64.
+   - **Title:** Performance evaluation and comparison of the R-ISA multiaccess protocol for packet radio
+   - **Venue:** undefined
+   - **Year:** 1988
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0024122464
+   - **Pages:** 338-342
+   - **Authors:** Aicardi M.; Davoli F.; Giordano A.; Zappatore S.
+   - **Source Id:** 133348
+   - **Author Ids:** 7003972162;57220364548;7201681191;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Aicardi M.
+65.
+   - **Title:** Improving the linear approach to motion estimation of rigid bodies by means of nonlinear constraints
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 1986
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1117/12.952201
+   - **Scopus ID:** 2-s2.0-84957521625
+   - **ISSN:** 0277786X
+   - **eISSN:** 1996756X
+   - **Volume:** 594
+   - **Pages:** 97-105
+   - **Authors:** Braccini C.; Gambardella G.; Grattarola A.; Pozzo G.; Zappatore S.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 7003400719;7004607053;6603286614;57188898425;6602811400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Braccini C.

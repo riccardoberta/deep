@@ -1,0 +1,1000 @@
+# Lombardo Chiara
+
+## Overview
+- **Unit:** ICT
+- **Role:** Ricercatore
+- **Grade:** Ricercatore t.d. art. 24 c. 3 lett. A Legge 240/10 (t.pieno)
+- **SSD:** IINF-03/A (Telecomunicazioni)
+- **Scopus ID:** 50061523000
+- **UNIGE ID:** 282481
+- **Retrieved at:** 2025-11-14T15:17:31.650465
+
+## Contact
+- **Email:** chiara.lombardo@unige.it
+- **Page:** https://rubrica.unige.it/personale/V0tFX1Jo
+- **Locations:** Opera Pia - padiglione E (ED_161450402), 3° piano, US_161450402.III.019
+
+## Career
+- AR, 2014-01-02 → 2020-01-01
+- CB, 2022-03-24 → 2022-09-30
+- RD, 2023-04-17 → 2026-04-16
+
+## Teaching
+### 2025
+- Technologies For Wireless Networks (80171), Lm-32 - Computer Engineering
+
+### 2024
+- Technologies For Wireless Networks (80171), Lm-32 - Computer Engineering
+
+### 2023
+- Technologies For Wireless Networks (80171), Lm-32 - Computer Engineering
+
+## Scopus Metrics
+- absolute; Docs: 52; Journals: 13; Conferences: 38; Citations: 405; H-index: 10
+- 15 years (2010-2025); Docs: 52; Journals: 13; Conferences: 38; Citations: 405; H-index: 10
+- 10 years (2015-2025); Docs: 43; Journals: 11; Conferences: 31; Citations: 313; H-index: 9
+- 05 years (2020-2025); Docs: 30; Journals: 8; Conferences: 22; Citations: 143; H-index: 7
+
+## Scopus Products
+1.
+   - **Title:** A Management Data Analytics Function for ethical 6G networks
+   - **Venue:** Computer Networks
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1016/j.comnet.2025.111487
+   - **Scopus ID:** 2-s2.0-105009845328
+   - **ISSN:** 13891286
+   - **Volume:** 270
+   - **Authors:** Akbari Milad; Bolla Raffaele; Bruschi Roberto; Lombardo Chiara; Martinelli Nicole Simone; Siccardi Beatrice
+   - **Keywords:** 6G | MDAF | Sustainability | Value-driven
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 96, percentile 82)
+   - **Source Id:** 26811
+   - **Author Ids:** 59302527800;7006403406;8555973600;50061523000;58723294800;57976887200
+   - **Authoraffiliationids:** 60025153;60025153-60103966;60025153-60103966;60025153-60103966;60103966;60025153
+   - **Corresponding:** Akbari M.
+2.
+   - **Title:** Toward Sustainable O-RAN Deployment: An In-Depth Analysis of Power Consumption
+   - **Venue:** IEEE Transactions on Green Communications and Networking
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/TGCN.2024.3426108
+   - **Scopus ID:** 2-s2.0-85198749396
+   - **eISSN:** 24732400
+   - **Volume:** 9
+   - **Issue:** 2
+   - **Pages:** 429-444
+   - **Authors:** Baldini Gianmarco; Bolla Raffaele; Bruschi Roberto; Carrega Alessandro; Davoli Franco; Lombardo Chiara; Rabbani Ramin
+   - **Keywords:** 3-layer architecture | algorithm | cloud | Green networking | mobile | open-ran | placement
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 22, percentile 96)
+     - Renewable Energy, Sustainability and the Environment (Q1, rank 48, percentile 84)
+   - **Source Id:** 21100906361
+   - **Author Ids:** 57193911480;7006403406;8555973600;36633941300;57220364548;50061523000;58122114400
+   - **Authoraffiliationids:** 60103695;60025153;60025153;60025153;60025153;60025153;60103966
+   - **Corresponding:** Baldini G.
+3.
+   - **Title:** Towards sustainable 6G: A collaborative call to action for addressing environmental challenges in (and thanks to) future mobile networks
+   - **Venue:** Open Research Europe
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Letter
+   - **Citations:** 0
+   - **DOI:** 10.12688/openreseurope.18767.2
+   - **Scopus ID:** 2-s2.0-105018636847
+   - **eISSN:** 27325121
+   - **Volume:** 4
+   - **Authors:** Decorme Regis; Faye Sébastien; Calisti Monique; Pryor Simon; Dey Indrakshi; Fanti Maria Pia; Malandrino Francesco; Lombardo Chiara
+   - **Keywords:** 6G Networks | Digital Transformation | Environmental Impact | Green Communications & ICT | Mobile Networks | Next-Generation Connectivity | Sustainability
+   - **Quartile:**
+     2025:
+     - Multidisciplinary (Q2, rank 61, percentile 70)
+   - **Source Id:** 21101120611
+   - **Author Ids:** 55295881600;54082951200;59223350700;57361347600;60138411100;7006413883;35179862000;50061523000
+   - **Authoraffiliationids:** 123085748;60105942;122576662;126320121;133261914;60027299;60021199;60103966-60025153
+   - **Corresponding:** Decorme R.
+4.
+   - **Title:** Performance and Power Analysis of a 5G UPF Varying the C-States of the Hosting Server
+   - **Venue:** 2025 IEEE International Conference on Communications Workshops Icc Workshops 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICCWorkshops67674.2025.11162237
+   - **Scopus ID:** 2-s2.0-105018110799
+   - **Pages:** 1025-1030
+   - **Authors:** Bolla R.; Bruschi R.; Cassinelli D.; Davoli F.; Lombardo C.; Martinelli N. S.; Siccardi B.
+   - **Keywords:** ACPI | B5G | energy efficiency | low power idle | UPF
+   - **Source Id:** 21101337382
+   - **Author Ids:** 7006403406;8555973600;60131677600;57220364548;50061523000;58723294800;57976887200
+   - **Authoraffiliationids:** 60025153-124426043;124426043;60025153;60025153-124426043;60025153-124426043;124426043;60025153
+   - **Corresponding:** Bolla R.
+5.
+   - **Title:** To Scale or Not to Scale? Understand the Overhead of Container Scaling Operations
+   - **Venue:** Proceedings 2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things Dcoss Iot 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/DCOSS-IoT65416.2025.00135
+   - **Scopus ID:** 2-s2.0-105013838131
+   - **Pages:** 890-894
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Gallo Alderico; Lombardo Chiara; Martinelli Nicole Simone
+   - **Keywords:** 5GA | cloud-native | energy efficiency | horizontal scaling
+   - **Source Id:** 21101322174
+   - **Author Ids:** 7006403406;8555973600;58561146300;50061523000;58723294800
+   - **Authoraffiliationids:** 60025153-124426043;60025153-124426043;124426043;60025153-124426043;124426043
+   - **Corresponding:** Bolla R.
+6.
+   - **Title:** Observe to Sustain - How to Enable Beyond 5G Networks to Target Sustainability Goals
+   - **Venue:** IEEE International Symposium on Personal Indoor and Mobile Radio Communications PIMRC
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/PIMRC59610.2024.10817341
+   - **Scopus ID:** 2-s2.0-85216016686
+   - **ISSN:** 21669570
+   - **eISSN:** 21669589
+   - **Authors:** Akbari Milad; Bolla Raffaele; Bruschi Roberto; Lombardo Chiara; Martinelli Nicole Simone; Siccardi Beatrice
+   - **Keywords:** 6G | Energy Efficiency | Observability | Sustainability
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 844, percentile 15)
+     2024:
+     - Electrical and Electronic Engineering (Q4, rank 919, percentile 5)
+   - **Source Id:** 21101245832
+   - **Author Ids:** 59302527800;7006403406;8555973600;50061523000;58723294800;57976887200
+   - **Authoraffiliationids:** 60025153;60025153-124426043;60025153-124426043;60025153-124426043;124426043;60025153
+   - **Corresponding:** Akbari M.
+7.
+   - **Title:** Comparison of the Performance and Energy Efficiency Evaluation of 5G User-Plane Functions
+   - **Venue:** Proceedings IEEE Congress on Cybermatics 2024 IEEE International Conferences on Internet of Things Ithings 2024 IEEE Green Computing and Communications Greencom 2024 IEEE Cyber Physical and Social Computing Cpscom 2024 IEEE Smart Data Smartdata 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics62450.2024.00076
+   - **Scopus ID:** 2-s2.0-85210578318
+   - **Pages:** 361-368
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Davoli Franco; Ghiorzo Paolo; Ivaldi Lorenzo; Lombardo Chiara; Siccardi Beatrice
+   - **Keywords:** 5G | energy efficiency | UPF
+   - **Source Id:** 21101260631
+   - **Author Ids:** 7006403406;8555973600;57220364548;59449717000;57863161300;50061523000;57976887200
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+8.
+   - **Title:** A Monitoring, Observability and Analytics Framework to Improve the Sustainability of B5G Technologies
+   - **Venue:** 2024 IEEE International Conference on Communications Workshops Icc Workshops 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ICCWorkshops59551.2024.10615948
+   - **Scopus ID:** 2-s2.0-85202432426
+   - **Pages:** 969-975
+   - **Authors:** Akbari Milad; Bolla Raffaele; Bruschi Roberto; Davoli Franco; Lombardo Chiara; Siccardi Beatrice
+   - **Keywords:** anomaly detection | B5G | energy efficiency | feature reduction | monitoring | observability
+   - **Source Id:** 21101245169
+   - **Author Ids:** 59302527800;7006403406;8555973600;57220364548;50061523000;57976887200
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Akbari M.
+9.
+   - **Title:** A Stochastic Knapsack Model for Energy Efficient Management of Multi-Server Queues
+   - **Venue:** 2024 7th International Balkan Conference on Communications and Networking Balkancom 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/BalkanCom61808.2024.10557204
+   - **Scopus ID:** 2-s2.0-85197369833
+   - **Pages:** 224-229
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Carrega Alessandro; Davoli Franco; Lombardo Chiara; Siccardi Beatrice
+   - **Keywords:** Adaptive Rate | Energy Efficient Networking | Energy-Performance Tradeoff | Load Balancing | MEC
+   - **Source Id:** 21101232811
+   - **Author Ids:** 7006403406;8555973600;36633941300;57220364548;50061523000;57976887200
+   - **Authoraffiliationids:** 60025153-60103966;60025153-60103966;60025153-60103966;60025153-60103966;60025153-60103966;60025153-60103966
+   - **Corresponding:** Bolla R.
+10.
+   - **Title:** A 5G multi-gNodeB simulator for ultra-reliable 0.5–100 GHz communication in indoor Industry 4.0 environments
+   - **Venue:** Computer Networks
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1016/j.comnet.2023.110103
+   - **Scopus ID:** 2-s2.0-85177164984
+   - **ISSN:** 13891286
+   - **Volume:** 237
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Lombardo Chiara; Mohammadpour Alireza; Trivisonno Riccardo; Poe Wint Yi
+   - **Keywords:** 5G | Block error rate | Industry 4.0 | Reliability
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 96, percentile 82)
+     2023:
+     - Computer Networks and Communications (Q1, rank 38, percentile 90)
+   - **Source Id:** 26811
+   - **Author Ids:** 7006403406;8555973600;50061523000;57189469624;8251302400;35422814700
+   - **Authoraffiliationids:** 124426043-60025153;124426043-60025153;124426043-60025153;124426043;60119364;60119364
+   - **Corresponding:** Bolla R.
+11.
+   - **Title:** 6G Enablers for Zero-Carbon Network Slices and Vertical Edge Services
+   - **Venue:** IEEE Networking Letters
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1109/LNET.2023.3262861
+   - **Scopus ID:** 2-s2.0-85192868853
+   - **eISSN:** 25763156
+   - **Volume:** 5
+   - **Issue:** 3
+   - **Pages:** 173-176
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Lombardo Chiara; Siccardi Beatrice
+   - **Keywords:** 6G enablers | carbon neutrality | edge computing | green networking
+   - **Quartile:**
+     2025:
+     - Communication (Q1, rank 52, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 241, percentile 75)
+     - Information Systems (Q2, rank 141, percentile 71)
+     - Hardware and Architecture (Q2, rank 72, percentile 69)
+   - **Source Id:** 21101259094
+   - **Author Ids:** 7006403406;8555973600;50061523000;57976887200
+   - **Authoraffiliationids:** 60025153;60025153;124426043;60025153
+   - **Corresponding:** Bolla R.
+12.
+   - **Title:** Adaptive Reliability for the Automated Control of Human-Robot Collaboration in Beyond-5G Networks
+   - **Venue:** IEEE Transactions on Network and Service Management
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1109/TNSM.2023.3298171
+   - **Scopus ID:** 2-s2.0-85165932500
+   - **eISSN:** 19324537
+   - **Volume:** 20
+   - **Issue:** 3
+   - **Pages:** 2489-2503
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Davoli Franco; Lombardo Chiara; Mohammadpour Alireza; Trivisonno Riccardo; Poe Wint Yi
+   - **Keywords:** B5G | HRC | Industry 40 | reliability
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 95, percentile 90)
+     - Computer Networks and Communications (Q1, rank 57, percentile 89)
+     2023:
+     - Electrical and Electronic Engineering (Q1, rank 106, percentile 86)
+     - Computer Networks and Communications (Q1, rank 55, percentile 86)
+   - **Source Id:** 7200153156
+   - **Author Ids:** 7006403406;8555973600;57220364548;50061523000;57189469624;8251302400;35422814700
+   - **Authoraffiliationids:** 60025153-130373351;60025153-130373351;60025153-130373351;60025153-130373351;130373351;60119364;60119364
+   - **Corresponding:** Bolla R.
+13.
+   - **Title:** An Open-Source Prototype of Network Data Analytics Function for Next-Generation 5/6G Environments
+   - **Venue:** 2023 IEEE Globecom Workshops GC Wkshps 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/GCWkshps58843.2023.10465014
+   - **Scopus ID:** 2-s2.0-85190260259
+   - **Pages:** 720-725
+   - **Authors:** Bolla Raffaele; Lombardo Chiara; Bono Paolo; Martinelli Nicole Simone; Bruschi Roberto; Siccardi Beatrice
+   - **Keywords:** 5G | monitoring | NWDAF | open-source
+   - **Source Id:** 21101214471
+   - **Author Ids:** 7006403406;50061523000;58983549900;58723294800;8555973600;57976887200
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+14.
+   - **Title:** A Packet Delay Emulator for High-Bandwidth and Low-Latency Traffic in 5G Networks
+   - **Venue:** Proceedings IEEE Global Communications Conference Globecom
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/GLOBECOM54140.2023.10437664
+   - **Scopus ID:** 2-s2.0-85187394200
+   - **ISSN:** 23340983
+   - **eISSN:** 25766813
+   - **Pages:** 2843-2849
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Davoli Franco; Lombardo Chiara; Mohammadpour Alireza; Rabbanil Ramin
+   - **Keywords:** 5G networks | Network performance testing | Packet delay emulation
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 90, percentile 54)
+     - Computer Networks and Communications (Q2, rank 260, percentile 52)
+     - Artificial Intelligence (Q3, rank 262, percentile 47)
+     - Hardware and Architecture (Q3, rank 129, percentile 45)
+   - **Source Id:** 21101199922
+   - **Author Ids:** 7006403406;8555973600;57220364548;50061523000;57189469624;58930940400
+   - **Authoraffiliationids:** 60103966-60025153;60103966-60025153;60103966-60025153;60103966-60025153;60103966-60025153;60025153
+   - **Corresponding:** Bolla R.
+15.
+   - **Title:** Analyzing the Power Consumption in Cloud-Native 5/6G Ecosystems
+   - **Venue:** 2023 IEEE International Conference on Communications Workshops Sustainable Communications for Renaissance Icc Workshops 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICCWorkshops57953.2023.10283755
+   - **Scopus ID:** 2-s2.0-85177839957
+   - **Pages:** 611-617
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Davoli Franco; Lombardo Chiara; Martinelli Nicole Simone
+   - **Keywords:** 5/6G | containerization | energy efficiency
+   - **Source Id:** 21101188702
+   - **Author Ids:** 7006403406;8555973600;57220364548;50061523000;58723294800
+   - **Authoraffiliationids:** 60103966-60025153;60103966-60025153;60103966-60025153;60103966;60025153
+   - **Corresponding:** Bolla R.
+16.
+   - **Title:** Intent-Driven Distributed Applications Management Over Compute and Network Resources in the Computing Continuum
+   - **Venue:** Proceedings 19th International Conference on Distributed Computing in Smart Systems and the Internet of Things Dcoss Iot 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/DCOSS-IoT58021.2023.00074
+   - **Scopus ID:** 2-s2.0-85174385000
+   - **Pages:** 429-436
+   - **Authors:** Zafeiropoulos Anastasios; Fotopoulou Eleni; Vassilakis Constantinos; Tzanettis Ioannis; Lombardo Chiara; Carrega Alesssandro; Bruschi Roberto
+   - **Keywords:** computing continuum | distributed applications | intent-driven orchestration | network operating support system | system of systems
+   - **Source Id:** 21101183572
+   - **Author Ids:** 24333644200;8727584800;55627877790;57480145000;50061523000;36633941300;8555973600
+   - **Authoraffiliationids:** 60104215;60002947;60002947;60002947;124426043;124426043;124426043
+   - **Corresponding:** Zafeiropoulos A.
+17.
+   - **Title:** Machine-Learning-Based 5G Network Function Scaling via Black- and White-Box KPIs
+   - **Venue:** 2023 21st Mediterranean Communication and Computer Networking Conference Medcomnet 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/MedComNet58619.2023.10168859
+   - **Scopus ID:** 2-s2.0-85166220059
+   - **Pages:** 143-150
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Davoli Franco; Lombardo Chiara; Pajo Jane Frances; Siccardi Beatrice
+   - **Keywords:** 5G | Machine Learning | Network Management | SMF.
+   - **Source Id:** 21101168857
+   - **Author Ids:** 7006403406;8555973600;57220364548;50061523000;57189657677;57976887200
+   - **Authoraffiliationids:** 60025153;60025153;60025153;124426043;60080173;60025153
+   - **Corresponding:** Bolla R.
+18.
+   - **Title:** A Multi-Tenant System for 5/6G Testbed as-a-Service
+   - **Venue:** 2023 15th International Conference on Communication Systems and Networks Comsnets 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/COMSNETS56262.2023.10041360
+   - **Scopus ID:** 2-s2.0-85149117837
+   - **Pages:** 768-773
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Lombardo Chiara; Mangialardi Sergio; Mohammadpour Alireza; Rabbani Ramin; Siccardi Beatrice
+   - **Keywords:** 5G | NFV | Testbed
+   - **Source Id:** 21101138308
+   - **Author Ids:** 7006403406;8555973600;50061523000;35079191900;57189469624;58122114400;57976887200
+   - **Authoraffiliationids:** 60025153;60025153;60103966;60103966;60103966;60025153;60025153
+   - **Corresponding:** Bolla R.
+19.
+   - **Title:** Multi-Site Resource Allocation in a QoS-Aware 5G Infrastructure
+   - **Venue:** IEEE Transactions on Network and Service Management
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1109/TNSM.2022.3151468
+   - **Scopus ID:** 2-s2.0-85124835760
+   - **eISSN:** 19324537
+   - **Volume:** 19
+   - **Issue:** 3
+   - **Pages:** 2034-2047
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Davoli Franco; Lombardo Chiara; Pajo Jane Frances
+   - **Keywords:** 5G | multi-site resource allocation | network slicing | OSS microservices | resource selection | vertical applications%
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 95, percentile 90)
+     - Computer Networks and Communications (Q1, rank 57, percentile 89)
+     2022:
+     - Electrical and Electronic Engineering (Q1, rank 116, percentile 84)
+     - Computer Networks and Communications (Q1, rank 64, percentile 83)
+   - **Source Id:** 7200153156
+   - **Author Ids:** 7006403406;8555973600;57220364548;50061523000;57189657677
+   - **Authoraffiliationids:** 60025153-128756286;60025153-128756286;60025153-128756286;124426043;60080173
+   - **Corresponding:** Bolla R.
+20.
+   - **Title:** An AI Framework for Fostering 6G towards Energy Efficiency
+   - **Venue:** 2022 61st Fitce International Congress Future Telecommunications Infrastructure and Sustainability Fitce 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.23919/FITCE56290.2022.9934697
+   - **Scopus ID:** 2-s2.0-85142415668
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Davoli Franco; Ivaldi Lorenzo; Lombardo Chiara; Siccardi Beatrice
+   - **Keywords:** Artificial Intelligence | B5G | Edge Computing | Green Networking
+   - **Source Id:** 21101121711
+   - **Author Ids:** 7006403406;8555973600;57220364548;57863161300;50061523000;57976887200
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;124426043;60025153-124426043
+   - **Corresponding:** Bolla R.
+21.
+   - **Title:** A Digital Twin for the 5G Era: the SPIDER Cyber Range
+   - **Venue:** Proceedings 2022 IEEE 23rd International Symposium on A World of Wireless Mobile and Multimedia Networks Wowmom 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 22
+   - **DOI:** 10.1109/WoWMoM54355.2022.00088
+   - **Scopus ID:** 2-s2.0-85137106007
+   - **Pages:** 567-572
+   - **Authors:** Rebecchi Filippo; Pastor Antonio; Mozo Alberto; Lombardo Chiara; Bruschi Roberto; Aliferis Ilias; Doriguzzi-Corin Roberto; Gouvas Panagiotis; Romero Antonio Alvarez; Angelogianni Anna; Politis Ilias; Xenakis Christos
+   - **Keywords:** 5G | Cyber Range | Digital Twin
+   - **Source Id:** 21101104984
+   - **Author Ids:** 56323830900;57210395292;24479201000;50061523000;8555973600;57870100900;55890859500;55887996800;57201070150;57205630248;55946579200;6602256607
+   - **Authoraffiliationids:** 125506716;60010156;60028442;60103966;60103966;117280711;60083112;60159730;120334099;60010667;60010667;60010667
+   - **Corresponding:** Rebecchi F.
+22.
+   - **Title:** Trading off Power Consumption and Delay in the Execution of Network Functions by Dynamic Activation of Processing Units
+   - **Venue:** Proceedings of the 2022 IEEE International Conference on Network Softwarization Network Softwarization Coming of Age New Challenges and Opportunities Netsoft 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/NetSoft54395.2022.9844039
+   - **Scopus ID:** 2-s2.0-85136797445
+   - **Pages:** 1-6
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Carrega Alessandro; Davoli Franco; Lombardo Chiara
+   - **Keywords:** Energy efficiency | hardware offloading | MEC
+   - **Source Id:** 21101104270
+   - **Author Ids:** 7006403406;8555973600;36633941300;57220364548;50061523000
+   - **Authoraffiliationids:** 60025153-60103966;60025153-60103966;60025153;60025153-60103966;60103966
+   - **Corresponding:** Bolla R.
+23.
+   - **Title:** A Zero-Touch as-a-Service Active Monitoring Framework for Virtualized Network Environments
+   - **Venue:** Proceedings of the 2022 IEEE International Conference on Network Softwarization Network Softwarization Coming of Age New Challenges and Opportunities Netsoft 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/NetSoft54395.2022.9844069
+   - **Scopus ID:** 2-s2.0-85136781273
+   - **Pages:** 103-108
+   - **Authors:** Mohammadpour Alireza; Lombardo Chiara; Bolla Raffaele; Bruschi Roberto; Davoli Franco; Ivaldi Lorenzo
+   - **Keywords:** 5G | network performance | NFV | Traffic generator
+   - **Source Id:** 21101104270
+   - **Author Ids:** 57189469624;50061523000;7006403406;8555973600;57220364548;57863161300
+   - **Authoraffiliationids:** 124426043;124426043;124426043-60025153;124426043-60025153;124426043-60025153;124426043
+   - **Corresponding:** Mohammadpour A.
+24.
+   - **Title:** Adaptive network reliability for human-robot interaction in beyond 5G industrial applications
+   - **Venue:** 2022 18th International Conference on the Design of Reliable Communication Networks Drcn 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/DRCN53993.2022.9758009
+   - **Scopus ID:** 2-s2.0-85129603834
+   - **Authors:** Borsatti Davide; Davoli Gianluca; Lombardo Chiara; Selvi Daniela; Bruschi Roberto; Cerroni Walter; Davoli Franco; Raffaelli Carla; Trivisonno Riccardo; Bolla Raffaele
+   - **Keywords:** Beyond 5G | Human-Robot Collaboration | Industry 4.0 | Reliability
+   - **Source Id:** 21101088300
+   - **Author Ids:** 57205651942;57195625242;50061523000;55512695700;8555973600;6507691078;57220364548;35463126100;8251302400;7006403406
+   - **Authoraffiliationids:** 126012315-60028218;126012315-60028218;126012315-124426043;126012315-60028218;126012315-60025153;126012315-60028218;126012315-60025153;126012315-60028218;60119364;126012315-60025153
+   - **Corresponding:** Borsatti D.
+25.
+   - **Title:** Managing 5G network slicing and edge computing with the MATILDA telecom layer platform
+   - **Venue:** Computer Networks
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 19
+   - **DOI:** 10.1016/j.comnet.2021.108090
+   - **Scopus ID:** 2-s2.0-85104916999
+   - **ISSN:** 13891286
+   - **Volume:** 194
+   - **Authors:** Bruschi Roberto; Pajo Jane Frances; Davoli Franco; Lombardo Chiara
+   - **Keywords:** 5G | Edge computing | Quality of service | Virtual network functions
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 96, percentile 82)
+     2021:
+     - Computer Networks and Communications (Q1, rank 35, percentile 90)
+   - **Source Id:** 26811
+   - **Author Ids:** 8555973600;57189657677;57220364548;50061523000
+   - **Authoraffiliationids:** 60025153;60080173;60025153;60103966
+   - **Corresponding:** Bruschi R.
+26.
+   - **Title:** From Cloud-Native to 5G-Ready Vertical Applications: An Industry 4.0 Use Case
+   - **Venue:** IEEE International Conference on High Performance Switching and Routing Hpsr
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/HPSR52026.2021.9481826
+   - **Scopus ID:** 2-s2.0-85113857359
+   - **ISSN:** 23255595
+   - **eISSN:** 23255609
+   - **Volume:** 2021-June
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Burow Kay; Davoli Franco; Ghrairi Zied; Gouvas Panagiotis; Lombardo Chiara; Frances Pajo Jane; Zafeiropoulos Anastasios
+   - **Keywords:** 5G | Industry 4.0 | slicing
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 544, percentile 45)
+     - Hardware and Architecture (Q3, rank 146, percentile 37)
+   - **Source Id:** 21100269622
+   - **Author Ids:** 7006403406;8555973600;55846230800;57220364548;53877523300;55887996800;50061523000;57189657677;24333644200
+   - **Authoraffiliationids:** 60025153;60025153;60008293;60025153-60103966;60008293;60159730;60103966;60080173;60002947
+   - **Corresponding:** Bolla R.
+27.
+   - **Title:** AI-powered Infrastructures for Intelligence and Automation in Beyond-5G Systems
+   - **Venue:** 2021 IEEE Globecom Workshops GC Wkshps 2021 Proceedings
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/GCWkshps52748.2021.9682117
+   - **Scopus ID:** 2-s2.0-85126123155
+   - **Authors:** Militano Leonardo; Zafeiropoulos Anastasios; Fotopoulou Eleni; Bruschi Roberto; Lombardo Chiara; Edmonds Andy; Papavassiliou Symeon
+   - **Keywords:** 6G systems | Artificial Intelligence | Automation | Edge Computing | Federated Learning | Reinforcement Learning
+   - **Source Id:** 21101080175
+   - **Author Ids:** 34870198400;24333644200;8727584800;8555973600;50061523000;53363396200;23567140500
+   - **Authoraffiliationids:** 60015769;60104215;60104215;60025153;124426043;127828446;60104215
+   - **Corresponding:** Militano L.
+28.
+   - **Title:** Validation of IaaS-based technologies for 5G-ready applications deployment
+   - **Venue:** 2020 European Conference on Networks and Communications Eucnc 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/EuCNC48522.2020.9200926
+   - **Scopus ID:** 2-s2.0-85093831642
+   - **Pages:** 46-51
+   - **Authors:** Bruschi Roberto; Davoli Franco; Bravo Fernando Diaz; Lombardo Chiara; Mangialardi Sergio; Pajo Jane Frances
+   - **Keywords:** 5G Testbed | Edge Computing | Network Functions Virtualization
+   - **Source Id:** 21101023671
+   - **Author Ids:** 8555973600;57220364548;57205527684;50061523000;35079191900;57189657677
+   - **Authoraffiliationids:** 60025153;60103966;;60103966;60103966;60025153-60103966
+   - **Corresponding:** Bruschi R.
+29.
+   - **Title:** Debunking the 'Green' NFV Myth: An assessment of the virtualization sustainability in radio access networks
+   - **Venue:** Proceedings of the 2020 IEEE Conference on Network Softwarization Bridging the Gap Between AI and Network Softwarization Netsoft 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/NetSoft48620.2020.9165481
+   - **Scopus ID:** 2-s2.0-85091972218
+   - **Pages:** 180-184
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Davoli Franco; Lombardo Chiara; Pajo Jane Frances
+   - **Keywords:** C-RAN | NFV | Power consumption | TCO
+   - **Source Id:** 21101022771
+   - **Author Ids:** 7006403406;8555973600;57220364548;50061523000;57189657677
+   - **Authoraffiliationids:** 60103966-60025153;60025153;60103966-60025153;60103966;60103966-60025153
+   - **Corresponding:** Bolla R.
+30.
+   - **Title:** Enabling edge computing deployment in 4G and beyond
+   - **Venue:** Proceedings of the 2020 IEEE Conference on Network Softwarization Bridging the Gap Between AI and Network Softwarization Netsoft 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/NetSoft48620.2020.9165384
+   - **Scopus ID:** 2-s2.0-85091964896
+   - **Pages:** 237-241
+   - **Authors:** Bruschi Roberto; Davoli Franco; Lamanna Guerino; Lombardo Chiara; Mangialardi Sergio; Pajo Jane Frances
+   - **Keywords:** 5G | Edge Computing | Quality of Service | Virtual Network Functions
+   - **Source Id:** 21101022771
+   - **Author Ids:** 8555973600;57220364548;35324928200;50061523000;35079191900;57189657677
+   - **Authoraffiliationids:** 60025153;60025153-60103966;113110590;60103966;60103966;60025153-60103966
+   - **Corresponding:** Bruschi R.
+31.
+   - **Title:** SDN&NFV contribution to IoT objects virtualization
+   - **Venue:** Computer Networks
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 34
+   - **DOI:** 10.1016/j.comnet.2018.11.030
+   - **Scopus ID:** 2-s2.0-85058181863
+   - **ISSN:** 13891286
+   - **Volume:** 149
+   - **Pages:** 200-212
+   - **Authors:** Atzori L.; Bellido J. L.; Bolla R.; Genovese G.; Iera A.; Jara A.; Lombardo C.; Morabito G.
+   - **Keywords:** Internet of Things | Mobile Edge Computing | Network functions virtualization | Virtual Object
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 96, percentile 82)
+     2019:
+     - Computer Networks and Communications (Q1, rank 33, percentile 89)
+   - **Source Id:** 26811
+   - **Author Ids:** 57208011473;57204965614;7006403406;57200212895;7007176996;35113243800;50061523000;7004480329
+   - **Authoraffiliationids:** 60103966-60032259;118563131;60025153-60103966;60103966-60020167;60103966-60020167;118563131;60025153-60103966;60103966-60010146
+   - **Corresponding:** Atzori L.
+32.
+   - **Title:** Personal Services Placement and Low-Latency Migration in Edge Computing Environments
+   - **Venue:** 2018 IEEE Conference on Network Function Virtualization and Software Defined Networks Nfv Sdn 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/NFV-SDN.2018.8725635
+   - **Scopus ID:** 2-s2.0-85067546934
+   - **Authors:** Bruschi R.; Davoli F.; Lago P.; Lombardo C.; Pajo J. F.
+   - **Keywords:** MEC | NFV | SDN | Service Placement
+   - **Source Id:** 21100913129
+   - **Author Ids:** 8555973600;57220364548;55757292600;50061523000;57189657677
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bruschi R.
+33.
+   - **Title:** Evaluating the Impact of Micro-Data Center (μDC) Placement in an Urban Environment
+   - **Venue:** 2018 IEEE Conference on Network Function Virtualization and Software Defined Networks Nfv Sdn 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/NFV-SDN.2018.8725627
+   - **Scopus ID:** 2-s2.0-85061680318
+   - **Authors:** Bruschi R.; Davoli F.; Lombardo C.; Sanchez O. R.
+   - **Keywords:** 5G | PON | User Mobility | μDC
+   - **Source Id:** 21100913129
+   - **Author Ids:** 8555973600;57220364548;50061523000;57193711034
+   - **Authoraffiliationids:** 121101656;60025153;60025153;60025153
+   - **Corresponding:** Bruschi R.
+34.
+   - **Title:** Orchestration and Monitoring in Fog Computing for Personal Edge Cloud Service Support
+   - **Venue:** IEEE Workshop on Local and Metropolitan Area Networks
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/LANMAN.2018.8475113
+   - **Scopus ID:** 2-s2.0-85055822267
+   - **ISSN:** 19440367
+   - **eISSN:** 19440375
+   - **Volume:** 2018-June
+   - **Pages:** 91-96
+   - **Authors:** Wamser Florian; Lombardo Chiara; Vassilakis Constantinos; Dinh-Xuan Lam; Lago Paolo; Bruschi Roberto; Tran-Gia Phuoc
+   - **Quartile:**
+     2025:
+     - Communication (Q2, rank 254, percentile 52)
+     - Computer Networks and Communications (Q3, rank 360, percentile 34)
+     - Electrical and Electronic Engineering (Q3, rank 663, percentile 33)
+     - Software (Q4, rank 388, percentile 22)
+   - **Source Id:** 21100197335
+   - **Author Ids:** 35147107800;50061523000;55627877790;57074119000;55757292600;8555973600;7003867855
+   - **Authoraffiliationids:** 60012689;60103966;60159730;60012689;60103966;60103966;60012689
+   - **Corresponding:** Wamser F.
+35.
+   - **Title:** An SDN/NFV platform for personal cloud services
+   - **Venue:** IEEE Transactions on Network and Service Management
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 30
+   - **DOI:** 10.1109/TNSM.2017.2761860
+   - **Scopus ID:** 2-s2.0-85031783011
+   - **ISSN:** 19324537
+   - **Volume:** 14
+   - **Issue:** 4
+   - **Pages:** 1143-1156
+   - **Authors:** Bruschi Roberto; Davoli Franco; Lago Paolo; Lombardo Alfio; Lombardo Chiara; Rametta Corrado; Schembra Giovanni
+   - **Keywords:** Fog computing | Home entertainment | Network softwarization | NFV | Personal cloud services | SDN | Service chains
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 95, percentile 90)
+     - Computer Networks and Communications (Q1, rank 57, percentile 89)
+     2017:
+     - Electrical and Electronic Engineering (Q1, rank 88, percentile 86)
+     - Computer Networks and Communications (Q1, rank 41, percentile 85)
+   - **Source Id:** 7200153156
+   - **Author Ids:** 8555973600;57220364548;55757292600;7101813955;50061523000;35318354500;7003865210
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60010146;60010146;60010146
+   - **Corresponding:** Bruschi R.
+36.
+   - **Title:** OpenStack Extension for Fog-Powered Personal Services Deployment
+   - **Venue:** Proceedings of the 29th International Teletraffic Congress Itc 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.23919/ITC.2017.8065705
+   - **Scopus ID:** 2-s2.0-85040251654
+   - **Volume:** 2
+   - **Pages:** 19-23
+   - **Authors:** Bruschi Roberto; Genovese Giacomo; Iera Antonio; Lago Paolo; Lamanna Guerino; Lombardo Chiara; Mangialardi Sergio
+   - **Keywords:** Fog computing | IoT | OpenStack | PaaS | Service Migration
+   - **Source Id:** 21100795279
+   - **Author Ids:** 8555973600;57200212895;7007176996;55757292600;35324928200;50061523000;35079191900
+   - **Authoraffiliationids:** 60103966;60103966;60103966-60020167;60103966-114775333;60025153;60103966-114775333;60103966
+   - **Corresponding:** Bruschi R.
+37.
+   - **Title:** The dark side of network functions virtualization: A perspective on the technological sustainability
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1109/ICC.2017.7997129
+   - **Scopus ID:** 2-s2.0-85028350558
+   - **ISSN:** 15503607
+   - **Authors:** Bolla R.; Bruschi R.; Davoli F.; Lombardo C.; Pajo J. F.; Sanchez O. R.
+   - **Keywords:** Carbon Footprint | Energy Efficiency | NFV | SGW | vEPC
+   - **Source Id:** 33201
+   - **Author Ids:** 7006403406;8555973600;57220364548;50061523000;57189657677;57193711034
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+38.
+   - **Title:** Virtualization of set-top-box devices in next generation SDN-NFV networks: The INPUT project perspective
+   - **Venue:** ACM International Conference Proceeding Series
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1145/3018896.3152304
+   - **Scopus ID:** 2-s2.0-85044648037
+   - **Authors:** Bruschi R.; Davoli F.; Galluccio L.; Lago P.; Lombardo A.; Lombardo C.; Rametta C.; Schembra G.
+   - **Keywords:** Cloud Services | Device Softwarization | Fog-computing | Network Functions Virtualization | Software Defined Networking
+   - **Source Id:** 11600154611
+   - **Author Ids:** 8555973600;57220364548;55890825500;55757292600;7101813955;50061523000;35318354500;7003865210
+   - **Authoraffiliationids:** 60103966;101612454;60010146;60103966;60010146;60103966;60010146;60010146
+   - **Corresponding:** Bruschi R.
+39.
+   - **Title:** OpenVolcano: An Open-Source Software Platform for Fog Computing
+   - **Venue:** Proceedings of the 28th International Teletraffic Congress Itc 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 22
+   - **DOI:** 10.1109/ITC-28.2016.212
+   - **Scopus ID:** 2-s2.0-85013053949
+   - **Volume:** 2
+   - **Pages:** 22-27
+   - **Authors:** Bruschi R.; Lago P.; Lamanna G.; Lombardo C.; Mangialardi S.
+   - **Keywords:** fog computing | NFV | personal cloud services | SDN
+   - **Source Id:** 21100795279
+   - **Author Ids:** 8555973600;55757292600;35324928200;50061523000;35079191900
+   - **Authoraffiliationids:** 60025153;60025153;114775333;60025153;60025153
+   - **Corresponding:** Bruschi R.
+40.
+   - **Title:** Standard methodologies for energy efficiency assessment
+   - **Venue:** Green Communications Theoretical Fundamentals Algorithms and Applications
+   - **Year:** 2016
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-84971329349
+   - **Pages:** 83-102
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Lombardo Chiara
+   - **Source Id:** 21100873129
+   - **Author Ids:** 7006403406;8555973600;50061523000
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+41.
+   - **Title:** The expected impact of smart devices visualization
+   - **Venue:** 2016 International Conference on Computing Networking and Communications Icnc 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICCNC.2016.7440551
+   - **Scopus ID:** 2-s2.0-84966470687
+   - **Authors:** Bolla Raffaele; Davoli Franco; Lombardo Chiara; Masullo Laura; Bruschi Roberto
+   - **Keywords:** energy efficiency evaluation | power management | SDN
+   - **Source Id:** 21100457373
+   - **Author Ids:** 7006403406;57220364548;50061523000;57189243988;8555973600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+42.
+   - **Title:** In-Network Programmability for Next-generation Personal Cloud Service Support (INPUT)
+   - **Venue:** Procedia Computer Science
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1016/j.procs.2016.08.286
+   - **Scopus ID:** 2-s2.0-84998886338
+   - **eISSN:** 18770509
+   - **Volume:** 97
+   - **Pages:** 114-117
+   - **Authors:** Bruschi Roberto; Lago Paolo; Lombardo Chiara
+   - **Keywords:** Cloud services | Personal Networks | SDN | Virtualization
+   - **Quartile:**
+     2025:
+     - Computer Science (all) (Q2, rank 107, percentile 55)
+     2016:
+     - Computer Science (all) (Q3, rank 103, percentile 47)
+   - **Source Id:** 19700182801
+   - **Author Ids:** 8555973600;55757292600;50061523000
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bruschi R.
+43.
+   - **Title:** Fine-Grained Energy-Efficient Consolidation in SDN Networks and Devices
+   - **Venue:** IEEE Transactions on Network and Service Management
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 34
+   - **DOI:** 10.1109/TNSM.2015.2431074
+   - **Scopus ID:** 2-s2.0-84933530281
+   - **ISSN:** 19324537
+   - **Volume:** 12
+   - **Issue:** 2
+   - **Pages:** 132-145
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Davoli Franco; Lombardo Chiara
+   - **Keywords:** consolidation | green abstraction layer | network management | orchestration | software defined networks
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 95, percentile 90)
+     - Computer Networks and Communications (Q1, rank 57, percentile 89)
+     2015:
+     - Electrical and Electronic Engineering (Q1, rank 79, percentile 88)
+     - Computer Networks and Communications (Q1, rank 36, percentile 84)
+   - **Source Id:** 7200153156
+   - **Author Ids:** 7006403406;8555973600;57220364548;50061523000
+   - **Authoraffiliationids:** 60025153-60103966;60103966;60025153-60103966;60025153-60103966
+   - **Corresponding:** Bolla R.
+44.
+   - **Title:** Green extension of OpenFlow
+   - **Venue:** 2014 26th International Teletraffic Congress Itc 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/ITC.2014.6932957
+   - **Scopus ID:** 2-s2.0-84912055337
+   - **Authors:** Bruschi Roberto; Lombardo Alfio; Morabito Giacomo; Riccobene Vincenzo; Bolla Raffaele; Davoli Franco; Lombardo Chiara
+   - **Keywords:** network programmability | SDN power management
+   - **Source Id:** 21100348533
+   - **Author Ids:** 8555973600;7101813955;7004480329;55557239100;7006403406;57220364548;50061523000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bruschi R.
+45.
+   - **Title:** OpenFlow in the small: A flexible and efficient network acceleration framework for multi-core systems
+   - **Venue:** IEEE Transactions on Network and Service Management
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1109/TNSM.2014.2346078
+   - **Scopus ID:** 2-s2.0-84959525247
+   - **ISSN:** 19324537
+   - **Volume:** 11
+   - **Issue:** 3
+   - **Pages:** 390-404
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Lombardo Chiara; Podda Fabio
+   - **Keywords:** Network processors | Network programmability | OpenFlow
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 95, percentile 90)
+     - Computer Networks and Communications (Q1, rank 57, percentile 89)
+     2014:
+     - Electrical and Electronic Engineering (Q1, rank 128, percentile 80)
+     - Computer Networks and Communications (Q2, rank 57, percentile 74)
+   - **Source Id:** 7200153156
+   - **Author Ids:** 7006403406;8555973600;50061523000;55978967400
+   - **Authoraffiliationids:** 60025153;60103966;60025153;60025153
+   - **Corresponding:** Bolla R.
+46.
+   - **Title:** DROPv2: Energy efficiency through network function virtualization
+   - **Venue:** IEEE Network
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 37
+   - **DOI:** 10.1109/MNET.2014.6786610
+   - **Scopus ID:** 2-s2.0-84898940967
+   - **ISSN:** 08908044
+   - **Volume:** 28
+   - **Issue:** 2
+   - **Pages:** 26-32
+   - **Authors:** Bolla Raffaele; Lombardo Chiara; Bruschi Roberto; Mangialardi Sergio
+   - **Quartile:**
+     2025:
+     - Hardware and Architecture (Q1, rank 11, percentile 95)
+     - Computer Networks and Communications (Q1, rank 31, percentile 94)
+     - Software (Q1, rank 37, percentile 92)
+     - Information Systems (Q1, rank 42, percentile 91)
+     2014:
+     - Hardware and Architecture (Q1, rank 3, percentile 98)
+     - Computer Networks and Communications (Q1, rank 6, percentile 97)
+     - Information Systems (Q1, rank 9, percentile 96)
+     - Software (Q1, rank 15, percentile 96)
+   - **Source Id:** 27239
+   - **Author Ids:** 7006403406;50061523000;8555973600;35079191900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+47.
+   - **Title:** EE-DROP: An energy-aware router prototype
+   - **Venue:** 2013 24th Tyrrhenian International Workshop on Digital Communications Green ICT Tiwdc 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/TIWDC.2013.6664213
+   - **Scopus ID:** 2-s2.0-84892407039
+   - **Authors:** Bolla R.; Bruschi R.; Chiappero M.; D'Agostino L.; Lago P.; Lombardo C.; Mangialardi S.; Podda F.
+   - **Keywords:** distributed router architecture | energy efficiency | open source SW
+   - **Source Id:** 21100283368
+   - **Author Ids:** 7006403406;8555973600;56585796800;57198343534;55757292600;50061523000;35079191900;55978967400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;113110590;60025153;60025153;60025153;60121711
+   - **Corresponding:** Bolla R.
+48.
+   - **Title:** OpenFlow in the small
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICC.2013.6655094
+   - **Scopus ID:** 2-s2.0-84891352399
+   - **ISSN:** 15503607
+   - **Pages:** 3509-3513
+   - **Authors:** Bolla Raffaele; Lombardo Chiara; Bruschi Roberto; Podda Fabio
+   - **Keywords:** Network Processors | Network Programmability | OpenFlow
+   - **Source Id:** 33201
+   - **Author Ids:** 7006403406;50061523000;8555973600;55978967400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+49.
+   - **Title:** The low energy consumption networks (ECONET) project
+   - **Venue:** 2012 Sustainable Internet and ICT for Sustainability Sustainit 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-84872412612
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Davoli Franco; Di Gregorio Lorenzo; Giacomello Luca; Lombardo Chiara; Parladori Giorgio; Strugo Nir; Zafeiropoulos Anastasios
+   - **Keywords:** energy efficiency | green networking | wire-line networks
+   - **Source Id:** 21100226430
+   - **Author Ids:** 7006403406;8555973600;57220364548;35190246800;6602704595;50061523000;6508015216;55557914800;24333644200
+   - **Authoraffiliationids:** 60025153;60025153;60025153;113339369;60023916;60025153;60026638;60076695;101742284
+   - **Corresponding:** Bolla R.
+50.
+   - **Title:** Dynamic voltage and frequency scaling in parallel network processors
+   - **Venue:** 2012 IEEE 13th International Conference on High Performance Switching and Routing Hpsr 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/HPSR.2012.6260857
+   - **Scopus ID:** 2-s2.0-84866913799
+   - **Pages:** 242-249
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Lombardo Chiara
+   - **Keywords:** adaptive rate | green networking | low power idle
+   - **Source Id:** 21100216950
+   - **Author Ids:** 7006403406;8555973600;50061523000
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bolla R.
+51.
+   - **Title:** Evaluating the energy-awareness of future Internet devices
+   - **Venue:** 2011 IEEE 12th International Conference on High Performance Switching and Routing Hpsr 2011
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/HPSR.2011.5986001
+   - **Scopus ID:** 2-s2.0-80052777111
+   - **Pages:** 36-43
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Lombardo Chiara; Suino Diego
+   - **Keywords:** benchmarking methodologies | energy-efficiency evaluation | green networking
+   - **Source Id:** 19900193952
+   - **Author Ids:** 7006403406;8555973600;50061523000;7801389022
+   - **Authoraffiliationids:** 60025153;60103966;60025153;60023916
+   - **Corresponding:** Bolla R.
+52.
+   - **Title:** State of the art of existing standards for the evaluation of network performance and energy consumption
+   - **Venue:** Proceedings of the 2011 International Symposium on Performance Evaluation of Computer and Telecommunication Systems Spects 2011
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-80052617782
+   - **Pages:** 62-68
+   - **Authors:** Bolla Raffaele; Bruschi Roberto; Lombardo Chiara
+   - **Keywords:** benchmarking methodologies | bursty traffic | energy-efficiency | green network technologies | power management capabilities
+   - **Source Id:** 19900193930
+   - **Author Ids:** 7006403406;8555973600;50061523000
+   - **Authoraffiliationids:** 60025153;60103966;60025153
+   - **Corresponding:** Bolla R.

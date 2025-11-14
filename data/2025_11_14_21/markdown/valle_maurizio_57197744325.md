@@ -1,0 +1,5408 @@
+# Valle Maurizio
+
+## Overview
+- **Unit:** ICT
+- **Role:** Professore ordinario
+- **Grade:** Prof.Ordinario Legge 240/10 - t.pieno - classe 2
+- **SSD:** IINF-01/A (Elettronica)
+- **Scopus ID:** 57197744325
+- **UNIGE ID:** 054045
+- **Retrieved at:** 2025-11-14T15:16:44.163945
+
+## Contact
+- **Email:** maurizio.valle@unige.it
+- **Phone:** +39 010 33 52775
+- **Page:** https://rubrica.unige.it/personale/VUZDW15s
+- **Locations:** Opera Pia - padiglione D (ED_161450401), 3° piano, US_161450401.III.012
+
+## Career
+- PA, 2012-05-01 → 2019-11-30
+- PO, 2019-12-01 → 2222-02-02
+
+## Responsibilities
+- **Title:** Coordinatore del dottorato di ricerca
+  - **Unit:** Dipartimento di ingegneria navale, elettrica, elettronica e delle telecomunicazioni - DITEN
+  - **Period:** 2023-11-01 → 2026-10-31
+
+- **Title:** Coordinatore del dottorato di ricerca
+  - **Unit:** Dipartimento di ingegneria navale, elettrica, elettronica e delle telecomunicazioni - DITEN
+  - **Period:** 2024-11-01 → 2027-10-31
+
+## Teaching
+### 2025
+- Digital Systems (114748), Lm-29 - Electronic Engineering
+- Electronic Devices (114745), Lm-29 - Electronic Engineering
+
+### 2024
+- Elettronica (72344), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Digital Systems (114748), Lm-29 - Electronic Engineering
+
+### 2023
+- Digital Systems (106773), Lm-29 - Ingegneria Elettronica
+- Elettronica (72344), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+
+### 2022
+- Microelectronics (106786), Lm-29 - Ingegneria Elettronica
+- Digital Systems (106773), Lm-29 - Ingegneria Elettronica
+- Elettronica (72344), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+
+### 2021
+- Digital Systems (106773), Lm-29 - Ingegneria Elettronica
+- Microelectronics (106786), Lm-29 - Ingegneria Elettronica
+
+### 2020
+- I.E.S. And Elect. Waves Mod.B (66150), Lm-29 - Ingegneria Elettronica
+- Microelectronics Mod. B (72446), Lm-29 - Ingegneria Elettronica
+- Distributed Electronic Systems And Technologies For Environmental Monitoring (94631), Lm-26 - Engineering For Natural Risk Management
+
+## Scopus Metrics
+- absolute; Docs: 264; Journals: 90; Conferences: 139; Citations: 5464; H-index: 31
+- 15 years (2010-2025); Docs: 183; Journals: 61; Conferences: 90; Citations: 4438; H-index: 25
+- 10 years (2015-2025); Docs: 138; Journals: 46; Conferences: 68; Citations: 1304; H-index: 20
+- 05 years (2020-2025); Docs: 73; Journals: 24; Conferences: 28; Citations: 467; H-index: 12
+
+## Scopus Products
+1.
+   - **Title:** Combining Neural Architecture Search and Weight Reshaping for Optimized Embedded Classifiers in Multisensory Glove
+   - **Venue:** Sensors
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3390/s25196142
+   - **Scopus ID:** 2-s2.0-105018909614
+   - **eISSN:** 14248220
+   - **Volume:** 25
+   - **Issue:** 19
+   - **Authors:** Al Youssef Hiba; Awada Sara; Raad Mohamad; Valle Maurizio; Ibrahim Ali
+   - **Keywords:** multisensory glove | Neural Architecture Search | quantization | weight reshaping
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+   - **Source Id:** 130124
+   - **Author Ids:** 57193087616;59706873900;55853578100;57197744325;57199654883
+   - **Authoraffiliationids:** 60112476-60025153;60112476;60112476;60025153;60112476
+   - **Corresponding:** Al Youssef H.
+2.
+   - **Title:** FPGA Implementation of a Convolutional Recurrent Neural Network for Real-Time Sensor Data Processing
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2025
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-71518-1_30
+   - **Scopus ID:** 2-s2.0-85216019993
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 1263 Lnee
+   - **Pages:** 258-265
+   - **Authors:** Testa Riccardo; Yaacoub Mohamad; Gianoglio Christian; Valle Maurizio
+   - **Keywords:** Artificial Skin | Field Programmable Gate Array (FPGA) | Tiny Machine Learning
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 58637653600;58763723900;56580140000;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Testa R.
+3.
+   - **Title:** On-Edge 1-D Convolutional Neural Network for Hand-Gesture Classification
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2025
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-71518-1_56
+   - **Scopus ID:** 2-s2.0-85216008557
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 1263 Lnee
+   - **Pages:** 462-467
+   - **Authors:** Shebly Daniella; Ali Haydar Al Haj; Yaacoub Mohamad; Chibli Hussein; Valle Maurizio; Gianoglio christian
+   - **Keywords:** embedded system | hand gestures recognition | Real-time classification
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 59526780600;57889924900;58763723900;59527648400;57197744325;56580140000
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60025153;60068774;60025153;60025153
+   - **Corresponding:** Shebly D.
+4.
+   - **Title:** Pilot Study: Experimental Analysis of PVDF Sensors Response to Slippage
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2025
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-71518-1_27
+   - **Scopus ID:** 2-s2.0-85215991833
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 1263 Lnee
+   - **Pages:** 238-243
+   - **Authors:** Khalifeh Razan; Gianoglio Christian; Abbass Yahya; Valle Maurizio
+   - **Keywords:** Object manipulation | PVDF sensors | slippage | tactile sensing system
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 59526819900;56580140000;57211312886;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Khalifeh R.
+5.
+   - **Title:** Investigating Cutaneous Mechanoreceptors for Neuromorphic Tactile Texture Classification
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2025
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-71518-1_55
+   - **Scopus ID:** 2-s2.0-85215987223
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 1263 Lnee
+   - **Pages:** 456-461
+   - **Authors:** Ali Haydar Al Haj; Abbass Yahya; Gianoglio Christian; Valle Maurizio
+   - **Keywords:** computational cost | mechanoreceptors | Tactile sensing system
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 57889924900;57211312886;56580140000;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Ali H.A.H.
+6.
+   - **Title:** A Case Study: FMG-based Gesture Recognition using High-Density Piezoelectric Electronic Skin and Machine Learning
+   - **Venue:** IEEE Sensors Letters
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/LSENS.2025.3624027
+   - **Scopus ID:** 2-s2.0-105019975852
+   - **eISSN:** 24751472
+   - **Authors:** Abbass Yahya; Montenegro Silvana Miranda; Egle Fabio; Saleh Moustafa; Valle Maurizio; Castellini Claudio
+   - **Keywords:** Force Myography (FMG) | gesture recognition | human-machine interfaces | piezoelectric sensors | wearable sensors
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q2, rank 70, percentile 63)
+     - Electrical and Electronic Engineering (Q2, rank 397, percentile 60)
+   - **Source Id:** 21100976671
+   - **Author Ids:** 57211312886;60157679500;57972143500;57204771075;57197744325;8957778700
+   - **Authoraffiliationids:** 60025153;60000765;60000765;60112476;60025153;60000765-60007798
+   - **Corresponding:** Abbass Y.
+7.
+   - **Title:** Real-Time Object Recognition Based on Parallel Ultra-Low-Power Microcontroller: A case study on Multisensory Glove
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ISCAS56072.2025.11044209
+   - **Scopus ID:** 2-s2.0-105010656392
+   - **ISSN:** 02714310
+   - **Authors:** Testa Riccardo; Yaacoub Mohamad; Gianoglio Christian; Valle Maurizio
+   - **Keywords:** latency | Machine learning | microcontroller | power consumption | wearable systems
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 58637653600;58763723900;56580140000;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Testa R.
+8.
+   - **Title:** Hardness and Texture Recognition based on PVDF Sensors and Embedded Machine Learning: A case study on Hannes prosthetic hand
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ISCAS56072.2025.11043586
+   - **Scopus ID:** 2-s2.0-105010647373
+   - **ISSN:** 02714310
+   - **Authors:** Khalifeh Razan; Abbass Yahya; Yaacoub Mohamad; Gentile Cosimo; Gruppioni Emanuele; Valle Maurizio
+   - **Keywords:** Hardness recognition | Machine learning | Prosthetic hand | PVDF sensors | Texture recognition
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 59526819900;57211312886;58763723900;57190120721;34167885100;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;100743990;100743990;60025153
+   - **Corresponding:** Khalifeh R.
+9.
+   - **Title:** Enhancing Motor Control and Feedback in Prosthetic Hands Through Piezoelectric Tactile Sensors: A Comprehensive Methodological Approach
+   - **Venue:** Biosystems and Biorobotics
+   - **Year:** 2025
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-85000-4_4
+   - **Scopus ID:** 2-s2.0-105002599793
+   - **ISSN:** 21953562
+   - **eISSN:** 21953570
+   - **Volume:** 34
+   - **Pages:** 15-18
+   - **Authors:** Bassal H.; Abbass Y.; Valle M.
+   - **Quartile:**
+     2025:
+     - Artificial Intelligence (Q4, rank 435, percentile 12)
+     - Mechanical Engineering (Q4, rank 663, percentile 9)
+     - Biomedical Engineering (Q4, rank 317, percentile 5)
+   - **Source Id:** 21100826748
+   - **Author Ids:** 59231473100;57211312886;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bassal H.
+10.
+   - **Title:** Data Glove System: Real-Time Resistance Classification with Embedded Machine Learning
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2025
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-84100-2_67
+   - **Scopus ID:** 2-s2.0-105000822312
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 1369 Lnee
+   - **Pages:** 563-570
+   - **Authors:** Yaacoub Mohamad; Vanlaeres Matthias; Shebly Daniella; Valle Maurizio; Gianoglio Christian
+   - **Keywords:** Data glove | machine learning (ML) | TinyML | wearable system
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 58763723900;59706037600;59526780600;57197744325;56580140000
+   - **Authoraffiliationids:** 60025153;60104653;60025153-60068774;60025153;60025153
+   - **Corresponding:** Yaacoub M.
+11.
+   - **Title:** Neuromorphic Tactile Sensing System for Textural Features Classification
+   - **Venue:** IEEE Sensors Journal
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1109/JSEN.2024.3382369
+   - **Scopus ID:** 2-s2.0-85189829907
+   - **ISSN:** 1530437X
+   - **eISSN:** 15581748
+   - **Volume:** 24
+   - **Issue:** 10
+   - **Pages:** 17193-17207
+   - **Authors:** Al Haj Ali Haydar; Abbass Yahya; Gianoglio Christian; Ibrahim Ali; Oh Changjae; Valle Maurizio
+   - **Keywords:** Gratings | recurrent spiking neural network (RSNN) | refractory period | spatiotemporal | tactile sensing system | textural features
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 27, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 175, percentile 82)
+     2024:
+     - Instrumentation (Q1, rank 20, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 143, percentile 85)
+   - **Source Id:** 15047
+   - **Author Ids:** 57889924900;57211312886;56580140000;57199654883;55391262000;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60112476-60025153;60022109;60025153
+   - **Corresponding:** Al Haj Ali H.
+12.
+   - **Title:** On Edge Human Action Recognition Using Radar-Based Sensing and Deep Learning
+   - **Venue:** IEEE Transactions on Industrial Informatics
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1109/TII.2023.3316164
+   - **Scopus ID:** 2-s2.0-85174843792
+   - **ISSN:** 15513203
+   - **eISSN:** 19410050
+   - **Volume:** 20
+   - **Issue:** 3
+   - **Pages:** 4160-4172
+   - **Authors:** Gianoglio Christian; Mohanna Ammar; Rizik Ali; Moroney Laurence; Valle Maurizio
+   - **Keywords:** Action recognition | deep neural networks (DNNs) | edge deployment | frequency-modulated continuous wave (FMCW) radar
+   - **Quartile:**
+     2025:
+     - Information Systems (Q1, rank 9, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 20, percentile 98)
+     - Computer Science Applications (Q1, rank 22, percentile 97)
+     - Control and Systems Engineering (Q1, rank 9, percentile 97)
+     2024:
+     - Control and Systems Engineering (Q1, rank 6, percentile 98)
+     - Information Systems (Q1, rank 8, percentile 98)
+     - Computer Science Applications (Q1, rank 16, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 19, percentile 98)
+   - **Source Id:** 144912
+   - **Author Ids:** 56580140000;57427666800;57214804817;57225033999;57197744325
+   - **Authoraffiliationids:** 60025153;130370585;60012259;60006191;60025153
+   - **Corresponding:** Gianoglio C.
+13.
+   - **Title:** On Edge Pinch Force Classification Using IMU Sensors and Convolutional Neural Networks
+   - **Venue:** Proceedings of the IEEE International Conference on Electronics Circuits and Systems
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICECS61496.2024.10848891
+   - **Scopus ID:** 2-s2.0-85217622442
+   - **ISSN:** 29945755
+   - **eISSN:** 29950589
+   - **Authors:** Shebly Daniella; Gianoglio Christian; Haj Ali Haydar Al; Chible Hussein; Yaacoub Mohamad; Valle Maurizio
+   - **Keywords:** 2D-Convolutional Neural Network | Inertial Measurement Unit (IMU) | Resistivity Classification
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 913, percentile 8)
+     2024:
+     - Electrical and Electronic Engineering (Q4, rank 941, percentile 2)
+   - **Source Id:** 91096
+   - **Author Ids:** 59526780600;56580140000;57889924900;7801443090;58763723900;57197744325
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60025153;60068774;60025153;60025153
+   - **Corresponding:** Shebly D.
+14.
+   - **Title:** Multisensory Wearable Glove for Object Recognition Based Embedded Machine Learning
+   - **Venue:** Proceedings of the IEEE International Conference on Electronics Circuits and Systems
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICECS61496.2024.10848876
+   - **Scopus ID:** 2-s2.0-85217621983
+   - **ISSN:** 29945755
+   - **eISSN:** 29950589
+   - **Authors:** Yaacoub Mohamad; Al Haj Ali Haydar; Gianoglio Christian; Valle Maurizio; Ibrahim Ali
+   - **Keywords:** embedded machine learning | object recognition | Wearable glove
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 913, percentile 8)
+     2024:
+     - Electrical and Electronic Engineering (Q4, rank 941, percentile 2)
+   - **Source Id:** 91096
+   - **Author Ids:** 58763723900;57889924900;56580140000;57197744325;57199654883
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60112476
+   - **Corresponding:** Yaacoub M.
+15.
+   - **Title:** Biomimetic Tactile Sensing for Hannes Anthropomorphic Prosthetic Hand
+   - **Venue:** Proceedings of the IEEE International Conference on Electronics Circuits and Systems
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICECS61496.2024.10848734
+   - **Scopus ID:** 2-s2.0-85217616480
+   - **ISSN:** 29945755
+   - **eISSN:** 29950589
+   - **Authors:** Bassal Hussein; Boccardo Nicolo; Abbass Yahya; Laffranchi Matteo; Valle Maurizio
+   - **Keywords:** Fast Adaptive | Piezoelectric | Prosthetics | Tactile
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 913, percentile 8)
+     2024:
+     - Electrical and Electronic Engineering (Q4, rank 941, percentile 2)
+   - **Source Id:** 91096
+   - **Author Ids:** 59231473100;57191479373;57211312886;35409513900;57197744325
+   - **Authoraffiliationids:** 60025153;60015623-60102151;60025153;60102151;60015623
+   - **Corresponding:** Bassal H.
+16.
+   - **Title:** Hardness Discrimination Using Piezoelectric-Based Biomimetic Tactile Sensor and Machine Learning
+   - **Venue:** IEEE Sensors Letters
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1109/LSENS.2024.3431430
+   - **Scopus ID:** 2-s2.0-85199361260
+   - **eISSN:** 24751472
+   - **Volume:** 8
+   - **Issue:** 8
+   - **Authors:** Bassal Hussein; Abbass Yahya; Gianoglio Christian; Valle Maurizio
+   - **Keywords:** hardness discrimination | machine learning (ML) | Sensor systems | signal processing | tactile information | tactile sensing
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q2, rank 70, percentile 63)
+     - Electrical and Electronic Engineering (Q2, rank 397, percentile 60)
+     2024:
+     - Instrumentation (Q2, rank 77, percentile 56)
+     - Electrical and Electronic Engineering (Q2, rank 434, percentile 55)
+   - **Source Id:** 21100976671
+   - **Author Ids:** 59231473100;57211312886;56580140000;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bassal H.
+17.
+   - **Title:** Texture Perception Using Tactile Sensing Glove Based on PVDF Sensors and Machine Learning
+   - **Venue:** IEEE Sensors Letters
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1109/LSENS.2024.3418500
+   - **Scopus ID:** 2-s2.0-85197096868
+   - **eISSN:** 24751472
+   - **Volume:** 8
+   - **Issue:** 7
+   - **Authors:** Abbass Yahya; Gianoglio Christian; Ali Haydar Al Haj; Saleh Moustafa; Valle Maurizio
+   - **Keywords:** machine learning (ML) | Sensor systems | tactile sensing glove | textural features | texture discrimination | wearable sensing systems
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q2, rank 70, percentile 63)
+     - Electrical and Electronic Engineering (Q2, rank 397, percentile 60)
+     2024:
+     - Instrumentation (Q2, rank 77, percentile 56)
+     - Electrical and Electronic Engineering (Q2, rank 434, percentile 55)
+   - **Source Id:** 21100976671
+   - **Author Ids:** 57211312886;56580140000;57889924900;57204771075;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Abbass Y.
+18.
+   - **Title:** Alessandro De Gloria, a Pioneer in Electronic Engineering Applications
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2024
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-48121-5_1
+   - **Scopus ID:** 2-s2.0-85184097329
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 1110 Lnee
+   - **Pages:** 3-11
+   - **Authors:** Bellotti Francesco; Bricco Elisa; Bruzzone Agostino; Caviglia Daniele; Di Zitti Ermanno; Gastaldo Paolo; Grosso Daniele; Magnani Lauro; Olivieri Mauro; Raggio Marco; Valle Maurizio; Verri Alessandro; Berta Riccardo
+   - **Keywords:** Cultural heritage | Electronic engineering | Electronic system applications | Embedded systems | Higher education | Machine learning | Virtual reality
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+     2024:
+     - Industrial and Manufacturing Engineering (Q4, rank 308, percentile 23)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 55890888700;26033809300;7003901555;7004012654;6603663623;35612596100;57192394949;55548461500;57794378700;8573253200;57197744325;57193129975;6701751695
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60032350;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bellotti F.
+19.
+   - **Title:** Digital Architecture for the n-mode Tensor-Matrix Multiplication Based on Pipelined Computing Units
+   - **Venue:** Proceedings of the IEEE International Conference on Electronics Circuits and Systems
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICECS61496.2024.10848931
+   - **Scopus ID:** 2-s2.0-105001476791
+   - **ISSN:** 29945755
+   - **eISSN:** 29950589
+   - **Authors:** Ragusa Edoardo; Gianoglio Christian; Valle Maurizio; Gastaldo Paolo
+   - **Keywords:** Digital Architectures | Low-Power | Multidimensional Array | Tensors
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 913, percentile 8)
+     2024:
+     - Electrical and Electronic Engineering (Q4, rank 941, percentile 2)
+   - **Source Id:** 91096
+   - **Author Ids:** 56580248800;56580140000;57197744325;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Ragusa E.
+20.
+   - **Title:** Embedded real-time objects’ hardness classification for robotic grippers
+   - **Venue:** Future Generation Computer Systems
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 26
+   - **DOI:** 10.1016/j.future.2023.06.002
+   - **Scopus ID:** 2-s2.0-85162218592
+   - **ISSN:** 0167739X
+   - **Volume:** 148
+   - **Pages:** 211-224
+   - **Authors:** Amin Youssef; Gianoglio Christian; Valle Maurizio
+   - **Keywords:** Hardness classification | Machine learning | Resource-constrained devices | Robotic grippers | Tactile sensing
+   - **Quartile:**
+     2025:
+     - Hardware and Architecture (Q1, rank 5, percentile 98)
+     - Computer Networks and Communications (Q1, rank 15, percentile 97)
+     - Software (Q1, rank 26, percentile 94)
+     2023:
+     - Computer Networks and Communications (Q1, rank 8, percentile 98)
+     - Hardware and Architecture (Q1, rank 5, percentile 97)
+     - Software (Q1, rank 17, percentile 95)
+   - **Source Id:** 12264
+   - **Author Ids:** 57223977236;56580140000;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Amin Y.
+21.
+   - **Title:** Trade-off Between Accuracy and Computational Cost With Neural Architecture Search: A Novel Strategy for Tactile Sensing Design
+   - **Venue:** IEEE Sensors Letters
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1109/LSENS.2023.3273733
+   - **Scopus ID:** 2-s2.0-85159800531
+   - **eISSN:** 24751472
+   - **Volume:** 7
+   - **Issue:** 5
+   - **Authors:** Gianoglio Christian; Ragusa Edoardo; Gastaldo Paolo; Valle Maurizio
+   - **Keywords:** convolutional neural networks (CNNs) | neural architecture search (NAS) | Sensor applications | smart sensors | tactile systems | touch modality classification
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q2, rank 70, percentile 63)
+     - Electrical and Electronic Engineering (Q2, rank 397, percentile 60)
+     2023:
+     - Electrical and Electronic Engineering (Q2, rank 377, percentile 52)
+     - Instrumentation (Q3, rank 72, percentile 49)
+   - **Source Id:** 21100976671
+   - **Author Ids:** 56580140000;56580248800;35612596100;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gianoglio C.
+22.
+   - **Title:** Workspace Scaling in Virtual Reality based Robot Teleoperation
+   - **Venue:** ACM International Conference Proceeding Series
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1145/3582700.3582717
+   - **Scopus ID:** 2-s2.0-85150375788
+   - **Pages:** 98-104
+   - **Authors:** Omarali Bukeikhan; Javaid Shafiq; Valle Maurizio; Farkhatdinov Ildar
+   - **Keywords:** human-operator's perception | robot teleoperation | virtual reality
+   - **Source Id:** 11600154611
+   - **Author Ids:** 57188837733;58147060800;57197744325;24482891800
+   - **Authoraffiliationids:** 60022109;60022109;60025153;60022109
+   - **Corresponding:** Omarali B.
+23.
+   - **Title:** FPGA-Based Tactile Sensory Platform with Optical Fiber Data Link for Feedback Systems in Prosthetics
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.3390/electronics12030627
+   - **Scopus ID:** 2-s2.0-85147879295
+   - **eISSN:** 20799292
+   - **Volume:** 12
+   - **Issue:** 3
+   - **Authors:** Di Patrizio Stanchieri Guido; Saleh Moustafa; De Marcellis Andrea; Ibrahim Ali; Faccio Marco; Valle Maurizio; Palange Elia
+   - **Keywords:** FPGA platform | optical fiber links | prosthetic applications | tactile sensory feedback systems
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+     2023:
+     - Control and Systems Engineering (Q2, rank 94, percentile 70)
+     - Electrical and Electronic Engineering (Q2, rank 244, percentile 69)
+     - Computer Networks and Communications (Q2, rank 139, percentile 64)
+     - Hardware and Architecture (Q2, rank 64, percentile 64)
+     - Signal Processing (Q2, rank 49, percentile 62)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 57191657351;57204771075;23975554000;57199654883;7003775870;57197744325;6701392461
+   - **Authoraffiliationids:** 60018783;60025153;60018783;60025153-60112476;60018783;60025153;60018783
+   - **Corresponding:** Di Patrizio Stanchieri G.
+24.
+   - **Title:** Pilot Study: Response of a Piezoelectric Polymer based Sensing system to Indentation
+   - **Venue:** Proceedings of IEEE Sensors
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/SENSORS56945.2023.10325161
+   - **Scopus ID:** 2-s2.0-85179753846
+   - **ISSN:** 19300395
+   - **eISSN:** 21689229
+   - **Authors:** Yaacoub Mohamad; Abbass Yahya; Gianoglio Christian; Seminara Lucia; Valle Maurizio
+   - **Keywords:** PVDF sensors | Signal analysis | Signal processing | Tactile sensing systems
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 687, percentile 31)
+     2023:
+     - Electrical and Electronic Engineering (Q4, rank 602, percentile 24)
+   - **Source Id:** 74882
+   - **Author Ids:** 58763723900;57211312886;56580140000;19338029900;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Yaacoub M.
+25.
+   - **Title:** Assessment of Recurrent Spiking Neural Networks on Neuromorphic Accelerators for Naturalistic Texture Classification
+   - **Venue:** Prime 2023 18th International Conference on Ph D Research in Microelectronics and Electronics Proceedings
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/PRIME58259.2023.10161772
+   - **Scopus ID:** 2-s2.0-85165065793
+   - **Pages:** 285-288
+   - **Authors:** Ali Haydar Al Haj; Dabbous Ali; Ibrahim Ali; Valle Maurizio
+   - **Keywords:** Electronic Skin | Energy Consumption | Hardware Efficiency | Naturalistic Textures | Neuromorphic computing | Surrogate Gradient
+   - **Source Id:** 21101164803
+   - **Author Ids:** 57889924900;57225054424;57199654883;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153-60112476;60025153
+   - **Corresponding:** Ali H.A.H.
+26.
+   - **Title:** Resource-Constrained Implementation of Deep Learning Algorithms for Dynamic Touch Modality Classification
+   - **Venue:** Lecture Notes in Networks and Systems
+   - **Year:** 2023
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1007/978-3-031-16281-7_11
+   - **Scopus ID:** 2-s2.0-85138002157
+   - **ISSN:** 23673370
+   - **eISSN:** 23673389
+   - **Volume:** 546 Lnns
+   - **Pages:** 105-115
+   - **Authors:** Al Haj Ali Haydar; Gianoglio Christian; Ibrahim Ali; Valle Maurizio
+   - **Keywords:** Computational cost | Convolutional neural networks | Embedded neural networks | Recurrent neural networks | Tactile sensing system
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 146, percentile 25)
+     - Computer Networks and Communications (Q3, rank 410, percentile 25)
+     - Control and Systems Engineering (Q4, rank 302, percentile 20)
+     2023:
+     - Signal Processing (Q4, rank 113, percentile 14)
+     - Control and Systems Engineering (Q4, rank 277, percentile 13)
+     - Computer Networks and Communications (Q4, rank 354, percentile 10)
+   - **Source Id:** 21100901469
+   - **Author Ids:** 57889924900;56580140000;57199654883;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153-60112476;60025153
+   - **Corresponding:** Al Haj Ali H.
+27.
+   - **Title:** Towards a Trade-off Between Accuracy and Computational Cost for Embedded Systems: A Tactile Sensing System for Object Classification
+   - **Venue:** Lecture Notes in Networks and Systems
+   - **Year:** 2023
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1007/978-3-031-16281-7_15
+   - **Scopus ID:** 2-s2.0-85138000375
+   - **ISSN:** 23673370
+   - **eISSN:** 23673389
+   - **Volume:** 546 Lnns
+   - **Pages:** 148-159
+   - **Authors:** Amin Youssef; Gianoglio Christian; Valle Maurizio
+   - **Keywords:** Artificial intelligence for embedded devices | Computational load | Object classification | Tactile sensing systems
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 146, percentile 25)
+     - Computer Networks and Communications (Q3, rank 410, percentile 25)
+     - Control and Systems Engineering (Q4, rank 302, percentile 20)
+     2023:
+     - Signal Processing (Q4, rank 113, percentile 14)
+     - Control and Systems Engineering (Q4, rank 277, percentile 13)
+     - Computer Networks and Communications (Q4, rank 354, percentile 10)
+   - **Source Id:** 21100901469
+   - **Author Ids:** 57223977236;56580140000;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Amin Y.
+28.
+   - **Title:** Embedded Implementation of Signal Pre-processing for Tactile Sensing System
+   - **Venue:** Lecture Notes in Networks and Systems
+   - **Year:** 2023
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/978-3-031-16281-7_69
+   - **Scopus ID:** 2-s2.0-85137988812
+   - **ISSN:** 23673370
+   - **eISSN:** 23673389
+   - **Volume:** 546 Lnns
+   - **Pages:** 727-736
+   - **Authors:** Saleh Moustafa; Abbass Yahya; Valle Maurizio
+   - **Keywords:** Embedded implementation | Filtering methods | Signal processing | Tactile sensing system
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 146, percentile 25)
+     - Computer Networks and Communications (Q3, rank 410, percentile 25)
+     - Control and Systems Engineering (Q4, rank 302, percentile 20)
+     2023:
+     - Signal Processing (Q4, rank 113, percentile 14)
+     - Control and Systems Engineering (Q4, rank 277, percentile 13)
+     - Computer Networks and Communications (Q4, rank 354, percentile 10)
+   - **Source Id:** 21100901469
+   - **Author Ids:** 57204771075;57211312886;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Saleh M.
+29.
+   - **Title:** Feed-Forward SNN for Touch Modality Prediction
+   - **Venue:** Lecture Notes in Networks and Systems
+   - **Year:** 2023
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/978-3-031-16281-7_21
+   - **Scopus ID:** 2-s2.0-85137977891
+   - **ISSN:** 23673370
+   - **eISSN:** 23673389
+   - **Volume:** 546 Lnns
+   - **Pages:** 215-222
+   - **Authors:** Dabbous Ali; Ibrahim Ali; Valle Maurizio
+   - **Keywords:** Brian2 simulator | Neuromorphic hardware | Spiking neural network | Tactile sensing system | Touch modality
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 146, percentile 25)
+     - Computer Networks and Communications (Q3, rank 410, percentile 25)
+     - Control and Systems Engineering (Q4, rank 302, percentile 20)
+     2023:
+     - Signal Processing (Q4, rank 113, percentile 14)
+     - Control and Systems Engineering (Q4, rank 277, percentile 13)
+     - Computer Networks and Communications (Q4, rank 354, percentile 10)
+   - **Source Id:** 21100901469
+   - **Author Ids:** 57225054424;57199654883;57197744325
+   - **Authoraffiliationids:** 60025153;60025153-60112476;60025153
+   - **Corresponding:** Dabbous A.
+30.
+   - **Title:** A Novel Tactile Sensing System for Robotic Tactile Perception of Object Properties
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2023
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1007/978-3-031-08136-1_28
+   - **Scopus ID:** 2-s2.0-85134327989
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 918 Lnee
+   - **Pages:** 182-187
+   - **Authors:** Amin Youssef; Gianoglio Christian; Valle Maurizio
+   - **Keywords:** Hardness recognition | Human–Robot interactions | Robot tactile sensors | Tactile sensing systems | Tactile sensors
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+     2023:
+     - Industrial and Manufacturing Engineering (Q4, rank 306, percentile 20)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 57223977236;56580140000;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Amin Y.
+31.
+   - **Title:** Experimental Assessment of Moving Targets Localization Performance Based on Angle of Arrival and RSSI
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2023
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-031-08136-1_52
+   - **Scopus ID:** 2-s2.0-85134289800
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 918 Lnee
+   - **Pages:** 340-349
+   - **Authors:** Mohanna Ammar; Valle Maurizio; Cardinali Fabrizio
+   - **Keywords:** Bluetooth low energy | Moving target localization | Received signal strength indication
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+     2023:
+     - Industrial and Manufacturing Engineering (Q4, rank 306, percentile 20)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 57427666800;57197744325;6701897705
+   - **Authoraffiliationids:** 60025153;60025153;128371108
+   - **Corresponding:** Mohanna A.
+32.
+   - **Title:** Spiking Neural Network Based on Threshold Encoding For Texture Recognition
+   - **Venue:** Icecs 2022 29th IEEE International Conference on Electronics Circuits and Systems Proceedings
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ICECS202256217.2022.9971099
+   - **Scopus ID:** 2-s2.0-85145347889
+   - **Authors:** Ali Haydar Al Haj; Dabbous Ali; Ibrahim Ali; Valle Maurizio
+   - **Keywords:** Event-driven | Neuromorphic | Spatio-temporal | spiking neural network | Tactile perception
+   - **Source Id:** 21101129746
+   - **Author Ids:** 57889924900;57225054424;57199654883;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153-60112476;60025153
+   - **Corresponding:** Ali H.A.H.
+33.
+   - **Title:** A Convolutional Neural Network-Based Method for Discriminating Shadowed Targets in Frequency-Modulated Continuous-Wave Radar Systems
+   - **Venue:** Sensors
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.3390/s22031048
+   - **Scopus ID:** 2-s2.0-85123528519
+   - **ISSN:** 14248220
+   - **Volume:** 22
+   - **Issue:** 3
+   - **Authors:** Mohanna Ammar; Gianoglio Christian; Rizik Ali; Valle Maurizio
+   - **Keywords:** CNN | Machine learning | Radar | Shadow effect | Transfer learning
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2022:
+     - Instrumentation (Q1, rank 18, percentile 87)
+     - Electrical and Electronic Engineering (Q1, rank 146, percentile 80)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 47, percentile 77)
+     - Analytical Chemistry (Q1, rank 32, percentile 77)
+     - Information Systems (Q1, rank 87, percentile 77)
+     - Biochemistry (Q2, rank 151, percentile 64)
+   - **Source Id:** 130124
+   - **Author Ids:** 57427666800;56580140000;57214804817;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Mohanna A.
+34.
+   - **Title:** Objects Classification based on Hand Grasping in Virtual Reality Environment
+   - **Venue:** 2022 International Conference on Smart Systems and Power Management Ic2spm 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IC2SPM56638.2022.9988797
+   - **Scopus ID:** 2-s2.0-85146427715
+   - **Pages:** 187-190
+   - **Authors:** Ibrahim Ali; Hajj-Hassan Mohamad; Fares Hoda; Valle Maurizio
+   - **Keywords:** Deep Neural Networks | Hand Grasping | Machine Learning | Mujoco Haptix | Object Classification | Virtual Reality
+   - **Source Id:** 21101131731
+   - **Author Ids:** 57199654883;57222722482;57197743964;57197744325
+   - **Authoraffiliationids:** 60112476;60112476;60025153;60025153
+   - **Corresponding:** Ibrahim A.
+35.
+   - **Title:** A Pipelined Implementation of the n-mode Tensor-Matrix Multiplication
+   - **Venue:** Icecs 2022 29th IEEE International Conference on Electronics Circuits and Systems Proceedings
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICECS202256217.2022.9970979
+   - **Scopus ID:** 2-s2.0-85145357032
+   - **Authors:** Ragusa Edoardo; Gianoglio Christian; Zunino Rodolfo; Valle Maurizio; Gastaldo Paolo
+   - **Keywords:** Digital Architectures | Low-Power | Multidimensional Array | Tensors
+   - **Source Id:** 21101129746
+   - **Author Ids:** 56580248800;56580140000;7006338311;57197744325;35612596100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Ragusa E.
+36.
+   - **Title:** Object Contact Shape Classification Using Neuromorphic Spiking Neural Network with STDP Learning
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ISCAS48785.2022.9937733
+   - **Scopus ID:** 2-s2.0-85142506247
+   - **ISSN:** 02714310
+   - **Volume:** 2022-May
+   - **Pages:** 1052-1056
+   - **Authors:** Dabbous Ali; Ibrahim Ali; Alameh Mohamad; Valle Maurizio; Bartolozzi Chiara
+   - **Keywords:** event driven sensing | intelligent tactile sensors | neuromorphic | Shape classification | spiking neural network | Tactile perception
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+     2022:
+     - Electrical and Electronic Engineering (Q3, rank 476, percentile 35)
+   - **Source Id:** 56190
+   - **Author Ids:** 57225054424;57199654883;57191244155;57197744325;22940171400
+   - **Authoraffiliationids:** 60025153-60102151;60025153;60025153;60025153;60102151
+   - **Corresponding:** Dabbous A.
+37.
+   - **Title:** Neuromorphic capacitive tactile sensors inspired by slowly adaptive mechanoreceptors
+   - **Venue:** 20th IEEE International Interregional Newcas Conference Newcas 2022 Proceedings
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/NEWCAS52662.2022.9841988
+   - **Scopus ID:** 2-s2.0-85138716340
+   - **Pages:** 119-123
+   - **Authors:** Janotte Ella; Bamford Simeon; Richter Ole; Valle Maurizio; Bartolozzi Chiara
+   - **Keywords:** Asynchronous CMOS 180-nm technology | Capacitive | Event-driven tactile sensor | Leaky integrate and fire neuron | Neuromorphic circuits
+   - **Source Id:** 21101109732
+   - **Author Ids:** 57216898147;24824190400;57188735223;57197744325;22940171400
+   - **Authoraffiliationids:** 60102151-60010023;60102151;60010023;60025153;60102151
+   - **Corresponding:** Janotte E.
+38.
+   - **Title:** Tactile Classification of Object Materials for Virtual Reality based Robot Teleoperation
+   - **Venue:** Proceedings IEEE International Conference on Robotics and Automation
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/ICRA46639.2022.9811825
+   - **Scopus ID:** 2-s2.0-85136326630
+   - **ISSN:** 10504729
+   - **Volume:** 2022-January
+   - **Pages:** 9288-9294
+   - **Authors:** Omarali Bukeikhan; Palermo Francesca; Althoefer Kaspar; Valle Maurizio; Farkhatdinov Ildar
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 242, percentile 75)
+     - Control and Systems Engineering (Q2, rank 97, percentile 74)
+     - Software (Q2, rank 146, percentile 70)
+     - Artificial Intelligence (Q2, rank 155, percentile 68)
+     2022:
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 79)
+     - Control and Systems Engineering (Q1, rank 65, percentile 77)
+     - Software (Q2, rank 111, percentile 72)
+     - Artificial Intelligence (Q2, rank 90, percentile 70)
+   - **Source Id:** 25456
+   - **Author Ids:** 57188837733;57197794750;6701489118;57197744325;24482891800
+   - **Authoraffiliationids:** 60022109-60025153;60022109-60020413;60022109;60025153;60022109-60015150
+   - **Corresponding:** Omarali B.
+39.
+   - **Title:** Full-hand electrotactile feedback using electronic skin and matrix electrodes for high-bandwidth human-machine interfacing
+   - **Venue:** Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1098/rsta.2021.0017
+   - **Scopus ID:** 2-s2.0-85131825117
+   - **ISSN:** 1364503X
+   - **Volume:** 380
+   - **Issue:** 2228
+   - **Authors:** Abbass Yahya; Dosen Strahinja; Seminara Lucia; Valle Maurizio
+   - **Keywords:** electronic skin | electrotactile stimulation | sensory feedback system | tactile sensors | teleoperation
+   - **Quartile:**
+     2025:
+     - Mathematics (all) (Q1, rank 12, percentile 97)
+     - Engineering (all) (Q1, rank 50, percentile 85)
+     - Physics and Astronomy (all) (Q1, rank 38, percentile 84)
+     2022:
+     - Mathematics (all) (Q1, rank 7, percentile 98)
+     - Engineering (all) (Q1, rank 26, percentile 91)
+     - Physics and Astronomy (all) (Q1, rank 29, percentile 88)
+   - **Source Id:** 29784
+   - **Author Ids:** 57211312886;23388778600;19338029900;57197744325
+   - **Authoraffiliationids:** 60025153;60022134;60025153;60025153
+   - **Corresponding:** Abbass Y.
+40.
+   - **Title:** Convolutional Neural Networks Based Tactile Object Recognition for Tactile Sensing System
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2022
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1007/978-3-030-95498-7_39
+   - **Scopus ID:** 2-s2.0-85128781406
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 866 Lnee
+   - **Pages:** 280-285
+   - **Authors:** Ibrahim Ali; Ali Haydar Hajj; Hassan Mohamad Hajj; Valle Maurizio
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+     2022:
+     - Industrial and Manufacturing Engineering (Q4, rank 295, percentile 17)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 57199654883;57889924900;57614055600;57197744325
+   - **Authoraffiliationids:** 60112476-60025153;60025153;128023867;60025153
+   - **Corresponding:** Ibrahim A.
+41.
+   - **Title:** Approximate Computing Circuits for Embedded Tactile Data Processing
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3390/electronics11020190
+   - **Scopus ID:** 2-s2.0-85122399961
+   - **eISSN:** 20799292
+   - **Volume:** 11
+   - **Issue:** 2
+   - **Authors:** Osta Mario; Ibrahim Ali; Valle Maurizio
+   - **Keywords:** Approximate computing | Digital multiplier | Embedded machine learning | FPGA | Singular Value Decomposition | Tactile data processing | Tensorial kernel
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+     2022:
+     - Control and Systems Engineering (Q2, rank 92, percentile 68)
+     - Electrical and Electronic Engineering (Q2, rank 248, percentile 66)
+     - Computer Networks and Communications (Q2, rank 129, percentile 66)
+     - Signal Processing (Q2, rank 48, percentile 61)
+     - Hardware and Architecture (Q2, rank 68, percentile 60)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 57197747347;57199654883;57197744325
+   - **Authoraffiliationids:** 60025153;60025153-60112476;60025153
+   - **Corresponding:** Osta M.
+42.
+   - **Title:** A Novel Learning Strategy for the Trade-Off between Accuracy and Computational Cost: A Touch Modalities Classification Case Study
+   - **Venue:** IEEE Sensors Journal
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 16
+   - **DOI:** 10.1109/JSEN.2021.3129323
+   - **Scopus ID:** 2-s2.0-85120033492
+   - **ISSN:** 1530437X
+   - **eISSN:** 15581748
+   - **Volume:** 22
+   - **Issue:** 1
+   - **Pages:** 659-670
+   - **Authors:** Gianoglio Christian; Ragusa Edoardo; Gastaldo Paolo; Valle Maurizio
+   - **Keywords:** Artificial intelligence for embedded devices | Loss function | Tactile sensing systems
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 27, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 175, percentile 82)
+     2022:
+     - Instrumentation (Q1, rank 14, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 139, percentile 81)
+   - **Source Id:** 15047
+   - **Author Ids:** 56580140000;56580248800;35612596100;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gianoglio C.
+43.
+   - **Title:** A Shallow Neural Network for Real-Time Embedded Machine Learning for Tensorial Tactile Data Processing
+   - **Venue:** IEEE Transactions on Circuits and Systems I Regular Papers
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1109/TCSI.2021.3102303
+   - **Scopus ID:** 2-s2.0-85116242641
+   - **ISSN:** 15498328
+   - **eISSN:** 15580806
+   - **Volume:** 68
+   - **Issue:** 10
+   - **Pages:** 4232-4244
+   - **Authors:** Younes Hamoud; Ibrahim Ali; Rizk Mostafa; Valle Maurizio
+   - **Keywords:** Embedded machine learning | FPGA | neural networks | real-time | singular value decomposition | tactile sensors | tensorial kernel
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 28, percentile 92)
+     2021:
+     - Subject (Q1, rank 106, percentile 85)
+     - Subject (Q1, rank 32, percentile 81)
+   - **Source Id:** 11000153733
+   - **Author Ids:** 57204100434;57199654883;37091339400;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60112476;60025153
+   - **Corresponding:** Younes H.
+44.
+   - **Title:** Embedded Electrotactile Feedback System for Hand Prostheses Using Matrix Electrode and Electronic Skin
+   - **Venue:** IEEE Transactions on Biomedical Circuits and Systems
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 32
+   - **DOI:** 10.1109/TBCAS.2021.3107723
+   - **Scopus ID:** 2-s2.0-85113837903
+   - **ISSN:** 19324545
+   - **eISSN:** 19409990
+   - **Volume:** 15
+   - **Issue:** 5
+   - **Pages:** 912-925
+   - **Authors:** Abbass Yahya; Saleh Moustafa; Dosen Strahinja; Valle Maurizio
+   - **Keywords:** Electronic skin | electrotactile stimulation | prosthetic hand | sensory feedback system | tactile sensors
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 111, percentile 88)
+     - Biomedical Engineering (Q1, rank 64, percentile 80)
+     2021:
+     - Electrical and Electronic Engineering (Q1, rank 66, percentile 90)
+     - Biomedical Engineering (Q1, rank 29, percentile 88)
+   - **Source Id:** 5700191219
+   - **Author Ids:** 57211312886;57204771075;23388778600;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60022134;60025153
+   - **Corresponding:** Abbass Y.
+45.
+   - **Title:** Efficient FPGA Implementation of Approximate Singular Value Decomposition based on Shallow Neural Networks
+   - **Venue:** 2021 IEEE 3rd International Conference on Artificial Intelligence Circuits and Systems Aicas 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/AICAS51828.2021.9458453
+   - **Scopus ID:** 2-s2.0-85113320500
+   - **Authors:** Younes Hamoud; Ibrahim Ali; Rizk Mostafa; Valle Maurizio
+   - **Keywords:** Approximate Computing | Embedded Systems | FPGA | High-Level Synthesis | Neural Networks | SVD
+   - **Source Id:** 21101056807
+   - **Author Ids:** 57204100434;57199654883;37091339400;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60112476;60025153
+   - **Corresponding:** Younes H.
+46.
+   - **Title:** Touch Modality Classification Using Recurrent Neural Networks
+   - **Venue:** IEEE Sensors Journal
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 27
+   - **DOI:** 10.1109/JSEN.2021.3055565
+   - **Scopus ID:** 2-s2.0-85100470601
+   - **ISSN:** 1530437X
+   - **eISSN:** 15581748
+   - **Volume:** 21
+   - **Issue:** 8
+   - **Pages:** 9983-9993
+   - **Authors:** Alameh Mohamad; Abbass Yahya; Ibrahim Ali; Moser Gabriele; Valle Maurizio
+   - **Keywords:** deep learning | recurrent neural network | tactile data classification | Tactile sensing systems
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 27, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 175, percentile 82)
+     2021:
+     - Instrumentation (Q1, rank 14, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 147, percentile 79)
+   - **Source Id:** 15047
+   - **Author Ids:** 57191244155;57211312886;57199654883;7101795745;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153-60112476;60025153;60025153
+   - **Corresponding:** Alameh M.
+47.
+   - **Title:** Algorithmic-level approximate tensorial svm using high-level synthesis on fpga
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 19
+   - **DOI:** 10.3390/electronics10020205
+   - **Scopus ID:** 2-s2.0-85100038627
+   - **eISSN:** 20799292
+   - **Volume:** 10
+   - **Issue:** 2
+   - **Pages:** 1-12
+   - **Authors:** Younes Hamoud; Ibrahim Ali; Rizk Mostafa; Valle Maurizio
+   - **Keywords:** Approximate computing | Embedded machine learning | High-level synthe-sis | Tactile sensing | Tensorial kerne
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+     2021:
+     - Electrical and Electronic Engineering (Q2, rank 280, percentile 60)
+     - Computer Networks and Communications (Q2, rank 146, percentile 59)
+     - Control and Systems Engineering (Q2, rank 110, percentile 59)
+     - Signal Processing (Q2, rank 51, percentile 56)
+     - Hardware and Architecture (Q2, rank 75, percentile 55)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 57204100434;57199654883;37091339400;57197744325
+   - **Authoraffiliationids:** 60025153-60112476;60025153-60112476;60112476;60025153
+   - **Corresponding:** Younes H.
+48.
+   - **Title:** An Efficient Selection-Based kNN Architecture for Smart Embedded Hardware Accelerators
+   - **Venue:** IEEE Open Journal of Circuits and Systems
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1109/OJCAS.2021.3108835
+   - **Scopus ID:** 2-s2.0-85132261018
+   - **eISSN:** 26441225
+   - **Volume:** 2
+   - **Pages:** 534-545
+   - **Authors:** Younes Hamoud; Ibrahim Ali; Rizk Mostafa; Valle Maurizio
+   - **Keywords:** Approximate computing | embedded implementation | energy efficiency | fPGA | hardware accelerators | high level synthesis | k-nearest neighbor | real-Time processing | tactile sensing
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 70, percentile 64)
+     - Electrical and Electronic Engineering (Q2, rank 380, percentile 61)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 157, percentile 49)
+   - **Source Id:** 21101222651
+   - **Author Ids:** 57204100434;57199654883;37091339400;57197744325
+   - **Authoraffiliationids:** 60025153-60112476;60025153-60112476;60112476;60025153
+   - **Corresponding:** Younes H.
+49.
+   - **Title:** 1-D Convolutional Neural Networks for Touch Modalities Classification
+   - **Venue:** 2021 28th IEEE International Conference on Electronics Circuits and Systems Icecs 2021 Proceedings
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1109/ICECS53924.2021.9665576
+   - **Scopus ID:** 2-s2.0-85124619783
+   - **Authors:** Gianoglio Christian; Ragusa Edoardo; Zunino Rodolfo; Valle Maurizio
+   - **Keywords:** CNNs | embedded systems | Touch modalities classification
+   - **Source Id:** 21101075833
+   - **Author Ids:** 56580140000;56580248800;7006338311;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gianoglio C.
+50.
+   - **Title:** Hybrid Fixed-point/Binary Convolutional Neural Network Accelerator for Real-time Tactile Processing
+   - **Venue:** 2021 28th IEEE International Conference on Electronics Circuits and Systems Icecs 2021 Proceedings
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ICECS53924.2021.9665586
+   - **Scopus ID:** 2-s2.0-85124608112
+   - **Authors:** Younes Hamoud; Ibrahim Ali; Rizk Mostafa; Valle Maurizio
+   - **Keywords:** Binary Neural Networks (BNN) | Convolutional Neural Networks (CNN) | FPGA | Hardware Accelerators | Quantization | Tactile Processing
+   - **Source Id:** 21101075833
+   - **Author Ids:** 57204100434;57199654883;37091339400;57197744325
+   - **Authoraffiliationids:** 60025153-60112476;60025153-60112476;60112476-60105670;60025153
+   - **Corresponding:** Younes H.
+51.
+   - **Title:** Computationally Light Algorithms for Tactile Sensing Signals Elaboration and Classification
+   - **Venue:** 2021 28th IEEE International Conference on Electronics Circuits and Systems Icecs 2021 Proceedings
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ICECS53924.2021.9665554
+   - **Scopus ID:** 2-s2.0-85124601241
+   - **Authors:** Amin Youssef; Gianoglio Christian; Valle Maurizio
+   - **Keywords:** Classification | Computational load | hardness recognition | Neural networks | Signal processing | Tactile sensing systems | Tactile sensors
+   - **Source Id:** 21101075833
+   - **Author Ids:** 57223977236;56580140000;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Amin Y.
+52.
+   - **Title:** Touch Modality Classification using Spiking Neural Networks and Supervised-STDP Learning
+   - **Venue:** 2021 28th IEEE International Conference on Electronics Circuits and Systems Icecs 2021 Proceedings
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/ICECS53924.2021.9665453
+   - **Scopus ID:** 2-s2.0-85124582756
+   - **Authors:** Dabbous Ali; Ibrahim Ali; Valle Maurizio; Bartolozzi Chiara
+   - **Keywords:** LIF | SNN | STDP | tactile sensors | Touch Modality
+   - **Source Id:** 21101075833
+   - **Author Ids:** 57225054424;57199654883;57197744325;22940171400
+   - **Authoraffiliationids:** 60025153-60102151;60025153;60025153;60102151
+   - **Corresponding:** Dabbous A.
+53.
+   - **Title:** Novel Wearable Tactile Feedback System for post-stroke Rehabilitation
+   - **Venue:** Biocas 2021 IEEE Biomedical Circuits and Systems Conference Proceedings
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/BioCAS49922.2021.9645020
+   - **Scopus ID:** 2-s2.0-85124187953
+   - **Authors:** Abbass Yahya; Seminara Lucia; Saleh Moustafa; Valle Maurizio
+   - **Keywords:** electrotactile stimulation | sensory feedback system | tactile glove | wearable electronics
+   - **Source Id:** 21101075303
+   - **Author Ids:** 57211312886;19338029900;57204771075;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Abbass Y.
+54.
+   - **Title:** A mixed-precision binary neural network architecture for touch modality classification
+   - **Venue:** Smacd Prime 2021 International Conference on Synthesis Modeling Analysis and Simulation Methods and Applications to Circuit Design and 16th Conference on Phd Research in Microelectronics and Electronics
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85117402466
+   - **Pages:** 296-299
+   - **Authors:** Younes Hamoud; Ibrahim Ali; Rizk Mostafa; Valle Maurizio
+   - **Keywords:** Binary neural networks (BNN) | Convolutional neural networks (CNN) | Quantization | Touch modality
+   - **Source Id:** 21101062106
+   - **Author Ids:** 57204100434;57199654883;37091339400;57197744325
+   - **Authoraffiliationids:** 60025153-60112476;60025153-60112476;60112476-60068774;60025153
+   - **Corresponding:** Younes H.
+55.
+   - **Title:** Workspace Scaling and Rate Mode Control for Virtual Reality based Robot Teleoperation
+   - **Venue:** Conference Proceedings IEEE International Conference on Systems Man and Cybernetics
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/SMC52423.2021.9658796
+   - **Scopus ID:** 2-s2.0-85117212440
+   - **ISSN:** 1062922X
+   - **Pages:** 607-612
+   - **Authors:** Omarali Bukeikhan; Althoefer Kaspar; Mastrogiovanni Fulvio; Valle Maurizio; Farkhatdinov Ildar
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 643, percentile 35)
+     - Control and Systems Engineering (Q3, rank 257, percentile 32)
+     - Human-Computer Interaction (Q4, rank 155, percentile 19)
+   - **Source Id:** 145097
+   - **Author Ids:** 57188837733;6701489118;56962745700;57197744325;24482891800
+   - **Authoraffiliationids:** 60022109-60025153;60022109;60025153;60025153;60022109
+   - **Corresponding:** Omarali B.
+56.
+   - **Title:** Artificial bio-inspired tactile receptive fields for edge orientation classification
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/ISCAS51556.2021.9401749
+   - **Scopus ID:** 2-s2.0-85109048450
+   - **ISSN:** 02714310
+   - **Volume:** 2021-May
+   - **Authors:** Dabbous A.; Mastella M.; Natarajan A.; Chicca E.; Valle M.; Bartolozzi C.
+   - **Keywords:** Neuromorphic | Receptive fields | SDSP | Skin | Touch
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+     2021:
+     - Electrical and Electronic Engineering (Q3, rank 419, percentile 40)
+   - **Source Id:** 56190
+   - **Author Ids:** 57225054424;57216869341;57192868794;6506936943;57197744325;22940171400
+   - **Authoraffiliationids:** 60025153-60102151;60010023;60019647;60010023;60025153;60102151
+   - **Corresponding:** Dabbous A.
+57.
+   - **Title:** Efficient machine learning algorithm for embedded tactile data processing
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ISCAS51556.2021.9401429
+   - **Scopus ID:** 2-s2.0-85109009265
+   - **ISSN:** 02714310
+   - **Volume:** 2021-May
+   - **Authors:** Saleh Moustafa; Ibrahim Ali; Menichelli Francesco; Mohanna Yasser; Valle Maurizio
+   - **Keywords:** Algorithm optimization | Computational complexity | Embedded machine learning | Real-time operation
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+     2021:
+     - Electrical and Electronic Engineering (Q3, rank 419, percentile 40)
+   - **Source Id:** 56190
+   - **Author Ids:** 57204771075;57199654883;36883495100;16042986100;57197744325
+   - **Authoraffiliationids:** 60025153-60068774;60025153-60112476;60032350;60068774;60025153
+   - **Corresponding:** Saleh M.
+58.
+   - **Title:** Introduction to the Special Issue on the 2nd IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2020)
+   - **Venue:** IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Editorial
+   - **Citations:** 2
+   - **DOI:** 10.1109/JETCAS.2020.3040581
+   - **Scopus ID:** 2-s2.0-85097830103
+   - **ISSN:** 21563357
+   - **eISSN:** 21563365
+   - **Volume:** 10
+   - **Issue:** 4
+   - **Pages:** 403-405
+   - **Authors:** Serrano-Gotarredona Teresa; Valle Maurizio; Conti Francesco; Li Hai
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 105, percentile 89)
+     2020:
+     - Electrical and Electronic Engineering (Q1, rank 80, percentile 88)
+   - **Source Id:** 19700201678
+   - **Author Ids:** 7004314421;57197744325;56866491400;57204886743
+   - **Authoraffiliationids:** 60023841;60025153;60028218;60140102
+   - **Corresponding:** Serrano-Gotarredona T.
+59.
+   - **Title:** Electronic skin: Sensors and systems
+   - **Venue:** Electronic Skin Sensors and Systems
+   - **Year:** 2020
+   - **Type:** Book
+   - **Subtype:** Book
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-85106642029
+   - **Pages:** 1-274
+   - **Authors:** Ibrahim Ali; Valle Maurizio
+   - **Keywords:** Efficient algorithms for smart tactile sensors | Electronic skin system | Electronic skin system applications | Embedded data processing | Optical communication links | Tactile sensors
+   - **Source Id:** 21101046681
+   - **Author Ids:** 57199654883;57197744325
+   - **Authoraffiliationids:** 60025153-60112476;60025153
+   - **Corresponding:** Ibrahim A.
+60.
+   - **Title:** Artificial tactile sensing and electronic-skin technologies
+   - **Venue:** Electronic Skin Sensors and Systems
+   - **Year:** 2020
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-85106634296
+   - **Pages:** 13-45
+   - **Authors:** Fares Hoda; Valle Maurizio
+   - **Source Id:** 21101046681
+   - **Author Ids:** 57197743964;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Fares H.
+61.
+   - **Title:** Efficient algorithms for embedded tactile data processing
+   - **Venue:** Electronic Skin Sensors and Systems
+   - **Year:** 2020
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 12
+   - **Scopus ID:** 2-s2.0-85106604783
+   - **Pages:** 113-138
+   - **Authors:** Younes Hamoud; Alameh Mohamad; Ibrahim Ali; Rizk Mostafa; Valle Maurizio
+   - **Source Id:** 21101046681
+   - **Author Ids:** 57204100434;57191244155;57199654883;37091339400;57197744325
+   - **Authoraffiliationids:** 60025153-60112476;60025153;60025153-60112476;60112476;60025153
+   - **Corresponding:** Younes H.
+62.
+   - **Title:** Approximate arithmetic circuits for energy efficient data processing in electronic skin
+   - **Venue:** Electronic Skin Sensors and Systems
+   - **Year:** 2020
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85106598684
+   - **Pages:** 139-195
+   - **Authors:** Osta Mario; Ibrahim Ali; Valle Maurizio
+   - **Source Id:** 21101046681
+   - **Author Ids:** 57197747347;57199654883;57197744325
+   - **Authoraffiliationids:** 60025153;60025153-60112476;60025153
+   - **Corresponding:** Osta M.
+63.
+   - **Title:** Electronic skin systems
+   - **Venue:** Electronic Skin Sensors and Systems
+   - **Year:** 2020
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85106591829
+   - **Pages:** 1-12
+   - **Authors:** Ibrahim Ali; Valle Maurizio
+   - **Source Id:** 21101046681
+   - **Author Ids:** 57199654883;57197744325
+   - **Authoraffiliationids:** 60025153-60112476;60025153
+   - **Corresponding:** Ibrahim A.
+64.
+   - **Title:** Artificial skin and electrotactile stimulation for advanced tactile feedback in myoelectric prostheses
+   - **Venue:** Electronic Skin Sensors and Systems
+   - **Year:** 2020
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85106591451
+   - **Pages:** 197-236
+   - **Authors:** Seminara Lucia; Strbac Matija; Amin Youssef; Valle Maurizio; Dosen Strahinja
+   - **Source Id:** 21101046681
+   - **Author Ids:** 19338029900;55185521500;57223977236;57197744325;23388778600
+   - **Authoraffiliationids:** 60025153;60110404;60025153;60025153;60022134
+   - **Corresponding:** Seminara L.
+65.
+   - **Title:** Embedded feedback system for upper limb prosthetics
+   - **Venue:** Icecs 2020 27th IEEE International Conference on Electronics Circuits and Systems Proceedings
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICECS49266.2020.9294781
+   - **Scopus ID:** 2-s2.0-85099440798
+   - **Authors:** Abbass Y.; Saleh M.; Ibrahim A.; Valle M.
+   - **Keywords:** Electro-cutaneous stimulation | Embedded sensory feedback system | Interface Electronics | Tactile sensors
+   - **Source Id:** 21101033916
+   - **Author Ids:** 57211312886;57204771075;57199654883;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Abbass Y.
+66.
+   - **Title:** Virtual Reality based Telerobotics Framework with Depth Cameras
+   - **Venue:** 29th IEEE International Conference on Robot and Human Interactive Communication Ro Man 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 29
+   - **DOI:** 10.1109/RO-MAN47096.2020.9223445
+   - **Scopus ID:** 2-s2.0-85095791209
+   - **Pages:** 1217-1222
+   - **Authors:** Omarali Bukeikhan; Denoun Brice; Althoefer Kaspar; Jamone Lorenzo; Valle Maurizio; Farkhatdinov Ildar
+   - **Source Id:** 21101027201
+   - **Author Ids:** 57188837733;57219622325;6701489118;24479375600;57197744325;24482891800
+   - **Authoraffiliationids:** 60022109;60022109;60022109;60022109;60025153;60022109
+   - **Corresponding:** Omarali B.
+67.
+   - **Title:** Temporal Asynchrony but Not Total Energy Nor Duration Improves the Judgment of Numerosity in Electrotactile Stimulation
+   - **Venue:** Frontiers in Bioengineering and Biotechnology
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.3389/fbioe.2020.00555
+   - **Scopus ID:** 2-s2.0-85087273856
+   - **eISSN:** 22964185
+   - **Volume:** 8
+   - **Authors:** Nataletti Sara; Leo Fabrizio; Seminara Lucia; Trompetto Carlo; Valle Maurizio; Dosen Strahinja; Brayda Luca
+   - **Keywords:** electrotactile stimulation | numerosity judgment | sensory substitution | somatosensory integration | stimulation timing | tactile feedback | touch | upper extremity
+   - **Quartile:**
+     2025:
+     - Histology (Q1, rank 4, percentile 94)
+     - Biotechnology (Q1, rank 53, percentile 83)
+     - Biomedical Engineering (Q1, rank 59, percentile 82)
+     - Bioengineering (Q1, rank 31, percentile 81)
+     2020:
+     - Histology (Q3, rank 34, percentile 44)
+     - Biotechnology (Q3, rank 158, percentile 44)
+     - Biomedical Engineering (Q3, rank 131, percentile 43)
+     - Bioengineering (Q3, rank 97, percentile 34)
+   - **Source Id:** 21100835954
+   - **Author Ids:** 57197797727;23467223100;19338029900;6602836622;57197744325;23388778600;6506625090
+   - **Authoraffiliationids:** 60102151-60121711;60102151;60025153;60107402-60025153;60025153;60022134;60102151-124700387
+   - **Corresponding:** Nataletti S.
+68.
+   - **Title:** Editorial of special issue "tactile sensing technology and systems"
+   - **Venue:** Micromachines
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Editorial
+   - **Citations:** 2
+   - **DOI:** 10.3390/mi11050506
+   - **Scopus ID:** 2-s2.0-85085942264
+   - **eISSN:** 2072666X
+   - **Volume:** 11
+   - **Issue:** 5
+   - **Authors:** Valle Maurizio
+   - **Quartile:**
+     2025:
+     - Mechanical Engineering (Q1, rank 135, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 198, percentile 80)
+     - Control and Systems Engineering (Q1, rank 83, percentile 78)
+     2020:
+     - Mechanical Engineering (Q2, rank 164, percentile 72)
+     - Control and Systems Engineering (Q2, rank 84, percentile 67)
+     - Electrical and Electronic Engineering (Q2, rank 230, percentile 66)
+   - **Source Id:** 21100229176
+   - **Author Ids:** 57197744325
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Valle M.
+69.
+   - **Title:** Dual-Parameter Modulation Improves Stimulus Localization in Multichannel Electrotactile Stimulation
+   - **Venue:** IEEE Transactions on Haptics
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 20
+   - **DOI:** 10.1109/TOH.2019.2950625
+   - **Scopus ID:** 2-s2.0-85074534380
+   - **ISSN:** 19391412
+   - **eISSN:** 23294051
+   - **Volume:** 13
+   - **Issue:** 2
+   - **Pages:** 393-403
+   - **Authors:** Seminara Lucia; Fares Hoda; Franceschi Marta; Valle Maurizio; Strbac Matija; Farina Dario; Dosen Strahinja
+   - **Keywords:** Electrotactile stimulation | matrix electrodes | mechanical stimulation | sensory feedback | spatial localization
+   - **Quartile:**
+     2025:
+     - Computer Science Applications (Q2, rank 324, percentile 67)
+     - Human-Computer Interaction (Q2, rank 90, percentile 53)
+     2020:
+     - Computer Science Applications (Q1, rank 133, percentile 80)
+     - Human-Computer Interaction (Q1, rank 25, percentile 79)
+   - **Source Id:** 12100154405
+   - **Author Ids:** 19338029900;57197743964;57038343300;57197744325;55185521500;7004908025;23388778600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60110404;60015150;60022134
+   - **Corresponding:** Seminara L.
+70.
+   - **Title:** Validation of screen‐printed electronic skin based on piezoelectric polymer sensors
+   - **Venue:** Sensors Switzerland
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.3390/s20041160
+   - **Scopus ID:** 2-s2.0-85079722617
+   - **ISSN:** 14248220
+   - **Volume:** 20
+   - **Issue:** 4
+   - **Authors:** Fares Hoda; Abbass Yahya; Valle Maurizio; Seminara Lucia
+   - **Keywords:** Electronic skin | P(VDF‐TrFE) sensors | Prosthetics | Screen printed sensor technology | Skin characterization | Tactile sensing | Technology validation
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2020:
+     - Instrumentation (Q1, rank 13, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 135, percentile 80)
+     - Information Systems (Q1, rank 69, percentile 79)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 42, percentile 78)
+     - Analytical Chemistry (Q1, rank 29, percentile 76)
+     - Biochemistry (Q2, rank 133, percentile 67)
+   - **Source Id:** 130124
+   - **Author Ids:** 57197743964;57211312886;57197744325;19338029900
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60025153;60025153
+   - **Corresponding:** Fares H.
+71.
+   - **Title:** Metal Oxide Gas Sensor Electronic Interfaces
+   - **Venue:** Smart Sensors for Environmental and Medical Applications
+   - **Year:** 2020
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 3
+   - **DOI:** 10.1002/9781119587422.ch7
+   - **Scopus ID:** 2-s2.0-85123625814
+   - **Pages:** 129-147
+   - **Authors:** Hijazi Zeinab; Caviglia Daniele D.; Valle Maurizio
+   - **Source Id:** 21101091399
+   - **Author Ids:** 57188768487;7004012654;57197744325
+   - **Authoraffiliationids:** 60025153-60272389;60025153;60025153
+   - **Corresponding:** Hijazi Z.
+72.
+   - **Title:** Near Sensors Computation based on Embedded Machine Learning for Electronic Skin
+   - **Venue:** Procedia Manufacturing
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1016/j.promfg.2020.11.049
+   - **Scopus ID:** 2-s2.0-85100744258
+   - **eISSN:** 23519789
+   - **Volume:** 52
+   - **Pages:** 295-300
+   - **Authors:** Ibrahim Ali; Younes Hamoud; Alameh Mohamad; Valle Maurizio
+   - **Source Id:** 21101049053
+   - **Author Ids:** 57199654883;57204100434;57191244155;57197744325
+   - **Authoraffiliationids:** 60025153-60112476;60025153-60112476;60025153;60025153
+   - **Corresponding:** Ibrahim A.
+73.
+   - **Title:** Smart tactile sensing systems based on embedded CNN implementations
+   - **Venue:** Micromachines
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 29
+   - **DOI:** 10.3390/mi11010103
+   - **Scopus ID:** 2-s2.0-85079035355
+   - **eISSN:** 2072666X
+   - **Volume:** 11
+   - **Issue:** 1
+   - **Authors:** Alameh Mohamad; Abbass Yahya; Ibrahim Ali; Valle Maurizio
+   - **Keywords:** Convolutional neural network | Embedding intelligence | Tactile sensing systems
+   - **Quartile:**
+     2025:
+     - Mechanical Engineering (Q1, rank 135, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 198, percentile 80)
+     - Control and Systems Engineering (Q1, rank 83, percentile 78)
+     2020:
+     - Mechanical Engineering (Q2, rank 164, percentile 72)
+     - Control and Systems Engineering (Q2, rank 84, percentile 67)
+     - Electrical and Electronic Engineering (Q2, rank 230, percentile 66)
+   - **Source Id:** 21100229176
+   - **Author Ids:** 57191244155;57211312886;57199654883;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153-60112476;60025153
+   - **Corresponding:** Alameh M.
+74.
+   - **Title:** Introduction to the Special Issue on the 1st IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2019)
+   - **Venue:** IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Editorial
+   - **Citations:** 1
+   - **DOI:** 10.1109/JETCAS.2019.2954760
+   - **Scopus ID:** 2-s2.0-85076692336
+   - **ISSN:** 21563357
+   - **eISSN:** 21563365
+   - **Volume:** 9
+   - **Issue:** 4
+   - **Pages:** 595-597
+   - **Authors:** Chang Robert Chen Hao; Lee Gwo Giun Chris; Delbruck Tobi; Valle Maurizio
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 105, percentile 89)
+     2019:
+     - Electrical and Electronic Engineering (Q1, rank 85, percentile 87)
+   - **Source Id:** 19700201678
+   - **Author Ids:** 7403713372;7404852975;35576634800;57197744325
+   - **Authoraffiliationids:** 60017511;60014982;60012614;60025153
+   - **Corresponding:** Chang R.C.H.
+75.
+   - **Title:** Energy efficient implementation of machine learning algorithms on hardware platforms
+   - **Venue:** 2019 26th IEEE International Conference on Electronics Circuits and Systems Icecs 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/ICECS46596.2019.8965157
+   - **Scopus ID:** 2-s2.0-85079195030
+   - **Pages:** 21-24
+   - **Authors:** Osta Mario; Alameh Mohamad; Younes Hamoud; Ibrahim Ali; Valle Maurizio
+   - **Keywords:** Deep Learning | Embedded Machine Learning | Energy Efficient techniques | Low Power platforms
+   - **Source Id:** 21100944554
+   - **Author Ids:** 57197747347;57191244155;57204100434;57199654883;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153-60112476;60025153-60112476;60025153
+   - **Corresponding:** Osta M.
+76.
+   - **Title:** FPGA implementation of approximate CORDIC circuits for energy efficient applications
+   - **Venue:** 2019 26th IEEE International Conference on Electronics Circuits and Systems Icecs 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ICECS46596.2019.8964758
+   - **Scopus ID:** 2-s2.0-85079177088
+   - **Pages:** 127-128
+   - **Authors:** Osta Mario; Ibrahim Ali; Valle Maurizio
+   - **Keywords:** CORDIC | Energy Efficient techniques | Low Power circuits
+   - **Source Id:** 21100944554
+   - **Author Ids:** 57197747347;57199654883;57197744325
+   - **Authoraffiliationids:** 60025153;60025153-60112476;60025153
+   - **Corresponding:** Osta M.
+77.
+   - **Title:** Integration of a virtual protheses with a multichannel tactile feedback interface
+   - **Venue:** 2019 26th IEEE International Conference on Electronics Circuits and Systems Icecs 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICECS46596.2019.8965137
+   - **Scopus ID:** 2-s2.0-85079140879
+   - **Pages:** 135-137
+   - **Authors:** Fares Hoda; Dosen Strahinja; Valle Maurizio
+   - **Keywords:** Electrode-skin interface | Myoelectric prostheses | Noninvasive Electrotactile stimulation | Sensory feedback | Tactile sensors | Virtual reality
+   - **Source Id:** 21100944554
+   - **Author Ids:** 57197743964;23388778600;57197744325
+   - **Authoraffiliationids:** 60025153;60022134;60025153
+   - **Corresponding:** Fares H.
+78.
+   - **Title:** Algorithmic level approximate computing for machine learning classifiers
+   - **Venue:** 2019 26th IEEE International Conference on Electronics Circuits and Systems Icecs 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1109/ICECS46596.2019.8964974
+   - **Scopus ID:** 2-s2.0-85079139011
+   - **Pages:** 113-114
+   - **Authors:** Younes Hamoud; Ibrahim Ali; Rizk Mostafa; Valle Maurizio
+   - **Keywords:** Approximate Computing | Embedded Machine Learning | Supervised Learning | Tensorial Data | Time Latency
+   - **Source Id:** 21100944554
+   - **Author Ids:** 57204100434;57199654883;37091339400;57197744325
+   - **Authoraffiliationids:** 60025153-60112476;60025153-60112476;60112476-60068774;60025153
+   - **Corresponding:** Younes H.
+79.
+   - **Title:** FPGA-Based tactile sensory feedback system with optical fiber data communication link for prosthetic applications
+   - **Venue:** 2019 26th IEEE International Conference on Electronics Circuits and Systems Icecs 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ICECS46596.2019.8965172
+   - **Scopus ID:** 2-s2.0-85079127970
+   - **Pages:** 374-377
+   - **Authors:** Di Patrizio Stanchieri G.; Saleh M.; Sciulli M.; De Marcellis A.; Ibrahim A.; Valle M.; Faccio M.; Palange E.
+   - **Keywords:** Optical Fiber Links | Prosthetic Applications | Sensory Feedback Systems
+   - **Source Id:** 21100944554
+   - **Author Ids:** 57191657351;57204771075;57212549786;23975554000;57199654883;57197744325;7003775870;6701392461
+   - **Authoraffiliationids:** 60018783;60025153;60018783;60018783;60025153;60025153;60018783;60018783
+   - **Corresponding:** Di Patrizio Stanchieri G.
+80.
+   - **Title:** Experimental assessment of the interface electronic system for PVDF-based piezoelectric tactile sensors
+   - **Venue:** Sensors Switzerland
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.3390/s19204437
+   - **Scopus ID:** 2-s2.0-85073481551
+   - **ISSN:** 14248220
+   - **Volume:** 19
+   - **Issue:** 20
+   - **Authors:** Saleh Moustafa; Abbass Yahya; Ibrahim Ali; Valle Maurizio
+   - **Keywords:** Experimental characterization | Interface electronics | Sensors measurements | Signal to noise ratio | Tactile sensors
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2019:
+     - Instrumentation (Q1, rank 17, percentile 87)
+     - Electrical and Electronic Engineering (Q1, rank 147, percentile 78)
+     - Information Systems (Q1, rank 70, percentile 76)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 46, percentile 75)
+     - Analytical Chemistry (Q2, rank 35, percentile 71)
+     - Biochemistry (Q2, rank 156, percentile 61)
+   - **Source Id:** 130124
+   - **Author Ids:** 57204771075;57211312886;57199654883;57197744325
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60025153-60112476;60025153
+   - **Corresponding:** Saleh M.
+81.
+   - **Title:** Live Demonstration: Tactile Sensory Feedback System based on UWB Optical Link for Prosthetics
+   - **Venue:** Biocas 2019 Biomedical Circuits and Systems Conference Proceedings
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/BIOCAS.2019.8919060
+   - **Scopus ID:** 2-s2.0-85077047819
+   - **Authors:** Saleh M.; Patrizio Stanchieri G. Di; Sciulli M.; Marcellis A. De; Abbass Y.; Ibrahim A.; Valle M.; Faccio M.; Palange E.
+   - **Source Id:** 21100962465
+   - **Author Ids:** 57204771075;57191657351;57212549786;23975554000;57211312886;57199654883;57197744325;7003775870;6701392461
+   - **Authoraffiliationids:** 60025153;60018783;60018783;60018783;60025153;60025153;60025153;60018783;60018783
+   - **Corresponding:** Saleh M.
+82.
+   - **Title:** Data Oriented Approximate K-Nearest Neighbor Classifier for Touch Modality Recognition
+   - **Venue:** Prime 2019 15th Conference on Ph D Research in Microelectronics and Electronics Proceedings
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/PRIME.2019.8787753
+   - **Scopus ID:** 2-s2.0-85071332045
+   - **Pages:** 241-244
+   - **Authors:** Younes Hamoud; Ibrahim Ali; Rizk Mostafa; Valle Maurizio
+   - **Keywords:** Approximate Computing | Embedded Machine Learning | Performance Profiling | Tactile Sensing
+   - **Source Id:** 21100925780
+   - **Author Ids:** 57204100434;57199654883;37091339400;57197744325
+   - **Authoraffiliationids:** 60025153-60112476;60025153-60112476;60112476;60025153
+   - **Corresponding:** Younes H.
+83.
+   - **Title:** DCNN for Tactile Sensory Data Classification based on Transfer Learning
+   - **Venue:** Prime 2019 15th Conference on Ph D Research in Microelectronics and Electronics Proceedings
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 24
+   - **DOI:** 10.1109/PRIME.2019.8787748
+   - **Scopus ID:** 2-s2.0-85071323991
+   - **Pages:** 237-240
+   - **Authors:** Alameh Mohamad; Ibrahim Ali; Valle Maurizio; Moser Gabriele
+   - **Keywords:** convolutional neural network (CNN) | deep learning | prosthetic | signal processing | Tactile sensing
+   - **Source Id:** 21100925780
+   - **Author Ids:** 57191244155;57199654883;57197744325;7101795745
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Alameh M.
+84.
+   - **Title:** Selected articles from the NGCAS 2018 conference
+   - **Venue:** Journal of Low Power Electronics
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Editorial
+   - **Citations:** 0
+   - **DOI:** 10.1166/jolpe.2019.1587
+   - **Scopus ID:** 2-s2.0-85070995454
+   - **ISSN:** 15461998
+   - **eISSN:** 15462005
+   - **Volume:** 15
+   - **Issue:** 1
+   - **Pages:** 27-29
+   - **Authors:** Gatt Edward; Ibrahim Ali; Valle Maurizio; De Marcellis Andrea; Heidari Hadi
+   - **Quartile:**
+     2019:
+     - Electrical and Electronic Engineering (Q4, rank 530, percentile 20)
+   - **Source Id:** 13000154722
+   - **Author Ids:** 23566673000;57199654883;57197744325;23975554000;55880118300
+   - **Authoraffiliationids:** 60072651;60112476-60025153;60025153;60018783;60001490
+   - **Corresponding:** Gatt E.
+85.
+   - **Title:** Low power electronic system for tactile sensory feedback for prosthetics
+   - **Venue:** Journal of Low Power Electronics
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1166/jolpe.2019.1594
+   - **Scopus ID:** 2-s2.0-85070976410
+   - **ISSN:** 15461998
+   - **eISSN:** 15462005
+   - **Volume:** 15
+   - **Issue:** 1
+   - **Pages:** 95-103
+   - **Authors:** Saleh Moustafa; Ibrahim Ali; Ansovini Flavio; Mohanna Yasser; Valle Maurizio
+   - **Keywords:** Interface Electronics | Low Power Electronics | Piezoelectric Sensors | Prosthetic Application | Wearable Devices
+   - **Quartile:**
+     2019:
+     - Electrical and Electronic Engineering (Q4, rank 530, percentile 20)
+   - **Source Id:** 13000154722
+   - **Author Ids:** 57204771075;57199654883;55372827800;16042986100;57197744325
+   - **Authoraffiliationids:** 60025153-60068774;60025153-60112476;60025153;60068774;60025153
+   - **Corresponding:** Saleh M.
+86.
+   - **Title:** Position and Velocity Control for Telemanipulation with Interoperability Protocol
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2019
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1007/978-3-030-23807-0_26
+   - **Scopus ID:** 2-s2.0-85069001410
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 11649 Lnai
+   - **Pages:** 316-324
+   - **Authors:** Omarali Bukeikhan; Palermo Francesca; Valle Maurizio; Poslad Stefan; Althoefer Kaspar; Farkhatdinov Ildar
+   - **Keywords:** Control | Protocol | Teleoperation
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+     2019:
+     - Computer Science (all) (Q2, rank 95, percentile 57)
+     - Theoretical Computer Science (Q3, rank 77, percentile 35)
+   - **Source Id:** 25674
+   - **Author Ids:** 57188837733;57197794750;57197744325;6602121665;6701489118;24482891800
+   - **Authoraffiliationids:** 60022109-60025153;60022109;60025153;60022109;60022109;60022109-60015150
+   - **Corresponding:** Omarali B.
+87.
+   - **Title:** An energy efficient system for touch modality classification in electronic skin applications
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1109/ISCAS.2019.8702113
+   - **Scopus ID:** 2-s2.0-85066808923
+   - **ISSN:** 02714310
+   - **Volume:** 2019-May
+   - **Authors:** Osta M.; Ibrahim A.; Magno M.; Eggimann M.; Pullini A.; Gastaldo P.; Valle M.
+   - **Keywords:** Energy Efficient EmbeddedMachineLearning | ParallelUltraLowPowerPlatform | Touch Modality Classification
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+     2019:
+     - Electrical and Electronic Engineering (Q3, rank 388, percentile 42)
+   - **Source Id:** 56190
+   - **Author Ids:** 57197747347;57199654883;23097444700;59768183100;22036156300;35612596100;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025858;60025858;60025858;60025153;60025153
+   - **Corresponding:** Osta M.
+88.
+   - **Title:** Live Demonstration: System based on Electronic Skin and Cutaneous Electrostimulation for Sensory Feedback in Prosthetics
+   - **Venue:** 2018 IEEE Biomedical Circuits and Systems Conference Biocas 2018 Proceedings
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/BIOCAS.2018.8584710
+   - **Scopus ID:** 2-s2.0-85060892777
+   - **Authors:** Alameh M.; Saleh M.; Ansovini F.; Fares H.; Ibrahim A.; Franceschi M.; Seminara L.; Valle M.; Dosen S.; Farina D.
+   - **Source Id:** 21100896985
+   - **Author Ids:** 57191244155;57204771075;55372827800;57197743964;57199654883;57038343300;19338029900;57197744325;23388778600;7004908025
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60022134;60015150
+   - **Corresponding:** Alameh M.
+89.
+   - **Title:** Wearable system for sensory substitution for prosthetics
+   - **Venue:** 2018 New Generation of CAS Ngcas 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/NGCAS.2018.8572173
+   - **Scopus ID:** 2-s2.0-85060203348
+   - **Pages:** 110-113
+   - **Authors:** Saleh Moustafa; Ibrahim Ali; Ansovini Flavio; Mohanna Yasser; Valle Maurizio
+   - **Keywords:** Analog to digital converter | Body Area Networks | Interface electronics | Piezoelectric sensors | Prosthetic application
+   - **Source Id:** 21100895322
+   - **Author Ids:** 57204771075;57199654883;55372827800;16042986100;57197744325
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60025153;60068774;60025153
+   - **Corresponding:** Saleh M.
+90.
+   - **Title:** Real-Time embedded machine learning for tensorial tactile data processing
+   - **Venue:** IEEE Transactions on Circuits and Systems I Regular Papers
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 29
+   - **DOI:** 10.1109/TCSI.2018.2852260
+   - **Scopus ID:** 2-s2.0-85051798250
+   - **ISSN:** 15498328
+   - **eISSN:** 15580806
+   - **Volume:** 65
+   - **Issue:** 11
+   - **Pages:** 3897-3906
+   - **Authors:** Ibrahim Ali; Valle Maurizio
+   - **Keywords:** dedicated hardware implementation | Embedded machine learning | FPGA | real time processing | tactile sensors | tensorial kernel
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 28, percentile 92)
+     2018:
+     - Subject (Q1, rank 87, percentile 87)
+   - **Source Id:** 11000153733
+   - **Author Ids:** 57199654883;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Ibrahim A.
+91.
+   - **Title:** Experimental characterization of dedicated front-end electronics for piezoelectric tactile sensing arrays
+   - **Venue:** Integration
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1016/j.vlsi.2018.07.007
+   - **Scopus ID:** 2-s2.0-85050744034
+   - **ISSN:** 01679260
+   - **Volume:** 63
+   - **Pages:** 266-272
+   - **Authors:** Ibrahim Ali; Pinna Luigi; Valle Maurizio
+   - **Keywords:** ENOB | Experimental characterization | Front-end electronics | Sensor measurements | SINAD | Tactile sensors
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 331, percentile 66)
+     - Hardware and Architecture (Q2, rank 93, percentile 60)
+     - Software (Q2, rank 206, percentile 58)
+     2018:
+     - Electrical and Electronic Engineering (Q2, rank 301, percentile 55)
+     - Hardware and Architecture (Q3, rank 91, percentile 40)
+     - Software (Q3, rank 227, percentile 37)
+   - **Source Id:** 17932
+   - **Author Ids:** 57199654883;35932431800;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ibrahim A.
+92.
+   - **Title:** Time-based calibration-less read-out circuit for interfacing wide range MOX gas sensors
+   - **Venue:** Integration
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1016/j.vlsi.2018.05.004
+   - **Scopus ID:** 2-s2.0-85050405847
+   - **ISSN:** 01679260
+   - **Volume:** 63
+   - **Pages:** 232-239
+   - **Authors:** Hijazi Zeinab; Grassi Marco; Caviglia Daniele D.; Valle Maurizio
+   - **Keywords:** High dynamic range | Interface electronics | Linearity | MOX | Resistive gas sensors | Time-based
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 331, percentile 66)
+     - Hardware and Architecture (Q2, rank 93, percentile 60)
+     - Software (Q2, rank 206, percentile 58)
+     2018:
+     - Electrical and Electronic Engineering (Q2, rank 301, percentile 55)
+     - Hardware and Architecture (Q3, rank 91, percentile 40)
+     - Software (Q3, rank 227, percentile 37)
+   - **Source Id:** 17932
+   - **Author Ids:** 57188768487;56257338300;7004012654;57197744325
+   - **Authoraffiliationids:** 60025153;60015197;60025153;60025153
+   - **Corresponding:** Hijazi Z.
+93.
+   - **Title:** CMOS event-driven tactile sensor circuit
+   - **Venue:** Integration
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1016/j.vlsi.2018.04.006
+   - **Scopus ID:** 2-s2.0-85049075794
+   - **ISSN:** 01679260
+   - **Volume:** 63
+   - **Pages:** 315-322
+   - **Authors:** Khalil Ali Abou; Valle Maurizio; Chible Hussein; Bartolozzi Chiara
+   - **Keywords:** Asynchronous | CMOS 180-nm technology | Event-driven tactile sensor | Leaky integrate and fire neuron | Neuromorphic circuits | Piezoelectric | POSFET
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 331, percentile 66)
+     - Hardware and Architecture (Q2, rank 93, percentile 60)
+     - Software (Q2, rank 206, percentile 58)
+     2018:
+     - Electrical and Electronic Engineering (Q2, rank 301, percentile 55)
+     - Hardware and Architecture (Q3, rank 91, percentile 40)
+     - Software (Q3, rank 227, percentile 37)
+   - **Source Id:** 17932
+   - **Author Ids:** 57195379897;57197744325;7801443090;22940171400
+   - **Authoraffiliationids:** 60025153-60068774-60102151;60025153;60068774;60102151
+   - **Corresponding:** Khalil A.
+94.
+   - **Title:** Tunable Floating-Point for Embedded Machine Learning Algorithms Implementation
+   - **Venue:** Smacd 2018 15th International Conference on Synthesis Modeling Analysis and Simulation Methods and Applications to Circuit Design
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/SMACD.2018.8434873
+   - **Scopus ID:** 2-s2.0-85052535425
+   - **Pages:** 89-92
+   - **Authors:** Franceschi Marta; Nannarelli Alberto; Valle Maurizio
+   - **Keywords:** power efficiency | Simulation | SVD algorithm
+   - **Source Id:** 21101296537
+   - **Author Ids:** 57038343300;6701686139;57197744325
+   - **Authoraffiliationids:** 60025153;60011373;60025153
+   - **Corresponding:** Franceschi M.
+95.
+   - **Title:** Multi-Channel Electrotactile Stimulation System for Touch Substitution: A Case Study
+   - **Venue:** Prime 2018 14th Conference on Ph D Research in Microelectronics and Electronics
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/PRIME.2018.8430345
+   - **Scopus ID:** 2-s2.0-85052501499
+   - **Pages:** 213-216
+   - **Authors:** Fares Hoda; Seminara Lucia; Chible Hussein; Dosen Strahinja; Valle Maurizio
+   - **Keywords:** Electrotactile stimulation | frequency coding | restoration of sense of touch | somatosensory feedback | stimulation electrodes | tactile perception
+   - **Source Id:** 21100875439
+   - **Author Ids:** 57197743964;19338029900;7801443090;23388778600;57197744325
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60068774;60022134;60025153
+   - **Corresponding:** Fares H.
+96.
+   - **Title:** Tunable Floating-Point for Artificial Neural Networks
+   - **Venue:** 2018 25th IEEE International Conference on Electronics Circuits and Systems Icecs 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/ICECS.2018.8617900
+   - **Scopus ID:** 2-s2.0-85062283878
+   - **Pages:** 289-292
+   - **Authors:** Franceschi Marta; Nannarelli Alberto; Valle Maurizio
+   - **Keywords:** Floating-point | neural networks | power efficiency
+   - **Source Id:** 21101296341
+   - **Author Ids:** 57038343300;6701686139;57197744325
+   - **Authoraffiliationids:** 60025153;60011373;60025153
+   - **Corresponding:** Franceschi M.
+97.
+   - **Title:** Approximate Computing Methods for Embedded Machine Learning
+   - **Venue:** 2018 25th IEEE International Conference on Electronics Circuits and Systems Icecs 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 31
+   - **DOI:** 10.1109/ICECS.2018.8617877
+   - **Scopus ID:** 2-s2.0-85062270862
+   - **Pages:** 845-848
+   - **Authors:** Ibrahim Ali; Osta Mario; Alameh Mohamad; Saleh Moustafa; Chible Hussein; Valle Maurizio
+   - **Keywords:** Approximate Computing | Embedded Machine Learning | Energy Efficiency | Error Resilient Systems
+   - **Source Id:** 21101179329
+   - **Author Ids:** 57199654883;57197747347;57191244155;57204771075;7801443090;57197744325
+   - **Authoraffiliationids:** 60025153-60068774;60025153-60068774;60025153;60025153-60068774;60068774;60025153
+   - **Corresponding:** Ibrahim A.
+98.
+   - **Title:** Screen Printed Tactile Sensing Arrays for Prosthetic Applications
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/ISCAS.2018.8351892
+   - **Scopus ID:** 2-s2.0-85057127422
+   - **ISSN:** 02714310
+   - **Volume:** 2018-May
+   - **Authors:** Fares H.; Seminara L.; Pinna L.; Valle M.; Groten J.; Hammer M.; Zirkl M.; Stadlober B.
+   - **Keywords:** flexible electronic skin | piezoelectric polymer screen printing | prosthetics | tactile sensing array
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+     2018:
+     - Electrical and Electronic Engineering (Q3, rank 382, percentile 42)
+   - **Source Id:** 56190
+   - **Author Ids:** 57197743964;19338029900;35932431800;57197744325;34881624900;57204769126;8645083300;8645083800
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60025153;60025153;60027742;60027742;60027742;60027742
+   - **Corresponding:** Fares H.
+99.
+   - **Title:** Live Demonstration: Electrotactile feedback from an electronic skin through flexible electrode matrix
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ISCAS.2018.8351822
+   - **Scopus ID:** 2-s2.0-85057081051
+   - **ISSN:** 02714310
+   - **Volume:** 2018-May
+   - **Authors:** Franceschi M.; Seminara L.; Dosen S.; Pinna L.; Fares H.; Saleh M.; Valle M.; Farina D.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+     2018:
+     - Electrical and Electronic Engineering (Q3, rank 382, percentile 42)
+   - **Source Id:** 56190
+   - **Author Ids:** 57038343300;19338029900;23388778600;35932431800;57197743964;57204771075;57197744325;7004908025
+   - **Authoraffiliationids:** 60025153;60025153;60022134;60025153;60025153;60025153;60025153;60015150
+   - **Corresponding:** Franceschi M.
+100.
+   - **Title:** Inexact Arithmetic Circuits for Energy Efficient IoT Sensors Data Processing
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 16
+   - **DOI:** 10.1109/ISCAS.2018.8351839
+   - **Scopus ID:** 2-s2.0-85054854760
+   - **ISSN:** 02714310
+   - **Volume:** 2018-May
+   - **Authors:** Osta Mario; Ibrahim Ali; Chible Hussein; Valle Maurizio
+   - **Keywords:** Approximate computing | Energy efficiency | Inexact circuits | IoT | Smart sensors
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+     2018:
+     - Electrical and Electronic Engineering (Q3, rank 382, percentile 42)
+   - **Source Id:** 56190
+   - **Author Ids:** 57197747347;57199654883;7801443090;57197744325
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60068774;60025153
+   - **Corresponding:** Osta M.
+101.
+   - **Title:** Selected articles from the NGCAS 2017 conference
+   - **Venue:** Journal of Low Power Electronics
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Editorial
+   - **Citations:** 0
+   - **DOI:** 10.1166/jolpe.2018.1546
+   - **Scopus ID:** 2-s2.0-85044864790
+   - **ISSN:** 15461998
+   - **eISSN:** 15462005
+   - **Volume:** 14
+   - **Issue:** 1
+   - **Pages:** 99-100
+   - **Authors:** Valle Maurizio; Ibrahim Ali; Martina Maurizio; Magno Michele
+   - **Quartile:**
+     2018:
+     - Electrical and Electronic Engineering (Q4, rank 539, percentile 19)
+   - **Source Id:** 13000154722
+   - **Author Ids:** 57197744325;57199654883;35611651300;23097444700
+   - **Authoraffiliationids:** 60025153;60025153;60012162;60025858
+   - **Corresponding:** Valle M.
+102.
+   - **Title:** Low power approximate multipliers for energy efficient data processing
+   - **Venue:** Journal of Low Power Electronics
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1166/jolpe.2018.1536
+   - **Scopus ID:** 2-s2.0-85044861061
+   - **ISSN:** 15461998
+   - **eISSN:** 15462005
+   - **Volume:** 14
+   - **Issue:** 1
+   - **Pages:** 110-117
+   - **Authors:** Osta Mario; Ibrahim Ali; Seminara Lucia; Chible Hussein; Valle Maurizio
+   - **Keywords:** Approximate computing techniques | Energy efficiency | Error tolerant adders | Inexact digital multipliers
+   - **Quartile:**
+     2018:
+     - Electrical and Electronic Engineering (Q4, rank 539, percentile 19)
+   - **Source Id:** 13000154722
+   - **Author Ids:** 57197747347;57199654883;19338029900;7801443090;57197744325
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60025153;60068774;60025153
+   - **Corresponding:** Osta M.
+103.
+   - **Title:** An energy efficient E-skin embedded system for real-time tactile data decoding
+   - **Venue:** Journal of Low Power Electronics
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1166/jolpe.2018.1537
+   - **Scopus ID:** 2-s2.0-85044845484
+   - **ISSN:** 15461998
+   - **eISSN:** 15462005
+   - **Volume:** 14
+   - **Issue:** 1
+   - **Pages:** 101-109
+   - **Authors:** Magno Michele; Ibrahim Ali; Pullini Antonio; Valle Maurizio; Benini Luca
+   - **Keywords:** Electronic skin | Low power processing | Machine learning implementation | Parallel ultra-low power | Wearable devices
+   - **Quartile:**
+     2018:
+     - Electrical and Electronic Engineering (Q4, rank 539, percentile 19)
+   - **Source Id:** 13000154722
+   - **Author Ids:** 23097444700;57199654883;22036156300;57197744325;35556997000
+   - **Authoraffiliationids:** 60025858;60025153;60025858;60025153;60025858
+   - **Corresponding:** Magno M.
+104.
+   - **Title:** Distributed sensing and stimulation systems for sense of touch restoration in prosthetics
+   - **Venue:** Proceedings 2017 1st New Generation of CAS Ngcas 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1109/NGCAS.2017.54
+   - **Scopus ID:** 2-s2.0-85034455727
+   - **Pages:** 177-180
+   - **Authors:** Fares Hoda; Seminara Lucia; Ibrahim Ali; Franceschi Marta; Pinna Luigi; Valle Maurizio; Dosen Strahinja; Farina Dario
+   - **Keywords:** Distributed sensing | Distributed stimulation | Embedded electronics | Prosthetic hands | Somatosensory feedback
+   - **Source Id:** 21100838549
+   - **Author Ids:** 57197743964;19338029900;57199654883;57038343300;35932431800;57197744325;23388778600;7004908025
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60025153;60025153;60025153;60025153;60022134;60015150
+   - **Corresponding:** Fares H.
+105.
+   - **Title:** CMOS dynamic tactile sensor
+   - **Venue:** Proceedings 2017 1st New Generation of CAS Ngcas 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/NGCAS.2017.48
+   - **Scopus ID:** 2-s2.0-85034450343
+   - **Pages:** 269-272
+   - **Authors:** Khalil Ali Abou; Valle Maurizio; Chible Hussein; Bartolozzi Chiara
+   - **Keywords:** Change Detector (CD) | CMOS 0.18mm technology | Dynamic Tactile Sensor (DTS) | Event-driven tactile sensor | Neuromorphic
+   - **Source Id:** 21100838549
+   - **Author Ids:** 57195379897;57197744325;7801443090;22940171400
+   - **Authoraffiliationids:** 60025153-60068774-60102151;60025153;60068774;60102151
+   - **Corresponding:** Khalil A.
+106.
+   - **Title:** Interface circuits based on FPGA for tactile sensor systems
+   - **Venue:** Proceedings 2017 1st New Generation of CAS Ngcas 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/NGCAS.2017.60
+   - **Scopus ID:** 2-s2.0-85034441473
+   - **Pages:** 37-40
+   - **Authors:** Ibrahim Ali; Pinna Luigi; Valle Maurizio
+   - **Keywords:** Electronic skin | Interface circuits | Sensor measurements | Tactile sensors
+   - **Source Id:** 21100838549
+   - **Author Ids:** 57199654883;35932431800;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ibrahim A.
+107.
+   - **Title:** Welcome message from the general chair
+   - **Venue:** Proceedings 2017 1st New Generation of CAS Ngcas 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Editorial
+   - **Citations:** 0
+   - **DOI:** 10.1109/NGCAS.2017.6
+   - **Scopus ID:** 2-s2.0-85034439483
+   - **Pages:** xiii-xiv
+   - **Authors:** Valle Maurizio
+   - **Source Id:** 21100838549
+   - **Author Ids:** 57197744325
+   - **Corresponding:** Valle M.
+108.
+   - **Title:** Approximate FPGA implementation of CORDIC for tactile data processing using speculative adders
+   - **Venue:** Proceedings 2017 1st New Generation of CAS Ngcas 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/NGCAS.2017.40
+   - **Scopus ID:** 2-s2.0-85034432692
+   - **Pages:** 41-44
+   - **Authors:** Franceschi Marta; Camus Vincent; Ibrahim Ali; Enz Christian; Valle Maurizio
+   - **Keywords:** Approximate computing | CORDIC | FPGA | Inexact speculative adder | Tactile data processing
+   - **Source Id:** 21100838549
+   - **Author Ids:** 57038343300;56919423100;57199654883;7005370402;57197744325
+   - **Authoraffiliationids:** 60025153;60028186;60025153;60028186;60025153
+   - **Corresponding:** Franceschi M.
+109.
+   - **Title:** Energy efficient system for tactile data decoding using an ultra-low power parallel platform
+   - **Venue:** Proceedings 2017 1st New Generation of CAS Ngcas 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/NGCAS.2017.56
+   - **Scopus ID:** 2-s2.0-85034425789
+   - **Pages:** 17-20
+   - **Authors:** Magno Michele; Ibrahim Ali; Pullini Antonio; Valle Maurizio; Benini Luca
+   - **Keywords:** Electronic skin | Low power processing | Machine learning implementation | Parallel ultra low power | Wearable devices
+   - **Source Id:** 21100838549
+   - **Author Ids:** 23097444700;57199654883;22036156300;57197744325;35556997000
+   - **Authoraffiliationids:** 60025858;60025153;60025858;60025153;60025858
+   - **Corresponding:** Magno M.
+110.
+   - **Title:** Approximate multipliers based on inexact adders for energy efficient data processing
+   - **Venue:** Proceedings 2017 1st New Generation of CAS Ngcas 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 25
+   - **DOI:** 10.1109/NGCAS.2017.41
+   - **Scopus ID:** 2-s2.0-85034417515
+   - **Pages:** 125-128
+   - **Authors:** Osta Mario; Ibrahim Ali; Chible Hussein; Valle Maurizio
+   - **Keywords:** Accuracy | Approximate Computing | Digital Multipliers | Error Tolerant | Low Power Consumption
+   - **Source Id:** 21100838549
+   - **Author Ids:** 57197747347;57199654883;7801443090;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153-60068774
+   - **Corresponding:** Osta M.
+111.
+   - **Title:** 153dB dynamic range calibration-less gas sensor interface circuit with quasi-digital output
+   - **Venue:** Proceedings 2017 1st New Generation of CAS Ngcas 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1109/NGCAS.2017.11
+   - **Scopus ID:** 2-s2.0-85034416041
+   - **Pages:** 109-112
+   - **Authors:** Hijazi Zeinab; Grassi Marco; Caviglia Daniele D.; Valle Maurizio
+   - **Keywords:** High dynamic range | Interface electronics | Linearity | MOX | Quasi digital | Resistive gas sensors
+   - **Source Id:** 21100838549
+   - **Author Ids:** 57188768487;56257338300;7004012654;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60015197
+   - **Corresponding:** Hijazi Z.
+112.
+   - **Title:** Electronic skin and electrocutaneous stimulation to restore the sense of touch in hand prosthetics
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/ISCAS.2017.8050264
+   - **Scopus ID:** 2-s2.0-85032685782
+   - **ISSN:** 02714310
+   - **Authors:** Seminara L.; Franceschi M.; Pinna L.; Ibrahim A.; Valle M.; Dosen S.; Farina D.
+   - **Keywords:** electronic skin | embedded electronic system | prosthetics | tactile sensing
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+     2017:
+     - Electrical and Electronic Engineering (Q3, rank 366, percentile 45)
+   - **Source Id:** 56190
+   - **Author Ids:** 19338029900;57038343300;35932431800;57199654883;57197744325;23388778600;7004908025
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60021110;60015150
+   - **Corresponding:** Seminara L.
+113.
+   - **Title:** Interface Electronics for Tactile Sensors Based on Piezoelectric Polymers
+   - **Venue:** IEEE Sensors Journal
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 24
+   - **DOI:** 10.1109/JSEN.2017.2730840
+   - **Scopus ID:** 2-s2.0-85028915407
+   - **ISSN:** 1530437X
+   - **Volume:** 17
+   - **Issue:** 18
+   - **Pages:** 5937-5947
+   - **Authors:** Pinna Luigi; Ibrahim Ali; Valle Maurizio
+   - **Keywords:** charge to voltage converter | embedded electronic systems | Interface electronics | piezoelectric polymer | PVDF | tactile sensors
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 27, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 175, percentile 82)
+     2017:
+     - Instrumentation (Q1, rank 14, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 109, percentile 83)
+   - **Source Id:** 15047
+   - **Author Ids:** 35932431800;57199654883;57197744325
+   - **Authoraffiliationids:** 60025153;60025153-60068774;60025153
+   - **Corresponding:** Pinna L.
+114.
+   - **Title:** Improved event-driven touch CMOS sensor
+   - **Venue:** Prime 2017 13th Conference on Phd Research in Microelectronics and Electronics Proceedings
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/PRIME.2017.7974134
+   - **Scopus ID:** 2-s2.0-85027589191
+   - **Pages:** 169-172
+   - **Authors:** Khalil Ali Abou; Valle Maurizio; Chible Hussein; Bartolozzi Chiara
+   - **Keywords:** AMS 0.18μm technology | Event driven tactile sensor | LIF(Leaky Integrate and Fire Neuron) | Neuromorphic
+   - **Source Id:** 21100827311
+   - **Author Ids:** 57195379897;57197744325;7801443090;22940171400
+   - **Authoraffiliationids:** 60025153-60068774-60102151;60025153;60068774;60102151
+   - **Corresponding:** Khalil A.
+115.
+   - **Title:** Spike-Based Readout of POSFET Tactile Sensors
+   - **Venue:** IEEE Transactions on Circuits and Systems I Regular Papers
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 20
+   - **DOI:** 10.1109/TCSI.2016.2561818
+   - **Scopus ID:** 2-s2.0-85020253478
+   - **ISSN:** 15498328
+   - **eISSN:** 15580806
+   - **Volume:** 64
+   - **Issue:** 6
+   - **Pages:** 1421-1431
+   - **Authors:** Caviglia Stefano; Pinna Luigi; Valle Maurizio; Bartolozzi Chiara
+   - **Keywords:** Address event representation (AER) | compressive sensing | event-driven sensing | neuromorphic | touch
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 28, percentile 92)
+     2017:
+     - Subject (Q1, rank 73, percentile 89)
+   - **Source Id:** 11000153733
+   - **Author Ids:** 56369796600;35932431800;57197744325;22940171400
+   - **Authoraffiliationids:** 60102151-60025153;60025153;60025153;60102151
+   - **Corresponding:** Caviglia S.
+116.
+   - **Title:** Approximate computing techniques for low power implementation of reconfigurable coordinate rotation digital computer circuits
+   - **Venue:** Journal of Low Power Electronics
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1166/jolpe.2017.1482
+   - **Scopus ID:** 2-s2.0-85020037463
+   - **ISSN:** 15461998
+   - **eISSN:** 15462005
+   - **Volume:** 13
+   - **Issue:** 2
+   - **Pages:** 196-204
+   - **Authors:** Ibrahim Ali; Valle Maurizio
+   - **Keywords:** Approximate computing | CORDIC | FPGA implementation | Inexact adders | Low power consumption | Real time reconfigurability | Scalable precision
+   - **Quartile:**
+     2017:
+     - Electrical and Electronic Engineering (Q3, rank 491, percentile 26)
+   - **Source Id:** 13000154722
+   - **Author Ids:** 57199654883;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Ibrahim A.
+117.
+   - **Title:** A System for Electrotactile Feedback Using Electronic Skin and Flexible Matrix Electrodes: Experimental Evaluation
+   - **Venue:** IEEE Transactions on Haptics
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 68
+   - **DOI:** 10.1109/TOH.2016.2618377
+   - **Scopus ID:** 2-s2.0-85028334850
+   - **ISSN:** 19391412
+   - **Volume:** 10
+   - **Issue:** 2
+   - **Pages:** 162-172
+   - **Authors:** Franceschi Marta; Seminara Lucia; Dosen Strahinja; Strbac Matija; Valle Maurizio; Farina Dario
+   - **Keywords:** Electronic skin | electrotactile stimulation | human-computer interaction | matrix electrodes | prosthetics | sensory substitution
+   - **Quartile:**
+     2025:
+     - Computer Science Applications (Q2, rank 324, percentile 67)
+     - Human-Computer Interaction (Q2, rank 90, percentile 53)
+     2017:
+     - Computer Science Applications (Q2, rank 144, percentile 74)
+     - Human-Computer Interaction (Q2, rank 27, percentile 70)
+   - **Source Id:** 12100154405
+   - **Author Ids:** 57038343300;19338029900;23388778600;55185521500;57197744325;7004908025
+   - **Authoraffiliationids:** 60025153;60025153;60021110-60110404;60276555;60025153;60015150
+   - **Corresponding:** Franceschi M.
+118.
+   - **Title:** Real-time digital signal processing based on FPGAs for electronic skin implementation
+   - **Venue:** Sensors Switzerland
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 24
+   - **DOI:** 10.3390/s17030558
+   - **Scopus ID:** 2-s2.0-85015186653
+   - **ISSN:** 14248220
+   - **Volume:** 17
+   - **Issue:** 3
+   - **Authors:** Ibrahim Ali; Gastaldo Paolo; Chible Hussein; Valle Maurizio
+   - **Keywords:** Digital signal processing | Electronic skin system | FPGA implementation | Power consumption | Real-time classification
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2017:
+     - Instrumentation (Q1, rank 20, percentile 84)
+     - Electrical and Electronic Engineering (Q1, rank 131, percentile 80)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 44, percentile 74)
+     - Analytical Chemistry (Q2, rank 38, percentile 67)
+     - Biochemistry (Q2, rank 186, percentile 55)
+   - **Source Id:** 130124
+   - **Author Ids:** 57199654883;35612596100;7801443090;57197744325
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60068774;60025153
+   - **Corresponding:** Ibrahim A.
+119.
+   - **Title:** Embedded electronic systems for tactile data processing
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2017
+   - **Type:** Book Series
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-3-319-47913-2_3
+   - **Scopus ID:** 2-s2.0-85008471276
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 409
+   - **Pages:** 17-23
+   - **Authors:** Ibrahim Ali; Noli Luca; Chible Hussein; Valle Maurizio
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+     2017:
+     - Industrial and Manufacturing Engineering (Q3, rank 220, percentile 33)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 57199654883;6507179015;7801443090;57197744325
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60068774;60025153
+   - **Corresponding:** Ibrahim A.
+120.
+   - **Title:** Differential R-to-I conversion circuit for gas sensing in biomedical applications
+   - **Venue:** Middle East Conference on Biomedical Engineering Mecbme
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/MECBME.2016.7745412
+   - **Scopus ID:** 2-s2.0-85000766790
+   - **ISSN:** 21654247
+   - **eISSN:** 21654255
+   - **Volume:** 2016-November
+   - **Pages:** 76-79
+   - **Authors:** Hijazi Zeinab; Caviglia Daniele; Chible Hussein; Valle Maurizio
+   - **Keywords:** E-nose | environmental corners | portable applications | process variation | R-to-I conversion | resistive gas sensors
+   - **Source Id:** 21100313902
+   - **Author Ids:** 57188768487;7004012654;7801443090;57197744325
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60068774;60025153
+   - **Corresponding:** Hijazi Z.
+121.
+   - **Title:** Flexible hardware architecture for the generation of ultrasound pulses in medical imaging
+   - **Venue:** IEEE International Ultrasonics Symposium Ius
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ULTSYM.2016.7728595
+   - **Scopus ID:** 2-s2.0-84996483354
+   - **ISSN:** 19485719
+   - **eISSN:** 19485727
+   - **Volume:** 2016-November
+   - **Authors:** Terenzi Marco; Ghisu Davide; Quaglia Fabio; Boni Enrico; Mendez Maurizio Diaz; Valle Maurizio; Caviglia Daniele D.
+   - **Keywords:** high voltage pulser | integrated circuits | multilevel ultrasound drivers
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q2, rank 27, percentile 50)
+   - **Source Id:** 21100219905
+   - **Author Ids:** 55827139300;56412028800;36814319600;57196175627;36441498000;57197744325;7004012654
+   - **Authoraffiliationids:** 60023682;60023682;60023682;60021859;60025153;60025153;60025153
+   - **Corresponding:** Terenzi M.
+122.
+   - **Title:** Model-Based Simulation Framework for FlexRay Communication Systems
+   - **Venue:** Journal of Circuits Systems and Computers
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1142/S0218126616501371
+   - **Scopus ID:** 2-s2.0-84976871888
+   - **ISSN:** 02181266
+   - **Volume:** 25
+   - **Issue:** 11
+   - **Authors:** Muller Candice; Valle Maurizio; Buzas Roman; Brtan Filip
+   - **Keywords:** EPL | FlexRay | model-based simulation | signal integrity
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 494, percentile 50)
+     - Hardware and Architecture (Q3, rank 131, percentile 44)
+     2016:
+     - Electrical and Electronic Engineering (Q3, rank 464, percentile 29)
+     - Hardware and Architecture (Q4, rank 128, percentile 13)
+   - **Source Id:** 26046
+   - **Author Ids:** 35198550100;57197744325;24586819000;57190047993
+   - **Authoraffiliationids:** 60015760;60025153;106456454;106456454
+   - **Corresponding:** Muller C.
+123.
+   - **Title:** Achievements and open issues toward embedding tactile sensing and interpretation into electronic skin systems
+   - **Venue:** Material Integrated Intelligent Systems Technology and Applications
+   - **Year:** 2016
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 6
+   - **DOI:** 10.1002/9783527679249.ch23
+   - **Scopus ID:** 2-s2.0-85034445600
+   - **Pages:** 571-593
+   - **Authors:** Ibrahim Ali; Pinna Luigi; Seminara Lucia; Valle Maurizio
+   - **Source Id:** 21100870211
+   - **Author Ids:** 57199654883;35932431800;19338029900;57197744325
+   - **Authoraffiliationids:** 100505222;100505222;100505222;100505222
+   - **Corresponding:** Ibrahim A.
+124.
+   - **Title:** A high-sensitivity tactile sensor based on piezoelectric polymer PVDF coupled to an ultra-low voltage organic transistor
+   - **Venue:** Organic Electronics Physics Materials Applications
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 95
+   - **DOI:** 10.1016/j.orgel.2016.05.034
+   - **Scopus ID:** 2-s2.0-84974575282
+   - **ISSN:** 15661199
+   - **Volume:** 36
+   - **Pages:** 57-60
+   - **Authors:** Spanu A.; Pinna L.; Viola F.; Seminara L.; Valle Maurizio; Bonfiglio A.; Cosseddu P.
+   - **Keywords:** e-skin | Organic charge modulated FETs | Piezoelectric sensors
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 263, percentile 73)
+     - Condensed Matter Physics (Q2, rank 128, percentile 71)
+     - Chemistry (all) (Q2, rank 130, percentile 68)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 102, percentile 67)
+     - Materials Chemistry (Q2, rank 129, percentile 60)
+     - Biomaterials (Q2, rank 69, percentile 52)
+     2016:
+     - Materials Chemistry (Q1, rank 16, percentile 93)
+     - Condensed Matter Physics (Q1, rank 33, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 64, percentile 90)
+     - Electronic, Optical and Magnetic Materials (Q1, rank 26, percentile 88)
+     - Chemistry (all) (Q1, rank 48, percentile 87)
+     - Biomaterials (Q1, rank 17, percentile 76)
+   - **Source Id:** 18663
+   - **Author Ids:** 55801736500;35932431800;56396332300;19338029900;57197744325;7004010259;23979421700
+   - **Authoraffiliationids:** 60032259;60025153;60032259;60025153;60025153;60032259;60032259
+   - **Corresponding:** Spanu A.
+125.
+   - **Title:** An event-driven POSFET taxel for sustained and transient sensing
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/ISCAS.2016.7527242
+   - **Scopus ID:** 2-s2.0-84983457667
+   - **ISSN:** 02714310
+   - **Volume:** 2016-July
+   - **Pages:** 349-352
+   - **Authors:** Caviglia Stefano; Pinna Luigi; Valle Maurizio; Bartolozzi Chiara
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+     2016:
+     - Electrical and Electronic Engineering (Q3, rank 345, percentile 47)
+   - **Source Id:** 56190
+   - **Author Ids:** 56369796600;35932431800;57197744325;22940171400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60102151
+   - **Corresponding:** Caviglia S.
+126.
+   - **Title:** Wide range resistance to current conversion circuit for resistive gas sensors applications
+   - **Venue:** 2016 12th Conference on Ph D Research in Microelectronics and Electronics Prime 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/PRIME.2016.7519537
+   - **Scopus ID:** 2-s2.0-84992051959
+   - **Authors:** Hijazi Zeinab; Caviglia Daniele; Valle Maurizio; Chible Hussein
+   - **Keywords:** Linear current mirror | resistance to current conversion | resistive gas sensor | wide range
+   - **Source Id:** 21100782632
+   - **Author Ids:** 57188768487;7004012654;57197744325;7801443090
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60025153;60068774
+   - **Corresponding:** Hijazi Z.
+127.
+   - **Title:** Towards the integration of e-skin into prosthetic devices
+   - **Venue:** 2016 12th Conference on Ph D Research in Microelectronics and Electronics Prime 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/PRIME.2016.7519546
+   - **Scopus ID:** 2-s2.0-84992036329
+   - **Authors:** Franceschi Marta; Seminara Lucia; Pinna Luigi; Valle Maurizio; Ibrahim Ali; Dosen Strahinja
+   - **Keywords:** Electronic Skin | Embedded Electronic System | Prosthetic Devices
+   - **Source Id:** 21100782632
+   - **Author Ids:** 57038343300;19338029900;35932431800;57197744325;57199654883;23388778600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153-60068774;60021110
+   - **Corresponding:** Franceschi M.
+128.
+   - **Title:** Towards integrating intelligence in electronic skin
+   - **Venue:** Mechatronics
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 33
+   - **DOI:** 10.1016/j.mechatronics.2015.04.001
+   - **Scopus ID:** 2-s2.0-84928676853
+   - **ISSN:** 09574158
+   - **Volume:** 34
+   - **Pages:** 84-94
+   - **Authors:** Seminara Lucia; Pinna Luigi; Ibrahim Ali; Noli Luca; Caviglia Stefano; Gastaldo Paolo; Valle Maurizio
+   - **Keywords:** E-skin | Electronic embedded systems | Materials integrated sensing | Piezoelectric polymers | Tactile information processing
+   - **Quartile:**
+     2025:
+     - Mechanical Engineering (Q1, rank 144, percentile 80)
+     - Electrical and Electronic Engineering (Q1, rank 208, percentile 79)
+     - Control and Systems Engineering (Q1, rank 86, percentile 77)
+     - Computer Science Applications (Q1, rank 240, percentile 75)
+     2016:
+     - Mechanical Engineering (Q1, rank 42, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 93, percentile 85)
+     - Computer Science Applications (Q1, rank 80, percentile 85)
+   - **Source Id:** 21096
+   - **Author Ids:** 19338029900;35932431800;57199654883;6507179015;56369796600;35612596100;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Seminara L.
+129.
+   - **Title:** Design of Operational Transconductance Amplifiers for voltage to current conversion in gas sensing applications
+   - **Venue:** Aeit 2016 International Annual Conference Sustainable Development in the Mediterranean Area Energy and ICT Networks of the Future
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.23919/AEIT.2016.7892798
+   - **Scopus ID:** 2-s2.0-85018388718
+   - **Authors:** Hijazi Zeinab; Caviglia Daniele; Chible Hussein; Valle Maurizio
+   - **Keywords:** Rail-to-Rail Folded Cascode OTA | resistive gas sensors | two stage compensated Capacitor Multiplier OTA | two stage compensated Miller OTA | voltage to current conversion
+   - **Source Id:** 21100866813
+   - **Author Ids:** 57188768487;7004012654;7801443090;57197744325
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60068774;60025153
+   - **Corresponding:** Hijazi Z.
+130.
+   - **Title:** Resiliency in nanometer CMOS systems: An overview
+   - **Venue:** 2016 IEEE International Conference on Electronics Circuits and Systems Icecs 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICECS.2016.7841257
+   - **Scopus ID:** 2-s2.0-85015325839
+   - **Pages:** 536-539
+   - **Authors:** Ibrahim Ali; Valle Maurizio
+   - **Keywords:** Nanoscale CMOS | Reliability | Resiliency | Variation Tolerant Design
+   - **Source Id:** 21101179798
+   - **Author Ids:** 57199654883;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Ibrahim A.
+131.
+   - **Title:** High accuracy resistance to current circuit design for resistive gas sensor biomedical applications
+   - **Venue:** 2015 International Conference on Advances in Biomedical Engineering Icabme 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ICABME.2015.7323250
+   - **Scopus ID:** 2-s2.0-84962820693
+   - **Pages:** 57-60
+   - **Authors:** Hijazi Zeinab; Caviglia Daniele; Valle Maurizio; Chible Hussein
+   - **Keywords:** circuit accuracy | gas sensor | resistive sensor interface circuit | voltage to current converter
+   - **Source Id:** 21100455479
+   - **Author Ids:** 57188768487;7004012654;57197744325;7801443090
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60025153;60068774
+   - **Corresponding:** Hijazi Z.
+132.
+   - **Title:** Preliminary evaluation of the tactile feedback system based on artificial skin and electrotactile stimulation
+   - **Venue:** Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society EMBS
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/EMBC.2015.7319407
+   - **Scopus ID:** 2-s2.0-84953324863
+   - **ISSN:** 1557170X
+   - **Volume:** 2015-November
+   - **Pages:** 4554-4557
+   - **Authors:** Franceschi M.; Seminara L.; Pinna L.; Dosen S.; Farina D.; Valle M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 585, percentile 41)
+     2015:
+     - Subject (Q3, rank 59, percentile 33)
+     - Subject (Q3, rank 2279, percentile 30)
+     - Subject (Q3, rank 46, percentile 28)
+     - Subject (Q3, rank 132, percentile 28)
+     - Subject (Q4, rank 43, percentile 21)
+   - **Source Id:** 34202
+   - **Author Ids:** 57038343300;19338029900;35932431800;23388778600;7004908025;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60021110;60021110;60025153
+   - **Corresponding:** Franceschi M.
+133.
+   - **Title:** Assessment of FPGA implementations of one sided Jacobi algorithm for singular value decomposition
+   - **Venue:** Proceedings of IEEE Computer Society Annual Symposium on VLSI Isvlsi
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/ISVLSI.2015.63
+   - **Scopus ID:** 2-s2.0-84957034780
+   - **ISSN:** 21593469
+   - **eISSN:** 21593477
+   - **Volume:** 07-10-July-2015
+   - **Pages:** 56-61
+   - **Authors:** Ibrahim Ali; Valle Maurizio; Noli Luca; Chible Hussein
+   - **Keywords:** Cordic method | FPGA implementations | One sided Jacobi algorithm | Singular value decomposition | Tactile data processing
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 646, percentile 35)
+     - Control and Systems Engineering (Q3, rank 258, percentile 32)
+     - Hardware and Architecture (Q4, rank 177, percentile 24)
+   - **Source Id:** 21100286357
+   - **Author Ids:** 57199654883;57197744325;6507179015;7801443090
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60025153;60068774
+   - **Corresponding:** Ibrahim A.
+134.
+   - **Title:** Indoor ranging and localisation algorithm based on received signal strength indicator using statistic parameters for wireless sensor networks
+   - **Venue:** Iet Wireless Sensor Systems
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 41
+   - **DOI:** 10.1049/iet-wss.2014.0027
+   - **Scopus ID:** 2-s2.0-84942510295
+   - **ISSN:** 20436386
+   - **eISSN:** 20436394
+   - **Volume:** 5
+   - **Issue:** 5
+   - **Pages:** 243-249
+   - **Authors:** Pagano Saverio; Peirani Simone; Valle Maurizio
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q2, rank 147, percentile 64)
+     2015:
+     - Industrial and Manufacturing Engineering (Q1, rank 41, percentile 86)
+   - **Source Id:** 19900192119
+   - **Author Ids:** 56875265100;56875370100;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Pagano S.
+135.
+   - **Title:** FPGA implementation of fixed point CORDIC-SVD for E-skin systems
+   - **Venue:** 2015 11th Conference on Ph D Research in Microelectronics and Electronics Prime 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/PRIME.2015.7251399
+   - **Scopus ID:** 2-s2.0-84946882063
+   - **Pages:** 318-321
+   - **Authors:** Ibrahim Ali; Valle Maurizio; Noli Luca; Chible Hussein
+   - **Keywords:** CORDIC modules | E-skin | Real time FPGA implementation | Singular Value Decomposition | Tensorial Kernel
+   - **Source Id:** 21100423607
+   - **Author Ids:** 57199654883;57197744325;6507179015;7801443090
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60025153;60068774
+   - **Corresponding:** Ibrahim A.
+136.
+   - **Title:** Singular value decomposition FPGA implementation for tactile data processing
+   - **Venue:** Conference Proceedings 13th IEEE International New Circuits and Systems Conference Newcas 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/NEWCAS.2015.7182094
+   - **Scopus ID:** 2-s2.0-84945157316
+   - **Authors:** Ibrahim Ali; Valle Maurizio; Noli Luca; Chible Hussein
+   - **Keywords:** Embedded electronic systems | One sided Jacobi algorithm | SVD FPGA implementation | Tensorial kernel
+   - **Source Id:** 21100419258
+   - **Author Ids:** 57199654883;57197744325;6507179015;7801443090
+   - **Authoraffiliationids:** 60025153-60068774;60025153;60025153;60068774
+   - **Corresponding:** Ibrahim A.
+137.
+   - **Title:** Tactile data processing method for the reconstruction of contact force distributions
+   - **Venue:** Mechatronics
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 21
+   - **DOI:** 10.1016/j.mechatronics.2015.02.001
+   - **Scopus ID:** 2-s2.0-84926155544
+   - **ISSN:** 09574158
+   - **Volume:** 27
+   - **Pages:** 28-37
+   - **Authors:** Seminara Lucia; Capurro Marco; Valle Maurizio
+   - **Keywords:** Array signal processing | Force reconstruction | Inverse problems | Tactile sensors
+   - **Quartile:**
+     2025:
+     - Mechanical Engineering (Q1, rank 144, percentile 80)
+     - Electrical and Electronic Engineering (Q1, rank 208, percentile 79)
+     - Control and Systems Engineering (Q1, rank 86, percentile 77)
+     - Computer Science Applications (Q1, rank 240, percentile 75)
+     2015:
+     - Mechanical Engineering (Q1, rank 46, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 98, percentile 85)
+     - Computer Science Applications (Q1, rank 90, percentile 82)
+   - **Source Id:** 21096
+   - **Author Ids:** 19338029900;7004519617;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Seminara L.
+138.
+   - **Title:** A tensor-based approach to touch modality classification by using machine learning
+   - **Venue:** Robotics and Autonomous Systems
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 48
+   - **DOI:** 10.1016/j.robot.2014.09.022
+   - **Scopus ID:** 2-s2.0-84919492826
+   - **ISSN:** 09218890
+   - **Volume:** 63
+   - **Issue:** P3
+   - **Pages:** 268-278
+   - **Authors:** Gastaldo P.; Pinna L.; Seminara L.; Valle M.; Zunino R.
+   - **Keywords:** Array signal processing | Kernel machines | Machine learning | PVDF tactile sensors | Touch modality
+   - **Quartile:**
+     2025:
+     - Mathematics (all) (Q1, rank 6, percentile 98)
+     - Control and Systems Engineering (Q1, rank 46, percentile 88)
+     - Software (Q1, rank 71, percentile 85)
+     - Computer Science Applications (Q1, rank 143, percentile 85)
+     2015:
+     - Mathematics (all) (Q1, rank 10, percentile 97)
+     - Control and Systems Engineering (Q1, rank 30, percentile 86)
+     - Computer Science Applications (Q1, rank 71, percentile 86)
+     - Software (Q1, rank 71, percentile 81)
+   - **Source Id:** 18079
+   - **Author Ids:** 35612596100;35932431800;19338029900;57197744325;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Gastaldo P.
+139.
+   - **Title:** Tactile sensors with integrated piezoelectric polymer and low voltage organic thin-film transistors
+   - **Venue:** Proceedings of IEEE Sensors
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/ICSENS.2014.6985358
+   - **Scopus ID:** 2-s2.0-84931024078
+   - **ISSN:** 19300395
+   - **eISSN:** 21689229
+   - **Volume:** 2014-December
+   - **Issue:** December
+   - **Pages:** 1734-1736
+   - **Authors:** Cosseddu P.; Viola F.; Lai S.; Raffo L.; Seminara L.; Pinna L.; Valle M.; Dahiya R.; Bonfiglio A.
+   - **Keywords:** Electronic skin | Organic TFTs | Piezoelectric polymers | Ultra-low voltage devices
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 687, percentile 31)
+     2014:
+     - Electrical and Electronic Engineering (Q3, rank 342, percentile 47)
+   - **Source Id:** 74882
+   - **Author Ids:** 23979421700;56396332300;54980367800;7003651730;19338029900;35932431800;57197744325;24331529200;7004010259
+   - **Authoraffiliationids:** 60021199;60032259;60032259;60032259;60025153;60025153;60025153;60001490;60032259
+   - **Corresponding:** Cosseddu P.
+140.
+   - **Title:** Towards prosthetic systems providing comprehensive tactile feedback for utility and embodiment
+   - **Venue:** IEEE 2014 Biomedical Circuits and Systems Conference Biocas 2014 Proceedings
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 18
+   - **DOI:** 10.1109/BioCAS.2014.6981802
+   - **Scopus ID:** 2-s2.0-84920517469
+   - **Pages:** 620-623
+   - **Authors:** Hartmann C.; Linde J.; Dosen S.; Farina D.; Seminara L.; Pinna L.; Valle M.; Capurro M.
+   - **Keywords:** closed-loop myoelectric prostheses | electro-tactile feedback | electronic skin | prosthesis embodiment | sensor fusion | spatial and intensity coding
+   - **Source Id:** 21100364848
+   - **Author Ids:** 37003647200;56470460700;23388778600;7004908025;19338029900;35932431800;57197744325;7004519617
+   - **Authoraffiliationids:** 60021110;60021110;60021110;60021110;60025153;60025153;60025153;60025153
+   - **Corresponding:** Hartmann C.
+141.
+   - **Title:** Authors' reply
+   - **Venue:** IEEE Sensors Journal
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Letter
+   - **Citations:** 0
+   - **DOI:** 10.1109/JSEN.2014.2353634
+   - **Scopus ID:** 2-s2.0-84908061226
+   - **ISSN:** 1530437X
+   - **Volume:** 14
+   - **Issue:** 11
+   - **Pages:** 4110
+   - **Authors:** Dahiya Ravinder S.; Mittendorfer Philipp; Valle Maurizio; Cheng Gordon; Lumelsky Vladimir J.
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 27, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 175, percentile 82)
+     2014:
+     - Instrumentation (Q1, rank 13, percentile 87)
+     - Electrical and Electronic Engineering (Q1, rank 99, percentile 84)
+   - **Source Id:** 15047
+   - **Author Ids:** 24331529200;39863226500;57197744325;10243873000;7005864063
+   - **Authoraffiliationids:** 60001490;60019722;60025153;60019722;60153131
+   - **Corresponding:** Dahiya R.S.
+142.
+   - **Title:** Computational intelligence techniques for tactile sensing systems
+   - **Venue:** Sensors Switzerland
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 31
+   - **DOI:** 10.3390/s140610952
+   - **Scopus ID:** 2-s2.0-84902988710
+   - **ISSN:** 14248220
+   - **Volume:** 14
+   - **Issue:** 6
+   - **Pages:** 10952-10976
+   - **Authors:** Gastaldo Paolo; Pinna Luigi; Seminara Lucia; Valle Maurizio; Zunino Rodolfo
+   - **Keywords:** Computational intelligence | Electronic skin | Human-robot interaction | Pattern recognition | Touch modalities
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2014:
+     - Electrical and Electronic Engineering (Q1, rank 103, percentile 84)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 28, percentile 82)
+     - Analytical Chemistry (Q2, rank 35, percentile 64)
+     - Biochemistry (Q2, rank 176, percentile 53)
+   - **Source Id:** 130124
+   - **Author Ids:** 35612596100;35932431800;19338029900;57197744325;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Gastaldo P.
+143.
+   - **Title:** Robotic tactile sensing: Technologies and system
+   - **Venue:** Robotic Tactile Sensing Technologies and System
+   - **Year:** 2014
+   - **Type:** Book
+   - **Subtype:** Book
+   - **Citations:** 268
+   - **DOI:** 10.1007/978-94-007-0579-1
+   - **Scopus ID:** 2-s2.0-84930887791
+   - **Volume:** 9789400705791
+   - **Pages:** 1-245
+   - **Authors:** Dahiya Ravinder S.; Valle Maurizio
+   - **Source Id:** 21100395466
+   - **Author Ids:** 24331529200;57197744325
+   - **Authoraffiliationids:** 60083112;60025153
+   - **Corresponding:** Dahiya R.S.
+144.
+   - **Title:** Asynchronous, event-driven readout of POSFET devices for tactile sensing
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 27
+   - **DOI:** 10.1109/ISCAS.2014.6865717
+   - **Scopus ID:** 2-s2.0-84907414934
+   - **ISSN:** 02714310
+   - **Pages:** 2648-2651
+   - **Authors:** Caviglia Stefano; Valle Maurizio; Bartolozzi Chiara
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+     2014:
+     - Electrical and Electronic Engineering (Q3, rank 366, percentile 43)
+   - **Source Id:** 56190
+   - **Author Ids:** 56369796600;57197744325;22940171400
+   - **Authoraffiliationids:** 60025153;60025153;60102151
+   - **Corresponding:** Caviglia S.
+145.
+   - **Title:** Tactile sensing chips with POSFET array and integrated interface electronics
+   - **Venue:** IEEE Sensors Journal
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 58
+   - **DOI:** 10.1109/JSEN.2014.2346742
+   - **Scopus ID:** 2-s2.0-84906861470
+   - **ISSN:** 1530437X
+   - **Volume:** 14
+   - **Issue:** 10
+   - **Pages:** 3448-3457
+   - **Authors:** Dahiya Ravinder S.; Adami Andrea; Pinna Luigi; Collini Cristian; Valle Maurizio; Lorenzelli Leandro
+   - **Keywords:** CMOS | POSFET | tactile sensing
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 27, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 175, percentile 82)
+     2014:
+     - Instrumentation (Q1, rank 13, percentile 87)
+     - Electrical and Electronic Engineering (Q1, rank 99, percentile 84)
+   - **Source Id:** 15047
+   - **Author Ids:** 24331529200;57202790493;35932431800;23003664300;57197744325;6701719943
+   - **Authoraffiliationids:** 60001490;60083112;60025153;60083112;60025153;60025153
+   - **Corresponding:** Dahiya R.S.
+146.
+   - **Title:** A tensor-based pattern-recognition framework for the interpretation of touch modality in artificial skin systems
+   - **Venue:** IEEE Sensors Journal
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 34
+   - **DOI:** 10.1109/JSEN.2014.2320820
+   - **Scopus ID:** 2-s2.0-84901917081
+   - **ISSN:** 1530437X
+   - **Volume:** 14
+   - **Issue:** 7
+   - **Pages:** 2216-2225
+   - **Authors:** Gastaldo Paolo; Pinna Luigi; Seminara Lucia; Valle Maurizio; Zunino Rodolfo
+   - **Keywords:** artificial skin | kernel machines | machine learning | pattern recognition | Tactile sensors | touch modality interpretation
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 27, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 175, percentile 82)
+     2014:
+     - Instrumentation (Q1, rank 13, percentile 87)
+     - Electrical and Electronic Engineering (Q1, rank 99, percentile 84)
+   - **Source Id:** 15047
+   - **Author Ids:** 35612596100;35932431800;19338029900;57197744325;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Gastaldo P.
+147.
+   - **Title:** Real-time reconstruction of contact shapes for large area robot skin
+   - **Venue:** Proceedings IEEE International Conference on Robotics and Automation
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 21
+   - **DOI:** 10.1109/ICRA.2013.6630897
+   - **Scopus ID:** 2-s2.0-84887295706
+   - **ISSN:** 10504729
+   - **Pages:** 2360-2366
+   - **Authors:** Muscari Luca; Seminara Lucia; Mastrogiovanni Fulvio; Valle Maurizio; Capurro Marco; Cannata Giorgio
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 242, percentile 75)
+     - Control and Systems Engineering (Q2, rank 97, percentile 74)
+     - Software (Q2, rank 146, percentile 70)
+     - Artificial Intelligence (Q2, rank 155, percentile 68)
+     2013:
+     - Electrical and Electronic Engineering (Q1, rank 97, percentile 84)
+     - Control and Systems Engineering (Q1, rank 40, percentile 80)
+     - Software (Q1, rank 90, percentile 75)
+     - Artificial Intelligence (Q2, rank 49, percentile 67)
+   - **Source Id:** 25456
+   - **Author Ids:** 55921933200;19338029900;56962745700;57197744325;7004519617;7005466764
+   - **Authoraffiliationids:** 60121711;60025153;60121711;60025153;60025153;60121711
+   - **Corresponding:** Muscari L.
+148.
+   - **Title:** Directions toward effective utilization of tactile skin: A review
+   - **Venue:** IEEE Sensors Journal
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 387
+   - **DOI:** 10.1109/JSEN.2013.2279056
+   - **Scopus ID:** 2-s2.0-84884166128
+   - **ISSN:** 1530437X
+   - **Volume:** 13
+   - **Issue:** 11
+   - **Pages:** 4121-4138
+   - **Authors:** Dahiya Ravinder S.; Mittendorfer Philipp; Valle Maurizio; Cheng Gordon; Lumelsky Vladimir J.
+   - **Keywords:** bendable electronics | embedded systems | interface electronics | modular | sensor fusion | Tactile skin
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 27, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 175, percentile 82)
+     2013:
+     - Instrumentation (Q1, rank 17, percentile 82)
+     - Electrical and Electronic Engineering (Q1, rank 129, percentile 79)
+   - **Source Id:** 15047
+   - **Author Ids:** 24331529200;39863226500;57197744325;10243873000;7005864063
+   - **Authoraffiliationids:** 60001490;60019722;60025153;60019722;60032179-60020304
+   - **Corresponding:** Dahiya R.S.
+149.
+   - **Title:** Piezoelectric polymer transducer arrays for flexible tactile sensors
+   - **Venue:** IEEE Sensors Journal
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 116
+   - **DOI:** 10.1109/JSEN.2013.2268690
+   - **Scopus ID:** 2-s2.0-84884145968
+   - **ISSN:** 1530437X
+   - **Volume:** 13
+   - **Issue:** 10
+   - **Pages:** 4022-4029
+   - **Authors:** Seminara Lucia; Pinna Luigi; Valle Maurizio; Basirico Laura; Loi Alberto; Cosseddu Piero; Bonfiglio Annalisa; Ascia Alberto; Biso Maurizio; Ansaldo Alberto; Ricci Davide; Metta Giorgio
+   - **Keywords:** artificial skin | flexible sensors | ink jet printing | materials processing | PVDF piezoelectric transducers | robotic skin
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 27, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 175, percentile 82)
+     2013:
+     - Instrumentation (Q1, rank 17, percentile 82)
+     - Electrical and Electronic Engineering (Q1, rank 129, percentile 79)
+   - **Source Id:** 15047
+   - **Author Ids:** 19338029900;35932431800;57197744325;36812734200;55388529600;23979421700;7004010259;16052373800;23670194500;14833820700;35452031700;6602884280
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60032259;60032259;60032259;60032259;60102151;60102151;60102151;60102151;60102151
+   - **Corresponding:** Seminara L.
+150.
+   - **Title:** POSFET touch sensing transducers: Interface electronics design methodology based on the transconductance-to-drain-current efficiency gm/I D
+   - **Venue:** Sensors and Actuators A Physical
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1016/j.sna.2013.07.029
+   - **Scopus ID:** 2-s2.0-84883346513
+   - **ISSN:** 09244247
+   - **Volume:** 201
+   - **Pages:** 377-386
+   - **Authors:** Barboni Leonardo; Valle Maurizio
+   - **Keywords:** Circuit design methodology | Interface circuit design | Piezoelectric polymer P(VDF-TrFE) | POSFET | Tactile sensing system | Touch sensing transducer | Transconductance-to-drain-current efficiency gm/ID
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 23, percentile 88)
+     - Condensed Matter Physics (Q1, rank 63, percentile 85)
+     - Metals and Alloys (Q1, rank 26, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 153, percentile 84)
+     - Surfaces, Coatings and Films (Q1, rank 26, percentile 81)
+     - Electronic, Optical and Magnetic Materials (Q1, rank 58, percentile 81)
+     2013:
+     - Metals and Alloys (Q1, rank 14, percentile 90)
+     - Surfaces, Coatings and Films (Q1, rank 11, percentile 89)
+     - Instrumentation (Q1, rank 12, percentile 87)
+     - Electronic, Optical and Magnetic Materials (Q1, rank 32, percentile 84)
+     - Electrical and Electronic Engineering (Q1, rank 110, percentile 82)
+     - Condensed Matter Physics (Q1, rank 70, percentile 82)
+   - **Source Id:** 13660
+   - **Author Ids:** 24474437700;57197744325
+   - **Authoraffiliationids:** 60071612;60025153
+   - **Corresponding:** Barboni L.
+151.
+   - **Title:** Charge amplifier design methodology for PVDF-based tactile sensors
+   - **Venue:** Journal of Circuits Systems and Computers
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 44
+   - **DOI:** 10.1142/S0218126613500667
+   - **Scopus ID:** 2-s2.0-84884929254
+   - **ISSN:** 02181266
+   - **Volume:** 22
+   - **Issue:** 8
+   - **Authors:** Pinna Luigi; Valle Maurizio
+   - **Keywords:** ASIC | charge amplifier | PVDF | SPICE | Tactile sensor
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 494, percentile 50)
+     - Hardware and Architecture (Q3, rank 131, percentile 44)
+     2013:
+     - Electrical and Electronic Engineering (Q3, rank 416, percentile 34)
+     - Hardware and Architecture (Q4, rank 118, percentile 13)
+   - **Source Id:** 26046
+   - **Author Ids:** 35932431800;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Pinna L.
+152.
+   - **Title:** The ROBOSKIN Project: Challenges and Results
+   - **Venue:** CISM International Centre for Mechanical Sciences Courses and Lectures
+   - **Year:** 2013
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 24
+   - **DOI:** 10.1007/978-3-7091-1379-0_43
+   - **Scopus ID:** 2-s2.0-84903180711
+   - **ISSN:** 02541971
+   - **eISSN:** 23093706
+   - **Volume:** 544
+   - **Pages:** 351-358
+   - **Authors:** Billard Aude; Bonfiglio Annalisa; Cannata Giorgio; Cosseddu Piero; Dahl Torbjorn; Dautenhahn Kerstin; Mastrogiovanni Fulvio; Metta Giorgio; Natale Lorenzo; Robins Ben; Seminara Lucia; Valle Maurizio
+   - **Keywords:** Humanoid Robot | Modular Robot | Robot Platform | Robot Programming | Tactile Feedback
+   - **Quartile:**
+     2025:
+     - Mechanical Engineering (Q3, rank 505, percentile 31)
+     - Modeling and Simulation (Q3, rank 261, percentile 30)
+     - Mechanics of Materials (Q3, rank 300, percentile 27)
+     - Computer Science Applications (Q3, rank 718, percentile 26)
+   - **Source Id:** 20420
+   - **Author Ids:** 7006389948;7004010259;7005466764;23979421700;25723210400;7003305185;56962745700;6602884280;9737895100;8585983100;19338029900;57197744325
+   - **Authoraffiliationids:** 60028186;60032259;60025153;60032259;60017826;60032760;60025153;60102151;60102151;60032760;60025153;60025153
+   - **Corresponding:** Billard A.
+153.
+   - **Title:** POSFET tactile sensing chips using CMOS technology
+   - **Venue:** Proceedings of IEEE Sensors
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/ICSENS.2013.6688149
+   - **Scopus ID:** 2-s2.0-84893917783
+   - **Authors:** Dahiya Ravinder S.; Adami Andrea; Collini Cristian; Valle Maurizio; Lorenzelli Leandro
+   - **Source Id:** 21100785400
+   - **Author Ids:** 24331529200;57202790493;23003664300;57197744325;6701719943
+   - **Authoraffiliationids:** 60001490;60083112;60083112;60025153;60083112
+   - **Corresponding:** Dahiya R.S.
+154.
+   - **Title:** Piezoelectric polymer transducer arrays for flexible tactile sensors
+   - **Venue:** Proceedings of IEEE Sensors
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1109/ICSENS.2012.6411300
+   - **Scopus ID:** 2-s2.0-84873958938
+   - **Authors:** Seminara Lucia; Pinna Luigi; Valle Maurizio; Basirico Laura; Loi Alberto; Cosseddu Piero; Bonfiglio Annalisa; Ascia Alberto; Biso Maurizio; Ansaldo Alberto; Ricci Davide; Metta Giorgio
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 687, percentile 31)
+     2012:
+     - Electrical and Electronic Engineering (Q3, rank 410, percentile 33)
+   - **Source Id:** 74882
+   - **Author Ids:** 19338029900;35932431800;57197744325;36812734200;55388529600;23979421700;7004010259;16052373800;23670194500;14833820700;35452031700;6602884280
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60032259;60032259;60032259;60032259;60102151;60102151;60102151;60102151;60102151
+   - **Corresponding:** Seminara L.
+155.
+   - **Title:** Bending response of PVDF piezoelectric sensors
+   - **Venue:** Proceedings of IEEE Sensors
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICSENS.2012.6411405
+   - **Scopus ID:** 2-s2.0-84873945403
+   - **Authors:** Seminara Lucia; Valle Maurizio; Capurro Marco
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 687, percentile 31)
+     2012:
+     - Electrical and Electronic Engineering (Q3, rank 410, percentile 33)
+   - **Source Id:** 74882
+   - **Author Ids:** 19338029900;57197744325;7004519617
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Seminara L.
+156.
+   - **Title:** Tactile sensing systems based on POSFET sensing arrays
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2012
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/978-1-4614-0935-9_31
+   - **Scopus ID:** 2-s2.0-84855822010
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 109 Lnee
+   - **Pages:** 181-186
+   - **Authors:** Dahiya R. S.; Cattin D.; Adami A.; Collini C.; Barboni L.; Valle M.; Lorenzelli L.; Oboe R.; Metta G.; Brunetti F.
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+     2012:
+     - Industrial and Manufacturing Engineering (Q3, rank 203, percentile 27)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 24331529200;24586986300;57202790493;23003664300;24474437700;57197744325;6701719943;6701579829;6602884280;14008037600
+   - **Authoraffiliationids:** 60083112;60000481;60083112;60083112;60025153;60025153;60083112;60000481;60102151;60027509
+   - **Corresponding:** Dahiya R.S.
+157.
+   - **Title:** Piezoelectric polymer films for tactile sensors
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2012
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/978-1-4614-0935-9_29
+   - **Scopus ID:** 2-s2.0-84855819621
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 109 Lnee
+   - **Pages:** 169-173
+   - **Authors:** Seminara Lucia; Valle Maurizio; Capurro Marco; Cirillo Paolo; Cannata Giorgio
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+     2012:
+     - Industrial and Manufacturing Engineering (Q3, rank 203, percentile 27)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 19338029900;57197744325;7004519617;7004361886;7005466764
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Seminara L.
+158.
+   - **Title:** POSFET touch sensing devices: Bias circuit design based on the ACM MOS transistor compact model
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2012
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-1-4614-0935-9_32
+   - **Scopus ID:** 2-s2.0-84855777269
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 109 Lnee
+   - **Pages:** 187-192
+   - **Authors:** Barboni L.; Valle M.; Dahiya R. S.
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+     2012:
+     - Industrial and Manufacturing Engineering (Q3, rank 203, percentile 27)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 24474437700;57197744325;24331529200
+   - **Authoraffiliationids:** 60025153;60025153;60083112
+   - **Corresponding:** Barboni L.
+159.
+   - **Title:** Indoors and outdoors event detection for embedded wireless sensors
+   - **Venue:** Embedded Systems and Wireless Technology Theory and Practical Applications
+   - **Year:** 2012
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-85016683069
+   - **Pages:** 139-162
+   - **Authors:** Trinidad Marco Antonio López; Valle Maurizio; Toledo Cora Beatriz Excelente
+   - **Source Id:** 21100882528
+   - **Author Ids:** 35194149600;57197744325;6506817321
+   - **Authoraffiliationids:** 60095265;60025153;60095265
+   - **Corresponding:** Trinidad M.A.L.
+160.
+   - **Title:** A scheme for measuring and extracting level-1 parameter of FET device applied toward POSFET sensors array
+   - **Venue:** Proceedings of the International Conference on Microelectronics Icm
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICM.2011.6177351
+   - **Scopus ID:** 2-s2.0-84860691664
+   - **Authors:** Sinha Arun Kumar; Valle Maurizio
+   - **Keywords:** algorithms | FET | flowchart | I-V characteristics | instruments | Level-1 parameters | POSFET
+   - **Source Id:** 144854
+   - **Author Ids:** 57203184223;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Sinha A.
+161.
+   - **Title:** An approach to realize high value resistance using PMOS device at weak inversion for POSFET sensor
+   - **Venue:** Proceedings of the International Conference on Microelectronics Icm
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICM.2011.6177356
+   - **Scopus ID:** 2-s2.0-84860684386
+   - **Authors:** Sinha Arun Kumar; Valle Maurizio
+   - **Keywords:** MOS | POSFET | Resistance | Weak inversion
+   - **Source Id:** 144854
+   - **Author Ids:** 57203184223;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Sinha A.
+162.
+   - **Title:** Interface electronics for tactile sensing arrays
+   - **Venue:** 2011 18th IEEE International Conference on Electronics Circuits and Systems Icecs 2011
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ICECS.2011.6122314
+   - **Scopus ID:** 2-s2.0-84856483621
+   - **Pages:** 468-471
+   - **Authors:** Pinna Luigi; Carlini Giorgio; Seminara Lucia; Valle Maurizio
+   - **Source Id:** 21100197501
+   - **Author Ids:** 35932431800;6602861946;19338029900;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Pinna L.
+163.
+   - **Title:** Smart readout design for tactile sensing devices
+   - **Venue:** 2011 18th IEEE International Conference on Electronics Circuits and Systems Icecs 2011
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ICECS.2011.6122316
+   - **Scopus ID:** 2-s2.0-84856468366
+   - **Pages:** 476-479
+   - **Authors:** Barboni Leonardo; Valle Maurizio; Carlini Giorgio
+   - **Source Id:** 21100197501
+   - **Author Ids:** 24474437700;57197744325;6602861946
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Barboni L.
+164.
+   - **Title:** Towards tactile sensing system on chip for robotic applications
+   - **Venue:** IEEE Sensors Journal
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 138
+   - **DOI:** 10.1109/JSEN.2011.2159835
+   - **Scopus ID:** 2-s2.0-80455137062
+   - **ISSN:** 1530437X
+   - **Volume:** 11
+   - **Issue:** 12
+   - **Pages:** 3216-3226
+   - **Authors:** Dahiya Ravinder S.; Cattin Davide; Adami Andrea; Collini Cristian; Barboni Leonardo; Valle Maurizio; Lorenzelli Leandro; Oboe Roberto; Metta Giorgio; Brunetti Francesca
+   - **Keywords:** Humanoid robots | POSFET | robotic skin | tactile sensing | touch sensing system on chip
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 27, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 175, percentile 82)
+     2011:
+     - Instrumentation (Q1, rank 21, percentile 77)
+     - Electrical and Electronic Engineering (Q1, rank 142, percentile 75)
+   - **Source Id:** 15047
+   - **Author Ids:** 24331529200;24586986300;57202790493;23003664300;24474437700;57197744325;6701719943;6701579829;6602884280;14008037600
+   - **Authoraffiliationids:** 60083112;60000481;60083112;60083112;60025153;60025153;60083112;60000481;60102151;60027509
+   - **Corresponding:** Dahiya R.S.
+165.
+   - **Title:** A generic framework for failure modes and effects analysis of automotive networks
+   - **Venue:** IEEE International Conference on Industrial Informatics Indin
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/INDIN.2011.6034891
+   - **Scopus ID:** 2-s2.0-80055003763
+   - **ISSN:** 19354576
+   - **Pages:** 293-298
+   - **Authors:** Muller Candice; Valle Maurizio; Armengaud Eric; Tengg Allan
+   - **Quartile:**
+     2025:
+     - Information Systems (Q3, rank 332, percentile 33)
+     - Computer Science Applications (Q3, rank 695, percentile 29)
+   - **Source Id:** 10900153316
+   - **Author Ids:** 35198550100;57197744325;22978717400;19639373900
+   - **Authoraffiliationids:** 60025153;60025153;60102995;60102995
+   - **Corresponding:** Muller C.
+166.
+   - **Title:** Electromechanical characterization of piezoelectric PVDF polymer films for tactile sensors in robotics applications
+   - **Venue:** Sensors and Actuators A Physical
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 142
+   - **DOI:** 10.1016/j.sna.2011.05.004
+   - **Scopus ID:** 2-s2.0-79959695662
+   - **ISSN:** 09244247
+   - **Volume:** 169
+   - **Issue:** 1
+   - **Pages:** 49-58
+   - **Authors:** Seminara Lucia; Capurro Marco; Cirillo Paolo; Cannata Giorgio; Valle Maurizio
+   - **Keywords:** Complex elastic moduli | Complex piezoelectric moduli | Piezoelectric polymers | PVDF | Tactile sensors | Viscoelastic materials
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 23, percentile 88)
+     - Condensed Matter Physics (Q1, rank 63, percentile 85)
+     - Metals and Alloys (Q1, rank 26, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 153, percentile 84)
+     - Surfaces, Coatings and Films (Q1, rank 26, percentile 81)
+     - Electronic, Optical and Magnetic Materials (Q1, rank 58, percentile 81)
+     2011:
+     - Instrumentation (Q1, rank 5, percentile 95)
+     - Metals and Alloys (Q1, rank 9, percentile 93)
+     - Surfaces, Coatings and Films (Q1, rank 11, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 69, percentile 88)
+     - Condensed Matter Physics (Q1, rank 55, percentile 85)
+     - Electronic, Optical and Magnetic Materials (Q1, rank 29, percentile 84)
+   - **Source Id:** 13660
+   - **Author Ids:** 19338029900;7004519617;7004361886;7005466764;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Seminara L.
+167.
+   - **Title:** Bias circuit design for POSFET based tactile sensing devices
+   - **Venue:** 2011 7th Conference on Ph D Research in Microelectronics and Electronics Prime 2011 Conference Proceedings
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/PRIME.2011.5966240
+   - **Scopus ID:** 2-s2.0-80052253959
+   - **Pages:** 153-156
+   - **Authors:** Sinha Arun Kumar; Valle Maurizio
+   - **Keywords:** Bias resistance | MOS | POSFET | Weak inversion
+   - **Source Id:** 19900193806
+   - **Author Ids:** 57203184223;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Sinha A.
+168.
+   - **Title:** Design and simulation of automotive communication networks: The challenges
+   - **Venue:** Elektrotechnik Und Informationstechnik
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1007/s00502-011-0008-6
+   - **Scopus ID:** 2-s2.0-80055063452
+   - **ISSN:** 0932383X
+   - **Volume:** 128
+   - **Issue:** 6
+   - **Pages:** 228-233
+   - **Authors:** Muller C.; Valle M.
+   - **Keywords:** Communication networks | Flexray | Simulation
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 749, percentile 25)
+     2011:
+     - Electrical and Electronic Engineering (Q4, rank 452, percentile 23)
+   - **Source Id:** 144631
+   - **Author Ids:** 35198550100;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Muller C.
+169.
+   - **Title:** Guest Editorial special issue on robotic sense of touch
+   - **Venue:** IEEE Transactions on Robotics
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 20
+   - **DOI:** 10.1109/TRO.2011.2155830
+   - **Scopus ID:** 2-s2.0-79958815134
+   - **ISSN:** 15523098
+   - **Volume:** 27
+   - **Issue:** 3
+   - **Pages:** 385-388
+   - **Authors:** Dahiya Ravinder S.; Metta Giorgio; Cannata Giorgio; Valle Maurizio
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 26, percentile 97)
+     - Computer Science Applications (Q1, rank 30, percentile 96)
+     - Control and Systems Engineering (Q1, rank 12, percentile 96)
+     2011:
+     - Control and Systems Engineering (Q1, rank 3, percentile 98)
+     - Computer Science Applications (Q1, rank 8, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 14, percentile 97)
+   - **Source Id:** 95101
+   - **Author Ids:** 24331529200;6602884280;7005466764;57197744325
+   - **Authoraffiliationids:** 60083112;110646090;60025153;60025153
+   - **Corresponding:** Dahiya R.S.
+170.
+   - **Title:** Tactile-data classification of contact materials using computational intelligence
+   - **Venue:** IEEE Transactions on Robotics
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 94
+   - **DOI:** 10.1109/TRO.2011.2130030
+   - **Scopus ID:** 2-s2.0-79958766030
+   - **ISSN:** 15523098
+   - **Volume:** 27
+   - **Issue:** 3
+   - **Pages:** 635-639
+   - **Authors:** Decherchi Sergio; Gastaldo Paolo; Dahiya Ravinder S.; Valle Maurizio; Zunino Rodolfo
+   - **Keywords:** Computational intelligence (CI) | machine learning | material classification | tactile sensing | tactile-data processing
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 26, percentile 97)
+     - Computer Science Applications (Q1, rank 30, percentile 96)
+     - Control and Systems Engineering (Q1, rank 12, percentile 96)
+     2011:
+     - Control and Systems Engineering (Q1, rank 3, percentile 98)
+     - Computer Science Applications (Q1, rank 8, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 14, percentile 97)
+   - **Source Id:** 95101
+   - **Author Ids:** 23090052400;35612596100;24331529200;57197744325;7006338311
+   - **Authoraffiliationids:** 60025153;60025153;60083112;60025153;60025153
+   - **Corresponding:** Decherchi S.
+171.
+   - **Title:** Identification and validation of a lumped parameters model for the dielectric relaxation of a piezoelectric tactile sensor
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ISIE.2010.5637679
+   - **Scopus ID:** 2-s2.0-78650368206
+   - **Pages:** 452-457
+   - **Authors:** Cattin D.; Oboe R.; Dahiya R. S.; Valle M.
+   - **Source Id:** 85690
+   - **Author Ids:** 24586986300;6701579829;24331529200;57197744325
+   - **Authoraffiliationids:** 60000481;60000481;60102151;60025153
+   - **Corresponding:** Cattin D.
+172.
+   - **Title:** Analysis of self-powered vibration-based energy scavenging system
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/ISIE.2010.5637866
+   - **Scopus ID:** 2-s2.0-78650366312
+   - **Pages:** 402-408
+   - **Authors:** Pinna Luigi; Dahiya Ravinder S.; De Nisi Fabrizio; Valle Maurizio
+   - **Source Id:** 85690
+   - **Author Ids:** 35932431800;24331529200;36727113800;57197744325
+   - **Authoraffiliationids:** 60025153;60102151;109728427;60025153
+   - **Corresponding:** Pinna L.
+173.
+   - **Title:** Interface electronics design for POSFET devices based tactile sensing systems
+   - **Venue:** Proceedings IEEE International Workshop on Robot and Human Interactive Communication
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/ROMAN.2010.5598610
+   - **Scopus ID:** 2-s2.0-78649870611
+   - **Pages:** 686-690
+   - **Authors:** Barboni Leonardo; Dahiya Ravinder S.; Metta Giorigio; Valle Maurizio
+   - **Source Id:** 144690
+   - **Author Ids:** 24474437700;24331529200;6602884280;57197744325
+   - **Authoraffiliationids:** 60025153;60102151;60102151;60025153
+   - **Corresponding:** Barboni L.
+174.
+   - **Title:** Modular skin for humanoid robot systems
+   - **Venue:** 4th International Conference on Cognitive Systems Cogsys 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 30
+   - **Scopus ID:** 2-s2.0-84878298648
+   - **Authors:** Cannata Giorgio; Dahiya Ravinder; Maggiali Marco; Mastrogiovanni Fulvio; Metta Giorgio; Valle Maurizio
+   - **Source Id:** 21100241759
+   - **Author Ids:** 7005466764;24331529200;15834880000;56962745700;6602884280;57197744325
+   - **Authoraffiliationids:** 60025153;60102151;60102151;60025153;60102151;60025153
+   - **Corresponding:** Cannata G.
+175.
+   - **Title:** A systematic developmentmethodology formixed-mode behavioralmodels of in-vehicle embedded electronic systems
+   - **Venue:** Eurasip Journal on Embedded Systems
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1155/2010/726286
+   - **Scopus ID:** 2-s2.0-84866849876
+   - **ISSN:** 16873955
+   - **eISSN:** 16873963
+   - **Volume:** 2010
+   - **Authors:** Muller Candice; Valle Maurizio; Prodanov William; Buzas Roman
+   - **Source Id:** 4000151614
+   - **Author Ids:** 35198550100;57197744325;14632476600;24586819000
+   - **Authoraffiliationids:** 60025153;60025153;;
+   - **Corresponding:** Muller C.
+176.
+   - **Title:** System verification of flexray communication networks through behavioral simulations
+   - **Venue:** Proceedings of the IEEE International Workshop on Behavioral Modeling and Simulation Bmas
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/BMAS.2010.6156589
+   - **Scopus ID:** 2-s2.0-84860715254
+   - **ISSN:** 21603804
+   - **eISSN:** 21603812
+   - **Pages:** 1-6
+   - **Authors:** Muller Candice; Valle Maurizio
+   - **Source Id:** 21100201951
+   - **Author Ids:** 35198550100;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Muller C.
+177.
+   - **Title:** In-vehicle communication network statistical analysis using VHDL-AMS behavioral models
+   - **Venue:** 6th Conference on Ph D Research in Microelectronics and Electronics Prime 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-78049497796
+   - **Authors:** Muller Candice; Valle Maurizio
+   - **Source Id:** 19700182213
+   - **Author Ids:** 35198550100;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Muller C.
+178.
+   - **Title:** CMOS implementation of POSFET tactile sensing arrays with on chip readout
+   - **Venue:** Proceedings 4th International Conference on Sensor Technologies and Applications Sensorcomm 2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/SENSORCOMM.2010.19
+   - **Scopus ID:** 2-s2.0-77957944404
+   - **Pages:** 80-83
+   - **Authors:** Dahiya Ravinder S.; Adami Andrea; Valle Maurizio; Lorenzelli Leandro; Metta Giorgio
+   - **Keywords:** POSFET | Read out | Robotics | Tactile sensing
+   - **Source Id:** 19700181275
+   - **Author Ids:** 24331529200;57202790493;57197744325;6701719943;6602884280
+   - **Authoraffiliationids:** 60102151;60083112;60025153;60083112;60102151
+   - **Corresponding:** Dahiya R.S.
+179.
+   - **Title:** POSFET devices based tactile sensing arrays
+   - **Venue:** Iscas 2010 2010 IEEE International Symposium on Circuits and Systems Nano Bio Circuit Fabrics and Systems
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 22
+   - **DOI:** 10.1109/ISCAS.2010.5537414
+   - **Scopus ID:** 2-s2.0-77955991384
+   - **Pages:** 893-896
+   - **Authors:** Dahiya Ravinder S.; Lorenzelli Leandro; Metta Giorgio; Valle Maurizio
+   - **Source Id:** 19700177312
+   - **Author Ids:** 24331529200;6701719943;6602884280;57197744325
+   - **Authoraffiliationids:** 60102151;60083112;60102151-60025153;60025153
+   - **Corresponding:** Dahiya R.S.
+180.
+   - **Title:** Identification and validation of a fractional order dynamic model for a piezoelectric tactile sensor
+   - **Venue:** International Workshop on Advanced Motion Control AMC
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/AMC.2010.5464092
+   - **Scopus ID:** 2-s2.0-77953741566
+   - **Pages:** 430-435
+   - **Authors:** Cattin D.; Oboe R.; Dahiya R. S.; Valle M.
+   - **Source Id:** 93668
+   - **Author Ids:** 24586986300;6701579829;24331529200;57197744325
+   - **Authoraffiliationids:** 60000481;60000481;60102151;60025153
+   - **Corresponding:** Cattin D.
+181.
+   - **Title:** Signal conditioning system analysis for adaptive signal processing in wireless sensors
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2010
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-90-481-3606-3_56
+   - **Scopus ID:** 2-s2.0-78651557209
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 54 Lnee
+   - **Pages:** 291-294
+   - **Authors:** Barboni Leonardo; Valle Maunzio
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 24474437700;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Barboni L.
+182.
+   - **Title:** Piezo-polymer-FET devices based tactile sensors for humanoid robots
+   - **Venue:** Lecture Notes in Electrical Engineering
+   - **Year:** 2010
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/978-90-481-3606-3_74
+   - **Scopus ID:** 2-s2.0-78651524750
+   - **ISSN:** 18761100
+   - **eISSN:** 18761119
+   - **Volume:** 54 Lnee
+   - **Pages:** 369-372
+   - **Authors:** Dahiya Ravinder S.; Metta Giorgio; Valle Maurizio; Lorenzelli Leandro; Adami Andrea
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q4, rank 330, percentile 19)
+   - **Source Id:** 19700186822
+   - **Author Ids:** 24331529200;6602884280;57197744325;6701719943;57202790493
+   - **Authoraffiliationids:** 60102151;60102151;60025153;60083112;60083112
+   - **Corresponding:** Dahiya R.S.
+183.
+   - **Title:** Tactile sensing-from humans to humanoids
+   - **Venue:** IEEE Transactions on Robotics
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1564
+   - **DOI:** 10.1109/TRO.2009.2033627
+   - **Scopus ID:** 2-s2.0-77049120711
+   - **ISSN:** 15523098
+   - **Volume:** 26
+   - **Issue:** 1
+   - **Pages:** 1-20
+   - **Authors:** Dahiya Ravinder S.; Metta Giorgio; Valle Maurizio; Sandini Giulio
+   - **Keywords:** Cutaneous sensing | Extrinsic sensing | Humanoid robots | Robotic skin | Tactile sensing | Touch sensing system
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 26, percentile 97)
+     - Computer Science Applications (Q1, rank 30, percentile 96)
+     - Control and Systems Engineering (Q1, rank 12, percentile 96)
+   - **Source Id:** 95101
+   - **Author Ids:** 24331529200;6602884280;57197744325;35280694500
+   - **Authoraffiliationids:** 60102151;60102151-60025153;60025153;60102151-60025153
+   - **Corresponding:** Dahiya R.S.
+184.
+   - **Title:** Thermal simulation and package investigation of wireless gas sensors microsystems
+   - **Venue:** 15th International Workshop on Thermal Investigations of Ics and Systems Therminic 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-71749104677
+   - **Pages:** 66-69
+   - **Authors:** Paoli Andrea; Seminara Lucia; Caviglia Daniele D.; Garibbo Alessandro; Valle Maurizio
+   - **Source Id:** 19500157016
+   - **Author Ids:** 58768885200;19338029900;7004012654;6506630356;57197744325
+   - **Authoraffiliationids:** 60025153;60083763;60025153;60083763;60025153
+   - **Corresponding:** Paoli A.
+185.
+   - **Title:** Design and fabrication of posfet devices for tactile sensing
+   - **Venue:** Transducers 2009 15th International Conference on Solid State Sensors Actuators and Microsystems
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 44
+   - **DOI:** 10.1109/SENSOR.2009.5285684
+   - **Scopus ID:** 2-s2.0-71449101274
+   - **Pages:** 1881-1884
+   - **Authors:** Dahiya R. S.; Valle M.; Metta G.; Lorenzelli L.; Adami A.
+   - **Keywords:** Piezoelectric polymer-FET | POSFET | Sensotronics | Tactile sensing | Touch sensor
+   - **Source Id:** 19500156801
+   - **Author Ids:** 24331529200;57197744325;6602884280;6701719943;57202790493
+   - **Authoraffiliationids:** 60102151;60025153;60102151-60025153;60083112;60083112
+   - **Corresponding:** Dahiya R.S.
+186.
+   - **Title:** Mixed-mode behavioral model of flexray physical layer transceiver
+   - **Venue:** Ecctd 2009 European Conference on Circuit Theory and Design Conference Program
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/ECCTD.2009.5275043
+   - **Scopus ID:** 2-s2.0-71249152893
+   - **Pages:** 527-530
+   - **Authors:** Muller Candice; Valle Maurizio; Buzas Roman; Skoupy Augustin
+   - **Source Id:** 19400158908
+   - **Author Ids:** 35198550100;57197744325;24586819000;7801335648
+   - **Authoraffiliationids:** 60025153;60025153;106456454;106456454
+   - **Corresponding:** Muller C.
+187.
+   - **Title:** Reliable event detectors for constrained resources wireless sensor node hardware
+   - **Venue:** Eurasip Journal on Embedded Systems
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1155/2009/474903
+   - **Scopus ID:** 2-s2.0-71049171141
+   - **ISSN:** 16873955
+   - **eISSN:** 16873963
+   - **Volume:** 2009
+   - **Authors:** López Trinidad Marco Antonio; Valle Maurizio
+   - **Source Id:** 4000151614
+   - **Author Ids:** 35194149600;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** López Trinidad M.A.
+188.
+   - **Title:** Development and characterization of touch sensing devices for robotic applications
+   - **Venue:** IECON Proceedings Industrial Electronics Conference
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/IECON.2009.5415057
+   - **Scopus ID:** 2-s2.0-77951607411
+   - **Pages:** 4245-4250
+   - **Authors:** Dahiya Ravinder S.; Valle Maurizio; Oboe Roberto; Cattin Davide
+   - **Source Id:** 56670
+   - **Author Ids:** 24331529200;57197744325;6701579829;24586986300
+   - **Authoraffiliationids:** 60102151;60025153;60000481;60000481
+   - **Corresponding:** Dahiya R.
+189.
+   - **Title:** Signal-to-noise ratio evaluation for embedded wireless sensor nodes: A novel methodology
+   - **Venue:** 2009 16th IEEE International Conference on Electronics Circuits and Systems Icecs 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICECS.2009.5410820
+   - **Scopus ID:** 2-s2.0-77951465430
+   - **Pages:** 940-943
+   - **Authors:** Barboni Leonardo; Valle Maurizio
+   - **Source Id:** 19700171821
+   - **Author Ids:** 24474437700;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Barboni L.
+190.
+   - **Title:** SPICE model for Piezoelectric Bender generators
+   - **Venue:** 2009 16th IEEE International Conference on Electronics Circuits and Systems Icecs 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/ICECS.2009.5410851
+   - **Scopus ID:** 2-s2.0-77951427235
+   - **Pages:** 587-590
+   - **Authors:** Pinna Luigi; Dahiya Ravinder S.; Valle Maurizio
+   - **Source Id:** 19700171821
+   - **Author Ids:** 35932431800;24331529200;57197744325
+   - **Authoraffiliationids:** 60025153;60102151;60025153
+   - **Corresponding:** Pinna L.
+191.
+   - **Title:** Piezoelectric polymer oxide semiconductor field effect transistor (POSFET) devices for touch sensing
+   - **Venue:** 2009 2nd International Workshop on Electron Devices and Semiconductor Technology Iedst 09
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/EDST.2009.5166118
+   - **Scopus ID:** 2-s2.0-77949888721
+   - **Authors:** Dahiya Ravinder S.; Metta Giorgio; Valle Maurizio
+   - **Keywords:** Piezo-FET | Piezoelectric polymers | POSFET | PVDF-TrFE | Robotics | Touch sensor
+   - **Source Id:** 19700168101
+   - **Author Ids:** 24331529200;6602884280;57197744325
+   - **Authoraffiliationids:** 60102151;60102151-60025153;60025153
+   - **Corresponding:** Dahiya R.
+192.
+   - **Title:** Low-noise low-power CMOS preamplifier for multisite extracellular neuronal recordings
+   - **Venue:** Microelectronics Journal
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1016/j.mejo.2009.10.003
+   - **Scopus ID:** 2-s2.0-70449639539
+   - **ISSN:** 00262692
+   - **Volume:** 40
+   - **Issue:** 12
+   - **Pages:** 1779-1787
+   - **Authors:** Bottino Emanuele; Massobrio Paolo; Martinoia Sergio; Pruzzo Giacomo; Valle Maurizio
+   - **Keywords:** Integrated high value resistance | Integrated low-noise preamplifier | Micro-electrode arrays | Neuro-electronic interface | Spontaneous electrophysiological activity recording | Standard CMOS technology
+   - **Source Id:** 9500153939
+   - **Author Ids:** 9639667500;55223181700;7003906450;24450949600;57197744325
+   - **Authoraffiliationids:** 60069032;60025153;60025153-60102151;60102151;60025153
+   - **Corresponding:** Bottino E.
+193.
+   - **Title:** Bio inspired tactile sensing arrays
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1117/12.821696
+   - **Scopus ID:** 2-s2.0-69949155060
+   - **ISSN:** 0277786X
+   - **Volume:** 7365
+   - **Authors:** Dahiya Ravinder S.; Valle Maurizio; Mettaa Giorgio; Lorenzelli Leandro
+   - **Keywords:** Human touch | MEA | Piezoelectric polymer | POSFET | PVDF-TrFE | Robotics | Tactile sensing | Touch sensor
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 24331529200;57197744325;6602884280;6701719943
+   - **Authoraffiliationids:** 60102151;60025153;60025153;60011451
+   - **Corresponding:** Dahiya R.S.
+194.
+   - **Title:** A controller area network bus transceiver behavioral model for network design and simulation
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 42
+   - **DOI:** 10.1109/TIE.2009.2025298
+   - **Scopus ID:** 2-s2.0-69349097976
+   - **ISSN:** 02780046
+   - **Volume:** 56
+   - **Issue:** 9
+   - **Pages:** 3762-3771
+   - **Authors:** Prodanov William; Valle Maurizio; Buzas Roman
+   - **Keywords:** Behavioral modeling and simulation | CAN bus transceivers and networks | Controller Area Network (CAN) | Fault simulation and analysis | Mixed-signal integrated circuits | Signal integrity analysis | VHDL-AMS
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+   - **Source Id:** 26053
+   - **Author Ids:** 14632476600;57197744325;24586819000
+   - **Authoraffiliationids:** 60017609;60025153;60091770
+   - **Corresponding:** Prodanov W.
+195.
+   - **Title:** High abstraction level CAD tool implementation of MOS drain current models
+   - **Venue:** Microelectronics Journal
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1016/j.mejo.2009.05.001
+   - **Scopus ID:** 2-s2.0-67651238454
+   - **ISSN:** 00262692
+   - **Volume:** 40
+   - **Issue:** 8
+   - **Pages:** 1225-1234
+   - **Authors:** Prodanov William; Valle Maurizio
+   - **Keywords:** Behavioural modelling | CAD tools | MOS drain current model | Sample-and-hold circuit | Technological parameters extraction
+   - **Source Id:** 9500153939
+   - **Author Ids:** 14632476600;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Prodanov W.
+196.
+   - **Title:** Piezoelectric oxide semiconductor field effect transistor touch sensing devices
+   - **Venue:** Applied Physics Letters
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 160
+   - **DOI:** 10.1063/1.3184579
+   - **Scopus ID:** 2-s2.0-67651245426
+   - **ISSN:** 00036951
+   - **Volume:** 95
+   - **Issue:** 3
+   - **Authors:** Dahiya Ravinder S.; Metta Giorgio; Valle Maurizio; Adami Andrea; Lorenzelli Leandro
+   - **Quartile:**
+     2025:
+     - Physics and Astronomy (miscellaneous) (Q1, rank 17, percentile 81)
+   - **Source Id:** 27030
+   - **Author Ids:** 24331529200;6602884280;57197744325;57202790493;6701719943
+   - **Authoraffiliationids:** 60102151;60102151-60025153;60025153;107323410;107323410
+   - **Corresponding:** Dahiya R.S.
+197.
+   - **Title:** Development of fingertip tactile sensing chips for humanoid robots
+   - **Venue:** IEEE 2009 International Conference on Mechatronics Icm 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 28
+   - **DOI:** 10.1109/ICMECH.2009.4957166
+   - **Scopus ID:** 2-s2.0-67650286857
+   - **Authors:** Dahiya Ravinder S.; Metta G.; VaIle M.
+   - **Keywords:** MEA | Tactile sensing | Tactile sensing arrays
+   - **Source Id:** 17800156705
+   - **Author Ids:** 24331529200;6602884280;57197744325
+   - **Authoraffiliationids:** 60102151;60102151;60025153
+   - **Corresponding:** Dahiya R.S.
+198.
+   - **Title:** Erratum: SPICE model for lossy piezoelectric polymers (IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2009) 56:2 387-395))
+   - **Venue:** IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Erratum
+   - **Citations:** 1
+   - **DOI:** 10.1109/TUFFC.2009.1172
+   - **Scopus ID:** 2-s2.0-67651173132
+   - **ISSN:** 08853010
+   - **Volume:** 56
+   - **Issue:** 6
+   - **Pages:** 1288
+   - **Authors:** Dahiya Ravinder; Valle Maurizio; Lorenzelli Leandro
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q1, rank 4, percentile 93)
+     - Instrumentation (Q1, rank 20, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 138, percentile 86)
+   - **Source Id:** 12998
+   - **Author Ids:** 24331529200;57197744325;6701719943
+   - **Authoraffiliationids:** 60102151-60025153;60025153;60011451
+   - **Corresponding:** Dahiya R.
+199.
+   - **Title:** SPICE model for lossy piezoelectric polymers
+   - **Venue:** IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 56
+   - **DOI:** 10.1109/TUFFC.2009.1048
+   - **Scopus ID:** 2-s2.0-62349140425
+   - **ISSN:** 08853010
+   - **Volume:** 56
+   - **Issue:** 2
+   - **Pages:** 387-395
+   - **Authors:** Dahiya Ravinder S.; Valle Maurizio; Lorenzelli Leandro
+   - **Quartile:**
+     2025:
+     - Acoustics and Ultrasonics (Q1, rank 4, percentile 93)
+     - Instrumentation (Q1, rank 20, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 138, percentile 86)
+   - **Source Id:** 12998
+   - **Author Ids:** 24331529200;57197744325;6701719943
+   - **Authoraffiliationids:** 60102151-60025153;60025153;60011451
+   - **Corresponding:** Dahiya R.S.
+200.
+   - **Title:** System approach: A paradigm for robotic tactile sensing
+   - **Venue:** International Workshop on Advanced Motion Control AMC
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 17
+   - **DOI:** 10.1109/AMC.2008.4516050
+   - **Scopus ID:** 2-s2.0-67650334746
+   - **Volume:** 1
+   - **Pages:** 110-115
+   - **Authors:** Dahiya Ravinder S.; Valle Maurizio; Metta Giorgio
+   - **Source Id:** 93668
+   - **Author Ids:** 24331529200;57197744325;6602884280
+   - **Authoraffiliationids:** 60102151-60025153;60025153;60102151-60025153
+   - **Corresponding:** Dahiya R.
+201.
+   - **Title:** Deposition, processing and characterization of P(VDFTrFE) thin films for sensing applications
+   - **Venue:** Proceedings of IEEE Sensors
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 43
+   - **DOI:** 10.1109/ICSENS.2008.4716484
+   - **Scopus ID:** 2-s2.0-67649949750
+   - **Pages:** 490-493
+   - **Authors:** Dahiya Ravinder S.; Valle Maurizio; Metta Giorgio; Lorenzelli Leandro; Pedrotti Severino
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 687, percentile 31)
+   - **Source Id:** 74882
+   - **Author Ids:** 24331529200;57197744325;6602884280;6701719943;26768133600
+   - **Authoraffiliationids:** 60025153-60102151;60025153;60025153-60102151;60083112;60083112
+   - **Corresponding:** Dahiya R.S.
+202.
+   - **Title:** SPICE model of lossy piezoelectric polymers
+   - **Venue:** IEEE International Symposium on Applications of Ferroelectrics
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ISAF.2008.4693877
+   - **Scopus ID:** 2-s2.0-58149526290
+   - **Volume:** 2
+   - **Authors:** Dahiya R. S.; Valle M.; Metta G.; Lorenzelli L.
+   - **Source Id:** 28024
+   - **Author Ids:** 24331529200;57197744325;6602884280;6701719943
+   - **Authoraffiliationids:** 60025153-60102151;60025153;60025153-60102151;60011451
+   - **Corresponding:** Dahiya R.S.
+203.
+   - **Title:** Wireless sensor networks power-aware deployment
+   - **Venue:** Proceedings 2nd Int Conf Sensor Technol Appl Sensorcomm 2008 Includes Mesh 2008 Conf Mesh Networks Enopt 2008 Energy Optim Wireless Sensors Networks Unwat 2008 Under Water Sensors Systems
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/SENSORCOMM.2008.48
+   - **Scopus ID:** 2-s2.0-55849125843
+   - **Pages:** 252-257
+   - **Authors:** Barboni Leonardo; Valle Maurizio
+   - **Source Id:** 12600154774
+   - **Author Ids:** 24474437700;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Barboni L.
+204.
+   - **Title:** Experimental analysis of wireless sensor nodes current consumption
+   - **Venue:** Proceedings 2nd Int Conf Sensor Technol Appl Sensorcomm 2008 Includes Mesh 2008 Conf Mesh Networks Enopt 2008 Energy Optim Wireless Sensors Networks Unwat 2008 Under Water Sensors Systems
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 31
+   - **DOI:** 10.1109/SENSORCOMM.2008.14
+   - **Scopus ID:** 2-s2.0-55849103559
+   - **Pages:** 401-406
+   - **Authors:** Barboni Leonardo; Valle Maurizio
+   - **Source Id:** 12600154774
+   - **Author Ids:** 24474437700;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Barboni L.
+205.
+   - **Title:** "Soft" acoustic event detectors for limited resources platforms
+   - **Venue:** 2008 3rd International Symposium on Communications Control and Signal Processing ISCCSP 2008
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ISCCSP.2008.4537475
+   - **Scopus ID:** 2-s2.0-50649099037
+   - **Pages:** 1559-1564
+   - **Authors:** Trinidad Marco Antonio López; Valle Maurizio
+   - **Source Id:** 12100155431
+   - **Author Ids:** 35194149600;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Trinidad M.A.L.
+206.
+   - **Title:** Modeling of lossy piezoelectric polymers in SPICE
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1117/12.776839
+   - **Scopus ID:** 2-s2.0-44349140189
+   - **ISSN:** 0277786X
+   - **Volume:** 6926
+   - **Authors:** Dahiya Ravinder S.; Valle Maurizio; Metta Giorgio; Lorenzelli Leandro
+   - **Keywords:** Losses | Modeling | Piezoelectric polymers | SPICE
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 24331529200;57197744325;6602884280;6701719943
+   - **Authoraffiliationids:** 60102151-60025153;60025153;60102151-60025153;60011451
+   - **Corresponding:** Dahiya R.S.
+207.
+   - **Title:** A comparative study of various probability density estimation methods for data analysis
+   - **Venue:** International Journal of Computational Intelligence Systems
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.2991/ijcis.2008.1.2.9
+   - **Scopus ID:** 2-s2.0-77952312566
+   - **ISSN:** 18756891
+   - **eISSN:** 18756883
+   - **Volume:** 1
+   - **Issue:** 2
+   - **Pages:** 188-201
+   - **Authors:** Assenza Alex; Valle Maurizio; Verleysen Michel
+   - **Keywords:** Finite gaussian mixtures | Parzen windows | Probability density function estimation
+   - **Quartile:**
+     2025:
+     - Computational Mathematics (Q1, rank 25, percentile 88)
+     - Computer Science (all) (Q1, rank 61, percentile 75)
+   - **Source Id:** 17800156712
+   - **Author Ids:** 17433662100;57197744325;7003876274
+   - **Authoraffiliationids:** 60025153;60025153;60000874
+   - **Corresponding:** Assenza A.
+208.
+   - **Title:** A comparative study of various probability density estimation methods for data analysis
+   - **Venue:** International Journal of Computational Intelligence Systems
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1080/18756891.2008.9727616
+   - **Scopus ID:** 2-s2.0-85024202903
+   - **ISSN:** 18756891
+   - **eISSN:** 18756883
+   - **Volume:** 1
+   - **Issue:** 2
+   - **Pages:** 188-201
+   - **Authors:** Assenza Alex; Valle Maurizio; Verleysen Michel
+   - **Keywords:** Finite Gaussian mixtures | Parzen windows | Probability Density Function estimation
+   - **Quartile:**
+     2025:
+     - Computational Mathematics (Q1, rank 25, percentile 88)
+     - Computer Science (all) (Q1, rank 61, percentile 75)
+   - **Source Id:** 17800156712
+   - **Author Ids:** 17433662100;57197744325;7003876274
+   - **Authoraffiliationids:** 60025153;60025153;60000874
+   - **Corresponding:** Assenza A.
+209.
+   - **Title:** A mixed-mode behavioral model of a Controller-Area-Network bus transceiver: A case study
+   - **Venue:** 2007 IEEE International Behavioral Modeling and Simulation Workshop Bmas
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/BMAS.2007.4437527
+   - **Scopus ID:** 2-s2.0-51349126239
+   - **Pages:** 67-72
+   - **Authors:** Prodanov William; Valle Maurizio; Buzas Roman; Pierscinski Hubert
+   - **Source Id:** 12100156614
+   - **Author Ids:** 14632476600;57197744325;24586819000;24587906900
+   - **Authoraffiliationids:** 60025153;60025153;106221214;106221214
+   - **Corresponding:** Prodanov W.
+210.
+   - **Title:** POSFET based tactile sensor arrays
+   - **Venue:** Proceedings of the IEEE International Conference on Electronics Circuits and Systems
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 32
+   - **DOI:** 10.1109/ICECS.2007.4511180
+   - **Scopus ID:** 2-s2.0-50649125781
+   - **Pages:** 1075-1078
+   - **Authors:** Dahiya Ravinder S.; Valle Maurizio; Metta Giorgio; Lorenzelli Leandro
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 913, percentile 8)
+   - **Source Id:** 91096
+   - **Author Ids:** 24331529200;57197744325;6602884280;6701719943
+   - **Authoraffiliationids:** 60102151-60025153;60025153;60102151-60025153;60011451
+   - **Corresponding:** Dahiya R.S.
+211.
+   - **Title:** Evaluating energy consumption in wireless sensor networks applications
+   - **Venue:** Proceedings 10th Euromicro Conference on Digital System Design Architectures Methods and Tools Dsd 2007
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 43
+   - **DOI:** 10.1109/DSD.2007.4341509
+   - **Scopus ID:** 2-s2.0-47749151454
+   - **Pages:** 455-462
+   - **Authors:** Barberis Agustin; Barboni Leonardo; Valle Maurizio
+   - **Keywords:** Energy | Simulation | Wireless sensor networks
+   - **Source Id:** 12000154340
+   - **Author Ids:** 24474109000;24474437700;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Barberis A.
+212.
+   - **Title:** Tactile sensing arrays for humanoid robots
+   - **Venue:** Proceedings of the 2007 Ph D Research in Microelectronics and Electronics Conference Prime 2007
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 21
+   - **DOI:** 10.1109/RME.2007.4401847
+   - **Scopus ID:** 2-s2.0-47349117482
+   - **Pages:** 201-204
+   - **Authors:** Dahiya Ravinder S.; Valle Maurizio; Metta Giorgio; Lorenzelli Leandro; Collini Cristian
+   - **Source Id:** 11900154385
+   - **Author Ids:** 24331529200;57197744325;6602884280;6701719943;23003664300
+   - **Authoraffiliationids:** 60102151-60025153;60025153;60102151-60025153;60011451;60011451
+   - **Corresponding:** Dahiya R.S.
+213.
+   - **Title:** Behavioral models of basic mixed-mode circuits: Practical issues and application
+   - **Venue:** European Conference on Circuit Theory and Design 2007 Ecctd 2007
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/ECCTD.2007.4529731
+   - **Scopus ID:** 2-s2.0-49749124579
+   - **Pages:** 854-857
+   - **Authors:** Prodanov William; Valle Maurizio; Buzas Roman; Pierscinski Hubert
+   - **Source Id:** 21100932851
+   - **Author Ids:** 14632476600;57197744325;24586819000;24587906900
+   - **Authoraffiliationids:** 60025153;60025153;106221214;106221214
+   - **Corresponding:** Prodanov W.
+214.
+   - **Title:** Assessment of the MAC layer behavior of wireless sensor networks simulators using experimental testbeds
+   - **Venue:** Proceedings of the 2nd IEEE International Workshop on Advances in Sensors and Interfaces Iwasi
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/IWASI.2007.4420021
+   - **Scopus ID:** 2-s2.0-48249123450
+   - **Authors:** Barberis Agustin; Barboni Leonardo; Valle Maurizio
+   - **Source Id:** 12000154503
+   - **Author Ids:** 24474109000;24474437700;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Barberis A.
+215.
+   - **Title:** A fully-automatic CAD toolbox for a MOS drain current model and its parameters extraction
+   - **Venue:** Prime 2006 2nd Conference on Ph D Research in Microelectronics and Electronics Proceedings
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-34547404679
+   - **Pages:** 209-212
+   - **Authors:** Prodanov William; Valle Maurizio
+   - **Source Id:** 7000153244
+   - **Author Ids:** 14632476600;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Prodanov W.
+216.
+   - **Title:** Assessment of probability density estimation methods: Parzen window and Finite Gaussian Mixtures
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 38
+   - **Scopus ID:** 2-s2.0-34547246353
+   - **ISSN:** 02714310
+   - **Pages:** 3245-3248
+   - **Authors:** Archambeau C.; Assenza A.; Valle M.; Verleysen M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 6602619332;17433662100;57197744325;7003876274
+   - **Authoraffiliationids:** 60000874;60025153;60025153;60000874
+   - **Corresponding:** Archambeau C.
+217.
+   - **Title:** Modelling charge injection in MOS analogue switches using a compact model in a deep submicron technology
+   - **Venue:** IEE Proceedings Circuits Devices and Systems
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1049/ip-cds:20045088
+   - **Scopus ID:** 2-s2.0-33745304982
+   - **ISSN:** 13502409
+   - **Volume:** 153
+   - **Issue:** 3
+   - **Pages:** 269-273
+   - **Authors:** Dei A.; Valle M.
+   - **Source Id:** 17412
+   - **Author Ids:** 7003894135;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Dei A.
+218.
+   - **Title:** Integrated low noise low power interface for neural bio-potentials recording and conditioning
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1117/12.607938
+   - **Scopus ID:** 2-s2.0-28344432870
+   - **ISSN:** 0277786X
+   - **Volume:** 5839
+   - **Pages:** 193-203
+   - **Authors:** Bottino Emanuele; Martinoia Sergio; Valle Maurizio
+   - **Keywords:** Analog multiplexer | Band-pass filtering | Bio-abio interface | Biopotential noise floor | Chip post-processing | Low-noise low-power preamplifier | Neural spikes recording | Noise analysis | Sample and hold | Standard CMOS technology
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 9639667500;7003906450;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bottino E.
+219.
+   - **Title:** A novel current-mode very low power analog CMOS four quadrant multiplier
+   - **Venue:** Proceedings of Esscirc 2005 31st European Solid State Circuits Conference
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 70
+   - **DOI:** 10.1109/ESSCIR.2005.1541668
+   - **Scopus ID:** 2-s2.0-33749164914
+   - **Pages:** 495-498
+   - **Authors:** Gravati Mirko; Valle Maurizio; Ferri Giuseppe; Guerrini Nicola; Reyes Linder
+   - **Source Id:** 4900153303
+   - **Author Ids:** 14630199800;57197744325;7102343602;35608187300;7005723425
+   - **Authoraffiliationids:** 60025153;60025153;60018783;60018783;60071612
+   - **Corresponding:** Gravati M.
+220.
+   - **Title:** A behavioral model for the non-linear on-resistance in sample-and-hold analog switches
+   - **Venue:** Proceedings of the 2005 European Conference on Circuit Theory and Design
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ECCTD.2005.1522922
+   - **Scopus ID:** 2-s2.0-33749080146
+   - **Volume:** 1
+   - **Pages:** 111-114
+   - **Authors:** Prodanov William; Valle Maurizio
+   - **Source Id:** 21100496429
+   - **Author Ids:** 14632476600;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Prodanov W.
+221.
+   - **Title:** Integrated low noise preamplifier for biologic-electronics interfaces
+   - **Venue:** Proceedings of the 2005 European Conference on Circuit Theory and Design
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ECCTD.2005.1522920
+   - **Scopus ID:** 2-s2.0-33749076069
+   - **Volume:** 1
+   - **Pages:** 103-106
+   - **Authors:** Bottino Emanuele; Valle Maurizio
+   - **Source Id:** 21100496429
+   - **Author Ids:** 9639667500;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Bottino E.
+222.
+   - **Title:** Modelling mismatch effects in CMOS translinear loops and current mode multipliers
+   - **Venue:** Proceedings of the 2005 European Conference on Circuit Theory and Design
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ECCTD.2005.1523138
+   - **Scopus ID:** 2-s2.0-33749023901
+   - **Volume:** 3
+   - **Pages:** 373-376
+   - **Authors:** Gravati Mirko; Valle Maurizio
+   - **Source Id:** 4900153111
+   - **Author Ids:** 14630199800;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Gravati M.
+223.
+   - **Title:** A dedicated very low power analog VLSI architecture for smart adaptive systems
+   - **Venue:** Applied Soft Computing Journal
+   - **Year:** 2004
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1016/j.asoc.2004.03.002
+   - **Scopus ID:** 2-s2.0-2442423379
+   - **ISSN:** 15684946
+   - **Volume:** 4
+   - **Issue:** 3
+   - **Pages:** 206-226
+   - **Authors:** Valle Maurizio; Diotalevi Francesco
+   - **Keywords:** Analog VLSI neural networks | CMOS technology | Differential and balanced current mode signal coding | On-chip learning implementation | Perturbation based gradient descent algorithms | Smart adaptive systems | Translinear circuits | Weak inversion
+   - **Quartile:**
+     2025:
+     - Software (Q1, rank 42, percentile 91)
+   - **Source Id:** 18136
+   - **Author Ids:** 57197744325;59850189000
+   - **Authoraffiliationids:** 60025153;60025153-101766815
+   - **Corresponding:** Valle M.
+224.
+   - **Title:** Bioelectrochemical signal monitoring of in-vitro cultured cells by means of an automated microsystem based on solid state sensor-array
+   - **Venue:** Biosensors and Bioelectronics
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 59
+   - **DOI:** 10.1016/S0956-5663(03)00040-X
+   - **Scopus ID:** 2-s2.0-0037403241
+   - **ISSN:** 09565663
+   - **Volume:** 18
+   - **Issue:** 5-6
+   - **Pages:** 621-626
+   - **Authors:** Lorenzelli Leandro; Margesin Benno; Martinoia Sergio; Tedesco M. T.; Valle Maurizio
+   - **Keywords:** Bioelectronics | Cell-metabolism monitoring | Integrated signal conditioning and multiplexing electronics | Microsensors array
+   - **Quartile:**
+     2025:
+     - Biophysics (Q1, rank 4, percentile 97)
+     - Biotechnology (Q1, rank 13, percentile 96)
+     - Biomedical Engineering (Q1, rank 15, percentile 95)
+     - Electrochemistry (Q1, rank 7, percentile 90)
+   - **Source Id:** 15437
+   - **Author Ids:** 6701719943;8306758100;7003906450;7005573484;57197744325
+   - **Authoraffiliationids:** 60011451;60011451;60025153;60025153;60025153
+   - **Corresponding:** Lorenzelli L.
+225.
+   - **Title:** Modeling charge injection non-linear effects in sigma-delta modulators using SIMULINK
+   - **Venue:** Proceedings of the 8th International Workshop on ADC Modelling and Testing Iwadc 2003
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85084021843
+   - **Authors:** Dei Alberto; Valle Maurizio
+   - **Keywords:** Charge injection modeling | Sigma-Delta converters | Switched-capacitor integrators
+   - **Source Id:** 21100932446
+   - **Author Ids:** 7003894135;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Dei A.
+226.
+   - **Title:** Analog VLSI implementation of artificial neural networks with supervised on-chip learning
+   - **Venue:** Analog Integrated Circuits and Signal Processing
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 46
+   - **DOI:** 10.1023/A:1020717929709
+   - **Scopus ID:** 2-s2.0-0036891804
+   - **ISSN:** 09251030
+   - **Volume:** 33
+   - **Issue:** 3
+   - **Pages:** 263-287
+   - **Authors:** Valle Maurizio
+   - **Keywords:** Analog VLSI neural networks | On chip learning | Supervised learning
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 82, percentile 58)
+     - Hardware and Architecture (Q2, rank 116, percentile 50)
+     - Surfaces, Coatings and Films (Q3, rank 80, percentile 42)
+   - **Source Id:** 25569
+   - **Author Ids:** 57197744325
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Valle M.
+227.
+   - **Title:** Evaluation of time resolution of NMOS sampling switches
+   - **Venue:** 4th Imeko Tc4 Conference on Advanced A D and D A Conversion Techniques and their Applications and the 7th Workshop on ADC Modelling and Testing 2002
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-84909979624
+   - **Authors:** Dei Alberto; Valle Maurizio
+   - **Keywords:** A/D converters | Aperture time | CMOS integrated circuits | High-speed integrated circuits | Sample and hold circuits
+   - **Source Id:** 21100345613
+   - **Author Ids:** 7003894135;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Dei A.
+228.
+   - **Title:** Stochastic supervised learning algorithms with local and adaptive learning rate for recognising hand-written characters
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2002
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/3-540-46084-5_101
+   - **Scopus ID:** 2-s2.0-84902188958
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 2415 Lncs
+   - **Pages:** 619-624
+   - **Authors:** Giudici Matteo; Queirolo Filippo; Valle Maurizio
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 56200011300;6602656654;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Giudici M.
+229.
+   - **Title:** A self-learning analog neural processor
+   - **Venue:** IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0036740528
+   - **ISSN:** 09168508
+   - **Volume:** E85-A
+   - **Issue:** 9
+   - **Pages:** 2149-2158
+   - **Authors:** Bo G. M.; Caviglia D. D.; Valle M.
+   - **Keywords:** Analog VLSI | Gradient descent learning | Multi-layer perceptron | Neural networks | On-chip learning
+   - **Quartile:**
+     2025:
+     - Computer Graphics and Computer-Aided Design (Q3, rank 95, percentile 27)
+     - Applied Mathematics (Q3, rank 501, percentile 25)
+     - Electrical and Electronic Engineering (Q4, rank 751, percentile 24)
+     - Signal Processing (Q4, rank 149, percentile 23)
+   - **Source Id:** 26076
+   - **Author Ids:** 7004779144;7004012654;57197744325
+   - **Authoraffiliationids:** 100935046;60025153;60025153
+   - **Corresponding:** Bo G.
+230.
+   - **Title:** Analog CMOS implementation of feature detection operators for automatic real-time optical character recognition systems
+   - **Venue:** Proceedings of the IEEE International Conference on Electronics Circuits and Systems
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-77956867031
+   - **Volume:** 2
+   - **Pages:** 1089-1093
+   - **Authors:** Caviglia D. D.; Tosato M.; Mazzucco M.; Bo G. M.; Valle M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 913, percentile 8)
+   - **Source Id:** 91096
+   - **Author Ids:** 7004012654;36538193400;16227794700;7004779144;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;100935046;100935046;60025153
+   - **Corresponding:** Caviglia D.
+231.
+   - **Title:** A mixed mode perceptron cell for VLSI Neural Networks
+   - **Venue:** Proceedings of the IEEE International Conference on Electronics Circuits and Systems
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-77956840803
+   - **Volume:** 1
+   - **Pages:** 377-380
+   - **Authors:** Camboni Fausto; Valle Maurizio
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 913, percentile 8)
+   - **Source Id:** 91096
+   - **Author Ids:** 36489150500;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Camboni F.
+232.
+   - **Title:** Evaluation of time resolution of NMOS sampling switches
+   - **Venue:** Alta Frequenza Rivista Di Elettronica
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0035520311
+   - **ISSN:** 11201908
+   - **Volume:** 13
+   - **Issue:** 6
+   - **Pages:** 83-86
+   - **Authors:** Dei Alberto; Valle Maurizio
+   - **Source Id:** 24118
+   - **Author Ids:** 7003894135;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Dei A.
+233.
+   - **Title:** Stochastic learning algorithms for the classification of remote-sensing images
+   - **Venue:** Alta Frequenza Rivista Di Elettronica
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0035456718
+   - **ISSN:** 11201908
+   - **Volume:** 13
+   - **Issue:** 5
+   - **Pages:** 60-64
+   - **Authors:** Diotalevi F.; Valle M.
+   - **Source Id:** 24118
+   - **Author Ids:** 59850189000;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Diotalevi F.
+234.
+   - **Title:** Analog CMOS current mode primitives for feed-forward neural networks
+   - **Venue:** Alta Frequenza Rivista Di Elettronica
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0035049337
+   - **ISSN:** 11201908
+   - **Volume:** 13
+   - **Issue:** 1
+   - **Pages:** 56-60
+   - **Authors:** Diotalevi Francesco; Valle Maurizio
+   - **Source Id:** 24118
+   - **Author Ids:** 59850189000;57197744325
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Diotalevi F.
+235.
+   - **Title:** A current-mode two-quadrant multiplier for analogue array-based neural systems
+   - **Venue:** International Journal of Electronics
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1080/002072100132066
+   - **Scopus ID:** 2-s2.0-0034175308
+   - **ISSN:** 00207217
+   - **Volume:** 87
+   - **Issue:** 4
+   - **Pages:** 407-411
+   - **Authors:** Bo Gian M.; Caviglia D. D.; Valle M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 433, percentile 56)
+   - **Source Id:** 26145
+   - **Author Ids:** 7004779144;7004012654;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bo G.
+236.
+   - **Title:** Analog CMOS current mode neural primitives
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ISCAS.2000.856429
+   - **Scopus ID:** 2-s2.0-0033720425
+   - **ISSN:** 02714310
+   - **Volume:** 2
+   - **Pages:** I-717-I-720
+   - **Authors:** Diotalevi F.; Valle M.; Bo G. M.; Biglieri E.; Caviglia D. D.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 59850189000;57197744325;7004779144;7102451118;7004012654
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Diotalevi F.
+237.
+   - **Title:** Evaluation of gradient descent learning algorithms with an adaptive local rate technique for hierarchical feed forward architectures
+   - **Venue:** Proceedings of the International Joint Conference on Neural Networks
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ijcnn.2000.857895
+   - **Scopus ID:** 2-s2.0-0033717761
+   - **Volume:** 2
+   - **Pages:** 185-190
+   - **Authors:** Diotalevi F.; Valle M.; Caviglia D. D.
+   - **Source Id:** 96537
+   - **Author Ids:** 59850189000;57197744325;7004012654
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Diotalevi F.
+238.
+   - **Title:** On-chip learning neural network
+   - **Venue:** Proceedings of the International Joint Conference on Neural Networks
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/ijcnn.2000.860751
+   - **Scopus ID:** 2-s2.0-0033717750
+   - **Volume:** 4
+   - **Pages:** 66-71
+   - **Authors:** Bo G. M.; Caviglia D. D.; Valle M.
+   - **Source Id:** 96537
+   - **Author Ids:** 7004779144;7004012654;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bo G.M.
+239.
+   - **Title:** VLSI architecture for Weight Perturbation on chip learning implementation
+   - **Venue:** Proceedings of the International Joint Conference on Neural Networks
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0033717370
+   - **Volume:** 4
+   - **Pages:** 219-224
+   - **Authors:** Diotalevi F.; Valle M.; Bo G. M.; Caviglia D. D.
+   - **Source Id:** 96537
+   - **Author Ids:** 59850189000;57197744325;7004779144;7004012654
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Diotalevi F.
+240.
+   - **Title:** Analog on-chip learning circuit architecture of the weight perturbation algorithm
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ISCAS.2000.857120
+   - **Scopus ID:** 2-s2.0-0033699545
+   - **ISSN:** 02714310
+   - **Volume:** 1
+   - **Pages:** I-419-I-422
+   - **Authors:** Diotalevi F.; Valle M.; Bo G. M.; Biglieri E.; Caviglia D. D.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 59850189000;57197744325;7004779144;7102451118;7004012654
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Diotalevi F.
+241.
+   - **Title:** A Circuit Architecture for Analog On-Chip Back Propagation Learning with Local Learning Rate Adaptation
+   - **Venue:** Analog Integrated Circuits and Signal Processing
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1023/a:1008307321196
+   - **Scopus ID:** 2-s2.0-85088547180
+   - **ISSN:** 09251030
+   - **Volume:** 18
+   - **Issue:** 2-3
+   - **Pages:** 163-173
+   - **Authors:** Bo Gian Marco; Caviglia D. D.; Chiblè H.; Valle M.
+   - **Keywords:** Analog circuits | Local learning rate adaptation | Neural networks | On-chip learning
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 82, percentile 58)
+     - Hardware and Architecture (Q2, rank 116, percentile 50)
+     - Surfaces, Coatings and Films (Q3, rank 80, percentile 42)
+   - **Source Id:** 25569
+   - **Author Ids:** 7004779144;7004012654;7801443090;57197744325
+   - **Authoraffiliationids:** 60025153-100505222;60025153;60025153;60025153
+   - **Corresponding:** Bo G.M.
+242.
+   - **Title:** Gradient descent learning algorithm for hierarchical neural networks: A case study in industrial quality
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 1999
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/BFb0100525
+   - **Scopus ID:** 2-s2.0-84958093847
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 1607
+   - **Pages:** 578-587
+   - **Authors:** Baratta Daniela; Diotalevi Francesco; Valle Maurizio; Caviglia Daniele D.
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 57190699953;59850189000;57197744325;7004012654
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Baratta D.
+243.
+   - **Title:** An experimental analog CMOS self-learning chip
+   - **Venue:** Proceedings of the 7th International Conference on Microelectronics for Neural Fuzzy and Bio Inspired Systems Microneuro 1999
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/MN.1999.758856
+   - **Scopus ID:** 2-s2.0-28344436975
+   - **Pages:** 135-139
+   - **Authors:** Bo G. M.; Caviglia D. D.; Chible H.; Valle M.
+   - **Source Id:** 21100841700
+   - **Author Ids:** 7004779144;7004012654;7801443090;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bo G.
+244.
+   - **Title:** Circuit architecture for analog on-chip back propagation learning with local learning rate adaptation
+   - **Venue:** Analog Integrated Circuits and Signal Processing
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1023/A:1008310017048
+   - **Scopus ID:** 2-s2.0-0032630104
+   - **ISSN:** 09251030
+   - **Volume:** 19
+   - **Issue:** 2
+   - **Pages:** 163-173
+   - **Authors:** Bo G. M.; Caviglia D. D.; Chible H.; Valle M.
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 82, percentile 58)
+     - Hardware and Architecture (Q2, rank 116, percentile 50)
+     - Surfaces, Coatings and Films (Q3, rank 80, percentile 42)
+   - **Source Id:** 25569
+   - **Author Ids:** 7004779144;7004012654;7801443090;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bo G.M.
+245.
+   - **Title:** Analog VLSI real time optical character recognition system based on a neural architecture
+   - **Venue:** Alta Frequenza Rivista Di Elettronica
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0032595106
+   - **ISSN:** 11201908
+   - **Volume:** 11
+   - **Issue:** 1
+   - **Pages:** 53-57
+   - **Authors:** Bo Gian Marco; Caviglia Daniele D.; Valle Maurizio
+   - **Source Id:** 24118
+   - **Author Ids:** 7004779144;7004012654;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bo G.
+246.
+   - **Title:** Analysis of the behavior of a dynamic latch comparator
+   - **Venue:** IEEE Transactions on Circuits and Systems I Fundamental Theory and Applications
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 22
+   - **DOI:** 10.1109/81.662703
+   - **Scopus ID:** 2-s2.0-0032025004
+   - **ISSN:** 10577122
+   - **Volume:** 45
+   - **Issue:** 3
+   - **Pages:** 294-298
+   - **Authors:** Cusinato P.; Bruccoleri M.; Caviglia D. D.; Valle M.
+   - **Source Id:** 26028
+   - **Author Ids:** 22955477900;6603102021;7004012654;57197744325
+   - **Authoraffiliationids:** 60023682;60023682;60023682;60023682
+   - **Corresponding:** Cusinato P.
+247.
+   - **Title:** Reconfigurable analog VLSI neural network architecture with non-linear synapses
+   - **Venue:** International Journal of Circuit Theory and Applications
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1002/(SICI)1097-007X(199805/06)26:3<307::AID-CTA14>3.0.CO;2-5
+   - **Scopus ID:** 2-s2.0-0032070027
+   - **ISSN:** 00989886
+   - **Volume:** 26
+   - **Issue:** 3
+   - **Pages:** 307-315
+   - **Authors:** Bo G. M.; Caviglia D. D.; Valle M.; Stratta R.; Trucco E.
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 183, percentile 72)
+     - Electrical and Electronic Engineering (Q2, rank 422, percentile 57)
+     - Computer Science Applications (Q2, rank 471, percentile 52)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 170, percentile 45)
+   - **Source Id:** 17963
+   - **Author Ids:** 7004779144;7004012654;57197744325;7102310635;57527443100
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bo G.M.
+248.
+   - **Title:** An analog VLSI implementation of a feature extractor for real time optical character recognition
+   - **Venue:** IEEE Journal of Solid State Circuits
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1109/4.663560
+   - **Scopus ID:** 2-s2.0-0343277351
+   - **ISSN:** 00189200
+   - **Volume:** 33
+   - **Issue:** 4
+   - **Pages:** 556-563
+   - **Authors:** Bo Gian Marco; Caviglia Daniele D.; Valle Maurizio
+   - **Keywords:** Analog VLSI implementations | Feature extraction | Neural networks | Optical character recognition
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 82, percentile 91)
+   - **Source Id:** 17278
+   - **Author Ids:** 7004779144;7004012654;57197744325
+   - **Authoraffiliationids:** 60025153-100842240;60000251-60025153;60025153
+   - **Corresponding:** Bo G.
+249.
+   - **Title:** Design of an analog CMOS self-learning MLP chip
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0031632182
+   - **ISSN:** 02714310
+   - **Volume:** 3
+   - **Pages:** 46-49
+   - **Authors:** Bo G. M.; Caviglia D. D.; Chible H.; Valle M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+   - **Source Id:** 56190
+   - **Author Ids:** 7004779144;7004012654;7801443090;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bo G.
+250.
+   - **Title:** A threshold voltage gradient compensation circuit for weak inversion operators for analog OCR chips
+   - **Venue:** Alta Frequenza Rivista Di Elettronica
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0031147393
+   - **ISSN:** 11201908
+   - **Volume:** 9
+   - **Issue:** 3
+   - **Pages:** 66-68
+   - **Authors:** Bo G. M.; Caviglia D. D.; Valle M.
+   - **Source Id:** 24118
+   - **Author Ids:** 7004779144;7004012654;57197744325
+   - **Authoraffiliationids:** 60025153-101817667;60025153;60025153-101043148-101769091
+   - **Corresponding:** Bo G.
+251.
+   - **Title:** A hardware implementation of hierarchical neural networks for real-time quality control systems in industrial applications
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 1997
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/bfb0020319
+   - **Scopus ID:** 2-s2.0-84956678831
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 1327
+   - **Pages:** 1229-1234
+   - **Authors:** Baratta Daniela; Bo Gian Marco; Caviglia Daniele D.; Valle Maurizio; Canepa Giovanni; Parenti Riccardo; Pernio Carla
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 57190699953;7004779144;7004012654;57197744325;57090151600;15747631400;57090990600
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60073836;60073836
+   - **Corresponding:** Baratta D.
+252.
+   - **Title:** A VLSI image processing architecture dedicated to real-time quality control analysis in an industrial plant
+   - **Venue:** Real Time Imaging
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1006/rtim.1996.0037
+   - **Scopus ID:** 2-s2.0-0030392986
+   - **ISSN:** 10072014
+   - **Volume:** 2
+   - **Issue:** 6
+   - **Pages:** 361-371
+   - **Authors:** Valle Maurizio; Raffo Luigi; Caviglia Daniele D.; Bisio Giacomo M.
+   - **Source Id:** 25648
+   - **Author Ids:** 57197744325;7003651730;7004012654;36730309500
+   - **Authoraffiliationids:** 60025153;60032259;60025153;60025153
+   - **Corresponding:** Valle M.
+253.
+   - **Title:** An experimental analog VLSI neural network with on-chip back-propagation learning
+   - **Venue:** Analog Integrated Circuits and Signal Processing
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 33
+   - **DOI:** 10.1007/BF00194907
+   - **Scopus ID:** 2-s2.0-0030122857
+   - **ISSN:** 09251030
+   - **Volume:** 9
+   - **Issue:** 3
+   - **Pages:** 231-245
+   - **Authors:** Valle Maurizio; Caviglia Daniele D.; Bisio Giacomo M.
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 82, percentile 58)
+     - Hardware and Architecture (Q2, rank 116, percentile 50)
+     - Surfaces, Coatings and Films (Q3, rank 80, percentile 42)
+   - **Source Id:** 25569
+   - **Author Ids:** 57197744325;7004012654;36730309500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Valle M.
+254.
+   - **Title:** Application of hierarchical neural networks to pattern recognition for quality control analysis in steel-industry plants
+   - **Venue:** Proceedings of International Workshop on Neural Networks for Identification Control Robotics and Signal Image Processing Nicrosp
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0029747729
+   - **Pages:** 246-252
+   - **Authors:** Valle Maurizio; Baratta Daniela; Caviglia Daniele D.
+   - **Source Id:** 51489
+   - **Author Ids:** 57197744325;57190699953;7004012654
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Valle M.
+255.
+   - **Title:** An ASIC design for real-time image processing in industrial applications
+   - **Venue:** Proceedings of the 1995 European Conference on Design and Test Edtc 1995
+   - **Year:** 1995
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/edtc.1995.470367
+   - **Scopus ID:** 2-s2.0-2442515315
+   - **Pages:** 385-390
+   - **Authors:** Valle M.; Nateri G.; Caviglia D. D.; Bisio G. M.; Briozzo L.
+   - **Source Id:** 21100832756
+   - **Author Ids:** 57197744325;6507926305;7004012654;36730309500;57188981635
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60023682
+   - **Corresponding:** Valle M.
+256.
+   - **Title:** VHDL-based design methodology: The design experience of an high performance ASIC chip
+   - **Venue:** European Design Automation Conference Proceedings
+   - **Year:** 1994
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-0028727204
+   - **Pages:** 664-669
+   - **Authors:** Valle M.; Cornero M.; Nateri G.; Caviglia D. D.; Briozzo L.
+   - **Source Id:** 21100514040
+   - **Author Ids:** 57197744325;6507323959;6507926305;7004012654;57188981635
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Valle M.
+257.
+   - **Title:** Analog VLSI neural network for real-time image processing in industrial applications
+   - **Venue:** Proceedings of the Annual IEEE International ASIC Conference and Exhibit
+   - **Year:** 1994
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0028706632
+   - **ISSN:** 10630988
+   - **Pages:** 37-40
+   - **Authors:** Valle M.; Onorato M.; Oddone F.; Caviglia D. D.; Bisio G. M.
+   - **Source Id:** 26006
+   - **Author Ids:** 57197744325;35909820400;6507657213;7004012654;36730309500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Valle M.
+258.
+   - **Title:** Feature extraction circuit for optical character recognition
+   - **Venue:** Electronics Letters
+   - **Year:** 1994
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1049/el:19940526
+   - **Scopus ID:** 2-s2.0-0028427576
+   - **ISSN:** 00135194
+   - **Volume:** 30
+   - **Issue:** 10
+   - **Pages:** 769-771
+   - **Authors:** Caviglia D. D.; Valle M.; Rossi A.; Vincentelli M.; Bo G.; Colangelo P.; Pedrazzi P.; Colla A. M.
+   - **Keywords:** Character recognition | Image processing | Neural networks
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 624, percentile 37)
+   - **Source Id:** 24918
+   - **Author Ids:** 7004012654;57197744325;58372732800;6507172616;7004779144;7003500562;6602524105;8371953800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60024961;60024961
+   - **Corresponding:** Caviglia D.D.
+259.
+   - **Title:** An analog VLSI neural network character recognition system: The feature extraction module
+   - **Venue:** Proceedings of the 4th International Conference on Microelectronics for Neural Networks and Fuzzy Systems Icmnn 1994
+   - **Year:** 1994
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICMNN.1994.593712
+   - **Scopus ID:** 2-s2.0-9744277211
+   - **Pages:** 212-217
+   - **Authors:** Caviglia Daniele D.; Rossi Annamaria; Vincentelli Mario; Valle Maurizio
+   - **Source Id:** 21100901938
+   - **Author Ids:** 7004012654;58372732800;6507172616;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Caviglia D.D.
+260.
+   - **Title:** Non-linear circuit effects on analog VLSI neural network implementations
+   - **Venue:** Proceedings of the 4th International Conference on Microelectronics for Neural Networks and Fuzzy Systems Icmnn 1994
+   - **Year:** 1994
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICMNN.1994.593739
+   - **Scopus ID:** 2-s2.0-85063337009
+   - **Pages:** 430-438
+   - **Authors:** Onorato M.; Valle M.; Caviglia D. D.; Bisio G. M.
+   - **Source Id:** 21100901938
+   - **Author Ids:** 35909820400;57197744325;7004012654;36730309500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Onorato M.
+261.
+   - **Title:** Design of a CMOS ASIC chip featuring analog neural computational primitives
+   - **Venue:** Euro ASIC 92
+   - **Year:** 1992
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0026998066
+   - **Pages:** 113-118
+   - **Authors:** Valle M.; Caviglia D. D.; Bisio G. M.
+   - **Source Id:** 93285
+   - **Author Ids:** 57197744325;7004012654;36730309500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Valle M.
+262.
+   - **Title:** An experimental analog VLSI neural chip with on-chip back-propagation learning
+   - **Venue:** European Solid State Circuits Conference
+   - **Year:** 1992
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ESSCIRC.1992.5468241
+   - **Scopus ID:** 2-s2.0-85024152297
+   - **ISSN:** 19308833
+   - **Volume:** 1992-September
+   - **Pages:** 203-204
+   - **Authors:** Valle Maurizio; Caviglia Daniele D.; Bisio Giacomo M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 586, percentile 41)
+     - Hardware and Architecture (Q3, rank 162, percentile 30)
+   - **Source Id:** 63659
+   - **Author Ids:** 57197744325;7004012654;36730309500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Valle M.
+263.
+   - **Title:** Effects of weight discretization on the back propagation learning method: Algorithm design and hardware realization
+   - **Venue:** Ijcnn International Joint Conference on Neural Networks
+   - **Year:** 1990
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **Scopus ID:** 2-s2.0-0025548891
+   - **Pages:** 631-637
+   - **Authors:** Caviglia Daniele D.; Valle Maurizio; Bisio Giacomo M.
+   - **Source Id:** 21100510043
+   - **Author Ids:** 7004012654;57197744325;36730309500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Caviglia D.D.
+264.
+   - **Title:** Cmos Circuit Design of Programmable Neural Net Classifier of ‘Exclusive’ Classes
+   - **Venue:** Electronics Letters
+   - **Year:** 1989
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1049/el:19890719
+   - **Scopus ID:** 2-s2.0-0024960643
+   - **ISSN:** 00135194
+   - **Volume:** 25
+   - **Issue:** 16
+   - **Pages:** 1074-1076
+   - **Authors:** Caviglia D. D.; Bisio G. M.; Daglio P.; Valle M.
+   - **Keywords:** Artificial intelligence | Networks | Neural networks | Pattern recognition
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 624, percentile 37)
+   - **Source Id:** 24918
+   - **Author Ids:** 7004012654;36730309500;6701711381;57197744325
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Caviglia D.D.

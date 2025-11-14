@@ -1,0 +1,3034 @@
+{
+  "surname": "Saviozzi",
+  "name": "Matteo",
+  "unit": "ELE",
+  "email": "matteo.saviozzi@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/VkNDXlpo",
+  "website": "",
+  "unige_id": "304501",
+  "scopus_id": "56027556100",
+  "role": "Professore associato",
+  "grade": "Prof.Associato Legge 240/10 - t.pieno - classe 0",
+  "ssd": "IIND-08/B (Sistemi elettrici per l'energia)",
+  "location": [
+    {
+      "building": "Opera Pia - padiglione D (ED_161450401)",
+      "floor": "1° piano",
+      "room": "US_161450401.I.026"
+    }
+  ],
+  "career": [
+    {
+      "role": "AR",
+      "from": "2016-01-04 00:00:00.0000000",
+      "to": "2020-02-09 00:00:00.0000000"
+    },
+    {
+      "role": "CB",
+      "from": "2018-09-24 00:00:00.0000000",
+      "to": "2020-02-09 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2020-02-10 00:00:00.0000000",
+      "to": "2025-01-31 00:00:00.0000000"
+    },
+    {
+      "role": "PA",
+      "from": "2025-02-01 00:00:00.0000000",
+      "to": "2222-02-02 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {
+    "2025": [
+      {
+        "course": "FONDAMENTI DI CONTROLLI PER SISTEMI ELETTRICI (66049)",
+        "degree": "L-9 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "TECNICHE DI OTTIMIZZAZIONE PER I SISTEMI ELETTRICI (101704)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "SOLUZIONI DIGITALI PER MONITORARE E CONTROLLARE IN MODO OTTIMALE LE RISORSE ENERGETICHE DISTRIBUITE IN UN AMBIENTE MICROGRID - RAISE LIGURIA (113565)",
+        "degree": "FORMAZIONE ALLA CITTADINANZA"
+      },
+      {
+        "course": "TRANSIZIONE ENERGETICA: DIFFUSIONE DELLE RINNOVABILI E SFIDE ALLA GESTIONE INTELLIGENTE DEL SISTEMA ELETTRICO - RAISE LIGURIA (113521)",
+        "degree": "FORMAZIONE ALLA CITTADINANZA"
+      },
+      {
+        "course": "AUTOMATION AND CONTROL FOR ELECTRIC MARINE APPLICATIONS (101126)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      },
+      {
+        "course": "MANAGEMENT AND CONTROL OF ELECTRIC ENERGY SYSTEMS (118104)",
+        "degree": "LM-28 - ELECTRICAL ENGINEERING FOR ENERGY TRANSITION"
+      }
+    ],
+    "2024": [
+      {
+        "course": "TECNICHE DI OTTIMIZZAZIONE PER I SISTEMI ELETTRICI (101704)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "SOLUZIONI DIGITALI PER MONITORARE E CONTROLLARE IN MODO OTTIMALE LE RISORSE ENERGETICHE DISTRIBUITE IN UN AMBIENTE MICROGRID - RAISE LIGURIA (113565)",
+        "degree": "FORMAZIONE ALLA CITTADINANZA"
+      },
+      {
+        "course": "TRANSIZIONE ENERGETICA: DIFFUSIONE DELLE RINNOVABILI E SFIDE ALLA GESTIONE INTELLIGENTE DEL SISTEMA ELETTRICO - RAISE LIGURIA (113521)",
+        "degree": "FORMAZIONE ALLA CITTADINANZA"
+      },
+      {
+        "course": "AUTOMATION AND CONTROL FOR ELECTRIC MARINE APPLICATIONS (101126)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2023": [
+      {
+        "course": "TECNICHE DI OTTIMIZZAZIONE PER I SISTEMI ELETTRICI (101704)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "SOLUZIONI DIGITALI PER MONITORARE E CONTROLLARE IN MODO OTTIMALE LE RISORSE ENERGETICHE DISTRIBUITE IN UN AMBIENTE MICROGRID - RAISE LIGURIA (113565)",
+        "degree": "FORMAZIONE ALLA CITTADINANZA"
+      },
+      {
+        "course": "AUTOMATION AND CONTROL FOR ELECTRIC MARINE APPLICATIONS (101126)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2022": [
+      {
+        "course": "TECNICHE DI OTTIMIZZAZIONE PER I SISTEMI ELETTRICI (101704)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "AUTOMATION AND CONTROL FOR ELECTRIC MARINE APPLICATIONS (101126)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2021": [
+      {
+        "course": "TECNICHE DI OTTIMIZZAZIONE PER I SISTEMI ELETTRICI (101704)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      },
+      {
+        "course": "AUTOMATION AND CONTROL FOR ELECTRIC MARINE APPLICATIONS (101126)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2020": [
+      {
+        "course": "AUTOMATION AND CONTROL FOR ELECTRIC MARINE APPLICATIONS (101126)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 13,
+      "total_products": 57,
+      "journals": 12,
+      "conferences": 44,
+      "citations": 608,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 13,
+      "total_products": 57,
+      "journals": 12,
+      "conferences": 44,
+      "citations": 608,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 11,
+      "total_products": 55,
+      "journals": 12,
+      "conferences": 42,
+      "citations": 574,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 5,
+      "total_products": 31,
+      "journals": 6,
+      "conferences": 24,
+      "citations": 115,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-85205774028",
+      "title": "A Model Predictive Control-Based Energy Management Strategy for Secure Operations in Shipboard Power Systems",
+      "doi": "10.1109/TTE.2024.3471192",
+      "venue": "IEEE Transactions on Transportation Electrification",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "11",
+      "issue_id": "1",
+      "pages": "4818-4829",
+      "issn": null,
+      "eIssn": "23327782",
+      "source_id": "21100854649",
+      "authors": "D'agostino Fabio; Gallo Marco; Saviozzi Matteo; Silvestro Federico",
+      "author_ids": "56553864200;58202074000;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "D'agostino F.",
+      "keywords": "All electric ship (AES) | energy management system (EMS) | model predictive control (MPC) | security constraints | shipboard microgrid | speed optimization",
+      "abstract": "This work proposes a model predictive control (MPC) approach aimed at optimizing the efficiency of a hybrid shipboard power system (SPS) while ensuring secure operations. A mixed integer linear programming (MILP) formulation is exploited, considering both process constraints and N-1 security requirements. In addition, constraints are implemented to optimize the ship's speed, while ensuring the target distance, and compliance with carbon intensity indicator (CII) limits. Electric load data are based on real measurements. The prediction of the load and the speed of the ship is obtained through a recurrent neural network (RNN). The optimization provides the unit commitment and the active power set-points for all resources. The algorithm is tested in a simulation environment where the model of a notional all-electric ship is developed in MATLAB/Simulink. The results demonstrate that the MPC approach can continuously and rapidly optimize the management of the ship's resources, making it suitable for seagoing applications. Additionally, the proposed simulation platform allows testing the performance over large time horizons, in a short period of time.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 92,
+              "rank": 73,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Automotive Engineering",
+              "percentile": 91,
+              "rank": 12,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Transportation",
+              "percentile": 90,
+              "rank": 16,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 89,
+              "rank": 35,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105019317119",
+      "title": "Full Tuning of Double Input Power System Stabilizers via Surrogate Optimization",
+      "doi": "10.1109/PowerTech59965.2025.11180292",
+      "venue": "2025 IEEE Kiel Powertech Powertech 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101341419",
+      "authors": "MacCió G.; Massucco S.; Natrella G.; Saviozzi M.; Conte F.; Giannuzzi G.; Tessitore S.",
+      "author_ids": "60150796500;6603357712;57638571300;56027556100;57151673600;25936117900;57211384304",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60005308;60122257;60122257",
+      "corresponding": "MacCió G.",
+      "keywords": "Double Input Power System Stabilizer | Optimal Tuning | Power System Stabilizer",
+      "abstract": "This paper deals with the optimal tuning of Power System Stabilizers (PSSs). The considered PSS is the widely adopted double input IEEE type PSS2B. The objective is to optimally define the PSS parameters to simultaneously place the system poles within a prescribed area defined by a maximal real part and a minimum damping factor and to minimize the phase lag between system frequency and generator terminal voltage, which has a strong impact on the damping of inter-area oscillations, according to the Italian Transmission System Operator expertise. This goal is obtained by minimizing a suitably defined cost function evaluated after the computation of a linearized model of the generator connected to an infinite bus external grid under several operating conditions, in terms of both generator working point and grid impedance. The result is a highly nonlinear optimization problem, which is solved via Surrogate Optimization. Compared to the current literature, the proposed procedure considers the tuning of every parameter of the PSS, comprising both the terminal branch and the initial section, which is intended for a pre-filtering action. This part includes additional time constants that can influence the transmission system dynamic response. Simulation results prove the effectiveness of the proposed procedure.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105019295787",
+      "title": "Fault Classification in Distribution Networks Using Graph Neural Networks and Discrete Stockwell Transform",
+      "doi": "10.1109/PowerTech59965.2025.11180505",
+      "venue": "2025 IEEE Kiel Powertech Powertech 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101341419",
+      "authors": "D'Agostino F.; Mahlalela J. S.; Massucco S.; Mosaico G.; Saviozzi M.; Silvestro F.",
+      "author_ids": "56553864200;60150558600;6603357712;57208723957;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "D'Agostino F.",
+      "keywords": "Discrete Stockwell Transform | Fault Classification | Graph Neural Network | GraphSMOTE | Node Classification | Waveform Measurement Units",
+      "abstract": "Deep learning models have shown great potential for fault location and classification tasks in distribution systems. Emerging multi-scale data sources such as waveform measurement units, synchro-phasors, smart meters, weather data, and other information from electricity markets provide a rich source of information that can be leveraged for various applications in power system operations. However, the lack of sufficient training datasets poses a significant challenge in effectively training these models to achieve high accuracy and generalization. This paper proposes a novel architecture for the generation of fault datasets from the distribution system and the fault location tasks. It then develops a fault classification solution using graph convolutional neural network that can capture topology information, combined with discrete orthogonal Stockwell's transform for extracting frequency-domain features from time-series data. Pre-processing of the bus voltage angle and magnitude from strategic locations was used. The method was tested to predict faulted buses in the Cigre distribution test system. Comparisons were made with various standard classifiers. The results show the usefulness of the data generation solution for developing fault location models and the benefit of integrating topology data into the classifier with a graph convolutional neural network technique, as it outperforms other techniques in most scenarios.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105019041513",
+      "title": "Comparative Assessment of Virtual Inertia in Grid Forming-Based Wind Turbines",
+      "doi": "10.1109/EEEIC/ICPSEurope64998.2025.11169192",
+      "venue": "Conference Proceedings 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101340466",
+      "authors": "Cardenas Marcelo; D'Agostino Fabio; Saviozzi Matteo; Silvestro Federico; Conte Francesco",
+      "author_ids": "60109695500;56553864200;56027556100;23026343700;57151673600",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60005308",
+      "corresponding": "Cardenas M.",
+      "keywords": "Deloaded Mode | Grid Forming | MPPT | Virtual Inertia | Wind Turbine",
+      "abstract": "The ongoing transition from traditional to renewable generation dominated by Inverter-Based Resources (IBRs) presents new challenges to maintaining power system stability. In this context, Grid-Forming (GFM) control using Virtual Synchronous Generator (VSG) strategies offers grid support capabilities. This study investigates the GFM control of a Permanent Magnet Synchronous Generator (PMSG) Wind Turbine (WT). A set of study cases is simulated to assess the impact of virtual inertia under varying wind speeds and different levels of inertia. The analysis considers two operational modes: Maximum Power Point Tracking (MPPT) and deloaded mode. System performance is evaluated on the basis of the Rate of Change of Frequency (RoCoF) and the frequency nadir. Additionally, to the best of the authors' knowledge, the effect of frequency droop in GFM-VSG control has not been previously examined in the context of virtual inertia provision. Therefore, a comparative analysis is presented in the two operating modes.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105019039502",
+      "title": "Optimal Sizing and Operations of a Hydrogen-Based Multi-Energy Port System with Market Participation and Gas Grid Integration",
+      "doi": "10.1109/EEEIC/ICPSEurope64998.2025.11169295",
+      "venue": "Conference Proceedings 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101340466",
+      "authors": "Carcasci Carlo; Conte Francesco; D'Agostino Fabio; Guzzo Gabriele; Natrella Gianluca; Saviozzi Matteo",
+      "author_ids": "6701748483;57151673600;56553864200;57224441656;57638571300;56027556100",
+      "authorAffiliationIds": "60021859;108398862;60025153;60021859;60025153;60025153",
+      "corresponding": "Carcasci C.",
+      "keywords": "energy markets | gas network | Hydrogen | multi-energy system | port energy management",
+      "abstract": "This work addresses the optimal sizing and operations of a hydrogen-based multi-energy system in the Port of Livorno, Italy, aimed at decarbonizing maritime activities. The system includes renewable generation, batteries, electrolyzers, and hydrogen storage. Hydrogen is used both for fueling ships and for injection into the nearby gas grid, complying with hydrogen blending limits. A simulation-based optimization framework is developed to solve the plant sizing problem: the outer level recursively minimizes the Net Present Cost via surrogate optimization, while the inner level optimally schedules daily operations by solving a mixed-integer linear programming problem. The framework accounts for markets participation (electricity, gas, environmental) and technical constraints. The feasibility of the optimized hydrogen injection strategy is assessed through a steady-state isothermal fluid-dynamic model. The system is sized based on the Italian regulation assuming a 2% vol hydrogen injection limit, while operational scenarios with injection limits ranging from 2% to 20% vol are analyzed. Results show that increasing the blending limit from 2% to 20% enables a 9% rise in renewable hydrogen utilization and reduces the Levelized Cost of Hydrogen from 3.82 €/kg to 3.49 €/kg.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105016636749",
+      "title": "Comparison of Virtual Inertia Support in GFM Inverter-Based Resources with Different DC Sources",
+      "doi": "10.1109/ICCEP65222.2025.11143695",
+      "venue": "2025 International Conference on Clean Electrical Power Iccep 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": "293-299",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101333300",
+      "authors": "Cardenas M.; Saviozzi M.; Silvestro F.; Conte F.; Gandolfi C.; Rapizza M.",
+      "author_ids": "60109695500;56027556100;23026343700;57151673600;36699552800;55806655700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60005308;60104176;60104176",
+      "corresponding": "Cardenas M.",
+      "keywords": "Grid Forming | Nadir | Rate of Change of Frequency (RoCoF) | Virtual Inertia",
+      "abstract": "The modern electric power system is currently undergoing significant changes in its generation structure, substituting synchronous machines with Inverter-Based Resources (IBRs). This shift reduces the availability of rotating masses, challenging the stability of the power system due to the resulting decrease in grid inertia. Virtual Synchronous Generator (VSG) based Grid-forming (GFM) addresses these stability concerns. However, to the best of the authors' knowledge, a comprehensive analysis of virtual inertia provision for modeling the DC side with different sources has not yet been provided. This paper presents a review of DC side modeling considering three sources: an ideal DC source model, a battery model, and finally a wind turbine model. Case studies have been implemented within the MATLAB/Simulink environment which are illustrated and evaluated in terms of the Rate of Change of Frequency (RoCoF) and the frequency nadir. Finally, the IBRs modeled with these three different DC sources are compared with a Synchronous Generator (SG) of equivalent size and inertia values to assess the synthetic inertia against the inertia of the SG.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105012573490",
+      "title": "Low-Level Simulation of a Grid-Following Inverter with Synthetic Inertia",
+      "doi": "10.1109/AEITHVDC66044.2025.11079533",
+      "venue": "2025 Aeit Hvdc International Conference Aeit Hvdc 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101318126",
+      "authors": "Lodi M.; Oliveri A.; Saviozzi M.; Conte F.; Baggi P.",
+      "author_ids": "57200266678;57200399832;56027556100;57151673600;60030400500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60005308;132941234",
+      "corresponding": "Lodi M.",
+      "keywords": "Commercial inverter | inverter modeling | Synthetic inertia",
+      "abstract": "Future commercial inverters should be equipped with dedicated control techniques to mimic the behavior of traditional synchronous machines, providing the so-called synthetic inertia. This is necessary to prevent large frequency fluctuations in response to power imbalances, in power grids with a high penetration of renewable energy sources. In this work, synthetic inertia capabilities have been added to a detailed model of a commercial inverter. Low-level simulations have been performed to assess the converter performance, by considering real effects such as switching noise, sampling, delays, and dynamics.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105005716970",
+      "title": "Innovative strategies for the provision of upward frequency regulation through renewables and batteries",
+      "doi": null,
+      "venue": "Energia Elettrica",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "102",
+      "issue_id": "2",
+      "pages": "3-12",
+      "issn": "00137308",
+      "eIssn": null,
+      "source_id": "16662",
+      "authors": "Rapizza Marco Raffaele; Canavese Silvia Maria; Cirio Diego; Saviozzi Matteo; Conte Francesco",
+      "author_ids": "55806655700;59907439200;6504625684;56027556100;57151673600",
+      "authorAffiliationIds": "122143470;122143470;122143470;60025153;60005308",
+      "corresponding": "Rapizza M.R.",
+      "keywords": null,
+      "abstract": "A comparison of three innovative control methods for grid frequency regulation is proposed for application to wind turbines, photovoltaic panels, and electrochemical storage systems. In support, simulation results are reported.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 7,
+              "rank": 302,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 5,
+              "rank": 946,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 2,
+              "rank": 407,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-86000032130",
+      "title": "Two-Stage Stochastic Optimal Energy Management of Microgrids for Participation in Flexibility Markets",
+      "doi": "10.1109/ISGTEUROPE62998.2024.10863134",
+      "venue": "IEEE Pes Innovative Smart Grid Technologies Europe Isgt Europe 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101279501",
+      "authors": "Massucco S.; Mosaico G.; Saviozzi M.; Almaleck P.; Santarelli M.; Serra P.",
+      "author_ids": "6603357712;57208723957;56027556100;57211999394;57206208449;8246669600",
+      "authorAffiliationIds": "60025153;60025153;60025153;119159635;119159635;119159635",
+      "corresponding": "Massucco S.",
+      "keywords": "flexibility services | microgrids | model predictive control | optimal energy management",
+      "abstract": "The increasing importance of flexibility markets has arisen in empowering distributed energy resources to assist grid operators in balancing the electricity system. This necessitates new optimization algorithms capable of optimally computing flexibility for day-ahead flexibility markets and implementing flexibility requests in intraday operations. This paper proposes a two-stage (day-ahead and intraday) flexibility optimization formulation for a Microgrid (MG). Chance constraints with separation constraints approximation, tuned by a risk aversion parameter, handle uncertainties. An experiment involving a diverse set of energy assets is performed, simulating a relevant energy flexibility request, which is successfully satisfied, demonstrating the capabilities of the proposed solution.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85216923141",
+      "title": "Optimal Sizing of a Multi - Energy Port with Vehicles Charging Capabilities",
+      "doi": "10.1109/ESARS-ITEC60450.2024.10819836",
+      "venue": "2024 IEEE International Conference on Electrical Systems for Aircraft Railway Ship Propulsion and Road Vehicles and International Transportation Electrification Conference Esars Itec 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101272773",
+      "authors": "D'Agostino F.; Gallo M.; Kaza D.; Saviozzi M.; Silvestro F.; Conte F.",
+      "author_ids": "56553864200;58202074000;57218924925;56027556100;23026343700;57151673600",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60005308",
+      "corresponding": "D'Agostino F.",
+      "keywords": "Energy Storage System | Multi-Energy | Optimal Sizing | Ship to grid | Smart Port | Vehicle-to-Grid",
+      "abstract": "This work proposes a three-stage optimal sizing procedure for a green smart port, considering boats and cars connected to the grid. A mixed integer linear programming formulation is exploited, integrating the operational profile of all the vehicles connected to the charging points. The aggregated power profile of all the vehicles is obtained through several iterations of the sizing algorithm. Electric vehicles can operate in vehicle-to-grid mode, performing energy regulation in order to maximize the port earnings. The algorithm, developed in the Matlab environment, is tested on a notional marina. The results demonstrate that the integration of the vehicles into the port can reduce the size of the storage system, especially when operating in vehicle-to-grid mode.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85211949831",
+      "title": "Optimal Control of a Wind Farm-BESS Unit to Combine Synthetic Inertia and Fast Reserve",
+      "doi": "10.1109/EEEIC/ICPSEurope61470.2024.10751006",
+      "venue": "Proceedings 24th Eeeic International Conference on Environment and Electrical Engineering and 8th I and Cps Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101263912",
+      "authors": "Conte Francesco; D'Agostino Fabio; Massucco Stefano; Saviozzi Matteo; Rapizza Marco Raffaele; Gandolfi Chiara",
+      "author_ids": "57151673600;56553864200;6603357712;56027556100;55806655700;36699552800",
+      "authorAffiliationIds": "105252934;60025153;60025153;60025153;60104176;60104176",
+      "corresponding": "Conte F.",
+      "keywords": "Battery Energy Storage Systems | Fast Frequency Regulation | Model Predictive Control | Synthetic Inertia | Wind Turbines",
+      "abstract": "This paper introduces a Model Predictive Control (MPC)-based strategy to optimally control the active power exchange of a unit composed by a Wind Farm (WF) and a Battery Energy Storage System (BESS). In particular, the aim of the controller is to combine a Synthetic Inertia Service (SIS) with the Fast Reserve Service (FRS) as defined by the Italian Transmission System Operator (TSO). Specific versions of the MPC controller are then defined in order to realize one of the two services or to provide both simultaneously. Proper rules are established to switch among the different control algorithms and obtain an effective combination of FRS and SIS. Simulation results show the potentiality of the proposed approach.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85210829627",
+      "title": "Innovative Strategies for Upward Frequency Regulation Provision by Renewables and Batteries",
+      "doi": "10.23919/AEIT63317.2024.10736779",
+      "venue": "2024 116th Aeit International Annual Conference Aeit 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101261562",
+      "authors": "Rapizza Marco Raffaele; Canevese Silvia Maria; Cirio Diego; Saviozzi Matteo; Conte Francesco",
+      "author_ids": "55806655700;13409397100;6504625684;56027556100;57151673600",
+      "authorAffiliationIds": "110071415;110071415;110071415;60025153;60005308",
+      "corresponding": "Rapizza M.R.",
+      "keywords": "grid frequency control | ultra-fast regulation with battery energy storage system | wind and photovoltaic support",
+      "abstract": "The increasing penetration of generation from Non-Programmable Renewable Energy Sources (NPRES) and the progressive decommissioning of synchronous generators causes a reduction in the physical inertia and control capabilities of the power system. The negative impact of this issue on frequency regulation can be mitigated by introducing faster control actions and by enabling also NPRES generation to contribute to such actions. In this regard, the paper proposes a comparison among three innovative regulations provided, in particular, by wind power plants, photovoltaic panels and electrochemical storage systems. To support the discussion, simulation results are reported for a 2030 scenario of the Sardinian power system.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85207428013",
+      "title": "Day-Ahead Programming of Energy Communities Participating in Pay-as-Bid Service Markets",
+      "doi": "10.1109/PESGM51994.2024.10688872",
+      "venue": "IEEE Power and Energy Society General Meeting",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "19449925",
+      "eIssn": "19449933",
+      "source_id": "20600195623",
+      "authors": "Conte F.; Massucco S.; Natrella G.; Saviozzi M.; Silvestro F.",
+      "author_ids": "57151673600;6603357712;57638571300;56027556100;23026343700",
+      "authorAffiliationIds": "60005308;60025153;60025153;60025153;60025153",
+      "corresponding": "Conte F.",
+      "keywords": "day-ahead programming | Renewable Energy Community | scenario-based optimization | service market",
+      "abstract": "This paper proposes an optimal strategy for a Renewable Energy Community participating in the Italian pay-as-bid ancillary services market. The community is composed by a group of residential customers sharing a common facility equipped with a photovoltaic power plant and a battery energy storage system. This battery is employed to maximize the community cash flow obtained by the participation in the services market. A scenario-based optimization problem is defined to size the bids to be submitted to the market and to define the corresponding optimal battery energy exchange profile for the day ahead. The proposed optimization scheme is able to take into account the probability of acceptance of the service market bids and the uncertainties in the forecasts of photovoltaic generation and energy demands. Results prove the effectiveness of the approach and the economic advantages of participating in the service market.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 37,
+              "rank": 622,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Nuclear Energy and Engineering",
+              "percentile": 37,
+              "rank": 53,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 36,
+              "rank": 208,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 25,
+              "rank": 232,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Nuclear Energy and Engineering",
+              "percentile": 34,
+              "rank": 53,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 29,
+              "rank": 682,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 28,
+              "rank": 215,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 20,
+              "rank": 238,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85204764443",
+      "title": "Development and Selection of Load Forecasting Techniques for Non-Residential Buildings",
+      "doi": "10.1109/PMAPS61648.2024.10667140",
+      "venue": "Pmaps 2024 18th International Conference on Probabilistic Methods Applied to Power Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101249904",
+      "authors": "Massucco S.; Mosaico G.; Saviozzi M.; Almaleck P.; Santarelli M.; Serra P.",
+      "author_ids": "6603357712;57208723957;56027556100;57211999394;57206208449;8246669600",
+      "authorAffiliationIds": "60025153;60025153;60025153;119159635;119159635;119159635",
+      "corresponding": "Massucco S.",
+      "keywords": "building management system | buildings | load demand | Load forecasting",
+      "abstract": "Non-residential buildings account for a significant portion of energy consumption and greenhouse gas emissions among all structures. A key element of their Building Management System (BMS) is the electrical load forecasting functionality. As numerous techniques have been developed for load forecasting, adaptability has emerged as a fundamental feature of a robust forecasting system, given that no single technique outperforms all others. In this paper, we evaluate a diverse pool of twelve load forecasting techniques for a hourly 24-hour-ahead load forecasting task across four real non-residential building datasets using two Key Performance Indicators (KPIs). The results demonstrate that the diversity of the pool is essential for producing the most accurate forecasts.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85201736645",
+      "title": "Performance Investigation of an Optimal Control Strategy for Zero-Emission Operations of Shipboard Microgrids",
+      "doi": "10.1109/SPEEDAM61530.2024.10609047",
+      "venue": "2024 International Symposium on Power Electronics Electrical Drives Automation and Motion Speedam 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "1048-1052",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101243575",
+      "authors": "D'Agostino Fabio; Gallo Marco; Saviozzi Matteo; Silvestro Federico",
+      "author_ids": "56553864200;58202074000;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "D'Agostino F.",
+      "keywords": "Carbon Intensity Indicator | Hydrogen | Ship Speed Optimization | Zero-Emission",
+      "abstract": "This work introduces an efficient power management approach for shipboard microgrids that integrates diesel generators, a fuel cell, and battery energy storage system. This strategy addresses both unit commitment and power dispatch, considering the zero-emission capability of the ship, as well as optimizing the ship's speed. The optimization is done through mixed integer linear programming with the objective of minimizing the operational cost of all the power resources. Evaluations are conducted on a notional all-electric ship, with electrical load simulated using a Markov chain based on actual measurement data. The findings underscore the effectiveness of the proposed strategy in optimizing fuel consumption while ensuring protection against blackout occurrences.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85175150487",
+      "title": "Electrical consumption forecasting in sports venues: A proposed approach based on neural networks and ARIMAX Models",
+      "doi": "10.1016/j.scs.2023.105019",
+      "venue": "Sustainable Cities and Society",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "100",
+      "issue_id": null,
+      "pages": null,
+      "issn": "22106707",
+      "eIssn": null,
+      "source_id": "19700194105",
+      "authors": "Almaleck Pablo; Massucco Stefano; Mosaico Gabriele; Saviozzi Matteo; Serra Pietro; Silvestro Federico",
+      "author_ids": "57211999394;6603357712;57208723957;56027556100;8246669600;23026343700",
+      "authorAffiliationIds": "130383566;60025153;60025153;60025153;130383566;60025153",
+      "corresponding": "Almaleck P.",
+      "keywords": "ARIMAX models | Artificial neural network | Electrical consumption forecasting | Football arena | Load forecasting | Sports venue",
+      "abstract": "Building energy demand accounts for an important part of global energy consumption and emissions. Load forecasting is a crucial functionality for building management systems (BMSs) in order to optimize the energy supply and use with the goal of achieving economic and environmental benefits. Furthermore, if the building is a sports/event venue (one of the most energy-intensive facility type), load forecasting acquires an even greater importance. This paper presents a new forecasting hybrid technique that combines an ensemble of Artificial Neural Networks (ANNs) with an AutoRegressive Integrated Moving Average with eXternal inputs (ARIMAX) model. The proposed methodology is designed for the 24-hour-ahead electrical consumption forecasting of sports venues. These types of buildings are generally characterized by large fluctuations in their load caused by the hosted events, and therefore they are challenging for forecasting tools. The ANNs ensemble is composed of the average output of several multi-layer perceptrons, while the ARIMAX is used to correct the prediction provided by the ANNs working on the ensemble residual. The proposed approach can be easily implemented within a BMS that can be crucial for an efficient facility management. The hybrid methodology has been tested and validated on the load data of a real football arena. The proposed methodology achieves a MAPE of 9.03 % on an open dataset, and 9.38% on a closed dataset, outperforming standard machine learning techniques, hybridization techniques involving time-series and machine learning methods, as well as a state of the art event venue load forecasting technique. Furthermore, a feature importance study reveals that all the selected inputs are crucial in achieving the result. Finally, the inclusion of results related to an open dataset encourages further studies and comparisons.",
+      "citations": 19,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 99,
+              "rank": 1,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Geography, Planning and Development",
+              "percentile": 99,
+              "rank": 4,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Transportation",
+              "percentile": 97,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 94,
+              "rank": 19,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 99,
+              "rank": 1,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Geography, Planning and Development",
+              "percentile": 99,
+              "rank": 3,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Transportation",
+              "percentile": 97,
+              "rank": 4,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 94,
+              "rank": 16,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85146670642",
+      "title": "Modelling and optimal management of renewable energy communities using reversible solid oxide cells",
+      "doi": "10.1016/j.apenergy.2023.120657",
+      "venue": "Applied Energy",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "334",
+      "issue_id": null,
+      "pages": null,
+      "issn": "03062619",
+      "eIssn": null,
+      "source_id": "28801",
+      "authors": "Bianchi F. R.; Bosio B.; Conte F.; Massucco S.; Mosaico G.; Natrella G.; Saviozzi M.",
+      "author_ids": "57214116004;55888255600;57151673600;6603357712;57208723957;57638571300;56027556100",
+      "authorAffiliationIds": "60025153;60025153;60005308;60025153;60025153;60025153;60025153",
+      "corresponding": "Bianchi F.R.",
+      "keywords": "Green Hydrogen | Renewable Energy Communities | Reversible Solid Oxide Cells | Stochastic Model Predictive Control",
+      "abstract": "The use of reversible solid oxide cells within a renewable energy community results a promising application which permits to balance the temporal mismatch between renewable energy production and users’ demand through hydrogen as energy vector. Differently from batteries and supercapacitors, this technology is characterized by a high stored energy density and a negligible daily self-discharge. Nevertheless, the system management is more complex requiring cell behaviour optimization and hydrogen storage control. Here this work proposes a control algorithm for reversible solid oxide cell operation coupled to renewable energy sources within a renewable energy community formed by an aggregation of fifteen residential customers. Based on forecasts of loads and renewable energy production, the proposed algorithm, a stochastic model predictive control, can optimize system operation aiming at economic benefit maximization. The transition between the fuel cell mode for power generation and the electrolysis mode for energy storage through hydrogen production was set considering the available renewable energy, the power demand of community members and the energy sell-back price in order to increase the auto-consumed amount as well as to favour the electricity exchange within the renewable energy community. Since the reversible solid oxide cell is the key-point in such a system, SIMFC-SIMEC (SIMulation of Fuel Cells and Electrolysis Cells), a physically based 2D model, allowed an effective prediction of cell behaviour deriving the efficiency of electricity and hydrogen production from local physicochemical feature and working parameter gradients on each stacked cell plane.",
+      "citations": 46,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Management, Monitoring, Policy and Law",
+              "percentile": 98,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 98,
+              "rank": 14,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Building and Construction",
+              "percentile": 98,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy (all)",
+              "percentile": 94,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 93,
+              "rank": 22,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Building and Construction",
+              "percentile": 99,
+              "rank": 1,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Management, Monitoring, Policy and Law",
+              "percentile": 98,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 98,
+              "rank": 12,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy (all)",
+              "percentile": 95,
+              "rank": 4,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 94,
+              "rank": 15,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85149181238",
+      "title": "Probabilistic Security-Constrained Preventive Control under Forecast Uncertainties Including Volt/Var Constraints",
+      "doi": "10.3390/en16041812",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "16",
+      "issue_id": "4",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Ciapessoni Emanuele; Cirio Diego; Conte Francesco; Pitto Andrea; Massucco Stefano; Saviozzi Matteo",
+      "author_ids": "6505804291;6504625684;57151673600;35068505700;6603357712;56027556100",
+      "authorAffiliationIds": "60104176;60104176;60005308;60104176;60025153;60025153",
+      "corresponding": "Ciapessoni E.",
+      "keywords": "probability | renewable energy sources | security | stochastic optimization | uncertainty",
+      "abstract": "The continuous increase in generation from renewable energy sources, marked by correlated forecast uncertainties, requires specific methodologies to support power system operators in security management. This paper proposes a probabilistic preventive control to ensure N-1 security in presence of correlated uncertainties of renewable sources and loads. By adopting a decoupled linear formulation of the AC load flow equations, the preventive control is decomposed into two subsequent linear programming problems, the former concerning the active power and the latter the voltage/reactive power-related issues. In particular, in the active control problem, the algorithm combines Third Order Polynomial Normal Transformation, Point Estimate Method, and Cornish–Fisher expansion to model the forecast uncertainties and characterize the chance constraints in the problem. The goal is to find the optimal phase shifting transformer tap setting, conventional generation redispatching, and renewable curtailment at the minimum cost to assure the probabilistic fulfillment of N and N-1 security constraints on branch active power flows. The second stage solves another linear programming problem, which aims to minimize the adjustments to generators’ set-point voltages to avoid violations at node voltages and branch-rated limits due to reactive power flows while meeting generator reactive power constraints. Simulations performed on an IEEE test system demonstrate the effectiveness of the proposed security control method in limiting the probability of violating security limits in N and N-1 state, including voltage/reactive power constraints, in presence of correlated uncertainties.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 85,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 82,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 74,
+              "rank": 200,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 71,
+              "rank": 78,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 69,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 68,
+              "rank": 25,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 62,
+              "rank": 103,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85187309136",
+      "title": "Warm Start Fitted Q Reinforcement Learning for Electric Vehicle Depot Charging",
+      "doi": "10.1109/ISGTEUROPE56780.2023.10408530",
+      "venue": "IEEE Pes Innovative Smart Grid Technologies Conference Europe",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101206224",
+      "authors": "Massucco S.; Mosaico G.; Saviozzi M.; Almaleck P.; Santarelli M.; Serra P.",
+      "author_ids": "6603357712;57208723957;56027556100;57211999394;57206208449;8246669600",
+      "authorAffiliationIds": "60025153;60025153;60025153;119159635;119159635;119159635",
+      "corresponding": "Massucco S.",
+      "keywords": "EV Charging | EV depot | Fitted Q-iteration | Reinforcement Learning",
+      "abstract": "Electric Vehicle (EV) charging coordination is gaining more interest for better integrating EV depots into the electrical grid. Several solutions exist, ranging from rule-based control to, more recently, Reinforcement Learning (RL) techniques. Batch RL approaches are particularly interesting for their ability to use past data for training the controller. However, such solutions typically work with action space discretization, which does leverage continuous charging set-points of Electric Vehicle Supply Equipments (EVSEs), hindering the scalability of solutions. In this paper, we leverage dual annealing global optimization algorithm to pick continuous actions from a neural network RL agent trained with fitted Q-iteration with synthetic data coming from a custom depot simulator. Results for one year simulation of a 10 EVSEs depot are reported and compared with good results with random policy over several criteria.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85169444849",
+      "title": "Optimal Storage Allocation for Transmission Network Development Planning: Study Case of Sicily",
+      "doi": "10.1109/PowerTech55446.2023.10202764",
+      "venue": "2023 IEEE Belgrade Powertech Powertech 2023",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101175266",
+      "authors": "D'Agostino F.; Gabriele B.; Mosaico G.; Saviozzi M.; Silvestro F.",
+      "author_ids": "56553864200;57219805070;57208723957;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "D'Agostino F.",
+      "keywords": "Probabilistic Planning | Storage Allocation | Storage Sizing | Transmission Systems | Volt/Var Optimization",
+      "abstract": "The efforts toward a sustainable society require the increasing adoption of Renewable Energy Sources (RESs) at all levels of the power grid. Installation of energy storage systems is a key intervention for managing the new security and environmental needs brought by the RESs volatility. This is especially important for transmission networks prone to congestion issues, with critical links between portions of the grid and with a very high capacity of renewable generation, such as the transmission network of Sicily (Italy). This work uses a probabilistic planning methodology for the optimal allocation and sizing of storage systems, previously developed and applied to a real distribution network, also accounting for reactive regulation of voltage by distributed energy resources. The application is implemented in MATLAB/GAMS environment assuming a new wind offshore farm connected to the reinforced grid according to intervention foreseen by the Italian transmission system operator. The result shows the feasibility of application of the methodology to a transmission network, and can be a robust tool for the allocation and sizing of energy storage systems in the considered scenario.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85160199845",
+      "title": "A Security-Constrained Optimal Power Management Algorithm for Shipboard Microgrids with Battery Energy Storage System",
+      "doi": "10.1109/ESARS-ITEC57127.2023.10114833",
+      "venue": "2023 IEEE International Conference on Electrical Systems for Aircraft Railway Ship Propulsion and Road Vehicles and International Transportation Electrification Conference Esars Itec 2023",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101154140",
+      "authors": "D'Agostino F.; Gallo M.; Saviozzi M.; Silvestro F.",
+      "author_ids": "56553864200;58202074000;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "D'Agostino F.",
+      "keywords": "Battery Energy Storage System | Efficiency | Power Management Strategy | Security Constraints",
+      "abstract": "This work proposes an optimal power management strategy for shipboard microgrids equipped with diesel generators and a battery energy storage system. The optimization provides both the unit commitment and the optimal power dispatch of all the resources, in order to ensure reliable power supply at minimum cost and with minimum environmental impact. The optimization is performed solving a mixed integer linear programming problem, where the constraints are defined according to the operational limits of the resources when a contingency occurs. The algorithm is tested on a notional all-electric ship where the ship's electrical load is generated through a Markov chain, modeled on real measurement data. The results show that the proposed power management strategy successfully maximizes fuel saving while ensuring blackout prevention capability.",
+      "citations": 10,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85143621135",
+      "title": "Real-Time Power System Laboratories at the University of Genoa",
+      "doi": "10.23919/AEIT56783.2022.9951786",
+      "venue": "2022 Aeit International Annual Conference Aeit 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101125262",
+      "authors": "Bonfiglio Andrea; Bracco Stefano; D'Agostino Fabio; Delfino Federico; Laiolo Paola; Invernizzi Marco; Massucco Stefano; Procopio Renato; Saviozzi Matteo; Silvestro Federico",
+      "author_ids": "36607521000;15049159900;56553864200;6603766602;56576462300;6701527755;6603357712;7801615894;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Bonfiglio A.",
+      "keywords": "Power Laboratories | Power Systems | Real Time Simulation",
+      "abstract": "The Power system is a crucial element in the achievement of a sustainable energy transition and for this reason, in the last years, power system laboratories have rapidly evolved from the old concept of simulation based laboratories to the new concept of Hardware in the Loop and Power Hardware in the Loop set-ups. The article presents and describes the features of the University of Genoa power system laboratories, the main research activities currently ongoing and the expected evolution in the light of the action related to the National Recovery and Resilience Plan.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85143587755",
+      "title": "Methods and Tools for the Management of Renewable Energy Communities: the ComER project",
+      "doi": "10.23919/AEIT56783.2022.9951776",
+      "venue": "2022 Aeit International Annual Conference Aeit 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101125262",
+      "authors": "Rita Di Fazio Anna; Losi Arturo; Russo Mario; Cacace Filippo; Conte Francesco; Iannello Giulio; Natrella Gianluca; Saviozzi Matteo",
+      "author_ids": "24437779200;7004596459;56186338900;12239653700;57151673600;6701387714;57638571300;56027556100",
+      "authorAffiliationIds": "60001711;60001711;60001711;60005308;60005308;60005308;60025153;60025153",
+      "corresponding": "Rita Di Fazio A.",
+      "keywords": "Energy Communities | Renewables | Self-Consumption Management and Control",
+      "abstract": "Renewable Energy Communities (RECs) have been officially introduced into the European legislation through the Clean Energy for all Europeans package. A REC is defined as an association of citizens, commercial activities, enterprises, and local authorities that own small-scale power plants based on Renewable Energy Sources (RESs). The community has the objective of maximizing the share of renewable energy, i.e. the self-consumption of the energy generated by the community RES power plants and to generally optimize the use of electrical energy. This paper describes the ComER project, developed by the University of Cassino and the Campus Bio-Medico University of Rome. The project focuses on the main technical problems to face for the realization of a REC. The principal objective is to develop methods and tools necessary for the management and control of RECs. In particular, this paper describes the rules established for RECs in the Italian legislations, the organization of the ComER project, the adopted solutions and the first obtained results.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85141711994",
+      "title": "TECHNO-ECONOMIC DISPATCH ANALYSIS OF A CASE STUDY CONSISTING OF MICRO GAS TURBINES USING REAL-TIME DATA",
+      "doi": "10.1115/GT2022-83437",
+      "venue": "Proceedings of the ASME Turbo Expo",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "5",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100877658",
+      "authors": "Uslu Hasan Huseyin; Vinci Andrea; Saviozzi Matteo; Mosaico Gabriele; Assadi Mohsen; Silvestro Federico; Somehsaraei Homam Nikpey",
+      "author_ids": "57960219500;57191195028;56027556100;57208723957;7003594790;23026343700;55364882500",
+      "authorAffiliationIds": "60014497;60335519;60025153;60025153;60014497;60025153;60014497",
+      "corresponding": "Uslu H.H.",
+      "keywords": "combined heat and power | economic dispatch | electricity market | hydrogen | micro gas turbine",
+      "abstract": "The high share of renewables has a significant role in decarbonization targets. However, it increases the intermittency of the power supply and disrupts the optimal operation and grid reliability. This raises the costs for the system and the end-users. To avoid such costs, distributed and dispatchable power generation technologies like small scale combined heat and power systems (CHP) should be promoted to avoid transmission losses and fulfill the energy needs of customers. In this regard, micro gas turbine (MGT) technology can be considered a promising and attractive solution through its environmentally friendly operation and fuel flexibility. Within the scope of this paper, such a solution is proposed as a system consisting of MGTs for CHP purposes to capture the advantage derived from the potential gap between electricity and gas tariff prices for public organizations in Italy. The analyses are based on expected spot power and gas prices traded on the forward markets and actual tariff prices to show the real potential. A specific case study, consisting of 14 buildings of the University of Genoa (UniGe) in Italy has been studied, focusing on using MGTs for CHP as an alternative for the existing energy solution which is electricity and natural gas import from the national grid. A real-time energy monitoring system for the buildings is available at present. The proposed system considers all data points for the consumption and generation capacity of MGTs and optimizes the operational schedule of MGTs based on the electricity and heat demand together with the power and gas prices according to the time zones. Then a comparison is made between the current situation, which is the electricity import from the grid with a variable tariff; and the proposed system, based on net present value (NPV), internal rate of return (IRR), return on investment (ROI), and payback period. Further analysis is performed to demonstrate the opportunities to use hydrogen as an alternative fuel in MGTs and breakeven hydrogen price is calculated to show where it becomes more attractive than natural gas for this case.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85135098261",
+      "title": "Optimal Management of Renewable Generation and Uncertain Demand with Reverse Fuel Cells by Stochastic Model Predictive Control",
+      "doi": "10.1109/PMAPS53380.2022.9810605",
+      "venue": "2022 17th International Conference on Probabilistic Methods Applied to Power Systems Pmaps 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101098702",
+      "authors": "Conte F.; Mosaico G.; Natrella G.; Saviozzi M.; Bianchi F. R.",
+      "author_ids": "57151673600;57208723957;57638571300;56027556100;57214116004",
+      "authorAffiliationIds": "60005308;60025153;60025153;60025153;60025153",
+      "corresponding": "Conte F.",
+      "keywords": "Fuel Cells | Hydrogen | Renewable Energy Communities | Stochastic Model Predictive Control",
+      "abstract": "This paper proposes a control strategy for a Reverse Fuel Cell used to manage a Renewable Energy Community. A two-stage scenario-based Model Predictive Control algorithm is designed to define the best economic strategy to be followed during operation. Renewable energy generation and users' demand are forecasted by a suitably defined Discrete Markov Chain based method. The control algorithm is able to take into account the uncertainties of forecasts and the nonlinear behaviour of the Reversible Fuel Cell. The performance of proposed approach is tested on a Renewable Energy Community composed by an aggregation of industrial buildings equipped with PV.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85126794555",
+      "title": "Electrical consumption forecasting in hospital facilities",
+      "doi": "10.1016/B978-0-12-819742-4.00009-3",
+      "venue": "Machine Learning and Data Science in the Power Generation Industry Best Practices Tools and Case Studies",
+      "type": "Book",
+      "sub_type": "Book Chapter",
+      "year": 2021,
+      "volume": null,
+      "issue_id": null,
+      "pages": "195-211",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101081837",
+      "authors": "Bagnasco A.; Fresi F.; Saviozzi M.; Silvestro F.; Vinci A.",
+      "author_ids": "6602504190;56730407300;56027556100;23026343700;57191195028",
+      "authorAffiliationIds": "60025153-127870515;126999213;60025153;60025153;127870515",
+      "corresponding": "Bagnasco A.",
+      "keywords": "Building management systems | Electrical consumption in an hospital facility | Energy management systems | Load forecasting | Neural networks",
+      "abstract": "The topic of energy efficiency applied to buildings represents one of the key aspects in today’s international energy policies. Emissions reduction and the achievement of the targets set by the Kyoto Protocol are becoming a fundamental concern in the work of engineers and technicians operating in the energy management field. Optimal energy management practices need to deal with uncertainties in generation and demand. Hence the development of reliable forecasting methods is an important priority and area of research in electric energy systems. This chapter presents a load forecasting model and the way it was applied to a real case study in forecasting the electrical consumption of the Cellini medical clinic of Turin, Italy. The model can be easily integrated into a Building Management System or into a real-time monitoring system. The load forecasting is performed through the implementation of an artificial neural network (ANN). The proposed multilayer perceptron ANN, based on a backpropagation training algorithm, is able to take as inputs: loads, type of day (e.g., weekday/holiday), time of the day, and weather data. This work focuses on providing a detailed analysis and an innovative formal procedure for the selection of all ANN parameters.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85083362160",
+      "title": "A quasi-optimal energy resources management technique for low voltage microgrids",
+      "doi": "10.1016/j.ijepes.2020.106080",
+      "venue": "International Journal of Electrical Power and Energy Systems",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "121",
+      "issue_id": null,
+      "pages": null,
+      "issn": "01420615",
+      "eIssn": null,
+      "source_id": "17985",
+      "authors": "Crosa di Vergagni M.; Massucco S.; Saviozzi M.; Silvestro F.; Monachesi F.; Ragaini E.",
+      "author_ids": "56943365800;6603357712;56027556100;23026343700;56028076900;6507406235",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60102057;60102057",
+      "corresponding": "Crosa di Vergagni M.",
+      "keywords": "Demand response | Distributed energy resources | Energy resources management | Flexibility provision | Frequency control | Microgrid | Microgrid optimization",
+      "abstract": "The increasing penetration of Distributed Energy Resources (DERs) in modern power systems is introducing new challenges for system stability and control. The stochasticity of Renewable Energy Sources (RESs) and the unpredictable behaviour of demand, make it necessary to develop intelligent Energy Resources Management (ERM) methodology, able to actively regulate the actors of the electrical network. This paper proposes a new quasi-optimal control algorithm, designed for LV breaker devices, aiming to manage DERs in a distributed and scalable approach. The developed ERM technique is able: (1) to control the energy consumption at the Point of Common Coupling (PCC) (with the possibility to join Active Demand Response (ADR) programs or to provide flexibility/energy reserve), when the microgrid itself is connected to the main grid; (2) to control the frequency profile when the microgrid is operating in islanded mode, using information provided by real time measures.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 94,
+              "rank": 57,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 92,
+              "rank": 25,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 91,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 85,
+              "rank": 33,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85097165502",
+      "title": "A Markov Chain Load Modeling Approach through a Stream Clustering Algorithm",
+      "doi": "10.23919/AEIT50178.2020.9241159",
+      "venue": "12th Aeit International Annual Conference Aeit 2020",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101029719",
+      "authors": "Massucco Stefano; Mosaico Gabriele; Saviozzi Matteo; Silvestro Federico; Fidigatti Antonio; Ragaini Enrico",
+      "author_ids": "6603357712;57208723957;56027556100;23026343700;36699443500;6507406235",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60102057;60102057",
+      "corresponding": "Massucco S.",
+      "keywords": "Load Modeling | Load Profiling | Markov Chains | Streaming Algorithm",
+      "abstract": "Advanced Metering Infrastructure (AMI) is improving the quality and quantity of information within power systems. Thus, these data should be wisely used for efficient management and control. For these reasons, advanced functionalities have to be implemented in order to deal with the massive data stream. In this work, a stream clustering algorithm is used to model any load with a Markov Chain (MC). This algorithm is able to describe the typical load profile in real-time, thanks to a design and an implementation that minimizes the computational burden. The proposed procedure has been tested on an IEEE industrial machines dataset. In addition, a discussion on the parameter selection is provided.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85099129474",
+      "title": "Probabilistic planning for distribution networks including optimal der regulation and storage allocation",
+      "doi": "10.1109/PESGM41954.2020.9281710",
+      "venue": "IEEE Power and Energy Society General Meeting",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": "2020-August",
+      "issue_id": null,
+      "pages": null,
+      "issn": "19449925",
+      "eIssn": "19449933",
+      "source_id": "20600195623",
+      "authors": "Massucco S.; Mosaico G.; Pongiglione P.; Saviozzi M.; Silvestro F.",
+      "author_ids": "6603357712;57208723957;57195506239;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Massucco S.",
+      "keywords": "Distribution Systems | Probabilistic Planning | Storage Allocation | VoltNar optimization",
+      "abstract": "The increasing penetration of Renewable Energy Sources (RESs) in distribution networks is requiring smarter integration techniques, in order to guarantee secure system operation and grid reinforcement deferral. Distributed resources can contribute to voltage management through Volt/var regulation and, if storage devices are installed, to relieve congestions by leveraging smart control strategies. This work proposes a probabilistic planning formulation for the allocation of storage systems, to be optimally controlled together with other sources available along the grid feeders. The target is to minimize the number of storage modules needed to guarantee technical and quality constraints for all components. The presented approach is implemented in GAMS (General Algebraic Modeling System) and applied to the real distribution grid of Sanremo, Italy.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 37,
+              "rank": 622,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Nuclear Energy and Engineering",
+              "percentile": 37,
+              "rank": 53,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 36,
+              "rank": 208,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 25,
+              "rank": 232,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85091339116",
+      "title": "An Instantaneous Growing Stream Clustering Algorithm for Probabilistic Load Modeling/Profiling",
+      "doi": "10.1109/PMAPS47429.2020.9183448",
+      "venue": "2020 International Conference on Probabilistic Methods Applied to Power Systems Pmaps 2020 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101021844",
+      "authors": "Massucco Stefano; Mosaico Gabriele; Saviozzi Matteo; Silvestro Federico; Fidigatti Antonio; Ragaini Enrico",
+      "author_ids": "6603357712;57208723957;56027556100;23026343700;36699443500;6507406235",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60102057;60102057",
+      "corresponding": "Massucco S.",
+      "keywords": "Clustering | Load Modeling | Load Profiling | Markov Chains | Streaming Algorithm",
+      "abstract": "With the large-scale adoption of Advanced Metering Infrastructure (AMI), power systems are now characterized by a wealth of information that can be exploited for better monitoring, management, and control. On the other hand, specific techniques have to be employed to face the challenges brought by this large amount of data (Big Data). Traditional load modeling methodologies do not use the streams of data generated by AMI, providing static load profiles. In this work, an adaptive streaming algorithm is described to model any load through a Markov Chain. The proposed algorithm is able to cluster the load curves with a minimal computational effort, allowing realtime load modeling. The presented procedure's performance is evaluated by experimental validation and compared with two reference methodologies (Dynamical Clustering and k-Means) in terms of accuracy and computational time.",
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85105067567",
+      "title": "An optimization problem for day-ahead planning of electrical energy aggregators",
+      "doi": "10.1016/j.ifacol.2020.12.1098",
+      "venue": "IFAC Papersonline",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": "53",
+      "issue_id": "2",
+      "pages": "12213-12220",
+      "issn": null,
+      "eIssn": "24058963",
+      "source_id": "21100456158",
+      "authors": "Conte Francesco; Saviozzi Matteo; Grillo Samuele",
+      "author_ids": "57151673600;56027556100;24437542800",
+      "authorAffiliationIds": "60025153;60025153;60023256",
+      "corresponding": "Conte F.",
+      "keywords": "Control of renewable energy resources | Demand response | Intelligent control of power systems | Load aggregator | Optimal operation and control of power systems | Smart grids",
+      "abstract": "The widespread diffusion of distributed energy resources, especially those based on renewable energy, and energy storage devices has deeply modified power systems. As a consequence, demand response, the ability of customers to respond to regulating signals, has moved from large high-voltage and medium-voltage end-users to small, low-voltage, customers. In order to be effective, the participation to demand response of such small players must be gathered by aggregators. The role and the business models of these new entities have been studied in literature from a variety of viewpoints. Demand response can be clearly applied by sending a dedicated price signal to customers, but this methodology cannot obtain a diverse, punctual, predictable, and reliable response. These characteristics can be achieved by directly controlling the loads units. This approach involves communication problems and technological readiness. This paper proposes a fully decentralized mixed integer linear programming approach for demand response. In this framework, each load unit performs an optimization, subject to technical and user-based constraints, and gives to the aggregator a desired profile along with a reserve, which is guaranteed to comply with the constraints. In this way, the aggregator can trade the reserve coming from several load units, being the only interface to the market. Upon request, then, the aggregator communicates to the load units the modifications to their desired profiles without either knowing or caring how this modification would be accomplished. The effectiveness is simulated on 200 realistic load units.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 42,
+              "rank": 218,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 43,
+              "rank": 148,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85075638802",
+      "title": "Simplified State Space Building Energy Model and Transfer Learning Based Occupancy Estimation for HVAC Optimal Control",
+      "doi": "10.1109/RTSI.2019.8895544",
+      "venue": "5th International Forum on Research and Technologies for Society and Industry Innovation to Shape the Future Rtsi 2019 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": "353-358",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100936629",
+      "authors": "Mosaico Gabriele; Saviozzi Matteo; Silvestro Federico; Bagnasco Andrea; Vinci Andrea",
+      "author_ids": "57208723957;56027556100;23026343700;6602504190;57191195028",
+      "authorAffiliationIds": "60025153;60025153;60025153;119528398;119528398",
+      "corresponding": "Mosaico G.",
+      "keywords": "building energy model | deep learning | HVAC supervisory control | occupancy estimation | transfer learning",
+      "abstract": "An energy model for non-residential buildings based on state space equations has been developed and experimentally validated. This model can predict with precision the Heating Ventilation and Air Conditioning (HVAC) system energy consumption considering several variables including temperature setpoints, external temperature, humidity, wind speed, solar irradiance, and occupancy. This last variable is estimated through deep transfer learning (TL). The proposed simplified energy model can be easily exploited by Model Predictive Control (MPC) strategies for HVAC optimal control.",
+      "citations": 14,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85075634330",
+      "title": "Algorithm for Optimal Microgrid Operation and Control with Adaptable Constraints and Flexible Objective Function",
+      "doi": "10.1109/RTSI.2019.8895588",
+      "venue": "5th International Forum on Research and Technologies for Society and Industry Innovation to Shape the Future Rtsi 2019 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": "97-102",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100936629",
+      "authors": "Massucco S.; Pongiglione P.; Saviozzi M.; Silvestro F.; Almaleck P.; Serra P.",
+      "author_ids": "6603357712;57195506239;56027556100;23026343700;57211999394;8246669600",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60102057;60102057",
+      "corresponding": "Massucco S.",
+      "keywords": "AMPL | economic dispatch | microgrid optimization | MILP | real time control | unit commitment",
+      "abstract": "This paper presents an algorithm for the optimal management and control of a Microgrid, both grid-connected and in islanding mode, based on a Mixed Integer Linear Programming (MILP) formulation. The proposed procedure is able to manage a system composed of diesel generators, photovoltaic and wind plants, storage devices and non-controllable loads. The problem considers the operational constraints of all devices, with possible additional requirements from the microgrid operator, providing validated optimal solutions in a time that is compatible with the control.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85074198808",
+      "title": "A hybrid methodology for the day-ahead PV forecasting exploiting a Clear Sky Model or Artificial Neural Networks",
+      "doi": "10.1109/EUROCON.2019.8861551",
+      "venue": "Eurocon 2019 18th International Conference on Smart Technologies",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100933976",
+      "authors": "Mosaico Gabriele; Saviozzi Matteo",
+      "author_ids": "57208723957;56027556100",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Mosaico G.",
+      "keywords": "artificial neural networks | clear sky model | hybrid method | linear regression | PV forecasting",
+      "abstract": "PhotoVoltaic (PV) plants can bring a positive impact on the sustainability of electric grids. Its variability and uncertainty, however, leads to challenging technical problems related to the efficient and secure operations of power systems. In this paper, a novel hybrid methodology for the day-ahead PV power forecasting is proposed. The methodology is able to use a Clear Sky Model (CSM) or an Artificial Neural Network (ANN), according to the day-ahead weather forecasting. Selection among these two methods is performed by a threshold on the Cloud Cover Index (CCI) determined by linear regression. The method has been tested and validated on a real PV plant.",
+      "citations": 9,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85072333190",
+      "title": "Optimal der regulation and storage allocation in distribution networks: Volt/Var optimization and congestion relief",
+      "doi": "10.1109/PTC.2019.8810422",
+      "venue": "2019 IEEE Milan Powertech Powertech 2019",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100929352",
+      "authors": "D'Agostino F.; Massucco S.; Pongiglione P.; Saviozzi M.; Silvestro F.",
+      "author_ids": "56553864200;6603357712;57195506239;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "D'Agostino F.",
+      "keywords": "Distribution Systems | Optimal Allocation | Optimal Sizing | Storage Systems | Vol/Var",
+      "abstract": "The need for a smarter integration of Renewable Energy Sources (RESs) is growing together with their increasing spread in electrical grids. Storage systems can significantly help the electric system operation in scenarios with high RES penetration. This work proposes an algorithm for the optimal allocation of storage systems among the busbars of a distribution grid. The proposed technique is based on a Vol/Var optimization, which is also able to provide an estimation of the minimum size of the storage devices, in order to respect technical/quality constraints related to the considered distribution system (voltage profile, congestion relief, etc The presented approach has been validated on a Cigré benchmark network and tested on a real distribution grid model.",
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85069934277",
+      "title": "The Podcast Project: An Application of Volt/Var Optimization to the Electric Distribution Network of Sanremo (Italy)",
+      "doi": "10.1109/SyNERGY-MED.2019.8764115",
+      "venue": "Synergy MED 2019 1st International Conference on Energy Transition in the Mediterranean Area",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100921038",
+      "authors": "Crosa M.; D'Agostino F.; Massucco S.; Pongiglione P.; Saviozzi M.; Silvestro F.",
+      "author_ids": "14007502100;56553864200;6603357712;57195506239;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Crosa M.",
+      "keywords": "Distribution Management Systems | SCADA | Storage Systems | Volt/Nar",
+      "abstract": "This paper presents the PODCAST project (Plat-form for the Optimization of the Distribution using data from smart meters and distributed storage systems). The main goals of this project are the identification, the design and the implementation of strategies for the management of active distribution networks. The paper describes the platform architecture, the employed technologies and the test site. In addition, this work reports a Volt/Var algorithm for the optimal regulation of distributed energy resources and storage systems allocation. The proposed technique has been implemented within the PODCAST project and tested on the electric distribution network of Sanremo (Italy).",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85056625184",
+      "title": "Implementation of advanced functionalities for Distribution Management Systems: Load forecasting and modeling through Artificial Neural Networks ensembles",
+      "doi": "10.1016/j.epsr.2018.10.036",
+      "venue": "Electric Power Systems Research",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "167",
+      "issue_id": null,
+      "pages": "230-239",
+      "issn": "03787796",
+      "eIssn": null,
+      "source_id": "16044",
+      "authors": "Saviozzi M.; Massucco S.; Silvestro F.",
+      "author_ids": "56027556100;6603357712;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Saviozzi M.",
+      "keywords": "Artificial Neural Networks | Distribution Management System | Load forecasting | Load modeling",
+      "abstract": "Electric power systems are undergoing significant changes in all sectors at all voltage levels. The growing penetration of Renewable Energy Resources (RES), the liberalization of energy markets, the spread of active customers, the increasing diffusion of green energy policies to foster sustainable and low-emission policies, represent the main drivers in the evolution of the electric system. For these reasons, Distribution System Operators (DSO) are asked to adopt modern Distribution Management Systems (DMS) in order to manage RES uncertainties for an efficient, flexible and economic operation of distribution systems. In this context, the paper presents the design and the implementation in a real DMS of two advanced functionalities: load forecasting and load modeling. These two algorithms are based on an ensemble of Artificial Neural Networks (ANN). The good performances obtained on a real distribution network encourage the exploitation of the two proposed techniques to deal with demand uncertainties, in order to use efficiently the controllable resources and to face the stochastic behavior of RES.",
+      "citations": 69,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 87,
+              "rank": 126,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 81,
+              "rank": 60,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 88,
+              "rank": 25,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 87,
+              "rank": 84,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85083347052",
+      "title": "A hybrid technique for day-ahead pv generation forecasting using clear-sky models or ensemble of artificial neural networks according to a decision tree approach",
+      "doi": "10.3390/en12071298",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "12",
+      "issue_id": "7",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Massucco Stefano; Mosaico Gabriele; Saviozzi Matteo; Silvestro Federico",
+      "author_ids": "6603357712;57208723957;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Massucco S.",
+      "keywords": "Artificial neural networks | Basic ensemble method | CART tree | Clear-sky model | Decision trees | Hybrid method | PV forecasting | Weather classification | Weather type partition",
+      "abstract": "PhotoVoltaic (PV) plants can provide important economic and environmental benefits to electric systems. On the other hand, the variability of the solar source leads to technical challenges in grid management as PV penetration rates increase continuously. For this reason, PV power forecasting represents a crucial tool for uncertainty management to ensure system stability. In this paper, a novel hybrid methodology for the PV forecasting is presented. The proposed approach can exploit clear-sky models or an ensemble of artificial neural networks, according to day-ahead weather forecast. In particular, the selection among these techniques is performed through a decision tree approach, which is designed to choose the best method among those aforementioned. The presented methodology has been validated on a real PV plant with very promising results.",
+      "citations": 39,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 81,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 71,
+              "rank": 62,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 69,
+              "rank": 208,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 66,
+              "rank": 33,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 63,
+              "rank": 9,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 60,
+              "rank": 72,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85053325710",
+      "title": "Mixed-integer algorithm for optimal dispatch of integrated PV-storage systems",
+      "doi": "10.1109/TIA.2018.2870072",
+      "venue": "IEEE Transactions on Industry Applications",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "55",
+      "issue_id": "1",
+      "pages": "238-247",
+      "issn": "00939994",
+      "eIssn": "19399367",
+      "source_id": "17361",
+      "authors": "Conte Francesco; D'Agostino Fabio; Pongiglione Paola; Saviozzi Matteo; Silvestro Federico",
+      "author_ids": "57151673600;56553864200;57195506239;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Conte F.",
+      "keywords": "Battery management system (BMS) efficiency | general algebraic modeling system (GAMS) | microgrid | optimization | photovoltaic (PV) integration | renewable energy source (RES) | storage modeling | storage system",
+      "abstract": "The exploitation of combined photovoltaic (PV) plants and storage systems is nowadays assuming growing importance, due to the technical, environmental, and economical benefits which can derive from an optimal integration. In this paper, a mixed-integer algorithm for the optimal dispatch of a storage system, based on the day-ahead PV forecasting is developed. The optimization objective is the maximization of the total production of the integrated system, according to a requested active power profile, which can be defined by the operator. The study case of an existing distribution management system, which operates on the low-voltage microgrid at University of Genova is analyzed. The procedure is validated by field results with particular attention to the storage round-trip efficiency.",
+      "citations": 37,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 90,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 89,
+              "rank": 102,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 88,
+              "rank": 49,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 91,
+              "rank": 30,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 88,
+              "rank": 76,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 88,
+              "rank": 29,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85060034213",
+      "title": "Design and Validation of a Detailed Building Thermal Model Considering Occupancy and Temperature Sensors",
+      "doi": "10.1109/RTSI.2018.8548424",
+      "venue": "IEEE 4th International Forum on Research and Technologies for Society and Industry Rtsi 2018 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100894735",
+      "authors": "Bagnasco A.; Massucco S.; Saviozzi M.; Silvestro F.; Vinci A.",
+      "author_ids": "6602504190;6603357712;56027556100;23026343700;57191195028",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Bagnasco A.",
+      "keywords": "building management system | Building thermal model | EnergyPlus",
+      "abstract": "Buildings are responsible for approximately 40% of energy consumption and 36% of CO <inf>2</inf> emissions in the European Union. Starting from these percentages is easy to imagine that the topic of energy efficiency applied to buildings has a great relevance in the scientific community representing one of the key aspects in today's international energy policies. In this context, the development of reliable building thermal models represents a crucial resource within a Building Management System (BMS). In particular, a robust thermal model is mainly able to provide a precise estimation of Heating, Ventilating and Air Conditioning (HVAC) system demand and an evaluation of building energy performance. These information can be exploited in the de-sign/restoration phase or within optimal management strategies in order to achieve environmental and economic benefits. In this work the design and the validation of a building thermal model is presented. The model has been developed in EnergyPlus environment with the help of SketchUp and OpenStudio. In addition, occupancy and temperature sensors have been exploited for the validation of the thermal model and for the definition of its inputs.",
+      "citations": 11,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85056499986",
+      "title": "Optimal Sizing of a Storage System Coupled with Grid Connected Renewable Generation Respecting Day-Ahead Dispatch Profile",
+      "doi": "10.1109/EEEIC.2018.8494516",
+      "venue": "Proceedings 2018 IEEE International Conference on Environment and Electrical Engineering and 2018 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2018",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100885800",
+      "authors": "Massucco S.; Pongiglione P.; Saviozzi M.; Silvestro F.; Baccino F.; Serra P.",
+      "author_ids": "6603357712;57195506239;56027556100;23026343700;55211592900;8246669600",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60102057;60102057",
+      "corresponding": "Massucco S.",
+      "keywords": "MILP | Monte Carlo | Optimal Sizing | PV integration | Renewable Energy Resources | Storage System",
+      "abstract": "The importance of compensating fluctuations of Renewable Energy Sources (RESs) is growing together with their increasing spread in electrical networks. This work proposes a model for the optimal sizing of a storage system coupled with a PhotoVoltaic (PV) power plant. The goal of the optimization is to find the best compromise between maximizing the revenue from selling all the RES energy production, needing larger batteries to satisfy network requirements, and their consequent increasing cost. The model of the storage system combined with the PV plant has been developed in GAMS (General Algebraic Modeling System) in order to determine the optimal control strategy in each condition and with all possible battery sizes. Several simulations have been performed on various daily scenarios in order to represent all possible conditions that can occur during a year.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85035138529",
+      "title": "A Stochastic Optimization Method for Planning and Real-Time Control of Integrated PV-Storage Systems: Design and Experimental Validation",
+      "doi": "10.1109/TSTE.2017.2775339",
+      "venue": "IEEE Transactions on Sustainable Energy",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "9",
+      "issue_id": "3",
+      "pages": "1188-1197",
+      "issn": "19493029",
+      "eIssn": null,
+      "source_id": "19700177027",
+      "authors": "Conte Francesco; Massucco Stefano; Saviozzi Matteo; Silvestro Federico",
+      "author_ids": "57151673600;6603357712;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Conte F.",
+      "keywords": "energy storage systems | PV-storage integrated systems | stochastic optimization | uncertainties management",
+      "abstract": "This paper proposes a solution for the day-ahead planning and the real-time control of an integrated system composed of a photovoltaic (PV) plant and a battery energy storage system (BESS). The day-ahead algorithm provides the optimal daily energy delivery profile based on a prediction of the PV production. The objective is to maximize the economic gain, according to the request of specific profile shape. The real-time operation algorithm dynamically regulates the BESS power exchange, in order to realize the scheduled power profile. Both of the proposed algorithms exploit chance-constrained stochastic optimization, in order to take into account the uncertainties of the PV power predictions. Simulation results show the effectiveness of the proposed solutions, while their validation is achieved by experimental tests, executed on a low-voltage microgrid controlled by a distribution management system.",
+      "citations": 56,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 93,
+              "rank": 20,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 94,
+              "rank": 9,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85028518742",
+      "title": "Mixed-Integer Linear optimization algorithm for Volt/Var Control on a distribution grid with renewable penetration",
+      "doi": "10.1109/ICCEP.2017.8004824",
+      "venue": "2017 6th International Conference on Clean Electrical Power Renewable Energy Resources Impact Iccep 2017",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": null,
+      "issue_id": null,
+      "pages": "255-261",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100828603",
+      "authors": "Massucco S.; Pongiglione P.; Saviozzi M.; Silvestro F.; Rahimi S.",
+      "author_ids": "6603357712;57195506239;56027556100;23026343700;55512444200",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60012591",
+      "corresponding": "Massucco S.",
+      "keywords": "Distributed Energy Resources | DMS | MILP | Volt/Var Control",
+      "abstract": "Nowadays, the diffusion of renewable energy sources and electric vehicles are turning the traditional passive distribution networks into active grids, requiring Distribution Management System (DMS) to exploit Information and Communication Technology (ICT) improvements to get a smarter control through wider communication and local monitoring. In this paper, a Mixed-Integer Linear Programming (MILP) algorithm is developed to perform Volt/Var Optimization (VVO), providing the optimal setting for all the available controllable devices which minimizes power losses and violations of network constraints. Necessary linearization affects acceptably the accuracy of the computed outcomes and the resulting fast computational time makes it suitable for online application within a real DMS.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85028507084",
+      "title": "Real time control of a low voltage microgrid through a Distribution Management System",
+      "doi": "10.1109/ICCEP.2017.8004804",
+      "venue": "2017 6th International Conference on Clean Electrical Power Renewable Energy Resources Impact Iccep 2017",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": null,
+      "issue_id": null,
+      "pages": "133-138",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100828603",
+      "authors": "D'Agostino F.; Massucco S.; Saviozzi M.; Silvestro F.",
+      "author_ids": "56553864200;6603357712;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "D'Agostino F.",
+      "keywords": "Distribution Management System | Microgrid | Real Time Control",
+      "abstract": "The technological, economical and social changes of the last years had an impressive impact in the electrical energy world. The improvement in information and communication technologies, the liberalization of the energy market, the appearance of active customers and the growing spread of renewables have required to systems operators to recognize and manage new scenarios. Nowadays, it is globally accepted that distribution systems are the core of this change, which will lead to the realization of the smartgrid concept. As the key field of the transition is represented by the distribution system, the main role is played by Distribution System Operators (DSOs). They are asked to modernize their medium and low voltage networks and to adopt advanced control and management systems. Modern Distribution Management Systems (DMSs) answer this request, by providing a valuable and effective support to system operators, thanks to advanced functionalities, embedded on board, which support the exploitation of unpredictable resources (as renewable generation), controllable devices (distributed generators and storage systems) or active customers. In this context this paper aims to describe the implementation of a DMS for the real time control of a low voltage microgrid, focusing on the communication architecture and on the routine of the embedded advanced functionalities.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85026736856",
+      "title": "Mixed-integer algorithm for optimal dispatch of integrated PV-storage systems",
+      "doi": "10.1109/EEEIC.2017.7977430",
+      "venue": "Conference Proceedings 2017 17th IEEE International Conference on Environment and Electrical Engineering and 2017 1st IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2017",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100826217",
+      "authors": "Adinolfi F.; Conte F.; D'Agostino F.; Massucco S.; Saviozzi M.; Silvestro F.",
+      "author_ids": "55615847600;57151673600;56553864200;6603357712;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Adinolfi F.",
+      "keywords": "BMS efficiency | Dispatching | GAMS | Microgrid | Optimization | PV integration | RES | Storage systems",
+      "abstract": "The exploitation of combined photovoltaic plants and storage systems is nowadays assuming growing importance due to the technical, energetic, environmental and economical benefits which can derive from an optimal integration. In this paper a mixed-integer algorithm for optimal dispatch of a lithium-ions storage system, based on the day ahead PV forecasting, is developed within an existing Distribution Management System, which operates on the low voltage Microgrid at University of Genova. The optimization object is the maximization of the Microgrid production according to the requested active power profile, which can be defined by the operator. The procedure has been validated by field results with particular attention to the storage efficiency, that has been modeled with additional constraints.",
+      "citations": 7,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85046258917",
+      "title": "A load management algorithm for PCC interface breaker",
+      "doi": "10.1109/ISGTEurope.2017.8260266",
+      "venue": "2017 IEEE Pes Innovative Smart Grid Technologies Conference Europe Isgt Europe 2017 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": "2018-January",
+      "issue_id": null,
+      "pages": "1-6",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100933068",
+      "authors": "Adinolfi F.; Massucco S.; Saviozzi M.; Silvestro F.; Fidigatti A.; Monachesi F.; Ragaini E.",
+      "author_ids": "55615847600;6603357712;56027556100;23026343700;36699443500;56028076900;6507406235",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60102057;60102057;60102057",
+      "corresponding": "Adinolfi F.",
+      "keywords": "Interface Breaker | Load Management | Microgrid Management",
+      "abstract": "Today the power generation sector is still dominated by fossil fuel resulting in an increase of CO<inf>2</inf> emissions. In order to fight this issue and to reduce the generation costs large amounts of generation from renewable have to be exploited. This requires the implementation of new techniques to control a more complex electrical system. Different strategies can be used for the smart management of distribution networks such as peak shaving, load shaping, etc. The aim of this work is to present an Intelligent Load Management (ILM) technique, that can be implemented on board of real LV breaker with the goal to manage controllable loads in a microgrid scenario. The ILM proposed methodology is able to control the power absorption at the Point of Common Coupling (PCC) of a generic microgrid exploiting information provided by real time measures.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85015228056",
+      "title": "Net transfer capacity assessment using point estimate method for probabilistic power flow",
+      "doi": "10.1109/PMAPS.2016.7764165",
+      "venue": "2016 International Conference on Probabilistic Methods Applied to Power Systems Pmaps 2016 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100801130",
+      "authors": "Adinolfi F.; Massucco S.; Saviozzi M.; Silvestro F.; Ciapessoni E.; Cirio D.; Pitto A.",
+      "author_ids": "55615847600;6603357712;56027556100;23026343700;6505804291;6504625684;35068505700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60104176;60104176;60104176",
+      "corresponding": "Adinolfi F.",
+      "keywords": "Net Transfer Capacity | Point Estimate Method | probabilistic security assessment | uncertainty modeling",
+      "abstract": "Nowadays the management of interconnected transmission systems requires security assessment methods able to consider uncertainties due to the increasing presence of renewable generation. Furthermore, also the electrical demand is characterized by a certain level of variability which affects the accuracy of the expected consumption profiles. Thus, probabilistic approaches are an interesting research field to improve reliability of operational planning on future power systems. This work proposes a probabilistic methodology for the evaluation of the Net Transfer Capacity (NTC) between interconnected power grids. The method considers the forecast uncertainties on renewable generation and load consumption, by exploiting the Point Estimate Method (PEM) coupled with Third-order Polynomial Normal Transformation (TPNT). The proposed procedure is applied on a benchmark IEEE test system and validated through comparison with a conventional technique.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84986576766",
+      "title": "Performance evaluation of algorithms for the State of Charge estimation of storage devices in microgrid operation",
+      "doi": "10.1109/PSCC.2016.7540851",
+      "venue": "19th Power Systems Computation Conference Pscc 2016",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100778001",
+      "authors": "Adinolfi F.; Conte F.; Massucco S.; Saviozzi M.; Silvestro F.; Grillo S.",
+      "author_ids": "55615847600;57151673600;6603357712;56027556100;23026343700;24437542800",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60023256",
+      "corresponding": "Adinolfi F.",
+      "keywords": "Kalman filter | microgrid | State of charge estimation | storage device",
+      "abstract": "This paper analyzes different Kalman filtering algorithms for the real-time State of Charge (SoC) estimation of Battery Energy Storage System (BESS). Accurate SoC estimation is a key issue for microgrid real-time operation involving optimal model-based control. A BESS composed of Li-ion battery equipped with a Battery Management System (BMS) is characterized by fitting the parameters of a dynamic model, validated through experimental tests. Particular attention is devoted to the identification and representation of model nonlinearities in order to design robust Kalman filtering SoC estimation methods. Performance evaluation of the proposed algorithms are carried out by statistical simulations and experimental real-time tests. The analysis also takes in consideration the computational performances of the different methods in order to match the requirements of real-time control routines.",
+      "citations": 11,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84986537483",
+      "title": "Probabilistic assessment of Net Transfer Capacity considering forecast uncertainties",
+      "doi": "10.1109/PSCC.2016.7540855",
+      "venue": "19th Power Systems Computation Conference Pscc 2016",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100778001",
+      "authors": "Adinolfi F.; Massucco S.; Saviozzi M.; Silvestro F.; Ciapessoni E.; Cirio D.; Pitto A.",
+      "author_ids": "55615847600;6603357712;56027556100;23026343700;6505804291;6504625684;35068505700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60104176;60104176;60104176",
+      "corresponding": "Adinolfi F.",
+      "keywords": "net transfer capacity | point estimate method | probability | third order polynomial normal transformation",
+      "abstract": "In transmission system planning, researchers propose methods to assess the effect of uncertainties of power system operating condition due to forecasting errors of intermittent generation and loads. In particular probabilistic power flow methods are used to calculate the probability distributions of the voltages and the branch currents, starting from the distributions of power injections/absorptions. These uncertainties play a key role in the operational planning of power systems, as certain configurations of load and intermittent generation can cause security problems. This paper aims to propose a probabilistic methodology to assess Net Transfer Capacity (NTC) among network areas, which quantifies forecast error uncertainties by applying the Point Estimate Method (PEM) combined with Third Order Polynomial Normal (TPN) Transformation. This approach is compared with a conventional NTC assessment technique and has been tested on an IEEE test system.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84956856922",
+      "title": "Advanced operational functionalities for a low voltage Microgrid test site",
+      "doi": "10.1109/PESGM.2015.7285953",
+      "venue": "IEEE Power and Energy Society General Meeting",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2015,
+      "volume": "2015-September",
+      "issue_id": null,
+      "pages": null,
+      "issn": "19449925",
+      "eIssn": "19449933",
+      "source_id": "20600195623",
+      "authors": "Adinolfi F.; D'Agostino F.; Massucco S.; Saviozzi M.; Silvestro F.",
+      "author_ids": "55615847600;56553864200;6603357712;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Adinolfi F.",
+      "keywords": "DER | DMS | energy management | generation forecast | load forecast | Microgrid management | storage system",
+      "abstract": "This work aims to describe the implementation of a renewable energy based Microgrid test site facility at the University of Genova (Italy) and to depict the advanced functionalities there implemented within the national supported project Smartgen. The developed advanced Distribution Management System (DMS) is based on a Supervisory Control And Data Acquisition (SCADA) system for the remote monitoring of a Low Voltage Microgrid composed by a photovoltaic (PV) plant, an ion-lithium energy storage system, electrical load and a weather station. The implemented DMS is embedded with advanced functionalities which provide 36 hours forecasting of the load consumption and renewable generation. The forecasted data are also used to optimally program and manage the storage device. The proposed algorithms are described and also implementation aspects are reported within the paper.",
+      "citations": 17,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 37,
+              "rank": 622,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Nuclear Energy and Engineering",
+              "percentile": 37,
+              "rank": 53,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 36,
+              "rank": 208,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 25,
+              "rank": 232,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84951335463",
+      "title": "An innovative probabilistic methodology for net transfer capacity evaluation",
+      "doi": "10.1109/PTC.2015.7232712",
+      "venue": "2015 IEEE Eindhoven Powertech Powertech 2015",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2015,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100431809",
+      "authors": "Adinolfi F.; Massucco S.; Saviozzi M.; Silvestro F.; Ciapessoni E.; Cirio D.; Pitto A.",
+      "author_ids": "55615847600;6603357712;56027556100;23026343700;6505804291;6504625684;35068505700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60104176;60104176;60104176",
+      "corresponding": "Adinolfi F.",
+      "keywords": "Net Transfer Capacity | Point Estimate Method | Probabilistic Security Assessment | Total Transfer Capacity",
+      "abstract": "In the context of transmission system planning, research proposes methods to assess the effect of uncertainties of power system operating condition due to forecasting errors of intermittent generation and loads. In particular probabilistic power flow methods are illustrated to calculate the probability distributions of the voltages and the branch currents, starting from the distributions of power injections/absorptions. These uncertainties play a key role in the operational planning of power systems, as certain configurations of load and intermittent generation can cause security problems. This paper aims to propose a probabilistic methodology to assess Net Transfer Capacity (NTC) among network areas, which quantifies forecast error uncertainties by applying the Point Estimate Method (PEM) combined with Third Order Polynomial Normal (TPN) Transformation. This approach is compared with a conventional NTC assessment technique and has been validated against Monte-Carlo benchmark on an IEEE test system.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84937550487",
+      "title": "Electrical consumption forecasting in hospital facilities: An application case",
+      "doi": "10.1016/j.enbuild.2015.05.056",
+      "venue": "Energy and Buildings",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2015,
+      "volume": "103",
+      "issue_id": null,
+      "pages": "261-270",
+      "issn": "03787788",
+      "eIssn": null,
+      "source_id": "29359",
+      "authors": "Bagnasco A.; Fresi F.; Saviozzi M.; Silvestro F.; Vinci A.",
+      "author_ids": "6602504190;56730407300;56027556100;23026343700;57191195028",
+      "authorAffiliationIds": "60025153;100463225;60025153;60025153;60025153",
+      "corresponding": "Bagnasco A.",
+      "keywords": "Building management systems | Electrical consumption in an hospital facility | Energy management systems | Load forecasting | Neural networks",
+      "abstract": "Abstract The topic of energy efficiency applied to buildings represents one of the key aspects in today's international energy policies. Emissions reduction and the achievement of the targets set by the Kyoto Protocol are becoming a fundamental concern in the work of engineers and technicians operating in the energy management field. Optimal energy management practices need to deal with uncertainties in generation and demand, hence the development of reliable forecasting methods is an important priority area of research in electric energy systems. This paper presents a load forecasting model and the way it was applied to a real case study, to forecast the electrical consumption of the Cellini medical clinic of Turin. The model can be easily integrated into a Building Management System or into a real time monitoring system. The load forecasting is performed through the implementation of an artificial neural network (ANN). The proposed multi-layer perceptron ANN, based on a back propagation training algorithm, is able to take as inputs: loads, data concerning the type of day (e.g. weekday/holiday), time of the day and weather data. In particular, this work focuses on providing a detailed analysis and an innovative formal procedure for the selection of all the ANN parameters.",
+      "citations": 111,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 95,
+              "rank": 21,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 94,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 94,
+              "rank": 58,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Building and Construction",
+              "percentile": 94,
+              "rank": 15,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2015,
+          "subjects": [
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 97,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Building and Construction",
+              "percentile": 96,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 95,
+              "rank": 22,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 90,
+              "rank": 63,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84945950317",
+      "title": "Smart management of demand in naval application: Prospects and technologies for distributed control of loads",
+      "doi": "10.1109/ESTS.2015.7157885",
+      "venue": "2015 IEEE Electric Ship Technologies Symposium Ests 2015",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2015,
+      "volume": null,
+      "issue_id": null,
+      "pages": "181-186",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100421727",
+      "authors": "D'Agostino F.; Saviozzi M.; Silvestro F.; Fidigatti A.; Ragaini E.",
+      "author_ids": "56553864200;56027556100;23026343700;36699443500;6507406235",
+      "authorAffiliationIds": "60025153;60025153;60025153;60102057;60102057",
+      "corresponding": "D'Agostino F.",
+      "keywords": "Distributed Control of Loads | Intelligent Load Management | PMS | Smart Management",
+      "abstract": "The paper aims to introduce an interesting concept of Power Management System, which adopts a full distributed architecture for achieving Smart Management of loads. An effective way to prepare and manage electric network with the increased demand, is to apply all the different techniques available in smart grids, such as load balancing, load shifting and peak shaving through the intelligent management of the load (ILM). This approach can be also used on vessel in order to perform different specific objectives in accordance to the PMS (Power Management System) or as a back-up solution of this component.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84936984617",
+      "title": "Pseudo-measurements modeling using neural network and Fourier decomposition for distribution state estimation",
+      "doi": "10.1109/ISGTEurope.2014.7028770",
+      "venue": "IEEE Pes Innovative Smart Grid Technologies Conference Europe",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2015,
+      "volume": "2015-January",
+      "issue_id": "January",
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100510299",
+      "authors": "Adinolfi F.; D'Agostino F.; Morini A.; Saviozzi M.; Silvestro F.",
+      "author_ids": "55615847600;56553864200;7006658135;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Adinolfi F.",
+      "keywords": "Distribution Management System | Distribution State Estimation | Load Modeling | Pseudo-Measurements",
+      "abstract": "This work aims to propose a pseudo-measurement modeling method for Distribution State Estimation (DSE) application embedded in a Distribution Management System (DMS). The entire system is already installed on the distribution MV network of Sanremo, in the North of Italy, within the Smartgen research project. The acquisition architecture consists of a SCADA system, which allows the data exchange from meters installed in the MV-LV substations. In order to satisfy the system observability conditions and to perform the State Estimation (SE) algorithm, real-time measures need to be integrate with the pseudo-measures of the non-monitored substations. The paper investigates a load modeling technique, based on Artificial Neural Network (ANN) and Fourier decomposition, that allow the generation of pseudo-measurements starting from the historical database of the monitored substations.",
+      "citations": 24,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84924860262",
+      "title": "Distributed Energy Resources Management in a Low-Voltage Test Facility",
+      "doi": "10.1109/TIE.2014.2377133",
+      "venue": "IEEE Transactions on Industrial Electronics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2015,
+      "volume": "62",
+      "issue_id": "4",
+      "pages": "2593-2603",
+      "issn": "02780046",
+      "eIssn": null,
+      "source_id": "26053",
+      "authors": "Adinolfi Francesco; Burt Graeme M.; Crolla Paul; D'Agostino Fabio; Saviozzi Matteo; Silvestro Federico",
+      "author_ids": "55615847600;57804705300;6507982140;56553864200;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60024724;60024724;60025153;60025153;60025153",
+      "corresponding": "Adinolfi F.",
+      "keywords": "Demand Response | Distributed Energy Resources Integration | Energy Management | Load Management | Microgrid | Real Power Control | Smart Grid",
+      "abstract": "The electric energy demand will increase in the future, and the will to exploit larger amounts of generation from renewable resources requires the development of new strategies to manage a more complex electrical system. Different techniques allow the smart management of distribution networks such as load shifting, peak shaving, and short-term optimization. This work aims to test, in a real low-voltage (LV) active network (LV test facility of Strathclyde University of Glasgow), a Microgrid Smart Energy Management System, which adopts a two-stage strategy. The two levels of the proposed energy control system are composed of: 1) midterm controller that, according to weather, load, and generation forecasts, computes the profile of the controllable resources (generation, load, and storage), the dispatch problem is then solved through an optimization process; and through 2) short-term controller, which controls the power absorption of the active network. This procedure is hierarchically designed to dispatch the resources/loads, according to priority signals with the objective to contain the energy consumption below predetermined thresholds. The scalability and effectiveness of the architecture, which is validated in a real test bed, demonstrates the feasibility of implementing such a type of controller directly connected to the LV breakers, delivering a part of a real smart grid.",
+      "citations": 32,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 96,
+              "rank": 33,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 95,
+              "rank": 17,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2015,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 99,
+              "rank": 1,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 99,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": null,
+              "percentile": 99,
+              "rank": 4,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84915758153",
+      "title": "Artificial neural network application to load forecasting in a large hospital facility",
+      "doi": "10.1109/PMAPS.2014.6960579",
+      "venue": "2014 International Conference on Probabilistic Methods Applied to Power Systems Pmaps 2014 Conference Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2014,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100349517",
+      "authors": "Bagnasco A.; Saviozzi M.; Silvestro F.; Vinci A.; Grillo S.; Zennaro E.",
+      "author_ids": "6602504190;56027556100;23026343700;57191195028;24437542800;56226101200",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60023256;60032350",
+      "corresponding": "Bagnasco A.",
+      "keywords": "artificial neural network | distributed generation | Load forecasting | smart grids",
+      "abstract": "A Smart Grid approach to electric distribution system management needs to front uncertainties in generation and demand thus making forecasting an up-to-date area of research in electric energy systems. This works aims to propose a day-ahead load forecasting procedure for a medium voltage customer. The load forecasting is performed through the implementation of an artificial neural network (ANN). The proposed multi-layer perceptron ANN, based on backpropagation training algorithm, is able to take as inputs: loads, data concerning the type of day (e.g. weekday/holiday), time of the day and weather data (e.g. temperature, humidity). This procedure has been tested to predict the loads of a large university hospital facility located in Rome.",
+      "citations": 17,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84893634807",
+      "title": "An architecture for implementing state estimation application in Distribution Management System (DMS)",
+      "doi": "10.1109/ISGTEurope.2013.6695289",
+      "venue": "2013 4th IEEE Pes Innovative Smart Grid Technologies Europe Isgt Europe 2013",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2013,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100286341",
+      "authors": "Adinolfi F.; Baccino F.; D'Agostino F.; Massucco S.; Saviozzi M.; Silvestro F.",
+      "author_ids": "55615847600;55211592900;56553864200;6603357712;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Adinolfi F.",
+      "keywords": "Active Networks | Distribution Management System | Distribution State Estimation",
+      "abstract": "This work aims to propose a state estimation procedure for electric distribution networks and to implement a simulation architecture in order to test it under several scenarios. Measures, obtained from the simulated field through a communication layer, and pseudo-measures, defined according to load and generation models, are combined in different shares to observe the algorithm performances and the effects on the estimation quality. The work also investigates the necessity of a correct load modeling of Medium Voltage/Low Voltage (MV/LV) substations where distributed generation significantly contributes in altering the net power injection at the LV side. The implemented State Estimation (SE) procedure will be installed in a real MV network located in the North of Italy (Sanremo) within a research project. © 2013 IEEE.",
+      "citations": 17,
+      "quartile": null
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1271740",
+      "authors": "D'Agostino, F.; Mahlalela, J. S.; Massucco, S.; Mosaico, G.; Saviozzi, M.; Silvestro, F.",
+      "legacy_id": 668941,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Fault Classification in Distribution Networks Using Graph Neural Networks and Discrete Stockwell Transform",
+      "scopus_id": "2-s2.0-105019295787",
+      "doi": "10.1109/PowerTech59965.2025.11180505",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1271739",
+      "authors": "Cardenas, M.; D'Agostino, F.; Saviozzi, M.; Silvestro, F.; Conte, F.",
+      "legacy_id": 668935,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Comparative Assessment of Virtual Inertia in Grid Forming-Based Wind Turbines",
+      "scopus_id": "2-s2.0-105019041513",
+      "doi": "10.1109/EEEIC/ICPSEurope64998.2025.11169192",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1271742",
+      "authors": "Carcasci, C.; Conte, F.; D'Agostino, F.; Guzzo, G.; Natrella, G.; Saviozzi, M.",
+      "legacy_id": 668936,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Optimal Sizing and Operations of a Hydrogen-Based Multi-Energy Port System with Market Participation and Gas Grid Integration",
+      "scopus_id": "2-s2.0-105019039502",
+      "doi": "10.1109/EEEIC/ICPSEurope64998.2025.11169295",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1266676",
+      "authors": "Lodi, M.; Oliveri, A.; Saviozzi, M.; Conte, F.; Baggi, P.",
+      "legacy_id": 663249,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Low-Level Simulation of a Grid-Following Inverter with Synthetic Inertia",
+      "scopus_id": "2-s2.0-105012573490",
+      "doi": "10.1109/AEITHVDC66044.2025.11079533",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1266677",
+      "authors": "Cardenas, M.; Saviozzi, M.; Silvestro, F.; Conte, F.; Gandolfi, C.; Rapizza, M.",
+      "legacy_id": 663250,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Comparison of Virtual Inertia Support in GFM Inverter-Based Resources with Different DC Sources",
+      "scopus_id": "2-s2.0-105016636749",
+      "doi": "10.1109/ICCEP65222.2025.11143695",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1271741",
+      "authors": "Maccio, G.; Massucco, S.; Natrella, G.; Saviozzi, M.; Conte, F.; Giannuzzi, G.; Tessitore, S.",
+      "legacy_id": 668939,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Full Tuning of Double Input Power System Stabilizers via Surrogate Optimization",
+      "scopus_id": "2-s2.0-105019317119",
+      "doi": "10.1109/PowerTech59965.2025.11180292",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1266476",
+      "authors": "Rapizza, M. R.; Canavese, S. M.; Cirio, D.; Saviozzi, M.; Conte, F.",
+      "legacy_id": 650407,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Innovative strategies for the provision of upward frequency regulation through renewables and batteries",
+      "scopus_id": "2-s2.0-105005716970",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1230716",
+      "authors": "Rapizza, M. R.; Canevese, S. M.; Cirio, D.; Saviozzi, M.; Conte, F.",
+      "legacy_id": 614631,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Innovative Strategies for Upward Frequency Regulation Provision by Renewables and Batteries",
+      "scopus_id": "2-s2.0-85210829627",
+      "doi": "10.23919/AEIT63317.2024.10736779",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1230715",
+      "authors": "Conte, F.; Massucco, S.; Natrella, G.; Saviozzi, M.; Silvestro, F.",
+      "legacy_id": 614632,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Day-Ahead Programming of Energy Communities Participating in Pay-as-Bid Service Markets",
+      "scopus_id": "2-s2.0-85207428013",
+      "doi": "10.1109/PESGM51994.2024.10688872",
+      "isi_id": "WOS:001345803901172",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1212915",
+      "authors": "Massucco, S.; Mosaico, G.; Saviozzi, M.; Almaleck, P.; Santarelli, M.; Serra, P.",
+      "legacy_id": 589986,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Development and Selection of Load Forecasting Techniques for Non-Residential Buildings",
+      "scopus_id": "2-s2.0-85204764443",
+      "doi": "10.1109/PMAPS61648.2024.10667140",
+      "isi_id": "WOS:001324824200020",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220459",
+      "authors": "D'Agostino, F.; Gallo, M.; Saviozzi, M.; Silvestro, F.",
+      "legacy_id": 598863,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "A Model Predictive Control-Based Energy Management Strategy for Secure Operations in Shipboard Power Systems",
+      "scopus_id": "2-s2.0-85205774028",
+      "doi": "10.1109/TTE.2024.3471192",
+      "isi_id": "WOS:001416226200015",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1205075",
+      "authors": "D'Agostino, F.; Gallo, M.; Saviozzi, M.; Silvestro, F.",
+      "legacy_id": 580226,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Performance Investigation of an Optimal Control Strategy for Zero-Emission Operations of Shipboard Microgrids",
+      "scopus_id": "2-s2.0-85201736645",
+      "doi": "10.1109/SPEEDAM61530.2024.10609047",
+      "isi_id": "WOS:001295095900168",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1230717",
+      "authors": "Conte, F.; D'Agostino, F.; Massucco, S.; Saviozzi, M.; Rapizza, M. R.; Gandolfi, C.",
+      "legacy_id": 614627,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Optimal Control of a Wind Farm-BESS Unit to Combine Synthetic Inertia and Fast Reserve",
+      "scopus_id": "2-s2.0-85211949831",
+      "doi": "10.1109/EEEIC/ICPSEurope61470.2024.10751006",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1153275",
+      "authors": "Almaleck, P.; Massucco, S.; Mosaico, G.; Saviozzi, M.; Serra, P.; Silvestro, F.",
+      "legacy_id": 516907,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Electrical consumption forecasting in sports venues: A proposed approach based on neural networks and ARIMAX Models",
+      "scopus_id": "2-s2.0-85175150487",
+      "doi": "10.1016/j.scs.2023.105019",
+      "isi_id": "WOS:001102547400001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "17",
+      "citations_scopus": "18"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1243907",
+      "authors": "Massucco, S.; Mosaico, G.; Saviozzi, M.; Almaleck, P.; Santarelli, M.; Serra, P.",
+      "legacy_id": 634314,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Two-Stage Stochastic Optimal Energy Management of Microgrids for Participation in Flexibility Markets",
+      "scopus_id": "2-s2.0-86000032130",
+      "doi": "10.1109/ISGTEUROPE62998.2024.10863134",
+      "isi_id": "WOS:001451133800083",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1243739",
+      "authors": "D'Agostino, F.; Gallo, M.; Kaza, D.; Saviozzi, M.; Silvestro, F.; Conte, F.",
+      "legacy_id": 634136,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Optimal Sizing of a Multi - Energy Port with Vehicles Charging Capabilities",
+      "scopus_id": "2-s2.0-85216923141",
+      "doi": "10.1109/ESARS-ITEC60450.2024.10819836",
+      "isi_id": "WOS:001450909900083",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1212916",
+      "authors": "Massucco, S.; Mosaico, G.; Saviozzi, M.; Almaleck, P.; Santarelli, M.; Serra, P.",
+      "legacy_id": 590006,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Warm Start Fitted Q Reinforcement Learning for Electric Vehicle Depot Charging",
+      "scopus_id": "2-s2.0-85187309136",
+      "doi": "10.1109/ISGTEUROPE56780.2023.10408530",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1140615",
+      "authors": "D'Agostino, F.; Gallo, M.; Saviozzi, M.; Silvestro, F.",
+      "legacy_id": 500625,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "A Security-Constrained Optimal Power Management Algorithm for Shipboard Microgrids with Battery Energy Storage System",
+      "scopus_id": "2-s2.0-85160199845",
+      "doi": "10.1109/ESARS-ITEC57127.2023.10114833",
+      "isi_id": "WOS:001050898300025",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "10"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1140659",
+      "authors": "Ciapessoni, Emanuele; Cirio, Diego; Pitto, Andrea; Conte, Francesco; Massucco, Stefano; Mosaico, Gabriele; Saviozzi, Matteo",
+      "legacy_id": 500731,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Approccio probabilistico per la sicurezza",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1140177",
+      "authors": "D'Agostino, F.; Gabriele, B.; Mosaico, G.; Saviozzi, M.; Silvestro, F.",
+      "legacy_id": 500185,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Optimal Storage Allocation for Transmission Network Development Planning: Study Case of Sicily",
+      "scopus_id": "2-s2.0-85169444849",
+      "doi": "10.1109/PowerTech55446.2023.10202764",
+      "isi_id": "WOS:001055072600097",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1138575",
+      "authors": "Ciapessoni, E; Cirio, D; Conte, F; Pitto, A; Massucco, S; Saviozzi, M",
+      "legacy_id": 498705,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Probabilistic Security-Constrained Preventive Control under Forecast Uncertainties Including Volt/Var Constraints",
+      "scopus_id": "2-s2.0-85149181238",
+      "doi": "10.3390/en16041812",
+      "isi_id": "WOS:000945218600001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1140175",
+      "authors": "Bianchi, F. R.; Bosio, B.; Conte, F.; Massucco, S.; Mosaico, G.; Natrella, G.; Saviozzi, M.",
+      "legacy_id": 500166,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Modelling and optimal management of renewable energy communities using reversible solid oxide cells",
+      "scopus_id": "2-s2.0-85146670642",
+      "doi": "10.1016/j.apenergy.2023.120657",
+      "isi_id": "WOS:000963238700001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "40",
+      "citations_scopus": "46"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102643",
+      "authors": "Conte, F.; Mosaico, G.; Natrella, G.; Saviozzi, M.; Bianchi, F. R.",
+      "legacy_id": 446109,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Optimal Management of Renewable Generation and Uncertain Demand with Reverse Fuel Cells by Stochastic Model Predictive Control",
+      "scopus_id": "2-s2.0-85135098261",
+      "doi": "10.1109/PMAPS53380.2022.9810605",
+      "isi_id": "WOS:000853744900048",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102644",
+      "authors": "Rita Di Fazio, Anna; Losi, Arturo; Russo, Mario; Cacace, Filippo; Conte, Francesco; Iannello, Giulio; Natrella, Gianluca; Saviozzi, Matteo",
+      "legacy_id": 446110,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Methods and Tools for the Management of Renewable Energy Communities: the ComER project",
+      "scopus_id": "2-s2.0-85143587755",
+      "doi": "10.23919/AEIT56783.2022.9951776",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1107894",
+      "authors": "Bonfiglio, A.; Bracco, S.; D'Agostino, F.; Delfino, F.; Laiolo, P.; Invernizzi, M.; Massucco, S.; Procopio, R.; Saviozzi, M.; Silvestro, F.",
+      "legacy_id": 455342,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Real-Time Power System Laboratories at the University of Genoa",
+      "scopus_id": "2-s2.0-85143621135",
+      "doi": "10.23919/AEIT56783.2022.9951786",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102627",
+      "authors": "Uslu, H. H.; Vinci, A.; Saviozzi, M.; Mosaico, G.; Assadi, M.; Silvestro, F.; Somehsaraei, H. M.",
+      "legacy_id": 446069,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Economic Dispatch Optimization of a Virtual Power Plant Consisting of Micro Gas Turbines with Alternative Fuels Using Real-Time Data",
+      "scopus_id": "2-s2.0-85141711994",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102631",
+      "authors": "Bagnasco, A.; Fresi, F.; Saviozzi, M.; Silvestro, F.; Vinci, A.",
+      "legacy_id": 446074,
+      "year": 2021,
+      "miur_type": "268",
+      "title": "Electrical consumption forecasting in hospital facilities",
+      "scopus_id": "2-s2.0-85126794555",
+      "doi": "10.1016/B978-0-12-819742-4.00009-3",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1019854",
+      "authors": "Crosa di Vergagni, M.; Massucco, S.; Saviozzi, M.; Silvestro, F.; Monachesi, F.; Ragaini, E.",
+      "legacy_id": 347859,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "A quasi-optimal energy resources management technique for low voltage microgrids",
+      "scopus_id": "2-s2.0-85083362160",
+      "doi": "10.1016/j.ijepes.2020.106080",
+      "isi_id": "WOS:000539280100022",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1019862",
+      "authors": "Massucco, S.; Mosaico, G.; Pongiglione, P.; Saviozzi, M.; Silvestro, F.",
+      "legacy_id": 347867,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "Probabilistic Planning for Distribution Networks including Optimal DER Regulation and Storage Allocation",
+      "scopus_id": "2-s2.0-85099129474",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1030566",
+      "authors": "Conte, Francesco; Saviozzi, Matteo; Grillo, Samuele",
+      "legacy_id": 361345,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "An Optimization Problem for Day-Ahead Planning of Electrical Energy Aggregators",
+      "scopus_id": "2-s2.0-85105067567",
+      "isi_id": "WOS:000652593100550",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1019868",
+      "authors": "Massucco, S.; Mosaico, G.; Saviozzi, M.; Silvestro, F.; Fidigatti, A.; Ragaini, E.",
+      "legacy_id": 347873,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "A Markov Chain Load Modeling Approach through a Stream Clustering Algorithm",
+      "scopus_id": "2-s2.0-85097165502",
+      "doi": "10.23919/AEIT50178.2020.9241159",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1019864",
+      "authors": "Massucco, S.; Mosaico, G.; Saviozzi, M.; Silvestro, F.; Fidigatti, A.; Ragaini, E.",
+      "legacy_id": 347869,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "An Instantaneous Growing Stream Clustering Algorithm for Probabilistic Load Modeling/Profiling",
+      "scopus_id": "2-s2.0-85091339116",
+      "doi": "10.1109/PMAPS47429.2020.9183448",
+      "isi_id": "WOS:000841883300016",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "5",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/983227",
+      "authors": "Crosa, M.; D'Agostino, F.; Massucco, S.; Pongiglione, P.; Saviozzi, M.; Silvestro, F.",
+      "legacy_id": 306449,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "The Podcast Project: An Application of Volt/Var Optimization to the Electric Distribution Network of Sanremo (Italy)",
+      "scopus_id": "2-s2.0-85069934277",
+      "doi": "10.1109/SyNERGY-MED.2019.8764115",
+      "isi_id": "WOS:000490562000014",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "3",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/930953",
+      "authors": "Conte, Francesco; D'Agostino, Fabio; Pongiglione, Paola; Saviozzi, Matteo; Silvestro, Federico",
+      "legacy_id": 247082,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Mixed-Integer Algorithm for Optimal Dispatch of Integrated PV-Storage Systems",
+      "scopus_id": "2-s2.0-85053325710",
+      "doi": "10.1109/TIA.2018.2870072",
+      "isi_id": "WOS:000454112700026",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "25",
+      "citations_scopus": "37"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/983161",
+      "authors": "Massucco, S.; Mosaico, Gabriele; Saviozzi, M.; Silvestro, F.",
+      "legacy_id": 306381,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "A hybrid technique for day-ahead pv generation forecasting using clear-sky models or ensemble of artificial neural networks according to a decision tree approach",
+      "scopus_id": "2-s2.0-85083347052",
+      "doi": "10.3390/en12071298",
+      "isi_id": "WOS:000465561400115",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "29",
+      "citations_scopus": "39"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102653",
+      "authors": "Mancarella, Pierluigi; Alejandro Martinez-Ceseña, Eduardo; Celli, Gianni; Das, Kaushik; Ledwich, Gerard; Lombardi, Pio; Negnevitsky, Michael; Saviozzi, Matteo; Joel Soares, Filipe; Zhang, Gloria; Zhang, Ning",
+      "legacy_id": 446111,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Modelling flexibility from distributed energy resources",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1029740",
+      "authors": "Mosaico, G.; Saviozzi, M.",
+      "legacy_id": 360315,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "A hybrid methodology for the day-ahead PV forecasting exploiting a Clear Sky Model or Artificial Neural Networks",
+      "scopus_id": "2-s2.0-85074198808",
+      "doi": "10.1109/EUROCON.2019.8861551",
+      "isi_id": "WOS:000556109600010",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/983185",
+      "authors": "D'Agostino, F.; Massucco, S.; Pongiglione, P.; Saviozzi, M.; Silvestro, F.",
+      "legacy_id": 306407,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Optimal der regulation and storage allocation in distribution networks: Volt/Var optimization and congestion relief",
+      "scopus_id": "2-s2.0-85072333190",
+      "doi": "10.1109/PTC.2019.8810422",
+      "isi_id": "WOS:000531166200021",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "6",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/930955",
+      "authors": "Massucco, S.; Saviozzi, M.; Silvestro, F.",
+      "legacy_id": 247084,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Implementation of Advanced Functionalities for Distribution Management Systems: Load Forecasting and Modeling through Artificial Neural Networks Ensembles",
+      "scopus_id": "2-s2.0-85056625184",
+      "doi": "10.1016/j.epsr.2018.10.036",
+      "isi_id": "WOS:000453644100022",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "55",
+      "citations_scopus": "69"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1018006",
+      "authors": "Mosaico, G.; Saviozzi, M.; Silvestro, F.; Bagnasco, A.; Vinci, A.",
+      "legacy_id": 345876,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Simplified State Space Building Energy Model and Transfer Learning Based Occupancy Estimation for HVAC Optimal Control",
+      "scopus_id": "2-s2.0-85075638802",
+      "doi": "10.1109/RTSI.2019.8895544",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "14"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1029742",
+      "authors": "Massucco, S.; Pongiglione, P.; Saviozzi, M.; Silvestro, F.; Almaleck, P.; Serra, P.",
+      "legacy_id": 360317,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Algorithm for Optimal Microgrid Operation and Control with Adaptable Constraints and Flexible Objective Function",
+      "scopus_id": "2-s2.0-85075634330",
+      "doi": "10.1109/RTSI.2019.8895588",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1140656",
+      "authors": "Conte, Francesco; Massucco, Stefano; Mosaico, Gabriele; Saviozzi, Matteo; Silvestro, Federico; Vinci, Andrea",
+      "legacy_id": 500726,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "PREDICT: piattaforma adattativa di efficienza energetica",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/919848",
+      "authors": "Conte, F.; Massucco, S.; Saviozzi, M.; Silvestro, F.; Grillo, S.",
+      "legacy_id": 234842,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Characterization Methods for the State of Charge Estimation of Lithium-Ion Batteries",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/919859",
+      "authors": "Bagnasco, A.; Massucco, S.; Silvestro, F.; Saviozzi, M.; Vinci, A.",
+      "legacy_id": 234855,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Design and Validation of a Detailed Building Thermal Model Considering Occupancy and Temperature Sensors",
+      "scopus_id": "2-s2.0-85060034213",
+      "doi": "10.1109/RTSI.2018.8548424",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "11"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/919843",
+      "authors": "Baccino, F.; Massucco, S.; Pongiglione, P.; Saviozzi, M.; Serra, P.; Silvestro, F.",
+      "legacy_id": 234836,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Optimal Sizing of a Storage System Coupled with Grid Connected Renewable Generation Respecting Day-ahead Dispatch Profile",
+      "scopus_id": "2-s2.0-85056499986",
+      "doi": "10.1109/EEEIC.2018.8494516",
+      "isi_id": "WOS:000450163702130",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/891024",
+      "authors": "D'Agostino, F.; Massucco, S.; Saviozzi, M.; Silvestro, F.",
+      "legacy_id": 203102,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "Real time control of a low voltage microgrid through a Distribution Management System",
+      "scopus_id": "2-s2.0-85028507084",
+      "doi": "10.1109/ICCEP.2017.8004804",
+      "isi_id": "WOS:000426815100022",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/876928",
+      "authors": "Adinolfi, Francesco; Conte, Francesco; D'Agostino, Fabio; Massucco, Stefano; Saviozzi, Matteo; Silvestro, Federico",
+      "legacy_id": 187684,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "Mixed-integer algorithm for optimal dispatch of integrated PV-storage systems",
+      "scopus_id": "2-s2.0-85026736856",
+      "doi": "10.1109/EEEIC.2017.7977430",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/891022",
+      "authors": "Massucco, S.; Pongiglione, Paola; Saviozzi, M.; Silvestro, F.; Rahimi, S.",
+      "legacy_id": 203100,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "Mixed-Integer Linear optimization algorithm for Volt/Var Control on a distribution grid with renewable penetration",
+      "scopus_id": "2-s2.0-85028518742",
+      "doi": "10.1109/ICCEP.2017.8004824",
+      "isi_id": "WOS:000426815100042",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/891040",
+      "authors": "Adinolfi, F.; Massucco, S.; Saviozzi, M.; Silvestro, F.; Fidigatti, A.; Monachesi, F.; Ragaini, E.",
+      "legacy_id": 203117,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "A load management algorithm for PCC interface breaker",
+      "scopus_id": "2-s2.0-85046258917",
+      "doi": "10.1109/ISGTEurope.2017.8260266",
+      "isi_id": "WOS:000428016500175",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/891010",
+      "authors": "Conte, Francesco; Massucco, Stefano; Saviozzi, Matteo; Silvestro, Federico",
+      "legacy_id": 203088,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "A Stochastic Optimization Method for Planning and Real-Time Control of Integrated PV-Storage Systems: Design and Experimental Validation",
+      "scopus_id": "2-s2.0-85035138529",
+      "doi": "10.1109/TSTE.2017.2775339",
+      "isi_id": "WOS:000436000000020",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "42",
+      "citations_scopus": "56"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/849570",
+      "authors": "Adinolfi, Francesco; Conte, Francesco; Massucco, Stefano; Saviozzi, Matteo; Silvestro, Federico; Grillo, Samuele",
+      "legacy_id": 157598,
+      "year": 2016,
+      "miur_type": "273",
+      "title": "Performance evaluation of algorithms for the State of Charge estimation of storage devices in microgrid operation",
+      "scopus_id": "2-s2.0-84986576766",
+      "doi": "10.1109/PSCC.2016.7540851",
+      "isi_id": "WOS:000382485600039",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "11"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/849572",
+      "authors": "Adinolfi, Francesco; Massucco, Stefano; Saviozzi, Matteo; Silvestro, Federico; Ciapessoni, E.; Cirio, D.; Pitto, Andrea",
+      "legacy_id": 157605,
+      "year": 2016,
+      "miur_type": "273",
+      "title": "Probabilistic assessment of Net Transfer Capacity considering forecast uncertainties",
+      "scopus_id": "2-s2.0-84986537483",
+      "doi": "10.1109/PSCC.2016.7540855",
+      "isi_id": "WOS:000382485600043",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1029744",
+      "authors": "Adinolfi, F.; Massucco, S.; Saviozzi, M.; Silvestro, F.; Ciapessoni, E.; Cirio, D.; Pitto, A.",
+      "legacy_id": 360319,
+      "year": 2016,
+      "miur_type": "273",
+      "title": "Net transfer capacity assessment using point estimate method for probabilistic power flow",
+      "scopus_id": "2-s2.0-85015228056",
+      "doi": "10.1109/PMAPS.2016.7764165",
+      "isi_id": "WOS:000392327900117",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/821917",
+      "authors": "D'Agostino, Fabio; Saviozzi, Matteo; Silvestro, Federico; Fidigatti, A.; Ragaini, E.",
+      "legacy_id": 126809,
+      "year": 2015,
+      "miur_type": "273",
+      "title": "Smart management of demand in naval application: Prospects and technologies for distributed control of loads",
+      "scopus_id": "2-s2.0-84945950317",
+      "doi": "10.1109/ESTS.2015.7157885",
+      "isi_id": "WOS:000380507700033",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/777512",
+      "authors": "Adinolfi, Francesco; Graeme, Burt; Paul, Crolla; D'Agostino, Fabio; Saviozzi, Matteo; Silvestro, Federico",
+      "legacy_id": 107651,
+      "year": 2015,
+      "miur_type": "262",
+      "title": "Distributed Energy Resources Management in a Low Voltage Test Facility",
+      "scopus_id": "2-s2.0-84924860262",
+      "doi": "10.1109/TIE.2014.2377133",
+      "isi_id": "WOS:000351406000055",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "26",
+      "citations_scopus": "32"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/821911",
+      "authors": "Adinolfi, Francesco; D'Agostino, Fabio; Massucco, Stefano; Saviozzi, Matteo; Silvestro, Federico",
+      "legacy_id": 126812,
+      "year": 2015,
+      "miur_type": "273",
+      "title": "Advanced operational functionalities for a low voltage Microgrid test site",
+      "scopus_id": "2-s2.0-84956856922",
+      "doi": "10.1109/PESGM.2015.7285953",
+      "isi_id": "WOS:000371397501092",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "6",
+      "citations_scopus": "17"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/777537",
+      "authors": "Adinolfi, Francesco; D’Agostino, F.; Saviozzi, M.; Silvestro, Federico",
+      "legacy_id": 107676,
+      "year": 2015,
+      "miur_type": "273",
+      "title": "Pseudo-measurements modeling using neural network and Fourier decomposition for distribution state estimation",
+      "scopus_id": "2-s2.0-84936984617",
+      "doi": "10.1109/ISGTEurope.2014.7028770",
+      "isi_id": "WOS:000393467600040",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "24",
+      "citations_scopus": "24"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/821908",
+      "authors": "Adinolfi, Francesco; Massucco, Stefano; Saviozzi, Matteo; Silvestro, Federico; Ciapessoni, E.; Cirio, D.; Pitto, A.",
+      "legacy_id": 126807,
+      "year": 2015,
+      "miur_type": "273",
+      "title": "An innovative probabilistic methodology for net transfer capacity evaluation",
+      "scopus_id": "2-s2.0-84951335463",
+      "doi": "10.1109/PTC.2015.7232712",
+      "isi_id": "WOS:000380546800479",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/821906",
+      "authors": "Bagnasco, Andrea; Fresi, F.; Saviozzi, Matteo; Silvestro, Federico; Vinci, Andrea",
+      "legacy_id": 126798,
+      "year": 2015,
+      "miur_type": "262",
+      "title": "Electrical consumption forecasting in hospital facilities: An application case",
+      "scopus_id": "2-s2.0-84937550487",
+      "doi": "10.1016/j.enbuild.2015.05.056",
+      "isi_id": "WOS:000361773800025",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "96",
+      "citations_scopus": "111"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/777507",
+      "authors": "Bagnasco, Andrea; Saviozzi, Matteo; Silvestro, Federico; Vinci, Andrea; Grillo, Samuele; E., Zennaro",
+      "legacy_id": 107646,
+      "year": 2014,
+      "miur_type": "273",
+      "title": "Artificial neural network application to load forecasting in a large hospital facility",
+      "scopus_id": "2-s2.0-84915758153",
+      "doi": "10.1109/PMAPS.2014.6960579",
+      "isi_id": "WOS:000358734100002",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "17"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/777550",
+      "authors": "Bagnasco, Andrea; F., Fresi; M., De Blasi; Saviozzi, Matteo; Silvestro, Federico; Vinci, Andrea",
+      "legacy_id": 107686,
+      "year": 2014,
+      "miur_type": "273",
+      "title": "FORECASTING AND MONITORING OF ELECTRIC CONSUMPTION IN HOSPITAL FACILITIES. AN APPLICATION CASE: THE ''CELLINI'' CLINIC",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/620350",
+      "authors": "Adinolfi, Francesco; Baccino, Francesco; D’Agostino, Fabio; Massucco, Stefano; Saviozzi, Matteo; Silvestro, Federico",
+      "legacy_id": 98667,
+      "year": 2013,
+      "miur_type": "273",
+      "title": "An Architecture for Implementing State Estimation Application in Distribution Management System (DMS)",
+      "scopus_id": "2-s2.0-84893634807",
+      "doi": "10.1109/ISGTEurope.2013.6695289",
+      "isi_id": "WOS:000330939800057",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "7",
+      "citations_scopus": "17"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:15:52.107074"
+}

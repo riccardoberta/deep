@@ -1,0 +1,2058 @@
+{
+  "surname": "Donnarumma",
+  "name": "Silvia",
+  "unit": "NAV",
+  "email": "silvia.donnarumma@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/V0pGW1lv",
+  "website": "",
+  "unige_id": "291036",
+  "scopus_id": "55350308600",
+  "role": "Ricercatore",
+  "grade": "Ricercatore t.d. art. 24 c. 3 lett. B Legge 240/10 (t.pieno) + 20%",
+  "ssd": "IIND-01/B (Costruzioni e impianti navali)",
+  "location": [
+    {
+      "building": "Villa Cambiaso - padiglioni (ED_161450103)",
+      "floor": "1° piano",
+      "room": "US_161450103.I.037"
+    }
+  ],
+  "career": [
+    {
+      "role": "CB",
+      "from": "2015-04-07 00:00:00.0000000",
+      "to": "2020-12-30 00:00:00.0000000"
+    },
+    {
+      "role": "AR",
+      "from": "2017-12-01 00:00:00.0000000",
+      "to": "2019-11-30 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2020-12-31 00:00:00.0000000",
+      "to": "2027-06-30 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {
+    "2025": [
+      {
+        "course": "MEZZI NAVALI OFFSHORE (90574)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "IMPIANTI E ALLESTIMENTO NAVALE (111158)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "SHIP PROPULSION (101129)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2024": [
+      {
+        "course": "IMPIANTI NAVALI B (CDL) (56992)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "MEZZI NAVALI OFFSHORE (90574)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "SHIP PLANTS AND SYSTEM SAFETY (101134)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2023": [
+      {
+        "course": "IMPIANTI NAVALI B (CDL) (56992)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "MEZZI NAVALI OFFSHORE (90574)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      }
+    ],
+    "2022": [
+      {
+        "course": "MEZZI NAVALI OFFSHORE (90574)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "SHIP PROPULSION (101129)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2021": [
+      {
+        "course": "MEZZI NAVALI OFFSHORE (90574)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "SHIP PROPULSION (101129)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2020": [
+      {
+        "course": "MEZZI NAVALI OFFSHORE (90574)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "SHIP PROPULSION (101129)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 10,
+      "total_products": 29,
+      "journals": 13,
+      "conferences": 15,
+      "citations": 262,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 10,
+      "total_products": 29,
+      "journals": 13,
+      "conferences": 15,
+      "citations": 262,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 10,
+      "total_products": 28,
+      "journals": 13,
+      "conferences": 14,
+      "citations": 261,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 6,
+      "total_products": 17,
+      "journals": 10,
+      "conferences": 6,
+      "citations": 98,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-85210284265",
+      "title": "Time Domain Design of a Marine Target Tracking System Accounting for Environmental Disturbances",
+      "doi": "10.3390/jmse12112058",
+      "venue": "Journal of Marine Science and Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "12",
+      "issue_id": "11",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20771312",
+      "source_id": "21100830140",
+      "authors": "Fruzzetti Camilla; Buzzurro Cristiana; Donnarumma Silvia; Martelli Michele",
+      "author_ids": "57427556800;59426737200;55350308600;55521641400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Fruzzetti C.",
+      "keywords": "environmental disturbances | marine autonomous surface ship | target tracking",
+      "abstract": "Environmental disturbances represent significant challenges to the performance and accuracy of autonomous systems, especially in marine environments, where their impact varies based on disturbance severity and the employed guidance law. This paper comprehensively investigates a marine target tracking system using time-domain simulations incorporating realistic environmental disturbances. Three guidance laws and four key performance indicators are analysed to evaluate system performance under disturbed and ideal conditions. A robust and systematic evaluation pipeline is developed and applied to a case study featuring a scaled tugboat model. This approach provides a reliable method to assess tracking accuracy and robustness in adverse conditions. The results are selected from a wide range of possibilities to show the effect of the disturbances on the selected target tracking motion control scenario with two manoeuvres and two environmental conditions. The results are measured through the selected key performance indicators, and several phases are identified for each manoeuvre to extend the analysis not only to the global KPI values but also to the partial values of defined phases. They reveal the quantitative effects of environmental disturbances, exposing different system behaviours and trends. These findings demonstrate the effectiveness of the proposed pipeline in quantifying tracking system performance, delivering useful understandings of the system under environmental disturbances. The broader implications of this study are substantial, offering enhanced predictive accuracy for the performance of the analysed systems, particularly in the context of target tracking. Furthermore, introducing numerical key performance indicators facilitates a more rigorous comparison of different system characteristics, enabling informed decisions in designing and optimising autonomous operations in challenging environments.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 75,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 73,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 72,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 74,
+              "rank": 30,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 71,
+              "rank": 116,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 68,
+              "rank": 87,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85182953922",
+      "title": "Multiphysics Modeling and Simulation of Integrated Electric Propulsion System for Ship Dynamic Positioning",
+      "doi": "10.1109/TIA.2024.3355869",
+      "venue": "IEEE Transactions on Industry Applications",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "60",
+      "issue_id": "3",
+      "pages": "4958-4967",
+      "issn": "00939994",
+      "eIssn": "19399367",
+      "source_id": "17361",
+      "authors": "Donnarumma Silvia; Martelli Michele; D'Agostino Fabio; Kaza Daniele; Silvestro Federico",
+      "author_ids": "55350308600;55521641400;56553864200;57218924925;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Donnarumma S.",
+      "keywords": "Dynamic positioning | electric propulsion | frequency regulation | multiphysics modeling",
+      "abstract": "The article presents a multiphysics modelling approach to design an integrated electric propulsion system for ship dynamic positioning purposes. The simulation platform integrates the model of the shipboard power plant, the hydrodynamic and environmental forces and the dynamic positioning controller. The shipboard power system has been modelled considering the electro-mechanical behaviour, i.e. the power-frequency dynamic, so that the platform can run in real time and be linked with the control hardware. The simulation platform has been tested through a detailed simulation campaign by using as a study case a Platform Supply Vessel where its behaviour in harsh conditions has been validated. Moreover, a control hardware-in-the-loop configuration has been realized, where the controller logic has been implemented in a real PCL. Finally, a comparison between the two simulation approaches is shown and the results are discussed.",
+      "citations": 4,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 90,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 89,
+              "rank": 102,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 88,
+              "rank": 49,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 89,
+              "rank": 99,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 88,
+              "rank": 43,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 87,
+              "rank": 52,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85175652778",
+      "title": "Probabilistic operability and greenhouse gas assessment during dynamic positioning operations",
+      "doi": "10.1177/14750902231203441",
+      "venue": "Proceedings of the Institution of Mechanical Engineers Part M Journal of Engineering for the Maritime Environment",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "238",
+      "issue_id": "2",
+      "pages": "336-347",
+      "issn": "14750902",
+      "eIssn": "20413084",
+      "source_id": "25596",
+      "authors": "Fruzzetti Camilla; Donnarumma Silvia; Maggiani Francesca; Martelli Michele",
+      "author_ids": "57427556800;55350308600;58042017600;55521641400",
+      "authorAffiliationIds": "60025153;60025153;60211436;60025153",
+      "corresponding": "Fruzzetti C.",
+      "keywords": "Dynamic positioning | electric propulsion | environmental disturbances | GHG emissions | operability assessment | optimized allocation | scatter diagram analysis | station keeping capability",
+      "abstract": "A Dynamic Positioning system automatically maintains both the position and heading of a vessel by using its thrusters in the presence of external disturbances. This goal is ensured by a controller that compensates for the environmental disturbances and computes the proper set-points for each actuator. The core of such a system is composed of force and thrust allocation modules that tailor the required forces and moment over the available actuators. The propulsion systems used are often over-actuated and the thrust allocation algorithm implies an infinite number of solutions since it is impossible to solve analytically the problem. Over the years efforts from the research community dealt with the optimization in terms of accuracy, energy consumption, and maintenance with innovative allocation strategies were investigated. However, no publications or rules indicate the procedure for the evaluation of exhaust gas emission during dynamic positioning operations. For such a reason, the paper aims to develop an optimization procedure that includes an ad-hoc objective function with relative non-linear constraints for the thrust allocation logic that tends to minimize the actuators’ thrust. The procedure accounts for non-linear hydrodynamic effects on the thrust generation, including thruster-thruster and thruster-hull interactions, to obtain the most realistic results as possible. Moreover, following the IMO suggestions, the production of greenhouses gases emissions is evaluated in probabilistic terms. The proposed approach provides indicators in terms of yearly operability, fuel consumption, and environmental footprint during dynamic positioning operations that could be used for proper decisions in ship deployment.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 68,
+              "rank": 37,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 66,
+              "rank": 249,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 72,
+              "rank": 32,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 67,
+              "rank": 238,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85210105149",
+      "title": "A structured metric approach to compare marine collision avoidance algorithms",
+      "doi": "10.24868/11143",
+      "venue": "Proceedings of the International Ship Control Systems Symposium",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "26318741",
+      "source_id": "21101052918",
+      "authors": "Zaccone R.; Donnarumma S.; Martelli M.",
+      "author_ids": "56717793100;55350308600;55521641400",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Zaccone R.",
+      "keywords": "Autonomous Navigation | COLREG | MASS | Path Planning | Simulation",
+      "abstract": "The rapid advancement of technologies enabling autonomous ship capabilities has outpaced the development of corresponding legislative and regulatory frameworks, creating a bottleneck in the global application of autonomous ships as defined by the four MASS degrees of autonomy. A significant issue is the absence of a well-defined process for certifying new algorithms and systems to be installed on board. Recently, a reliable, open-access structured set of scenarios, including several challenging COLREG encounter situations, has been published, intended for testing the numerous path-planning algorithms developed over the years. When connected to the testing framework, the modules must accomplish two primary tasks: determining the applicable COLREG rules (COLREG classification) and computing an evasive route. This paper focuses on defining an approach to evaluate the performance of collision avoidance algorithms through dedicated metrics. These metrics are formulated to quantitatively compare escape manoeuvres according to relevant performance indexes, helping a human-based compliance evaluation assess COLREG adherence. The operation of the comparison metrics is demonstrated by testing an existing collision avoidance algorithm developed by the authors. This demonstration underscores the effectiveness of the analyzed algorithms in efficiently managing the challenging scenarios proposed in the literature. Finally, the paper provides valuable suggestions for modifying and improving the testing scenarios to enhance the robustness of the comparison metrics.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 20,
+              "rank": 793,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 20,
+              "rank": 93,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 14,
+              "rank": 327,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 9,
+              "rank": 174,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 13,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 11,
+              "rank": 860,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 7,
+              "rank": 348,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 4,
+              "rank": 178,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85171563043",
+      "title": "Follow-the-Leader Guidance, Navigation, and Control of Surface Vessels: Design and Experiments",
+      "doi": "10.1109/JOE.2023.3292422",
+      "venue": "IEEE Journal of Oceanic Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "48",
+      "issue_id": "4",
+      "pages": "997-1008",
+      "issn": "03649059",
+      "eIssn": "15581691",
+      "source_id": "17277",
+      "authors": "Piaggio Benedetto; Garofano Vittorio; Donnarumma Silvia; Alessandri Angelo; Negenborn Rudy; Martelli Michele",
+      "author_ids": "57204360929;57210819545;55350308600;7005735677;16480813000;55521641400",
+      "authorAffiliationIds": "60025153;60118236;60025153;60025153;60118236;60025153",
+      "corresponding": "Piaggio B.",
+      "keywords": "Azimuth-drive propulsion | escort tugs | follow-the-leader control | line of sight (LOS) | track keeping",
+      "abstract": "A novel follow-the-leader approach for azimuth-driven vessels is devised and experimentally tested in a model-scale outdoor scenario. The vessels are equipped with global navigation satellite and inertial navigation systems. A line-of-sight algorithm ensures the yaw-check ability of the follower vessel along the leader's path, while a speed-regulation allows to track its velocity. Track generation, guidance, navigation, and control modules are designed and assembled to be executed on-board in real time. The results of an outdoor experimental campaign are illustrated to show the effectiveness of the proposed approach.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 90,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 88,
+              "rank": 88,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 135,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 96,
+              "rank": 4,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 92,
+              "rank": 54,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 87,
+              "rank": 101,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85145613688",
+      "title": "Dynamic positioning operability assessment by using thrust allocation optimization",
+      "doi": "10.1201/9781003358961-5",
+      "venue": "Sustainable Development and Innovations in Marine Technologies Proceedings of the 19th International Congress of the International Maritime Association of the Mediterranean Imam 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": "25-32",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101130449",
+      "authors": "Fruzzetti C.; Donnarumma S.; Martelli M.; Maggiani F.",
+      "author_ids": "57427556800;55350308600;55521641400;58042017600",
+      "authorAffiliationIds": "60025153;60025153;60025153;60211436",
+      "corresponding": "Fruzzetti C.",
+      "keywords": null,
+      "abstract": "A Dynamic Positioning system can automatically maintain both the position and heading of a vessel by using its thrusters. The core is composed of force and thrust allocation modules that tailor the required forces and moment to compensate the external forces over the available actuators. The propulsion systems are often over-actuated and, then, it is impossible to solve analytically the thrust allocation algorithm. To address the challenge several methodologies are available, starting from reducing the order of the problem up to operation research techniques. The paper aims to develop an optimisation procedure that includes an ad-hoc objective function with relative non-linear constraints for the thrust allocation logic that tends to minimize the thrust of the actuator. The procedure accounts for non-linear hydrodynamic effects on the thrust generation, including thruster-thruster and thruster-hull interactions. Based on the assumption of equal available power, two different propulsion configurations are investigated in terms of yearly operability.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85138206739",
+      "title": "Rapid Prototyping for Enhanced Dynamic Positioning Systems",
+      "doi": "10.3233/PMST220075",
+      "venue": "Progress in Marine Science and Technology",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "6",
+      "issue_id": null,
+      "pages": "641-649",
+      "issn": "25430955",
+      "eIssn": "25430963",
+      "source_id": "21101107127",
+      "authors": "Donnarumma Silvia; Fruzzetti Camilla; Martelli Michele; Chiti Roberto; Pecoraro Andrea; Sebastiani Luca",
+      "author_ids": "55350308600;57427556800;55521641400;56845710200;57893035300;16022741600",
+      "authorAffiliationIds": "60025153;60025153;60025153;109904344;109904344;109904344",
+      "corresponding": "Donnarumma S.",
+      "keywords": "dynamic positioning | hardware-in-the-loop | model-based design",
+      "abstract": "The paper aims to show the design procedure for a Class-2 dynamic positioning system, from initial conceptualisation upon factory assessment test. The approach involves the use of simulation-based design combined with hardware-in-the-loop testing. This kind of approach involves a detailed knowledge of the investigated ship but gives significant well-known advantages. A custom simulation platform has been developed to have realistic feedbacks of the case-study ship. The dynamic positioning controller structure, including regulator, force and thrust allocation; have been conceptualised, and then, after the porting procedure, the dynamic positioning software has been downloaded in the real programmable logic controller. Several hardware-in-the-loop tests have been carried out to fine-tune the controller parameters. The results show, under different environmental conditions, the respect of the design criteria.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 22,
+              "rank": 200,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 15,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 13,
+              "rank": 640,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 9,
+              "rank": 91,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 7,
+              "rank": 178,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 4,
+              "rank": 600,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85128785565",
+      "title": "Performance Simulation of Marine Cycloidal Propellers: A Both Theoretical and Heuristic Approach",
+      "doi": "10.3390/jmse10040505",
+      "venue": "Journal of Marine Science and Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "10",
+      "issue_id": "4",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20771312",
+      "source_id": "21100830140",
+      "authors": "Altosole Marco; Donnarumma Silvia; Spagnolo Valentina; Vignolo Stefano",
+      "author_ids": "13006187800;55350308600;57201675990;6602505719",
+      "authorAffiliationIds": "128024277;60025153;60025153;60025153",
+      "corresponding": "Altosole M.",
+      "keywords": "cycloidal propellers | marine propulsion | simulation-based design",
+      "abstract": "The importance of mathematical and numerical simulation in marine engineering is growing together with the complexity of the designed systems. In general, simulation a makes it possible to improve the engineering design, reducing working time and costs of production as well. In this respect, the implementation of a simulation model for cycloidal propellers is presented. Cycloidal thrusters are being increasingly used in marine applications. Their best performance concerns low-speed applications, due to their ability to steer thrust in any direction. The proposed simulator is able to assess the performance of cycloidal propellers in terms of the generated thrust and torque, without resorting to consuming and demanding computational tools, such as CFD methods. This feature makes the presented model particularly suitable for the simulation in the time domain of the maneuverability of surface units, equipped with cycloidal propellers. In this regard, after embodying the implemented model in an already existing simulation platform for maneuverability, we show the most significant outputs concerning some simulated maneuvers, performed at cruise speed.",
+      "citations": 9,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 75,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 73,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 72,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 61,
+              "rank": 39,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 61,
+              "rank": 137,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 55,
+              "rank": 110,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85123782693",
+      "title": "A time-domain methodology to assess the dynamic positioning performances",
+      "doi": "10.1016/j.oceaneng.2022.110668",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "247",
+      "issue_id": null,
+      "pages": null,
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Martelli M.; Faggioni N.; Donnarumma S.",
+      "author_ids": "55521641400;57205353851;55350308600",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Martelli M.",
+      "keywords": "Capability plot | Control optimisation | Dynamic positioning | Dynamic simulator | Model-based design",
+      "abstract": "This paper presents the procedure for designing a Dynamic Positioning system and evaluating its performance using a dynamic approach. Generally, static analysis is the standard preliminary design method for a Dynamic Position system; however, this has some drawbacks for a realistic representation of the system operating in real conditions since the transient behaviours are neglected. The proposed procedure provides results in a novelty manner, and they are named Time-domain Dynamic Positioning Capability Plots. They were obtained by a model-based design approach using a ship's dynamic simulator. The dynamic simulator is based on a fully actuated testing model. Indeed, the proposed tool has been designed on a tug vessel equipped with two azimuth thrusters and one bow-thruster. In particular, two force allocation logics for the station keeping manoeuvres have been developed; one is an optimised thrust allocation logic, the other is obtained with the primary goal to reduce as much as possible azimuth thrusters rotation. The two different allocations can fulfil both open-loop and closed-loop commands, but only the closed-loop has been discussed. Eventually, the comparison between static capability plots and the capability plots obtained by several dynamic simulations has been provided, presented, and discussed.",
+      "citations": 14,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 84,
+              "rank": 16,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 75,
+              "rank": 46,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85123502826",
+      "title": "Dynamic target chasing: parameters and performance indicators assessment",
+      "doi": "10.1007/s00773-021-00865-3",
+      "venue": "Journal of Marine Science and Technology Japan",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "27",
+      "issue_id": "1",
+      "pages": "712-729",
+      "issn": "09484280",
+      "eIssn": null,
+      "source_id": "27784",
+      "authors": "Fruzzetti Camilla; Donnarumma Silvia; Martelli Michele",
+      "author_ids": "57427556800;55350308600;55521641400",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Fruzzetti C.",
+      "keywords": "Autonomous surface vessel | Constant bearing | Guidance | Line-of-sight | Target tracking",
+      "abstract": "This paper aims to present a systematic approach to evaluate the parameters affecting the vessel’s performances in the target tracking motion control scenario and, for this reason, three guidance laws have been formalised. Such scenario consists of reaching and following a target of which it is only possible to know the instantaneous position and velocity, hence when the future motion is unknown. The standard Line-Of-Sight, Pure Pursuit, and Constant Bearing have been modified and deeply tested. The target tracking scenario has been divided into two parts: the target approach and following strategies. The increase in system complexity needs advanced tools to predict the vehicle response in both standard and non-standard conditions. Simulation can support the designer’s effort for the transition from a traditional to an autonomous ship in the whole ship design; hence, all the guidance laws have been virtually tested and a sensitivity analysis is carried out to understand each parameter effect. Several manoeuvres have been performed and the results are shown to highlight benefits and drawbacks for each law. Eventually, key performance indicators are outlined and some suggestions are given to the proper settings of the guidance law parameters in the function of the specific mission.",
+      "citations": 11,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Oceanography",
+              "percentile": 83,
+              "rank": 26,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 76,
+              "rank": 28,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 75,
+              "rank": 178,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanics of Materials",
+              "percentile": 70,
+              "rank": 123,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 74,
+              "rank": 161,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 73,
+              "rank": 27,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Oceanography",
+              "percentile": 71,
+              "rank": 39,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanics of Materials",
+              "percentile": 71,
+              "rank": 113,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85136188410",
+      "title": "Multiphysics Modeling and Simulation of Integrated Electric Propulsion System for Ship Dynamic Positioning",
+      "doi": "10.1109/SPEEDAM53979.2022.9841976",
+      "venue": "2022 International Symposium on Power Electronics Electrical Drives Automation and Motion Speedam 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": "645-650",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101101911",
+      "authors": "Donnarumma S.; Martelli M.; D'Agostino F.; Kaza D.; Silvestro F.",
+      "author_ids": "55350308600;55521641400;56553864200;57218924925;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Donnarumma S.",
+      "keywords": "Dynamic positioning | electric propulsion | frequency regulation | multiphysics modeling",
+      "abstract": "The paper presents a multiphysics modelling approach to design an integrated electric propulsion system for ship dynamic positioning purposes. The simulation platform integrates the model of the shipboard power plant, the hydrodynamic and environmental forces and the dynamic positioning controller. The shipboard power systems have been modelled considering the electro-mechanical behaviour of the power-frequency dynamic so that the platform can run in real-time and be linked with the controller hardware. The simulation platform has been tested through a detailed simulation campaign by using as a study case a Platform Supply Vessel where its behaviour is harsh condition has been validated.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85077165478",
+      "title": "The use of computational fluid dynamic technique in ship control design",
+      "doi": "10.1080/17445302.2019.1706908",
+      "venue": "Ships and Offshore Structures",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "16",
+      "issue_id": "1",
+      "pages": "31-45",
+      "issn": "17445302",
+      "eIssn": null,
+      "source_id": "19700186818",
+      "authors": "Martelli M.; Villa D.; Viviani M.; Donnarumma S.; Figari M.",
+      "author_ids": "55521641400;56250522200;58090077400;55350308600;6507282370",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Martelli M.",
+      "keywords": "CFD | control design | marine propulsion plant | Ship dynamics | simulation techniques | slow-speed manoeuvrability",
+      "abstract": "This paper presents a methodology to develop the control systems of a surface vessel by using both computational fluid dynamics techniques and model-based control design. The model-based control design is supported by a simulation platform where both the ship hydrodynamics and the propulsion plant are modelled together. The application of CFD is related to the direct evaluation of the hull forces in the ship hydrodynamic model, for different manoeuvring conditions. The developed design tool is essential in the preliminary design phase, as a benchmark to test the control algorithms for autonomous ships. The comparison between numerical assessment and regression-based formulae has been performed on non-standard manoeuvres to quantify the difference in thrust allocation from the point of view of control design. Eventually, to validate the effectiveness of the proposed methodology, the results of the sea trials for different manoeuvres are shown.",
+      "citations": 15,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 71,
+              "rank": 33,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 68,
+              "rank": 235,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 66,
+              "rank": 203,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 65,
+              "rank": 34,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85086998104",
+      "title": "Hybrid Nonovershooting Set-Point Pressure Regulation for a Wet Clutch",
+      "doi": "10.1109/TMECH.2020.2973382",
+      "venue": "IEEE ASME Transactions on Mechatronics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "25",
+      "issue_id": "3",
+      "pages": "1276-1287",
+      "issn": "10834435",
+      "eIssn": "1941014X",
+      "source_id": "19113",
+      "authors": "Cocetti Matteo; Donnarumma Silvia; De Pascali Luca; Ragni Matteo; Biral Francesco; Panizzolo Fabrizio; Rinaldi Pier Paolo; Sassaro Alex; Zaccarian Luca",
+      "author_ids": "56031272100;55350308600;57202575714;57201949396;56028693900;57188846580;57217279624;57217278645;56223118400",
+      "authorAffiliationIds": "60015986;60025153;60015986;60015986;60015986;124655083;124655083;124655083;60015986",
+      "corresponding": "Cocetti M.",
+      "keywords": "Hybrid/reset control | linear matrix inequalities | overshoot | pressure control | switching control | wet-clutch",
+      "abstract": "In this article, we propose a control-oriented Wiener model for wet-clutches in filled conditions and we discuss the associated identification technique. We design a novel hybrid controller, which ensures zero steady-state error and a fast nonovershooting response. We show that the controller parameters can be conveniently obtained by solving a set of linear matrix inequalities. Finally, we test the proposed control strategy on the hydromechanical variable transmission developed by Dana-Rexroth transmission systems. The experiments show good performance and robustness with respect to modeling errors and noise.",
+      "citations": 7,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 96,
+              "rank": 40,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 94,
+              "rank": 50,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 94,
+              "rank": 20,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 94,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 94,
+              "rank": 16,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 93,
+              "rank": 46,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85076184741",
+      "title": "Stabilization of diffusive systems using backstepping and the circle criterion",
+      "doi": "10.1016/j.ijheatmasstransfer.2019.119132",
+      "venue": "International Journal of Heat and Mass Transfer",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "149",
+      "issue_id": null,
+      "pages": null,
+      "issn": "00179310",
+      "eIssn": null,
+      "source_id": "20448",
+      "authors": "Alessandri Angelo; Bagnerini Patrizia; Cianci Roberto; Donnarumma Silvia; Taddeo Alberto",
+      "author_ids": "7005735677;11240414400;7005577641;55350308600;57193579521",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Alessandri A.",
+      "keywords": "Diffusive system | Pool boiling | Stabilization",
+      "abstract": "Pool boiling is a pretty well-known benchmark of diffusive system with both practical and theoretical interest. We have investigated Neumann-boundary feedback control by combining the backstepping approach and the circle criterion. Conditions for local/global stability with nonlinear boundary conditions as input are investigated by explicitly solving the backstepping kernel equations. Simulation results are reported to illustrate the findings of the theoretical investigation and compare all the considered approaches.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Fluid Flow and Transfer Processes",
+              "percentile": 96,
+              "rank": 4,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Condensed Matter Physics",
+              "percentile": 93,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 93,
+              "rank": 49,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Fluid Flow and Transfer Processes",
+              "percentile": 98,
+              "rank": 2,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 95,
+              "rank": 27,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Condensed Matter Physics",
+              "percentile": 94,
+              "rank": 25,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85110557089",
+      "title": "A novel model based-design approach for a dynamic positioning system",
+      "doi": "10.24868/issn.2631-8741.2020.002",
+      "venue": "Proceedings of the International Ship Control Systems Symposium",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": "1",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "26318741",
+      "source_id": "21101052918",
+      "authors": "Martelli M.; Faggioni N.; Donnarumma S.",
+      "author_ids": "55521641400;57205353851;55350308600",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Martelli M.",
+      "keywords": "Control Optimisation | Dynamic Positioning | Model-based Analysis | Motion Control",
+      "abstract": "This paper aims to present a novel approach to design a dynamic positioning system by using a dynamic model based-design approach. The proposed study has been performed to both develop and preliminarily test the control logic that should be implemented on a model scale vessel. Indeed, the proposed tool has been designed for a fully actuated tug vessel equipped with two azimuthal thrusters and one bow-thruster, emulated in behaviour with a dynamic simulator. Thanks to the model actuation, it was possible to design a unique, optimised allocation logic able to fulfil both open-loop and closed-loop commands, sufficiently proved and tuned before the installation onboard. Moreover, a thorough comparison between different design methods, static and dynamic performance evaluation has been carried out. Two different operational modes are tested, and the results are presented: joystick and station keeping.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 20,
+              "rank": 793,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 20,
+              "rank": 93,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 14,
+              "rank": 327,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 9,
+              "rank": 174,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85110438737",
+      "title": "Follow-the-leader control strategy for azimuth propulsion system on surface vessels",
+      "doi": "10.24868/issn.2631-8741.2020.004",
+      "venue": "Proceedings of the International Ship Control Systems Symposium",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": "1",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "26318741",
+      "source_id": "21101052918",
+      "authors": "Piaggio B.; Garofano V.; Donnarumma S.; Alessandri A.; Negenborn R. R.; Martelli M.",
+      "author_ids": "57204360929;57210819545;55350308600;7005735677;16480813000;55521641400",
+      "authorAffiliationIds": "60025153;60118236;60025153;60025153;60118236;60025153",
+      "corresponding": "Piaggio B.",
+      "keywords": "Azimuthal Propulsion | Follow-the-Leader | Line-of-Sight | Path-Following | Platooning | Tugs",
+      "abstract": "This paper presents an effective autonomous follow-the-leader strategy for Azimuthal Stern Drive vessels. The control logic has been investigated from a theoretical point of view. A line-of-sight algorithm is exploited to ensure yaw-check ability, while a speed-check feature is implemented to track the velocity of the target along the path. For this purpose, a linearised manoeuvrability model for azimuthal drive surface vessels is presented. A model-based control synthesis is proposed to ensure the stability of the closed-loop system and robust PID controllers are designed by using Linear Matrix Inequalities technique. The control strategy has been successively validated in two steps, initially by using simulation techniques, and then experimentally using an outdoor scenario with model scale tugs. The path planning, navigation, guidance and control modules are studied, detailed, and digitally implemented on-board of the model scale tugs. The models are supplied with GNSS+INS navigation system. Low-level management and control of Azimuthals angles and shaft revolutions is implemented on-board. High-level decen-tralised path planning, guidance, and control sequence evaluation are dealt with at a remote ground station. In particular, the presented follow-the-leader strategy meets the most generic needs of platooning convoys, and, in the specific instance, of Escort convoy tugs. The operative profile of the latter concerns long-lasting and routine chases with the continuous demand of tuning heading and speed to track the target vessels, until the rare occurrence of an emergency event. In a realistic scenario, the proposed control system would be beneficial for the tug master’s lucidity and alertness, while reducing avoidable risks. At the end of the paper, the results of the experimental campaign are shown to demonstrate the effectiveness of the proposed control logic.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 20,
+              "rank": 793,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 20,
+              "rank": 93,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 14,
+              "rank": 327,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 9,
+              "rank": 174,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85083715563",
+      "title": "Simulation of the Guidance and Control Systems for Underactuated Vessels",
+      "doi": "10.1007/978-3-030-43890-6_9",
+      "venue": "Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": "11995 LNCS",
+      "issue_id": null,
+      "pages": "108-119",
+      "issn": "03029743",
+      "eIssn": "16113349",
+      "source_id": "25674",
+      "authors": "Donnarumma Silvia; Figari Massimo; Martelli Michele; Zaccone Raphael",
+      "author_ids": "55350308600;6507282370;55521641400;56717793100",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Donnarumma S.",
+      "keywords": "Autonomous vessels | Collision avoidance | Simulation | Track keeping",
+      "abstract": "Intelligent and/or autonomous vehicle technologies are rapidly growing to meet the needs of marine safety and transport efficiency. One of the requirements to manage autonomous vehicles includes the integration between route planning and automatic motion control. In the authors’ opinion, the latter could be sketched in three different layers: obstacle detection, planning and actuation. Moreover, the three layers should be able to interact in real-time. Dealing with such a challenging task, one of the best techniques to develop and test the logic is the use of the time-domain simulation. In the present work, a simulation model, integrating a path planning algorithm in the presence of obstacles with a track keeping controller, is developed. The path planning is based on a modified version of the Rapidly-exploring Random Tree (RRT*) algorithm. The track keeping is based on the Line-of-Sight (LOS) waypoints navigation for underactuated vessels. To achieve more reliable results, a detailed ship simulation model is used as a benchmark. Different scenarios and navigation modes are successfully tested, and the results are presented and analysed.",
+      "citations": 16,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 48,
+              "rank": 70,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 46,
+              "rank": 129,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 50,
+              "rank": 113,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 24,
+              "rank": 91,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85075642574",
+      "title": "Simulation techniques for design and control of a waste heat recovery system in marine natural gas propulsion applications",
+      "doi": "10.3390/jmse7110397",
+      "venue": "Journal of Marine Science and Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "7",
+      "issue_id": "11",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20771312",
+      "source_id": "21100830140",
+      "authors": "Altosole Marco; Campora Ugo; Donnarumma Silvia; Zaccone Raphael",
+      "author_ids": "13006187800;6508251998;55350308600;56717793100",
+      "authorAffiliationIds": "60017293;60025153;60025153;60025153",
+      "corresponding": "Altosole M.",
+      "keywords": "Control | Natural gas | Power grid dynamics | Ship energy efficiency | Steam turbine | Waste heat recovery",
+      "abstract": "Waste Heat Recovery (WHR) marine systems represent a valid solution for the ship energy efficiency improvement, especially in Liquefied Natural Gas (LNG) propulsion applications. Compared to traditional diesel fuel oil, a better thermal power can be recovered from the exhaust gas produced by a LNG-fueled engine. Therefore, steam surplus production may be used to feed a turbogenerator in order to increase the ship electric energy availability without additional fuel consumption. However, a correct design procedure of the WHR steam plant is fundamental for proper feasibility analysis, and from this point of view, numerical simulation techniques can be a very powerful tool. In this work, the WHR steam plant modeling is presented paying attention to the simulation approach developed for the steam turbine and its governor dynamics. Starting from a nonlinear system representing the whole dynamic behavior, the turbogenerator model is linearized to carry out a proper synthesis analysis of the controller, in order to comply with specific performance requirements of the power grid. For the considered case study, simulation results confirm the validity of the developed approach, aimed to test the correct design of the whole system in proper working dynamic conditions.",
+      "citations": 22,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 75,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 73,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 72,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 53,
+              "rank": 43,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 46,
+              "rank": 165,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 46,
+              "rank": 117,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85069226288",
+      "title": "Motion control for autonomous navigation in blue and narrow waters using switched controllers",
+      "doi": "10.3390/jmse7060196",
+      "venue": "Journal of Marine Science and Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "7",
+      "issue_id": "6",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20771312",
+      "source_id": "21100830140",
+      "authors": "Alessandri Angelo; Donnarumma Silvia; Martelli Michele; Vignolo Stefano",
+      "author_ids": "7005735677;55350308600;55521641400;6602505719",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Alessandri A.",
+      "keywords": "Low-speed maneuvering | Marine simulation | Motion control",
+      "abstract": "Autonomous ships represent one of the new frontiers of technological innovation in marine engineering, which demand the development of innovative control systems to guarantee efficient and safe navigation of vessels. A convenient control system should be able to command the several actuators installed on board in different conditions-for instance, during oceanic navigation, harbor approach, narrow channels, and crowed areas. Such tasks are accomplished by different switching controllers for high and low speed motion, which have to be orchestrated to ensure an effective maneuvering. An approach to the design of hierarchies of controllers for maneuvering and navigation of ships equipped with a standard propulsion configuration in both blue and narrow water is proposed. Different levels of control, from global to local, are defined and integrated to steer the vessel in such a way to increase the maneuvering capability in various scenarios.",
+      "citations": 26,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 75,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 73,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 72,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 53,
+              "rank": 43,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 46,
+              "rank": 165,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 46,
+              "rank": 117,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85031816570",
+      "title": "Design and Validation of Dynamic Positioning for Marine Systems: A Case Study",
+      "doi": "10.1109/JOE.2017.2732298",
+      "venue": "IEEE Journal of Oceanic Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "43",
+      "issue_id": "3",
+      "pages": "677-688",
+      "issn": "03649059",
+      "eIssn": null,
+      "source_id": "17277",
+      "authors": "Donnarumma Silvia; Figari Massimo; Martelli Michele; Vignolo Stefano; Viviani Michele",
+      "author_ids": "55350308600;6507282370;55521641400;6602505719;58090077400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Donnarumma S.",
+      "keywords": "Dynamic positioning | environmental disturbances | propulsion modeling | simulation-based design",
+      "abstract": "The design of a dynamic positioning (DP) system is a challenging task with several technical fields involved in the problem solution. Numerical simulation is a powerful tool to aid the designer during the system development and to speed up the design process. This paper presents the simulation methodology adopted to design and test the DP system for a vessel with a standard propulsion configuration. Simulation results and sea trial measurements are compared to illustrate the reliability of the proposed simulation platform.",
+      "citations": 40,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 90,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 88,
+              "rank": 88,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 135,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 87,
+              "rank": 76,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 82,
+              "rank": 117,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85110624560",
+      "title": "Energy efficient propulsion system for dynamic positioning application: Design and assessment",
+      "doi": "10.24868/issn.2631-8741.2018.012",
+      "venue": "Proceedings of the International Ship Control Systems Symposium",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": "1",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "26318741",
+      "source_id": "21101052918",
+      "authors": "Coraddu Dr Andrea; Donnarumma Silvia; Chu Mr Ken; Figari Massimo",
+      "author_ids": "55193514900;55350308600;57226167612;6507282370",
+      "authorAffiliationIds": "60024724;60025153;60024724;60025153",
+      "corresponding": "Coraddu D.A.",
+      "keywords": "Dynamic positioning | Failure analysis | Thrust allocation logic",
+      "abstract": "Dynamic positioning systems are most commonly used in offshore operations. They provide an automated controlling of position and heading of the vessel using its own thrusters to compensate environmental disturbances. The allocation of total required force over the available actuators is a complex task, as DP-systems are over-actuated. Therefore, one of the main challenges faced by the industry is constantly seeking to improve the systems efficiency for both sustainability and economic reasons. Furthermore, it is important to evaluate the performance of a DP vessel under critical conditions. In this paper, the authors aim to compare different thrust allocation logics based on the optimisation of different objective functions. Using a simple validation tool, the authors were able to investigate the overall efficiency of a dynamic positioning propulsion system and its ability to operate when a failure occurs.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 20,
+              "rank": 793,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 20,
+              "rank": 93,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 14,
+              "rank": 327,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 9,
+              "rank": 174,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85061354218",
+      "title": "Simulation of a marine dynamic positioning system equipped with cycloidal propellers",
+      "doi": "10.1201/9780429505294-30",
+      "venue": "Progress in Maritime Technology and Engineering Proceedings of the 4th International Conference on Maritime Technology and Engineering Martech 2018",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": null,
+      "issue_id": null,
+      "pages": "257-264",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100898005",
+      "authors": "Altosole M.; Donnarumma S.; Spagnolo V.; Vignolo S.",
+      "author_ids": "13006187800;55350308600;57201675990;6602505719",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Altosole M.",
+      "keywords": null,
+      "abstract": "Marine cycloidal propellers represent a good alternative to traditional propellers especially in Dynamic Positioning (DP) applications, since they can generate almost the same thrust in all directions. The present study aims to combine a simulation platform, previously developed by some of the authors for DP systems, with the performance modelling of an epicycloidal propeller. The latter bases the propeller thrust and torque evaluation on the kinematics of the blades, taking into account suitable correction factors in order to consider the interference phenomena among blades. As a case study, the control and allocation logics of a DP system are analyzed for a surface vessel, equipped with a single bow thruster and two epicycloidal propellers at stern. The examined ship is the same for which a DP system, characterized by a conventional twin-screw propulsion, was already studied and installed on board. A performance comparison between the two distinct propulsion configurations is then carried out by dynamic simulation.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85045641158",
+      "title": "Marine cycloidal propulsion modelling for DP applications",
+      "doi": null,
+      "venue": "7th International Conference on Computational Methods in Marine Engineering Marine 2017",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": "2017-May",
+      "issue_id": null,
+      "pages": "206-219",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100857769",
+      "authors": "Altosole Marco; Donnarumma Silvia; Spagnolo Valentina; Vignolo Stefano",
+      "author_ids": "13006187800;55350308600;57201675990;6602505719",
+      "authorAffiliationIds": "60025153;60015986;60025153;60025153",
+      "corresponding": "Altosole M.",
+      "keywords": "Cycloidal propeller | Dynamic positioning systems | Simulation",
+      "abstract": "This paper presents the numerical modelling of a cycloidal propeller in free-running conditions together with its possible applications. The model calibration is carried out by comparing simulation results with experimental data of an existing cycloidal unit. The achieved results support the main strength of the proposed simulation approach: propeller fluid dynamics is not calculated, avoiding demanding computations that would not allow an effective simulation of the whole propulsion plant. As a case study, the cycloidal propulsors model is used for the thruster allocation assessment of the Dynamic Positioning (DP) system of a surface vessel, originally equipped with traditional propellers. Then, the steady-state performance analysis of the DP system is carried out in terms of a comparison between the two distinct propulsion configurations.",
+      "citations": 8,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85015054661",
+      "title": "Backstepping-based stabilization of the pool-boiling system: An application of the circle criterion",
+      "doi": "10.1109/ECC.2016.7810299",
+      "venue": "2016 European Control Conference Ecc 2016",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": null,
+      "issue_id": null,
+      "pages": "283-288",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101179797",
+      "authors": "Taddeo Alberto; Alessandri Angelo; Bagnerini Patrizia; Donnarumma Silvia",
+      "author_ids": "57193579521;7005735677;11240414400;55350308600",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Taddeo A.",
+      "keywords": null,
+      "abstract": "We deal with the problem of the stabilization of the nonlinear PDE system that represents a pool boiling under a feedback loop. Toward this end, first we study well-posedness by discussing the choice of the appropriate space of functions, where the problem is cast. Second, we focus on various examples of backstepping feedback laws that can ensure stability and analyze them by using Popov-like theorems based on the circle criterion. Third, simulation results are reported to illustrate the findings of the theoretical investigation.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85015005655",
+      "title": "Anti-windup synthesis of heading and speed regulators for ship control with actuator saturation",
+      "doi": "10.1109/ECC.2016.7810466",
+      "venue": "2016 European Control Conference Ecc 2016",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": null,
+      "issue_id": null,
+      "pages": "1284-1290",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100824404",
+      "authors": "Donnarumma S.; Zacearian L.; Alessandri A.; Vignolo S.",
+      "author_ids": "55350308600;56223118400;7005735677;6602505719",
+      "authorAffiliationIds": "60025153;60025153-60005830-60102124;60025153;60025153",
+      "corresponding": "Donnarumma S.",
+      "keywords": null,
+      "abstract": "Heading and speed control for a patrol vessel is addressed by using simple PID regulators provided with an anti-windup setup. We rely on a decoupled linearized model of the original motion equations to design the proposed regulators. Specifically, the selection of the PID and anti-windup parameters is accomplished by using LMIs. The effectiveness of the resulting controllers is validated by means of simulations on the original, nonlinear dynamic equations and in the presence of external disturbances such as wind, waves, and current.",
+      "citations": 9,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85100125962",
+      "title": "System control design of autopilot and speed pilot for a patrol vessel by using lmis",
+      "doi": "10.1201/b18855-76",
+      "venue": "Towards Green Marine Technology and Transport Proceedings of the 16th International Congress of the International Maritime Association of the Mediterranean Imam 2015",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2015,
+      "volume": null,
+      "issue_id": null,
+      "pages": "577-583",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101081684",
+      "authors": "Alessandri A.; Donnarumma S.; Vignolo S.; Figari M.; Martelli M.; Chiti R.; Sebastiani L.",
+      "author_ids": "7005735677;55350308600;6602505719;6507282370;55521641400;56845710200;16022741600",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;121267422;121267422",
+      "corresponding": "Alessandri A.",
+      "keywords": null,
+      "abstract": "Heading and speed control for a patrol vessel is addressed by using simple PID regulators. The selection of the PID parameters for both controllers is accomplished by using decoupled linearized model of the original motion equations and LMIs as a design tool. The effectiveness of the resulting controllers is validated on the original dynamic equations and with the presence of external disturbances such as wind, waves, and current.",
+      "citations": 24,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84941730047",
+      "title": "Dynamic positioning system of a vessel with conventional propulsion configuration: Modeling and simulation",
+      "doi": "10.1201/b17494-97",
+      "venue": "Maritime Technology and Engineering Proceedings of Martech 2014 2nd International Conference on Maritime Technology and Engineering",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2015,
+      "volume": null,
+      "issue_id": null,
+      "pages": "725-734",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100991068",
+      "authors": "Alessandri A.; Donnarumma S.; Luria G.; Martelli M.; Vignolo S.; Chiti R.; Sebastiani L.",
+      "author_ids": "7005735677;55350308600;54946168800;55521641400;6602505719;56845710200;16022741600",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;109536273;109536273",
+      "corresponding": "Alessandri A.",
+      "keywords": null,
+      "abstract": "A simulation model of the DP system for a conventional naval configuration is presented. A complete mathematical description of the dynamically positioned vessel is developed, including distinct models for low- and wave-frequency ship motions, slowly-varying wind and wave forces, and mechanical constraints on the actuators. A specific allocation logic is devised for such a configuration, by using a linear hydrodynamic model of the propeller-rudder interaction. An anti-windup control-loop correction is designed to improve the DP controller performance. Eventually, simulation results are described to illustrate the effectiveness of the DP system.",
+      "citations": 19,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84938865811",
+      "title": "Numerical models for ship dynamic positioning",
+      "doi": null,
+      "venue": "Marine 2015 Computational Methods in Marine Engineering Vi",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2015,
+      "volume": null,
+      "issue_id": null,
+      "pages": "1078-1088",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100403413",
+      "authors": "Donnarumma S.; Martelli M.; Vignolo S.",
+      "author_ids": "55350308600;55521641400;6602505719",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Donnarumma S.",
+      "keywords": "Dynamic positioning | Model-based design | Propulsion plant | Ship | Simulation",
+      "abstract": "One of the best ways to design marine control systems before the construction of a ship is the use of simulation techniques. The paper presents two numerical models used to develop and test, in the preliminary design phase, a dynamic positioning (DP) system for marine vehicles. In particular, it refers to a surface vessel equipped with a conventional propulsion configuration, consisting of two controllable pitch propellers, two rudders and a single bow-thruster. For such a vessel, the DP system is required to manage the actuators in order to obtain a good dynamic positioning performance at zero-speed with moderate weather conditions. In order to verify control and allocation logics, two numerical models, with different degrees of details, have been developed and used in distinct steps. Several sub-systems as ship dynamics, propulsion plant, controller and environmental disturbances have been implemented making use of suitable mathematical models linked each other in order to take into account their mutual interactions. Eventually, simulation results are shown and critically compared in order to better understand the points of strength and weakness of the two proposed models.",
+      "citations": 11,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84865784785",
+      "title": "Drift-off and drive-off assessment of a dynamically positioned drillship",
+      "doi": null,
+      "venue": "Proceedings of the 17th Offshore Symposium Pushing Boundaries in the Global Industry",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2012,
+      "volume": null,
+      "issue_id": null,
+      "pages": "D23-D31",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100212306",
+      "authors": "Wang Sue; Donnarumma Sivia",
+      "author_ids": "55351644600;55350308600",
+      "authorAffiliationIds": ";60025153",
+      "corresponding": "Wang S.",
+      "keywords": null,
+      "abstract": "It is important that a floating drilling unit is able to disconnect from the wellhead in a timely manner during a loss of position to minimize risk to personnel, the environment, and equipment. For most dynamically positioned (DP) vessels, the concept of watch circles has been used for that purpose. The watch circles define when to initiate disconnecting action. Typical watch circles are referred to as green, yellow and red circles. When a vessel is in the yellow circle, the operation should be halted, while in the red circle, the Emergency Disconnect System (EDS) should be initiated. Drift-off and drive-off assessment can be utilized in the determination of the green, yellow and red watch circles. Drift-off is a scenario of the vessel drifting away after a loss of thruster power, while drive-off is of the vessel being pushed away by excessive thruster force. Drift-off and drive-off are functions of a vessel's characteristics and the prevailing environmental conditions. This paper presents the study on the drift-off and drive-off scenarios of a DP drillship under different environmental conditions. The vessel's excursion as a function of time is simulated using a time-domain simulation program aNySIM. The comparison of drift-off and drive-off speed under different environmental conditions will be made. The effect of environmental conditions on the determination of watch circles is assessed.",
+      "citations": 1,
+      "quartile": null
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1263936",
+      "authors": "Guano, Nicolas; Donnarumma, Silvia; Gaggero, Stefano",
+      "legacy_id": 659847,
+      "year": 2025,
+      "miur_type": "268",
+      "title": "A Numerical Overview of the Influence of Cavitation on Cycloidal Propeller Performances",
+      "doi": "10.3233/pmst250039",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1222715",
+      "authors": "Fruzzetti, Camilla; Buzzurro, Cristiana; Donnarumma, Silvia; Martelli, Michele",
+      "legacy_id": 601826,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Time Domain Design of a Marine Target Tracking System Accounting for Environmental Disturbances",
+      "scopus_id": "2-s2.0-85210284265",
+      "doi": "10.3390/jmse12112058",
+      "isi_id": "WOS:001365472300001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1234955",
+      "authors": "Zaccone, R.; Donnarumma, S.; Martelli, M.",
+      "legacy_id": 621767,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "A structured metric approach to compare marine collision avoidance algorithms",
+      "scopus_id": "2-s2.0-85210105149",
+      "doi": "10.24868/11143",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1156660",
+      "authors": "Fruzzetti, Camilla; Donnarumma, Silvia; Maggiani, Francesca; Martelli, Michele",
+      "legacy_id": 520883,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Probabilistic operability and greenhouse gas assessment during dynamic positioning operations",
+      "scopus_id": "2-s2.0-85175652778",
+      "doi": "10.1177/14750902231203441",
+      "isi_id": "WOS:001090820900001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1213556",
+      "authors": "Donnarumma, S.; Martelli, M.; D'Agostino, F.; Kaza, D.; Silvestro, F.",
+      "legacy_id": 590811,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Multiphysics Modeling and Simulation of Integrated Electric Propulsion System for Ship Dynamic Positioning",
+      "scopus_id": "2-s2.0-85182953922",
+      "doi": "10.1109/TIA.2024.3355869",
+      "isi_id": "WOS:001230196400032",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1142595",
+      "authors": "Piaggio, Benedetto; Garofano, Vittorio; Donnarumma, Silvia; Alessandri, Angelo; Negenborn, Rudy; Martelli, Michele",
+      "legacy_id": 502847,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Follow-the-Leader Guidance, Navigation, and Control of Surface Vessels: Design and Experiments",
+      "scopus_id": "2-s2.0-85171563043",
+      "doi": "10.1109/JOE.2023.3292422",
+      "isi_id": "WOS:001071946500001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1074229",
+      "authors": "Fruzzetti, C.; Donnarumma, S.; Martelli, M.",
+      "legacy_id": 410829,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Dynamic target chasing: parameters and performance indicators assessment",
+      "scopus_id": "2-s2.0-85123502826",
+      "doi": "10.1007/s00773-021-00865-3",
+      "isi_id": "WOS:000745579100001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "8",
+      "citations_scopus": "11"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102440",
+      "authors": "Fruzzetti, C.; Donnarumma, S.; Martelli, M.; Maggiani, F.",
+      "legacy_id": 445779,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Dynamic positioning operability assessment by using thrust allocation optimization",
+      "scopus_id": "2-s2.0-85145613688",
+      "doi": "10.1201/9781003358961-5",
+      "isi_id": "WOS:001233620100003",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1078937",
+      "authors": "Altosole, Marco; Donnarumma, Silvia; Spagnolo, Valentina; Vignolo, Stefano",
+      "legacy_id": 416681,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Performance Simulation of Marine Cycloidal Propellers: A Both Theoretical and Heuristic Approach",
+      "scopus_id": "2-s2.0-85128785565",
+      "doi": "10.3390/jmse10040505",
+      "isi_id": "WOS:000785293700001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "6",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102630",
+      "authors": "Donnarumma, S.; Martelli, M.; D'Agostino, F.; Kaza, D.; Silvestro, F.",
+      "legacy_id": 446073,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Multiphysics Modeling and Simulation of Integrated Electric Propulsion System for Ship Dynamic Positioning",
+      "scopus_id": "2-s2.0-85136188410",
+      "doi": "10.1109/SPEEDAM53979.2022.9841976",
+      "isi_id": "WOS:001429387900107",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "3",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1095515",
+      "authors": "Donnarumma, Silvia; Fruzzetti, Camilla; Martelli, Michele; Roberto, Chiti; Pecoraro, Andrea; Sebastiani, Luca",
+      "legacy_id": 435375,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Rapid prototyping for enhanced dynamic positioning systems",
+      "scopus_id": "2-s2.0-85138206739",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1074203",
+      "authors": "Martelli, M.; Faggioni, N.; Donnarumma, S.",
+      "legacy_id": 410800,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "A time-domain methodology to assess the dynamic positioning performances",
+      "scopus_id": "2-s2.0-85123782693",
+      "doi": "10.1016/j.oceaneng.2022.110668",
+      "isi_id": "WOS:000783599700002",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "11",
+      "citations_scopus": "14"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1057748",
+      "authors": "Martelli, M.; Faggioni, N.; Donnarumma, S.",
+      "legacy_id": 392120,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "A novel model based-design approach for a dynamic positioning system",
+      "scopus_id": "2-s2.0-85110557089",
+      "doi": "10.24868/issn.2631-8741.2020.002",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1045081",
+      "authors": "Piaggio, B; Garofano, V; Donnarumma, S; Alessandri, A; Negenborn, Rr; Martelli, M",
+      "legacy_id": 377859,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "Follow-the-Leader Control Strategy for Azimuth Propulsion System on Surface Vessels",
+      "scopus_id": "2-s2.0-85110438737",
+      "doi": "10.24868/issn.2631-8741.2020.004",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1074233",
+      "authors": "Cocetti, M.; Donnarumma, S.; De Pascali, L.; Ragni, M.; Biral, F.; Panizzolo, F.; Rinaldi, P. P.; Sassaro, A.; Zaccarian, L.",
+      "legacy_id": 410833,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Hybrid Nonovershooting Set-Point Pressure Regulation for a Wet Clutch",
+      "scopus_id": "2-s2.0-85086998104",
+      "doi": "10.1109/TMECH.2020.2973382",
+      "isi_id": "WOS:000544038100013",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "6",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1000128",
+      "authors": "Alessandri, A.; Bagnerini, P.; Cianci, R.; Donnarumma, S.; Taddeo, A.",
+      "legacy_id": 325687,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Stabilization of diffusive systems using backstepping and the circle criterion",
+      "scopus_id": "2-s2.0-85076184741",
+      "doi": "10.1016/j.ijheatmasstransfer.2019.119132",
+      "isi_id": "WOS:000538009600012",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1006023",
+      "authors": "Donnarumma, Silvia; Figari, Massimo; Martelli, Michele; Zaccone, Raphael",
+      "legacy_id": 332508,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "Simulation of the Guidance and Control Systems for Underactuated Vessels",
+      "scopus_id": "2-s2.0-85083715563",
+      "isi_id": "WOS:000628847000009",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "9",
+      "citations_scopus": "16"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/990710",
+      "authors": "Altosole, Marco; Campora, Ugo; Donnarumma, Silvia; Zaccone, Raphael",
+      "legacy_id": 314906,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Simulation Techniques for Design and Control of a Waste Heat Recovery System in Marine Natural Gas Propulsion Applications",
+      "scopus_id": "2-s2.0-85075642574",
+      "doi": "10.3390/jmse7110397",
+      "isi_id": "WOS:000502261500020",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "20",
+      "citations_scopus": "22"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/991770",
+      "authors": "Martelli, M.; Villa, D.; Viviani, M.; Donnarumma, S.; Figari, M.",
+      "legacy_id": 316167,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "The use of computational fluid dynamic technique in ship control design",
+      "scopus_id": "2-s2.0-85074225792",
+      "doi": "10.1080/17445302.2019.1706908",
+      "isi_id": "WOS:000504368200001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "13",
+      "citations_scopus": "22"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/953409",
+      "authors": "Alessandri, Angelo; Donnarumma, Silvia; Martelli, Michele; Vignolo, Stefano",
+      "legacy_id": 273032,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Motion Control for Autonomous Navigation in Blue and Narrow Waters Using Switched Controllers",
+      "scopus_id": "2-s2.0-85069226288",
+      "doi": "10.3390/jmse7060196",
+      "isi_id": "WOS:000473807700034",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "19",
+      "citations_scopus": "26"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1106175",
+      "authors": "Coraddu, D. A.; Donnarumma, S.; Chu, M. K.; Figari, M.",
+      "legacy_id": 452539,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Energy efficient propulsion system for dynamic positioning application: Design and assessment",
+      "scopus_id": "2-s2.0-85110624560",
+      "doi": "10.24868/issn.2631-8741.2018.012",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/911758",
+      "authors": "Altosole, M.; Donnarumma, S.; Spagnolo, V.; Vignolo, S.",
+      "legacy_id": 226016,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Simulation of a marine dynamic positioning system equipped with cycloidal propellers",
+      "scopus_id": "2-s2.0-85061354218",
+      "isi_id": "WOS:000467268100030",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/882154",
+      "authors": "Donnarumma, S.; Figari, M.; Martelli, M.; Vignolo, S.; Viviani, M.",
+      "legacy_id": 193038,
+      "year": 2018,
+      "miur_type": "262",
+      "title": "Design and Validation of Dynamic Positioning for Marine Systems: a Case Study",
+      "scopus_id": "2-s2.0-85031816570",
+      "doi": "10.1109/JOE.2017.2732298",
+      "isi_id": "WOS:000438742000009",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "28",
+      "citations_scopus": "40"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/870284",
+      "authors": "Altosole, Marco; Donnarumma, Silvia; Spagnolo, Valentina; Vignolo, Stefano",
+      "legacy_id": 180476,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "MARINE CYCLOIDAL PROPULSION MODELLING FOR DP APPLICATIONS",
+      "scopus_id": "2-s2.0-85045641158",
+      "isi_id": "WOS:000426877000015",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "5",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/839738",
+      "authors": "Taddeo, Alberto; Alessandri, Angelo; Bagnerini, Patrizia; Donnarumma, Silvia",
+      "legacy_id": 146627,
+      "year": 2016,
+      "miur_type": "273",
+      "title": "Backstepping-based stabilization of the pool-boiling system: an application of the circle criterion",
+      "scopus_id": "2-s2.0-85015054661",
+      "isi_id": "WOS:000392695300046",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/839719",
+      "authors": "Donnarumma, Silvia; Zaccarian, Luca; Alessandri, Angelo; Vignolo, Stefano",
+      "legacy_id": 146599,
+      "year": 2016,
+      "miur_type": "273",
+      "title": "Anti-windup Synthesis of Heading and Speed Regulators for Ship Control with Actuator Saturation",
+      "scopus_id": "2-s2.0-85015005655",
+      "isi_id": "WOS:000392695300213",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "9",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/809342",
+      "authors": "Donnarumma, Silvia; Martelli, Michele; Vignolo, Stefano",
+      "legacy_id": 111797,
+      "year": 2015,
+      "miur_type": "273",
+      "title": "Numerical Models for Ship Dynamic Positioning",
+      "scopus_id": "2-s2.0-84938865811",
+      "isi_id": "WOS:000380489300088",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "6",
+      "citations_scopus": "11"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/801000",
+      "authors": "Alessandri, Angelo; Donnarumma, Silvia; Vignolo, Stefano",
+      "legacy_id": 109982,
+      "year": 2015,
+      "miur_type": "273",
+      "title": "Progetto di sistemi di regolazione per posizionamento dinamico e controllo di velocità",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/944225",
+      "authors": "Alessandri, A.; Donnarumma, S.; Vignolo, S.; Figari, M.; Martelli, M.; Chiti, R.; Sebastiani, L.",
+      "legacy_id": 262951,
+      "year": 2015,
+      "miur_type": "268",
+      "title": "System control design of autopilot and speed pilot for a patrol vessel by using LMIs",
+      "scopus_id": "2-s2.0-85054409086",
+      "doi": "10.1201/b18855",
+      "isi_id": "WOS:000505749600066",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_isi": "21",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/815033",
+      "authors": "Alessandri, Angelo; Donnarumma, Silvia; Vignolo, Stefano; Figari, Massimo; Martelli, Michele; Chiti, R.; Sebastiani, L.",
+      "legacy_id": 119434,
+      "year": 2015,
+      "miur_type": "273",
+      "title": "System control design of autopilot and speed pilot for a patrol vessel by using LMIs",
+      "scopus_id": "2-s2.0-85054409086",
+      "isi_id": "WOS:000505749600066",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "21",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/750402",
+      "authors": "Alessandri, Angelo; Donnarumma, Silvia; Luria, Gianvittorio; Martelli, Michele; Vignolo, Stefano; R., Chiti; L., Sebastiani",
+      "legacy_id": 104497,
+      "year": 2014,
+      "miur_type": "273",
+      "title": "Dynamic Positioning system of a vessel with conventional propulsion configuration: Modeling and simulation",
+      "scopus_id": "2-s2.0-84941730047",
+      "isi_id": "WOS:000380506300075",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "8",
+      "citations_scopus": "19"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/792837",
+      "authors": "S., Wang; Donnarumma, Silvia",
+      "legacy_id": 109551,
+      "year": 2012,
+      "miur_type": "273",
+      "title": "DRIFT-OFF AND DRIVE-OFF ASSESSMENT OF A DYNAMICALLY POSITIONED DRILLSHIP",
+      "scopus_id": "2-s2.0-84865706910",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:13:52.229999"
+}

@@ -1,0 +1,3168 @@
+{
+  "surname": "Zaccone",
+  "name": "Raphael",
+  "unit": "NAV",
+  "email": "raphael.zaccone@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/VkNDU15o",
+  "website": "",
+  "unige_id": "304841",
+  "scopus_id": "56717793100",
+  "role": "Professore associato",
+  "grade": "Prof.Associato Legge 240/10 - t.pieno - classe 0",
+  "ssd": "IIND-01/B (Costruzioni e impianti navali)",
+  "location": [
+    {
+      "building": "Villa Cambiaso - padiglioni (ED_161450103)",
+      "floor": "1° piano",
+      "room": "US_161450103.I.036"
+    }
+  ],
+  "career": [
+    {
+      "role": "CB",
+      "from": "2014-10-24 00:00:00.0000000",
+      "to": "2019-03-01 00:00:00.0000000"
+    },
+    {
+      "role": "AR",
+      "from": "2017-02-01 00:00:00.0000000",
+      "to": "2019-01-31 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2019-06-01 00:00:00.0000000",
+      "to": "2024-09-30 00:00:00.0000000"
+    },
+    {
+      "role": "PA",
+      "from": "2024-10-01 00:00:00.0000000",
+      "to": "2222-02-02 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [
+    {
+      "title": "Membro della Giunta di dipartimento",
+      "from": "2024-11-01 00:00:00.0000000",
+      "to": "2027-10-31 00:00:00.0000000",
+      "unit": "Dipartimento di ingegneria navale, elettrica, elettronica e delle telecomunicazioni - DITEN"
+    }
+  ],
+  "teaching": {
+    "2025": [
+      {
+        "course": "NAVI MILITARI (60168)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "PROPULSIONE NAVALE (112046)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      }
+    ],
+    "2024": [
+      {
+        "course": "IMPIANTI NAVALI (84416)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "NAVI MILITARI (60168)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "SHIP PLANTS AND SYSTEM SAFETY (101134)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2023": [
+      {
+        "course": "IMPIANTI NAVALI (84416)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "NAVI MILITARI (60168)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "PROGETTO DELLA NAVE MILITARE (60191)",
+        "degree": "LM-34 - INGEGNERIA NAVALE"
+      }
+    ],
+    "2022": [
+      {
+        "course": "IMPIANTI NAVALI (84416)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "NAVI MILITARI (60168)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "PROGETTO DELLA NAVE MILITARE (60191)",
+        "degree": "LM-34 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "SHIP PROPULSION PLANTS (66288)",
+        "degree": "LM-34 - YACHT DESIGN"
+      }
+    ],
+    "2021": [
+      {
+        "course": "IMPIANTI NAVALI (84416)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "NAVI MILITARI (60168)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "PROGETTO DELLA NAVE MILITARE (60191)",
+        "degree": "LM-34 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "SHIP PROPULSION PLANTS (66288)",
+        "degree": "LM-34 - YACHT DESIGN"
+      }
+    ],
+    "2020": [
+      {
+        "course": "NAVI MILITARI (60168)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "IMPIANTI NAVALI (84416)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      },
+      {
+        "course": "PROGETTO DELLA NAVE MILITARE (60191)",
+        "degree": "LM-34 - INGEGNERIA NAVALE"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 15,
+      "total_products": 45,
+      "journals": 20,
+      "conferences": 22,
+      "citations": 782,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 15,
+      "total_products": 45,
+      "journals": 20,
+      "conferences": 22,
+      "citations": 782,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 15,
+      "total_products": 45,
+      "journals": 20,
+      "conferences": 22,
+      "citations": 782,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 9,
+      "total_products": 27,
+      "journals": 13,
+      "conferences": 12,
+      "citations": 325,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-105016151432",
+      "title": "Digital Technologies Can Modify the Decision-Making Process on Ship Bridges",
+      "doi": "10.3233/PMST250094",
+      "venue": "Progress in Marine Science and Technology",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "10",
+      "issue_id": null,
+      "pages": "793-801",
+      "issn": "25430955",
+      "eIssn": "25430963",
+      "source_id": "21101107127",
+      "authors": "Martelli Michele; Longo Giacomo; Russo Enrico; Zaccone Raphael",
+      "author_ids": "55521641400;57468566600;57197855120;56717793100",
+      "authorAffiliationIds": "60025153;60121711;60121711;60025153",
+      "corresponding": "Martelli M.",
+      "keywords": "Autonomous Ship | Collision avoidance | Decision support system | MASS",
+      "abstract": "Digital technologies have experienced fast growth over the last year, with unexpected impacts on everyday life. The maritime sector is also positively affected by the introduction of new systems and technologies, especially in ship handling. The main reason behind adopting these technologies is to reduce human error, which could lead to serious accidents with massive repercussions on the safety of life at sea and the marine environment. Evaluating the impact on the bridge team's behaviour and the performance of the manoeuvre is a challenge and will help the future development of more advanced navigation systems. This paper aims to test a decision support system that relies on a path-planning module suitable for collision avoidance using a bridge simulator. A test scenario has been set up to reproduce a familiar coastal navigation scenario where several ships navigate in a narrow area. The goal of the test is to avoid collisions by respecting the COLREG on a foggy day, ensuring the safety distance and returning on track. Experienced masters and inexperienced people have been involved in the testing procedure. All the primary navigation information has been recorded and analysed both qualitatively and quantitatively, adopting dedicated metrics. The results prove that testing in a simulation environment can provide a valid test case and show that inexperienced personnel can also perform a safe escape route in compliance with international regulations.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 22,
+              "rank": 200,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 15,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 13,
+              "rank": 640,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105002009151",
+      "title": "LiDAR target detection and classification for ship situational awareness: A hybrid learning approach",
+      "doi": "10.1016/j.apor.2025.104552",
+      "venue": "Applied Ocean Research",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "158",
+      "issue_id": null,
+      "pages": null,
+      "issn": "01411187",
+      "eIssn": null,
+      "source_id": "26776",
+      "authors": "Ponzini Filippo; Zaccone Raphael; Martelli Michele",
+      "author_ids": "58576469000;56717793100;55521641400",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Ponzini F.",
+      "keywords": "LiDAR | Marine Autonomous Surface Ships | Marine situational awareness | Navigation system | Obstacle classification | Obstacle detection",
+      "abstract": "In recent years, LiDARs have been used to enhance situational awareness of autonomous vehicles, including in the marine domain, driven by the need for reliable detections in Marine Autonomous Surface Ships and Unmanned Surface Vehicles. Detecting obstacles and targets within point clouds is generally handled by a fully unsupervised learning framework. While effective and simple, this approach cannot classify targets. This paper presents a combined unsupervised/supervised approach for detecting and classifying marine targets and obstacles. The unsupervised detection framework is maintained by incorporating a lightweight supervised module capable of classifying detection outputs without disrupting the workflow. Rather than training on the entire point cloud, the proposed method focuses on selected target features, reducing model size and information exchange. Specifically, a Random Forest Classifier is trained on features extracted from the point-cloud dataset. The acquisition of an ad-hoc training dataset and its statistical analysis are presented to identify key features. The selection, training, and validation processes are outlined. Finally, the supervised model is integrated into a state-of-the-art unsupervised LiDAR detection pipeline and tested in a real scenario. The results demonstrate the hybrid framework's effectiveness and compliance with real-time constraints.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 87,
+              "rank": 15,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85217922661",
+      "title": "Sustainable yacht refits: Structural solutions in methanol-powered conversion",
+      "doi": "10.1016/j.oceaneng.2025.120618",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "323",
+      "issue_id": null,
+      "pages": null,
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Basciu Federico; Casali Giorgio; Maloberti Luca; Pais Tatiana; Vergassola Gianmarco; Zaccone Raphael",
+      "author_ids": "59559407200;59559202200;57894265000;55611778200;57191615489;56717793100",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Basciu F.",
+      "keywords": "Carbon emission reduction | Corrugated plate | Finite Element Model | Methanol | Yacht",
+      "abstract": "In the pursuit of sustainable solutions to reduce carbon emissions, the maritime industry is increasingly focusing on transitioning from fossil fuels to alternative fuels. Methanol offers significant environmental benefits, including Well-to-Wake greenhouse gas emission reductions of 95% with synthetic methanol and 89% with green methanol. Gray methanol can increase emissions by 20% compared to marine diesel oil. Methanol reduces sulfur oxides by 99%, nitrogen oxides by 60%, and particulate matter by 95%. However, its lower energy density requires 75% larger storage volumes to maintain comparable ranges. This study explores retrofitting a 60-meter yacht for methanol propulsion, addressing structural, spatial, and safety challenges associated with converting existing vessels into more environmentally sustainable ships. Key innovations include compact cofferdams, reduced from 800mm to 100mm, and corrugated bulkheads, improving tank efficiency from 0.32 to 0.83 while preserving safety. A Finite Element Model validated the structural integrity of these solutions, confirming their ability to withstand operational stresses while meeting stringent safety standards. Methanol propulsion provides a 23% range reduction compared to diesel, a trade-off balanced by its environmental advantages. This work highlights the interplay between structural modifications, onboard capacity enhancements, and alternative fuels in maritime decarbonization, contributing to more sustainable and responsible yacht transportation.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85216223286",
+      "title": "A comparison among innovative hybrid propulsion systems to reduce the environmental impact of a small passenger ship",
+      "doi": "10.1016/j.seta.2025.104194",
+      "venue": "Sustainable Energy Technologies and Assessments",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "75",
+      "issue_id": null,
+      "pages": null,
+      "issn": "22131388",
+      "eIssn": null,
+      "source_id": "21100239262",
+      "authors": "Maloberti Luca; Zaccone Raphael; De Gaetano Jacopo; Campora Ugo",
+      "author_ids": "57894265000;56717793100;59531181600;6508251998",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Maloberti L.",
+      "keywords": "Alternative fuel | E-fuels | Liquefied Natural Gas | Marine hybrid propulsion",
+      "abstract": "Fossil fuels contribute to GHG emissions into the atmosphere. The need to solve this critical global problem has driven the search for alternative energy options to pave the way towards a more sustainable future. This paper analyzes the environmental and economic performance of a small cruise ship operating in the North Atlantic Ocean. The paper compares natural gas-electric and hybrid propulsive configurations, considering LNG and E-LNG produced using renewable electricity. The carbon footprint analysis is based on equivalent CO<inf>2</inf> emissions according to a Well-to-Wake approach and includes emissions of the on-shore power for battery charging. A novel index for the energetic classification of ships is proposed, considering their equivalent CO<inf>2</inf> emissions using a Well-to-Wake approach. The hybrid propulsive systems show a fair fuel-saving potential, ranging from 3.5% to 5.3%. The E-LNG-powered propulsion is three times more expensive than LNG, while GHG emissions produced using E-LNG are 4.5 to 6 times lower. The battery pack is a major cost item in hybrid systems. Moreover, GHG evaluation through the novel index penalizes hybrid propulsion systems compared to traditional carbon dioxide emission assessment since the former includes ground connection used for battery charging.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 95,
+              "rank": 14,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 90,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85215382933",
+      "title": "An environmentally sustainable energy management strategy for marine hybrid propulsion",
+      "doi": "10.1016/j.energy.2025.134517",
+      "venue": "Energy",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "316",
+      "issue_id": null,
+      "pages": null,
+      "issn": "03605442",
+      "eIssn": "18736785",
+      "source_id": "29348",
+      "authors": "Maloberti Luca; Zaccone Raphael",
+      "author_ids": "57894265000;56717793100",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Maloberti L.",
+      "keywords": "Energy management | Energy storage system | Fuel-cell | Hydrogen | Marine hybrid propulsion | Optimization",
+      "abstract": "Integrating electric technologies, such as battery energy storage systems and electric propulsion, has become an appealing option for reducing fuel consumption and emissions in the transportation sector, making these technologies increasingly popular for research and industrial application in the maritime sector. In addition, hydrogen is a promising technology for reducing emissions, although hydrogen production technologies significantly influence the overall impact of hydrogen-powered systems. This paper proposes an optimization-based strategy to minimize the environmental impact of a hybrid propulsion system over a given load profile, while furthermore considering the environmental impact resulting from the hydrogen production chain. The propulsion system includes diesel generators, hydrogen-powered fuel cells, batteries, and electric motors; mathematical models and assumptions are discussed in detail. The paper applies the proposed strategy, and compares different hybrid solutions considering equivalent CO<inf>2</inf> emissions, discussing a test case applied to a short-range ferry operating in a marine protected area, an area particularly sensitive to the problem of atmospheric emissions. The results demonstrate that the proposed strategy can reduce greenhouse gas emissions by up to 73% compared to a conventional mechanical propulsion system.",
+      "citations": 8,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Modeling and Simulation",
+              "percentile": 99,
+              "rank": 4,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 98,
+              "rank": 7,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 97,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Building and Construction",
+              "percentile": 97,
+              "rank": 7,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Management, Monitoring, Policy and Law",
+              "percentile": 96,
+              "rank": 13,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 96,
+              "rank": 34,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 95,
+              "rank": 16,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Pollution",
+              "percentile": 94,
+              "rank": 10,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 94,
+              "rank": 23,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 93,
+              "rank": 10,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy (all)",
+              "percentile": 91,
+              "rank": 7,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 89,
+              "rank": 32,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85194067117",
+      "title": "A Dynamic Programming Approach to the Collision Avoidance of Autonomous Ships",
+      "doi": "10.3390/math12101546",
+      "venue": "Mathematics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "12",
+      "issue_id": "10",
+      "pages": null,
+      "issn": null,
+      "eIssn": "22277390",
+      "source_id": "21100830702",
+      "authors": "Zaccone Raphael",
+      "author_ids": "56717793100",
+      "authorAffiliationIds": "60025153",
+      "corresponding": "Zaccone R.",
+      "keywords": "autonomous ship | collision avoidance | dynamic programming | optimization | path planning",
+      "abstract": "The advancement of autonomous capabilities in maritime navigation has gained significant attention, with a trajectory moving from decision support systems to full autonomy. This push towards autonomy has led to extensive research focusing on collision avoidance, a critical aspect of safe navigation. Among the various possible approaches, dynamic programming is a promising tool for optimizing collision avoidance maneuvers. This paper presents a DP formulation for the collision avoidance of autonomous vessels. We set up the problem framework, formulate it as a multi-stage decision process, define cost functions and constraints focusing on the actual requirements a marine maneuver must comply with, and propose a solution algorithm leveraging parallel computing. Additionally, we present a greedy approximation to reduce algorithm complexity. We put the proposed algorithms to the test in realistic navigation scenarios and also develop an extensive test on a large set of randomly generated scenarios, comparing them with the RRT* algorithm using performance metrics proposed in the literature. The results show the potential benefits of an autonomous navigation or decision support framework.",
+      "citations": 14,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Mathematics (all)",
+              "percentile": 92,
+              "rank": 33,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 73,
+              "rank": 75,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Science (miscellaneous)",
+              "percentile": 67,
+              "rank": 56,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Mathematics (all)",
+              "percentile": 92,
+              "rank": 32,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 73,
+              "rank": 70,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Science (miscellaneous)",
+              "percentile": 65,
+              "rank": 56,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85210105149",
+      "title": "A structured metric approach to compare marine collision avoidance algorithms",
+      "doi": "10.24868/11143",
+      "venue": "Proceedings of the International Ship Control Systems Symposium",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "26318741",
+      "source_id": "21101052918",
+      "authors": "Zaccone R.; Donnarumma S.; Martelli M.",
+      "author_ids": "56717793100;55350308600;55521641400",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Zaccone R.",
+      "keywords": "Autonomous Navigation | COLREG | MASS | Path Planning | Simulation",
+      "abstract": "The rapid advancement of technologies enabling autonomous ship capabilities has outpaced the development of corresponding legislative and regulatory frameworks, creating a bottleneck in the global application of autonomous ships as defined by the four MASS degrees of autonomy. A significant issue is the absence of a well-defined process for certifying new algorithms and systems to be installed on board. Recently, a reliable, open-access structured set of scenarios, including several challenging COLREG encounter situations, has been published, intended for testing the numerous path-planning algorithms developed over the years. When connected to the testing framework, the modules must accomplish two primary tasks: determining the applicable COLREG rules (COLREG classification) and computing an evasive route. This paper focuses on defining an approach to evaluate the performance of collision avoidance algorithms through dedicated metrics. These metrics are formulated to quantitatively compare escape manoeuvres according to relevant performance indexes, helping a human-based compliance evaluation assess COLREG adherence. The operation of the comparison metrics is demonstrated by testing an existing collision avoidance algorithm developed by the authors. This demonstration underscores the effectiveness of the analyzed algorithms in efficiently managing the challenging scenarios proposed in the literature. Finally, the paper provides valuable suggestions for modifying and improving the testing scenarios to enhance the robustness of the comparison metrics.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 20,
+              "rank": 793,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 20,
+              "rank": 93,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 14,
+              "rank": 327,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 9,
+              "rank": 174,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 13,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 11,
+              "rank": 860,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 7,
+              "rank": 348,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 4,
+              "rank": 178,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85210076797",
+      "title": "Battery Energy Storage System Sizing Strategy for Naval Vessels through Multi-Objective Optimisation",
+      "doi": "10.24868/11140",
+      "venue": "Proceedings of the International Ship Control Systems Symposium",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "26318741",
+      "source_id": "21101052918",
+      "authors": "Belvisi D.; Maloberti L.; Zaccone R.; Figari M.",
+      "author_ids": "57893543900;57894265000;56717793100;6507282370",
+      "authorAffiliationIds": "131972382-127025955;131972382;131972382;131972382",
+      "corresponding": "Belvisi D.",
+      "keywords": "Battery Energy Storage System | Decarbonisation | Energy management | Genetic Algorithm | Hybrid Energy Systems | Load sharing | Naval ships | Optimisation",
+      "abstract": "Naval ship design must balance multiple conflicting requirements, including the need for fast response times and high speeds, often leading to large and complex hybrid propulsion systems. At the same time, the decarbonisation of ship operations and the shipping industry has become one of the most concerning topics for the maritime community. Even if the military sector has not been driven yet by this regulatory framework, decarbonisation is also becoming a hot topic for the navies. Additionally, short-term power loads encompass numerous demanding applications. The impact of this type of load on the performance of the shipboard power system influences power quality, and load levelling has been proven to be one of the critical power management strategies for new naval shipboard electric plants. Furthermore, decarbonisation and electric pulse management require pervasive automation systems to balance reduced crew sizes effectively. In recent years, Battery Energy Storage Systems (BESS) have emerged as effective tools for reducing green-house gas emissions, as well as for load levelling and peak shaving. These systems support power management strategies, addressing conflicting naval ship design requirements and optimising these critical concerns. BESS based hybrid propulsion is a promising solution for enhancing the energy efficiency of naval ships. It has been proven to be a reliable and flexible design option for improving the power quality of the electric grid. However, BESS requires space, weight tolerance, and cost expenditures to match all other military operational requirements in one convenient, optimal shipboard power plant. The paper outlines an optimisation-based approach to size a BESS-based hybrid propulsion architecture for naval ships, primarily focusing on reducing environmental foot print, increasing efficiency, and improving power grid reliability. The optimisation aims to minimise the ship exhaust emissions in terms of equivalent CO<inf>2</inf>. The frontline ship type case study has been analysed while ma noeuvring in restricted waters and deep seas in a given pseudo-random operating condition extracted from actual data, showing potential interest in a new, energy-efficient, and resilient solution. For comprehensive benchmarking, the case study has been further examined and discussed with different sizing configurations, and each case study has been ranked with a set of Key Performance Indicators (KPIs). The study shows that, despite the increasing size and weight of the BESS to reduce fuel consumption, analysing different solutions with a model-based strategy for the hybrid plant gives interesting trade-offs during the design phase while leaving space for new research directions.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 20,
+              "rank": 793,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 20,
+              "rank": 93,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 14,
+              "rank": 327,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 9,
+              "rank": 174,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 13,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 11,
+              "rank": 860,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 7,
+              "rank": 348,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 4,
+              "rank": 178,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85204515129",
+      "title": "Evaluating alternative fuels and power systems for marine hybrid propulsion",
+      "doi": "10.1201/9781003508779-5",
+      "venue": "Advances in Maritime Technology and Engineering Volume 2",
+      "type": "Book",
+      "sub_type": "Book Chapter",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "45-53",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101249110",
+      "authors": "Maloberti L.; Adami G.; Figari M.; Zaccone R.",
+      "author_ids": "57894265000;59091049700;6507282370;56717793100",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Maloberti L.",
+      "keywords": null,
+      "abstract": "The transportation sector significantly contributes to greenhouse gas (GHG) emissions; thus, its decarbonization has become one of the most pressing topics for the maritime community. This work proposes an optimization-based algorithm for minimizing a vessel’s greenhouse gas-polluting impact. The study aims to compare different propulsion plant layouts that combine alternative technologies in a hybrid propulsion system. The technologies considered are electric propulsion, hydrogen-fueled fuel cells, and methanol as an alternative marine fuel. The optimization aims to minimize the ship exhaust emissions of equivalent CO2 using a Well-to- Wake approach. The algorithm has been applied to a small ferry operating in a marine-protected area. The passage through an environmentally sensitive area has led to assessing local emissions of other pollutants such as SO x, NO x, and particulates. Dealing with innovative solutions, it proved appropriate to make a preliminary economic calculation estimating the annual costs of fuel based on current market prices.",
+      "citations": 5,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85200733361",
+      "title": "Ship Collision detection and classification employing AIS data",
+      "doi": null,
+      "venue": "Proceedings of the International Offshore and Polar Engineering Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": "1",
+      "issue_id": null,
+      "pages": "3359-3363",
+      "issn": "10986189",
+      "eIssn": "15551792",
+      "source_id": "77392",
+      "authors": "Martelli Michele; Žuškin Srdan; Cellerino Elena; Zaccone Raphael",
+      "author_ids": "55521641400;55808104300;59251623400;56717793100",
+      "authorAffiliationIds": "60025153;60271610;60025153;60025153",
+      "corresponding": "Martelli M.",
+      "keywords": "AIS data | Autonomous navigation | Collision avoidance | Collision risk | COLREG",
+      "abstract": "Currently, a dramatic evolution of the decision support systems for the maritime field is experienced by both academia and the major industrial stakeholders investing in researching new approaches to prevent a collision at sea. The primary motivation is to reduce the number of preventable accidents to safeguard life at sea and to preserve the fragile marine environment. For such a reason, the authors propose an approach to early detect the risk of collision at sea based on the AIS (Automatic Identification System) data in coastal areas. Although RADAR (RAdio Detection And Ranging) is primarily used for collision avoidance, this paper additionally suggests the use of AIS for the early detection of DSS (Decision Support System). AIS is selected among the available sources of information nowadays since it is widely used, as it is mandatory for commercial and navy ships and optional for other surface vehicles. In the last years, even if not required, more and more yachts, boats, and sailing boats have voluntarily installed AIS transmitters and/or receivers. The collision detection is formalised with simple but effective mathematical formulations and provides the primary navigational information and the expected COLREG (Collision Regulations) scenario. The approach is tested and quantitatively validated in batch mode, with field data also allowing for a qualitative analysis of the master's behaviour. Moreover, some statistics concerning the different scenario occurrences are reported to identify the most probable situations better. The results show that it is possible to detect the risk of collision automatically based on AIS data, even in closed range and even with GPS accuracy. The outcomes of the detection modules can be used as the input for collision avoidance path planning as a future step toward marine autonomous navigation.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 16,
+              "rank": 273,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 13,
+              "rank": 101,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 11,
+              "rank": 650,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 14,
+              "rank": 98,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 11,
+              "rank": 266,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 10,
+              "rank": 646,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85180840642",
+      "title": "Adversarial waypoint injection attacks on Maritime Autonomous Surface Ships (MASS) collision avoidance systems",
+      "doi": "10.1080/20464177.2023.2298521",
+      "venue": "Journal of Marine Engineering and Technology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "23",
+      "issue_id": "3",
+      "pages": "184-195",
+      "issn": "20464177",
+      "eIssn": "20568487",
+      "source_id": "21100470126",
+      "authors": "Longo G.; Martelli M.; Russo E.; Merlo A.; Zaccone R.",
+      "author_ids": "57468566600;55521641400;57197855120;15136674200;56717793100",
+      "authorAffiliationIds": "60121711;60025153;60121711;130638655;60025153",
+      "corresponding": "Longo G.",
+      "keywords": "Autonomous ship | collision avoidance | cyber security | data injection attack",
+      "abstract": "Autonomous navigation is currently subject to particular interest for naval and commercial vessels. In addition to the regulatory effort, several pieces of research tackled the development of new guidance laws, stable and robust control algorithms, methodologies to increase situational awareness, and collision avoidance algorithms. However, most of these systems blindly trust information from navigation sensors, which can malfunction or, even worse, have their data altered by cyber-attacks. This last scenario will be increasingly common shortly and represents a dangerous threat that future highly computerised ships must face. The proposed work shows an approach capable of hijacking a state-of-the-art collision avoidance algorithm route by feeding it with rogue data. The effects of such a cyber-attack are shown via an extensive simulation campaign, testing the methodology on three different COLREG scenarios: head-on, crossing, and overtaking. The study additionally highlights the susceptibility of forthcoming navigation systems to security breaches, which still needs to be addressed in the existing literature. According to the experimental findings, attackers can attract the autonomous ship guidance toward their objective at a mean distance of (Formula presented.). Finally, suggestions on how to harden these systems against this family of attacks are provided in the conclusion.",
+      "citations": 15,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 90,
+              "rank": 12,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 88,
+              "rank": 14,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85172656860",
+      "title": "Power plant design for all-electric ships considering the assessment of carbon intensity indicator",
+      "doi": "10.1016/j.energy.2023.129091",
+      "venue": "Energy",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "283",
+      "issue_id": null,
+      "pages": null,
+      "issn": "03605442",
+      "eIssn": null,
+      "source_id": "29348",
+      "authors": "Gallo Marco; Kaza Daniele; D'Agostino Fabio; Cavo Matteo; Zaccone Raphael; Silvestro Federico",
+      "author_ids": "58202074000;57218924925;56553864200;57226549739;56717793100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Gallo M.",
+      "keywords": "Battery energy storage system | Carbon intensity indicator | Hydrogen | Methanol | Ship",
+      "abstract": "The design and management of a ship power system determine the amount of CO<inf>2</inf> emitted during the ship operations. Recently, the International Maritime Organization has introduced the Carbon Intensity Indicator to limit the environmental impact of ships, pushing designers to define new solutions to reduce polluting emissions. The proposed methodology allows to estimate the environmental performances of a ship during the preliminary design phase, starting from the mission analysis. The tool simulates different power plant configurations, including diesel generators with different type of fuels, battery energy storage systems, fuel cells and hydrogen storage systems. Each source is modelled in the quasi-dynamic domain, where a set of selected state variables is taken into account. The load is derived from the ship mission profile through a stochastic process that considers the ship speed. Different power management strategies are tested to exploit the various resources while maximizing the operating condition requirements. A set of key performance indicators, such as the CO<inf>2</inf> emissions, the weight, and volume of the equipment, allows to compare the various power plant configurations so that the preliminary design solution can be identified.",
+      "citations": 14,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Modeling and Simulation",
+              "percentile": 99,
+              "rank": 4,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 98,
+              "rank": 7,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 97,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Building and Construction",
+              "percentile": 97,
+              "rank": 7,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Management, Monitoring, Policy and Law",
+              "percentile": 96,
+              "rank": 13,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 96,
+              "rank": 34,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 95,
+              "rank": 16,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Pollution",
+              "percentile": 94,
+              "rank": 10,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 94,
+              "rank": 23,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 93,
+              "rank": 10,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy (all)",
+              "percentile": 91,
+              "rank": 7,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 89,
+              "rank": 32,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Modeling and Simulation",
+              "percentile": 98,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 98,
+              "rank": 8,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Building and Construction",
+              "percentile": 97,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 97,
+              "rank": 18,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Management, Monitoring, Policy and Law",
+              "percentile": 96,
+              "rank": 13,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 95,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 94,
+              "rank": 20,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 94,
+              "rank": 15,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 94,
+              "rank": 8,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Pollution",
+              "percentile": 91,
+              "rank": 14,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 88,
+              "rank": 31,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy (all)",
+              "percentile": 86,
+              "rank": 10,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85163694623",
+      "title": "A COLREGs-Compliant Decision Support Tool to Prevent Collisions at Sea",
+      "doi": "10.12716/1001.17.02.11",
+      "venue": "Transnav",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "17",
+      "issue_id": "2",
+      "pages": "347-353",
+      "issn": "20836473",
+      "eIssn": "20836481",
+      "source_id": "21100914186",
+      "authors": "Martelli M.; Žuškin S.; Zaccone R.; Rudan I.",
+      "author_ids": "55521641400;55808104300;56717793100;7007138278",
+      "authorAffiliationIds": "60025153;60029546;60025153;60029546",
+      "corresponding": "Martelli M.",
+      "keywords": null,
+      "abstract": "Groundings and collisions still represent the highest percentage of marine accidents despite the current attention on Maritime Education and Training and the improvement of sensor capability. Most of the time, a collision is caused by a human error with consequences ranging from moderate to severe, with a substantial impact on both environment and life safeguarded at sea. In this paper, a brief statistical data regarding human element as a root cause of marine incidents together with collision regulations misunderstanding is presented as a background chapter. Furthermore, the present work discusses a decision support system architecture to suggest an appropriate action when the risk of a potential collision is detected. The proposed architecture system is based on various modules integrated with proper sensor input data regarding the surrounding navigation area. As a result, the tool can support the Officers of Watch in the decision‐making process providing an early suggestion in compliance with the COLlision REGulations. The proposed system is intended to be used onboard independently from the degree of automation of the ship, and it is based on AIS, which is mandatory, making it widely applicable. The proper use of the system can considerably reduce the number of collisions, as demonstrated by the obtained results.",
+      "citations": 9,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 35,
+              "rank": 75,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Oceanography",
+              "percentile": 34,
+              "rank": 100,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Transportation",
+              "percentile": 23,
+              "rank": 121,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 31,
+              "rank": 72,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Oceanography",
+              "percentile": 21,
+              "rank": 115,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Transportation",
+              "percentile": 20,
+              "rank": 112,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85179626443",
+      "title": "Interaction between COLREG-compliant collision avoidance systems in a multiple MASS scenario",
+      "doi": "10.1088/1742-6596/2618/1/012006",
+      "venue": "Journal of Physics Conference Series",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": "2618",
+      "issue_id": "1",
+      "pages": null,
+      "issn": "17426588",
+      "eIssn": "17426596",
+      "source_id": "130053",
+      "authors": "Zaccone R.; Martelli M.",
+      "author_ids": "56717793100;55521641400",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Zaccone R.",
+      "keywords": null,
+      "abstract": "The transportation systems are heading towards increasing autonomy in all domains, and the maritime field makes no exception. The International Maritime Organization has been working on releasing a regulatory framework for Maritime Autonomous Surface Ships (MASS) to keep pace with the technological developments in the field. Autonomous shipping forces the researcher and the designers to face a wide range of scientific challenges, such as navigation decision support systems, collision avoidance algorithms, path planning, navigation and control, sensor data processing and fusion, remote control, and communication, with the final intent of achieving a fully integrated and autonomous worldwide maritime transportation system, where a human-less collaborative conflict resolution could potentially retire the COLREGs. However, the maritime sector will first face a transition period where traditional ships will share the seas and interact with heterogeneous MASS with various autonomous capabilities featuring different and probably incompatible communication protocols. In such a scenario, the COLREGs will still play a primary role in helping the collision avoidance systems resolve conflicts and limiting the degrees of freedom. This paper aims to study the interaction among multiple vessels with autonomous collision avoidance capabilities operating in a close navigation scenario. The ships operate according to a COLREG-compliant collision avoidance algorithm. The paper relies on numerical simulation to systematically investigate different scenarios in which autonomous vessels operate and interact in the presence of fixed obstacles. Results are presented and critically discussed.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Physics and Astronomy (all)",
+              "percentile": 22,
+              "rank": 192,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Physics and Astronomy (all)",
+              "percentile": 25,
+              "rank": 182,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85179621934",
+      "title": "A multi-sensor indoor tracking system for autonomous marine model-scale vehicles",
+      "doi": "10.1088/1742-6596/2618/1/012008",
+      "venue": "Journal of Physics Conference Series",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": "2618",
+      "issue_id": "1",
+      "pages": null,
+      "issn": "17426588",
+      "eIssn": "17426596",
+      "source_id": "130053",
+      "authors": "Ponzini Filippo; Zaccone Raphael; Martelli Michele",
+      "author_ids": "58576469000;56717793100;55521641400",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Ponzini F.",
+      "keywords": null,
+      "abstract": "Attitude estimation is a popular topic in marine engineering and robotics; the position and orientation of a vehicle are required as feedback from several control algorithms to improve autonomous navigation capabilities, such as dynamic positioning, track keeping, and autodocking. Typically, position and heading angles are provided by the Global Positioning System and compass. Usually, during the development and testing, the experiments are performed in a controlled environment, such as an indoor test tank. However, Global Positioning System systems can be unreliable due to non-negligible model scale errors or the absence of line-of-sight with the satellites. This article presents an experimental tracking system setup suitable for indoor testing facilities. In particular, the paper presents a tracking system based on a GigE camera and ArUco markers detection and a LiDAR-based tracking system relying on unsupervised machine learning techniques. The MQTT broker-based publish/subscribe message-queuing protocol allows real-time data communication and sharing. The proposed system was developed, installed, and tested in the COMPASS laboratory (University of Genoa). The two tracking systems' outcomes have been compared. Eventually, an accuracy analysis was performed by comparing the results to the ground truth in purpose-built experiments. The proposed approach can estimate the degrees of freedom of a self-propelled model-scale vessel in an indoor testing facility without requiring active or powered markers and share the information acquired with multiple entities in real-time at a high frame rate.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Physics and Astronomy (all)",
+              "percentile": 22,
+              "rank": 192,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Physics and Astronomy (all)",
+              "percentile": 25,
+              "rank": 182,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85132664135",
+      "title": "An Innovative variable layout steam plant for waste heat recovery from marine dual-fuel engines",
+      "doi": "10.1080/17445302.2022.2061769",
+      "venue": "Ships and Offshore Structures",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "18",
+      "issue_id": "3",
+      "pages": "429-437",
+      "issn": "17445302",
+      "eIssn": null,
+      "source_id": "19700186818",
+      "authors": "Altosole Marco; Campora Ugo; Mocerino Luigia; Zaccone Raphael",
+      "author_ids": "13006187800;6508251998;57202288234;56717793100",
+      "authorAffiliationIds": "60017293;60025153;60017293;60025153",
+      "corresponding": "Altosole M.",
+      "keywords": "dual-fuel engine | Energy efficiency | heavy fuel oil | natural gas | variable layout | waste heat recovery",
+      "abstract": "The paper describes an original Waste Heat Recovery (WHR) variable layout plant to produce steam from the exhaustgases of marine dual-fuel engines. A large part of the steam feeds an electric turbogenerator to improve the ship's energy efficiency.The layout of the proposed steam plant is conceived in a double configuration to satisfy both the stack temperature constraints of theengine exhaust gas, due to the use of diesel oil (no less than 160°C as outlet gas temperature) or natural gas (there are no particularstack temperature limits). The comparison with a traditional WHR single pressure steam plant shows the potential benefits of thevariable configuration. Indeed, the proposed solution allows a better exploitation of the potential thermal energy of the natural gas,without precluding a proper performance even in diesel mode, with a moderate weight increase compared to a single pressure WHR system.",
+      "citations": 18,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 71,
+              "rank": 33,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 68,
+              "rank": 235,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 69,
+              "rank": 208,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 68,
+              "rank": 34,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85138215919",
+      "title": "A Zero-Emission Ferry for Inland Waterways",
+      "doi": "10.3233/PMST220021",
+      "venue": "Progress in Marine Science and Technology",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "6",
+      "issue_id": null,
+      "pages": "162-169",
+      "issn": "25430955",
+      "eIssn": "25430963",
+      "source_id": "21101107127",
+      "authors": "Maloberti Luca; Zaccone Raphael; Gualeni Paola; Mazzucchelli Paolo",
+      "author_ids": "57894265000;56717793100;15057843300;57893056300",
+      "authorAffiliationIds": "60025153;60025153;60025153;60082965",
+      "corresponding": "Maloberti L.",
+      "keywords": "Electric ferry | Electric propulsion | Energy storage systems | Green ship | Sustainability | Zero-emission ship",
+      "abstract": "Reducing the human environmental impact is one of the most critical issues nowadays: in this perspective, the progressive decommissioning of fossil fuels is a significant priority to guarantee a sustainable future for the next generations. This paper proposes a zero-emission ferry for inland waterways and short-sea navigation, focusing on realistic solutions to provide the best trade-off between operational performance and environmental sustainability. In particular, the object of this study is the refitting of a double-ended ferry working in the Lago Maggiore, one of the largest Italian lakes. Systems suitable for the purpose have been selected and integrated onboard to maximize efficiency, implementing full-electric propulsion with electric motors, a Li-ion battery storage system, and photo-voltaic panels. The benefits and drawbacks of the considered technologies have been evaluated to select the most promising design solution, focusing on both onboard and on-shore impact in terms of compatibility with the existing infrastructures and considering life-cycle sustainability.",
+      "citations": 8,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 22,
+              "rank": 200,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 15,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 13,
+              "rank": 640,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 9,
+              "rank": 91,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 7,
+              "rank": 178,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 4,
+              "rank": 600,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85138207713",
+      "title": "BESS-Based Hybrid Propulsion: An Application to a Front Line Naval Vessel Preliminary Design",
+      "doi": "10.3233/PMST220020",
+      "venue": "Progress in Marine Science and Technology",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "6",
+      "issue_id": null,
+      "pages": "154-161",
+      "issn": "25430955",
+      "eIssn": "25430963",
+      "source_id": "21101107127",
+      "authors": "Belvisi Daniele; Zaccone Raphael; Figari Massimo; Simone Sergio; Spanghero Bruno",
+      "author_ids": "57893543900;56717793100;6507282370;25646857800;57892810600",
+      "authorAffiliationIds": "127259049;60025153;60025153;127259049-60025153;60025153",
+      "corresponding": "Belvisi D.",
+      "keywords": "Backup power source | Battery Energy Storage System | DDX | Hybrid propulsion plant | Naval ship",
+      "abstract": "The paper conceives a flexible new generation naval ship Destroyer (DDX, Destroyer, Experimental) with a primary focus on low environmental footprint, high efficiency, and reliability. The ship implements an innovative propulsion power generation and storage system based on a CODOGOL (COmbined Diesel Or Gas Or eLectric) architecture and a Battery Energy Storage System (BESS). The proposed modular solution is also suitable for retrofitting applications and represents an innovation in the state of the art of hybrid propulsion systems for big, front-line naval ships. The shipboard BESS is used as a backup power source to ensure minimum generator operation (MGO) mode reliability requirements. The benefits of the proposed solution are discussed in detail, highlighting a reduction of the operating costs and fuel consumption, as well as low pollutant emissions and Life Cycle Costs. Eventually, dynamical simulation is used to assess the effectiveness of the proposed solution in critical conditions.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 22,
+              "rank": 200,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 15,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 13,
+              "rank": 640,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 9,
+              "rank": 91,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 7,
+              "rank": 178,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 4,
+              "rank": 600,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85187450570",
+      "title": "Collision-avoidance capabilities reduction after a cyber-attack to the navigation sensors",
+      "doi": "10.24868/10729",
+      "venue": "Proceedings of the International Ship Control Systems Symposium",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "26318741",
+      "source_id": "21101052918",
+      "authors": "Longo Giacomo; Martelli Michele; Russo Enrico; Zaccone Raphael",
+      "author_ids": "57468566600;55521641400;57197855120;56717793100",
+      "authorAffiliationIds": "60121711;60025153;60121711;60025153",
+      "corresponding": "Longo G.",
+      "keywords": "Autonomous Ship | Collision Avoidance | Cyber-attack | Cyber-range",
+      "abstract": "The interest in autonomous navigation for surface ships has arisen over the years for both naval vessels and commercial ships. In literature, several pieces of research addressed the challenges of developing new guidance laws, stable and robust control algorithms, methodologies to increase situational awareness, and collision avoidance algorithms. Current papers base their outcome on blind trust in the information coming from navigation sensors. However, sensors can be subjected to malfunctioning, or even worse, cyber-attackers may hijack their data. This last scenario will be more and more common in the near future and represents a dangerous threat that future generation ships must face. In this work, a grey-box approach has been used to predict the outcomes of a stateof-the-art collision avoidance algorithm. Based on that, the attack consists of injecting fictitious targets as the input of the collision avoidance to force the ship to follow a predetermined and malicious track. A set of dedicated simulations using a ship simulator is carried out, and the effects of such a cyber-attack on the automatic collision avoidance system are shown. Based on the obtained results, at the end of the paper, effects on the evasive route generations are analysed and deeply discussed.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 20,
+              "rank": 793,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 20,
+              "rank": 93,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 14,
+              "rank": 327,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 9,
+              "rank": 174,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85136216304",
+      "title": "A simulation based tool to assess the propulsion performance of modern conventional submarines",
+      "doi": "10.1109/SPEEDAM53979.2022.9842197",
+      "venue": "2022 International Symposium on Power Electronics Electrical Drives Automation and Motion Speedam 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": "628-633",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101101911",
+      "authors": "Zaccone Raphael; Figari Massimo; Martelli Michele",
+      "author_ids": "56717793100;6507282370;55521641400",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Zaccone R.",
+      "keywords": "Air independent propulsion | Dynamical simulation | Hybrid propulsion | Naval ships | Submarines",
+      "abstract": "The propulsion system of modern conventional submarines features multiple energy conversion and storage devices and users, which operate closely interconnected. The basic design and sizing of the components commonly rely on steady-state calculations, neglecting the interactions between the propulsion system components. An adequately tailored simulation-based approach is beneficial to ensure the design fulfills the operating requirements in the advanced design phases. Time-domain simulation provides information otherwise unavailable with standard design tools. Moreover, the decision-making process involved in modeling the system and developing the simulation tool shares several similarities with the actual design of the physical system. This paper proposes a simulation model of the propulsion system of a conventional submarine. The theoretical aspects, hypotheses, and simplifications are first discussed. The proposed approach is then applied to a case study to show the potential benefits arising from dynamic simulation when evaluating the performance of a conventional submarine unit.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85107834293",
+      "title": "Optimisation of a diesel-electric ship propulsion and power generation system using a genetic algorithm",
+      "doi": "10.3390/jmse9060587",
+      "venue": "Journal of Marine Science and Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "9",
+      "issue_id": "6",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20771312",
+      "source_id": "21100830140",
+      "authors": "Zaccone Raphael; Campora Ugo; Martelli Michele",
+      "author_ids": "56717793100;6508251998;55521641400",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Zaccone R.",
+      "keywords": "Electric propulsion | Energy efficiency | Genetic algorithm | Optimisation | Ship design | Ship propulsion",
+      "abstract": "In recent decades, the design of ship propulsion systems has been focusing on energy efficiency and low pollutant emissions. In this framework, diesel–electric propulsion has become a standard for many ship types and has proven its worth for flexible propulsion design and manage-ment. This paper presents an approach to the optimal design of diesel–electric propulsion systems, minimising the fuel consumption while meeting the power and speed requirements. A genetic algorithm performs the optimisation, used to determine the number and type of engines installed on-board and the engines’ design speed and power, selecting within a dataset of four-stroke diesel engines. The same algorithm is then adapted and applied to determine the optimal load sharing strategy in off-design conditions, taking advantage of the high flexibility of the diesel–electric propulsion plants. In order to apply the algorithm, the propulsion layout design is formulated as an optimisation problem, translating the system requirements into a cost function and a set of linear and non-linear constraints. Eventually, the method is applied to a case study vessel: first, the optimal diesel–electric propulsion plants are determined, then the optimal off-design load sharing and working conditions are computed. AC and DC network solutions are compared and critically discussed in both design and off-design conditions.",
+      "citations": 32,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 75,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 73,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 72,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 57,
+              "rank": 42,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 51,
+              "rank": 159,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 49,
+              "rank": 121,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85104866181",
+      "title": "COLREG-compliant optimal path planning for real-time guidance and control of autonomous ships",
+      "doi": "10.3390/jmse9040405",
+      "venue": "Journal of Marine Science and Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "9",
+      "issue_id": "4",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20771312",
+      "source_id": "21100830140",
+      "authors": "Zaccone Raphael",
+      "author_ids": "56717793100",
+      "authorAffiliationIds": "60025153",
+      "corresponding": "Zaccone R.",
+      "keywords": "Autonomous navigation | Autonomous ship | Collision avoidance | COLREG compliance | Guidance and control | Path optimisation | Path planning | RRT* | Ship simulation",
+      "abstract": "While collisions and groundings still represent the most important source of accidents involving ships, autonomous vessels are a central topic in current research. When dealing with autonomous ships, collision avoidance and compliance with COLREG regulations are major vital points. However, most state-of-the-art literature focuses on offline path optimisation while neglecting many crucial aspects of dealing with real-time applications on vessels. In the framework of the proposed motion-planning, navigation and control architecture, this paper mainly focused on optimal path planning for marine vessels in the perspective of real-time applications. An RRT*-based optimal path-planning algorithm was proposed, and collision avoidance, compliance with COLREG regulations, path feasibility and optimality were discussed in detail. The proposed approach was then implemented and integrated with a guidance and control system. Tests on a high-fidelity simulation platform were carried out to assess the potential benefits brought to autonomous navigation. The tests featured real-time simulation, restricted and open-water navigation and dynamic scenarios with both moving and fixed obstacles.",
+      "citations": 48,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 75,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 73,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 72,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 57,
+              "rank": 42,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 51,
+              "rank": 159,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 49,
+              "rank": 121,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85075005148",
+      "title": "A collision avoidance algorithm for ship guidance applications",
+      "doi": "10.1080/20464177.2019.1685836",
+      "venue": "Journal of Marine Engineering and Technology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "19",
+      "issue_id": "sup1",
+      "pages": "62-75",
+      "issn": "20464177",
+      "eIssn": "20568487",
+      "source_id": "21100470126",
+      "authors": "Zaccone Raphael; Martelli Michele",
+      "author_ids": "56717793100;55521641400",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Zaccone R.",
+      "keywords": null,
+      "abstract": "The paper presents a collision avoidance algorithm for ship open sea navigation, based on an ad hoc modified version of the Rapidly-exploring Random Tree (RRT*) algorithm. The proposed approach is designed to act as the high level layer of the navigation control structure for an autonomous ship. Collision and grounding still represent the primary source of sea accidents, thus an automatic system able to detect static and moving obstacles and plan an evasive route could significantly improve safety during navigation, especially in crowded areas. Focusing on the maritime field, a review of the scientific literature dealing with collision avoidance is presented, showing potential benefits and weaknesses of the different approaches. Among the several methods, details about the RRT and RRT* algorithms are given. The ship path planning problem is introduced and discussed, formulating suitable cost functions and taking into account both topological and kinematic constraints. The algorithm is able to manage multiple moving obstacles with variable speed and course. Eventually, a time-domain ship simulator is used to test the effectiveness of the proposed algorithm over a number of realistic operation scenarios. The obtained results are presented and critically discussed.",
+      "citations": 73,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 90,
+              "rank": 12,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 57,
+              "rank": 41,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85083715563",
+      "title": "Simulation of the Guidance and Control Systems for Underactuated Vessels",
+      "doi": "10.1007/978-3-030-43890-6_9",
+      "venue": "Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": "11995 LNCS",
+      "issue_id": null,
+      "pages": "108-119",
+      "issn": "03029743",
+      "eIssn": "16113349",
+      "source_id": "25674",
+      "authors": "Donnarumma Silvia; Figari Massimo; Martelli Michele; Zaccone Raphael",
+      "author_ids": "55350308600;6507282370;55521641400;56717793100",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Donnarumma S.",
+      "keywords": "Autonomous vessels | Collision avoidance | Simulation | Track keeping",
+      "abstract": "Intelligent and/or autonomous vehicle technologies are rapidly growing to meet the needs of marine safety and transport efficiency. One of the requirements to manage autonomous vehicles includes the integration between route planning and automatic motion control. In the authors’ opinion, the latter could be sketched in three different layers: obstacle detection, planning and actuation. Moreover, the three layers should be able to interact in real-time. Dealing with such a challenging task, one of the best techniques to develop and test the logic is the use of the time-domain simulation. In the present work, a simulation model, integrating a path planning algorithm in the presence of obstacles with a track keeping controller, is developed. The path planning is based on a modified version of the Rapidly-exploring Random Tree (RRT*) algorithm. The track keeping is based on the Line-of-Sight (LOS) waypoints navigation for underactuated vessels. To achieve more reliable results, a detailed ship simulation model is used as a benchmark. Different scenarios and navigation modes are successfully tested, and the results are presented and analysed.",
+      "citations": 16,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 48,
+              "rank": 70,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 46,
+              "rank": 129,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 50,
+              "rank": 113,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 24,
+              "rank": 91,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85081052990",
+      "title": "Sindbad: A new operational service for a safer leisure and boating navigation",
+      "doi": null,
+      "venue": "2019 Imeko Tc19 International Workshop on Metrology for the Sea Learning to Measure Sea Health Parameters Metrosea 2019",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": null,
+      "issue_id": null,
+      "pages": "140-144",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100987472",
+      "authors": "Ottaviani Ennio; Gjeci Nikolla; Novellino Antonio; D'Angelo Paolo; Alba Marco; Brotto Paolo; de Leo Francesco; Ferrari Francesco; Besio Giovanni; Mazzino Andrea; Figari Massimo; Zaccone Raphael; Corgnati Lorenzo; Mantovani Carlo; Berta Maristella; Magaldi Marcello",
+      "author_ids": "7102082014;57193198789;24824978500;55200977000;57215525705;24832695200;57195539800;57197319901;9844111300;7004593510;6507282370;56717793100;22233688900;56435978700;56037448800;8313492800",
+      "authorAffiliationIds": "122263467;122263467;115044877;115044877;115044877;60335511;;;;;116607080;116607080;60021199;60021199;60021199;60021199",
+      "corresponding": "Ottaviani E.",
+      "keywords": null,
+      "abstract": "The SINDBAD- Leisure and Boating Safety Navigation - project goal is the development of an advanced operational service to support navigation in a specific area. The first prototype covers the Ligurian Sea (a very busy touristic area in the North Mediterranean Sea) It develops an ICT Service Infrastructure to provide innovative intelligent automation functions and to develop customized services, accessible by your mobile device, for conducting a boat and avoiding any kind of risk ensuring the best degree of comfort.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85080963784",
+      "title": "Comparison of saturated and superheated steam plants for waste-heat recovery of dual-fuel marine engines",
+      "doi": "10.3390/en13040985",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "13",
+      "issue_id": "4",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Altosole Marco; Benvenuto Giovanni; Zaccone Raphael; Campora Ugo",
+      "author_ids": "13006187800;57197362695;56717793100;6508251998",
+      "authorAffiliationIds": "60017293;60025153;60025153;60025153",
+      "corresponding": "Altosole M.",
+      "keywords": "Combined-cycle power plants | Emission reduction | Heat-recovery systems | Marine propulsion plants",
+      "abstract": "From the working data of a dual-fuel marine engine, in this paper, we optimized and compared two waste-heat-recovery single-pressure steam plants-the first characterized by a saturated-steam Rankine cycle, the other by a superheated-steam cycle-using suitably developed simulation models. The objective was to improve the recovered heat from the considered engine, running with both heavy fuel oil and natural gas. The comparison was carried out on the basis of energetic and exergetic considerations, concerning various aspects such as the thermodynamic performance of the heat-recovery steam generator and the efficiency of the Rankine cycle and of the combined dual-fuel-engine-waste-heat-recovery plant. Other important issues were also considered in the comparison, particularly the dimensions and weights of the steam generator as a whole and of its components (economizer, evaporator, superheater) in relation to the exchanged thermal powers. We present the comparison results for different engine working conditions and fuel typology (heavy fuel oil or natural gas).",
+      "citations": 25,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 85,
+              "rank": 17,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 83,
+              "rank": 13,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 73,
+              "rank": 183,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 72,
+              "rank": 7,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 72,
+              "rank": 62,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 67,
+              "rank": 33,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 69,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85079226039",
+      "title": "Development of a navigation support system by means of a synthetic scenario",
+      "doi": null,
+      "venue": "Sustainable Development and Innovations in Marine Technologies Proceedings of the 18th International Congress of the International Maritime Association of the Mediterranean Imam 2019",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": null,
+      "issue_id": null,
+      "pages": "481-487",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100944631",
+      "authors": "Martelli M.; Faggioni N.; Zaccone R.",
+      "author_ids": "55521641400;57205353851;56717793100",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Martelli M.",
+      "keywords": null,
+      "abstract": "The main idea of this paper is to connect a synthetic scenario and a time domain ship dynamic simulator, in order to enhance the situational awareness of the bridge crew. The VR is used to represent the surrounding environment, and the Human-In-The-Loop (HITL) techniques permits the user to interact with the simulation. The combined use of a simulator and a synthetic scenario allows multiple choices, such as performing emergency or non-standard manoeuvres, receiving feedbacks and, in case, making the proper actions on the ship. In this paper, this approach is applied to develop a VR-based decision support system for collision avoidance, firstly implementing simple collision avoidance strategies and then elaborating the tool to visualise the information in a synthetic 3D scenario. At the end of the paper, results related to the described application are presented, and the benefits and the weakness of the proposed methodology are discussed.",
+      "citations": 8,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85060961016",
+      "title": "Deterioration effects on the performance of a steam plant for the waste heat recovery from a marine diesel engine",
+      "doi": "10.1080/17445302.2019.1573871",
+      "venue": "Ships and Offshore Structures",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "14",
+      "issue_id": "8",
+      "pages": "867-878",
+      "issn": "17445302",
+      "eIssn": null,
+      "source_id": "19700186818",
+      "authors": "Altosole Marco; Campora Ugo; Laviola Michele; Zaccone Raphael",
+      "author_ids": "13006187800;6508251998;56046632000;56717793100",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Altosole M.",
+      "keywords": "deterioration | Ship propulsion engine | simulation | steam | waste heat recovery",
+      "abstract": "The study aims to investigate the effects of the steam plant components deterioration in a marine Waste Heat Recovery (WHR) system. WHR technology can significantly improve the energy efficiency of merchant ships, because it allows to recover thermal energy from the exhaust gas of the main diesel engines, in order to produce electric energy through a steam turbo-generator. On the other hand, the complexity of the power plant is obviously increased together with its maintenance procedures. For this reason, it is essential to monitor and foresee, as far as possible, the health status of the steam plant components. Then the overall performance of the WHR system is numerically evaluated in design and off-design conditions, taking into account the effects of the increased back-pressure (due to the steam plant components degradation) on the diesel power plant efficiency. The obtained results are presented in graphical form and suitably discussed.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 71,
+              "rank": 33,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 68,
+              "rank": 235,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 71,
+              "rank": 26,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 67,
+              "rank": 192,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85071527416",
+      "title": "A colreg-compliant ship collision avoidance algorithm",
+      "doi": "10.23919/ECC.2019.8796207",
+      "venue": "2019 18th European Control Conference Ecc 2019",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": "2530-2535",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100926603",
+      "authors": "Zaccone Raphael; Martelli Michele; Figari Massimo",
+      "author_ids": "56717793100;55521641400;6507282370",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Zaccone R.",
+      "keywords": "Autonomous Ship | Collision Avoidance | COLREGs | Path Planning | RRT | Ship Simulator",
+      "abstract": "The compliance with the navigation rules plays a primary role in the development of routing algorithms to be applied in autonomous navigation. For such a reason this paper presents the mathematical formulations necessary to implement the Collision Regulations (COLREGs) within a previously developed ship path planning algorithm. The proposed approach is designed to be part of a decision support system for the bridge operators, in order to enhance traditional navigation; or, looking forward, to be part of the autonomous ship guidance system. Unlike other approaches that can be found in the scientific literature, the proposed work relies on the algebra of vectors, in order to describe the different scenarios as provided for in the COLREGs. The formulations to handle: head-on, crossing and overtaking, are formalized, described in detail and discussed. Eventually, some test cases are presented to show the effectiveness of the implementation of the proposed modeling into a Rapidly-exploring Random Tree (RRT∗) algorithm. A simplified ship simulator is embedded in the algorithm to generate feasible solutions, taking into account the ship's manoeuvring capability.",
+      "citations": 51,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85075642574",
+      "title": "Simulation techniques for design and control of a waste heat recovery system in marine natural gas propulsion applications",
+      "doi": "10.3390/jmse7110397",
+      "venue": "Journal of Marine Science and Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "7",
+      "issue_id": "11",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20771312",
+      "source_id": "21100830140",
+      "authors": "Altosole Marco; Campora Ugo; Donnarumma Silvia; Zaccone Raphael",
+      "author_ids": "13006187800;6508251998;55350308600;56717793100",
+      "authorAffiliationIds": "60017293;60025153;60025153;60025153",
+      "corresponding": "Altosole M.",
+      "keywords": "Control | Natural gas | Power grid dynamics | Ship energy efficiency | Steam turbine | Waste heat recovery",
+      "abstract": "Waste Heat Recovery (WHR) marine systems represent a valid solution for the ship energy efficiency improvement, especially in Liquefied Natural Gas (LNG) propulsion applications. Compared to traditional diesel fuel oil, a better thermal power can be recovered from the exhaust gas produced by a LNG-fueled engine. Therefore, steam surplus production may be used to feed a turbogenerator in order to increase the ship electric energy availability without additional fuel consumption. However, a correct design procedure of the WHR steam plant is fundamental for proper feasibility analysis, and from this point of view, numerical simulation techniques can be a very powerful tool. In this work, the WHR steam plant modeling is presented paying attention to the simulation approach developed for the steam turbine and its governor dynamics. Starting from a nonlinear system representing the whole dynamic behavior, the turbogenerator model is linearized to carry out a proper synthesis analysis of the controller, in order to comply with specific performance requirements of the power grid. For the considered case study, simulation results confirm the validity of the developed approach, aimed to test the correct design of the whole system in proper working dynamic conditions.",
+      "citations": 22,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 75,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 73,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 72,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 53,
+              "rank": 43,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 46,
+              "rank": 165,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 46,
+              "rank": 117,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85044978730",
+      "title": "Marine gas turbine monitoring and diagnostics by simulation and pattern recognition",
+      "doi": "10.1016/j.ijnaoe.2017.09.012",
+      "venue": "International Journal of Naval Architecture and Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "10",
+      "issue_id": "5",
+      "pages": "617-628",
+      "issn": "20926782",
+      "eIssn": "20926790",
+      "source_id": "21100197706",
+      "authors": "Campora Ugo; Cravero Carlo; Zaccone Raphael",
+      "author_ids": "6508251998;56024477100;56717793100",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Campora U.",
+      "keywords": "Artificial neural networks | Gas turbines | Monitoring and diagnostics | Ship propulsion | Ship simulation",
+      "abstract": "Several techniques have been developed in the last years for energy conversion and aeronautic propulsion plants monitoring and diagnostics, to ensure non-stop availability and safety, mainly based on machine learning and pattern recognition methods, which need large databases of measures. This paper aims to describe a simulation based monitoring and diagnostic method to overcome the lack of data. An application on a gas turbine powered frigate is shown. A MATLAB-SIMULINK® model of the frigate propulsion system has been used to generate a database of different faulty conditions of the plant. A monitoring and diagnostic system, based on Mahalanobis distance and artificial neural networks have been developed. Experimental data measured during the sea trials have been used for model calibration and validation. Test runs of the procedure have been carried out in a number of simulated degradation cases: in all the considered cases, malfunctions have been successfully detected by the developed model.",
+      "citations": 35,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 84,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 79,
+              "rank": 80,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 70,
+              "rank": 28,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 57,
+              "rank": 103,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85044324922",
+      "title": "Ship voyage optimization for safe and energy-efficient navigation: A dynamic programming approach",
+      "doi": "10.1016/j.oceaneng.2018.01.100",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "153",
+      "issue_id": null,
+      "pages": "215-224",
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Zaccone R.; Ottaviani E.; Figari M.; Altosole M.",
+      "author_ids": "56717793100;7102082014;6507282370;13006187800",
+      "authorAffiliationIds": "60025153;122263467;60025153;60025153",
+      "corresponding": "Zaccone R.",
+      "keywords": "Dynamic programming | Ship motions | Ship propulsion | Ship voyage optimization | Weather routing",
+      "abstract": "The paper presents a 3D dynamic programming based ship voyage optimization method, aiming to select the optimal path and speed profile for a ship voyage on the basis of weather forecast maps. The optimization is performed in accordance to a minimum fuel consumption strategy taking also into account ship motions and comfort. The optimization is carried out in a discretized space-time domain: the ship voyage is parametrized as a multi-stage decision process in order to formulate a dynamic programming optimization problem. Waves and wind conditions are estimated for each route segment by weather forecasting maps then seakeeping related indexes and fuel oil consumption are computed taking into account wave-induced ship motions and added resistance. The best routing solution is thus selected by a dynamic programming algorithm developed and implemented by the authors. Results and discussion of the proposed method are presented for a merchant ship application in a test case voyage through the Northern Atlantic Ocean and compared to the constant speed great circle solution.",
+      "citations": 168,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 86,
+              "rank": 13,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 77,
+              "rank": 29,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85087641579",
+      "title": "High efficiency waste heat recovery from dual fuel marine engines",
+      "doi": "10.3233/978-1-61499-870-9-21",
+      "venue": "Technology and Science for the Ships of the Future Proceedings of Nav 2018 19th International Conference on Ship and Maritime Research",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": null,
+      "issue_id": null,
+      "pages": "21-28",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101023871",
+      "authors": "Altosole Marco; Campora Ugo; Laviola Michele; Zaccone Raphael",
+      "author_ids": "13006187800;6508251998;56046632000;56717793100",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Altosole M.",
+      "keywords": "Dual fuel engine | Natural gas fuel | Ship power plant efficiency | Waste heat recovery",
+      "abstract": "The paper presents an original variable layout steam plant for the Waste Heat Recovery (WHR-VL) from marine dual fuel (DF) engines, designed considering the different exhaust gas stack temperature limits, depending on the engine fuel type: generally no less than 160 C for diesel oil and without limits for natural gas (NG). Using diesel oil, a single pressure superheated steam plant configuration is adopted, while a dual pressure system is proposed for the NG fuel mode of the engine. In both WHR-VL plant layouts, the produced steam is mainly delivered to a steam turbine for the ship electric energy production, while a smaller amount meets the ship thermal loads. Starting from data of a marine four stroke DF engine, the WHR-VL steam plant components are sized and optimized through a mathematical code, according to a numerical procedure described in the paper. The WHR-VL plant data and performance, for different engine fuel modes and loads, are compared with those of a more traditional WHR single pressure steam plant, developed and optimized for the waste heat recovery of the same dual fuel engine.",
+      "citations": 5,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85079251106",
+      "title": "A random sampling based algorithm for ship path planning with obstacles",
+      "doi": "10.24868/issn.2631-8741.2018.018",
+      "venue": "Proceedings of the International Ship Control Systems Symposium",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": "1",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "26318741",
+      "source_id": "21101052918",
+      "authors": "Zaccone R.; Martelli M.",
+      "author_ids": "56717793100;55521641400",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Zaccone R.",
+      "keywords": "Collision Avoidance | Path Planning | RRT* | Ship Simulator",
+      "abstract": "The paper presents a path planning algorithm for ship guidance in presence of obstacles, based on an ad hoc modified version of the Rapidly-exploring Random Tree (RRT*) algorithm. The proposed approach is designed to be part of a decision support system for the bridge operators, in order to enhance traditional navigation. Focusing on the maritime field, a review of the scientific literature dealing with motion planning is presented, showing potential benefits and weaknesses of the different approaches. Among the several methods, details on RRT and RRT* algorithms are given. The ship path planning problem is introduced and discussed, formulating suitable cost functions and taking into account both topological and kinematic constraints. Eventually, an existing time domain ship simulator is used to test the effectiveness of the proposed algorithm over a number of realistic operation scenarios. The obtained results are presented and critically discussed.",
+      "citations": 24,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 20,
+              "rank": 793,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 20,
+              "rank": 93,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 14,
+              "rank": 327,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 9,
+              "rank": 174,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85053479460",
+      "title": "An optimization tool for ship route planning in real weather scenarios",
+      "doi": null,
+      "venue": "Proceedings of the International Offshore and Polar Engineering Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": "2018-June",
+      "issue_id": null,
+      "pages": "738-744",
+      "issn": "10986189",
+      "eIssn": "15551792",
+      "source_id": "77392",
+      "authors": "Zaccone Raphael; Figari Massimo; Martelli Michele",
+      "author_ids": "56717793100;6507282370;55521641400",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Zaccone R.",
+      "keywords": "Dynamic programming | Ship propulsion | Ship simulation | Voyage optimization | Weather routing",
+      "abstract": "Rough weather conditions can significantly affect the ship's operational capabilities, in terms of energy efficiency, safety, and comfort on board. With the aim to improve both the ship energy efficiency and the operability, the authors developed a voyage optimization methodology based on real weather forecast maps. This paper presents an overview of the different aspects of the voyage optimization, focusing on the operational implications of the developed method. The routing problem is parameterized in a discrete space-time domain, and the minimum fuel consumption routing solution is selected by means of a dynamic programming optimization algorithm, in compliance with the existing geographical, propulsive and operability constraints. Ship seakeeping and propulsion system is modelled to realistically estimate the propulsion performances and fuel consumption, as well as a number of ship motions-related operability indices, associated with a given sea state and wind condition. Eventually, a case study is shown, and a number of simulations in different operating scenarios are critically discussed.",
+      "citations": 16,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 16,
+              "rank": 273,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 13,
+              "rank": 101,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 11,
+              "rank": 650,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 31,
+              "rank": 64,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 28,
+              "rank": 146,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 24,
+              "rank": 442,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85019244984",
+      "title": "Simulation and performance comparison between diesel and natural gas engines for marine applications",
+      "doi": "10.1177/1475090217690964",
+      "venue": "Proceedings of the Institution of Mechanical Engineers Part M Journal of Engineering for the Maritime Environment",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2017,
+      "volume": "231",
+      "issue_id": "2",
+      "pages": "690-704",
+      "issn": "14750902",
+      "eIssn": "20413084",
+      "source_id": "25596",
+      "authors": "Altosole Marco; Benvenuto Giovanni; Campora Ugo; Laviola Michele; Zaccone Raphael",
+      "author_ids": "13006187800;57197362695;6508251998;56046632000;56717793100",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Altosole M.",
+      "keywords": "diesel oil | efficiency | Marine engines | natural gas | pollutant emissions | simulation",
+      "abstract": "The article shows the performance comparison between two marine engines, fuelled by natural gas and diesel oil, respectively, both belonging to the 'Bergen' engine series of Rolls-Royce Marine, suitable as prime movers for ship propulsion. Two different simulation codes, one for each engine, validated by means of geometrical and performance data provided by the manufacturer, have been developed to extend the comparison to the whole working area of the examined engines. Although the maximum continuous power is very similar (about 2 MW at the same rotational speed), some differences exist in size, efficiency and pollutant emissions of the two types of engines. The reasons are investigated through a specific thermodynamic analysis, aimed to explain such differences, in terms of efficiency and emissions (particularly carbon dioxide), when varying the working conditions. The analysis is carried out by comparing the respective real cycles, at the same working condition, and repeating the comparison for different engine delivered powers and rotational speeds. In addition, a study of the different modes of combustion is developed to explain the major differences found in the emissions of nitrogen oxides.",
+      "citations": 56,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 68,
+              "rank": 37,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 66,
+              "rank": 249,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 72,
+              "rank": 157,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 71,
+              "rank": 27,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85044463408",
+      "title": "Energy efficient ship voyage planning by 3D dynamic programming",
+      "doi": null,
+      "venue": "Journal of Ocean Technology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2017,
+      "volume": "12",
+      "issue_id": "4",
+      "pages": "49-71",
+      "issn": "17183200",
+      "eIssn": null,
+      "source_id": "19700173242",
+      "authors": "Zaccone Raphael; Figari Massimo",
+      "author_ids": "56717793100;6507282370",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Zaccone R.",
+      "keywords": "Dynamic programming | Ship propulsion | Ship simulation | Voyage optimization | Weather routing",
+      "abstract": "Energy efficiency is a crucial issue in ship management and operation. A proper fuel saving oriented routing strategy can be helpful in reducing running costs and pollutant emissions, as well as increasing the voyage safety and comfort. This paper presents a methodology for ship voyage planning based on 3D dynamic programming. It aims to select the optimum courses and related speed profile for a ship voyage in accordance to a minimum fuel consumption strategy, on the basis of the ship response to wave and wind conditions inferred from weather forecast maps. The ship voyage is parametrized as a multi-stage decision process where the fuel optimization is carried out in a discretized space-time domain and the optimal solution, in relation to the arrival time requirements and motion related constraints, is found by a dynamic programming algorithm which has been developed and implemented by the authors. Simulation trials for a merchant ship sailing different typical routes in the Mediterranean Sea, in a wide range of weather conditions and using high quality weather forecast maps, are presented and discussed. With respect to previous authors’ publications, the presented methodology shows the high potential benefit of detailed weather forecast maps as well as the innovative use of a minimum distance algorithm.",
+      "citations": 26,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 15,
+              "rank": 98,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 30,
+              "rank": 65,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85056796502",
+      "title": "Waste heat recovery from dual-fuel marine engines",
+      "doi": null,
+      "venue": "Maritime Transportation and Harvesting of Sea Resources",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": "1",
+      "issue_id": null,
+      "pages": "79-86",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100886381",
+      "authors": "Altosole M.; Laviola M.; Zaccone R.; Campora U.",
+      "author_ids": "13006187800;56046632000;56717793100;6508251998",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Altosole M.",
+      "keywords": null,
+      "abstract": "A steam plant layout for the Waste Heat Recovery (WHR) of a marine four-stroke Dual Fuel (DF) engine is analysed by numerical simulation. The different values of exhaust gas mass flow and temperature between the two fuel modes involve different Rankine cycle thermodynamic characteristics, and therefore different heat exchangers sizes in order to obtain the greater waste heath recovery from the engine in both its operating modes. The two developed WHR solutions, optimized for each fuel type, are compared for the normal working conditions of the engine. In particular, the comparison is focused on the maximum plant efficiency and on the size and weight of the Heat Recovery Steam Generator (HRSG) components. Finally the best WHR compromise solution is indicated and tested for different load conditions and fuel types of the considered DF engine.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85016993966",
+      "title": "Comparison of a natural gas engine with a diesel engine for marine propulsion",
+      "doi": "10.1201/b21890-94",
+      "venue": "Proceedings of 3rd International Conference on Maritime Technology and Engineering Martech 2016",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "725-734",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100804421",
+      "authors": "Benvenuto G.; Laviola M.; Zaccone R.; Campora U.",
+      "author_ids": "57197362695;56046632000;56717793100;6508251998",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Benvenuto G.",
+      "keywords": null,
+      "abstract": "The paper reports a comparison, obtained by numerical simulation, between a natural gas sparkignition engine and a liquid fuel compression-ignition engine, both belonging to the \"Bergen\" engine series of Rolls-Royce Marine, suitable as prime movers for ship propulsion. The delivered power of both supercharged engines is very similar (about 2 MW) at the same rotational speed.Two thermodynamic simulation codes, one for each engine, have been developed and validated by means of geometrical and performance data provided by the manufacturer. The analysis is carried out by comparing the respective real cycles, at the same working condition, and repeating the comparison for different engine delivered powers and rotational speeds. The comparison, extended to the whole working range of the engines, concerns mainly the following aspects: dimension and weight, overall efficiency, pollutant emissions. A specific thermodynamic analysis is developed to explain the differences between the two types of engines, in terms of efficiency and emissions.",
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85016971136",
+      "title": "An overall comparison between natural gas spark ignition and compression ignition engines for a ro-pax propulsion plant",
+      "doi": "10.1201/b21890-95",
+      "venue": "Proceedings of 3rd International Conference on Maritime Technology and Engineering Martech 2016",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "735-744",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100804421",
+      "authors": "Campora U.; Laviola M.; Zaccone R.",
+      "author_ids": "6508251998;56046632000;56717793100",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Campora U.",
+      "keywords": null,
+      "abstract": "The paper presents a study concerning the repowering of an existing ro-pax operating across the Strait of Messina (Italy). Considering the short ferry routes (about 4 km) and the ship operating profile (24 hours/day of continuative operation), two different solutions are compared for the renewed propulsion engine system: traditional diesel four stroke engines (DE) and natural gas (NG) fueled marine engines. This second alternative is considered due to the better performance in terms of pollutant emissions and efficiency, if compared to DE of the same power and rotational speed, as verified by the authors in a recent paper. The different engines fuel types require different solutions for the fuel storage and handling that involve significant differences in the engine room layout, vessel structures, general arrangements, load capacity and ship stability. In the paper, all these subjects are analyzed for the considered propulsion power solutions, including also other important aspects as fuel, machinery and maintenance costs.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85016832399",
+      "title": "Fuel saving-oriented 3D dynamic programming for weather routing applications",
+      "doi": "10.1201/b21890-26",
+      "venue": "Proceedings of 3rd International Conference on Maritime Technology and Engineering Martech 2016",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": "1",
+      "issue_id": null,
+      "pages": "183-192",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100804421",
+      "authors": "Zaccone R.; Figari M.; Altosole M.; Ottaviani E.",
+      "author_ids": "56717793100;6507282370;13006187800;7102082014",
+      "authorAffiliationIds": "60025153;60025153;60025153;122263467",
+      "corresponding": "Zaccone R.",
+      "keywords": null,
+      "abstract": "The paper presents a ship weather routing method to minimize fuel consumption starting from meteo-marine forecasting data. For each route segment, fuel oil consumption is evaluated by a steady state model of the propulsion system, taking into account the weather conditions influence on the hull hydrodynamic resistance.Waves and wind data are estimated for each geographical position at every time step, by interpolating into 3-dimensional (i.e. latitude, longitude and time) weather forecasting maps. A 3D dynamic programming code is used to optimize ship route and speed profile, according to minimum fuel consumption criterion. Results and discussion of the proposed method are presented for a merchant ship application.",
+      "citations": 9,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84936857722",
+      "title": "Metamodels of a gas turbine powered marine propulsion system for simulation and diagnostic purposes",
+      "doi": "10.3329/jname.v12i1.19719",
+      "venue": "Journal of Naval Architecture and Marine Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2015,
+      "volume": "12",
+      "issue_id": "1",
+      "pages": "1-14",
+      "issn": "18138535",
+      "eIssn": "20708998",
+      "source_id": "21100244649",
+      "authors": "Campora U.; Capelli M.; Cravero C.; Zaccone R.",
+      "author_ids": "6508251998;56717382800;56024477100;56717793100",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Campora U.",
+      "keywords": "Artificial neural networks | Diagnostics | Monitoring | Ship propulsion | Simulation",
+      "abstract": "The paper presents the application of artificial neural network for simulation and diagnostic purposes applied to a gas turbine powered marine propulsion plant. A simulation code for the propulsion system, developed by the authors, has been extended to take into account components degradation or malfunctioning with the addition of performance reduction coefficients. The above coefficients become input variables to the analysis method and define the system status at a given operating point. The simulator is used to generate databases needed to perform a variable selection analysis and to tune response surfaces for both direct (simulation) and inverse (diagnostic) purposes: two ANN are trained to reply simulator behavior in steady state conditions with considerably reduced calculation time (direct ANN), and to invert simulator inputs and outputs in order to obtain information on the system health state starting from measured variables (diagnostic ANN). The application of the methodology to the propulsion system of an existing frigate version demonstrate the potential of the approach for simulation and diagnostics: the simulation model behavior is replied with acceptable errors, while the health state of the propulsion system is successfully identified from the selected state variables by properly trained artificial neural networks.",
+      "citations": 10,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 28,
+              "rank": 83,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2015,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 35,
+              "rank": 58,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85054345750",
+      "title": "Diesel engine and propulsion diagnostics of a mini-cruise ship by using artificial neural networks",
+      "doi": "10.1201/b18855",
+      "venue": "Towards Green Marine Technology and Transport",
+      "type": "Book",
+      "sub_type": "Book Chapter",
+      "year": 2015,
+      "volume": null,
+      "issue_id": null,
+      "pages": "593-602",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100879745",
+      "authors": "Zaccone R.; Altosole M.; Figari M.; Campora U.",
+      "author_ids": "56717793100;13006187800;6507282370;6508251998",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Zaccone R.",
+      "keywords": null,
+      "abstract": "The paper presents the application of Artificial Neural Networks (ANN)-based techniques for diagnostic purposes to a diesel engine powered mini cruise ship. A simulation model of the propulsion plant is developed in order to take into account the effect of the hull fouling and engine components degradation. The effects of weather conditions and trim changes on the hull resistance are also considered: proper formulations are implemented and experimental results, derived from towing tank trials, are adopted. The model is used to generate data in order to train a feed-forward back-propagation ANN for hull and propulsion plant diagnostics: the best set of variables to identify the health status of the plant is selected, then a ANN is trained to provide diagnostic indicators for the main plant components. Training, test and validation errors are presented, and some practical examples are described.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85012905301",
+      "title": "Comparison of waste heat recovery systems for the refitting of a cruise ferry",
+      "doi": null,
+      "venue": "18th International Conference on Ships and Shipping Research Nav 2015",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2015,
+      "volume": null,
+      "issue_id": null,
+      "pages": "404-415",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100795196",
+      "authors": "Benvenuto Giovanni; Campora Ugo; Laviola Michele; Zaccone Raphael",
+      "author_ids": "57197362695;6508251998;56046632000;56717793100",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Benvenuto G.",
+      "keywords": null,
+      "abstract": "During recent research activities carried out also in collaboration with leading industries, the authors have developed design and simulation models for the recovery of the exhaust thermal energy released from diesel engines. This previous experience is applied, in this paper, to an existing cruise ferry, whose propulsion system consists of two controllable pitch propellers driven, each one, by a couple of four stroke diesel engines. Starting from the available data on the current board systems, a proposal of refitting is presented, based on the comparison of six different waste heat recovery (WHR) plant solutions, optimized in relation to the peculiar requirements of the ship. The steam produced by the heat recovery steam generator (HRSG) can be used, depending on the selected configuration, to meet the on board steam needs and/or to contribute to the production of electric energy. The comparison of the proposed solutions, between them and with the simple originally available on board, is carried out taking into account not only the amount of thermal energy recovered and the consequent fuel saving, but also some other important aspects such as the sizes and weights of the WHR plant components and the related problems of installation on board.",
+      "citations": 5,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84959545496",
+      "title": "Diesel engine and propulsion diagnostics of a mini-cruise ship by using artificial neural networks",
+      "doi": "10.1201/b18855-78",
+      "venue": "Towards Green Marine Technology and Transport Proceedings of the 16th International Congress of the International Maritime Association of the Mediterranean Imam 2015",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2015,
+      "volume": null,
+      "issue_id": null,
+      "pages": "593-602",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100448534",
+      "authors": "Zaccone R.; Altosole M.; Figari M.; Campora U.",
+      "author_ids": "56717793100;13006187800;6507282370;6508251998",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Zaccone R.",
+      "keywords": null,
+      "abstract": "The paper presents the application of Artificial Neural Networks (ANN)—based techniques for diagnostic purposes to a diesel engine powered mini cruise ship. A simulation model of the propulsion plant is developed in order to take into account the effect of the hull fouling and engine components degradation. The effects of weather conditions and trim changes on the hull resistance are also considered: proper formulations are implemented and experimental results, derived from towing tank trials, are adopted. The model is used to generate data in order to train a feed-forward back-propagation ANN for hull and propulsion plant diagnostics: the best set of variables to identify the health status of the plant is selected, then a ANN is trained to provide diagnostic indicators for the main plant components. Training, test and validation errors are presented, and some practical examples are described.",
+      "citations": 9,
+      "quartile": null
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1245616",
+      "authors": "Ponzini, F.; Zaccone, R.; Martelli, M.",
+      "legacy_id": 636446,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "LiDAR target detection and classification for ship situational awareness: A hybrid learning approach",
+      "scopus_id": "2-s2.0-105002009151",
+      "doi": "10.1016/j.apor.2025.104552",
+      "isi_id": "WOS:001467076500001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1237176",
+      "authors": "Maloberti, L.; Zaccone, R.; De Gaetano, J.; Campora, U.",
+      "legacy_id": 625014,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "A comparison among innovative hybrid propulsion systems to reduce the environmental impact of a small passenger ship",
+      "scopus_id": "2-s2.0-85216223286",
+      "doi": "10.1016/j.seta.2025.104194",
+      "isi_id": "WOS:001421881100001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1234935",
+      "authors": "Maloberti, L.; Zaccone, R.",
+      "legacy_id": 621747,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "An environmentally sustainable energy management strategy for marine hybrid propulsion",
+      "scopus_id": "2-s2.0-85215382933",
+      "doi": "10.1016/j.energy.2025.134517",
+      "isi_id": "WOS:001406847000001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "6",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1244057",
+      "authors": "Basciu, F.; Casali, G.; Maloberti, L.; Pais, T.; Vergassola, G.; Zaccone, R.",
+      "legacy_id": 634480,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Sustainable yacht refits: Structural solutions in methanol-powered conversion",
+      "scopus_id": "2-s2.0-85217922661",
+      "doi": "10.1016/j.oceaneng.2025.120618",
+      "isi_id": "WOS:001428729900001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1175575",
+      "authors": "Longo, G.; Martelli, M.; Russo, E.; Merlo, A.; Zaccone, R.",
+      "legacy_id": 548446,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Adversarial waypoint injection attacks on Maritime Autonomous Surface Ships (MASS) collision avoidance systems",
+      "scopus_id": "2-s2.0-85180840642",
+      "doi": "10.1080/20464177.2023.2298521",
+      "isi_id": "WOS:001132187300001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "14",
+      "citations_scopus": "15"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1179535",
+      "authors": "Zaccone, Raphael",
+      "legacy_id": 553566,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "A Dynamic Programming Approach to the Collision Avoidance of Autonomous Ships",
+      "scopus_id": "2-s2.0-85194067117",
+      "doi": "10.3390/math12101546",
+      "isi_id": "WOS:001231605200001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "9",
+      "citations_scopus": "14"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1234955",
+      "authors": "Zaccone, R.; Donnarumma, S.; Martelli, M.",
+      "legacy_id": 621767,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "A structured metric approach to compare marine collision avoidance algorithms",
+      "scopus_id": "2-s2.0-85210105149",
+      "doi": "10.24868/11143",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1237177",
+      "authors": "Belvisi, D.; Maloberti, L.; Zaccone, R.; Figari, M.",
+      "legacy_id": 625015,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Battery Energy Storage System Sizing Strategy for Naval Vessels through Multi-Objective Optimisation",
+      "scopus_id": "2-s2.0-85210076797",
+      "doi": "10.24868/11140",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1258896",
+      "authors": "Martelli, M.; Zuskin, S.; Cellerino, E.; Zaccone, R.",
+      "legacy_id": 653355,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Ship Collision detection and classification employing AIS data",
+      "scopus_id": "2-s2.0-85200733361",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1212706",
+      "authors": "Maloberti, L.; Adami, G.; Figari, M.; Zaccone, R.",
+      "legacy_id": 589727,
+      "year": 2024,
+      "miur_type": "268",
+      "title": "Evaluating alternative fuels and power systems for marine hybrid propulsion",
+      "scopus_id": "2-s2.0-85204515129",
+      "doi": "10.1201/9781003508779-5",
+      "isi_id": "WOS:001524172500005",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_isi": "3",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1179496",
+      "authors": "Zaccone, R; Martelli, M",
+      "legacy_id": 553547,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Interaction between COLREG-compliant collision avoidance systems in a multiple MASS scenario",
+      "scopus_id": "2-s2.0-85179626443",
+      "doi": "10.1088/1742-6596/2618/1/012006",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1156169",
+      "authors": "Gallo, M.; Kaza, D.; D'Agostino, F.; Cavo, M.; Zaccone, R.; Silvestro, F.",
+      "legacy_id": 521100,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Power plant design for all-electric ships considering the assessment of carbon intensity indicator",
+      "scopus_id": "2-s2.0-85172656860",
+      "doi": "10.1016/j.energy.2023.129091",
+      "isi_id": "WOS:001088942300001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "13",
+      "citations_scopus": "14"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1141795",
+      "authors": "Martelli, M.; Zuskin, S.; Zaccone, R.; Rudan, I.",
+      "legacy_id": 501757,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "A COLREGs-Compliant Decision Support Tool to Prevent Collisions at Sea",
+      "scopus_id": "2-s2.0-85163694623",
+      "doi": "10.12716/1001.17.02.11",
+      "isi_id": "WOS:001021666000011",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1083711",
+      "authors": "Altosole, Marco; Campora, Ugo; Mocerino, Luigia; Zaccone, Raphael",
+      "legacy_id": 421864,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "An Innovative variable layout steam plant for waste heat recovery from marine dual-fuel engines",
+      "scopus_id": "2-s2.0-85132664135",
+      "doi": "10.1080/17445302.2022.2061769",
+      "isi_id": "WOS:000789256800001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "14",
+      "citations_scopus": "18"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1179495",
+      "authors": "Ponzini, Filippo; Zaccone, Raphael; Martelli, Michele",
+      "legacy_id": 553546,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "A multi-sensor indoor tracking system for autonomous marine model-scale vehicles",
+      "scopus_id": "2-s2.0-85179621934",
+      "doi": "10.1088/1742-6596/2618/1/012008",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1090137",
+      "authors": "Maloberti, Luca; Zaccone, Raphael; Gualeni, Paola; Mazzucchelli, Paolo",
+      "legacy_id": 428630,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "A zero-emission ferry for inland waterways",
+      "scopus_id": "2-s2.0-85138215919",
+      "doi": "10.3233/PMST220021",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1094333",
+      "authors": "Zaccone, Raphael; Figari, Massimo; Martelli, Michele",
+      "legacy_id": 433595,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "A simulation based tool to assess the propulsion performance of modern conventional submarines",
+      "scopus_id": "2-s2.0-85136216304",
+      "doi": "10.1109/SPEEDAM53979.2022.9842197",
+      "isi_id": "WOS:001429387900104",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1120619",
+      "authors": "Longo, G; Martelli, M; Russo, E; Zaccone, R",
+      "legacy_id": 474493,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Collision-avoidance Capabilities Reduction After a Cyber-Attack to the Navigation Sensors",
+      "scopus_id": "2-s2.0-85187450570",
+      "doi": "10.24868/10729",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1090140",
+      "authors": "Belvisi, Daniele; Zaccone, Raphael; Figari, Massimo; Simone, Sergio; Spanghero, Bruno",
+      "legacy_id": 428632,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "BESS-Based Hybrid Propulsion: an Application to a Front Line Naval Vessel Preliminary Design",
+      "scopus_id": "2-s2.0-85138207713",
+      "doi": "10.3233/PMST220020",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1046852",
+      "authors": "Zaccone, R.",
+      "legacy_id": 379761,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "COLREG-compliant optimal path planning for real-time guidance and control of autonomous ships",
+      "scopus_id": "2-s2.0-85104866181",
+      "doi": "10.3390/jmse9040405",
+      "isi_id": "WOS:000643104200001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "41",
+      "citations_scopus": "48"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1047915",
+      "authors": "Zaccone, Raphael; Campora, Ugo; Martelli, Michele",
+      "legacy_id": 381154,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "Optimisation of a Diesel-Electric Ship Propulsion and Power Generation System Using a Genetic Algorithm",
+      "scopus_id": "2-s2.0-85107834293",
+      "doi": "10.3390/jmse9060587",
+      "isi_id": "WOS:000666081100001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "25",
+      "citations_scopus": "32"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1006023",
+      "authors": "Donnarumma, Silvia; Figari, Massimo; Martelli, Michele; Zaccone, Raphael",
+      "legacy_id": 332508,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "Simulation of the Guidance and Control Systems for Underactuated Vessels",
+      "scopus_id": "2-s2.0-85083715563",
+      "isi_id": "WOS:000628847000009",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "9",
+      "citations_scopus": "16"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/977074",
+      "authors": "Martelli, Michele; Faggioni, Nicolo'; Zaccone, Raphael",
+      "legacy_id": 299755,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "Development of a navigation support system by means of a synthetic scenario",
+      "scopus_id": "2-s2.0-85079226039",
+      "isi_id": "WOS:000503462400064",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1006938",
+      "authors": "Altosole, Marco; Benvenuto, GIOVANNI BATTISTA; Zaccone, Raphael; Campora, Ugo",
+      "legacy_id": 333502,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Comparison of Saturated and Superheated Steam Plants for Waste-Heat Recovery of Dual-Fuel Marine Engines",
+      "scopus_id": "2-s2.0-85080963784",
+      "doi": "10.3390/en13040985",
+      "isi_id": "WOS:000522492700213",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "23",
+      "citations_scopus": "25"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/973619",
+      "authors": "Martelli, Michele; Zaccone, Raphael; Silvestro, Federico; Campora, Ugo",
+      "legacy_id": 295181,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Optimal Management of a Diesel-Electric Propulsion Plant with Either Constant or Variable Diesel Generators Speed",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/990710",
+      "authors": "Altosole, Marco; Campora, Ugo; Donnarumma, Silvia; Zaccone, Raphael",
+      "legacy_id": 314906,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Simulation Techniques for Design and Control of a Waste Heat Recovery System in Marine Natural Gas Propulsion Applications",
+      "scopus_id": "2-s2.0-85075642574",
+      "doi": "10.3390/jmse7110397",
+      "isi_id": "WOS:000502261500020",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "20",
+      "citations_scopus": "22"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/941964",
+      "authors": "Altosole, Marco; Campora, Ugo; Laviola, Michele; Zaccone, Raphael",
+      "legacy_id": 260147,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Deterioration effects on the performance of a steam plant for the waste heat recovery from a marine diesel engine",
+      "scopus_id": "2-s2.0-85060961016",
+      "doi": "10.1080/17445302.2019.1573871",
+      "isi_id": "WOS:000470965000018",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "29",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/994106",
+      "authors": "Zaccone, R.; Martelli, M.",
+      "legacy_id": 318812,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "A collision avoidance algorithm for ship guidance applications",
+      "scopus_id": "2-s2.0-85075005148",
+      "doi": "10.1080/20464177.2019.1685836",
+      "isi_id": "WOS:000495383700001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "57",
+      "citations_scopus": "73"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1005887",
+      "authors": "Ottaviani, E.; Gjeci, N.; Novellino, A.; D'Angelo, P.; Alba, M.; Brotto, P.; Deleo, F.; Ferrari, F.; Besio, G.; Mazzino, A.; Figari, M.; Zaccone, R.; Corgnati, L.; Mantovani, C.; Berta, M.; Magaldi, M.",
+      "legacy_id": 332358,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Sindbad: A new operational service for a safer leisure and boating navigation",
+      "scopus_id": "2-s2.0-85081052990",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1047346",
+      "authors": "Figari, Massimo; Zaccone, Raphael; Boeris, Gabriele; Martelli, Michele",
+      "legacy_id": 380393,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "SHIP VOYAGE OPTIMISATION: A COMPARISON BETWEEN FORECAST AND REAL ROUTE SELECTION",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/975899",
+      "authors": "Zaccone, R.; Martelli, M.; Figari, M.",
+      "legacy_id": 298480,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "A COLREG-compliant ship collision avoidance algorithm",
+      "scopus_id": "2-s2.0-85071527416",
+      "doi": "10.23919/ECC.2019.8796207",
+      "isi_id": "WOS:000490488302088",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "40",
+      "citations_scopus": "51"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/975905",
+      "authors": "Martelli, Michele; Zaccone, Raphael",
+      "legacy_id": 298486,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Ship Propulsion Plant Performance Assessment Using An Artificial Neural Network",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/929307",
+      "authors": "Zaccone, Raphael; Figari, Massimo; Martelli, Michele",
+      "legacy_id": 245238,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "An optimization tool for ship route planning in real weather scenarios",
+      "scopus_id": "2-s2.0-85053479460",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "16"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/929553",
+      "authors": "Zaccone, Raphael; Martelli, Michele",
+      "legacy_id": 245519,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "A random sampling based algorithm for ship path planning with obstacles",
+      "scopus_id": "2-s2.0-85079251106",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "24"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/894239",
+      "authors": "Zaccone, R.; Ottaviani, E.; Figari, M.; Altosole, M.",
+      "legacy_id": 206724,
+      "year": 2018,
+      "miur_type": "262",
+      "title": "Ship voyage optimization for safe and energy-efficient navigation: A dynamic programming approach",
+      "scopus_id": "2-s2.0-85044324922",
+      "doi": "10.1016/j.oceaneng.2018.01.100",
+      "isi_id": "WOS:000428824200019",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "135",
+      "citations_scopus": "168"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/929582",
+      "authors": "Altosole, Marco; Campora, Ugo; Laviola, Michele; Zaccone, Raphael",
+      "legacy_id": 245555,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "High Efficiency Waste Heat Recovery from Dual Fuel Marine Engines",
+      "scopus_id": "2-s2.0-85087641579",
+      "isi_id": "WOS:000567876300003",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "3",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/870534",
+      "authors": "Altosole, Marco; Benvenuto, GIOVANNI BATTISTA; Campora, Ugo; Laviola, Michele; Zaccone, Raphael",
+      "legacy_id": 180784,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "Simulation and performance comparison between diesel and natural gas engines for marine applications",
+      "scopus_id": "2-s2.0-85019244984",
+      "doi": "10.1177/1475090217690964",
+      "isi_id": "WOS:000401160400024",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "45",
+      "citations_scopus": "56"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/889533",
+      "authors": "Campora, Ugo; Cravero, Carlo; Zaccone, Raphael",
+      "legacy_id": 201693,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "Marine gas turbine monitoring and diagnostics by simulation and pattern recognition",
+      "scopus_id": "2-s2.0-85044978730",
+      "doi": "10.1016/j.ijnaoe.2017.09.012",
+      "isi_id": "WOS:000445971700007",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "29",
+      "citations_scopus": "35"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/886598",
+      "authors": "Zaccone, Raphael; Figari, Massimo",
+      "legacy_id": 198098,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "ENERGY EFFICIENT SHIP VOYAGE PLANNING BY 3D DYNAMIC PROGRAMMING",
+      "scopus_id": "2-s2.0-85044463408",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "26"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/929584",
+      "authors": "Altosole, Marco; Laviola, Michele; Zaccone, Raphael; Campora, Ugo",
+      "legacy_id": 245557,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "Waste heat recovery from dual-fuel marine engines.",
+      "scopus_id": "2-s2.0-85056796502",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/839782",
+      "authors": "Benvenuto, GIOVANNI BATTISTA; Campora, Ugo; Laviola, Michele; Zaccone, Raphael",
+      "legacy_id": 146687,
+      "year": 2016,
+      "miur_type": "268",
+      "title": "Comparison of a Natural Gas Engine with a Diesel Engine for Marine Propulsion",
+      "scopus_id": "2-s2.0-85016993966",
+      "isi_id": "WOS:000588357400084",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_isi": "3",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/839783",
+      "authors": "Campora, Ugo; Laviola, Michele; Zaccone, Raphael",
+      "legacy_id": 146689,
+      "year": 2016,
+      "miur_type": "268",
+      "title": "An Overall Comparison Between Natural Gas Spark Ignition and Compression Ignition Engines for a Ro-Pax Propulsion Plant",
+      "scopus_id": "2-s2.0-85016971136",
+      "isi_id": "WOS:000588357400085",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_isi": "2",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/841744",
+      "authors": "Zaccone, Raphael; Figari, Massimo; Altosole, Marco; Ottaviani, E.",
+      "legacy_id": 148919,
+      "year": 2016,
+      "miur_type": "273",
+      "title": "Fuel saving-oriented 3D dynamic programming for weather routing applications",
+      "scopus_id": "2-s2.0-85016832399",
+      "isi_id": "WOS:000588357400022",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "3",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/815113",
+      "authors": "Altosole, Marco; Campora, Ugo; Figari, Massimo; Zaccone, Raphael",
+      "legacy_id": 119524,
+      "year": 2015,
+      "miur_type": "273",
+      "title": "Diesel engine and propulsion diagnostics of a mini-cruise ship by using Artificial Neural Networks",
+      "scopus_id": "2-s2.0-84959545496",
+      "isi_id": "WOS:000505749600068",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "6",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/812263",
+      "authors": "Altosole, Marco; Benvenuto, GIOVANNI BATTISTA; Campora, Ugo; Laviola, Michele; Trucco, Alessandro; Zaccone, Raphael",
+      "legacy_id": 116182,
+      "year": 2015,
+      "miur_type": "273",
+      "title": "Design and Simulation of Combined Gas Turbine-Steam or Diesel-Steam Plants for Marine Applications",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/812261",
+      "authors": "Benvenuto, GIOVANNI BATTISTA; Campora, Ugo; Laviola, Michele; Zaccone, Raphael",
+      "legacy_id": 116176,
+      "year": 2015,
+      "miur_type": "273",
+      "title": "COMPARISON OF WASTE HEAT RECOVERY SYSTEMS FOR THE REFITTING OF A CRUISE FERRY",
+      "scopus_id": "2-s2.0-85012905301",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/828479",
+      "authors": "Campora, Ugo; Capelli, M.; Cravero, Carlo; Zaccone, Raphael",
+      "legacy_id": 133444,
+      "year": 2015,
+      "miur_type": "262",
+      "title": "Metamodels of a Gas Turbine Powered Marine Propulsion System for Simulation and Diagnostic Purposes",
+      "scopus_id": "2-s2.0-84936857722",
+      "doi": "10.3329/jname.v12i1.19719",
+      "isi_id": "WOS:000378340700001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "9",
+      "citations_scopus": "10"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:14:26.339592"
+}

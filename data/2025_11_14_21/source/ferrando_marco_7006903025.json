@@ -1,0 +1,1441 @@
+{
+  "surname": "Ferrando",
+  "name": "Marco",
+  "unit": "NAV",
+  "email": "marco.ferrando@unige.it",
+  "phone": "+39 010 33 52412",
+  "page": "https://rubrica.unige.it/personale/VUdCU1lh",
+  "website": "",
+  "unige_id": "045838",
+  "scopus_id": "7006903025",
+  "role": "Professore associato",
+  "grade": "Prof.Associato DPR 232/11 art.2 - t.pieno - cl. 9",
+  "ssd": "IIND-01/A (Architettura navale)",
+  "location": [
+    {
+      "building": "Villa Cambiaso - padiglioni (ED_161450103)",
+      "floor": "piano Terra",
+      "room": "US_161450103.T.110"
+    }
+  ],
+  "career": [
+    {
+      "role": "PA",
+      "from": "2012-05-01 00:00:00.0000000",
+      "to": "2222-02-02 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [
+    {
+      "title": "Componente del Consiglio direttivo Centro servizio Ateneo",
+      "from": "2024-01-01 00:00:00.0000000",
+      "to": "2026-12-31 00:00:00.0000000",
+      "unit": "Centro servizi di Ateneo territoriale (CeSAT)"
+    },
+    {
+      "title": "Direttore",
+      "from": "2024-01-01 00:00:00.0000000",
+      "to": "2026-12-31 00:00:00.0000000",
+      "unit": "Campus universitario della Spezia"
+    },
+    {
+      "title": "Delegato del Rettore",
+      "from": "2025-11-01 00:00:00.0000000",
+      "to": "2026-10-31 00:00:00.0000000",
+      "unit": "UNIVERSITÀ DEGLI STUDI DI GENOVA"
+    }
+  ],
+  "teaching": {
+    "2025": [
+      {
+        "course": "ARCHITETTURA NAVALE 1 (60506)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "ARCHITETTURA NAVALE (65915)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      }
+    ],
+    "2024": [
+      {
+        "course": "ARCHITETTURA NAVALE 1 (60506)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "ARCHITETTURA NAVALE (65915)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      }
+    ],
+    "2023": [
+      {
+        "course": "ARCHITETTURA NAVALE 1 (60506)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "ARCHITETTURA NAVALE (65915)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      }
+    ],
+    "2022": [
+      {
+        "course": "ARCHITETTURA NAVALE 1 (60506)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "ARCHITETTURA NAVALE (65915)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      }
+    ],
+    "2021": [
+      {
+        "course": "ARCHITETTURA NAVALE 1 (60506)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "ARCHITETTURA NAVALE (65915)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      }
+    ],
+    "2020": [
+      {
+        "course": "ARCHITETTURA NAVALE 1 (60506)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "ARCHITETTURA NAVALE (65915)",
+        "degree": "L-9 - INGEGNERIA NAVALE"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 6,
+      "total_products": 16,
+      "journals": 11,
+      "conferences": 5,
+      "citations": 109,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 6,
+      "total_products": 14,
+      "journals": 10,
+      "conferences": 4,
+      "citations": 107,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 6,
+      "total_products": 12,
+      "journals": 8,
+      "conferences": 4,
+      "citations": 107,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 3,
+      "total_products": 6,
+      "journals": 4,
+      "conferences": 2,
+      "citations": 19,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-105016108340",
+      "title": "Analysis of the Virtual Towing Tank Accuracy by Means of a New EFD Database",
+      "doi": "10.3233/PMST250032",
+      "venue": "Progress in Marine Science and Technology",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "10",
+      "issue_id": null,
+      "pages": "241-251",
+      "issn": "25430955",
+      "eIssn": "25430963",
+      "source_id": "21101107127",
+      "authors": "Bozzo Simone; Ferrando Marco; Villa Diego",
+      "author_ids": "58713211300;7006903025;56250522200",
+      "authorAffiliationIds": "133181689-60025153;60025153;60025153",
+      "corresponding": "Bozzo S.",
+      "keywords": "CFD | EFD | towing tank test | uncertainty | V&V",
+      "abstract": "This work introduces to the field of comparisons between the Experimental Fluid Dynamics (EFD) and Computational Fluid Dynamics (CFD). The ship resistance prediction can be, nowadays, performed by CFD techniques, but the accuracy of the result obtained is not still well identified. The notable absence of an extensive and freely accessible database, where both ships geometry and experimental data are available, induced the scientific community to organize workshops to investigate both the field of Verification and, most importantly, of the Validation (commonly named: V&V). In this work, through the use of an open-source viscous based code (i.e. OpenFOAMv8), and the availability of a significant experimental database, it has been tested a well-consolidated procedure to perform CFD calculations, with the aim to seed a comparative EFD vs. CFD repository which consists of about one-hundred simulations performed for fifteen different hull shapes. The generated repository has been analysed, in order to extract statistical considerations and assess potential correlations between the differences (among CFD calculations and EFD results) and other physical parameters. The main output of this analysis consists in having defined a mean absolute difference between physical and virtual towing tank tests of 3.2% with a standard deviation of 2.17%.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 22,
+              "rank": 200,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 15,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 13,
+              "rank": 640,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85210735300",
+      "title": "Experimental study of bubble cavitation on a NACA 0015 hydrofoil by a computer vision approach",
+      "doi": "10.1016/j.oceaneng.2024.119901",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "316",
+      "issue_id": null,
+      "pages": null,
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Franzosi Giovanni; Abbasi Afaq Ahmed; Savio Luca; Viviani Michele; Ferrando Marco; Tani Giorgio",
+      "author_ids": "58138664800;57201335703;36631104100;58090077400;7006903025;55355605100",
+      "authorAffiliationIds": "60025153;60025153;60108229-60013141;60025153;60025153;60025153",
+      "corresponding": "Franzosi G.",
+      "keywords": "Cavitation erosion | Cavitation measurement | Computer vision | High-speed videos | Hydrofoil NACA 0015",
+      "abstract": "The present study aims to investigate the fundamental dynamics of cavitation through an experimental approach. The study involves developing and testing a computer vision technique to measure the critical characteristics of a cavitation state. The experimental campaign was designed to investigate the dynamics of bubble cavitation developing on a NACA 0015 hydrofoil. The hydrofoil was tested under working conditions with an angle of attack of zero and a flow velocity of V=8[m/s]. The experiments were performed for several cavitation numbers, acquiring a dataset of high-speed videos for each. These videos were analysed using the methodology presented to extract quantitative data that described the observed cavitation state. The article describes each phase of the developed technique in detail, illustrating step by step the solutions adopted to solve the problems faced. The analyses’ results highlight the potential of this approach. Indeed, the characteristic features of the cavitation conditions were measured with high accuracy. These quantities are difficult to access using the techniques commonly used to observe cavitation. The results provide valuable insight for an in-depth understanding of the cavitation phenomenon and the detrimental effects it generates.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85171740044",
+      "title": "A comprehensive analysis of a numerical self-propulsion procedure for high-speed marine vehicles",
+      "doi": "10.1016/j.oceaneng.2023.115766",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "287",
+      "issue_id": null,
+      "pages": null,
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Villa Diego; Tani Giorgio; Gaggero Stefano; Ferrando Marco; Ausonio Pierluigi; Travi Piero; Viviani Michele",
+      "author_ids": "56250522200;55355605100;6503976905;7006903025;57193088176;57193089356;58090077400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;118017113;118017113;60025153",
+      "corresponding": "Villa D.",
+      "keywords": "Computational fluid dynamics | High-speed marine vehicles | Self-propulsion prediction | Uncertainty quantification",
+      "abstract": "In the context of numerical self-propulsion predictions, the literature on high-speed marine vehicles (HSMV) is still relatively scarce. Actually, extensive numerical analyses are rarely considered for these applications because of the not-so-stringent design constraints and contract requirements concerning these crafts and also thanks to the advantages of series production. On the contrary, with the growth of the market requests, in particular, in the direction of Greenhouse Gas Reduction, the exact knowledge of the vessel working point, in terms of speed and engine configuration, pushes the researchers to investigate all the factors which deeply define the propulsion condition. In the present paper, two existing vessels have been numerically studied using a robust and industrially affordable procedure based on some simplified viscous Computational Fluid Dynamic approaches to predict the self-propulsion working points. The obtained results have been then compared with available sea trials showing a very high agreement even if some uncertainties in both the experimental measurements and the CFD results still exist. The impact of these uncertainties has been further investigated to assess the reliability of the self-propulsion prediction, showing that the maximum speed can be obtained with an uncertainty of about 1 knot and 10% of the corresponding engine load. A more robust prediction can be obtained by including the uncertainty assessment in the propulsion analyses. The validity of the proposed analyses is further supported because the numerical uncertainty falls inside the uncertainty obtained from the available full-scale measurements, so defining a more robust prediction of the vessel propulsion point for design purposes.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 87,
+              "rank": 14,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 75,
+              "rank": 48,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85146763874",
+      "title": "Wake Instabilities of Tip-Loaded Propellers: Comparison between CLT and “New Generation” CLT Configurations",
+      "doi": "10.3390/jmse11010112",
+      "venue": "Journal of Marine Science and Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "11",
+      "issue_id": "1",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20771312",
+      "source_id": "21100830140",
+      "authors": "Gaggero Stefano; Ferrando Marco",
+      "author_ids": "6503976905;7006903025",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Gaggero S.",
+      "keywords": "CFD | CLT propeller | IDDES | new generation CLT | ship propeller wake | tip vortex | tip-loaded propeller | vortical structures | wake instabilities",
+      "abstract": "Tip loading is a common strategy to increase the propulsive efficiency of propellers. Solutions such as contracted and tip-loaded (CLT) and “New generation” CLT propellers exploit the presence of an endplate (“true” or as the result of a dedicated modification of the rake distribution) to sustain the increased load at the tip of the blade, at the cost of more complex vortical structures. Their evolution, and the mutual interaction of secondary vortices originated by the endplate itself, however, has not been completely and deeply investigated. The current paper addresses this topic by improved delayed detached eddy simulations (IDDES) of the flow field around two propellers of this type at different loading conditions. The presence of secondary vortices from the endplate root (or from the bended blade at tip), partially observed in recent experiments, is evidenced by high-fidelity CFD calculations. The interaction mechanism with the primary vortices (those from the endplate tip), and the resulting strengthening of the vortical structures, also through the interaction with the blade trailing vortical wake that promote the leapfrogging phenomenon, is discussed as well, comparing the phenomena in the case of two optimally designed geometries (a CLT and a New Generation CLT propeller) exploiting the same pressure side tip-loading concept in a slightly different way. Results show a rather different instability mechanism depending on the endplate configuration and open the discussion on the effectiveness of splitting a single tip vortex into pairs of vortical structures that may induce similar (or even worse) side effects in terms of pressure minima in the wake and earlier wake destabilization.",
+      "citations": 10,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 75,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 73,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 72,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 66,
+              "rank": 126,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 66,
+              "rank": 36,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 61,
+              "rank": 100,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85144980982",
+      "title": "Submarine Manoeuvrability Design: Traditional Cross-Plane vs. x-Plane Configurations in Intact and Degraded Conditions",
+      "doi": "10.3390/jmse10122014",
+      "venue": "Journal of Marine Science and Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "10",
+      "issue_id": "12",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20771312",
+      "source_id": "21100830140",
+      "authors": "Piaggio Benedetto; Vernengo Giuliano; Ferrando Marco; Mazzarello Giorgio; Viviani Michele",
+      "author_ids": "57204360929;37662376400;7006903025;57892552100;58090077400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60083109;60025153",
+      "corresponding": "Piaggio B.",
+      "keywords": "design | manoeuvrability | rudder | stern planes | submarines | underwater vehicles",
+      "abstract": "Submarines’ manoeuvrability both in intact and degraded operating conditions is the main design concern starting at the very early stages of design. This increased complexity of the design process compared to a surface vehicle can only be handled by using dynamics numerical simulations on both the vertical and horizontal manoeuvring planes. To this aim, a 6-DoF method is presented, validated, and applied to study the manoeuvring characteristics of several vessels. The analysis has been conducted considering two standpoints, i.e., to verify the design handling capabilities of the vehicles at low and high speeds and to study the off-design residual abilities in the eventual case of emergency operations with jammed/lost-control surfaces. The influence of different design features, such as, e.g., the stern plane “+” and “x” configurations, fairway size and positioning, hull dimensional ratios and restoring capabilities have been analysed in terms of impact on turning ability, course and depth changing abilities, and vertical/horizontal course stability, including the vertical damping ratio and critical velocity.",
+      "citations": 4,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 75,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 73,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 72,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 61,
+              "rank": 39,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 61,
+              "rank": 137,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 55,
+              "rank": 110,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85081063127",
+      "title": "Cavitation tunnel in Naval Architecture: From cavitation prediction to radiated noise",
+      "doi": null,
+      "venue": "2019 Imeko Tc19 International Workshop on Metrology for the Sea Learning to Measure Sea Health Parameters Metrosea 2019",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": null,
+      "issue_id": null,
+      "pages": "215-220",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100987472",
+      "authors": "Tani Giorgio; Viviani Michele; Ferrando Marco",
+      "author_ids": "55355605100;58090077400;7006903025",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Tani G.",
+      "keywords": null,
+      "abstract": "Cavitation tunnels represent one of the most important typologies of model testing facilities used in Naval Architecture. These facilities are employed to study the hydrodynamics of marine propellers, with special attention on cavitation and its side effects. These effects include: loss of propeller thrust and efficiency, erosion, inboard noise and vibration, underwater radiated noise. The latter aspect is one of the hot topics in the field of ship hydrodynamics because of the concerns related to its impact on marine life. This paper presents the general setup and test procedures used to predict the propeller radiated noise based on model tests. In addition, some of the main experimental issues related to these activities are described.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85064261593",
+      "title": "Aspects of the measurement of the acoustic transfer function in a cavitation tunnel",
+      "doi": "10.1016/j.apor.2019.02.017",
+      "venue": "Applied Ocean Research",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "87",
+      "issue_id": null,
+      "pages": "264-278",
+      "issn": "01411187",
+      "eIssn": null,
+      "source_id": "26776",
+      "authors": "Tani Giorgio; Viviani Michele; Ferrando Marco; Armelloni Enrico",
+      "author_ids": "55355605100;58090077400;7006903025;57211115712",
+      "authorAffiliationIds": "60025153;60025153;60025153;60004969",
+      "corresponding": "Tani G.",
+      "keywords": "Confined environment | Propeller model tests | Reverberation | Transfer function | Underwater radiated noise",
+      "abstract": "Model scale experiments represent one of the most effective, and probably the most commonly used, approaches for the study of cavitating propeller noise. Despite this, the acquirement of consistent data of propeller noise from tests in model scale facilities is still a challenging task. Data collected with such an approach are usually affected by several scale effects and facility related issues which make such experiments still very complex. Among others, the effect of the facility itself as acoustical surrounding must be carefully addressed in order to properly estimate propeller source levels in ideal free field conditions. This is currently carried out, when possible, by measuring facility transfer functions and applying such functions as a correction to measured noise spectra. The development of robust procedures for the measurement of these transfer functions is thus very important. In the present work, this problem is addressed by discussing in details techniques, merits and possible problems related to this topic.",
+      "citations": 21,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 87,
+              "rank": 15,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 82,
+              "rank": 16,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85060047517",
+      "title": "Cavitation tunnel tests for “The Princess Royal” model propeller behind a 2-dimensional wake screen",
+      "doi": "10.1016/j.oceaneng.2018.11.017",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "172",
+      "issue_id": null,
+      "pages": "829-843",
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Tani Giorgio; Aktas Batuhan; Viviani Michele; Yilmaz Naz; Miglianti Fabiana; Ferrando Marco; Atlar Mehmet",
+      "author_ids": "55355605100;57072949400;58090077400;57204799368;57204913304;7006903025;6701684164",
+      "authorAffiliationIds": "60025153;60024724;60025153;60024724;60025153;60025153;60024724",
+      "corresponding": "Tani G.",
+      "keywords": "Cavitation | Model tests | Scale effects | Tip vortex noise | Underwater radiated noise",
+      "abstract": "Propeller noise, especially in the presence of cavitation, is usually the main contributor to the acoustic signature of ships. Due to this fact, considerable efforts have been devoted to the study of underwater radiated noise induced by propeller cavitation during years: firstly, for military reasons; more recently, for other reasons relevant for merchant vessels, such as comfort on board and mitigation of the undesired impacts on marine fauna. Different approaches are available for the study and prediction of the cavitation noise, including statistical and CFD based methods as well as approaches based on model tests in cavitation tunnels or depressurised tanks. Amongst these approaches, the model test based approach is still the most reliable and commonly adopted method. However, when the aim of the model experiments is the prediction of noise radiated by a full-size ship, scale effects need to be analysed and taken into account to interpret model scale data and to achieve consistent prediction. Within this framework, each testing facility follows a procedure, which is developed through its own experience, theoretical considerations and possibly semi-empirical approaches to manage the different possible issues. The definition and harmonisations of the standards for the noise test and post-processing procedures of the propeller noise are still within the current tasks of the ITTC Specialist Committee on Hydrodynamic Noise and other standardization institutes. This results in more uncertainty compared to other more established tests such as resistance and self-propulsion. This paper presents the model scale tests carried out at the University of Genova (UNIGE) cavitation tunnel on the model propeller of the Newcastle University research catamaran, “The Princess Royal”. Tests have been carried out using a 2D wake screen to approximate the real ship condition. The details of the experimental setup and results are presented and compared with the full-scale measurements in terms of cavitation and underwater radiated noise. This allows to explore the issues of the scale effects associated with these phenomena, focusing the attention on possible problems related to small-medium size cavitation tunnel.",
+      "citations": 20,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 87,
+              "rank": 12,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 76,
+              "rank": 32,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85042079373",
+      "title": "A study on the influence of hull wake on model scale cavitation and noise tests for a fast twin screw vessel with inclined shaft",
+      "doi": "10.1177/1475090217693418",
+      "venue": "Proceedings of the Institution of Mechanical Engineers Part M Journal of Engineering for the Maritime Environment",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "232",
+      "issue_id": "3",
+      "pages": "307-330",
+      "issn": "14750902",
+      "eIssn": "20413084",
+      "source_id": "25596",
+      "authors": "Tani Giorgio; Viviani Michele; Villa Diego; Ferrando Marco",
+      "author_ids": "55355605100;58090077400;56250522200;7006903025",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Tani G.",
+      "keywords": "Cavitation | hull wake | marine propulsion | model scale measurements | underwater radiated noise",
+      "abstract": "The study of ship underwater radiated noise is nowadays a topic of great and largely recognized importance. This is due to the fact that in the last decades, the problem of the impact of anthropogenic noise on marine life has been addressed with higher emphasis, giving rise to different efforts aimed to the analysis of its effects on different organisms and, in parallel, to means for the reduction of shipping noise. In this context, attention is focused on the propeller noise, which, in cavitating conditions, may represent the most important noise source of the ship. The propeller noise has been studied for long time with different approaches. One of the most effective approaches is represented by model scale testing in cavitation tunnels or similar facilities. Despite having been adopted for several years, radiated noise experiments in model scale are usually affected by significant scale effects and technical issues. One of these aspects is represented by the correct modelling of the propeller inflow; different techniques are adopted, depending on the facility, in order to reproduce a certain target wake. One of the main problems is to define this target wake, which should in principle coincide with the ship wake; as it is well known, it is usually derived from model scale towing tank measurements, with the necessity for the prediction of the full-scale wake field. Starting from the outcomes of a previous work on the influence of different approaches for the prediction of the full-scale wake field for a single screw ship, in this work, attention is focused on the case of a fast twin screw vessel, analysing the different issues which may be connected to this hull form.",
+      "citations": 8,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 68,
+              "rank": 37,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 66,
+              "rank": 249,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 73,
+              "rank": 25,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 71,
+              "rank": 169,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84957692899",
+      "title": "The optimal hybrid/electric ferry for the liguria Natural Parks",
+      "doi": "10.1109/OCEANS-Genova.2015.7271474",
+      "venue": "Mts IEEE Oceans 2015 Genova Discovering Sustainable Ocean Energy for A New World",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2015,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100444318",
+      "authors": "Bianucci Marco; Merlino Silvia; Ferrando Marco; Baruzzo Luca",
+      "author_ids": "22959953100;57103046100;7006903025;57105791100",
+      "authorAffiliationIds": "60007525;60007525;60025153;60025153",
+      "corresponding": "Bianucci M.",
+      "keywords": "Ferry boat | Ferry for natural parks | hybrid Ferry",
+      "abstract": "With this work we want to contribute to the evaluation of the effectiveness of using an electric/hybrid Ferry boat for tourist transportation in a real case. For this purpose, it is necessary to define the 'optimal' systems configuration of the Ferry boat in term of engine power, energy storage and photovoltaic system sizes and also percentage of hybrid or pure electric usage. However the adjective 'optimal' cannot have an absolute definition because it strongly depends on the context we are evaluating the problem and also subjective factors, not easily quantifiable, enter the evaluation of optimal system. For example, for a ferry working in marine Natural Parks like those around La Spezia harbor, operating and initial costs are important parameters to be considered, but pollution, noise and comfort are at least as much important ones. Moreover, due to the constraints given by the battery storage system (volume, weight, cost and recharge time) the hybrid/electric system of the ferry must be well targeted at the specific routes and possible stages in the transport service around the La Spezia Gulf. For that reason, we focus to the determination of an optimal hybrid ferryboat, aimed at the specific case of La Spezia. We think that the analysis here performed can be replicated to other cases and may be useful in showing the potential of these new technologies for a more sustainable boating, both from the environmental and economic point of view, while also improving the service provided to passengers, especially in terms of comfort.",
+      "citations": 19,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84985010371",
+      "title": "Open source computations of planing hull resistance",
+      "doi": "10.3940/rina.ijsct.2015.b2.172",
+      "venue": "Transactions of the Royal Institution of Naval Architects Part B International Journal of Small Craft Technology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2015,
+      "volume": "157",
+      "issue_id": null,
+      "pages": "83-98",
+      "issn": "17400694",
+      "eIssn": null,
+      "source_id": "5000154004",
+      "authors": "Ferrando M.; Gaggero S.; Villa D.",
+      "author_ids": "7006903025;6503976905;56250522200",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Ferrando M.",
+      "keywords": null,
+      "abstract": "In recent years, the application of Computational Fluid Dynamics (CFD) methods experienced an exponential growth: The increase of the computational performances and the generalization of the Navier-Stokes equation to more complex physical problems made possible the solution of complex problems like free surfaces flows. The physical complexity of planing hulls flows poses some issues in the ability to numerically predict the global hydrodynamic parameters (hull resistance, dynamic attitude) of these configurations and on the expected confidence on the numerical results. In the last decade, commercial RANS software have been successfully applied for the prediction of the planing hull characteristics with reasonable correlation to the available experimental measurements. Recently, moreover, the interest in Open Source approaches, also for the solution of engineering problems, has rapidly grow. In this work, a set of calculations on a systematic series standard hull shape has been carried out, adopting from pre- To post- processing only Open Source tools. The comparison and the validation, through the available experimental measurements, of the computed results will define an optimal simulation strategy to include this kind of tools in the usual design loop.",
+      "citations": 20,
+      "quartile": [
+        {
+          "year": 2015,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 29,
+              "rank": 63,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 18,
+              "rank": 197,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85012909169",
+      "title": "A new concept of a very high speed craft: Design issues",
+      "doi": null,
+      "venue": "18th International Conference on Ships and Shipping Research Nav 2015",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2015,
+      "volume": null,
+      "issue_id": null,
+      "pages": "949-958",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100795196",
+      "authors": "Podenzana Bonvino Carlo; Ferrando Marco; Gaggero Stefano; Villa Diego; De Mitri Davide; Gironi Cristina",
+      "author_ids": "6507106439;7006903025;6503976905;56250522200;57193311577;54953391200",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;;",
+      "corresponding": "Podenzana Bonvino C.",
+      "keywords": null,
+      "abstract": "This paper presents the preliminary analyses devoted to the development of a new fast-craft concept, different from typical off-shore crafts, able to reach very high speed despite its main dimensions and displacement. In particular, the analysis is focused on \"deep V hull shapes\" of overall length of about 40 m and a range of operative speeds up to 60 kn. Many issues can be found during the design phase for a new concept boat. Besides classical design problems, well studied in naval architecture, new issues and peculiarities arise for these type of very high speed craft. One of these new relevant problems is related to the evaluation of the calm water resistance curve, for which the availability of data and reliable methodologies should be deeply investigated due to the extreme conditions analyzed. The correct drag prediction is a key point, for instance, for the evaluation of the on board installed power, necessary to gain the maximum speed required and, in turn, for the evaluation of the total boat weight (being the main engine one of the most significant contributor) on the light of its strong influence on the boat trim and consequently on the drag. Similar considerations have to be carried out for the seakeeping performances, in particular for what regards the vertical motions and the evaluation of the Motion Sickness Index. In these extreme conditions, actually, very high vertical accelerations have to be expected and consequently strict operative sea states limitations have to be imposed.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84882386695",
+      "title": "Virtual arrival: A real option for energy saving?",
+      "doi": null,
+      "venue": "Transactions of the Royal Institution of Naval Architects Part A International Journal of Maritime Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2013,
+      "volume": "155",
+      "issue_id": "PART A2",
+      "pages": "89-95",
+      "issn": "14798751",
+      "eIssn": "17400716",
+      "source_id": "5000154003",
+      "authors": "Capurso V.; Ferrando M.; Gualeni P.; Viviani M.",
+      "author_ids": "55827599000;7006903025;15057843300;58090077400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Capurso V.",
+      "keywords": null,
+      "abstract": "The maritime traffic is the real backbone of the international transport of goods in the world and it is driven by a severe observance of time scheduling. Nevertheless, mainly in relation with the most traveled routes, frequently it might happen that port facilities are congested, and the time schedule for ship load/unload operations is accordingly delayed. In this circumstance the choice is between meeting the original ETA (estimated time of arrival) and then let the ship riding at anchor or slowing down the ship in order to adjust the arrival to the actually needed time window. The latter option is called \"Virtual Arrival\"[l] because it consists of applying a speed reduction that fits the new time for port operations instead of arriving at the original ETA. The purpose of this paper is to investigate to what extent the Virtual Arrival policy could be a valuable option providing a reasonable energy saving for ships. The potential benefits are considerable and they result in direct saving in fuel consumption, reduction of C02 emissions and less congested port areas. © 2013: The Royal Institution of Naval Architects.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 31,
+              "rank": 80,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 26,
+              "rank": 167,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2013,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 39,
+              "rank": 53,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 24,
+              "rank": 74,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84902355940",
+      "title": "Virtual arrival: A real option for energy saving",
+      "doi": null,
+      "venue": "Transactions of the Royal Institution of Naval Architects Part A International Journal of Maritime Engineering",
+      "type": "Journal",
+      "sub_type": "Note",
+      "year": 2013,
+      "volume": "155",
+      "issue_id": "PART A4",
+      "pages": "A221",
+      "issn": "14798751",
+      "eIssn": "17400716",
+      "source_id": "5000154003",
+      "authors": "Capurso V.; Ferrando M.; Gualeni P.; Viviani M.",
+      "author_ids": "55827599000;7006903025;15057843300;58090077400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Capurso V.",
+      "keywords": null,
+      "abstract": null,
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 31,
+              "rank": 80,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 26,
+              "rank": 167,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2013,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 39,
+              "rank": 53,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 24,
+              "rank": 74,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84867360525",
+      "title": "Model tests and full scale operation with surface piercing propellers",
+      "doi": null,
+      "venue": "Proceedings of the Institute of Marine Engineering Science and Technology Part B Journal of Marine Design and Operations",
+      "type": "Conference Proceeding",
+      "sub_type": "Article",
+      "year": 2003,
+      "volume": null,
+      "issue_id": "3",
+      "pages": "21-31",
+      "issn": "14761556",
+      "eIssn": null,
+      "source_id": "25658",
+      "authors": "Ferrando M.; Panarello A.; Scamardella A.; Viviani M.",
+      "author_ids": "7006903025;55386835600;36170904600;58090077400",
+      "authorAffiliationIds": "60025153;113131498;60025235;113131498",
+      "corresponding": "Ferrando M.",
+      "keywords": null,
+      "abstract": "Surface piercing propellers have had several successful applications in field of high-speed vessels; rarely, however, have been used for conventional displacing vessels, where they are also known as partially submerged propellers (PSPs).This paper deals with the application of a PSP on a new livestock carrier, displacing about 5000t, which has been successfully trading since 1998. After a brief introduction, where the state-of-the-art is described, a few theoretical issues are discussed, and short description of the research and design work is presented. The results of various other tests performed with PSPs both with models and in full scale are also illustrated and briefly discussed; these have then been compared with results obtainable from conventional propeller installations, Risks of possible undesired phenomena and benefits related to the application of large scale PSPs on displacing ships of different types and sizes are also dealt with, and an overview of investigations recently carried out on a particular application of a PSP is illustrated.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0024050789",
+      "title": "SHORTENING AFLOAT OF A VERY LARGE CRUDE CARRIER.",
+      "doi": null,
+      "venue": "Marine Technology and Sname News",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 1988,
+      "volume": "25",
+      "issue_id": "3",
+      "pages": "163-171",
+      "issn": "19453582",
+      "eIssn": null,
+      "source_id": "21100870322",
+      "authors": "Podenzana-Bonvino Carlo; Tedeschi Rodolfo; Boote Dario; Ferrando Marco",
+      "author_ids": "6507106439;7006593465;56214807300;7006903025",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Podenzana-Bonvino C.",
+      "keywords": null,
+      "abstract": "A method for shortening afloat a very large crude carrier by means of a watertight transverse cofferdam is described. The method permits completely dry operations both when cutting the ship into three parts (while disconnecting the bottom plates and stiffeners) and when joining together the end sections (welding of the underwater structures). During the initial approach to the problem it became obvious, on the basis of theoretical calculations, that it would be impossible to eliminate the shear force and bending moment acting on the two sections to be cut; therefore, a series of linking means was designed to bear the residual shear and bending stresses which, to the authors' knowledge, were unavoidable in view of the uncertainties existing as to the longitudinal weight distribution.",
+      "citations": 0,
+      "quartile": null
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1263202",
+      "authors": "Bozzo, Simone; Ferrando, Marco; Villa, Diego",
+      "legacy_id": 658913,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Analysis of the Virtual Towing Tank Accuracy by Means of a New EFD Database",
+      "doi": "10.3233/pmst250032",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1227356",
+      "authors": "Franzosi, Giovanni; Abbasi, Afaq Ahmed; Savio, Luca; Viviani, Michele; Ferrando, Marco; Tani, Giorgio",
+      "legacy_id": 609674,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Experimental study of bubble cavitation on a NACA 0015 hydrofoil by a computer vision approach",
+      "scopus_id": "2-s2.0-85210735300",
+      "doi": "10.1016/j.oceaneng.2024.119901",
+      "isi_id": "WOS:001373111300001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1107153",
+      "authors": "Gaggero, S.; Ferrando, M.",
+      "legacy_id": 454202,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Wake Instabilities of Tip-Loaded Propellers: Comparison between CLT and “New Generation” CLT Configurations",
+      "scopus_id": "2-s2.0-85146763874",
+      "doi": "10.3390/jmse11010112",
+      "isi_id": "WOS:000915450000001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "9",
+      "citations_scopus": "10"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1141600",
+      "authors": "Villa, Diego; Tani, Giorgio; Gaggero, Stefano; Ferrando, Marco; Ausonio, Pierluigi; Travi, Piero; Viviani, Michele",
+      "legacy_id": 501760,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "A comprehensive analysis of a numerical self-propulsion procedure for high-speed marine vehicles",
+      "scopus_id": "2-s2.0-85171740044",
+      "doi": "10.1016/j.oceaneng.2023.115766",
+      "isi_id": "WOS:001080453400001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1263198",
+      "authors": "Ferrando, Marco; Damilano, Gianfranco",
+      "legacy_id": 658909,
+      "year": 2023,
+      "miur_type": "284",
+      "title": "Regia Scuola Superiore Navale di Genova. La celebrazione del 150°",
+      "type": "06.01 - Curatela"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1104153",
+      "authors": "Piaggio, Benedetto; Vernengo, Giuliano; Ferrando, Marco; Mazzarello, Giorgio; Viviani, Michele",
+      "legacy_id": 448260,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Submarine Manoeuvrability Design: Traditional Cross-Plane vs. x-Plane Configurations in Intact and Degraded Conditions",
+      "scopus_id": "2-s2.0-85144980982",
+      "doi": "10.3390/jmse10122014",
+      "isi_id": "WOS:000901123400001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/982002",
+      "authors": "Tani, G.; Viviani, M.; Ferrando, M.",
+      "legacy_id": 305178,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Cavitation tunnel in Naval Architecture: from cavitation prediction to radiated noise",
+      "scopus_id": "2-s2.0-85081063127",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/945419",
+      "authors": "Tani, G.; Viviani, M.; Ferrando, M.; Armelloni, E.",
+      "legacy_id": 264291,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Aspects of the measurement of the acoustic transfer function in a cavitation tunnel",
+      "scopus_id": "2-s2.0-85064261593",
+      "doi": "10.1016/j.apor.2019.02.017",
+      "isi_id": "WOS:000468711500022",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "18",
+      "citations_scopus": "21"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/941093",
+      "authors": "Tani, G.; Aktas, B.; Viviani, M.; Yilmaz, N.; Miglianti, F.; Ferrando, M.; Atlar, M.",
+      "legacy_id": 259040,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Cavitation tunnel tests for “The Princess Royal” model propeller behind a 2-dimensional wake screen",
+      "scopus_id": "2-s2.0-85060047517",
+      "doi": "10.1016/j.oceaneng.2018.11.017",
+      "isi_id": "WOS:000458591300064",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "18",
+      "citations_scopus": "20"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/881197",
+      "authors": "Tani, Giorgio; Viviani, Michele; Villa, Diego; Ferrando, Marco",
+      "legacy_id": 192038,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "A study on the influence of hull wake on model scale cavitation and noise tests for a fast twin screw vessel with inclined shaft",
+      "scopus_id": "2-s2.0-85042079373",
+      "doi": "10.1177/1475090217693418",
+      "isi_id": "WOS:000441607900004",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "7",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/842919",
+      "authors": "Bianucci, Marco; Merlino, Silvia; Ferrando, Marco; Baruzzo, Luca",
+      "legacy_id": 117442,
+      "year": 2015,
+      "miur_type": "273",
+      "title": "The optimal hybrid/electric ferry for the Liguria Natural Parks",
+      "scopus_id": "2-s2.0-84957692899",
+      "doi": "10.1109/OCEANS-Genova.2015.7271474",
+      "isi_id": "WOS:000380485500156",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "19"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/827446",
+      "authors": "Ferrando, Marco; Gaggero, Stefano; Villa, Diego",
+      "legacy_id": 132761,
+      "year": 2015,
+      "miur_type": "262",
+      "title": "Open Source Computations of Planing Hull Resistance",
+      "scopus_id": "2-s2.0-84985010371",
+      "doi": "10.3940/rina.ijsct.2015.b2.172",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "20"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/827936",
+      "authors": "PODENZANA BONVINO, Carlo; Ferrando, Marco; Gaggero, Stefano; Villa, Diego; De Mitri, D.; Gironi, C.",
+      "legacy_id": 133187,
+      "year": 2015,
+      "miur_type": "273",
+      "title": "A new concept of a very high speed craft: design issues",
+      "scopus_id": "2-s2.0-85012909169",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/781593",
+      "authors": "Gaggero, Stefano; Tani, Giorgio; C., Vaccaro; Viviani, Michele; F., Conti; R., Depascale; Ferrando, Marco",
+      "legacy_id": 108396,
+      "year": 2014,
+      "miur_type": "273",
+      "title": "Application of different design and Analysis tools for a Propeller in Axial Cylinder",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/781589",
+      "authors": "Gaggero, Stefano; Villa, Diego; Ferrando, Marco",
+      "legacy_id": 108393,
+      "year": 2014,
+      "miur_type": "273",
+      "title": "An OpenSource Approach for the Prediction of Planning Hull Resistance",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/632236",
+      "authors": "Capurso, V.; Ferrando, Marco; Gualeni, Paola; Viviani, Michele",
+      "legacy_id": 99492,
+      "year": 2013,
+      "miur_type": "262",
+      "title": "Virtual Arrival: a Real Option for Energy Saving?",
+      "scopus_id": "2-s2.0-84882386695",
+      "isi_id": "WOS:000335872200004",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/243359",
+      "authors": "Savio, Luca; Viviani, Michele; F., Conti; Ferrando, Marco",
+      "legacy_id": 43192,
+      "year": 2009,
+      "miur_type": "273",
+      "title": "Application of computer vision techniques to measure cavitation bubble volume and cavitating tip vortex diameter",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/243360",
+      "authors": "Savio, Luca; Viviani, Michele; Ferrando, Marco",
+      "legacy_id": 43193,
+      "year": 2009,
+      "miur_type": "273",
+      "title": "Propeller Cavitation 3d Reconstruction through Stereo-Vision Algorithms",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/242344",
+      "authors": "Gaggero, Stefano; Savio, L; Brizzolara, Stefano; Viviani, Michele; Conti, F; Ferrando, Marco",
+      "legacy_id": 42557,
+      "year": 2009,
+      "miur_type": "273",
+      "title": "Comparison of Experimental Measurements and Numerical Calculations for a Propeller in Axial Cylinder",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/252495",
+      "authors": "Ferrando, Marco; Gualeni, Paola; Viviani, Michele; Ruscelli, D.; Sapere, S.",
+      "legacy_id": 49172,
+      "year": 2009,
+      "miur_type": "273",
+      "title": "Static and dynamic stability of planing boats: application cases for an harmonized rule perspective",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/276784",
+      "authors": "Gaggero, Stefano; Savio, Luca; Brizzolara, Stefano; Viviani, Michele; Ferrando, Marco; F., Conti",
+      "legacy_id": 55886,
+      "year": 2009,
+      "miur_type": "273",
+      "title": "Comparison of experimental measurements and numerical calculations for a propeller in axial cylinder",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/241333",
+      "authors": "D., Grassi; Savio, Luca; Viviani, Michele; Ferrando, Marco; S., Caviglia",
+      "legacy_id": 41958,
+      "year": 2009,
+      "miur_type": "273",
+      "title": "Development of an experimental device for a pod fitted with contra-rotating propellers",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/244092",
+      "authors": "Savio, Luca; Viviani, Michele; Ferrando, Marco",
+      "legacy_id": 43689,
+      "year": 2008,
+      "miur_type": "298",
+      "title": "Nuove tecniche sperimentali per la caratterizzazione dei fenomeni cavitativi",
+      "type": "07.12 - Altro"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/241161",
+      "authors": "Savio, Luca; C., Pittaluga; Viviani, Michele; Ferrando, Marco; F., Conti",
+      "legacy_id": 41830,
+      "year": 2008,
+      "miur_type": "273",
+      "title": "An Experimental and Numerical Study on Cavitation of Hull Appendages",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/244157",
+      "authors": "Ferrando, Marco; Viviani, Michele",
+      "legacy_id": 43727,
+      "year": 2007,
+      "miur_type": "298",
+      "title": "Eliche di Superficie: Stato dell'Arte",
+      "type": "07.12 - Altro"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/241154",
+      "authors": "Ferrando, Marco; Viviani, Michele; S., Crotti",
+      "legacy_id": 41825,
+      "year": 2007,
+      "miur_type": "273",
+      "title": "Performance of a Family of Surface Piercing Propellers",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/241098",
+      "authors": "Ferrando, Marco; S., Crotti; Viviani, Michele",
+      "legacy_id": 41796,
+      "year": 2006,
+      "miur_type": "273",
+      "title": "Performance of a Family of Surface Piercing Propellers",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/218296",
+      "authors": "Begovic, E; Bove, A; Bruzzone, Dario; Cardarella, S; Cassella, P; Ferrando, Marco; Tincani, E; Zotti, I.",
+      "legacy_id": 29474,
+      "year": 2006,
+      "miur_type": "262",
+      "title": "Co-operative Investigation into Resistance of different Trimaran Hull Forms and Configurations",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/239920",
+      "authors": "Ferrando, Marco; Viviani, Michele; S., Crotti; P., Cassella; S., Caldarella",
+      "legacy_id": 41129,
+      "year": 2006,
+      "miur_type": "273",
+      "title": "Influence of Weber number on Surface Piercing Propellers model tests scaling",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/238399",
+      "authors": "Brizzolara, Stefano; M., Capasso; Ferrando, Marco; PODENZANA BONVINO, Carlo; E., Tincani",
+      "legacy_id": 40242,
+      "year": 2005,
+      "miur_type": "273",
+      "title": "TOWING TANK TESTS OF EQUIVALENT TRIMARAN AND PENTAMARAN HULLS",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/238397",
+      "authors": "Brizzolara, Stefano; M., Capasso; Ferrando, Marco; PODENZANA BONVINO, Carlo",
+      "legacy_id": 40240,
+      "year": 2005,
+      "miur_type": "273",
+      "title": "EFFECT OF HULL FORM VARIATION ON HYDRODYNAMIC PERFORMANCE OF A TRIMARAN SHIP FOR FAST TRANSPORTATION",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/304658",
+      "authors": "Ferrando, Marco; Gualeni, Paola; V., Parini",
+      "legacy_id": 67409,
+      "year": 2004,
+      "miur_type": "262",
+      "title": "The ISO 12217 Standards for Small Craft Stability and Buoyancy Assessment and Categorization: Application Case for Non-Sailing Boat",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/315947",
+      "authors": "Ferrando, Marco; A., Lommi; A., Traverso",
+      "legacy_id": 70075,
+      "year": 2004,
+      "miur_type": "273",
+      "title": "Use of Genetic Algorithms in Propeller Foil Design.",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/315997",
+      "authors": "Brizzolara, Stefano; M., Capasso; Ferrando, Marco; PODENZANA BONVINO, Carlo; A., Cardo; A., Francescutto",
+      "legacy_id": 70123,
+      "year": 2003,
+      "miur_type": "273",
+      "title": "Trimaran Hull Design for Fast Ferry Applications.",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/238437",
+      "authors": "Brizzolara, Stefano; M., Capasso; Ferrando, Marco; PODENZANA BONVINO, Carlo",
+      "legacy_id": 40258,
+      "year": 2003,
+      "miur_type": "273",
+      "title": "Trimaran Hull Design for Fast Ferry Applications",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/316040",
+      "authors": "U., Viviani; P., Becchi; C., Pittaluga; A., Traverso; Ferrando, Marco; M., Elefante; M., Soave",
+      "legacy_id": 70164,
+      "year": 2003,
+      "miur_type": "273",
+      "title": "Numerical and Experimental Evaluation of New Propeller Sections with Enlarged Cavitation Bucket",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/213234",
+      "authors": "Ferrando, Marco; A., Panarello; A., Scamardella; Viviani, Michele",
+      "legacy_id": 26954,
+      "year": 2003,
+      "miur_type": "262",
+      "title": "Model Tests and full scale operation with surface piercing propellers",
+      "scopus_id": "2-s2.0-84867360525",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/229497",
+      "authors": "Cardo, A.; Ferrando, Marco; PODENZANA BONVINO, Carlo",
+      "legacy_id": 6897,
+      "year": 2003,
+      "miur_type": "273",
+      "title": "Influence of Hull Shape on the Resiatance of a Fast Trimaran Vessel",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/230159",
+      "authors": "Cardo, A.; Francescutto, A.; Capasso, M.; Ferrando, Marco; PODENZANA BONVINO, Carlo",
+      "legacy_id": 6983,
+      "year": 2002,
+      "miur_type": "273",
+      "title": "Hydrodynamic performance in waves of a Trimaran Ship",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/316014",
+      "authors": "Ferrando, Marco; A., Scamardella; N., Bose; P., Liu; B., Veitch",
+      "legacy_id": 70140,
+      "year": 2001,
+      "miur_type": "262",
+      "title": "Performance of a Family of Surface Piercing Propellers.",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/252439",
+      "authors": "Canepa, Edward; Cattanei, Andrea; Ferrando, Marco",
+      "legacy_id": 49144,
+      "year": 2001,
+      "miur_type": "273",
+      "title": "Studio sperimentale del flusso attorno ad un’elica per propulsione navale",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/204184",
+      "authors": "Ferrando, Marco; A., Panarello; A., Scamardella; Viviani, Michele",
+      "legacy_id": 23238,
+      "year": 2000,
+      "miur_type": "273",
+      "title": "Surface Piercing Propellers for Displacing Vessels",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/304544",
+      "authors": "Ferrando, Marco; Gualeni, Paola; PODENZANA BONVINO, Carlo",
+      "legacy_id": 67299,
+      "year": 2000,
+      "miur_type": "273",
+      "title": "Systematic Towing Tests of Catamaran Type Vessels",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/304533",
+      "authors": "Bruzzone, Dario; Ferrando, Marco; Gualeni, Paola",
+      "legacy_id": 67291,
+      "year": 1999,
+      "miur_type": "273",
+      "title": "Numerical and Experimental Investigation Into Resistance Characteristics of Symmetrical and Unsymmetrical Catamaran Hull Forms",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/316025",
+      "authors": "Ferrando, Marco; A., Scamardella",
+      "legacy_id": 70151,
+      "year": 1999,
+      "miur_type": "273",
+      "title": "Surface piercing propellers: model test procedures and comments on related adimensional parameters",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/316017",
+      "authors": "Ferrando, Marco",
+      "legacy_id": 70143,
+      "year": 1997,
+      "miur_type": "262",
+      "title": "Surface Piercing Propellers: State of the Art.",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/316041",
+      "authors": "Ferrando, Marco; A., Scamardella",
+      "legacy_id": 70165,
+      "year": 1996,
+      "miur_type": "273",
+      "title": "Surface Piercing Propellers: Testing Methodologies, Result Analysis and Comments on Open Water Characteristics",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/316042",
+      "authors": "M., Caponnetto; Ferrando, Marco; G., Fioravanti; L., Grossi; F., Matera; PODENZANA BONVINO, Carlo",
+      "legacy_id": 70166,
+      "year": 1995,
+      "miur_type": "273",
+      "title": "Propeller blade sections with enlarged cavitation bucket",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/316043",
+      "authors": "M., Caponnetto; Ferrando, Marco; PODENZANA BONVINO, Carlo",
+      "legacy_id": 70167,
+      "year": 1995,
+      "miur_type": "273",
+      "title": "Theoretical and experimental analysis of a propeller in inclined flow",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/316044",
+      "authors": "M., Caponnetto; Ferrando, Marco; PODENZANA BONVINO, Carlo",
+      "legacy_id": 70168,
+      "year": 1994,
+      "miur_type": "273",
+      "title": "Non linear analysis of potential flow on partially cavitating cascade profiles",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/315941",
+      "authors": "Boote, Dario; Ferrando, Marco",
+      "legacy_id": 70070,
+      "year": 1993,
+      "miur_type": "273",
+      "title": "Statistical data for the design of merchant ships relative to the period 1980-1990",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/938785",
+      "authors": "Caprino, G.; Ferrando, M.; Podenzana-Bonvino, C; Sebastiani, L.",
+      "legacy_id": 256165,
+      "year": 1992,
+      "miur_type": "273",
+      "title": "A Design Procedure for Trans-Cavitating Propellers",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/392328",
+      "authors": "Bruzzone, Dario; Ferrando, Marco; Martinelli, L.",
+      "legacy_id": 87086,
+      "year": 1992,
+      "miur_type": "268",
+      "title": "Experience with the use of a Rankine-Source Based Procedure for the steady free surface calculations",
+      "isi_id": "WOS:A1992BY29T00007",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_isi": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/315957",
+      "authors": "Boote, Dario; Ferrando, Marco",
+      "legacy_id": 70085,
+      "year": 1991,
+      "miur_type": "273",
+      "title": "Sponsons application to passengers ships: a case study",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/315970",
+      "authors": "Podenzana Bonvino, C.; Tedeschi, R.; Boote, Dario; Ferrando, Marco",
+      "legacy_id": 70096,
+      "year": 1988,
+      "miur_type": "262",
+      "title": "Shortening afloat of a Very Large Crude Carrier",
+      "scopus_id": "2-s2.0-0024050789",
+      "isi_id": "A1988P430600001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/315978",
+      "authors": "Boote, Dario; G., Carrera; Ferrando, Marco; R., Tedeschi",
+      "legacy_id": 70104,
+      "year": 1985,
+      "miur_type": "273",
+      "title": "Criteri di valutazione delle prove di bollard pull per rimorchiatori e supply-vessel",
+      "type": "04.01 - Contributo in atti di convegno"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:13:20.580467"
+}

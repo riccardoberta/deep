@@ -1,0 +1,2214 @@
+{
+  "surname": "Morini",
+  "name": "Andrea",
+  "unit": "ELE",
+  "email": "andrea.morini@unige.it",
+  "phone": "+39 010 33 52722",
+  "page": "https://rubrica.unige.it/personale/VUZCXl5u",
+  "website": "",
+  "unige_id": "055547",
+  "scopus_id": "7006658135",
+  "role": "Ricercatore",
+  "grade": "Ricercatore DPR 232/11 art.2 - t.definito - cl. 6",
+  "ssd": "IIND-08/B (Sistemi elettrici per l'energia)",
+  "location": [
+    {
+      "building": "Opera Pia - padiglione D (ED_161450401)",
+      "floor": "1° piano",
+      "room": "US_161450401.I.033"
+    }
+  ],
+  "career": [
+    {
+      "role": "RU",
+      "from": "2012-05-01 00:00:00.0000000",
+      "to": "2222-02-02 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [
+    {
+      "title": "Componente del Consiglio di biblioteca",
+      "from": "2024-12-09 00:00:00.0000000",
+      "to": "2027-10-31 00:00:00.0000000",
+      "unit": "Biblioteca della Scuola politecnica"
+    }
+  ],
+  "teaching": {
+    "2025": [
+      {
+        "course": "IMPIANTI DI ILLUMINAZIONE PER LA SMART CITY (84394)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      }
+    ],
+    "2024": [
+      {
+        "course": "IMPIANTI DI ILLUMINAZIONE PER LA SMART CITY (84394)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      }
+    ],
+    "2023": [
+      {
+        "course": "IMPIANTI DI ILLUMINAZIONE PER LA SMART CITY (84394)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      }
+    ],
+    "2022": [
+      {
+        "course": "IMPIANTI DI ILLUMINAZIONE PER LA SMART CITY (84394)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      }
+    ],
+    "2021": [
+      {
+        "course": "IMPIANTI DI ILLUMINAZIONE PER LA SMART CITY (84394)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      }
+    ],
+    "2020": [
+      {
+        "course": "IMPIANTI DI ILLUMINAZIONE PER LA SMART CITY (84394)",
+        "degree": "LM-28 - INGEGNERIA ELETTRICA"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 13,
+      "total_products": 34,
+      "journals": 9,
+      "conferences": 24,
+      "citations": 619,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 5,
+      "total_products": 10,
+      "journals": 4,
+      "conferences": 6,
+      "citations": 157,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 4,
+      "total_products": 5,
+      "journals": 3,
+      "conferences": 2,
+      "citations": 103,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 0,
+      "total_products": 1,
+      "journals": 0,
+      "conferences": 1,
+      "citations": 0,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-85118840205",
+      "title": "A reactivation project of a district of the historical centre of Genova",
+      "doi": "10.1088/1755-1315/863/1/012015",
+      "venue": "Iop Conference Series Earth and Environmental Science",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": "863",
+      "issue_id": "1",
+      "pages": null,
+      "issn": "17551307",
+      "eIssn": "17551315",
+      "source_id": "19900195068",
+      "authors": "Vite Clara; Morbiducci Renata; Morini Andrea",
+      "author_ids": "57200218261;6507333073;7006658135",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Vite C.",
+      "keywords": "District renovation | historic buildings | innovation | public spaces reactivation | sustainability",
+      "abstract": "Many of the recovery and renovation interventions of the existing heritage conducted today in Europe are the result of urban policies careful to reduce land consumption and improve safety, comfort, and quality according to the needs of users. A substantial historical building heritage characterizes the Italian territory. Historical centres' regeneration is one of the constant and recurring themes of extreme complexity and importance due to the extension, the peculiarities, and the conformation in some cities. The contribution presented deals with the redevelopment and reactivation of a historic district of Genoa, which has one of the largest historical centres in Europe. Innovation, together with the three pillars of sustainability (environmental, social, and economic), are the engines of this pilot project to trigger virtuous processes for the district's reactivation. It is an area of the historic centre with high potential in its proximity to essential activities of the city, the port, and infrastructure. The proposed plan for the regeneration of the area resulted from an in-depth analysis of the territory's state and existing practices and was carried out in close collaboration with the reference bodies and actors involved. This preliminary analysis made it possible to identify the strengths and weaknesses that were the starting point for the pilot project. The article then focuses on two specific aspects. Some of the university's buildings are in the district, and this is the starting strength for creating a \"diffuse\"university campus with areas to serve students. On the other hand, the open spaces are the point of weakness on which we have worked with outdoor lighting to increase the degree of security of the neighbourhood and enhance the peculiarities and value of existing spaces.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Earth and Planetary Sciences (all)",
+              "percentile": 34,
+              "rank": 131,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Environmental Science (all)",
+              "percentile": 27,
+              "rank": 172,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Earth and Planetary Sciences (all)",
+              "percentile": 20,
+              "rank": 153,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Environmental Science (all)",
+              "percentile": 16,
+              "rank": 191,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85067605020",
+      "title": "Tuning and feasibility analysis of classical first-order MIMO non-linear sliding mode control design for industrial applications",
+      "doi": "10.3390/machines7010010",
+      "venue": "Machines",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "7",
+      "issue_id": "1",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20751702",
+      "source_id": "21100838145",
+      "authors": "Palmieri Alessandro; Procopio Renato; Bonfiglio Andrea; Brignone Massimo; Invernizzi Marco; Morini Andrea; Veselic' Boban",
+      "author_ids": "57201775084;7801615894;36607521000;8580886100;6701527755;7006658135;6602578334",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60068806",
+      "corresponding": "Palmieri A.",
+      "keywords": "Nonlinear systems control | Robust control | Sliding mode control | Uncertain systems",
+      "abstract": "Model-based control techniques have been gaining more and more interest these days. These complex control systems are mostly based on theories, such as feedback linearization, model predictive control, adaptive and robust control. In this paper the latter approach is investigated, in particular, sliding mode (SM) control is analyzed. While several works on the description and application of SM control on single-input single-output systems can easily be found, its application on multi-input multi-output systems is not examined in depth at the same level. Hence, this work aims at formalizing some theoretical complements about the necessary conditions for the feasibility of the SM control for multi-input-multi-output systems. Furthermore, in order to obtain the desired performance from the control system, a method for parameter tuning is proposed in the particular case in which the relative degree of the controlled channels is equal to one. Finally, a simple control problem example is shown with the aim of stressing the benefits derived from the application of the theoretical complements described here.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 88,
+              "rank": 20,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 77,
+              "rank": 165,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 74,
+              "rank": 104,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 74,
+              "rank": 256,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 72,
+              "rank": 105,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Science (miscellaneous)",
+              "percentile": 72,
+              "rank": 48,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 74,
+              "rank": 26,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 73,
+              "rank": 92,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Science (miscellaneous)",
+              "percentile": 71,
+              "rank": 19,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 68,
+              "rank": 184,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 63,
+              "rank": 247,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 60,
+              "rank": 95,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85058030650",
+      "title": "Planning & open-air demonstrating smart city sustainable districts",
+      "doi": "10.3390/su10124636",
+      "venue": "Sustainability Switzerland",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "10",
+      "issue_id": "12",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20711050",
+      "source_id": "21100240100",
+      "authors": "Bracco Stefano; Delfino Federico; Laiolo Paola; Morini Andrea",
+      "author_ids": "15049159900;6603766602;56576462300;7006658135",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Bracco S.",
+      "keywords": "Living lab | Smart city | Sustainability | Sustainable energy | Sustainable environment | Wellbeing",
+      "abstract": "The article is focused on the \"demonstration\" activities carried out by the University of Genoa at Savona Campus facilities in order to implement the \"Living Lab Smart City\". The idea is to transform the Savona Campus in a Living Lab of the City of the Future: smart technologies in Information and Communication Technology (ICT) and energy sectors were installed in order to show a real application of the Smart City concept to population and external stakeholders. Moreover, special attention was given to the environment, personal wellbeing, and social equalities. The sustainable energy Research Infrastructures (RIs) of Savona Campus allowed enhancement of the applied research in degree programs and the collaboration with several companies. In particular, an important partnership with the Italian electric Distribution System Operator (DSO), ENEL S.p.A., started in 2017 to test the capability of these RIs to operate disconnected from the National Grid, relying only on the supply of renewables and storage systems. The \"Living Lab Smart City\" is an important action to reduce the carbon footprint of the Savona Campus and to increase the awareness of students, teachers and researchers towards Sustainable Development in Higher Education Institutes.",
+      "citations": 45,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Geography, Planning and Development",
+              "percentile": 91,
+              "rank": 70,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Science (miscellaneous)",
+              "percentile": 87,
+              "rank": 37,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science (miscellaneous)",
+              "percentile": 86,
+              "rank": 24,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Management, Monitoring, Policy and Law",
+              "percentile": 85,
+              "rank": 61,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 83,
+              "rank": 89,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 80,
+              "rank": 46,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 80,
+              "rank": 65,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 69,
+              "rank": 96,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Geography, Planning and Development",
+              "percentile": 78,
+              "rank": 143,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Management, Monitoring, Policy and Law",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 49,
+              "rank": 81,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85029051842",
+      "title": "Risk-based dynamic security assessment for power system operation & operational planning",
+      "doi": "10.3390/en10040475",
+      "venue": "Energies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2017,
+      "volume": "10",
+      "issue_id": "4",
+      "pages": null,
+      "issn": null,
+      "eIssn": "19961073",
+      "source_id": "62932",
+      "authors": "Ciapessoni Emanuele; Cirio Diego; Massucco Stefano; Morini Andrea; Pitto Andrea; Silvestro Federico",
+      "author_ids": "6505804291;6504625684;6603357712;7006658135;35068505700;23026343700",
+      "authorAffiliationIds": "60104176;60104176;60025153;60025153;60104176;60025153",
+      "corresponding": "Ciapessoni E.",
+      "keywords": "Contingency | Probability | Risk | Security | Stability",
+      "abstract": "Assessment of dynamic stability in a modern power system (PS) is becoming a stringent requirement both in operational planning and in on-line operation, due to the increasingly complex dynamics of a PS. Further, growing uncertainties in forecast state and in the response to disturbances suggests the adoption of risk-based approaches in Dynamic Security Assessment (DSA). The present paper describes a probabilistic risk-based DSA, which provides instability risk indicators by combining an innovative probabilistic hazard/vulnerability analysis with the assessment of contingency impacts via time domain simulation. The tool implementing the method can be applied to both current and forecast PS states, the latter characterized in terms of renewable and load forecast uncertainties, providing valuable results for operation and operational planning contexts. Some results from a real PS model are discussed.",
+      "citations": 29,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 94,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (miscellaneous)",
+              "percentile": 86,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 155,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 78,
+              "rank": 71,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Fuel Technology",
+              "percentile": 70,
+              "rank": 40,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 64,
+              "rank": 110,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 64,
+              "rank": 39,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Control and Optimization",
+              "percentile": 80,
+              "rank": 18,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 73,
+              "rank": 55,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 69,
+              "rank": 202,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy (miscellaneous)",
+              "percentile": 63,
+              "rank": 7,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 55,
+              "rank": 67,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84936984617",
+      "title": "Pseudo-measurements modeling using neural network and Fourier decomposition for distribution state estimation",
+      "doi": "10.1109/ISGTEurope.2014.7028770",
+      "venue": "IEEE Pes Innovative Smart Grid Technologies Conference Europe",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2015,
+      "volume": "2015-January",
+      "issue_id": "January",
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100510299",
+      "authors": "Adinolfi F.; D'Agostino F.; Morini A.; Saviozzi M.; Silvestro F.",
+      "author_ids": "55615847600;56553864200;7006658135;56027556100;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Adinolfi F.",
+      "keywords": "Distribution Management System | Distribution State Estimation | Load Modeling | Pseudo-Measurements",
+      "abstract": "This work aims to propose a pseudo-measurement modeling method for Distribution State Estimation (DSE) application embedded in a Distribution Management System (DMS). The entire system is already installed on the distribution MV network of Sanremo, in the North of Italy, within the Smartgen research project. The acquisition architecture consists of a SCADA system, which allows the data exchange from meters installed in the MV-LV substations. In order to satisfy the system observability conditions and to perform the State Estimation (SE) algorithm, real-time measures need to be integrate with the pseudo-measures of the non-monitored substations. The paper investigates a load modeling technique, based on Artificial Neural Network (ANN) and Fourier decomposition, that allow the generation of pseudo-measurements starting from the historical database of the monitored substations.",
+      "citations": 24,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84893577839",
+      "title": "Extended risk analysis of power and ICT systems",
+      "doi": "10.1109/ISGTEurope.2013.6695432",
+      "venue": "2013 4th IEEE Pes Innovative Smart Grid Technologies Europe Isgt Europe 2013",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2013,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100286341",
+      "authors": "Brasca Claudio; Ciapessoni Emanuele; Cirio Diego; Pitto Andrea; Sforna Marino; Morini Andrea",
+      "author_ids": "6602090900;6505804291;6504625684;35068505700;55903400800;7006658135",
+      "authorAffiliationIds": "60104176;60104176;60104176;60104176;60122257;60025153",
+      "corresponding": "Brasca C.",
+      "keywords": "contingency analysis | power system interdependences | power system security | risk assessment",
+      "abstract": "Power system (PS) response to natural and manrelated threats is subject to a large set of uncertainties regarding both the initial conditions of the system and the vulnerabilities of the Power and ICT systems to the threats themselves. This fact, together with the need to analyze high impact events (typical causes of blackout events), calls for the adoption of novel techniques to perform more in-depth security analyses. The paper describes a probabilistic risk-based methodology, developed within the European Union (EU) research project AFTER (A Framework for electrical power sysTems vulnerability identification, dEfense and Restoration)<sup>1</sup>, which aims to perform risk assessment (including hazard, vulnerability, and impact analysis) of the integrated power and Information and Communication Technology (ICT) systems. Starting from threat/vulnerability identification and classification, and contingency scenario modeling, the paper focuses on the probabilistic simulation of the Power and ICT System response to the contingencies as well as on the computation of risk indicators for operation and operational planning purposes. © 2013 IEEE.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84893385620",
+      "title": "Assessing security of power and ICT systems via a risk-based approach within an integrated framework",
+      "doi": "10.1109/aeit.2013.6666792",
+      "venue": "Aeit Annual Conference 2013 Innovation and Scientific and Technical Culture for Development Aeit 2013 Selected Proceedings Papers",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2013,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100285751",
+      "authors": "Ciapessoni Emanuele; Cirio Diego; Pitto Andrea; Massucco Stefano; Morini Andrea; Sforna Marino",
+      "author_ids": "6505804291;6504625684;35068505700;6603357712;7006658135;55903400800",
+      "authorAffiliationIds": "60104176;60104176;60104176;60025153;60025153;60122257",
+      "corresponding": "Ciapessoni E.",
+      "keywords": "power system operation | risk | vulnerability",
+      "abstract": "The increasing vulnerability of modern power systems to both natural and man-related threats, as well as their increasing dependency on ICT systems makes it convenient to adopt integrated approaches for security assessment and control. Moreover, the need to analyse extreme, low-probability events (from which many blackouts originated in the past) calls for the adoption of the risk concept to perform more in-depth security analyses. The present paper describes a probabilistic risk-based methodology, developed within the EU research project called AFTER, aimed to perform risk assessment (including hazard, vulnerability and impact analysis) of the integrated electrical power and ICT systems. The paper focuses on the steps to build the assessment framework (threats/vulnerabilities identification and classification, contingency modeling, power system response modeling and computation of risk indicators for operation and planning purposes). © 2013 AEIT.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84870830633",
+      "title": "Load management by advanced protection systems in low voltage microgrids",
+      "doi": "10.1109/EnergyCon.2012.6348245",
+      "venue": "2012 IEEE International Energy Conference and Exhibition Energycon 2012",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2012,
+      "volume": null,
+      "issue_id": null,
+      "pages": "720-724",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100223117",
+      "authors": "De Danieli A.; Fidigatti A.; Ragaini E.; Massucco S.; Morini A.; Silvestro F.",
+      "author_ids": "55515526700;36699443500;6507406235;6603357712;7006658135;23026343700",
+      "authorAffiliationIds": "113250666;113250666;113250666;60025153;60025153;60025153",
+      "corresponding": "De Danieli A.",
+      "keywords": "Demand Side Management | electric energy distribution | load management | protection systems | smartgrids",
+      "abstract": "We propose methods and strategies for identifying the loads and/or the generators that can be turned off or dispatched according to objectives of safety and energy saving. Some possible energy demand management algorithms based on traditional and innovative techniques have been defined and developed. These algorithms, based on information gathered in real time by measurement and protection devices, allow the control of the system by opening and closing the switches in series with the circuits supplying those loads identified as controllable. © 2012 IEEE.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-77956344974",
+      "title": "Microturbine control modeling to investigate the effects of distributed generation in electric energy networks",
+      "doi": "10.1109/JSYST.2010.2059190",
+      "venue": "IEEE Systems Journal",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2010,
+      "volume": "4",
+      "issue_id": "3",
+      "pages": "303-312",
+      "issn": "19328184",
+      "eIssn": "19379234",
+      "source_id": "11300153734",
+      "authors": "Grillo Samuele; Massucco Stefano; Morini Andrea; Pitto Andrea; Silvestro Federico",
+      "author_ids": "24437542800;6603357712;7006658135;35068505700;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Grillo S.",
+      "keywords": "Active and reactive power controls | distributed generation | microturbines | smart grids | voltage and frequency controls",
+      "abstract": "The great attention of research initiatives to sustainable energy systems calls for contributions in modeling new small size generation plants exploiting innovative technologies. In such a context, the paper presents detailed models of the components and controls forming the thermo-mechanical and electric subsystems of a microturbine power plant. The modeled thermo-mechanical subsystem includes different control loops: a speed controller for primary frequency control (droop control), an acceleration control loop, which limits the rotor acceleration in case of sudden loss of load or in case of start-up, and a controller to limit the temperature of the exhaust gases below the maximum admissible temperature. The modeling of control schemes in the electric subsystem is another key issue of the paper in view of providing efficient energy production from distributed generation: an active power-voltage (PV) control is adopted for the inverter in case of the operation of a microturbine connected to the grid. This control scheme provides an innovative contribution with respect to the usually adopted active power-reactive power (PQ) control scheme. The adoption of the PV control scheme allows to evaluate the contribution of micro-turbines to voltage support in electric distribution grids. In case of isolated operation of the generation source a voltage-frequency (VF) control scheme is proposed. A test grid is set up for model validation and the simulation results are described and discussed. © 2010 IEEE.",
+      "citations": 49,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 95,
+              "rank": 25,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 95,
+              "rank": 49,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 93,
+              "rank": 25,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 93,
+              "rank": 68,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 93,
+              "rank": 35,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-77952163309",
+      "title": "Modeling of DFIG wind turbine and lithium ion energy storage system",
+      "doi": "10.1109/COMPENG.2010.27",
+      "venue": "Compeng 2010 Complexity in Engineering",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2010,
+      "volume": null,
+      "issue_id": null,
+      "pages": "43-45",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "19700173129",
+      "authors": "Marinelli M.; Morini A.; Silvestro F.",
+      "author_ids": "55936425500;7006658135;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Marinelli M.",
+      "keywords": "DFIG | Embedded generation | Lithium ion | Renewable generation | Storage | Wind power",
+      "abstract": "The paper is aimed at describing the dynamic models of DFIG equipped wind turbine and Lithium Ion Energy System. The purpose of the energy storage system is to be coupled to the wind generation system in order to smooth its power output. Depending on the size of the storage system different task can be performed, starting from short term fluctuation leveling and power quality, getting to primary frequency-power regulation and, in case on large sizing, granting day-ahead turbines dispatching. © 2010 IEEE.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-74949122414",
+      "title": "A solid oxide fuel cell model to investigate load following and stability issues in distribution networks",
+      "doi": "10.1109/PTC.2009.5282267",
+      "venue": "2009 IEEE Bucharest Powertech Innovative Ideas Toward the Electrical Grid of the Future",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2009,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "19600157813",
+      "authors": "Massucco S.; Morini A.; Petretto G.; Pitto A.; Silvestro F.",
+      "author_ids": "6603357712;7006658135;57034347800;35068505700;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60027994;60025153;60025153",
+      "corresponding": "Massucco S.",
+      "keywords": "Distributed generation | Gas turbine | Load following | Solide oxide fuel cell | Transient stability",
+      "abstract": "The increase of DG penetration in the distribution networks makes more and more interesting the investigation of security issues which are typical of the large transmission grids (transient stability, voltage stability and small signal stability) as well as the study of the DG responses to load changes in the grid. This paper presents the model of a Solid Oxide Fuel Cell (SOFC) dedicated to perform dynamic simulations on MV distribution networks. In particular in the present paper transient stability and load following issues are tackled. The first part of the paper is aimed at describing the model of the SOFC which is then used in the test system. As also a gas turbine is inserted into the test system, a brief look at the gas turbine model is mandatory. The aforementioned models include both the slow dynamics (GT prime mover, electrochemical system time constants for SOFC) necessary to study the DG response to load variations and the fast dynamics (e.g the power converter control and protection systems for SOFCs) necessary to study the transient stability related issues. The results of the analysis (carried out on a test MV distribution network) are reported and some conclusions are drawn. © 2009 IEEE.",
+      "citations": 5,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-68949201574",
+      "title": "Modeling of doubly fed induction generator (DFIG) equipped wind turbine for dynamic studies",
+      "doi": "10.1109/UPEC.2008.4651589",
+      "venue": "Proceedings of the Universities Power Engineering Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2008,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "69722",
+      "authors": "Marinelli Mattia; Morini Andrea; Pitto Andrea; Silvestro Federico",
+      "author_ids": "55936425500;7006658135;35068505700;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Marinelli M.",
+      "keywords": "Doubly fed induction generator | Frequency regulation | Low voltage ride through | Voltage regulation | Wind turbine",
+      "abstract": "The paper is aimed at presenting the dynamic behaviour of a wind turbine equipped with a doubly fed induction generator (DFIG) in case of disturbances in the interconnected grid. A model of a DFIG is presented and adapted for analyzing the response of the wind generator to voltage control, frequency control, voltage sags and wind variations. Simulations, performed by a widely used power system analysis code, are reported and commented.",
+      "citations": 12,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-68949200945",
+      "title": "Impact of distributed generation on network security: Effects on loss-of-main protection reliability",
+      "doi": "10.1109/UPEC.2008.4651489",
+      "venue": "Proceedings of the Universities Power Engineering Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2008,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "69722",
+      "authors": "Bignucolo F.; Caldon R.; Frigo M.; Morini A.; Pitto A.; Silvestra F.",
+      "author_ids": "24463207600;6701557912;36779763700;7006658135;35068505700;36714370100",
+      "authorAffiliationIds": "60000481;60000481;60000481;60025153;60025153;60025153",
+      "corresponding": "Bignucolo F.",
+      "keywords": null,
+      "abstract": "The growing penetration of GD In distribution networks determines a complete redeployment of power flows along distribution feeders, thus causing altered voltage profiles and new issues in protection reliability. This paper addresses the Issue of island opening operation, by using detailed models of GD sources and analyzing the frequency and voltage oscillations induced by islanding in different condition of power flow on the interrupted branch. The aim is to Identify which network conditions should be considered as possible causes of loss-ofmain protection bad operation.",
+      "citations": 13,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-68949213004",
+      "title": "Bifurcation analysis and Chaos detection in power systems",
+      "doi": "10.1109/UPEC.2008.4651499",
+      "venue": "Proceedings of the Universities Power Engineering Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2008,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "69722",
+      "authors": "Grillo S.; Massucco S.; Morini A.; Pitto A.; Silvestro F.",
+      "author_ids": "24437542800;6603357712;7006658135;35068505700;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Grillo S.",
+      "keywords": null,
+      "abstract": "Power systems show a complex non-linear behaviour due to different phenomena widespread over different time frames. Thus, power system stability is a significant research issue. Bifurcation theory can contribute to face these power system security problems. The study of local bifurcations and chaos through the analysis of power system equations can provide a deep insight into the complex behaviour of such large and interconnected systems. This paper describes the numerical continuation methodology and it shows an application example to voltage control in power systems.",
+      "citations": 13,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-50849131854",
+      "title": "A two-stage scheduler of distributed energy resources",
+      "doi": "10.1109/PCT.2007.4538654",
+      "venue": "2007 IEEE Lausanne Powertech Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2007,
+      "volume": null,
+      "issue_id": null,
+      "pages": "2168-2173",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "12100155509",
+      "authors": "Borghetti Alberto; Bosetti Mauro; Grillo Samuele; Morini Andrea; Paolone Mario; Silvestro Federico",
+      "author_ids": "57381372500;24280501800;24437542800;7006658135;6602935459;23026343700",
+      "authorAffiliationIds": "60028218;60028218;60025153;60025153;60028218;60025153",
+      "corresponding": "Borghetti A.",
+      "keywords": "Active distribution networks | Distributed generation | Economic dispatching | Optimal power-flow",
+      "abstract": "The paper presents a two-stage scheduler for the optimal scheduling of distributed energy resources (DER) connected to a distribution network. The proposed approach integrates a centralized day-ahead scheduler with an intra-day one. On the one hand, the day-ahead scheduler calculates the active power set points during the following day taking into account both technical and economic objectives and constraints. On the other hand, the intra-day scheduler takes into account the results of the day-ahead one and updates every 15 minutes the DERs set points for the optimization of the network voltage profiles. The paper describes the implementation of the proposed twostage scheduler algorithm into a computer code based on a JavaScript link between Matlab and EMTP-RV simulation environments and presents the results obtained for the case of a network configuration adapted from the IEEE 34-node test distribution feeder. ©2007 IEEE.",
+      "citations": 21,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-35348863041",
+      "title": "An energy resource scheduler implemented in the automatic management system of a microgrid test facility",
+      "doi": "10.1109/ICCEP.2007.384193",
+      "venue": "2007 International Conference on Clean Electrical Power Iccep 07",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2007,
+      "volume": null,
+      "issue_id": null,
+      "pages": "94-100",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "8200153102",
+      "authors": "Borghetti A.; Bosetti M.; Bossi C.; Massucco S.; Micolano E.; Morini A.; Nucci C. A.; Paolone M.; Silvestro F.",
+      "author_ids": "57381372500;24280501800;20336947400;6603357712;22835830400;7006658135;7006123266;6602935459;23026343700",
+      "authorAffiliationIds": "60028218;60028218;60081911;60025153;60081911;60025153;60028218;60028218;60081911",
+      "corresponding": "Borghetti A.",
+      "keywords": "Central automatic scheduler | Distributed energy resources | LV distribution network | Microgrids",
+      "abstract": "The paper deals with a microgrid test facility, settled at the CESI RICERCA laboratories, equipped with various distributed energy resources (DERs) and connected to a LV network. The operation of such a microgrid is supervised by a central automatic microgrid management system (MMS). The paper first reports and discusses some experimental results carried out for the assessment of DERs performance and for the implementation of specific MMS functions. Then, it describes the functions of the energy resources scheduler (ERS) implemented in the MMS. The scheduler periodically updates the set points of DERs regulators in order to achieve economic, reliability and power quality objectives, starting form the load and renewable production forecasts and from the results of the system state estimation. The ERS is composed by two main parts, namely: a day-ahead economic scheduler of active power set points during the following day for the minimization of the overall costs, and an intra-day scheduler that every 15 minutes settles the set points of the DERs regulators to optimize the voltage profile at the grid buses, taking into account both technical constraints and the day-ahead economic schedules. © 2007 IEEE.",
+      "citations": 24,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84876747820",
+      "title": "Management of low voltage grids with high penetration of distributed generation: Concepts, implementations and experiments",
+      "doi": null,
+      "venue": "41st International Conference on Large High Voltage Electric Systems 2006 Cigre 2006",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2006,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100238654",
+      "authors": "Bertani A.; Borghetti A.; Bossi C.; Biase L. D.E.; Lamquet O.; Massucco S.; Morini A.; Nucci C. A.; Paolone M.; Quaia E.; Silvestro F.",
+      "author_ids": "8275188700;57381372500;20336947400;57028424900;55229344000;6603357712;7006658135;7006123266;6602935459;55662013800;23026343700",
+      "authorAffiliationIds": "60083358;60028218;107134754;60030318;60083358;60025153;60025153;60028218;60028218;60030318;60025153",
+      "corresponding": "Bertani A.",
+      "keywords": "Dispatcher | Distributed generation | Load forecast | Low voltage distribution systems | Renewable energy forecast | Renewable energy sources | State estimation | Test facility",
+      "abstract": "The interconnection of distributed generators in low voltage (LV) networks, together with storage systems, could cause a substantial change in grid operational practice: currently a rising idea proposes to treat generators, storage systems and even loads as distributed energy resources (DER), able to supply services to the grid and accept on-line requests. To emphasise the advantages of Distributed Generation (DG) it is necessary to face the problem with a system approach. In this work both type of services, namely those provided by each generator and those deriving from the co-ordination of different resources, have been investigated. The option represented by a complex master-slave configuration has been discarded in order to avoid its fast communication and control requirements. Instead a prototype based on a centralised resource management solution and a somewhat plug-and-play functionality for each generator has been developed. For this purpose, different control systems have been implemented in order to act during fast transient dynamics due to random load or configuration changes, or to manage the slow modifications of the system conditions due to daily, weekly and seasonal load variations. The regulators of every distributed resource are requested to give response to fast and unpredictable transient dynamics, i.e. to participate to voltage and frequency regulations, harmonic compensations and phase balancing, while a central dispatcher has been conceived as to periodically update the regulators set-points in order to exploit the capabilities of each distributed resource either for present and foreseen grid operating conditions. For voltage and frequency regulations, a specific droop control algorithm has been designed so to be implemented on board of generators connected to the LV grid by an inverter device. In the conceived scenario, each machine, working in parallel with the others, takes on part of the regulation according to its capabilities. For the optimal update of the distributed resources' operating conditions, the developed central dispatcher incorporates the following main functions: short-term forecast of the power produced by renewable energy sources (RES), short-term load forecast and day-ahead load profile prediction, distribution system state estimation, day-ahead economic dispatching and on-line scheduling of the optimal distributed resources' operating conditions. The developed regulators and central dispatcher prototypes have been installed in a test facility set up at Cesi, where several distributed generators of different technologies, storage devices and loads have been interconnected with secondary LV network that can be arranged in different configurations. Some preliminary experiments have been carried out in order to assess the system performances. In particular, according to the view that the high penetration of DG could become an opportunity rather than a problem, as it is frequently considered, the results of this experimental activity show that distributed resources could be suitably used in order to control grid voltage profiles, power flows, and to handling intentional and unintentional islanding condition after separation of the LV grid from the MV distribution grid. The research activity described in this paper was supported in the framework of a National Research Project named GENDIS 21 - Distributed Generation for the Improvement of Power Quality and Environment.",
+      "citations": 42,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-28644431887",
+      "title": "Combined use of simulation and test site electrical networks for assessing and evaluating distributed generation possibilities and performances",
+      "doi": null,
+      "venue": "IEE Conference Publication",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2005,
+      "volume": "4",
+      "issue_id": "2005-11034",
+      "pages": "271-276",
+      "issn": "05379989",
+      "eIssn": null,
+      "source_id": "34914",
+      "authors": "Bertani A.; Bossi C.; Fornari F.; Massucco S.; Morini A.; Silvestro F.",
+      "author_ids": "8275188700;20336947400;7004548236;6603357712;7006658135;23026343700",
+      "authorAffiliationIds": "60083358;60083358;60025153;60025153;60025153;60025153",
+      "corresponding": "Bertani A.",
+      "keywords": null,
+      "abstract": "The paper presents the results of on-going activities related to National and International Research Projects aimed at analyzing the perspectives for Distributed Generation (DG) in Regional and Local Electrical systems. An overview of possible distribution networks for subsequent analysis of DG impact on their operation is reported with reference to three typologies: rural, urban and a test facility network. Results concerning static and dynamic issues related to modelling and simulation of a micro-turbine generator included in the test facility network are reported.",
+      "citations": 7,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84982318918",
+      "title": "Application of an advanced Transient Stability assessment and control method to a realistic power system",
+      "doi": null,
+      "venue": "15th Power Systems Computation Conference Pscc 2005",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2005,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100775291",
+      "authors": "Cirio D.; Lucarella D.; Vimercati G.; Massucco S.; Morini A.; Silvestro F.; Ernst D.; Pavella M.; Wehenkel L.",
+      "author_ids": "6504625684;56149082000;24438587400;6603357712;7006658135;23026343700;7103071727;7003590040;7003833861",
+      "authorAffiliationIds": "60083358;60083358;60083358;60025153;60025153;60025153;60000964;60000964;60000964",
+      "corresponding": "Cirio D.",
+      "keywords": "Dynamic Security Assessment | Generation rescheduling | Preventive control | Transient Stability",
+      "abstract": "The paper presents a technical overview of a large research project on Dynamic Security Assessment (DSA) supported by EU. Transient Stability Assessment and Control, which was one of the main goals of the project, is taken into consideration by presenting the fundamental theoretical methodology and possible applications. A specific prototype installation for a realistic power system is then reported by presenting and commenting some of the obtained results.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-51549117704",
+      "title": "Compensation of voltage sags in a radial network feeding a thyristor bridge controlled load",
+      "doi": "10.1109/PTC.2005.4524511",
+      "venue": "2005 IEEE Russia Power Tech Powertech",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2005,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "12100156719",
+      "authors": "Delfino F.; Fornari F.; Massucco S.; Morini A.; Procopio R.",
+      "author_ids": "6603766602;7004548236;6603357712;7006658135;7801615894",
+      "authorAffiliationIds": "60000251-60025153;60000251;60000251;60000251;60000251",
+      "corresponding": "Delfino F.",
+      "keywords": null,
+      "abstract": "Voltage sags are very frequent events associated with faults in the network, or with common operations like the energization of transformers or the starting of large size motors. Although their duration is very short, they can represent a critical problem for industrial plants, especially for those characterized by the presence of Adjustable Speed Drives or, more generally, of sensitive loads, like Power Electronics devices. In this paper, a Static Series Compensator (SSC) has been connected in a radial network feeding a thyristor bridge rectifier controlled load, for the compensation of voltage sags. The whole system has been simulated with the aid of the electromagnetic code PSCAD-EMTDC and the obtained results show that it is particularly suitable for those cases where the unsymmetrical faults are the responsible for the failure of the thyristor pulse logic, thus resulting in a substantial decrease of the DC voltage.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-62949159568",
+      "title": "Load control for improving system security and economics",
+      "doi": "10.1109/PTC.2003.1304788",
+      "venue": "2003 IEEE Bologna Powertech Conference Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2003,
+      "volume": "4",
+      "issue_id": null,
+      "pages": "595-604",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100496130",
+      "authors": "Cirio D.; Demartini G.; Massucco S.; Morini A.; Scalera P.; Silvestro F.; Vimercati G.",
+      "author_ids": "6504625684;6604065992;6603357712;7006658135;6505520628;23026343700;24438587400",
+      "authorAffiliationIds": "60025153;60083358;60025153;60025153;60025153;60025153;60083358",
+      "corresponding": "Cirio D.",
+      "keywords": "Demand side management | Interruptible loads | Power system security | Power/frequency control",
+      "abstract": "Restructured markets are rarely flawless: the expected price reduction frequently has not been achieved and the system is often operated closer to its limits, with smaller margins on security, reliability and reserve. Thus, it is necessary to find out new resources to reduce price spikes and volatility, to improve transient stability and congestion management, to increase transfer capacity and to provide ancillary services. Loads that can be interrupted and/or controlled may prove to be profitable for each one or these: purposes. This paper presents and discusses the potential benefits provided by the so-called Interruptible loads (IL) to the electric system. Some simulations have been run on the Italian network and on a test system to show how ILs can be a means of increasing the transfer capacity of interconnection lines and how they can compete with generators as ancillary service providers for primary and secondary P/f regulation. © 2003 IEEE.",
+      "citations": 16,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84861510646",
+      "title": "Omases: A Dynamic Security Assessment tool for the new market environment",
+      "doi": "10.1109/PTC.2003.1304418",
+      "venue": "2003 IEEE Bologna Powertech Conference Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2003,
+      "volume": "3",
+      "issue_id": null,
+      "pages": "364-371",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100202741",
+      "authors": "Bihain A.; Cirio D.; Fiorina M.; Lopez R.; Lucarella D.; Massucco S.; Ruiz Vega D.; Vournas C.; Van Cutsem T.; Wehenkel L.; Burt G.; Christoforides G.; Danelli A.; Delfino B.; Demartini G.; Galloway S.; Giri J.; Hasse G.; Hatziargyriou N.; Georgiadis J. D.; Kabouris J.; Koronides T.; Manos G.; Mc Donald J. R.; Morini A.; Pavella M.; Signoretty L.; Siewierski T.; Silvestro F.; Stubbe M.; Taisne J.; Vimercati G.",
+      "author_ids": "6507462305;6504625684;59632762700;57198529315;56149082000;6603357712;6603002976;56227833100;7004004510;7003833861;57804705300;55229393100;6504456962;7003935351;6604065992;7102046532;7005125265;8281779600;35548793600;55956206300;56940444200;55967986600;7004913350;56923786500;7006658135;7003590040;55229393200;6505990022;23026343700;55883331800;7801491379;24438587400",
+      "authorAffiliationIds": "60069999;60025153;122893717;60011464;122893717;60025153;60000964;60002947;60000964;60000964;60024724;122894107;122893717;60025153;122893717;60024724;60011464;60000964;60002947;60002947;122894107;122894107;60002947;60024724;60025153;60000964;60011464;60024724;60025153;60069999;60011464;122893717",
+      "corresponding": "Bihain A.",
+      "keywords": "Dynamic Security Assessment | Market Simulator | Operator training simulator | Power System security | Transient Stability | Transmission capacity | Voltage Stability",
+      "abstract": "The paper presents the efforts and results of a large consortium of European Industries, Research Centers and Universities involved in an EU research project named OMASES in the field of Power System Dynamic Security Assessment (DSA). The overall structure of an on-line DSA tool including TSA -Transient Stability Assessment, VSA - Voltage Stability Assessment, TS - Training Simulator and MS - Market Simulator is reported. Some basic assumptions and methodological aspects of the tool are presented considering its possible use within actual or future Energy Management Systems under the new electric market environment. Scenarios set up for the validation phase and results are reported with reference to the Italian test facility. © 2003 IEEE.",
+      "citations": 9,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0035330101",
+      "title": "Operation and management of the electric system for industrial plants: An expert system prototype for load-shedding operator assistance",
+      "doi": "10.1109/28.924748",
+      "venue": "IEEE Transactions on Industry Applications",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2001,
+      "volume": "37",
+      "issue_id": "3",
+      "pages": "701-708",
+      "issn": "00939994",
+      "eIssn": null,
+      "source_id": "17361",
+      "authors": "Croce Franco; Delfino Bruno; Fazzini Pierangelo A.; Massucco Stefano; Morini Andrea; Silvestro Federico; Sivieri Massimiliano",
+      "author_ids": "7005521543;7003935351;7006142996;6603357712;7006658135;23026343700;6508140526",
+      "authorAffiliationIds": "60084296;60025153;60084296;60000251-60025153;60025153;60025153;60084296",
+      "corresponding": "Croce F.",
+      "keywords": "Adaptive control | Expert systems | Gas turbine generation | Industrial electrical systems | Load shedding",
+      "abstract": "This paper presents the analysis carried out for designing and developing a prototype expert system capable of managing the electrical system of an industrial plant. The electric network of the plant, including significant gas turbine and steam turbine generation facilities, is presented. The modeling phase of the system for successive analysis by simulation using a commercial power system code is also reported. The load-shedding problem is then considered and the related engineering aspects are briefly recalled. The guidelines for the realization of a load-shedding scheme for industrial electrical plants based also on advanced artificial intelligence tools such as expert systems are proposed. The expert system is used online to prepare lookup load-shedding tables capable of accounting for actual process conditions. Offline validation of the proposed shedding is then operated by static and/or dynamic simulation. The use of a prototype rule-based expert system is expected to permit the achievement of a better flexibility in the realization of load-shedding schemes for improving the process continuity and management.",
+      "citations": 19,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 90,
+              "rank": 38,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 89,
+              "rank": 102,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 88,
+              "rank": 49,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-0035791774",
+      "title": "Implementation and comparison of different under frequency load-shedding schemes",
+      "doi": "10.1109/pess.2001.970031",
+      "venue": "Proceedings of the IEEE Power Engineering Society Transmission and Distribution Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2001,
+      "volume": "1",
+      "issue_id": "SUMMER",
+      "pages": "307-312",
+      "issn": "21608555",
+      "eIssn": "21608563",
+      "source_id": "87075",
+      "authors": "Delfino B.; Massucco S.; Morini A.; Scalera P.; Silvestro F.",
+      "author_ids": "7003935351;6603357712;7006658135;6505520628;23026343700",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Delfino B.",
+      "keywords": "Adaptive power system control | Ancillary services | Emergency conditions | Frequency rate of change | Load-shedding | Spinning reserve",
+      "abstract": "In the context of power system restructuring, the maintaining of adequate levels of security and reliability will be operated also through direct load control, thus considering load as the potential provider of ancillary services such as Regulation, Load-following, Frequency Responsive Spinning Reserve. In any case load-shedding still remains the ultimate resource for emergency conditions. In the paper several load-shedding schemes for under-frequency operation are examined. Both traditional schemes, based only on frequency thresholds, and adaptive schemes, based on frequency and on its rate of change, are considered. An IEEE test system for reliability analysis is used to compare the behavior of the proposed schemes when selecting different thresholds and percentages of load to be disconnected. Results are reported into detail and considerations on possible advantages and drawbacks also related to the framework provided by the electricity market are presented.",
+      "citations": 167,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 32,
+              "rank": 670,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-0038153948",
+      "title": "Load-frequency control: New perspectives in the open access environment",
+      "doi": null,
+      "venue": "Proceedings of the IEEE Power Engineering Society Transmission and Distribution Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2000,
+      "volume": "3",
+      "issue_id": null,
+      "pages": "1866-1871",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "87075",
+      "authors": "Delfino B.; Fornari F.; Massucco S.; Morini A.",
+      "author_ids": "7003935351;7004548236;6603357712;7006658135",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Delfino B.",
+      "keywords": "Ancillary services | Automatic generation control | ISO | Load-frequency control | Open access | TSO",
+      "abstract": "The paper presents the fundamental concepts of load-frequency control (LFC) in the new context of open access for electrical energy market implementation. LFC is an essential ancillary service for maintaining system security and reliability. Two possible approaches can be considered: the implementation of LFC schemes for centralized, hierarchical and pluralistic control with the derivation and inclusion of autonomy operating conditions for each control area and the adoption of dynamic bilateral contracts between generation and distribution companies. The former approach is the object of this paper. The guidelines of the UCTE Organism have been considered in implementing the LFC schemes. A three area, 73 bus test system has been used for comparing the different LFC schemes. Results are reported and commented also in view of possible indications on accounting of inadvertent interchanges.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 32,
+              "rank": 670,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85036516774",
+      "title": "Black-start and restoration of a part of the italian hv network: Modelling and simulation of a field test",
+      "doi": "10.1109/9780470545607.ch56",
+      "venue": "Power System Restoration Methodologies and Implementation Strategies",
+      "type": "Book",
+      "sub_type": "Book Chapter",
+      "year": 2000,
+      "volume": null,
+      "issue_id": null,
+      "pages": "415-423",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100840911",
+      "authors": "Delfino B.; Denegri G. B.; Invernizzi M.; Morini A.; Cima Bonini E.; Marconato R.; Scarpellini P.",
+      "author_ids": "7003935351;7004649825;6701527755;7006658135;6504232698;7003817766;7003940022",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60027994;60027994;60027994",
+      "corresponding": "Delfino B.",
+      "keywords": "Computer Modelling | Power System Restoration | Simulation",
+      "abstract": "ENEL (Italian Electricity Board) planned a set of operator guidelines for the restoration of parts of the national grid starting from selected hydro power plants and progressively reaching thermal units. In order to improve system restoration reliability, ENELperiodically executes field tests taking advantage of the maintenance outages of the thermal groups. The paper concerns with modelling and simulation of an experimental test performed on the Italian HV network near the French border. The study makes use of a stability code provided with user defined model facilities, enabUng an accurate description of loads and regulation equipments during the restoration process.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0034509167",
+      "title": "Operation and management of the electric system for industrial plants: An expert system prototype for load-shedding operator assistance",
+      "doi": "10.1109/28.924748",
+      "venue": "Conference Record IAS Annual Meeting IEEE Industry Applications Society",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2000,
+      "volume": "5",
+      "issue_id": null,
+      "pages": "3260-3267",
+      "issn": "01972618",
+      "eIssn": null,
+      "source_id": "17898",
+      "authors": "Croce Franco; Delfino Bruno; Fazzini Pierangelo A.; Massucco Stefano; Morini Andrea; Silvestro Federico; Sivieri Massimiliano",
+      "author_ids": "7005521543;7003935351;7006142996;6603357712;7006658135;23026343700;6508140526",
+      "authorAffiliationIds": "60084296;60084296;60084296;60084296;60084296;60084296;60084296",
+      "corresponding": "Croce F.",
+      "keywords": null,
+      "abstract": "The present paper presents the analysis carried on for designing and developing a prototype expert system capable of managing the electrical system of an industrial plant. The electric network of the plant, including significant generation facilities of the gas turbine and steam turbine type, is presented. The modeling phase of the system for successive analysis by simulation using a commercial power system code is also reported. After a short recalling of the engineering aspects of the load-shedding problem, the guidelines for the realization of a load-shedding scheme for industrial electrical plants based also on advanced artificial intelligence tools such as expert systems are proposed. The use of a prototype rule-based expert system is expected to permit the achievement of a better flexibility in the realization of load-shedding schemes capable of improving the process continuity and management.",
+      "citations": 14,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 23,
+              "rank": 312,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 19,
+              "rank": 804,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 12,
+              "rank": 332,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-77951667942",
+      "title": "Power system automatic generation control revised from the open trading perspective",
+      "doi": "10.1109/PTC.1999.826442",
+      "venue": "International Conference on Electric Power Engineering Powertech Budapest 1999",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1999,
+      "volume": null,
+      "issue_id": null,
+      "pages": "11",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100849701",
+      "authors": "Aresi R.; Delfino B.; Fornari F.; Massucco S.; Morini A.",
+      "author_ids": "6506633182;7003935351;7004548236;6603357712;7006658135",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Aresi R.",
+      "keywords": "Ancillary services | Automatic generation control | Bilateral contracts | Independent system operator | Open trading | Power system operation | Power-frequency control",
+      "abstract": "The paper describes the significant changes expected in power system operation and management required by the restructuring process of electric industry. The problem of Automatic Generation Control (AGC) is addressed under the open trading perspective. The fundamental concepts of AGC are recalled and the possible modifications are presented. The co-existence of a primary service predominantly based on long-Term bilateral contracts and of secondary services (or ancillary services) such as loadfollowing and secondary frequency control is highlighted. Different AGC solutions are theoretically reported and supported by simulations on a CIGRE test system.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-43849105701",
+      "title": "A combined ANN/simulation tool for electric power system dynamic security assessment",
+      "doi": "10.1109/PESS.1999.787511",
+      "venue": "1999 IEEE Power Engineering Society Summer Meeting Pes 1999 Conference Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1999,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "1303-1309",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100844842",
+      "authors": "Aresi R.; Delfino B.; Denegri G. B.; Massucco S.; Morini A.",
+      "author_ids": "6506633182;7003935351;7004649825;6603357712;7006658135",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Aresi R.",
+      "keywords": "Artificial Neural Networks | Contingency Screening | Dynamic Security Assessment | Hybrid Methods | Power System Transient Stability",
+      "abstract": "The increasing complexity of power systems due to their growth, operation close to technical limits, economical constraints and new regulations, calls for the inclusion of dynamic security assessment (DSA) into energy management systems where the overall system control is performed. Recent researches on DSA have shown a significant interest in the accuracy of tools based on hybrid methods, a combination of time domain simulation and transient energy functions. A synthetic review of a hybrid method based procedure, implemented by the authors using a suitably adapted simulation code, is first recalled. Successively the possible application of a tool based on artificial neural networks (ANN) for operating a contingency pre-screening by identifying stable and unstable situations is proposed. The ANN capability of identifying the stable and unstable clusters which may originate after a perturbation is also investigated. The proposed ANN structure has been trained and validated by simulating properly arranged scenarios from a test system constituted by a real size HV network of the Mediterranean area.",
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0030369177",
+      "title": "Voltage stability of power systems: links between static and dynamic approaches",
+      "doi": null,
+      "venue": "Proceedings of the Mediterranean Electrotechnical Conference MELECON",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1996,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "854-858",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "57064",
+      "authors": "Delfino B.; Denegri G. B.; Invernizzi M.; Morini A.",
+      "author_ids": "7003935351;7004649825;6701527755;7006658135",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Delfino B.",
+      "keywords": null,
+      "abstract": "Higher utilization of electric power systems has renewed researchers' interest on voltage stability, which has been analyzed under different approaches that can be generally classified into static and dynamic methods. While the former ones are based on the power flow equations, the latter use system algebraic and differential equations; there might be a correlation between the two forms if linearized models are examined. In this paper, several load flow Jacobians are defined and correlated to the linearized system state matrix to show under which conditions there might be contemporaneous singularity. Several cases related to simple electrical systems including elements (static loads under LTC transformers, induction motors and aggregate dynamic loads) that may prove critical for system voltage stability are analytically considered, evidencing how these relationships can be achieved.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0030358342",
+      "title": "Comparative analysis of power system transient stability assessment by direct and hybrid methods",
+      "doi": null,
+      "venue": "Proceedings of the Mediterranean Electrotechnical Conference MELECON",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 1996,
+      "volume": "3",
+      "issue_id": null,
+      "pages": "1575-1579",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "57064",
+      "authors": "Bonvini B.; Massucco S.; Morini A.; Siewierski T.",
+      "author_ids": "60067693400;6603357712;7006658135;6505990022",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Bonvini B.",
+      "keywords": null,
+      "abstract": "The paper presents the fundamental differences between two different approaches in transient stability assessment for electric power systems: time domain simulation and direct methods which make use of Transient Energy Functions (TEF). After having examined the most significant advantages and drawbacks of the above approaches, the paper reports the features of the so-called hybrid methods, i.e. stability assessment tools based on simulation and on TEF concepts, which are expected to benefit of the advantages of both methods. Results of a preliminary comparative analysis among the different approaches carried out on a test system are reported. Some comments in view of applications of hybrid and direct methods for on-line security assessment are expressed.",
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0030216984",
+      "title": "Black-start and restoration of a part of the italian hv network: modelling and simulation of a field test",
+      "doi": "10.1109/59.535677",
+      "venue": "IEEE Transactions on Power Systems",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 1996,
+      "volume": "11",
+      "issue_id": "3",
+      "pages": "1371-1379",
+      "issn": "08858950",
+      "eIssn": null,
+      "source_id": "28825",
+      "authors": "Delfino B.; Denegri G. B.; Invernizzi M.; Morini A.",
+      "author_ids": "7003935351;7004649825;6701527755;7006658135",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Delfino B.",
+      "keywords": "Computer modelling and simulation | Power system restoration",
+      "abstract": "ENEL (Italian Electricity Board) planned a set of operator guidelines for the restoration of parts of the national grid starting from selected hydro power plants and progressively reaching thermal units. In order to improve system restoration reliability, ENEL periodically executes field tests taking advantage of the maintenance outages of the thermal groups. The paper concerns with modelling and simulation of an experimental test performed on the Italian HV network near the French border. The study makes use of a stability code provided with user defined model facilities, enabling an accurate description of loads and regulation equipments during the restoration process. © 1995 IEEE.",
+      "citations": 72,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 96,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 94,
+              "rank": 17,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-0028742132",
+      "title": "Series compensation through static devices for active power flow control and oscillation damping",
+      "doi": null,
+      "venue": "undefined",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 1994,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "731-736",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "130208",
+      "authors": "Bottino M. P.; Delfino B.; Denegri G. B.; Invernizzi M.; Morini A.",
+      "author_ids": "6603858897;7003935351;7004649825;6701527755;7006658135",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Bottino M.",
+      "keywords": null,
+      "abstract": "Advanced Series Compensation made up of thyristor controlled reactors and fixed capacitors takes full advantage from high speed operation of power electronic devices. In this paper, active power flow regulation on a connection between electric areas is examined, so as to wheel exchanges between utilities, improve transmission capacity, and avoid connection overloads; moreover, a control system is proposed to improve damping of electromechanical oscillations between neighbouring areas. Both interventions affect, in different time frames, the connection reactance through thyristor controlling facilities. The two control loops have been tested on sample power systems using a transient stability program.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-0026898002",
+      "title": "Knowledge-Based Restoration Guidelines",
+      "doi": "10.1109/67.143276",
+      "venue": "IEEE Computer Applications in Power",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 1992,
+      "volume": "5",
+      "issue_id": "3",
+      "pages": "54-59",
+      "issn": "08950156",
+      "eIssn": null,
+      "source_id": "30423",
+      "authors": "Delfino B.; Invernizzi M.; Morini A.",
+      "author_ids": "7003935351;6701527755;7006658135",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Delfino B.",
+      "keywords": null,
+      "abstract": null,
+      "citations": 11,
+      "quartile": null
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1165255",
+      "authors": "Morbiducci, Renata; Morini, Andrea; Vite, Clara",
+      "legacy_id": 534126,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "APPLICAZIONE DEL “RIGENERATO” CONCETTO DI SMART VILLAGE nel territorio mediterraneo costiero",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1222888",
+      "authors": "Vite, Clara; Morbiducci, Renata; Morini, Andrea",
+      "legacy_id": 602126,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Riqualificazione energetica e benessere visivo negli edifici scolastici",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1063522",
+      "authors": "Vite, Clara; Morbiducci, Renata; Morini, Andrea",
+      "legacy_id": 614091,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "A reactivation project of a district of the historical centre of Genova",
+      "scopus_id": "2-s2.0-85118840205",
+      "doi": "10.1088/1755-1315/863/1/012015",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1027840",
+      "authors": "Dassori, Enrico; Messico, Alberto; Morbiducci, Renata; Morini, Andrea; Polverino, Salvatore; Vite, Clara",
+      "legacy_id": 357990,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "A smart village model for the Italian coastal territory",
+      "doi": "10.17410/tema.v5i2.233",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/951944",
+      "authors": "Palmieri, A.; Procopio, R.; Bonfiglio, A.; Brignone, M.; Invernizzi, M.; Morini, A.; Veselic', Boban",
+      "legacy_id": 271456,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Tuning and feasibility analysis of classical first-order MIMO non-linear sliding mode control design for industrial applications",
+      "scopus_id": "2-s2.0-85067605020",
+      "doi": "10.3390/machines7010010",
+      "isi_id": "WOS:000464077500001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/999575",
+      "authors": "Morbiducci, Renata; Morini, Andrea; Messico, Alberto; Vite, Clara",
+      "legacy_id": 325040,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "A resilient refurbishment project for an Italian large sports hall",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/936239",
+      "authors": "Bracco, Stefano; Delfino, Federico; Laiolo, Paola; Morini, Andrea",
+      "legacy_id": 253398,
+      "year": 2018,
+      "miur_type": "262",
+      "title": "Planning & Open-Air Demonstrating Smart City Sustainable Districts",
+      "scopus_id": "2-s2.0-85058030650",
+      "doi": "10.3390/su10124636",
+      "isi_id": "WOS:000455338100302",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "22",
+      "citations_scopus": "45"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/934162",
+      "authors": "Morbiducci, Renata; Messico, Alberto; Morini, Andrea; Vite, Clara; Franza, Federica; Gerosa, Fabio",
+      "legacy_id": 250649,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "CONTRASTARE LA POVERTÀ ENERGETICA",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/927777",
+      "authors": "Dassori, Enrico; Messico, Alberto; Morbiducci, Renata; Morini, Andrea; Polverino, Salvatore; Vite, Clara",
+      "legacy_id": 243427,
+      "year": 2018,
+      "miur_type": "274",
+      "title": "L'applicazione del concetto di Smart Village nel territorio italiano / The application of the Smart Village concept in Italy",
+      "type": "04.02 - Abstract in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/967803",
+      "authors": "Dassori, Enrico; Messico, Alberto; Morbiducci, Renata; Morini, Andrea; Polverino, Salvatore; Vite, Clara",
+      "legacy_id": 288446,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "L'applicazione del concetto di Smart Village nel territorio italiano",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/967960",
+      "authors": "Messico, Alberto; Morini, Andrea; Vite, Clara; Morbiducci, Renata; Franza, Federica; Gerosa, Fabio",
+      "legacy_id": 288609,
+      "year": 2018,
+      "miur_type": "274",
+      "title": "Contrastare la povertà energetica",
+      "type": "04.02 - Abstract in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/890104",
+      "authors": "Morini, Andrea; Messico, Alberto; Morbiducci, Renata; Franza, Federica",
+      "legacy_id": 202205,
+      "year": 2017,
+      "miur_type": "274",
+      "title": "A resilient refurbishment project for an Italian large sports hall",
+      "type": "04.02 - Abstract in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/891008",
+      "authors": "Ciapessoni, Emanuele; Cirio, Diego; Massucco, Stefano; Morini, Andrea; Pitto, Andrea; Silvestro, Federico",
+      "legacy_id": 203086,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "Risk-based dynamic security assessment for power system operation & operational planning",
+      "scopus_id": "2-s2.0-85029051842",
+      "doi": "10.3390/en10040475",
+      "isi_id": "WOS:000400065000064",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "18",
+      "citations_scopus": "29"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/812200",
+      "authors": "Morbiducci, Renata; Morini, Andrea",
+      "legacy_id": 115979,
+      "year": 2014,
+      "miur_type": "273",
+      "title": "First results of a research about the applicability of thermochromic colored coating in a requalification project",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/625745",
+      "authors": "D., Cirio; C., Brasca; E., Ciapessoni; Morini, Andrea; A., Pitto; M., Sforna",
+      "legacy_id": 98855,
+      "year": 2013,
+      "miur_type": "273",
+      "title": "Extended Risk Analysis of Power and ICT Systems",
+      "scopus_id": "2-s2.0-84893577839",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/777465",
+      "authors": "Ragaini, E; Fidigatti, A; Silvestro, Federico; Morini, Andrea; DE DANIELI, A.",
+      "legacy_id": 107622,
+      "year": 2013,
+      "miur_type": "285",
+      "title": "Method for managing load profile of low or medium voltage electric network, involves commanding connection with power source of previously disconnected loads assigned with rank that is higher than disconnection level of network",
+      "type": "05.01 - Brevetto"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/782397",
+      "authors": "Emanuele, Ciapessoni; Diego, Cirio; Andrea, Pitto; Massucco, Stefano; Morini, Andrea; Marino, Sforna",
+      "legacy_id": 108488,
+      "year": 2013,
+      "miur_type": "273",
+      "title": "Assessing security of power and ICT systems via a risk-based approach within an integrated frameworkAEIT Annual Conference 2013",
+      "scopus_id": "2-s2.0-84893385620",
+      "doi": "10.1109/AEIT.2013.6666792",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/539322",
+      "authors": "A., De Danieli; A., Fidigatti; E., Ragaini; Massucco, Stefano; Morini, Andrea; Silvestro, Federico",
+      "legacy_id": 95375,
+      "year": 2012,
+      "miur_type": "273",
+      "title": "Load management by advanced protection systems in Low Voltage microgrids",
+      "scopus_id": "2-s2.0-84870830633",
+      "doi": "10.1109/EnergyCon.2012.6348245",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/620542",
+      "authors": "S., Bianchi; Massucco, Stefano; Morini, Andrea; Silvestro, Federico; G., Troglio; G., Viano",
+      "legacy_id": 98694,
+      "year": 2012,
+      "miur_type": "273",
+      "title": "Studio, sviluppo e validazione di metodi e strumenti innovativi per la gestione di reti di distribuzione attive con generazione da fonte rinnovabile",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/277257",
+      "authors": "Borghetti, A.; Grillo, S.; Massucco, Stefano; Morini, A.; Nucci, C. A.; Paolone, M.; Silvestro, Federico",
+      "legacy_id": 56235,
+      "year": 2010,
+      "miur_type": "262",
+      "title": "Generazione diffusa, sistemi di controllo e accumulo in reti elettriche",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/254521",
+      "authors": "Grillo, S.; Massucco, Stefano; Morini, Andrea; Pitto, A.; Silvestro, Federico",
+      "legacy_id": 49981,
+      "year": 2010,
+      "miur_type": "262",
+      "title": "Bifurcation Analysis and Chaos Detection in Power Systems",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/259284",
+      "authors": "Marinelli, Mattia; Morini, Andrea; Silvestro, Federico",
+      "legacy_id": 53118,
+      "year": 2010,
+      "miur_type": "273",
+      "title": "Modeling of DFIG Wind Turbine and Lithium Ion Energy Storage System",
+      "scopus_id": "2-s2.0-77952163309",
+      "doi": "10.1109/COMPENG.2010.27",
+      "isi_id": "WOS:000278287100009",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/263007",
+      "authors": "Grillo, Samuele; Massucco, Stefano; Morini, Andrea; Pitto, Andrea; Silvestro, Federico",
+      "legacy_id": 54117,
+      "year": 2010,
+      "miur_type": "262",
+      "title": "Microturbine Control Modeling to investigate the Effects of Distributed Generation in Electric Energy Networks",
+      "scopus_id": "2-s2.0-77956344974",
+      "doi": "10.1109/JSYST.2010.2059190",
+      "isi_id": "WOS:000283237100005",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "33",
+      "citations_scopus": "49"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/316237",
+      "authors": "S., Grillo; Massucco, Stefano; Morini, Andrea; S., Scalari; P., Scalera; Silvestro, Federico",
+      "legacy_id": 70274,
+      "year": 2009,
+      "miur_type": "273",
+      "title": "Distribution Management System (DMS) per la gestione intelligente di reti elettriche",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/257179",
+      "authors": "Massucco, Stefano; Morini, Andrea; G., Petretto; A., Pitto; Silvestro, Federico",
+      "legacy_id": 51838,
+      "year": 2009,
+      "miur_type": "273",
+      "title": "A Solid Oxide Fuel Cell model to investigate load following and stability issues in distribution networks",
+      "scopus_id": "2-s2.0-74949122414",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/242555",
+      "authors": "Bignucolo, F; Caldon, R; Frigo, M; Morini, Andrea; Pitto, A; Silvestro, Federico",
+      "legacy_id": 42675,
+      "year": 2008,
+      "miur_type": "273",
+      "title": "Impact of Distributed Generation on network security: effects on loss-of-main protection reliability",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/242556",
+      "authors": "Grillo, S; Massucco, Stefano; Morini, Andrea; Pitto, A; Silvestro, Federico",
+      "legacy_id": 42676,
+      "year": 2008,
+      "miur_type": "273",
+      "title": "Contingency Ranking in electric power systems by the combined use of simulation and energy indices",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/265657",
+      "authors": "S., Grillo; Massucco, Stefano; Morini, Andrea; A., Pitto; Silvestro, Federico",
+      "legacy_id": 54483,
+      "year": 2008,
+      "miur_type": "262",
+      "title": "Modellizzazione di una microturbina con i relativi controlli per lo studio di reti di distribuzione con generazione propria",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/250038",
+      "authors": "Grillo, S.; Massucco, Stefano; Morini, Andrea; Pitto, A.; Silvestro, Federico",
+      "legacy_id": 47637,
+      "year": 2008,
+      "miur_type": "273",
+      "title": "Bifurcation Analysis and Chaos Detection in Power Systems",
+      "isi_id": "WOS:000263146900070",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/242557",
+      "authors": "Marinelli, Mattia; Morini, Andrea; Pitto, A; Silvestro, Federico",
+      "legacy_id": 42677,
+      "year": 2008,
+      "miur_type": "273",
+      "title": "Modeling of doubly fed induction generator (DFIG) equipped wind turbine for dynamics studies",
+      "scopus_id": "2-s2.0-68949201574",
+      "doi": "10.1109/UPEC.2008.4651589",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "12"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/250051",
+      "authors": "Bertani, A.; Borghetti, A.; Bossi, C.; Massucco, Stefano; Morini, Andrea; Nucci, C. A.; Paolone, M.; Silvestro, Federico",
+      "legacy_id": 47649,
+      "year": 2007,
+      "miur_type": "273",
+      "title": "A Day-ahead and Intraday Scheduler of Distributed Resources in a LV Network",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/484381",
+      "authors": "A., Borghetti; M., Bosetti; C., Bossi; Massucco, Stefano; E., Micolano; Morini, Andrea; C., Nucci; M., Paolone; Silvestro, Federico",
+      "legacy_id": 92020,
+      "year": 2007,
+      "miur_type": "273",
+      "title": "An Energy Resource Scheduler Implemented in the Automatic Management System of a Microgrid Test Facility",
+      "scopus_id": "2-s2.0-35348863041",
+      "doi": "10.1109/ICCEP.2007.384193",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "24"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/252063",
+      "authors": "Grillo, S.; Massucco, Stefano; Morini, Andrea; Pitto, A.; Silvestro, Federico",
+      "legacy_id": 48886,
+      "year": 2007,
+      "miur_type": "273",
+      "title": "A Microturbine Model including its Control for the investigation of the effects of Distributed Generation in distribution networks",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/265351",
+      "authors": "A, Borghetti; Bosetti, M.; Grillo, S.; Morini, A.; Paolone, M.; Silvestro, F.",
+      "legacy_id": 54392,
+      "year": 2007,
+      "miur_type": "273",
+      "title": "A Two-Stage Scheduler of Distributed Energy Resources",
+      "scopus_id": "2-s2.0-50849131854",
+      "doi": "10.1109/PCT.2007.4538654",
+      "isi_id": "WOS:000258730101144",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "8",
+      "citations_scopus": "21"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/242609",
+      "authors": "Massucco, S; Morini, Andrea; Silvestro, Federico",
+      "legacy_id": 42707,
+      "year": 2006,
+      "miur_type": "273",
+      "title": "Monitoraggio del carico in tempo reale: strumento per il controllo delle risorse distribuite",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/242611",
+      "authors": "Grillo, S; Meini, L; Morini, Andrea; Silvestro, Federico",
+      "legacy_id": 42708,
+      "year": 2006,
+      "miur_type": "273",
+      "title": "An Insight into Cournot and Nash Equilibria both for a Market Clearing Price and a Pay As Bid Price",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/242607",
+      "authors": "Massucco, S; Morini, Andrea; Silvestro, Federico",
+      "legacy_id": 42705,
+      "year": 2006,
+      "miur_type": "273",
+      "title": "Distributed Generation and Load Monitoring/Control Through Advanced Metering",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/246983",
+      "authors": "Bertani, A.; Borghetti, A.; Bossi, C.; Nucci, C. A.; Lamquet, O.; Paolone, M.; Massucco, Stefano; Morini, Andrea; Silvestro, Federico; DE BIASE, L.; Quaia, E.",
+      "legacy_id": 45444,
+      "year": 2006,
+      "miur_type": "273",
+      "title": "Management of Low Voltage Grid with High Penetration of Distributed Generation: concepts, implementations and experiments.",
+      "scopus_id": "2-s2.0-84876747820",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "42"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/242608",
+      "authors": "Grillo, S; Massucco, S; Morini, Andrea; Pitto, A; Silvestro, Federico",
+      "legacy_id": 42706,
+      "year": 2006,
+      "miur_type": "273",
+      "title": "Applicazione della metodologia della continuazione numerica per la determinazione di biforcazioni locali e caos nei sistemi elettrici per l’energia",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/241878",
+      "authors": "Massucco, S; Morini, Andrea; Silvestro, Federico; Cirio, D; Gaglioti, E.",
+      "legacy_id": 42269,
+      "year": 2006,
+      "miur_type": "273",
+      "title": "Strumenti di valutazione della sicurezza dinamica e di controllo preventivo per i sistemi elettrici",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/241877",
+      "authors": "Mastretta, R; Morini, Andrea",
+      "legacy_id": 42268,
+      "year": 2006,
+      "miur_type": "273",
+      "title": "Protezione dei generatori sincroni contro la perdita di campo e le sovratensioni",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/239403",
+      "authors": "Bertani, A; Bossi, C; Fornari, F; Massucco, S; Morini, Andrea; Silvestro, Federico",
+      "legacy_id": 40810,
+      "year": 2005,
+      "miur_type": "273",
+      "title": "Combined Use of Simulation and Test Site Electrical Networks for Assessing and Evaluating Distributed Generation Possibilities and Performances",
+      "scopus_id": "2-s2.0-28644431887",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/229397",
+      "authors": "Massucco, Stefano; Morini, A.; Silvestro, Federico",
+      "legacy_id": 34970,
+      "year": 2005,
+      "miur_type": "262",
+      "title": "Gestione e controllo di sorgenti distribuite: architetture e strumenti di analisi per il monitoraggio e il controllo del carico elettrico",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/239397",
+      "authors": "Cirio, D; Ernst, D; Lucarella, D; Massucco, Stefano; Morini, Andrea; Silvestro, Federico; Pavella, M; Vimercati, G; Wehenkel, L.",
+      "legacy_id": 40807,
+      "year": 2005,
+      "miur_type": "273",
+      "title": "Application of an Advanced Transient stability assessment and control method to a realistic power system",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/316258",
+      "authors": "Delfino, Federico; Fornari, F.; Massucco, Stefano; Morini, A.; Procopio, Renato",
+      "legacy_id": 70290,
+      "year": 2005,
+      "miur_type": "273",
+      "title": "Compensation of voltage sags in a radial network feeding a thyristor bridge controlled load",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/252881",
+      "authors": "Delfino, Federico; Fornari, F.; Massucco, Stefano; Morini, Andrea; Procopio, Renato",
+      "legacy_id": 49384,
+      "year": 2005,
+      "miur_type": "273",
+      "title": "Compensation of voltage sags in a radial network feeding a thyristor bridge controlled load",
+      "scopus_id": "2-s2.0-51549117704",
+      "doi": "10.1109/PTC.2005.4524511",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/229391",
+      "authors": "Bertani, A.; Bossi, C.; Fornari, F.; Massucco, Stefano; Morini, A.; Silvestro, Federico",
+      "legacy_id": 34965,
+      "year": 2005,
+      "miur_type": "273",
+      "title": "Combined use of simulation and test site networks for assessing and evaluating distributed generation possibilities and performances",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/238549",
+      "authors": "Massucco, S; Morini, Andrea; Scalera, P; Silvestro, Federico; Cirio, D; Demartini, G.",
+      "legacy_id": 40313,
+      "year": 2004,
+      "miur_type": "273",
+      "title": "Il controllo del carico: potenziale contributo alla sicurezza e all'economia nella gestione del sistema elettrico",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/212326",
+      "authors": "Delfino, B; Denegri, G. B.; Invernizzi, Marco; Lucarella, D; Massucco, Stefano; Morini, Andrea",
+      "legacy_id": 26548,
+      "year": 2004,
+      "miur_type": "262",
+      "title": "La Sicurezza dei Sistemi Elettrici per l’Energia. Aspetti Metodologici e Tecnologici sviluppati in due Progetti Europei: OMASES ed EXaMINE",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/238553",
+      "authors": "Cirio, D; Demartini, G; Vimercati, G; Massucco, Stefano; Morini, Andrea; Scalera, P; Silvestro, Federico",
+      "legacy_id": 40314,
+      "year": 2004,
+      "miur_type": "273",
+      "title": "Load as a Potential Contributor to Security Control and Economy Management in Liberalized Power Systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/239457",
+      "authors": "Cirio, D; Demartini, G; Salvetti, M; Massucco, Stefano; Morini, Andrea; Silvestro, Federico",
+      "legacy_id": 40840,
+      "year": 2004,
+      "miur_type": "273",
+      "title": "Integrated simulation tools for electric power system security assessment",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/238556",
+      "authors": "Fornari, F; Massucco, S; Morini, Andrea; Silvestro, Federico",
+      "legacy_id": 40316,
+      "year": 2004,
+      "miur_type": "273",
+      "title": "Il progetto GDLINK: un contributo all’analisi delle prospettive per il controllo della generazione distribuita",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/855992",
+      "authors": "Bihain, A; Cirio, D.; Fiorina, M.; Lopez, R.; Lucarella, DARIO NATALE; Massucco, Stefano; Ruiz Vega, D.; Vournas, C.; Van Cutsem, T.; Wehenkel, L.; Burt, G.; Christoforides, G.; Danelli, A.; Delfino, Bruno; Demartini, G.; Galloway, S.; Giri, J.; Hasse, G.; Hatziargyriou, N.; Georgiadis, J. D.; Kabouris, J.; Koronides, T.; Manos, G.; Mc Donald, J. R.; Morini, Andrea; Pavella, M.; Signoretty, L.; Siewierski, T.; Silvestro, Federico; Stubbe, M.; Taisne, J.; Vimercati, G.",
+      "legacy_id": 164722,
+      "year": 2003,
+      "miur_type": "273",
+      "title": "Omases: A Dynamic Security Assessment tool for the new market environment",
+      "scopus_id": "2-s2.0-84861510646",
+      "doi": "10.1109/PTC.2003.1304418",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/246846",
+      "authors": "Cirio, D.; Demartini, G.; Massucco, Stefano; Morini, Andrea; Scalera, P.; Silvestro, Federico; Vimercati, G.",
+      "legacy_id": 45360,
+      "year": 2003,
+      "miur_type": "273",
+      "title": "Load Control for Improving System Security and Economics",
+      "scopus_id": "2-s2.0-62949159568",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "16"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/240766",
+      "authors": "B., Delfino; Denegri, GIO BATTISTA; Invernizzi, Marco; D., Lucarella; Massucco, Stefano; Morini, Andrea",
+      "legacy_id": 41598,
+      "year": 2003,
+      "miur_type": "273",
+      "title": "La sSicurezza dei sistemi elettrici per l’energia. Aspetti metodologici e tecnologici sviluppati in due progetti Europei: OMASES ed EXaMINE",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/239407",
+      "authors": "Delfino, B; Fornari, F; Morini, Andrea; Procopio, Renato",
+      "legacy_id": 40811,
+      "year": 2002,
+      "miur_type": "273",
+      "title": "A fast controller for a series connected VSC to mitigate voltage sags in distribution systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/240769",
+      "authors": "Cirio, D; Massucco, S; Morini, Andrea; Scalera, P; Silvestro, Federico",
+      "legacy_id": 41600,
+      "year": 2002,
+      "miur_type": "274",
+      "title": "Power System management in alert conditions: an expert system approach",
+      "type": "04.02 - Abstract in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/238560",
+      "authors": "Cirio, D; Massucco, S; Morini, Andrea; Scalera, P; Silvestro, Federico; Demartini, G; Vimercati, G.",
+      "legacy_id": 40317,
+      "year": 2002,
+      "miur_type": "273",
+      "title": "Load response versus generation response during system operation and contingencies",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/207010",
+      "authors": "Croce, F.; Delfino, B.; Fazzini, P. A.; Massucco, Stefano; Morini, A.; Silvestro, Federico; Sivieri, M.",
+      "legacy_id": 24247,
+      "year": 2001,
+      "miur_type": "262",
+      "title": "Operation and management of the electric system for industrial plants: an expert system for load-shedding operator assistance",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/238612",
+      "authors": "Aresi, R; Cirio, D; Massucco, Stefano; Morini, Andrea; Silvestro, Federico",
+      "legacy_id": 40349,
+      "year": 2001,
+      "miur_type": "273",
+      "title": "An ANN application for fast power system transient stability assessment",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/265347",
+      "authors": "B., Delfino; Massucco, Stefano; Morini, Andrea; P., Scalera; Silvestro, Federico",
+      "legacy_id": 54388,
+      "year": 2001,
+      "miur_type": "273",
+      "title": "Implementation and Comparison of Different Under Frequency Load-Shedding Schemes",
+      "scopus_id": "2-s2.0-0035791774",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "167"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/240772",
+      "authors": "Casamatta, F; Cirio, D; Demartini, G; Massucco, S; Morini, Andrea; Polese, L; Salvati, R; Scarpellini, P; Silvestro, Federico",
+      "legacy_id": 41601,
+      "year": 2001,
+      "miur_type": "273",
+      "title": "A Decision Support System for Preventing Power System degradation into Emergency Conditions",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/238615",
+      "authors": "Delfino, B; Fornari, F; Morini, Andrea; Procopio, Renato",
+      "legacy_id": 40350,
+      "year": 2001,
+      "miur_type": "273",
+      "title": "Miglioramento della qualità dell’alimentazione attraverso l’impiego di convertitori a tensione impressa",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/265641",
+      "authors": "Croce, F; Delfino, B; Fazzini, P. A.; Massucco, Stefano; Morini, Andrea; Silvestro, Federico; Sivieri, M.",
+      "legacy_id": 54467,
+      "year": 2001,
+      "miur_type": "262",
+      "title": "Operation and Management of the Electric System for Industrial Plants: an Expert System Prototype for Load-Shedding Operator Assistance",
+      "scopus_id": "2-s2.0-0035330101",
+      "isi_id": "WOS:000168904200005",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "11",
+      "citations_scopus": "19"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/204486",
+      "authors": "Delfino, B; Fornari, F; Massucco, S; Morini, Andrea",
+      "legacy_id": 23418,
+      "year": 2000,
+      "miur_type": "273",
+      "title": "Load-Frequency Control: new perspectives in the open access environment",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/203859",
+      "authors": "Aresi, R; Cirio, D; Massucco, S; Morini, Andrea; Silvestro, Federico",
+      "legacy_id": 23032,
+      "year": 2000,
+      "miur_type": "273",
+      "title": "Dynamic Behavior of an Industrial Power System under Severe Islanding Operation",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/484366",
+      "authors": "B., Delfino; F., Croce; P., Fazzini; Massucco, Stefano; Morini, Andrea; Silvestro, Federico; M., Sivieri",
+      "legacy_id": 92019,
+      "year": 2000,
+      "miur_type": "273",
+      "title": "Operation and management of the electric system for industrial plants: an expert system prototype for load-shedding operator assistance",
+      "scopus_id": "2-s2.0-0034509167",
+      "doi": "10.1109/IAS.2000.882633",
+      "isi_id": "WOS:000166107300490",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "9",
+      "citations_scopus": "14"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/203003",
+      "authors": "Delfino, B; Fornari, F; Massucco, S; Morini, Andrea",
+      "legacy_id": 22458,
+      "year": 2000,
+      "miur_type": "273",
+      "title": "Analysis and Implementation of Load-Frequency Control Schemes for Interconnected Systems under Open Access",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/544520",
+      "authors": "A., Aresi; R., Biggi; B., Delfino; Morini, Andrea; M., Parodi",
+      "legacy_id": 95844,
+      "year": 1999,
+      "miur_type": "273",
+      "title": "Uno strumento interattivo per la progettazione di sistemi di illuminazione in gallerie stradali",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/203004",
+      "authors": "Massucco, S; Morini, Andrea; Silvestro, Federico",
+      "legacy_id": 22459,
+      "year": 1999,
+      "miur_type": "273",
+      "title": "Metodologie di distacco carico per impianti industriali basate su sistemi esperti",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/203861",
+      "authors": "B., Delfino; Denegri, GIO BATTISTA; Invernizzi, Marco; Morini, Andrea",
+      "legacy_id": 23034,
+      "year": 1997,
+      "miur_type": "273",
+      "title": "Interactions between AC and DC transmission system: modelling for use in power system studies",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/203862",
+      "authors": "Aresi, R; Delfino, B; Denegri, G. B.; Massucco, Stefano; Morini, Andrea",
+      "legacy_id": 23035,
+      "year": 1997,
+      "miur_type": "273",
+      "title": "An Artificial Neural Network Approach to Dynamic Security.Assesment in Electric Power Systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/387813",
+      "authors": "B., Delfino; Denegri, GIO BATTISTA; Invernizzi, Marco; Morini, Andrea",
+      "legacy_id": 83626,
+      "year": 1997,
+      "miur_type": "273",
+      "title": "REGES: un Ambiente Integrato Sistema Esperto - Simulatore per Addestramento Operatore nel Processo di Riaccensione di una Rete Elettrica",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/204420",
+      "authors": "B., Delfino; Denegri, GIO BATTISTA; Invernizzi, Marco; Morini, Andrea",
+      "legacy_id": 23376,
+      "year": 1996,
+      "miur_type": "273",
+      "title": "Voltage stability of power systems: links between static and dynamic approaches",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/247528",
+      "authors": "Delfino, Bruno; Denegri, GIO BATTISTA; Invernizzi, Marco; Morini, Andrea; BONINI CIMA, E.; Marconato, R.; Scarpellini, P.",
+      "legacy_id": 45793,
+      "year": 1996,
+      "miur_type": "262",
+      "title": "Black-start and restoration of a part of the Italian HV network: modelling and simulation of a field test",
+      "doi": "10.1109/59.535677",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/203860",
+      "authors": "Bonvini, B; Massucco, Stefano; Morini, Andrea; Siewierski, T.",
+      "legacy_id": 23033,
+      "year": 1996,
+      "miur_type": "273",
+      "title": "A Comparative Analysis of Power System Transient Stability Assesment by Direct and Hybrid Methods",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/387040",
+      "authors": "B., Bonvini; Massucco, Stefano; Morini, Andrea; T., Siewierski",
+      "legacy_id": 82937,
+      "year": 1996,
+      "miur_type": "273",
+      "title": "A Comparative Analysis of Power System Transient Assessment by Direct and Hybrid Methods",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/204417",
+      "authors": "Massucco, Stefano; Morini, Andrea; Siewierski, T.",
+      "legacy_id": 23373,
+      "year": 1995,
+      "miur_type": "273",
+      "title": "Transient Stability Assesment: Setting-up a direct method-based tool for expert system environment",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/204414",
+      "authors": "M. P., Bottino; B., Delfino; Denegri, GIO BATTISTA; Invernizzi, Marco; Morini, Andrea",
+      "legacy_id": 23372,
+      "year": 1995,
+      "miur_type": "273",
+      "title": "Enhancement of power system performance over different time frames using advanced series compensation",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/251700",
+      "authors": "Delfino, B.; Denegri, GIO BATTISTA; Invernizzi, Marco; Morini, Andrea",
+      "legacy_id": 48728,
+      "year": 1995,
+      "miur_type": "273",
+      "title": "Enhancing Flexibility of Restoration Guidelines through an Integrated Simulator-KB Approach",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/204419",
+      "authors": "Bottino, M. P.; Denegri, GIO BATTISTA; Invernizzi, Marco; Morini, Andrea",
+      "legacy_id": 23375,
+      "year": 1995,
+      "miur_type": "273",
+      "title": "A frequency response oriented approach to rotor losses evaluation in converter operated synchronous machines",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/204418",
+      "authors": "Bottino, M. P.; Delfino, B; Garzi, G; Morini, Andrea",
+      "legacy_id": 23374,
+      "year": 1995,
+      "miur_type": "273",
+      "title": "Harmonic Interaction in Back-to-Back HVDC Link between AC Systems at Different Frequencies",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/204412",
+      "authors": "Bottino, M. P.; Garzi, G; Morini, Andrea",
+      "legacy_id": 23370,
+      "year": 1994,
+      "miur_type": "273",
+      "title": "Harmonic Distortion Due to Back to Back HVDC Links Connecting Power Systems at Different Frequencies",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/204413",
+      "authors": "M. P., Bottino; B., Delfino; Denegri, GIO BATTISTA; Invernizzi, Marco; Morini, Andrea",
+      "legacy_id": 23371,
+      "year": 1994,
+      "miur_type": "273",
+      "title": "Series compensation through static devices for active power control and oscillation damping",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/204410",
+      "authors": "B., Delfino; Denegri, GIO BATTISTA; Invernizzi, Marco; Morini, Andrea; G., Dellepiane",
+      "legacy_id": 23368,
+      "year": 1993,
+      "miur_type": "273",
+      "title": "Evaluating HVDC control system performance under transient conditons",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/204411",
+      "authors": "B., Delfino; Denegri, GIO BATTISTA; Invernizzi, Marco; Morini, Andrea; O., Bertoldi; R., Cicoria; P., Migliardi",
+      "legacy_id": 23369,
+      "year": 1993,
+      "miur_type": "273",
+      "title": "A KB module to remove real power flow violations while performing load flow calculations",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/204409",
+      "authors": "B., Delfino; Denegri, GIO BATTISTA; Invernizzi, Marco; Morini, Andrea; R., Marconato; P., Scarpellini",
+      "legacy_id": 23367,
+      "year": 1993,
+      "miur_type": "273",
+      "title": "Sulla possibilita' dell'impiego di reti abduttive per il controllo dei sovraccarichi termici di un sistema elettrico",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/204408",
+      "authors": "B., Delfino; Denegri, GIO BATTISTA; Invernizzi, Marco; Morini, Andrea",
+      "legacy_id": 23366,
+      "year": 1993,
+      "miur_type": "273",
+      "title": "Enhancing emergency and restorative controls in electrical power systems via expert systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/204407",
+      "authors": "Delfino, B; Denegri, G. B.; Invernizzi, Marco; Morini, Andrea",
+      "legacy_id": 23365,
+      "year": 1992,
+      "miur_type": "273",
+      "title": "Enhancing emergency and restorative controls in electric power systems via expert systems",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/204405",
+      "authors": "B., Delfino; Invernizzi, Marco; R., Marconato; Morini, Andrea; P., Scarpellini",
+      "legacy_id": 23363,
+      "year": 1992,
+      "miur_type": "273",
+      "title": "Considerations on modelling and behaviour of some typical industrial loads following large variations of frequency and voltage",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/247855",
+      "authors": "Delfino, B.; Invernizzi, Marco; Morini, Andrea",
+      "legacy_id": 46045,
+      "year": 1992,
+      "miur_type": "262",
+      "title": "Knowledge based restoration guidelines",
+      "scopus_id": "2-s2.0-0026898002",
+      "doi": "10.1109/67.143276",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "11"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/204406",
+      "authors": "Denegri, G. B.; Marconato, R; Morini, Andrea; Pinceti, Paolo; Scarpellini, P.",
+      "legacy_id": 23364,
+      "year": 1992,
+      "miur_type": "273",
+      "title": "Performances of the auxiliary systems of thermal power plants with UP boilers following large perturbations",
+      "type": "04.01 - Contributo in atti di convegno"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:15:38.935345"
+}

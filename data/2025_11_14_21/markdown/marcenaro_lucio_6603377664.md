@@ -1,0 +1,4460 @@
+# Marcenaro Lucio
+
+## Overview
+- **Unit:** ICT
+- **Role:** Professore associato
+- **Grade:** Prof.Associato Legge 240/10 - t.pieno - classe 2
+- **SSD:** IINF-03/A (Telecomunicazioni)
+- **Scopus ID:** 6603377664
+- **UNIGE ID:** 056825
+- **Retrieved at:** 2025-11-14T15:17:35.703859
+
+## Contact
+- **Email:** lucio.marcenaro@unige.it
+- **Phone:** +39 010 33 52060
+- **Website:** http://ginevra.dibe.unige.it/isip40/
+- **Page:** https://rubrica.unige.it/personale/VUZBU1hs
+- **Locations:** Opera Pia - padiglione C (Ex CNR) (ED_161450501), 2° piano, US_161450501.II.013
+
+## Career
+- RU, 2012-05-01 → 2021-02-28
+- PA, 2021-03-01 → 2222-02-02
+
+## Responsibilities
+- **Title:** Coordinatore di Corso di studio
+  - **Unit:** Consiglio Del Corso Di Laurea In Ingegneria Elettronica
+  - **Period:** 2025-09-09 → 2028-10-31
+
+## Teaching
+### 2025
+- Fundamentals Of Telecommunications And Signal Processing (114623), L-8 - Ingegneria Informatica
+- Fundamentals Of Telecommunications And Signal Processing (114623), L-8 - Ingegneria Informatica
+- Segnali E Sistemi Per Le Telecomunicazioni (72512), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Multimedia Signal Processing For Autonomous Systems (104780), Lm-27 - Internet And Multimedia Engineering
+- Pervasive Dynamic Electronics (114766), Lm-29 - Electronic Engineering
+- Python (118063), Lm-27 - Internet And Multimedia Engineering
+
+### 2024
+- Pervasive Electronics (108730), Lm-29 - Ingegneria Elettronica
+- Fondamenti Di Programmazione Per L'Elaborazione Di Segnali E Dati (111042), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Fondamenti Di Programmazione Per L'Elaborazione Di Segnali E Dati (111042), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Multimedia Signal Processing For Autonomous Systems (104780), Lm-27 - Internet And Multimedia Engineering
+- Integrated Sensing And Communications (114763), Lm-29 - Electronic Engineering
+
+### 2023
+- Pervasive Electronics (108730), Lm-29 - Ingegneria Elettronica
+- Fondamenti Di Programmazione Per L'Elaborazione Di Segnali E Dati (111042), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Multimedia Signal Processing For Autonomous Systems (104780), Lm-27 - Internet And Multimedia Engineering
+
+### 2022
+- Human- Computer Interac. & Pervasive Electr. Mod.B (72394), Lm-29 - Ingegneria Elettronica
+- Fondamenti Di Programmazione (66061), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Multimedia Signal Processing For Autonomous Systems (104780), Lm-27 - Internet And Multimedia Engineering
+
+### 2021
+- Human- Computer Interac. & Pervasive Electr. Mod.B (72394), Lm-29 - Ingegneria Elettronica
+- Laboratorio Di Informatica E Telematica (94721), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Multimedia Signal Processing For Autonomous Systems (104780), Lm-27 - Internet And Multimedia Engineering
+
+### 2020
+- Human- Computer Interac. & Pervasive Electr. Mod.B (72394), Lm-29 - Ingegneria Elettronica
+- Laboratorio Di Informatica E Telematica (94721), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+
+## Scopus Metrics
+- absolute; Docs: 214; Journals: 65; Conferences: 130; Citations: 2775; H-index: 24
+- 15 years (2010-2025); Docs: 187; Journals: 57; Conferences: 112; Citations: 2241; H-index: 21
+- 10 years (2015-2025); Docs: 148; Journals: 54; Conferences: 80; Citations: 1867; H-index: 19
+- 05 years (2020-2025); Docs: 72; Journals: 35; Conferences: 34; Citations: 541; H-index: 14
+
+## Scopus Products
+1.
+   - **Title:** Bayesian Geometric-based Interactions Learning Model for Self-aware Autonomous Agents
+   - **Venue:** Signal Processing
+   - **Year:** 2026
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1016/j.sigpro.2025.110237
+   - **Scopus ID:** 2-s2.0-105013855324
+   - **ISSN:** 01651684
+   - **Volume:** 239
+   - **Authors:** Iqbal Hafsa; Marin Pablo; Marcenaro Lucio; Gomez David Martin; Regazzioni Carlo
+   - **Keywords:** Active/passive interactions | Autobiographical Memory | Incremental learning | Interactive Geometrical Markov Jump Particle Filter | Interactive Hierarchical Generalized Dynamic Bayesian Network
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 25, percentile 87)
+     - Computer Vision and Pattern Recognition (Q1, rank 27, percentile 84)
+     - Electrical and Electronic Engineering (Q1, rank 166, percentile 83)
+     - Control and Systems Engineering (Q1, rank 71, percentile 81)
+     - Software (Q1, rank 101, percentile 79)
+   - **Source Id:** 25548
+   - **Author Ids:** 57210995304;57190806708;6603377664;59388326900;60058505600
+   - **Authoraffiliationids:** 60025153-60001741;60001741;60025153;60001741;60025153
+   - **Corresponding:** Iqbal H.
+2.
+   - **Title:** Vehicle localization in an explainable dynamic Bayesian network framework for self-aware agents
+   - **Venue:** Information Fusion
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1016/j.inffus.2025.103136
+   - **Scopus ID:** 2-s2.0-105002287594
+   - **ISSN:** 15662535
+   - **Volume:** 122
+   - **Authors:** Slavic Giulia; Zontone Pamela; Marcenaro Lucio; Gómez David Martín; Regazzoni Carlo
+   - **Keywords:** Anomaly detection | Dynamic Bayesian networks | Explainable machine learning | Visual-based localization
+   - **Quartile:**
+     2025:
+     - Hardware and Architecture (Q1, rank 2, percentile 99)
+     - Information Systems (Q1, rank 6, percentile 98)
+     - Signal Processing (Q1, rank 3, percentile 98)
+     - Software (Q1, rank 12, percentile 97)
+   - **Source Id:** 26099
+   - **Author Ids:** 57218159779;12805791200;6603377664;59388326900;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60025153;60025153;60001741;60025153
+   - **Corresponding:** Slavic G.
+3.
+   - **Title:** Toward Autonomous UAV Swarm Navigation: A Review of Trajectory Design Paradigms
+   - **Venue:** Sensors
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 0
+   - **DOI:** 10.3390/s25185877
+   - **Scopus ID:** 2-s2.0-105017224051
+   - **eISSN:** 14248220
+   - **Volume:** 25
+   - **Issue:** 18
+   - **Authors:** Arshid Kaleem; Krayani Ali; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo
+   - **Keywords:** artificial intelligence | bio-inspired algorithms | collision avoidance | MTSP | multi-agent systems | swarm robotics | trajectory planning | UAV swarm | unmanned aerial vehicles
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+   - **Source Id:** 130124
+   - **Author Ids:** 57215812954;57211429954;6603377664;59388326900;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60025153;60025153;60001741;60025153
+   - **Corresponding:** Arshid K.
+4.
+   - **Title:** A Generative Model Approach for LiDAR-Based Classification and Ego Vehicle Localization Using Dynamic Bayesian Networks
+   - **Venue:** Applied Sciences Switzerland
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3390/app15095181
+   - **Scopus ID:** 2-s2.0-105004880386
+   - **eISSN:** 20763417
+   - **Volume:** 15
+   - **Issue:** 9
+   - **Authors:** Adnan Muhammad; Zontone Pamela; Martín Gómez David; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** anomaly detection | autonomous vehicle navigation | Dynamic Bayesian Networks | interaction dictionaries | LiDAR-based localization | Markov Jump Particle Filter | probabilistic modeling | track classification
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 69, percentile 80)
+     - Instrumentation (Q1, rank 38, percentile 80)
+     - Fluid Flow and Transfer Processes (Q1, rank 21, percentile 79)
+     - Computer Science Applications (Q2, rank 294, percentile 70)
+     - Materials Science (all) (Q2, rank 166, percentile 64)
+     - Process Chemistry and Technology (Q2, rank 34, percentile 55)
+   - **Source Id:** 21100829268
+   - **Author Ids:** 58488399400;12805791200;59746433000;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60025153;60001741;60025153;60025153
+   - **Corresponding:** Adnan M.
+5.
+   - **Title:** Modeling Interactions between Autonomous Agents in a Multi-Agent Self-Awareness Architecture
+   - **Venue:** IEEE Transactions on Multimedia
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1109/TMM.2025.3543110
+   - **Scopus ID:** 2-s2.0-85218784759
+   - **ISSN:** 15209210
+   - **eISSN:** 19410077
+   - **Volume:** 27
+   - **Pages:** 5035-5049
+   - **Authors:** Alemaw Abrham Shiferaw; Slavic Giulia; Zontone Pamela; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo
+   - **Keywords:** Hierarchical dynamic bayesian networks | linear prediction models | multi-modal perception | variational autoencoder | world model
+   - **Quartile:**
+     2025:
+     - Media Technology (Q1, rank 3, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 41, percentile 95)
+     - Signal Processing (Q1, rank 10, percentile 95)
+     - Computer Science Applications (Q1, rank 52, percentile 94)
+   - **Source Id:** 16211
+   - **Author Ids:** 57473774100;57218159779;12805791200;6603377664;59388326900;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60025153-60001741;60025153;60025153;60001741;60025153
+   - **Corresponding:** Alemaw A.S.
+6.
+   - **Title:** Exploring Active Inference for Efficient Resource Allocation in AAV-Enabled Cognitive NOMA Uplink
+   - **Venue:** IEEE Transactions on Cognitive Communications and Networking
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/TCCN.2024.3510577
+   - **Scopus ID:** 2-s2.0-85211248090
+   - **eISSN:** 23327731
+   - **Volume:** 11
+   - **Issue:** 4
+   - **Pages:** 2632-2647
+   - **Authors:** Obite Felix; Krayani Ali; Alam Atm S.; Marcenaro Lucio; Nallanathan Arumugam; Regazzoni Carlo
+   - **Keywords:** AAV | Active inference | cognitive-NOMA | generalized dynamic Bayesian network (GDBN) | resource allocation
+   - **Quartile:**
+     2025:
+     - Hardware and Architecture (Q1, rank 15, percentile 93)
+     - Computer Networks and Communications (Q1, rank 39, percentile 92)
+     - Artificial Intelligence (Q1, rank 55, percentile 88)
+   - **Source Id:** 21100854831
+   - **Author Ids:** 57191589599;57211429954;49862669300;6603377664;6603561059;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60025153-60103966;60022109;60025153-60103966;60022109-60001873;60025153-60103966
+   - **Corresponding:** Obite F.
+7.
+   - **Title:** Methodology for Localizing an Indoor Drone Using Onboard Sensors and Validating by a Fixed Lidar
+   - **Venue:** 2025 IEEE International Workshop on Metrology for Aerospace Metroaerospace 2025 Proceedings
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/MetroAeroSpace64938.2025.11114592
+   - **Scopus ID:** 2-s2.0-105015476856
+   - **Pages:** 137-142
+   - **Authors:** Slavic Giulia; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo
+   - **Keywords:** ArUco markers | drone sensors | indoor drone | Lidar | localization | visual inertial odometry
+   - **Source Id:** 21101329124
+   - **Author Ids:** 57218159779;6603377664;59388326900;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60001741;60025153
+   - **Corresponding:** Slavic G.
+8.
+   - **Title:** UAV Swarm Trajectory Design for Wireless Networks Using Genetic Algorithm-Driven Repulsion Forces
+   - **Venue:** IEEE Access
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/ACCESS.2025.3606121
+   - **Scopus ID:** 2-s2.0-105015180850
+   - **eISSN:** 21693536
+   - **Volume:** 13
+   - **Pages:** 155657-155674
+   - **Authors:** Arshid Kaleem; Krayani Ali; Marcenaro Lucio; Martin Gomez David; Regazzoni Carlo
+   - **Keywords:** collision avoidance | genetic algorithm | repulsion force | trajectory design | UAV swarm
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 42, percentile 88)
+     - Computer Science (all) (Q1, rank 41, percentile 83)
+     - Materials Science (all) (Q1, rank 101, percentile 78)
+   - **Source Id:** 21100374601
+   - **Author Ids:** 57215812954;57211429954;6603377664;59746433000;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60025153;60025153;60001741;60025153
+   - **Corresponding:** Arshid K.
+9.
+   - **Title:** Explainable Reinforcement Learning for Trajectory Design in UAV-assisted Wireless Networks
+   - **Venue:** ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICASSP49660.2025.10890737
+   - **Scopus ID:** 2-s2.0-105009757592
+   - **ISSN:** 15206149
+   - **Authors:** Krayani Ali; Khan Khalid; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** Irl | Rl | Tsp | Uav | Xrl
+   - **Source Id:** 110544
+   - **Author Ids:** 57211429954;57216893532;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153-60103966;60025153;60025153-60103966;60025153-60103966
+   - **Corresponding:** Krayani A.
+10.
+   - **Title:** Exploring action-oriented models via active inference for autonomous vehicles
+   - **Venue:** Eurasip Journal on Advances in Signal Processing
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1186/s13634-024-01173-9
+   - **Scopus ID:** 2-s2.0-85208435018
+   - **ISSN:** 16876172
+   - **eISSN:** 16876180
+   - **Volume:** 2024
+   - **Issue:** 1
+   - **Authors:** Nozari Sheida; Krayani Ali; Marin Pablo; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo
+   - **Keywords:** Action-oriented model | Active inference | Autonomous driving | Bayesian filtering | Imitation learning
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 53, percentile 73)
+     - Electrical and Electronic Engineering (Q2, rank 284, percentile 71)
+     - Hardware and Architecture (Q2, rank 82, percentile 65)
+     2024:
+     - Electrical and Electronic Engineering (Q2, rank 313, percentile 67)
+     - Signal Processing (Q2, rank 61, percentile 66)
+     - Hardware and Architecture (Q2, rank 87, percentile 61)
+   - **Source Id:** 15300154801
+   - **Author Ids:** 57302361700;57211429954;57190806708;6603377664;59388326900;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60025153;60001741;60025153;60001741;60025153
+   - **Corresponding:** Nozari S.
+11.
+   - **Title:** Modeling Autonomous Vehicle Responses to Novel Observations Using Hierarchical Cognitive Representations Inspired Active Inference †
+   - **Venue:** Computers
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.3390/computers13070161
+   - **Scopus ID:** 2-s2.0-85199589083
+   - **eISSN:** 2073431X
+   - **Volume:** 13
+   - **Issue:** 7
+   - **Authors:** Nozari Sheida; Krayani Ali; Marin Pablo; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo
+   - **Keywords:** action-oriented model | active inference | autonomous driving | Bayesian learning | imitation learning | world model
+   - **Quartile:**
+     2025:
+     - Computer Science (miscellaneous) (Q1, rank 26, percentile 85)
+     - Computer Networks and Communications (Q1, rank 90, percentile 83)
+     - Human-Computer Interaction (Q2, rank 55, percentile 71)
+     2024:
+     - Computer Science (miscellaneous) (Q1, rank 26, percentile 84)
+     - Computer Networks and Communications (Q1, rank 101, percentile 80)
+     - Human-Computer Interaction (Q2, rank 59, percentile 68)
+   - **Source Id:** 21100886391
+   - **Author Ids:** 57302361700;57211429954;57190806708;6603377664;57204878586;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60001741;60025153;60001741;60025153
+   - **Corresponding:** Nozari S.
+12.
+   - **Title:** Classifying Static and Dynamic Tracks for LiDAR-Based Navigation of Autonomous Vehicle Systems
+   - **Venue:** 2024 9th International Conference on Frontiers of Signal Processing Icfsp 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICFSP62546.2024.10785465
+   - **Scopus ID:** 2-s2.0-85215671467
+   - **Pages:** 111-117
+   - **Authors:** Adnan Muhammad; Zontone Pamela; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo
+   - **Keywords:** Autonomous vehicles | Classifications | Clustering | Multi-target tracking
+   - **Source Id:** 21101270636
+   - **Author Ids:** 58488399400;12805791200;6603377664;59388326900;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60025153;60025153;60001741;60025153
+   - **Corresponding:** Adnan M.
+13.
+   - **Title:** Incremental Learning Through Fusion of Discrete Anomaly Models from Odometry Signals in Autonomous Agent Navigation
+   - **Venue:** IEEE Workshop on Signal Processing Systems Sips Design and Implementation
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/SiPS62058.2024.00023
+   - **Scopus ID:** 2-s2.0-85213734034
+   - **ISSN:** 15206130
+   - **Pages:** 83-88
+   - **Authors:** Humayun Muhammad Farhan; Zontone Pamela; Marcenaro Lucio; Gómez David Martín; Regazzoni Carlo
+   - **Keywords:** Adaptive Particle filtering | Anomaly detection | Generative model fusion | Incremental learning | Self-aware agent
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 110, percentile 43)
+     - Applied Mathematics (Q3, rank 379, percentile 43)
+     - Electrical and Electronic Engineering (Q3, rank 593, percentile 40)
+     - Hardware and Architecture (Q3, rank 165, percentile 29)
+     2024:
+     - Applied Mathematics (Q2, rank 252, percentile 62)
+     - Signal Processing (Q2, rank 86, percentile 53)
+     - Electrical and Electronic Engineering (Q2, rank 470, percentile 51)
+     - Hardware and Architecture (Q3, rank 131, percentile 41)
+   - **Source Id:** 26058
+   - **Author Ids:** 57762469100;12805791200;6603377664;59388326900;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60025153;60025153;60001741;60025153
+   - **Corresponding:** Humayun M.F.
+14.
+   - **Title:** Learning 3D LiDAR Perception Models for Self-Aware Autonomous Systems
+   - **Venue:** Fusion 2024 27th International Conference on Information Fusion
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.23919/FUSION59988.2024.10706364
+   - **Scopus ID:** 2-s2.0-85207695150
+   - **Authors:** Memon Saleemullah; Krayani Ali; Zontone Pamela; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo
+   - **Keywords:** 3D LiDAR | Generative Dynamic Bayesian Network (GDBN) | Intelligent Transportation Systems (ITSs) | Self-Awareness
+   - **Source Id:** 21101256248
+   - **Author Ids:** 57209179084;57211429954;12805791200;6603377664;59388326900;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60025153;60025153;60025153;60001741;60025153
+   - **Corresponding:** Memon S.
+15.
+   - **Title:** Integrated Learning and Decision Making for Autonomous Agents through Energy based Bayesian Models
+   - **Venue:** Fusion 2024 27th International Conference on Information Fusion
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/FUSION59988.2024.10706431
+   - **Scopus ID:** 2-s2.0-85207692161
+   - **Authors:** Alemaw Abrham Shiferaw; Zontone Pamela; Marcenaro Lucio; Marin Pablo; Gomez David Martin; Regazzoni Carlo
+   - **Source Id:** 21101256248
+   - **Author Ids:** 57473774100;12805791200;6603377664;57190806708;59388326900;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Alemaw A.S.
+16.
+   - **Title:** Joint Data-Driven Analysis of Visual-Odometric Anomaly Signals in Generative Ai-Based Agents
+   - **Venue:** 2024 IEEE International Conference on Acoustics Speech and Signal Processing Workshops Icasspw 2024 Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICASSPW62465.2024.10626634
+   - **Scopus ID:** 2-s2.0-85202443570
+   - **Pages:** 264-268
+   - **Authors:** Slavic Giulia; Bracco Mattia; Marcenaro Lucio; Gómez David Martín; Regazzoni Carlo; Zontone Pamela
+   - **Keywords:** anomaly detection | explainability | Kalman filtering | particle filtering | Variational autoencoder
+   - **Source Id:** 21101245171
+   - **Author Ids:** 57218159779;59302446500;6603377664;57204878586;35513672400;12805791200
+   - **Authoraffiliationids:** 60025153-60001741;60025153;60025153;60001741;60025153;60025153
+   - **Corresponding:** Slavic G.
+17.
+   - **Title:** Interactive Bayesian Generative Models for Abnormality Detection in Vehicular Networks
+   - **Venue:** IEEE Wireless Communications and Networking Conference Wcnc
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/WCNC57260.2024.10570781
+   - **Scopus ID:** 2-s2.0-85198846446
+   - **ISSN:** 15253511
+   - **Authors:** William Nobel J.; Krayani Ali; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** Abnormality detection | Generative Bayesian models | Jammer detection | V2X | Vehicular networks
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q2, rank 148, percentile 57)
+     2024:
+     - Engineering (all) (Q2, rank 133, percentile 61)
+   - **Source Id:** 145653
+   - **Author Ids:** 57824317700;57211429954;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** William N.J.
+18.
+   - **Title:** Self-Supervised Path Planning In Uav-Aided Wireless Networks Based On Active Inference
+   - **Venue:** ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ICASSP48485.2024.10446575
+   - **Scopus ID:** 2-s2.0-105001474583
+   - **ISSN:** 15206149
+   - **Pages:** 13181-13185
+   - **Authors:** Krayani Ali; Khan Khalid; Marcenaro Lucio; Marchese Mario; Regazzoni Carlo
+   - **Keywords:** path planning | self-supervision | traveling salesman | UAV | world model
+   - **Source Id:** 110544
+   - **Author Ids:** 57211429954;57216893532;6603377664;7004398165;35513672400
+   - **Authoraffiliationids:** 60025153-60103966;60025153;60025153-60103966;60025153-60103966;60025153-60103966
+   - **Corresponding:** Krayani A.
+19.
+   - **Title:** Synthetic Speech Attribution: Highlights From the IEEE Signal Processing Cup 2022 Student Competition [SP Competitions]
+   - **Venue:** IEEE Signal Processing Magazine
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1109/MSP.2023.3268823
+   - **Scopus ID:** 2-s2.0-85172226041
+   - **ISSN:** 10535888
+   - **eISSN:** 15580792
+   - **Volume:** 40
+   - **Issue:** 6
+   - **Pages:** 92-98
+   - **Authors:** Salvi Davide; Borrelli Clara; Bestagini Paolo; Antonacci Fabio; Stamm Matthew; Marcenaro Lucio; Majumdar Angshul
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 4, percentile 99)
+     - Signal Processing (Q1, rank 4, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 21, percentile 97)
+     2023:
+     - Applied Mathematics (Q1, rank 2, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 8, percentile 99)
+     - Signal Processing (Q1, rank 2, percentile 98)
+   - **Source Id:** 12996
+   - **Author Ids:** 57222181353;57204830553;21638596100;24340514700;34870520200;6603377664;23971203100
+   - **Authoraffiliationids:** 60023256;60023256;60023256;60023256;60139971;60025153;60105479
+   - **Corresponding:** Salvi D.
+20.
+   - **Title:** A Goal-Directed Trajectory Planning Using Active Inference in UAV-Assisted Wireless Networks
+   - **Venue:** Sensors
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.3390/s23156873
+   - **Scopus ID:** 2-s2.0-85167741786
+   - **ISSN:** 14248220
+   - **Volume:** 23
+   - **Issue:** 15
+   - **Authors:** Krayani Ali; Khan Khalid; Marcenaro Lucio; Marchese Mario; Regazzoni Carlo
+   - **Keywords:** active inference | AI-enabled radios | trajectory design | traveling salesman problem | UAVs | wireless networks | world models
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2023:
+     - Instrumentation (Q1, rank 24, percentile 83)
+     - Electrical and Electronic Engineering (Q1, rank 163, percentile 79)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 48, percentile 78)
+     - Analytical Chemistry (Q1, rank 36, percentile 77)
+     - Information Systems (Q1, rank 91, percentile 77)
+     - Biochemistry (Q2, rank 133, percentile 69)
+   - **Source Id:** 130124
+   - **Author Ids:** 57211429954;57216893532;6603377664;7004398165;35513672400
+   - **Authoraffiliationids:** 60025153-60103966;60025153;60025153-60103966;60025153-60103966;60025153-60103966
+   - **Corresponding:** Krayani A.
+21.
+   - **Title:** Systematic and Comprehensive Review of Clustering and Multi-Target Tracking Techniques for LiDAR Point Clouds in Autonomous Driving Applications
+   - **Venue:** Sensors
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 18
+   - **DOI:** 10.3390/s23136119
+   - **Scopus ID:** 2-s2.0-85164845235
+   - **ISSN:** 14248220
+   - **Volume:** 23
+   - **Issue:** 13
+   - **Authors:** Adnan Muhammad; Slavic Giulia; Martin Gomez David; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** 3D point cloud segmentation | autonomous vehicles (AVs) | clustering algorithms | deep learning | LiDAR (Light Detection and Ranging) | Multi-Target Tracking (MTT) | object detection | point clouds | sensor fusion
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2023:
+     - Instrumentation (Q1, rank 24, percentile 83)
+     - Electrical and Electronic Engineering (Q1, rank 163, percentile 79)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 48, percentile 78)
+     - Analytical Chemistry (Q1, rank 36, percentile 77)
+     - Information Systems (Q1, rank 91, percentile 77)
+     - Biochemistry (Q2, rank 133, percentile 69)
+   - **Source Id:** 130124
+   - **Author Ids:** 58488399400;57218159779;57204878586;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60025153-60001741;60001741;60025153;60025153
+   - **Corresponding:** Adnan M.
+22.
+   - **Title:** Adapting Exploratory Behaviour in Active Inference for Autonomous Driving
+   - **Venue:** ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ICASSP49357.2023.10096947
+   - **Scopus ID:** 2-s2.0-86000375717
+   - **ISSN:** 15206149
+   - **Volume:** 2023-June
+   - **Authors:** Nozari Sheida; Krayani Ali; Marin Pablo; Marcenaro Lucio; Martin David; Regazzoni Carlo
+   - **Keywords:** Active Inference | Bayesian Inference | Exploratory Action | Free Energy | Generative Model
+   - **Source Id:** 110544
+   - **Author Ids:** 57302361700;57211429954;57190806708;6603377664;59368746600;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60025153;60001741;60025153;60001741;60025153
+   - **Corresponding:** Nozari S.
+23.
+   - **Title:** Active Inference for Sum Rate Maximization in UAV-Assisted Cognitive NOMA Networks
+   - **Venue:** 2023 IEEE World Forum on Internet of Things the Blue Planet A Marriage of Sea and Space Wf Iot 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/WF-IoT58464.2023.10539543
+   - **Scopus ID:** 2-s2.0-85195394975
+   - **Authors:** Obite Felix; Krayani Ali; Alam Atm S.; Marcenaro Lucio; Nallanathan Arumugam; Regazzoni Carlo
+   - **Keywords:** Active Inference | Cognitive Radio | NOMA | UAV
+   - **Source Id:** 21101226883
+   - **Author Ids:** 57191589599;57211429954;49862669300;6603377664;6603561059;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60025153;60022109;60025153;60022109;60025153
+   - **Corresponding:** Obite F.
+24.
+   - **Title:** Intelligent Resource Allocation for UAV-Based Cognitive NOMA Networks: An Active Inference Approach
+   - **Venue:** Proceedings 2023 IEEE Future Networks World Forum Future Networks Imagining the Network of the Future Fnwf 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/FNWF58287.2023.10520397
+   - **Scopus ID:** 2-s2.0-85194170647
+   - **Authors:** Obite Felix; Krayani Ali; Alam Atm S.; Marcenaro Lucio; Nallanathan Arumugam; Regazzoni Carlo
+   - **Keywords:** Active Inference | NOMA | Resource Allocation | UAV
+   - **Source Id:** 21101224848
+   - **Author Ids:** 57191589599;57211429954;49862669300;6603377664;6603561059;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60025153;60022109;60025153;60022109;60025153
+   - **Corresponding:** Obite F.
+25.
+   - **Title:** Self-awareness in Cyber-Physical Systems: Recent Developments and Open Challenges
+   - **Venue:** Proceedings Design Automation and Test in Europe Date
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/DATE56975.2023.10137197
+   - **Scopus ID:** 2-s2.0-85162664809
+   - **ISSN:** 15301591
+   - **Volume:** 2023-April
+   - **Authors:** Esterle Lukas; Dutt Nikil; Gruhl Christian; Lewis Peter R.; Marcenaro Lucio; Regazzoni Carlo; Jantsch Axel
+   - **Keywords:** autonomy | cyber-physical systems | reflection | self-awareness
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q3, rank 218, percentile 37)
+   - **Source Id:** 5400152603
+   - **Author Ids:** 49963334900;7006041384;56709554800;55702433500;6603377664;35513672400;6701769322
+   - **Authoraffiliationids:** 60029616;60007278;60018123;60002146;60025153;60025153;60018163
+   - **Corresponding:** Esterle L.
+26.
+   - **Title:** Integrated Sensing and Communication for Joint GPS Spoofing and Jamming Detection in Vehicular V2X Networks
+   - **Venue:** IEEE Wireless Communications and Networking Conference Wcnc
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/WCNC55385.2023.10118852
+   - **Scopus ID:** 2-s2.0-85159775273
+   - **ISSN:** 15253511
+   - **Volume:** 2023-March
+   - **Authors:** Krayani Ali; Barabino Gabriele; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** 6G | GPS spoofing | ISAC | Jamming | V2X
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q2, rank 148, percentile 57)
+   - **Source Id:** 145653
+   - **Author Ids:** 57211429954;58109175400;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153-60103966;60025153-60103966;60025153-60103966;60025153-60103966
+   - **Corresponding:** Krayani A.
+27.
+   - **Title:** A Kalman Variational Autoencoder Model Assisted by Odometric Clustering for Video Frame Prediction and Anomaly Detection
+   - **Venue:** IEEE Transactions on Image Processing
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1109/TIP.2022.3229620
+   - **Scopus ID:** 2-s2.0-85146228107
+   - **ISSN:** 10577149
+   - **eISSN:** 19410042
+   - **Volume:** 32
+   - **Pages:** 415-429
+   - **Authors:** Slavic Giulia; Alemaw Abrham Shiferaw; Marcenaro Lucio; Martin Gomez David; Regazzoni Carlo
+   - **Keywords:** anomaly detection | Kalman filter | linear prediction models | multi-modality | Variational autoencoder
+   - **Quartile:**
+     2025:
+     - Computer Graphics and Computer-Aided Design (Q1, rank 3, percentile 98)
+     - Software (Q1, rank 15, percentile 97)
+     2023:
+     - Computer Graphics and Computer-Aided Design (Q1, rank 2, percentile 98)
+     - Software (Q1, rank 15, percentile 96)
+   - **Source Id:** 25534
+   - **Author Ids:** 57218159779;57473774100;6603377664;57204878586;35513672400
+   - **Authoraffiliationids:** 60025153-60001741-60103966;60025153-60001741;60103966;60001741;60103966
+   - **Corresponding:** Slavic G.
+28.
+   - **Title:** Autonomous Driving Based on Imitation and Active Inference
+   - **Venue:** Lecture Notes in Networks and Systems
+   - **Year:** 2023
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/978-3-031-16281-7_2
+   - **Scopus ID:** 2-s2.0-85137978554
+   - **ISSN:** 23673370
+   - **eISSN:** 23673389
+   - **Volume:** 546 Lnns
+   - **Pages:** 13-22
+   - **Authors:** Nozari Sheida; Krayani Ali; Marin Pablo; Marcenaro Lucio; Martin David; Regazzoni Carlo
+   - **Keywords:** Active inference | Dynamic Bayesian Network | Imitation Learning | Motion prediction
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 146, percentile 25)
+     - Computer Networks and Communications (Q3, rank 410, percentile 25)
+     - Control and Systems Engineering (Q4, rank 302, percentile 20)
+     2023:
+     - Signal Processing (Q4, rank 113, percentile 14)
+     - Control and Systems Engineering (Q4, rank 277, percentile 13)
+     - Computer Networks and Communications (Q4, rank 354, percentile 10)
+   - **Source Id:** 21100901469
+   - **Author Ids:** 57302361700;57211429954;57190806708;6603377664;59368746600;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60025153;60001741;60025153;60001741;60025153
+   - **Corresponding:** Nozari S.
+29.
+   - **Title:** Automatic Jamming Signal Classification in Cognitive UAV Radios
+   - **Venue:** IEEE Transactions on Vehicular Technology
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 31
+   - **DOI:** 10.1109/TVT.2022.3199038
+   - **Scopus ID:** 2-s2.0-85136902815
+   - **ISSN:** 00189545
+   - **eISSN:** 19399359
+   - **Volume:** 71
+   - **Issue:** 12
+   - **Pages:** 12972-12988
+   - **Authors:** Krayani Ali; Alam Atm Shafiul; Marcenaro Lucio; Nallanathan Arumugam; Regazzoni Carlo
+   - **Keywords:** Bayesian filtering | cognitive radio | dynamic Bayesian network | modulation recognition | unmanned aerial vehicles
+   - **Quartile:**
+     2025:
+     - Aerospace Engineering (Q1, rank 5, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 63, percentile 93)
+     - Automotive Engineering (Q1, rank 9, percentile 93)
+     - Computer Networks and Communications (Q1, rank 38, percentile 93)
+     2022:
+     - Aerospace Engineering (Q1, rank 4, percentile 97)
+     - Automotive Engineering (Q1, rank 4, percentile 96)
+     - Computer Networks and Communications (Q1, rank 17, percentile 95)
+     - Electrical and Electronic Engineering (Q1, rank 38, percentile 94)
+   - **Source Id:** 17393
+   - **Author Ids:** 57211429954;49862669300;6603377664;6603561059;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60022109;60025153-60103966;60022109;60025153-60103966
+   - **Corresponding:** Krayani A.
+30.
+   - **Title:** A Novel Resource Allocation for Anti-Jamming in Cognitive-UAVs: An Active Inference Approach
+   - **Venue:** IEEE Communications Letters
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1109/LCOMM.2022.3190971
+   - **Scopus ID:** 2-s2.0-85135243099
+   - **ISSN:** 10897798
+   - **eISSN:** 15582558
+   - **Volume:** 26
+   - **Issue:** 10
+   - **Pages:** 2272-2276
+   - **Authors:** Krayani Ali; Alam Atm S.; Marcenaro Lucio; Nallanathan Arumugam; Regazzoni Carlo
+   - **Keywords:** Active inference | anti-jamming | cognitive radio | generalized Bayesian filtering | resource allocation
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 25, percentile 93)
+     - Electrical and Electronic Engineering (Q1, rank 140, percentile 86)
+     - Computer Science Applications (Q1, rank 167, percentile 83)
+     2022:
+     - Modeling and Simulation (Q1, rank 27, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 124, percentile 83)
+     - Computer Science Applications (Q1, rank 153, percentile 80)
+   - **Source Id:** 18896
+   - **Author Ids:** 57211429954;49862669300;6603377664;6603561059;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60022109;60025153-116308428;60022109;60025153-116308428
+   - **Corresponding:** Krayani A.
+31.
+   - **Title:** Modeling Perception in Autonomous Vehicles via 3D Convolutional Representations on LiDAR
+   - **Venue:** IEEE Transactions on Intelligent Transportation Systems
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1109/TITS.2021.3130974
+   - **Scopus ID:** 2-s2.0-85121376592
+   - **ISSN:** 15249050
+   - **eISSN:** 15580016
+   - **Volume:** 23
+   - **Issue:** 9
+   - **Pages:** 14608-14619
+   - **Authors:** Iqbal Hafsa; Campo Damian; Marin-Plaza Pablo; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo
+   - **Keywords:** 3 D-convolutional encoder decoder | anomaly detection | hierarchical generalize dynamic Bayesian network | high dimensional Markov jump particle filter | LSTM | transfer learning
+   - **Quartile:**
+     2025:
+     - Automotive Engineering (Q1, rank 2, percentile 98)
+     - Mechanical Engineering (Q1, rank 15, percentile 98)
+     - Computer Science Applications (Q1, rank 26, percentile 97)
+     2022:
+     - Mechanical Engineering (Q1, rank 25, percentile 96)
+     - Automotive Engineering (Q1, rank 7, percentile 94)
+     - Computer Science Applications (Q1, rank 51, percentile 93)
+   - **Source Id:** 18378
+   - **Author Ids:** 57210995304;57126952000;57190806708;6603377664;57204878586;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60025153;60001741;60025153;60001741;60025153
+   - **Corresponding:** Iqbal H.
+32.
+   - **Title:** An Emergent Self-Awareness Module for Physical Layer Security in Cognitive UAV Radios
+   - **Venue:** IEEE Transactions on Cognitive Communications and Networking
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1109/TCCN.2022.3161937
+   - **Scopus ID:** 2-s2.0-85132004374
+   - **eISSN:** 23327731
+   - **Volume:** 8
+   - **Issue:** 2
+   - **Pages:** 888-906
+   - **Authors:** Krayani Ali; Alam Atm S.; Marcenaro Lucio; Nallanathan Arumugam; Regazzoni Carlo
+   - **Keywords:** Bayesian filtering | Cognitive radio | dynamic Bayesian network | jamming | unmanned aerial vehicles
+   - **Quartile:**
+     2025:
+     - Hardware and Architecture (Q1, rank 15, percentile 93)
+     - Computer Networks and Communications (Q1, rank 39, percentile 92)
+     - Artificial Intelligence (Q1, rank 55, percentile 88)
+     2022:
+     - Computer Networks and Communications (Q1, rank 20, percentile 94)
+     - Hardware and Architecture (Q1, rank 10, percentile 94)
+     - Artificial Intelligence (Q1, rank 28, percentile 90)
+   - **Source Id:** 21100854831
+   - **Author Ids:** 57211429954;49862669300;6603377664;6603561059;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60022109;60025153-60103966;60022109;60025153-60103966
+   - **Corresponding:** Krayani A.
+33.
+   - **Title:** Privacy-Preserving in-Bed Human Pose Estimation: Highlights from the IEEE Video and Image Processing Cup 2021 Student Competition [SP Competitions]
+   - **Venue:** IEEE Signal Processing Magazine
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1109/MSP.2021.3139587
+   - **Scopus ID:** 2-s2.0-85130139401
+   - **ISSN:** 10535888
+   - **eISSN:** 15580792
+   - **Volume:** 39
+   - **Issue:** 3
+   - **Pages:** 121-129
+   - **Authors:** Liu Shuangjun; Huang Xiaofei; Marcenaro Lucio; Ostadabbas Sarah
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 4, percentile 99)
+     - Signal Processing (Q1, rank 4, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 21, percentile 97)
+     2022:
+     - Applied Mathematics (Q1, rank 2, percentile 99)
+     - Signal Processing (Q1, rank 2, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 12, percentile 98)
+   - **Source Id:** 12996
+   - **Author Ids:** 57201855342;57194874486;6603377664;24483832100
+   - **Authoraffiliationids:** 60141202;60141202;60025153;60141202
+   - **Corresponding:** Liu S.
+34.
+   - **Title:** Automatic Medical Image Diagnosis: Highlights from the 2021 IEEE 5-Minute Video Clip Contest [SP Competitions]
+   - **Venue:** IEEE Signal Processing Magazine
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1109/MSP.2022.3145348
+   - **Scopus ID:** 2-s2.0-85130113943
+   - **ISSN:** 10535888
+   - **eISSN:** 15580792
+   - **Volume:** 39
+   - **Issue:** 3
+   - **Pages:** 130-134
+   - **Authors:** Thomaz Lucas A.; Faria Sergio M.M.; Tavora Luis M.N.; Marcenaro Lucio
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 4, percentile 99)
+     - Signal Processing (Q1, rank 4, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 21, percentile 97)
+     2022:
+     - Applied Mathematics (Q1, rank 2, percentile 99)
+     - Signal Processing (Q1, rank 2, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 12, percentile 98)
+   - **Source Id:** 12996
+   - **Author Ids:** 56437597700;57211906829;7003962307;6603377664
+   - **Authoraffiliationids:** 60056189;60001359;60056189;60025153
+   - **Corresponding:** Thomaz L.A.
+35.
+   - **Title:** Graph-Powered Interpretable Machine Learning Models for Abnormality Detection in Ego-Things Network
+   - **Venue:** Sensors
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.3390/s22062260
+   - **Scopus ID:** 2-s2.0-85126332692
+   - **ISSN:** 14248220
+   - **Volume:** 22
+   - **Issue:** 6
+   - **Authors:** Thekke Kanapram Divya; Marcenaro Lucio; Martin Gomez David; Regazzoni Carlo
+   - **Keywords:** Abnormality detection | Collective-awareness | Dynamic Bayesian network | Interpretability | Markov jump particle filter | Self-awareness
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2022:
+     - Instrumentation (Q1, rank 18, percentile 87)
+     - Electrical and Electronic Engineering (Q1, rank 146, percentile 80)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 47, percentile 77)
+     - Analytical Chemistry (Q1, rank 32, percentile 77)
+     - Information Systems (Q1, rank 87, percentile 77)
+     - Biochemistry (Q2, rank 151, percentile 64)
+   - **Source Id:** 130124
+   - **Author Ids:** 57487822900;6603377664;57204878586;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60025153;60001741;60025153
+   - **Corresponding:** Thekke Kanapram D.
+36.
+   - **Title:** A Data-Driven Approach for the Localization of Interacting Agents via a Multi-Modal Dynamic Bayesian Network Framework
+   - **Venue:** Avss 2022 18th IEEE International Conference on Advanced Video and Signal Based Surveillance
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/AVSS56176.2022.9959648
+   - **Scopus ID:** 2-s2.0-85143907684
+   - **Authors:** Alemaw Abrham Shiferaw; Slavic Giulia; Iqbal Hafsa; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo
+   - **Source Id:** 21101125623
+   - **Author Ids:** 57473774100;57218159779;57210995304;6603377664;57204878586;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60025153-60001741;60025153-60001741;60025153;60001741;60025153
+   - **Corresponding:** Alemaw A.S.
+37.
+   - **Title:** Simultaneous Localization and Anomaly Detection from First-Person Video Data through a Coupled Dynamic Bayesian Network Model
+   - **Venue:** Avss 2022 18th IEEE International Conference on Advanced Video and Signal Based Surveillance
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/AVSS56176.2022.9959613
+   - **Scopus ID:** 2-s2.0-85143895349
+   - **Authors:** Slavic Giulia; Plaza Pablo Marín; Marcenaro Lucio; Gómez David Martin; Regazzoni Carlo
+   - **Source Id:** 21101125623
+   - **Author Ids:** 57218159779;57212312678;6603377664;57204878586;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60001741;60025153;60001741;60025153
+   - **Corresponding:** Slavic G.
+38.
+   - **Title:** Incremental Learning through Probabilistic Behavior Prediction
+   - **Venue:** European Signal Processing Conference
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-85141010092
+   - **ISSN:** 22195491
+   - **Volume:** 2022-August
+   - **Pages:** 1502-1506
+   - **Authors:** Nozari Sheida; Krayani Ali; Marcenaro Lucio; Martin David; Regazzoni Carlo
+   - **Keywords:** action prediction | autonomous tracking | Dynamic Bayesian network | Imitation learning | performance analysis
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 109, percentile 44)
+     - Electrical and Electronic Engineering (Q3, rank 573, percentile 42)
+   - **Source Id:** 21100204301
+   - **Author Ids:** 57302361700;57211429954;6603377664;59368746600;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60025153;60025153;60001741;60025153
+   - **Corresponding:** Nozari S.
+39.
+   - **Title:** Generalized Filtering with Transport Planning for Joint Modulation Conversion and Classification in AI-enabled Radios
+   - **Venue:** IEEE International Conference on Communications
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICC45855.2022.9839176
+   - **Scopus ID:** 2-s2.0-85137267604
+   - **ISSN:** 15503607
+   - **Volume:** 2022-May
+   - **Pages:** 3759-3765
+   - **Authors:** Krayani Ali; William Nobel J.; Alam Atm S.; Marcenaro Lucio; Qin Zhijin; Nallanathan Arumugam; Regazzoni Carlo
+   - **Keywords:** AI-enabled Radio | Explainable AI | Generalized Filtering | Modulation Classification | Transport Planning
+   - **Source Id:** 33201
+   - **Author Ids:** 57211429954;57824317700;49862669300;6603377664;55370178400;6603561059;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60025153-60022109;60022109;60025153;60022109;60022109;60025153
+   - **Corresponding:** Krayani A.
+40.
+   - **Title:** Jammer Detection in Vehicular V2X Networks
+   - **Venue:** Mediterranean Microwave Symposium
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/MMS55062.2022.9825566
+   - **Scopus ID:** 2-s2.0-85135148647
+   - **ISSN:** 21579822
+   - **eISSN:** 21579830
+   - **Volume:** 2022-May
+   - **Authors:** Krayani Ali; William Nobel J.; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** Generalized Dynamic Bayesian Networks | jammer detection | V2x
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 604, percentile 39)
+   - **Source Id:** 20600195647
+   - **Author Ids:** 57211429954;57824317700;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153-60103966;60025153-60103966;60025153-60103966;60025153-60103966
+   - **Corresponding:** Krayani A.
+41.
+   - **Title:** Active Inference Integrated With Imitation Learning for Autonomous Driving
+   - **Venue:** IEEE Access
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1109/ACCESS.2022.3172712
+   - **Scopus ID:** 2-s2.0-85129650616
+   - **eISSN:** 21693536
+   - **Volume:** 10
+   - **Pages:** 49738-49756
+   - **Authors:** Nozari Sheida; Krayani Ali; Marin-Plaza Pablo; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo
+   - **Keywords:** active inference | autonomous driving | dynamic Bayesian network | Imitation learning
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 42, percentile 88)
+     - Computer Science (all) (Q1, rank 41, percentile 83)
+     - Materials Science (all) (Q1, rank 101, percentile 78)
+     2022:
+     - Engineering (all) (Q1, rank 22, percentile 92)
+     - Computer Science (all) (Q1, rank 25, percentile 89)
+     - Materials Science (all) (Q1, rank 78, percentile 82)
+   - **Source Id:** 21100374601
+   - **Author Ids:** 57302361700;57211429954;57190806708;6603377664;57204878586;35513672400
+   - **Authoraffiliationids:** 60001741-60103966-60025153;60001741-60025153;60103966;60001741-60025153;60103966;60001741-60025153
+   - **Corresponding:** Nozari S.
+42.
+   - **Title:** Container Localisation And Mass Estimation With An Rgb-D Camera
+   - **Venue:** ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ICASSP43922.2022.9747134
+   - **Scopus ID:** 2-s2.0-85126945611
+   - **ISSN:** 15206149
+   - **Volume:** 2022-May
+   - **Pages:** 9152-9155
+   - **Authors:** Apicella Tommaso; Slavic Giulia; Ragusa Edoardo; Gastaldo Paolo; Marcenaro Lucio
+   - **Keywords:** Convolutional Neural Networks | Mass estimation | Object detection
+   - **Source Id:** 110544
+   - **Author Ids:** 57216366806;57218159779;56580248800;35612596100;6603377664
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Apicella T.
+43.
+   - **Title:** Configuring an Intelligent Reflecting Surface for Wireless Communications: Highlights from the 2021 IEEE Signal Processing Cup student competition [SP Competitions]
+   - **Venue:** IEEE Signal Processing Magazine
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1109/MSP.2021.3123593
+   - **Scopus ID:** 2-s2.0-85122286319
+   - **ISSN:** 10535888
+   - **eISSN:** 15580792
+   - **Volume:** 39
+   - **Issue:** 1
+   - **Pages:** 126-131
+   - **Authors:** Björnson Emil; Marcenaro Lucio
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 4, percentile 99)
+     - Signal Processing (Q1, rank 4, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 21, percentile 97)
+     2022:
+     - Applied Mathematics (Q1, rank 2, percentile 99)
+     - Signal Processing (Q1, rank 2, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 12, percentile 98)
+   - **Source Id:** 12996
+   - **Author Ids:** 24478602800;6603377664
+   - **Authoraffiliationids:** 60009358;60025153
+   - **Corresponding:** Björnson E.
+44.
+   - **Title:** Multilevel Anomaly Detection Through Variational Autoencoders and Bayesian Models for Self-Aware Embodied Agents
+   - **Venue:** IEEE Transactions on Multimedia
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 23
+   - **DOI:** 10.1109/TMM.2021.3065232
+   - **Scopus ID:** 2-s2.0-85102718023
+   - **ISSN:** 15209210
+   - **eISSN:** 19410077
+   - **Volume:** 24
+   - **Pages:** 1399-1414
+   - **Authors:** Slavic Giulia; Baydoun Mohamad; Campo Damian; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** Anomaly detection | kalman filtering | particle filtering | variational autoencoder
+   - **Quartile:**
+     2025:
+     - Media Technology (Q1, rank 3, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 41, percentile 95)
+     - Signal Processing (Q1, rank 10, percentile 95)
+     - Computer Science Applications (Q1, rank 52, percentile 94)
+     2022:
+     - Media Technology (Q1, rank 2, percentile 97)
+     - Computer Science Applications (Q1, rank 36, percentile 95)
+     - Electrical and Electronic Engineering (Q1, rank 40, percentile 94)
+     - Signal Processing (Q1, rank 10, percentile 92)
+   - **Source Id:** 16211
+   - **Author Ids:** 57218159779;57194871976;57126952000;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Slavic G.
+45.
+   - **Title:** Data-driven transition matrix estimation in probabilistic learning models for autonomous driving
+   - **Venue:** Signal Processing
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1016/j.sigpro.2021.108170
+   - **Scopus ID:** 2-s2.0-85109524904
+   - **ISSN:** 01651684
+   - **Volume:** 188
+   - **Authors:** Iqbal Hafsa; Campo Damian; Marcenaro Lucio; Martin Gomez David; Regazzoni Carlo
+   - **Keywords:** Generalized States | Hierarchical Generalized Dynamical Bayesian Network | Markov Jump Particle Filter | ROC curves | Transition matrix
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 25, percentile 87)
+     - Computer Vision and Pattern Recognition (Q1, rank 27, percentile 84)
+     - Electrical and Electronic Engineering (Q1, rank 166, percentile 83)
+     - Control and Systems Engineering (Q1, rank 71, percentile 81)
+     - Software (Q1, rank 101, percentile 79)
+     2021:
+     - Control and Systems Engineering (Q1, rank 30, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 83, percentile 88)
+     - Signal Processing (Q1, rank 14, percentile 88)
+     - Software (Q1, rank 55, percentile 86)
+     - Computer Vision and Pattern Recognition (Q1, rank 14, percentile 85)
+   - **Source Id:** 25548
+   - **Author Ids:** 57210995304;57126952000;6603377664;57204878586;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60025153;60025153;60001741;60025153
+   - **Corresponding:** Iqbal H.
+46.
+   - **Title:** Detection of Abnormal Motion by Estimating Scene Flows of Point Clouds for Autonomous Driving
+   - **Venue:** IEEE Conference on Intelligent Transportation Systems Proceedings ITSC
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/ITSC48978.2021.9565105
+   - **Scopus ID:** 2-s2.0-85118424611
+   - **Volume:** 2021-September
+   - **Pages:** 2788-2793
+   - **Authors:** Iqbal Hafsa; Al-Kaff Abdulla; Marin Pablo; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo
+   - **Keywords:** 3D-Convolutional Neural Network | Autonomous Vehicles | Point-clouds | Scene flows estimation | Transfer Learning
+   - **Source Id:** 21101064705
+   - **Author Ids:** 57210995304;56308645100;57190806708;6603377664;57204878586;35513672400
+   - **Authoraffiliationids:** 60025153-126005257;126005257;126005257;60025153;126005257;60025153
+   - **Corresponding:** Iqbal H.
+47.
+   - **Title:** Perspectives on the emerging field of autonomous systems and its theoretical foundations
+   - **Venue:** Icas 2021 2021 IEEE International Conference on Autonomous Systems Proceedings
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/ICAS49788.2021.9551191
+   - **Scopus ID:** 2-s2.0-85117502242
+   - **Authors:** Wang Yingxu; Plataniotis Konstantinos N.; Mohammadi Arash; Marcenaro Lucio; Asif Amir; Hou Ming; Leung Henry; Gavrilova Marina
+   - **Keywords:** Autonomous systems | Brain-inspired systems | General AI theory | Intelligence science | Intelligent signal processing | System science
+   - **Source Id:** 21101062319
+   - **Author Ids:** 7601492153;35510256100;57202524232;6603377664;7003843725;36025111800;57211955342;26643382700
+   - **Authoraffiliationids:** 60192954;60016849;60033154;60025153;60033154;60017597;60192954;60002306
+   - **Corresponding:** Wang Y.
+48.
+   - **Title:** Interpretable anomaly detection using a generalized markov jump particle filter
+   - **Venue:** Icas 2021 2021 IEEE International Conference on Autonomous Systems Proceedings
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ICAS49788.2021.9551111
+   - **Scopus ID:** 2-s2.0-85117472110
+   - **Authors:** Slavic Giulia; Marin Pablo; Martin David; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** Anomaly detection | Interpretable Machine Learning | Kalman Filter | Pamcle Filter
+   - **Source Id:** 21101062319
+   - **Author Ids:** 57218159779;57190806708;59368746600;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60025153-60001741;60025153-60001741;60025153-60001741;60025153-60001741
+   - **Corresponding:** Slavic G.
+49.
+   - **Title:** On future development of autonomous systems: A report of the plenary panel at IEEE ICAS'21
+   - **Venue:** Icas 2021 2021 IEEE International Conference on Autonomous Systems Proceedings
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/ICAS49788.2021.9551188
+   - **Scopus ID:** 2-s2.0-85117464689
+   - **Authors:** Wang Yingxu; Pitas Ioannis; Plataniotis Konstantinos N.; Regazzoni Carlo S.; Sadler Brian M.; Roy-Chowdhury Amit; Hou Ming; Mohammadi Arash; Marcenaro Lucio; Atashzar Farokh; Alzahir Saif
+   - **Keywords:** Applications | Autonomous systems | Challenges | Cognitive systems | Constraints | General AI systems | Intelligence systems | Machine learning | Theoretical foundations
+   - **Source Id:** 21101062319
+   - **Author Ids:** 7601492153;35569279700;35510256100;35513672400;7005682371;57224916062;36025111800;57202524232;6603377664;12040259900;9433445900
+   - **Authoraffiliationids:** 60002306;60015331;60016849;60025153;60033252;60029526;60017597;60033154;60025153;60021784;60033154
+   - **Corresponding:** Wang Y.
+50.
+   - **Title:** Observational learning: Imitation through an adaptive probabilistic approach
+   - **Venue:** Icas 2021 2021 IEEE International Conference on Autonomous Systems Proceedings
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ICAS49788.2021.9551152
+   - **Scopus ID:** 2-s2.0-85117457533
+   - **Authors:** Nozari Sheida; Marcenaro Lucio; Martin David; Regazzoni Carlo
+   - **Keywords:** Dynamic Bayesian network | Imitation learning | Multi-agent learning | Performance analysis | Reinforcement learning
+   - **Source Id:** 21101062319
+   - **Author Ids:** 57302361700;6603377664;59368746600;35513672400
+   - **Authoraffiliationids:** 60025153-60001741;60025153;60001741;60025153
+   - **Corresponding:** Nozari S.
+51.
+   - **Title:** Automatic Modulation Classification in Cognitive-IoT Radios using Generalized Dynamic Bayesian Networks
+   - **Venue:** 7th IEEE World Forum on Internet of Things Wf Iot 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/WF-IoT51360.2021.9594936
+   - **Scopus ID:** 2-s2.0-85119866608
+   - **Pages:** 235-240
+   - **Authors:** Krayani Ali; Alam Atm S.; Calipari Marco; Marcenaro Lucio; Nallanathan Arumugam; Regazzoni Carlo
+   - **Keywords:** Automatic Modulation Classification | Bayesian Filtering. | Cognitive Radio | Internet of Things
+   - **Source Id:** 21101066501
+   - **Author Ids:** 57211429954;49862669300;57351807200;6603377664;6603561059;35513672400
+   - **Authoraffiliationids:** 60025153;60022109;60025153;60025153;60022109;60025153
+   - **Corresponding:** Krayani A.
+52.
+   - **Title:** Learning Self-Awareness for Autonomous Vehicles: Exploring Multisensory Incremental Models
+   - **Venue:** IEEE Transactions on Intelligent Transportation Systems
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1109/TITS.2020.2984735
+   - **Scopus ID:** 2-s2.0-85107411783
+   - **ISSN:** 15249050
+   - **eISSN:** 15580016
+   - **Volume:** 22
+   - **Issue:** 6
+   - **Pages:** 3372-3386
+   - **Authors:** Ravanbakhsh Mahdyar; Baydoun Mohamad; Campo Damian; Marin Pablo; Martin David; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** deep generative models | dynamic Bayesian networks | multi-modality | Self-awareness
+   - **Quartile:**
+     2025:
+     - Automotive Engineering (Q1, rank 2, percentile 98)
+     - Mechanical Engineering (Q1, rank 15, percentile 98)
+     - Computer Science Applications (Q1, rank 26, percentile 97)
+     2021:
+     - Mechanical Engineering (Q1, rank 17, percentile 97)
+     - Computer Science Applications (Q1, rank 22, percentile 97)
+     - Automotive Engineering (Q1, rank 4, percentile 96)
+   - **Source Id:** 18378
+   - **Author Ids:** 57192545758;57194871976;57126952000;57190806708;57204878586;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60001741;60001741;60025153;60025153
+   - **Corresponding:** Ravanbakhsh M.
+53.
+   - **Title:** Fight the Pandemic: Highlights from the 2020 IEEE 5-Minute Video Clip Contest [SP Competitions]
+   - **Venue:** IEEE Signal Processing Magazine
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/MSP.2020.3046230
+   - **Scopus ID:** 2-s2.0-85102052077
+   - **ISSN:** 10535888
+   - **eISSN:** 15580792
+   - **Volume:** 38
+   - **Issue:** 2
+   - **Pages:** 138-143
+   - **Authors:** Routtenberg Tirza; Carini Alberto; Chouzenoux Emilie; Pal Piya; Bermudez Jose C.M.; Marcenaro Lucio
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 4, percentile 99)
+     - Signal Processing (Q1, rank 4, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 21, percentile 97)
+     2021:
+     - Applied Mathematics (Q1, rank 3, percentile 99)
+     - Signal Processing (Q1, rank 2, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 12, percentile 98)
+   - **Source Id:** 12996
+   - **Author Ids:** 24725541300;7005389788;36628043900;34969641100;7102615510;6603377664
+   - **Authoraffiliationids:** 60027161;60018363;60106017;60030612;60017609;60025153
+   - **Corresponding:** Routtenberg T.
+54.
+   - **Title:** Dynamic Bayesian Collective Awareness Models for a Network of Ego-Things
+   - **Venue:** IEEE Internet of Things Journal
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/JIOT.2020.3043199
+   - **Scopus ID:** 2-s2.0-85097924392
+   - **eISSN:** 23274662
+   - **Volume:** 8
+   - **Issue:** 5
+   - **Pages:** 3224-3241
+   - **Authors:** Kanapram DIvya Thekke; Marchese Mario; Bodanese Eliane L.; Gomez David Martin; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** Abnormality detection | collective awareness (CA) | dynamic Bayesian network (DBN) | Markov jump particle filter (MJPF) | self-awareness (SA)
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 20, percentile 96)
+     - Hardware and Architecture (Q1, rank 9, percentile 96)
+     - Signal Processing (Q1, rank 12, percentile 94)
+     - Computer Science Applications (Q1, rank 62, percentile 93)
+     - Information Systems (Q1, rank 32, percentile 93)
+     2021:
+     - Computer Science Applications (Q1, rank 13, percentile 98)
+     - Computer Networks and Communications (Q1, rank 7, percentile 98)
+     - Signal Processing (Q1, rank 3, percentile 97)
+     - Information Systems (Q1, rank 9, percentile 97)
+     - Hardware and Architecture (Q1, rank 5, percentile 97)
+   - **Source Id:** 21100338350
+   - **Author Ids:** 57195512131;7004398165;6602283934;57204878586;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60022109;60001741;60025153;60025153
+   - **Corresponding:** Kanapram D.T.
+55.
+   - **Title:** Probabilistic anomaly detection methods using learned models from time-series data for multimedia self-aware systems
+   - **Venue:** Advanced Methods and Deep Learning in Computer Vision
+   - **Year:** 2021
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 1
+   - **DOI:** 10.1016/B978-0-12-822109-9.00022-9
+   - **Scopus ID:** 2-s2.0-85131499988
+   - **Pages:** 449-479
+   - **Authors:** Regazzoni Carlo; Krayani Ali; Slavic Giulia; Marcenaro Lucio
+   - **Keywords:** Anomaly detection | Bayesian filtering | Generalized dynamic bayesian network | Self-awareness | Variational autoencoder
+   - **Source Id:** 21101091333
+   - **Author Ids:** 35513672400;57211429954;57218159779;6603377664
+   - **Authoraffiliationids:** 60025153;60025153-60022109;60025153;60025153
+   - **Corresponding:** Regazzoni C.
+56.
+   - **Title:** Learning Of Linear Video Prediction Models In A Multi-Modal Framework For Anomaly Detection
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/ICIP42928.2021.9506049
+   - **Scopus ID:** 2-s2.0-85125564685
+   - **ISSN:** 15224880
+   - **Volume:** 2021-September
+   - **Pages:** 1569-1573
+   - **Authors:** Slavic Giulia; Alemaw Abrham Shiferaw; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** Anomaly detection | Data fusion | Dynamic bayesian networks | Kalman filter | Variational autoencoder
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 57218159779;57473774100;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Slavic G.
+57.
+   - **Title:** PETS2021: Through-foliage detection and tracking challenge and evaluation
+   - **Venue:** Avss 2021 17th IEEE International Conference on Advanced Video and Signal Based Surveillance
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/AVSS52988.2021.9663837
+   - **Scopus ID:** 2-s2.0-85124965460
+   - **Authors:** Patino Luis; Boyle Jonathan; Ferryman James; Auer Jonas; Pegoraro Julian; Pflugfelder Roman; Cokbas Mertcan; Konrad Janusz; Ishwar Prakash; Slavic Giulia; Marcenaro Lucio; Jiang Yifan; Jin Youngsaeng; Ko Hanseok; Zhao Guangliang; Ben-Yosef Guy; Qiu Jianwei
+   - **Source Id:** 21101077099
+   - **Author Ids:** 36922397800;55250251000;6507012905;57460349100;57217728757;16177808300;57218710188;7102355164;6602873044;57218159779;6603377664;57207334917;57205458724;35069749800;57219545458;25026742300;57693404800
+   - **Authoraffiliationids:** 60012197;60012197;60012197;60103936;60103936;60103936;60019674;60019674;60019674;60025153;60025153;60005273;60005273;60005273;126560762;126560762;126560762
+   - **Corresponding:** Patino L.
+58.
+   - **Title:** Self-awareness in intelligent vehicles: Feature based dynamic Bayesian models for abnormality detection
+   - **Venue:** Robotics and Autonomous Systems
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1016/j.robot.2020.103652
+   - **Scopus ID:** 2-s2.0-85092022930
+   - **ISSN:** 09218890
+   - **Volume:** 134
+   - **Authors:** Kanapram Divya Thekke; Marin-Plaza Pablo; Marcenaro Lucio; Martin David; de la Escalera Arturo; Regazzoni Carlo
+   - **Keywords:** Abnormality detection | Autonomous vehicles | Dynamic Bayesian Network (DBN) | Hellinger distance | Intelligent Transportation System (ITS)
+   - **Quartile:**
+     2025:
+     - Mathematics (all) (Q1, rank 6, percentile 98)
+     - Control and Systems Engineering (Q1, rank 46, percentile 88)
+     - Software (Q1, rank 71, percentile 85)
+     - Computer Science Applications (Q1, rank 143, percentile 85)
+     2020:
+     - Mathematics (all) (Q1, rank 5, percentile 98)
+     - Computer Science Applications (Q1, rank 79, percentile 88)
+     - Control and Systems Engineering (Q1, rank 31, percentile 88)
+     - Software (Q1, rank 58, percentile 85)
+   - **Source Id:** 18079
+   - **Author Ids:** 57195512131;57190806708;6603377664;57204878586;6602500615;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60001741;60025153;60001741;60001741;60025153
+   - **Corresponding:** Kanapram D.T.
+59.
+   - **Title:** Continual Learning of Predictive Models in Video Sequences Via Variational Autoencoders
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ICIP40778.2020.9190980
+   - **Scopus ID:** 2-s2.0-85098668667
+   - **ISSN:** 15224880
+   - **Volume:** 2020-October
+   - **Pages:** 753-757
+   - **Authors:** Campo Damian; Slavic Giulia; Baydoun Mohamad; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** Continual learning | kalman filter | lifelong learning | particle filter | variational autoencoder
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 57126952000;57218159779;57194871976;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Campo D.
+60.
+   - **Title:** Optimization of Probabilistic Switching Models Based on a Two-Step Clustering Approach
+   - **Venue:** IEEE Workshop on Signal Processing Systems Sips Design and Implementation
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/SiPS50750.2020.9195244
+   - **Scopus ID:** 2-s2.0-85096781816
+   - **ISSN:** 15206130
+   - **Volume:** 2020-October
+   - **Authors:** Iqbal Hafsa; Campo Damian; Slavic Giulia; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo
+   - **Keywords:** Abnormality detection | Hierarchical clustering | Partitional clustering | Probabilistic inference | State estimation
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 110, percentile 43)
+     - Applied Mathematics (Q3, rank 379, percentile 43)
+     - Electrical and Electronic Engineering (Q3, rank 593, percentile 40)
+     - Hardware and Architecture (Q3, rank 165, percentile 29)
+   - **Source Id:** 26058
+   - **Author Ids:** 57210995304;57126952000;57218159779;6603377664;57204878586;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60001741;60025153
+   - **Corresponding:** Iqbal H.
+61.
+   - **Title:** Let There Be a Beam: Highlights from the 2020 IEEE Five-Minute Video Clip Contest [SP Competitions]
+   - **Venue:** IEEE Signal Processing Magazine
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1109/MSP.2020.3002485
+   - **Scopus ID:** 2-s2.0-85091044143
+   - **ISSN:** 10535888
+   - **eISSN:** 15580792
+   - **Volume:** 37
+   - **Issue:** 5
+   - **Pages:** 157-162
+   - **Authors:** Liu Wei; Anbiyaei Mohammad Reza; Jiang Xue; Zhang Lei; Marcenaro Lucio
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 4, percentile 99)
+     - Signal Processing (Q1, rank 4, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 21, percentile 97)
+     2020:
+     - Applied Mathematics (Q1, rank 3, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 10, percentile 98)
+     - Signal Processing (Q1, rank 3, percentile 97)
+   - **Source Id:** 12996
+   - **Author Ids:** 56645219600;57191477738;55724182500;57441548000;6603377664
+   - **Authoraffiliationids:** 60001881;60008542;60025084;60001490;60025153
+   - **Corresponding:** Liu W.
+62.
+   - **Title:** Unsupervised Anomaly Detection Using Intelligent and Heterogeneous Autonomous Systems: Highlights from the 2020 IEEE Signal Processing Cup Student Competition [SP Competitions]
+   - **Venue:** IEEE Signal Processing Magazine
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/MSP.2020.3002482
+   - **Scopus ID:** 2-s2.0-85090990136
+   - **ISSN:** 10535888
+   - **eISSN:** 15580792
+   - **Volume:** 37
+   - **Issue:** 5
+   - **Pages:** 152-157
+   - **Authors:** Campo Damian; Martin David; Marcenaro Lucio
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 4, percentile 99)
+     - Signal Processing (Q1, rank 4, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 21, percentile 97)
+     2020:
+     - Applied Mathematics (Q1, rank 3, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 10, percentile 98)
+     - Signal Processing (Q1, rank 3, percentile 97)
+   - **Source Id:** 12996
+   - **Author Ids:** 57126952000;57204878586;6603377664
+   - **Authoraffiliationids:** 60025153;60001741;60025153
+   - **Corresponding:** Campo D.
+63.
+   - **Title:** Deep learning for spectrum anomaly detection in cognitive mmWave radios
+   - **Venue:** IEEE International Symposium on Personal Indoor and Mobile Radio Communications PIMRC
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 19
+   - **DOI:** 10.1109/PIMRC48278.2020.9217240
+   - **Scopus ID:** 2-s2.0-85094148939
+   - **Volume:** 2020-August
+   - **Authors:** Toma Andrea; Krayani Ali; Marcenaro Lucio; Gao Yue; Regazzoni Carlo S.
+   - **Keywords:** Anomaly Detection | Cognitive Radios | Deep Learning | Generative Models | Millimeter Wave
+   - **Source Id:** 21101023800
+   - **Author Ids:** 56303677700;57211429954;6603377664;57206592088;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60025153-60022109;60025153;60022109;60025153
+   - **Corresponding:** Toma A.
+64.
+   - **Title:** Smart jammer detection for self-aware cognitive UAV radios
+   - **Venue:** IEEE International Symposium on Personal Indoor and Mobile Radio Communications PIMRC
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/PIMRC48278.2020.9217331
+   - **Scopus ID:** 2-s2.0-85094101655
+   - **Volume:** 2020-August
+   - **Authors:** Krayani Ali; Baydoun Mohamad; Marcenaro Lucio; Gao Yue; Regazzoni Carlo S.
+   - **Keywords:** Cr | Dbn | Jammer | Lte | Uav
+   - **Source Id:** 21101023800
+   - **Author Ids:** 57211429954;57194871976;6603377664;57206592088;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60025153;60025153;60022109;60025153
+   - **Corresponding:** Krayani A.
+65.
+   - **Title:** Multisensorial Generative and Descriptive Self-Awareness Models for Autonomous Systems
+   - **Venue:** Proceedings of the IEEE
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 26
+   - **DOI:** 10.1109/JPROC.2020.2986602
+   - **Scopus ID:** 2-s2.0-85085994227
+   - **ISSN:** 00189219
+   - **eISSN:** 15582256
+   - **Volume:** 108
+   - **Issue:** 7
+   - **Pages:** 987-1010
+   - **Authors:** Regazzoni Carlo S.; Marcenaro Lucio; Campo Damian; Rinner Bernhard
+   - **Keywords:** Anomaly detection | autobiographical memory (AM) | autobiographical self (AS) | Bayesian inference | cognitive dynamic systems (CDSs) | model creation | self-awareness (SA)
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 3, percentile 99)
+     - Computer Science (all) (Q1, rank 2, percentile 99)
+     2020:
+     - Computer Science (all) (Q1, rank 2, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 9, percentile 98)
+   - **Source Id:** 17915
+   - **Author Ids:** 35513672400;6603377664;57126952000;6602718780
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60019660
+   - **Corresponding:** Regazzoni C.S.
+66.
+   - **Title:** Anomaly Detection in Video Data Based on Probabilistic Latent Space Models
+   - **Venue:** IEEE Conference on Evolving and Adaptive Intelligent Systems
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1109/EAIS48028.2020.9122766
+   - **Scopus ID:** 2-s2.0-85087529448
+   - **ISSN:** 23304863
+   - **eISSN:** 24734691
+   - **Volume:** 2020-May
+   - **Authors:** Slavic Giulia; Campo Damian; Baydoun Mohamad; Marin Pablo; Martin David; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** anomaly detection | Kalman filtering | particle filtering | Variational autoencoder
+   - **Quartile:**
+     2025:
+     - Artificial Intelligence (Q3, rank 296, percentile 40)
+     - Computer Science Applications (Q3, rank 605, percentile 38)
+   - **Source Id:** 21100879718
+   - **Author Ids:** 57218159779;57126952000;57194871976;57190806708;59368746600;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60001741;60001741;60025153;60025153
+   - **Corresponding:** Slavic G.
+67.
+   - **Title:** Collective Awareness for Abnormality Detection in Connected Autonomous Vehicles
+   - **Venue:** IEEE Internet of Things Journal
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1109/JIOT.2020.2974680
+   - **Scopus ID:** 2-s2.0-85084924836
+   - **eISSN:** 23274662
+   - **Volume:** 7
+   - **Issue:** 5
+   - **Pages:** 3774-3789
+   - **Authors:** Kanapram Divya Thekke; Patrone Fabio; Marin-Plaza Pablo; Marchese Mario; Bodanese Eliane L.; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo
+   - **Keywords:** Abnormality detection | collective awareness (CA) | connected vehicles | dynamic Bayesian network (DBN) | Markov jump particle filter (MJPF) | self-awareness (SA)
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 20, percentile 96)
+     - Hardware and Architecture (Q1, rank 9, percentile 96)
+     - Signal Processing (Q1, rank 12, percentile 94)
+     - Computer Science Applications (Q1, rank 62, percentile 93)
+     - Information Systems (Q1, rank 32, percentile 93)
+     2020:
+     - Hardware and Architecture (Q1, rank 2, percentile 99)
+     - Information Systems (Q1, rank 7, percentile 98)
+     - Computer Networks and Communications (Q1, rank 8, percentile 97)
+     - Computer Science Applications (Q1, rank 17, percentile 97)
+     - Signal Processing (Q1, rank 7, percentile 93)
+   - **Source Id:** 21100338350
+   - **Author Ids:** 57195512131;56536292600;57190806708;7004398165;6602283934;6603377664;57204878586;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60025153;60001741;60025153;60022109;60025153;60001741;60025153
+   - **Corresponding:** Kanapram D.T.
+68.
+   - **Title:** Privacy-Aware Human Activity Recognition from a Wearable Camera: Highlights from the IEEE Video and Image Processing Cup 2019 Student Competition [SP Competitions]
+   - **Venue:** IEEE Signal Processing Magazine
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1109/MSP.2020.2976158
+   - **Scopus ID:** 2-s2.0-85084592455
+   - **ISSN:** 10535888
+   - **eISSN:** 15580792
+   - **Volume:** 37
+   - **Issue:** 3
+   - **Pages:** 168-172
+   - **Authors:** Tadesse Girmaw Abebe; Bent Oliver; Marcenaro Lucio; Weldemariam Komminist; Cavallaro Andrea
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 4, percentile 99)
+     - Signal Processing (Q1, rank 4, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 21, percentile 97)
+     2020:
+     - Applied Mathematics (Q1, rank 3, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 10, percentile 98)
+     - Signal Processing (Q1, rank 3, percentile 97)
+   - **Source Id:** 12996
+   - **Author Ids:** 57204531986;56598063700;6603377664;23478544500;7103233230
+   - **Authoraffiliationids:** 60011048;60026851;60025153;60022109;60011048
+   - **Corresponding:** Tadesse G.A.
+69.
+   - **Title:** Learning probabilistic awareness models for detecting abnormalities in vehicle motions
+   - **Venue:** IEEE Transactions on Intelligent Transportation Systems
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1109/TITS.2019.2909980
+   - **Scopus ID:** 2-s2.0-85081139418
+   - **ISSN:** 15249050
+   - **eISSN:** 15580016
+   - **Volume:** 21
+   - **Issue:** 3
+   - **Pages:** 1308-1320
+   - **Authors:** Campo Damian; Baydoun Mohamad; Marin Pablo; Martin David; Marcenaro Lucio; De La Escalera Arturo; Regazzoni Carlo
+   - **Keywords:** decision systems | intelligent systems | self-aware systems | Smart mobility | trajectory modeling
+   - **Quartile:**
+     2025:
+     - Automotive Engineering (Q1, rank 2, percentile 98)
+     - Mechanical Engineering (Q1, rank 15, percentile 98)
+     - Computer Science Applications (Q1, rank 26, percentile 97)
+     2020:
+     - Mechanical Engineering (Q1, rank 15, percentile 97)
+     - Automotive Engineering (Q1, rank 3, percentile 97)
+     - Computer Science Applications (Q1, rank 23, percentile 96)
+   - **Source Id:** 18378
+   - **Author Ids:** 57126952000;57194871976;57190806708;57204878586;6603377664;6602500615;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60001741;60001741;60025153;60001741;60025153-60001741
+   - **Corresponding:** Campo D.
+70.
+   - **Title:** AI-Based Abnormality Detection at the PHY-Layer of Cognitive Radio by Learning Generative Models
+   - **Venue:** IEEE Transactions on Cognitive Communications and Networking
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 43
+   - **DOI:** 10.1109/TCCN.2020.2970693
+   - **Scopus ID:** 2-s2.0-85078727577
+   - **eISSN:** 23327731
+   - **Volume:** 6
+   - **Issue:** 1
+   - **Pages:** 21-34
+   - **Authors:** Toma Andrea; Krayani Ali; Farrukh Muhammad; Qi Haoran; Marcenaro Lucio; Gao Yue; Regazzoni Carlo S.
+   - **Keywords:** artificial intelligence | Cognitive radio | jamming | physical layer | unsupervised learning
+   - **Quartile:**
+     2025:
+     - Hardware and Architecture (Q1, rank 15, percentile 93)
+     - Computer Networks and Communications (Q1, rank 39, percentile 92)
+     - Artificial Intelligence (Q1, rank 55, percentile 88)
+     2020:
+     - Computer Networks and Communications (Q1, rank 28, percentile 91)
+     - Hardware and Architecture (Q1, rank 14, percentile 91)
+     - Artificial Intelligence (Q1, rank 26, percentile 88)
+   - **Source Id:** 21100854831
+   - **Author Ids:** 56303677700;57211429954;58725997500;57201006549;6603377664;57206592088;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60022109;60025153;60022109;60025153
+   - **Corresponding:** Toma A.
+71.
+   - **Title:** Self-Learning Bayesian Generative Models for Jammer Detection in Cognitive-UAV-Radios
+   - **Venue:** Proceedings IEEE Global Communications Conference Globecom
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 27
+   - **DOI:** 10.1109/GLOBECOM42002.2020.9322583
+   - **Scopus ID:** 2-s2.0-85100433661
+   - **ISSN:** 23340983
+   - **eISSN:** 25766813
+   - **Authors:** Krayani Ali; Baydoun Mohamad; Marcenaro Lucio; Alam Atm S.; Regazzoni Carlo
+   - **Keywords:** Bayesian Filtering | Cognitive Radio | PHY-security | Self-Awareness | Unmanned Aerial Vehicles
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 90, percentile 54)
+     - Computer Networks and Communications (Q2, rank 260, percentile 52)
+     - Artificial Intelligence (Q3, rank 262, percentile 47)
+     - Hardware and Architecture (Q3, rank 129, percentile 45)
+   - **Source Id:** 21101199922
+   - **Author Ids:** 57211429954;57194871976;6603377664;49862669300;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60025153;60025153;60022109;60025153
+   - **Corresponding:** Krayani A.
+72.
+   - **Title:** Self-awareness in Intelligent Vehicles: Experience Based Abnormality Detection
+   - **Venue:** Advances in Intelligent Systems and Computing
+   - **Year:** 2020
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1007/978-3-030-35990-4_18
+   - **Scopus ID:** 2-s2.0-85082113934
+   - **ISSN:** 21945357
+   - **eISSN:** 21945365
+   - **Volume:** 1092 Aisc
+   - **Pages:** 216-228
+   - **Authors:** Kanapram Divya; Marin-Plaza Pablo; Marcenaro Lucio; Martin David; de la Escalera Arturo; Regazzoni Carlo
+   - **Keywords:** Abnormality detection | Autonomous vehicles | Dynamic Bayesian Network (DBN) | Hellinger distance | Intelligent Transportation System (ITS)
+   - **Source Id:** 5100152904
+   - **Author Ids:** 57195512131;57190806708;6603377664;59368746600;6602500615;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60001741;60025153;60001741;60001741;60025153
+   - **Corresponding:** Kanapram D.
+73.
+   - **Title:** Clustering optimization for abnormality detection in semi-autonomous systems
+   - **Venue:** Mulea 2019 1st International Workshop on Multimodal Understanding and Learning for Embodied Applications Co Located with mm 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 19
+   - **DOI:** 10.1145/3347450.3357657
+   - **Scopus ID:** 2-s2.0-85074935257
+   - **Pages:** 33-41
+   - **Authors:** Iqbal Hafsa; Campo Damian; Baydoun Mohamad; Marcenaro Lucio; Gomez David Martin; Regazzoni Carlo
+   - **Keywords:** Dynamic Bayesian Network | Growing Neural Gas-Utility | Kalman filter | Optimization | Particle filter
+   - **Source Id:** 21100959440
+   - **Author Ids:** 57210995304;57126952000;57194871976;6603377664;57204878586;35513672400
+   - **Authoraffiliationids:** 60025153;60001741;60025153;60025153;60001741;60025153
+   - **Corresponding:** Iqbal H.
+74.
+   - **Title:** Abnormality detection using graph matching for multi-task dynamics of autonomous systems
+   - **Venue:** 2019 16th IEEE International Conference on Advanced Video and Signal Based Surveillance Avss 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/AVSS.2019.8909908
+   - **Scopus ID:** 2-s2.0-85076363714
+   - **Authors:** Zaal Hassan; Baydoun Mohamad; Marcenaro Lucio; Tokarchuk Laurissa; Regazzoni Carlo S.
+   - **Source Id:** 21100938712
+   - **Author Ids:** 57212274941;57194871976;6603377664;6602852642;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60025153;60025153;60022109;60025153
+   - **Corresponding:** Zaal H.
+75.
+   - **Title:** Incremental learning of abnormalities in autonomous systems
+   - **Venue:** 2019 16th IEEE International Conference on Advanced Video and Signal Based Surveillance Avss 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/AVSS.2019.8909827
+   - **Scopus ID:** 2-s2.0-85076350738
+   - **Authors:** Zaal Hassan; Iqbal Hafsa; Campo Damian; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Source Id:** 21100938712
+   - **Author Ids:** 57212274941;57210995304;57126952000;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Zaal H.
+76.
+   - **Title:** Jammer detection in M-QAM-OFDM by learning a dynamic Bayesian model for the cognitive radio
+   - **Venue:** European Signal Processing Conference
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.23919/EUSIPCO.2019.8902495
+   - **Scopus ID:** 2-s2.0-85075612487
+   - **ISSN:** 22195491
+   - **Volume:** 2019-September
+   - **Authors:** Krayani Ali; Farrukh Muhammad; Baydoun Mohamad; Marcenaro Lucio; Gao Yue; Regazzoni Carlo S.
+   - **Keywords:** Cognitive Radio | Dynamic Bayesian Network | IoT | Kalman Filter | OFDM | Particle Filter
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 109, percentile 44)
+     - Electrical and Electronic Engineering (Q3, rank 573, percentile 42)
+   - **Source Id:** 21100204301
+   - **Author Ids:** 57211429954;58725997500;57194871976;6603377664;57206592088;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60025153-60022109;60025153;60025153;60022109;60025153
+   - **Corresponding:** Krayani A.
+77.
+   - **Title:** Guest Editorial: Social and human aspects of cyber-physical systems
+   - **Venue:** Iet Cyber Physical Systems Theory and Applications
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Editorial
+   - **Citations:** 0
+   - **DOI:** 10.1049/iet-cps.2019.0061
+   - **Scopus ID:** 2-s2.0-85073147444
+   - **eISSN:** 23983396
+   - **Volume:** 4
+   - **Issue:** 3
+   - **Pages:** 187-188
+   - **Authors:** Hu Jun; Liang Rong Hao; Shih Chi Sheng; Catala Andreu; Marcenaro Lucio; Osawa Hirotaka
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q2, rank 273, percentile 50)
+     - Electrical and Electronic Engineering (Q3, rank 504, percentile 49)
+     - Information Systems (Q3, rank 263, percentile 47)
+     - Artificial Intelligence (Q3, rank 270, percentile 45)
+     - Computer Science Applications (Q3, rank 559, percentile 43)
+     2019:
+     - Information Systems (Q4, rank 279, percentile 7)
+     - Electrical and Electronic Engineering (Q4, rank 623, percentile 7)
+     - Computer Science Applications (Q4, rank 597, percentile 6)
+     - Computer Networks and Communications (Q4, rank 295, percentile 4)
+     - Artificial Intelligence (Q4, rank 196, percentile 3)
+   - **Source Id:** 21100912216
+   - **Author Ids:** 56442891500;57014209000;35273881700;23391773000;6603377664;24484018400
+   - **Authoraffiliationids:** 60032882;60032882;60005429;60007592;60025153;60014256
+   - **Corresponding:** Hu J.
+78.
+   - **Title:** Audio-Based Search and Rescue with a Drone: Highlights from the IEEE Signal Processing Cup 2019 Student Competition [SP Competitions]
+   - **Venue:** IEEE Signal Processing Magazine
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 39
+   - **DOI:** 10.1109/MSP.2019.2924687
+   - **Scopus ID:** 2-s2.0-85072188916
+   - **ISSN:** 10535888
+   - **eISSN:** 15580792
+   - **Volume:** 36
+   - **Issue:** 5
+   - **Pages:** 138-144
+   - **Authors:** Deleforge Antoine; Di Carlo Diego; Strauss Martin; Serizel Romain; Marcenaro Lucio
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 4, percentile 99)
+     - Signal Processing (Q1, rank 4, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 21, percentile 97)
+     2019:
+     - Applied Mathematics (Q1, rank 6, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 21, percentile 96)
+     - Signal Processing (Q1, rank 4, percentile 96)
+   - **Source Id:** 12996
+   - **Author Ids:** 55016442300;59845882200;57225210501;25825589600;6603377664
+   - **Authoraffiliationids:** 60017576;60013373;60000765;60104289;60025153
+   - **Corresponding:** Deleforge A.
+79.
+   - **Title:** Towards cheap scalable browser multiplayer
+   - **Venue:** IEEE Conference on Computatonal Intelligence and Games Cig
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/CIG.2019.8847958
+   - **Scopus ID:** 2-s2.0-85073116754
+   - **ISSN:** 23254270
+   - **eISSN:** 23254289
+   - **Volume:** 2019-August
+   - **Authors:** Amar Yousef; Tyson Gareth; Antichi Gianni; Marcenaro Lucio
+   - **Keywords:** Browser | Development | Game | Multiplayer | Networking | P2p | Peer-to-peer
+   - **Quartile:**
+     2025:
+     - Computer Graphics and Computer-Aided Design (Q3, rank 77, percentile 41)
+     - Computer Vision and Pattern Recognition (Q3, rank 107, percentile 37)
+     - Artificial Intelligence (Q3, rank 328, percentile 33)
+     - Software (Q3, rank 360, percentile 28)
+     - Human-Computer Interaction (Q4, rank 147, percentile 23)
+   - **Source Id:** 21100283373
+   - **Author Ids:** 57191088866;25960456600;25924766600;6603377664
+   - **Authoraffiliationids:** 60022109;60022109;60022109;60025153
+   - **Corresponding:** Amar Y.
+80.
+   - **Title:** Interference mitigation in wideband radios using spectrum correlation and neural network
+   - **Venue:** Iet Communications
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1049/iet-com.2018.5720
+   - **Scopus ID:** 2-s2.0-85068445448
+   - **ISSN:** 17518628
+   - **Volume:** 13
+   - **Issue:** 10
+   - **Pages:** 1336-1347
+   - **Authors:** Toma Andrea; Nawaz Tassadaq; Gao Yue; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 286, percentile 71)
+     - Computer Science Applications (Q2, rank 321, percentile 67)
+     2019:
+     - Electrical and Electronic Engineering (Q2, rank 230, percentile 65)
+     - Computer Science Applications (Q2, rank 233, percentile 63)
+   - **Source Id:** 5300152202
+   - **Author Ids:** 56303677700;57189034024;55731393400;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60022109;60025153;60025153
+   - **Corresponding:** Toma A.
+81.
+   - **Title:** Prediction of Multi-target Dynamics Using Discrete Descriptors: An Interactive Approach
+   - **Venue:** ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/ICASSP.2019.8682272
+   - **Scopus ID:** 2-s2.0-85069000497
+   - **ISSN:** 15206149
+   - **Volume:** 2019-May
+   - **Pages:** 3342-3346
+   - **Authors:** Baydoun Mohamad; Campo Damian; Kanapram DIvya; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Abnormality detection | interacting models | Kalman filter | Particle filter | trajectory analysis
+   - **Source Id:** 110544
+   - **Author Ids:** 57194871976;57126952000;57195512131;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Baydoun M.
+82.
+   - **Title:** Dynamic Bayesian Approach for decision-making in Ego-Things
+   - **Venue:** IEEE 5th World Forum on Internet of Things Wf Iot 2019 Conference Proceedings
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/WF-IoT.2019.8767204
+   - **Scopus ID:** 2-s2.0-85073912137
+   - **Pages:** 909-914
+   - **Authors:** Kanapram Divya; Campo Damian; Baydoun Mohamad; Marcenaro Lucio; Bodanese Eliane L.; Regazzoni Carlo; Marchese Mario
+   - **Keywords:** Abnormality detection | Feature selection | Kalman filter | multisensory data | particle filter
+   - **Source Id:** 21100958721
+   - **Author Ids:** 57195512131;57126952000;57194871976;6603377664;6602283934;35513672400;7004398165
+   - **Authoraffiliationids:** 60025153-60022109;60025153;60025153;60025153;60022109;60025153;60025153
+   - **Corresponding:** Kanapram D.
+83.
+   - **Title:** Learning a Switching Bayesian Model for Jammer Detection in the Cognitive-Radio-Based Internet of Things
+   - **Venue:** IEEE 5th World Forum on Internet of Things Wf Iot 2019 Conference Proceedings
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/WF-IoT.2019.8767187
+   - **Scopus ID:** 2-s2.0-85073894514
+   - **Pages:** 380-385
+   - **Authors:** Farrukh Muhammad; Krayani Ali; Baydoun Mohamad; Marcenaro Lucio; Gao Yue; Regazzoni Carlo S.
+   - **Keywords:** Cognitive Radio | Dynamic Bayesian Network | IoT | OFDM
+   - **Source Id:** 21100933725
+   - **Author Ids:** 58725997500;57211429954;57194871976;6603377664;57206592088;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60025153-60022109;60025153;60025153;60022109;60025153
+   - **Corresponding:** Farrukh M.
+84.
+   - **Title:** Learning dynamic jamming models in cognitive radios
+   - **Venue:** Handbook of Cognitive Radio
+   - **Year:** 2019
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.1007/978-981-10-1394-2_64
+   - **Scopus ID:** 2-s2.0-85063909384
+   - **Volume:** 3-3
+   - **Pages:** 1987-2023
+   - **Authors:** Toma Andrea; Regazzoni Carlo; Marcenaro Lucio; Gao Yue
+   - **Keywords:** Cognitive radio | Dynamic jamming models | Dynamic spectrum access | Interactive and cognitive environment | Learning interactions | Learning models | PHY-layer security | Self-awareness | Time-frequency analysis | TVWS
+   - **Source Id:** 21100902842
+   - **Author Ids:** 56303677700;35513672400;6603377664;57206592088
+   - **Authoraffiliationids:** 60025153-60022109;60025153;60025153;60022109
+   - **Corresponding:** Toma A.
+85.
+   - **Title:** Secure smart cameras by aggregate-signcryption with decryption fairness for multi-receiver IoT applications
+   - **Venue:** Sensors Switzerland
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 23
+   - **DOI:** 10.3390/s19020327
+   - **Scopus ID:** 2-s2.0-85060177784
+   - **ISSN:** 14248220
+   - **Volume:** 19
+   - **Issue:** 2
+   - **Authors:** Ullah Subhan; Marcenaro Lucio; Rinner Bernhard
+   - **Keywords:** Data security | Elliptic-curve signcryption | Internet of things | Multi-receiver aggregate-signcryption | Resource efficiency | Smart cameras
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q1, rank 19, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 136, percentile 86)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 36, percentile 85)
+     - Biochemistry (Q1, rank 72, percentile 84)
+     - Information Systems (Q1, rank 87, percentile 82)
+     - Analytical Chemistry (Q1, rank 30, percentile 82)
+     2019:
+     - Instrumentation (Q1, rank 17, percentile 87)
+     - Electrical and Electronic Engineering (Q1, rank 147, percentile 78)
+     - Information Systems (Q1, rank 70, percentile 76)
+     - Atomic and Molecular Physics, and Optics (Q1, rank 46, percentile 75)
+     - Analytical Chemistry (Q2, rank 35, percentile 71)
+     - Biochemistry (Q2, rank 156, percentile 61)
+   - **Source Id:** 130124
+   - **Author Ids:** 57214045908;6603377664;6602718780
+   - **Authoraffiliationids:** 60019660-60025153;60025153;60019660
+   - **Corresponding:** Ullah S.
+86.
+   - **Title:** Exploiting ST-Based representation for high sampling rate dynamic signals
+   - **Venue:** Lecture Notes on Data Engineering and Communications Technologies
+   - **Year:** 2019
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 2
+   - **DOI:** 10.1007/978-3-030-11437-4_16
+   - **Scopus ID:** 2-s2.0-85081943052
+   - **ISSN:** 23674512
+   - **eISSN:** 23674520
+   - **Volume:** 27
+   - **Pages:** 203-217
+   - **Authors:** Toma Andrea; Nawaz Tassadaq; Marcenaro Lucio; Regazzoni Carlo; Gao Yue
+   - **Quartile:**
+     2025:
+     - Media Technology (Q3, rank 40, percentile 47)
+     - Electrical and Electronic Engineering (Q3, rank 701, percentile 29)
+     - Computer Networks and Communications (Q3, rank 385, percentile 29)
+     - Information Systems (Q3, rank 357, percentile 28)
+     - Computer Science Applications (Q4, rank 748, percentile 23)
+   - **Source Id:** 21100975545
+   - **Author Ids:** 56303677700;57189034024;6603377664;35513672400;57206592088
+   - **Authoraffiliationids:** 60025153-60022109;60025153;60025153;60025153;60022109
+   - **Corresponding:** Toma A.
+87.
+   - **Title:** Towards a deeper understanding of the behavioural implications of bidirectional activity-based ambient displays in ambient assisted living environments
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2019
+   - **Type:** Book Series
+   - **Subtype:** Book Chapter
+   - **Citations:** 4
+   - **DOI:** 10.1007/978-3-030-10752-9_6
+   - **Scopus ID:** 2-s2.0-85061053508
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 11369 Lncs
+   - **Pages:** 108-151
+   - **Authors:** Davis-Owusu Kadian; Owusu Evans; Marcenaro Lucio; Regazzoni Carlo; Feijs Loe; Hu Jun
+   - **Keywords:** Affective and social interfaces | Ambient Intelligence for AAL | Context-aware frameworks and sensing | Human activity recognition | Interpersonal activity synchrony | Smart devices and intelligent products | Ubiquitous and mobile interfaces
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+     2019:
+     - Computer Science (all) (Q2, rank 95, percentile 57)
+     - Theoretical Computer Science (Q3, rank 77, percentile 35)
+   - **Source Id:** 25674
+   - **Author Ids:** 57204471506;56785899000;6603377664;35513672400;7004096151;56442891500
+   - **Authoraffiliationids:** 60118051;;60025153;60025153;60032882;60032882
+   - **Corresponding:** Davis-Owusu K.
+88.
+   - **Title:** Emotion estimation in crowds: The interplay of motivations and expectations in individual emotions
+   - **Venue:** European Signal Processing Conference
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EUSIPCO.2018.8553370
+   - **Scopus ID:** 2-s2.0-85059824526
+   - **ISSN:** 22195491
+   - **Volume:** 2018-September
+   - **Pages:** 1092-1096
+   - **Authors:** Urizar Oscar J.; Barakova Emilia I.; Marcenaro Lucio; Regazzoni Carlo S.; Rauterberg Matthias
+   - **Keywords:** Affective models | Crowd emotions | Emotion estimation | Pedestrian emotions
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 109, percentile 44)
+     - Electrical and Electronic Engineering (Q3, rank 573, percentile 42)
+   - **Source Id:** 21100204301
+   - **Author Ids:** 57190261688;35614959800;6603377664;35513672400;6701479494
+   - **Authoraffiliationids:** 60025153-60032882;60032882;60025153;60025153;60025153
+   - **Corresponding:** Urizar O.J.
+89.
+   - **Title:** Aggregate-signcryption for securing smart camera IoT applications
+   - **Venue:** 2018 Global Internet of Things Summit Giots 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/GIOTS.2018.8534434
+   - **Scopus ID:** 2-s2.0-85059097714
+   - **Authors:** Ullah Subhan; Russo Federico; Marcenaro Lucio; Rinner Bernhard
+   - **Keywords:** Aggregate-signcryption | data Security | internet of Things | smart cameras
+   - **Source Id:** 21100892740
+   - **Author Ids:** 57214045908;57205208020;6603377664;6602718780
+   - **Authoraffiliationids:** 60019660-60025153;60025153;60025153;60019660
+   - **Corresponding:** Ullah S.
+90.
+   - **Title:** A multi-perspective approach to anomaly detection for self -aware embodied agents
+   - **Venue:** ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 20
+   - **DOI:** 10.1109/ICASSP.2018.8462490
+   - **Scopus ID:** 2-s2.0-85054058245
+   - **ISSN:** 15206149
+   - **Volume:** 2018-April
+   - **Pages:** 6598-6602
+   - **Authors:** Baydoun Mohamad; Ravanbakhsh Mahdyar; Campo Damian; Marin Pablo; Martin David; Marcenaro Lucio; Cavallaro Andrea; Regazzoni Carlo S.
+   - **Keywords:** Abnormality detection | Gaussian process | Generative adversarial networks | Multi-sensor systems | Situational awareness
+   - **Source Id:** 110544
+   - **Author Ids:** 57194871976;57192545758;57126952000;57190806708;57204878586;6603377664;7103233230;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60025153;60025153;60001741;60001741;60025153;60022109;60025153-60001741
+   - **Corresponding:** Baydoun M.
+91.
+   - **Title:** Learning Switching Models for Abnormality Detection for Autonomous Driving
+   - **Venue:** 2018 21st International Conference on Information Fusion Fusion 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 43
+   - **DOI:** 10.23919/ICIF.2018.8455592
+   - **Scopus ID:** 2-s2.0-85054092835
+   - **Pages:** 2606-2613
+   - **Authors:** Baydoun M.; Campo D.; Sanguineti V.; Marcenaro L.; Cavallaro A.; Regazzoni C.
+   - **Source Id:** 21100878662
+   - **Author Ids:** 57194871976;57126952000;57216946835;6603377664;7103233230;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60022109;60025153
+   - **Corresponding:** Baydoun M.
+92.
+   - **Title:** Learning Multi-Modal Self-Awareness Models for Autonomous Vehicles from Human Driving
+   - **Venue:** 2018 21st International Conference on Information Fusion Fusion 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 23
+   - **DOI:** 10.23919/ICIF.2018.8455667
+   - **Scopus ID:** 2-s2.0-85054089719
+   - **Pages:** 1866-1873
+   - **Authors:** Ravanbakhsh Mahdyar; Baydoun Mohamad; Campo Damian; Marin Pablo; Martin David; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Source Id:** 21100878662
+   - **Author Ids:** 57192545758;57194871976;57126952000;57190806708;57204878586;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60001741;60001741;60025153;60025153
+   - **Corresponding:** Ravanbakhsh M.
+93.
+   - **Title:** Forensic Camera Model Identification: Highlights from the IEEE Signal Processing Cup 2018 Student Competition [SP Competitions]
+   - **Venue:** IEEE Signal Processing Magazine
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1109/MSP.2018.2847326
+   - **Scopus ID:** 2-s2.0-85053205793
+   - **ISSN:** 10535888
+   - **eISSN:** 15580792
+   - **Volume:** 35
+   - **Issue:** 5
+   - **Pages:** 168-174
+   - **Authors:** Stamm Matthew; Bestagini Paolo; Marcenaro Lucio; Campisi Patrizio
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 4, percentile 99)
+     - Signal Processing (Q1, rank 4, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 21, percentile 97)
+     2018:
+     - Applied Mathematics (Q1, rank 5, percentile 99)
+     - Signal Processing (Q1, rank 2, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 16, percentile 97)
+   - **Source Id:** 12996
+   - **Author Ids:** 34870520200;21638596100;6603377664;7004145960
+   - **Authoraffiliationids:** 60014662;60023256;60025153;60012630
+   - **Corresponding:** Stamm M.
+94.
+   - **Title:** Hierarchy of Gans for Learning Embodied Self-Awareness Model
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/ICIP.2018.8451418
+   - **Scopus ID:** 2-s2.0-85062912686
+   - **ISSN:** 15224880
+   - **Pages:** 1987-1991
+   - **Authors:** Ravanbakhsh Mahdyar; Baydoun Mohamad; Campo Damian; Marin Pablo; Martin David; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Anomaly detection | Generative adversarial networks | Multi-component models | Self-awareness modeling
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 57192545758;57194871976;57126952000;57190806708;59368746600;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60001741;60001741;60025153;60025153
+   - **Corresponding:** Ravanbakhsh M.
+95.
+   - **Title:** Unsupervised trajectory modeling based on discrete descriptors for classifying moving objects in video sequences
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ICIP.2018.8451837
+   - **Scopus ID:** 2-s2.0-85062906844
+   - **ISSN:** 15224880
+   - **Pages:** 833-837
+   - **Authors:** Campo D.; Baydoun M.; Marcenaro L.; Cavallaro A.; Regazzoni C. S.
+   - **Keywords:** Motion recognition | Self-organizing maps | Trajectory classification | Trajectory encoding | Unsupervised learning
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 57126952000;57194871976;6603377664;7103233230;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60022109;60025153
+   - **Corresponding:** Campo D.
+96.
+   - **Title:** ANOMALY DETECTION in CROWDS USING MULTI SENSORY INFORMATION
+   - **Venue:** Proceedings of Avss 2018 2018 15th IEEE International Conference on Advanced Video and Signal Based Surveillance
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/AVSS.2018.8639151
+   - **Scopus ID:** 2-s2.0-85063288175
+   - **Authors:** Irfan Muhammad; Tokarchuk Laurissa; Marcenaro Lucio; Regazzoni Carlo
+   - **Source Id:** 21101179617
+   - **Author Ids:** 57194206606;6602852642;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153-60022109;60022109;60025153;60025153
+   - **Corresponding:** Irfan M.
+97.
+   - **Title:** Fast but Not Deep: Efficient Crowd Abnormality Detection with Local Binary Tracklets
+   - **Venue:** Proceedings of Avss 2018 2018 15th IEEE International Conference on Advanced Video and Signal Based Surveillance
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/AVSS.2018.8639172
+   - **Scopus ID:** 2-s2.0-85063265019
+   - **Authors:** Ravanbakhsh Mahdyar; Mousavi Hossein; Nabi Moin; Marcenaro Lucio; Regazzoni Carlo
+   - **Source Id:** 21101179617
+   - **Author Ids:** 57192545758;59958723500;56097124600;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60019141;60072347;60025153;60025153
+   - **Corresponding:** Ravanbakhsh M.
+98.
+   - **Title:** Pervasive sensing for social connectedness
+   - **Venue:** Enhanced Living Environments
+   - **Year:** 2018
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 3
+   - **DOI:** 10.1049/PBHE010E_ch3
+   - **Scopus ID:** 2-s2.0-85117974437
+   - **Pages:** 49-79
+   - **Authors:** Davis Kadian; Owusu Evans B.; Marcenaro Lucio; Hu Jun; Regazzoni Carlo S.; Feijs Loe
+   - **Keywords:** Ambient assisted living environments | Assisted living | Bidirectional activity-based peripheral systems | Bidirectional context-aware system | Biology and medical computing | Digital signal processing | Elderly caregivers | Geriatrics | Global population ageing | Human activity recognition models | Human computer interaction | Human-computer interaction | Medical signal processing | Multidisciplinary framework | Pervasive computing | Pervasive sensing | Quality of life | Signal processing | Smart devices | Social and behavioural sciences computing | Social connectedness | Social science | Social sciences | Socio-technical awareness systems | Ubiquitous and pervasive computing | Ubiquitous computing | User centred design | User interfaces | User-centred approach | User-driven methodological approach
+   - **Source Id:** 21101063181
+   - **Author Ids:** 56784973800;56785899000;6603377664;56442891500;35513672400;7004096151
+   - **Authoraffiliationids:** 60032882-60025153;117559686;60025153;60032882;60025153;60032882
+   - **Corresponding:** Davis K.
+99.
+   - **Title:** Cyclostationary-based jammer detection for wideband radios using compressed sensing and artificial neural network
+   - **Venue:** International Journal of Distributed Sensor Networks
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1177/1550147717748900
+   - **Scopus ID:** 2-s2.0-85039858922
+   - **ISSN:** 15501329
+   - **eISSN:** 15501477
+   - **Volume:** 13
+   - **Issue:** 12
+   - **Authors:** Nawaz Tassadaq; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** analog-to-digital converter | artificial neural network | compressed sensing | jamming attacks | spectral correlation function | Wideband radios
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 40, percentile 88)
+     - Computer Networks and Communications (Q1, rank 86, percentile 84)
+     2017:
+     - Engineering (all) (Q1, rank 61, percentile 78)
+     - Computer Networks and Communications (Q2, rank 108, percentile 61)
+   - **Source Id:** 5800173381
+   - **Author Ids:** 57189034024;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153-60001741
+   - **Corresponding:** Nawaz T.
+100.
+   - **Title:** Energy Detection in Multi-user Relay Networks
+   - **Venue:** Wireless Personal Communications
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1007/s11277-017-4705-2
+   - **Scopus ID:** 2-s2.0-85026522415
+   - **ISSN:** 09296212
+   - **eISSN:** 1572834X
+   - **Volume:** 97
+   - **Issue:** 3
+   - **Pages:** 3891-3900
+   - **Authors:** Mughal Muhammad Ozair; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Detection probability | Energy detection | Relay networks
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 177, percentile 82)
+     - Computer Science Applications (Q1, rank 210, percentile 78)
+     2017:
+     - Electrical and Electronic Engineering (Q2, rank 305, percentile 54)
+     - Computer Science Applications (Q3, rank 295, percentile 48)
+   - **Source Id:** 20725
+   - **Author Ids:** 54784921000;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Mughal M.
+101.
+   - **Title:** Static force field representation of environments based on agents’ nonlinear motions
+   - **Venue:** Eurasip Journal on Advances in Signal Processing
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 20
+   - **DOI:** 10.1186/s13634-017-0444-5
+   - **Scopus ID:** 2-s2.0-85011627831
+   - **ISSN:** 16876172
+   - **eISSN:** 16876180
+   - **Volume:** 2017
+   - **Issue:** 1
+   - **Authors:** Campo Damian; Betancourt Alejandro; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** Interactive force models | Kalman filtering | Representation of environments | Situation awareness | Trajectory analysis
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 53, percentile 73)
+     - Electrical and Electronic Engineering (Q2, rank 284, percentile 71)
+     - Hardware and Architecture (Q2, rank 82, percentile 65)
+     2017:
+     - Electrical and Electronic Engineering (Q2, rank 191, percentile 71)
+     - Hardware and Architecture (Q2, rank 52, percentile 66)
+     - Signal Processing (Q2, rank 37, percentile 63)
+   - **Source Id:** 15300154801
+   - **Author Ids:** 57126952000;36503520400;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153-60032882;60025153;60025153
+   - **Corresponding:** Campo D.
+102.
+   - **Title:** Stealthy jammer detection algorithm for wide-band radios: A physical layer approach
+   - **Venue:** International Conference on Wireless and Mobile Computing Networking and Communications
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/WiMOB.2017.8115792
+   - **Scopus ID:** 2-s2.0-85041418174
+   - **ISSN:** 21619646
+   - **eISSN:** 21619654
+   - **Volume:** 2017-October
+   - **Pages:** 79-83
+   - **Authors:** Nawaz T.; Marcenaro L.; Regazzoni C. S.
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q3, rank 318, percentile 41)
+     - Hardware and Architecture (Q3, rank 157, percentile 33)
+     - Software (Q3, rank 340, percentile 32)
+   - **Source Id:** 21000195607
+   - **Author Ids:** 57189034024;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153-60001741
+   - **Corresponding:** Nawaz T.
+103.
+   - **Title:** Active estimation of motivational spots for modeling dynamic interactions
+   - **Venue:** 2017 14th IEEE International Conference on Advanced Video and Signal Based Surveillance Avss 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/AVSS.2017.8078524
+   - **Scopus ID:** 2-s2.0-85039918173
+   - **Authors:** Olier Juan Sebastian; Campo Damian Andres; Marcenaro Lucio; Barakova Emilia; Rauterberg Matthias; Regazzoni Carlo
+   - **Source Id:** 21100844810
+   - **Author Ids:** 56728417800;57126952000;6603377664;35614959800;6701479494;35513672400
+   - **Authoraffiliationids:** 60025153-60032882;60025153;60025153;60032882;60032882;60025153-60001741
+   - **Corresponding:** Olier J.S.
+104.
+   - **Title:** Modeling and classification of trajectories based on a Gaussian process decomposition into discrete components
+   - **Venue:** 2017 14th IEEE International Conference on Advanced Video and Signal Based Surveillance Avss 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/AVSS.2017.8078495
+   - **Scopus ID:** 2-s2.0-85039917333
+   - **Authors:** Campo Damian; Baydoun Mohamad; Marcenaro Lucio; Cavallaro Andrea; Regazzoni Carlo S.
+   - **Source Id:** 21100844810
+   - **Author Ids:** 57126952000;57194871976;6603377664;7103233230;35513672400
+   - **Authoraffiliationids:** 60025153;60025153-60022109;60025153;60022109;60025153-60001741
+   - **Corresponding:** Campo D.
+105.
+   - **Title:** Dynamic representations for autonomous driving
+   - **Venue:** 2017 14th IEEE International Conference on Advanced Video and Signal Based Surveillance Avss 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/AVSS.2017.8078511
+   - **Scopus ID:** 2-s2.0-85039905226
+   - **Authors:** Olier Juan Sebastian; Marin-Plaza Pablo; Martin David; Marcenaro Lucio; Barakova Emilia; Rauterberg Matthias; Regazzoni Carlo
+   - **Source Id:** 21100844810
+   - **Author Ids:** 56728417800;57190806708;59368746600;6603377664;35614959800;6701479494;35513672400
+   - **Authoraffiliationids:** 60032882-60025153;60001741;60001741;60025153;60032882;60032882;60025153-60001741
+   - **Corresponding:** Olier J.S.
+106.
+   - **Title:** Unsupervised understanding of location and illumination changes in egocentric videos
+   - **Venue:** Pervasive and Mobile Computing
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1016/j.pmcj.2017.03.016
+   - **Scopus ID:** 2-s2.0-85018708591
+   - **ISSN:** 15741192
+   - **Volume:** 40
+   - **Pages:** 414-429
+   - **Authors:** Betancourt Alejandro; Díaz-Rodríguez Natalia; Barakova Emilia; Marcenaro Lucio; Rauterberg Matthias; Regazzoni Carlo
+   - **Keywords:** Egocentric videos | First person vision | Machine learning | Unsupervised learning | Wearable camera
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q1, rank 95, percentile 82)
+     - Software (Q1, rank 92, percentile 81)
+     - Computer Science Applications (Q1, rank 188, percentile 80)
+     - Information Systems (Q1, rank 98, percentile 80)
+     - Hardware and Architecture (Q1, rank 47, percentile 80)
+     2017:
+     - Subject (Q1, rank 31, percentile 93)
+     - Subject (Q1, rank 7, percentile 88)
+   - **Source Id:** 3200147819
+   - **Author Ids:** 36503520400;55904010200;35614959800;6603377664;6701479494;35513672400
+   - **Authoraffiliationids:** 60025153-60032882;60137794;60032882;60025153;60032882;60025153
+   - **Corresponding:** Betancourt A.
+107.
+   - **Title:** Smart cameras with onboard signcryption for securing IoT applications
+   - **Venue:** Giots 2017 Global Internet of Things Summit Proceedings
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 18
+   - **DOI:** 10.1109/GIOTS.2017.8016279
+   - **Scopus ID:** 2-s2.0-85029288430
+   - **Authors:** Ullah Subhan; Rinner Bernhard; Marcenaro Lucio
+   - **Keywords:** Internet of Things | Security | Signcryption | Smart camera
+   - **Source Id:** 21100830145
+   - **Author Ids:** 57214045908;6602718780;6603377664
+   - **Authoraffiliationids:** 60019660-60025153;60019660;60025153
+   - **Corresponding:** Ullah S.
+108.
+   - **Title:** Defense against jamming attacks in wide-band radios using cyclic spectral analysis and compressed sensing
+   - **Venue:** International Conference on Ubiquitous and Future Networks Icufn
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICUFN.2017.7993925
+   - **Scopus ID:** 2-s2.0-85028081535
+   - **ISSN:** 21658528
+   - **eISSN:** 21658536
+   - **Pages:** 874-879
+   - **Authors:** Nawaz T.; Marcenaro L.; Regazzoni C. S.
+   - **Quartile:**
+     2025:
+     - Computer Networks and Communications (Q3, rank 313, percentile 42)
+     - Computer Science Applications (Q3, rank 635, percentile 35)
+     - Hardware and Architecture (Q3, rank 155, percentile 33)
+   - **Source Id:** 21100278106
+   - **Author Ids:** 57189034024;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153-60001741
+   - **Corresponding:** Nawaz T.
+109.
+   - **Title:** Jammer detection algorithm for wide-band radios using spectral correlation and neural networks
+   - **Venue:** 2017 13th International Wireless Communications and Mobile Computing Conference Iwcmc 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 13
+   - **DOI:** 10.1109/IWCMC.2017.7986294
+   - **Scopus ID:** 2-s2.0-85027870418
+   - **Pages:** 246-251
+   - **Authors:** Nawaz T.; Campo D.; Mughal M. O.; Marcenaro L.; Regazzoni C. S.
+   - **Keywords:** Artificial neural network | Cognitive radio | Jamming attacks | Spectral correlation function
+   - **Source Id:** 21100827797
+   - **Author Ids:** 57189034024;57126952000;54784921000;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Nawaz T.
+110.
+   - **Title:** Abnormal event detection in videos using generative adversarial nets
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 479
+   - **DOI:** 10.1109/ICIP.2017.8296547
+   - **Scopus ID:** 2-s2.0-85045346178
+   - **ISSN:** 15224880
+   - **Volume:** 2017-September
+   - **Pages:** 1577-1581
+   - **Authors:** Ravanbakhsh Mahdyar; Nabi Moin; Sangineto Enver; Marcenaro Lucio; Regazzoni Carlo; Sebe Nicu
+   - **Keywords:** Abnormal event detection | Crowd behaviour analysis | Generative Adversarial Networks | Video analysis
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 57192545758;56097124600;6506128346;6603377664;35513672400;57204924633
+   - **Authoraffiliationids:** 60025153;60015986;60015986;60025153;60025153-60001741;60015986
+   - **Corresponding:** Ravanbakhsh M.
+111.
+   - **Title:** Task-dependent saliency estimation from trajectories of agents in video sequences
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICIP.2017.8297084
+   - **Scopus ID:** 2-s2.0-85045310006
+   - **ISSN:** 15224880
+   - **Volume:** 2017-September
+   - **Pages:** 4252-4256
+   - **Authors:** Campo D.; Baydoun M.; Marcenaro L.; Regazzoni C. S.
+   - **Keywords:** Attention points detection | Gaussian process regression | Hough transform | Trajectory analysis | Vector field representation
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 57126952000;57194871976;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153-60001741
+   - **Corresponding:** Campo D.
+112.
+   - **Title:** Grounded representations through deep variational inference and dynamic programming
+   - **Venue:** 7th Joint IEEE International Conference on Development and Learning and on Epigenetic Robotics ICDL Epirob 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/DEVLRN.2017.8329818
+   - **Scopus ID:** 2-s2.0-85039899545
+   - **Volume:** 2018-January
+   - **Pages:** 277-282
+   - **Authors:** Olier Juan Sebastian; Barakova Emilia; Rauterberg Matthias; Marcenaro Lucio; Regazzoni Carlo
+   - **Source Id:** 21101180152
+   - **Author Ids:** 56728417800;35614959800;6701479494;6603377664;35513672400
+   - **Authoraffiliationids:** 60032882-60025153;60032882;60032882;60025153;60025153-60001741
+   - **Corresponding:** Olier J.S.
+113.
+   - **Title:** Hand pose recognition in First Person Vision through graph spectral analysis
+   - **Venue:** ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ICASSP.2017.7952481
+   - **Scopus ID:** 2-s2.0-85023745965
+   - **ISSN:** 15206149
+   - **Pages:** 1872-1876
+   - **Authors:** Baydoun Mohamad; Betancourt Alejandro; Morerio Pietro; Marcenaro Lucio; Rauterberg Matthias; Regazzoni Carlo
+   - **Keywords:** Egocentric Vision | First Person Vision | Graphs | Hand Pose | Spectral Analysis
+   - **Source Id:** 110544
+   - **Author Ids:** 57194871976;36503520400;55364178700;6603377664;6701479494;35513672400
+   - **Authoraffiliationids:** 60025153;60025153-60032882;60025153;60025153;60032882;60025153
+   - **Corresponding:** Baydoun M.
+114.
+   - **Title:** Crowd analysis using visual and non-visual sensors, a survey
+   - **Venue:** 2016 IEEE Global Conference on Signal and Information Processing Globalsip 2016 Proceedings
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1109/GlobalSIP.2016.7906041
+   - **Scopus ID:** 2-s2.0-85019252190
+   - **Pages:** 1249-1254
+   - **Authors:** Irfan Muhammad; Marcenaro Lucio; Tokarchuk Laurissa
+   - **Keywords:** Computer Vision | Crowd Analysis | Crowd Dynamics | Crowd sensing | Sensors | Smart-phones
+   - **Source Id:** 21100812602
+   - **Author Ids:** 57194206606;6603377664;6602852642
+   - **Authoraffiliationids:** 60025153;60025153;60022109
+   - **Corresponding:** Irfan M.
+115.
+   - **Title:** Designing for action: An evaluation of Social Recipes in reducing food waste
+   - **Venue:** International Journal of Human Computer Studies
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 53
+   - **DOI:** 10.1016/j.ijhcs.2016.12.005
+   - **Scopus ID:** 2-s2.0-85007507398
+   - **ISSN:** 10715819
+   - **eISSN:** 10959300
+   - **Volume:** 100
+   - **Pages:** 18-32
+   - **Authors:** Lim Veranika; Funk Mathias; Marcenaro Lucio; Regazzoni Carlo; Rauterberg Matthias
+   - **Keywords:** Computer-supported collaborative work | Food technology | Food waste | Persuasive | Sharing | Social interaction | Sustainability
+   - **Quartile:**
+     2025:
+     - Education (Q1, rank 75, percentile 95)
+     - Engineering (all) (Q1, rank 35, percentile 90)
+     - Human Factors and Ergonomics (Q1, rank 7, percentile 86)
+     - Hardware and Architecture (Q1, rank 35, percentile 85)
+     - Software (Q1, rank 75, percentile 85)
+     - Human-Computer Interaction (Q1, rank 42, percentile 78)
+     2017:
+     - Human Factors and Ergonomics (Q1, rank 1, percentile 98)
+     - Education (Q1, rank 24, percentile 97)
+     - Engineering (all) (Q1, rank 15, percentile 94)
+     - Hardware and Architecture (Q1, rank 21, percentile 86)
+     - Human-Computer Interaction (Q1, rank 13, percentile 85)
+     - Software (Q1, rank 59, percentile 84)
+   - **Source Id:** 12960
+   - **Author Ids:** 56160370600;24468097500;6603377664;35513672400;6701479494
+   - **Authoraffiliationids:** 60032882-60025153;60032882;60025153;60025153;60032882
+   - **Corresponding:** Lim V.
+116.
+   - **Title:** Evaluating human activity-based ambient lighting displays for effective peripheral communication
+   - **Venue:** Bodynets International Conference on Body Area Networks
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.4108/eai.15-12-2016.2267663
+   - **Scopus ID:** 2-s2.0-85085541737
+   - **eISSN:** 23103582
+   - **Authors:** Davis Kadian; Owusu Evans; Marcenaro Lucio; Feijs Loe; Regazzoni Carlo; Hu Jun
+   - **Keywords:** Ambient assisted living | Ambient lighting displays | Context awareness | Social connectedness
+   - **Source Id:** 21100874369
+   - **Author Ids:** 56784973800;56785899000;6603377664;7004096151;35513672400;56442891500
+   - **Authoraffiliationids:** 60032882;117559686;60025153;60032882;60025153;60032882
+   - **Corresponding:** Davis K.
+117.
+   - **Title:** Security, privacy, and dependability technologies
+   - **Venue:** Measurable and Composable Security Privacy and Dependability for Cyberphysical Systems the Shield Methodology
+   - **Year:** 2017
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.1201/9781138042858
+   - **Scopus ID:** 2-s2.0-85052570835
+   - **Pages:** 30-103
+   - **Authors:** Azzoni Paolo; Geretti Luca; Abramo Antonio; Stefanidis Kyriakos; Gialelis John; Papalambrou Andreas; Serpanos Dimitrios; Rantos Konstantinos; Toma Andrea; Tassadaq Nawaz; Dabcevic Kresimir; Regazzoni Carlo; Marcenaro Lucio; Traversone Massimo; Cesena Marco; Mignanti Silvano
+   - **Source Id:** 21100875665
+   - **Author Ids:** 13614142900;24450194200;7006405021;24177922500;8374256000;21834996800;35876518100;6507911474;56303677700;57203660643;55363592300;35513672400;6603377664;57194378721;35247512900;24724892100
+   - **Authoraffiliationids:** 116778097;60032256;60025965;60042257;60042257;60042257;60042257;60035865;60032350;60025153;60025153;60025153;60025153;60024961;114506580;60032350
+   - **Corresponding:** Azzoni P.
+118.
+   - **Title:** SHIELD technology demonstrators
+   - **Venue:** Measurable and Composable Security Privacy and Dependability for Cyberphysical Systems the Shield Methodology
+   - **Year:** 2017
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 0
+   - **DOI:** 10.1201/9781138042858
+   - **Scopus ID:** 2-s2.0-85052557047
+   - **Pages:** 360-411
+   - **Authors:** Cesena Marco; Regazzoni Carlo; Marcenaro Lucio; Toma Andrea; Tassadaq Nawaz; Dabcevic Kresimir; Hatzivasilis George; Fysarakis Konstantinos; Manifavas Charalampos; Papaefstathiou Ioannis; Azzoni Paolo; Stefanidis Kyriakos
+   - **Source Id:** 21100875665
+   - **Author Ids:** 35247512900;35513672400;6603377664;56303677700;57203660643;55363592300;55554489600;55427860800;16031576800;6701918242;13614142900;24177922500
+   - **Authoraffiliationids:** 60024961;60025153;60025153;60024961;60025153;60025153;60022461;60019181;60113220;60022461;116778097;60042257
+   - **Corresponding:** Cesena M.
+119.
+   - **Title:** Effects of Ambient Lighting Displays on Peripheral Activity Awareness
+   - **Venue:** IEEE Access
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 26
+   - **DOI:** 10.1109/ACCESS.2017.2703866
+   - **Scopus ID:** 2-s2.0-85028844777
+   - **eISSN:** 21693536
+   - **Volume:** 5
+   - **Pages:** 9318-9335
+   - **Authors:** Davis Kadian; Owusu Evans B.; Marcenaro Lucio; Feijs Loe; Regazzoni Carlo; Hu Jun
+   - **Keywords:** ambient assisted living | ambient displays | Ambient intelligence | ambient lighting | context awareness | perception | social connectedness
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 42, percentile 88)
+     - Computer Science (all) (Q1, rank 41, percentile 83)
+     - Materials Science (all) (Q1, rank 101, percentile 78)
+     2017:
+     - Engineering (all) (Q1, rank 68, percentile 75)
+     - Computer Science (all) (Q2, rank 58, percentile 72)
+     - Materials Science (all) (Q2, rank 203, percentile 54)
+   - **Source Id:** 21100374601
+   - **Author Ids:** 56784973800;56785899000;6603377664;7004096151;35513672400;56442891500
+   - **Authoraffiliationids:** 60032882-60025153;;60025153;60032882;60025153;60032882
+   - **Corresponding:** Davis K.
+120.
+   - **Title:** Presenting a real-time activity-based bidirectional framework for improving social connectedness
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2017
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1007/978-3-319-59147-6_31
+   - **Scopus ID:** 2-s2.0-85020882082
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 10306 Lncs
+   - **Pages:** 356-367
+   - **Authors:** Davis Kadian; Owusu Evans; van den Boomen Geert; Apeldoorn Henk; Marcenaro Lucio; Regazzoni Carlo; Feijs Loe; Hu Jun
+   - **Keywords:** Ambient assisted living | Ambient displays | Human activity recognition | Internet of Things | Social connectedness
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+     2017:
+     - Computer Science (all) (Q2, rank 84, percentile 59)
+     - Theoretical Computer Science (Q3, rank 76, percentile 34)
+   - **Source Id:** 25674
+   - **Author Ids:** 56784973800;56785899000;36810590000;57194571621;6603377664;35513672400;7004096151;56442891500
+   - **Authoraffiliationids:** 60032882-60025153;;60032882;60032882;60025153;60025153;60032882;60032882
+   - **Corresponding:** Davis K.
+121.
+   - **Title:** Left/right hand segmentation in egocentric videos
+   - **Venue:** Computer Vision and Image Understanding
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1016/j.cviu.2016.09.005
+   - **Scopus ID:** 2-s2.0-84994730556
+   - **ISSN:** 10773142
+   - **eISSN:** 1090235X
+   - **Volume:** 154
+   - **Pages:** 73-81
+   - **Authors:** Betancourt Alejandro; Morerio Pietro; Barakova Emilia; Marcenaro Lucio; Rauterberg Matthias; Regazzoni Carlo
+   - **Keywords:** Egocentric vision | First person vision | Hand-identification | Hand-segmentation
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 33, percentile 83)
+     - Computer Vision and Pattern Recognition (Q1, rank 34, percentile 80)
+     - Software (Q1, rank 125, percentile 75)
+     2017:
+     - Signal Processing (Q1, rank 14, percentile 86)
+     - Computer Vision and Pattern Recognition (Q1, rank 11, percentile 86)
+     - Software (Q1, rank 58, percentile 84)
+   - **Source Id:** 24161
+   - **Author Ids:** 36503520400;55364178700;35614959800;6603377664;6701479494;35513672400
+   - **Authoraffiliationids:** 60025153-60032882;60025153;60032882;60025153;60032882;60025153
+   - **Corresponding:** Betancourt A.
+122.
+   - **Title:** Improving awareness and social connectedness through the social hue: Insights and perspectives
+   - **Venue:** ACM International Conference Proceeding Series
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1145/2996267.2996269
+   - **Scopus ID:** 2-s2.0-85014870900
+   - **Pages:** 12-23
+   - **Authors:** Davis Kadjan; Feijs Loe; Hu Jun; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** Ageing | Ambient lighting | Context awareness | Loneliness | Social counectedness
+   - **Source Id:** 11600154611
+   - **Author Ids:** 56784973800;7004096151;56442891500;6603377664;35513672400
+   - **Authoraffiliationids:** 60032882;60032882;60032882;60025153;60025153
+   - **Corresponding:** Davis K.
+123.
+   - **Title:** Promoting social connectedness through human activity-based ambient displays
+   - **Venue:** ACM International Conference Proceeding Series
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 17
+   - **DOI:** 10.1145/2996267.2996274
+   - **Scopus ID:** 2-s2.0-85014838284
+   - **Pages:** 64-76
+   - **Authors:** Davis Kadian; Marcenaro Lucio; Owusu Evans; Regazzoni Carlo; Hu Jun; Feijs Loe
+   - **Keywords:** Activity detection | Ambient displays | Assistive technology | Context awareness | Social connectedness | Visual perception
+   - **Source Id:** 11600154611
+   - **Author Ids:** 56784973800;6603377664;56785899000;35513672400;56442891500;7004096151
+   - **Authoraffiliationids:** 60032882;60025153;112854574;60025153;60032882;60032882
+   - **Corresponding:** Davis K.
+124.
+   - **Title:** Activity recognition based on inertial sensors for Ambient Assisted Living
+   - **Venue:** Fusion 2016 19th International Conference on Information Fusion Proceedings
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 73
+   - **Scopus ID:** 2-s2.0-84992124421
+   - **Pages:** 371-378
+   - **Authors:** Davis Kadian; Owusu Evans; Bastani Vahid; Marcenaro Lucio; Hu Jun; Regazzoni Carlo; Feijs Loe
+   - **Source Id:** 21100782624
+   - **Author Ids:** 56784973800;56785899000;36008019900;6603377664;56442891500;35513672400;7004096151
+   - **Authoraffiliationids:** 60032882;117559686;60025153;60025153;60032882;60025153;60032882
+   - **Corresponding:** Davis K.
+125.
+   - **Title:** Incremental learning of environment interactive structures from trajectories of individuals
+   - **Venue:** Fusion 2016 19th International Conference on Information Fusion Proceedings
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-84992058693
+   - **Pages:** 589-596
+   - **Authors:** Campo Damian; Bastani Vahid; Marcenaro Lucio; Regazzoni Carlo
+   - **Source Id:** 21100782624
+   - **Author Ids:** 57126952000;36008019900;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Campo D.
+126.
+   - **Title:** A hierarchical bayesian model for crowd emotions
+   - **Venue:** Frontiers in Computational Neuroscience
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.3389/fncom.2016.00063
+   - **Scopus ID:** 2-s2.0-84978646620
+   - **eISSN:** 16625188
+   - **Volume:** 10
+   - **Issue:** JULY
+   - **Authors:** Urizar Oscar J.; Baig Mirza S.; Barakova Emilia I.; Regazzoni Carlo S.; Marcenaro Lucio; Rauterberg Matthias
+   - **Keywords:** Crowd behavior | Emotion estimation in crowds | Estimation of individual and collective emotions
+   - **Quartile:**
+     2025:
+     - Neuroscience (miscellaneous) (Q1, rank 18, percentile 75)
+     - Cellular and Molecular Neuroscience (Q2, rank 49, percentile 51)
+     2016:
+     - Neuroscience (miscellaneous) (Q2, rank 11, percentile 56)
+     - Cellular and Molecular Neuroscience (Q3, rank 54, percentile 37)
+   - **Source Id:** 19700175168
+   - **Author Ids:** 57190261688;57187798300;35614959800;35513672400;6603377664;6701479494
+   - **Authoraffiliationids:** 60032882;60025153;60032882;60025153;60025153;60032882
+   - **Corresponding:** Urizar O.J.
+127.
+   - **Title:** A Cognitive Control-Inspired Approach to Object Tracking
+   - **Venue:** IEEE Transactions on Image Processing
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1109/TIP.2016.2553781
+   - **Scopus ID:** 2-s2.0-84968854639
+   - **ISSN:** 10577149
+   - **Volume:** 25
+   - **Issue:** 6
+   - **Pages:** 2697-2711
+   - **Authors:** Mazzù Andrea; Morerio Pietro; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Bayesian networks | Bayesian tracking | cognitive dynamic systems | information fusion | IR | learning
+   - **Quartile:**
+     2025:
+     - Computer Graphics and Computer-Aided Design (Q1, rank 3, percentile 98)
+     - Software (Q1, rank 15, percentile 97)
+     2016:
+     - Computer Graphics and Computer-Aided Design (Q1, rank 2, percentile 97)
+     - Software (Q1, rank 15, percentile 96)
+   - **Source Id:** 25534
+   - **Author Ids:** 56417940300;55364178700;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Mazzù A.
+128.
+   - **Title:** Online Nonparametric Bayesian Activity Mining and Analysis from Surveillance Video
+   - **Venue:** IEEE Transactions on Image Processing
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 46
+   - **DOI:** 10.1109/TIP.2016.2540813
+   - **Scopus ID:** 2-s2.0-84963904087
+   - **ISSN:** 10577149
+   - **Volume:** 25
+   - **Issue:** 5
+   - **Pages:** 2089-2102
+   - **Authors:** Bastani Vahid; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** abnormality detection | Dirichlet process mixture | Gaussian process | Incremental trajectory clustering | nonparametric Bayesian | online activity analysis | state dynamics learning
+   - **Quartile:**
+     2025:
+     - Computer Graphics and Computer-Aided Design (Q1, rank 3, percentile 98)
+     - Software (Q1, rank 15, percentile 97)
+     2016:
+     - Computer Graphics and Computer-Aided Design (Q1, rank 2, percentile 97)
+     - Software (Q1, rank 15, percentile 96)
+   - **Source Id:** 25534
+   - **Author Ids:** 36008019900;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bastani V.
+129.
+   - **Title:** Cognitive Radio as the Facilitator for Advanced Communications Electronic Warfare Solutions
+   - **Venue:** Journal of Signal Processing Systems
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1007/s11265-015-1050-0
+   - **Scopus ID:** 2-s2.0-84959513700
+   - **ISSN:** 19398018
+   - **eISSN:** 19398115
+   - **Volume:** 83
+   - **Issue:** 1
+   - **Pages:** 29-44
+   - **Authors:** Dabcevic Kresimir; Mughal Muhammad Ozair; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Anti-jamming | Cognitive radio | Compressed sampling | Feature detector | Interference mitigation | Spectrum intelligence
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q1, rank 55, percentile 85)
+     - Theoretical Computer Science (Q1, rank 30, percentile 78)
+     - Signal Processing (Q1, rank 46, percentile 76)
+     - Control and Systems Engineering (Q2, rank 104, percentile 72)
+     - Information Systems (Q2, rank 146, percentile 70)
+     - Hardware and Architecture (Q2, rank 73, percentile 69)
+     2016:
+     - Control and Systems Engineering (Q3, rank 121, percentile 45)
+     - Signal Processing (Q3, rank 54, percentile 42)
+     - Modeling and Simulation (Q3, rank 132, percentile 41)
+     - Information Systems (Q3, rank 152, percentile 39)
+     - Theoretical Computer Science (Q3, rank 76, percentile 36)
+     - Hardware and Architecture (Q3, rank 98, percentile 34)
+   - **Source Id:** 11400153333
+   - **Author Ids:** 55363592300;54784921000;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Dabcevic K.
+130.
+   - **Title:** Cyclostationary-based jammer detection algorithm for wide-band radios using compressed sensing
+   - **Venue:** 2015 IEEE Global Conference on Signal and Information Processing Globalsip 2015
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1109/GlobalSIP.2015.7418201
+   - **Scopus ID:** 2-s2.0-84964770234
+   - **Pages:** 280-284
+   - **Authors:** Mughal M. O.; Nawaz T.; Marcenaro L.; Regazzoni C. S.
+   - **Source Id:** 21100456761
+   - **Author Ids:** 54784921000;57189034024;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Mughal M.
+131.
+   - **Title:** GPU accelerated left/right hand-segmentation in first person vision
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2016
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1007/978-3-319-46604-0_36
+   - **Scopus ID:** 2-s2.0-84989929129
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 9913 Lncs
+   - **Pages:** 504-517
+   - **Authors:** Betancourt Alejandro; Marcenaro Lucio; Barakova Emilia; Rauterberg Matthias; Regazzoni Carlo
+   - **Keywords:** Egovision | GPU | Hand-detection | Hand-segmentation | Wearable cameras
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+     2016:
+     - Computer Science (all) (Q2, rank 79, percentile 60)
+     - Theoretical Computer Science (Q3, rank 79, percentile 33)
+   - **Source Id:** 25674
+   - **Author Ids:** 36503520400;6603377664;35614959800;6701479494;35513672400
+   - **Authoraffiliationids:** 60025153-60032882;60025153;60032882;60032882;60025153
+   - **Corresponding:** Betancourt A.
+132.
+   - **Title:** A particle filter based sequential trajectory classifier for behavior analysis in video surveillance
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/ICIP.2015.7351493
+   - **Scopus ID:** 2-s2.0-84956646245
+   - **ISSN:** 15224880
+   - **Volume:** 2015-December
+   - **Pages:** 3690-3694
+   - **Authors:** Bastani Vahid; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** Behavior Analysis | On-line Trajectory Classification | Video Surveillance
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 36008019900;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bastani V.
+133.
+   - **Title:** Filtering SVM frame-by-frame binary classification in a detection framework
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/ICIP.2015.7351263
+   - **Scopus ID:** 2-s2.0-84956627285
+   - **ISSN:** 15224880
+   - **Volume:** 2015-December
+   - **Pages:** 2552-2556
+   - **Authors:** Betancourt Alejandro; Morerio Pietro; Marcenaro Lucio; Rauterberg Matthias; Regazzoni Carlo
+   - **Keywords:** Bayesian Filtering | Classification | Detection | Egocentric Vision | First Person Vision | Hand detection | Wearable computing
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 36503520400;55364178700;6603377664;6701479494;35513672400
+   - **Authoraffiliationids:** 60025153-60032882;60025153;60025153;60032882;60025153
+   - **Corresponding:** Betancourt A.
+134.
+   - **Title:** Compressed sensing based jammer detection algorithm for wide-band cognitive radio networks
+   - **Venue:** 2015 3rd International Workshop on Compressed Sensing Theory and Its Applications to Radar Sonar and Remote Sensing Cosera 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/CoSeRa.2015.7330276
+   - **Scopus ID:** 2-s2.0-84962844498
+   - **Pages:** 119-123
+   - **Authors:** Mughal M. O.; Dabcevic K.; Marcenaro L.; Regazzoni C. S.
+   - **Source Id:** 21100455492
+   - **Author Ids:** 54784921000;55363592300;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Mughal M.
+135.
+   - **Title:** Online pedestrian group walking event detection using spectral analysis of motion similarity graph
+   - **Venue:** Avss 2015 12th IEEE International Conference on Advanced Video and Signal Based Surveillance
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/AVSS.2015.7301744
+   - **Scopus ID:** 2-s2.0-84958639239
+   - **Authors:** Bastani Vahid; Campo Damian; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** Cameras | Clustering algorithms | Eigenvalues and eigenfunctions | Hidden Markov models | Kalman filters | Legged locomotion | Trajectory
+   - **Source Id:** 21100446605
+   - **Author Ids:** 36008019900;57126952000;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bastani V.
+136.
+   - **Title:** Perception of emotions from crowd dynamics
+   - **Venue:** International Conference on Digital Signal Processing DSP
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/ICDSP.2015.7251966
+   - **Scopus ID:** 2-s2.0-84961366951
+   - **Volume:** 2015-September
+   - **Pages:** 703-707
+   - **Authors:** Baig M. W.; Baig Mirza Sulman; Bastani V.; Barakova E. I.; Marcenaro L.; Regazzoni C. S.; Rauterberg M.
+   - **Keywords:** Autobiographical Memory | Crowd emotion detection | Crowd simulation | Event based Dynamic Bayesian Network | Instantaneous Topological Map | Log-likelihood ratio
+   - **Source Id:** 92190
+   - **Author Ids:** 36959339700;57187798300;36008019900;35614959800;6603377664;35513672400;6701479494
+   - **Authoraffiliationids:** 60025153-60032882;60025153;60025153;60032882;60025153;60025153;60032882
+   - **Corresponding:** Baig M.W.
+137.
+   - **Title:** A bio-inspired logical process for saliency detections in cognitive crowd monitoring
+   - **Venue:** ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ICASSP.2015.7178343
+   - **Scopus ID:** 2-s2.0-84946099758
+   - **ISSN:** 15206149
+   - **Volume:** 2015-August
+   - **Pages:** 2110-2114
+   - **Authors:** Chiappino Simone; Mazzu Andrea; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** cognitive crowd monitoring | human reasoning | machine learning | saliency detection | Self Organizing Maps
+   - **Source Id:** 110544
+   - **Author Ids:** 55416549200;56417940300;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Chiappino S.
+138.
+   - **Title:** Advantages of dynamic analysis in HOG-PCA feature space for video moving object classification
+   - **Venue:** ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ICASSP.2015.7178177
+   - **Scopus ID:** 2-s2.0-84946062615
+   - **ISSN:** 15206149
+   - **Volume:** 2015-August
+   - **Pages:** 1285-1289
+   - **Authors:** Lopez Miriam M.; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** HMM | HOG | hybrid classifier | Moving object classification | PCA
+   - **Source Id:** 110544
+   - **Author Ids:** 35375481700;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Lopez M.M.
+139.
+   - **Title:** Distributed binary consensus in networks with disturbances
+   - **Venue:** ACM Transactions on Autonomous and Adaptive Systems
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1145/2746347
+   - **Scopus ID:** 2-s2.0-84940989669
+   - **ISSN:** 15564665
+   - **eISSN:** 15564703
+   - **Volume:** 10
+   - **Issue:** 3
+   - **Authors:** Gogolev Alexander; Marchenko Nikolaj; Marcenaro Lucio; Bettstetter Christian
+   - **Keywords:** Algorithms | Byzantine fault tolerance | C.2.4 [computer-communication networks]: distributed systems | C.4 [performance of systems]: fault tolerance | Consensus algorithms | Delayed system | Density classification | Fault tolerance | Faulty nodes | Majority sorting | Performance | Randomization | Self-organization
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q2, rank 120, percentile 68)
+     - Computer Science (miscellaneous) (Q2, rank 60, percentile 65)
+     - Software (Q2, rank 182, percentile 63)
+     2015:
+     - Control and Systems Engineering (Q1, rank 35, percentile 83)
+     - Computer Science (miscellaneous) (Q1, rank 6, percentile 82)
+     - Software (Q1, rank 86, percentile 77)
+   - **Source Id:** 4800153205
+   - **Author Ids:** 56131967300;25961008300;6603377664;55952094600
+   - **Authoraffiliationids:** 60019660;60019660;60019660;60019660-60025153
+   - **Corresponding:** Gogolev A.
+140.
+   - **Title:** Towards a unified framework for hand-based methods in First Person Vision
+   - **Venue:** 2015 IEEE International Conference on Multimedia and Expo Workshops Icmew 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 16
+   - **DOI:** 10.1109/ICMEW.2015.7169784
+   - **Scopus ID:** 2-s2.0-84945589874
+   - **Authors:** Betancourt Alejandro; Morerio Pietro; Marcenaro Lucio; Barakova Emilia; Rauterberg Matthias; Regazzoni Carlo
+   - **Keywords:** Egovision | First Person Vision | Hand-detection | Hand-identification | Hand-segmentation | Hands interactions | Werable cameras
+   - **Source Id:** 21100420821
+   - **Author Ids:** 36503520400;55364178700;6603377664;35614959800;6701479494;35513672400
+   - **Authoraffiliationids:** 60025153-60032882;60025153;60025153;60032882;60032882;60025153
+   - **Corresponding:** Betancourt A.
+141.
+   - **Title:** Bio-inspired relevant interaction modelling in cognitive crowd management
+   - **Venue:** Journal of Ambient Intelligence and Humanized Computing
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 20
+   - **DOI:** 10.1007/s12652-014-0224-0
+   - **Scopus ID:** 2-s2.0-84925537935
+   - **ISSN:** 18685137
+   - **eISSN:** 18685145
+   - **Volume:** 6
+   - **Issue:** 2
+   - **Pages:** 171-192
+   - **Authors:** Chiappino Simone; Morerio Pietro; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Anomalous interactions | Bio-inspired learning | Cognitive systems | Crowd monitoring | Self organizing map
+   - **Quartile:**
+     2025:
+     - Computer Science (all) (Q1, rank 18, percentile 92)
+     2015:
+     - Computer Science (all) (Q2, rank 64, percentile 68)
+   - **Source Id:** 19400158593
+   - **Author Ids:** 55416549200;55364178700;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Chiappino S.
+142.
+   - **Title:** Optimizing superpixel clustering for real-time egocentric-vision applications
+   - **Venue:** IEEE Signal Processing Letters
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/LSP.2014.2362852
+   - **Scopus ID:** 2-s2.0-84908297891
+   - **ISSN:** 10709908
+   - **Volume:** 22
+   - **Issue:** 4
+   - **Pages:** 469-473
+   - **Authors:** Morerio Pietro; Georgiu Gabriel Claudiu; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** Bayesian Filtering | egocentric vision | first-person vision | optimization | superpixel | video analysis
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 66, percentile 90)
+     - Signal Processing (Q1, rank 44, percentile 77)
+     - Electrical and Electronic Engineering (Q1, rank 243, percentile 75)
+     2015:
+     - Applied Mathematics (Q1, rank 43, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 111, percentile 83)
+     - Signal Processing (Q1, rank 19, percentile 78)
+   - **Source Id:** 17316
+   - **Author Ids:** 55364178700;56397052800;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Morerio P.
+143.
+   - **Title:** Design implications for a community-based social recipe system
+   - **Venue:** 2014 World Congress on Sustainable Technologies Wcst 2014
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/WCST.2014.7030089
+   - **Scopus ID:** 2-s2.0-84924230308
+   - **Pages:** 19-26
+   - **Authors:** Lim Veranika; Yalvaç Fulya; Funk Mathias; Hu Jun; Rauterberg Matthias; Regazzoni Carlo; Marcenaro Lucio
+   - **Source Id:** 21100377487
+   - **Author Ids:** 56160370600;56160518500;24468097500;56442891500;6701479494;35513672400;6603377664
+   - **Authoraffiliationids:** 60032882;60032882;60032882;60032882;60032882;60025153;60025153
+   - **Corresponding:** Lim V.
+144.
+   - **Title:** Improved throughput performance in wideband cognitive radios via compressive sensing
+   - **Venue:** Proceedings 8th Eurosim Congress on Modelling and Simulation Eurosim 2013
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/EUROSIM.2013.102
+   - **Scopus ID:** 2-s2.0-84929603792
+   - **Pages:** 585-590
+   - **Authors:** Alam Sk Shariful; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** analog-to-information converter | compressive sampling | l1-norm minimization | spectral estimation | wideband spectrum sensing
+   - **Source Id:** 21100392306
+   - **Author Ids:** 56011273900;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Alam S.S.
+145.
+   - **Title:** A dynamic approach and a new dataset for hand-detection in first person vision
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2015
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 17
+   - **DOI:** 10.1007/978-3-319-23192-1_23
+   - **Scopus ID:** 2-s2.0-84945928067
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 9256
+   - **Pages:** 274-287
+   - **Authors:** Betancourt Alejandro; Morerio Pietro; Barakova Emilia I.; Marcenaro Lucio; Rauterberg Matthias; Regazzoni Carlo S.
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+     2015:
+     - Computer Science (all) (Q2, rank 87, percentile 57)
+     - Theoretical Computer Science (Q3, rank 76, percentile 36)
+   - **Source Id:** 25674
+   - **Author Ids:** 36503520400;55364178700;35614959800;6603377664;6701479494;35513672400
+   - **Authoraffiliationids:** 60025153-60032882;60025153;60032882;60025153;60032882;60025153
+   - **Corresponding:** Betancourt A.
+146.
+   - **Title:** Perception of human activities: A means to support connectedness between the elderly and their caregivers
+   - **Venue:** Ict4ageingwell 2015 Proceedings of the 1st International Conference on Information and Communication Technologies for Ageing Well and E Health
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.5220/0005490601940199
+   - **Scopus ID:** 2-s2.0-84939528055
+   - **Pages:** 194-199
+   - **Authors:** Davis Kadian; Owusu Evans; Regazzoni Carlo; Marcenaro Lucio; Feijs Loe; Hu Jun
+   - **Keywords:** Activity recognition | Connectedness | Monitoring | Perception | Sensors | Smart-phone
+   - **Source Id:** 21100992812
+   - **Author Ids:** 56784973800;56785899000;35513672400;6603377664;7004096151;56442891500
+   - **Authoraffiliationids:** 60032882;;60025153;60025153;60032882;60032882
+   - **Corresponding:** Davis K.
+147.
+   - **Title:** E-comate: What’s your non-consumption?
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2015
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1007/978-3-319-19258-1_40
+   - **Scopus ID:** 2-s2.0-84937501083
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 9094
+   - **Pages:** 486-499
+   - **Authors:** Lim Veranika; Funk Mathias; Rauterberg Matthias; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** Eco-feedback | Food sustainability | Social interaction
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+     2015:
+     - Computer Science (all) (Q2, rank 87, percentile 57)
+     - Theoretical Computer Science (Q3, rank 76, percentile 36)
+   - **Source Id:** 25674
+   - **Author Ids:** 56160370600;24468097500;6701479494;6603377664;35513672400
+   - **Authoraffiliationids:** 60032882-60025153;60032882;60032882;60025153;60025153
+   - **Corresponding:** Lim V.
+148.
+   - **Title:** Convolutional neural networks for detecting and mapping crowds in first person vision applications
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2015
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/978-3-319-19258-1_39
+   - **Scopus ID:** 2-s2.0-84937469049
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 9094
+   - **Pages:** 475-485
+   - **Authors:** Olier Juan Sebastian; Regazzoni Carlo; Marcenaro Lucio; Rauterberg Matthias
+   - **Keywords:** Convolutional neural networks | Crowds detection | Egocentric videos | Firstperson vision
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+     2015:
+     - Computer Science (all) (Q2, rank 87, percentile 57)
+     - Theoretical Computer Science (Q3, rank 76, percentile 36)
+   - **Source Id:** 25674
+   - **Author Ids:** 56728417800;35513672400;6603377664;6701479494
+   - **Authoraffiliationids:** 60025153-60032882;60025153;60025153;60032882
+   - **Corresponding:** Olier J.S.
+149.
+   - **Title:** Unsupervised trajectory pattern classification using hierarchical Dirichlet Process Mixture hidden Markov model
+   - **Venue:** IEEE International Workshop on Machine Learning for Signal Processing Mlsp
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 21
+   - **DOI:** 10.1109/MLSP.2014.6958916
+   - **Scopus ID:** 2-s2.0-84912551799
+   - **ISSN:** 21610363
+   - **eISSN:** 21610371
+   - **Authors:** Bastani Vahid; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** Dirichlet Process Mixture | Motion Pattern Learning | Nonparametric Bayesian Learning | Unsupervised Trajectory Clustering
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 125, percentile 36)
+     - Human-Computer Interaction (Q4, rank 153, percentile 20)
+   - **Source Id:** 21100222921
+   - **Author Ids:** 36008019900;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bastani V.
+150.
+   - **Title:** Impact of transform coding in compressive sensing based wideband cognitive radios
+   - **Venue:** 2014 4th International Conference on Wireless Communications Vehicular Technology Information Theory and Aerospace and Electronic Systems Vitae 2014 Co Located with Global Wireless Summit
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/VITAE.2014.6934468
+   - **Scopus ID:** 2-s2.0-84911896683
+   - **Authors:** Alam Sk Shariful; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** analog-to-information converter | compressive sampling | l1-minimization | mean square error | wideband spectrum sensing
+   - **Source Id:** 21100348504
+   - **Author Ids:** 56011273900;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Alam S.S.
+151.
+   - **Title:** Online Bayesian learning and classification of ship-to-ship interactions for port safety
+   - **Venue:** 11th IEEE International Conference on Advanced Video and Signal Based Surveillance Avss 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/AVSS.2014.6918688
+   - **Scopus ID:** 2-s2.0-84909956632
+   - **Pages:** 319-324
+   - **Authors:** Castaldo Francesco; Palmieri Francesco A.N.; Bastani Vahid; Marcenaro Lucio; Regazzoni Carlo
+   - **Source Id:** 21100345601
+   - **Author Ids:** 55758951000;7103111570;36008019900;6603377664;35513672400
+   - **Authoraffiliationids:** 60026777;60026777;60025153;60025153;60025153
+   - **Corresponding:** Castaldo F.
+152.
+   - **Title:** Abnormal vessel behavior detection in port areas based on Dynamic Bayesian Networks
+   - **Venue:** Fusion 2014 17th International Conference on Information Fusion
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 33
+   - **Scopus ID:** 2-s2.0-84910678382
+   - **Authors:** Castaldo Francesco; Palmieri Francesco A.N.; Bastani Vahid; Marcenaro Lucio; Regazzoni Carlo
+   - **Source Id:** 21100346202
+   - **Author Ids:** 55758951000;7103111570;36008019900;6603377664;35513672400
+   - **Authoraffiliationids:** 60026777;60026777;60025153;60025153;60025153
+   - **Corresponding:** Castaldo F.
+153.
+   - **Title:** A switching fusion filter for dim point target tracking in infra-red video sequences
+   - **Venue:** Fusion 2014 17th International Conference on Information Fusion
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-84910634392
+   - **Authors:** Mazzù Andrea; Chiappino Simone; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Bayesian filtering | Bayesian switching models | Infra Red images | Interactive Multiple Models | Track-Before-Detect
+   - **Source Id:** 21100346202
+   - **Author Ids:** 56417940300;55416549200;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Mazzù A.
+154.
+   - **Title:** A generative superpixel method
+   - **Venue:** Fusion 2014 17th International Conference on Information Fusion
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **Scopus ID:** 2-s2.0-84910622125
+   - **Authors:** Morerio Pietro; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Growing Neural Gas | Instantaneous Topological Map | Segmentation | Superpixel
+   - **Source Id:** 21100346202
+   - **Author Ids:** 55364178700;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Morerio P.
+155.
+   - **Title:** Bio-inspired probabilistic model for crowd emotion detection
+   - **Venue:** Proceedings of the International Joint Conference on Neural Networks
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/IJCNN.2014.6889964
+   - **Scopus ID:** 2-s2.0-84908494982
+   - **Pages:** 3966-3973
+   - **Authors:** Baig Mirza Waqar; Barakova Emilia I.; Marcenaro Lucio; Regazzoni Carlo S.; Rauterberg Matthias
+   - **Source Id:** 96537
+   - **Author Ids:** 36959339700;35614959800;6603377664;35513672400;6701479494
+   - **Authoraffiliationids:** 60032882-60025153;60032882;60025153;60025153;60032882
+   - **Corresponding:** Baig M.W.
+156.
+   - **Title:** Energy detection in multihop cooperative diversity networks: An analytical study
+   - **Venue:** International Journal of Distributed Sensor Networks
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1155/2014/453248
+   - **Scopus ID:** 2-s2.0-84896863323
+   - **ISSN:** 15501329
+   - **eISSN:** 15501477
+   - **Volume:** 2014
+   - **Authors:** Mughal M. O.; Marcenaro L.; Regazzoni C. S.
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 40, percentile 88)
+     - Computer Networks and Communications (Q1, rank 86, percentile 84)
+     2014:
+     - Engineering (all) (Q2, rank 102, percentile 62)
+     - Computer Networks and Communications (Q3, rank 147, percentile 34)
+   - **Source Id:** 5800173381
+   - **Author Ids:** 54784921000;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Mughal M.
+157.
+   - **Title:** A track-before-detect algorithm using joint probabilistic data association filter and interacting multiple models
+   - **Venue:** 2014 IEEE International Conference on Image Processing Icip 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ICIP.2014.7026002
+   - **Scopus ID:** 2-s2.0-84949928607
+   - **Pages:** 4947-4951
+   - **Authors:** Mazzu Andrea; Chiappino Simone; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** extended objects | IMM | IR sequences | JPDAF | Track-Before-Detect
+   - **Source Id:** 21100395901
+   - **Author Ids:** 56417940300;55416549200;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Mazzu A.
+158.
+   - **Title:** Crowd emotion detection using dynamic probabilistic models
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2014
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 16
+   - **DOI:** 10.1007/978-3-319-08864-8_32
+   - **Scopus ID:** 2-s2.0-84958552118
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 8575 Lnai
+   - **Pages:** 328-337
+   - **Authors:** Baig Mirza Waqar; Barakova Emilia I.; Marcenaro Lucio; Rauterberg Matthias; Regazzoni Carlo S.
+   - **Keywords:** Autobiographical Memory | Collective Behavior | Crowd Emotions Detection | Dynamic Bayesian Networks | Dynamic event modeling
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+     2014:
+     - Computer Science (all) (Q2, rank 87, percentile 56)
+     - Theoretical Computer Science (Q3, rank 82, percentile 30)
+   - **Source Id:** 25674
+   - **Author Ids:** 36959339700;35614959800;6603377664;6701479494;35513672400
+   - **Authoraffiliationids:** 60032882-60025153;60032882;60025153;60032882;60025153
+   - **Corresponding:** Baig M.
+159.
+   - **Title:** Intelligent cognitive radio jamming - A game-theoretical approach
+   - **Venue:** Eurasip Journal on Advances in Signal Processing
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 27
+   - **DOI:** 10.1186/1687-6180-2014-171
+   - **Scopus ID:** 2-s2.0-84943400989
+   - **ISSN:** 16876172
+   - **eISSN:** 16876180
+   - **Volume:** 2014
+   - **Issue:** 1
+   - **Pages:** 1-18
+   - **Authors:** Dabcevic Kresimir; Betancourt Alejandro; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Adaptive play | Anti-jamming | Fictitious play | Frequency hopping | Game theory | Jamming | Markov models | Non-zero-sum game | Power allocation | Smart transmission layer | Stochastic game
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 53, percentile 73)
+     - Electrical and Electronic Engineering (Q2, rank 284, percentile 71)
+     - Hardware and Architecture (Q2, rank 82, percentile 65)
+     2014:
+     - Electrical and Electronic Engineering (Q2, rank 236, percentile 63)
+     - Signal Processing (Q2, rank 35, percentile 57)
+     - Hardware and Architecture (Q2, rank 64, percentile 54)
+   - **Source Id:** 15300154801
+   - **Author Ids:** 55363592300;36503520400;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Dabcevic K.
+160.
+   - **Title:** Asymptotic detection performance of energy detector in fixed-gain cooperative relay networks
+   - **Venue:** Iisa 2014 5th International Conference on Information Intelligence Systems and Applications
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/IISA.2014.6878756
+   - **Scopus ID:** 2-s2.0-84906748615
+   - **Pages:** 280-284
+   - **Authors:** Mughal Muhammad Ozair; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Cognitive radio | energy detection | maximum-ratio combining
+   - **Source Id:** 21100332232
+   - **Author Ids:** 54784921000;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Mughal M.
+161.
+   - **Title:** SPD-driven smart transmission layer based on a software defined radio test bed architecture
+   - **Venue:** Peccs 2014 Proceedings of the 4th International Conference on Pervasive and Embedded Computing and Communication Systems
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.5220/0004876302190230
+   - **Scopus ID:** 2-s2.0-84905283955
+   - **Pages:** 219-230
+   - **Authors:** Dabcevic Kresimir; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Cognitive radio | CR | Dependability | Energy detector spectrum sensing | Jamming | NSHIELD | Privacy | SDR | Security | Smart transmission layer | Software defined radio | Test bed
+   - **Source Id:** 21100332449
+   - **Author Ids:** 55363592300;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dabcevic K.
+162.
+   - **Title:** Information Bottleneck-based relevant knowledge representation in large-scale video surveillance systems
+   - **Venue:** ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICASSP.2014.6854426
+   - **Scopus ID:** 2-s2.0-84905270505
+   - **ISSN:** 15206149
+   - **Pages:** 4364-4368
+   - **Authors:** Chiappino Simone; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Anomalous event detections | Cognitive systems | Crowd monitoring | Information bottleneck | Self-Organizing Maps
+   - **Source Id:** 110544
+   - **Author Ids:** 55416549200;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Chiappino S.
+163.
+   - **Title:** Exploiting an event based state estimator in presence of sparse measurements in video analytics
+   - **Venue:** ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ICASSP.2014.6853923
+   - **Scopus ID:** 2-s2.0-84905269964
+   - **ISSN:** 15206149
+   - **Pages:** 1871-1875
+   - **Authors:** Morerio Pietro; Pompei Mattia; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Bayesian filtering | EBSE | Failing detector | Hybrid update | Package loss | Sparse measurements
+   - **Source Id:** 110544
+   - **Author Ids:** 55364178700;56303571300;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Morerio P.
+164.
+   - **Title:** A fictitious play-based game-theoretical approach to alleviating jamming attacks for cognitive radios
+   - **Venue:** ICASSP IEEE International Conference on Acoustics Speech and Signal Processing Proceedings
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 27
+   - **DOI:** 10.1109/ICASSP.2014.6855191
+   - **Scopus ID:** 2-s2.0-84905251124
+   - **ISSN:** 15206149
+   - **Pages:** 8158-8162
+   - **Authors:** Dabcevic Kresimir; Betancourt Alejandro; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** anti-jamming | channel surfing | cognitive radio | fictitious play | game theory | jamming | Markov models | power alteration
+   - **Source Id:** 110544
+   - **Author Ids:** 55363592300;36503520400;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Dabcevic K.
+165.
+   - **Title:** Efficient binary consensus in randomized and noisy environments
+   - **Venue:** IEEE Issnip 2014 2014 IEEE 9th International Conference on Intelligent Sensors Sensor Networks and Information Processing Conference Proceedings
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ISSNIP.2014.6827594
+   - **Scopus ID:** 2-s2.0-84903731547
+   - **Authors:** Gogolev Alexander E.; Marcenaro Lucio
+   - **Keywords:** Binary consensus | Density classification | Distributed consensus | Majority sorting | Randomized consensus | Self-organization | Waitfree consensus
+   - **Source Id:** 21100322389
+   - **Author Ids:** 56131967300;6603377664
+   - **Authoraffiliationids:** 60019660;60025153
+   - **Corresponding:** Gogolev A.
+166.
+   - **Title:** Randomized binary consensus with faulty agents
+   - **Venue:** Entropy
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.3390/e16052820
+   - **Scopus ID:** 2-s2.0-84901409408
+   - **eISSN:** 10994300
+   - **Volume:** 16
+   - **Issue:** 5
+   - **Pages:** 2820-2838
+   - **Authors:** Gogolev Alexander; Marcenaro Lucio
+   - **Keywords:** Binary consensus | Byzantine failure | Density classification | Faulty agents | Randomized consensus | Self-organizing systems
+   - **Quartile:**
+     2025:
+     - Mathematical Physics (Q1, rank 11, percentile 88)
+     - Physics and Astronomy (miscellaneous) (Q1, rank 22, percentile 75)
+     - Physics and Astronomy (all) (Q2, rank 74, percentile 70)
+     - Electrical and Electronic Engineering (Q2, rank 317, percentile 68)
+     - Information Systems (Q2, rank 178, percentile 64)
+     2014:
+     - Physics and Astronomy (all) (Q2, rank 82, percentile 59)
+   - **Source Id:** 13715
+   - **Author Ids:** 56131967300;6603377664
+   - **Authoraffiliationids:** 60019660-60025153;60025153
+   - **Corresponding:** Gogolev A.
+167.
+   - **Title:** Density classification in asynchronous random networks with faulty nodes
+   - **Venue:** Proceedings 2014 22nd Euromicro International Conference on Parallel Distributed and Network Based Processing Pdp 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/PDP.2014.62
+   - **Scopus ID:** 2-s2.0-84899434740
+   - **Pages:** 256-261
+   - **Authors:** Gogolev Alexander; Marcenaro Lucio
+   - **Keywords:** binary consensus | Byzantine failure | density classification | distributed consensus | majority sorting | randomized consensus | self-organization
+   - **Source Id:** 21100307452
+   - **Author Ids:** 56131967300;6603377664
+   - **Authoraffiliationids:** 60019660-60025153;60025153
+   - **Corresponding:** Gogolev A.
+168.
+   - **Title:** Hand detection in First Person Vision
+   - **Venue:** Proceedings of the 16th International Conference on Information Fusion Fusion 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 28
+   - **Scopus ID:** 2-s2.0-84890827859
+   - **Pages:** 1502-1507
+   - **Authors:** Morerio Pietro; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Source Id:** 21100276204
+   - **Author Ids:** 55364178700;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Morerio P.
+169.
+   - **Title:** A bio-inspired knowledge representation method for anomaly detection in cognitive Video Surveillance systems
+   - **Venue:** Proceedings of the 16th International Conference on Information Fusion Fusion 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **Scopus ID:** 2-s2.0-84890810068
+   - **Pages:** 242-249
+   - **Authors:** Chiappino Simone; Morerio Pietro; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Anomalous interactions | Bio-inspired learning | Cognitive systems | Crowd monitoring
+   - **Source Id:** 21100276204
+   - **Author Ids:** 55416549200;55364178700;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Chiappino S.
+170.
+   - **Title:** Event definition for stability preservation in bio-inspired cognitive crowd monitoring
+   - **Venue:** 2013 18th International Conference on Digital Signal Processing DSP 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ICDSP.2013.6622802
+   - **Scopus ID:** 2-s2.0-84888865720
+   - **Authors:** Chiappino Simone; Morerio Pietro; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Bio-inspired learning | Cognitive dynamic systems | Crowd monitoring | Interaction modelling | Self Organizing Maps
+   - **Source Id:** 21100269603
+   - **Author Ids:** 55416549200;55364178700;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Chiappino S.
+171.
+   - **Title:** Enhanced performance in wideband cognitive radios via compressive sensing
+   - **Venue:** 2013 IEEE Global Conference on Signal and Information Processing Globalsip 2013 Proceedings
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/GlobalSIP.2013.6737145
+   - **Scopus ID:** 2-s2.0-84897713983
+   - **Pages:** 1290-1293
+   - **Authors:** Alam Sk Shariful; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Analogto-information converter | Compressive sensing | L1-norm minimization | Spectrum estimation | Wideband spectrum sensing
+   - **Source Id:** 21100291850
+   - **Author Ids:** 56011273900;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Alam S.
+172.
+   - **Title:** Computationally efficient compressive sensing in wideband cognitive radios
+   - **Venue:** International Conference on Next Generation Mobile Applications Services and Technologies
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/NGMAST.2013.48
+   - **Scopus ID:** 2-s2.0-84892709214
+   - **ISSN:** 21612889
+   - **eISSN:** 21612897
+   - **Pages:** 226-231
+   - **Authors:** Alam Sk Shariful; Mughal Muhammad Ozair; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Analog-to-information converter | Compressive sensing | L1-norm minimization | Spectral estimation | Wideband spectrum sensing
+   - **Source Id:** 21000195603
+   - **Author Ids:** 56011273900;54784921000;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Alam S.S.
+173.
+   - **Title:** Analysis of energy detector in cooperative relay networks for cognitive radios
+   - **Venue:** International Conference on Next Generation Mobile Applications Services and Technologies
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/NGMAST.2013.47
+   - **Scopus ID:** 2-s2.0-84892708764
+   - **ISSN:** 21612889
+   - **eISSN:** 21612897
+   - **Pages:** 220-225
+   - **Authors:** Mughal Muhammad Ozair; Razi Adeel; Alam Sk Shariful; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Cooperative networks | Energy detection | Spectrum sensing
+   - **Source Id:** 21000195603
+   - **Author Ids:** 54784921000;25031569200;56011273900;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60060302-60022148;60025153;60025153;60025153
+   - **Corresponding:** Mughal M.
+174.
+   - **Title:** Security in Cognitive Radio Networks
+   - **Venue:** Evolution of Cognitive Networks and Self Adaptive Communication Systems
+   - **Year:** 2013
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 11
+   - **DOI:** 10.4018/978-1-4666-4189-1.ch013
+   - **Scopus ID:** 2-s2.0-84905236418
+   - **Pages:** 301-335
+   - **Authors:** Dabcevic Krešimir; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Source Id:** 21100418572
+   - **Author Ids:** 55363592300;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Dabcevic K.
+175.
+   - **Title:** Run length encoded Dynamic Bayesian Networks for probabilistic interaction modeling
+   - **Venue:** European Signal Processing Conference
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-84901291075
+   - **ISSN:** 22195491
+   - **Authors:** Chiappino Simone; Marcenaro Lucio; Morerio Pietro; Regazzoni Carlo
+   - **Keywords:** bio-inspired learning | cognitive system | crowd monitoring | Event based DBN | interaction modeling
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 109, percentile 44)
+     - Electrical and Electronic Engineering (Q3, rank 573, percentile 42)
+   - **Source Id:** 21100204301
+   - **Author Ids:** 55416549200;6603377664;55364178700;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Chiappino S.
+176.
+   - **Title:** Dynamic Bayesian multitarget tracking for behavior and interaction detection
+   - **Venue:** Effective Surveillance for Homeland Security Balancing Technology and Social Issues
+   - **Year:** 2013
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 2
+   - **DOI:** 10.1201/b14839
+   - **Scopus ID:** 2-s2.0-84900432031
+   - **Pages:** 489-510
+   - **Authors:** Marcenaro Lucio; Soto Mauricio; Regazzoni Carlo S.
+   - **Source Id:** 21100879073
+   - **Author Ids:** 6603377664;36631111700;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marcenaro L.
+177.
+   - **Title:** Selective attention automatic focus for cognitive crowd monitoring
+   - **Venue:** 2013 10th IEEE International Conference on Advanced Video and Signal Based Surveillance Avss 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/AVSS.2013.6636609
+   - **Scopus ID:** 2-s2.0-84890862618
+   - **Pages:** 13-18
+   - **Authors:** Chiappino Simone; Marcenaro Lucio; Regazzoni Carlo
+   - **Source Id:** 21100276234
+   - **Author Ids:** 55416549200;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Chiappino S.
+178.
+   - **Title:** Early fire and smoke detection based on colour features and motion analysis
+   - **Venue:** Proceedings International Conference on Image Processing Icip
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 35
+   - **DOI:** 10.1109/ICIP.2012.6467041
+   - **Scopus ID:** 2-s2.0-84875856982
+   - **ISSN:** 15224880
+   - **Pages:** 1041-1044
+   - **Authors:** Morerio Pietro; Marcenaro Lucio; Regazzoni Carlo S.; Gera Gianluca
+   - **Keywords:** Colour Space | Entropy Estimation | Fire Detection | Multi-Layers Perceptron | Smoke Detection
+   - **Quartile:**
+     2025:
+     - Computer Vision and Pattern Recognition (Q2, rank 64, percentile 62)
+     - Signal Processing (Q2, rank 78, percentile 60)
+     - Software (Q2, rank 247, percentile 50)
+   - **Source Id:** 144684
+   - **Author Ids:** 55364178700;6603377664;35513672400;56616314700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;101826037
+   - **Corresponding:** Morerio P.
+179.
+   - **Title:** Location Aware Optimized Link State Routing protocol
+   - **Venue:** Proceedings IEEE Military Communications Conference MILCOM
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/MILCOM.2012.6415639
+   - **Scopus ID:** 2-s2.0-84874344265
+   - **Authors:** Pozzo Fabio; Marcenaro Lucio; Regazzoni Carlo; Gesmundo Vincenzo
+   - **Source Id:** 87683
+   - **Author Ids:** 57212274630;6603377664;35513672400;16024577500
+   - **Authoraffiliationids:** 113432622;113432622;113432622;60081931
+   - **Corresponding:** Pozzo F.
+180.
+   - **Title:** Performance evaluation of multi-camera visual tracking
+   - **Venue:** Proceedings 2012 IEEE 9th International Conference on Advanced Video and Signal Based Surveillance Avss 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/AVSS.2012.86
+   - **Scopus ID:** 2-s2.0-84868227043
+   - **Pages:** 464-469
+   - **Authors:** Marcenaro Lucio; Morerio Pietro; Regazzoni Carlo S.
+   - **Keywords:** Data fusion | Multi-camera tracking | Performance evaluation | RBMCDA
+   - **Source Id:** 21100218511
+   - **Author Ids:** 6603377664;55364178700;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marcenaro L.
+181.
+   - **Title:** People count estimation in small crowds
+   - **Venue:** Proceedings 2012 IEEE 9th International Conference on Advanced Video and Signal Based Surveillance Avss 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 23
+   - **DOI:** 10.1109/AVSS.2012.88
+   - **Scopus ID:** 2-s2.0-84868222531
+   - **Pages:** 476-480
+   - **Authors:** Morerio Pietro; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Camera calibration | Count estimation | Crowd | Groups | Projective geometry
+   - **Source Id:** 21100218511
+   - **Author Ids:** 55364178700;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Morerio P.
+182.
+   - **Title:** A multi-sensor cognitive approach for active security monitoring of abnormal overcrowding situations
+   - **Venue:** 15th International Conference on Information Fusion Fusion 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **Scopus ID:** 2-s2.0-84867656701
+   - **Pages:** 2215-2222
+   - **Authors:** Chiappino Simone; Morerio Pietro; Marcenaro Lucio; Fuiano Elisabetta; Repetto Giulia; Regazzoni Carlo S.
+   - **Source Id:** 21100218059
+   - **Author Ids:** 55416549200;55364178700;6603377664;55416372300;55415756100;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Chiappino S.
+183.
+   - **Title:** Distributed cognitive radio architecture with automatic frequency switching
+   - **Venue:** 2012 IEEE Workshop on Complexity in Engineering Compeng 2012 Proceedings
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/CompEng.2012.6242968
+   - **Scopus ID:** 2-s2.0-84866527112
+   - **Pages:** 139-142
+   - **Authors:** Morerio Pietro; Dabčević Krešimir; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Source Id:** 21100216332
+   - **Author Ids:** 55364178700;55363592300;6603377664;35513672400
+   - **Authoraffiliationids:** 113086089;113086089;113086089;113086089
+   - **Corresponding:** Morerio P.
+184.
+   - **Title:** Opportunistic Spectrum Sensing and Transmissions
+   - **Venue:** Cognitive Radio and Interference Management Technology and Strategy
+   - **Year:** 2012
+   - **Type:** Book
+   - **Subtype:** Book Chapter
+   - **Citations:** 13
+   - **DOI:** 10.4018/978-1-4666-2005-6.ch001
+   - **Scopus ID:** 2-s2.0-105015002868
+   - **Pages:** 1-28
+   - **Authors:** Alam S. S.; Marcenaro L.; Regazzoni C. S.
+   - **Source Id:** 21101326491
+   - **Author Ids:** 56011273900;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Alam S.S.
+185.
+   - **Title:** Efficient framework for extended visual object tracking
+   - **Venue:** Proceedings of the IEEE International Conference on Computer Vision
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ICCVW.2011.6130471
+   - **Scopus ID:** 2-s2.0-84856637779
+   - **Pages:** 1831-1838
+   - **Authors:** Alvarez Mauricio Soto; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Quartile:**
+     2025:
+     - Software (Q1, rank 6, percentile 98)
+     - Computer Vision and Pattern Recognition (Q1, rank 6, percentile 96)
+     2011:
+     - Software (Q1, rank 86, percentile 75)
+     - Computer Vision and Pattern Recognition (Q1, rank 14, percentile 75)
+   - **Source Id:** 110561
+   - **Author Ids:** 54956054600;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Alvarez M.
+186.
+   - **Title:** Smart sensing framework for automotive safety based on a dual-camera system and CANbus data
+   - **Venue:** Proceedings Elmar International Symposium Electronics in Marine
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-80055076052
+   - **ISSN:** 13342630
+   - **Pages:** 55-58
+   - **Authors:** Ciardelli Lorenzo; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** automotive safety | CANbus | Intelligent vehicles | video processing
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 721, percentile 27)
+   - **Source Id:** 145063
+   - **Author Ids:** 35217649300;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Ciardelli L.
+187.
+   - **Title:** VTrack: Video analytics for automatic video-surveillance
+   - **Venue:** 2011 8th IEEE International Conference on Advanced Video and Signal Based Surveillance Avss 2011
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/AVSS.2011.6027405
+   - **Scopus ID:** 2-s2.0-80053998194
+   - **Pages:** 536-538
+   - **Authors:** De Titta Simone; Gera Gianluca; Marcenaro Lucio
+   - **Source Id:** 20000195052
+   - **Author Ids:** 53163486400;56616314700;6603377664
+   - **Authoraffiliationids:** 109985492;109985492;60025153
+   - **Corresponding:** De Titta S.
+188.
+   - **Title:** Multi-camera indoor video processing for context awareness
+   - **Venue:** Mobimedia 2007 Proceedings of the 3rd International Conference on Mobile Multimedia Communications
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.4108/icst.mobimedia2007.1743
+   - **Scopus ID:** 2-s2.0-85027469614
+   - **Authors:** Marcenaro L.; Magliano I.; Beoldo A.; Valla M.; Regazzoni C. S.
+   - **Keywords:** Ambient intelligence context aware applications | Video processing | Video surveillance
+   - **Source Id:** 21100993327
+   - **Author Ids:** 6603377664;57195358260;24340960500;24400344500;35513672400
+   - **Authoraffiliationids:** 109985492;60025153;60025153;60023916;60025153
+   - **Corresponding:** Marcenaro L.
+189.
+   - **Title:** Multimodal Cognitive System For Immersive User Interaction
+   - **Venue:** Immerscom 2007 Proceedings of the 1st International Conference on Immersive Telecommunications
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.4108/ICST.IMMERSCOM2007.2259
+   - **Scopus ID:** 2-s2.0-84882464765
+   - **Authors:** Calbi Alessandro; Dore Alessio; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Ambient intelligence | Cognitive cycle | Immersive
+   - **Source Id:** 21101096957
+   - **Author Ids:** 15055333000;22233346900;6603377664;35513672400
+   - **Authoraffiliationids:** 128384239;60025153;128384239;60025153
+   - **Corresponding:** Calbi A.
+190.
+   - **Title:** Dynamic scene reconstruction for efficient remote surveillance
+   - **Venue:** Proceedings IEEE International Conference on Video and Signal Based Surveillance 2006 Avss 2006
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/AVSS.2006.45
+   - **Scopus ID:** 2-s2.0-34547240180
+   - **Authors:** Calbi Alessandro; Regazzoni Carlo S.; Marcenaro Lucio
+   - **Source Id:** 7000153263
+   - **Author Ids:** 15055333000;35513672400;6603377664
+   - **Authoraffiliationids:** 60025153;60025153;101504314
+   - **Corresponding:** Calbi A.
+191.
+   - **Title:** Self-organizing shape description for tracking and classifying multiple interacting objects
+   - **Venue:** Image and Vision Computing
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1016/j.imavis.2005.06.012
+   - **Scopus ID:** 2-s2.0-33749241092
+   - **ISSN:** 02628856
+   - **Volume:** 24
+   - **Issue:** 11
+   - **Pages:** 1179-1191
+   - **Authors:** Marcenaro L.; Marchesotti L.; Regazzoni C. S.
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 28, percentile 85)
+     - Computer Vision and Pattern Recognition (Q1, rank 30, percentile 82)
+   - **Source Id:** 25549
+   - **Author Ids:** 6603377664;6602356200;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marcenaro L.
+192.
+   - **Title:** Dynamic scene reconstruction for 3D virtual guidance
+   - **Venue:** Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+   - **Year:** 2006
+   - **Type:** Book Series
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1007/11893004_23
+   - **Scopus ID:** 2-s2.0-33750715380
+   - **ISSN:** 03029743
+   - **eISSN:** 16113349
+   - **Volume:** 4252 Lnai - Ii
+   - **Pages:** 179-186
+   - **Authors:** Calbi Alessandro; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q3, rank 70, percentile 48)
+     - Computer Science (all) (Q3, rank 129, percentile 46)
+   - **Source Id:** 25674
+   - **Author Ids:** 15055333000;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;101504314;60025153
+   - **Corresponding:** Calbi A.
+193.
+   - **Title:** Performance evaluation of event detection solutions: The CREDS experience
+   - **Venue:** IEEE International Conference on Advanced Video and Signal Based Surveillance Proceedings of Avss 2005
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 26
+   - **DOI:** 10.1109/AVSS.2005.1577267
+   - **Scopus ID:** 2-s2.0-33846958043
+   - **Volume:** 2005
+   - **Pages:** 201-206
+   - **Authors:** Ziliani F.; Velastin S.; Porikli F.; Marcenaro L.; Kelliher T.; Cavallaro A.; Bruneaut P.
+   - **Source Id:** 5200152815
+   - **Author Ids:** 6602895401;6701745050;6603528219;6603377664;57188934274;7103233230;53869934900
+   - **Authoraffiliationids:** ;60033359;;;60015623;60022109;100696756
+   - **Corresponding:** Ziliani F.
+194.
+   - **Title:** Automatic detection of dangerous events for underground surveillance
+   - **Venue:** IEEE International Conference on Advanced Video and Signal Based Surveillance Proceedings of Avss 2005
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 22
+   - **DOI:** 10.1109/AVSS.2005.1577266
+   - **Scopus ID:** 2-s2.0-33846946472
+   - **Volume:** 2005
+   - **Pages:** 195-200
+   - **Authors:** Spirito M.; Regazzoni C. S.; Marcenaro L.
+   - **Source Id:** 5200152815
+   - **Author Ids:** 57225386506;35513672400;6603377664
+   - **Authoraffiliationids:** 60025153;60025153;101826037
+   - **Corresponding:** Spirito M.
+195.
+   - **Title:** Dual camera intelligent sensor for high definition 360 degrees surveillance
+   - **Venue:** IEE Proceedings Vision Image and Signal Processing
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 69
+   - **DOI:** 10.1049/ip-vis:20041302
+   - **Scopus ID:** 2-s2.0-18444404946
+   - **ISSN:** 1350245X
+   - **Volume:** 152
+   - **Issue:** 2
+   - **Pages:** 250-257
+   - **Authors:** Scotti G.; Marcenaro L.; Coelho C.; Selvaggi F.; Regazzoni C. S.
+   - **Source Id:** 17420
+   - **Author Ids:** 55605779563;6603377664;56973565500;8344568500;35513672400
+   - **Authoraffiliationids:** 60025153;;60081931;60081931;60025153
+   - **Corresponding:** Scotti G.
+196.
+   - **Title:** Localization and classification of partially overlapped objects using self-organizing trees
+   - **Venue:** IEEE International Conference on Image Processing
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0345565754
+   - **Volume:** 3
+   - **Pages:** 137-140
+   - **Authors:** Marcenaro L.; Gandetto M.; Regazzoni C. S.
+   - **Source Id:** 92868
+   - **Author Ids:** 6603377664;6507667860;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marcenaro L.
+197.
+   - **Title:** Dual camera system for face detection in unconstrained environments
+   - **Venue:** IEEE International Conference on Image Processing
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 27
+   - **Scopus ID:** 2-s2.0-0345528972
+   - **Volume:** 1
+   - **Pages:** 681-684
+   - **Authors:** Marchesotti Luca; Marcenaro Lucio; Regazzoni Carlo
+   - **Source Id:** 92868
+   - **Author Ids:** 6602356200;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marchesotti L.
+198.
+   - **Title:** A distributed dynamic reconfigurable system for ambient intelligence
+   - **Venue:** IEE Colloquium Digest
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-8344228450
+   - **ISSN:** 09633308
+   - **Volume:** 3-10062
+   - **Pages:** 113-119
+   - **Authors:** Marcenaro L.; Marchesotti L.; Cella F.; Regazzoni C. S.
+   - **Source Id:** 17917
+   - **Author Ids:** 6603377664;6602356200;57193517111;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Marcenaro L.
+199.
+   - **Title:** Moving objects self-generated illumination variations removal for automatic video-surveillance systems
+   - **Venue:** Proceedings of SPIE the International Society for Optical Engineering
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1117/12.503230
+   - **Scopus ID:** 2-s2.0-0141496438
+   - **ISSN:** 0277786X
+   - **Volume:** 5150 I
+   - **Pages:** 414-421
+   - **Authors:** Marcenaro L.; Marchesotti L.; Regazzoni C. S.
+   - **Keywords:** Image processing | Shadow removal | Video surveillance
+   - **Quartile:**
+     2025:
+     - Instrumentation (Q4, rank 157, percentile 16)
+     - Electrical and Electronic Engineering (Q4, rank 873, percentile 12)
+     - Computer Science Applications (Q4, rank 893, percentile 9)
+     - Applied Mathematics (Q4, rank 625, percentile 6)
+     - Electronic, Optical and Magnetic Materials (Q4, rank 294, percentile 5)
+     - Condensed Matter Physics (Q4, rank 425, percentile 4)
+   - **Source Id:** 40067
+   - **Author Ids:** 6603377664;6602356200;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marcenaro L.
+200.
+   - **Title:** A cooperative multisensor system for face detection in Video Surveillance applications
+   - **Venue:** Zidonghua Xuebao Acta Automatica Sinica
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **Scopus ID:** 2-s2.0-18444363806
+   - **ISSN:** 02544156
+   - **Volume:** 29
+   - **Issue:** 3
+   - **Pages:** 423-433
+   - **Authors:** Marchesotti Luca; Messina Alessandro; Marcenaro Lucio; Regazzoni Carlo
+   - **Keywords:** Face Detection | Multicamera systems | Tracking | Video Surveillance
+   - **Quartile:**
+     2025:
+     - Computer Graphics and Computer-Aided Design (Q2, rank 40, percentile 69)
+     - Control and Systems Engineering (Q2, rank 128, percentile 66)
+     - Information Systems (Q2, rank 172, percentile 65)
+     - Software (Q2, rank 190, percentile 62)
+   - **Source Id:** 25566
+   - **Author Ids:** 6602356200;57044154300;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Marchesotti L.
+201.
+   - **Title:** SOM based algorithm for video surveillance system parameter optimal selection
+   - **Venue:** Proceedings IEEE Conference on Advanced Video and Signal Based Surveillance Avss 2003
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/AVSS.2003.1217945
+   - **Scopus ID:** 2-s2.0-78650897761
+   - **Pages:** 370-375
+   - **Authors:** Scotti G.; Marcenaro L.; Regazzoni C. S.
+   - **Keywords:** Artificial neural networks | Computerized monitoring | Condition monitoring | Layout | Neurons | Organizing | Security | Trajectory | Variable structure systems | Video surveillance
+   - **Source Id:** 21100420108
+   - **Author Ids:** 55605779563;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Scotti G.
+202.
+   - **Title:** Automatic detection and indexing of video-event shots for surveillance applications
+   - **Venue:** IEEE Transactions on Multimedia
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 51
+   - **DOI:** 10.1109/TMM.2002.802024
+   - **Scopus ID:** 2-s2.0-0037002069
+   - **ISSN:** 15209210
+   - **Volume:** 4
+   - **Issue:** 4
+   - **Pages:** 459-471
+   - **Authors:** Foresti Gian Luca; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Keywords:** Information retrieval | Object detection | Surveillance | Video signal processing
+   - **Quartile:**
+     2025:
+     - Media Technology (Q1, rank 3, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 41, percentile 95)
+     - Signal Processing (Q1, rank 10, percentile 95)
+     - Computer Science Applications (Q1, rank 52, percentile 94)
+   - **Source Id:** 16211
+   - **Author Ids:** 7006427233;6603377664;35513672400
+   - **Authoraffiliationids:** 60025965;60025153;60025153
+   - **Corresponding:** Foresti G.L.
+203.
+   - **Title:** Real-time change detection methods for video-surveillance systems with mobile camera
+   - **Venue:** European Signal Processing Conference
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-84960878179
+   - **ISSN:** 22195491
+   - **Volume:** 2002-March
+   - **Authors:** Oberti Franco; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 109, percentile 44)
+     - Electrical and Electronic Engineering (Q3, rank 573, percentile 42)
+   - **Source Id:** 21100204301
+   - **Author Ids:** 7007048964;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Oberti F.
+204.
+   - **Title:** A multi-resolution outdoor dual camera system for robust video-event metadata extraction
+   - **Venue:** Proceedings of the 5th International Conference on Information Fusion Fusion 2002
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1109/ICIF.2002.1020947
+   - **Scopus ID:** 2-s2.0-57349150333
+   - **Volume:** 2
+   - **Pages:** 1184-1189
+   - **Authors:** Marcenaro L.; Marchesotti L.; Regazzoni C. S.
+   - **Keywords:** Automatic video-surveillance | Cooperative system | Multi-camera system
+   - **Source Id:** 21100316050
+   - **Author Ids:** 6603377664;6602356200;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marcenaro L.
+205.
+   - **Title:** Extending real time change-detection techniques to mosaic backgrounds and mobile camera sequences in surveillance systems
+   - **Venue:** IETE Journal of Research
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1080/03772063.2002.11416271
+   - **Scopus ID:** 2-s2.0-0036588841
+   - **ISSN:** 03772063
+   - **eISSN:** 0974780X
+   - **Volume:** 48
+   - **Issue:** 3-4
+   - **Pages:** 151-161
+   - **Authors:** Marcenaro Lucio; Oberti Franco; Regazzoni Carlo S.
+   - **Quartile:**
+     2025:
+     - Theoretical Computer Science (Q2, rank 37, percentile 73)
+     - Electrical and Electronic Engineering (Q2, rank 291, percentile 70)
+     - Computer Science Applications (Q2, rank 333, percentile 66)
+   - **Source Id:** 130012
+   - **Author Ids:** 6603377664;7007048964;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marcenaro L.
+206.
+   - **Title:** A video surveillance architecture for alarm generation and video sequences retrieval
+   - **Venue:** IEEE International Conference on Image Processing
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **Scopus ID:** 2-s2.0-0036451940
+   - **Volume:** 1
+   - **Pages:** I/895
+   - **Authors:** Marchesotti Luca; Marcenaro Lucio; Regazzoni Carlo
+   - **Source Id:** 92868
+   - **Author Ids:** 6602356200;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marchesotti L.
+207.
+   - **Title:** Multiple object tracking under heavy occlusions by using Kalman filters based on shape matching
+   - **Venue:** IEEE International Conference on Image Processing
+   - **Year:** 2002
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 51
+   - **Scopus ID:** 2-s2.0-0036451861
+   - **Volume:** 3
+   - **Pages:** III/344
+   - **Authors:** Marcenaro L.; Ferrari M.; Marchesotti L.; Regazzoni C. S.
+   - **Source Id:** 92868
+   - **Author Ids:** 6603377664;55493418400;6602356200;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Marcenaro L.
+208.
+   - **Title:** Advanced image-processing tools for counting people in tourist site-monitoring applications
+   - **Venue:** Signal Processing
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 44
+   - **DOI:** 10.1016/S0165-1684(00)00280-2
+   - **Scopus ID:** 2-s2.0-0035337675
+   - **ISSN:** 01651684
+   - **Volume:** 81
+   - **Issue:** 5
+   - **Pages:** 1017-1040
+   - **Authors:** Sacchi Claudio; Gera Gianluca; Marcenaro Lucio; Regazzoni Carlo S.
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 25, percentile 87)
+     - Computer Vision and Pattern Recognition (Q1, rank 27, percentile 84)
+     - Electrical and Electronic Engineering (Q1, rank 166, percentile 83)
+     - Control and Systems Engineering (Q1, rank 71, percentile 81)
+     - Software (Q1, rank 101, percentile 79)
+   - **Source Id:** 25548
+   - **Author Ids:** 56206655300;56616314700;6603377664;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Sacchi C.
+209.
+   - **Title:** Distributed architectures and logical-task decomposition in multimedia surveillance systems
+   - **Venue:** Proceedings of the IEEE
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 67
+   - **DOI:** 10.1109/5.959339
+   - **Scopus ID:** 2-s2.0-6344283723
+   - **ISSN:** 00189219
+   - **Volume:** 89
+   - **Issue:** 10
+   - **Pages:** 1419-1439
+   - **Authors:** Marcenaro Lucio; Oberti Franco; Foresti Gian Luca; Regazzoni Carlo S.
+   - **Keywords:** Communication | Dynamic resource allocation | Embedded tasks | Functionality distributed decomposition | Multimedia surveillance | Multisensor networks | Representation recognition
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 3, percentile 99)
+     - Computer Science (all) (Q1, rank 2, percentile 99)
+   - **Source Id:** 17915
+   - **Author Ids:** 6603377664;7007048964;7006427233;35513672400
+   - **Authoraffiliationids:** 60025153;60025965;60025153;120564336
+   - **Corresponding:** Marcenaro L.
+210.
+   - **Title:** Elaborazione e riconoscimento distribuiti di dati multisensoriali per l'automazione di edifici ed ambienti sensibili
+   - **Venue:** Alta Frequenza Rivista Di Elettronica
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0035520322
+   - **ISSN:** 11201908
+   - **Volume:** 13
+   - **Issue:** 6
+   - **Pages:** 51
+   - **Authors:** Marcenaro Lucio; Essimi EfouLa Jean Lazare; Regazzoni Carlo
+   - **Source Id:** 24118
+   - **Author Ids:** 6603377664;6504371540;35513672400
+   - **Corresponding:** Marcenaro L.
+211.
+   - **Title:** Image stabilization algorithms for video-surveillance applications
+   - **Venue:** IEEE International Conference on Image Processing
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 92
+   - **Scopus ID:** 2-s2.0-0035172115
+   - **Volume:** 1
+   - **Pages:** 349-352
+   - **Authors:** Marcenaro L.; Vernazza G.; Regazzoni C. S.
+   - **Source Id:** 92868
+   - **Author Ids:** 6603377664;7005048304;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marcenaro L.
+212.
+   - **Title:** Automatic generation of the statistical model of a non-rigid object in a multiple-camera environment
+   - **Venue:** Proceedings International Conference on Pattern Recognition
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-33750950090
+   - **ISSN:** 10514651
+   - **Volume:** 15
+   - **Issue:** 1
+   - **Pages:** 530-533
+   - **Authors:** Marcenaro Lucio; Regazzoni Carlo S.; Vernazza Gianni
+   - **Source Id:** 24282
+   - **Author Ids:** 6603377664;35513672400;7005048304
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marcenaro L.
+213.
+   - **Title:** Change detection methods for automatic scene analysis by using mobile surveillance cameras
+   - **Venue:** IEEE International Conference on Image Processing
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **Scopus ID:** 2-s2.0-0034441210
+   - **Volume:** 1
+   - **Pages:** 244-247
+   - **Authors:** Marcenaro L.; Oberti F.; Regazzoni C. S.
+   - **Source Id:** 92868
+   - **Author Ids:** 6603377664;7007048964;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marcenaro L.
+214.
+   - **Title:** Adaptive change detection approach for object detection in outdoor scenes under variable speed illumination changes
+   - **Venue:** European Signal Processing Conference
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **Scopus ID:** 2-s2.0-84937046612
+   - **ISSN:** 22195491
+   - **Volume:** 2015-March
+   - **Issue:** March
+   - **Authors:** Marcenaro Lucio; Gera Gianluca; Regazzoni Carlo
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q3, rank 109, percentile 44)
+     - Electrical and Electronic Engineering (Q3, rank 573, percentile 42)
+   - **Source Id:** 21100204301
+   - **Author Ids:** 6603377664;56616314700;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marcenaro L.

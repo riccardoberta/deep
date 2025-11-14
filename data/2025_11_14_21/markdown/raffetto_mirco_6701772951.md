@@ -1,0 +1,2483 @@
+# Raffetto Mirco
+
+## Overview
+- **Unit:** ICT
+- **Role:** Professore ordinario
+- **Grade:** Prof.Ordinario Legge 240/10 - t.pieno - classe 3
+- **SSD:** IINF-02/A (Campi elettromagnetici)
+- **Scopus ID:** 6701772951
+- **UNIGE ID:** 056180
+- **Retrieved at:** 2025-11-14T15:16:55.059814
+
+## Contact
+- **Email:** mirco.raffetto@unige.it
+- **Phone:** +39 010 33 52796
+- **Page:** https://rubrica.unige.it/personale/VUZBWlJp
+- **Locations:** Opera Pia - padiglione D (ED_161450401), 3° piano, US_161450401.III.004
+
+## Career
+- PA, 2012-05-01 → 2016-12-29
+- PO, 2016-12-30 → 2222-02-02
+
+## Responsibilities
+- **Title:** Membro della Giunta di dipartimento
+  - **Unit:** Dipartimento di ingegneria navale, elettrica, elettronica e delle telecomunicazioni - DITEN
+  - **Period:** 2024-11-01 → 2027-10-31
+
+- **Title:** Componente del Consiglio della Scuola
+  - **Unit:** Scuola politecnica
+  - **Period:** 2024-11-01 → 2027-10-31
+
+- **Title:** Componente del Consiglio scientifico Centro interuniversitario
+  - **Unit:** Centro interuniversitario sulle interazioni tra campi elettromagnetici e biosistemi - ICEMB
+  - **Period:** 2023-11-14 → 2026-11-13
+
+## Teaching
+### 2025
+- Campi Elettromagnetici (65940), L-8 - Ingegneria Biomedica
+- Campi Elettromagnetici (65939), L-8 - Ingegneria Informatica
+- Fibre Ottiche E Fotonica (84472), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Campi Elettromagnetici (80127), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+
+### 2024
+- Campi Elettromagnetici (65940), L-8 - Ingegneria Biomedica
+- Elettromagnetismo E Teoria Dei Circuiti Modulo 1: Elettromagnetismo (104744), L-8 - Ingegneria Informatica
+- Campi Elettromagnetici (65939), L-8 - Ingegneria Informatica
+- Fibre Ottiche E Fotonica (84472), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Campi Elettromagnetici (80127), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+
+### 2023
+- Campi Elettromagnetici (65940), L-8 - Ingegneria Biomedica
+- Campi Elettromagnetici (65939), L-8 - Ingegneria Informatica
+- Elettromagnetismo (104744), L-8 - Ingegneria Informatica
+- Campi Elettromagnetici (80127), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Fibre Ottiche E Fotonica (84472), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+
+### 2022
+- Campi Elettromagnetici (65940), L-8 - Ingegneria Biomedica
+- Elettromagnetismo (104744), L-8 - Ingegneria Informatica
+- Campi Elettromagnetici (65939), L-8 - Ingegneria Informatica
+- Fibre Ottiche E Fotonica (84472), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Tirocinio (94722), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+
+### 2021
+- Campi Elettromagnetici (65940), L-8 - Ingegneria Biomedica
+- Campi Elettromagnetici (65939), L-8 - Ingegneria Informatica
+- Elettromagnetismo E Teoria Dei Circuiti Modulo 1: Elettromagnetismo (104744), L-8 - Ingegneria Informatica
+- Fibre Ottiche E Fotonica (84472), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Tirocinio (94722), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+
+### 2020
+- Campi Elettromagnetici (65940), L-8 - Ingegneria Biomedica
+- Campi Elettromagnetici (65939), L-8 - Ingegneria Informatica
+- Tirocinio (94722), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+- Fibre Ottiche E Fotonica (84472), L-8 - Ingegneria Elettronica E Tecnologie Dell'Informazione
+
+## Scopus Metrics
+- absolute; Docs: 114; Journals: 70; Conferences: 43; Citations: 1218; H-index: 18
+- 15 years (2010-2025); Docs: 40; Journals: 21; Conferences: 19; Citations: 312; H-index: 11
+- 10 years (2015-2025); Docs: 25; Journals: 13; Conferences: 12; Citations: 183; H-index: 8
+- 05 years (2020-2025); Docs: 9; Journals: 6; Conferences: 3; Citations: 48; H-index: 4
+
+## Scopus Products
+1.
+   - **Title:** Innovative Application of the Born-Approximation for Analyzing Medium Motion Effects in Comsol Time Explicit Emw Module
+   - **Venue:** 2025 Ursi International Symposium on Electromagnetic Theory Emts 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.46620/URSIEMTS25/CLNI3022
+   - **Scopus ID:** 2-s2.0-105013786595
+   - **Authors:** Zeyde Kirill; Raffetto Mirco
+   - **Source Id:** 21101321955
+   - **Author Ids:** 56826137100;6701772951
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Zeyde K.
+2.
+   - **Title:** Analytical Evaluation of the Effects on the Electromagnetic Field Induced by a Moving Dielectric Slab
+   - **Venue:** 2025 Ursi International Symposium on Electromagnetic Theory Emts 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.46620/URSIEMTS25/YLOS1726
+   - **Scopus ID:** 2-s2.0-105013765621
+   - **Authors:** Onesti Riccardo; Raffetto Mirco; Zeyde Kirill
+   - **Source Id:** 21101321955
+   - **Author Ids:** 57481470100;6701772951;56826137100
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Onesti R.
+3.
+   - **Title:** Photobiomodulation on isolated mitochondria at 810 nm: first results on the efficiency of the energy conversion process
+   - **Venue:** Scientific Reports
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1038/s41598-024-61740-w
+   - **Scopus ID:** 2-s2.0-85193013361
+   - **eISSN:** 20452322
+   - **Volume:** 14
+   - **Issue:** 1
+   - **Authors:** Amaroli Andrea; Clemente Vargas Mario Rene; Pasquale Claudio; Raffetto Mirco; Ravera Silvia
+   - **Keywords:** Computer assisted dosimetry calculation | Efficiency | Electromagnetic field | Energy conversion | Laser biostimulation | Low-level light therapy | Mitochondria | Near-infrared band | Photobiomodulation | Photostimulation | Phototherapy | Thermodynamic
+   - **Quartile:**
+     2025:
+     - Multidisciplinary (Q1, rank 28, percentile 86)
+     2024:
+     - Multidisciplinary (Q1, rank 22, percentile 89)
+   - **Source Id:** 21100200805
+   - **Author Ids:** 6507689224;57223606675;56800510000;6701772951;15119975800
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Amaroli A.
+4.
+   - **Title:** A new born-approximation approach to compute the effects of motion on the solution of electromagnetic problems involving moving materials with stationary boundaries
+   - **Venue:** Iet Science Measurement and Technology
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1049/smt2.12184
+   - **Scopus ID:** 2-s2.0-85187177907
+   - **ISSN:** 17518822
+   - **eISSN:** 17518830
+   - **Volume:** 18
+   - **Issue:** 5
+   - **Pages:** 245-257
+   - **Authors:** Raffetto Mirco; Clemente Vargas Mario Rene; Zeyde Kirill
+   - **Keywords:** electromagnetic wave scattering | finite element analysis | frequency-domain analysis | inverse problems
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 413, percentile 58)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 124, percentile 48)
+     2024:
+     - Electrical and Electronic Engineering (Q2, rank 392, percentile 59)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 118, percentile 49)
+   - **Source Id:** 5300152720
+   - **Author Ids:** 6701772951;57223606675;56826137100
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Raffetto M.
+5.
+   - **Title:** First 3D Results Obtained by a New Born-Approximation Methodology for Media in Motion with Stationary Boundaries
+   - **Venue:** IEEE Antennas and Propagation Society AP S International Symposium Digest
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/AP-S/INC-USNC-URSI52054.2024.10686821
+   - **Scopus ID:** 2-s2.0-85207093380
+   - **ISSN:** 15223965
+   - **Pages:** 1339-1340
+   - **Authors:** Raffetto Mirco; Zeyde Kirill
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 853, percentile 14)
+     2024:
+     - Electrical and Electronic Engineering (Q4, rank 882, percentile 9)
+   - **Source Id:** 18719
+   - **Author Ids:** 6701772951;56826137100
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Raffetto M.
+6.
+   - **Title:** Electromagnetic Dosimetry for Isolated Mitochondria Exposed to Near-Infrared Continuous-Wave Illumination in Photobiomodulation Experiments
+   - **Venue:** Bioelectromagnetics
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1002/bem.22342
+   - **Scopus ID:** 2-s2.0-85105917208
+   - **ISSN:** 01978462
+   - **eISSN:** 1521186X
+   - **Volume:** 42
+   - **Issue:** 5
+   - **Pages:** 384-397
+   - **Authors:** Amaroli Andrea; Benedicenti Stefano; Bianco Bruno; Bosco Alessandro; Clemente Vargas Mario Rene; Hanna Reem; Kalarickel Ramakrishnan Praveen; Raffetto Mirco; Ravera Silvia
+   - **Keywords:** average energy and dissipated power densities | electromagnetic dosimetry | electromagnetic field inside mitochondria | low-level light therapy | near-infrared band | numerical simulations
+   - **Quartile:**
+     2025:
+     - Radiology, Nuclear Medicine and Imaging (Q3, rank 199, percentile 43)
+     - Biophysics (Q3, rank 105, percentile 33)
+     - Physiology (Q4, rank 155, percentile 19)
+     2021:
+     - Radiology, Nuclear Medicine and Imaging (Q2, rank 126, percentile 59)
+     - Biophysics (Q3, rank 75, percentile 45)
+     - Physiology (Q3, rank 117, percentile 35)
+   - **Source Id:** 14839
+   - **Author Ids:** 6507689224;23092962600;7005080001;57223638723;57223606675;57192870834;57076016200;6701772951;15119975800
+   - **Authoraffiliationids:** 60025153-60010188;60025153;60025153;126224173;60025153;60025153-60029685;60025153;60025153;60025153
+   - **Corresponding:** Amaroli A.
+7.
+   - **Title:** Electromagnetic Inverse Scattering of Rotating Axisymmetric Objects
+   - **Venue:** IEEE Access
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1109/ACCESS.2021.3136356
+   - **Scopus ID:** 2-s2.0-85121828655
+   - **eISSN:** 21693536
+   - **Volume:** 9
+   - **Pages:** 168185-168192
+   - **Authors:** Kalarickel Ramakrishnan Praveen; Clemente Vargas Mario Rene; Raffetto Mirco
+   - **Keywords:** Electromagnetic scattering | inverse problems | moving media | remote sensing | rotating axisymmetric objects | stochastic optimization
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 42, percentile 88)
+     - Computer Science (all) (Q1, rank 41, percentile 83)
+     - Materials Science (all) (Q1, rank 101, percentile 78)
+     2021:
+     - Engineering (all) (Q1, rank 28, percentile 90)
+     - Computer Science (all) (Q1, rank 34, percentile 85)
+     - Subject (Q1, rank 124, percentile 82)
+     - Materials Science (all) (Q1, rank 104, percentile 77)
+   - **Source Id:** 21100374601
+   - **Author Ids:** 57076016200;57223606675;6701772951
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Kalarickel Ramakrishnan P.
+8.
+   - **Title:** Three-dimensional time-harmonic electromagnetic scattering problems from bianisotropic materials and metamaterials: Reference solutions provided by converging finite element approximations
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.3390/electronics9071065
+   - **Scopus ID:** 2-s2.0-85087179641
+   - **eISSN:** 20799292
+   - **Volume:** 9
+   - **Issue:** 7
+   - **Pages:** 1-21
+   - **Authors:** Ramakrishnan Praveen Kalarickel; Raffetto Mirco
+   - **Keywords:** Bianisotropic media | Convergence of the approximation | Electromagnetic scattering | Finite element method | Metamaterials | Time-harmonic electromagnetic fields | Variational formulation | Well posedness
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+     2020:
+     - Control and Systems Engineering (Q2, rank 123, percentile 52)
+     - Computer Networks and Communications (Q2, rank 161, percentile 51)
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 51)
+     - Signal Processing (Q3, rank 59, percentile 45)
+     - Hardware and Architecture (Q3, rank 94, percentile 40)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 57076016200;6701772951
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Ramakrishnan P.K.
+9.
+   - **Title:** well posedness and finite element approximability of three-dimensional time-harmonic electromagnetic problems involving rotating axisymmetric objects
+   - **Venue:** Symmetry
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.3390/sym12020218
+   - **Scopus ID:** 2-s2.0-85080969397
+   - **eISSN:** 20738994
+   - **Volume:** 12
+   - **Issue:** 2
+   - **Authors:** Ramakrishnan Praveen Kalarickel; Raffetto Mirco
+   - **Keywords:** Bianisotropic media | Convergence of the approximation | Electromagnetic scattering | Finite element method | Moving media | Rotating axisymmetric objects | Time-harmonic electromagnetic fields | Variational formulation | Well posedness
+   - **Quartile:**
+     2025:
+     - Mathematics (all) (Q1, rank 35, percentile 91)
+     - Physics and Astronomy (miscellaneous) (Q1, rank 19, percentile 78)
+     - Computer Science (miscellaneous) (Q2, rank 58, percentile 66)
+     - Chemistry (miscellaneous) (Q2, rank 64, percentile 51)
+     2020:
+     - Mathematics (all) (Q1, rank 38, percentile 90)
+     - Computer Science (miscellaneous) (Q1, rank 16, percentile 77)
+     - Physics and Astronomy (miscellaneous) (Q2, rank 20, percentile 66)
+     - Chemistry (miscellaneous) (Q2, rank 15, percentile 56)
+   - **Source Id:** 21100201542
+   - **Author Ids:** 57076016200;6701772951
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Ramakrishnan P.K.
+10.
+   - **Title:** 1064 nm Nd:YAG laser light affects transmembrane mitochondria respiratory chain complexes
+   - **Venue:** Journal of Biophotonics
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Letter
+   - **Citations:** 39
+   - **DOI:** 10.1002/jbio.201900101
+   - **Scopus ID:** 2-s2.0-85067466948
+   - **ISSN:** 1864063X
+   - **eISSN:** 18640648
+   - **Volume:** 12
+   - **Issue:** 9
+   - **Authors:** Ravera Silvia; Ferrando Sara; Agas Dimitrios; De Angelis Nicola; Raffetto Mirco; Sabbieti Maria G.; Signore Antonio; Benedicenti Stefano; Amaroli Andrea
+   - **Keywords:** adenosine triphosphate (ATP) | cytochrome c oxidase | infrared light | low-level laser therapy (LLLT) | photobiomodulation
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q2, rank 104, percentile 70)
+     - Physics and Astronomy (all) (Q2, rank 79, percentile 68)
+     - Biochemistry, Genetics and Molecular Biology (all) (Q2, rank 87, percentile 61)
+     - Chemistry (all) (Q2, rank 173, percentile 57)
+     - Materials Science (all) (Q2, rank 229, percentile 51)
+     2019:
+     - Engineering (all) (Q1, rank 27, percentile 91)
+     - Physics and Astronomy (all) (Q1, rank 37, percentile 83)
+     - Chemistry (all) (Q1, rank 88, percentile 78)
+     - Materials Science (all) (Q1, rank 113, percentile 75)
+     - Biochemistry, Genetics and Molecular Biology (all) (Q1, rank 49, percentile 75)
+   - **Source Id:** 16400154786
+   - **Author Ids:** 15119975800;14032897200;12804463000;18233623100;6701772951;6602187702;24823383300;23092962600;6507689224
+   - **Authoraffiliationids:** 60025153;60025153;60026298;60025153-113887870;60025153;60026298;60025153-60010188;60025153;60025153
+   - **Corresponding:** Ravera S.
+11.
+   - **Title:** Near-infrared laser photons induce glutamate release from cerebrocortical nerve terminals
+   - **Venue:** Journal of Biophotonics
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Letter
+   - **Citations:** 24
+   - **DOI:** 10.1002/jbio.201800102
+   - **Scopus ID:** 2-s2.0-85052793072
+   - **ISSN:** 1864063X
+   - **eISSN:** 18640648
+   - **Volume:** 11
+   - **Issue:** 11
+   - **Authors:** Amaroli Andrea; Marcoli Manuela; Venturini Arianna; Passalacqua Mario; Agnati Luigi F.; Signore Antonio; Raffetto Mirco; Maura Guido; Benedicenti Stefano; Cervetto Chiara
+   - **Keywords:** 808-nm diode | astrocyte processes | glutamate release | laser light | mouse cerebral cortex | nerve terminals | slices
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q2, rank 104, percentile 70)
+     - Physics and Astronomy (all) (Q2, rank 79, percentile 68)
+     - Biochemistry, Genetics and Molecular Biology (all) (Q2, rank 87, percentile 61)
+     - Chemistry (all) (Q2, rank 173, percentile 57)
+     - Materials Science (all) (Q2, rank 229, percentile 51)
+     2018:
+     - Engineering (all) (Q1, rank 21, percentile 92)
+     - Physics and Astronomy (all) (Q1, rank 33, percentile 85)
+     - Chemistry (all) (Q1, rank 79, percentile 79)
+     - Materials Science (all) (Q1, rank 94, percentile 78)
+     - Biochemistry, Genetics and Molecular Biology (all) (Q1, rank 43, percentile 77)
+   - **Source Id:** 16400154786
+   - **Author Ids:** 6507689224;6603870944;56797871700;7004715043;35413651600;24823383300;6701772951;7004513464;23092962600;6505938609
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60004591-60012311;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Amaroli A.
+12.
+   - **Title:** Accuracy of finite element approximations for two-dimensional time-harmonic electromagnetic boundary value problems involving non-conducting moving objects with stationary boundaries
+   - **Venue:** Applied Computational Electromagnetics Society Journal
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **Scopus ID:** 2-s2.0-85049735771
+   - **ISSN:** 10544887
+   - **Volume:** 33
+   - **Issue:** 6
+   - **Pages:** 585-596
+   - **Authors:** Ramakrishnan Praveen K.; Raffetto Mirco
+   - **Keywords:** Bianisotropic media | Electromagnetic scattering | Error analysis | Finite element method | Moving media | Reconstruction of velocity profiles | Time-harmonic electromagnetic fields
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 678, percentile 32)
+     - Astronomy and Astrophysics (Q3, rank 68, percentile 28)
+     2018:
+     - Electrical and Electronic Engineering (Q3, rank 433, percentile 35)
+     - Astronomy and Astrophysics (Q3, rank 57, percentile 27)
+   - **Source Id:** 13200
+   - **Author Ids:** 57076016200;6701772951
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Ramakrishnan P.
+13.
+   - **Title:** A numerical analysis of the two-dimensional Green's function for elliptically stratified media
+   - **Venue:** Iet Conference Publications
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1049/cp.2018.0970
+   - **Scopus ID:** 2-s2.0-85057341089
+   - **Volume:** 2018
+   - **Issue:** CP741
+   - **Authors:** Fedeli Alessandro; Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Keywords:** Electromagnetic scattering | Green's function | Integral equations | Stratified media
+   - **Source Id:** 5400152619
+   - **Author Ids:** 55512997500;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+14.
+   - **Title:** 2-D Green's Function for Scattering and Radiation Problems in Elliptically Layered Media with PEC Cores
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1109/TAP.2017.2761421
+   - **Scopus ID:** 2-s2.0-85031798854
+   - **ISSN:** 0018926X
+   - **Volume:** 65
+   - **Issue:** 12
+   - **Pages:** 7110-7118
+   - **Authors:** Fedeli Alessandro; Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Keywords:** Electromagnetic scattering | Green's function | integral equations | stratified media
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+     2017:
+     - Electrical and Electronic Engineering (Q1, rank 59, percentile 91)
+   - **Source Id:** 17337
+   - **Author Ids:** 55512997500;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Fedeli A.
+15.
+   - **Title:** Application of EMFs at microwave frequencies for brain stroke detection: Preliminary results
+   - **Venue:** 2017 International Applied Computational Electromagnetics Society Symposium Italy Aces 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/ROPACES.2017.7916405
+   - **Scopus ID:** 2-s2.0-85020002223
+   - **Authors:** Bisio I.; Fedeli A.; Lavagetto F.; Luzzati G.; Pastorino M.; Raffetto M.; Randazzo A.; Tavanti E.
+   - **Keywords:** Brain stroke detection | Imaging techniques | Inverse problems | Microwave imaging
+   - **Source Id:** 21100817102
+   - **Author Ids:** 8546192900;55512997500;7004136693;55372214300;7004880389;6701772951;7006280562;57038817000
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bisio I.
+16.
+   - **Title:** Pros and cons of microwave imaging techniques for the reconstruction of velocity profiles of cylindrical targets in axial motion
+   - **Venue:** 2017 International Applied Computational Electromagnetics Society Symposium Italy Aces 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.23919/ROPACES.2017.7916391
+   - **Scopus ID:** 2-s2.0-85019998814
+   - **Authors:** Brignone Massimo; Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Source Id:** 21100817102
+   - **Author Ids:** 8580886100;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Brignone M.
+17.
+   - **Title:** Further investigations on the capabilities of inverse scattering procedures to recover velocity profiles of cylinders moving in the axial direction
+   - **Venue:** Ist 2016 2016 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/IST.2016.7738247
+   - **Scopus ID:** 2-s2.0-85004075873
+   - **Pages:** 335-340
+   - **Authors:** Brignone Massimo; Fedeli Alessandro; Gragnani Gian Luigi; Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Source Id:** 21100788403
+   - **Author Ids:** 8580886100;55512997500;6701681576;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Brignone M.
+18.
+   - **Title:** A first numerical assessment of the reliability of finite element simulators for time-harmonic electromagnetic problems involving rotating axisymmetric objects
+   - **Venue:** 2016 Ursi International Symposium on Electromagnetic Theory Emts 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/URSI-EMTS.2016.7571520
+   - **Scopus ID:** 2-s2.0-84992070837
+   - **Pages:** 787-790
+   - **Authors:** Brignone Massimo; Ramakrishnan Praveen Kalarickel; Raffetto Mirco
+   - **Source Id:** 21100782626
+   - **Author Ids:** 8580886100;57076016200;6701772951
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Brignone M.
+19.
+   - **Title:** Noise Limitations on the Recovery of Average Values of Velocity Profiles in Pipelines by Simple Imaging Systems
+   - **Venue:** IEEE Geoscience and Remote Sensing Letters
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1109/LGRS.2016.2584703
+   - **Scopus ID:** 2-s2.0-84978886220
+   - **ISSN:** 1545598X
+   - **Volume:** 13
+   - **Issue:** 9
+   - **Pages:** 1340-1344
+   - **Authors:** Brignone Massimo; Gragnani Gian Luigi; Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Keywords:** Bianisotropic media | inverse scattering procedures | moving media | reconstruction of velocity profiles | time-harmonic electromagnetic scattering
+   - **Quartile:**
+     2025:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 22, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 90, percentile 91)
+     2016:
+     - Geotechnical Engineering and Engineering Geology (Q1, rank 4, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 76, percentile 88)
+   - **Source Id:** 17259
+   - **Author Ids:** 8580886100;6701681576;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Brignone M.
+20.
+   - **Title:** Reconstruction of velocity profiles of two-dimensional targets by an inverse scattering procedure based on a numerical forward solver
+   - **Venue:** 2015 1st Ursi Atlantic Radio Science Conference Ursi at Rasc 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/URSI-AT-RASC.2015.7302852
+   - **Scopus ID:** 2-s2.0-84959485934
+   - **Authors:** Brignone Massimo; Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Source Id:** 21100448536
+   - **Author Ids:** 8580886100;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Brignone M.
+21.
+   - **Title:** Reconstruction of non-constant velocity profiles in pneumatic pipelines by microwave inverse scattering techniques
+   - **Venue:** Proceedings of the 2015 International Conference on Electromagnetics in Advanced Applications Iceaa 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICEAA.2015.7297125
+   - **Scopus ID:** 2-s2.0-84955459853
+   - **Pages:** 309-312
+   - **Authors:** Brignone M.; Raffetto M.; Randazzo A.
+   - **Keywords:** Inverse problems | Noise measurement | Optimization | Permittivity | Scattering | Signal to noise ratio
+   - **Source Id:** 21100440505
+   - **Author Ids:** 8580886100;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Brignone M.
+22.
+   - **Title:** First error analyses for finite element solutions of boundary value problems involving cylinders moving in the axial direction
+   - **Venue:** Proceedings of the 2015 International Conference on Electromagnetics in Advanced Applications Iceaa 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICEAA.2015.7297124
+   - **Scopus ID:** 2-s2.0-84955456985
+   - **Pages:** 305-308
+   - **Authors:** Raffetto M.; Ramakrishnan P. Kalarickel
+   - **Keywords:** Accuracy | Analytical models | Error analysis | Finite element analysis | Numerical models | Reliability | Zirconium
+   - **Source Id:** 21100440505
+   - **Author Ids:** 6701772951;57076016200
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Raffetto M.
+23.
+   - **Title:** Well posedness and finite element approximability of two-dimensional time-harmonic electromagnetic problems involving non-conducting moving objects with stationary boundaries
+   - **Venue:** ESAIM Mathematical Modelling and Numerical Analysis
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1051/m2an/2015006
+   - **Scopus ID:** 2-s2.0-84935062210
+   - **ISSN:** 28227840
+   - **eISSN:** 28047214
+   - **Volume:** 49
+   - **Issue:** 4
+   - **Pages:** 1157-1192
+   - **Authors:** Brignone Massimo; Raffetto Mirco
+   - **Keywords:** Bianisotropic media | Convergence of the approximation | Electromagnetic scattering | Finite element method | Moving media | Time-harmonic electromagnetic fields | Variational formulation | Well posedness
+   - **Quartile:**
+     2025:
+     - Analysis (Q1, rank 46, percentile 77)
+     - Applied Mathematics (Q2, rank 238, percentile 64)
+     - Numerical Analysis (Q2, rank 33, percentile 63)
+     - Computational Mathematics (Q2, rank 83, percentile 59)
+     - Modeling and Simulation (Q2, rank 171, percentile 54)
+     2015:
+     - Analysis (Q1, rank 8, percentile 93)
+     - Numerical Analysis (Q1, rank 6, percentile 86)
+     - Applied Mathematics (Q1, rank 61, percentile 85)
+     - Modeling and Simulation (Q1, rank 45, percentile 80)
+   - **Source Id:** 25956
+   - **Author Ids:** 8580886100;6701772951
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Brignone M.
+24.
+   - **Title:** Electromagnetic inverse scattering of axially moving cylindrical targets
+   - **Venue:** IEEE Transactions on Geoscience and Remote Sensing
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 26
+   - **DOI:** 10.1109/TGRS.2014.2342933
+   - **Scopus ID:** 2-s2.0-84907451923
+   - **ISSN:** 01962892
+   - **Volume:** 53
+   - **Issue:** 3
+   - **Pages:** 1452-1462
+   - **Authors:** Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Keywords:** Bianisotropic media | Inverse scattering procedures | Moving media | Reconstruction of permittivity and velocity profiles | Time-harmonic electromagnetic scattering
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 96)
+     2015:
+     - Earth and Planetary Sciences (all) (Q1, rank 4, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 95)
+   - **Source Id:** 17360
+   - **Author Ids:** 7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Pastorino M.
+25.
+   - **Title:** Direct and inverse scattering of moving cylinders at relativistic and non relativistic velocities
+   - **Venue:** Mediterranean Microwave Symposium
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/MMS.2015.7375503
+   - **Scopus ID:** 2-s2.0-84962764614
+   - **ISSN:** 21579822
+   - **eISSN:** 21579830
+   - **Volume:** 2015-January
+   - **Authors:** Gragnani G. L.; Pastorino M.; Raffetto M.; Randazzo A.
+   - **Keywords:** Direct scattering problem | elliptic cylinder | inverse scattering problem | moving media | reconstruction of permittivity and velocity profiles
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 604, percentile 39)
+   - **Source Id:** 20600195647
+   - **Author Ids:** 6701681576;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Gragnani G.
+26.
+   - **Title:** Quick and reliable estimates of velocity profiles in pipelines by a simple electromagnetic inverse scattering technique
+   - **Venue:** Ist 2014 2014 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IST.2014.6958513
+   - **Scopus ID:** 2-s2.0-84916619947
+   - **Pages:** 404-409
+   - **Authors:** Pastorino Matteo; Raffetto Mirco; Randazzo Andrea; Fedeli Alessandro
+   - **Keywords:** bianisotropic media | Imaging systems | microwave tomography | moving media
+   - **Source Id:** 21100349566
+   - **Author Ids:** 7004880389;6701772951;7006280562;55512997500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Pastorino M.
+27.
+   - **Title:** Electromagnetic scattering by lossy multilayer elliptic cylinders
+   - **Venue:** IEEE Microwave and Wireless Components Letters
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1109/LMWC.2014.2330498
+   - **Scopus ID:** 2-s2.0-84930619974
+   - **ISSN:** 15311309
+   - **Volume:** 24
+   - **Issue:** 9
+   - **Pages:** 584-586
+   - **Authors:** Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Keywords:** Electromagnetic scattering | inhomogeneous media | lossy materials
+   - **Quartile:**
+     2014:
+     - Electrical and Electronic Engineering (Q1, rank 91, percentile 86)
+     - Condensed Matter Physics (Q1, rank 55, percentile 86)
+   - **Source Id:** 17295
+   - **Author Ids:** 7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Pastorino M.
+28.
+   - **Title:** Regularity of time-harmonic electromagnetic fields in the interior of bianisotropic materials and metamaterials
+   - **Venue:** IMA Journal of Applied Mathematics Institute of Mathematics and Its Applications
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 13
+   - **DOI:** 10.1093/imamat/hxs039
+   - **Scopus ID:** 2-s2.0-84893058575
+   - **ISSN:** 02724960
+   - **eISSN:** 14643634
+   - **Volume:** 79
+   - **Issue:** 1
+   - **Pages:** 54-93
+   - **Authors:** Fernandes Paolo; Ottonello Marina; Raffetto Mirco
+   - **Keywords:** analyticity of electromagnetic fields | anisotropic media and metamaterials | bianisotropic media and metamaterials | interior Hölder regularity of electromagnetic fields | interior Sobolev regularity of electromagnetic fields | time-harmonic Maxwell equations
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 259, percentile 61)
+     2014:
+     - Applied Mathematics (Q2, rank 154, percentile 61)
+   - **Source Id:** 23146
+   - **Author Ids:** 7102795214;57156258000;6701772951
+   - **Authoraffiliationids:** 60107402;60025153;60025153
+   - **Corresponding:** Fernandes P.
+29.
+   - **Title:** Two-dimensional green's function for scattering and radiation problems in elliptically-layered media
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2014
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1109/TAP.2014.2299817
+   - **Scopus ID:** 2-s2.0-84907421819
+   - **ISSN:** 0018926X
+   - **Volume:** 62
+   - **Issue:** 4
+   - **Pages:** 2071-2080
+   - **Authors:** Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Keywords:** Electromagnetic scattering | Green function | integral equations | nonhomogeneous media
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+     2014:
+     - Electrical and Electronic Engineering (Q1, rank 54, percentile 91)
+     - Subject (Q1, rank 34, percentile 91)
+   - **Source Id:** 17337
+   - **Author Ids:** 7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Pastorino M.
+30.
+   - **Title:** First results on the reliability of finite element simulators for the solution of time-harmonic electromagnetic problems involving moving objects with stationary boundaries
+   - **Venue:** Proceedings of the 2013 International Conference on Electromagnetics in Advanced Applications Iceaa 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICEAA.2013.6632212
+   - **Scopus ID:** 2-s2.0-84888338728
+   - **Pages:** 159-162
+   - **Authors:** Brignone M.; Raffetto M.
+   - **Source Id:** 21100268402
+   - **Author Ids:** 8580886100;6701772951
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Brignone M.
+31.
+   - **Title:** Electromagnetic inverse scattering of axially moving elliptic targets
+   - **Venue:** Proceedings of the 2013 International Conference on Electromagnetics in Advanced Applications Iceaa 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICEAA.2013.6632213
+   - **Scopus ID:** 2-s2.0-84888311418
+   - **Pages:** 163-166
+   - **Authors:** Pastorino M.; Raffetto M.; Randazzo A.
+   - **Source Id:** 21100268402
+   - **Author Ids:** 7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Pastorino M.
+32.
+   - **Title:** Reconstruction of dielectric and velocity profiles in pipelines through an electromagnetic inverse scattering technique
+   - **Venue:** Ist 2013 2013 IEEE International Conference on Imaging Systems and Techniques Proceedings
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/IST.2013.6729668
+   - **Scopus ID:** 2-s2.0-84894480955
+   - **Pages:** 85-90
+   - **Authors:** Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Keywords:** Dielectric reconstruction | inverse scattering | microwaves | stochastic optimization | velocity profiling
+   - **Source Id:** 21100286952
+   - **Author Ids:** 7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Pastorino M.
+33.
+   - **Title:** Scattering of electromagnetic waves from a multilayer elliptic cylinder moving in the axial direction
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1109/TAP.2013.2268245
+   - **Scopus ID:** 2-s2.0-84883690078
+   - **ISSN:** 0018926X
+   - **Volume:** 61
+   - **Issue:** 9
+   - **Pages:** 4741-4753
+   - **Authors:** Pastorino Matteo; Raffetto Mirco
+   - **Keywords:** Bianisotropic media | Electromagnetic scattering | Inhomogeneous elliptic cylinders | Moving media | Multilayer elliptic cylinders | Recursive analytical procedure | Series solution | Time-harmonic electromagnetic fields
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+     2013:
+     - Subject (Q1, rank 32, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 60, percentile 90)
+   - **Source Id:** 17337
+   - **Author Ids:** 7004880389;6701772951
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Pastorino M.
+34.
+   - **Title:** Realistic and correct models of impressed sources for time-harmonic electromagnetic boundary value problems involving metamaterials
+   - **Venue:** International Journal of Modeling Simulation and Scientific Computing
+   - **Year:** 2013
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1142/S1793962313500128
+   - **Scopus ID:** 2-s2.0-84883028467
+   - **ISSN:** 17939623
+   - **eISSN:** 17939615
+   - **Volume:** 4
+   - **Issue:** 3
+   - **Authors:** Fernandes Paolo; Raffetto Mirco
+   - **Keywords:** electromagnetic modeling of composite media | electromagnetic simulators | finite element methods | ill-posedness | metamaterials | Time-harmonic electromagnetic boundary value problems | waveguide discontinuity problems
+   - **Quartile:**
+     2025:
+     - Modeling and Simulation (Q2, rank 173, percentile 54)
+     - Computer Science Applications (Q3, rank 524, percentile 46)
+     2013:
+     - Computer Science Applications (Q3, rank 330, percentile 32)
+     - Modeling and Simulation (Q3, rank 154, percentile 27)
+   - **Source Id:** 19900192598
+   - **Author Ids:** 7102795214;6701772951
+   - **Authoraffiliationids:** 60107402;60025153
+   - **Corresponding:** Fernandes P.
+35.
+   - **Title:** Some additional warnings on the reliability of simulators for time-harmonic electromagnetic problems involving innovative media
+   - **Venue:** 2011 Computational Electromagnetics International Workshop Cem 11
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/CEM.2011.6047341
+   - **Scopus ID:** 2-s2.0-80655138715
+   - **Pages:** 109-114
+   - **Authors:** Fernandes Paolo; Raffetto Mirco
+   - **Source Id:** 20500195016
+   - **Author Ids:** 7102795214;6701772951
+   - **Authoraffiliationids:** 60021199;60025153
+   - **Corresponding:** Fernandes P.
+36.
+   - **Title:** Comparison among cognitive radio architectures for spectrum sensing
+   - **Venue:** Eurasip Journal on Wireless Communications and Networking
+   - **Year:** 2011
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 12
+   - **DOI:** 10.1155/2011/749891
+   - **Scopus ID:** 2-s2.0-79955008160
+   - **ISSN:** 16871472
+   - **eISSN:** 16871499
+   - **Volume:** 2011
+   - **Authors:** Bixio Luca; Ottonello Marina; Raffetto Mirco; Regazzoni Carlo S.
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q2, rank 52, percentile 73)
+     - Computer Networks and Communications (Q2, rank 160, percentile 70)
+     - Computer Science Applications (Q2, rank 317, percentile 67)
+     2011:
+     - Computer Science Applications (Q2, rank 142, percentile 68)
+     - Computer Networks and Communications (Q2, rank 73, percentile 63)
+     - Signal Processing (Q2, rank 27, percentile 60)
+   - **Source Id:** 18202
+   - **Author Ids:** 6508141299;57156258000;6701772951;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bixio L.
+37.
+   - **Title:** A comparison among cooperative spectrum sensing approaches for cognitive radios
+   - **Venue:** 2010 2nd International Workshop on Cognitive Information Processing Cip2010
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/CIP.2010.5604202
+   - **Scopus ID:** 2-s2.0-78349278100
+   - **Pages:** 168-173
+   - **Authors:** Bixio Luca; Ottonello Marina; Raffetto Mirco; Regazzoni Carlo S.; Armani Claudio
+   - **Keywords:** Cognitive radio | COoperative spectrum sensing | Logical fusion rule | Optimal fusion rule
+   - **Source Id:** 19700182333
+   - **Author Ids:** 6508141299;57156258000;6701772951;35513672400;7801356319
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60083763
+   - **Corresponding:** Bixio L.
+38.
+   - **Title:** A comparison between stand-alone and distributed architectures for spectrum hole detection
+   - **Venue:** IEEE Wireless Communications and Networking Conference Wcnc
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/WCNC.2010.5506622
+   - **Scopus ID:** 2-s2.0-77955015755
+   - **ISSN:** 15253511
+   - **Authors:** Bixio Luca; Ottonello Marina; Raffetto Mirco; Regazzoni Carlo S.
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q2, rank 148, percentile 57)
+   - **Source Id:** 145653
+   - **Author Ids:** 6508141299;57156258000;6701772951;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bixio L.
+39.
+   - **Title:** Cognitive radios with multiple antennas exploiting spatial opportunities
+   - **Venue:** IEEE Transactions on Signal Processing
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 53
+   - **DOI:** 10.1109/TSP.2010.2048322
+   - **Scopus ID:** 2-s2.0-77954584717
+   - **ISSN:** 1053587X
+   - **Volume:** 58
+   - **Issue:** 8
+   - **Pages:** 4453-4459
+   - **Authors:** Bixio Luca; Oliveri Giacomo; Ottonello Marina; Raffetto Mirco; Regazzoni Carlo S.
+   - **Keywords:** Cognitive radio (CR) | MIMO interference channel (MIMO IC) | multiple-input multiple-output (MIMO) | spatial opportunity
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 79, percentile 92)
+     - Signal Processing (Q1, rank 18, percentile 91)
+   - **Source Id:** 17391
+   - **Author Ids:** 6508141299;6701615935;57156258000;6701772951;35513672400
+   - **Authoraffiliationids:** 60025153;60015986;60025153;60025153;60025153
+   - **Corresponding:** Bixio L.
+40.
+   - **Title:** Plain models of very simple waveguide junctions without any solution for very rich sets of excitations
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2010
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1109/TAP.2010.2046840
+   - **Scopus ID:** 2-s2.0-77953088084
+   - **ISSN:** 0018926X
+   - **Volume:** 58
+   - **Issue:** 6
+   - **Pages:** 1989-1996
+   - **Authors:** Fernandes Paolo; Raffetto Mirco
+   - **Keywords:** Electromagnetic boundary value problems | Electromagnetic simulators | Electromagnetic theory | Guided waves and wave-guiding structures | Ill posedness | Metamaterials
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+   - **Source Id:** 17337
+   - **Author Ids:** 7102795214;6701772951
+   - **Authoraffiliationids:** 60021199;60025153
+   - **Corresponding:** Fernandes P.
+41.
+   - **Title:** Difficulties in recognizing ill-posed electromagnetic problems involving wrong effective models of media
+   - **Venue:** IEEE Antennas and Wireless Propagation Letters
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1109/LAWP.2009.2037169
+   - **Scopus ID:** 2-s2.0-77956210419
+   - **ISSN:** 15361225
+   - **Volume:** 8
+   - **Pages:** 1283-1287
+   - **Authors:** Bozza Giovanni; Ottonello Marina; Raffetto Mirco
+   - **Keywords:** Boundary value problems | Composite media | Electromagnetic surface waves | Finite element methods (FEMS)
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 180, percentile 82)
+   - **Source Id:** 18894
+   - **Author Ids:** 9740507100;57156258000;6701772951
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bozza G.
+42.
+   - **Title:** Reliable approximation of the solution of time-harmonic electromagnetic boundary value problems involving bianisotropic media for numerical simulator testing
+   - **Venue:** European Microwave Week 2009 Eumw 2009 Science Progress and Quality at Radiofrequencies Conference Proceedings 39th European Microwave Conference Eumc 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EUMC.2009.5296179
+   - **Scopus ID:** 2-s2.0-73049097751
+   - **Pages:** 954-957
+   - **Authors:** Fernandes Paolo; Ottonello Marina; Raffetto Mirco
+   - **Source Id:** 19500157491
+   - **Author Ids:** 7102795214;57156258000;6701772951
+   - **Authoraffiliationids:** 60107402;60025153;60025153
+   - **Corresponding:** Fernandes P.
+43.
+   - **Title:** Well-posedness and finite element approximability of time-harmonic electromagnetic boundary value problems involving bianisotropic materials and metamaterials
+   - **Venue:** Mathematical Models and Methods in Applied Sciences
+   - **Year:** 2009
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 35
+   - **DOI:** 10.1142/S0218202509004121
+   - **Scopus ID:** 2-s2.0-73049083321
+   - **ISSN:** 02182025
+   - **Volume:** 19
+   - **Issue:** 12
+   - **Pages:** 2299-2335
+   - **Authors:** Fernandes Paolo; Raffetto Mirco
+   - **Keywords:** Bianisotropic materials | Convergence | Electromagnetic boundary value problems | Finite element method | Well-posedness
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 70, percentile 89)
+     - Modeling and Simulation (Q1, rank 56, percentile 85)
+   - **Source Id:** 24598
+   - **Author Ids:** 7102795214;6701772951
+   - **Authoraffiliationids:** 60107402;60025153
+   - **Corresponding:** Fernandes P.
+44.
+   - **Title:** Signal classification based on spectral redundancy and neural network ensembles
+   - **Venue:** Proceedings of the 2009 4th International Conference on Cognitive Radio Oriented Wireless Networks and Communications Crowncom 2009
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/CROWNCOM.2009.5189036
+   - **Scopus ID:** 2-s2.0-70449371840
+   - **Authors:** Bixio Luca; Ottonello Marina; Sallam Hany; Raffetto Mirco; Regazzoni Carlo S.
+   - **Source Id:** 19400158359
+   - **Author Ids:** 6508141299;57156258000;25961221800;6701772951;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bixio L.
+45.
+   - **Title:** Performance evaluation of a multiple antenna system for spectrum sensing
+   - **Venue:** IEEE Antennas and Propagation Society AP S International Symposium Digest
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/APS.2009.5171580
+   - **Scopus ID:** 2-s2.0-71049182253
+   - **ISSN:** 15223965
+   - **Authors:** Bixio Luca; Ottonello Marina; Raffetto Mirco; Regazzoni Carlo S.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 853, percentile 14)
+   - **Source Id:** 18719
+   - **Author Ids:** 6508141299;57156258000;6701772951;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bixio L.
+46.
+   - **Title:** Simple waveguide junctions whose straightforward modelling leads to unsolvable boundary value problems
+   - **Venue:** IEEE Antennas and Propagation Society AP S International Symposium Digest
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/APS.2009.5171761
+   - **Scopus ID:** 2-s2.0-71049154898
+   - **ISSN:** 15223965
+   - **Authors:** Fernandes Paolo; Ottonello Marina; Raffetto Mirco
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 853, percentile 14)
+   - **Source Id:** 18719
+   - **Author Ids:** 7102795214;57156258000;6701772951
+   - **Authoraffiliationids:** 60107402;60025153;60025153
+   - **Corresponding:** Fernandes P.
+47.
+   - **Title:** An assessment by a commercial software of the accuracy of electromagnetic finite element simulators in the presence of metamaterials
+   - **Venue:** COMPEL the International Journal for Computation and Mathematics in Electrical and Electronic Engineering
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1108/03321640810905747
+   - **Scopus ID:** 2-s2.0-57249105435
+   - **ISSN:** 03321649
+   - **Volume:** 27
+   - **Issue:** 6
+   - **Pages:** 1260-1272
+   - **Authors:** Oliveri Giacomo; Raffetto Mirco
+   - **Keywords:** Finite element analysis | Numerical analysis | Simulation
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 262, percentile 61)
+     - Computational Theory and Mathematics (Q2, rank 93, percentile 54)
+     - Electrical and Electronic Engineering (Q2, rank 486, percentile 51)
+     - Computer Science Applications (Q3, rank 541, percentile 44)
+   - **Source Id:** 28454
+   - **Author Ids:** 6701615935;6701772951
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Oliveri G.
+48.
+   - **Title:** Accuracy of finite difference frequency domain methods in the presence of effective metamaterials
+   - **Venue:** Proceedings of the 38th European Microwave Conference Eumc 2008
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/EUMC.2008.4751535
+   - **Scopus ID:** 2-s2.0-62349108035
+   - **Pages:** 646-649
+   - **Authors:** Oliveri Giacomo; Raffetto Mirco
+   - **Source Id:** 17100154703
+   - **Author Ids:** 6701615935;6701772951
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Oliveri G.
+49.
+   - **Title:** Information processing techniques for cognitive base transceiver stations
+   - **Venue:** 3rd International Symposium on Wireless Pervasive Computing ISWPC 2008 Proceedings
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ISWPC.2008.4556223
+   - **Scopus ID:** 2-s2.0-51649093837
+   - **Pages:** 324-328
+   - **Authors:** Bixio Luca; Cattoni Andrea F.; Oliveri Giacomo; Ottonello Marina; Raffetto Mirco; Regazzoni Carlo S.
+   - **Source Id:** 12100156728
+   - **Author Ids:** 6508141299;14832346000;6701615935;57156258000;6701772951;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Bixio L.
+50.
+   - **Title:** A warning about metamaterials for users of frequency-domain numerical simulators
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2008
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 19
+   - **DOI:** 10.1109/TAP.2008.916955
+   - **Scopus ID:** 2-s2.0-41649106097
+   - **ISSN:** 0018926X
+   - **Volume:** 56
+   - **Issue:** 3
+   - **Pages:** 792-798
+   - **Authors:** Oliveri Giacomo; Raffetto Mirco
+   - **Keywords:** Boundary value problems | Convergence of numerical methods | Finite element methods | Frequency domain analysis | Metamaterials | Numerical stability | Waveguide discontinuity problems
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+   - **Source Id:** 17337
+   - **Author Ids:** 6701615935;6701772951
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Oliveri G.
+51.
+   - **Title:** HOS-based mode classification for infomobility framework
+   - **Venue:** 1st International Workshop on Cognitive Wireless Networks Cwnets 07
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1145/1577382.1577388
+   - **Scopus ID:** 2-s2.0-70450283972
+   - **Authors:** Cattoni Andrea F.; Ottonello Marina; Raffetto Mirco; Regazzoni Carlo S.
+   - **Keywords:** Cognitive radio | Mode identification | SVM
+   - **Source Id:** 19400158625
+   - **Author Ids:** 14832346000;57156258000;6701772951;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Cattoni A.F.
+52.
+   - **Title:** Neural networks Mode classification based on frequency distribution features
+   - **Venue:** Proceedings of the 2nd International Conference on Cognitive Radio Oriented Wireless Networks and Communications Crowncom
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/CROWNCOM.2007.4549806
+   - **Scopus ID:** 2-s2.0-51349098971
+   - **Pages:** 251-257
+   - **Authors:** Cattoni Andrea F.; Ottonello Marina; Raffetto Mirco; Regazzoni Carlo S.
+   - **Source Id:** 12100156602
+   - **Author Ids:** 14832346000;57156258000;6701772951;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Cattoni A.F.
+53.
+   - **Title:** Antenna systems with embodied cognition for next generation wireless communications
+   - **Venue:** IEEE Antennas and Propagation Society AP S International Symposium Digest
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/APS.2007.4395837
+   - **Scopus ID:** 2-s2.0-48349125038
+   - **ISSN:** 15223965
+   - **Pages:** 1685-1688
+   - **Authors:** Briasco Marco; Cattoni Andrea F.; Oliveri Giacomo; Ottonello Marina; Raffetto Mirco; Regazzoni Carlo S.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 853, percentile 14)
+   - **Source Id:** 18719
+   - **Author Ids:** 23992223900;14832346000;6701615935;57156258000;6701772951;35513672400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Briasco M.
+54.
+   - **Title:** A simple but numerically unmanageable frequency-domain waveguide discontinuity problem
+   - **Venue:** 2007 International Conference on Electromagnetics in Advanced Applications Iceaa 07
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ICEAA.2007.4387425
+   - **Scopus ID:** 2-s2.0-47349107981
+   - **Pages:** 802-805
+   - **Authors:** Oliveri Giacomo; Raffetto Mirco
+   - **Source Id:** 11900154397
+   - **Author Ids:** 6701615935;6701772951
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Oliveri G.
+55.
+   - **Title:** Cavities involving metamaterials with an uncountable set of resonant frequencies
+   - **Venue:** IEEE Microwave and Wireless Components Letters
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1109/LMWC.2007.901760
+   - **Scopus ID:** 2-s2.0-34547734583
+   - **ISSN:** 15311309
+   - **Volume:** 17
+   - **Issue:** 8
+   - **Pages:** 565-567
+   - **Authors:** Bozza Giovanni; Oliveri Giacomo; Raffetto Mirco
+   - **Keywords:** Cavity resonators | Eigenvalue problems | Metamaterials | Numerical methods
+   - **Source Id:** 17295
+   - **Author Ids:** 9740507100;6701615935;6701772951
+   - **Authoraffiliationids:** 60025153;60000251-60025153;60025153
+   - **Corresponding:** Bozza G.
+56.
+   - **Title:** Performances of electromagnetic finite element simulators in the presence of three-dimensional double-negative scatterers
+   - **Venue:** Iet Microwaves Antennas and Propagation
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1049/iet-map:20060293
+   - **Scopus ID:** 2-s2.0-34249900981
+   - **ISSN:** 17518725
+   - **eISSN:** 17518733
+   - **Volume:** 1
+   - **Issue:** 3
+   - **Pages:** 737-745
+   - **Authors:** Cevini G.; Oliveri G.; Raffetto M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 508, percentile 49)
+   - **Source Id:** 6100153023
+   - **Author Ids:** 6507509149;6701615935;6701772951
+   - **Authoraffiliationids:** 60015197-60083942;60025153;60025153
+   - **Corresponding:** Cevini G.
+57.
+   - **Title:** Some reasons for the bad behavior of finite element simulators in the presence of metamaterials
+   - **Venue:** IEEE Antennas and Propagation Society AP S International Symposium Digest
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/APS.2007.4396296
+   - **Scopus ID:** 2-s2.0-48349140406
+   - **ISSN:** 15223965
+   - **Pages:** 3516-3519
+   - **Authors:** Oliveri Giacomo; Raffetto Mirco
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 853, percentile 14)
+   - **Source Id:** 18719
+   - **Author Ids:** 6701615935;6701772951
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Oliveri G.
+58.
+   - **Title:** Ill-posed waveguide discontinuity problem involving metamaterials with impedance boundary conditions on the two ports
+   - **Venue:** Iet Science Measurement and Technology
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1049/iet-smt:20060123
+   - **Scopus ID:** 2-s2.0-34250872258
+   - **ISSN:** 17518822
+   - **Volume:** 1
+   - **Issue:** 5
+   - **Pages:** 232-239
+   - **Authors:** Raffetto M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 413, percentile 58)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 124, percentile 48)
+   - **Source Id:** 5300152720
+   - **Author Ids:** 6701772951
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Raffetto M.
+59.
+   - **Title:** Anomalous TEM modes in guiding structures filled with double negative and double positive materials
+   - **Venue:** IEEE Microwave and Wireless Components Letters
+   - **Year:** 2007
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1109/LMWC.2006.887243
+   - **Scopus ID:** 2-s2.0-33846627256
+   - **ISSN:** 15311309
+   - **Volume:** 17
+   - **Issue:** 1
+   - **Pages:** 19-21
+   - **Authors:** Bozza Giovanni; Oliveri Giacomo; Raffetto Mirco
+   - **Keywords:** Coaxial cables | Guiding structures | Metamaterials | Transmission lines (TLs)
+   - **Source Id:** 17295
+   - **Author Ids:** 9740507100;6701615935;6701772951
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Bozza G.
+60.
+   - **Title:** Synthesis of metamaterial coatings for cylindrical structures by an ant-colony optimization algorithm
+   - **Venue:** Ist 2006 Proceedings of the 2006 IEEE International Workshop on Imagining Systems and Techniques
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/IST.2006.1650792
+   - **Scopus ID:** 2-s2.0-33845598481
+   - **Volume:** 2006
+   - **Pages:** 143-147
+   - **Authors:** Bozza G.; Pastorino M.; Raffetto M.; Randazzo A.
+   - **Keywords:** Ant colony optimization | Metamaterials | Synthesis
+   - **Source Id:** 5100153514
+   - **Author Ids:** 9740507100;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Bozza G.
+61.
+   - **Title:** Further comments on the performances of finite element simulators for the solution of electromagnetic problems involving metamaterials
+   - **Venue:** Microwave and Optical Technology Letters
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 18
+   - **DOI:** 10.1002/mop.22008
+   - **Scopus ID:** 2-s2.0-33750544943
+   - **ISSN:** 08952477
+   - **Volume:** 48
+   - **Issue:** 12
+   - **Pages:** 2524-2529
+   - **Authors:** Cevini Gaia; Oliveri Giacomo; Raffetto Mirco
+   - **Keywords:** Electromagnetic scattering | Finite element method | Metamaterials | Performances of finite element simulators
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 542, percentile 45)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 199, percentile 35)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 156, percentile 34)
+     - Condensed Matter Physics (Q3, rank 296, percentile 33)
+   - **Source Id:** 12250
+   - **Author Ids:** 6507509149;6701615935;6701772951
+   - **Authoraffiliationids:** 60015197;60025153;60025153
+   - **Corresponding:** Cevini G.
+62.
+   - **Title:** A SVM-based approach to microwave breast cancer detection
+   - **Venue:** Engineering Applications of Artificial Intelligence
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 47
+   - **DOI:** 10.1016/j.engappai.2006.05.010
+   - **Scopus ID:** 2-s2.0-33749259750
+   - **ISSN:** 09521976
+   - **Volume:** 19
+   - **Issue:** 7
+   - **Pages:** 807-818
+   - **Authors:** Kerhet Aliaksei; Raffetto Mirco; Boni Andrea; Massa Andrea
+   - **Keywords:** Breast cancer detection | Microwaves | Support vector machines
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 32, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 87, percentile 91)
+     - Artificial Intelligence (Q1, rank 66, percentile 86)
+   - **Source Id:** 24182
+   - **Author Ids:** 14822287400;6701772951;35916687600;7005085831
+   - **Authoraffiliationids:** 60015986;60025153;60015986;60015986
+   - **Corresponding:** Kerhet A.
+63.
+   - **Title:** Synthesis of double-negative materials by using dielectric-loaded rectangular waveguides
+   - **Venue:** Proceedings of the 36th European Microwave Conference Eumc 2006
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EUMC.2006.281198
+   - **Scopus ID:** 2-s2.0-41649090861
+   - **Pages:** 1225-1228
+   - **Authors:** Briasco Marco; Oliveri Giacomo; Raffetto Mirco
+   - **Keywords:** Double-negative materials | Effective properties | Microwave components
+   - **Source Id:** 21100932839
+   - **Author Ids:** 23992223900;6701615935;6701772951
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Briasco M.
+64.
+   - **Title:** Unsupervised synthesis of microwave components by means of an evolutionary-based tool exploiting distributed computing resources
+   - **Venue:** Progress in Electromagnetics Research
+   - **Year:** 2006
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.2528/PIER05010901
+   - **Scopus ID:** 2-s2.0-33947114795
+   - **ISSN:** 10704698
+   - **eISSN:** 15598985
+   - **Volume:** 56
+   - **Pages:** 93-108
+   - **Authors:** Donelli M.; Azaro R.; Massa A.; Raffetto M.
+   - **Quartile:**
+     2025:
+     - Radiation (Q1, rank 1, percentile 99)
+     - Condensed Matter Physics (Q1, rank 32, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 88, percentile 91)
+   - **Source Id:** 5300152513
+   - **Author Ids:** 7006135869;8662846400;7005085831;6701772951
+   - **Authoraffiliationids:** 60015986;60015986;60015986;60025153
+   - **Corresponding:** Donelli M.
+65.
+   - **Title:** Performance evaluation of 3D FEM-based simulators in modelling scattering problems with metamaterials
+   - **Venue:** 35th European Microwave Conference 2005 Conference Proceedings
+   - **Year:** 2005
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/EUMC.2005.1610061
+   - **Scopus ID:** 2-s2.0-33750556718
+   - **Volume:** 2
+   - **Pages:** 857-860
+   - **Authors:** Cevini Gaia; Raffetto Mirco
+   - **Source Id:** 5200153004
+   - **Author Ids:** 6507509149;6701772951
+   - **Authoraffiliationids:** 60015197;60025153
+   - **Corresponding:** Cevini G.
+66.
+   - **Title:** Interactions between electromagnetic waves and elliptically shaped metamaterials
+   - **Venue:** IEEE Antennas and Wireless Propagation Letters
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1109/LAWP.2005.848382
+   - **Scopus ID:** 2-s2.0-31144437167
+   - **ISSN:** 15361225
+   - **Volume:** 4
+   - **Issue:** 1
+   - **Pages:** 165-168
+   - **Authors:** Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Keywords:** Double-negative materials | Electromagnetic scattering | Elliptic cylinders | Metamaterials | Series solution
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 180, percentile 82)
+   - **Source Id:** 18894
+   - **Author Ids:** 7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60000251-60025153;60025153;60025153
+   - **Corresponding:** Pastorino M.
+67.
+   - **Title:** Discrete compactness for edge elements in the presence of mixed boundary conditions
+   - **Venue:** SIAM Journal on Numerical Analysis
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1137/S003614290343414X
+   - **Scopus ID:** 2-s2.0-25444520838
+   - **ISSN:** 00361429
+   - **Volume:** 42
+   - **Issue:** 5
+   - **Pages:** 1818-1829
+   - **Authors:** Raffetto Mirco
+   - **Keywords:** Convergence | Discrete compactness property | Edge elements | Electromagnetic boundary value problems | Electromagnetic eigenproblems | Galerkin finite element approximations | Mixed boundary conditions
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 93, percentile 86)
+     - Computational Mathematics (Q1, rank 40, percentile 80)
+     - Numerical Analysis (Q1, rank 19, percentile 79)
+   - **Source Id:** 26421
+   - **Author Ids:** 6701772951
+   - **Authoraffiliationids:** 60025153
+   - **Corresponding:** Raffetto M.
+68.
+   - **Title:** Existence, uniqueness and finite element approximation of the solution of time-harmonic electromagnetic boundary value problems involving metamaterials
+   - **Venue:** COMPEL the International Journal for Computation and Mathematics in Electrical and Electronic Engineering
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 35
+   - **DOI:** 10.1108/03321640510615724
+   - **Scopus ID:** 2-s2.0-25444512624
+   - **ISSN:** 03321649
+   - **Volume:** 24
+   - **Issue:** 4
+   - **Pages:** 1450-1469
+   - **Authors:** Fernandes Paolo; Raffetto Mirco
+   - **Keywords:** Composite materials | Electromagnetism | Finite element analysis | Radiation
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 262, percentile 61)
+     - Computational Theory and Mathematics (Q2, rank 93, percentile 54)
+     - Electrical and Electronic Engineering (Q2, rank 486, percentile 51)
+     - Computer Science Applications (Q3, rank 541, percentile 44)
+   - **Source Id:** 28454
+   - **Author Ids:** 7102795214;6701772951
+   - **Authoraffiliationids:** 60107402;60025153
+   - **Corresponding:** Fernandes P.
+69.
+   - **Title:** Parallel GA-based approach for microwave imaging applications
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2005
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 55
+   - **DOI:** 10.1109/TAP.2005.856311
+   - **Scopus ID:** 2-s2.0-27644555955
+   - **ISSN:** 0018926X
+   - **Volume:** 53
+   - **Issue:** 10
+   - **Pages:** 3118-3127
+   - **Authors:** Massa Andrea; Franceschini Davide; Franceschini Gabriele; Pastorino Matteo; Raffetto Mirco; Donelli Massimo
+   - **Keywords:** Genetic algorithms (GAs) | Inverse scattering | Microwave imaging | Parallel implementation
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+   - **Source Id:** 17337
+   - **Author Ids:** 7005085831;7004020831;9235684200;7004880389;6701772951;7006135869
+   - **Authoraffiliationids:** 60015986;60015986;60015986;60025153;60025153;60015986
+   - **Corresponding:** Massa A.
+70.
+   - **Title:** Microwave imaging of cylindrical inhomogeneities based on an analytical forward solver and multiple illuminations
+   - **Venue:** 2004 IEEE International Workshop on Imaging Systems and Techniques Ist
+   - **Year:** 2004
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **Scopus ID:** 2-s2.0-15844430469
+   - **Pages:** 100-105
+   - **Authors:** Caorsi S.; Massa A.; Pastorino M.; Raffetto M.; Randazzo A.
+   - **Source Id:** 145102
+   - **Author Ids:** 7102084534;7005085831;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60015197;60015986;60025153;60025153;60025153
+   - **Corresponding:** Caorsi S.
+71.
+   - **Title:** Detection of Buried Inhomogeneous Elliptic Cylinders by a Memetic Algorithm
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 54
+   - **DOI:** 10.1109/TAP.2003.817984
+   - **Scopus ID:** 2-s2.0-0142126356
+   - **ISSN:** 0018926X
+   - **Volume:** 51
+   - **Issue:** 10 Ii
+   - **Pages:** 2878-2884
+   - **Authors:** Caorsi Salvatore; Massa Andrea; Pastorino Matteo; Raffetto Mirco; Randazzo Andrea
+   - **Keywords:** Electromagnetic imaging | Elliptic cylinders | Evolutionary algorithms
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+   - **Source Id:** 17337
+   - **Author Ids:** 7102084534;7005085831;7004880389;6701772951;7006280562
+   - **Authoraffiliationids:** 60015197;60015986;60025153;60025153;60025153
+   - **Corresponding:** Caorsi S.
+72.
+   - **Title:** Performance of a Causal Anisotropic Absorber for the Truncation of Finite Element Meshes in Time Domain Electromagnetic Unbounded Problems
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/TAP.2003.817201
+   - **Scopus ID:** 2-s2.0-0141861106
+   - **ISSN:** 0018926X
+   - **Volume:** 51
+   - **Issue:** 9
+   - **Pages:** 2523-2529
+   - **Authors:** Bermani E.; Caorsi S.; Raffetto M.
+   - **Keywords:** Anisotropic absorbers | Finite element method (FEM) | Time domain.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+   - **Source Id:** 17337
+   - **Author Ids:** 6602981998;7102084534;6701772951
+   - **Authoraffiliationids:** 60015986;60015197;60025153
+   - **Corresponding:** Bermani E.
+73.
+   - **Title:** Unique solvability for electromagnetic boundary value problems in the presence of partly lossy inhomogeneous anisotropic media and mixed boundary conditions
+   - **Venue:** Mathematical Models and Methods in Applied Sciences
+   - **Year:** 2003
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.1142/S0218202503002672
+   - **Scopus ID:** 2-s2.0-0038407540
+   - **ISSN:** 02182025
+   - **Volume:** 13
+   - **Issue:** 4
+   - **Pages:** 597-611
+   - **Authors:** Rodríguez Ana Alonso; Raffetto Mirco
+   - **Keywords:** Electromagnetic boundary value problems | Inhomogeneous anisotropic media | Mixed boundary conditions
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 70, percentile 89)
+     - Modeling and Simulation (Q1, rank 56, percentile 85)
+   - **Source Id:** 24598
+   - **Author Ids:** 7403543978;6701772951
+   - **Authoraffiliationids:** 60030318;60025153
+   - **Corresponding:** Rodríguez A.A.
+74.
+   - **Title:** Impact of distributed computing on the performances of microwave CAD tools
+   - **Venue:** Conference Proceedings 33rd European Microwave Conference Eumc 2003
+   - **Year:** 2003
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EUMC.2003.1262238
+   - **Scopus ID:** 2-s2.0-84897531366
+   - **Volume:** 1
+   - **Pages:** 143-146
+   - **Authors:** Caorsi Salvatore; Donelli Massimo; Massa Andrea; Raffetto Mirco
+   - **Source Id:** 21100495770
+   - **Author Ids:** 7102084534;7006135869;7005085831;6701772951
+   - **Authoraffiliationids:** 60015197;60015986;60015986;60025153
+   - **Corresponding:** Caorsi S.
+75.
+   - **Title:** A parallel implementation of an evolutionary-based automatic tool for microwave circuit synthesis: Preliminary results
+   - **Venue:** Microwave and Optical Technology Letters
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1002/mop.10547
+   - **Scopus ID:** 2-s2.0-0037027399
+   - **ISSN:** 08952477
+   - **Volume:** 35
+   - **Issue:** 3
+   - **Pages:** 169-172
+   - **Authors:** Caorsi Salvatore; Donelli Massimo; Massa Andrea; Raffetto Mirco
+   - **Keywords:** Finite element method | Genetic algorithms | Microwave circuit synthesis | Parallel computing
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 542, percentile 45)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 199, percentile 35)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 156, percentile 34)
+     - Condensed Matter Physics (Q3, rank 296, percentile 33)
+   - **Source Id:** 12250
+   - **Author Ids:** 7102084534;7006135869;7005085831;6701772951
+   - **Authoraffiliationids:** 60015197;60025153;60015986;60025153
+   - **Corresponding:** Caorsi S.
+76.
+   - **Title:** Microwave detection and dielectric characterization of cylindrical objects from amplitude-only data by means of neural networks
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 46
+   - **DOI:** 10.1109/TAP.2002.801274
+   - **Scopus ID:** 2-s2.0-0036760570
+   - **ISSN:** 0018926X
+   - **Volume:** 50
+   - **Issue:** 9
+   - **Pages:** 1309-1314
+   - **Authors:** Bermani Emanuela; Caorsi Salvatore; Raffetto Mirco
+   - **Keywords:** Amplitude-only data | Buried objects | Inverse scattering problems | Microwave imaging | Neural networks
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+   - **Source Id:** 17337
+   - **Author Ids:** 6602981998;7102084534;6701772951
+   - **Authoraffiliationids:** 60015986;60015197;60025153
+   - **Corresponding:** Bermani E.
+77.
+   - **Title:** Characterization of spurious-free finite element methods in electromagnetics
+   - **Venue:** COMPEL the International Journal for Computation and Mathematics in Electrical and Electronic Engineering
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1108/03321640210410814
+   - **Scopus ID:** 2-s2.0-0036220787
+   - **ISSN:** 03321649
+   - **Volume:** 21
+   - **Issue:** 1
+   - **Pages:** 147-164
+   - **Authors:** Fernandes Paolo; Raffetto Mirco
+   - **Keywords:** Eigenvalues | Electromagnetics | Finite elements | Waveguide
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 262, percentile 61)
+     - Computational Theory and Mathematics (Q2, rank 93, percentile 54)
+     - Electrical and Electronic Engineering (Q2, rank 486, percentile 51)
+     - Computer Science Applications (Q3, rank 541, percentile 44)
+   - **Source Id:** 28454
+   - **Author Ids:** 7102795214;6701772951
+   - **Authoraffiliationids:** 101019361;101019361
+   - **Corresponding:** Fernandes P.
+78.
+   - **Title:** Counterexamples to the currently accepted explanation for spurious modes and necessary and sufficient conditions to avoid them
+   - **Venue:** IEEE Transactions on Magnetics
+   - **Year:** 2002
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 7
+   - **DOI:** 10.1109/20.996170
+   - **Scopus ID:** 2-s2.0-0036493567
+   - **ISSN:** 00189464
+   - **Volume:** 38
+   - **Issue:** 2 I
+   - **Pages:** 653-656
+   - **Authors:** Fernandes Paolo; Raffetto Mirco
+   - **Keywords:** Cavity resonators | Finite-element methods | Modeling | Spectral analysis | Waveguides
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 334, percentile 66)
+     - Electronic, Optical and Magnetic Materials (Q2, rank 134, percentile 56)
+   - **Source Id:** 17364
+   - **Author Ids:** 7102795214;6701772951
+   - **Authoraffiliationids:** 60021199;60025153
+   - **Corresponding:** Fernandes P.
+79.
+   - **Title:** On the convergence of galerkin finite element approximations of electromagnetic eigenproblems
+   - **Venue:** SIAM Journal on Numerical Analysis
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 109
+   - **DOI:** 10.1137/S0036142999357506
+   - **Scopus ID:** 2-s2.0-0034446186
+   - **ISSN:** 00361429
+   - **Volume:** 38
+   - **Issue:** 2
+   - **Pages:** 580-607
+   - **Authors:** Caorsi Salvatore; Fernandes Paolo; Raffetto Mirco
+   - **Keywords:** Convergence | Discontinuous material properties | Edge elements | Electromagnetic eigenproblems | Galerkin finite element approximations | Noncompact operators | Spurious modes
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 93, percentile 86)
+     - Computational Mathematics (Q1, rank 40, percentile 80)
+     - Numerical Analysis (Q1, rank 19, percentile 79)
+   - **Source Id:** 26421
+   - **Author Ids:** 7102084534;7102795214;6701772951
+   - **Authoraffiliationids:** 60015197;126435161;60025153
+   - **Corresponding:** Caorsi S.
+80.
+   - **Title:** Spurious-free approximations of electromagnetic eigenproblems by means of Nedelec-type elements
+   - **Venue:** Mathematical Modelling and Numerical Analysis
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 30
+   - **DOI:** 10.1051/m2an:2001118
+   - **Scopus ID:** 2-s2.0-0035627702
+   - **ISSN:** 0764583X
+   - **Volume:** 35
+   - **Issue:** 2
+   - **Pages:** 331-354
+   - **Authors:** Caorsi Salvatore; Fernandes Paolo; Raffetto Mirco
+   - **Keywords:** Convergence | Discontinuous material properties | Discrete compactness | Electromagnetic eigenproblems | Galerkin finite element approximations | Mixed boundary conditions | New families of edge elements | Spurious modes | Symmetry exploitation
+   - **Quartile:**
+     2025:
+     - Analysis (Q1, rank 46, percentile 77)
+     - Applied Mathematics (Q2, rank 238, percentile 64)
+     - Numerical Analysis (Q2, rank 33, percentile 63)
+     - Computational Mathematics (Q2, rank 83, percentile 59)
+     - Modeling and Simulation (Q2, rank 171, percentile 54)
+   - **Source Id:** 25956
+   - **Author Ids:** 7102084534;7102795214;6701772951
+   - **Authoraffiliationids:** 60015197;126431641;126431641
+   - **Corresponding:** Caorsi S.
+81.
+   - **Title:** On the training patterns of a neural network for target localization in the spatial domain
+   - **Venue:** Microwave and Optical Technology Letters
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1002/1098-2760(20010205)28:3<207::AID-MOP17>3.0.CO;2-7
+   - **Scopus ID:** 2-s2.0-0035252014
+   - **ISSN:** 08952477
+   - **Volume:** 28
+   - **Issue:** 3
+   - **Pages:** 207-209
+   - **Authors:** Bermani E.; Caorsi S.; Massa A.; Raffetto M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 542, percentile 45)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 199, percentile 35)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 156, percentile 34)
+     - Condensed Matter Physics (Q3, rank 296, percentile 33)
+   - **Source Id:** 12250
+   - **Author Ids:** 6602981998;7102084534;7005085831;6701772951
+   - **Authoraffiliationids:** 60015197;60015197;60015986;60025153
+   - **Corresponding:** Bermani E.
+82.
+   - **Title:** Reliability and performances of finite element CAD tools for the solution of microwave problems
+   - **Venue:** 2001 31st European Microwave Conference Eumc 2001
+   - **Year:** 2001
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EUMA.2001.339159
+   - **Scopus ID:** 2-s2.0-84897550164
+   - **Authors:** Fernandes P.; Raffetto M.
+   - **Source Id:** 21100301425
+   - **Author Ids:** 7102795214;6701772951
+   - **Authoraffiliationids:** 60021199;60025153
+   - **Corresponding:** Fernandes P.
+83.
+   - **Title:** Uniqueness to the solution of electro- magnetic boundary value problems in the presence of partly lossy chiral media
+   - **Venue:** Journal of Electromagnetic Waves and Applications
+   - **Year:** 2001
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1163/156939301X01020
+   - **Scopus ID:** 2-s2.0-0034953948
+   - **ISSN:** 09205071
+   - **eISSN:** 15693937
+   - **Volume:** 15
+   - **Issue:** 6
+   - **Pages:** 797-811
+   - **Authors:** Bermani E.; Caorsi Salvatore; Raffetto Mirco
+   - **Quartile:**
+     2025:
+     - Physics and Astronomy (all) (Q2, rank 122, percentile 51)
+     - Electrical and Electronic Engineering (Q2, rank 491, percentile 50)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 188, percentile 39)
+   - **Source Id:** 28139
+   - **Author Ids:** 6602981998;7102084534;6701772951
+   - **Authoraffiliationids:** 60015197-60025153;60015197;60025153
+   - **Corresponding:** Bermani E.
+84.
+   - **Title:** Characteristic conditions for spurious-free finite element approximations of electromagnetic eigenproblems
+   - **Venue:** European Congress on Computational Methods in Applied Sciences and Engineering Eccomas 2000
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-84893344032
+   - **Authors:** Caorsi Salvatore; Fernandes Paolo; Raffetto Mirco
+   - **Keywords:** Cavity resonators | Convergence of spectral approximations | Electromagnetic eigenproblems | Galerkin finite element approximations | Nedelec's edge elements | Spurious modes
+   - **Source Id:** 21100285701
+   - **Author Ids:** 7102084534;7102795214;6701772951
+   - **Authoraffiliationids:** 60015197;60021199;60025153
+   - **Corresponding:** Caorsi S.
+85.
+   - **Title:** An inverse scattering approach based on a neural network technique for the detection of dielectric cylinders buried in a lossy Half-space
+   - **Venue:** Progress in Electromagnetics Research
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 38
+   - **DOI:** 10.2528/PIER99052001
+   - **Scopus ID:** 2-s2.0-84887414460
+   - **ISSN:** 10704698
+   - **eISSN:** 15598985
+   - **Volume:** 26
+   - **Pages:** 67-87
+   - **Authors:** Bermani E.; Caorsi S.; Raffetto M.
+   - **Quartile:**
+     2025:
+     - Radiation (Q1, rank 1, percentile 99)
+     - Condensed Matter Physics (Q1, rank 32, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 88, percentile 91)
+   - **Source Id:** 5300152513
+   - **Author Ids:** 6602981998;7102084534;6701772951
+   - **Authoraffiliationids:** 60015197;60015197;60025153
+   - **Corresponding:** Bermani E.
+86.
+   - **Title:** Time domain inverse scattering by means of neural networks
+   - **Venue:** IEEE Antennas and Propagation Society AP S International Symposium Digest
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **Scopus ID:** 2-s2.0-0034547588
+   - **ISSN:** 02724693
+   - **Volume:** 3
+   - **Pages:** 1760-1763
+   - **Authors:** Bermani E.; Caorsi S.; Raffetto M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 853, percentile 14)
+   - **Source Id:** 18719
+   - **Author Ids:** 6602981998;7102084534;6701772951
+   - **Authoraffiliationids:** 60015197;60015197;60015197
+   - **Corresponding:** Bermani E.
+87.
+   - **Title:** Neural network approach to the electromagnetic identification of cylindrical targets: Preliminary results
+   - **Venue:** CSELT Technical Reports
+   - **Year:** 2000
+   - **Type:** Trade Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-0034240480
+   - **ISSN:** 03932648
+   - **Volume:** 28
+   - **Issue:** 4
+   - **Pages:** 515-521
+   - **Authors:** Bermani E.; Caorsi S.; Raffetto M.; Roccato D.
+   - **Source Id:** 18207
+   - **Author Ids:** 6602981998;7102084534;6701772951;6506047961
+   - **Authoraffiliationids:** 60015197;60015197;60025153;60009628
+   - **Corresponding:** Bermani E.
+88.
+   - **Title:** Electromagnetic scattering by a multilayer elliptic cylinder under line-source illumination
+   - **Venue:** Microwave and Optical Technology Letters
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1002/(SICI)1098-2760(20000305)24:5<322::AID-MOP11>3.0.CO;2-P
+   - **Scopus ID:** 2-s2.0-0033886892
+   - **ISSN:** 08952477
+   - **Volume:** 24
+   - **Issue:** 5
+   - **Pages:** 322-329
+   - **Authors:** Caorsi Salvatore; Pastorino Matteo; Raffetto Mirco
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 542, percentile 45)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 199, percentile 35)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 156, percentile 34)
+     - Condensed Matter Physics (Q3, rank 296, percentile 33)
+   - **Source Id:** 12250
+   - **Author Ids:** 7102084534;7004880389;6701772951
+   - **Authoraffiliationids:** 60015197;60025153;60025153
+   - **Corresponding:** Caorsi S.
+89.
+   - **Title:** Geometric and dielectric characterization of buried cylinders by using simple time-domain electromagnetic data and neural networks
+   - **Venue:** Microwave and Optical Technology Letters
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1002/(SICI)1098-2760(20000105)24:1<24::AID-MOP9>3.0.CO;2-U
+   - **Scopus ID:** 2-s2.0-0033910203
+   - **ISSN:** 08952477
+   - **Volume:** 24
+   - **Issue:** 1
+   - **Pages:** 24-31
+   - **Authors:** Bermani E.; Caorsi S.; Raffetto M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 542, percentile 45)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 199, percentile 35)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 156, percentile 34)
+     - Condensed Matter Physics (Q3, rank 296, percentile 33)
+   - **Source Id:** 12250
+   - **Author Ids:** 6602981998;7102084534;6701772951
+   - **Authoraffiliationids:** 60015197;60015197;60025153
+   - **Corresponding:** Bermani E.
+90.
+   - **Title:** Threshold electromagnetic classification approach for cylinders embedded in a lossy medium by using a neural network technique
+   - **Venue:** Microwave and Optical Technology Letters
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1002/(SICI)1098-2760(20000105)24:1<13::AID-MOP5>3.0.CO;2-9
+   - **Scopus ID:** 2-s2.0-0033909821
+   - **ISSN:** 08952477
+   - **Volume:** 24
+   - **Issue:** 1
+   - **Pages:** 13-16
+   - **Authors:** Bermani E.; Caorsi S.; Raffetto M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 542, percentile 45)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 199, percentile 35)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 156, percentile 34)
+     - Condensed Matter Physics (Q3, rank 296, percentile 33)
+   - **Source Id:** 12250
+   - **Author Ids:** 6602981998;7102084534;6701772951
+   - **Authoraffiliationids:** 60015197;60015197;60025153
+   - **Corresponding:** Bermani E.
+91.
+   - **Title:** A Software for the Evaluation of Field Penetration inside Shielding Box with Apertures
+   - **Venue:** 15th International Wroclaw Symposium and Exhibition Electromagnetic Compatibility 2000 EMC 2000
+   - **Year:** 2000
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/EMC.2000.10842149
+   - **Scopus ID:** 2-s2.0-85218168820
+   - **Pages:** 309-313
+   - **Authors:** Azaro R.; Caorsi S.; Donelli M.; Gragnani G. L.; Raffetto M.
+   - **Source Id:** 21101275416
+   - **Author Ids:** 8662846400;7102084534;7006135869;6701681576;6701772951
+   - **Authoraffiliationids:** 60025153;60015197;60025153;60025153;60025153
+   - **Corresponding:** Azaro R.
+92.
+   - **Title:** Inverse scattering approach based on a neural network technique for the detection of dielectric cylinders buried in a lossy half-space
+   - **Venue:** Journal of Electromagnetic Waves and Applications
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1163/156939300X00815
+   - **Scopus ID:** 2-s2.0-84893483153
+   - **ISSN:** 09205071
+   - **Volume:** 14
+   - **Issue:** 3
+   - **Pages:** 323-324
+   - **Authors:** Bermani E.; Caorsi S.; Raffetto M.
+   - **Quartile:**
+     2025:
+     - Physics and Astronomy (all) (Q2, rank 122, percentile 51)
+     - Electrical and Electronic Engineering (Q2, rank 491, percentile 50)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 188, percentile 39)
+   - **Source Id:** 28139
+   - **Author Ids:** 6602981998;7102084534;6701772951
+   - **Authoraffiliationids:** 60015197;60015197;60025153
+   - **Corresponding:** Bermani E.
+93.
+   - **Title:** Analytical SAR computation in a multilayer elliptic cylinder: The near-field line-current radiation case
+   - **Venue:** Bioelectromagnetics
+   - **Year:** 2000
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1002/1521-186X(200009)21:6<473::AID-BEM7>3.0.CO;2-E
+   - **Scopus ID:** 2-s2.0-0034264612
+   - **ISSN:** 01978462
+   - **Volume:** 21
+   - **Issue:** 6
+   - **Pages:** 473-479
+   - **Authors:** Caorsi Salvatore; Pastorino Matteo; Raffetto Mirco
+   - **Keywords:** Analytical solution | Electromagnetic dosimetry | Line source | Multilayer elliptic model | Specific absorption rate (SAR)
+   - **Quartile:**
+     2025:
+     - Radiology, Nuclear Medicine and Imaging (Q3, rank 199, percentile 43)
+     - Biophysics (Q3, rank 105, percentile 33)
+     - Physiology (Q4, rank 155, percentile 19)
+   - **Source Id:** 14839
+   - **Author Ids:** 7102084534;7004880389;6701772951
+   - **Authoraffiliationids:** 101769091-60015197-60025153;101769091-60025153;60025153
+   - **Corresponding:** Caorsi S.
+94.
+   - **Title:** Electromagnetic scattering by a conducting strip with a multilayer elliptic dielectric coating
+   - **Venue:** IEEE Transactions on Electromagnetic Compatibility
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 10
+   - **DOI:** 10.1109/15.809808
+   - **Scopus ID:** 2-s2.0-0033220952
+   - **ISSN:** 00189375
+   - **Volume:** 41
+   - **Issue:** 4 Part 1
+   - **Pages:** 335-343
+   - **Authors:** Caorsi Salvatore; Pastorino Matteo; Raffetto Mirco
+   - **Keywords:** Coating materials | Conducting strip | Electromagnetic scattering
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 303, percentile 69)
+     - Condensed Matter Physics (Q2, rank 151, percentile 66)
+     - Atomic and Molecular Physics, and Optics (Q2, rank 83, percentile 65)
+   - **Source Id:** 26051
+   - **Author Ids:** 7102084534;7004880389;6701772951
+   - **Authoraffiliationids:** 60015197;60000251-60025153;60025153
+   - **Corresponding:** Caorsi S.
+95.
+   - **Title:** EM field prediction inside lossy multilayer elliptic cylinders for biological-body modeling and numerical-procedure testing
+   - **Venue:** IEEE Transactions on Biomedical Engineering
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1109/10.797990
+   - **Scopus ID:** 2-s2.0-0032752754
+   - **ISSN:** 00189294
+   - **Volume:** 46
+   - **Issue:** 11
+   - **Pages:** 1304-1309
+   - **Authors:** Caorsi Salvatore; Pastorino Matteo; Raffetto Mirco
+   - **Keywords:** Analytical solution | Biological-body modeling | Electromagnetic scattering | Multilayer elliptic model
+   - **Quartile:**
+     2025:
+     - Biomedical Engineering (Q1, rank 68, percentile 79)
+   - **Source Id:** 16318
+   - **Author Ids:** 7102084534;7004880389;6701772951
+   - **Authoraffiliationids:** 60015197;60025153;60015197
+   - **Corresponding:** Caorsi S.
+96.
+   - **Title:** Causal perfectly matched anisotropic absorbers for the numerical solution of unbounded problems in the time domain
+   - **Venue:** Microwave and Optical Technology Letters
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1002/(SICI)1098-2760(19990520)21:4<295::AID-MOP19>3.0.CO;2-1
+   - **Scopus ID:** 2-s2.0-0032686528
+   - **ISSN:** 08952477
+   - **Volume:** 21
+   - **Issue:** 4
+   - **Pages:** 295-299
+   - **Authors:** Bermani E.; Caorsi S.; Raffetto M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 542, percentile 45)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 199, percentile 35)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 156, percentile 34)
+     - Condensed Matter Physics (Q3, rank 296, percentile 33)
+   - **Source Id:** 12250
+   - **Author Ids:** 6602981998;7102084534;6701772951
+   - **Authoraffiliationids:** 60015197;60015197;60025153
+   - **Corresponding:** Bermani E.
+97.
+   - **Title:** Analytic SAR computation in a multilayer elliptic cylinder for bioelectromagnetic applications
+   - **Venue:** Bioelectromagnetics
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1002/(SICI)1521-186X(199909)20:6<365::AID-BEM5>3.0.CO;2-G
+   - **Scopus ID:** 2-s2.0-0033194923
+   - **ISSN:** 01978462
+   - **Volume:** 20
+   - **Issue:** 6
+   - **Pages:** 365-371
+   - **Authors:** Caorsi Salvatore; Pastorino Matteo; Raffetto Mirco
+   - **Keywords:** Analytical solution | Electromagnetic dosimetry | Multilayer elliptic model | Specific absorption rate (sar)
+   - **Quartile:**
+     2025:
+     - Radiology, Nuclear Medicine and Imaging (Q3, rank 199, percentile 43)
+     - Biophysics (Q3, rank 105, percentile 33)
+     - Physiology (Q4, rank 155, percentile 19)
+   - **Source Id:** 14839
+   - **Author Ids:** 7102084534;7004880389;6701772951
+   - **Authoraffiliationids:** 101703096-60015197-60025153;101703096-60025153;60025153
+   - **Corresponding:** Caorsi S.
+98.
+   - **Title:** Radar cross section per unit length of a lossy multilayer elliptic cylinder
+   - **Venue:** Microwave and Optical Technology Letters
+   - **Year:** 1999
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1002/(SICI)1098-2760(19990605)21:5<380::AID-MOP20>3.0.CO;2-H
+   - **Scopus ID:** 2-s2.0-0032641497
+   - **ISSN:** 08952477
+   - **Volume:** 21
+   - **Issue:** 5
+   - **Pages:** 380-384
+   - **Authors:** Caorsi Salvatore; Pastorino Matteo; Raffetto Mirco
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 542, percentile 45)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 199, percentile 35)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 156, percentile 34)
+     - Condensed Matter Physics (Q3, rank 296, percentile 33)
+   - **Source Id:** 12250
+   - **Author Ids:** 7102084534;7004880389;6701772951
+   - **Authoraffiliationids:** 60015197;60025153;60025153
+   - **Corresponding:** Caorsi S.
+99.
+   - **Title:** Microwave object recognition approach based on neural networks
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 1999
+   - **Type:** Conference Proceeding
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-0032630298
+   - **Volume:** 3
+   - **Pages:** 1582-1585
+   - **Authors:** Bermani E.; Caorsi S.; Raffetto M.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 6602981998;7102084534;6701772951
+   - **Authoraffiliationids:** 60015197;60015197;60015197
+   - **Corresponding:** Bermani E.
+100.
+   - **Title:** Electromagnetic scattering by weakly lossy multilayer elliptic cylinders
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 21
+   - **DOI:** 10.1109/8.736636
+   - **Scopus ID:** 2-s2.0-0032205076
+   - **ISSN:** 0018926X
+   - **Volume:** 46
+   - **Issue:** 11
+   - **Pages:** 1750-1751
+   - **Authors:** Caorsi Salvatore; Pastorino Matteo; Raffetto Mirco
+   - **Keywords:** Electromagnetic scattering | Nonhomogeneous media
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+   - **Source Id:** 17337
+   - **Author Ids:** 7102084534;7004880389;6701772951
+   - **Authoraffiliationids:** 60015197-60025153;60015197;60015197
+   - **Corresponding:** Caorsi S.
+101.
+   - **Title:** Uniqueness of the solution of electromagnetic boundary-value problems in the presence of lossy and piecewise homogeneous lossless dielectrics
+   - **Venue:** IEEE Transactions on Microwave Theory and Techniques
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1109/22.721135
+   - **Scopus ID:** 2-s2.0-0001236224
+   - **ISSN:** 00189480
+   - **Volume:** 46
+   - **Issue:** 10 Part 1
+   - **Pages:** 1353-1359
+   - **Authors:** Caorsi Salvatore; Raffetto Mirco
+   - **Keywords:** Electromagnetic theory
+   - **Quartile:**
+     2025:
+     - Radiation (Q1, rank 3, percentile 96)
+     - Condensed Matter Physics (Q1, rank 48, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 120, percentile 88)
+   - **Source Id:** 17366
+   - **Author Ids:** 7102084534;6701772951
+   - **Authoraffiliationids:** 60015197-60025153;60015197-60025153
+   - **Corresponding:** Caorsi S.
+102.
+   - **Title:** Testing Numerical Codes In Emc: A Procedure For Field-Data Computation For Pec Strips And Elliptic Cylinders With Multilayer Coatings
+   - **Venue:** 14th International Wroclaw Symposium and Exhibition on Electromagnetic Compatibility 1998 EMC 1998
+   - **Year:** 1998
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EMC.1998.10834724
+   - **Scopus ID:** 2-s2.0-85217620187
+   - **Pages:** 255-259
+   - **Authors:** Azaro Renzo; Caorsi Salvatore; Pastorino Matteo; Raffetto Mirco
+   - **Source Id:** 21101274512
+   - **Author Ids:** 8662846400;7102084534;7004880389;6701772951
+   - **Authoraffiliationids:** 60025153;60015197;60025153;60025153
+   - **Corresponding:** Azaro R.
+103.
+   - **Title:** Perfectly matched layers for the truncation of finite-element meshes in layered half-space geometries and applications to electromagnetic scattering by buried objects
+   - **Venue:** Microwave and Optical Technology Letters
+   - **Year:** 1998
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 18
+   - **DOI:** 10.1002/(SICI)1098-2760(19981220)19:6<427::AID-MOP13>3.0.CO;2-U
+   - **Scopus ID:** 2-s2.0-0032293986
+   - **ISSN:** 08952477
+   - **Volume:** 19
+   - **Issue:** 6
+   - **Pages:** 427-434
+   - **Authors:** Caorsi S.; Raffetto M.
+   - **Keywords:** Electromagnetic scattering by buried objects | Finite-element method | Perfectly matched layer | Truncation of meshes in layered half-space geometries
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 542, percentile 45)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 199, percentile 35)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 156, percentile 34)
+     - Condensed Matter Physics (Q3, rank 296, percentile 33)
+   - **Source Id:** 12250
+   - **Author Ids:** 7102084534;6701772951
+   - **Authoraffiliationids:** 60015197;60025153
+   - **Corresponding:** Caorsi S.
+104.
+   - **Title:** Analyticity of electromagnetic fields in regions characterized by analytic dielectric parameters and analytic sources
+   - **Venue:** IEEE Transactions on Microwave Theory and Techniques
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/22.641760
+   - **Scopus ID:** 2-s2.0-0031250796
+   - **ISSN:** 00189480
+   - **Volume:** 45
+   - **Issue:** 10 Part 1
+   - **Pages:** 1805-1807
+   - **Authors:** Caorsi S.; Raffetto M.
+   - **Keywords:** Electromagnetic theory | Theoretical electromagnetics
+   - **Quartile:**
+     2025:
+     - Radiation (Q1, rank 3, percentile 96)
+     - Condensed Matter Physics (Q1, rank 48, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 120, percentile 88)
+   - **Source Id:** 17366
+   - **Author Ids:** 7102084534;6701772951
+   - **Authoraffiliationids:** 60015197-60025153;60025153
+   - **Corresponding:** Caorsi S.
+105.
+   - **Title:** Do Covariant Projection Elements Really Satisfy the Inclusion Condition?
+   - **Venue:** IEEE Transactions on Microwave Theory and Techniques
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/22.622936
+   - **Scopus ID:** 2-s2.0-0031232907
+   - **ISSN:** 00189480
+   - **Volume:** 45
+   - **Issue:** 9
+   - **Pages:** 1643-1644
+   - **Authors:** Caorsi S.; Fernandas P.; Raffetto M.
+   - **Quartile:**
+     2025:
+     - Radiation (Q1, rank 3, percentile 96)
+     - Condensed Matter Physics (Q1, rank 48, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 120, percentile 88)
+   - **Source Id:** 17366
+   - **Author Ids:** 7102084534;54679514600;6701772951
+   - **Authoraffiliationids:** 60015197;60021199;60025153
+   - **Corresponding:** Caorsi S.
+106.
+   - **Title:** Electromagnetic scattering by a multilayer elliptic cylinder under transverse-magnetic illumination:series solution in terms of mathieu functions
+   - **Venue:** IEEE Transactions on Antennas and Propagation
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 72
+   - **DOI:** 10.1109/8.585739
+   - **Scopus ID:** 2-s2.0-0031162258
+   - **ISSN:** 0018926X
+   - **Volume:** 45
+   - **Issue:** 6
+   - **Pages:** 926-935
+   - **Authors:** Caorsi Salvatore; Pastorino Matteo; Raffetto Mirco
+   - **Keywords:** Electromagnetic scattering
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 74, percentile 92)
+   - **Source Id:** 17337
+   - **Author Ids:** 7102084534;7004880389;6701772951
+   - **Authoraffiliationids:** 60015197-60025153;60015197;60015197
+   - **Corresponding:** Caorsi S.
+107.
+   - **Title:** Scattering by a conducting elliptic cylinder with a multilayer dielectric coating
+   - **Venue:** Radio Science
+   - **Year:** 1997
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1029/97RS02205
+   - **Scopus ID:** 2-s2.0-0031272871
+   - **ISSN:** 00486604
+   - **Volume:** 32
+   - **Issue:** 6
+   - **Pages:** 2155-2166
+   - **Authors:** Caorsi Salvatore; Pastorino Matteo; Raffetto Mirco
+   - **Quartile:**
+     2025:
+     - Earth and Planetary Sciences (all) (Q2, rank 89, percentile 55)
+     - Electrical and Electronic Engineering (Q2, rank 483, percentile 51)
+     - Condensed Matter Physics (Q3, rank 278, percentile 37)
+   - **Source Id:** 28580
+   - **Author Ids:** 7102084534;7004880389;6701772951
+   - **Authoraffiliationids:** 60015197;60025153;60025153
+   - **Corresponding:** Caorsi S.
+108.
+   - **Title:** Electromagnetic boundary value problem in the presence of a partly lossy dielectric: Considerations about the uniqueness of the solution
+   - **Venue:** IEEE Transactions on Microwave Theory and Techniques
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.1109/22.536040
+   - **Scopus ID:** 2-s2.0-0030215920
+   - **ISSN:** 00189480
+   - **Volume:** 44
+   - **Issue:** 8
+   - **Pages:** 1511-1513
+   - **Authors:** Caorsi S.; Raffetto M.
+   - **Quartile:**
+     2025:
+     - Radiation (Q1, rank 3, percentile 96)
+     - Condensed Matter Physics (Q1, rank 48, percentile 89)
+     - Electrical and Electronic Engineering (Q1, rank 120, percentile 88)
+   - **Source Id:** 17366
+   - **Author Ids:** 7102084534;6701772951
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Caorsi S.
+109.
+   - **Title:** THE MOMENT/FINITE ELEMENT METHOD: POSSIBLE APPLICATIONS TO THE SOLUTION OF ELECTROMAGNETIC COMPATIBILITY PRO]fJLEMS
+   - **Venue:** EMC 1996 Roma International Symposium on Electromagnetic Compatibility
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EMC.1996.10783877
+   - **Scopus ID:** 2-s2.0-85214885846
+   - **Pages:** 384-389
+   - **Authors:** Caorsi S.; Massa A.; Raffetto M.
+   - **Source Id:** 21101269356
+   - **Author Ids:** 7102084534;7005085831;6701772951
+   - **Authoraffiliationids:** 60015197;60025153;60025153
+   - **Corresponding:** Caorsi S.
+110.
+   - **Title:** Human Exposure To Electromagnetic Fields Produced By Personal Mobile Telephones
+   - **Venue:** EMC 1996 Roma International Symposium on Electromagnetic Compatibility
+   - **Year:** 1996
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/EMC.1996.10783981
+   - **Scopus ID:** 2-s2.0-85153555523
+   - **Pages:** 188-193
+   - **Authors:** Caorsi S.; Gragnani G. L.; Massa A.; Pastorino M.; Raffetto M.
+   - **Source Id:** 21101269356
+   - **Author Ids:** 7102084534;6701681576;7005085831;7004880389;6701772951
+   - **Authoraffiliationids:** 60015197;60025153;60025153;60025153;60025153
+   - **Corresponding:** Caorsi S.
+111.
+   - **Title:** Towards a good characterization of spectrally correct finite element methods in electromagnetics
+   - **Venue:** COMPEL the International Journal for Computation and Mathematics in Electrical and Electronic Engineering
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1108/03321649610154195
+   - **Scopus ID:** 2-s2.0-0030418504
+   - **ISSN:** 03321649
+   - **Volume:** 15
+   - **Issue:** 4
+   - **Pages:** 21-34
+   - **Authors:** Caorsi S.; Fernandes P.; Raffetto M.
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 262, percentile 61)
+     - Computational Theory and Mathematics (Q2, rank 93, percentile 54)
+     - Electrical and Electronic Engineering (Q2, rank 486, percentile 51)
+     - Computer Science Applications (Q3, rank 541, percentile 44)
+   - **Source Id:** 28454
+   - **Author Ids:** 7102084534;7102795214;6701772951
+   - **Authoraffiliationids:** 60015197;60021199;60025153
+   - **Corresponding:** Caorsi S.
+112.
+   - **Title:** Critical frequencies for solving electromagnetic scattering problems by the moment/finite-element method
+   - **Venue:** Microwave and Optical Technology Letters
+   - **Year:** 1996
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1002/(sici)1098-2760(199603)11:4<222::aid-mop16>3.0.co;2-d
+   - **Scopus ID:** 2-s2.0-0030110087
+   - **ISSN:** 08952477
+   - **Volume:** 11
+   - **Issue:** 4
+   - **Pages:** 222-228
+   - **Authors:** Caorsi S.; Massa A.; Raffetto M.
+   - **Keywords:** Electromagnetic scattering | Moment/finite-element method | Numerical methods | Resonances
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 542, percentile 45)
+     - Electronic, Optical and Magnetic Materials (Q3, rank 199, percentile 35)
+     - Atomic and Molecular Physics, and Optics (Q3, rank 156, percentile 34)
+     - Condensed Matter Physics (Q3, rank 296, percentile 33)
+   - **Source Id:** 12250
+   - **Author Ids:** 7102084534;7005085831;6701772951
+   - **Authoraffiliationids:** 60015197;60025153;60025153
+   - **Corresponding:** Caorsi S.
+113.
+   - **Title:** On the effect of the spurious modes in deterministic problems
+   - **Venue:** COMPEL the International Journal for Computation and Mathematics in Electrical and Electronic Engineering
+   - **Year:** 1994
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **Scopus ID:** 2-s2.0-0028430277
+   - **ISSN:** 03321649
+   - **Volume:** 13
+   - **Issue:** Suppl A
+   - **Pages:** 317-322
+   - **Authors:** Caorsi S.; Fernandes P.; Raffetto M.
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 262, percentile 61)
+     - Computational Theory and Mathematics (Q2, rank 93, percentile 54)
+     - Electrical and Electronic Engineering (Q2, rank 486, percentile 51)
+     - Computer Science Applications (Q3, rank 541, percentile 44)
+   - **Source Id:** 28454
+   - **Author Ids:** 7102084534;7102795214;6701772951
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Caorsi S.
+114.
+   - **Title:** Hybrid finite-element numerical approach to the solution of electromagnetic scattering problem
+   - **Venue:** COMPEL the International Journal for Computation and Mathematics in Electrical and Electronic Engineering
+   - **Year:** 1994
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-0028427755
+   - **ISSN:** 03321649
+   - **Volume:** 13
+   - **Issue:** Suppl A
+   - **Pages:** 371-376
+   - **Authors:** Caorsi S.; Massa A.; Raffetto M.
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q2, rank 262, percentile 61)
+     - Computational Theory and Mathematics (Q2, rank 93, percentile 54)
+     - Electrical and Electronic Engineering (Q2, rank 486, percentile 51)
+     - Computer Science Applications (Q3, rank 541, percentile 44)
+   - **Source Id:** 28454
+   - **Author Ids:** 7102084534;7005085831;6701772951
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Caorsi S.

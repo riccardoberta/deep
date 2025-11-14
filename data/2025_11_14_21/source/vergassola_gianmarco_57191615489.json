@@ -1,0 +1,3136 @@
+{
+  "surname": "Vergassola",
+  "name": "Gianmarco",
+  "unit": "NAV",
+  "email": "gianmarco.vergassola@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/VkdHX1pt",
+  "website": "",
+  "unige_id": "340404",
+  "scopus_id": "57191615489",
+  "role": "Ricercatore",
+  "grade": "Ricercatore t.d. art. 24 c. 3 lett. A Legge 240/10 (t.pieno)",
+  "ssd": "IIND-01/B (Costruzioni e impianti navali)",
+  "location": [
+    {
+      "building": "Campus La Spezia - laboratori Arsenale Militare Marittimi (ED_191230102)",
+      "floor": "piano Terra",
+      "room": "US_191230102.T.026"
+    }
+  ],
+  "career": [
+    {
+      "role": "DR",
+      "from": "2014-11-01 00:00:00.0000000",
+      "to": "2018-10-31 00:00:00.0000000"
+    },
+    {
+      "role": "AR",
+      "from": "2019-10-01 00:00:00.0000000",
+      "to": "2022-05-31 00:00:00.0000000"
+    },
+    {
+      "role": "CB",
+      "from": "2020-09-21 00:00:00.0000000",
+      "to": "2021-09-20 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2022-06-01 00:00:00.0000000",
+      "to": "2027-05-31 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {
+    "2025": [
+      {
+        "course": "COSTRUZIONI NAVALI A (114383)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "COSTRUZIONI NAVALI A (114383)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "SHIP STRUCTURES AND STRENGTH (101128)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2024": [
+      {
+        "course": "COSTRUZIONI NAVALI A (67396)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "COSTRUZIONI NAVALI A (67396)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "SHIP STRUCTURES AND STRENGTH (101128)",
+        "degree": "L-28 - MARITIME SCIENCE AND TECHNOLOGY"
+      }
+    ],
+    "2023": [
+      {
+        "course": "COSTRUZIONI NAVALI A (67396)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      },
+      {
+        "course": "COSTRUZIONI NAVALI A (67396)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      }
+    ],
+    "2022": [
+      {
+        "course": "COSTRUZIONI NAVALI (106958)",
+        "degree": "L-4 - DESIGN DEL PRODOTTO E DELLA NAUTICA"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 9,
+      "total_products": 45,
+      "journals": 29,
+      "conferences": 15,
+      "citations": 238,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 9,
+      "total_products": 45,
+      "journals": 29,
+      "conferences": 15,
+      "citations": 238,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 9,
+      "total_products": 45,
+      "journals": 29,
+      "conferences": 15,
+      "citations": 238,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 3,
+      "total_products": 21,
+      "journals": 11,
+      "conferences": 9,
+      "citations": 39,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-85218884211",
+      "title": "Experimental and numerical assessment of ultimate strength of a transversally loaded thin-walled deck structure",
+      "doi": "10.1016/j.marstruc.2025.103793",
+      "venue": "Marine Structures",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "103",
+      "issue_id": null,
+      "pages": null,
+      "issn": "09518339",
+      "eIssn": null,
+      "source_id": "21052",
+      "authors": "Barsotti Beatrice; Battini Carlo; Gaiotti Marco; Rizzo Cesare Mario; Vergassola Gianmarco",
+      "author_ids": "57219353053;56543518100;55200599100;15072981100;57191615489",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Barsotti B.",
+      "keywords": "Buckling | Collapse | Large-scale test | Nonlinear analysis | Stiffened panel | Ultimate strength",
+      "abstract": "Many studies have been conducted to determine the ultimate strength of axially loaded ship structures at different levels of complexity, considering grillages, stiffened panels, transverse ring frames as well as complete hull blocks, aimed at assessing progressive collapse analysis of the whole hull girder, both analytically and numerically. However, little research has been conducted on the effects that transversal loads can have on relatively thin shell plating, particularly sensitive to buckling phenomena even for rather low loading thresholds. Moreover, the more and more frequent use of higher and higher strength steels makes ship structures slender and, consequently, likely to be even more sensitive to buckling phenomena. In the framework of a research project funded by Fincantieri R&D Department, a full-scale experimental test is performed on a structure simulating a deck portion characterized by a relatively thin plating, such as to induce an early local elastic buckling with a wide post-buckling range, before the ultimate load is reached. Nonlinear finite element analysis is carried out to design the experiment, considering both the nominal and the actual geometry of the structure as obtained by laser scanning the plating and by 3D reconstruction of the stiffeners. The effect of initial plating imperfection and of welding residual stresses on the numerical models has been considered as well, verifying their impact both, on the load end-shortening curve and on the ultimate strength of the panel.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 94,
+              "rank": 7,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 90,
+              "rank": 69,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanics of Materials",
+              "percentile": 88,
+              "rank": 47,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 82,
+              "rank": 80,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105016215567",
+      "title": "An Overview of the Shipbuilding Labour Market: The LeaderSHIP EU Project",
+      "doi": "10.3233/PMST250079",
+      "venue": "Progress in Marine Science and Technology",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "10",
+      "issue_id": null,
+      "pages": "655-662",
+      "issn": "25430955",
+      "eIssn": "25430963",
+      "source_id": "21101107127",
+      "authors": "Pais T.; Vergassola G.; Gaiotti M.; Rizzo C. M.; Valtanen J.; Kivela S.; Lenarduzzi W.; Hauninen M.; Laot A. H.; Gilles P. P.; El Faziki M.; Nechita M.; Popescu G.; Thormodsæter J.; Severeide K.; Mendibil A.; Miguelez F.; Campos J. A.; Sanchez-Beaskoetxea J.; Boullosa-Falces D.; Rossi A.",
+      "author_ids": "55611778200;57191615489;55200599100;15072981100;60102554300;60102406600;59368573400;60102785200;60102708800;60102481300;60102481400;57204506264;57220533294;60102481500;60102628000;60102481600;60102863100;60102628100;56488011400;57195382082;60102554400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60098990;60098990;133181381;133181696;133181434;60084005;133181432;60008717;60008717;133181400;133181409;133181602;101929443;60006565;60027856;60027856;133181613",
+      "corresponding": "Pais T.",
+      "keywords": "Shipbuilding Labour Market | Skills Gap Analysis | Technological Innovation",
+      "abstract": "In recent years, the maritime technology and shipbuilding industry, including yachts and pleasure crafts as well as marine structures, have faced significant challenges, such as technological advancements, environmental sustainability, and global competitiveness. This article presents a comprehensive investigation conducted within the European project LeaderSHIP, focusing on the current state of training programs for workers in the sector and specifically identifying emerging and urgent skills necessary for future success. Using a mixed-methods approach, data were collected through surveys distributed to industry professionals, educational institution representatives, and companies. The results highlight a disparity between the skills demanded by employers and those provided by training programs. Notably, the investigation reveals critical gaps in essential areas such as sustainable design, technological innovation, and resource management, underscoring the need for immediate action. The analysis emphasizes the importance of continuous updating and a closer alignment between academia and industry. It suggests that collaboration between educational institutions and businesses could significantly enhance training quality. Implementing practical learning programs and internships, along with creating flexible curricula that can adapt to the sector's dynamic needs, is proposed as a vital strategy to address these gaps. Finally, the article discusses future perspectives for training in maritime technology, stressing the necessity to invest in advanced skills and foster a culture of innovation. This study provides valuable insights for policymakers, educators, and entrepreneurs, highlighting the critical need for an integrated approach to effectively tackle the challenges posed by emerging and urgent skills in the shipbuilding industry.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 22,
+              "rank": 200,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 15,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 13,
+              "rank": 640,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105016143492",
+      "title": "Comparison of Analytical and Experimental Natural Frequencies of a Composite Beam",
+      "doi": "10.3233/PMST250004",
+      "venue": "Progress in Marine Science and Technology",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": "10",
+      "issue_id": null,
+      "pages": "12-20",
+      "issn": "25430955",
+      "eIssn": "25430963",
+      "source_id": "21101107127",
+      "authors": "Angelici Giuseppe; Pais Tatiana; Vergassola Gianmarco; Rizzo Cesare Mario",
+      "author_ids": "60102689300;55611778200;57191615489;15072981100",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Angelici G.",
+      "keywords": "classical laminate theory | composite materials | Experimental Modal Analysis | material characterization | yacht",
+      "abstract": "When it comes to composite materials, a fundamental difference arises from the isotropic materials, contrary to the latter case, the stratified nature of composites inevitably generates anisotropy in the structural behavior of the laminates. Instead of two independent variables as for steel or aluminum, glass-reinforced plastic (GRP) requires at least five independent variables, that are calculated upon micromechanics assumptions. This article evaluates the accuracy of a method based on the Classical Laminate Theory to calculate the equivalent laminate properties in computing the natural frequencies of structures in GRP yachts. Natural frequencies are evaluated beforehand with the results of the beam theory, subsequently, Experimental Modal Analysis (EMA) is conducted to validate the analytical results, being a benchmark for comparison. The study aims to assess the validity of a laminate equivalent mechanical properties method when used to determine the natural frequencies, reducing the time needed in the preprocessing phase of most common FEM software.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 22,
+              "rank": 200,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 15,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 13,
+              "rank": 640,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85217922661",
+      "title": "Sustainable yacht refits: Structural solutions in methanol-powered conversion",
+      "doi": "10.1016/j.oceaneng.2025.120618",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "323",
+      "issue_id": null,
+      "pages": null,
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Basciu Federico; Casali Giorgio; Maloberti Luca; Pais Tatiana; Vergassola Gianmarco; Zaccone Raphael",
+      "author_ids": "59559407200;59559202200;57894265000;55611778200;57191615489;56717793100",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Basciu F.",
+      "keywords": "Carbon emission reduction | Corrugated plate | Finite Element Model | Methanol | Yacht",
+      "abstract": "In the pursuit of sustainable solutions to reduce carbon emissions, the maritime industry is increasingly focusing on transitioning from fossil fuels to alternative fuels. Methanol offers significant environmental benefits, including Well-to-Wake greenhouse gas emission reductions of 95% with synthetic methanol and 89% with green methanol. Gray methanol can increase emissions by 20% compared to marine diesel oil. Methanol reduces sulfur oxides by 99%, nitrogen oxides by 60%, and particulate matter by 95%. However, its lower energy density requires 75% larger storage volumes to maintain comparable ranges. This study explores retrofitting a 60-meter yacht for methanol propulsion, addressing structural, spatial, and safety challenges associated with converting existing vessels into more environmentally sustainable ships. Key innovations include compact cofferdams, reduced from 800mm to 100mm, and corrugated bulkheads, improving tank efficiency from 0.32 to 0.83 while preserving safety. A Finite Element Model validated the structural integrity of these solutions, confirming their ability to withstand operational stresses while meeting stringent safety standards. Methanol propulsion provides a 23% range reduction compared to diesel, a trade-off balanced by its environmental advantages. This work highlights the interplay between structural modifications, onboard capacity enhancements, and alternative fuels in maritime decarbonization, contributing to more sustainable and responsible yacht transportation.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105003394044",
+      "title": "The role of structural and insulating material in the structure-borne noise propagation of superyachts",
+      "doi": "10.1080/15397734.2024.2424972",
+      "venue": "Mechanics Based Design of Structures and Machines",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "53",
+      "issue_id": "5",
+      "pages": "3349-3368",
+      "issn": "15397734",
+      "eIssn": "15397742",
+      "source_id": "21092",
+      "authors": "Silvestri Paolo; Pais Tatiana; Vergassola Gianmarco",
+      "author_ids": "6603616075;55611778200;57191615489",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Silvestri P.",
+      "keywords": "damping | insertion loss | Noise | vibration | yacht",
+      "abstract": "The insulation and noise and vibration damping characteristics of complex systems used by humans, such as automobiles, airplanes and ships are becoming increasingly important from the early design stages to ensure an adequate level of comfort. Especially in the naval fields, the design of insulation plans is crucial to prevent the propagation of noise and vibrations on board of megayachts. Since it is quite complex to identify and correctly model the sources due to their deterministic and random nature, during the early design stage, the focus is on insulation rather than reducing the acoustic levels of the sources themselves. In this article, a method for analyzing sea trials on a superyacht will be proposed with the aim of analyzing how much the insulation materials can limit the levels of vibrational energy on board during the path between sources and receivers. A new a descriptor based on harmonic transmission energy through the structure is proposed for path insertion loss experimental identification. In particular, by using spectral analyses and synchronous averaging of sound levels in various areas of the superyacht, it will be possible to study the vibroacoustic insulation of structural materials and their damping coefficient.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Mathematics (all)",
+              "percentile": 97,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Aerospace Engineering",
+              "percentile": 89,
+              "rank": 18,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 86,
+              "rank": 16,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 85,
+              "rank": 60,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 85,
+              "rank": 106,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Condensed Matter Physics",
+              "percentile": 85,
+              "rank": 66,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Automotive Engineering",
+              "percentile": 83,
+              "rank": 23,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanics of Materials",
+              "percentile": 82,
+              "rank": 74,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85199674708",
+      "title": "On the experimental full scale vibrational response analysis of a large pleasure yacht",
+      "doi": "10.1016/j.apor.2024.104141",
+      "venue": "Applied Ocean Research",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "150",
+      "issue_id": null,
+      "pages": null,
+      "issn": "01411187",
+      "eIssn": null,
+      "source_id": "26776",
+      "authors": "Silvestri Paolo; Pais Tatiana; Vergassola Gianmarco",
+      "author_ids": "6603616075;55611778200;57191615489",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Silvestri P.",
+      "keywords": "Experimental full scale vibration analysis | Spectral kurtosis | Vibration | Yacht",
+      "abstract": "This paper presents an experimental investigation carried out on a large pleasure yacht during a sea trial using vibration signal processing methods to characterize its dynamic operational behaviour and to identify contributions of the main sources acting on the system including the onset of the propeller cavitation phenomenon. Synchronous averages were computed to isolate vibration components associated with a specific source acting on the system. Their use jointly with variance computation allowed the detection of the rise of cavitation. Spectral Kurtosis analysis suggested optimal-bandwidth of the filter for system response demodulation and so better identify the rise of high frequency energy of bursting contents induced from cavitation strictly linked to propeller rotation. Cyclic modulation spectrum was also adopted, which allows to extract the modulation features of cyclostationary signals, shows the rise of an interaction between high frequency contents and blade passage phenomenon approaching cavitating condition. The results seem to provide an interesting solution based on the vessel vibrational response to define source contribution to the targets for a better identification of the dynamic system. Moreover, the proposed diagnostic methods reveal reliable tools for real time condition-based monitoring of the marine propeller to distinguish cavitation and wake energy contribution using vibrational response measured on the hull instead of hydrophone arrays.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 87,
+              "rank": 15,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 93,
+              "rank": 8,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85190502162",
+      "title": "A rational approach for the scantling design of GRP pleasure crafts",
+      "doi": "10.1016/j.oceaneng.2024.117866",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "304",
+      "issue_id": null,
+      "pages": null,
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Gaiotti M.; Aguiari M.; Vergassola G.; Rizzo C. M.",
+      "author_ids": "55200599100;57212109023;57191615489;15072981100",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Gaiotti M.",
+      "keywords": "GRP vessels | Scantling design | Weight reduction",
+      "abstract": "In various fields of industrial engineering, including naval architecture, structural design is considered one of the most challenging steps by designers as it shall accommodate all other design aspects, likely already defined in earlier steps. Moreover, structures need to comply with specific requirements, i.e. limit states, while also performing in accordance with user's demands in terms of mission profile. In a goal-based design perspective, limit state criteria have to be defined accounting for both, structural robustness, functional and operational demands. Construction feasibility is an issue as well, further constraining the scantling design. Balancing construction needs, ship performances and structural aspects is not always an easy task. The environment in which a ship operates is indeed complex and verification of safety and robustness is usually carried out in accordance with classification societies and other rules, possibly applying direct calculations whenever applicable rules do not provide suitable solutions. At the same time, the asset needs to fulfill various attributes specified by the owner. As a matter of facts, the scantling design is mathematically a multivariate and over-constrained problem whose feasible solutions are in fact rather few. In the case of composite pleasure craft hull structures, while the number of design variables increases, feasibility constraints also largely reduce the design space. To address these challenges, designers may nowadays exploit new procedures able to reduce structural weight, though ensuring that the asset performs safely and adequately meeting client's requirements. To achieve this, designers may combine a more rational design philosophy with currently available numerical problem-solving applications to obtain a rational trade-off among all actually feasible solutions, which are relatively few. Thus, the objective of this study is to present a dependable numerical method for determining the scantling while reducing the weight of hull composite structures of pleasure crafts. This method aims to provide the most suitable, high-performing, and safe layout in the quickest and easiest possible manner. It turns out that counterintuitive, yet feasible and fit-for-purpose, structural lay-outs can be obtained.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 89,
+              "rank": 12,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 79,
+              "rank": 45,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85200758183",
+      "title": "Transformation of a light alloy patrol vessel into a composite pleasure yacht",
+      "doi": null,
+      "venue": "Proceedings of the International Offshore and Polar Engineering Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": "1",
+      "issue_id": null,
+      "pages": "3700-3709",
+      "issn": "10986189",
+      "eIssn": "15551792",
+      "source_id": "77392",
+      "authors": "Boote Dario; Vergassola Gianmarco; Hydar Venus",
+      "author_ids": "56214807300;57191615489;57944709400",
+      "authorAffiliationIds": "60025153;60025153;131546830",
+      "corresponding": "Boote D.",
+      "keywords": "composites materials | FEM analysis | ship structures",
+      "abstract": "This paper provides a detailed account of the structural redesign of a 25 meter patrol boat, initially crafted from aluminum light alloy, as part of a retrofitting initiative to convert it into a high-performance pleasure craft using composite materials. The overarching goal is to preserve the original hull shape while investigating the potential of three distinct composite materials, GRP, carbon composite and a hybrid solution. The proposed structural configurations and scantlings in the study are meticulously crafted to align with the vertical acceleration specifications stipulated by the Italian Classification Society RINA. A pivotal aspect of the optimization strategy revolves around giving due consideration to structural weight as the primary influencing factor. To determine the most suitable material for the retrofit, an initial comparative analysis is conducted, leveraging direct calculations from the Classification Society. The chosen solution undergoes a more refined optimization process through structural Finite Element analysis. This sophisticated analytical approach not only validates the initial material selection but also pinpoints specific areas within the hull's lamination stack where plies can be strategically removed.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 16,
+              "rank": 273,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 13,
+              "rank": 101,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 11,
+              "rank": 650,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 14,
+              "rank": 98,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 11,
+              "rank": 266,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 10,
+              "rank": 646,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85162694310",
+      "title": "On the structural assessment of tall ship rigs",
+      "doi": "10.1080/17445302.2023.2226506",
+      "venue": "Ships and Offshore Structures",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "19",
+      "issue_id": "8",
+      "pages": "1055-1071",
+      "issn": "17445302",
+      "eIssn": null,
+      "source_id": "19700186818",
+      "authors": "Vergassola G.; Pais T.; Boote D.; Rasori S.; Tonelli A.",
+      "author_ids": "57191615489;55611778200;56214807300;57249425000;57193317969",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;122427817",
+      "corresponding": "Vergassola G.",
+      "keywords": "Rig | sailing vessel | structural analysis | tall ships",
+      "abstract": "In this paper, the numerical approach for the structural assessment of tall ship rigs is presented. It allows investigating complex sailing vessel structural rig layouts, composed of different types of masts (armed with both square and Lateen sails), yards, stays and spreaders. For these types of vessels, Classification Societies do not provide any direct calculation approaches, but only a mere comparison between cross sections and thicknesses with reference values as a function of the mast length. The provided approach can overcome this lack and it is based on considerations and calculations of real aerodynamic forces and the experimental evaluation of the pretension load of stays and shrouds. The herein proposed approach is very practical and can be adopted as a reference for this type of vessel, also with different mast configurations.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 71,
+              "rank": 33,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 68,
+              "rank": 235,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 70,
+              "rank": 34,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 66,
+              "rank": 244,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85138176822",
+      "title": "The Evolution of Large Pleasure Vessel Towards a Green Future",
+      "doi": "10.3233/PMST220041",
+      "venue": "Progress in Marine Science and Technology",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "6",
+      "issue_id": null,
+      "pages": "331-339",
+      "issn": "25430955",
+      "eIssn": "25430963",
+      "source_id": "21101107127",
+      "authors": "Vergassola Gianmarco; Boote Dario; Tocchi Federico",
+      "author_ids": "57191615489;56214807300;57193111483",
+      "authorAffiliationIds": "60025153;60025153;128581154",
+      "corresponding": "Vergassola G.",
+      "keywords": "Finite Element Analysis | Green propulsion for vessel | Superyacht design | Yacht structure",
+      "abstract": "The future of transportation means is quickly moving towards green solutions in order to reduce the emission of COx and SOx firstly and, secondly, to progressively abandon the fossil fuels. In this perspective, alternative propulsion such as fully electric engine, biofuels, hydrogen, LNG are now largely used in the automotive field and for mass transportation means. The naval field is now moving on the same trend by using hybrid and fully electric engine especially for pleasure vessels, where the relatively small engine power allows the installation of battery stacks onboard without adding unreasonable weight for only few navigation miles. In this paper, the transformation of a traditional pleasure vessel towards a new hybrid version is proposed; after a more comprehensive view of the modifications that are necessary to install hybrid engine and battery onboard, highlighting all the critical aspects of these new design, a FE numerical analysis of the basement of electric variable speed generators is presented.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 22,
+              "rank": 200,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 15,
+              "rank": 99,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 13,
+              "rank": 640,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 9,
+              "rank": 91,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Safety, Risk, Reliability and Quality",
+              "percentile": 7,
+              "rank": 178,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 4,
+              "rank": 600,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85181429917",
+      "title": "Structural re-design of a composite pleasure craft with direct and numerical calculations",
+      "doi": "10.1201/9781003230373-49",
+      "venue": "Proceedings in Marine Technology and Ocean Engineering",
+      "type": "Book Series",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "7",
+      "issue_id": null,
+      "pages": "433-439",
+      "issn": "2638647X",
+      "eIssn": "26386461",
+      "source_id": "21101270843",
+      "authors": "Boote D.; Vergassola G.; Hydar V.; Mitolo S.",
+      "author_ids": "56214807300;57191615489;57944709400;59538394900",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Boote D.",
+      "keywords": null,
+      "abstract": "In this paper, the structural re-design of a 25-meter patrol boat build in aluminium light alloy is presented due to a vessel retrofitting activity; the new vessel has to maintain the same hull shape of the original patrol boat but it will be intended to be used as a fast pleasure craft made in composite. For this research three different composite material has been studied, proposing different structural layouts and scantlings according to the vertical accelerations proposed by Classification Societies. The structural weight has been considered the main driving parameter for the scantling; a first optimisation has been carried out by comparing the use of different materials (GRP, carbon composite and an hybrid solution) with direct CS calculation. The best solution has been further optimised by a structural Finite Element calculation that highlighted possible plies removal in the lamination stack of the hull.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 37,
+              "rank": 73,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85149867470",
+      "title": "UNDERWATER RADIATED NOISE FROM A LARGE PLEASURE CRAFT",
+      "doi": null,
+      "venue": "Proceedings of the International Congress on Sound and Vibration",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "23293675",
+      "source_id": "21101140400",
+      "authors": "Dario Boote; Tomaso Gaggero; Tatiana Pais; Enrico Rizzuto; Gianmarco Vergassola; Federico Tocchi",
+      "author_ids": "58137202400;55212255700;55611778200;58137202600;57191615489;57193111483",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;129286185",
+      "corresponding": "Dario B.",
+      "keywords": "hydrophone | sound | Transmission loss | Underwater radiated noise | yacht",
+      "abstract": "The impact of underwater radiated noise (URN) by ship traffic has gained an increasing interest among scientists, ship designers and builders. It is now recognized that the underwater noise generated by human activities and in particular shipping noise can be harmful for the marine fauna and therefore urgent actions must be taken to tackle the problem. To this aim a virtuous example is represented by the Port Authority of Vancouver (CA) that, since 2017, has introduced important incentives and tax relief for those ships that prove to be particularly virtuous in terms of noise emissions radiated into the water. Up to now, most of the attention has been paid to study and characterize the noise emissions of large commercial ships due their worldwide diffusion. To this aim several measurements protocols have been issued both by international bodies (ISO, ANSI/ASA) both by the main classification societies. A lack of data is on the contrary present regarding pleasure crafts both as regards small boast and large yachts. In the present paper data coming from an experimental campaign for the measurement of the underwater radiated noise of one large yacht built by the SanLorenzo shipyards is presented. Noise has been measured for several operative conditions and speeds ranging from zero to maximum speed.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85141895750",
+      "title": "A procedure to evaluate the fatigue contribution to the collapse of ship structural components",
+      "doi": null,
+      "venue": "Proceedings of the International Offshore and Polar Engineering Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": "3117-3123",
+      "issn": "10986189",
+      "eIssn": "15551792",
+      "source_id": "77392",
+      "authors": "Boote Dario; Vergassola Gianmarco; Lindemann Thomas; Kaending Patrick",
+      "author_ids": "56214807300;57191615489;57188575378;7801590313",
+      "authorAffiliationIds": "60025153;60025153;60003615;60003615",
+      "corresponding": "Boote D.",
+      "keywords": "fatigue life | seakeeping | ship structures",
+      "abstract": "Most damages to structural components of ships are due to fatigue phenomena. Particular care should then be devoted to fatigue evaluation since the first phases of any ship project. All main Classification Societies have in their Rules simplified procedures for fatigue evaluation, in order to make all designers able to perform structure scantling complying with fatigue principles. Apart from design necessities, there is another aspect for which it becomes important to assess and evaluate fatigue phenomena; this happens when it is necessary to ascertain the causes of an occurred accident. While for design purposes the aim is to calculate the fatigue life of a structural detail based on a probabilistic approach, in the case of an occurred accident the driving philosophy is to accurately analyze the life history of the structure and to calculate, by an inverse approach, the cumulative damage of the component up to the event time. The aim of this paper is to set up a procedure to analyze and verify the causes of the failure of a ship structure component.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 16,
+              "rank": 273,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 13,
+              "rank": 101,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 11,
+              "rank": 650,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 15,
+              "rank": 85,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 11,
+              "rank": 224,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 10,
+              "rank": 564,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85140789374",
+      "title": "SEAKEEPING ANALYSIS OF A GRP FAST PATROL VESSEL",
+      "doi": "10.1115/OMAE2022-81100",
+      "venue": "Proceedings of the International Conference on Offshore Mechanics and Arctic Engineering OMAE",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "5-B",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "91440",
+      "authors": "Hydar V.; Boote D.; Vergassola G.; Păcuraru F.",
+      "author_ids": "57944709400;56214807300;57191615489;24073282100",
+      "authorAffiliationIds": "60025153;60025153;60025153;60008717",
+      "corresponding": "Hydar V.",
+      "keywords": "Seakeeping analysis | vertical acceleration",
+      "abstract": "In order to convert the “one-off” construction of light alloy fast boats to a more efficient series production, the project of a 25-meter patrol boat, originally built in aluminum, has been completely reviewed, focusing on the structure design in composite material. As one of the most important targets of the new project is to further increase the speed performance of the original unit, attention has been initially focused on the weight reduction, this goal being particularly challenging because of the change in the construction material. This gave the opportunity to review the design parameters as well, starting from the design acceleration value which has been assessed at first by considering the Classification Society Rules and secondly by a detailed seakeeping analysis carried out by using ANSYS AQWA software and validated by experimental towing tanks tests at MARIN.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85140717918",
+      "title": "A STRATEGY FOR THE REDUCTION OF STRUCTURAL WEIGHT OF COMPOSITE VESSELS",
+      "doi": "10.1115/OMAE2022-80387",
+      "venue": "Proceedings of the International Conference on Offshore Mechanics and Arctic Engineering OMAE",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "2",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "91440",
+      "authors": "Gaiotti Marco; Vergassola Gianmarco; Pais Tatiana",
+      "author_ids": "55200599100;57191615489;55611778200",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Gaiotti M.",
+      "keywords": "GRP vessels | structural scantling | weight reduction of ships",
+      "abstract": "Hull weight is a main structural concern in pleasure craft design, being in such project the maximum speed one of the most important contractual limits imposed by owner to shipyards. This is particularly true for composite structures, where the structural layouts and the beams' dimensions may vary significantly among very similar projects, resulting in very different structural weights. Moreover, for this type of vessels, the structural weight is a significant percentage of the total displacement, and, consequently, reducing the structural components leads to important total weight reduction. The present work aims to orient the preliminary design stage of composite pleasure yacht structural design towards an optimal configuration of the structural layout in terms of hull weight, within the current framework of rules provided by classification societies.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85130742475",
+      "title": "Fatigue Collapse of Ship Structural Components: a Case Study",
+      "doi": "10.15866/ireme.v16i2.21757",
+      "venue": "International Review of Mechanical Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "16",
+      "issue_id": "2",
+      "pages": "56-66",
+      "issn": "19708734",
+      "eIssn": "25325655",
+      "source_id": "19500156811",
+      "authors": "Boote D.; Vergassola G.",
+      "author_ids": "56214807300;57191615489",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Boote D.",
+      "keywords": "Fatigue Life | Seakeeping | Ship Structure",
+      "abstract": "Most damages to structural components of ships are due to fatigue phenomena. Particular care should then be devoted to fatigue evaluation since the first phases of any ship project. All main Classification Societies have in their Rules simplified procedures for fatigue evaluation, in order to make all designers able to perform structure scantling complying with fatigue principles. Apart from design necessities, there is another aspect for which it becomes important to assess and evaluate fatigue phenomena; this happens when it is necessary to ascertain the causes of occurred an accident. While for design purposes the aim is to calculate the fatigue life of a structural detail based on a probabilistic approach, in the case of an occurred accident the driving philosophy is to accurately analyse the life history of the structure and to calculate, by a deterministic approach, the cumulative damage of the component up to the event time. The aim of this paper is to set up a procedure to analyse and verify the causes of the failure of a ship structure component due to fatigue phenomena. Copyright © 2022 Praise Worthy Prize S.r.l.-All rights reserved.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Architecture",
+              "percentile": 69,
+              "rank": 64,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Agricultural and Biological Sciences (miscellaneous)",
+              "percentile": 45,
+              "rank": 134,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Automotive Engineering",
+              "percentile": 38,
+              "rank": 84,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Fluid Flow and Transfer Processes",
+              "percentile": 35,
+              "rank": 63,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 34,
+              "rank": 480,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Engineering (all)",
+              "percentile": 32,
+              "rank": 233,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Materials Science (miscellaneous)",
+              "percentile": 32,
+              "rank": 167,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Agricultural and Biological Sciences (miscellaneous)",
+              "percentile": 53,
+              "rank": 69,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Engineering (all)",
+              "percentile": 51,
+              "rank": 146,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Materials Science (miscellaneous)",
+              "percentile": 45,
+              "rank": 82,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Automotive Engineering",
+              "percentile": 45,
+              "rank": 63,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 40,
+              "rank": 378,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Fluid Flow and Transfer Processes",
+              "percentile": 39,
+              "rank": 56,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85114393487",
+      "title": "An experimental-driven methodology for the evaluation of pre-tension of stays and shrouds for large sailing vessels",
+      "doi": "10.1016/j.oceaneng.2021.109775",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "238",
+      "issue_id": null,
+      "pages": null,
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Vergassola G.; Pais T.; Boote D.; Rasori S.; Tonelli A.",
+      "author_ids": "57191615489;55611778200;56214807300;57249425000;57193317969",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;121043949",
+      "corresponding": "Vergassola G.",
+      "keywords": "Cable dynamics | Cable pre-tension | Sailing yacht rig",
+      "abstract": "Since numerical structural calculations of sailing yachts' rigs strictly depend on the dock tuning load (DTL), it is necessary to evaluate it during vessels' normal operations even when it cannot be estimated by load cells installed onboard. In this paper, a novel approach for the determination of the pre-tension load of stays and shrouds for large sailing vessels is presented and it based on the coupling of an analytical approach to the cables’ dynamics and the evaluation of natural modes by using Experimental Modal Analysis (EMA). The validation of the method herein proposed as been validated by numerical non linear Finite Element calculations.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 91,
+              "rank": 9,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 80,
+              "rank": 34,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85145496582",
+      "title": "The preliminary design of rubber mounted pillars for pleasure and passenger yachts",
+      "doi": "10.1201/9781003216582-41",
+      "venue": "Developments in Maritime Technology and Engineering Proceedings of the 5th International Conference on Maritime Technology and Engineering Martech 2020",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": "1",
+      "issue_id": null,
+      "pages": "365-372",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101129854",
+      "authors": "Vergassola G.; Boote D.; Falcinelli L.",
+      "author_ids": "57191615489;56214807300;58041396400",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Vergassola G.",
+      "keywords": null,
+      "abstract": "In this research, the Naval Section of the Department of Electrical, Electronic, Telecommunications Engineering and Naval Architecture of the University of Genoa has developed a preliminary study for the use of pillars mounted on rubber supports that should be able to accomplish their structural role and concurrently reduce the vibration transmission. In particular, in this paper, the results of static and natural mode analyses has been carried out on FE mock up models of a simplified two-deck ship structure in order to verify the impact of rubber mountings on pillars, both in the transmission of loads and vibrations.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85090993506",
+      "title": "Real scale measurements of yacht’s mast accelerations",
+      "doi": "10.1080/17445302.2020.1816747",
+      "venue": "Ships and Offshore Structures",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "16",
+      "issue_id": "10",
+      "pages": "1125-1142",
+      "issn": "17445302",
+      "eIssn": null,
+      "source_id": "19700186818",
+      "authors": "Boote D.; Vergassola G.; Delfino P.; Faloci F.",
+      "author_ids": "56214807300;57191615489;57218999786;56242699800",
+      "authorAffiliationIds": "60025153;60025153;60211436;105804482",
+      "corresponding": "Boote D.",
+      "keywords": "mast’s accelerations | real scale measurements | Sailing yachts | seakeeping numerical analysis",
+      "abstract": "Dismasting is one of the most serious hazards for sailing boats. This event is mainly due to structural defects, poor maintenance or adverse weather conditions. For what the last aspect is concerned, it may be associated to two types of loads: the direct action of the wind on sails and accelerations caused by ship motions. The aim of this paper is to focus on the accelerations induced on the mast by ship motions using seakeeping analysis validated by real scale measurements carried out on two sailing yachts during their transfer trips from South Africa to Italy. After measurements, the recorded data have been analyzed, reordered and related to the weather conditions encountered during the transfer voyage. Then seakeeping calculations have been carried out in order to compare numerical prediction with experimental values. Finally, acceleration values to be considered for preliminary mast scantling, were derived.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 71,
+              "rank": 33,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 68,
+              "rank": 235,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 66,
+              "rank": 203,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 65,
+              "rank": 34,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85074019425",
+      "title": "A simplified approach to the dynamic effective thickness of laminated glass for ships and passenger yachts",
+      "doi": "10.1007/s12008-019-00614-2",
+      "venue": "International Journal on Interactive Design and Manufacturing",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "14",
+      "issue_id": "1",
+      "pages": "123-135",
+      "issn": "19552513",
+      "eIssn": "19552505",
+      "source_id": "12000154536",
+      "authors": "Vergassola Gianmarco; Boote Dario",
+      "author_ids": "57191615489;56214807300",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Vergassola G.",
+      "keywords": "Dynamic effective thickness | Laminated glass | Ship design for comfort | Superyacht windows",
+      "abstract": "In the last years, after the economic crisis that modified the super and megayacht market and construction, the project focus of shipyards and owners has been moved from the research of higher performances and whimsical exteriors to more classic aesthetics and higher level of onboard comfort. This first aspect has led to the use of larger openings on superstructures’ sides in order to enlarge windows and bring more natural light onboard vessels. The request of more comfortable units has granted a strong effort to find new solutions in order to reduce the noise and vibration level, dealing in particular to the structural elements with higher noise radiations, such as dampers, pillars and windows. The aforementioned trends is reflected on a more intensive use of glazed windows onboard, that have led to non-trivial problem of both structural response (since the structural component are reduced in order to enlarge opening) and NVH assessment, considering that glued glass panes act as an harmonic speakers, having natural frequencies closed to ones of the main superyacht excitations. In this paper, a simplified interactive design procedure for laminated glass used onboard super and megayacht is provided; in particular, authors developed a model for the calculation of a simplified dynamic effective thickness of laminated glasses, in order to increase the reliability of the modelling of glazed panes, with the same dynamic properties, in global numerical models of vessels.",
+      "citations": 8,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Modeling and Simulation",
+              "percentile": 83,
+              "rank": 63,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 73,
+              "rank": 107,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Modeling and Simulation",
+              "percentile": 76,
+              "rank": 70,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Industrial and Manufacturing Engineering",
+              "percentile": 73,
+              "rank": 88,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85074823072",
+      "title": "The prediction of noise propagation onboard pleasure crafts in the early design stage",
+      "doi": "10.1007/s40722-019-00149-4",
+      "venue": "Journal of Ocean Engineering and Marine Energy",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "6",
+      "issue_id": "1",
+      "pages": "15-30",
+      "issn": "21986444",
+      "eIssn": "21986452",
+      "source_id": "21100812570",
+      "authors": "Vergassola Gianmarco",
+      "author_ids": "57191615489",
+      "authorAffiliationIds": "60025153",
+      "corresponding": "Vergassola G.",
+      "keywords": "Full-scale noise measurements | Laminated glass | Structure-borne noise | Superyacht structure | Superyachts",
+      "abstract": "The construction of super and megayachts has overcome the recent economic crisis by increasing the quality of the final product and by changing the main input of the entire project. The old trend of searching higher and higher speeds and performances has been overstretched by a strong focus on the comfort onboard that has to be addressed by numerical simulations since the early design stages. In this paper, the study of the noise propagation onboard a superyacht built by Italian shipyard has been assessed during the construction stages using the SEA software VaOne and the results have been lately compared with real scale measurements. The propagation of noise throughout laminated glass has been addressed with particular attention by a dynamic effective thickness equivalence.",
+      "citations": 8,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 73,
+              "rank": 31,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 70,
+              "rank": 82,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 67,
+              "rank": 108,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 52,
+              "rank": 148,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 77,
+              "rank": 22,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Water Science and Technology",
+              "percentile": 74,
+              "rank": 59,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 68,
+              "rank": 70,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 61,
+              "rank": 75,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85057311632",
+      "title": "Numerical and experimental comparison of the dynamic behaviour of superyacht structure",
+      "doi": "10.1080/17445302.2018.1546451",
+      "venue": "Ships and Offshore Structures",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "14",
+      "issue_id": "sup1",
+      "pages": "1-8",
+      "issn": "17445302",
+      "eIssn": null,
+      "source_id": "19700186818",
+      "authors": "Vergassola G.; Boote D.",
+      "author_ids": "57191615489;56214807300",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Vergassola G.",
+      "keywords": "experimental vibration analysis | FE vibration analysis | Superyacht structure",
+      "abstract": "A new trend in motoryacht design is represented by Explorer vessels; as this new typology encountered a large appreciation among potential owners, many shipyards started to develop new projects in this regard. From the operative point of view the main characteristic, which differentiate Explorer vessels from traditional ones, is the higher strength required by the hull structures in order to be compliant with Ice class rules. On the other hand, in the owner’s perspective, the on-board comfort remains the driving parameter to be fulfilled. Therefore, more detailed studies on the dynamic structural behaviour, supported by experimental investigations, became mandatory. In this paper, a 40 meter ID Ice class superyacht built by Cerri Cantieri Navali (CCN), under delivery at the time being, has been elected as a study case and a comparison between experimental FE vibration analyses has been carried out during the construction period in order to validate the numerical procedure and highlight any criticisms in early design stages.",
+      "citations": 12,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 71,
+              "rank": 33,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 68,
+              "rank": 235,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 71,
+              "rank": 26,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 67,
+              "rank": 192,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85050157866",
+      "title": "Hull–furniture interaction in the primary response to global loads of a carbon fibre sailing yacht",
+      "doi": "10.1080/17445302.2018.1498210",
+      "venue": "Ships and Offshore Structures",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "14",
+      "issue_id": "3",
+      "pages": "281-294",
+      "issn": "17445302",
+      "eIssn": null,
+      "source_id": "19700186818",
+      "authors": "Vergassola Gianmarco; Boote Dario; Pais Tatiana",
+      "author_ids": "57191615489;56214807300;55611778200",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Vergassola G.",
+      "keywords": "carbon fibre sailing yacht | dock-tuning load | FE structural analysis | global strength | hull–furniture interaction",
+      "abstract": "High performance sailing yachts are generally designed assuming high local and global loads transmitted by rigs to hull structures. The above-mentioned loading conditions can become critical for large hulls also in terms of displacements when composite materials are used. In this scenario, it is very important to use lightweight and high-performance materials, such as carbon fibres. In fact, also some ‘non structural’ components, such as outfit and furniture, are built in carbon fibres and, therefore, can be considered contributing to the hull local and global strength. The aim of this work is to investigate the contribution level of those ‘non-structural’ components to the hull strength. Two different finite element models of a 94 ft sailing yacht, with and without ‘non structural components’, have been carried out in order to evaluate their contribution to the primary hull response to longitudinal bending moment and dock tuning load.",
+      "citations": 8,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 71,
+              "rank": 33,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 68,
+              "rank": 235,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 71,
+              "rank": 26,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 67,
+              "rank": 192,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85062696993",
+      "title": "Low - Frequency analysis of super yacht free vibrations",
+      "doi": "10.1016/j.oceaneng.2019.02.037",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "176",
+      "issue_id": null,
+      "pages": "199-210",
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Vergassola G.; Pais T.; Boote D.",
+      "author_ids": "57191615489;55611778200;56214807300",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Vergassola G.",
+      "keywords": "Numerical vibration analysis | Superyacht structures | Superyacht vibration measurements",
+      "abstract": "After a long period of crisis and uncertainty the yacht market seems to exit from the tunnel. Many shipyards are developing new interesting projects, especially for vessels over 50 m in length. The high intrinsic value of these vessels fosters technical offices to deepen the research on some critical subjects to increase competitiveness. The onboard comfort, with particular reference to vibrations, is probably one of the key aspects of this trend which nowadays drives most of the design choices relatively to structure lay out and materials for interior outfit. A great help comes from Classification Society new rules and regulations for the evaluation of noise and vibration. The so called “Comfort Class Rules” contain the general criteria for noise and vibration measurements in various yacht areas and suggest maximum limit values as a function of the required quality level of the yacht. In this paper a study carried out in cooperation between the University of Genova and a leading Italian shipyard on the dynamic behaviour of superyacht structures is presented. A detailed FEM analysis of the global and local natural frequencies of a 60 m superyacht was carried out in order to evaluate the reliability of simplified procedures based on reduced numerical models. The investigation has been carried out by two different FEM codes and the numerical results have been compared with experimental data measured during the construction of the vessel.",
+      "citations": 14,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 87,
+              "rank": 12,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 76,
+              "rank": 32,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85079827716",
+      "title": "Buckling numerical analysis of stiffened cylindrical structures",
+      "doi": null,
+      "venue": "Proceedings of the International Offshore and Polar Engineering Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": "4",
+      "issue_id": null,
+      "pages": "4367-4374",
+      "issn": "10986189",
+      "eIssn": "15551792",
+      "source_id": "77392",
+      "authors": "Vergassola Gianmarco; Boote Dario; Manca Chiara",
+      "author_ids": "57191615489;56214807300;57215059030",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Vergassola G.",
+      "keywords": "Buckling analysis | FE structural non linear analysis | Stiffened cylinders",
+      "abstract": "In this research, a buckling numerical analysis of stiffened and unstiffened cylindrical shells is presented; in the first part of this work, the numerical FE code has been validated by comparing the numerical results with an experimental campaign carried out at the Department of Naval Architecture of the University of Genova. In the second part, the buckling occurrence of stiffened cylindrical shells representing a real submarine vehicle has been analysed in order to verify which is the limit state design of these type of unit.",
+      "citations": 4,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 16,
+              "rank": 273,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 13,
+              "rank": 101,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 11,
+              "rank": 650,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 25,
+              "rank": 68,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 19,
+              "rank": 175,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 18,
+              "rank": 478,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85079826350",
+      "title": "On the racking assessment of pure car truck carrier vessels",
+      "doi": null,
+      "venue": "Proceedings of the International Offshore and Polar Engineering Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": "4",
+      "issue_id": null,
+      "pages": "4962-4969",
+      "issn": "10986189",
+      "eIssn": "15551792",
+      "source_id": "77392",
+      "authors": "Vergassola Gianmarco; Boote Dario; Pais Tatiana; Ogano Francesco; Paci Lorenzo",
+      "author_ids": "57191615489;56214807300;55611778200;57215050922;57215034525",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Vergassola G.",
+      "keywords": "Finite element Analysis | Hot Spot Fatigue Analysis | Pure Car Track Carriers | Racking",
+      "abstract": "In this paper, the racking phenomena has been studied on an Italian pure car track carrier vessel both by the theoretical point of view and by the practical one. A direct calculation has been carried out by using the Finite Element Method on the ship assumed as a study case, focusing in particular on the stress distribution induced by racking movements. On this base, the fatigue life prediction, trough hot spot checks, has been assessed as well.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 16,
+              "rank": 273,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 13,
+              "rank": 101,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 11,
+              "rank": 650,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 25,
+              "rank": 68,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 19,
+              "rank": 175,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 18,
+              "rank": 478,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85063258422",
+      "title": "Static and dynamic comparison of megayacht deck structure's layouts",
+      "doi": "10.3233/ISP-180260",
+      "venue": "International Shipbuilding Progress",
+      "type": "Journal",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": "66",
+      "issue_id": "1",
+      "pages": "91-110",
+      "issn": "0020868X",
+      "eIssn": "15662829",
+      "source_id": "25630",
+      "authors": "Vergassola Gianmarco; Boote Dario; Ricci Lisa",
+      "author_ids": "57191615489;56214807300;57204906660",
+      "authorAffiliationIds": "60025153;60025153;118836663",
+      "corresponding": "Vergassola G.",
+      "keywords": "Deck structural scantling | FEM | Megayacht | Vibration analysis",
+      "abstract": "The growing increase in length of super and megayachts has driven structural designers to adopt longitudinal layouts as a main point in the structural scantlings. By the way, the optimization of weights, strength, deformations and dynamic behaviour has to be evaluated separately for each new unit because of the particular and unique characteristics of each vessel. For this evaluation, especially for what the dynamic behaviour of ribbed plates is concerned, the use of numerical software based on the Finite Element Method is widely used since the early design stages in order to highlight benefits and weaknesses of a particular structural design. In this paper, two different structural layouts of megayacht decks have been studied and tested by using a FE software: The first one has been created with longitudinal and transversal stiffeners with the same cross section. In the second layout, transversal stiffeners are smaller in dimension but with lower span. The comparison has been carried out making reference to maximum strengths, deformations and dynamic behaviour. This work, starting from an initial lay out obtained by a CS rule approach, made it possible to converge to an optimal structural configuration, at least for what the starting geometries are concerned.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 38,
+              "rank": 72,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 38,
+              "rank": 456,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 34,
+              "rank": 60,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 29,
+              "rank": 411,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85041015424",
+      "title": "On the damping loss factor of viscoelastic materials for naval applications",
+      "doi": "10.1080/17445302.2018.1425338",
+      "venue": "Ships and Offshore Structures",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "13",
+      "issue_id": "5",
+      "pages": "466-475",
+      "issn": "17445302",
+      "eIssn": null,
+      "source_id": "19700186818",
+      "authors": "Vergassola Gianmarco; Boote Dario; Tonelli Angelo",
+      "author_ids": "57191615489;56214807300;57193317969",
+      "authorAffiliationIds": "60025153;60025153;119897314",
+      "corresponding": "Vergassola G.",
+      "keywords": "damping loss factor | hybrid FEM–SEA analysis | naval structural architecture | Viscoelastic materials",
+      "abstract": "Viscoelastic materials are used in ship and yacht constructions for floating floors, engine foundations and laminated glass. The contribution of viscoelastic rubbers is related to their capability to withstand and damp airborne and structural borne noise. New regulations have outlined the necessity to perform numerical analysis in the early design stages, when modifications in the structural layout and/or in the insulation plan are more feasible and less expensive for shipyards. The determination of damping loss factor of viscoelastic materials is an open topic in vibro-acoustic engineering; the complexity of their mechanical characterisation could have consequences in terms of unreliable numerical simulations if not validated by experiments. In this paper, a new reliable and simple testing procedure for the determination of damping loss factor for viscoelastic materials is presented; experimental data have been compared with finite element analyses and statistical energy analyses in order to validate the proposed method.",
+      "citations": 33,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 71,
+              "rank": 33,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 68,
+              "rank": 235,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 68,
+              "rank": 30,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 66,
+              "rank": 199,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85042878726",
+      "title": "Vibration analysis for the comfort assessment of a superyacht under hydrodynamic loads due to mechanical propulsion",
+      "doi": "10.1016/j.oceaneng.2018.02.058",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "155",
+      "issue_id": null,
+      "pages": "310-323",
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Tatiana Pais; Dario Boote; Gianmarco Vergassola",
+      "author_ids": "55611778200;56214807300;57191615489",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Tatiana P.",
+      "keywords": "Comfort analysis | Finite elements models | Frequency response function (FRF) | Pillars | Tuned mass damper",
+      "abstract": "Yacht designers and builders are continuously looking for new solutions to reduce construction costs and to improve the quality and innovation of their vessels. In the case of superyachts over 30 m in length, performances are no longer a primary goal and the efforts of technical offices are mostly addressed on other aspects related to the aesthetic impact of the project and to the on board comfort. From this point of view, vibrations and noise represent a difficult issues to deal with for designers, both in the initial phase of the project, when it is necessary to have preliminary information about the response of the structure not yet defined, and during construction, in case some critical behaviors arose in any part of the structure. In this paper, the dynamic behavior of a 40 m motor yacht is investigated. The Vibration Velocity Spectra obtained by the numerical model of the yacht are compared with the value of level limits imposed by the ISO6954:1984. Different structural solutions are investigate to improve the comfort level in same area not in compliance with the rule.",
+      "citations": 27,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 86,
+              "rank": 13,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 77,
+              "rank": 29,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85087655751",
+      "title": "On the deck structural layout of megayacht",
+      "doi": "10.3233/978-1-61499-870-9-587",
+      "venue": "Technology and Science for the Ships of the Future Proceedings of Nav 2018 19th International Conference on Ship and Maritime Research",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": null,
+      "issue_id": null,
+      "pages": "587-595",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101023871",
+      "authors": "Vergassola Gianmarco; Boote Dario; Pais Tatiana; Ricci Lisa",
+      "author_ids": "57191615489;56214807300;55611778200;57204906660",
+      "authorAffiliationIds": "60025153;60025153;60025153;121764379",
+      "corresponding": "Vergassola G.",
+      "keywords": "Deck structural scantling | FEM | Megayacht | Vibration analysis",
+      "abstract": "The growing increase in length of super and megayachts has driven structural designer to adopt longitudinal layouts as a main point in the structural scantlings. By the way, the optimization of weights, strength, deformations and dynamic behaviour has to be assessed one off for each new units because of peculiar and unique characteristics of each vessel. For this assessment, in particular considering the dynamic behaviour of ribbed plates, the use of numerical software based on the Finite Element (FE) Methods is largely used up to the early design stages in order to highlights benefit and weakness of a particular structural design. In this paper, two different structural layout for a superyacht deck have been studied and tested by using a FE software: the first one has been created with longitudinal and transversal stiffeners with the same cross section. In the second layout, transversal stiffeners are smaller in dimension but with lower span. The comparison has been made in terms of maximum strength, deformation and dynamic behaviour.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85052398103",
+      "title": "Numerical tools and experimental procedures for the prediction of noise propagation on board superyachts",
+      "doi": "10.3940/rina.ijsct.2018.b1.207",
+      "venue": "Transactions of the Royal Institution of Naval Architects Part B International Journal of Small Craft Technology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "160",
+      "issue_id": "PartB1",
+      "pages": "B9-B16",
+      "issn": "17400694",
+      "eIssn": null,
+      "source_id": "5000154004",
+      "authors": "Vergassola G.; Pais T.; Boote D.",
+      "author_ids": "57191615489;55611778200;56214807300",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Vergassola G.",
+      "keywords": null,
+      "abstract": "The Italian Classification Society, RINA S.p.A., is developing a new set of Rules regarding comfort conditions on board large motor-yachts. Relative to present owner requirements and technical enhancement, the new limit values will be more restrictive especially for yachts of more than 65 metres in length. In this respect designers and shipyards should consider structure borne noise and vibration level as leading parameters from the earliest design stages. In this paper some numerical tools, which allow prediction of noise propagation on board before sea trials to be carried out, are presented.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 23,
+              "rank": 72,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 16,
+              "rank": 252,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85051736750",
+      "title": "Engine foundation re-design due to modification of the shaft line arrangement",
+      "doi": "10.3940/rina.2018.ijsct.b1.208",
+      "venue": "Transactions of the Royal Institution of Naval Architects Part B International Journal of Small Craft Technology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "160",
+      "issue_id": "PartB1",
+      "pages": "B17-B30",
+      "issn": "17400694",
+      "eIssn": null,
+      "source_id": "5000154004",
+      "authors": "Pais T.; Boote D.; Vergassola G.; Di Iorio M. E.",
+      "author_ids": "55611778200;56214807300;57191615489;57203436473",
+      "authorAffiliationIds": "60025153;60025153;60025153;121161059",
+      "corresponding": "Pais T.",
+      "keywords": null,
+      "abstract": "The on board acoustic comfort is a fundamental condition to be pursued in super-yacht design process in order to meet the requirements of the owner and to allow the crew to work safely. The excitation forces originated by the shaft line can greatly affect the dynamic response of the whole ship structure. Within this context, the implementation of a thrust-bearing block in the shaft line of an existent 46 m long yacht is investigated. The main objective of this work is not to prove the already known advantages of the insertion of a thrust block in the propulsion system, but, rather, to study the adjustment of the original configuration to the variations proposed in the shaft line arrangement. Different possible modifications of the structure are tested on a partial model of the vessel, in order to study the response of the engine block's supporting structure when subjected to selected loads.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 23,
+              "rank": 72,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 16,
+              "rank": 252,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85024103832",
+      "title": "Thermal load effects on side plates of superyachts",
+      "doi": "10.1016/j.marstruc.2017.06.002",
+      "venue": "Marine Structures",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2017,
+      "volume": "56",
+      "issue_id": null,
+      "pages": "39-68",
+      "issn": "09518339",
+      "eIssn": null,
+      "source_id": "21052",
+      "authors": "Boote D.; Vergassola G.; Giannarelli D.; Ricotti R.",
+      "author_ids": "56214807300;57191615489;57194900095;16040579400",
+      "authorAffiliationIds": "60025153;60025153;118836663;110237087",
+      "corresponding": "Boote D.",
+      "keywords": null,
+      "abstract": "From the commercial point of view the aesthetics of large luxury yachts has the same importance of their technical performances and reliability. In this perspective the first impact that a new construction can exert on a potential owner takes place through the overall appearance of the hull and superstructures. The hull colour, in particular, is becoming more and more determinant to make a yacht more attractive. After a long, undisturbed supremacy of white and cream colours, now an increasing number of owners are opting for dark colours, like blue, green or black. For a perfect painting output these colours needs a perfectly smooth surface as they have the tendency to emphasize every small defect of the hull surface. This aspect can be further amplified by those shape defects affecting hull sides, such as bump and hollows, coming from welding plates each other and plates to frames. For this reason, in case of steel and aluminium vessels, the surface finishing must be achieved by a long and delicate process of filling and fairing. Notwithstanding very accurate preparation, hull surfaces can undergo undesired alteration because of long expositions to solar radiation. This phenomenon is amplified when the surface is painted with dark colours which have the tendency of absorbing much greater solar heat. As stated by a previous investigation carried out on superyachts painted with dark colours, the surface of hull sides after a long exposition to solar radiation can reach temperatures close to 70–80°. In order to evaluate possible distortions of hull sides caused by thermal loads, an investigation has been carried out on the influence of temperature on the mechanical behaviour of steel plates coated by epoxy filler. The study has been developed by FEM structural analyses on a portion of a superyacht hull in the region of aft sides where the flatness of shell makes more visible possible distortions. Both steel and aluminium material have been considered covered by filler layers of different kind and thickness. A preliminary experimental investigation has been performed on a number of steel and aluminium specimens in order to calibrate the numerical models.",
+      "citations": 9,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 94,
+              "rank": 7,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 90,
+              "rank": 69,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanics of Materials",
+              "percentile": 88,
+              "rank": 47,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 82,
+              "rank": 80,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 93,
+              "rank": 7,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 85,
+              "rank": 86,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Mechanics of Materials",
+              "percentile": 82,
+              "rank": 61,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Materials Science (all)",
+              "percentile": 78,
+              "rank": 98,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85106780002",
+      "title": "A numerical determination of effective breadth of GRP stiffened plates",
+      "doi": null,
+      "venue": "Transactions of the Royal Institution of Naval Architects Part B International Journal of Small Craft Technology",
+      "type": "Journal",
+      "sub_type": "Note",
+      "year": 2017,
+      "volume": "159",
+      "issue_id": null,
+      "pages": "51-52",
+      "issn": "17400694",
+      "eIssn": null,
+      "source_id": "5000154004",
+      "authors": "Boote D.; Vergassola G.; Strano L.",
+      "author_ids": "56214807300;57191615489;57191620565",
+      "authorAffiliationIds": "60025153;60025153;118836663",
+      "corresponding": "Boote D.",
+      "keywords": null,
+      "abstract": null,
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 23,
+              "rank": 72,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 13,
+              "rank": 247,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85064442753",
+      "title": "The influence of added mass in superyacht vibration analysis",
+      "doi": null,
+      "venue": "Rina Royal Institution of Naval Architects International Conference on Design and Construction of Super and Mega Yachts 2017",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100903772",
+      "authors": "Pais T.; Boote D.; Vergassola G.",
+      "author_ids": "55611778200;56214807300;57191615489",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Pais T.",
+      "keywords": null,
+      "abstract": "The prediction of the comfort level of superyachts in the early design stage, based on suitable methodologies to predict the structural dynamic behaviour, is the present challenge for designers. In case the resulting noise and vibration levels were not acceptable, the shipyard can apply corrective actions to reduce their effects before the construction phase. The usual way to perform a reliable predictive analysis is by using finite element technique; in this perspective the result reliability depends on the numerical model quality. In case of a ship an important parameter which heavily influences the dynamic behaviour of a numerical model is the water added mass; in this paper, this subject is studied by theoretical and numerical methods. A comparison between the added mass obtained by the well known Lewis formulation and the numerical results is carried out. In a first phase, a simple study case is investigated and after that the added mass of a study case superyacht has been calculated by a numerical approach.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85044695020",
+      "title": "Numerical tools and experimental activities for the prediction of noise propagation on board superyachts",
+      "doi": null,
+      "venue": "Rina Royal Institution of Naval Architects International Conference on Design and Construction of Super and Mega Yachts 2017",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100903772",
+      "authors": "Tonelli A.; Torre D.; Vergassola G.; Boote D.",
+      "author_ids": "57193317969;57208318473;57191615489;56214807300",
+      "authorAffiliationIds": "122427817;122427817;60025153;60025153",
+      "corresponding": "Tonelli A.",
+      "keywords": null,
+      "abstract": "The Italian Classification Society, RINA S.p.A., is developing a new set of Rules regarding comfort conditions on board large motor-yachts. According to present owner requirements and technical enhancement, the new limit values will be more restrictive especially for yachts with more than 65 meter in length. In this perspective designers and shipyards should consider structure borne noise and vibration level as leading parameters since the earliest design stages. In this paper some numerical tools, which allow to predict noise propagation on board before sea trials are carried out, are presented. The reliability of the proposed tools has been tested by means of experimental activities for the evaluation of damping loss factor on the viscoelastic materials employed in different parts of the vessel such as floating floors and engine foundations.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85043582830",
+      "title": "Thermal load effects on aluminum light alloy plates with epoxy coatings",
+      "doi": "10.3940/rina.ijsct.2017.b2.206",
+      "venue": "Transactions of the Royal Institution of Naval Architects Part B International Journal of Small Craft Technology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2017,
+      "volume": "159",
+      "issue_id": "PartB2",
+      "pages": "89-100",
+      "issn": "17400694",
+      "eIssn": null,
+      "source_id": "5000154004",
+      "authors": "Boote D.; Pais T.; Vergassola G. M.; Giannarelli D.",
+      "author_ids": "56214807300;55611778200;57191615489;57194900095",
+      "authorAffiliationIds": "60025153;60025153;60025153;118836663",
+      "corresponding": "Boote D.",
+      "keywords": null,
+      "abstract": "When the assembling of hull structure is completed, the sides of metal motor yachts are usually affected by bumps and hollows coming from welding plates to each other and plates to frames. These defects, normally tolerated on merchant ships, cannot be accepted on superyachts for which the external surface must be smooth and glossy. For this reason the surface finishing is achieved by a long and delicate process of filling, fairing and painting. The final result of this process is very important for the yacht aesthetics as the general appearance of the vessel depends on the external painting. As a matter of fact the quality of painting depends mainly on the undercoat preparation to assure an adequate grip and, most of all, a perfect smooth and faired surface. Despite accurate preparation and painting, surface conditions can undergo undesired alteration because of excessive heating due, as an example, to a long exposure to solar radiation. While stresses do not reach significant values because of the relatively low intensity of thermal loads, strains could still cause very slight surface distortions and undulations which are perceived by human eye as a surface defect. The phenomenon becomes particularly evident if the surface is painted with a dark colour. In this paper an investigation on the influence of temperature on the stress and strain distribution of aluminium light alloy plates coated by filler layers of different kind and thickness is reported. The study has been performed by FEM structural analyses calibrated by experimental measurements performed on laboratory specimens. This work represents the continuation of a research begun some time ago with the measurement of temperatures on yacht hulls exposed to solar radiation in different conditions.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 23,
+              "rank": 72,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 13,
+              "rank": 247,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85038921430",
+      "title": "WFSV-PL -an hybrid carbon composite wind farm supply vessel",
+      "doi": null,
+      "venue": "Proceedings of the International Offshore and Polar Engineering Conference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": null,
+      "issue_id": null,
+      "pages": "586-594",
+      "issn": "10986189",
+      "eIssn": "15551792",
+      "source_id": "77392",
+      "authors": "Costa Valerio; Boote Dario; Vergassola Gianmarco; Pais Tatiana; Ferrari Alberto; Sugalski Karol",
+      "author_ids": "57200046749;56214807300;57191615489;55611778200;57199836867;57200042041",
+      "authorAffiliationIds": "118836663;60025153;60025153;60025153;60025153;60002004",
+      "corresponding": "Costa V.",
+      "keywords": "Carbon composite | CFD | Towing tank tests | Wind farm supply vessel",
+      "abstract": "The construction of Wind Farm Support Vessels (WFSV) can be considered as one of the most dynamic industrial sector of the last 10 years in Europe and U.S.; at the time being it can count more than 400 vessels working in the only European sea fields. WFSV-PL is a 25m catamaran prototype completely designed by a Polish-Italian team, built with an hybrid carbon composite material, in order to reduce construction cost and time with respect to a traditional metal hull. In this paper, after a brief description of basic design steps of the WFSV-PL, particular emphasis has been devoted by the authors to illustrate the material choice, carried out by comprehensive laboratory tests on carbon fiber specimens, and the comparison between advanced CFD calculations and towing tank tests carried out for a wide range of operating conditions.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 16,
+              "rank": 273,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 13,
+              "rank": 101,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 11,
+              "rank": 650,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 31,
+              "rank": 141,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 28,
+              "rank": 67,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 26,
+              "rank": 426,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85037812867",
+      "title": "On the damping coefficient of laminated glass for yacht industry",
+      "doi": "10.3233/ISP-170131",
+      "venue": "International Shipbuilding Progress",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2017,
+      "volume": "64",
+      "issue_id": "1-2",
+      "pages": "25-40",
+      "issn": "0020868X",
+      "eIssn": "15662829",
+      "source_id": "25630",
+      "authors": "Boote D.; Pais T.; Vergassola G.; Tonelli A.; Gragnani L.",
+      "author_ids": "56214807300;55611778200;57191615489;57193317969;57193316989",
+      "authorAffiliationIds": "60025153;60025153;60025153;119897314;119897306",
+      "corresponding": "Boote D.",
+      "keywords": "Damping coefficient | Dynamic structural analysis | Laminated glass | Yacht structures",
+      "abstract": "After a long period in which the most attractive characteristic of a motor yacht was represented by her maximum speed, nowadays the target has moved towards comfort on board which became the fundamental parameter to deal with in the yacht design process. Noise and vibration, together with seakeeping behaviour, became the fundamental subjects on which the research effort of shipyards and technical offices turned on. Since many years the Department of Electrical, Electronic, Telecommunication Engineering and Naval Architecture (DITEN) is involved in a research on the dynamic behaviour prediction of large motor yachts in cooperation with one of the most important Italian shipyards. In this perspective the assessment of the dynamic properties of materials used for the vessel construction, such as the damping coefficient, is an important step to perform preliminary analyses for vibration and noise levels. This paper is focused on the definition of the damping coefficient of laminated glass, which is a complex material commonly used for windows in the current yacht market. As a matter of fact the actual trend of using larger and larger windows for owner's cabins and saloons could represent a critical point in terms of noise and vibrations and makes the laminated glass dynamic characterization a fundamental issue to be investigated. Different experimental modal methods to obtain the damping coefficient at natural frequencies are applied to laminated glass specimens, while the Reverberation Time test is proposed to assess the coefficient in the whole frequency range of interest. In the final part of the paper, a comparison between the results of different methods is presented.",
+      "citations": 9,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 38,
+              "rank": 72,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 38,
+              "rank": 456,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 47,
+              "rank": 49,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 45,
+              "rank": 314,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85023741408",
+      "title": "Finite element structural analysis of big yacht superstructures",
+      "doi": "10.15866/ireme.v11i4.9231",
+      "venue": "International Review of Mechanical Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2017,
+      "volume": "11",
+      "issue_id": "4",
+      "pages": "228-233",
+      "issn": "19708734",
+      "eIssn": "25325655",
+      "source_id": "19500156811",
+      "authors": "Boote D.; Vergassola G.; Pais T.; Kramer M.",
+      "author_ids": "56214807300;57191615489;55611778200;57194875196",
+      "authorAffiliationIds": "60025153;60025153;60025153;118823116",
+      "corresponding": "Boote D.",
+      "keywords": "FEM | Racking | Strength analysis | Superyacht",
+      "abstract": "The present financial crisis is imposing shipbuilders to reduce costs and construction times in order to prevent orders cutback. In yacht design studios, based on improved aesthetics, this goal cannot be accomplished by simply skimping internal and/or external furnishing, but it must be achieved by reducing weights and costs of structural components, without compromising the structural strength of the super yacht. In this scenario, superstructure scantling is becoming the most critical aspect of structural design as they are built by using materials, like aluminum light alloy, which have low mechanical characteristics. The actual trend of having very big openings on the hull sides, because traditional windows have been drastically enlarged to offer suggestive landscapes to the owners and their guests, further worsens the problem. Furthermore, the aforementioned cost and weight cutback is achieved by reducing beam scantling dimensions and plate thicknesses to the minimum imposed by the Classification Society Rules; this trend might became very dangerous if loads acting on the yacht are not thoroughly assessed during the preliminary design stage. In this paper, the structural response of aluminum light alloy superstructures is studied by a finite element approach, coupled with static and dynamic loads imposed by the Classification Society Rules, with particular attention related to the buckling phenomena that occurs to slender stiffeners around windows.",
+      "citations": 11,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Architecture",
+              "percentile": 69,
+              "rank": 64,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Agricultural and Biological Sciences (miscellaneous)",
+              "percentile": 45,
+              "rank": 134,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Automotive Engineering",
+              "percentile": 38,
+              "rank": 84,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Fluid Flow and Transfer Processes",
+              "percentile": 35,
+              "rank": 63,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 34,
+              "rank": 480,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Engineering (all)",
+              "percentile": 32,
+              "rank": 233,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Materials Science (miscellaneous)",
+              "percentile": 32,
+              "rank": 167,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 46,
+              "rank": 308,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85018603065",
+      "title": "Strength analysis of superyacht superstructures with large openings",
+      "doi": "10.15866/ireme.v11i1.9289",
+      "venue": "International Review of Mechanical Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2017,
+      "volume": "11",
+      "issue_id": "1",
+      "pages": "1-9",
+      "issn": "19708734",
+      "eIssn": "25325655",
+      "source_id": "19500156811",
+      "authors": "Boote D.; Vergassola G.; Di Matteo V.",
+      "author_ids": "56214807300;57191615489;57194072572",
+      "authorAffiliationIds": "60025153;60025153;118441183",
+      "corresponding": "Boote D.",
+      "keywords": "Bending efficiency | FEM | Glazing structures | Strength analysis | Superyacht",
+      "abstract": "The superyacht manufacturing industry is currently facing big challenges, mainly related to the present economic crisis. Manufacturers are then competing on the ground of better and more aesthetic external and interior designs. This trend often leads to structural strength related issues, which can compromise the static or dynamic stability of superyacht hull. In several instances, the aforementioned fact is met, as in large openings and docks to recover tenders and the enlargement of windows to allow for better lighting of internal living spaces. So, for what the hull is concerned, large windows replaced small portholes on the yacht sides at mid length, rising non trivial problems about longitudinal strength. The same trend appeared on superstructures sides where traditional windows have been enlarged till to become glass doors extended from deck to deck allowing passengers to enjoy full sea landscapes. Despite the positive effect on the general design performance, this nice innovation implies serious structural problems. In fact in side areas where these doors are fitted the only structural elements are represented by very slender vertical stiffeners. The combined action of bending and compressive loads, together with the fact that superstructures are usually made by aluminium light alloy, can be the cause of buckling phenomena with severe consequences on structure and glass integrity. The same aspect has a negative influence on the bending efficiency of superstructures, meaning by that the level of cooperation of superstructures with hull strength. In this paper the contribution to steel hull strength of light alloy superstructures with large openings is studied by the finite element approach. The contribution of glazing windows to the primary response to global bending moment has been assessed as well.",
+      "citations": 22,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Architecture",
+              "percentile": 69,
+              "rank": 64,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Agricultural and Biological Sciences (miscellaneous)",
+              "percentile": 45,
+              "rank": 134,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Automotive Engineering",
+              "percentile": 38,
+              "rank": 84,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Fluid Flow and Transfer Processes",
+              "percentile": 35,
+              "rank": 63,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 34,
+              "rank": 480,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Engineering (all)",
+              "percentile": 32,
+              "rank": 233,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Materials Science (miscellaneous)",
+              "percentile": 32,
+              "rank": 167,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Mechanical Engineering",
+              "percentile": 46,
+              "rank": 308,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85012075638",
+      "title": "Simplified analytical method for the evaluation of longitudinal strength of large sailing yachts",
+      "doi": "10.1016/j.oceaneng.2016.11.064",
+      "venue": "Ocean Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2017,
+      "volume": "133",
+      "issue_id": null,
+      "pages": "182-196",
+      "issn": "00298018",
+      "eIssn": null,
+      "source_id": "28339",
+      "authors": "Ocera M.; Boote D.; Vergassola G.; Faloci F.",
+      "author_ids": "57193256649;56214807300;57191615489;56242699800",
+      "authorAffiliationIds": "118836663;60025153;60025153;114385687",
+      "corresponding": "Ocera M.",
+      "keywords": "FEM | Hull Strength | Longitudinal strength | Mast | Rigs | Sailing yacht",
+      "abstract": "Yacht manufactory industries have been faced with two different trends over the last few years: on the one hand, the current economic crisis, which has halted the production of super and mega yachts, and on the other, the increase in the dimensions of both sailing and motor yachts. In the case of sailing yachts, this trend has brought about a consequent increase in rigging proportions. Higher masts and wider sail plans have led to an enormous increase in rigging and sheet loadings. Meanwhile, speed has become an increasingly important focal point in the design process, in order to respond to market requirements; this scenario requires an acceptable compromise between structural requirements due to high rigging loads and structural weight reduction to improve the craft speed and to reduce costs and production times. For these reasons, the global strength of the hull has become a crucial aspect in the design process. Traditionally, only still water and wave bending moment in hogging and sagging conditions have been considered as global loads. For sailing yachts, however, the dock tuning bending load, which has a similar order of magnitude to the global bending moment, must be implemented in primary strength response. In this paper, the authors present a Simplified Analytical Method (S.A.M.) to estimate the longitudinal strength of a large sloop sailing yacht; this approach has been developed studying a 47-meter yacht by FE technique coupled with classic beam theory and has been verified through the analysis of other two sailing vessels of similar length. A user-friendly routine for this aim, called “StrengthCalc”, has also been created.",
+      "citations": 10,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 95,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 83,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 84,
+              "rank": 15,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Environmental Engineering",
+              "percentile": 73,
+              "rank": 31,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85106841146",
+      "title": "A numerical determination of effective breadth of GRP stiffened plates",
+      "doi": "10.3940/rina.ijsct.2016.b1.187",
+      "venue": "Transactions of the Royal Institution of Naval Architects Part B International Journal of Small Craft Technology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2016,
+      "volume": "158",
+      "issue_id": null,
+      "pages": "B49-B61",
+      "issn": "17400694",
+      "eIssn": null,
+      "source_id": "5000154004",
+      "authors": "Boote D.; Vergassola G.; Strano L.",
+      "author_ids": "56214807300;57191615489;57191620565",
+      "authorAffiliationIds": "60025153;60025153;118836663",
+      "corresponding": "Boote D.",
+      "keywords": null,
+      "abstract": "Stiffened plates are the most common structural components used in many engineering branches such as aircraft, trains, ships, offshore structures, and buildings of every kind and dimension. In the marine field, in particular, merchant and naval ship hulls can be considered to be an assembling of simple modules such as bottoms, sides, decks and bulkheads, all formed by stiffened plates. This very simple structural model has the advantage of offering a good compromise between strength, construction cost and weight. At the same time, the scantling of a stiffened plate can easily be obtained by hand calculations or by more refined tools, such as FEM codes, if a more reliable optimization is required. If the first approach is used, the first action to be performed is the calculation of the plate width acting with the stiffeners, usually referred to as \"effective breadth\". This aspect, widely assessed in the steel structural field since the 50s, still needs further investigations in the field of composite materials, commonly used for building motor and sailing yachts. Given the present financially critical situation affecting yachts, especially in the range of small and medium size vessels, many shipyards, with a long experience in the GRP construction, devote more attention, on one hand, to significantly reduce the weight and cost of the hull structure and, on the other hand, to increase the vessel dimensions to improve their market potential. In both cases, a more detailed structure scantling is required and, in the case of a \"by hand\" calculation, this mainly implies a deeper knowledge of the \"effective breadth\" concept for composites. In this paper, a numerical procedure for the calculation of the effective breadth of GRP, single skin and sandwich stiffened plates is presented, using a numerical approach based on the finite element method. This study is focused on plates stiffened by GRP box beams for single skin panels and by GRP girder beams for sandwich ones. All the geometric characteristics of the model have been varied parametrically, in order to obtain a very wide data series that has been statistically processed.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2016,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 18,
+              "rank": 71,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 10,
+              "rank": 232,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85010880300",
+      "title": "A simplified method for the evaluation of inertial loads on sailing yachts",
+      "doi": "10.3940/rina.ijsct.2016.b2.194",
+      "venue": "Transactions of the Royal Institution of Naval Architects Part B International Journal of Small Craft Technology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2016,
+      "volume": "158",
+      "issue_id": "PartB2",
+      "pages": "B101-B111",
+      "issn": "17400694",
+      "eIssn": null,
+      "source_id": "5000154004",
+      "authors": "Boote D.; Vergassola G.; Comborieu A.; Faloci F.; Tocchi F.",
+      "author_ids": "56214807300;57191615489;57193110411;56242699800;57193111483",
+      "authorAffiliationIds": "60025153;60025153;60120891;118836663;118836663",
+      "corresponding": "Boote D.",
+      "keywords": null,
+      "abstract": "The aim of this work was to improve the understanding of dismasting, in view of the development of a new set of Rig Certification Rules specifically aimed at sailing yacht design, In the first phase of this project a preliminary systematic analysis of the dismastings of a large set of boats of different type and size has been carried out. By examining all these events, typical collapse modes have been identified, showing that whereas the traditional approach to mast scantlings is based on static loads, many of the failures took place as a result of severe dynamic loads. For this reason attention has been focused on the dynamic loads acting on the rigging caused by the response of the sailing yacht to waves. Especially in the case of boats with large displacement, these loads could be of a greater magnitude than static ones, and their evaluation must be earned out through seakeeping analysis. In particular pitching motions are extremely important, since they can cause severe accelerations to mast and rigging, possibly leading to mast collapse. Indeed dismasting is a significant event, very dangerous for the crew and very expensive to be repaired. In this paper a systematic study of the pitching behaviour of a database of sailing yachts was carried out. Using these results a simplified formulation is given to quickly evaluate the longitudinal acceleration at the mast centre of gravity. A state-of-the-art process is then used to obtain results in irregular sea states and to compute time series. Despite the small size of the database, this could be regarded as a first step towards the formulation of a simplified method based only on the boat length; this method would be able rapidly to estimate inertial loads due to waves.",
+      "citations": 7,
+      "quartile": [
+        {
+          "year": 2016,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 18,
+              "rank": 71,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 10,
+              "rank": 232,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84992091541",
+      "title": "A numerical determination of effective breadth of GRP stiffened plates",
+      "doi": "10.3940/rina.ijsct.2016.bl.l87",
+      "venue": "Transactions of the Royal Institution of Naval Architects Part B International Journal of Small Craft Technology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2016,
+      "volume": "158",
+      "issue_id": null,
+      "pages": "B49-B61",
+      "issn": "17400694",
+      "eIssn": null,
+      "source_id": "5000154004",
+      "authors": "Boote D.; Vergassola G.; Strano L.",
+      "author_ids": "56214807300;57191615489;57191620565",
+      "authorAffiliationIds": "60025153;60025153;118836663",
+      "corresponding": "Boote D.",
+      "keywords": null,
+      "abstract": "Stiffened plates are the most common structural components used in many engineering branches such as aircraft, trains, ships, offshore structures, and buildings of every kind and dimension. In the marine field, in particular, merchant and naval ship hulls can be considered to be an assembling of simple modules such as bottoms, sides, decks and bulkheads, all formed by stiffened plates. This very simple structural model has the advantage of offering a good compromise between strength, construction cost and weight. At the same time, the scantling of a stiffened plate can easily be obtained by hand calculations or by more refined tools, such as FEM codes, if a more reliable optimization is required. If the first approach is used, the first action to be performed is the calculation of the plate width acting with the stiffeners, usually referred to as \"effective breadth\". This aspect, widely assessed in the steel structural field since the 50s, still needs further investigations in the field of composite materials, commonly used for building motor and sailing yachts. Given the present financially critical situation affecting yachts, especially in the range of small and medium size vessels, many shipyards, with a long experience in the GRP construction, devote more attention, on one hand, to significantly reduce the weight and cost of the hull structure and, on the other hand, to increase the vessel dimensions to improve their market potential. In both cases, a more detailed structure scantling is required and, in the case of a \"by hand\" calculation, this mainly implies a deeper knowledge of the \"effective breadth\" concept for composites. In this paper, a numerical procedure for the calculation of the effective breadth of GRP, single skin and sandwich stiffened plates is presented, using a numerical approach based on the finite element method. This study is focused on plates stiffened by GRP box beams for single skin panels and by GRP girder beams for sandwich ones. All the geometric characteristics of the model have been varied parametrically, in order to obtain a very wide data series that has been statistically processed.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2016,
+          "subjects": [
+            {
+              "subject": "Ocean Engineering",
+              "percentile": 18,
+              "rank": 71,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Civil and Structural Engineering",
+              "percentile": 10,
+              "rank": 232,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1265103",
+      "authors": "Pais, T.; Vergassola, G.; Gaiotti, M.; Rizzo, C. M.; Valtanen, J.; Kivela, S.; Lenarduzzi, W.; Hauninen, M.; Laot, A. H.; Gilles, P. P.; El Faziki, M.; Nechita, M.; Popescu, G.; Thormodsaeter, J.; Severeide, K.; Mendibil, A.; Miguelez, F.; Campos, J. A.; Sanchez-Beaskoetxea, J.; Boullosa-Falces, D.; Rossi, A.",
+      "legacy_id": 661209,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "An Overview of the Shipbuilding Labour Market: The LeaderSHIP EU Project",
+      "scopus_id": "2-s2.0-105016215567",
+      "doi": "10.3233/PMST250079",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1265101",
+      "authors": "Angelici, G.; Pais, T.; Vergassola, G.; Rizzo, C. M.",
+      "legacy_id": 661207,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Comparison of Analytical and Experimental Natural Frequencies of a Composite Beam",
+      "scopus_id": "2-s2.0-105016143492",
+      "doi": "10.3233/PMST250004",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1244057",
+      "authors": "Basciu, F.; Casali, G.; Maloberti, L.; Pais, T.; Vergassola, G.; Zaccone, R.",
+      "legacy_id": 634480,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Sustainable yacht refits: Structural solutions in methanol-powered conversion",
+      "scopus_id": "2-s2.0-85217922661",
+      "doi": "10.1016/j.oceaneng.2025.120618",
+      "isi_id": "WOS:001428729900001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1243375",
+      "authors": "Barsotti, B.; Battini, C.; Gaiotti, M.; Rizzo, C. M.; Vergassola, G.",
+      "legacy_id": 633667,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "Experimental and numerical assessment of ultimate strength of a transversally loaded thin-walled deck structure",
+      "scopus_id": "2-s2.0-85218884211",
+      "doi": "10.1016/j.marstruc.2025.103793",
+      "isi_id": "WOS:001435874600001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1174029",
+      "authors": "Gaiotti, M.; Aguiari, M.; Vergassola, G.; Rizzo, C. M.",
+      "legacy_id": 546285,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "A rational approach for the scantling design of GRP pleasure crafts",
+      "scopus_id": "2-s2.0-85190502162",
+      "doi": "10.1016/j.oceaneng.2024.117866",
+      "isi_id": "WOS:001231813900001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1206655",
+      "authors": "Boote, D.; Vergassola, G.; Hydar, V.",
+      "legacy_id": 582186,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Transformation of a light alloy patrol vessel into a composite pleasure yacht",
+      "scopus_id": "2-s2.0-85200758183",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1232217",
+      "authors": "Silvestri, P.; Pais, T.; Vergassola, G.",
+      "legacy_id": 617429,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "The role of structural and insulating material in the structure-borne noise propagation of superyachts",
+      "scopus_id": "2-s2.0-85209545480",
+      "doi": "10.1080/15397734.2024.2424972",
+      "isi_id": "WOS:001349294500001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1206656",
+      "authors": "Silvestri, P.; Pais, T.; Vergassola, G.",
+      "legacy_id": 582187,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "On the experimental full scale vibrational response analysis of a large pleasure yacht",
+      "scopus_id": "2-s2.0-85199674708",
+      "doi": "10.1016/j.apor.2024.104141",
+      "isi_id": "WOS:001282083500001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1126397",
+      "authors": "Vergassola, G.; Pais, T.; Boote, D.; Rasori, S.; Tonelli, A.",
+      "legacy_id": 482187,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "On the structural assessment of tall ship rigs",
+      "scopus_id": "2-s2.0-85162694310",
+      "doi": "10.1080/17445302.2023.2226506",
+      "isi_id": "WOS:001011797400001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102387",
+      "authors": "Hydar, V.; Boote, D.; Vergassola, G.; Pacuraru, F.",
+      "legacy_id": 445699,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "SEAKEEPING ANALYSIS OF A GRP FAST PATROL VESSEL",
+      "scopus_id": "2-s2.0-85140789374",
+      "doi": "10.1115/OMAE2022-81100",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102386",
+      "authors": "Boote, D.; Vergassola, G.; Lindemann, T.; Kaending, P.",
+      "legacy_id": 445696,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "A procedure to evaluate the fatigue contribution to the collapse of ship structural components",
+      "scopus_id": "2-s2.0-85141895750",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102388",
+      "authors": "Gaiotti, M.; Vergassola, G.; Pais, T.",
+      "legacy_id": 445698,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "A STRATEGY FOR THE REDUCTION OF STRUCTURAL WEIGHT OF COMPOSITE VESSELS",
+      "scopus_id": "2-s2.0-85140717918",
+      "doi": "10.1115/OMAE2022-80387",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102389",
+      "authors": "Vergassola, G.; Boote, D.; Tocchi, F.",
+      "legacy_id": 445697,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "The Evolution of Large Pleasure Vessel Towards a Green Future",
+      "scopus_id": "2-s2.0-85138176822",
+      "doi": "10.3233/PMST220041",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1126396",
+      "authors": "Boote, D.; Gaggero, T.; Pais, T.; Rizzuto, E.; Vergassola, G.; Tocchi, F.",
+      "legacy_id": 482186,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "UNDERWATER RADIATED NOISE FROM A LARGE PLEASURE CRAFT",
+      "scopus_id": "2-s2.0-85149867470",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1126395",
+      "authors": "Boote, D.; Vergassola, G.",
+      "legacy_id": 482185,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Fatigue Collapse of Ship Structural Components: a Case Study",
+      "scopus_id": "2-s2.0-85130742475",
+      "doi": "10.15866/ireme.v16i2.21757",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1084517",
+      "authors": "Boote, D.; Vergassola, G.; Hydar, V.; Mitolo, S.",
+      "legacy_id": 422750,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "Structural re-design of a composite pleasure craft with direct and numerical calculations",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1055194",
+      "authors": "Vergassola, G.; Pais, T.; Boote, D.; Rasori, S.; Tonelli, A.",
+      "legacy_id": 389407,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "An experimental-driven methodology for the evaluation of pre-tension of stays and shrouds for large sailing vessels",
+      "scopus_id": "2-s2.0-85114393487",
+      "doi": "10.1016/j.oceaneng.2021.109775",
+      "isi_id": "WOS:000697059000003",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1084514",
+      "authors": "Vergassola, Gianmarco; Boote, Dario; Falcinelli, Luca",
+      "legacy_id": 422747,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "The preliminary design of rubber mounted pillars for pleasure and passenger yachts",
+      "scopus_id": "2-s2.0-85145496582",
+      "doi": "10.1201/9781003216582-41",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/982114",
+      "authors": "Vergassola, Gianmarco",
+      "legacy_id": 305297,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "The prediction of noise propagation onboard pleasure crafts in the early design stage",
+      "scopus_id": "2-s2.0-85074823072",
+      "doi": "10.1007/s40722-019-00149-4",
+      "isi_id": "WOS:000672009700002",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1022332",
+      "authors": "Boote, D.; Vergassola, G.; Delfino, P.; Faloci, F.",
+      "legacy_id": 351614,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Real scale measurements of yacht’s mast accelerations",
+      "scopus_id": "2-s2.0-85090993506",
+      "doi": "10.1080/17445302.2020.1816747",
+      "isi_id": "WOS:000568910800001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/974829",
+      "authors": "Vergassola, Gianmarco; Boote, Dario",
+      "legacy_id": 296461,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "A simplified approach to the dynamic effective thickness of laminated glass for ships and passenger yachts",
+      "scopus_id": "2-s2.0-85074019425",
+      "doi": "10.1007/s12008-019-00614-2",
+      "isi_id": "WOS:000513297500011",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/939811",
+      "authors": "Vergassola, Gianmarco; Boote, Dario; Ricci, Lisa",
+      "legacy_id": 257387,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Static and dynamic comparison of megayacht deck structure’s layouts",
+      "scopus_id": "2-s2.0-85063258422",
+      "doi": "10.3233/ISP-180260",
+      "isi_id": "WOS:000462081200007",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/974833",
+      "authors": "Vergassola, Gianmarco; Boote, Dario; Pais, Tatiana; Ogano, Francesco; Paci, Lorenzo",
+      "legacy_id": 296465,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "On the Racking Assessment of Pure Car Truck Carrier Vessels",
+      "scopus_id": "2-s2.0-85079826350",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/974831",
+      "authors": "Vergassola, Gianmarco; Boote, Dario; Manca, Chiara",
+      "legacy_id": 296463,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Buckling Numerical Analysis of Stiffened Cylindrical Structures",
+      "scopus_id": "2-s2.0-85079827716",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/931187",
+      "authors": "Vergassola, G.; Boote, D.",
+      "legacy_id": 247361,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Numerical and experimental comparison of the dynamic behaviour of superyacht structure",
+      "scopus_id": "2-s2.0-85057311632",
+      "doi": "10.1080/17445302.2018.1546451",
+      "isi_id": "WOS:000488820000002",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "12"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/913176",
+      "authors": "Vergassola, Gianmarco; Boote, Dario; Pais, Tatiana",
+      "legacy_id": 227586,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Hull–furniture interaction in the primary response to global loads of a carbon fibre sailing yacht",
+      "scopus_id": "2-s2.0-85050157866",
+      "doi": "10.1080/17445302.2018.1498210",
+      "isi_id": "WOS:000456826300005",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/936720",
+      "authors": "Vergassola, Gianmarco",
+      "ssd": "Settore ING-IND/02 - Costruzioni e Impianti Navali e Marini",
+      "legacy_id": 253904,
+      "year": 2019,
+      "miur_type": "-2",
+      "title": "Analysis of window structures for super and megayachts",
+      "doi": "10.15167/vergassola-gianmarco_phd2019-02-11",
+      "type": "Tesi di dottorato"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/940760",
+      "authors": "Vergassola, G.; Pais, T.; Boote, D.",
+      "legacy_id": 258692,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Low - Frequency analysis of super yacht free vibrations",
+      "scopus_id": "2-s2.0-85062696993",
+      "doi": "10.1016/j.oceaneng.2019.02.037",
+      "isi_id": "WOS:000462109000017",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "15"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/938058",
+      "authors": "Vergassola, Gianmarco; Boote, Dario",
+      "legacy_id": 255341,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Numerical and experimental comparison of the dynamic behaviour of superyacht structure",
+      "isi_id": "WOS:000488820000002",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/912271",
+      "authors": "Vergassola, Gianmarco; Pais, Tatiana; Boote, Dario",
+      "legacy_id": 226619,
+      "year": 2018,
+      "miur_type": "262",
+      "title": "NUMERICAL TOOLS AND EXPERIMENTAL PROCEDURES FOR THE PREDICTION OF NOISE PROPAGATION ON BOARD SUPERYACHTS",
+      "scopus_id": "2-s2.0-85052398103",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/893617",
+      "authors": "Vergassola, Gianmarco; Boote, Dario; Tonelli, Angelo",
+      "legacy_id": 206022,
+      "year": 2018,
+      "miur_type": "262",
+      "title": "On the damping loss factor of viscoelastic materials for naval applications",
+      "scopus_id": "2-s2.0-85041015424",
+      "doi": "10.1080/17445302.2018.1425338",
+      "isi_id": "WOS:000428683100003",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "23",
+      "citations_scopus": "33"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/912273",
+      "authors": "Pais, Tatiana; Boote, Dario; Vergassola, Gianmarco; Di Iorio, Marco",
+      "legacy_id": 226621,
+      "year": 2018,
+      "miur_type": "262",
+      "title": "ENGINE FOUNDATION RE-DESIGN DUE TO MODIFICATION OF THE SHAFT LINE ARRANGEMENT",
+      "scopus_id": "2-s2.0-85051736750",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/931892",
+      "authors": "Vergassola, G; Boote, D; H Kaung, A",
+      "legacy_id": 248110,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "THE PREDICTION OF NOISE PROPAGATION ONBOARD SUPERYACHT",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/912264",
+      "authors": "Vergassola, Gianmarco; Boote, Dario; Pais, Tatiana; Ricci, Lisa",
+      "legacy_id": 226611,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "On the Deck Structural Layout of Megayacht",
+      "scopus_id": "2-s2.0-85087655751",
+      "doi": "10.3233/978-1-61499-870-9-587",
+      "isi_id": "WOS:000567876300068",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/901487",
+      "authors": "Pais, Tatiana; Boote, Dario; Vergassola, Gianmarco",
+      "legacy_id": 214915,
+      "year": 2018,
+      "miur_type": "262",
+      "title": "Vibration analysis for the comfort assessment of a superyacht under hydrodynamic loads due to mechanical propulsion",
+      "scopus_id": "2-s2.0-85042878726",
+      "doi": "10.1016/j.oceaneng.2018.02.058",
+      "isi_id": "WOS:000431583500024",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "11",
+      "citations_scopus": "27"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/893635",
+      "authors": "Pais, T.; Boote, D.; Vergassola, G.",
+      "legacy_id": 206041,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "THE INFLUENCE OF ADDED MASS IN SUPERYACHT VIBRATION ANALYSIS",
+      "scopus_id": "2-s2.0-85064442753",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/893619",
+      "authors": "Boote, D.; Vergassola, G.; Di Matteo, V.",
+      "legacy_id": 206024,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "Strength analysis of superyacht superstructures with large openings",
+      "scopus_id": "2-s2.0-85018603065",
+      "doi": "10.15866/ireme.v11i1.9289",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "22"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/893621",
+      "authors": "Boote, D.; Vergassola, G.; Pais, T.; Kramer, M.",
+      "legacy_id": 206026,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "Finite element structural analysis of big yacht superstructures",
+      "scopus_id": "2-s2.0-85023741408",
+      "doi": "10.15866/ireme.v11i4.9231",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "11"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/893450",
+      "authors": "Boote, D.; Vergassola, G.; Giannarelli, D.; Ricotti, Rico",
+      "legacy_id": 205723,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "Thermal load effects on side plates of superyachts",
+      "scopus_id": "2-s2.0-85024103832",
+      "doi": "10.1016/j.marstruc.2017.06.002",
+      "isi_id": "WOS:000412264100003",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/893633",
+      "authors": "Tonelli, A.; Torre, D.; Vergassola, G.; Boote, D.",
+      "legacy_id": 206039,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "Numerical tools and experimental activities for the prediction of noise propagation on board superyachts",
+      "scopus_id": "2-s2.0-85044695020",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/893639",
+      "authors": "Boote, D; Pais, T; Vergassola, G; Giannarelli, D",
+      "legacy_id": 206044,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "Thermal load effects on aluminum light alloy plates with epoxy coatings",
+      "scopus_id": "2-s2.0-85043582830",
+      "doi": "10.3940/rina.ijsct.2017.b2.206",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/893623",
+      "authors": "Costa, Valerio; Boote, Dario; Vergassola, Gianmarco; Pais, Tatiana; Ferrari, Alberto; Sugalski, Karol",
+      "legacy_id": 206028,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "WFSV-PL -an hybrid carbon composite wind farm supply vessel",
+      "scopus_id": "2-s2.0-85038921430",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/893452",
+      "authors": "Boote, D.; Pais, T.; Vergassola, G.; Tonelli, A.; Gragnani, L.",
+      "legacy_id": 205751,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "On the damping coefficient of laminated glass for yacht industry",
+      "scopus_id": "2-s2.0-85037812867",
+      "doi": "10.3233/ISP-170131",
+      "isi_id": "WOS:000417513500002",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/893448",
+      "authors": "Ocera, M.; Boote, D.; Vergassola, G.; Faloci, F.",
+      "legacy_id": 205743,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "Simplified analytical method for the evaluation of longitudinal strength of large sailing yachts",
+      "scopus_id": "2-s2.0-85012075638",
+      "doi": "10.1016/j.oceaneng.2016.11.064",
+      "isi_id": "WOS:000396951200015",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "6",
+      "citations_scopus": "10"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/851110",
+      "authors": "Boote, Dario; Vergassola, Gianmarco",
+      "legacy_id": 159242,
+      "year": 2016,
+      "miur_type": "273",
+      "title": "Local and Global Analysis of Large Motoryacht Superstructure",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/893625",
+      "authors": "Boote, D.; Vergassola, G.; Comborieu, A.; Faloci, F.; Tocchi, F.",
+      "legacy_id": 206030,
+      "year": 2016,
+      "miur_type": "262",
+      "title": "A simplified method for the evaluation of inertial loads on sailing yachts",
+      "scopus_id": "2-s2.0-85010880300",
+      "doi": "10.3940/rina.ijsct.2016.b2.194",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/851165",
+      "authors": "Boote, Dario; Vergassola, G.; Strano, L.",
+      "legacy_id": 159306,
+      "year": 2016,
+      "miur_type": "262",
+      "title": "A Numerical Determination of Effective Breadth of Grp Stiffened Plates",
+      "scopus_id": "2-s2.0-84992091541",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/893629",
+      "authors": "Giannarelli, D.; Boote, D.; Pais, T.; Vergassola, G.; Pengo, G.",
+      "legacy_id": 206033,
+      "year": 2015,
+      "miur_type": "273",
+      "title": "Mechanical behavior of steel plates with epoxy coatings exposed to thermal loads",
+      "type": "04.01 - Contributo in atti di convegno"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:14:23.088045"
+}

@@ -1,0 +1,2067 @@
+# Formentini Andrea
+
+## Overview
+- **Unit:** ELE
+- **Role:** Professore associato
+- **Grade:** Prof.Associato Legge 240/10 - t.pieno - classe 0
+- **SSD:** IIND-08/A (Convertitori, macchine e azionamenti elettrici)
+- **Scopus ID:** 55370605300
+- **UNIGE ID:** 285599
+- **Retrieved at:** 2025-11-14T15:14:54.020551
+
+## Contact
+- **Email:** andrea.formentini@unige.it
+- **Phone:** +39 010 335 2729
+- **Page:** https://rubrica.unige.it/personale/V0tCXlNg
+- **Locations:** Opera Pia - padiglione D (ED_161450401), 1° piano, US_161450401.I.032
+
+## Career
+- AR, 2014-04-01 → 2015-03-31
+- RD, 2020-11-01 → 2023-10-31
+- PA, 2023-11-01 → 2222-02-02
+
+## Teaching
+### 2025
+- Elettronica Per Ingegneria Elettrica (84372), L-9 - Ingegneria Elettrica
+- Electric Machines And Maintenance (101140), L-28 - Maritime Science And Technology
+- Elementi Di Conversione Statica Dell'Energia (107824), L-P03 - Tecnologie Industriali
+
+### 2024
+- Elettronica Per Ingegneria Elettrica (84372), L-9 - Ingegneria Elettrica
+- Controlli Per Azionamenti Elettrici Digitali (106722), Lm-28 - Ingegneria Elettrica
+- Electric Machines And Maintenance (101140), L-28 - Maritime Science And Technology
+- Elementi Di Conversione Statica Dell'Energia (107824), L-P03 - Tecnologie Industriali
+
+### 2023
+- Elettronica Per Ingegneria Elettrica (84372), L-9 - Ingegneria Elettrica
+- Controlli Per Azionamenti Elettrici Digitali (106722), Lm-28 - Ingegneria Elettrica
+- Electric Machines And Maintenance (101140), L-28 - Maritime Science And Technology
+- Elementi Di Conversione Statica Dell'Energia (107824), L-P03 - Tecnologie Industriali
+
+### 2022
+- Controlli Per Azionamenti Elettrici Digitali (106722), Lm-28 - Ingegneria Elettrica
+- Electric Machines And Maintenance (101140), L-28 - Maritime Science And Technology
+
+### 2021
+- Controlli Per Azionamenti Elettrici Digitali (106722), Lm-28 - Ingegneria Elettrica
+- Electric Machines And Maintenance (101140), L-28 - Maritime Science And Technology
+
+## Scopus Metrics
+- absolute; Docs: 98; Journals: 41; Conferences: 57; Citations: 1765; H-index: 21
+- 15 years (2010-2025); Docs: 98; Journals: 41; Conferences: 57; Citations: 1765; H-index: 21
+- 10 years (2015-2025); Docs: 95; Journals: 41; Conferences: 54; Citations: 1737; H-index: 21
+- 05 years (2020-2025); Docs: 43; Journals: 24; Conferences: 19; Citations: 324; H-index: 10
+
+## Scopus Products
+1.
+   - **Title:** Efficiency Performance of 7-Level Multiplexed and 3-Level Neutral Point Clamped (NPC) Converters
+   - **Venue:** Energies
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3390/en18092161
+   - **Scopus ID:** 2-s2.0-105004856805
+   - **eISSN:** 19961073
+   - **Volume:** 18
+   - **Issue:** 9
+   - **Authors:** Hussain Shafquat; Cosso Simone; Passalacqua Massimiliano; Vaccaro Luis Ramon; Formentini Andrea; Marchesoni Mario
+   - **Keywords:** balancing of flying capacitors | conduction losses | efficiency | multiplexed multilevel converter | neutral point clamped converter | switching losses | three phase
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 57225936087;57324695200;57195070159;21935399500;55370605300;6701827441
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Hussain S.
+2.
+   - **Title:** A Fast Model-Based Control for a Double-Input Three-Switch Bidirectional DC-DC Converter
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/TIA.2025.3618221
+   - **Scopus ID:** 2-s2.0-105018374326
+   - **ISSN:** 00939994
+   - **eISSN:** 19399367
+   - **Authors:** Benevieri A.; Passalacqua M.; Formentini A.; Vaccaro L.; Marchesoni M.
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+   - **Source Id:** 17361
+   - **Author Ids:** 57226763007;57195070159;55370605300;21935399500;6701827441
+   - **Corresponding:** Benevieri A.
+3.
+   - **Title:** Hybrid Energy Storage Systems for Plug-in Fuel Cell Electric Vehicle
+   - **Venue:** 2025 International Conference on Clean Electrical Power Iccep 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICCEP65222.2025.11143723
+   - **Scopus ID:** 2-s2.0-105016628730
+   - **Pages:** 823-829
+   - **Authors:** Cosso Simone; Benevieri Alessandro; Passalacqua Massimiliano; Vaccaro Luis; Formentini Andrea; Marchesoni Mario
+   - **Keywords:** Battery systems | DC-DC converters | EVs | FCEVs | Supercapacitors
+   - **Source Id:** 21101333300
+   - **Author Ids:** 57324695200;57226763007;57195070159;21935399500;55370605300;6701827441
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Cosso S.
+4.
+   - **Title:** Advances and Perspectives in Multilevel Converters: A Comprehensive Review
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 6
+   - **DOI:** 10.3390/electronics13234736
+   - **Scopus ID:** 2-s2.0-85211943269
+   - **eISSN:** 20799292
+   - **Volume:** 13
+   - **Issue:** 23
+   - **Authors:** Benevieri Alessandro; Cosso Simone; Formentini Andrea; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** high-power applications | medium-voltage drives | modulation | multilevel converters (MLCs) | power converters | power electronics | topologies | voltage source inverter (VSI)
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 228, percentile 76)
+     - Signal Processing (Q1, rank 44, percentile 76)
+     - Control and Systems Engineering (Q1, rank 93, percentile 75)
+     - Computer Networks and Communications (Q2, rank 137, percentile 73)
+     - Hardware and Architecture (Q2, rank 62, percentile 72)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 57226763007;57324695200;55370605300;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+5.
+   - **Title:** H2-LMI-Based High Performance Control for Matrix Converter
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/TIE.2023.3333014
+   - **Scopus ID:** 2-s2.0-85179786373
+   - **ISSN:** 02780046
+   - **eISSN:** 15579948
+   - **Volume:** 71
+   - **Issue:** 9
+   - **Pages:** 10029-10038
+   - **Authors:** Carbone Lorenzo; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis; Formentini Andrea
+   - **Keywords:** matrix converter (MC) | rmH2-linear matrix inequality (LMI) optimal control
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 36, percentile 96)
+     - Control and Systems Engineering (Q1, rank 16, percentile 95)
+   - **Source Id:** 26053
+   - **Author Ids:** 57324886200;6701827441;57195070159;21935399500;55370605300
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Carbone L.
+6.
+   - **Title:** Enhanced Model Predictive Control Strategy for the Three-Phase 5-Level Multiplexed Converter
+   - **Venue:** 2024 IEEE Energy Conversion Congress and Exposition Ecce 2024 Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ECCE55643.2024.10861030
+   - **Scopus ID:** 2-s2.0-86000483280
+   - **Pages:** 4061-4067
+   - **Authors:** Di Benedetto Marco; Formentini Andrea; Lidozzi Alessandro; Solero Luca; Marchesoni Mario
+   - **Source Id:** 21101281529
+   - **Author Ids:** 57223905864;55370605300;24766926100;35513447200;6701827441
+   - **Authoraffiliationids:** 60012630;60025153;60012630;60012630;60025153
+   - **Corresponding:** Di Benedetto M.
+7.
+   - **Title:** High efficiency control of AC-DC Matrix based buck converters: DCM modulation
+   - **Venue:** 2024 IEEE Energy Conversion Congress and Exposition Ecce 2024 Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ECCE55643.2024.10861334
+   - **Scopus ID:** 2-s2.0-86000451001
+   - **Pages:** 4112-4118
+   - **Authors:** Rodkin Dmytro; Formentini Andrea; Passalacqua Massimiliano; Vaccaro Luis; Marchesoni Mario
+   - **Keywords:** AC-DC matrix converter | Discontinuous conduction mode (DCM)
+   - **Source Id:** 21101281529
+   - **Author Ids:** 59680007700;55370605300;57195070159;21935399500;6701827441
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Rodkin D.
+8.
+   - **Title:** Voltage and Current Feedforward Terms Impact in the Stability of Grid-Forming Inverter Systems
+   - **Venue:** 2024 IEEE Energy Conversion Congress and Exposition Ecce 2024 Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ECCE55643.2024.10860794
+   - **Scopus ID:** 2-s2.0-86000443632
+   - **Pages:** 4710-4717
+   - **Authors:** Benfatto Oriana; Tresca Giulia; Formentini Andrea; Anglani Norma; Cossu Simone; Zanchetta Pericle
+   - **Keywords:** Droop Control | Feed-forward Terms | Grid-connected Inverter | Grid-forming Inverter | Right Half-Plane Poles Analysis | State Space Approach | Virtual Impedance
+   - **Source Id:** 21101281529
+   - **Author Ids:** 59679244000;56602742700;55370605300;6504091676;59679900900;6602830299
+   - **Authoraffiliationids:** 60015197;60015197;60025153;60015197;60015197;60015197
+   - **Corresponding:** Benfatto O.
+9.
+   - **Title:** A Fast Model-Based Control for a Double-Input Three-Switch Bidirectional DC-DC Converter
+   - **Venue:** 2024 IEEE Energy Conversion Congress and Exposition Ecce 2024 Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ECCE55643.2024.10861341
+   - **Scopus ID:** 2-s2.0-86000438523
+   - **Pages:** 4151-4157
+   - **Authors:** Benevieri Alessandro; Passalacqua Massimiliano; Formentini Andrea; Vaccaro Luis; Marchesoni Mario
+   - **Keywords:** control strategy | DC-DC Converter | discontinuous conduction mode (DCM) | efficiency | multi-input converter
+   - **Source Id:** 21101281529
+   - **Author Ids:** 57226763007;57195070159;55370605300;21935399500;6701827441
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+10.
+   - **Title:** Gradient-Based Predictive Pulse Pattern Control for Permanent Magnet Synchronous Motor Drives
+   - **Venue:** 2024 IEEE International Conference on Electrical Systems for Aircraft Railway Ship Propulsion and Road Vehicles and International Transportation Electrification Conference Esars Itec 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ESARS-ITEC60450.2024.10819776
+   - **Scopus ID:** 2-s2.0-85216929432
+   - **Authors:** Benevieri Alessandro; Karamanakos Petros; Formentini Andrea; Marchesoni Mario
+   - **Keywords:** model predictive control (MPC) | optimal modulation | optimized pulse patterns (OPPs) | Permanent magnet synchronous motor (PMSM) drive
+   - **Source Id:** 21101272773
+   - **Author Ids:** 57226763007;37055806900;55370605300;6701827441
+   - **Authoraffiliationids:** 60025153;60011170;60025153;60025153
+   - **Corresponding:** Benevieri A.
+11.
+   - **Title:** Modeling the Effect of Air-Gap Length and Number of Turns on Ferrite-Core Inductors Working up to Magnetic Saturation in a Buck Converter
+   - **Venue:** IEEE Transactions on Circuits and Systems I Regular Papers
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/TCSI.2024.3421261
+   - **Scopus ID:** 2-s2.0-85204943069
+   - **ISSN:** 15498328
+   - **eISSN:** 15580806
+   - **Volume:** 71
+   - **Issue:** 12
+   - **Pages:** 5400-5409
+   - **Authors:** Ravera Alessandro; Formentini Andrea; Lodi Matteo; Oliveri Alberto; Passalacqua Massimiliano; Storace Marco
+   - **Keywords:** gapped ferrite core | magnetic saturation | nonlinear circuit model | Power inductor
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q1, rank 28, percentile 92)
+     2024:
+     - Engineering (all) (Q1, rank 24, percentile 93)
+   - **Source Id:** 11000153733
+   - **Author Ids:** 57214792545;55370605300;57200266678;57200399832;57195070159;7004134087
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Ravera A.
+12.
+   - **Title:** A nonlinear model of air-gapped ferrite-core inductors for SMPS applications
+   - **Venue:** Proceedings IEEE International Symposium on Circuits and Systems
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ISCAS58744.2024.10558476
+   - **Scopus ID:** 2-s2.0-85198514654
+   - **ISSN:** 02714310
+   - **Authors:** Ravera Alessandro; Formentini Andrea; Lodi Matteo; Oliveri Alberto; Storace Marco
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 652, percentile 34)
+     2024:
+     - Electrical and Electronic Engineering (Q3, rank 537, percentile 44)
+   - **Source Id:** 56190
+   - **Author Ids:** 57214792545;55370605300;57200266678;57200399832;7004134087
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Ravera A.
+13.
+   - **Title:** Sensorless Control with Switching Frequency Square Wave Voltage Injection for SPMSM with Low Rotor Magnetic Anisotropy
+   - **Venue:** IEEE Transactions on Power Electronics
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 28
+   - **DOI:** 10.1109/TPEL.2023.3270357
+   - **Scopus ID:** 2-s2.0-85159695527
+   - **ISSN:** 08858993
+   - **eISSN:** 19410107
+   - **Volume:** 38
+   - **Issue:** 8
+   - **Pages:** 10060-10072
+   - **Authors:** Benevieri Alessandro; Formentini Andrea; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** High-frequency (HF) injection | sensorless control | square-wave injection | surface permanent magnet synchronous motor (SPMSM)
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 50, percentile 95)
+     2023:
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 95)
+   - **Source Id:** 26055
+   - **Author Ids:** 57226763007;55370605300;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+14.
+   - **Title:** Balanced Charging Algorithm for CHB in an EV Powertrain
+   - **Venue:** Energies
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.3390/en16145565
+   - **Scopus ID:** 2-s2.0-85166245313
+   - **eISSN:** 19961073
+   - **Volume:** 16
+   - **Issue:** 14
+   - **Authors:** Gemma Filippo; Tresca Giulia; Formentini Andrea; Zanchetta Pericle
+   - **Keywords:** battery modules | cascaded H-bridge | charging algorithm | charging protocol | multilevel converter
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2023:
+     - Control and Optimization (Q1, rank 19, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 36, percentile 82)
+     - Electrical and Electronic Engineering (Q2, rank 200, percentile 74)
+     - Energy Engineering and Power Technology (Q2, rank 78, percentile 71)
+     - Fuel Technology (Q2, rank 40, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 25, percentile 68)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 103, percentile 62)
+   - **Source Id:** 62932
+   - **Author Ids:** 57959973100;56602742700;55370605300;6602830299
+   - **Authoraffiliationids:** 60015197;60015197;60025153;60015197-60015138
+   - **Corresponding:** Gemma F.
+15.
+   - **Title:** A Reconfigurable Cascaded Multilevel Converter for EV Powertrain
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1109/TIA.2023.3337763
+   - **Scopus ID:** 2-s2.0-85184801585
+   - **ISSN:** 00939994
+   - **eISSN:** 19399367
+   - **Volume:** 60
+   - **Issue:** 2
+   - **Pages:** 3332-3344
+   - **Authors:** Tresca Giulia; Formentini Andrea; Riccio Jacopo; Anglani Norma; Zanchetta Pericle
+   - **Keywords:** battery cell | Battery management system (BMS) | electric vehicle (EV) | multilevel converter | reconfigurable | State of Charge (SOC) balancing
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+     2023:
+     - Control and Systems Engineering (Q1, rank 34, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 45, percentile 88)
+     - Electrical and Electronic Engineering (Q1, rank 95, percentile 88)
+   - **Source Id:** 17361
+   - **Author Ids:** 56602742700;55370605300;57215290023;6504091676;6602830299
+   - **Authoraffiliationids:** 60015197;60025153;60015138;60015197;60015197
+   - **Corresponding:** Tresca G.
+16.
+   - **Title:** A novel charging approach to Temperature and State of Charge management in BEV
+   - **Venue:** 2023 IEEE Energy Conversion Congress and Exposition Ecce 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ECCE53617.2023.10362079
+   - **Scopus ID:** 2-s2.0-85182942869
+   - **Pages:** 2706-2712
+   - **Authors:** Gemma Filippo; Tresca Giulia; Di Salvo Salvatore Riccardo; Formentini Andrea; Zanchetta Pericle
+   - **Keywords:** Battery Electric Vehicle | Battery Model | Reconfigurable Cascaded Multilevel Converter | SOC balancing | Temperature Control
+   - **Source Id:** 21101197266
+   - **Author Ids:** 57959973100;56602742700;57218845787;55370605300;6602830299
+   - **Authoraffiliationids:** 60015197;60015197;60015197;60025153;60015197-60015138
+   - **Corresponding:** Gemma F.
+17.
+   - **Title:** Kalman filter estimation method for battery cell parameters in Reconfigurable Cascaded Multilevel Converter
+   - **Venue:** 2023 IEEE Energy Conversion Congress and Exposition Ecce 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ECCE53617.2023.10362221
+   - **Scopus ID:** 2-s2.0-85182934567
+   - **Pages:** 3648-3653
+   - **Authors:** Tresca Giulia; Formentini Andrea; Granata Samuele; Magrini Carlo; Zanchetta Pericle
+   - **Keywords:** Battery cells | Estimation Technique | Internal resistance | Kalman Filter | Multilevel Converter | Online Estimation | Open circuit voltage | Reconfigurable Cascaded Multilevel Converter | Sorting algorithm
+   - **Source Id:** 21101197266
+   - **Author Ids:** 56602742700;55370605300;57571467300;58834851800;6602830299
+   - **Authoraffiliationids:** 60015197;60025153;60015197;60015197;60015197-60015138
+   - **Corresponding:** Tresca G.
+18.
+   - **Title:** Model Predictive Control of a Double Input Bidirectional Boost DC-DC Converter
+   - **Venue:** 2023 25th European Conference on Power Electronics and Applications EPE 2023 Ecce Europe
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/EPE23ECCEEurope58414.2023.10264606
+   - **Scopus ID:** 2-s2.0-85175145117
+   - **Authors:** Benevieri Alessandro; Formentini Andrea; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** Bi-directional converters | DC-DC converter | Double-input converter
+   - **Source Id:** 21101184577
+   - **Author Ids:** 57226763007;55370605300;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+19.
+   - **Title:** Controller Design of an Active Front-End Converter Keeping in Consideration Grid Dynamic Interaction
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1109/TIE.2021.3080209
+   - **Scopus ID:** 2-s2.0-85107227858
+   - **ISSN:** 02780046
+   - **eISSN:** 15579948
+   - **Volume:** 69
+   - **Issue:** 5
+   - **Pages:** 5195-5206
+   - **Authors:** Li Kang; Formentini Andrea; Dewar David; Zanchetta Pericle
+   - **Keywords:** AC-DC power conversion | impedance identification | optimal control
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+     2022:
+     - Electrical and Electronic Engineering (Q1, rank 22, percentile 97)
+     - Control and Systems Engineering (Q1, rank 9, percentile 97)
+   - **Source Id:** 26053
+   - **Author Ids:** 58382842700;55370605300;57191349066;6602830299
+   - **Authoraffiliationids:** 60015138;60026851;60015138;60015138
+   - **Corresponding:** Li K.
+20.
+   - **Title:** Parameters and Volt-Ampere Ratings of a Floating Capacitor Open-End Winding Synchronous Motor Drive for Extended CPSR
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 9
+   - **DOI:** 10.1109/TIE.2021.3076917
+   - **Scopus ID:** 2-s2.0-85105861018
+   - **ISSN:** 02780046
+   - **eISSN:** 15579948
+   - **Volume:** 69
+   - **Issue:** 5
+   - **Pages:** 4576-4586
+   - **Authors:** Rovere Luca; Valente Giorgio; Formentini Andrea; Zanchetta Pericle
+   - **Keywords:** Constant power speed ratio (CPSR) | floating capacitor (FC) | motor design | open-end winding (OEW) | permanent magnet (PM) | synchronous motor drive (SMD)
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+     2022:
+     - Electrical and Electronic Engineering (Q1, rank 22, percentile 97)
+     - Control and Systems Engineering (Q1, rank 9, percentile 97)
+   - **Source Id:** 26053
+   - **Author Ids:** 57190687733;57192678865;55370605300;6602830299
+   - **Authoraffiliationids:** 60015138;60112215;60026851;60015138
+   - **Corresponding:** Rovere L.
+21.
+   - **Title:** Resonant and a new disturbance-observer combined control for off-grid voltage source inverter
+   - **Venue:** International Journal of Power Electronics and Drive Systems
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.11591/ijpeds.v13.i1.pp223-236
+   - **Scopus ID:** 2-s2.0-85124890462
+   - **ISSN:** 20888694
+   - **Volume:** 13
+   - **Issue:** 1
+   - **Pages:** 223-236
+   - **Authors:** Di Benedetto Marco; Tang Mi; Lidozzi Alessandro; Solero Luca; Formentini Andrea; Zannchetta Pericle
+   - **Keywords:** Non-linear loads | Repetitive observer | Resonant controllers | Three-phase four-leg inverter | Total harmonic distortion
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 478, percentile 52)
+     - Energy Engineering and Power Technology (Q3, rank 168, percentile 48)
+     2022:
+     - Energy Engineering and Power Technology (Q2, rank 113, percentile 55)
+     - Electrical and Electronic Engineering (Q2, rank 348, percentile 52)
+   - **Source Id:** 21100258382
+   - **Author Ids:** 57223905864;57188634600;24766926100;35513447200;55370605300;57458663400
+   - **Authoraffiliationids:** 60012630;60015138;60012630;60012630;60025153;60015138-60015197
+   - **Corresponding:** Di Benedetto M.
+22.
+   - **Title:** Direct AC charging of EV Reconfigurable Cascaded Multilevel Converter
+   - **Venue:** 2022 IEEE Energy Conversion Congress and Exposition Ecce 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ECCE50734.2022.9947306
+   - **Scopus ID:** 2-s2.0-85144079097
+   - **Authors:** Tresca Giulia; Formentini Andrea; Granata Samuele; Leuzzi Riccardo; Zanchetta Pericle
+   - **Keywords:** AC Charging | Charging Time | Electric Vehicle | Filter design | Multilevel converter | Reconfigurable Cascaded Multilevel Converter | Sorting Algorithm
+   - **Source Id:** 21101126128
+   - **Author Ids:** 56602742700;55370605300;57571467300;56448866100;6602830299
+   - **Authoraffiliationids:** 128982881;116607080;128982881;128982881;128982881-105928457
+   - **Corresponding:** Tresca G.
+23.
+   - **Title:** A fast control for a three-switch multi-input DC-DC converter
+   - **Venue:** 24th European Conference on Power Electronics and Applications EPE 2022 Ecce Europe
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-85141581126
+   - **Authors:** Cosso Simone; Formentini Andrea; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** CCM | DC-DC Converter | DCM | Feed-Forward | Power Converters
+   - **Source Id:** 21101119900
+   - **Author Ids:** 57324695200;55370605300;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Cosso S.
+24.
+   - **Title:** SOC governed algorithm for an EV Cascaded H-Bridge connected to a DC charger
+   - **Venue:** 24th European Conference on Power Electronics and Applications EPE 2022 Ecce Europe
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **Scopus ID:** 2-s2.0-85141571827
+   - **Authors:** Tresca Giulia; Formentini Andrea; Gemma Filippo; Lusardi Federico; Leuzzi Riccardo; Zanchetta Pericle
+   - **Keywords:** Battery modules | Cascaded H-Bridge | Charging algorithm | Charging protocol | Multilevel converter
+   - **Source Id:** 21101119900
+   - **Author Ids:** 56602742700;55370605300;57959973100;57959973200;56448866100;6602830299
+   - **Authoraffiliationids:** 60015197;60025153;60015197;128833410;60015197;60015197-60015138
+   - **Corresponding:** Tresca G.
+25.
+   - **Title:** Sensorless Control Exploiting PWM Ripple in PMSM with Low Anisotropy
+   - **Venue:** 2022 International Symposium on Power Electronics Electrical Drives Automation and Motion Speedam 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/SPEEDAM53979.2022.9842129
+   - **Scopus ID:** 2-s2.0-85136221181
+   - **Pages:** 235-239
+   - **Authors:** Benevieri Alessandro; Cosso Simone; Formentini Andrea; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** HF injection | Sensorless control | SPMSM | square-wave injection
+   - **Source Id:** 21101101911
+   - **Author Ids:** 57226763007;57324695200;55370605300;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+26.
+   - **Title:** Reconfigurable Cascaded Multilevel Converter design for Battery Energy System Storage
+   - **Venue:** 2022 International Symposium on Power Electronics Electrical Drives Automation and Motion Speedam 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/SPEEDAM53979.2022.9842134
+   - **Scopus ID:** 2-s2.0-85136198770
+   - **Pages:** 725-729
+   - **Authors:** Tresca Giulia; Formentini Andrea; Di Salvo Salvatore; Leuzzi Riccardo; Anglani Norma; Zanchetta Pericle
+   - **Keywords:** BESS | Cascaded H-Bridge | Efficiency | Multilevel converters | Reconfigurable Cascaded Multilevel converter | Two-level inverter
+   - **Source Id:** 21101101911
+   - **Author Ids:** 56602742700;55370605300;57218845787;56448866100;6504091676;6602830299
+   - **Authoraffiliationids:** 127618493;116607080;127618493;127618493;127618493;127618493-105928457
+   - **Corresponding:** Tresca G.
+27.
+   - **Title:** Interaction of AC Grid Filters in Aircraft and Influence of the System Dynamic Behavior
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 5
+   - **DOI:** 10.1109/TIA.2021.3133212
+   - **Scopus ID:** 2-s2.0-85121339576
+   - **ISSN:** 00939994
+   - **eISSN:** 19399367
+   - **Volume:** 58
+   - **Issue:** 2
+   - **Pages:** 2134-2143
+   - **Authors:** Czerniewski Blazej; Formentini Andrea; Dewar David; Zanchetta Pericle; Schanen Jean Luc
+   - **Keywords:** Active front end (AFE) | aerospace | converter control | design | harmonic filters | optimization | power quality | sequential quadratic programming | voltage source inverter (VSI)
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+     2022:
+     - Industrial and Manufacturing Engineering (Q1, rank 33, percentile 90)
+     - Control and Systems Engineering (Q1, rank 28, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 79, percentile 89)
+   - **Source Id:** 17361
+   - **Author Ids:** 57208663235;55370605300;57191349066;6602830299;7004499496
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015197;60104653
+   - **Corresponding:** Czerniewski B.
+28.
+   - **Title:** A Novel Matrix Converter Modulation with Reduced Number of Commutations
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 21
+   - **DOI:** 10.1109/TIA.2021.3087121
+   - **Scopus ID:** 2-s2.0-85111070036
+   - **ISSN:** 00939994
+   - **eISSN:** 19399367
+   - **Volume:** 57
+   - **Issue:** 5
+   - **Pages:** 4991-5000
+   - **Authors:** Pipolo Sabino; Formentini Andrea; Trentin Andrew; Zanchetta Pericle; Calvini Marco; Venturini Marco
+   - **Keywords:** Efficiency | matrix converter | minimum losses | modulation strategy
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+     2021:
+     - Industrial and Manufacturing Engineering (Q1, rank 25, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 64, percentile 91)
+     - Control and Systems Engineering (Q1, rank 26, percentile 90)
+   - **Source Id:** 17361
+   - **Author Ids:** 56705313100;55370605300;16231836900;6602830299;14422097400;58351076300
+   - **Authoraffiliationids:** 60015138;60026851;60015138;60015138-60015197;123668789;60015197
+   - **Corresponding:** Pipolo S.
+29.
+   - **Title:** A Novel Low Computational Burden Dual-Observer Phase-Locked Loop with Strong Disturbance Rejection Capability for More Electric Aircraft
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.1109/TIA.2021.3075188
+   - **Scopus ID:** 2-s2.0-85105107700
+   - **ISSN:** 00939994
+   - **eISSN:** 19399367
+   - **Volume:** 57
+   - **Issue:** 4
+   - **Pages:** 3832-3841
+   - **Authors:** Tang Mi; Bifaretti Stefano; Pipolo Sabino; Formentini Andrea; Odhano Shafiq; Zanchetta Pericle
+   - **Keywords:** Fault tolerant control | more electric aircraft | phase-locked loops | power system harmonics | repetitive control
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+     2021:
+     - Industrial and Manufacturing Engineering (Q1, rank 25, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 64, percentile 91)
+     - Control and Systems Engineering (Q1, rank 26, percentile 90)
+   - **Source Id:** 17361
+   - **Author Ids:** 57188634600;6504441060;56705313100;55370605300;55976320300;6602830299
+   - **Authoraffiliationids:** 60015138;60027509;126587133;60026851;60006222;60015138-60015197
+   - **Corresponding:** Tang M.
+30.
+   - **Title:** Open-Circuit Fault Control Techniques for Bearingless Multisector Permanent Magnet Synchronous Machines
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.1109/TIA.2021.3060368
+   - **Scopus ID:** 2-s2.0-85101772168
+   - **ISSN:** 00939994
+   - **eISSN:** 19399367
+   - **Volume:** 57
+   - **Issue:** 3
+   - **Pages:** 2527-2536
+   - **Authors:** Wen Zhuang; Valente Giorgio; Formentini Andrea; Papini Luca; Gerada Chris; Zanchetta Pericle
+   - **Keywords:** Bearingless machines | multiphase machines | permanent magnet synchronous machines | single-phase open-circuit fault | three-phase open-circuit fault
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+     2021:
+     - Industrial and Manufacturing Engineering (Q1, rank 25, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 64, percentile 91)
+     - Control and Systems Engineering (Q1, rank 26, percentile 90)
+   - **Source Id:** 17361
+   - **Author Ids:** 57210578091;57192678865;55370605300;36515353900;56264118100;6602830299
+   - **Authoraffiliationids:** 60015138;121308710;60026851;60028868;60015138;60015138
+   - **Corresponding:** Wen Z.
+31.
+   - **Title:** Optimal and automated decentralised converter control design in more electrical aircraft power electronics embedded grids
+   - **Venue:** Iet Power Electronics
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1049/pel2.12056
+   - **Scopus ID:** 2-s2.0-85101327366
+   - **ISSN:** 17554535
+   - **eISSN:** 17554543
+   - **Volume:** 14
+   - **Issue:** 3
+   - **Pages:** 690-705
+   - **Authors:** Dewar D.; Formentini A.; Li K.; Zanchetta P.; Wheeler P.
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 321, percentile 67)
+     2021:
+     - Electrical and Electronic Engineering (Q1, rank 172, percentile 75)
+   - **Source Id:** 19700186866
+   - **Author Ids:** 57191349066;55370605300;58382842700;6602830299;7101693838
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60015138
+   - **Corresponding:** Dewar D.
+32.
+   - **Title:** Multivariable deadbeat control of power electronics converters with fast dynamic response and fixed switching frequency
+   - **Venue:** Energies
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 16
+   - **DOI:** 10.3390/en14020313
+   - **Scopus ID:** 2-s2.0-85106243044
+   - **eISSN:** 19961073
+   - **Volume:** 14
+   - **Issue:** 2
+   - **Authors:** Rohten Jaime A.; Dewar David N.; Zanchetta Pericle; Formentini Andrea; Muñoz Javier A.; Baier Carlos R.; Silva José J.
+   - **Keywords:** Energy management | Model predictive control | Power converters | Soft deadbeat algorithm
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2021:
+     - Control and Optimization (Q1, rank 18, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 19, percentile 83)
+     - Subject (Q1, rank 51, percentile 76)
+     - Energy (miscellaneous) (Q2, rank 10, percentile 72)
+     - Electrical and Electronic Engineering (Q2, rank 201, percentile 71)
+     - Energy Engineering and Power Technology (Q2, rank 73, percentile 69)
+     - Fuel Technology (Q2, rank 38, percentile 65)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 58)
+   - **Source Id:** 62932
+   - **Author Ids:** 54947327900;57191349066;6602830299;55370605300;7402869772;58088573500;57190765306
+   - **Authoraffiliationids:** 60023195;60015138;60015138-60015197;60015138;60016278;60016278;60001282
+   - **Corresponding:** Rohten J.A.
+33.
+   - **Title:** Reconfigurable Cascaded Multilevel Converter: A New Topology for EV Powertrain
+   - **Venue:** 2021 IEEE Energy Conversion Congress and Exposition Ecce 2021 Proceedings
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/ECCE47101.2021.9595741
+   - **Scopus ID:** 2-s2.0-85123353441
+   - **Pages:** 1454-1460
+   - **Authors:** Tresca Giulia; Leuzzi Riccardo; Formentini Andrea; Rovere Luca; Anglani Norma; Zanchetta Pericle
+   - **Keywords:** Comparison | driving cycles | efficiency | inverter | multilevel converter | new topology | reconfigurable battery modules
+   - **Source Id:** 21101073685
+   - **Author Ids:** 56602742700;56448866100;55370605300;57190687733;6504091676;6602830299
+   - **Authoraffiliationids:** 127618493;127618493;127618493;127618493;127618493;127618493
+   - **Corresponding:** Tresca G.
+34.
+   - **Title:** A Novel Current Limitation Technique Exploiting the Maximum Capability of Power Electronic Inverter and Bearingless Machine
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.1109/TIA.2021.3069149
+   - **Scopus ID:** 2-s2.0-85103277647
+   - **ISSN:** 00939994
+   - **eISSN:** 19399367
+   - **Volume:** 57
+   - **Issue:** 6
+   - **Pages:** 7012-7023
+   - **Authors:** Wen Zhuang; Valente Giorgio; Formentini Andrea; Papini Luca; Gerada Chris; Zanchetta Pericle
+   - **Keywords:** Bearingless machines | current limitation | fault tolerance | multiphase machines | permanent magnet synchronous machines
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+     2021:
+     - Industrial and Manufacturing Engineering (Q1, rank 25, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 64, percentile 91)
+     - Control and Systems Engineering (Q1, rank 26, percentile 90)
+   - **Source Id:** 17361
+   - **Author Ids:** 57210578091;57192678865;55370605300;36515353900;56264118100;6602830299
+   - **Authoraffiliationids:** 60015138;121308710;60026851;60028868;60015138;60015138
+   - **Corresponding:** Wen Z.
+35.
+   - **Title:** Disturbance Rejection Ability Enhancement Using Repetitive Observer in Phase-locked Loop for More Electric Aircraft
+   - **Venue:** Ecce 2020 IEEE Energy Conversion Congress and Exposition
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ECCE44975.2020.9235893
+   - **Scopus ID:** 2-s2.0-85097199038
+   - **Pages:** 6379-6384
+   - **Authors:** Tang Mi; Bifaretti Stefano; Pipolo Sabino; Formentini Andrea; Odhano Shafiq; Zanchetta Pericle
+   - **Keywords:** fault tolerant control | more electric aircraft | phase-locked loops | power system harmonics | repetitive control
+   - **Source Id:** 21101029715
+   - **Author Ids:** 57188634600;6504441060;56705313100;55370605300;55976320300;6602830299
+   - **Authoraffiliationids:** 60015138;60027509;60015138;60015138;60006222;60015138-60015197
+   - **Corresponding:** Tang M.
+36.
+   - **Title:** AC-DC Isolated Matrix Converter Charger: Topology and Modulation
+   - **Venue:** Ecce 2020 IEEE Energy Conversion Congress and Exposition
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/ECCE44975.2020.9235696
+   - **Scopus ID:** 2-s2.0-85097162902
+   - **Pages:** 1583-1588
+   - **Authors:** Rovere Luca; Pipolo Sabino; Formentini Andrea; Zanchetta Pericle
+   - **Keywords:** AC-DC | Battery charger | Efficiency | Matrix converter | Modulation strategy
+   - **Source Id:** 21101029715
+   - **Author Ids:** 57190687733;56705313100;55370605300;6602830299
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138-60015197
+   - **Corresponding:** Rovere L.
+37.
+   - **Title:** Control of a Dual Fed Open End Winding SPMSM with a Floating Capacitor
+   - **Venue:** Ecce 2020 IEEE Energy Conversion Congress and Exposition
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ECCE44975.2020.9235937
+   - **Scopus ID:** 2-s2.0-85097139860
+   - **Pages:** 4036-4043
+   - **Authors:** Minaglia Davide; Rovere Luca; Formentini Andrea; Leuzzi Riccardo; Pipolo Sabino; Marchesoni Mario; Zanchetta Pericle
+   - **Keywords:** Dual-Fed | Floating Capacitor | Linear Quadratic Regulator | Open-End Winding Machine | Permanent Magnet Synchronous Motor | State-Space Control
+   - **Source Id:** 21101029715
+   - **Author Ids:** 57220184955;57190687733;55370605300;56448866100;56705313100;6701827441;6602830299
+   - **Authoraffiliationids:** 125499884;60015138;60015138;60015197;60015138;60025153;125499884-60025153
+   - **Corresponding:** Minaglia D.
+38.
+   - **Title:** Reuse of a Damaged Permanent Magnet Synchronous Motor for Torque Ripple and Acoustic Noise Elimination Using a Novel Repetitive Observer
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 11
+   - **DOI:** 10.1109/TIA.2020.2989681
+   - **Scopus ID:** 2-s2.0-85089572494
+   - **ISSN:** 00939994
+   - **eISSN:** 19399367
+   - **Volume:** 56
+   - **Issue:** 4
+   - **Pages:** 3790-3798
+   - **Authors:** Tang Mi; Odhano Shafiq; Formentini Andrea; Zanchetta Pericle
+   - **Keywords:** Acoustic noise | demagnetization | fault tolerant | repetitive observer (RO) | torque ripple reduction
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+     2020:
+     - Industrial and Manufacturing Engineering (Q1, rank 23, percentile 93)
+     - Control and Systems Engineering (Q1, rank 25, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 69, percentile 90)
+   - **Source Id:** 17361
+   - **Author Ids:** 57188634600;55976320300;55370605300;6602830299
+   - **Authoraffiliationids:** 60015138;60006222;60015138;60015138
+   - **Corresponding:** Tang M.
+39.
+   - **Title:** Torque Ripple Reduction in Sectored Multi Three-Phase Machines Based on PWM Carrier Phase Shift
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 23
+   - **DOI:** 10.1109/TIE.2019.2931239
+   - **Scopus ID:** 2-s2.0-85079826621
+   - **ISSN:** 02780046
+   - **eISSN:** 15579948
+   - **Volume:** 67
+   - **Issue:** 6
+   - **Pages:** 4315-4325
+   - **Authors:** Wang Xuchen; Sala Giacomo; Zhang He; Gu Chunyang; Buticchi Giampaolo; Formentini Andrea; Gerada Chris; Wheeler Patrick
+   - **Keywords:** Analytical models | machine vector control | multiphase drives | permanent-magnet machines | pulsewidth modulation (PWM) | torque control
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+     2020:
+     - Control and Systems Engineering (Q1, rank 3, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 11, percentile 98)
+   - **Source Id:** 26053
+   - **Author Ids:** 57212577726;57143907500;56941059500;35304827600;6507708268;55370605300;56264118100;7101693838
+   - **Authoraffiliationids:** 60104720;60028218;60104720;60104720;60104720;60015138;60015138;60015138
+   - **Corresponding:** Wang X.
+40.
+   - **Title:** Electric Drive Based on an Open-End Winding Surface PM Synchronous Machine with a Floating Capacitor Bridge
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 26
+   - **DOI:** 10.1109/TIA.2020.2977596
+   - **Scopus ID:** 2-s2.0-85084191265
+   - **ISSN:** 00939994
+   - **eISSN:** 19399367
+   - **Volume:** 56
+   - **Issue:** 3
+   - **Pages:** 2709-2718
+   - **Authors:** Amerise Albino; Rovere Luca; Formentini Andrea; Mengoni Michele; Zarri Luca; Zanchetta Pericle
+   - **Keywords:** AC motors | motor drives | multilevel systems | permanent magnet machines | pulse-width modulated (PWM) inverters | variable speed drives
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+     2020:
+     - Industrial and Manufacturing Engineering (Q1, rank 23, percentile 93)
+     - Control and Systems Engineering (Q1, rank 25, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 69, percentile 90)
+   - **Source Id:** 17361
+   - **Author Ids:** 57193650641;57190687733;55370605300;36881085200;6508149592;6602830299
+   - **Authoraffiliationids:** 60028218;60015138;60015138;60028218;60028218;60015138
+   - **Corresponding:** Amerise A.
+41.
+   - **Title:** Torque Ripple Reduction of PMSMs Using a Novel Angle-Based Repetitive Observer
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 71
+   - **DOI:** 10.1109/TIE.2019.2912798
+   - **Scopus ID:** 2-s2.0-85076704292
+   - **ISSN:** 02780046
+   - **eISSN:** 15579948
+   - **Volume:** 67
+   - **Issue:** 4
+   - **Pages:** 2689-2699
+   - **Authors:** Tang Mi; Formentini Andrea; Odhano Shafiq Ahmed; Zanchetta Pericle
+   - **Keywords:** disturbance observer (DOB) | reduced-order observer | Repetitive control | torque ripple reduction | variable speed drives
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+     2020:
+     - Control and Systems Engineering (Q1, rank 3, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 11, percentile 98)
+   - **Source Id:** 26053
+   - **Author Ids:** 57188634600;55370605300;55976320300;6602830299
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138
+   - **Corresponding:** Tang M.
+42.
+   - **Title:** Mechanical Vibration Suppression on Multi-Sector PMSM with Optimal Active Vibration Control
+   - **Venue:** Iet Conference Proceedings
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1049/icp.2021.1123
+   - **Scopus ID:** 2-s2.0-85174643793
+   - **eISSN:** 27324494
+   - **Volume:** 2020
+   - **Issue:** 7
+   - **Pages:** 314-319
+   - **Authors:** Wen Zhuang; Valente Giorgio; Formentini Andrea; Papini Luca; Zanchetta Pericle; Gerada Christopher
+   - **Keywords:** Active vibration control | Linaer quadratic regulator | Radial force control | State space design method
+   - **Quartile:**
+     2025:
+     - Engineering (all) (Q4, rank 329, percentile 5)
+   - **Source Id:** 21101162960
+   - **Author Ids:** 57210578091;57192678865;55370605300;36515353900;6602830299;56264118100
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60028868;60015138;60015138
+   - **Corresponding:** Wen Z.
+43.
+   - **Title:** Decentralised Optimal Controller Design of Variable Frequency Three-Phase Power Electronic Networks Accounting for Sub-System Interactions
+   - **Venue:** IEEE Open Journal of Industry Applications
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1109/OJIA.2020.3044810
+   - **Scopus ID:** 2-s2.0-85119065542
+   - **eISSN:** 26441241
+   - **Volume:** 1
+   - **Pages:** 270-282
+   - **Authors:** Dewar David; Rohten Jaime; Formentini Andrea; Zanchetta Pericle
+   - **Keywords:** Decentralised control | more electric aircraft | non-linear system | optimal control | variable frequency
+   - **Quartile:**
+     2025:
+     - Industrial and Manufacturing Engineering (Q2, rank 114, percentile 72)
+     - Electrical and Electronic Engineering (Q2, rank 283, percentile 71)
+     - Control and Systems Engineering (Q2, rank 114, percentile 70)
+   - **Source Id:** 21101162817
+   - **Author Ids:** 57191349066;54947327900;55370605300;6602830299
+   - **Authoraffiliationids:** 60015138;60023195;60015138;60015138
+   - **Corresponding:** Dewar D.
+44.
+   - **Title:** Zero-Sequence Voltage Elimination for Dual-Fed Common DC-Link Open-End Winding PMSM High-Speed Starter-Generator - Part II: Deadtime Hysteresis Control of Zero-Sequence Current
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.1109/TIA.2019.2907095
+   - **Scopus ID:** 2-s2.0-85075474360
+   - **ISSN:** 00939994
+   - **eISSN:** 19399367
+   - **Volume:** 55
+   - **Issue:** 6
+   - **Pages:** 7813-7821
+   - **Authors:** Rovere Luca; Formentini Andrea; Calzo Giovanni Lo; Zanchetta Pericle; Cox Tom
+   - **Keywords:** Deadtime (DT) | dual-fed single dc-link drive | hysteresis control | open-end winding (OEW) machine | permanent magnet synchronous motor (PMSM) | zero-sequence current (ZSC) | zero-sequence voltage (ZSV)
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+     2019:
+     - Industrial and Manufacturing Engineering (Q1, rank 30, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 76, percentile 88)
+     - Control and Systems Engineering (Q1, rank 29, percentile 88)
+   - **Source Id:** 17361
+   - **Author Ids:** 57190687733;55370605300;57191194891;6602830299;57202863074
+   - **Authoraffiliationids:** 60015138;60015138;123498449;60015138-60015197;60015138
+   - **Corresponding:** Rovere L.
+45.
+   - **Title:** Zero-Sequence Voltage Elimination for Dual-Fed Common DC-Link Open-End Winding PMSM High-Speed Starter-Generator - Part I: Modulation
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 47
+   - **DOI:** 10.1109/TIA.2019.2907073
+   - **Scopus ID:** 2-s2.0-85075457948
+   - **ISSN:** 00939994
+   - **eISSN:** 19399367
+   - **Volume:** 55
+   - **Issue:** 6
+   - **Pages:** 7804-7812
+   - **Authors:** Rovere Luca; Formentini Andrea; Calzo Giovanni Lo; Zanchetta Pericle; Cox Tom
+   - **Keywords:** Dead time (DT) | dual-fed (DF) single dc-link drive | open-end winding (OEW) machine | permanent magnet synchronous motor (PMSM) | zero-sequence current (ZSC) | zero-sequence voltage (ZSV)
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+     2019:
+     - Industrial and Manufacturing Engineering (Q1, rank 30, percentile 91)
+     - Electrical and Electronic Engineering (Q1, rank 76, percentile 88)
+     - Control and Systems Engineering (Q1, rank 29, percentile 88)
+   - **Source Id:** 17361
+   - **Author Ids:** 57190687733;55370605300;57191194891;6602830299;57202863074
+   - **Authoraffiliationids:** 60015138;60015138;60258352;60015138-60015197;60015138
+   - **Corresponding:** Rovere L.
+46.
+   - **Title:** Fast Self-Tuning Decentralized Variable Frequency Optimal Controller Design for Three-Phase Embedded Grids
+   - **Venue:** IECON Proceedings Industrial Electronics Conference
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/IECON.2019.8927110
+   - **Scopus ID:** 2-s2.0-85083985403
+   - **Volume:** 2019-October
+   - **Pages:** 3894-3899
+   - **Authors:** Dewar David; Rhoten Jaime; Formentini Andrea; Zanchetta Pericle
+   - **Keywords:** Embedded Grids | Optimal Control | Self Tuning | Three-Phase | Variable Frequency
+   - **Source Id:** 56670
+   - **Author Ids:** 57191349066;57216583366;55370605300;6602830299
+   - **Authoraffiliationids:** 60015138;60023195;60015138;60015138
+   - **Corresponding:** Dewar D.
+47.
+   - **Title:** Reuse of a damaged permanent magnet synchronous motor for torque ripple and acoustic noise elimination using a novel repetitive observer
+   - **Venue:** 2019 IEEE Energy Conversion Congress and Exposition Ecce 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/ECCE.2019.8912822
+   - **Scopus ID:** 2-s2.0-85076791067
+   - **Pages:** 334-338
+   - **Authors:** Tang Mi; Odhano Shafiq; Formentini Andrea; Zanchetta Pericle
+   - **Keywords:** Acoustic noise | Demagnetization | Fault-tolerance | Repetitive observer | Torque ripple reduction
+   - **Source Id:** 21100939583
+   - **Author Ids:** 57188634600;55976320300;55370605300;6602830299
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138
+   - **Corresponding:** Tang M.
+48.
+   - **Title:** Grid impedance identification and structured-h2 optimization based controller design of active front-end in embedded AC networks
+   - **Venue:** 2019 IEEE Energy Conversion Congress and Exposition Ecce 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/ECCE.2019.8912832
+   - **Scopus ID:** 2-s2.0-85076790411
+   - **Pages:** 4840-4845
+   - **Authors:** Li Kang; Dewar David; Formentini Andrea; Zanchetta Pericle; Wheeler Pat
+   - **Keywords:** Active front-end | H2 optimization | Identification
+   - **Source Id:** 21100953575
+   - **Author Ids:** 58382842700;57191349066;55370605300;6602830299;7101693838
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60015138
+   - **Corresponding:** Li K.
+49.
+   - **Title:** Smart current limitation technique for a multiphase bearingless machine with combined winding system
+   - **Venue:** 2019 IEEE Energy Conversion Congress and Exposition Ecce 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ECCE.2019.8913291
+   - **Scopus ID:** 2-s2.0-85076744037
+   - **Pages:** 6099-6105
+   - **Authors:** Wen Zhuang; Valente Giorgio; Formentini Andrea; Papini Luca; Zanchetta Pericle; Gerada Christopher
+   - **Keywords:** Bearingless | Current limitation | Multiphase Machines | PM Synchronous Machines
+   - **Source Id:** 21100939583
+   - **Author Ids:** 57210578091;57192678865;55370605300;36515353900;6602830299;56264118100
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60015138;60015138
+   - **Corresponding:** Wen Z.
+50.
+   - **Title:** Optimal control of matrix converters
+   - **Venue:** 2019 21st European Conference on Power Electronics and Applications EPE 2019 Ecce Europe
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.23919/EPE.2019.8914924
+   - **Scopus ID:** 2-s2.0-85076715477
+   - **Authors:** Formentini Andrea; Pipolo Sabino; Trentin Andrew; Zanchetta Pericle
+   - **Keywords:** LQR | Matrix converter | Optimal control
+   - **Source Id:** 21100939561
+   - **Author Ids:** 55370605300;56705313100;16231836900;6602830299
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138
+   - **Corresponding:** Formentini A.
+51.
+   - **Title:** Impact of converters interactions on control design in a power electronics dense network: Application to more electric aircraft
+   - **Venue:** 2019 21st European Conference on Power Electronics and Applications EPE 2019 Ecce Europe
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/EPE.2019.8915020
+   - **Scopus ID:** 2-s2.0-85076681227
+   - **Authors:** Czerniewski Blazej; Formentini Andrea; Dewar David; Zanchetta Pericle; Schanen Jean Luc
+   - **Keywords:** Active Front-End | Aerospace | Airplane | Control methods for electrical system | Converter control | Optimal control | Voltage Source Inverters (VSI)
+   - **Source Id:** 21100939561
+   - **Author Ids:** 57208663235;55370605300;57191349066;6602830299;7004499496
+   - **Authoraffiliationids:** 60015138-60104653;60015138;60015138;60015138;60104653
+   - **Corresponding:** Czerniewski B.
+52.
+   - **Title:** Repetitive observer design for torque ripple reduction in PMSM drives
+   - **Venue:** 2019 21st European Conference on Power Electronics and Applications EPE 2019 Ecce Europe
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.23919/EPE.2019.8914793
+   - **Scopus ID:** 2-s2.0-85076673403
+   - **Authors:** Tang Mi; Formentini Andrea; Zanchetta Pericle
+   - **Keywords:** Control methods for electrical systems | Control of drive | Design | Harmonics
+   - **Source Id:** 21100939561
+   - **Author Ids:** 57188634600;55370605300;6602830299
+   - **Authoraffiliationids:** 60015138;60015138;60015138
+   - **Corresponding:** Tang M.
+53.
+   - **Title:** Demagentization Issues in Low Cost Synchronous Machine
+   - **Venue:** Proceedings of the 2019 IEEE 12th International Symposium on Diagnostics for Electrical Machines Power Electronics and Drives Sdemped 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/DEMPED.2019.8864886
+   - **Scopus ID:** 2-s2.0-85074294179
+   - **Pages:** 82-87
+   - **Authors:** Bianchini Claudio; Torreggiani Ambra; Davoli Matteo; David Danilo; Bellini Alberto; Formentini Andrea
+   - **Keywords:** efficiency class | iron losses | magnet eddy currents | Permanent-Magnet synchronous motors
+   - **Source Id:** 21100934208
+   - **Author Ids:** 35228476500;57193014190;36677175000;57205503275;7006264843;55370605300
+   - **Authoraffiliationids:** 60004591;60172288;60028218;60028218;60004591;123385674
+   - **Corresponding:** Bianchini C.
+54.
+   - **Title:** Particle Swarm Optimization Tuning of Modular Multilevel Converters in a Time-Invariant Framework
+   - **Venue:** Proceedings of the International Conference on Power Electronics and Drive Systems
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/PEDS44367.2019.8998775
+   - **Scopus ID:** 2-s2.0-85080926199
+   - **ISSN:** 21645256
+   - **eISSN:** 21645264
+   - **Volume:** 2019-July
+   - **Authors:** Bergna-Diaz Gilbert; Formentini Andrea; Zanchetta Pericle; Tedeschi Elisabetta
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q4, rank 802, percentile 19)
+   - **Source Id:** 26137
+   - **Author Ids:** 52363203400;55370605300;6602830299;16025394900
+   - **Authoraffiliationids:** 60013141;60015138;60015138;60013141
+   - **Corresponding:** Bergna-Diaz G.
+55.
+   - **Title:** A New Modulation Approach for Matrix Converter
+   - **Venue:** Icpe 2019 Ecce Asia 10th International Conference on Power Electronics Ecce Asia
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **Scopus ID:** 2-s2.0-85071617425
+   - **Pages:** 1021-1027
+   - **Authors:** Pipolo S.; Formentini A.; Trentin A.; Zanchetta P.; Calvini M.; Venturini M.
+   - **Keywords:** Efficiency | Losses | Matrix converter | Modulation strategy
+   - **Source Id:** 21100927125
+   - **Author Ids:** 56705313100;55370605300;16231836900;6602830299;14422097400;58351076300
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60015138;101296397
+   - **Corresponding:** Pipolo S.
+56.
+   - **Title:** Finite control set-model predictive control for the dual fed common dc-link open-end winding pmsm drive
+   - **Venue:** 2019 IEEE International Electric Machines and Drives Conference Iemdc 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/IEMDC.2019.8785141
+   - **Scopus ID:** 2-s2.0-85071008079
+   - **Pages:** 2203-2209
+   - **Authors:** Rovere Luca; Formentini Andrea; Zanchetta Pericle
+   - **Keywords:** Dual-fed single dc-link drive | Finite set model predictive control | Open-end winding machine | Permanent magnet synchronous motor | Zero-sequence current | Zero-sequence voltage
+   - **Source Id:** 21100924811
+   - **Author Ids:** 57190687733;55370605300;6602830299
+   - **Authoraffiliationids:** 60015138;60015138;60015138
+   - **Corresponding:** Rovere L.
+57.
+   - **Title:** Single-phase open-circuit fault operation of bearingless multi-sector pm machines
+   - **Venue:** 2019 IEEE International Electric Machines and Drives Conference Iemdc 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/IEMDC.2019.8785111
+   - **Scopus ID:** 2-s2.0-85070974063
+   - **Pages:** 1087-1092
+   - **Authors:** Wen Zhuang; Valente Giorgio; Formentini Andrea; Papini Luca; Zanchetta Pericle; Gerada Christopher
+   - **Source Id:** 21100924811
+   - **Author Ids:** 57210578091;57192678865;55370605300;36515353900;6602830299;56264118100
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60015138;60015138
+   - **Corresponding:** Wen Z.
+58.
+   - **Title:** FPGA Implementation of a Novel Oversampling Deadbeat Controller for PMSM Drives
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 88
+   - **DOI:** 10.1109/TIE.2018.2851994
+   - **Scopus ID:** 2-s2.0-85049775270
+   - **ISSN:** 02780046
+   - **Volume:** 66
+   - **Issue:** 5
+   - **Pages:** 3731-3741
+   - **Authors:** Rovere Luca; Formentini Andrea; Zanchetta Pericle
+   - **Keywords:** Deadbeat control | model-predictive control | oversampling | permanent magnet synchronous motors
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+     2019:
+     - Control and Systems Engineering (Q1, rank 3, percentile 98)
+     - Electrical and Electronic Engineering (Q1, rank 13, percentile 98)
+   - **Source Id:** 26053
+   - **Author Ids:** 57190687733;55370605300;6602830299
+   - **Authoraffiliationids:** 60015138;60015138;60015138
+   - **Corresponding:** Rovere L.
+59.
+   - **Title:** Performance Improvement of Bearingless Multisector PMSM With Optimal Robust Position Control
+   - **Venue:** IEEE Transactions on Power Electronics
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 36
+   - **DOI:** 10.1109/TPEL.2018.2853038
+   - **Scopus ID:** 2-s2.0-85049467290
+   - **ISSN:** 08858993
+   - **Volume:** 34
+   - **Issue:** 4
+   - **Pages:** 3575-3585
+   - **Authors:** Valente Giorgio; Formentini Andrea; Papini Luca; Gerada Christopher; Zanchetta Pericle
+   - **Keywords:** Bearingless machines | H 2 control | H ∞ control | linear matrix inequality (LMI) | linear quadratic regulator (LQR) | multiphase machines
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 50, percentile 95)
+     2019:
+     - Electrical and Electronic Engineering (Q1, rank 19, percentile 97)
+   - **Source Id:** 26055
+   - **Author Ids:** 57192678865;55370605300;36515353900;56264118100;6602830299
+   - **Authoraffiliationids:** 60015138;60015138;60015138-60104720;60015138-60104720;60015138
+   - **Corresponding:** Valente G.
+60.
+   - **Title:** Performance Analysis of H- 2 Optimally Controlled Three-Phase Grids
+   - **Venue:** 2018 IEEE Energy Conversion Congress and Exposition Ecce 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ECCE.2018.8558087
+   - **Scopus ID:** 2-s2.0-85060314653
+   - **Pages:** 2258-2264
+   - **Authors:** Dewar David; Li Kang; Formentini Andrea; Zanchetta Pericle; Wheeler Pat
+   - **Source Id:** 21100895600
+   - **Author Ids:** 57191349066;58382842700;55370605300;6602830299;7101693838
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60015138
+   - **Corresponding:** Dewar D.
+61.
+   - **Title:** Real-Time Implicit Model Predictive Control for 3-phase VSI
+   - **Venue:** 2018 IEEE Energy Conversion Congress and Exposition Ecce 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ECCE.2018.8557623
+   - **Scopus ID:** 2-s2.0-85060311896
+   - **Pages:** 4015-4020
+   - **Authors:** Sabatini V.; Lidozzi A.; Solero L.; Formentini A.; Zanchetta P.; Bifaretti S.
+   - **Keywords:** Active Set | FPGA | Implicit | LC filter | Model Predictive Control | Quadratic Programming | VSI
+   - **Source Id:** 21100895600
+   - **Author Ids:** 57193016640;24766926100;35513447200;55370605300;6602830299;6504441060
+   - **Authoraffiliationids:** 60012630;60012630;60012630;60015138;60015138;60027509
+   - **Corresponding:** Sabatini V.
+62.
+   - **Title:** Disturbance-Observer Assisted Controller for Stand-Alone Four-Leg Voltage Source Inverter
+   - **Venue:** 2018 IEEE Energy Conversion Congress and Exposition Ecce 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/ECCE.2018.8558023
+   - **Scopus ID:** 2-s2.0-85060283438
+   - **Pages:** 2265-2270
+   - **Authors:** Di Benedetto Marco; Lidozzi Alessandro; Solero Luca; Tang Mi; Formentini Andrea; Zanchetta Pericle
+   - **Keywords:** Disturbance observer | Harmonic content | Non-linear loads | Resonant controllers | Three-phase four-leg inverter
+   - **Source Id:** 21100895600
+   - **Author Ids:** 57223905864;24766926100;35513447200;57188634600;55370605300;6602830299
+   - **Authoraffiliationids:** 60012630;60012630;60012630;60015138;60015138;60015138
+   - **Corresponding:** Di Benedetto M.
+63.
+   - **Title:** Control System for Open-End Winding Surface PM Synchronous Machines with a Floating Capacitor Bridge
+   - **Venue:** 2018 IEEE Energy Conversion Congress and Exposition Ecce 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ECCE.2018.8557884
+   - **Scopus ID:** 2-s2.0-85060280942
+   - **Pages:** 6585-6591
+   - **Authors:** Amerise Albino; Rovere Luca; Formentini Andrea; Mengoni Michele; Zarri Luca; Zanchetta Pericle
+   - **Keywords:** Floating capacitor bridge | High speed application | Open-end winding | Surface permanent magnet synchronous motor | Unity power factor
+   - **Source Id:** 21100895600
+   - **Author Ids:** 57193650641;57190687733;55370605300;36881085200;6508149592;6602830299
+   - **Authoraffiliationids:** 60028218;60015138;60028218;60028218;60028218;60015138
+   - **Corresponding:** Amerise A.
+64.
+   - **Title:** Stability assessment of high-bandwidth DC voltage controllers in single-phase active front ends: LTI Versus LTP Models
+   - **Venue:** IEEE Journal of Emerging and Selected Topics in Power Electronics
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1109/JESTPE.2018.2810282
+   - **Scopus ID:** 2-s2.0-85042873492
+   - **ISSN:** 21686777
+   - **eISSN:** 21686785
+   - **Volume:** 6
+   - **Issue:** 4
+   - **Pages:** 2147-2158
+   - **Authors:** Salis Valerio; Costabeber Alessandro; Cox Stephen M.; Formentini Andrea; Zanchetta Pericle
+   - **Keywords:** Active front ends | harmonic state-space (HSS) model | linear time-periodic (LTP) systems | power converters | stability analysis
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 66, percentile 93)
+     - Energy Engineering and Power Technology (Q1, rank 32, percentile 90)
+     2018:
+     - Energy Engineering and Power Technology (Q1, rank 8, percentile 96)
+     - Electrical and Electronic Engineering (Q1, rank 28, percentile 95)
+   - **Source Id:** 21100338359
+   - **Author Ids:** 57000380300;24921472500;7401455937;55370605300;6602830299
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60015138
+   - **Corresponding:** Salis V.
+65.
+   - **Title:** Optimized control design for power converters in power electronics embedded networks integrating grid model identification
+   - **Venue:** 2018 IEEE Industry Applications Society Annual Meeting IAS 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IAS.2018.8544592
+   - **Scopus ID:** 2-s2.0-85059955470
+   - **Authors:** Li Kang; Dewar David; Formentini Andrea; Zanchetta Pericle; Wheeler Pat
+   - **Source Id:** 21100894616
+   - **Author Ids:** 58382842700;57191349066;55370605300;6602830299;7101693838
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60015138
+   - **Corresponding:** Li K.
+66.
+   - **Title:** Open-Circuit Fault Tolerant Study of Bearingless Multi-Sector Permanent Magnet Machines
+   - **Venue:** 2018 International Power Electronics Conference IPEC Niigata Ecce Asia 2018
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.23919/IPEC.2018.8507470
+   - **Scopus ID:** 2-s2.0-85057296272
+   - **Pages:** 4034-4041
+   - **Authors:** Valente G.; Papini L.; Formentini A.; Gerada C.; Zanchetta P.
+   - **Keywords:** Bearingless motor | Fault Tolerant | Force Control | Multiphase Motors | Permanent Magnet Machines
+   - **Source Id:** 21100887837
+   - **Author Ids:** 57192678865;36515353900;55370605300;56264118100;6602830299
+   - **Authoraffiliationids:** 60015138;60015138-60104720;60015138;60015138-60104720;60015138
+   - **Corresponding:** Valente G.
+67.
+   - **Title:** Space Vectors and Pseudoinverse Matrix Methods for the Radial Force Control in Bearingless Multisector Permanent Magnet Machines
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 26
+   - **DOI:** 10.1109/TIE.2018.2795590
+   - **Scopus ID:** 2-s2.0-85040945420
+   - **ISSN:** 02780046
+   - **Volume:** 65
+   - **Issue:** 9
+   - **Pages:** 6912-6922
+   - **Authors:** Sala G.; Valente G.; Formentini A.; Papini L.; Gerada D.; Zanchetta P.; Tani A.; Gerada C.
+   - **Keywords:** Analytical models | displacement control | force control | machine vector control | magnetic levitation | permanent magnet machines
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+     2018:
+     - Control and Systems Engineering (Q1, rank 2, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 14, percentile 97)
+   - **Source Id:** 26053
+   - **Author Ids:** 57143907500;57192678865;55370605300;36515353900;26531152800;6602830299;7102420841;56264118100
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60015138;60015138;60028218;60015138
+   - **Corresponding:** Sala G.
+68.
+   - **Title:** Identification of Linear Permanent Magnet Synchronous Motor Parameters and Inverter Non-Linearity Effects
+   - **Venue:** Speedam 2018 Proceedings International Symposium on Power Electronics Electrical Drives Automation and Motion
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/SPEEDAM.2018.8445214
+   - **Scopus ID:** 2-s2.0-85053856851
+   - **Pages:** 26-32
+   - **Authors:** Odhano Shafiq; Tang Mi; Formentini Andrea; Zanchetta Pericle; Bojoi Radu
+   - **Keywords:** Inverter non-linearity | Linear machines | Parameter estimation | Permanent magnet machines | Servomotors | Variable speed drives
+   - **Source Id:** 21100878002
+   - **Author Ids:** 55976320300;57188634600;55370605300;6602830299;57216646029
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60012162
+   - **Corresponding:** Odhano S.
+69.
+   - **Title:** Radial Force Control of Multisector Permanent-Magnet Machines for Vibration Suppression
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 58
+   - **DOI:** 10.1109/TIE.2017.2780039
+   - **Scopus ID:** 2-s2.0-85037618435
+   - **ISSN:** 02780046
+   - **Volume:** 65
+   - **Issue:** 7
+   - **Pages:** 5395-5405
+   - **Authors:** Valente G.; Papini L.; Formentini A.; Gerada C.; Zanchetta P.
+   - **Keywords:** Brushless motors | electromagnetic forces | force control | multiphase motors | optimization methods | permanent-magnet (PM) machines | vibration control | vibration measurement
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+     2018:
+     - Control and Systems Engineering (Q1, rank 2, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 14, percentile 97)
+   - **Source Id:** 26053
+   - **Author Ids:** 57192678865;36515353900;55370605300;56264118100;6602830299
+   - **Authoraffiliationids:** 60015138;60015138-60104720;60015138;60015138-60104720;60015138
+   - **Corresponding:** Valente G.
+70.
+   - **Title:** Stability boundary analysis in single-phase grid-connected inverters with PLL by LTP theory
+   - **Venue:** IEEE Transactions on Power Electronics
+   - **Year:** 2018
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 53
+   - **DOI:** 10.1109/TPEL.2017.2714860
+   - **Scopus ID:** 2-s2.0-85021806716
+   - **ISSN:** 08858993
+   - **Volume:** 33
+   - **Issue:** 5
+   - **Pages:** 4023-4036
+   - **Authors:** Salis Valerio; Costabeber Alessandro; Cox Stephen M.; Zanchetta Pericle; Formentini Andrea
+   - **Keywords:** Harmonic state-space model (HSSM) | Linear time periodic (LTP) systems | Phase-locked loop (PLL) | Power converters | Stability analysis
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 50, percentile 95)
+     2018:
+     - Electrical and Electronic Engineering (Q1, rank 13, percentile 98)
+   - **Source Id:** 26055
+   - **Author Ids:** 57000380300;24921472500;7401455937;6602830299;55370605300
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60015138
+   - **Corresponding:** Salis V.
+71.
+   - **Title:** Position control study of a bearingless multi-sector permanent magnet machine
+   - **Venue:** Proceedings IECON 2017 43rd Annual Conference of the IEEE Industrial Electronics Society
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/IECON.2017.8217548
+   - **Scopus ID:** 2-s2.0-85046695088
+   - **Volume:** 2017-January
+   - **Pages:** 8808-8813
+   - **Authors:** Valente G.; Formentini A.; Papini L.; Zanchetta P.; Gerada C.
+   - **Keywords:** Bearingless machines | Multi-Sector Permanent Magnet machines | Radial Force Control
+   - **Source Id:** 21100859900
+   - **Author Ids:** 57192678865;55370605300;36515353900;6602830299;56264118100
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60015138
+   - **Corresponding:** Valente G.
+72.
+   - **Title:** The design of a position-based repetitive control for speed ripple reduction in PMLSMs
+   - **Venue:** Proceedings IECON 2017 43rd Annual Conference of the IEEE Industrial Electronics Society
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/IECON.2017.8216626
+   - **Scopus ID:** 2-s2.0-85046680095
+   - **Volume:** 2017-January
+   - **Pages:** 3688-3692
+   - **Authors:** Tang Mi; Formentini Andrea; Odhano Shafiq; Zanchetta Pericle
+   - **Keywords:** deadbeat control | permanent magnet linear synchronous machine | repetitive control | speed ripple reduction
+   - **Source Id:** 21100859900
+   - **Author Ids:** 57188634600;55370605300;55976320300;6602830299
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138
+   - **Corresponding:** Tang M.
+73.
+   - **Title:** Automated and scalable optimal control of three-Phase embedded power grids including PLL
+   - **Venue:** 2017 IEEE Energy Conversion Congress and Exposition Ecce 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/ECCE.2017.8096735
+   - **Scopus ID:** 2-s2.0-85041406752
+   - **Volume:** 2017-January
+   - **Pages:** 4252-4259
+   - **Authors:** Dewar David; Formentini Andrea; Zanchetta Pericle
+   - **Keywords:** Embedded power grids | H2 control | Optimal control
+   - **Source Id:** 21100850504
+   - **Author Ids:** 57191349066;55370605300;6602830299
+   - **Corresponding:** Dewar D.
+74.
+   - **Title:** IGBT-SiC dual fed ground power unit
+   - **Venue:** 2017 IEEE Energy Conversion Congress and Exposition Ecce 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ECCE.2017.8096894
+   - **Scopus ID:** 2-s2.0-85041374316
+   - **Volume:** 2017-January
+   - **Pages:** 5332-5338
+   - **Authors:** Rovere Luca; Formentini Andrea; Calzo Giovanni Lo; Zanchetta Pericle; Cassia Andrea; Marchesoni Mario
+   - **Keywords:** Dual inverter | Ground power unit | Linear quadratic regulator | Silicon carbide technology
+   - **Source Id:** 21100849706
+   - **Author Ids:** 57190687733;55370605300;57191194891;6602830299;57200449388;6701827441
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60025153;60025153
+   - **Corresponding:** Rovere L.
+75.
+   - **Title:** A Fractional Delay Variable Frequency Repetitive Control for Torque Ripple Reduction in PMSMs
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 74
+   - **DOI:** 10.1109/TIA.2017.2725824
+   - **Scopus ID:** 2-s2.0-85023613669
+   - **ISSN:** 00939994
+   - **Volume:** 53
+   - **Issue:** 6
+   - **Pages:** 5553-5562
+   - **Authors:** Tang Mi; Gaeta Alberto; Formentini Andrea; Zanchetta Pericle
+   - **Keywords:** Deadbeat control | permanent magnet machines | repetitive control | torque ripple reduction | variable speed drives
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+     2017:
+     - Industrial and Manufacturing Engineering (Q1, rank 24, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 70, percentile 89)
+     - Control and Systems Engineering (Q1, rank 29, percentile 87)
+   - **Source Id:** 17361
+   - **Author Ids:** 57188634600;35274994100;55370605300;6602830299
+   - **Authoraffiliationids:** 60015138;60113691;60015138;60015138
+   - **Corresponding:** Tang M.
+76.
+   - **Title:** Modulated Predictive Control for Indirect Matrix Converter
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 77
+   - **DOI:** 10.1109/TIA.2017.2699666
+   - **Scopus ID:** 2-s2.0-85031040391
+   - **ISSN:** 00939994
+   - **Volume:** 53
+   - **Issue:** 5
+   - **Pages:** 4644-4654
+   - **Authors:** Tarisciotti Luca; Lei Jiaxing; Formentini Andrea; Trentin Andrew; Zanchetta Pericle; Wheeler Patrick; Rivera Marco
+   - **Keywords:** AC-AC power conversion | indirect matrix converter (IMC) | modulated model predictive control (M2PC) | predictive control
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+     2017:
+     - Industrial and Manufacturing Engineering (Q1, rank 24, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 70, percentile 89)
+     - Control and Systems Engineering (Q1, rank 29, percentile 87)
+   - **Source Id:** 17361
+   - **Author Ids:** 36705170900;56106958200;55370605300;16231836900;6602830299;7101693838;35230846600
+   - **Authoraffiliationids:** 60015138;60021666;60015138;60015138;60015138;60015138;60016278
+   - **Corresponding:** Tarisciotti L.
+77.
+   - **Title:** Direct flux and current vector control for induction motor drives using model predictive control theory
+   - **Venue:** Iet Electric Power Applications
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 19
+   - **DOI:** 10.1049/iet-epa.2016.0872
+   - **Scopus ID:** 2-s2.0-85028759778
+   - **ISSN:** 17518660
+   - **eISSN:** 17518679
+   - **Volume:** 11
+   - **Issue:** 8
+   - **Pages:** 1483-1491
+   - **Authors:** Odhano Shafiq; Bojoi Radu; Formentini Andrea; Zanchetta Pericle; Tenconi Alberto
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 426, percentile 57)
+     2017:
+     - Electrical and Electronic Engineering (Q2, rank 199, percentile 70)
+   - **Source Id:** 5100155084
+   - **Author Ids:** 55976320300;57216646029;55370605300;6602830299;7004248370
+   - **Authoraffiliationids:** 60015138;60012162;60015138;60015138;60012162
+   - **Corresponding:** Odhano S.
+78.
+   - **Title:** IGBT-SiC dual fed open end winding PMSM drive
+   - **Venue:** 2017 IEEE International Electric Machines and Drives Conference Iemdc 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 21
+   - **DOI:** 10.1109/IEMDC.2017.8002155
+   - **Scopus ID:** 2-s2.0-85030323401
+   - **Authors:** Rovere Luca; Formentini Andrea; Calzo Giovanni Lo; Zanchetta Feriole; Cox Tom
+   - **Keywords:** Dual Inverter Drive | open end winding | permanent magnet synchronous motor | Silicon Carbide Technology | Wide bandgap devices | zero/sequence current
+   - **Source Id:** 21100832677
+   - **Author Ids:** 57190687733;55370605300;57191194891;36163207600;57202863074
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60015138
+   - **Corresponding:** Rovere L.
+79.
+   - **Title:** Radial force control of Multi-Sector Permanent Magnet machines considering radial rotor displacement
+   - **Venue:** Proceedings 2017 IEEE Workshop on Electrical Machines Design Control and Diagnosis Wemdcd 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/WEMDCD.2017.7947737
+   - **Scopus ID:** 2-s2.0-85023193321
+   - **Pages:** 140-145
+   - **Authors:** Valente G.; Papini L.; Formentini A.; Gerada C.; Zanchetta P.
+   - **Keywords:** Radial force control | Static eccentricity | Stiffness matrix
+   - **Source Id:** 21100822818
+   - **Author Ids:** 57192678865;36515353900;55370605300;56264118100;6602830299
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60015138
+   - **Corresponding:** Valente G.
+80.
+   - **Title:** UCube: Control platform for power electronics
+   - **Venue:** Proceedings 2017 IEEE Workshop on Electrical Machines Design Control and Diagnosis Wemdcd 2017
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 75
+   - **DOI:** 10.1109/WEMDCD.2017.7947749
+   - **Scopus ID:** 2-s2.0-85023187591
+   - **Pages:** 216-221
+   - **Authors:** Galassini A.; Lo Calzo G.; Formentini A.; Gerada C.; Zanchetta P.; Costabeber A.
+   - **Keywords:** Control | Control board | Control platform | Microzed | Power converters | Power Electronics | UCube | Zynq
+   - **Source Id:** 21100822818
+   - **Author Ids:** 56943446300;36727945400;55370605300;56264118100;6602830299;24921472500
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60015138;60015138
+   - **Corresponding:** Galassini A.
+81.
+   - **Title:** A Switched Predictive Controller for an Electrical Powertrain System with Backlash
+   - **Venue:** IEEE Transactions on Power Electronics
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 49
+   - **DOI:** 10.1109/TPEL.2016.2587756
+   - **Scopus ID:** 2-s2.0-85012284294
+   - **ISSN:** 08858993
+   - **Volume:** 32
+   - **Issue:** 5
+   - **Pages:** 4036-4047
+   - **Authors:** Formentini Andrea; Oliveri Alberto; Marchesoni Mario; Storace Marco
+   - **Keywords:** Backlash | Model predictive control (MPC) | Permanent magnet synchronous motors (PMSMs)
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 50, percentile 95)
+     2017:
+     - Electrical and Electronic Engineering (Q1, rank 9, percentile 98)
+   - **Source Id:** 26055
+   - **Author Ids:** 55370605300;57200399832;6701827441;7004134087
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Formentini A.
+82.
+   - **Title:** Model Predictive Control for Shunt Active Filters with Fixed Switching Frequency
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2017
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 237
+   - **DOI:** 10.1109/TIA.2016.2606364
+   - **Scopus ID:** 2-s2.0-85017154855
+   - **ISSN:** 00939994
+   - **Volume:** 53
+   - **Issue:** 1
+   - **Pages:** 296-304
+   - **Authors:** Tarisciotti Luca; Formentini Andrea; Gaeta Alberto; Degano Marco; Zanchetta Pericle; Rabbeni Roberto; Pucci Marcello
+   - **Keywords:** Active filters | harmonic distortion | model predictive control (MPC) | power filters | power quality | smart grids
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+     2017:
+     - Industrial and Manufacturing Engineering (Q1, rank 24, percentile 92)
+     - Electrical and Electronic Engineering (Q1, rank 70, percentile 89)
+     - Control and Systems Engineering (Q1, rank 29, percentile 87)
+   - **Source Id:** 17361
+   - **Author Ids:** 36705170900;55370605300;35274994100;57214847537;6602830299;53985059300;7004354345
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60015138;60017697;60016217
+   - **Corresponding:** Tarisciotti L.
+83.
+   - **Title:** Oversampled deadbeat current control strategy for PMSM drives
+   - **Venue:** IECON Proceedings Industrial Electronics Conference
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/IECON.2016.7793516
+   - **Scopus ID:** 2-s2.0-85010049855
+   - **Pages:** 2868-2872
+   - **Authors:** Rovere Luca; Formentini Andrea; Zanchetta Pericle
+   - **Keywords:** Deadbeat Control | PMSM Drives
+   - **Source Id:** 56670
+   - **Author Ids:** 57190687733;55370605300;6602830299
+   - **Authoraffiliationids:** 60015138;60015138;60015138
+   - **Corresponding:** Rovere L.
+84.
+   - **Title:** Design of a repetitive controller as a feed-forward disturbance observer
+   - **Venue:** IECON Proceedings Industrial Electronics Conference
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 10
+   - **DOI:** 10.1109/IECON.2016.7793242
+   - **Scopus ID:** 2-s2.0-85010023010
+   - **Pages:** 78-83
+   - **Authors:** Tang M.; Formentini A.; Odhano S.; Zanchetta P.
+   - **Keywords:** Control design | Discrete-time system | Disturbance observer | Reduced-order observer | Repetitive control | Stability analysis | State estimation
+   - **Source Id:** 56670
+   - **Author Ids:** 57188634600;55370605300;55976320300;6602830299
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138
+   - **Corresponding:** Tang M.
+85.
+   - **Title:** Finite control set and modulated model predictive flux and current control for induction motor drives
+   - **Venue:** IECON Proceedings Industrial Electronics Conference
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 16
+   - **DOI:** 10.1109/IECON.2016.7793839
+   - **Scopus ID:** 2-s2.0-85010022707
+   - **Pages:** 2796-2801
+   - **Authors:** Odhano S. A.; Formentini A.; Zanchetta P.; Bojoi R.; Tenconi A.
+   - **Keywords:** Induction motors | Machine control | Mathematical model | Predictive control | Pulse width modulation converters | Signal sampling | State estimation | Variable speed drives
+   - **Source Id:** 56670
+   - **Author Ids:** 55976320300;55370605300;6602830299;57216646029;7004248370
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60012162;60012162
+   - **Corresponding:** Odhano S.A.
+86.
+   - **Title:** Enhanced DBCC for high-speed permanent magnet synchronous motor drives
+   - **Venue:** Iet Power Electronics
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 17
+   - **DOI:** 10.1049/iet-pel.2015.0232
+   - **Scopus ID:** 2-s2.0-85000900072
+   - **ISSN:** 17554535
+   - **eISSN:** 17554543
+   - **Volume:** 9
+   - **Issue:** 15
+   - **Pages:** 2880-2890
+   - **Authors:** Tang Mi; Gaeta Alberto; Formentini Andrea; Ohyama Kazuhiro; Zanchetta Pericle; Asher Greg
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q2, rank 321, percentile 67)
+     2016:
+     - Electrical and Electronic Engineering (Q1, rank 80, percentile 87)
+   - **Source Id:** 19700186866
+   - **Author Ids:** 57188634600;35274994100;55370605300;56221479100;6602830299;7005187780
+   - **Authoraffiliationids:** 60015138;60113691;60015138;60009108;60015138;60015138
+   - **Corresponding:** Tang M.
+87.
+   - **Title:** Radial force control of multi-sector permanent magnet machines
+   - **Venue:** Proceedings 2016 22nd International Conference on Electrical Machines ICEM 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1109/ICELMACH.2016.7732887
+   - **Scopus ID:** 2-s2.0-85007392502
+   - **Pages:** 2595-2601
+   - **Authors:** Valente G.; Papini L.; Formentini A.; Gerada C.; Zanchetta P.
+   - **Keywords:** Bearingless Multi-Sector Permanent Magnet machines | Pseudo inverse matrix | Radial Force Control | Singular Value Decomposition (SVD) | Vibration Damping
+   - **Source Id:** 21100790320
+   - **Author Ids:** 57192678865;36515353900;55370605300;56264118100;6602830299
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60015138
+   - **Corresponding:** Valente G.
+88.
+   - **Title:** Sensorless Finite-Control Set Model Predictive Control for IPMSM Drives
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2016
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 89
+   - **DOI:** 10.1109/TIE.2016.2578281
+   - **Scopus ID:** 2-s2.0-84982266854
+   - **ISSN:** 02780046
+   - **Volume:** 63
+   - **Issue:** 9
+   - **Pages:** 5921-5931
+   - **Authors:** Rovere Luca; Formentini Andrea; Gaeta Alberto; Zanchetta Pericle; Marchesoni Mario
+   - **Keywords:** Interior permanent-magnet synchronous motor (IPMSM) drives | model predictive control | sensorless control
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+     2016:
+     - Control and Systems Engineering (Q1, rank 1, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 5, percentile 99)
+   - **Source Id:** 26053
+   - **Author Ids:** 57190687733;55370605300;35274994100;6602830299;6701827441
+   - **Authoraffiliationids:** 60015138;60015138;60113691;60015138;60025153
+   - **Corresponding:** Rovere L.
+89.
+   - **Title:** Optimal control of three-phase embedded power grids
+   - **Venue:** 2016 IEEE 17th Workshop on Control and Modeling for Power Electronics COMPEL 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 8
+   - **DOI:** 10.1109/COMPEL.2016.7556771
+   - **Scopus ID:** 2-s2.0-84988920855
+   - **Authors:** Formentini Andrea; Dewar David; Zanchetta Pericle; Wheeler Pat; Boroyevich Dushan; Schanen Jean Luc
+   - **Keywords:** embedded power grid | optimal control
+   - **Source Id:** 21100780886
+   - **Author Ids:** 55370605300;57191349066;6602830299;7101693838;35598746300;7004499496
+   - **Authoraffiliationids:** 60015138;60015138;60015138;60015138;60157272;60104653
+   - **Corresponding:** Formentini A.
+90.
+   - **Title:** Fixed frequency finite-state model predictive control for indirect matrix converters with optimal switching pattern
+   - **Venue:** Ecce 2016 IEEE Energy Conversion Congress and Exposition Proceedings
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 9
+   - **DOI:** 10.1109/ECCE.2016.7855118
+   - **Scopus ID:** 2-s2.0-85015450499
+   - **Authors:** Lei Jiaxing; Tarisciotti Luca; Trentin Andrew; Zanchetta Pericle; Wheeler Patrick; Formentini Andrea
+   - **Keywords:** Indirect Matrix Converter (IMC) | Modulated Model Predictive Control (M2PC) | Switching Pattern
+   - **Source Id:** 21100823368
+   - **Author Ids:** 56106958200;36705170900;16231836900;6602830299;7101693838;55370605300
+   - **Authoraffiliationids:** 60021666;60015138;60015138;60015138;60015138;60015138
+   - **Corresponding:** Lei J.
+91.
+   - **Title:** Taking into account interactions between converters in the design of aircraft power networks
+   - **Venue:** Ecce 2016 IEEE Energy Conversion Congress and Exposition Proceedings
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/ECCE.2016.7855493
+   - **Scopus ID:** 2-s2.0-85015413891
+   - **Authors:** Li Q.; Formentini A.; Baraston A.; Zhang X.; Zanchetta P.; Schanen J. L.; Boroyevich D.
+   - **Keywords:** Control | Design | Embedded Grids | EMC | Optimization | Power Electronics | Stability
+   - **Source Id:** 21100823368
+   - **Author Ids:** 55703476600;55370605300;57189004781;38461647000;6602830299;7004499496;35598746300
+   - **Authoraffiliationids:** 60157272;60015138;60104653;60157272;60015138;60104653;60157272
+   - **Corresponding:** Li Q.
+92.
+   - **Title:** A variable frequency angle-based repetitive control for torque ripple reduction in PMSMs
+   - **Venue:** Iet Conference Publications
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1049/cp.2016.0325
+   - **Scopus ID:** 2-s2.0-85009077532
+   - **Volume:** 2016
+   - **Issue:** CP684
+   - **Authors:** Tang M.; Gaeta A.; Formentini A.; Zanchetta P.
+   - **Keywords:** Deadbeat control | PMSM | Repetitive control | Torque ripple | Variable frequency
+   - **Source Id:** 5400152619
+   - **Author Ids:** 57188634600;35274994100;55370605300;6602830299
+   - **Authoraffiliationids:** 60015138;60113691;60015138;60015138
+   - **Corresponding:** Tang M.
+93.
+   - **Title:** Speed Finite Control Set Model Predictive Control of a PMSM Fed by Matrix Converter
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 141
+   - **DOI:** 10.1109/TIE.2015.2442526
+   - **Scopus ID:** 2-s2.0-84944339646
+   - **ISSN:** 02780046
+   - **Volume:** 62
+   - **Issue:** 11
+   - **Pages:** 6786-6796
+   - **Authors:** Formentini Andrea; Trentin Andrew; Marchesoni Mario; Zanchetta Pericle; Wheeler Pat
+   - **Keywords:** FCS-MPC | Matrix Converter | PMSM drive
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+     2015:
+     - Control and Systems Engineering (Q1, rank 1, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 5, percentile 99)
+     - Subject (Q1, rank 4, percentile 99)
+   - **Source Id:** 26053
+   - **Author Ids:** 55370605300;16231836900;6701827441;6602830299;7101693838
+   - **Authoraffiliationids:** 60025153-60015138;60015138;60025153;60015138;60015138
+   - **Corresponding:** Formentini A.
+94.
+   - **Title:** Finite states modulated model predictive control for active power filtering systems
+   - **Venue:** 2015 IEEE Energy Conversion Congress and Exposition Ecce 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1109/ECCE.2015.7309879
+   - **Scopus ID:** 2-s2.0-84963624890
+   - **Pages:** 1556-1562
+   - **Authors:** Rabbeni Roberto; Tarisciotti Luca; Gaeta Alberto; Formentini Andrea; Zanchetta Pericle; Pucci Marcello; Degano Marco; Rivera Marco
+   - **Keywords:** active filters | harmonic distortion | MMPC | MPC | power filters | power quality | predictive control | smart grids
+   - **Source Id:** 21100455575
+   - **Author Ids:** 53985059300;36705170900;35274994100;55370605300;6602830299;7004354345;57214847537;35230846600
+   - **Authoraffiliationids:** ;60015138;60015138;60015138;60015138;60016217;60015138;60016278
+   - **Corresponding:** Rabbeni R.
+95.
+   - **Title:** PSO-based self-commissioning of electrical motor drives
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2015
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 86
+   - **DOI:** 10.1109/TIE.2014.2349478
+   - **Scopus ID:** 2-s2.0-84920896516
+   - **ISSN:** 02780046
+   - **Volume:** 62
+   - **Issue:** 2
+   - **Pages:** 768-776
+   - **Authors:** Calvini Marco; Carpita Mauro; Formentini Andrea; Marchesoni Mario
+   - **Keywords:** Backlash | particle swarm optimization (PSO) | permanent-magnet synchronous motor (PMSM) drive | self-commissioning
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+     2015:
+     - Control and Systems Engineering (Q1, rank 1, percentile 99)
+     - Electrical and Electronic Engineering (Q1, rank 5, percentile 99)
+     - Subject (Q1, rank 4, percentile 99)
+   - **Source Id:** 26053
+   - **Author Ids:** 14422097400;6603270189;55370605300;6701827441
+   - **Authoraffiliationids:** 101296397;60101868;60025153;60025153
+   - **Corresponding:** Calvini M.
+96.
+   - **Title:** A new mains voltage observer for PMSM drives fed by matrix converters
+   - **Venue:** 2014 16th European Conference on Power Electronics and Applications EPE Ecce Europe 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1109/EPE.2014.6910946
+   - **Scopus ID:** 2-s2.0-84923878736
+   - **Authors:** Formentini Andrea; De Lillo Liliana; Marchesoni Mario; Trentin Andrew; Wheeler Patrick; Zanchetta Pericle
+   - **Keywords:** FCS-MPC | Matrix Converter | PMSM
+   - **Source Id:** 21100376109
+   - **Author Ids:** 55370605300;16068115600;6701827441;16231836900;7101693838;6602830299
+   - **Authoraffiliationids:** 60025153;60015138;60025153;60015138;60015138;60015138
+   - **Corresponding:** Formentini A.
+97.
+   - **Title:** A sensorless PMSM drive with inductance estimation based on FPGA
+   - **Venue:** Speedam 2012 21st International Symposium on Power Electronics Electrical Drives Automation and Motion
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/SPEEDAM.2012.6264453
+   - **Scopus ID:** 2-s2.0-84866921368
+   - **Pages:** 1039-1044
+   - **Authors:** Formentini A.; Maragliano G.; Marchesoni M.; Vaccaro L.
+   - **Keywords:** Estimation technique | FPGA | Permanent magnet synchronous motor | Sensorless control
+   - **Source Id:** 21100216928
+   - **Author Ids:** 55370605300;36778746300;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Formentini A.
+98.
+   - **Title:** Self-commissioning of direct drive systems
+   - **Venue:** Speedam 2012 21st International Symposium on Power Electronics Electrical Drives Automation and Motion
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **DOI:** 10.1109/SPEEDAM.2012.6264436
+   - **Scopus ID:** 2-s2.0-84866897648
+   - **Pages:** 1348-1353
+   - **Authors:** Calvini M.; Formentini A.; Maragliano G.; Marchesoni M.
+   - **Keywords:** direct drive | PID | PSO | Self-commissioning
+   - **Source Id:** 21100216928
+   - **Author Ids:** 14422097400;55370605300;36778746300;6701827441
+   - **Authoraffiliationids:** 113106893;60025153;60025153;60025153
+   - **Corresponding:** Calvini M.

@@ -1,0 +1,2477 @@
+{
+  "surname": "Lombardo",
+  "name": "Chiara",
+  "unit": "ICT",
+  "email": "chiara.lombardo@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/V0tFX1Jo",
+  "website": "",
+  "unige_id": "282481",
+  "scopus_id": "50061523000",
+  "role": "Ricercatore",
+  "grade": "Ricercatore t.d. art. 24 c. 3 lett. A Legge 240/10 (t.pieno)",
+  "ssd": "IINF-03/A (Telecomunicazioni)",
+  "location": [
+    {
+      "building": "Opera Pia - padiglione E (ED_161450402)",
+      "floor": "3° piano",
+      "room": "US_161450402.III.019"
+    }
+  ],
+  "career": [
+    {
+      "role": "AR",
+      "from": "2014-01-02 00:00:00.0000000",
+      "to": "2020-01-01 00:00:00.0000000"
+    },
+    {
+      "role": "CB",
+      "from": "2022-03-24 00:00:00.0000000",
+      "to": "2022-09-30 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2023-04-17 00:00:00.0000000",
+      "to": "2026-04-16 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {
+    "2025": [
+      {
+        "course": "TECHNOLOGIES FOR WIRELESS NETWORKS (80171)",
+        "degree": "LM-32 - COMPUTER ENGINEERING"
+      }
+    ],
+    "2024": [
+      {
+        "course": "TECHNOLOGIES FOR WIRELESS NETWORKS (80171)",
+        "degree": "LM-32 - COMPUTER ENGINEERING"
+      }
+    ],
+    "2023": [
+      {
+        "course": "TECHNOLOGIES FOR WIRELESS NETWORKS (80171)",
+        "degree": "LM-32 - COMPUTER ENGINEERING"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 10,
+      "total_products": 52,
+      "journals": 13,
+      "conferences": 38,
+      "citations": 405,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 10,
+      "total_products": 52,
+      "journals": 13,
+      "conferences": 38,
+      "citations": 405,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 9,
+      "total_products": 43,
+      "journals": 11,
+      "conferences": 31,
+      "citations": 313,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 7,
+      "total_products": 30,
+      "journals": 8,
+      "conferences": 22,
+      "citations": 143,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-105009845328",
+      "title": "A Management Data Analytics Function for ethical 6G networks",
+      "doi": "10.1016/j.comnet.2025.111487",
+      "venue": "Computer Networks",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "270",
+      "issue_id": null,
+      "pages": null,
+      "issn": "13891286",
+      "eIssn": null,
+      "source_id": "26811",
+      "authors": "Akbari Milad; Bolla Raffaele; Bruschi Roberto; Lombardo Chiara; Martinelli Nicole Simone; Siccardi Beatrice",
+      "author_ids": "59302527800;7006403406;8555973600;50061523000;58723294800;57976887200",
+      "authorAffiliationIds": "60025153;60025153-60103966;60025153-60103966;60025153-60103966;60103966;60025153",
+      "corresponding": "Akbari M.",
+      "keywords": "6G | MDAF | Sustainability | Value-driven",
+      "abstract": "In order to satisfy the ethical requirements that are expected from upcoming 6G technologies, the knowledge of the power consumption ascribable to the applications and network functions is crucial to enforce a sense of responsibility and joint efforts towards value-driven sustainability. In this respect, this paper presents a modular, energy-focused prototype of the Management Data Analytics Function (MDAF), that represents the cornerstone of the Observability framework recently developed by the 6Green Project. Its main goal is to provide management data to upper layers (i.e., network and end-users/verticals). A 5G network was tested on both the User-Plane and Control-Plane; at the same time, said network was monitored by both the proposed MDAF and a common power monitoring solution: Scaphandre. Results show that the MDAF measures a higher power consumption than Scaphandre; the difference lies between 50% (when idle) and 4% (at the maximum offered load). This difference corresponds to the ”indirect” power consumption that the MDAF is able to ascribe to the containers/Virtual Machines (VMs) (i.e., the Network Functions (NFs)). The more accurate power consumption measurements of the single NFs is a first step towards the need to spread energy/carbon awareness to all the involved stakeholders.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 82,
+              "rank": 96,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85198749396",
+      "title": "Toward Sustainable O-RAN Deployment: An In-Depth Analysis of Power Consumption",
+      "doi": "10.1109/TGCN.2024.3426108",
+      "venue": "IEEE Transactions on Green Communications and Networking",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "9",
+      "issue_id": "2",
+      "pages": "429-444",
+      "issn": null,
+      "eIssn": "24732400",
+      "source_id": "21100906361",
+      "authors": "Baldini Gianmarco; Bolla Raffaele; Bruschi Roberto; Carrega Alessandro; Davoli Franco; Lombardo Chiara; Rabbani Ramin",
+      "author_ids": "57193911480;7006403406;8555973600;36633941300;57220364548;50061523000;58122114400",
+      "authorAffiliationIds": "60103695;60025153;60025153;60025153;60025153;60025153;60103966",
+      "corresponding": "Baldini G.",
+      "keywords": "3-layer architecture | algorithm | cloud | Green networking | mobile | open-ran | placement",
+      "abstract": "5G delivers limitless mobile broadband capabilities, enabling extensive connectivity for various devices, including smartphones, sensors, and machines. Its most notable feature lies in its ability to facilitate instantaneous and highly reliable machine communications. Because of the rapid evolution of communication networks, innovative architectures such as Open RAN (O-RAN) have emerged, promising increased flexibility, efficiency, and sustainability. To realize the full potential of O-RAN networks, however, it is critical to understand their power consumption implications. In this paper, in order to understand the way O-RAN consumes energy, a comprehensive power consumption model is used. The study not only provides theoretical analysis but also incorporates a practical implementation of the architecture. For this, an algorithm is employed to determine a base monolithic architecture of O-RAN by the placement of Distributed Unit (DU) and Centralized Unit (CU) using available data of Radio Unit (RU) in France and Ireland. The research further explores the impact of different parameter variations in various Evaluation Scenarios (ESs) on the architecture. By conducting this thorough evaluation, this research provides valuable insights for researchers and industry practitioners to gain a deeper understanding of energy consumption patterns and derive ideas on how to effectively reduce power consumption in these networks.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 96,
+              "rank": 22,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 84,
+              "rank": 48,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105018636847",
+      "title": "Towards sustainable 6G: A collaborative call to action for addressing environmental challenges in (and thanks to) future mobile networks",
+      "doi": "10.12688/openreseurope.18767.2",
+      "venue": "Open Research Europe",
+      "type": "Journal",
+      "sub_type": "Letter",
+      "year": 2025,
+      "volume": "4",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "27325121",
+      "source_id": "21101120611",
+      "authors": "Decorme Regis; Faye Sébastien; Calisti Monique; Pryor Simon; Dey Indrakshi; Fanti Maria Pia; Malandrino Francesco; Lombardo Chiara",
+      "author_ids": "55295881600;54082951200;59223350700;57361347600;60138411100;7006413883;35179862000;50061523000",
+      "authorAffiliationIds": "123085748;60105942;122576662;126320121;133261914;60027299;60021199;60103966-60025153",
+      "corresponding": "Decorme R.",
+      "keywords": "6G Networks | Digital Transformation | Environmental Impact | Green Communications & ICT | Mobile Networks | Next-Generation Connectivity | Sustainability",
+      "abstract": "As mobile networks evolve towards 6G, sustainability must be a central focus to address the environmental impacts of increasing energy consumption and resource use. This open letter highlights insights from the \"Towards Sustainable 6G\" workshop, where seven EU-funded projects - 6G4Society, BeGREEN, COALESCE, IN2CCAM, CENTRIC, 6Green, and 6G-TWIN - showcased innovative solutions for integrating energy efficiency, renewable energy, and ecological resilience into next-generation mobile networks. The projects emphasize AI-driven optimisation, sustainable infrastructure design, and cross-disciplinary collaboration as key strategies for reducing the ecological footprint of 6G systems. A joint statement underscores the necessity of embedding sustainability into 6G design, with follow-up activities planned to advance green telecommunications.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Multidisciplinary",
+              "percentile": 70,
+              "rank": 61,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105018110799",
+      "title": "Performance and Power Analysis of a 5G UPF Varying the C-States of the Hosting Server",
+      "doi": "10.1109/ICCWorkshops67674.2025.11162237",
+      "venue": "2025 IEEE International Conference on Communications Workshops Icc Workshops 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": "1025-1030",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101337382",
+      "authors": "Bolla R.; Bruschi R.; Cassinelli D.; Davoli F.; Lombardo C.; Martinelli N. S.; Siccardi B.",
+      "author_ids": "7006403406;8555973600;60131677600;57220364548;50061523000;58723294800;57976887200",
+      "authorAffiliationIds": "60025153-124426043;124426043;60025153;60025153-124426043;60025153-124426043;124426043;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "ACPI | B5G | energy efficiency | low power idle | UPF",
+      "abstract": "Energy efficiency will be a crucial feature for the next mobile network generations (B5G and 6G). Therefore, in this paper, we have examined power management techniques to minimize the power consumption while not neglecting performance of the most power-hungry 5G Network Function (NF): the User Plane Function (UPF). A classical power management technique has been used herein: the low power idle. It allows power saving caused by putting the CPU to \"sleep\"(i.e., C<inf>x</inf> state) when not in use. Results show that, in most cases the deeper \"sleeping\"states are enabled, the more power is saved. This is especially true in the highest load scenario in which the power is more than halved as a result. However, results show that special care should be devoted to the enabling/disabling of the \"deepest\"sleeping state (C<inf>6</inf>) since the transitions from it to the active state (C<inf>0</inf>) (and vice versa) actually hinder the power savings. Finally, the performance (as in latency) has been also evaluated, results show no packet losses and small latency in all scenarios.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105013838131",
+      "title": "To Scale or Not to Scale? Understand the Overhead of Container Scaling Operations",
+      "doi": "10.1109/DCOSS-IoT65416.2025.00135",
+      "venue": "Proceedings 2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things Dcoss Iot 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": "890-894",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101322174",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Gallo Alderico; Lombardo Chiara; Martinelli Nicole Simone",
+      "author_ids": "7006403406;8555973600;58561146300;50061523000;58723294800",
+      "authorAffiliationIds": "60025153-124426043;60025153-124426043;124426043;60025153-124426043;124426043",
+      "corresponding": "Bolla R.",
+      "keywords": "5GA | cloud-native | energy efficiency | horizontal scaling",
+      "abstract": "5G architectures and edge technologies have been a steppingstone in the transition of the cloud into a more flexible communication while also increasing network performance using the concept of virtualization and containers. This has also brought the increase in resource wastage and carbon emission. To this end, Edge Agility paradigm introduced by 6Green comes as a solution to distribute nodes across the edge-cloud continuum depending on demands. This is done by using enablers such as 'scale-to-zero', which exploits Kubernetes horizontal scalability, to better understand its impact on the energy consumption. This paper studies the connection between scaling pods from one to zero and vice versa and the power consumption of the CPU. Results show that scaling a pod to zero can decrease the CPU power consumption of the server by around 50 % for the application under test.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85216016686",
+      "title": "Observe to Sustain - How to Enable Beyond 5G Networks to Target Sustainability Goals",
+      "doi": "10.1109/PIMRC59610.2024.10817341",
+      "venue": "IEEE International Symposium on Personal Indoor and Mobile Radio Communications PIMRC",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "21669570",
+      "eIssn": "21669589",
+      "source_id": "21101245832",
+      "authors": "Akbari Milad; Bolla Raffaele; Bruschi Roberto; Lombardo Chiara; Martinelli Nicole Simone; Siccardi Beatrice",
+      "author_ids": "59302527800;7006403406;8555973600;50061523000;58723294800;57976887200",
+      "authorAffiliationIds": "60025153;60025153-124426043;60025153-124426043;60025153-124426043;124426043;60025153",
+      "corresponding": "Akbari M.",
+      "keywords": "6G | Energy Efficiency | Observability | Sustainability",
+      "abstract": "The emergence of 5G systems and beyond, along with state-of-the-art cloud and software engineering solutions, have brought to a radical shift of networking technologies with respect to the previous generations. However, the increased performance and flexibility have come at the cost of reduced sustainability, not only from an environmental standpoint but, in turn, affecting economic and societal sustainability as well. Infrastructure owners can introduce power management solutions in their datacenters, but the improvement is negligible unless tenant operating on top of the physical infrastructure are enabled and incentivized to customize their slices and their applications towards more energy efficient and carbon neutral profiles. For these reasons, the 6 G r e e n project has designed an Observability framework for estimating the energy consumption and the carbon footprint of an entire network slice, or of edge-computing applications attached to it. This paper highlights the rationale behind the 6 Green approach and provides a high-level description of the observability framework.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 15,
+              "rank": 844,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 5,
+              "rank": 919,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85210578318",
+      "title": "Comparison of the Performance and Energy Efficiency Evaluation of 5G User-Plane Functions",
+      "doi": "10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics62450.2024.00076",
+      "venue": "Proceedings IEEE Congress on Cybermatics 2024 IEEE International Conferences on Internet of Things Ithings 2024 IEEE Green Computing and Communications Greencom 2024 IEEE Cyber Physical and Social Computing Cpscom 2024 IEEE Smart Data Smartdata 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "361-368",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101260631",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Davoli Franco; Ghiorzo Paolo; Ivaldi Lorenzo; Lombardo Chiara; Siccardi Beatrice",
+      "author_ids": "7006403406;8555973600;57220364548;59449717000;57863161300;50061523000;57976887200",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "5G | energy efficiency | UPF",
+      "abstract": "While 5G has arrived with ambitious promises regarding the disruptive performance of the new applications it enables, its power consumption is raising several concerns especially for the user-plane, as such applications generate huge amounts of data. In order to better understand the issue, this paper compares two different type of User-Plane Functions (UPF), namely the Vector Packet Processing (VPP) and the Extended Berkeley Packet Filter - eXpress Data Path (eBPF-XDP). Results show better performances of the latter in certain conditions.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85202432426",
+      "title": "A Monitoring, Observability and Analytics Framework to Improve the Sustainability of B5G Technologies",
+      "doi": "10.1109/ICCWorkshops59551.2024.10615948",
+      "venue": "2024 IEEE International Conference on Communications Workshops Icc Workshops 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "969-975",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101245169",
+      "authors": "Akbari Milad; Bolla Raffaele; Bruschi Roberto; Davoli Franco; Lombardo Chiara; Siccardi Beatrice",
+      "author_ids": "59302527800;7006403406;8555973600;57220364548;50061523000;57976887200",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Akbari M.",
+      "keywords": "anomaly detection | B5G | energy efficiency | feature reduction | monitoring | observability",
+      "abstract": "As mobile generations advance, blurring the lines between physical and digital worlds, the deployment of ultra-dense networks poses challenges in resource allocation and energy efficiency. This article revolves around the environmental sustainability of Fifth Generation (5G) and Beyond 5G (B5G) mobile networks as cloud-native technologies, highlighting the use phase. It aims to represent a monitoring, observability and analytical framework to devise a feature selection methodology within well-known monitoring tools, aligning with environmental sustainability objectives. Notable open-source monitoring applications (e.g., Kepler and Scaphandre) are employed to collect data on resource utilization and energy consumption for containers and physical servers. Dependence criteria indexes, Hilbert-Schmidt Independence Criterion (HSIC) and Pearson, identify interdependencies among timeseries from different tools. Addressing challenges, the paper resolves inconsistent dataset lengths, highlights the Pearson-HSIC trade-off, and underscores the need for alignment in feature selection with compatibility to resource utilization. Key findings include Scaphandre's underestimation of memory impact on power consumption, Kepler's limitations in host metrics. Finally, the results enable the development of an anomaly detection mechanism.",
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85197369833",
+      "title": "A Stochastic Knapsack Model for Energy Efficient Management of Multi-Server Queues",
+      "doi": "10.1109/BalkanCom61808.2024.10557204",
+      "venue": "2024 7th International Balkan Conference on Communications and Networking Balkancom 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "224-229",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101232811",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Carrega Alessandro; Davoli Franco; Lombardo Chiara; Siccardi Beatrice",
+      "author_ids": "7006403406;8555973600;36633941300;57220364548;50061523000;57976887200",
+      "authorAffiliationIds": "60025153-60103966;60025153-60103966;60025153-60103966;60025153-60103966;60025153-60103966;60025153-60103966",
+      "corresponding": "Bolla R.",
+      "keywords": "Adaptive Rate | Energy Efficient Networking | Energy-Performance Tradeoff | Load Balancing | MEC",
+      "abstract": "We consider multiple bursty flows characterized by different statistical parameters and performance requirements, which generate packets that require some form of processing at the network edge. We model the processing resources as multiple servers that can be activated/deactivated on a longer time scale with respect to the packet dynamics. Packets awaiting service are queued in an infinite buffer, and the queueing model adopted is of the MX / D / C type; the flow dynamics is instead represented by a birth-death model on a much longer time scale. By exploiting a time-scale decomposition, we describe possible Call Admission Control (CAC) strategies that are based on a Stochastic Knapsack model over the space of flows that satisfy packet-level delay constraints. We compare a Complete Partitioning and a Complete Sharing CAC scheme in terms of energy efficient implementation.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85177164984",
+      "title": "A 5G multi-gNodeB simulator for ultra-reliable 0.5–100 GHz communication in indoor Industry 4.0 environments",
+      "doi": "10.1016/j.comnet.2023.110103",
+      "venue": "Computer Networks",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "237",
+      "issue_id": null,
+      "pages": null,
+      "issn": "13891286",
+      "eIssn": null,
+      "source_id": "26811",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Lombardo Chiara; Mohammadpour Alireza; Trivisonno Riccardo; Poe Wint Yi",
+      "author_ids": "7006403406;8555973600;50061523000;57189469624;8251302400;35422814700",
+      "authorAffiliationIds": "124426043-60025153;124426043-60025153;124426043-60025153;124426043;60119364;60119364",
+      "corresponding": "Bolla R.",
+      "keywords": "5G | Block error rate | Industry 4.0 | Reliability",
+      "abstract": "Industry 4.0 is evolving towards new challenging applications with tight reliability constraints. While simulation tools for the characterization of the physical and radio features of production environments would be very useful, there is a lack of awareness about radio propagation in the presence of 5G technologies. In this context, this paper presents a simulator, based on the 3rd Generation Partnership Project (3GPP) TR 38.901 report, able to describe the physical layer, channel model, and channel modulation applied in 5G. The simulator takes as input the physical characteristics of the considered area and the objects inside of it and provides, with a two-layered approach, the time series of Block Error Rate (BLER) values according to the simulated propagation paths in the presence of moving objects followed by a reliability analysis of the gNodeBs with respect to the user position computed through statistical and geometrical calculations. Through our simulator, we have discovered that the current 5G technology systems may not be sufficient to meet the high reliability demands in safety applications in Industry 4.0 systems. This finding emphasizes the need for additional solutions to enhance the reliability of 5G technology in industrial settings.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 82,
+              "rank": 96,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 90,
+              "rank": 38,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85192868853",
+      "title": "6G Enablers for Zero-Carbon Network Slices and Vertical Edge Services",
+      "doi": "10.1109/LNET.2023.3262861",
+      "venue": "IEEE Networking Letters",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "5",
+      "issue_id": "3",
+      "pages": "173-176",
+      "issn": null,
+      "eIssn": "25763156",
+      "source_id": "21101259094",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Lombardo Chiara; Siccardi Beatrice",
+      "author_ids": "7006403406;8555973600;50061523000;57976887200",
+      "authorAffiliationIds": "60025153;60025153;124426043;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "6G enablers | carbon neutrality | edge computing | green networking",
+      "abstract": "6G of radio mobile networks should become an essential enabler for any vertical sector to meet sustainable growth targets of both the United Nations (UN) 2030 Agenda and the European Green Deal. 6G might lead to the dematerialization of (most of) any physical appliances, moving their smart parts to the network edge as virtual software instances. Such software instances can leverage on novel carbon-neutral schemes for computing and communication. Owing this vision, this letter aims to analyze how energy- and carbon-awareness can be introduced into the complex architecture of 6G, and how the diverse stakeholders in the 6G value-chain can benefit from this awareness.",
+      "citations": 8,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Communication",
+              "percentile": 90,
+              "rank": 52,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 75,
+              "rank": 241,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 71,
+              "rank": 141,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 69,
+              "rank": 72,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85165932500",
+      "title": "Adaptive Reliability for the Automated Control of Human-Robot Collaboration in Beyond-5G Networks",
+      "doi": "10.1109/TNSM.2023.3298171",
+      "venue": "IEEE Transactions on Network and Service Management",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "20",
+      "issue_id": "3",
+      "pages": "2489-2503",
+      "issn": null,
+      "eIssn": "19324537",
+      "source_id": "7200153156",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Davoli Franco; Lombardo Chiara; Mohammadpour Alireza; Trivisonno Riccardo; Poe Wint Yi",
+      "author_ids": "7006403406;8555973600;57220364548;50061523000;57189469624;8251302400;35422814700",
+      "authorAffiliationIds": "60025153-130373351;60025153-130373351;60025153-130373351;60025153-130373351;130373351;60119364;60119364",
+      "corresponding": "Bolla R.",
+      "keywords": "B5G | HRC | Industry 40 | reliability",
+      "abstract": "The availability of networks able to perform control and management operations at unprecedented speeds is a crucial achievement for supporting next-generation Industry 4.0 applications. In particular, the presence of humans interacting with moving objects calls for decisions to be performed at time scales such as to ensure achieving the specific requirements identified by standardization bodies for the industrial sector in Beyond-5G environments. Among these specific Key Performance Indicators (KPIs), network reliability must be carefully pondered to guarantee the safety of the human operators at any time while investing the proper level of resources. For this reason, this paper presents an optimization problem that finds the best set of redundant radio bearers for each User Equipment (UE) in the factory area while accounting for the resource usage. Such problem extends the current specification on redundant transmissions. Several heuristics have been designed to achieve the desired time scales that could not be fulfilled with an exhaustive search. Results show that the optimization algorithm and the heuristics provide the same outcomes in terms of selected bearers and loss rates, but the latter do so at significantly more stringent time scales.",
+      "citations": 4,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 90,
+              "rank": 95,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 89,
+              "rank": 57,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 106,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 86,
+              "rank": 55,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85190260259",
+      "title": "An Open-Source Prototype of Network Data Analytics Function for Next-Generation 5/6G Environments",
+      "doi": "10.1109/GCWkshps58843.2023.10465014",
+      "venue": "2023 IEEE Globecom Workshops GC Wkshps 2023",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": "720-725",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101214471",
+      "authors": "Bolla Raffaele; Lombardo Chiara; Bono Paolo; Martinelli Nicole Simone; Bruschi Roberto; Siccardi Beatrice",
+      "author_ids": "7006403406;50061523000;58983549900;58723294800;8555973600;57976887200",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "5G | monitoring | NWDAF | open-source",
+      "abstract": "The 5th Generation of mobile radio communication systems (5G) is paving the way to applications characterized by unprecedented performance levels. Thanks to technological paradigms such as Network Functions Virtualization (NFV) and microservices, applications and network services, including the 5G core itself, can be deployed where and when required across the cloud-edge continuum to deliver the proper Quality of Experience (QoE) to users on the move. Since deploying and scaling applications/network functions can cause a waste of network and computing resources and a growth of costs for network operators, specific tools are required to identify current resource demands to fulfil user needs while minimizing the footprint on the underlying hardware infrastructure. The Network Data Analytics Function (NWDAF) was conceived for monitoring the edge and the cloud and producing Key Performance Indicators (KPIs) accordingly, but actual implementations are still lacking. This paper presents the design and development of an NWDAF prototype to be integrated in the core of a 5G network, to provide useful data for the horizontal scaling of the cloud-native microservices composing the 5G core. Results show that the prototype causes negligible overheads on the overall 5G core performance, with CPU additional usages averaging 5.5%.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85187394200",
+      "title": "A Packet Delay Emulator for High-Bandwidth and Low-Latency Traffic in 5G Networks",
+      "doi": "10.1109/GLOBECOM54140.2023.10437664",
+      "venue": "Proceedings IEEE Global Communications Conference Globecom",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": "2843-2849",
+      "issn": "23340983",
+      "eIssn": "25766813",
+      "source_id": "21101199922",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Davoli Franco; Lombardo Chiara; Mohammadpour Alireza; Rabbanil Ramin",
+      "author_ids": "7006403406;8555973600;57220364548;50061523000;57189469624;58930940400",
+      "authorAffiliationIds": "60103966-60025153;60103966-60025153;60103966-60025153;60103966-60025153;60103966-60025153;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "5G networks | Network performance testing | Packet delay emulation",
+      "abstract": "A Packet delay emulator for high bandwidth traffic is a specialized tool designed to simulate network delays and measure the impact on high-speed data transmission. Simulating network delays and measuring the impact on data transmission allows network administrators and developers to test their systems in a controlled environment, mimicking real-world scenarios with different network conditions. This paper discusses the limitations of traditional packet latency emulators and the technical con-siderations required to test high-speed networks, and proposes a specialized packet latency emulator to replicate real-world network conditions. Results compare the proposed emulator with the best tools that are currently available and show a performance in line with the reference, with a significant accuracy improvement in the presence of higher latencies.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 54,
+              "rank": 90,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 52,
+              "rank": 260,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 47,
+              "rank": 262,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 45,
+              "rank": 129,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85177839957",
+      "title": "Analyzing the Power Consumption in Cloud-Native 5/6G Ecosystems",
+      "doi": "10.1109/ICCWorkshops57953.2023.10283755",
+      "venue": "2023 IEEE International Conference on Communications Workshops Sustainable Communications for Renaissance Icc Workshops 2023",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": "611-617",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101188702",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Davoli Franco; Lombardo Chiara; Martinelli Nicole Simone",
+      "author_ids": "7006403406;8555973600;57220364548;50061523000;58723294800",
+      "authorAffiliationIds": "60103966-60025153;60103966-60025153;60103966-60025153;60103966;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "5/6G | containerization | energy efficiency",
+      "abstract": "The Fifth generation(5G) technology moves a step forward from the previous generations by natively supporting vertical applications with real time and low latency requirements. However, the resultant increase of computing resources will cause a consequent increase in the energy requirement and an impact on the carbon footprint. To this end, it is of paramount importance to involve all the stakeholders leveraging on the 5/6G ecosystem, by making them aware of the impact of their applications and network services on the underlying hardware infrastructure and promote, through economic incentives, a new value chain that puts energy efficiency in the spotlight. To achieve this goal, monitoring tools are required to measure the performance and resource consumption at the infrastructure level and map it to the virtual images on top of it to infer the consumption ascribable to a vertical application or a network function. Specifically, this paper analyzes the resource and power consumption of a Kubernetes container, focusing on the breakdown of CPU usage, wakeups and power consumed by the individual kernel processes in the presence of traffic varying in load and composition. Experimental results compare an application by itself with its containerized counterpart and show that the latter requires much more time and effort to process data, and uses more resources compared to a stand-alone application.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85174385000",
+      "title": "Intent-Driven Distributed Applications Management Over Compute and Network Resources in the Computing Continuum",
+      "doi": "10.1109/DCOSS-IoT58021.2023.00074",
+      "venue": "Proceedings 19th International Conference on Distributed Computing in Smart Systems and the Internet of Things Dcoss Iot 2023",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": "429-436",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101183572",
+      "authors": "Zafeiropoulos Anastasios; Fotopoulou Eleni; Vassilakis Constantinos; Tzanettis Ioannis; Lombardo Chiara; Carrega Alesssandro; Bruschi Roberto",
+      "author_ids": "24333644200;8727584800;55627877790;57480145000;50061523000;36633941300;8555973600",
+      "authorAffiliationIds": "60104215;60002947;60002947;60002947;124426043;124426043;124426043",
+      "corresponding": "Zafeiropoulos A.",
+      "keywords": "computing continuum | distributed applications | intent-driven orchestration | network operating support system | system of systems",
+      "abstract": "Intent-driven orchestration enables organizations to achieve greater automation, integration, and intelligence of their compute and network resources by defining their objectives and policies in a more abstract and holistic way, while letting the orchestration system handle the coordination, optimization, and adaptation of the resources in response to changing needs and conditions. The trend for the development of intent-driven orchestration mechanisms has been growing in recent years as the deployment of distributed applications in the computing continuum has become more complex and diverse. In this manuscript we detail a novel approach for the management of distributed applications in the computing continuum. A hierarchical decision making scheme is proposed where an entity in a specific level of the hierarchy has the responsibility for the management of the overall application or a part of it, without having the control of all the management actions. The control is distributed across various entities that have to collaborate towards some joint objectives. Both compute and network resources management is considered that may be provided by the same or different infrastructure providers.",
+      "citations": 10,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85166220059",
+      "title": "Machine-Learning-Based 5G Network Function Scaling via Black- and White-Box KPIs",
+      "doi": "10.1109/MedComNet58619.2023.10168859",
+      "venue": "2023 21st Mediterranean Communication and Computer Networking Conference Medcomnet 2023",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": "143-150",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101168857",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Davoli Franco; Lombardo Chiara; Pajo Jane Frances; Siccardi Beatrice",
+      "author_ids": "7006403406;8555973600;57220364548;50061523000;57189657677;57976887200",
+      "authorAffiliationIds": "60025153;60025153;60025153;124426043;60080173;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "5G | Machine Learning | Network Management | SMF.",
+      "abstract": "The diffusion of the Fifth-Generation (5G) of mobile radio networks will be the main driver in the digital transformation towards a new hyper-connected society. In order to satisfy the stringent demands of 5G-ready applications over the limited resources available at the edge, scaling mechanisms become crucial to guarantee the performance levels envisaged for 5G. Such mechanisms must be able to automatically perform according to the real-time user demands, the availability of computing resources and the state of Network Functions (NFs) and applications. In this context, this paper proposes a deep learning model, based on Artificial Neural Networks (ANNs), for the dynamic and automated orchestration of NFs. The novelty of this model is its independence from specific 5GNF implementations; this is due to the nature of the Key Performance Indicators (KPIs) used in this work, which are related to both execution environment (standard 'black-box' KPIs) and standard 5G APIs ('white-box' KPIs). Results obtained on the orchestration of a Session Management Function (SMF) reach an accuracy of 97∼ 98% for the training and validation phases and above 95% for the deployed model, as well as higher overall accuracy by ∼ 5% and computational resource savings with respect to a threshold-based scheme.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85149117837",
+      "title": "A Multi-Tenant System for 5/6G Testbed as-a-Service",
+      "doi": "10.1109/COMSNETS56262.2023.10041360",
+      "venue": "2023 15th International Conference on Communication Systems and Networks Comsnets 2023",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": "768-773",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101138308",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Lombardo Chiara; Mangialardi Sergio; Mohammadpour Alireza; Rabbani Ramin; Siccardi Beatrice",
+      "author_ids": "7006403406;8555973600;50061523000;35079191900;57189469624;58122114400;57976887200",
+      "authorAffiliationIds": "60025153;60025153;60103966;60103966;60103966;60025153;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "5G | NFV | Testbed",
+      "abstract": "In order to fulfill the stringent requirements and fast advancements of 5G and beyond applications, it is inevitable to develop research/industrial testbeds to examine the different proposed innovative features of 5G and beyond. In this paper, we propose a testbed including 5G and beyond technologies by combining open-source solutions and our developed Network Services/Functions to enhance the ETSI-NFV MANO framework. Our testbed contains an automation framework to reduce both run time and setup complexity. It provides various services: Metal as a Service (MaaS), Infrastructure as a Service (IaaS), Platform as a Service (PaaS), different Network Functions (NFs), and Network Services (NSs), under the context of full automation of End-to-End (E2E) NSs on top of the services provided by ETSI.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85124835760",
+      "title": "Multi-Site Resource Allocation in a QoS-Aware 5G Infrastructure",
+      "doi": "10.1109/TNSM.2022.3151468",
+      "venue": "IEEE Transactions on Network and Service Management",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "19",
+      "issue_id": "3",
+      "pages": "2034-2047",
+      "issn": null,
+      "eIssn": "19324537",
+      "source_id": "7200153156",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Davoli Franco; Lombardo Chiara; Pajo Jane Frances",
+      "author_ids": "7006403406;8555973600;57220364548;50061523000;57189657677",
+      "authorAffiliationIds": "60025153-128756286;60025153-128756286;60025153-128756286;124426043;60080173",
+      "corresponding": "Bolla R.",
+      "keywords": "5G | multi-site resource allocation | network slicing | OSS microservices | resource selection | vertical applications%",
+      "abstract": "Network softwarization has paved the way for 5G technologies, and a wide-range of (radically new) verticals. As the telecommunications infrastructure evolves into a sort of distributed datacenter, multiple tenants such as vertical industries and network service providers share its aggregate pool of resources (e.g., networking, computing, etc.) in a layered 'as-a-Service' approach exposed as slice abstractions. The challenge remains in the coordination of various stakeholders' assets in realizing end-to-end network slices and supporting the multi-site deployment and chaining of the micro-service components needed to implement cloud-native vertical applications (vApps). In this context, particular care must be taken to ensure that the required resources are identified, made available and managed in a way that satisfies the vApp requirements, allows for a fair share of resources and has a reasonable impact on the overall vApp deployment time. With these challenges in mind, this paper presents the Resource Selection Optimizer (RSO)- a software-service in the MATILDA Operations Support System (OSS), whose main goal is to select the most appropriate network and computing resources (according to some criterion) among a list of options provided by the Wide-area Infrastructure Manager (WIM). It consists of three submodules that respectively handle: (i) the aggregation of vApp components based on affinities, (ii) the forecasting of (micro-) datacenter resources utilization, (iii) and the multi-site placement of the (aggregated) vApp micro-service components. The RSO's performance is mainly evaluated in terms of the execution times of its submodules while varying their respective input parameters, and additionally, three selection policies are also compared. Experimental results aim to highlight the RSO behavior in both execution times and deployment costs, as well as the RSO interactions with other OSS submodules and network platform components, not only for multi-site vApp deployment but also for other network/services management operations.",
+      "citations": 7,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 90,
+              "rank": 95,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 89,
+              "rank": 57,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 116,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 83,
+              "rank": 64,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85142415668",
+      "title": "An AI Framework for Fostering 6G towards Energy Efficiency",
+      "doi": "10.23919/FITCE56290.2022.9934697",
+      "venue": "2022 61st Fitce International Congress Future Telecommunications Infrastructure and Sustainability Fitce 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101121711",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Davoli Franco; Ivaldi Lorenzo; Lombardo Chiara; Siccardi Beatrice",
+      "author_ids": "7006403406;8555973600;57220364548;57863161300;50061523000;57976887200",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;124426043;60025153-124426043",
+      "corresponding": "Bolla R.",
+      "keywords": "Artificial Intelligence | B5G | Edge Computing | Green Networking",
+      "abstract": "The sixth generation of radio mobile networks (6G) is expected to employ Artificial Intelligence (AI) to support this new network evolution. Along with the enabling technologies of its predecessor, namely edge computing and network slicing, AI will realize intelligent communication and networking, but at a high risk of severely increasing the demands on computing resources and the related carbon footprint. In order to avoid such a curse, this paper proposes an AI framework allowing to achieve tight proportionality between the workload produced by vertical applications and network slices, and the energy consumption induced in the infrastructure, and enabling beyond 5G stakeholders to become part of a green business model. The paper outlines a high-level architecture able to support the framework, as well as the role of the algorithms composing it. Results show that the proposed framework allows for energy savings over 100% while fulfilling the application requirements.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85137106007",
+      "title": "A Digital Twin for the 5G Era: the SPIDER Cyber Range",
+      "doi": "10.1109/WoWMoM54355.2022.00088",
+      "venue": "Proceedings 2022 IEEE 23rd International Symposium on A World of Wireless Mobile and Multimedia Networks Wowmom 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": "567-572",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101104984",
+      "authors": "Rebecchi Filippo; Pastor Antonio; Mozo Alberto; Lombardo Chiara; Bruschi Roberto; Aliferis Ilias; Doriguzzi-Corin Roberto; Gouvas Panagiotis; Romero Antonio Alvarez; Angelogianni Anna; Politis Ilias; Xenakis Christos",
+      "author_ids": "56323830900;57210395292;24479201000;50061523000;8555973600;57870100900;55890859500;55887996800;57201070150;57205630248;55946579200;6602256607",
+      "authorAffiliationIds": "125506716;60010156;60028442;60103966;60103966;117280711;60083112;60159730;120334099;60010667;60010667;60010667",
+      "corresponding": "Rebecchi F.",
+      "keywords": "5G | Cyber Range | Digital Twin",
+      "abstract": "Service providers, 5G network operators and, more generally, vertical industries face today a dangerous shortage of highly skilled cybersecurity experts. Along with the escalation and growing sophistication of cyber-attacks, 5G networks require the training of skilled and highly competent cyber forces. To meet these requirements, the SPIDER cyber range focuses specifically on 5G, and is based on three pillars, (i) cyber security assessment, (ii) training cyber security teams to defend against complex cyber-attack scenarios, and (iii) evaluation of cyber risk. The SPIDER cyber range replicates a customized 5G network, enabling the execution of cyber-exercises that take advantage of hands-on interaction in real time, the sharing of information between participants, and the gathering of feedback from network equipment, as well as the development and adaptation of advanced operational procedures. This aims to help 5G security professionals improve their ability to collaboratively manage and predict security incidents, complex attacks, and propagated vulnerabilities. The SPIDER cyber range is validated in two relevant use case scenarios aimed at demonstrating, in a realistic, measurable, and replicable way the transformations SPIDER will bring to the cybersecurity industry.",
+      "citations": 22,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85136797445",
+      "title": "Trading off Power Consumption and Delay in the Execution of Network Functions by Dynamic Activation of Processing Units",
+      "doi": "10.1109/NetSoft54395.2022.9844039",
+      "venue": "Proceedings of the 2022 IEEE International Conference on Network Softwarization Network Softwarization Coming of Age New Challenges and Opportunities Netsoft 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": "1-6",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101104270",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Carrega Alessandro; Davoli Franco; Lombardo Chiara",
+      "author_ids": "7006403406;8555973600;36633941300;57220364548;50061523000",
+      "authorAffiliationIds": "60025153-60103966;60025153-60103966;60025153;60025153-60103966;60103966",
+      "corresponding": "Bolla R.",
+      "keywords": "Energy efficiency | hardware offloading | MEC",
+      "abstract": "Beside increasing flexibility and programmability, the current network 'softwarization' trend is believed to be beneficial also in respect of energy efficiency, owing to the consolidation of resources made possible by virtualized networking components. However, the widespread use of general-purpose hardware may jeopardize energy saving, unless proper control strategies are put in operation. In this context, the paper addresses a 'smart sleeping' control problem, where computing resources in multi-core processors executing network functions are modelled as multi-server queues, and the number of active processing units (either physical or virtual) can be dynamically adjusted by parametric control over a time scale compatible with the long-term dynamics of the traffic flows that require processing. We show that, on average, up to 25% of processing capacity of a network node can be turned off in the presence of bursty traffic with low load without significantly affecting packet latency.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85136781273",
+      "title": "A Zero-Touch as-a-Service Active Monitoring Framework for Virtualized Network Environments",
+      "doi": "10.1109/NetSoft54395.2022.9844069",
+      "venue": "Proceedings of the 2022 IEEE International Conference on Network Softwarization Network Softwarization Coming of Age New Challenges and Opportunities Netsoft 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": "103-108",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101104270",
+      "authors": "Mohammadpour Alireza; Lombardo Chiara; Bolla Raffaele; Bruschi Roberto; Davoli Franco; Ivaldi Lorenzo",
+      "author_ids": "57189469624;50061523000;7006403406;8555973600;57220364548;57863161300",
+      "authorAffiliationIds": "124426043;124426043;124426043-60025153;124426043-60025153;124426043-60025153;124426043",
+      "corresponding": "Mohammadpour A.",
+      "keywords": "5G | network performance | NFV | Traffic generator",
+      "abstract": "In order to fulfill the stringent requirements of 5G applications, measuring the performance of the VNFs composing the network slices is crucial to identify potential bottlenecks of the networks. However, since the VNF behavior is time varying and strongly depends on the infrastructure and hosting execution environment, the traditional traffic generators are not suited for the evaluation as their overhead, both in terms of deployment time and code complexity, may affect the results to the point of corruption. In order to overcome this issue, this paper presents a software traffic generator, based on TRex and executed in a VNF, which leverages on an automation framework to provide zero-touch as-a-Service active monitoring. Results show that the impact of this solution on the measured performance is negligible in terms of deployment time as well as required input lines.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85129603834",
+      "title": "Adaptive network reliability for human-robot interaction in beyond 5G industrial applications",
+      "doi": "10.1109/DRCN53993.2022.9758009",
+      "venue": "2022 18th International Conference on the Design of Reliable Communication Networks Drcn 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101088300",
+      "authors": "Borsatti Davide; Davoli Gianluca; Lombardo Chiara; Selvi Daniela; Bruschi Roberto; Cerroni Walter; Davoli Franco; Raffaelli Carla; Trivisonno Riccardo; Bolla Raffaele",
+      "author_ids": "57205651942;57195625242;50061523000;55512695700;8555973600;6507691078;57220364548;35463126100;8251302400;7006403406",
+      "authorAffiliationIds": "126012315-60028218;126012315-60028218;126012315-124426043;126012315-60028218;126012315-60025153;126012315-60028218;126012315-60025153;126012315-60028218;60119364;126012315-60025153",
+      "corresponding": "Borsatti D.",
+      "keywords": "Beyond 5G | Human-Robot Collaboration | Industry 4.0 | Reliability",
+      "abstract": "Wireless private networks based on 5G (and beyond) connectivity represent a flexible high capacity solution for future smart industrial environments. In this context, the presence of both humans and robots introduces extremely high reliability requirements in network control and management, for safety reasons. In this paper, a novel technique is described, based on real-Time, dynamic management of radio bearer redundancy according to reciprocal human-robot positions, that is shown to improve network availability and reliability with the purpose of safe mobility in the industrial environment. Results obtained by simulation show that the current number of radio bearers supported by 5G radio systems may not be sufficient to meet stringent reliability requirements of critical applications.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85104916999",
+      "title": "Managing 5G network slicing and edge computing with the MATILDA telecom layer platform",
+      "doi": "10.1016/j.comnet.2021.108090",
+      "venue": "Computer Networks",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "194",
+      "issue_id": null,
+      "pages": null,
+      "issn": "13891286",
+      "eIssn": null,
+      "source_id": "26811",
+      "authors": "Bruschi Roberto; Pajo Jane Frances; Davoli Franco; Lombardo Chiara",
+      "author_ids": "8555973600;57189657677;57220364548;50061523000",
+      "authorAffiliationIds": "60025153;60080173;60025153;60103966",
+      "corresponding": "Bruschi R.",
+      "keywords": "5G | Edge computing | Quality of service | Virtual network functions",
+      "abstract": "The fifth generation (5G) of mobile networks is seen as a key enabler to support the introduction of digital technologies in multiple sectors, empowering different verticals and enabling new business models. Thanks to native capabilities of 5G networks, especially network slicing, edge computing and multi-tenancy, highly integrated telecom infrastructures with end-to-end flexibility will be realized to lower the barriers for creating 5G-ready applications that are able to satisfy business and user necessities. In this context, the MATILDA Project has established a holistic framework that unifies the development, deployment and operation for this new kind of applications. Since Edge Computing is not natively supported by 4G, in order to anticipate the technological improvements foreseen with the advent of 5G, as well as to smoothen the transition to the new technology, this paper describes the design of the end-point between the mobile and edge environments that has been integrated in the MATILDA telecom layer platform. Such end-point, designed in a Virtual Network Function (VNF), allows intercepting and forwarding data and control traffic towards external Data Networks. Instances of this VNF can be horizontally scaled according to a decision policy, which determines the minimum number of instances required for the current load. Results show that the latency ascribable to the VNF processing is sufficiently low to satisfy the delay budget for all 5G use-cases up to 10 ms and that a QCI-based decision policy allows scaling with the traffic load, while still fulfilling the performance requirements of each application.",
+      "citations": 19,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 82,
+              "rank": 96,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 90,
+              "rank": 35,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85113857359",
+      "title": "From Cloud-Native to 5G-Ready Vertical Applications: An Industry 4.0 Use Case",
+      "doi": "10.1109/HPSR52026.2021.9481826",
+      "venue": "IEEE International Conference on High Performance Switching and Routing Hpsr",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": "2021-June",
+      "issue_id": null,
+      "pages": null,
+      "issn": "23255595",
+      "eIssn": "23255609",
+      "source_id": "21100269622",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Burow Kay; Davoli Franco; Ghrairi Zied; Gouvas Panagiotis; Lombardo Chiara; Frances Pajo Jane; Zafeiropoulos Anastasios",
+      "author_ids": "7006403406;8555973600;55846230800;57220364548;53877523300;55887996800;50061523000;57189657677;24333644200",
+      "authorAffiliationIds": "60025153;60025153;60008293;60025153-60103966;60008293;60159730;60103966;60080173;60002947",
+      "corresponding": "Bolla R.",
+      "keywords": "5G | Industry 4.0 | slicing",
+      "abstract": "This paper aims to showcase the ability of the MATILDA Platform to enable vertical applications fully utilizing the capabilities offered by the fifth generation of mobile networks (5G). Although 5G, powered by network slicing and edge computing, promises to flexibly support radically new and extremely heterogeneous vertical applications, vertical stakeholders generally lack both the skills to exploit the full potentials of 5G networks and the vision of the underlying resources, owned by Telecom providers that are reluctant to expose them in an unmediated way. The MATILDA platform bridges the gap between the vertical application and the network service domains. This paper presents the case of an Industry 4.0 application, and highlights the role played by the MATILDA solution in its successful deployment and orchestration.",
+      "citations": 10,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 45,
+              "rank": 544,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 37,
+              "rank": 146,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85126123155",
+      "title": "AI-powered Infrastructures for Intelligence and Automation in Beyond-5G Systems",
+      "doi": "10.1109/GCWkshps52748.2021.9682117",
+      "venue": "2021 IEEE Globecom Workshops GC Wkshps 2021 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101080175",
+      "authors": "Militano Leonardo; Zafeiropoulos Anastasios; Fotopoulou Eleni; Bruschi Roberto; Lombardo Chiara; Edmonds Andy; Papavassiliou Symeon",
+      "author_ids": "34870198400;24333644200;8727584800;8555973600;50061523000;53363396200;23567140500",
+      "authorAffiliationIds": "60015769;60104215;60104215;60025153;124426043;127828446;60104215",
+      "corresponding": "Militano L.",
+      "keywords": "6G systems | Artificial Intelligence | Automation | Edge Computing | Federated Learning | Reinforcement Learning",
+      "abstract": "In this paper, a vision for beyond-5G systems is proposed where automation and intelligence in cloud-native infrastructures are in focus. Exploiting the convergence of cloud technologies at the edge and mobile communication networks, a set of technological solutions is discussed that will play a fundamental role on the path from 5G towards future 6G systems. Currently, a strong need is felt in the telecommunication world for greater automation to meet the extreme requirements expected for 6G applications. Artificial Intelligence (AI) is gaining momentum as one of the main enabling technologies for beyond-5G networks. Reinforcement Learning (RL) and Federated Learning (FL) are here proposed as technologies to enhance automation and improve the intelligence of orchestration mechanisms of both network services and applications. These technologies are brought together in a comprehensive cloud-native architectural vision to fill the gap between current 5G systems and AI-powered systems of the future.",
+      "citations": 7,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85093831642",
+      "title": "Validation of IaaS-based technologies for 5G-ready applications deployment",
+      "doi": "10.1109/EuCNC48522.2020.9200926",
+      "venue": "2020 European Conference on Networks and Communications Eucnc 2020",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": null,
+      "issue_id": null,
+      "pages": "46-51",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101023671",
+      "authors": "Bruschi Roberto; Davoli Franco; Bravo Fernando Diaz; Lombardo Chiara; Mangialardi Sergio; Pajo Jane Frances",
+      "author_ids": "8555973600;57220364548;57205527684;50061523000;35079191900;57189657677",
+      "authorAffiliationIds": "60025153;60103966;;60103966;60103966;60025153-60103966",
+      "corresponding": "Bruschi R.",
+      "keywords": "5G Testbed | Edge Computing | Network Functions Virtualization",
+      "abstract": "In an attempt to assess the suitability of current Infrastructure-as-a-Service (IaaS) technologies for fulfilling 5G-ready applications requirements, this paper has exploited the CNIT S2N testbed to perform a validation over a complete 5G ecosystem. The testbed supports the telecom network platform developed within the MATILDA Project, which adopts the vanilla versions of the main reference projects/software suites in the 5G field, such as OpenStack and Open-Source MANO (OSM). By including such familiar technologies in the 5G ecosystem, vertical industries would interact with a familiar environment similar to today's scenarios, which would lower the barrier for creating 5G-ready applications. However, results show that current solutions are blamable for around 99% of the deployment time of applications and network slices, a figure that bumps their lifecycle up to the order of magnitude of minutes proving them still not suitable to fulfill 5G requirements.",
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85091972218",
+      "title": "Debunking the 'Green' NFV Myth: An assessment of the virtualization sustainability in radio access networks",
+      "doi": "10.1109/NetSoft48620.2020.9165481",
+      "venue": "Proceedings of the 2020 IEEE Conference on Network Softwarization Bridging the Gap Between AI and Network Softwarization Netsoft 2020",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": null,
+      "issue_id": null,
+      "pages": "180-184",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101022771",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Davoli Franco; Lombardo Chiara; Pajo Jane Frances",
+      "author_ids": "7006403406;8555973600;57220364548;50061523000;57189657677",
+      "authorAffiliationIds": "60103966-60025153;60025153;60103966-60025153;60103966;60103966-60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "C-RAN | NFV | Power consumption | TCO",
+      "abstract": "Since the adoption of virtualization paradigms is seen as a viable way to fulfil the requirements of next-generation applications in a sustainable way, this paper examines the virtualization of the Radio Access Network (RAN), focusing on the C-RAN architecture, in order to better understand the impact of NFV technologies on power consumption and costs in real networks. The evaluation compares the power consumption obtained by deploying the Base Band Unit (BBU) using commercial devices or pools of Virtual Network Functions (VNFs). Publicly available datasets describing the traffic and the eNodeBs have been used for the evaluation, as well as datasheets for both the commercial devices and the VNF pools. Results show that the usage of the virtualized BBU causes consumptions around 250% higher with respect to the commercial deployment, and operation and capital costs over 66% higher, contradicting the common belief of NFV being a 'green' technology. Further estimates conducted in this paper, however, highlight how the deployment of VNFs alongside specialized hardware solutions can represent a successful approach for telecom providers, with energy savings up to 20% and costs in line with the ones of dedicated hardware deployments.",
+      "citations": 8,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85091964896",
+      "title": "Enabling edge computing deployment in 4G and beyond",
+      "doi": "10.1109/NetSoft48620.2020.9165384",
+      "venue": "Proceedings of the 2020 IEEE Conference on Network Softwarization Bridging the Gap Between AI and Network Softwarization Netsoft 2020",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": null,
+      "issue_id": null,
+      "pages": "237-241",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101022771",
+      "authors": "Bruschi Roberto; Davoli Franco; Lamanna Guerino; Lombardo Chiara; Mangialardi Sergio; Pajo Jane Frances",
+      "author_ids": "8555973600;57220364548;35324928200;50061523000;35079191900;57189657677",
+      "authorAffiliationIds": "60025153;60025153-60103966;113110590;60103966;60103966;60025153-60103966",
+      "corresponding": "Bruschi R.",
+      "keywords": "5G | Edge Computing | Quality of Service | Virtual Network Functions",
+      "abstract": "While the integration of fourth-generation (4G) networks with Edge Computing technologies would anticipate the improvements foreseen by the coming of 5G, as well as smoothen the transition to the new technology, 4G does not natively support Edge Computing. Therefore, specific functionalities for user-plane integration and isolation of tenant spaces are required for effectively deploying Edge Computing in 4G networks. This paper describes the design of the end-point between the mobile and edge environments that has been integrated in the telecom layer platform of the MATILDA Project. Such end-point, designed in a Virtual Network Function (VNF), allows intercepting and forwarding data and control traffic towards external Data Networks. Instances of this VNF can be horizontally scaled according to a decision policy, which determines the minimum number of instances required for the current load. Results show that the latency ascribable to the VNF processing is sufficiently low to satisfy the delay budget for all 5G use cases up to 10 ms and that the decision policy based on the QoS Class Identifiers (QCIs) allows scaling with the traffic load, while still fulfilling the performance requirements of each application.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85058181863",
+      "title": "SDN&NFV contribution to IoT objects virtualization",
+      "doi": "10.1016/j.comnet.2018.11.030",
+      "venue": "Computer Networks",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "149",
+      "issue_id": null,
+      "pages": "200-212",
+      "issn": "13891286",
+      "eIssn": null,
+      "source_id": "26811",
+      "authors": "Atzori L.; Bellido J. L.; Bolla R.; Genovese G.; Iera A.; Jara A.; Lombardo C.; Morabito G.",
+      "author_ids": "57208011473;57204965614;7006403406;57200212895;7007176996;35113243800;50061523000;7004480329",
+      "authorAffiliationIds": "60103966-60032259;118563131;60025153-60103966;60103966-60020167;60103966-60020167;118563131;60025153-60103966;60103966-60010146",
+      "corresponding": "Atzori L.",
+      "keywords": "Internet of Things | Mobile Edge Computing | Network functions virtualization | Virtual Object",
+      "abstract": "The Internet of Things paradigm will certainly be one of the main drivers of the tomorrow's 5th generation (5G) wireless networks. In order to support the algorithms required for real time exchange and analysis of great amounts of data among the involved smart devices, Virtual Objects (VO) have become a key component to improve the objects energy management efficiency, as well as to address heterogeneity and scalability issues. Following the research trend of exploiting on-demand cloud computing resources to augment the processing and storage capabilities of IoT devices, this paper addresses the design of a novel infrastructure and paradigm to support the deployment of new personal IoT services inside the infrastructure provider premises. The goal is to bring cloud-computing services much closer to the end-users and to be able to replace physical IoT devices with their “Virtual Images”. Among other benefits, this approach will ensure a longer lifetime to IoT constrained devices and enable the inclusion of new protocols making the development of logic and the configuration of IoT smart application environment technology-agnostic. To achieve this goal, we have developed an open-source software platform that exploits OpenStack APIs and leverages a web interface providing all the functionality typically available in a home gateway through the OpenWRT Linux distribution. Results show this approach brings a manifest reduction in the amount of data transmitted, with benefits in terms of reduced workload and power consumption as well as extended device lifetime.",
+      "citations": 34,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 82,
+              "rank": 96,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 89,
+              "rank": 33,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85067546934",
+      "title": "Personal Services Placement and Low-Latency Migration in Edge Computing Environments",
+      "doi": "10.1109/NFV-SDN.2018.8725635",
+      "venue": "2018 IEEE Conference on Network Function Virtualization and Software Defined Networks Nfv Sdn 2018",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100913129",
+      "authors": "Bruschi R.; Davoli F.; Lago P.; Lombardo C.; Pajo J. F.",
+      "author_ids": "8555973600;57220364548;55757292600;50061523000;57189657677",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Bruschi R.",
+      "keywords": "MEC | NFV | SDN | Service Placement",
+      "abstract": "Low latency and integration with edge computing facilities are two of the main enablers of the upcoming fifth-generation mobile network. The geographical distribution of virtualized compute and storage resources (e.g., NFVI PoPs) allows to deploy application/service instances/components closer to mobile subscribers, and to provide much higher performance levels in terms of latency. These new degrees of freedom should be suitably managed in order to place and to migrate application components along with subscribers' move. Given the mass-scale of subscribers and the non-negligible overhead to move application components over resource-constrained edge facilities, this management should be performed in a highly scalable and effective way. In this respect, this paper presents the design of a comprehensive edge computing framework, including an orchestration algorithm, able to place and to move services in few milliseconds (<25 ms). The algorithm provides scalability levels able to support services instantiated on a per-user basis (i.e., personal services) also in the presence of complex network and service environments. The performance evaluation has been carried out by considering different service chains within diverse software live migration technologies.",
+      "citations": 8,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85061680318",
+      "title": "Evaluating the Impact of Micro-Data Center (μDC) Placement in an Urban Environment",
+      "doi": "10.1109/NFV-SDN.2018.8725627",
+      "venue": "2018 IEEE Conference on Network Function Virtualization and Software Defined Networks Nfv Sdn 2018",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100913129",
+      "authors": "Bruschi R.; Davoli F.; Lombardo C.; Sanchez O. R.",
+      "author_ids": "8555973600;57220364548;50061523000;57193711034",
+      "authorAffiliationIds": "121101656;60025153;60025153;60025153",
+      "corresponding": "Bruschi R.",
+      "keywords": "5G | PON | User Mobility | μDC",
+      "abstract": "The need for placing datacenter resources closer to the end-user is inarguable given the rise of computationally heavy services that have stringent latency requirements. This need becomes more straightforward in the expected proliferation of the Internet of Things (IoT) and for the forthcoming 5<sup>th</sup> generation (5G) mobile networks. However, in the context of Mobile Edge Computing, there is a lack of research activities about quantifying the important parameters that are helpful for the deployment of micro-datacenters (μDCs). For this reason, this paper provides an analysis of a citywide deployment of μDCs and an evaluation on how the different deployment scenarios affect both end-user Quality of Service (QoS) and Telco provider costs. In order to identify some guidelines to minimize such costs, the possibility of placing μDCs in the central offices hosting the Optical Line Terminals (OLTs) of the widely deployed Passive Optical Networks (PONs) has been explored. We utilized the publicly released dataset of the Milano Grid from the Open Big Data initiative and developed a simulation framework for user mobility that takes into account the effects of the user transitions on the generated traffic. Results illustrate the trade-off between the number of servers/power consumption and the per-user latency for varying μDC coverage area, and compare it to the deployment and energy costs ascribable to different ways of μDC dimensioning.",
+      "citations": 9,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85055822267",
+      "title": "Orchestration and Monitoring in Fog Computing for Personal Edge Cloud Service Support",
+      "doi": "10.1109/LANMAN.2018.8475113",
+      "venue": "IEEE Workshop on Local and Metropolitan Area Networks",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": "2018-June",
+      "issue_id": null,
+      "pages": "91-96",
+      "issn": "19440367",
+      "eIssn": "19440375",
+      "source_id": "21100197335",
+      "authors": "Wamser Florian; Lombardo Chiara; Vassilakis Constantinos; Dinh-Xuan Lam; Lago Paolo; Bruschi Roberto; Tran-Gia Phuoc",
+      "author_ids": "35147107800;50061523000;55627877790;57074119000;55757292600;8555973600;7003867855",
+      "authorAffiliationIds": "60012689;60103966;60159730;60012689;60103966;60103966;60012689",
+      "corresponding": "Wamser F.",
+      "keywords": null,
+      "abstract": "To effectively support new cloud services and smart device accessibility, current Internet design must move away from its typical TCP/IP-based architecture and evolve towards new paradigms characterized by high degrees of freedom. In particular, Network Functions Virtualization and Software-Defined Networking have proven to be appropriate approaches to introducing edge-programmability. In this article we give an overview over the fog computing-architecture approach INPUT (In-Network Programmability for the next generation of Personal CloUd Service SupporT) with its implementation OpenVolcano, which uses the above approaches to promote future personal Internet cloud services at the network edge. Specifically, it enables computing and storage capabilities for edge network devices, provides a simple, private, programmable SDN-based Ethernet domain for end users and edge cloud services, IaaS and PaaS support with tight delay and performance constraints through templates. The focus of this work is on multi-service orchestration and monitoring, which is an essential core of any edge computing architecture.",
+      "citations": 4,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Communication",
+              "percentile": 52,
+              "rank": 254,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 34,
+              "rank": 360,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 33,
+              "rank": 663,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Software",
+              "percentile": 22,
+              "rank": 388,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85031783011",
+      "title": "An SDN/NFV platform for personal cloud services",
+      "doi": "10.1109/TNSM.2017.2761860",
+      "venue": "IEEE Transactions on Network and Service Management",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2017,
+      "volume": "14",
+      "issue_id": "4",
+      "pages": "1143-1156",
+      "issn": "19324537",
+      "eIssn": null,
+      "source_id": "7200153156",
+      "authors": "Bruschi Roberto; Davoli Franco; Lago Paolo; Lombardo Alfio; Lombardo Chiara; Rametta Corrado; Schembra Giovanni",
+      "author_ids": "8555973600;57220364548;55757292600;7101813955;50061523000;35318354500;7003865210",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60010146;60010146;60010146",
+      "corresponding": "Bruschi R.",
+      "keywords": "Fog computing | Home entertainment | Network softwarization | NFV | Personal cloud services | SDN | Service chains",
+      "abstract": "In the last few years, network \"softwarization\" is gaining increasing popularity to achieve dynamicity and flexibility. Cloud computing, as well as the new paradigms of software defined networking (SDN) and network functions virtualization (NFV), are supporting this evolution. However, the need to move services closer to users to guarantee low latency in the service fruition on one hand, and the trend to support personalization of services on the other, are stimulating the migration of services toward edge nodes (in the so-called \"fog computing\" fashion). This is the target of the INPUT platform, proposed in the INPUT project to support future Internet personal cloud services in a more scalable and sustainable way, and with innovative added-value capabilities. The INPUT platform enables next-generation cloud applications to go beyond classical service models, and even replaces physical smart devices, usually placed in users' homes (e.g., set-Top-boxes, etc.), with virtual entities, providing them to users \"as a Service.\" In this paper, we present the INPUT paradigm and discuss a relevant use case-namely, the virtual set-Top-box-Adopted to prove the feasibility of the softwarized SDN/NFV paradigm jointly with the fog-computing approach for the support of personal cloud services. The INPUT platform is also compared with a legacy approach to evaluate the gain in terms of quality of experience for both static and mobile users.",
+      "citations": 30,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 90,
+              "rank": 95,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 89,
+              "rank": 57,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 88,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 85,
+              "rank": 41,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85040251654",
+      "title": "OpenStack Extension for Fog-Powered Personal Services Deployment",
+      "doi": "10.23919/ITC.2017.8065705",
+      "venue": "Proceedings of the 29th International Teletraffic Congress Itc 2017",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "19-23",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100795279",
+      "authors": "Bruschi Roberto; Genovese Giacomo; Iera Antonio; Lago Paolo; Lamanna Guerino; Lombardo Chiara; Mangialardi Sergio",
+      "author_ids": "8555973600;57200212895;7007176996;55757292600;35324928200;50061523000;35079191900",
+      "authorAffiliationIds": "60103966;60103966;60103966-60020167;60103966-114775333;60025153;60103966-114775333;60103966",
+      "corresponding": "Bruschi R.",
+      "keywords": "Fog computing | IoT | OpenStack | PaaS | Service Migration",
+      "abstract": "Fog computing has been proposed to improve the cloud computing functionality by moving computation and storage resources closer to end-users, thus reducing end-to-end latency to make new personal services available. However, a number of issues need to be overcome in order to deploy this new technology, which include scalability of user localization and data migration, along with new ways of interactions among the involved stakeholders. In this respect, this paper proposes an intercommunication layer that allows to isolate the physical resources while managing the migration of service instances according to the user's position. Moreover, the introduction of specific mechanisms ensure personal services are deployed in a lightweight fashion. Test results will show how such mechanismsguarantee service migration to be seamless with downtimes reduced up to 3 orders of magnitude.",
+      "citations": 7,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85028350558",
+      "title": "The dark side of network functions virtualization: A perspective on the technological sustainability",
+      "doi": "10.1109/ICC.2017.7997129",
+      "venue": "IEEE International Conference on Communications",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "15503607",
+      "eIssn": null,
+      "source_id": "33201",
+      "authors": "Bolla R.; Bruschi R.; Davoli F.; Lombardo C.; Pajo J. F.; Sanchez O. R.",
+      "author_ids": "7006403406;8555973600;57220364548;50061523000;57189657677;57193711034",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "Carbon Footprint | Energy Efficiency | NFV | SGW | vEPC",
+      "abstract": "The Network Functions Virtualization (NFV) paradigm is undoubtedly a key technological advancement in the Information and Communication Technology (ICT) community, especially for the upcoming 5G network design. While most of its promise is quite straightforward, the implied reduction of the power consumption/carbon footprint is still debatable, and not in line with the energy efficiency perspective forecasted by the ETSI NFV working group (WG). In this paper, we provide an estimate of the possible future requirements of this upcoming technology when deployed according to the virtual Evolved Packet Core (vEPC) use case specified by the ETSI NFV WG. Our estimation is based on real performance levels, certified by independent third-party laboratories, and datasheet values provided by existing commercial products for both the legacy and NFV network architectures, under different deployment scenarios. Obtained results show that a massive deployment of the current NFV technologies in the EPC may lead to a minimum increase of 106 % in the carbon footprint/energy consumption with respect to the Business As Usual (BAU) network solutions. Moreover, these values tend to increase at a very high pace when the most suitable software/hardware combination is not applied, or when packet processing latency is taken into account.",
+      "citations": 14,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85044648037",
+      "title": "Virtualization of set-top-box devices in next generation SDN-NFV networks: The INPUT project perspective",
+      "doi": "10.1145/3018896.3152304",
+      "venue": "ACM International Conference Proceeding Series",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "11600154611",
+      "authors": "Bruschi R.; Davoli F.; Galluccio L.; Lago P.; Lombardo A.; Lombardo C.; Rametta C.; Schembra G.",
+      "author_ids": "8555973600;57220364548;55890825500;55757292600;7101813955;50061523000;35318354500;7003865210",
+      "authorAffiliationIds": "60103966;101612454;60010146;60103966;60010146;60103966;60010146;60010146",
+      "corresponding": "Bruschi R.",
+      "keywords": "Cloud Services | Device Softwarization | Fog-computing | Network Functions Virtualization | Software Defined Networking",
+      "abstract": "Due to the emergence of Software Defined Networking (SDN) and Network Functions Virtualization (NFV) paradigms, coupled with a hyper-connectivity communication paradigm, the \"softwarization\" of the Internet infrastructure and of its network management framework is gaining increasing popularity. This is the target of the INPUT platform, a novel infrastructure and paradigm supporting Future Internet personal cloud services in a more scalable and sustainable way, and with innovative added-value capabilities. The INPUT technologies enable next-generation cloud applications to go beyond classical service models, and even replace physical Smart Devices, usually placed in users' homes (e.g., set-top boxes), with their virtual images, providing them to users \"as a Service\". In this paper we present the Virtual set-top box from both architectural and functional points of view, demonstrating the feasibility of the softwarized SDN/NFV paradigm joined with the fog-computing approach to support personal cloud services.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85013053949",
+      "title": "OpenVolcano: An Open-Source Software Platform for Fog Computing",
+      "doi": "10.1109/ITC-28.2016.212",
+      "venue": "Proceedings of the 28th International Teletraffic Congress Itc 2016",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "22-27",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100795279",
+      "authors": "Bruschi R.; Lago P.; Lamanna G.; Lombardo C.; Mangialardi S.",
+      "author_ids": "8555973600;55757292600;35324928200;50061523000;35079191900",
+      "authorAffiliationIds": "60025153;60025153;114775333;60025153;60025153",
+      "corresponding": "Bruschi R.",
+      "keywords": "fog computing | NFV | personal cloud services | SDN",
+      "abstract": "In order to overcome the cloud service performance limits, the INPUT Project aims to go beyond the typical IaaS-based service models by moving computing and storage capabilities from the datacenters to the edge network, and consequently moving cloud services closer to the end users. This approach, which is compatible with the concept of fog computing, will exploit Network Functions Virtualization (NFV) and Software Defined Networking (SDN) to support personal cloud services in a more scalable and sustainable way and with innovative added-value capabilities. This paper presents OpenVolcano, the open-source software platform under development in the INPUT Project, which will realize the fog computing paradigm by exploiting in-network programmability capabilities for off-loading, virtualization and monitoring.",
+      "citations": 22,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84971329349",
+      "title": "Standard methodologies for energy efficiency assessment",
+      "doi": null,
+      "venue": "Green Communications Theoretical Fundamentals Algorithms and Applications",
+      "type": "Book",
+      "sub_type": "Book Chapter",
+      "year": 2016,
+      "volume": null,
+      "issue_id": null,
+      "pages": "83-102",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100873129",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Lombardo Chiara",
+      "author_ids": "7006403406;8555973600;50061523000",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": null,
+      "abstract": null,
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84966470687",
+      "title": "The expected impact of smart devices visualization",
+      "doi": "10.1109/ICCNC.2016.7440551",
+      "venue": "2016 International Conference on Computing Networking and Communications Icnc 2016",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100457373",
+      "authors": "Bolla Raffaele; Davoli Franco; Lombardo Chiara; Masullo Laura; Bruschi Roberto",
+      "author_ids": "7006403406;57220364548;50061523000;57189243988;8555973600",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "energy efficiency evaluation | power management | SDN",
+      "abstract": "Overcoming the typical ossification of the traditional TCP/IP-based Internet infrastructure will allow opening the way for more flexible and energy efficient paradigms, able to provide a sustainable support to the constantly increasing number of devices and services. To this goal, the INPUT Project will overcome current limitations by introducing computing and storage capabilities to edge network devices in order to allow users/telecom operators to create/manage private clouds «in the network». In addition, these new capabilities will allow replacing smart devices, such as network-attached storage servers, set-top-boxes, video sensors etc. with their virtual images. Although this virtualization process can clearly bring to a reduction of the emissions, along with the lowering of capital (CAPEX) and operational (OPEX) expenditures, on the other hand it requires more computational capacity at server level, which may erase the savings produced by virtualization in the absence of a thorough management and planning. In this respect, this paper presents a mathematical model that analyzes the impact of different levels of virtualization on the overall energy efficiency by thoroughly outlining how the carbon footprint varies depending on the virtualization level of a device.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84998886338",
+      "title": "In-Network Programmability for Next-generation Personal Cloud Service Support (INPUT)",
+      "doi": "10.1016/j.procs.2016.08.286",
+      "venue": "Procedia Computer Science",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": "97",
+      "issue_id": null,
+      "pages": "114-117",
+      "issn": null,
+      "eIssn": "18770509",
+      "source_id": "19700182801",
+      "authors": "Bruschi Roberto; Lago Paolo; Lombardo Chiara",
+      "author_ids": "8555973600;55757292600;50061523000",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Bruschi R.",
+      "keywords": "Cloud services | Personal Networks | SDN | Virtualization",
+      "abstract": "In order to overcome the cloud service performance limits, the INPUT Project aims to go beyond the typical IaaS-based service models by moving computing and storage capabilities from the datacenters to the edge network, and consequently moving cloud services closer to the end users. This approach, which is compatible with the concept of fog computing, will exploit Network Functions Virtualization (NFV) and Software Defined Networking (SDN) to support personal cloud services in a more scalable and sustainable way and with innovative added-value capabilities.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 55,
+              "rank": 107,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2016,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 47,
+              "rank": 103,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84933530281",
+      "title": "Fine-Grained Energy-Efficient Consolidation in SDN Networks and Devices",
+      "doi": "10.1109/TNSM.2015.2431074",
+      "venue": "IEEE Transactions on Network and Service Management",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2015,
+      "volume": "12",
+      "issue_id": "2",
+      "pages": "132-145",
+      "issn": "19324537",
+      "eIssn": null,
+      "source_id": "7200153156",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Davoli Franco; Lombardo Chiara",
+      "author_ids": "7006403406;8555973600;57220364548;50061523000",
+      "authorAffiliationIds": "60025153-60103966;60103966;60025153-60103966;60025153-60103966",
+      "corresponding": "Bolla R.",
+      "keywords": "consolidation | green abstraction layer | network management | orchestration | software defined networks",
+      "abstract": "The constant evolution and expansion of the Internet and Internet-related technologies has exposed the limitations of the current networking infrastructures, which are represented by the unsustainable power consumption and low level of scalability. In fact, these infrastructures are still based on the typical, ossified architecture of the TCP/IP paradigm. In order to cope with the Future Internet requirements, recent contributions envisage an evolution towards more programmable and efficient paradigms. In this respect, this paper describes the basic issues, the technical approaches, and the methodologies for the implementation of power management primitives in the context of the emerging Software Defined Networking. In detail, we propose to extend one of the most prominent solutions aimed at increasing networking flexibility, the OpenFlow Protocol, to integrate the energy-aware capabilities offered by the Green Abstraction Layer (GAL). However, the mere introduction of node-level solutions would be of little or no use in the absence of a network-wide management scheme to guarantee inter-operability and effectiveness of the proposed architecture. In this respect, this work also proposes an analytical model for the management of a network with these capabilities. The results will show how our solutions are well suited to provide a scalable and efficient network architecture able to manage the orchestration and consolidation of the available resources.",
+      "citations": 34,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 90,
+              "rank": 95,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 89,
+              "rank": 57,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2015,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 88,
+              "rank": 79,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 84,
+              "rank": 36,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84912055337",
+      "title": "Green extension of OpenFlow",
+      "doi": "10.1109/ITC.2014.6932957",
+      "venue": "2014 26th International Teletraffic Congress Itc 2014",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2014,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100348533",
+      "authors": "Bruschi Roberto; Lombardo Alfio; Morabito Giacomo; Riccobene Vincenzo; Bolla Raffaele; Davoli Franco; Lombardo Chiara",
+      "author_ids": "8555973600;7101813955;7004480329;55557239100;7006403406;57220364548;50061523000",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Bruschi R.",
+      "keywords": "network programmability | SDN power management",
+      "abstract": "Today's network architectures are not able to cope with the Future Internet requirements, as they are too inefficient, power hungry, and ossified on the TCP/IP paradigm. In order to promote a viable evolution towards new protocols and paradigms, modern network routers should become programmable to allow a flexible management of both traffic flows and power states. In this respect, Software Defined Networking (SDN) can represent the perfect support for the allocation of traffic flows and, at the same time, the management of the power states of the single nodes. To this purpose, this paper proposes to use the Green ion Layer (GAL) to integrate the exchange of power management data among network elements and the application of control strategies inside the SDN paradigm. Moreover, in order to clarify how our study would help overcoming scalability issues and promote energy efficiency at the same time, this paper defines and solves a consolidation problem where the network is described in terms of allocation of packet handling resources and power states.",
+      "citations": 10,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84959525247",
+      "title": "OpenFlow in the small: A flexible and efficient network acceleration framework for multi-core systems",
+      "doi": "10.1109/TNSM.2014.2346078",
+      "venue": "IEEE Transactions on Network and Service Management",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2014,
+      "volume": "11",
+      "issue_id": "3",
+      "pages": "390-404",
+      "issn": "19324537",
+      "eIssn": null,
+      "source_id": "7200153156",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Lombardo Chiara; Podda Fabio",
+      "author_ids": "7006403406;8555973600;50061523000;55978967400",
+      "authorAffiliationIds": "60025153;60103966;60025153;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "Network processors | Network programmability | OpenFlow",
+      "abstract": "Multi-core processors optimized for networking applications typically combine general-purpose cores with offloading engines to relieve the processor cores of specialized packet processing tasks, such as parsing, classification, and security. Unfortunately, modern embedded operating systems still lack an effective and advanced hardware abstraction to exploit these aspects optimally. Based on these considerations, this paper proposes a novel framework, OpenFlow in the Small (OFiS), specifically designed to provide a flexible hardware abstraction layer for heterogeneous multi-core systems with advanced hardware accelerators for network offloading. OFiS represents such accelerators as standard OpenFlow switches inside the processor, moving the edge of the OpenFlow network management to the computational resources inside the end-boxes. As indicated in the experimental evaluation, OFiS exploits hardware parallelism and consolidates the software tasks at finer granularities.",
+      "citations": 9,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 90,
+              "rank": 95,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 89,
+              "rank": 57,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2014,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 80,
+              "rank": 128,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 74,
+              "rank": 57,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84898940967",
+      "title": "DROPv2: Energy efficiency through network function virtualization",
+      "doi": "10.1109/MNET.2014.6786610",
+      "venue": "IEEE Network",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2014,
+      "volume": "28",
+      "issue_id": "2",
+      "pages": "26-32",
+      "issn": "08908044",
+      "eIssn": null,
+      "source_id": "27239",
+      "authors": "Bolla Raffaele; Lombardo Chiara; Bruschi Roberto; Mangialardi Sergio",
+      "author_ids": "7006403406;50061523000;8555973600;35079191900",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": null,
+      "abstract": "Future Internet devices and network infrastructures need to be significantly more energy-efficient, scalable, and flexible in order to realize the extremely virtualized and optimized ICT/network infrastructures. In this respect, this article presents a recent extension of an open source software framework, the Distributed Router Open Platform (DROP), to enable a novel distributed paradigm for network function virtualization through the integration of software defined network and information technology (IT) platforms, as well as for the control/management of flexible IP router platforms. To answer the need for increased energy efficiency of the network function virtualization paradigms, DROP includes sophisticated power management mechanisms, which are exposed by means of the green abstraction layer (GAL), under consideration for standardization in ETSI. Moreover, the DROP architecture has been specifically designed to act as ¿glue¿ among a large number of the most promising and well-known open source software projects, providing network dataor control-plane capabilities. © 1986-2012 IEEE.",
+      "citations": 37,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 95,
+              "rank": 11,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 94,
+              "rank": 31,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Software",
+              "percentile": 92,
+              "rank": 37,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 91,
+              "rank": 42,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2014,
+          "subjects": [
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 98,
+              "rank": 3,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 97,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 96,
+              "rank": 9,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Software",
+              "percentile": 96,
+              "rank": 15,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84892407039",
+      "title": "EE-DROP: An energy-aware router prototype",
+      "doi": "10.1109/TIWDC.2013.6664213",
+      "venue": "2013 24th Tyrrhenian International Workshop on Digital Communications Green ICT Tiwdc 2013",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2013,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100283368",
+      "authors": "Bolla R.; Bruschi R.; Chiappero M.; D'Agostino L.; Lago P.; Lombardo C.; Mangialardi S.; Podda F.",
+      "author_ids": "7006403406;8555973600;56585796800;57198343534;55757292600;50061523000;35079191900;55978967400",
+      "authorAffiliationIds": "60025153;60025153;60025153;113110590;60025153;60025153;60025153;60121711",
+      "corresponding": "Bolla R.",
+      "keywords": "distributed router architecture | energy efficiency | open source SW",
+      "abstract": "The increasing energy demands of network and networked device architectures represent a threat to the development of the Future Internet. Aside from environmental concerns and increasing energy costs, multi-core processors will soon be constrained by power consumption, which will eventually slow down the development of new technologies. In order to re-think and re-design wired network equipment and infrastructures towards more energy efficient approaches, the ECONET project aims at extending next generation networks, architectures and protocols in the green direction. This paper presents a prototype of one of the 13 platforms developed inside the project, namely the Distributed Router Open Platform (DROP). Results will show how the aggregation of multiple devices with green capabilities can guarantee a satisfying performance level while allowing huge energy savings. © 2013 IEEE.",
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84891352399",
+      "title": "OpenFlow in the small",
+      "doi": "10.1109/ICC.2013.6655094",
+      "venue": "IEEE International Conference on Communications",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2013,
+      "volume": null,
+      "issue_id": null,
+      "pages": "3509-3513",
+      "issn": "15503607",
+      "eIssn": null,
+      "source_id": "33201",
+      "authors": "Bolla Raffaele; Lombardo Chiara; Bruschi Roberto; Podda Fabio",
+      "author_ids": "7006403406;50061523000;8555973600;55978967400",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "Network Processors | Network Programmability | OpenFlow",
+      "abstract": "Multi-core processors for networking applications typically combine general-purpose cores with off-loading engines, to relieve processor cores of specialized packet processing tasks, such as parsing, classification, and security. Unfortunately, modern embedded operating systems still lack of an effective support and hardware abstraction for optimally exploiting the above mentioned aspects. Starting from these considerations, this paper proposes a novel framework, 'OpenFlow in the Small' (OFiS), specifically designed to provide a flexible hardware abstraction for a wide set of heterogeneous multi-core processors with advanced network off-loading capabilities. The OFiS framework allows SW services/applications, or only the operating system, activating and customizing off-loading operations, and distributing them to processor cores on a per-flow basis. © 2013 IEEE.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84872412612",
+      "title": "The low energy consumption networks (ECONET) project",
+      "doi": null,
+      "venue": "2012 Sustainable Internet and ICT for Sustainability Sustainit 2012",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2012,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100226430",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Davoli Franco; Di Gregorio Lorenzo; Giacomello Luca; Lombardo Chiara; Parladori Giorgio; Strugo Nir; Zafeiropoulos Anastasios",
+      "author_ids": "7006403406;8555973600;57220364548;35190246800;6602704595;50061523000;6508015216;55557914800;24333644200",
+      "authorAffiliationIds": "60025153;60025153;60025153;113339369;60023916;60025153;60026638;60076695;101742284",
+      "corresponding": "Bolla R.",
+      "keywords": "energy efficiency | green networking | wire-line networks",
+      "abstract": "The ECONET project is a 3-year large-scale Integrating Project (IP) running from October 2010 to September 2013, co-funded by the European Commission under the 7th Framework Programme. The ECONET project aims at studying and exploiting dynamic adaptive technologies (based on standby and performance scaling capabilities) for wired network devices that allow saving energy when a device (or part of it) is not used. The project will be devoted to re-thinking and redesigning wired network equipment and infrastructures towards more energy-sustainable and eco-friendly technologies and perspectives. The overall idea is to introduce novel green network-specific paradigms and concepts enabling to reduce the energy requirements of wired network equipment by 50% in the short to mid-term (and by 80% in the long run). To this end, the main challenge will be to design, develop and test novel technologies, integrated control criteria and mechanisms for network equipment. The final aim is to enable energy saving by adapting network capacities and resources to current traffic loads and user requirements, while ensuring end-to-end Quality of Service. © 2012 IFIP.",
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84866913799",
+      "title": "Dynamic voltage and frequency scaling in parallel network processors",
+      "doi": "10.1109/HPSR.2012.6260857",
+      "venue": "2012 IEEE 13th International Conference on High Performance Switching and Routing Hpsr 2012",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2012,
+      "volume": null,
+      "issue_id": null,
+      "pages": "242-249",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100216950",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Lombardo Chiara",
+      "author_ids": "7006403406;8555973600;50061523000",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "adaptive rate | green networking | low power idle",
+      "abstract": "In this paper, we consider energy-aware network devices (e.g. routers, switches, etc.) able to trade their energy consumption for packet forwarding performance by means of DVFS techniques. We focus on state-of-the-art packet processing engines, which generally represent the most energy-starving components of network devices, and which are often composed of a number of parallel pipelines to divide and conquer the incoming traffic load. Our goal is to control both the power configuration of pipelines, and the way to distribute traffic flows among them, in order to optimize the trade-off between energy consumption and network performance indexes. With this aim, we propose and analyze a constrained optimization policy, which tries to find the best trade-off between power consumption and packet latency times. In order to deeply understand the impact of such policy, a number of tests have been performed by using real-world traffic traces. © 2012 IEEE.",
+      "citations": 8,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-80052777111",
+      "title": "Evaluating the energy-awareness of future Internet devices",
+      "doi": "10.1109/HPSR.2011.5986001",
+      "venue": "2011 IEEE 12th International Conference on High Performance Switching and Routing Hpsr 2011",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2011,
+      "volume": null,
+      "issue_id": null,
+      "pages": "36-43",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "19900193952",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Lombardo Chiara; Suino Diego",
+      "author_ids": "7006403406;8555973600;50061523000;7801389022",
+      "authorAffiliationIds": "60025153;60103966;60025153;60023916",
+      "corresponding": "Bolla R.",
+      "keywords": "benchmarking methodologies | energy-efficiency evaluation | green networking",
+      "abstract": "Advanced power management capabilities have been proposed to be included into next-generation green network devices in order to modulate their energy requirements according to the workload. The clear side effect of enabling these new capabilities consists in a performance level reduction of network devices. Starting from some existing benchmarking standards for evaluating energy-efficiency, namely ECR and ATIS-060015, this contribution is devoted to determining a set of parameters, and methodologies that can be applied to correctly and precisely evaluate the tradeoff between energy consumption and network performance. Some experimental results obtained with the proposed indexes and methodologies, as well as a green SW router prototype have been provided. © 2011 IEEE.",
+      "citations": 12,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-80052617782",
+      "title": "State of the art of existing standards for the evaluation of network performance and energy consumption",
+      "doi": null,
+      "venue": "Proceedings of the 2011 International Symposium on Performance Evaluation of Computer and Telecommunication Systems Spects 2011",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2011,
+      "volume": null,
+      "issue_id": null,
+      "pages": "62-68",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "19900193930",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Lombardo Chiara",
+      "author_ids": "7006403406;8555973600;50061523000",
+      "authorAffiliationIds": "60025153;60103966;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "benchmarking methodologies | bursty traffic | energy-efficiency | green network technologies | power management capabilities",
+      "abstract": "The expansion of the telecommunication market to a wider number of customers, along with the increasing of services being offered, has brought the CO<inf>2</inf> emissions to a dangerous level. Concern is due both to the impact on the environment and to the high costs caused by such energy consumptions. For these reasons, the scientific community is producing many researches to introduce power management capabilities in commercial network devices. Since reducing power consumption has the drawback of performance degradation, some benchmarking methodologies have been proposed to evaluate the trade-off between power consumption and network performance. This paper is devoted to critically analyse and compare the existing methodologies, in order to evaluate their effectiveness and possible enhancements. © 2011 Society for Modeling & Simu.",
+      "citations": 2,
+      "quartile": null
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1262180",
+      "authors": "Akbari, Milad; Bolla, Raffaele; Bruschi, Roberto; Lombardo, Chiara; Simone Martinelli, Nicole; Siccardi, Beatrice",
+      "legacy_id": 657665,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "A Management Data Analytics Function for ethical 6G networks",
+      "scopus_id": "2-s2.0-105009845328",
+      "doi": "10.1016/j.comnet.2025.111487",
+      "isi_id": "WOS:001528845400001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1206455",
+      "authors": "Akbari, Milad; Bolla, Raffaele; Bruschi, Roberto; Davoli, Franco; Lombardo, Chiara; Siccardi, Beatrice",
+      "legacy_id": 581886,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "A Monitoring, Observability and Analytics Framework to Improve the Sustainability of B5G Technologies",
+      "scopus_id": "2-s2.0-85202432426",
+      "doi": "10.1109/iccworkshops59551.2024.10615948",
+      "isi_id": "WOS:001296276700162",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "5",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1214395",
+      "authors": "Baldini, G.; Bolla, R.; Bruschi, R.; Carrega, A.; Davoli, F.; Lombardo, C.; Rabbani, R.",
+      "legacy_id": 591966,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Toward Sustainable O-RAN Deployment: An In-Depth Analysis of Power Consumption",
+      "scopus_id": "2-s2.0-85198749396",
+      "doi": "10.1109/TGCN.2024.3426108",
+      "isi_id": "WOS:001494086200023",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1214416",
+      "authors": "Akbari, M.; Bolla, R.; Bruschi, R.; Lombardo, C.; Martinelli, N. S.; Siccardi, B.",
+      "legacy_id": 591986,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Observe to Sustain – How to Enable Beyond 5G Networks to Target Sustainability Goals",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1214417",
+      "authors": "Bolla, R.; Bruschi, R.; Davoli, F.; Ghiorzo, P.; Ivaldi, L.; Lombardo, C.; Siccardi, B.",
+      "legacy_id": 592007,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "Comparison of the Performance and Energy Efficiency Evaluation of 5G User-Plane Functions",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1206456",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; Carrega, Alessandro; Davoli, Franco; Lombardo, Chiara; Siccardi, Beatrice",
+      "legacy_id": 581889,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "A Stochastic Knapsack Model for Energy Efficient Management of Multi-Server Queues",
+      "scopus_id": "2-s2.0-85197369833",
+      "doi": "10.1109/balkancom61808.2024.10557204",
+      "isi_id": "WOS:001259417100039",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1139296",
+      "authors": "Yi Poe, Wint; Trivisonno, Riccardo; Bolla, Raffaele; Bruschi, Roberto; Davoli, Franco; Lombardo, Chiara; Mohammadpour, Alireza; Davoli, Gianluca; Borsatti, Davide; Cerroni, Walter; Raffaelli, Carla; Marquezan, Clarissa",
+      "legacy_id": 499307,
+      "year": 2023,
+      "miur_type": "285",
+      "title": "DEVICE, METHOD AND SYSTEM FOR PATH DETERMINATION",
+      "type": "05.01 - Brevetto"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1139257",
+      "authors": "Yi Poe, Wint; Trivisonno, Riccardo; Bolla, Raffaele; Bruschi, Roberto; Davoli, Franco; Lombardo, Chiara; Raffaelli, Carla; Cerroni, Walter; Borsatti, Davide; Davoli, Gianluca; Selvi, Daniela",
+      "legacy_id": 499267,
+      "year": 2023,
+      "miur_type": "285",
+      "title": "TARGET RELIABILITY LEVEL SELECTION FOR DYNAMIC RELIABILITY CONFIGURATION IN A NETWORK SLICE",
+      "type": "05.01 - Brevetto"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1139320",
+      "authors": "Bolla, R.; Bruschi, R.; Lombardo, C.; Siccardi, B.",
+      "legacy_id": 499334,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "6G Enablers for Zero-Carbon Network Slices and Vertical Edge Services",
+      "scopus_id": "2-s2.0-85192868853",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1140157",
+      "authors": "Bolla, C1. R.; Bruschi, R.; Davoli, F.; Lombardo, C.; Siccardi, J. F. Pajo and B.",
+      "legacy_id": 500148,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Machine-Learning-Based 5G Network Function Scaling via Black- and White-Box KPIs",
+      "scopus_id": "2-s2.0-85166220059",
+      "doi": "10.1109/medcomnet58619.2023.10168859",
+      "isi_id": "WOS:001042465700020",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "3",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1139318",
+      "authors": "Bolla, R.; Bruschi, R.; Davoli, F.; Lombardo, C.; Mohammadpour, A.; Trivisonno, R.; Poe, W. I.",
+      "legacy_id": 499327,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Adaptive Reliability for the Automated Control of Human-Robot Collaboration in Beyond-5G Networks",
+      "scopus_id": "2-s2.0-85165932500",
+      "doi": "10.1109/TNSM.2023.3298171",
+      "isi_id": "WOS:001119505800028",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1214437",
+      "authors": "Zafeiropoulos, Anastasios; Fotopoulou, Eleni; Vassilakis, Constantinos; Tzanettis, Ioannis; Lombardo, Chiara; Carrega, Alessandro; Bruschi, Roberto",
+      "legacy_id": 592027,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Intent-Driven Distributed Applications Management Over Compute and Network Resources in the Computing Continuum",
+      "scopus_id": "2-s2.0-85174385000",
+      "doi": "10.1109/dcoss-iot58021.2023.00074",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "10"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1206436",
+      "authors": "Bolla, Raffaele; Lombardo, Chiara; Bono, Paolo; Martinelli, Nicole Simone; Bruschi, Roberto; Siccardi, Beatrice",
+      "legacy_id": 581868,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "An Open-Source Prototype of Network Data Analytics Function for Next-Generation 5/6G Environments",
+      "scopus_id": "2-s2.0-85190260259",
+      "doi": "10.1109/gcwkshps58843.2023.10465014",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1214440",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; Lombardo, Chiara; Mangialardi, Sergio; Mohammadpour, Alireza; Rabbani, Ramin; Siccardi, Beatrice",
+      "legacy_id": 592047,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "A Multi-Tenant System for 5/6G Testbed as-a-Service",
+      "scopus_id": "2-s2.0-85149117837",
+      "doi": "10.1109/comsnets56262.2023.10041360",
+      "isi_id": "WOS:000972037500139",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1224257",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; Lombardo, Chiara; Mohammadpour, Alireza; Trivisonno, Riccardo; Poe, Wint Yi",
+      "legacy_id": 604029,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "A 5G multi-gNodeB simulator for ultra-reliable 0.5–100 GHz communication in indoor Industry 4.0 environments",
+      "scopus_id": "2-s2.0-85177164984",
+      "doi": "10.1016/j.comnet.2023.110103",
+      "isi_id": "WOS:001113744800001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1214435",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; Davoli, Franco; Lombardo, Chiara; Mohammadpour, Alireza; Rabbani, Ramin",
+      "legacy_id": 592026,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "A Packet Delay Emulator for High-Bandwidth and Low-Latency Traffic in 5G Networks",
+      "scopus_id": "2-s2.0-85187394200",
+      "doi": "10.1109/globecom54140.2023.10437664",
+      "isi_id": "WOS:001178562003066",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1214439",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; Davoli, Franco; Lombardo, Chiara; Martinelli, Nicole Simone",
+      "legacy_id": 592046,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Analyzing the Power Consumption in Cloud-Native 5/6G Ecosystems",
+      "scopus_id": "2-s2.0-85177839957",
+      "doi": "10.1109/iccworkshops57953.2023.10283755",
+      "isi_id": "WOS:001094861300100",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1077942",
+      "authors": "Bolla, R.; Bruschi, R.; Davoli, F.; Lombardo, C.; Pajo, J. F.",
+      "legacy_id": 409124,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Multi-site Resource Allocation in a QoS-Aware 5G Infrastructure",
+      "scopus_id": "2-s2.0-85124835760",
+      "doi": "10.1109/TNSM.2022.3151468",
+      "isi_id": "WOS:000866556800008",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1214441",
+      "authors": "Rebecchi, Filippo; Pastor, Antonio; Mozo, Alberto; Lombardo, Chiara; Bruschi, Roberto; Aliferis, Ilias; Doriguzzi-Corin, Roberto; Gouvas, Panagiotis; Alvarez Romero, Antonio; Angelogianni, Anna; Politis, Ilias; Xenakis, Christos",
+      "legacy_id": 592048,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "A Digital Twin for the 5G Era: the SPIDER Cyber Range",
+      "scopus_id": "2-s2.0-85137106007",
+      "doi": "10.1109/wowmom54355.2022.00088",
+      "isi_id": "WOS:000855666300073",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "13",
+      "citations_scopus": "22"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1140155",
+      "authors": "Borsatti, D.; Davoli, G.; Lombardo, C.; Selvi, D.; Bruschi, R.; Cerroni, W.; Davoli, F.; Raffaelli, C.; Trivisonno, R.; Bolla, R.",
+      "legacy_id": 499335,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Increasing Safety Levels in Human-Machine Interaction by Beyond-5G Wireless Redundancy",
+      "type": "01.01 - Articolo su rivista"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1103144",
+      "authors": "Bolla, R.; Bruschi, R.; Davoli, F.; Ivaldi, L.; Lombardo, C.; Siccardi, B.",
+      "legacy_id": 446783,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "An AI Framework for Fostering 6G towards Energy Efficiency",
+      "scopus_id": "2-s2.0-85142415668",
+      "doi": "10.23919/FITCE56290.2022.9934697",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1214444",
+      "authors": "Borsatti, Davide; Davoli, Gianluca; Lombardo, Chiara; Selvi, Daniela; Bruschi, Roberto; Cerroni, Walter; Davoli, Franco; Raffaelli, Carla; Trivisonno, Riccardo; Bolla, Raffaele",
+      "legacy_id": 592051,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Adaptive network reliability for human-robot interaction in beyond 5G industrial applications",
+      "scopus_id": "2-s2.0-85129603834",
+      "doi": "10.1109/drcn53993.2022.9758009",
+      "isi_id": "WOS:000828678100001",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1214442",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; Carrega, Alessandro; Davoli, Franco; Lombardo, Chiara",
+      "legacy_id": 592049,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Trading off Power Consumption and Delay in the Execution of Network Functions by Dynamic Activation of Processing Units",
+      "scopus_id": "2-s2.0-85136797445",
+      "doi": "10.1109/netsoft54395.2022.9844039",
+      "isi_id": "WOS:000854018800001",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1214443",
+      "authors": "Mohammadpour, Alireza; Lombardo, Chiara; Bolla, Raffaele; Bruschi, Roberto; Davoli, Franco; Ivaldi, Lorenzo",
+      "legacy_id": 592050,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "A Zero-Touch as-a-Service Active Monitoring Framework for Virtualized Network Environments",
+      "scopus_id": "2-s2.0-85136781273",
+      "doi": "10.1109/netsoft54395.2022.9844069",
+      "isi_id": "WOS:000854018800018",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1058145",
+      "authors": "Bolla, R.; Bruschi, R.; Burow, K.; Davoli, F.; Ghrairi, Z.; Gouvas, P.; Lombardo, C.; Frances Pajo, J.; Zafeiropoulos, A.",
+      "legacy_id": 392587,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "From Cloud-Native to 5G-Ready Vertical Applications: An Industry 4.0 Use Case",
+      "scopus_id": "2-s2.0-85113857359",
+      "doi": "10.1109/HPSR52026.2021.9481826",
+      "isi_id": "WOS:000806753600035",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "8",
+      "citations_scopus": "10"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1222565",
+      "authors": "Bruschi, R.; Davoli, F.; Lombardo, C.; Pajo, J. F.; Settembre, M.; Spinacci, L.",
+      "legacy_id": 601649,
+      "year": 2021,
+      "miur_type": "268",
+      "title": "On the mutual interaction between 5G and AI",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1214445",
+      "authors": "Militano, Leonardo; Zafeiropoulos, Anastasios; Fotopoulou, Eleni; Bruschi, Roberto; Lombardo, Chiara; Edmonds, Andy; Papavassiliou, Symeon",
+      "legacy_id": 592052,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "AI-powered Infrastructures for Intelligence and Automation in Beyond-5G Systems",
+      "scopus_id": "2-s2.0-85126123155",
+      "doi": "10.1109/gcwkshps52748.2021.9682117",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1055512",
+      "authors": "Bruschi, R.; Pajo, J. F.; Davoli, F.; Lombardo, C.",
+      "legacy_id": 389717,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "Managing 5G network slicing and edge computing with the MATILDA telecom layer platform",
+      "scopus_id": "2-s2.0-85104916999",
+      "doi": "10.1016/j.comnet.2021.108090",
+      "isi_id": "WOS:000663684900007",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "12",
+      "citations_scopus": "19"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1058149",
+      "authors": "Bruschi, R.; Davoli, F.; Bravo, F. D.; Lombardo, C.; Mangialardi, S.; Pajo, J. F.",
+      "legacy_id": 392591,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "Validation of IaaS-based technologies for 5G-ready applications deployment",
+      "scopus_id": "2-s2.0-85093831642",
+      "doi": "10.1109/EuCNC48522.2020.9200926",
+      "isi_id": "WOS:000632590800009",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "6",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1035720",
+      "authors": "Bolla, R.; Bruschi, R.; Davoli, F.; Lombardo, C.; Pajo, J. F.",
+      "legacy_id": 367108,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "Debunking the 'Green' NFV Myth: An assessment of the virtualization sustainability in radio access networks",
+      "scopus_id": "2-s2.0-85091972218",
+      "doi": "10.1109/NetSoft48620.2020.9165481",
+      "isi_id": "WOS:000623436400028",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "7",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1058151",
+      "authors": "Bruschi, R.; Davoli, F.; Lamanna, G.; Lombardo, C.; Mangialardi, S.; Pajo, J. F.",
+      "legacy_id": 392593,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "Enabling edge computing deployment in 4G and beyond",
+      "scopus_id": "2-s2.0-85091964896",
+      "doi": "10.1109/NetSoft48620.2020.9165384",
+      "isi_id": "WOS:000623436400037",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/979219",
+      "authors": "Bruschi, R.; Davoli, F.; Lombardo, C.; Sanchez, O. R.",
+      "legacy_id": 302175,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Evaluating the Impact of Micro-Data Center (μDC) Placement in an Urban Environment",
+      "scopus_id": "2-s2.0-85061680318",
+      "doi": "10.1109/NFV-SDN.2018.8725627",
+      "isi_id": "WOS:000475896900006",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/979217",
+      "authors": "Bruschi, R.; Davoli, F.; Lago, P.; Lombardo, C.; Pajo, J. F.",
+      "legacy_id": 302167,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Personal Services Placement and Low-Latency Migration in Edge Computing Environments",
+      "scopus_id": "2-s2.0-85067546934",
+      "doi": "10.1109/NFV-SDN.2018.8725635",
+      "isi_id": "WOS:000475896900009",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "5",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/993299",
+      "authors": "Wamser, F.; Lombardo, C.; Vassilakis, C.; Dinh-Xuan, L.; Lago, P.; Bruschi, R.; Tran-Gia, P.",
+      "legacy_id": 317823,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Orchestration and Monitoring in Fog Computing for Personal Edge Cloud Service Support",
+      "scopus_id": "2-s2.0-85055822267",
+      "doi": "10.1109/LANMAN.2018.8475113",
+      "isi_id": "WOS:000447699400016",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "3",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/881388",
+      "authors": "Bruschi, Roberto; Davoli, Franco; Lago, Paolo; Lombardo, Alfio; Lombardo, Chiara; Rametta, Corrado; Schembra, Giovanni",
+      "legacy_id": 192244,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "An SDN/NFV Platform for Personal Cloud Services",
+      "scopus_id": "2-s2.0-85031783011",
+      "doi": "10.1109/TNSM.2017.2761860",
+      "isi_id": "WOS:000418140400027",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "22",
+      "citations_scopus": "30"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/881394",
+      "authors": "Bruschi, R.; Davoli, F.; Galluccio, L.; Lago, P.; Lombardo, A.; Lombardo, C.; Rametta, C.; Schembra, G.",
+      "legacy_id": 192249,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "Virtualization of set-top-box devices in next generation SDN-NFV networks: the INPUT project perspective",
+      "scopus_id": "2-s2.0-85044648037",
+      "doi": "10.1145/3018896.3152304",
+      "isi_id": "WOS:000694010100006",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/993301",
+      "authors": "Bruschi, R.; Genovese, G.; Iera, A.; Lago, P.; Lamanna, G.; Lombardo, C.; Mangialardi, S.",
+      "legacy_id": 317826,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "OpenStack Extension for Fog-Powered Personal Services Deployment",
+      "scopus_id": "2-s2.0-85040251654",
+      "doi": "10.23919/ITC.2017.8065705",
+      "isi_id": "WOS:000414244500004",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "4",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/881396",
+      "authors": "Bolla, R.; Bruschi, R.; Davoli, F.; Lombardo, C.; Pajo, J. F.; Sanchez, O. R.",
+      "legacy_id": 192254,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "The dark side of network functions virtualization: A perspective on the technological sustainability",
+      "scopus_id": "2-s2.0-85028350558",
+      "doi": "10.1109/ICC.2017.7997129",
+      "isi_id": "WOS:000424872105003",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "13",
+      "citations_scopus": "14"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/842309",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; Davoli, Franco; Lombardo, Chiara; Masullo, Laura",
+      "legacy_id": 149602,
+      "year": 2016,
+      "miur_type": "273",
+      "title": "The expected impact of smart devices virtualization",
+      "scopus_id": "2-s2.0-84966470687",
+      "doi": "10.1109/ICCNC.2016.7440551",
+      "isi_id": "WOS:000382143300007",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/993309",
+      "authors": "Bruschi, R.; Lago, P.; Lamanna, G.; Lombardo, C.; Mangialardi, S.",
+      "legacy_id": 317834,
+      "year": 2016,
+      "miur_type": "273",
+      "title": "OpenVolcano: An Open-Source Software Platform for Fog Computing",
+      "scopus_id": "2-s2.0-85013053949",
+      "doi": "10.1109/ITC-28.2016.212",
+      "isi_id": "WOS:000393567700005",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "12",
+      "citations_scopus": "22"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/993311",
+      "authors": "Bruschi, R.; Lago, P.; Lombardo, C.",
+      "legacy_id": 317836,
+      "year": 2016,
+      "miur_type": "273",
+      "title": "In-Network Programmability for Next-generation Personal Cloud Service Support (INPUT)",
+      "scopus_id": "2-s2.0-84998886338",
+      "doi": "10.1016/j.procs.2016.08.286",
+      "isi_id": "WOS:000390606800012",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/811991",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; Davoli, Franco; Lombardo, Chiara",
+      "legacy_id": 111992,
+      "year": 2015,
+      "miur_type": "262",
+      "title": "Fine-grained energy-efficient consolidation in SDN networks and devices",
+      "scopus_id": "2-s2.0-84933530281",
+      "doi": "10.1109/TNSM.2015.2431074",
+      "isi_id": "WOS:000357529700003",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "29",
+      "citations_scopus": "34"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/750399",
+      "authors": "Bolla, R.; Bruschi, R.; Davoli, F.; Lombardo, C.; Lombardo, A.; Morabito, G.; Riccobene, V.",
+      "legacy_id": 104495,
+      "year": 2014,
+      "miur_type": "273",
+      "title": "Green extension of OpenFlow",
+      "scopus_id": "2-s2.0-84912055337",
+      "isi_id": "WOS:000349470200029",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "10"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/779434",
+      "authors": "Bolla, Raffaele; Bruschi, R.; Lombardo, Chiara; Mangialardi, S.",
+      "legacy_id": 108204,
+      "year": 2014,
+      "miur_type": "262",
+      "title": "DROPv2: Energy-Efficiency through Network Function Virtualization",
+      "scopus_id": "2-s2.0-84898940967",
+      "doi": "10.1109/MNET.2014.6786610",
+      "isi_id": "WOS:000334740500005",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "32",
+      "citations_scopus": "37"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/993893",
+      "authors": "Bolla, R.; Bruschi, R.; Lombardo, C.; Podda, F.",
+      "legacy_id": 318566,
+      "year": 2014,
+      "miur_type": "262",
+      "title": "OpenFlow in the small: A flexible and efficient network acceleration framework for multi-core systems",
+      "scopus_id": "2-s2.0-84959525247",
+      "doi": "10.1109/TNSM.2014.2346078",
+      "isi_id": "WOS:000209724500010",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "8",
+      "citations_scopus": "9"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/781635",
+      "authors": "Bolla, Raffaele; Lombardo, Chiara; Bruschi, Roberto; Fabio, Podda",
+      "legacy_id": 108426,
+      "year": 2013,
+      "miur_type": "273",
+      "title": "OpenFlow in the small",
+      "scopus_id": "2-s2.0-84891352399",
+      "doi": "10.1109/ICC.2013.6655094",
+      "isi_id": "WOS:000349673803038",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/781632",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; M., Chiappero; L., D'Agostino; Lago, Paolo; Lombardo, Chiara; Mangialardi, Sergio; F., Podda",
+      "legacy_id": 108423,
+      "year": 2013,
+      "miur_type": "273",
+      "title": "EE-DROP: An energy-aware router prototype2013 24th Tyrrhenian International Workshop on Digital Communications - Green ICT (TIWDC)",
+      "scopus_id": "2-s2.0-84892407039",
+      "doi": "10.1109/TIWDC.2013.6664213",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/326753",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; Lombardo, Chiara",
+      "legacy_id": 72417,
+      "year": 2012,
+      "miur_type": "268",
+      "title": "Standard Methodologies for Energy Efficiency Assessment",
+      "scopus_id": "2-s2.0-80052617782",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/522451",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; Lombardo, Chiara",
+      "legacy_id": 93838,
+      "year": 2012,
+      "miur_type": "273",
+      "title": "Dynamic voltage and frequency scaling in parallel network processors",
+      "scopus_id": "2-s2.0-84866913799",
+      "doi": "10.1109/HPSR.2012.6260857",
+      "isi_id": "WOS:000330484900038",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/620345",
+      "authors": "Bolla, Raffaele; Bruschi, R.; Davoli, Franco; Di Gregorio, L.; Lombardo, Chiara; Parladori, G.; Strugo, N.; Suino, D.; Zafeiropoulos, A.",
+      "legacy_id": 98663,
+      "year": 2012,
+      "miur_type": "273",
+      "title": "The low Energy COnsumption NETworks (ECONET) project",
+      "scopus_id": "2-s2.0-84872412612",
+      "isi_id": "WOS:000393381400023",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/326556",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; C., Lombardo; D., Suino",
+      "legacy_id": 72326,
+      "year": 2011,
+      "miur_type": "273",
+      "title": "Evaluating the Energy-Awareness of Future Internet Devices",
+      "scopus_id": "2-s2.0-80052777111",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "12"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/326555",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; C., Lombardo",
+      "legacy_id": 72325,
+      "year": 2011,
+      "miur_type": "273",
+      "title": "State of the Art of Existing Standards for the Evaluation of Network Performance and Energy Consumption",
+      "scopus_id": "2-s2.0-80052617782",
+      "isi_id": "WOS:000324870900009",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "2"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:17:31.650465"
+}

@@ -1,30 +1,28 @@
 from __future__ import annotations
 
-import csv
 import re
 from pathlib import Path
 from typing import Dict, List, Optional
 
 from member import Member
 
-try:  # pragma: no cover - optional dependency
-    from openpyxl import load_workbook
-except Exception:  # pragma: no cover
-    load_workbook = None
+from openpyxl import load_workbook
 
 
 class Aggregate:
-    """Load members from a CSV or XLSX file."""
+    """Load members from an Excel workbook."""
 
-    def __init__(self, input_path: str, *, delimiter: str = ";") -> None:
-        self.input_path = Path(input_path)
-        self.delimiter = delimiter
+    def __init__(self, input_workbook: str) -> None:
+        self.input_workbook = Path(input_workbook)
 
     def load_members(self) -> List[Member]:
-        if not self.input_path.exists():
-            raise FileNotFoundError(f"Input file not found: {self.input_path}")
+        if not self.input_workbook.exists():
+            raise FileNotFoundError(f"Input workbook not found: {self.input_workbook}")
+        suffix = self.input_workbook.suffix.lower()
+        if suffix not in {".xlsx", ".xlsm"}:
+            raise ValueError(f"Unsupported roster format '{suffix}'. Provide an XLSX workbook.")
 
-        rows = self._read_rows()
+        rows = self._read_rows_from_xlsx()
         members: List[Member] = []
         for row in rows:
             normalized = self._normalize_row(row)
@@ -49,25 +47,8 @@ class Aggregate:
             )
         return members
 
-    def _read_rows(self) -> List[Dict[Optional[str], Optional[str]]]:
-        suffix = self.input_path.suffix.lower()
-        if suffix in {".xlsx", ".xlsm"}:
-            if load_workbook is None:
-                raise RuntimeError(
-                    "openpyxl is required to read XLSX files. Install it via 'pip install openpyxl'."
-                )
-            return self._read_rows_from_xlsx()
-        return self._read_rows_from_csv()
-
-    def _read_rows_from_csv(self) -> List[Dict[Optional[str], Optional[str]]]:
-        rows: List[Dict[Optional[str], Optional[str]]] = []
-        with self.input_path.open(newline="", encoding="utf-8") as handle:
-            reader = csv.DictReader(handle, delimiter=self.delimiter)
-            rows.extend(reader)
-        return rows
-
     def _read_rows_from_xlsx(self) -> List[Dict[Optional[str], Optional[str]]]:
-        workbook = load_workbook(filename=self.input_path, read_only=True, data_only=True)
+        workbook = load_workbook(filename=self.input_workbook, read_only=True, data_only=True)
         sheet = workbook.active
 
         rows: List[Dict[Optional[str], Optional[str]]] = []

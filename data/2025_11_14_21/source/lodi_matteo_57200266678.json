@@ -1,0 +1,3762 @@
+{
+  "surname": "Lodi",
+  "name": "Matteo",
+  "unit": "ICT",
+  "email": "matteo.lodi@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/VkZBUlJo",
+  "website": "",
+  "unige_id": "356981",
+  "scopus_id": "57200266678",
+  "role": "Ricercatore",
+  "grade": "Ricercatore t.d. art. 24 c. 3 lett. B Legge 240/10 (t.pieno) + 20%",
+  "ssd": "IIET-01/A (Elettrotecnica)",
+  "location": [
+    {
+      "building": "Opera Pia - padiglione D (ED_161450401)",
+      "floor": "2° piano",
+      "room": "US_161450401.II.028"
+    }
+  ],
+  "career": [
+    {
+      "role": "DR",
+      "from": "2015-11-01 00:00:00.0000000",
+      "to": "2018-10-31 00:00:00.0000000"
+    },
+    {
+      "role": "CB",
+      "from": "2017-02-22 00:00:00.0000000",
+      "to": "2020-09-20 00:00:00.0000000"
+    },
+    {
+      "role": "AR",
+      "from": "2018-11-02 00:00:00.0000000",
+      "to": "2021-09-30 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2021-10-01 00:00:00.0000000",
+      "to": "2026-06-30 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {
+    "2025": [
+      {
+        "course": "CIRCUITS AND SYSTEMS (114620)",
+        "degree": "L-8 - INGEGNERIA INFORMATICA"
+      },
+      {
+        "course": "ELETTROTECNICA (98175)",
+        "degree": "L-9 - INGEGNERIA GESTIONALE"
+      },
+      {
+        "course": "ELETTROTECNICA (98175)",
+        "degree": "L-9 - INGEGNERIA GESTIONALE"
+      },
+      {
+        "course": "SIGNAL PROCESSING IN ROBOTICS (105038)",
+        "degree": "LM-32 - ROBOTICS ENGINEERING"
+      }
+    ],
+    "2024": [
+      {
+        "course": "SIGNAL PROCESSING IN ROBOTICS (105038)",
+        "degree": "LM-32 - ROBOTICS ENGINEERING"
+      },
+      {
+        "course": "ELETTROTECNICA (98175)",
+        "degree": "L-9 - INGEGNERIA GESTIONALE"
+      }
+    ],
+    "2023": [
+      {
+        "course": "SIGNAL PROCESSING IN ROBOTICS (105038)",
+        "degree": "LM-32 - ROBOTICS ENGINEERING"
+      },
+      {
+        "course": "ELETTROTECNICA (98175)",
+        "degree": "L-9 - INGEGNERIA GESTIONALE"
+      }
+    ],
+    "2022": [
+      {
+        "course": "SIGNAL PROCESSING IN ROBOTICS (105038)",
+        "degree": "LM-32 - ROBOTICS ENGINEERING"
+      },
+      {
+        "course": "ELETTROTECNICA (98175)",
+        "degree": "L-9 - INGEGNERIA GESTIONALE"
+      }
+    ],
+    "2021": [
+      {
+        "course": "SIGNAL PROCESSING IN ROBOTICS (105038)",
+        "degree": "LM-32 - ROBOTICS ENGINEERING"
+      },
+      {
+        "course": "ELETTROTECNICA (98175)",
+        "degree": "L-9 - INGEGNERIA GESTIONALE"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 13,
+      "total_products": 59,
+      "journals": 27,
+      "conferences": 31,
+      "citations": 518,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 13,
+      "total_products": 59,
+      "journals": 27,
+      "conferences": 31,
+      "citations": 518,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 13,
+      "total_products": 58,
+      "journals": 27,
+      "conferences": 30,
+      "citations": 516,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 8,
+      "total_products": 37,
+      "journals": 22,
+      "conferences": 14,
+      "citations": 269,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-85217714961",
+      "title": "Synthetic inertia estimation in the presence of measurement noise and delays: An application to wind turbine generators",
+      "doi": "10.1016/j.ijepes.2025.110511",
+      "venue": "International Journal of Electrical Power and Energy Systems",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "166",
+      "issue_id": null,
+      "pages": null,
+      "issn": "01420615",
+      "eIssn": null,
+      "source_id": "17985",
+      "authors": "Baruzzi Valentina; Rosini Alessandro; Lodi Matteo; Bonfiglio Andrea; Oliveri Alberto",
+      "author_ids": "57216455935;57204050700;57200266678;36607521000;57200399832",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Baruzzi V.",
+      "keywords": "Real-time simulations | Synthetic inertia | Wind turbine generator",
+      "abstract": "Synthetic inertia generation is essential in power grids with high penetration of renewable energy sources (RES). The inverters interfacing the RES with the grid are equipped with dedicated controllers that set a power reference proportional to the rate of change of the electrical frequency (RoCoF) of the grid. In the grid following configuration, the RoCoF must be evaluated in real-time, but measurement noise and delays make the real provided inertia deviate from the imposed one. This work aims to quantify the effects of measurement noise and delays on the synthetic inertia provided by a grid-following inverter equipped with a virtual hidden inertia emulator, connected to a wind farm. Both simulations and experimental tests exploiting a hardware prototype and a real-time simulator are carried out in different scenarios.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 94,
+              "rank": 57,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 92,
+              "rank": 25,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-86000650676",
+      "title": "FPGA Implementation of Nonlinear Model Predictive Control for a Boost Converter with a Partially Saturating Inductor",
+      "doi": "10.3390/electronics14050941",
+      "venue": "Electronics Switzerland",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "14",
+      "issue_id": "5",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20799292",
+      "source_id": "21100829272",
+      "authors": "Ravera Alessandro; Oliveri Alberto; Lodi Matteo; Storace Marco",
+      "author_ids": "57214792545;57200399832;57200266678;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Ravera A.",
+      "keywords": "magnetic saturation | nonlinear model predictive control | switched mode power supply",
+      "abstract": "Enhancing power density is a primary objective in electronic power converters. This can be accomplished by employing smaller inductors operating in partial magnetic saturation. In this study, an embedded digital controller is proposed, based on nonlinear model predictive control (NMPC), for the regulation of a DC–DC boost converter, exploiting a partially saturating inductor. The NMPC prediction model exploits a behavioral inductor model that accounts for magnetic saturation and losses and allows the converter regulation while enforcing constraints. The NMPC controller is implemented on a field programmable gate array (FPGA), demonstrating its real-time feasibility while successfully controlling a boost converter operating at switching frequencies up to 80 kHz. Hardware–software co-simulation results show accurate voltage regulation and constraint satisfaction, even under partial magnetic saturation.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 81,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 78,
+              "rank": 220,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 76,
+              "rank": 91,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 76,
+              "rank": 131,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 73,
+              "rank": 62,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85204943092",
+      "title": "Modeling Amorphous-Core Inductors up to Magnetic Saturation",
+      "doi": "10.1109/TPEL.2024.3463803",
+      "venue": "IEEE Transactions on Power Electronics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "40",
+      "issue_id": "1",
+      "pages": "1563-1576",
+      "issn": "08858993",
+      "eIssn": "19410107",
+      "source_id": "26055",
+      "authors": "Ravera Alessandro; Oliveri Alberto; Lodi Matteo; Beatrice Cinzia; Ferrara Enzo; Fiorillo Fausto; Storace Marco",
+      "author_ids": "57214792545;57200399832;57200266678;7004523868;56211874000;7006013405;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153;60073835;60073835;60073835;60025153",
+      "corresponding": "Ravera A.",
+      "keywords": "Amorphous core | magnetic saturation | nonlinear circuit model | power inductor",
+      "abstract": "In power supplies, inductors operating in partial magnetic saturation are increasingly exploited, to increase power density and efficiency. The design and simulation of converters exploiting nonlinear magnetic components require accurate models, able to predict their voltage/current characteristics and power losses under different operating conditions. In practical applications, inductors are subjected to either square-wave or sinusoidal voltages with different amplitude, frequency, and duty cycle. We focus on amorphous-core inductors, characterized by an extremely soft magnetic behavior and reduced magnetic losses, with a weak temperature dependence. We propose a novel behavioral circuit model with some temperature-dependent parameters, composed of two coupled nonlinear inductors and linear resistors; a capacitor is also included to account for parasitic capacitances occurring at higher frequencies for the winding. The model is tested on two amorphous-core inductors. Good accuracy is obtained in reproducing the inductor current (with different dc biases) and power loss, for sinusoidal, square, and triangular voltages with different amplitudes (also leading to magnetic saturation), frequencies (from 25 to 200 kHz), and temperatures (from 23 to 100 ^{\\circ }C).",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 95,
+              "rank": 50,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105012573490",
+      "title": "Low-Level Simulation of a Grid-Following Inverter with Synthetic Inertia",
+      "doi": "10.1109/AEITHVDC66044.2025.11079533",
+      "venue": "2025 Aeit Hvdc International Conference Aeit Hvdc 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101318126",
+      "authors": "Lodi M.; Oliveri A.; Saviozzi M.; Conte F.; Baggi P.",
+      "author_ids": "57200266678;57200399832;56027556100;57151673600;60030400500",
+      "authorAffiliationIds": "60025153;60025153;60025153;60005308;132941234",
+      "corresponding": "Lodi M.",
+      "keywords": "Commercial inverter | inverter modeling | Synthetic inertia",
+      "abstract": "Future commercial inverters should be equipped with dedicated control techniques to mimic the behavior of traditional synchronous machines, providing the so-called synthetic inertia. This is necessary to prevent large frequency fluctuations in response to power imbalances, in power grids with a high penetration of renewable energy sources. In this work, synthetic inertia capabilities have been added to a detailed model of a commercial inverter. Low-level simulations have been performed to assess the converter performance, by considering real effects such as switching noise, sampling, delays, and dynamics.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105010617695",
+      "title": "Cluster Synchronization and Associative Memory in Adaptive Networks with Neural Plasticity",
+      "doi": "10.1109/ISCAS56072.2025.11044239",
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Lodi Matteo; Sorrentino Francesco; Storace Marco",
+      "author_ids": "57200266678;57203233721;7004134087",
+      "authorAffiliationIds": "60025153;60138187;60025153",
+      "corresponding": "Lodi M.",
+      "keywords": null,
+      "abstract": "Adaptive networks with time-varying connectivity provide a fundamental paradigm to model networks of neurons, whose fingerprint is synaptic plasticity. We employ the stability analysis proposed in a recent paper, based on the formulation of a master stability function, to study cluster synchronization in adaptive networks with neural plasticity. We investigate how adaptation affects multistability in the network, where each stable solution encodes an archetypal pattern for auto-associative memories. This analysis is carried out with respect to the overall coupling strength, the adaptation rule, the number of nodes of the network, and the number of coexisting stable solutions. In particular, the coupling strength can be tuned to determine the maximum cluster size and the variability in the cluster sizes.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105010594000",
+      "title": "A black-box approach for generating surrogate data for an amorphous-core inductor working up to magnetic saturation",
+      "doi": "10.1109/ISCAS56072.2025.11043328",
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Ravera Alessandro; Baazaoui Sofien; Lodi Matteo; Oliveri Alberto; Storace Marco",
+      "author_ids": "57214792545;59332602300;57200266678;57200399832;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Ravera A.",
+      "keywords": null,
+      "abstract": "This paper presents a black-box method for generating surrogate data from measurements taken on inductors working up to magnetic saturation. The proposed method is based on a sequential neural network architecture, optimized through the Python Tensorflow framework and the Keras API, which accurately predicts the inductor flux dynamics under varying operating conditions. The generated data can be useful to fit existing circuit models to a limited set of physical measurements (easy-to-measure quantities, i.e., inductor voltage and current), complemented by the obtained surrogate data. The proposed black-box model performs well in predicting flux across different frequencies and amplitudes. This research is a first proof of concept (we focus on zero-bias sinusoidal inputs and amorphous-core inductors at fixed temperature); anyway, it highlights the potential of combining deep learning with robust optimization and pre-processing techniques to improve predictive accuracy in circuit models of inductors working up to magnetic saturation. These models can be used for simulating and designing high-power-density switch-mode power supplies.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85206872910",
+      "title": "The efficiency of synchronization dynamics and the role of network syncreactivity",
+      "doi": "10.1038/s41467-024-52486-0",
+      "venue": "Nature Communications",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "15",
+      "issue_id": "1",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20411723",
+      "source_id": "19700182758",
+      "authors": "Nazerian Amirhossein; Hart Joseph D.; Lodi Matteo; Sorrentino Francesco",
+      "author_ids": "57350145000;56785031400;57200266678;57203233721",
+      "authorAffiliationIds": "60138187;60027271;60025153;60138187",
+      "corresponding": "Nazerian A.",
+      "keywords": null,
+      "abstract": "Synchronization of coupled oscillators is a fundamental process in both natural and artificial networks. While much work has investigated the asymptotic stability of the synchronous solution, the fundamental question of the transient behavior toward synchronization has received far less attention. In this work, we present the transverse reactivity as a metric to quantify the instantaneous rate of growth or decay of desynchronizing perturbations. We first use the transverse reactivity to design a coupling-efficient and energy-efficient synchronization strategy that involves varying the coupling strength dynamically according to the current state of the system. We find that our synchronization strategy is able to synchronize networks in both simulation and experiment over a significantly larger (often by orders of magnitude) range of coupling strengths than is possible when the coupling strength is constant. Then, we characterize the effects of network topology on the transient dynamics towards synchronization by introducing the concept of network syncreactivity: A network with a larger syncreactivity has a larger transverse reactivity at every point on the synchronization manifold, independent of the oscillator dynamics. We classify real-world examples of complex networks in terms of their syncreactivity.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Physics and Astronomy (all)",
+              "percentile": 98,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Multidisciplinary",
+              "percentile": 97,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry, Genetics and Molecular Biology (all)",
+              "percentile": 97,
+              "rank": 7,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Chemistry (all)",
+              "percentile": 96,
+              "rank": 16,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Multidisciplinary",
+              "percentile": 97,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry, Genetics and Molecular Biology (all)",
+              "percentile": 97,
+              "rank": 7,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Physics and Astronomy (all)",
+              "percentile": 96,
+              "rank": 8,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Chemistry (all)",
+              "percentile": 96,
+              "rank": 15,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85196480826",
+      "title": "Patterns of synchronized clusters in adaptive networks",
+      "doi": "10.1038/s42005-024-01688-5",
+      "venue": "Communications Physics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "7",
+      "issue_id": "1",
+      "pages": null,
+      "issn": null,
+      "eIssn": "23993650",
+      "source_id": "21100924862",
+      "authors": "Lodi Matteo; Panahi Shirin; Sorrentino Francesco; Torcini Alessandro; Storace Marco",
+      "author_ids": "57200266678;57220564996;57203233721;56028770100;7004134087",
+      "authorAffiliationIds": "60025153;60138187;60138187;60134716-60113687-60113678;60025153-60138187",
+      "corresponding": "Lodi M.",
+      "keywords": null,
+      "abstract": "Adaptive networks with time-varying connectivity, often called plasticity, provide a fundamental paradigm to model complex dynamical systems. In these systems, different groups of elements frequently exhibit different yet synchronized dynamics within each group. Here we propose a framework to study patterns of synchronous solutions in a large class of plastic networks and derive a general approach to analyze the stability of these solutions. This approach decouples the role of the network topology from that of the dynamic, thus leading to a dimensionality reduction of the stability problem and allowing us to investigate how adaptation affects the emergence of multi-stable patterns of synchronized activity. To illustrate its potentialities, we apply our method to three networks of oscillators, with distinct topology, dynamics, and adaptation rules. Our working framework encompasses a large class of heterogeneous multi-layer dynamical networks, connected (even with delays) via different plastic links, and can have a broad impact on the analysis of complex plastic networks.",
+      "citations": 7,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Physics and Astronomy (all)",
+              "percentile": 88,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Physics and Astronomy (all)",
+              "percentile": 88,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85183574846",
+      "title": "Design, realization and testing of a synthetic inertia controller for wind turbine power generators",
+      "doi": "10.1016/j.segan.2023.101234",
+      "venue": "Sustainable Energy Grids and Networks",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "38",
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "23524677",
+      "source_id": "21100371258",
+      "authors": "Bonfiglio Andrea; Lodi Matteo; Rosini Alessandro; Oliveri Alberto; Procopio Renato",
+      "author_ids": "36607521000;57200266678;57204050700;57200399832;7801615894",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Bonfiglio A.",
+      "keywords": "FPGA | Synthetic inertia | Wind turbine generator",
+      "abstract": "The progressive inclusion of Renewable Energy Sources (RES) in power grids is causing a reduction of the overall system inertia, leading to a reduction of the system resiliency. A possible solution is equipping RES with synthetic inertia controllers so that additional power can be provided in case of severe frequency transients. This work reports the results of a research activity that aimed at improving the maturity of synthetic inertia controllers for wind turbine generators through the design and implementation of a controller prototype based on an advanced version of a synthetic inertia controller. Hardware-in-the-loop simulations are performed to validate the correct behavior of the prototype.",
+      "citations": 7,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 131,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 86,
+              "rank": 52,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 80,
+              "rank": 63,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 71,
+              "rank": 90,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 87,
+              "rank": 122,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 86,
+              "rank": 52,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Energy Engineering and Power Technology",
+              "percentile": 82,
+              "rank": 53,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 74,
+              "rank": 77,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85212196186",
+      "title": "A Comparative Analysis of Different Virtual Inertia Controllers in Power Grids with Renewable Energy Sources",
+      "doi": "10.1109/COMPENG60905.2024.10741407",
+      "venue": "2024 IEEE Workshop on Complexity in Engineering Compeng 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101264268",
+      "authors": "Ahmadimonfared Zahra; Lodi Matteo; Oliveri Alberto; Storace Marco",
+      "author_ids": "59474072200;57200266678;57200399832;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Ahmadimonfared Z.",
+      "keywords": null,
+      "abstract": "The inertia of a power grid measures the system's ability to counteract frequency changes, remaining synchronized and stable when triggered by external disturbances. Renewable energy sources (RES) are interfaced with the grid through power converters without the intrinsic (mechanical) inertia of synchronous machines; therefore, a strong presence of RES reduces the global inertia of the system, compromising its stability and reliability. Thus, it is fundamental to develop power converter controllers that provide synthetic inertia by mimicking the electro-mechanical behavior of a synchronous machine. This paper investigates the performances of three different power converter control techniques that generate virtual inertia. As a case study, we consider a 4-bus power network to analyze the grid reaction to a rapid load increase.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85204943069",
+      "title": "Modeling the Effect of Air-Gap Length and Number of Turns on Ferrite-Core Inductors Working up to Magnetic Saturation in a Buck Converter",
+      "doi": "10.1109/TCSI.2024.3421261",
+      "venue": "IEEE Transactions on Circuits and Systems I Regular Papers",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "71",
+      "issue_id": "12",
+      "pages": "5400-5409",
+      "issn": "15498328",
+      "eIssn": "15580806",
+      "source_id": "11000153733",
+      "authors": "Ravera Alessandro; Formentini Andrea; Lodi Matteo; Oliveri Alberto; Passalacqua Massimiliano; Storace Marco",
+      "author_ids": "57214792545;55370605300;57200266678;57200399832;57195070159;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Ravera A.",
+      "keywords": "gapped ferrite core | magnetic saturation | nonlinear circuit model | Power inductor",
+      "abstract": "In this work, a nonlinear behavioral circuit model is proposed for air-gapped ferrite-core inductors working up to magnetic saturation. The model comprises a nonlinear conservative inductor, with current-dependent inductance, and two linear resistors, accounting for losses in both the winding and the core. Two representations are proposed for the nonlinear inductance, parameterized by both the number of turns and the air-gap length. The model (in both versions) is identified and validated through experimental measurements collected on a real buck converter. Inductor voltages and currents are used for parameter identification. The obtained results exhibit a good match with the experimental measurements used for validation purposes. An example of the application of the model to the design of a buck converter exploiting partially saturating inductors is also proposed.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 92,
+              "rank": 28,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 93,
+              "rank": 24,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85198514654",
+      "title": "A nonlinear model of air-gapped ferrite-core inductors for SMPS applications",
+      "doi": "10.1109/ISCAS58744.2024.10558476",
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Ravera Alessandro; Formentini Andrea; Lodi Matteo; Oliveri Alberto; Storace Marco",
+      "author_ids": "57214792545;55370605300;57200266678;57200399832;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Ravera A.",
+      "keywords": null,
+      "abstract": "In this work, a nonlinear behavioral model is proposed for air-gapped ferrite-core inductors working up to magnetic saturation. The component is represented through the series connection of a nonlinear conservative inductor and a linear resistor, accounting for the instantaneous losses in both the windings and the core. The model is identified and validated through experimental measurements collected on a real buck converter. A very limited set of inductor voltages and currents is used for parameter identification. Some model coefficients depend explicitly on the air-gap length, which is useful for converter design purposes.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 44,
+              "rank": 537,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85183455819",
+      "title": "Optimization strategies to obtain smooth gait transitions through biologically plausible central pattern generators",
+      "doi": "10.1103/PhysRevE.109.014404",
+      "venue": "Physical Review E",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2024,
+      "volume": "109",
+      "issue_id": "1",
+      "pages": null,
+      "issn": "24700045",
+      "eIssn": "24700053",
+      "source_id": "21100855841",
+      "authors": "Baruzzi V.; Lodi M.; Storace M.",
+      "author_ids": "57216455935;57200266678;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Baruzzi V.",
+      "keywords": null,
+      "abstract": "Central pattern generators are small networks that contribute to generating animal locomotion. The models used to study gait generation and gait transition mechanisms often require biologically accurate neuron and synapse models, with high dimensionality and complex dynamics. Tuning the parameters of these models to elicit network dynamics compatible with gait features is not a trivial task, due to the impossibility of inferring a priori the effects of each parameter on the nonlinear system's emergent dynamics. In this paper we explore the use of global optimization strategies for parameter optimization in multigait central pattern generator (CPG) models with complex cell dynamics and minimal topology. We first consider an existing quadruped CPG model as a test bed for the objective function formulation, then proceed to optimize the parameters of a newly proposed multigait, interlimb hexapod CPG model. We successfully obtain hexapod gaits and prompt gait transitions by varying only control currents, while all CPG parameters, once optimized, are kept fixed. This mechanism of gait transitions is compatible with short-term synaptic plasticity.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Statistics and Probability",
+              "percentile": 83,
+              "rank": 50,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Statistical and Nonlinear Physics",
+              "percentile": 64,
+              "rank": 23,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Condensed Matter Physics",
+              "percentile": 53,
+              "rank": 208,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Statistics and Probability",
+              "percentile": 83,
+              "rank": 50,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Statistical and Nonlinear Physics",
+              "percentile": 66,
+              "rank": 21,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Condensed Matter Physics",
+              "percentile": 59,
+              "rank": 182,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85179978424",
+      "title": "Bridging functional and anatomical neural connectivity through cluster synchronization",
+      "doi": "10.1038/s41598-023-49746-2",
+      "venue": "Scientific Reports",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "13",
+      "issue_id": "1",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20452322",
+      "source_id": "21100200805",
+      "authors": "Baruzzi Valentina; Lodi Matteo; Sorrentino Francesco; Storace Marco",
+      "author_ids": "57216455935;57200266678;57203233721;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60138187;60025153",
+      "corresponding": "Baruzzi V.",
+      "keywords": null,
+      "abstract": "The dynamics of the brain results from the complex interplay of several neural populations and is affected by both the individual dynamics of these areas and their connection structure. Hence, a fundamental challenge is to derive models of the brain that reproduce both structural and functional features measured experimentally. Our work combines neuroimaging data, such as dMRI, which provides information on the structure of the anatomical connectomes, and fMRI, which detects patterns of approximate synchronous activity between brain areas. We employ cluster synchronization as a tool to integrate the imaging data of a subject into a coherent model, which reconciles structural and dynamic information. By using data-driven and model-based approaches, we refine the structural connectivity matrix in agreement with experimentally observed clusters of brain areas that display coherent activity. The proposed approach leverages the assumption of homogeneous brain areas; we show the robustness of this approach when heterogeneity between the brain areas is introduced in the form of noise, parameter mismatches, and connection delays. As a proof of concept, we apply this approach to MRI data of a healthy adult at resting state.",
+      "citations": 7,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Multidisciplinary",
+              "percentile": 86,
+              "rank": 28,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Multidisciplinary",
+              "percentile": 92,
+              "rank": 14,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85151336066",
+      "title": "Co-Design of a Controller and Its Digital Implementation: The MOBY-DIC2 Toolbox for Embedded Model Predictive Control",
+      "doi": "10.1109/TCST.2023.3254133",
+      "venue": "IEEE Transactions on Control Systems Technology",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "31",
+      "issue_id": "6",
+      "pages": "2871-2878",
+      "issn": "10636536",
+      "eIssn": "15580865",
+      "source_id": "17342",
+      "authors": "Ravera Alessandro; Oliveri Alberto; Lodi Matteo; Bemporad Alberto; Heemels W. P.M.H.; Kerrigan Eric C.; Storace Marco",
+      "author_ids": "57214792545;57200399832;57200266678;7005030586;7004095044;57200653945;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153;60102060;60032882;60015150;60025153",
+      "corresponding": "Ravera A.",
+      "keywords": "Embedded model predictive control (MPC) | field programmable gate array (FPGA) | hardware-software co-design",
+      "abstract": "Several software tools are available in the literature for the design and embedded implementation of linear model predictive control (MPC), both in its implicit and explicit (either exact or approximate) forms. Most of them generate C code for easy implementation on a microcontroller, and the others can convert the C code into hardware description language code for implementation on a field programmable gate array (FPGA). However, a unified tool allowing one to generate efficient embedded MPC for an FPGA, starting from the definition of the plant and its constraints, was still missing. The MOBY-DIC2 toolbox described in this brief bridges this gap. To illustrate its functionalities, the tool is exploited to embed the controller and observer for a real buck power converter in an FPGA. This implementation achieves a latency of about 30μ s with the implicit controller and 240 ns with the approximate explicit controller.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 91,
+              "rank": 34,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 90,
+              "rank": 96,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 90,
+              "rank": 31,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 89,
+              "rank": 82,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85166222674",
+      "title": "Use of a Partially Saturating Inductor in a Boost Converter with Model Predictive Control",
+      "doi": "10.3390/electronics12143013",
+      "venue": "Electronics Switzerland",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "12",
+      "issue_id": "14",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20799292",
+      "source_id": "21100829272",
+      "authors": "Firpo Pietro; Ravera Alessandro; Oliveri Alberto; Lodi Matteo; Storace Marco",
+      "author_ids": "58512300500;57214792545;57200399832;57200266678;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Firpo P.",
+      "keywords": "magnetic saturation | nonlinear model predictive control | switched mode power supply",
+      "abstract": "Increasing the power density in switched mode power supplies is one of the main goals in power electronics. This aim can be achieved by using smaller inductors operating at partial magnetic saturation. In this work, a partially saturating ferrite core inductor is exploited in a switching DC-DC boost converter, regulated through nonlinear model predictive control. A nonlinear behavioral inductor model, identified through experimental measurements, accounts for both magnetic saturation and losses. The simulation results show that the converter output voltage is correctly regulated and the imposed current constraints are fulfilled, even when partial magnetic saturation occurs. Comparisons with traditional control techniques are also presented.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 81,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 78,
+              "rank": 220,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 76,
+              "rank": 91,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 76,
+              "rank": 131,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 73,
+              "rank": 62,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 70,
+              "rank": 94,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 69,
+              "rank": 244,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 64,
+              "rank": 139,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 64,
+              "rank": 64,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 62,
+              "rank": 49,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85151544305",
+      "title": "Stability Analysis of the Synchronous Solution in Arrays of Memristive Chua's Circuits",
+      "doi": "10.1109/TCSII.2023.3259008",
+      "venue": "IEEE Transactions on Circuits and Systems II Express Briefs",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2023,
+      "volume": "70",
+      "issue_id": "5",
+      "pages": "1694-1698",
+      "issn": "15497747",
+      "eIssn": "15583791",
+      "source_id": "9500153930",
+      "authors": "Lodi Matteo; Forti Mauro; Storace Marco",
+      "author_ids": "57200266678;7006515448;7004134087",
+      "authorAffiliationIds": "60025153;60002838;60025153",
+      "corresponding": "Lodi M.",
+      "keywords": "Chua's circuit | master stability function | memristor | synchronization",
+      "abstract": "This brief studies synchronization in an array of diffusively-coupled identical memristor Chua's circuits (MCCs) with Dirichlet's boundary conditions. We start from the description of MCCs in the flux-charge domain and the state space decomposition in invariant manifolds and then we apply three different techniques, of numerical and analytic nature, for finding the synchronization condition in terms of a circuit parameter. Two of these techniques provide conditions to guarantee synchronization on any manifold and for any attractor on a manifold, while a third technique allows analyzing synchronization for each specific attractor on a fixed manifold through more precise conditions. The pros and cons of the three techniques are discussed and an application to a more realistic memristor model is provided.",
+      "citations": 4,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 90,
+              "rank": 97,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 82,
+              "rank": 137,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85166261084",
+      "title": "MADS-based fast FPGA implementation of nonlinear model predictive control",
+      "doi": "10.1109/ISCAS46773.2023.10181647",
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": "2023-May",
+      "issue_id": null,
+      "pages": null,
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Ravera Alessandro; Oliveri Alberto; Lodi Matteo; Storace Marco",
+      "author_ids": "57214792545;57200399832;57200266678;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Ravera A.",
+      "keywords": "FPGA | mesh adaptive direct search | nonlinear model predictive control",
+      "abstract": "In this paper, the derivative-free optimization algorithm MADS (mesh adaptive direct search) is adapted for implementation on field programmable gate array (FPGA) with fixed-point data representation. MADS is then exploited to solve constrained nonlinear optimization problems arising from non-linear model predictive control. The application on two examples taken from the literature shows the advantages of the proposed circuit architecture over the existing work, in terms of latency and resource occupation.",
+      "citations": 4,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 37,
+              "rank": 496,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85166236237",
+      "title": "A nonlinear behavioral model of a ferrite-core inductor with fixed-frequency sinusoidal voltage input",
+      "doi": "10.1109/EUROCON56442.2023.10199021",
+      "venue": "Eurocon 2023 20th International Conference on Smart Technologies Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": "418-422",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101173014",
+      "authors": "Ravera Alessandro; Oliveri Alberto; Lodi Matteo; Storace Marco",
+      "author_ids": "57214792545;57200399832;57200266678;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Ravera A.",
+      "keywords": null,
+      "abstract": "In this work, we propose a nonlinear behavioral model for a ferrite-core inductor working up to magnetic saturation. The model is based on easy-to-measure electrical variables and contains a nonlinear conservative inductor and two linear resistors, which account for the instantaneous losses in both the windings and the core. The model identification is carried out through a few experimental measurements, by applying unbiased sinusoidal voltages to the inductor.",
+      "citations": 8,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85137974665",
+      "title": "Embedded Implementation of an Algorithm for Online Inertia Estimation in Power Grids",
+      "doi": "10.1007/978-3-031-16281-7_9",
+      "venue": "Lecture Notes in Networks and Systems",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": "546 LNNS",
+      "issue_id": null,
+      "pages": "84-94",
+      "issn": "23673370",
+      "eIssn": "23673389",
+      "source_id": "21100901469",
+      "authors": "Ravera Alessandro; Baruzzi Valentina; Lodi Matteo; Oliveri Alberto; Storace Marco",
+      "author_ids": "57214792545;57216455935;57200266678;57200399832;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Ravera A.",
+      "keywords": "Inertia estimation | Microcontroller | Renewable energy sources",
+      "abstract": "The energy transition is an issue of major importance worldwide and entails the gradual replacement of fossil fuels technologies with renewable energy sources (RES) for electric power production. However, integrating photovoltaic and wind power plants in traditional power grids threatens the stability of the system if no additional synthetic inertia is provided by control systems. Due to the intermittent nature of RES, the inertia of the power plants and of the entire grid is time-varying, calling the need for online monitoring methods. In this paper, we implement on a microcontroller an algorithm for online estimation of the inertia constant and damping coefficient of individual energy sources. The behavior of this embedded implementation is analyzed with respect to some key parameters and tested on the IEEE 14-bus power system.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 25,
+              "rank": 146,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 25,
+              "rank": 410,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 20,
+              "rank": 302,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 14,
+              "rank": 113,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 13,
+              "rank": 277,
+              "quartile": "Q4"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 10,
+              "rank": 354,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85143184341",
+      "title": "Pinning control of networks: Dimensionality reduction through simultaneous block-diagonalization of matrices",
+      "doi": "10.1063/5.0090095",
+      "venue": "Chaos",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "32",
+      "issue_id": "11",
+      "pages": null,
+      "issn": "10541500",
+      "eIssn": "10897682",
+      "source_id": "27430",
+      "authors": "Panahi Shirin; Lodi Matteo; Storace Marco; Sorrentino Francesco",
+      "author_ids": "57220564996;57200266678;7004134087;57203233721",
+      "authorAffiliationIds": "60138187;60025153;60025153;60138187",
+      "corresponding": "Panahi S.",
+      "keywords": null,
+      "abstract": "In this paper, we study the network pinning control problem in the presence of two different types of coupling: (i) node-to-node coupling among the network nodes and (ii) input-to-node coupling from the source node to the \"pinned nodes.\"Previous work has mainly focused on the case that (i) and (ii) are of the same type. We decouple the stability analysis of the target synchronous solution into subproblems of the lowest dimension by using the techniques of simultaneous block diagonalization of matrices. Interestingly, we obtain two different types of blocks, driven and undriven. The overall dimension of the driven blocks is equal to the dimension of an appropriately defined controllable subspace, while all the remaining undriven blocks are scalar. Our main result is a decomposition of the stability problem into four independent sets of equations, which we call quotient controllable, quotient uncontrollable, redundant controllable, and redundant uncontrollable. Our analysis shows that the number and location of the pinned nodes affect the number and the dimension of each set of equations. We also observe that in a large variety of complex networks, the stability of the target synchronous solution is de facto only determined by a single quotient controllable block.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Mathematical Physics",
+              "percentile": 90,
+              "rank": 9,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Applied Mathematics",
+              "percentile": 85,
+              "rank": 97,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Statistical and Nonlinear Physics",
+              "percentile": 80,
+              "rank": 13,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (all)",
+              "percentile": 75,
+              "rank": 84,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Physics and Astronomy (all)",
+              "percentile": 75,
+              "rank": 62,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Mathematical Physics",
+              "percentile": 94,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Applied Mathematics",
+              "percentile": 90,
+              "rank": 59,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Statistical and Nonlinear Physics",
+              "percentile": 86,
+              "rank": 8,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Physics and Astronomy (all)",
+              "percentile": 79,
+              "rank": 50,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85142507089",
+      "title": "Behavioral model of an amorphous-core inductor working up to partial saturation",
+      "doi": "10.1109/ISCAS48785.2022.9937208",
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "2022-May",
+      "issue_id": null,
+      "pages": "1522-1526",
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Oliveri Alberto; Lodi Matteo; Beatrice Cinzia; Ferrara Enzo; Storace Marco; Fiorillo Fausto",
+      "author_ids": "57200399832;57200266678;7004523868;56211874000;7004134087;7006013405",
+      "authorAffiliationIds": "60025153;60025153;60073835;60073835;60025153;60073835",
+      "corresponding": "Oliveri A.",
+      "keywords": null,
+      "abstract": "A novel nonlinear behavioral model is proposed for an amorphous-core inductor working up to magnetic saturation. The model relies only on electrical quantities and represents the component as the series connection of a nonlinear conservative inductor and a nonlinear resistor, which accounts for the instantaneous losses in both the windings and the core. The model is identified and validated through measurements collected on a simple circuit, with applied unbiased sinusoidal voltage at two different frequencies.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 35,
+              "rank": 476,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85142479468",
+      "title": "Forget partitions? Not yet...",
+      "doi": "10.1109/ISCAS48785.2022.9937604",
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "2022-May",
+      "issue_id": null,
+      "pages": "1531-1535",
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Lodi Matteo; Sorrentino Francesco; Storace Marco",
+      "author_ids": "57200266678;57203233721;7004134087",
+      "authorAffiliationIds": "60025153;60138187;60025153",
+      "corresponding": "Lodi M.",
+      "keywords": null,
+      "abstract": "This paper is concerned with the study of the stability of the cluster-synchronous solution for directed networks of dynamical systems. Two recently proposed methods are compared by using a simple example network, thus evidencing their advantages and disadvantages, potentialities, and limitations.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 35,
+              "rank": 476,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85133619628",
+      "title": "Estimation of inertia in power grids with turbine governors",
+      "doi": "10.1109/ISCAS48785.2022.9937504",
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": "2022-May",
+      "issue_id": null,
+      "pages": "819-823",
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Baruzzi Valentina; Lodi Matteo; Oliveri Alberto; Storace Marco",
+      "author_ids": "57216455935;57200266678;57200399832;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Baruzzi V.",
+      "keywords": null,
+      "abstract": "With the increasing presence of renewable energy sources in power grids, inertia estimation has become a pivotal problem in ensuring stable energy distribution. Inertia estimation during normal operating conditions of the network is still an open problem, since most algorithms rely on post-fault data or injection of probing signals in the grid. Here we extend a previously proposed algorithm for online inertia estimation to account for the presence of turbine governors in the power grid. The algorithm was tested on the IEEE 14-bus power system and it was successful in tracking the inertia of generators with and without turbine governors.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 35,
+              "rank": 476,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85116803994",
+      "title": "Nonlinear models of power inductors: A survey",
+      "doi": "10.1002/cta.3147",
+      "venue": "International Journal of Circuit Theory and Applications",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "50",
+      "issue_id": "1",
+      "pages": "2-34",
+      "issn": "00989886",
+      "eIssn": "1097007X",
+      "source_id": "17963",
+      "authors": "Oliveri Alberto; Lodi Matteo; Storace Marco",
+      "author_ids": "57200399832;57200266678;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Oliveri A.",
+      "keywords": null,
+      "abstract": "Switch-mode power supplies (SMPSs) are widely exploited to interface electrical energy sources to motors and other electrical loads. Inductors are usually the biggest and heaviest components in SMPSs, limiting their overall power density. Therefore, there is an increasing interest in designing SMPSs with partially saturating inductors, because this significantly reduces their weight and size, thus increasing power density. This paper provides a review of nonlinear behavioral models (based on easy-to-measure quantities) of the inductance, power loss, and temperature rise of inductors working, at least partially, in magnetic saturation. This survey discusses the pros, cons, and ranges of validity of these models, with a glimpse at their application to SMPS simulation, design, monitoring, and control.",
+      "citations": 35,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Applied Mathematics",
+              "percentile": 72,
+              "rank": 183,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 57,
+              "rank": 422,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 52,
+              "rank": 471,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 45,
+              "rank": 170,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Applied Mathematics",
+              "percentile": 76,
+              "rank": 145,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 54,
+              "rank": 361,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 54,
+              "rank": 337,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 47,
+              "rank": 143,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85121654542",
+      "title": "Towards more biologically plausible central-pattern-generator models",
+      "doi": "10.1103/PhysRevE.104.064405",
+      "venue": "Physical Review E",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "104",
+      "issue_id": "6",
+      "pages": null,
+      "issn": "24700045",
+      "eIssn": "24700053",
+      "source_id": "21100855841",
+      "authors": "Baruzzi V.; Lodi M.; Storace M.; Shilnikov A.",
+      "author_ids": "57216455935;57200266678;7004134087;6602635628",
+      "authorAffiliationIds": "60025153;60025153;60025153;60012387",
+      "corresponding": "Baruzzi V.",
+      "keywords": null,
+      "abstract": "Central pattern generators (CPGs) are relatively small neural networks that play a fundamental role in the control of animal locomotion. In this paper we define a method for the systematic design of CPG models able to exhibit biologically plausible gait transitions by implementing short-term synaptic plasticity mechanisms. As a case study, we focus on a simple CPG for quadruped locomotion. By applying the proposed method, three of four standard quadruped gaits were correctly reproduced by the obtained CPG model, not only in terms of the alternating sequence of the limbs but also in terms of frequency, duty cycle, and phase lags.",
+      "citations": 8,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Statistics and Probability",
+              "percentile": 83,
+              "rank": 50,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Statistical and Nonlinear Physics",
+              "percentile": 64,
+              "rank": 23,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Condensed Matter Physics",
+              "percentile": 53,
+              "rank": 208,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Statistics and Probability",
+              "percentile": 88,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Statistical and Nonlinear Physics",
+              "percentile": 83,
+              "rank": 9,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Condensed Matter Physics",
+              "percentile": 65,
+              "rank": 142,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85109152543",
+      "title": "One-way dependent clusters and stability of cluster synchronization in directed networks",
+      "doi": "10.1038/s41467-021-24363-7",
+      "venue": "Nature Communications",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "12",
+      "issue_id": "1",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20411723",
+      "source_id": "19700182758",
+      "authors": "Lodi Matteo; Sorrentino Francesco; Storace Marco",
+      "author_ids": "57200266678;57203233721;7004134087",
+      "authorAffiliationIds": "60025153;60138187;60025153",
+      "corresponding": "Lodi M.",
+      "keywords": null,
+      "abstract": "Cluster synchronization in networks of coupled oscillators is the subject of broad interest from the scientific community, with applications ranging from neural to social and animal networks and technological systems. Most of these networks are directed, with flows of information or energy that propagate unidirectionally from given nodes to other nodes. Nevertheless, most of the work on cluster synchronization has focused on undirected networks. Here we characterize cluster synchronization in general directed networks. Our first observation is that, in directed networks, a cluster A of nodes might be one-way dependent on another cluster B: in this case, A may remain synchronized provided that B is stable, but the opposite does not hold. The main contribution of this paper is a method to transform the cluster stability problem in an irreducible form. In this way, we decompose the original problem into subproblems of the lowest dimension, which allows us to immediately detect inter-dependencies among clusters. We apply our analysis to two examples of interest, a human network of violin players executing a musical piece for which directed interactions may be either activated or deactivated by the musicians, and a multilayer neural network with directed layer-to-layer connections.",
+      "citations": 32,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Physics and Astronomy (all)",
+              "percentile": 98,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Multidisciplinary",
+              "percentile": 97,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry, Genetics and Molecular Biology (all)",
+              "percentile": 97,
+              "rank": 7,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Chemistry (all)",
+              "percentile": 96,
+              "rank": 16,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Multidisciplinary",
+              "percentile": 97,
+              "rank": 3,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry, Genetics and Molecular Biology (all)",
+              "percentile": 97,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Chemistry (all)",
+              "percentile": 96,
+              "rank": 14,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Physics and Astronomy (all)",
+              "percentile": 96,
+              "rank": 10,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85105519543",
+      "title": "A Microwave Imaging Technique for Neck Diseases Monitoring",
+      "doi": "10.23919/EuCAP51087.2021.9411191",
+      "venue": "15th European Conference on Antennas and Propagation Eucap 2021",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101044864",
+      "authors": "Dachena Chiara; Fedeli Alessandro; Fanti Alessandro; Lodi Matteo B.; Pastorino Matteo; Randazzo Andrea",
+      "author_ids": "57206901870;55512997500;36664325500;57200266678;7004880389;7006280562",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Dachena C.",
+      "keywords": "Cervical disease | hybrid inversion approach | microwave imaging",
+      "abstract": "A microwave imaging approach for the diagnosis of neck diseases is proposed in this paper. Specifically, the case study of cervical myelopathy has been considered. The developed technique aims at retrieving the distributions of the dielectric properties of a cross section of the neck, from which information about the spinal canal size can be extracted. To this end, a new hybrid inversion procedure exploiting a qualitative delay-and-sum method together with a conjugate-gradient-like scheme developed in Lebesgue spaces has been used. The feasibility of the approach has been assessed by means of a prototype of measurement system equipped with ten bowtie-like antennas and using a simplified phantom. Preliminary experimental results are reported.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85109025103",
+      "title": "Analysis and improvement of an algorithm for the online inertia estimation in power grids with RES",
+      "doi": "10.1109/ISCAS51556.2021.9401229",
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": "2021-May",
+      "issue_id": null,
+      "pages": null,
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Baruzzi Valentina; Lodi Matteo; Oliveri Alberto; Storace Marco",
+      "author_ids": "57216455935;57200266678;57200399832;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Baruzzi V.",
+      "keywords": null,
+      "abstract": "The increasing presence of renewable energy sources (RES) in a power grid tends to reduce its inertia constant, which quantifies the grid's ability to contrast the frequency changes due to external disturbances. This led to the development of control strategies that interface the RES to the grid providing synthetic inertia, but these strategies cannot avoid oscillations of the overall system inertia, thus requiring algorithms for the online inertia constant estimation under normal operating conditions of the power grid. In this paper, we consider one of these algorithms, which exploits the data measured online through phasor measurement units, and critically analyze it, in order to efficiently apply it to the estimation of the inertia constant in the IEEE-14-bus power system, also with the addition of a PV power plant. The obtained results point out an increased efficiency of the online estimation of the network inertia.",
+      "citations": 13,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 40,
+              "rank": 419,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85097445752",
+      "title": "Delays induced cluster synchronization in chaotic networks",
+      "doi": "10.1063/5.0030720",
+      "venue": "Chaos",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "30",
+      "issue_id": "12",
+      "pages": null,
+      "issn": "10541500",
+      "eIssn": "10897682",
+      "source_id": "27430",
+      "authors": "Nathe Chad; Huang Ke; Lodi Matteo; Storace Marco; Sorrentino Francesco",
+      "author_ids": "57220578856;57194202388;57200266678;7004134087;57203233721",
+      "authorAffiliationIds": "60138187;60138187;60025153;60025153;60138187",
+      "corresponding": "Nathe C.",
+      "keywords": null,
+      "abstract": "We study networks of coupled oscillators and analyze the role of coupling delays in determining the emergence of cluster synchronization. Given a network topology and a particular arrangement of the coupling delays over the network connections, different patterns of cluster synchronization may emerge. We focus on a simple ring network of six bidirectionally coupled identical oscillators, for which with two different values of the delays, a total of eight cluster synchronization patterns may emerge, depending on the assignment of the delays to the ring connections. We analyze stability of each of the patterns and find that for large enough coupling strength and specific values of the delays, they can all be stabilized. We construct an experimental ring of six bidirectionally coupled Colpitts oscillators, with delayed connections obtained by coupling the oscillators via RF cables of appropriate length. We find that experimental observations of cluster synchronization are in essential agreement with theoretical predictions. We also verify our theory in a fully connected network of fifty nodes for which connections are randomly assigned to be either undelayed or delayed with a given probability.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Mathematical Physics",
+              "percentile": 90,
+              "rank": 9,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Applied Mathematics",
+              "percentile": 85,
+              "rank": 97,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Statistical and Nonlinear Physics",
+              "percentile": 80,
+              "rank": 13,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Engineering (all)",
+              "percentile": 75,
+              "rank": 84,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Physics and Astronomy (all)",
+              "percentile": 75,
+              "rank": 62,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Mathematical Physics",
+              "percentile": 97,
+              "rank": 2,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Applied Mathematics",
+              "percentile": 90,
+              "rank": 52,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Statistical and Nonlinear Physics",
+              "percentile": 90,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Physics and Astronomy (all)",
+              "percentile": 81,
+              "rank": 43,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85091735733",
+      "title": "Analyzing synchronized clusters in neuron networks",
+      "doi": "10.1038/s41598-020-73269-9",
+      "venue": "Scientific Reports",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "10",
+      "issue_id": "1",
+      "pages": null,
+      "issn": null,
+      "eIssn": "20452322",
+      "source_id": "21100200805",
+      "authors": "Lodi Matteo; Della Rossa Fabio; Sorrentino Francesco; Storace Marco",
+      "author_ids": "57200266678;37123718500;57203233721;7004134087",
+      "authorAffiliationIds": "60025153;60138187-60023256;60138187;60025153",
+      "corresponding": "Lodi M.",
+      "keywords": null,
+      "abstract": "The presence of synchronized clusters in neuron networks is a hallmark of information transmission and processing. Common approaches to study cluster synchronization in networks of coupled oscillators ground on simplifying assumptions, which often neglect key biological features of neuron networks. Here we propose a general framework to study presence and stability of synchronous clusters in more realistic models of neuron networks, characterized by the presence of delays, different kinds of neurons and synapses. Application of this framework to two examples with different size and features (the directed network of the macaque cerebral cortex and the swim central pattern generator of a mollusc) provides an interpretation key to explain known functional mechanisms emerging from the combination of anatomy and neuron dynamics. The cluster synchronization analysis is carried out also by changing parameters and studying bifurcations. Despite some modeling simplifications in one of the examples, the obtained results are in good agreement with previously reported biological data.",
+      "citations": 28,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Multidisciplinary",
+              "percentile": 86,
+              "rank": 28,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Multidisciplinary",
+              "percentile": 93,
+              "rank": 8,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85093911265",
+      "title": "Generalized half-center oscillators with short-term synaptic plasticity",
+      "doi": "10.1103/PhysRevE.102.032406",
+      "venue": "Physical Review E",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "102",
+      "issue_id": "3",
+      "pages": null,
+      "issn": "24700045",
+      "eIssn": "24700053",
+      "source_id": "21100855841",
+      "authors": "Baruzzi V.; Lodi M.; Storace M.; Shilnikov A.",
+      "author_ids": "57216455935;57200266678;7004134087;6602635628",
+      "authorAffiliationIds": "60025153;60025153;60025153;60012387",
+      "corresponding": "Baruzzi V.",
+      "keywords": null,
+      "abstract": "How can we develop simple yet realistic models of the small neural circuits known as central pattern generators (CPGs), which contribute to generate complex multiphase locomotion in living animals? In this paper we introduce a new model (with design criteria) of a generalized half-center oscillator, (pools of) neurons reciprocally coupled by fast/slow inhibitory and excitatory synapses, to produce either alternating bursting or other rhythmic patterns, characterized by different phase lags, depending on the sensory or other external input. We also show how to calibrate its parameters, based on both physiological and functional criteria and on bifurcation analysis. This model accounts for short-term neuromodulation in a biophysically plausible way and is a building block to develop more realistic and functionally accurate CPG models. Examples and counterexamples are used to point out the generality and effectiveness of our design approach.",
+      "citations": 11,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Statistics and Probability",
+              "percentile": 83,
+              "rank": 50,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Statistical and Nonlinear Physics",
+              "percentile": 64,
+              "rank": 23,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Condensed Matter Physics",
+              "percentile": 53,
+              "rank": 208,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Statistics and Probability",
+              "percentile": 88,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Statistical and Nonlinear Physics",
+              "percentile": 87,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Condensed Matter Physics",
+              "percentile": 68,
+              "rank": 130,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85087102389",
+      "title": "Design Principles for Central Pattern Generators with Preset Rhythms",
+      "doi": "10.1109/TNNLS.2019.2945637",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "31",
+      "issue_id": "9",
+      "pages": "3658-3669",
+      "issn": "2162237X",
+      "eIssn": "21622388",
+      "source_id": "21100235616",
+      "authors": "Lodi Matteo; Shilnikov Andrey L.; Storace Marco",
+      "author_ids": "57200266678;6602635628;7004134087",
+      "authorAffiliationIds": "60025153;60012387;60025153",
+      "corresponding": "Lodi M.",
+      "keywords": "Bifurcation analysis | central pattern generators | neuronal models | parameter optimization",
+      "abstract": "This article is concerned with the design of synthetic central pattern generators (CPGs). Biological CPGs are neural circuits that determine a variety of rhythmic activities, including locomotion, in animals. A synthetic CPG is a network of dynamical elements (here called cells) properly coupled by various synapses to emulate rhythms produced by a biological CPG. We focus on CPGs for locomotion of quadrupeds and present our design approach, based on the principles of nonlinear dynamics, bifurcation theory, and parameter optimization. This approach lets us design the synthetic CPG with a set of desired rhythms and switch between them as the parameter representing the control actions from the brain is varied. The developed four-cell CPG can produce four distinct gaits: walk, trot, gallop, and bound, similar to the mouse locomotion. The robustness and adaptability of the network design principles are verified using different cell and synapse models.",
+      "citations": 37,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 98,
+              "rank": 9,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 98,
+              "rank": 18,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Software",
+              "percentile": 97,
+              "rank": 13,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 96,
+              "rank": 19,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 99,
+              "rank": 3,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 98,
+              "rank": 8,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Artificial Intelligence",
+              "percentile": 98,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Software",
+              "percentile": 97,
+              "rank": 9,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85085270959",
+      "title": "Online estimation of the current ripple on a saturating eerrite-core inductor in a boost converter",
+      "doi": "10.3390/s20102921",
+      "venue": "Sensors Switzerland",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "20",
+      "issue_id": "10",
+      "pages": null,
+      "issn": "14248220",
+      "eIssn": null,
+      "source_id": "130124",
+      "authors": "Lodi Matteo; Oliveri Alberto",
+      "author_ids": "57200266678;57200399832",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Lodi M.",
+      "keywords": "Ferrite-core inductor | Magnetic saturation | Microcontroller | Nonlinear observer | Switch-mode power supply",
+      "abstract": "In this paper, a nonlinear observer is proposed for the estimation of the current ripple in a ferrite-core inductor working in partial saturation, mounted on a boost converter. The estimator is based on a recently proposed nonlinear inductance model, which expresses the inductance as a function of the inductor current, taking into account also the non-negligible effects of the core temperature. The proposed observer is implemented on a low-cost microcontroller and tested, both offline and online, on a real boost converter with different operating conditions. The offline tests show a satisfactory estimation accuracy both during the electrical (fast) and thermal (slow) transients. Due to the high microcontroller latency, some delays and inaccuracies occur during electrical transients in the online tests. This work suggests that, in order to exploit the observer for control purposes, the target architecture should be a high-performance microcontroller, a system-on-chip, or a field programmable gate array, where parallelism can be exploited to speed-up the computations. The proposed implementation can be instead suitable for switch-mode power supply (SMPS) monitoring purposes.",
+      "citations": 7,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 90,
+              "rank": 19,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 136,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 85,
+              "rank": 36,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 84,
+              "rank": 72,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 82,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 82,
+              "rank": 30,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Instrumentation",
+              "percentile": 90,
+              "rank": 13,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 80,
+              "rank": 135,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 79,
+              "rank": 69,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Atomic and Molecular Physics, and Optics",
+              "percentile": 78,
+              "rank": 42,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Analytical Chemistry",
+              "percentile": 76,
+              "rank": 29,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Biochemistry",
+              "percentile": 67,
+              "rank": 133,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85082883785",
+      "title": "A Nonlinear Behavioral Ferrite-Core Inductance Model Able to Reproduce Thermal Transients in Switch-Mode Power Supplies",
+      "doi": "10.1109/TCSI.2020.2965645",
+      "venue": "IEEE Transactions on Circuits and Systems I Regular Papers",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "67",
+      "issue_id": "4",
+      "pages": "1255-1263",
+      "issn": "15498328",
+      "eIssn": "15580806",
+      "source_id": "11000153733",
+      "authors": "Lodi Matteo; Bizzarri Federico; Linaro Daniele; Oliveri Alberto; Brambilla Angelo; Storace Marco",
+      "author_ids": "57200266678;15734590800;24587496200;57200399832;7103297302;7004134087",
+      "authorAffiliationIds": "60025153;60023256;60023256;60025153;60023256;60025153",
+      "corresponding": "Lodi M.",
+      "keywords": "Behavioral nonlinear model | magnetic saturation | power loss",
+      "abstract": "More compact Switch-Mode Power Supplies (SMPSs) satisfying typical design specifications can be obtained by exploiting ferrite core inductors working in partial saturation. In this case, the inductance is no longer a constant parameter, since it exhibits a sharp drop as the inductor current increases. A behavioral model was recently proposed, which provides the inductance at steady state as a function of easy-to-measure quantities. Here, a generalization of this model is presented, in order to capture the inductance behavior also during thermal transients. The model fitting to experimental measurements relies on an iterative optimization procedure grounding on accurate SMPS simulations based on shooting analysis. The model validation exploits the envelope analysis method, particularly suitable for slow-fast systems. The obtained fitting results show a good agreement with experimental data both in transient conditions (after sudden variation of the SMPS operating condition) and at steady state. Finally, by partially re-identifying the model based on data measured when the inductor is cooled with a fan, we still obtain a good matching between model and experimental data.",
+      "citations": 14,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 92,
+              "rank": 28,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": null,
+              "percentile": 84,
+              "rank": 106,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85109258762",
+      "title": "Effects of parameter variation on the accuracy of a nonlinear inductor model for switch-mode power supplies applications",
+      "doi": null,
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": "2020-October",
+      "issue_id": null,
+      "pages": null,
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Lodi Matteo; Oliveri Alberto; Storace Marco",
+      "author_ids": "57200266678;57200399832;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Lodi M.",
+      "keywords": null,
+      "abstract": "A nonlinear inductor model has been recently proposed, which takes into account the magnetic saturation and the dependence of the inductance on the temperature. The model depends on seven parameters, which are identified based on experimental measurements of the inductor current in a switch-mode power supply. In this paper we show how the accuracy of each parameter affects the overall modeling accuracy in reproducing the inductor current.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 50,
+              "rank": 345,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85091795172",
+      "title": "An algorithm for finding equitable clusters in multi-layer networks",
+      "doi": null,
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": "2020-October",
+      "issue_id": null,
+      "pages": null,
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Lodi Matteo; Rossa Fabio Della; Sorrentino Francesco; Storace Marco",
+      "author_ids": "57200266678;37123718500;57203233721;7004134087",
+      "authorAffiliationIds": "60025153;60023256;60138187;60025153",
+      "corresponding": "Lodi M.",
+      "keywords": null,
+      "abstract": "This paper is concerned with the analysis of multilayer networks consisting of different kinds of oscillators and couplings. In particular, we propose an algorithm for finding equitable clusters in this general class of networks, thus generalizing an existing algorithm specific for networks with identical nodes and one kind of connections. The algorithm is suitable to analyze complex networks of particular interest for the scientific community, such as neuron networks and electrical networks. The algorithm is tested on a random heterogeneous network with 40 oscillators of two different kinds and couplings of two different kinds. The stability of the obtained clusters is checked in a two-dimensional parameter space by using brute-force simulations.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 50,
+              "rank": 345,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85079170519",
+      "title": "Embedded linear model predictive control through mesh adaptive direct search algorithm",
+      "doi": "10.1109/ICECS46596.2019.8964821",
+      "venue": "2019 26th IEEE International Conference on Electronics Circuits and Systems Icecs 2019",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": "542-545",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100944554",
+      "authors": "Ravera Alessandro; Oliveri Alberto; Lodi Matteo; Storace Marco",
+      "author_ids": "57214792545;57200399832;57200266678;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Ravera A.",
+      "keywords": null,
+      "abstract": "In this paper we apply the derivative-free mesh adaptive direct search (MADS) algorithm to find the minimum of a constrained optimization problem, resulting from model predictive control (MPC). MPC requires indeed to solve an optimization problem online, at each sampling time of the system to regulate. A progressive barrier approach is used in MADS, in order to cope with the possibly infeasible initial point for the algorithm. Hardware-in-the-loop simulations are performed where the MADS-based MPC regulator is implemented on a microcontroller and a double integrator system is simulated on a PC. Control performances and circuit latency are assessed with respect to the number of MADS iterations.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85079166716",
+      "title": "A low-cost online estimator for switch-mode power supplies with saturating ferrite-core inductors",
+      "doi": "10.1109/ICECS46596.2019.8964684",
+      "venue": "2019 26th IEEE International Conference on Electronics Circuits and Systems Icecs 2019",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": "851-854",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100944554",
+      "authors": "Lodi Matteo; Oliveri Alberto; Storace Marco",
+      "author_ids": "57200266678;57200399832;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Lodi M.",
+      "keywords": null,
+      "abstract": "Ferrite-core inductors are largely used in switch-mode power supplies (SMPSs) and can be fruitfully exploited also when working in partial saturation. Several behavioral models have been recently proposed to represent both inductance and power losses in saturation conditions. In this paper we exploit this kind of models for estimating online relevant features of the SMPS inductor, such as current ripple and power loss, which are difficult to monitor through acquisition of easily-measurable quantities only. The method works at electrical steady-state, but is able to follow the thermal transients. Models are implemented on a low-cost microcontroller and tests are performed on a boost converter, for different operating conditions.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85058153566",
+      "title": "Model-based compensation of rate-dependent hysteresis in a piezoresistive strain sensor",
+      "doi": "10.1109/TIE.2018.2884204",
+      "venue": "IEEE Transactions on Industrial Electronics",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "66",
+      "issue_id": "10",
+      "pages": "8205-8213",
+      "issn": "02780046",
+      "eIssn": null,
+      "source_id": "26053",
+      "authors": "Oliveri Alberto; Maselli Martina; Lodi Matteo; Storace Marco; Cianchetti Matteo",
+      "author_ids": "57200399832;57195724094;57200266678;7004134087;23388237000",
+      "authorAffiliationIds": "60025153;60028039;60025153;60025153;60028039",
+      "corresponding": "Oliveri A.",
+      "keywords": "Conductive textile | hysteresis compensation | piezoresistive strain sensor | rate-dependent hysteresis",
+      "abstract": "This paper is concerned with modeling of smart textiles, aimed at compensating their intrinsic nonlinearities. In particular, a new model is proposed to compensate for hysteresis and relaxation in strain sensors made of Electrolycra. These sensors are increasingly employed in emerging areas such as wearable electronics and soft robotics for their simple transduction mechanism and low cost. However, being intrinsically nonlinear, the signals measured from these devices need some processing, in order to increase their sensing accuracy. Here, we propose a new model for the compensation of the main distortions intrinsic to these soft sensors, which are mainly caused by hysteresis and relaxation, whose combined effect produces rate-dependent hysteresis. The model capabilities are tested on experimental data measured on Electrolycra. The comparisons with the results obtained with two different models witness the good behavior of the proposed model.",
+      "citations": 41,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 96,
+              "rank": 33,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 95,
+              "rank": 17,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Control and Systems Engineering",
+              "percentile": 98,
+              "rank": 3,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 98,
+              "rank": 13,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85076670272",
+      "title": "Pareto-optimal selection of saturating inductors in the design of switch-mode power supplies",
+      "doi": "10.23919/EPE.2019.8915549",
+      "venue": "2019 21st European Conference on Power Electronics and Applications EPE 2019 Ecce Europe",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100939561",
+      "authors": "Lodi Matteo; Oliveri Alberto; Storace Marco",
+      "author_ids": "57200266678;57200399832;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Lodi M.",
+      "keywords": "Design | Modelling | Switched-mode power supply",
+      "abstract": "Ferrite-core inductors are largely used in switch-mode power supplies (SMPSs) and can be fruitfully exploited also when working in partial saturation. The choice of a specific component depends on many factors, often requiring a trade-off between conflicting needs. In this paper a nonlinear inductance model for a whole family of ferrite-core inductors is proposed. An inductor family includes components with the same magnetic core and a different number of windings, which determines the nominal inductance. The proposed model, which includes magnetic saturation and dependence on the average inductor power loss, is exploited to evaluate the impact of the nominal inductance on the current ripple and power loss, in the SMPS design. A Pareto frontier is identified, which allows selecting optimal values of the nominal inductance, by trading off power loss and current ripple.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85075639485",
+      "title": "Behavioral Models for Ferrite-Core Inductors in Switch-Mode DC-DC Power Supplies: A Survey",
+      "doi": "10.1109/RTSI.2019.8895593",
+      "venue": "5th International Forum on Research and Technologies for Society and Industry Innovation to Shape the Future Rtsi 2019 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": "242-247",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100936629",
+      "authors": "Lodi Matteo; Oliveri Alberto; Storace Marco",
+      "author_ids": "57200266678;57200399832;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Lodi M.",
+      "keywords": null,
+      "abstract": "This paper surveys nonlinear inductance models for saturating ferrite-core inductors working in switch-mode power supplies (SMPSs). The use of saturating inductors allows for SMPS weight and size reduction, without compromising safety and performance. All surveyed models are described with a common formulation and pros and cons of each of them are highlighted.",
+      "citations": 14,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85071587532",
+      "title": "A Piecewise-Affine Inductance Model for Inductors Working in Nonlinear Region",
+      "doi": "10.1109/SMACD.2019.8795270",
+      "venue": "Smacd 2019 16th International Conference on Synthesis Modeling Analysis and Simulation Methods and Applications to Circuit Design Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": "169-172",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100926610",
+      "authors": "Oliveri Alberto; Lodi Matteo; Storace Marco",
+      "author_ids": "57200399832;57200266678;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Oliveri A.",
+      "keywords": null,
+      "abstract": "In this paper a piecewise-affine (PWA) power-Ioss-dependent inductance behavioral model is proposed, for ferrite-core inductors used in switch-mode power supplies (SMPSs). The model expresses the inductance as a function of easily measurable quantities. The PWA formulation leads to a faster computation with respect to the arctangent models available in the literature and allows analytically computing the inductor current based on its voltage. The model is validated through experimental measurements on a buck converter, showing a reliable prediction of the steady-state inductor current, under different SMPS working conditions.",
+      "citations": 12,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85064392033",
+      "title": "A power-loss-dependent inductance model for ferrite-core power inductors in switch-mode power supplies",
+      "doi": "10.1109/TCSI.2018.2889856",
+      "venue": "IEEE Transactions on Circuits and Systems I Regular Papers",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "66",
+      "issue_id": "6",
+      "pages": "2394-2402",
+      "issn": "15498328",
+      "eIssn": "15580806",
+      "source_id": "11000153733",
+      "authors": "Oliveri Alberto; Di Capua Giulia; Stoyka Kateryna; Lodi Matteo; Storace Marco; Femia Nicola",
+      "author_ids": "57200399832;36559098800;56997468600;57200266678;7004134087;7003881642",
+      "authorAffiliationIds": "60025153;60007061;60007061;60025153;60025153;60007061",
+      "corresponding": "Oliveri A.",
+      "keywords": "Behavioral nonlinear model | high power density | magnetic saturation | power loss",
+      "abstract": "This paper proposes a new modeling approach for ferrite-core (FC) power inductors used in switch-mode power supplies (SMPSs). In particular, a novel power-loss-dependent inductance behavioral model is proposed, whose parameters can be identified through a limited set of proper experimental measurements of inductor current and voltage. Unlike conventional thermal modeling approaches, which require information on core temperature, the proposed behavioral model relies only on easily measurable quantities. The model is also suitable for being implemented in circuit simulators. By comparing PSIM simulations and experimental measurements on a buck converter for commercial FC inductors, we show that the model allows a reliable prediction of the steady-state inductor current, under different SMPS working conditions.",
+      "citations": 43,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 92,
+              "rank": 28,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": null,
+              "percentile": 84,
+              "rank": 105,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85066800398",
+      "title": "A toolchain for open-loop compensation of hysteresis and creep in atomic force microscopes",
+      "doi": "10.1109/ISCAS.2019.8702537",
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": "2019-May",
+      "issue_id": null,
+      "pages": null,
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Oliveri Alberto; Raiteri Roberto; Lodi Matteo; Storace Marco",
+      "author_ids": "57200399832;7005989160;57200266678;7004134087",
+      "authorAffiliationIds": "60121711;60121711-60021199;60121711;60121711",
+      "corresponding": "Oliveri A.",
+      "keywords": null,
+      "abstract": "Any Atomic Force Microscope (AFM) scanner based on piezoelectric ceramics is affected by nonlinear distortions, mainly due to rate-independent hysteresis and rate-dependent creep, two different phenomena often referred to, collectively, as rate-dependent hysteresis. To compensate for these distortions, especially in old or cheap instruments, empirical open-loop compensation techniques are frequently adopted. In this paper, a complete hardware/software toolchain is proposed, for data acquisition, identification of hysteresis and creep models, and real-time open-loop compensation of rate-dependent hysteresis in AFM scanners.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 42,
+              "rank": 388,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85066794294",
+      "title": "A nonlinear inductance model able to reproduce thermal transient in SMPS simulations",
+      "doi": "10.1109/ISCAS.2019.8702418",
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": "2019-May",
+      "issue_id": null,
+      "pages": null,
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Bizzarri Federico; Lodi Matteo; Oliveri Alberto; Brambilla Angelo; Storace Marco",
+      "author_ids": "15734590800;57200266678;57200399832;7103297302;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153;60023256;60025153",
+      "corresponding": "Bizzarri F.",
+      "keywords": null,
+      "abstract": "More compact Switched-Mode Power Supplies (SMPSs) satisfying the overall design specifications can be obtained by exploiting ferrite core inductors working in partial saturation. In this case, the inductance is no longer a constant parameter, since it exhibits a sharp drop as the inductor current increases. A behavioral model has been recently proposed, which provides the inductance at steady state. In this paper, a generalization of this model is presented, in order to capture the inductance behavior also during the thermal transient. The model inputs are the the inductor current and the SMPS load current, both measurable quantities. The model fitting to experimental measurements relies on accurate SMPS simulations performed with the envelope analysis method, particularly suitable for fast-slow systems. The simulations are also used to validate the model reliability, through comparisons with the experimental results on a boost converter.",
+      "citations": 19,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 42,
+              "rank": 388,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85066782661",
+      "title": "Digital architecture to realize programmable central pattern generators producing multiple gaits",
+      "doi": "10.1109/ISCAS.2019.8702635",
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": "2019-May",
+      "issue_id": null,
+      "pages": null,
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Lodi Matteo; Shilnikov Andrey; Storace Marco",
+      "author_ids": "57200266678;6602635628;7004134087",
+      "authorAffiliationIds": "60025153;60012387;60025153",
+      "corresponding": "Lodi M.",
+      "keywords": null,
+      "abstract": "We propose and discuss a digital architecture suitable for hardware implementation of multifunctional neural networks to regulate several gaits for quadruped locomotion. These circuits have a far-reaching application for various bioinspired robotics and synthetic prosthetics. The circuit is tested by implementing an 8-cell network proposed and analyzed here for the first time, whose robustness is checked with respect to parameter mismatching.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 42,
+              "rank": 388,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85029740926",
+      "title": "Application of a low-cost piezoelectric displacement estimation technique based on laser interferometry for hysteresis open-loop compensation in an AFM scanner",
+      "doi": "10.1016/j.physb.2017.09.067",
+      "venue": "Physica B Condensed Matter",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "549",
+      "issue_id": null,
+      "pages": "43-46",
+      "issn": "09214526",
+      "eIssn": null,
+      "source_id": "29118",
+      "authors": "Oliveri Alberto; Lodi Matteo; Storace Marco; Raiteri Roberto",
+      "author_ids": "57200399832;57200266678;7004134087;7005989160",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153-60021199",
+      "corresponding": "Oliveri A.",
+      "keywords": "AFM | Hysteresis | Interferometry",
+      "abstract": "In this paper an open-loop actuation strategy based on a Prandtl-Ishlinskii hysteresis model is applied to a commercial atomic force microscope, equipped with an open-loop piezoelectric tube scanner. Estimates of the scanner vertical displacement, necessary to train the model, are obtained by exploiting the interference pattern generated by the laser beam used in the instrument to sense the cantilever deflection. Experimental results show that the undesired hysteresis effects are drastically reduced.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 69,
+              "rank": 304,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Condensed Matter Physics",
+              "percentile": 66,
+              "rank": 152,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 62,
+              "rank": 117,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 61,
+              "rank": 261,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Condensed Matter Physics",
+              "percentile": 52,
+              "rank": 191,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electronic, Optical and Magnetic Materials",
+              "percentile": 51,
+              "rank": 110,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85032723969",
+      "title": "Model Reduction for Optimized Online Compensation of Hysteresis and Creep in Piezoelectric Actuators",
+      "doi": "10.1109/TCSII.2017.2767287",
+      "venue": "IEEE Transactions on Circuits and Systems II Express Briefs",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "65",
+      "issue_id": "11",
+      "pages": "1748-1752",
+      "issn": "15497747",
+      "eIssn": "15583791",
+      "source_id": "9500153930",
+      "authors": "Oliveri Alberto; Lodi Matteo; Parodi Mauro; Stellino Flavio; Storace Marco",
+      "author_ids": "57200399832;57200266678;35508934400;56613350900;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Oliveri A.",
+      "keywords": "Hysteresis and creep model | open-loop compensation | parameters identification | piezoelectric actuators",
+      "abstract": "In this brief, a strategy is proposed for the identification, starting from experimental measurements on piezoelectric actuators, of all the parameters of the recently proposed power-law hysteresis and creep model. The algorithm allows trading off modeling accuracy and speed of the inverse model (compensator) implemented in a digital device. An analysis of the relationships among parameters and their effects on modeling and circuit performances is also carried out. The proposed strategy is tested on two piezoelectric actuators, showing that the obtained models are able to fulfill the circuit specifications.",
+      "citations": 13,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 90,
+              "rank": 97,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 79,
+              "rank": 137,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85052508662",
+      "title": "Accurate Modeling of Inductors Working in Nonlinear Region in Switch-Mode Power Supplies with Different Load Currents",
+      "doi": "10.1109/SMACD.2018.8434871",
+      "venue": "Smacd 2018 15th International Conference on Synthesis Modeling Analysis and Simulation Methods and Applications to Circuit Design",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": null,
+      "issue_id": null,
+      "pages": "233-236",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100875437",
+      "authors": "Oliveri Alberto; Lodi Matteo; Storace Marco",
+      "author_ids": "57200399832;57200266678;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Oliveri A.",
+      "keywords": null,
+      "abstract": "In this paper a nonlinear model is proposed to characterize ferrite-core inductors operating in saturation region in Switch-Mode Power Supplies (SMPSs). The model, identified through experimental measurements of inductor current and voltage, relates the inductance to the current flowing through the inductor and also to the SMPS load current. Results show that the model allows reproducing the inductor current with high accuracy, in different working conditions.",
+      "citations": 23,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85057107170",
+      "title": "Modeling and compensation of hysteresis and creep: The HysTool toolbox",
+      "doi": "10.1109/ISCAS.2018.8351866",
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": "2018-May",
+      "issue_id": null,
+      "pages": null,
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Oliveri Alberto; Lodi Matteo; Stellino Flavio; Storace Marco",
+      "author_ids": "57200399832;57200266678;56613350900;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Oliveri A.",
+      "keywords": null,
+      "abstract": "This paper describes the MATLAB toolbox HysTool for the identification from experimental measurements and the simulation of four different hysteresis and creep models (Preisach, Prandtl-Ishlinskii, Kuhnen and power-law). The toolbox can automatically generate the inverse models (compensators) and also provide (for three out of four models) the C files for their microcontroller implementation. Tests on two different datasets are provided.",
+      "citations": 3,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 42,
+              "rank": 382,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85057090066",
+      "title": "Design of Minimal Synthetic Circuits with Sensory Feedback for Quadruped Locomotion",
+      "doi": "10.1109/ISCAS.2018.8351015",
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": "2018-May",
+      "issue_id": null,
+      "pages": null,
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Lodi Matteo; Shilnikov Andrey; Storace Marco",
+      "author_ids": "57200266678;6602635628;7004134087",
+      "authorAffiliationIds": "60025153;60012387;60025153",
+      "corresponding": "Lodi M.",
+      "keywords": null,
+      "abstract": "This paper discusses practical approaches for designing reduced synthetic circuits of central pattern generators (CPGs) for quadruped locomotion using our newly developed bifurcation toolkit. Specifically, two CPGs containing only four elements (cells) are proposed that can reliably generate natural gaits of typical quadrupeds more effectively than large dedicated complex networks do. In addition, we analyze an enhanced locomotion system that incorporates a neuromechanical model for each leg and includes mechanisms of sensory feedback. We demonstrate how the proposed CPGs produce the desired gaits, which remain robust with respect to external perturbations.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 42,
+              "rank": 382,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85032454621",
+      "title": "Design of Synthetic Central Pattern Generators Producing Desired Quadruped Gaits",
+      "doi": "10.1109/TCSI.2017.2759320",
+      "venue": "IEEE Transactions on Circuits and Systems I Regular Papers",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "65",
+      "issue_id": "3",
+      "pages": "1028-1039",
+      "issn": "15498328",
+      "eIssn": "15580806",
+      "source_id": "11000153733",
+      "authors": "Lodi Matteo; Shilnikov Andrey; Storace Marco",
+      "author_ids": "57200266678;6602635628;7004134087",
+      "authorAffiliationIds": "60025153;60012387;60025153",
+      "corresponding": "Lodi M.",
+      "keywords": "bifurcation analysis | Central pattern generators | dynamical systems",
+      "abstract": "This paper is concerned with a method for design and analysis of specific neuronal networks, called central pattern generators (CPGs), which produce primary rhythmic patterns in animals. In particular, the paper is focused on synthetic CPGs made up of few basic elements and governing quadrupeds' gaits and gait transitions, under the control of an external drive. The method combines the principles of bifurcation theory, geometric properties of symmetry, and numerical analysis based on the recently proposed toolbox CEPAGE. The method is applied to two CPGs, one bio-inspired and one purely synthetic. In both the cases, the method provides a way to obtain a desired sequence of gaits by continuously changing a bifurcation parameter related to the external drive.",
+      "citations": 16,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Engineering (all)",
+              "percentile": 92,
+              "rank": 28,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": null,
+              "percentile": 87,
+              "rank": 87,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85039915128",
+      "title": "High-speed explicit nonlinear model predictive control",
+      "doi": "10.1109/ECCTD.2017.8093239",
+      "venue": "2017 European Conference on Circuit Theory and Design Ecctd 2017",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100844807",
+      "authors": "Oliveri Alberto; Lodi Matteo; Storace Marco",
+      "author_ids": "57200399832;57200266678;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Oliveri A.",
+      "keywords": null,
+      "abstract": "In this paper a circuit-oriented approximate solution to an explicit nonlinear Model Predictive Control (NMPC) problem is proposed, based on piecewise-affine functions defined over simplicial domain partitions. The resulting controller is suitable for circuit implementation in programmable devices, such as microcontrollers or FPGA, enabling the application of NMPC to systems with low sampling times. The proposed approach is validated through hardware-in-the-loop simulations.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85034417836",
+      "title": "A low-cost free-space optical communication prototype",
+      "doi": "10.1109/NGCAS.2017.20",
+      "venue": "Proceedings 2017 1st New Generation of CAS Ngcas 2017",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": null,
+      "issue_id": null,
+      "pages": "153-156",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100838549",
+      "authors": "Oliveri Alberto; Lodi Matteo",
+      "author_ids": "57200399832;57200266678",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Oliveri A.",
+      "keywords": "Microcontroller | Prototype | Underwater optical communication",
+      "abstract": "In this paper a prototype of a free-space optical communication system is proposed. The transmitter is equipped with a blue 1W LED and a low-cost microcontroller implementing a digital modulation scheme. The receiver converts the incoming light into a current through a photodiode and another identical microcontroller is employed to demodulate and decode the signal, after proper analog amplification and filtering. The system is thought to be used underwater for communication, e.g., between an autonomous underwater vehicle and a buoy. Preliminary results in air are shown to validate the functioning of the system with different values of solar illuminance.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85032690058",
+      "title": "CEPAGE: A toolbox for Central Pattern Generator analysis",
+      "doi": "10.1109/ISCAS.2017.8050580",
+      "venue": "Proceedings IEEE International Symposium on Circuits and Systems",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "02714310",
+      "eIssn": null,
+      "source_id": "56190",
+      "authors": "Lodi Matteo; Shilnikov Andrey; Storace Marco",
+      "author_ids": "57200266678;6602635628;7004134087",
+      "authorAffiliationIds": "60025153;60012387;60025153",
+      "corresponding": "Lodi M.",
+      "keywords": null,
+      "abstract": "This paper is focused on a new object-oriented toolbox, called CEPAGE, devoted to simulation and analysis of Central Pattern Generators (CPGs). A CPG is a little group of neurons producing periodical patterns, which control rhythmic activities of animals. CEPAGE is conceived to carry out brute-force bifurcation analysis, but can also generate data for subsequent continuation analysis through other widely-used packages, such as AUTO or MATCONT. Two case studies are considered, with three and four neurons, with the twofold purpose of illustrating the main CEPAGE functionalities and provide new analysis results.",
+      "citations": 11,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 34,
+              "rank": 652,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 45,
+              "rank": 366,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85027492656",
+      "title": "Low-cost acquisition method for on-line inductor characterization in switched power converters",
+      "doi": "10.1109/SMACD.2017.7981617",
+      "venue": "Smacd 2017 14th International Conference on Synthesis Modeling Analysis and Simulation Methods and Applications to Circuit Design",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100827202",
+      "authors": "Lodi Matteo; Oliveri Alberto; Storace Marco",
+      "author_ids": "57200266678;57200399832;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Lodi M.",
+      "keywords": null,
+      "abstract": "This paper presents a low-cost method for online monitoring the inductor behavior in a switch-mode power converter. The method exploits the embedded electronics already available for the converter control, typically a microcontroller. By properly sampling the inductor voltage and current, the method allows estimating on-line the inductor's ripple and mean current, power-consumption and inductance, which is of great practical importance when ferrite-core inductors are employed in partial saturation. The method is validated on a boost converter.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85027491880",
+      "title": "Ferrite inductor models for switch-mode power supplies analysis and design",
+      "doi": "10.1109/SMACD.2017.7981622",
+      "venue": "Smacd 2017 14th International Conference on Synthesis Modeling Analysis and Simulation Methods and Applications to Circuit Design",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100827202",
+      "authors": "Di Capua G.; Femia N.; Stoyka K.; Lodi M.; Oliveri A.; Storace M.",
+      "author_ids": "36559098800;7003881642;56997468600;57200266678;57200399832;7004134087",
+      "authorAffiliationIds": "60007061;60007061;60007061;60025153;60025153;60025153",
+      "corresponding": "Di Capua G.",
+      "keywords": "Inductors | Saturation | Switch-Mode Power Supplies",
+      "abstract": "This paper discusses some models useful to analyze ferrite inductors operating in partial saturation in Switch-Mode Power Supplies (SMPSs). Inductance vs current curves are needed to assess if the level of saturation is sustainable for the inductor, in order to achieve SMPS volume reduction. The models discussed in the paper are generated from experimental voltage and current waveforms of the inductor in SMPSs. Two dual approaches are presented, based on the local and global characterization of the inductor under small- and large-amplitude current ripple conditions. The resulting curves provide inductor current prediction in agreement with experimental data.",
+      "citations": 27,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84892652601",
+      "title": "Design and circuit implementation of approximate switched MPC",
+      "doi": "10.1109/ecctd.2013.6662329",
+      "venue": "2013 European Conference on Circuit Theory and Design Ecctd 2013 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2013,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100997143",
+      "authors": "Oliveri A.; Lodi M.; Storace M.",
+      "author_ids": "57200399832;57200266678;7004134087",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Oliveri A.",
+      "keywords": null,
+      "abstract": "This paper proposes a novel method for design and circuit implementation of approximate controllers for constrained hybrid or piecewise affine (PWA) systems, through switched model predictive control technique. The PWA solution (discontinuous, in general) provided by this method is approximated by another PWA function composed of continuous patches defined over regular simplices. Two circuit architectures for the implementation of this approximate controller are proposed, which allow achieving reduced complexity and shorter latency, with respect to the circuits implementing the exact controller. This makes it possible the control of systems with smaller sampling times. The performances of the approximate controller are shown through hardware-in-the-loop testings of the closed-loop system. © 2013 TU Dresden.",
+      "citations": 2,
+      "quartile": null
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1266676",
+      "authors": "Lodi, M.; Oliveri, A.; Saviozzi, M.; Conte, F.; Baggi, P.",
+      "legacy_id": 663249,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "Low-Level Simulation of a Grid-Following Inverter with Synthetic Inertia",
+      "scopus_id": "2-s2.0-105012573490",
+      "doi": "10.1109/AEITHVDC66044.2025.11079533",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1248957",
+      "authors": "Ravera, Alessandro; Oliveri, Alberto; Lodi, Matteo; Storace, Marco",
+      "legacy_id": 640686,
+      "year": 2025,
+      "miur_type": "262",
+      "title": "FPGA Implementation of Nonlinear Model Predictive Control for a Boost Converter with a Partially Saturating Inductor",
+      "scopus_id": "2-s2.0-86000650676",
+      "doi": "10.3390/electronics14050941",
+      "isi_id": "WOS:001443463900001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1160997",
+      "authors": "Baruzzi, V.; Lodi, M.; Storace, M.",
+      "legacy_id": 528655,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Optimization strategies to obtain smooth gait transitions through biologically plausible central pattern generators",
+      "scopus_id": "2-s2.0-85183455819",
+      "doi": "10.1103/PhysRevE.109.014404",
+      "isi_id": "WOS:001156776000005",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1208999",
+      "authors": "Ravera, Alessandro; Oliveri, Alberto; Lodi, Matteo; Beatrice, Cinzia; Ferrara, Enzo; Fiorillo, Fausto; Storace, Marco",
+      "legacy_id": 585152,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Modeling Amorphous-core Inductors up to Magnetic Saturation",
+      "scopus_id": "2-s2.0-85204943092",
+      "doi": "10.1109/TPEL.2024.3463803",
+      "isi_id": "WOS:001366261900011",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1156361",
+      "authors": "Bonfiglio, Andrea; Lodi, Matteo; Rosini, Alessandro; Oliveri, Alberto; Procopio, Renato",
+      "legacy_id": 521367,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Design, realization and testing of a synthetic inertia controller for wind turbine power generators",
+      "scopus_id": "2-s2.0-85183574846",
+      "doi": "10.1016/j.segan.2023.101234",
+      "isi_id": "WOS:001138557800001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "6",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220661",
+      "dc.identifier.pmid": "39424789",
+      "authors": "Nazerian, Amirhossein; Hart, Joseph D.; Lodi, Matteo; Sorrentino, Francesco",
+      "legacy_id": 599264,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "The efficiency of synchronization dynamics and the role of network syncreactivity",
+      "scopus_id": "2-s2.0-85206872910",
+      "doi": "10.1038/s41467-024-52486-0",
+      "isi_id": "WOS:001339143700011",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220595",
+      "authors": "Ravera, A.; Formentini, A.; Lodi, M.; Oliveri, A.; Storace, M.",
+      "legacy_id": 599186,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "A nonlinear model of air-gapped ferrite-core inductors for SMPS applications",
+      "scopus_id": "2-s2.0-85198514654",
+      "doi": "10.1109/ISCAS58744.2024.10558476",
+      "isi_id": "WOS:001268541103057",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1214215",
+      "authors": "Lodi, Matteo; Panahi, Shirin; Sorrentino, Francesco; Torcini, Alessandro; Storace, Marco",
+      "legacy_id": 591706,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Patterns of synchronized clusters in adaptive networks",
+      "scopus_id": "2-s2.0-85196480826",
+      "doi": "10.1038/s42005-024-01688-5",
+      "isi_id": "WOS:001251213100001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "6",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1208998",
+      "authors": "Ravera, Alessandro; Formentini, Andrea; Lodi, Matteo; Oliveri, Alberto; Passalacqua, Massimiliano; Storace, Marco",
+      "legacy_id": 585151,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Modeling the Effect of Air-Gap Length and Number of Turns on Ferrite-Core Inductors Working up to Magnetic Saturation in a Buck Converter",
+      "scopus_id": "2-s2.0-85204943069",
+      "doi": "10.1109/TCSI.2024.3421261",
+      "isi_id": "WOS:001266925700001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1112456",
+      "authors": "Lodi, Matteo; Forti, Mauro; Storace, Marco",
+      "legacy_id": 462536,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Stability analysis of the synchronous solution in arrays of memristive Chua’s circuits",
+      "scopus_id": "2-s2.0-85151544305",
+      "doi": "10.1109/TCSII.2023.3259008",
+      "isi_id": "WOS:000988497300006",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1141615",
+      "authors": "Firpo, P.; Ravera, A.; Oliveri, A.; Lodi, M.; Storace, M.",
+      "legacy_id": 501770,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Use of a Partially Saturating Inductor in a Boost Converter with Model Predictive Control",
+      "scopus_id": "2-s2.0-85166222674",
+      "doi": "10.3390/electronics12143013",
+      "isi_id": "WOS:001038069500001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1098096",
+      "authors": "Ravera, A.; Baruzzi, V.; Lodi, M.; Oliveri, A.; Storace, M.",
+      "legacy_id": 439243,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Embedded Implementation of an Algorithm for Online Inertia Estimation in Power Grids",
+      "scopus_id": "2-s2.0-85137974665",
+      "doi": "10.1007/978-3-031-16281-7_9",
+      "isi_id": "WOS:000871881800009",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220617",
+      "authors": "Ravera, Alessandro; Oliveri, Alberto; Lodi, Matteo; Storace, Marco",
+      "legacy_id": 599207,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "A nonlinear behavioral model of a ferrite-core inductor with fixed-frequency sinusoidal voltage input",
+      "scopus_id": "2-s2.0-85166236237",
+      "doi": "10.1109/eurocon56442.2023.10199021",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1157418",
+      "dc.identifier.pmid": "38104227",
+      "authors": "Baruzzi, Valentina; Lodi, Matteo; Sorrentino, Francesco; Storace, Marco",
+      "legacy_id": 523133,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Bridging functional and anatomical neural connectivity through cluster synchronization",
+      "scopus_id": "2-s2.0-85179978424",
+      "doi": "10.1038/s41598-023-49746-2",
+      "isi_id": "WOS:001130510400004",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1220596",
+      "authors": "Ravera, A.; Oliveri, A.; Lodi, M.; Storace, M.",
+      "legacy_id": 599169,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "MADS-based fast FPGA implementation of nonlinear model predictive control",
+      "scopus_id": "2-s2.0-85166261084",
+      "doi": "10.1109/ISCAS46773.2023.10181647",
+      "isi_id": "WOS:001038214601054",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1110157",
+      "authors": "Ravera, Alessandro; Oliveri, Alberto; Lodi, Matteo; Bemporad, Alberto; Heemels, W. P. M. H.; Kerrigan, Eric C.; Storace, Marco",
+      "legacy_id": 459313,
+      "year": 2023,
+      "miur_type": "262",
+      "title": "Co-Design of a Controller and Its Digital Implementation: The MOBY-DIC2 Toolbox for Embedded Model Predictive Control",
+      "scopus_id": "2-s2.0-85151336066",
+      "doi": "10.1109/TCST.2023.3254133",
+      "isi_id": "WOS:000953402000001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1087228",
+      "authors": "Lodi, Matteo; Sorrentino, Francesco; Storace, Marco",
+      "legacy_id": 425518,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Forget partitions? Not yet ...",
+      "scopus_id": "2-s2.0-85142479468",
+      "doi": "10.1109/ISCAS48785.2022.9937604",
+      "isi_id": "WOS:000946638601156",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1102431",
+      "authors": "Panahi, Shirin; Lodi, Matteo; Storace, Marco; Sorrentino, Francesco",
+      "legacy_id": 445753,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Pinning control of networks: Dimensionality reduction through simultaneous block-diagonalization of matrices",
+      "scopus_id": "2-s2.0-85143184341",
+      "doi": "10.1063/5.0090095",
+      "isi_id": "WOS:000882630900008",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1061651",
+      "authors": "Oliveri, A.; Lodi, M.; Storace, M.",
+      "legacy_id": 396307,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Nonlinear models of power inductors: A survey",
+      "scopus_id": "2-s2.0-85116803994",
+      "doi": "10.1002/cta.3147",
+      "isi_id": "WOS:000705960100001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "25",
+      "citations_scopus": "35"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1087226",
+      "authors": "Oliveri, Alberto; Lodi, Matteo; Beatrice, Cinzia; Ferrara, Enzo; Storace, Marco; Fiorillo, Fausto",
+      "legacy_id": 425516,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Behavioral model of an amorphous-core inductor working up to partial saturation",
+      "scopus_id": "2-s2.0-85142507089",
+      "doi": "10.1109/ISCAS48785.2022.9937208",
+      "isi_id": "WOS:000946638601154",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "4",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1087224",
+      "authors": "Baruzzi, Valentina; Lodi, Matteo; Oliveri, Alberto; Storace, Marco",
+      "legacy_id": 425513,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Estimation of inertia in power grids with turbine governors",
+      "scopus_id": "2-s2.0-85133619628",
+      "doi": "10.1109/ISCAS48785.2022.9937504",
+      "isi_id": "WOS:000946638601005",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076661",
+      "authors": "Baruzzi, V.; Lodi, M.; Oliveri, A.; Storace, M.",
+      "legacy_id": 413899,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "Analysis and improvement of an algorithm for the online inertia estimation in power grids with RES",
+      "scopus_id": "2-s2.0-85109025103",
+      "doi": "10.1109/ISCAS51556.2021.9401229",
+      "isi_id": "WOS:000696765400175",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "8",
+      "citations_scopus": "13"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1061647",
+      "dc.identifier.pmid": "34210969",
+      "authors": "Lodi, M.; Sorrentino, F.; Storace, M.",
+      "legacy_id": 396304,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "One-way dependent clusters and stability of cluster synchronization in directed networks",
+      "scopus_id": "2-s2.0-85109152543",
+      "doi": "10.1038/s41467-021-24363-7",
+      "isi_id": "WOS:000687328900016",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "31",
+      "citations_scopus": "32"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076657",
+      "dc.identifier.pmid": "35030894",
+      "authors": "Baruzzi, V.; Lodi, M.; Storace, M.; Shilnikov, A.",
+      "legacy_id": 413896,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "Towards more biologically plausible central-pattern-generator models",
+      "scopus_id": "2-s2.0-85121654542",
+      "doi": "10.1103/PhysRevE.104.064405",
+      "isi_id": "WOS:000744213000005",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1036192",
+      "dc.identifier.pmid": "32455693",
+      "authors": "Lodi, M.; Oliveri, A.",
+      "legacy_id": 367660,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Online estimation of the current ripple on a saturating Ferrite-core inductor in a boost converter",
+      "scopus_id": "2-s2.0-85085270959",
+      "doi": "10.3390/s20102921",
+      "isi_id": "WOS:000539323700175",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/985081",
+      "dc.identifier.pmid": "31722491",
+      "authors": "Lodi, Matteo; Andrey, Shilnikov; Storace, Marco",
+      "legacy_id": 308396,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Design principles for central pattern generators with preset rhythms",
+      "scopus_id": "2-s2.0-85087102389",
+      "doi": "10.1109/TNNLS.2019.2945637",
+      "isi_id": "WOS:000566342500040",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "28",
+      "citations_scopus": "37"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076663",
+      "authors": "Lodi, M; Della Rossa, F; Sorrentino, F; Storace, M",
+      "legacy_id": 413905,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "An algorithm for finding equitable clusters in multi-layer networks",
+      "scopus_id": "2-s2.0-85091795172",
+      "doi": "10.1109/ISCAS45731.2020.9181112",
+      "isi_id": "WOS:000706854700294",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076665",
+      "authors": "Lodi, M.; Oliveri, A.; Storace, M.",
+      "legacy_id": 413907,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "Effects of parameter variation on the accuracy of a nonlinear inductor model for switch-mode power supplies applications",
+      "scopus_id": "2-s2.0-85109258762",
+      "doi": "10.1109/ISCAS45731.2020.9180518",
+      "isi_id": "WOS:000696570700131",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1005205",
+      "authors": "Lodi, Matteo; Bizzarri, Federico; Linaro, Daniele; Oliveri, Alberto; Brambilla, Angelo; Storace, Marco",
+      "legacy_id": 331510,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "A Nonlinear Behavioral Ferrite-Core Inductance Model Able to Reproduce Thermal Transients in Switch-Mode Power Supplies",
+      "scopus_id": "2-s2.0-85082883785",
+      "doi": "10.1109/TCSI.2020.2965645",
+      "isi_id": "WOS:000522984300017",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "10",
+      "citations_scopus": "14"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1034729",
+      "dc.identifier.pmid": "33004897",
+      "authors": "Lodi, M.; Della Rossa, F.; Sorrentino, F.; Storace, M.",
+      "legacy_id": 365949,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Analyzing synchronized clusters in neuron networks",
+      "scopus_id": "2-s2.0-85091735733",
+      "doi": "10.1038/s41598-020-73269-9",
+      "isi_id": "WOS:000577143400099",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "30",
+      "citations_scopus": "28"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1034731",
+      "authors": "Nathe, C.; Huang, K.; Lodi, M.; Storace, M.; Sorrentino, F.",
+      "legacy_id": 365953,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Delays induced cluster synchronization in chaotic networks",
+      "scopus_id": "2-s2.0-85097445752",
+      "doi": "10.1063/5.0030720",
+      "isi_id": "WOS:000597316000002",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1034725",
+      "dc.identifier.pmid": "33075913",
+      "authors": "Baruzzi, V.; Lodi, M.; Storace, M.; Shilnikov, A.",
+      "legacy_id": 365947,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Generalized half-center oscillators with short-term synaptic plasticity",
+      "scopus_id": "2-s2.0-85093911265",
+      "doi": "10.1103/PhysRevE.102.032406",
+      "isi_id": "WOS:000570175000011",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "10",
+      "citations_scopus": "11"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/933568",
+      "authors": "Oliveri, A.; Maselli, M.; Lodi, M.; Storace, M.; Cianchetti, M.",
+      "legacy_id": 249996,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Model-based compensation of rate-dependent hysteresis in a piezoresistive strain sensor",
+      "scopus_id": "2-s2.0-85058153566",
+      "doi": "10.1109/TIE.2018.2884204",
+      "isi_id": "WOS:000470829100072",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "41",
+      "citations_scopus": "41"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1005207",
+      "authors": "Lodi, Matteo; Oliveri, Alberto; Storace, Marco",
+      "legacy_id": 331512,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "A low-cost online estimator for switch-mode power supplies with saturating ferrite-core inductors",
+      "scopus_id": "2-s2.0-85079166716",
+      "doi": "10.1109/ICECS46596.2019.8964684",
+      "isi_id": "WOS:000534573400222",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "4",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/973928",
+      "authors": "Lodi, Matteo; Oliveri, Alberto; Storace, Marco",
+      "legacy_id": 295541,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Behavioral models for ferrite-core inductors in switch-mode DC-DC power supplies: a survey",
+      "scopus_id": "2-s2.0-85075639485",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "14"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/947702",
+      "authors": "Bizzarri, Federico; Lodi, M.; Oliveri, A.; Brambilla, A.; Storace, M.",
+      "legacy_id": 266932,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "A nonlinear inductance model able to reproduce thermal transient in SMPS simulations",
+      "scopus_id": "2-s2.0-85066794294",
+      "doi": "10.1109/ISCAS.2019.8702418",
+      "isi_id": "WOS:000483076401096",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "5",
+      "citations_scopus": "19"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/947704",
+      "authors": "Oliveri, A.; Raiteri, R.; Lodi, M.; Storace, M.",
+      "legacy_id": 266934,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "A toolchain for open-loop compensation of hysteresis and creep in atomic force microscopes",
+      "scopus_id": "2-s2.0-85066800398",
+      "doi": "10.1109/ISCAS.2019.8702537",
+      "isi_id": "WOS:000483076402005",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/944845",
+      "authors": "Lodi, Matteo",
+      "ssd": "Settore ING-INF/06 - Bioingegneria Elettronica e Informatica",
+      "legacy_id": 263610,
+      "year": 2019,
+      "miur_type": "-2",
+      "title": "Analisi e sintesi di Central Pattern Generator",
+      "doi": "10.15167/lodi-matteo_phd2019-05-15",
+      "type": "Tesi di dottorato"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/947700",
+      "authors": "Oliveri, A.; Di Capua, G.; Stoyka, K.; Lodi, M.; Storace, M.; Femia, N.",
+      "legacy_id": 266930,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "A power-loss-dependent inductance model for ferrite-core power inductors in switch-mode power supplies",
+      "scopus_id": "2-s2.0-85064392033",
+      "doi": "10.1109/TCSI.2018.2889856",
+      "isi_id": "WOS:000468242600036",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "34",
+      "citations_scopus": "43"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/973971",
+      "authors": "Oliveri, Alberto; Lodi, Matteo; Storace, Marco",
+      "legacy_id": 295583,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "A Piecewise-Affine Inductance Model for Inductors Working in Nonlinear Region",
+      "scopus_id": "2-s2.0-85071587532",
+      "doi": "10.1109/SMACD.2019.8795270",
+      "isi_id": "WOS:000503265100043",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "10",
+      "citations_scopus": "12"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/973936",
+      "authors": "Lodi, Matteo; Oliveri, Alberto; Storace, Marco",
+      "legacy_id": 295551,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Pareto-optimal selection of saturating inductors in the design of Switch-Mode Power Supplies",
+      "scopus_id": "2-s2.0-85076670272",
+      "isi_id": "WOS:000515073404014",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1005209",
+      "authors": "Ravera, Alessandro; Oliveri, Alberto; Lodi, Matteo; Storace, Marco",
+      "legacy_id": 331514,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Embedded linear model predictive control through mesh adaptive direct search algorithm",
+      "scopus_id": "2-s2.0-85079170519",
+      "doi": "10.1109/ICECS46596.2019.8964821",
+      "isi_id": "WOS:000534573400145",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "3",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/890560",
+      "authors": "Lodi, Matteo; Andrey, Shilnikov; Storace, Marco",
+      "legacy_id": 202567,
+      "year": 2018,
+      "miur_type": "262",
+      "title": "Design of Synthetic Central Pattern Generators Producing Desired Quadruped Gaits",
+      "scopus_id": "2-s2.0-85032454621",
+      "doi": "10.1109/TCSI.2017.2759320",
+      "isi_id": "WOS:000425665800017",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "14",
+      "citations_scopus": "16"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/890566",
+      "authors": "Oliveri, Alberto; Lodi, Matteo; Parodi, Mauro; Stellino, Flavio; Storace, Marco",
+      "legacy_id": 202576,
+      "year": 2018,
+      "miur_type": "262",
+      "title": "Model reduction for optimized online compensation of hysteresis and creep in piezoelectric actuators",
+      "scopus_id": "2-s2.0-85032723969",
+      "doi": "10.1109/TCSII.2017.2767287",
+      "isi_id": "WOS:000448935400052",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "12",
+      "citations_scopus": "13"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/890554",
+      "authors": "Oliveri, Alberto; Lodi, Matteo; Storace, Marco; Raiteri, Roberto",
+      "legacy_id": 202559,
+      "year": 2018,
+      "miur_type": "262",
+      "title": "Application of a low-cost piezoelectric displacement estimation technique based on laser interferometry for hysteresis open-loop compensation in an AFM scanner",
+      "scopus_id": "2-s2.0-85029740926",
+      "doi": "10.1016/j.physb.2017.09.067",
+      "isi_id": "WOS:000452277400009",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/921993",
+      "authors": "Oliveri, Alberto; Lodi, Matteo; Storace, Marco",
+      "legacy_id": 236892,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Accurate Modeling of Inductors Working in Nonlinear Region in Switch-Mode Power Supplies with Different Load Currents",
+      "scopus_id": "2-s2.0-85052508662",
+      "doi": "10.1109/SMACD.2018.8434871",
+      "isi_id": "WOS:000526650700059",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "17",
+      "citations_scopus": "23"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/922442",
+      "authors": "Lodi, Matteo; Shilnikov, Andrey; Storace, Marco",
+      "legacy_id": 237559,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Design of Minimal Synthetic Circuits with Sensory Feedback for Quadruped Locomotion",
+      "scopus_id": "2-s2.0-85057090066",
+      "doi": "10.1109/ISCAS.2018.8351015",
+      "isi_id": "WOS:000451218700127",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/922104",
+      "authors": "Oliveri, Alberto; Lodi, Matteo; Stellino, Flavio; Storace, Marco",
+      "legacy_id": 237176,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Modeling and compensation of hysteresis and creep: The HysTool toolbox",
+      "scopus_id": "2-s2.0-85057107170",
+      "doi": "10.1109/ISCAS.2018.8351866",
+      "isi_id": "WOS:000451218704094",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/922244",
+      "authors": "Oliveri, Alberto; Lodi, Matteo",
+      "legacy_id": 237324,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "A Low-Cost Free-Space Optical Communication Prototype",
+      "scopus_id": "2-s2.0-85034417836",
+      "doi": "10.1109/NGCAS.2017.20",
+      "isi_id": "WOS:000426111600039",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/869967",
+      "authors": "Lodi, Matteo; Shilnikov, Andrey; Storace, Marco",
+      "legacy_id": 180062,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "CEPAGE: a toolbox for Central Pattern Generator analysis",
+      "scopus_id": "2-s2.0-85032690058",
+      "doi": "10.1109/ISCAS.2017.8050580",
+      "isi_id": "WOS:000424890101087",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "11"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/890572",
+      "authors": "Oliveri, Alberto; Lodi, Matteo; Storace, Marco",
+      "legacy_id": 202582,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "High-speed explicit nonlinear Model Predictive Control",
+      "scopus_id": "2-s2.0-85039915128",
+      "doi": "10.1109/ECCTD.2017.8093239",
+      "isi_id": "WOS:000426983700020",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/869968",
+      "authors": "Lodi, Matteo; Oliveri, Alberto; Storace, Marco",
+      "legacy_id": 180066,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "Low-cost acquisition method for on-line inductor characterization in switched power converters",
+      "scopus_id": "2-s2.0-85027492656",
+      "doi": "10.1109/SMACD.2017.7981617",
+      "isi_id": "WOS:000463391700062",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "1",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/869969",
+      "authors": "Di Capua, Giulia; Femia, Nicola; Stoyka, Kateryna; Lodi, Matteo; Oliveri, Alberto; Storace, Marco",
+      "legacy_id": 180067,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "Ferrite Inductor Models for Switch-Mode Power Supplies Analysis and Design",
+      "scopus_id": "2-s2.0-85027491880",
+      "doi": "10.1109/SMACD.2017.7981622",
+      "isi_id": "WOS:000463391700067",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "27"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/695370",
+      "authors": "Oliveri, Alberto; Lodi, M.; Storace, Marco",
+      "legacy_id": 101443,
+      "year": 2013,
+      "miur_type": "273",
+      "title": "Design and circuit implementation of approximate switched MPC",
+      "scopus_id": "2-s2.0-84892652601",
+      "doi": "10.1109/ECCTD.2013.6662329",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:16:05.995611"
+}

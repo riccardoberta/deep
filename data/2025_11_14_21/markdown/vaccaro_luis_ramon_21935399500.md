@@ -1,0 +1,1667 @@
+# Vaccaro Luis Ramon
+
+## Overview
+- **Unit:** ELE
+- **Role:** Professore associato
+- **Grade:** Prof.Associato Legge 240/10 - t.pieno - classe 0
+- **SSD:** IIND-08/A (Convertitori, macchine e azionamenti elettrici)
+- **Scopus ID:** 21935399500
+- **UNIGE ID:** 701156
+- **Retrieved at:** 2025-11-14T15:15:15.125951
+
+## Contact
+- **Email:** luis.vaccaro@unige.it
+- **Phone:** 010 33 52180
+- **Page:** https://rubrica.unige.it/personale/UkNGWl9v
+- **Locations:** Opera Pia - padiglione D (ED_161450401), 1° piano, US_161450401.I.027
+
+## Career
+- AR, 2013-03-02 → 2018-09-30
+- CB, 2014-05-30 → 2015-09-18
+- RD, 2018-10-01 → 2024-09-30
+- PA, 2024-10-01 → 2222-02-02
+
+## Responsibilities
+- **Title:** Delegato del Rettore
+  - **Unit:** Università Degli Studi Di Genova
+  - **Period:** 2025-03-20 → 2026-10-31
+
+- **Title:** Membro della Giunta di dipartimento
+  - **Unit:** Dipartimento di ingegneria navale, elettrica, elettronica e delle telecomunicazioni - DITEN
+  - **Period:** 2024-11-01 → 2027-10-31
+
+## Teaching
+### 2025
+- Laboratorio Software E Hardware Per I Sistemi Elettronici Di Potenza (101447), Lm-28 - Ingegneria Elettrica
+- Azionamenti Elettrici (72307), L-9 - Ingegneria Meccanica
+- Azionamenti Elettrici (72307), L-9 - Ingegneria Meccanica
+
+### 2024
+- Laboratorio Software E Hardware Per I Sistemi Elettronici Di Potenza (101447), Lm-28 - Ingegneria Elettrica
+- Azionamenti Elettrici (72307), L-9 - Ingegneria Meccanica
+
+### 2023
+- Laboratorio Software E Hardware Per I Sistemi Elettronici Di Potenza (101447), Lm-28 - Ingegneria Elettrica
+- Laboratorio Software E Hardware Per I Sistemi Elettronici Di Potenza (101447), Lm-28 - Ingegneria Elettrica
+- Azionamenti Elettrici (72307), L-9 - Ingegneria Meccanica
+
+### 2022
+- Laboratorio Software E Hardware Per I Sistemi Elettronici Di Potenza (101447), Lm-28 - Ingegneria Elettrica
+- Azionamenti Elettrici (72307), L-9 - Ingegneria Meccanica
+
+### 2021
+- Laboratorio Software E Hardware Per I Sistemi Elettronici Di Potenza (101447), Lm-28 - Ingegneria Elettrica
+
+### 2020
+- Laboratorio Software E Hardware Per I Sistemi Elettronici Di Potenza (101447), Lm-28 - Ingegneria Elettrica
+
+## Scopus Metrics
+- absolute; Docs: 78; Journals: 26; Conferences: 52; Citations: 558; H-index: 14
+- 15 years (2010-2025); Docs: 69; Journals: 26; Conferences: 43; Citations: 487; H-index: 14
+- 10 years (2015-2025); Docs: 57; Journals: 26; Conferences: 31; Citations: 366; H-index: 12
+- 05 years (2020-2025); Docs: 41; Journals: 22; Conferences: 19; Citations: 215; H-index: 9
+
+## Scopus Products
+1.
+   - **Title:** Efficiency Performance of 7-Level Multiplexed and 3-Level Neutral Point Clamped (NPC) Converters
+   - **Venue:** Energies
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.3390/en18092161
+   - **Scopus ID:** 2-s2.0-105004856805
+   - **eISSN:** 19961073
+   - **Volume:** 18
+   - **Issue:** 9
+   - **Authors:** Hussain Shafquat; Cosso Simone; Passalacqua Massimiliano; Vaccaro Luis Ramon; Formentini Andrea; Marchesoni Mario
+   - **Keywords:** balancing of flying capacitors | conduction losses | efficiency | multiplexed multilevel converter | neutral point clamped converter | switching losses | three phase
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 57225936087;57324695200;57195070159;21935399500;55370605300;6701827441
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Hussain S.
+2.
+   - **Title:** Synchronous DTC for torque sub-harmonic reduction in low switching frequency induction motor drives
+   - **Venue:** Control Engineering Practice
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.1016/j.conengprac.2024.106133
+   - **Scopus ID:** 2-s2.0-85207857965
+   - **ISSN:** 09670661
+   - **Volume:** 154
+   - **Authors:** Benevieri A.; Marchesoni M.; Passalacqua M.; Pozzobon P.; Vaccaro L.
+   - **Keywords:** DTC | High power | Induction motor | Low frequency ripple torque | Synchronous modulation
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 28, percentile 95)
+     - Electrical and Electronic Engineering (Q1, rank 143, percentile 85)
+     - Control and Systems Engineering (Q1, rank 58, percentile 84)
+     - Computer Science Applications (Q1, rank 171, percentile 82)
+   - **Source Id:** 18174
+   - **Author Ids:** 57226763007;6701827441;57195070159;6601994662;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+3.
+   - **Title:** Sensorless Control of Medium Voltage Induction Motor With LC Filter and Long Cable in Oil Pump Applications
+   - **Venue:** IEEE Transactions on Energy Conversion
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.1109/TEC.2024.3433590
+   - **Scopus ID:** 2-s2.0-85199493229
+   - **ISSN:** 08858969
+   - **eISSN:** 15580059
+   - **Volume:** 40
+   - **Issue:** 1
+   - **Pages:** 3-15
+   - **Authors:** Carbone Lorenzo; Marchesoni Mario; Passalacqua Massimiliano; Postiglione Gianluca; Vaccaro Luis; Vitaloni Carlo
+   - **Keywords:** induction motor | luenberger observer | Medium voltage (MV) | oil pump application | sensorless control
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 62, percentile 93)
+     - Energy Engineering and Power Technology (Q1, rank 30, percentile 90)
+   - **Source Id:** 28824
+   - **Author Ids:** 57324886200;6701827441;57195070159;15623703800;21935399500;59233388900
+   - **Authoraffiliationids:** 60025153;60025153;60025153;132274478;60025153;132274478
+   - **Corresponding:** Carbone L.
+4.
+   - **Title:** A Fast Model-Based Control for a Double-Input Three-Switch Bidirectional DC-DC Converter
+   - **Venue:** IEEE Transactions on Industry Applications
+   - **Year:** 2025
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 0
+   - **DOI:** 10.1109/TIA.2025.3618221
+   - **Scopus ID:** 2-s2.0-105018374326
+   - **ISSN:** 00939994
+   - **eISSN:** 19399367
+   - **Authors:** Benevieri A.; Passalacqua M.; Formentini A.; Vaccaro L.; Marchesoni M.
+   - **Quartile:**
+     2025:
+     - Control and Systems Engineering (Q1, rank 38, percentile 90)
+     - Electrical and Electronic Engineering (Q1, rank 102, percentile 89)
+     - Industrial and Manufacturing Engineering (Q1, rank 49, percentile 88)
+   - **Source Id:** 17361
+   - **Author Ids:** 57226763007;57195070159;55370605300;21935399500;6701827441
+   - **Corresponding:** Benevieri A.
+5.
+   - **Title:** Comparative Analysis of PEM Cells Under Different Operating Conditions
+   - **Venue:** 2025 International Conference on Clean Electrical Power Iccep 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICCEP65222.2025.11143775
+   - **Scopus ID:** 2-s2.0-105016699228
+   - **Pages:** 798-802
+   - **Authors:** Mellado Nicolas; Benevieri Alessandro; Carrasco Claudia; Marchesoni Mario; Moran Luis; Vaccaro Luis
+   - **Keywords:** electrolyzer degradation | intermittent operation | minimum current operation | PEM water electrolyzer
+   - **Source Id:** 21101333300
+   - **Author Ids:** 60109262400;57226763007;7004451923;6701827441;57189078954;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60001282;60001282;60001282;60025153
+   - **Corresponding:** Mellado N.
+6.
+   - **Title:** Hybrid Energy Storage Systems for Plug-in Fuel Cell Electric Vehicle
+   - **Venue:** 2025 International Conference on Clean Electrical Power Iccep 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICCEP65222.2025.11143723
+   - **Scopus ID:** 2-s2.0-105016628730
+   - **Pages:** 823-829
+   - **Authors:** Cosso Simone; Benevieri Alessandro; Passalacqua Massimiliano; Vaccaro Luis; Formentini Andrea; Marchesoni Mario
+   - **Keywords:** Battery systems | DC-DC converters | EVs | FCEVs | Supercapacitors
+   - **Source Id:** 21101333300
+   - **Author Ids:** 57324695200;57226763007;57195070159;21935399500;55370605300;6701827441
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Cosso S.
+7.
+   - **Title:** Reactive Power Compensation System for the Chilean HVDC Transmission Line
+   - **Venue:** 2025 Aeit Hvdc International Conference Aeit Hvdc 2025
+   - **Year:** 2025
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/AEITHVDC66044.2025.11079531
+   - **Scopus ID:** 2-s2.0-105012574207
+   - **Authors:** Jorge Araneda D.; Yuyuniz Gálvez C.; Luis Morán T.; Vaccaro Luis
+   - **Keywords:** HVDC systems | renewable energy | STATCOM | synchronous condensers | var compensation
+   - **Source Id:** 21101318126
+   - **Author Ids:** 60029818000;60030691400;57220526233;21935399500
+   - **Authoraffiliationids:** 60001282;60001282;60001282;60025153
+   - **Corresponding:** Jorge Araneda D.
+8.
+   - **Title:** Advances and Perspectives in Multilevel Converters: A Comprehensive Review
+   - **Venue:** Electronics Switzerland
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 6
+   - **DOI:** 10.3390/electronics13234736
+   - **Scopus ID:** 2-s2.0-85211943269
+   - **eISSN:** 20799292
+   - **Volume:** 13
+   - **Issue:** 23
+   - **Authors:** Benevieri Alessandro; Cosso Simone; Formentini Andrea; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** high-power applications | medium-voltage drives | modulation | multilevel converters (MLCs) | power converters | power electronics | topologies | voltage source inverter (VSI)
+   - **Quartile:**
+     2025:
+     - Signal Processing (Q1, rank 36, percentile 81)
+     - Electrical and Electronic Engineering (Q1, rank 220, percentile 78)
+     - Control and Systems Engineering (Q1, rank 91, percentile 76)
+     - Computer Networks and Communications (Q1, rank 131, percentile 76)
+     - Hardware and Architecture (Q2, rank 62, percentile 73)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 228, percentile 76)
+     - Signal Processing (Q1, rank 44, percentile 76)
+     - Control and Systems Engineering (Q1, rank 93, percentile 75)
+     - Computer Networks and Communications (Q2, rank 137, percentile 73)
+     - Hardware and Architecture (Q2, rank 62, percentile 72)
+   - **Source Id:** 21100829272
+   - **Author Ids:** 57226763007;57324695200;55370605300;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+9.
+   - **Title:** A New Topology of Multi-Input Bidirectional DC-DC Converters for Hybrid Energy Storage Systems
+   - **Venue:** Energies
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 4
+   - **DOI:** 10.3390/en17205120
+   - **Scopus ID:** 2-s2.0-85207391518
+   - **eISSN:** 19961073
+   - **Volume:** 17
+   - **Issue:** 20
+   - **Authors:** Cosso Simone; Benevieri Alessandro; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis; Pozzobon Paolo
+   - **Keywords:** DC-DC converter | hybrid electric vehicle (HEV) | hybrid energy storage system (HESS) | multi-input topology
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2024:
+     - Control and Optimization (Q1, rank 15, percentile 90)
+     - Engineering (miscellaneous) (Q1, rank 39, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 173, percentile 82)
+     - Energy Engineering and Power Technology (Q1, rank 73, percentile 75)
+     - Fuel Technology (Q2, rank 38, percentile 71)
+     - Energy (miscellaneous) (Q2, rank 32, percentile 68)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 105, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 57324695200;57226763007;6701827441;57195070159;21935399500;6601994662
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Cosso S.
+10.
+   - **Title:** H2-LMI-Based High Performance Control for Matrix Converter
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.1109/TIE.2023.3333014
+   - **Scopus ID:** 2-s2.0-85179786373
+   - **ISSN:** 02780046
+   - **eISSN:** 15579948
+   - **Volume:** 71
+   - **Issue:** 9
+   - **Pages:** 10029-10038
+   - **Authors:** Carbone Lorenzo; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis; Formentini Andrea
+   - **Keywords:** matrix converter (MC) | rmH2-linear matrix inequality (LMI) optimal control
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+     2024:
+     - Electrical and Electronic Engineering (Q1, rank 36, percentile 96)
+     - Control and Systems Engineering (Q1, rank 16, percentile 95)
+   - **Source Id:** 26053
+   - **Author Ids:** 57324886200;6701827441;57195070159;21935399500;55370605300
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Carbone L.
+11.
+   - **Title:** A New Feed-Forward Control for Dynamics Improvement in a Dual-Input DC–DC Converter for Hybrid Vehicle Applications
+   - **Venue:** Energies
+   - **Year:** 2024
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 3
+   - **DOI:** 10.3390/en17092170
+   - **Scopus ID:** 2-s2.0-85192750704
+   - **eISSN:** 19961073
+   - **Volume:** 17
+   - **Issue:** 9
+   - **Authors:** Benevieri Alessandro; Carbone Lorenzo; Cosso Simone; Marchesoni Mario; Passalacqua Massimiliano; Savio Stefano; Vaccaro Luis
+   - **Keywords:** control strategy | DCM | DC–DC converter | feed forward | multi-input converter
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2024:
+     - Control and Optimization (Q1, rank 15, percentile 90)
+     - Engineering (miscellaneous) (Q1, rank 39, percentile 85)
+     - Electrical and Electronic Engineering (Q1, rank 173, percentile 82)
+     - Energy Engineering and Power Technology (Q1, rank 73, percentile 75)
+     - Fuel Technology (Q2, rank 38, percentile 71)
+     - Energy (miscellaneous) (Q2, rank 32, percentile 68)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 105, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 57226763007;57324886200;57324695200;6701827441;57195070159;7004161333;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+12.
+   - **Title:** High efficiency control of AC-DC Matrix based buck converters: DCM modulation
+   - **Venue:** 2024 IEEE Energy Conversion Congress and Exposition Ecce 2024 Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ECCE55643.2024.10861334
+   - **Scopus ID:** 2-s2.0-86000451001
+   - **Pages:** 4112-4118
+   - **Authors:** Rodkin Dmytro; Formentini Andrea; Passalacqua Massimiliano; Vaccaro Luis; Marchesoni Mario
+   - **Keywords:** AC-DC matrix converter | Discontinuous conduction mode (DCM)
+   - **Source Id:** 21101281529
+   - **Author Ids:** 59680007700;55370605300;57195070159;21935399500;6701827441
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Rodkin D.
+13.
+   - **Title:** A Fast Model-Based Control for a Double-Input Three-Switch Bidirectional DC-DC Converter
+   - **Venue:** 2024 IEEE Energy Conversion Congress and Exposition Ecce 2024 Proceedings
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ECCE55643.2024.10861341
+   - **Scopus ID:** 2-s2.0-86000438523
+   - **Pages:** 4151-4157
+   - **Authors:** Benevieri Alessandro; Passalacqua Massimiliano; Formentini Andrea; Vaccaro Luis; Marchesoni Mario
+   - **Keywords:** control strategy | DC-DC Converter | discontinuous conduction mode (DCM) | efficiency | multi-input converter
+   - **Source Id:** 21101281529
+   - **Author Ids:** 57226763007;57195070159;55370605300;21935399500;6701827441
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+14.
+   - **Title:** Medium Voltage Sensorless Induction Motor Drive for Subsea Applications
+   - **Venue:** 2024 International Conference on Electrical Machines ICEM 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/ICEM60801.2024.10700411
+   - **Scopus ID:** 2-s2.0-85207502241
+   - **Authors:** Carbone Lorenzo; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** Induction Motor | Luenberger Observer | Medium Voltage (MV) | Oil Pump Application | Sensorless Control
+   - **Source Id:** 21101255662
+   - **Author Ids:** 57324886200;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Carbone L.
+15.
+   - **Title:** Transient Thermal Impedance Characterization of New High Power Press Pack Diodes
+   - **Venue:** 2024 International Symposium on Power Electronics Electrical Drives Automation and Motion Speedam 2024
+   - **Year:** 2024
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/SPEEDAM61530.2024.10608828
+   - **Scopus ID:** 2-s2.0-85201734442
+   - **Pages:** 81-86
+   - **Authors:** Ahmad Fawad; Portesine Federico; Ashero Marco; Marchesoni Mario; Vaccaro Luis
+   - **Keywords:** Cauer Model | Foster Model | Press Pack Diodes | Thermal Model Transformation | Thermal Networks
+   - **Source Id:** 21101243575
+   - **Author Ids:** 59291872200;57218098587;59291838000;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;120809443;120809443;60025153;60025153
+   - **Corresponding:** Ahmad F.
+16.
+   - **Title:** Stability Issues in V/f Controlled Medium Voltage Induction Motor Drives Considering Magnetizing Inductance Variation
+   - **Venue:** IEEE Transactions on Energy Conversion
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.1109/TEC.2023.3288673
+   - **Scopus ID:** 2-s2.0-85163516463
+   - **ISSN:** 08858969
+   - **eISSN:** 15580059
+   - **Volume:** 38
+   - **Issue:** 4
+   - **Pages:** 2909-2918
+   - **Authors:** Cosso Simone; Kumar Krishneel; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** Electrical drives | induction motor | stability | V/F control
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 62, percentile 93)
+     - Energy Engineering and Power Technology (Q1, rank 30, percentile 90)
+     2023:
+     - Electrical and Electronic Engineering (Q1, rank 77, percentile 90)
+     - Energy Engineering and Power Technology (Q1, rank 35, percentile 87)
+   - **Source Id:** 28824
+   - **Author Ids:** 57324695200;57438065800;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Cosso S.
+17.
+   - **Title:** Double input DC-DC converter for highly flexible and reliable Battery Storage Systems
+   - **Venue:** E3s Web of Conferences
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1051/e3sconf/202341401006
+   - **Scopus ID:** 2-s2.0-85178325957
+   - **ISSN:** 25550403
+   - **eISSN:** 22671242
+   - **Volume:** 414
+   - **Authors:** Benevieri Alessandro; Carbone Lorenzo; Cosso Simone; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Source Id:** 21100795900
+   - **Author Ids:** 57226763007;57324886200;57324695200;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+18.
+   - **Title:** Comparative Study of Passivity, Model Predictive, and Passivity-Based Model Predictive Controllers in Uninterruptible Power Supply Applications
+   - **Venue:** Energies
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 1
+   - **DOI:** 10.3390/en16155594
+   - **Scopus ID:** 2-s2.0-85167784234
+   - **eISSN:** 19961073
+   - **Volume:** 16
+   - **Issue:** 15
+   - **Authors:** Hussain Shafquat; Bakeer Abualkasim; Mohamed Ihab S.; Marchesoni Mario; Vaccaro Luis
+   - **Keywords:** finite control set model predictive controller (FCS-MPC) | interconnection and damping assignment passivity-based controlled (IDA-PBC) | passivity-based model predictive control (PB-MPC)
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2023:
+     - Control and Optimization (Q1, rank 19, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 36, percentile 82)
+     - Electrical and Electronic Engineering (Q2, rank 200, percentile 74)
+     - Energy Engineering and Power Technology (Q2, rank 78, percentile 71)
+     - Fuel Technology (Q2, rank 40, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 25, percentile 68)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 103, percentile 62)
+   - **Source Id:** 62932
+   - **Author Ids:** 57225936087;56732958400;55819307600;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60216388;60010875;60025153;60025153
+   - **Corresponding:** Hussain S.
+19.
+   - **Title:** Sensorless Control with Switching Frequency Square Wave Voltage Injection for SPMSM with Low Rotor Magnetic Anisotropy
+   - **Venue:** IEEE Transactions on Power Electronics
+   - **Year:** 2023
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 28
+   - **DOI:** 10.1109/TPEL.2023.3270357
+   - **Scopus ID:** 2-s2.0-85159695527
+   - **ISSN:** 08858993
+   - **eISSN:** 19410107
+   - **Volume:** 38
+   - **Issue:** 8
+   - **Pages:** 10060-10072
+   - **Authors:** Benevieri Alessandro; Formentini Andrea; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** High-frequency (HF) injection | sensorless control | square-wave injection | surface permanent magnet synchronous motor (SPMSM)
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 50, percentile 95)
+     2023:
+     - Electrical and Electronic Engineering (Q1, rank 37, percentile 95)
+   - **Source Id:** 26055
+   - **Author Ids:** 57226763007;55370605300;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+20.
+   - **Title:** Model Predictive Control of a Double Input Bidirectional Boost DC-DC Converter
+   - **Venue:** 2023 25th European Conference on Power Electronics and Applications EPE 2023 Ecce Europe
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/EPE23ECCEEurope58414.2023.10264606
+   - **Scopus ID:** 2-s2.0-85175145117
+   - **Authors:** Benevieri Alessandro; Formentini Andrea; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** Bi-directional converters | DC-DC converter | Double-input converter
+   - **Source Id:** 21101184577
+   - **Author Ids:** 57226763007;55370605300;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+21.
+   - **Title:** Analysis of the energy matrix decarbonization in the operation of the large mining power distribution systems: The Chilean case
+   - **Venue:** Proceedings 2023 IEEE International Conference on Environment and Electrical Engineering and 2023 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EEEIC/ICPSEurope57605.2023.10194614
+   - **Scopus ID:** 2-s2.0-85168684414
+   - **Authors:** Pessino Francesca; Moran Luis; Espinoza Jose; Araneda Juan Carlos; Silvestro Federico; Vaccaro Luis
+   - **Keywords:** harmonic mitigation | Renewable integration | Short-circuit power
+   - **Source Id:** 21101173009
+   - **Author Ids:** 58547377400;57189078954;35599816000;24779492400;23026343700;21935399500
+   - **Authoraffiliationids:** 60025153;60001282;60001282;122086385;60025153;60025153
+   - **Corresponding:** Pessino F.
+22.
+   - **Title:** Analysis of the Chilean Power System Performance Considering a Long-Distance HVDC Transmission Line
+   - **Venue:** 2023 Aeit Hvdc International Conference Aeit Hvdc 2023
+   - **Year:** 2023
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/AEITHVDC58550.2023.10178998
+   - **Scopus ID:** 2-s2.0-85166967090
+   - **Authors:** Reyes Sebastian; Moran Luis; Vaccaro Luis; Espinoza Jose
+   - **Keywords:** LCC | Long distance Transmission Line | Power System Performance
+   - **Source Id:** 21101170028
+   - **Author Ids:** 58525754600;57189078954;21935399500;35599816000
+   - **Authoraffiliationids:** 60001282;60001282;60025153;60001282
+   - **Corresponding:** Reyes S.
+23.
+   - **Title:** Surface Permanent Magnet Synchronous Motors’ Passive Sensorless Control: A Review
+   - **Venue:** Energies
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.3390/en15207747
+   - **Scopus ID:** 2-s2.0-85140610785
+   - **eISSN:** 19961073
+   - **Volume:** 15
+   - **Issue:** 20
+   - **Authors:** Benevieri Alessandro; Carbone Lorenzo; Cosso Simone; Kumar Krishneel; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** permanent magnet synchronous motors (PMSM) | review | sensorless control
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2022:
+     - Control and Optimization (Q1, rank 21, percentile 83)
+     - Engineering (miscellaneous) (Q1, rank 27, percentile 82)
+     - Electrical and Electronic Engineering (Q2, rank 197, percentile 73)
+     - Energy Engineering and Power Technology (Q2, rank 77, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 18, percentile 67)
+     - Fuel Technology (Q2, rank 39, percentile 67)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 103, percentile 56)
+   - **Source Id:** 62932
+   - **Author Ids:** 57226763007;57324886200;57324695200;57438065800;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+24.
+   - **Title:** Experimental Low-Speed Performance Evaluation and Comparison of Sensorless Passive Algorithms for SPMSM
+   - **Venue:** IEEE Transactions on Energy Conversion
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 25
+   - **DOI:** 10.1109/TEC.2021.3101583
+   - **Scopus ID:** 2-s2.0-85112608002
+   - **ISSN:** 08858969
+   - **eISSN:** 15580059
+   - **Volume:** 37
+   - **Issue:** 1
+   - **Pages:** 654-664
+   - **Authors:** Benevieri Alessandro; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** Permanent magnet synchronous motors (PMSM) | Sensorless control | Speed control
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 62, percentile 93)
+     - Energy Engineering and Power Technology (Q1, rank 30, percentile 90)
+     2022:
+     - Electrical and Electronic Engineering (Q1, rank 76, percentile 89)
+     - Energy Engineering and Power Technology (Q1, rank 30, percentile 88)
+   - **Source Id:** 28824
+   - **Author Ids:** 57226763007;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+25.
+   - **Title:** Induction Motor Field-Oriented Sensorless Control with Filter and Long Cable
+   - **Venue:** Energies
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 12
+   - **DOI:** 10.3390/en15041484
+   - **Scopus ID:** 2-s2.0-85125071541
+   - **eISSN:** 19961073
+   - **Volume:** 15
+   - **Issue:** 4
+   - **Authors:** Carbone Lorenzo; Cosso Simone; Kumar Krishneel; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** Cable compensation | Eigenvalues | Field-oriented control | Induction motor drive | Long cable | Luenberger observer | Sensorless control | Speed estimation | Stability analysis | Submarine pump
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2022:
+     - Control and Optimization (Q1, rank 21, percentile 83)
+     - Engineering (miscellaneous) (Q1, rank 27, percentile 82)
+     - Electrical and Electronic Engineering (Q2, rank 197, percentile 73)
+     - Energy Engineering and Power Technology (Q2, rank 77, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 18, percentile 67)
+     - Fuel Technology (Q2, rank 39, percentile 67)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 103, percentile 56)
+   - **Source Id:** 62932
+   - **Author Ids:** 57324886200;57324695200;57438065800;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Carbone L.
+26.
+   - **Title:** Stability Analysis of Open-Loop V/Hz Controlled Asynchronous Machines and Two Novel Mitigation Strategies for Oscillations Suppression
+   - **Venue:** Energies
+   - **Year:** 2022
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.3390/en15041404
+   - **Scopus ID:** 2-s2.0-85124875347
+   - **eISSN:** 19961073
+   - **Volume:** 15
+   - **Issue:** 4
+   - **Authors:** Carbone Lorenzo; Cosso Simone; Kumar Krishneel; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** Active damping | Eigenvalues | Induction motor drive | Instability | Oscillations | Small-signal model | Stability analysis | V/Hz control
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2022:
+     - Control and Optimization (Q1, rank 21, percentile 83)
+     - Engineering (miscellaneous) (Q1, rank 27, percentile 82)
+     - Electrical and Electronic Engineering (Q2, rank 197, percentile 73)
+     - Energy Engineering and Power Technology (Q2, rank 77, percentile 69)
+     - Energy (miscellaneous) (Q2, rank 18, percentile 67)
+     - Fuel Technology (Q2, rank 39, percentile 67)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 103, percentile 56)
+   - **Source Id:** 62932
+   - **Author Ids:** 57324886200;57324695200;57438065800;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Carbone L.
+27.
+   - **Title:** A fast control for a three-switch multi-input DC-DC converter
+   - **Venue:** 24th European Conference on Power Electronics and Applications EPE 2022 Ecce Europe
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **Scopus ID:** 2-s2.0-85141581126
+   - **Authors:** Cosso Simone; Formentini Andrea; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** CCM | DC-DC Converter | DCM | Feed-Forward | Power Converters
+   - **Source Id:** 21101119900
+   - **Author Ids:** 57324695200;55370605300;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Cosso S.
+28.
+   - **Title:** Experimental Assessment of Power Converters Control Strategies for Shipboard Microgrids
+   - **Venue:** 2022 IEEE International Conference on Environment and Electrical Engineering and 2022 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/EEEIC/ICPSEurope54979.2022.9854761
+   - **Scopus ID:** 2-s2.0-85137987811
+   - **Authors:** Schiapparelli Giacomo Piero; Passalacqua Massimiliano; D'Agostino Fabio; Vaccaro Luis; Marchesoni Mario; Silvestro Federico
+   - **Keywords:** experimental setup | Grid-following con-verters | Grid-forming converters | shipboard microgrids
+   - **Source Id:** 21101107964
+   - **Author Ids:** 57204003255;57195070159;56553864200;21935399500;6701827441;23026343700
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Schiapparelli G.P.
+29.
+   - **Title:** Sensorless Control Exploiting PWM Ripple in PMSM with Low Anisotropy
+   - **Venue:** 2022 International Symposium on Power Electronics Electrical Drives Automation and Motion Speedam 2022
+   - **Year:** 2022
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/SPEEDAM53979.2022.9842129
+   - **Scopus ID:** 2-s2.0-85136221181
+   - **Pages:** 235-239
+   - **Authors:** Benevieri Alessandro; Cosso Simone; Formentini Andrea; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** HF injection | Sensorless control | SPMSM | square-wave injection
+   - **Source Id:** 21101101911
+   - **Author Ids:** 57226763007;57324695200;55370605300;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+30.
+   - **Title:** Series architecture on hybrid electric vehicles: A review
+   - **Venue:** Energies
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 10
+   - **DOI:** 10.3390/en14227672
+   - **Scopus ID:** 2-s2.0-85121029388
+   - **eISSN:** 19961073
+   - **Volume:** 14
+   - **Issue:** 22
+   - **Authors:** Benevieri Alessandro; Carbone Lorenzo; Cosso Simone; Kumar Krishneel; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** Fuel economy | Hybrid Electric Vehicle (HEV) | Powertrain efficiency | Series architecture | Silicon Carbide (SiC) | Supercapacitor | Turbocompound
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2021:
+     - Control and Optimization (Q1, rank 18, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 19, percentile 83)
+     - Subject (Q1, rank 51, percentile 76)
+     - Energy (miscellaneous) (Q2, rank 10, percentile 72)
+     - Electrical and Electronic Engineering (Q2, rank 201, percentile 71)
+     - Energy Engineering and Power Technology (Q2, rank 73, percentile 69)
+     - Fuel Technology (Q2, rank 38, percentile 65)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 58)
+   - **Source Id:** 62932
+   - **Author Ids:** 57226763007;57324886200;57324695200;57438065800;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+31.
+   - **Title:** State‐space approach for spmsm sensorless passive algorithm tuning
+   - **Venue:** Energies
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.3390/en14217180
+   - **Scopus ID:** 2-s2.0-85118530745
+   - **eISSN:** 19961073
+   - **Volume:** 14
+   - **Issue:** 21
+   - **Authors:** Carbone Lorenzo; Cosso Simone; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** Permanent Magnet Synchronous Motors (PMSM) | Rotor flux observer | Sensorless control | Speed control | Stability analysis
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2021:
+     - Control and Optimization (Q1, rank 18, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 19, percentile 83)
+     - Subject (Q1, rank 51, percentile 76)
+     - Energy (miscellaneous) (Q2, rank 10, percentile 72)
+     - Electrical and Electronic Engineering (Q2, rank 201, percentile 71)
+     - Energy Engineering and Power Technology (Q2, rank 73, percentile 69)
+     - Fuel Technology (Q2, rank 38, percentile 65)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 58)
+   - **Source Id:** 62932
+   - **Author Ids:** 57324886200;57324695200;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Carbone L.
+32.
+   - **Title:** A New Modulation Strategy for Exploiting Discontinuous Conduction Mode in a Double-Input Three-Switch Bidirectional DC-DC Converter
+   - **Venue:** IEEE Transactions on Industrial Electronics
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.1109/TIE.2020.3038059
+   - **Scopus ID:** 2-s2.0-85096868481
+   - **ISSN:** 02780046
+   - **eISSN:** 15579948
+   - **Volume:** 68
+   - **Issue:** 11
+   - **Pages:** 10815-10825
+   - **Authors:** Passalacqua Massimiliano; Marchesoni Mario; Vaccaro Luis
+   - **Keywords:** DC-DC converter | discontinuous conduction mode (DCM) | efficiency | modulation strategy | multiinput converter
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 33, percentile 96)
+     - Control and Systems Engineering (Q1, rank 17, percentile 95)
+     2021:
+     - Control and Systems Engineering (Q1, rank 6, percentile 97)
+     - Electrical and Electronic Engineering (Q1, rank 20, percentile 97)
+   - **Source Id:** 26053
+   - **Author Ids:** 57195070159;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Passalacqua M.
+33.
+   - **Title:** Development and Evaluation of Sensorless Control Systems for SPMSM Drives in the Extreme Low-Speed Region
+   - **Venue:** 2021 23rd European Conference on Power Electronics and Applications EPE 2021 Ecce Europe
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85119066418
+   - **Authors:** Benevieri Alessandro; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** Control of drive | Electrical drive | Estimation technique | Permanent magnet motor | Sensorless control
+   - **Source Id:** 21101065464
+   - **Author Ids:** 57226763007;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+34.
+   - **Title:** Induction motor direct torque control with synchronous PWM
+   - **Venue:** Energies
+   - **Year:** 2021
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 8
+   - **DOI:** 10.3390/en14165025
+   - **Scopus ID:** 2-s2.0-85113255669
+   - **eISSN:** 19961073
+   - **Volume:** 14
+   - **Issue:** 16
+   - **Authors:** Benevieri Alessandro; Maragliano Gianmarco; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** Direct torque control | Induction motor drive | Synchronous PWM
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2021:
+     - Control and Optimization (Q1, rank 18, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 19, percentile 83)
+     - Subject (Q1, rank 51, percentile 76)
+     - Energy (miscellaneous) (Q2, rank 10, percentile 72)
+     - Electrical and Electronic Engineering (Q2, rank 201, percentile 71)
+     - Energy Engineering and Power Technology (Q2, rank 73, percentile 69)
+     - Fuel Technology (Q2, rank 38, percentile 65)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 90, percentile 58)
+   - **Source Id:** 62932
+   - **Author Ids:** 57226763007;36778746300;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Benevieri A.
+35.
+   - **Title:** Modulating Signals Effect on Capacitor Voltage Ripple in Full Bridge Modular Multilevel Converters
+   - **Venue:** 2021 Aeit Hvdc International Conference Aeit Hvdc 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/AEITHVDC52364.2021.9474595
+   - **Scopus ID:** 2-s2.0-85112867086
+   - **Authors:** Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis; Bordignon Paolo
+   - **Keywords:** Full Bridge Cell | HVDC | MMC | Voltage Ripple
+   - **Source Id:** 21101056105
+   - **Author Ids:** 6701827441;57195070159;21935399500;6603367451
+   - **Authoraffiliationids:** 60025153;60025153;60025153;126760071
+   - **Corresponding:** Marchesoni M.
+36.
+   - **Title:** Currents and Torque Oscillations Mitigation in High Power Induction Motor Drives
+   - **Venue:** 2021 IEEE 15th International Conference on Compatibility Power Electronics and Power Engineering Cpe Powereng 2021
+   - **Year:** 2021
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/CPE-POWERENG50821.2021.9501186
+   - **Scopus ID:** 2-s2.0-85124908491
+   - **Authors:** Kumar Krishneel; Marchesoni Mario; Maule Zeno; Passalacqua Massimiliano; Soso Francesco; Vaccaro Luis
+   - **Keywords:** Compensation | Induction motor | Instability | Speed control | Torque oscillation | V/Hz
+   - **Source Id:** 21101076702
+   - **Author Ids:** 57438065800;6701827441;57458767100;57195070159;35249557100;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60122276;60025153;60122276;60025153
+   - **Corresponding:** Kumar K.
+37.
+   - **Title:** A High-Efficiency Control of a Double-Input Converter for Renewable Energies and Hybrid Vehicles
+   - **Venue:** 2020 22nd European Conference on Power Electronics and Applications EPE 2020 Ecce Europe
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.23919/EPE20ECCEEurope43536.2020.9215752
+   - **Scopus ID:** 2-s2.0-85094911821
+   - **Authors:** Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** Converter control | Efficiency | Electric vehicle | Smart grids
+   - **Source Id:** 21101024171
+   - **Author Ids:** 6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marchesoni M.
+38.
+   - **Title:** An improved control strategy for an innovative DC-DC converter for interfacing energy storage systems
+   - **Venue:** 2020 International Symposium on Power Electronics Electrical Drives Automation and Motion Speedam 2020
+   - **Year:** 2020
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/SPEEDAM48782.2020.9161905
+   - **Scopus ID:** 2-s2.0-85091156136
+   - **Pages:** 811-815
+   - **Authors:** Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** Conversion efficiency | DC-DC conversion | Discontinuous Conduction Mode
+   - **Source Id:** 21101021766
+   - **Author Ids:** 6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marchesoni M.
+39.
+   - **Title:** Performance improvement in a sensorless surface-mounted PMSM drive based on rotor flux observer
+   - **Venue:** Control Engineering Practice
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 26
+   - **DOI:** 10.1016/j.conengprac.2019.104276
+   - **Scopus ID:** 2-s2.0-85076675691
+   - **ISSN:** 09670661
+   - **Volume:** 96
+   - **Authors:** Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis; Calvini Marco; Venturini Marco
+   - **Keywords:** Permanent magnet motors (PMSM) | Rotor flux observer | Sensorless control | Speed control
+   - **Quartile:**
+     2025:
+     - Applied Mathematics (Q1, rank 28, percentile 95)
+     - Electrical and Electronic Engineering (Q1, rank 143, percentile 85)
+     - Control and Systems Engineering (Q1, rank 58, percentile 84)
+     - Computer Science Applications (Q1, rank 171, percentile 82)
+     2020:
+     - Applied Mathematics (Q1, rank 19, percentile 96)
+     - Computer Science Applications (Q1, rank 96, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 97, percentile 86)
+     - Control and Systems Engineering (Q1, rank 38, percentile 85)
+   - **Source Id:** 18174
+   - **Author Ids:** 6701827441;57195070159;21935399500;14422097400;58351076300
+   - **Authoraffiliationids:** 60025153;60025153;60025153;123668789;123668789
+   - **Corresponding:** Marchesoni M.
+40.
+   - **Title:** Turbocompound power unit modelling for a supercapacitor-based series hybrid vehicle application
+   - **Venue:** Energies
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 6
+   - **DOI:** 10.3390/en13020447
+   - **Scopus ID:** 2-s2.0-85078198084
+   - **eISSN:** 19961073
+   - **Volume:** 13
+   - **Issue:** 2
+   - **Authors:** Repetto Matteo; Passalacqua Massimiliano; Vaccaro Luis; Marchesoni Mario; Prato Alessandro Pini
+   - **Keywords:** Efficiency | Fuel economy | Hybrid electric vehicle (HEV), series architecture | Supercapacitor | Turbocharger | Turbocompound
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2020:
+     - Control and Optimization (Q1, rank 17, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 13, percentile 83)
+     - Electrical and Electronic Engineering (Q2, rank 183, percentile 73)
+     - Energy (miscellaneous) (Q2, rank 7, percentile 72)
+     - Energy Engineering and Power Technology (Q2, rank 62, percentile 72)
+     - Fuel Technology (Q2, rank 33, percentile 67)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 69, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 56264520300;57195070159;21935399500;6701827441;55493328400
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Repetto M.
+41.
+   - **Title:** A refined loss evaluation of a three-switch double input DC-DC converter for hybrid vehicle applications
+   - **Venue:** Energies
+   - **Year:** 2020
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 14
+   - **DOI:** 10.3390/en13010204
+   - **Scopus ID:** 2-s2.0-85077446316
+   - **eISSN:** 19961073
+   - **Volume:** 13
+   - **Issue:** 1
+   - **Authors:** Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** Battery | DC-DC converter | Efficiency | Hybrid electric vehicle (HEV) | Multi-input converter | Supercapacitor
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2020:
+     - Control and Optimization (Q1, rank 17, percentile 85)
+     - Engineering (miscellaneous) (Q1, rank 13, percentile 83)
+     - Electrical and Electronic Engineering (Q2, rank 183, percentile 73)
+     - Energy (miscellaneous) (Q2, rank 7, percentile 72)
+     - Energy Engineering and Power Technology (Q2, rank 62, percentile 72)
+     - Fuel Technology (Q2, rank 33, percentile 67)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 69, percentile 64)
+   - **Source Id:** 62932
+   - **Author Ids:** 6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Marchesoni M.
+42.
+   - **Title:** Solid-state transformers in locomotives fed through AC lines: A review and future developments
+   - **Venue:** Energies
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Review
+   - **Citations:** 19
+   - **DOI:** 10.3390/en12244711
+   - **Scopus ID:** 2-s2.0-85076947747
+   - **eISSN:** 19961073
+   - **Volume:** 12
+   - **Issue:** 24
+   - **Authors:** Farnesi Stefano; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** Medium frequency transformer | Modular Multilevel Converter (MMC) | Power electronic transformer | Railway electric traction | Soft-switching | Solid State Transformer (SST)
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2019:
+     - Control and Optimization (Q1, rank 19, percentile 81)
+     - Energy Engineering and Power Technology (Q2, rank 62, percentile 71)
+     - Electrical and Electronic Engineering (Q2, rank 208, percentile 69)
+     - Fuel Technology (Q2, rank 33, percentile 66)
+     - Energy (miscellaneous) (Q2, rank 9, percentile 63)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 72, percentile 60)
+   - **Source Id:** 62932
+   - **Author Ids:** 54392715100;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Farnesi S.
+43.
+   - **Title:** Fast mpc algorithm for a grid tied photovoltaic system based on a multilevel inverter
+   - **Venue:** IECON Proceedings Industrial Electronics Conference
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 3
+   - **DOI:** 10.1109/IECON.2019.8927053
+   - **Scopus ID:** 2-s2.0-85084056535
+   - **Volume:** 2019-October
+   - **Pages:** 3989-3994
+   - **Authors:** Silva J.; Espinoza J.; Sbarbaro D.; Moran L.; Rohten Jaime; Vaccaro Luis
+   - **Keywords:** Grid tied inverter | Model predictive control | Neutral point clamped | Photovoltaic systems
+   - **Source Id:** 56670
+   - **Author Ids:** 57190765306;35599816000;7003572137;57189078954;54947327900;21935399500
+   - **Authoraffiliationids:** 60001282;60001282;60001282;60001282;60023195;60025153
+   - **Corresponding:** Silva J.
+44.
+   - **Title:** Fuel Economy and EMS for a Series Hybrid Vehicle Based on Supercapacitor Storage
+   - **Venue:** IEEE Transactions on Power Electronics
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 40
+   - **DOI:** 10.1109/TPEL.2019.2895209
+   - **Scopus ID:** 2-s2.0-85068677902
+   - **ISSN:** 08858993
+   - **eISSN:** 19410107
+   - **Volume:** 34
+   - **Issue:** 10
+   - **Pages:** 9966-9977
+   - **Authors:** Passalacqua Massimiliano; Lanzarotto Damiano; Repetto Matteo; Vaccaro Luis; Bonfiglio Andrea; Marchesoni Mario
+   - **Keywords:** Energy efficiency | fuel economy | hybrid electric vehicles (HEVs) | series architecture | supercapacitors
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q1, rank 50, percentile 95)
+     2019:
+     - Electrical and Electronic Engineering (Q1, rank 19, percentile 97)
+   - **Source Id:** 26055
+   - **Author Ids:** 57195070159;57195070345;56264520300;21935399500;36607521000;6701827441
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Passalacqua M.
+45.
+   - **Title:** A new common mode voltage reduction method in a generalized space vector modulator for cascaded multilevel converters
+   - **Venue:** 2019 21st European Conference on Power Electronics and Applications EPE 2019 Ecce Europe
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.23919/EPE.2019.8914889
+   - **Scopus ID:** 2-s2.0-85076668962
+   - **Authors:** Maragliano Gianmarco; Carpita Mauro; Kissling Simon; Marchesoni Mario; Passalacqua Massimiliano; Pidancier Thomas; Vaccaro Filippo; Vaccaro Luis
+   - **Keywords:** Common mode voltage | Multilevel converters | Space Vector Modulation (SVM) | Voltage Source Converter (VSC)
+   - **Source Id:** 21100939561
+   - **Author Ids:** 36778746300;6603270189;57189070776;6701827441;57195070159;57203972480;57204173615;21935399500
+   - **Authoraffiliationids:** 60025153;60101868;60101868;60025153;60025153;60101868;121671530;60025153
+   - **Corresponding:** Maragliano G.
+46.
+   - **Title:** An Improved Low-Noise Sensorless PMSM Drive able to Face Highly Intermittent Load Torque
+   - **Venue:** 2019 IEEE 10th International Symposium on Sensorless Control for Electrical Drives Sled 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/SLED.2019.8896293
+   - **Scopus ID:** 2-s2.0-85075636678
+   - **Authors:** Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis; Calvini Marco; Venturini Marco
+   - **Keywords:** Permanent magnet motors (PMSM) | Rotor flux observer | Sensorless control | Speed control
+   - **Source Id:** 21100962400
+   - **Author Ids:** 6701827441;57195070159;21935399500;14422097400;58351076300
+   - **Authoraffiliationids:** 60025153;60025153;60025153;123668789;123668789
+   - **Corresponding:** Marchesoni M.
+47.
+   - **Title:** Low speed performance improvement in a self-commissioned sensorless PMSM drive based on rotor flux observer
+   - **Venue:** 2019 21st European Conference on Power Electronics and Applications EPE 2019 Ecce Europe
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.23919/EPE.2019.8915004
+   - **Scopus ID:** 2-s2.0-85075632529
+   - **Authors:** Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis; Calvini Marco; Venturini Marco
+   - **Keywords:** Permanent Magnet Synchronous Motor (PMSM) | Rotor flux observer | Self-commissioning | Sensorlcss control | Speed control
+   - **Source Id:** 21100958234
+   - **Author Ids:** 6701827441;57195070159;21935399500;14422097400;58351076300
+   - **Authoraffiliationids:** 60025153;60025153;60025153;123668963;123668963
+   - **Corresponding:** Marchesoni M.
+48.
+   - **Title:** Soft-Switching Power Converters for Efficient Grid Applications
+   - **Venue:** Proceedings 2019 IEEE International Conference on Environment and Electrical Engineering and 2019 IEEE Industrial and Commercial Power Systems Europe Eeeic I and Cps Europe 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/EEEIC.2019.8783409
+   - **Scopus ID:** 2-s2.0-85070835514
+   - **Authors:** Farnesi Stefano; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** Grid Integration | Medium Voltage Converter | Modular Multilevel Converter | Soft Switching | Solid State Transformer
+   - **Source Id:** 21100924363
+   - **Author Ids:** 54392715100;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Farnesi S.
+49.
+   - **Title:** Supercapacitor storage sizing analysis for a series hybrid vehicle
+   - **Venue:** Energies
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 15
+   - **DOI:** 10.3390/en12091759
+   - **Scopus ID:** 2-s2.0-85065866430
+   - **eISSN:** 19961073
+   - **Volume:** 12
+   - **Issue:** 9
+   - **Authors:** Passalacqua Massimiliano; Carpita Mauro; Gavin Serge; Marchesoni Mario; Repetto Matteo; Vaccaro Luis; Wasterlain Sébastien
+   - **Keywords:** Energy efficiency | Energy Management System (EMS) | Hybrid Electric Vehicle (HEV) | Series architecture | Storage sizing | Supercapacitor
+   - **Quartile:**
+     2025:
+     - Control and Optimization (Q1, rank 11, percentile 94)
+     - Engineering (miscellaneous) (Q1, rank 38, percentile 86)
+     - Electrical and Electronic Engineering (Q1, rank 155, percentile 84)
+     - Energy Engineering and Power Technology (Q1, rank 71, percentile 78)
+     - Fuel Technology (Q2, rank 40, percentile 70)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 110, percentile 64)
+     - Energy (miscellaneous) (Q2, rank 39, percentile 64)
+     2019:
+     - Control and Optimization (Q1, rank 19, percentile 81)
+     - Energy Engineering and Power Technology (Q2, rank 62, percentile 71)
+     - Electrical and Electronic Engineering (Q2, rank 208, percentile 69)
+     - Fuel Technology (Q2, rank 33, percentile 66)
+     - Energy (miscellaneous) (Q2, rank 9, percentile 63)
+     - Renewable Energy, Sustainability and the Environment (Q2, rank 72, percentile 60)
+   - **Source Id:** 62932
+   - **Author Ids:** 57195070159;6603270189;36650500300;6701827441;56264520300;21935399500;59890575100
+   - **Authoraffiliationids:** 60025153;60101868;60101868;60025153;60025153;60025153;60101868
+   - **Corresponding:** Passalacqua M.
+50.
+   - **Title:** Capacitor voltage ripple minimization in voltage source converter for HVDC applications
+   - **Venue:** 2019 Aeit Hvdc International Conference Aeit Hvdc 2019
+   - **Year:** 2019
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/AEIT-HVDC.2019.8740647
+   - **Scopus ID:** 2-s2.0-85068558901
+   - **Authors:** Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis; Carpita Mauro; Gavin Serge; Kissling Simon
+   - **Keywords:** Efficiency | HVDC | MMC | Multilevel converters | Voltage ripple reduction
+   - **Source Id:** 21100915608
+   - **Author Ids:** 6701827441;57195070159;21935399500;6603270189;36650500300;57189070776
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60101868;60101868;60101868
+   - **Corresponding:** Marchesoni M.
+51.
+   - **Title:** Soft-switching cells for Modular Multilevel Converters for efficient grid integration of renewable sources
+   - **Venue:** Aims Energy
+   - **Year:** 2019
+   - **Type:** Journal
+   - **Subtype:** Article
+   - **Citations:** 2
+   - **DOI:** 10.3934/energy.2019.3.246
+   - **Scopus ID:** 2-s2.0-85066999039
+   - **ISSN:** 23338326
+   - **eISSN:** 23338334
+   - **Volume:** 7
+   - **Issue:** 3
+   - **Pages:** 246-263
+   - **Authors:** Farnesi Stefano; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Luis
+   - **Keywords:** Grid integration | Medium voltage converter | Modular Multilevel Converter | Soft switching | Solid state transformer
+   - **Quartile:**
+     2025:
+     - Energy Engineering and Power Technology (Q2, rank 128, percentile 60)
+     - Fuel Technology (Q2, rank 60, percentile 56)
+     - Renewable Energy, Sustainability and the Environment (Q3, rank 172, percentile 44)
+     2019:
+     - Energy Engineering and Power Technology (Q3, rank 133, percentile 38)
+     - Fuel Technology (Q3, rank 66, percentile 33)
+     - Renewable Energy, Sustainability and the Environment (Q3, rank 127, percentile 29)
+   - **Source Id:** 21100836837
+   - **Author Ids:** 54392715100;6701827441;57195070159;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Farnesi S.
+52.
+   - **Title:** Transformer Inrush Currents in a NPC Based Converter System for Cold Ironing Applications
+   - **Venue:** 2018 20th European Conference on Power Electronics and Applications EPE 2018 Ecce Europe
+   - **Year:** 2018
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **Scopus ID:** 2-s2.0-85057056879
+   - **Authors:** Mantegazza Emanuele; Marchesoni Mario; Passalacqua Massimiliano; Vaccaro Filippo; Vaccaro Luis
+   - **Keywords:** AC/AC converter | Interleaved converters | Multilevel converters | Voltage Source Converter (VSC)
+   - **Source Id:** 21100887401
+   - **Author Ids:** 57204173047;6701827441;57195070159;57204173615;21935399500
+   - **Authoraffiliationids:** 121671530;60025153;60025153;121671530;60025153
+   - **Corresponding:** Mantegazza E.
+53.
+   - **Title:** A soft switching modular multilevel converter for railway traction systems
+   - **Venue:** 2017 19th European Conference on Power Electronics and Applications EPE 2017 Ecce Europe
+   - **Year:** 2017
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.23919/EPE17ECCEEurope.2017.8099381
+   - **Scopus ID:** 2-s2.0-85042046451
+   - **Volume:** 2017-January
+   - **Authors:** Farnesi Stefano; Marchesoni Mario; Vaccaro Luis
+   - **Keywords:** Converter Control | Multilevel Converters | Traction Application | Transformer | Zvs Converters
+   - **Source Id:** 21100851802
+   - **Author Ids:** 54392715100;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Farnesi S.
+54.
+   - **Title:** Capacitor current minimization and losses analysis in modular multilevel converter for HVDC applications
+   - **Venue:** 2016 18th European Conference on Power Electronics and Applications EPE 2016 Ecce Europe
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/EPE.2016.7695669
+   - **Scopus ID:** 2-s2.0-84996865941
+   - **Authors:** Farnesi Stefano; Marchesoni Mario; Vaccaro Luis
+   - **Keywords:** Converter control | HVDC | Multilevel converters | Reliability | Voltage Source Converter (VSC)
+   - **Source Id:** 21100786900
+   - **Author Ids:** 54392715100;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Farnesi S.
+55.
+   - **Title:** Reliability improvement of Modular Multilevel Converter in HVDC systems
+   - **Venue:** 19th Power Systems Computation Conference Pscc 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1109/PSCC.2016.7540942
+   - **Scopus ID:** 2-s2.0-84986587823
+   - **Authors:** Farnesi Stefano; Marchesoni Mario; Vaccaro Luis
+   - **Keywords:** Control | Efficiency | HVDC | reliability | VSC
+   - **Source Id:** 21100778001
+   - **Author Ids:** 54392715100;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Farnesi S.
+56.
+   - **Title:** Advances in locomotive Power Electronic systems directly fed through AC lines
+   - **Venue:** 2016 International Symposium on Power Electronics Electrical Drives Automation and Motion Speedam 2016
+   - **Year:** 2016
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 25
+   - **DOI:** 10.1109/SPEEDAM.2016.7525932
+   - **Scopus ID:** 2-s2.0-84994181489
+   - **Pages:** 657-664
+   - **Authors:** Farnesi Stefano; Marchesoni Mario; Vaccaro Luis
+   - **Keywords:** Medium Frequency Transformer | Power Electronic Transformer | Railway Electric Traction | Solid State Transformer
+   - **Source Id:** 21100784241
+   - **Author Ids:** 54392715100;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Farnesi S.
+57.
+   - **Title:** Study of the MMC circulating current for optimal operation mode in HVDC applications
+   - **Venue:** 2015 17th European Conference on Power Electronics and Applications EPE Ecce Europe 2015
+   - **Year:** 2015
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/EPE.2015.7311781
+   - **Scopus ID:** 2-s2.0-84965064084
+   - **Authors:** Marchesoni Mario; Vaccaro Luis
+   - **Keywords:** Converter control | Efficiency | HVDC | Multilevel converters | Voltage Source Converter (VSC)
+   - **Source Id:** 21100457043
+   - **Author Ids:** 6701827441;21935399500
+   - **Authoraffiliationids:** 116607080;116607080
+   - **Corresponding:** Marchesoni M.
+58.
+   - **Title:** Effects of the 2nd order harmonic leg current in a MMC converter
+   - **Venue:** 2014 16th European Conference on Power Electronics and Applications EPE Ecce Europe 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/EPE.2014.6911029
+   - **Scopus ID:** 2-s2.0-84923872714
+   - **Authors:** Bordignon P.; Maragliano Gianmarco; Marchesoni Mario; Vaccaro Luis
+   - **Keywords:** Converter control | HVDC | Multilevel converters | Voltage Source Converter (VSC)
+   - **Source Id:** 21100376109
+   - **Author Ids:** 6603367451;36778746300;6701827441;21935399500
+   - **Authoraffiliationids:** 60113332;60025153;60025153;60025153
+   - **Corresponding:** Bordignon P.
+59.
+   - **Title:** Optimal operation mode for Modular Multilevel Converter based HVDC
+   - **Venue:** 2014 International Symposium on Power Electronics Electrical Drives Automation and Motion Speedam 2014
+   - **Year:** 2014
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 12
+   - **DOI:** 10.1109/SPEEDAM.2014.6872067
+   - **Scopus ID:** 2-s2.0-84906654652
+   - **Pages:** 784-789
+   - **Authors:** Maragliano G.; Marchesoni M.; Vaccaro L.
+   - **Keywords:** harmonic | HVDC | MMC | performance | ripple
+   - **Source Id:** 21100332186
+   - **Author Ids:** 36778746300;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Maragliano G.
+60.
+   - **Title:** Modular multilevel converter in HVDC systems under fault conditions
+   - **Venue:** 2013 15th European Conference on Power Electronics and Applications EPE 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 25
+   - **DOI:** 10.1109/EPE.2013.6634467
+   - **Scopus ID:** 2-s2.0-84890216940
+   - **Authors:** Bordignon Paolo; Marchesoni Mario; Parodi Gianluca; Vaccaro Luis
+   - **Keywords:** Fault ride-through | HVDC | Multilevel converters | Voltage Source Converter (VSC)
+   - **Source Id:** 21100274262
+   - **Author Ids:** 6603367451;6701827441;52364526400;21935399500
+   - **Authoraffiliationids:** 60113332;60025153;60025153;60025153
+   - **Corresponding:** Bordignon P.
+61.
+   - **Title:** A new N-level space vector modulator for cascaded multilevel converters
+   - **Venue:** 2013 15th European Conference on Power Electronics and Applications EPE 2013
+   - **Year:** 2013
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/EPE.2013.6634669
+   - **Scopus ID:** 2-s2.0-84890143003
+   - **Authors:** Maragliano Gianmarco; Marchesoni Mario; Vaccaro Luis
+   - **Keywords:** Cascaded multilevel converters | Fault handling strategy | Modulation strategy | Multilevel converters | Space Vectors Modulation (SVM)
+   - **Source Id:** 21100274262
+   - **Author Ids:** 36778746300;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Maragliano G.
+62.
+   - **Title:** Extending the operating range in Diode-Clamped Multilevel inverters with Active Front Ends
+   - **Venue:** 2012 IEEE International Energy Conference and Exhibition Energycon 2012
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1109/EnergyCon.2012.6348230
+   - **Scopus ID:** 2-s2.0-84870827370
+   - **Pages:** 63-68
+   - **Authors:** Marchesoni M.; Vaccaro L.
+   - **Keywords:** Active Front-End | Converter Control | Grid interface | Modulation strategy | Multilevel converters
+   - **Source Id:** 21100223117
+   - **Author Ids:** 6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchesoni M.
+63.
+   - **Title:** Modular multilevel converter: Theoretical analysis and capacitor voltage ripple effects on the modulating signals
+   - **Venue:** 15th International Power Electronics and Motion Control Conference and Exposition EPE Pemc 2012 Ecce Europe
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/EPEPEMC.2012.6397328
+   - **Scopus ID:** 2-s2.0-84874229260
+   - **Pages:** DS3b.188
+   - **Authors:** Marchesoni M.; Bordignon P.; Parodi G.; Vaccaro L.
+   - **Keywords:** Hvdc | M2c | Vsc
+   - **Source Id:** 21100229222
+   - **Author Ids:** 6701827441;6603367451;52364526400;21935399500
+   - **Authoraffiliationids:** 60025153;60113332;60025153;60025153
+   - **Corresponding:** Marchesoni M.
+64.
+   - **Title:** A sensorless PMSM drive with inductance estimation based on FPGA
+   - **Venue:** Speedam 2012 21st International Symposium on Power Electronics Electrical Drives Automation and Motion
+   - **Year:** 2012
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/SPEEDAM.2012.6264453
+   - **Scopus ID:** 2-s2.0-84866921368
+   - **Pages:** 1039-1044
+   - **Authors:** Formentini A.; Maragliano G.; Marchesoni M.; Vaccaro L.
+   - **Keywords:** Estimation technique | FPGA | Permanent magnet synchronous motor | Sensorless control
+   - **Source Id:** 21100216928
+   - **Author Ids:** 55370605300;36778746300;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Formentini A.
+65.
+   - **Title:** A new generalized fault tolerant space vector modulator for cascaded multilevel converters
+   - **Venue:** IECON Proceedings Industrial Electronics Conference
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 5
+   - **DOI:** 10.1109/IECON.2011.6119456
+   - **Scopus ID:** 2-s2.0-84856527784
+   - **Pages:** 1069-1074
+   - **Authors:** Maragliano Gianmarco; Marchesoni Mario; Parodi Gianluca; Vaccaro Luis
+   - **Source Id:** 56670
+   - **Author Ids:** 36778746300;6701827441;52364526400;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Maragliano G.
+66.
+   - **Title:** A new capacitor balancing technique in diode-clamped multilevel converters with active front end for extended operation range
+   - **Venue:** Proceedings of the 2011 14th European Conference on Power Electronics and Applications EPE 2011
+   - **Year:** 2011
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **Scopus ID:** 2-s2.0-80053525215
+   - **Authors:** Fazio P.; Maragliano G.; Marchesoni M.; Vaccaro L.
+   - **Keywords:** Active Front-End | Adjustable speed drive | Converter Control | Modulation strategy | Multilevel converters
+   - **Source Id:** 20000195013
+   - **Author Ids:** 52363412900;36778746300;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Fazio P.
+67.
+   - **Title:** A novel direct torque control strategy for high power induction motor drives
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/ISIE.2010.5636610
+   - **Scopus ID:** 2-s2.0-78650400747
+   - **Pages:** 1175-1180
+   - **Authors:** Maragliano G.; Marchesoni M.; Vaccaro L.
+   - **Source Id:** 85690
+   - **Author Ids:** 36778746300;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Maragliano G.
+68.
+   - **Title:** FPGA implementation of a sensorless PMSM drive control algorithm based on algebraic method
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 11
+   - **DOI:** 10.1109/ISIE.2010.5637857
+   - **Scopus ID:** 2-s2.0-78650398027
+   - **Pages:** 3083-3088
+   - **Authors:** Maragliano G.; Marchesoni M.; Vaccaro L.
+   - **Source Id:** 85690
+   - **Author Ids:** 36778746300;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Maragliano G.
+69.
+   - **Title:** Operating limits in multilevel MPC inverters with Active Front Ends
+   - **Venue:** Speedam 2010 International Symposium on Power Electronics Electrical Drives Automation and Motion
+   - **Year:** 2010
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 15
+   - **DOI:** 10.1109/SPEEDAM.2010.5542193
+   - **Scopus ID:** 2-s2.0-77956607534
+   - **Pages:** 192-197
+   - **Authors:** Marchesoni M.; Vaccaro L.
+   - **Keywords:** Balancing capacitors voltage | DCM | MPC | Multilevel converters
+   - **Source Id:** 19700180524
+   - **Author Ids:** 6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Marchesoni M.
+70.
+   - **Title:** A new sensorless permanent magnet synchronous motor algorithm based on algebraic method
+   - **Venue:** 2009 13th European Conference on Power Electronics and Applications EPE 09
+   - **Year:** 2009
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 7
+   - **Scopus ID:** 2-s2.0-72949089350
+   - **Authors:** Carpaneto M.; Maragliano G.; Marchesoni M.; Vaccaro L.
+   - **Keywords:** Estimation technique | Permanent magnet motor | Sensorless control
+   - **Source Id:** 19500157487
+   - **Author Ids:** 14422109200;36778746300;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Carpaneto M.
+71.
+   - **Title:** Adjustment of machine voltage in drives operating at constant power: Consequences for the inverter
+   - **Venue:** Speedam 2008 International Symposium on Power Electronics Electrical Drives Automation and Motion
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 0
+   - **DOI:** 10.1109/SPEEDHAM.2008.4581266
+   - **Scopus ID:** 2-s2.0-51849133194
+   - **Pages:** 1518-1524
+   - **Authors:** Tenca P.; Borghetti G.; Carpaneto M.; Marchesoni M.; Vaccaro L.
+   - **Keywords:** Electrical motor drives | Inverter saturation | Maximum power transfer | Voltage source inverters
+   - **Source Id:** 12100156803
+   - **Author Ids:** 55962997800;24823916700;14422109200;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Tenca P.
+72.
+   - **Title:** Induction motor direct torque control with improvement in low frequency harmonic content
+   - **Venue:** Speedam 2008 International Symposium on Power Electronics Electrical Drives Automation and Motion
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 1
+   - **DOI:** 10.1109/SPEEDHAM.2008.4581127
+   - **Scopus ID:** 2-s2.0-51849125961
+   - **Pages:** 124-129
+   - **Authors:** Borghetti G.; Carpaneto M.; Marchesoni M.; Vaccaro L.
+   - **Keywords:** DTC | Induction motor drive | Synchronous PWM | Torque harmonic reduction
+   - **Source Id:** 12100156803
+   - **Author Ids:** 24823916700;14422109200;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Borghetti G.
+73.
+   - **Title:** Energy efficiency improvement in AC/DC/AC diode-clamped multilevel conversion systems
+   - **Venue:** Speedam 2008 International Symposium on Power Electronics Electrical Drives Automation and Motion
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 6
+   - **DOI:** 10.1109/SPEEDHAM.2008.4581267
+   - **Scopus ID:** 2-s2.0-51749126068
+   - **Pages:** 798-803
+   - **Authors:** Borghetti G.; Carpaneto M.; Marchesoni M.; Tenca P.; Vaccaro L.
+   - **Keywords:** Adjustable speed drive | Converter control | Efficiency | Multilevel converters
+   - **Source Id:** 12100156803
+   - **Author Ids:** 24823916700;14422109200;6701827441;55962997800;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153;60025153
+   - **Corresponding:** Borghetti G.
+74.
+   - **Title:** A Rogowski coil for high voltage applications
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2008
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 17
+   - **DOI:** 10.1109/IMTC.2008.4547197
+   - **Scopus ID:** 2-s2.0-51349142588
+   - **ISSN:** 10915281
+   - **Pages:** 1069-1073
+   - **Authors:** Mariscotti Andrea; Vaccaro Luis
+   - **Keywords:** Current measurement | Electric field effects | Insulation | UHV insulation
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 23091663200;21935399500
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mariscotti A.
+75.
+   - **Title:** A new cascaded multilevel converter based on NPC cells
+   - **Venue:** IEEE International Symposium on Industrial Electronics
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 20
+   - **DOI:** 10.1109/ISIE.2007.4374740
+   - **Scopus ID:** 2-s2.0-50049131168
+   - **Pages:** 1033-1038
+   - **Authors:** Carpaneto M.; Marchesoni M.; Vaccaro L.
+   - **Source Id:** 85690
+   - **Author Ids:** 14422109200;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153
+   - **Corresponding:** Carpaneto M.
+76.
+   - **Title:** Design of a pulse generator for wideband applications
+   - **Venue:** Conference Record IEEE Instrumentation and Measurement Technology Conference
+   - **Year:** 2007
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 4
+   - **DOI:** 10.1109/imtc.2007.379248
+   - **Scopus ID:** 2-s2.0-34648827837
+   - **ISSN:** 10915281
+   - **Authors:** Mariscotti Andrea; Vaccaro Luis
+   - **Keywords:** Logic circuits | Microwave circuits | Pulse generation
+   - **Quartile:**
+     2025:
+     - Electrical and Electronic Engineering (Q3, rank 634, percentile 36)
+   - **Source Id:** 15045
+   - **Author Ids:** 23091663200;21935399500
+   - **Authoraffiliationids:** 60025153;60025153
+   - **Corresponding:** Mariscotti A.
+77.
+   - **Title:** A novel approach for DC-link voltage ripple reduction in cascaded multilevel converters
+   - **Venue:** International Symposium on Power Electronics Electrical Drives Automation and Motion 2006 Speedam 2006
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 14
+   - **DOI:** 10.1109/SPEEDAM.2006.1649837
+   - **Scopus ID:** 2-s2.0-33845578972
+   - **Volume:** 2006
+   - **Pages:** 571-576
+   - **Authors:** Carpaneto M.; Maragliano G.; Marchesoni M.; Vaccaro L. R.
+   - **Keywords:** Boost converter | Cascade multilevel converter | Dc-link filter reduction | Medium voltage drives
+   - **Source Id:** 5100153512
+   - **Author Ids:** 14422109200;36778746300;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Carpaneto M.
+78.
+   - **Title:** A new modular multilevel conversion structure with passive filter minimization
+   - **Venue:** IECON Proceedings Industrial Electronics Conference
+   - **Year:** 2006
+   - **Type:** Conference Proceeding
+   - **Subtype:** Conference Paper
+   - **Citations:** 2
+   - **DOI:** 10.1109/IECON.2006.347332
+   - **Scopus ID:** 2-s2.0-50049089347
+   - **Pages:** 2432-2437
+   - **Authors:** Carpaneto Matteo; Ferrando Giuseppe; Marchesoni Mario; Vaccaro Luis R.
+   - **Source Id:** 56670
+   - **Author Ids:** 14422109200;57199552745;6701827441;21935399500
+   - **Authoraffiliationids:** 60025153;60025153;60025153;60025153
+   - **Corresponding:** Carpaneto M.

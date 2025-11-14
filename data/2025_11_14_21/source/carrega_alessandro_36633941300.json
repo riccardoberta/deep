@@ -1,0 +1,2723 @@
+{
+  "surname": "Carrega",
+  "name": "Alessandro",
+  "unit": "ICT",
+  "email": "alessandro.carrega@unige.it",
+  "phone": "",
+  "page": "https://rubrica.unige.it/personale/V0VDWlts",
+  "website": "",
+  "unige_id": "264115",
+  "scopus_id": "36633941300",
+  "role": "Ricercatore",
+  "grade": "Ricercatore t.d. art. 24 c. 3 lett. A Legge 240/10 (t.pieno)",
+  "ssd": "IINF-03/A (Telecomunicazioni)",
+  "location": [
+    {
+      "building": "Opera Pia - padiglione E (ED_161450402)",
+      "floor": "3° piano",
+      "room": "US_161450402.III.019"
+    }
+  ],
+  "career": [
+    {
+      "role": "AR",
+      "from": "2013-06-03 00:00:00.0000000",
+      "to": "2017-06-02 00:00:00.0000000"
+    },
+    {
+      "role": "CB",
+      "from": "2018-02-19 00:00:00.0000000",
+      "to": "2022-03-31 00:00:00.0000000"
+    },
+    {
+      "role": "RD",
+      "from": "2022-02-01 00:00:00.0000000",
+      "to": "2028-02-29 00:00:00.0000000"
+    }
+  ],
+  "responsibilities": [],
+  "teaching": {
+    "2025": [
+      {
+        "course": "CLOUD AND NETWORK PROGRAMMING (104779)",
+        "degree": "LM-27 - INTERNET AND MULTIMEDIA ENGINEERING"
+      }
+    ],
+    "2024": [
+      {
+        "course": "CYBER SECURITY (108931)",
+        "degree": "LM-27 - INTERNET AND MULTIMEDIA ENGINEERING"
+      },
+      {
+        "course": "CLOUD AND NETWORK PROGRAMMING (104779)",
+        "degree": "LM-27 - INTERNET AND MULTIMEDIA ENGINEERING"
+      }
+    ],
+    "2023": [
+      {
+        "course": "CYBER SECURITY (108931)",
+        "degree": "LM-27 - INTERNET AND MULTIMEDIA ENGINEERING"
+      },
+      {
+        "course": "INTERNET PROGRAMMING (104779)",
+        "degree": "LM-27 - INTERNET AND MULTIMEDIA ENGINEERING"
+      }
+    ],
+    "2022": [
+      {
+        "course": "CYBER SECURITY (104781)",
+        "degree": "LM-27 - INTERNET AND MULTIMEDIA ENGINEERING"
+      },
+      {
+        "course": "INTERNET PROGRAMMING (104779)",
+        "degree": "LM-27 - INTERNET AND MULTIMEDIA ENGINEERING"
+      }
+    ],
+    "2020": [
+      {
+        "course": "FONDAMENTI DI INFORMATICA (60517)",
+        "degree": "L-9 - INGEGNERIA NAUTICA"
+      }
+    ]
+  },
+  "scopus_metrics": [
+    {
+      "period": "absolute",
+      "hindex": 12,
+      "total_products": 52,
+      "journals": 14,
+      "conferences": 32,
+      "citations": 493,
+      "start": 1900,
+      "end": 2025
+    },
+    {
+      "period": "15 years (2010-2025)",
+      "hindex": 12,
+      "total_products": 52,
+      "journals": 14,
+      "conferences": 32,
+      "citations": 493,
+      "start": 2010,
+      "end": 2025
+    },
+    {
+      "period": "10 years (2015-2025)",
+      "hindex": 8,
+      "total_products": 41,
+      "journals": 11,
+      "conferences": 24,
+      "citations": 268,
+      "start": 2015,
+      "end": 2025
+    },
+    {
+      "period": "05 years (2020-2025)",
+      "hindex": 7,
+      "total_products": 20,
+      "journals": 6,
+      "conferences": 12,
+      "citations": 163,
+      "start": 2020,
+      "end": 2025
+    }
+  ],
+  "scopus_products": [
+    {
+      "scopus_id": "2-s2.0-85198749396",
+      "title": "Toward Sustainable O-RAN Deployment: An In-Depth Analysis of Power Consumption",
+      "doi": "10.1109/TGCN.2024.3426108",
+      "venue": "IEEE Transactions on Green Communications and Networking",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2025,
+      "volume": "9",
+      "issue_id": "2",
+      "pages": "429-444",
+      "issn": null,
+      "eIssn": "24732400",
+      "source_id": "21100906361",
+      "authors": "Baldini Gianmarco; Bolla Raffaele; Bruschi Roberto; Carrega Alessandro; Davoli Franco; Lombardo Chiara; Rabbani Ramin",
+      "author_ids": "57193911480;7006403406;8555973600;36633941300;57220364548;50061523000;58122114400",
+      "authorAffiliationIds": "60103695;60025153;60025153;60025153;60025153;60025153;60103966",
+      "corresponding": "Baldini G.",
+      "keywords": "3-layer architecture | algorithm | cloud | Green networking | mobile | open-ran | placement",
+      "abstract": "5G delivers limitless mobile broadband capabilities, enabling extensive connectivity for various devices, including smartphones, sensors, and machines. Its most notable feature lies in its ability to facilitate instantaneous and highly reliable machine communications. Because of the rapid evolution of communication networks, innovative architectures such as Open RAN (O-RAN) have emerged, promising increased flexibility, efficiency, and sustainability. To realize the full potential of O-RAN networks, however, it is critical to understand their power consumption implications. In this paper, in order to understand the way O-RAN consumes energy, a comprehensive power consumption model is used. The study not only provides theoretical analysis but also incorporates a practical implementation of the architecture. For this, an algorithm is employed to determine a base monolithic architecture of O-RAN by the placement of Distributed Unit (DU) and Centralized Unit (CU) using available data of Radio Unit (RU) in France and Ireland. The research further explores the impact of different parameter variations in various Evaluation Scenarios (ESs) on the architecture. By conducting this thorough evaluation, this research provides valuable insights for researchers and industry practitioners to gain a deeper understanding of energy consumption patterns and derive ideas on how to effectively reduce power consumption in these networks.",
+      "citations": 5,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 96,
+              "rank": 22,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Renewable Energy, Sustainability and the Environment",
+              "percentile": 84,
+              "rank": 48,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-105013468249",
+      "title": "Nephele - Remote Healthcare Services, Ultrasound Medical Device Dematerialization",
+      "doi": "10.23919/SpliTech65624.2025.11091668",
+      "venue": "2025 10th International Conference on Smart and Sustainable Technologies Splitech 2025",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2025,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101321197",
+      "authors": "Passalacqua Antonio; Pedemonte Giacomo; Volta Silvia; Carrega Alessandro",
+      "author_ids": "59666010000;59937126300;60051259100;36633941300",
+      "authorAffiliationIds": "60113818;60113818;60113818;133023620",
+      "corresponding": "Passalacqua A.",
+      "keywords": "Cloud | Dematerialization | Edge | Hyper-Distributed Application | IoT | Ultrasound Medical Device",
+      "abstract": "The NEPHELE project, funded by the Horizon Europe programme under the topic 'Future European platforms for the Edge: Meta Operating Systems,' aims to revolutionize the orchestration of Hyper-Distributed Applications (HDAs) across the compute continuum from Cloud-to-Edge-to-IoT (Internet of Things). By addressing existing openness and interoperability barriers, NEPHELE introduces automation and decentralized intelligence mechanisms powered by 5G and distributed Artificial Intelligence (AI) technologies. The project focuses on two core innovations: an IoT and edge computing SoftWare (SW) stack that supports virtualization and interoperability in a device-independent manner, and a synergetic meta-orchestration framework for coordinating cloud and edge computing platforms. These innovations will be demonstrated and validated across various vertical industries, including disaster management, logistics, energy management, and remote healthcare. In this context, our work demonstrates the process of virtualizing the core functionalities of conventional ultrasound medical systems, effectively abstracting away physical constraints and facilitating remote Ultrasound exams via edge/cloud services. This paper presents a comprehensive analysis of Remote Ultrasound Medical Services, focusing on its IoT components and services, highlighting the positive impact on sustainability, cost reduction and increased flexibility, despite slight reductions in performance metrics.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85219632036",
+      "title": "Efficient, Reliable and Secure Framework for the 5G Virtualization of the UltraSound Medical System",
+      "doi": "10.1109/HEALTHCOM60970.2024.10880737",
+      "venue": "2024 IEEE International Conference on E Health Networking Application and Services Healthcom 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101278600",
+      "authors": "Carrega Alessandro; Bruschi Roberto; Bolla Raffaele; Passalacqua Antonio",
+      "author_ids": "36633941300;8555973600;7006403406;59666010000",
+      "authorAffiliationIds": "60025153;60025153;60025153;132316140",
+      "corresponding": "Carrega A.",
+      "keywords": "5G | Framework | NFV | Security | UltraSound Medical System | Virtualization",
+      "abstract": "The virtualization of UltraSound (US) medical imaging systems through cloud-edge computing offers a transformative approach to healthcare, overcoming limitations of traditional on-premises systems. By dematerializing US system functions and migrating them to the cloud, barriers related to hardware and localization are eliminated, enabling a more agile and scalable approach to medical imaging. This paradigm shift leverages virtual objects and composite virtual objects to intelligently manage and orchestrate physical and virtual components, optimizing system performance and meeting service requirements.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85197369833",
+      "title": "A Stochastic Knapsack Model for Energy Efficient Management of Multi-Server Queues",
+      "doi": "10.1109/BalkanCom61808.2024.10557204",
+      "venue": "2024 7th International Balkan Conference on Communications and Networking Balkancom 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "224-229",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101232811",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Carrega Alessandro; Davoli Franco; Lombardo Chiara; Siccardi Beatrice",
+      "author_ids": "7006403406;8555973600;36633941300;57220364548;50061523000;57976887200",
+      "authorAffiliationIds": "60025153-60103966;60025153-60103966;60025153-60103966;60025153-60103966;60025153-60103966;60025153-60103966",
+      "corresponding": "Bolla R.",
+      "keywords": "Adaptive Rate | Energy Efficient Networking | Energy-Performance Tradeoff | Load Balancing | MEC",
+      "abstract": "We consider multiple bursty flows characterized by different statistical parameters and performance requirements, which generate packets that require some form of processing at the network edge. We model the processing resources as multiple servers that can be activated/deactivated on a longer time scale with respect to the packet dynamics. Packets awaiting service are queued in an infinite buffer, and the queueing model adopted is of the MX / D / C type; the flow dynamics is instead represented by a birth-death model on a much longer time scale. By exploiting a time-scale decomposition, we describe possible Call Admission Control (CAC) strategies that are based on a Stochastic Knapsack model over the space of flows that satisfy packet-level delay constraints. We compare a Complete Partitioning and a Complete Sharing CAC scheme in terms of energy efficient implementation.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105009080304",
+      "title": "Revolutionizing Cloud Security with Programmable Frameworks: a Novel Approach",
+      "doi": "10.1109/FNWF63303.2024.11028857",
+      "venue": "2024 IEEE Future Networks World Forum Fnwf 2024",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": "681-686",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101303655",
+      "authors": "Carrega Alessandro",
+      "author_ids": "36633941300",
+      "authorAffiliationIds": "60025153",
+      "corresponding": "Carrega A.",
+      "keywords": "Cloud | Framework | Programmability | Security",
+      "abstract": "We present a novel framework for the management of a multi-tier architecture, where a common, programmable, and pervasive context fabric feeds a powerful set of multi-vendor detection and analysis algorithms (business logic). The challenge is deep visibility over multiple software components by real-time collection of massive events from a multiplicity of capillary sources, while maintaining essential properties such as forwarding speed, scalability, autonomy, usability, fault tolerance, resistance to compromises, and responsiveness. The ambition is to support better and more reliable situational awareness by inter- and intra-domain data correlation in both space and time, in order to timely detect and respond even the more sophisticated multi-vector and interdisciplinary cyberattacks. The Context Broker (CB) is the logical component to manage the security context. We define the security context as the set of information, data, and measurements that describe the service and can be used for security-related purposes. The Local Control Plane (LCP) gives the CB access to the configuration of agents. We performed an evaluation of the CB Manager (CB-Man) and LCP considering different scenarios and workloads. The goal is to verify the robustness and the reliance of these two components in different execution scenarios.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-105002851823",
+      "title": "ePEM: An End-to-End Proactive Secure Connectivity Manager for 6G Orchestrator Solutions",
+      "doi": "10.1109/CAMAD62243.2024.10942805",
+      "venue": "IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks Camad",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2024,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": "23784873",
+      "source_id": "21100809799",
+      "authors": "Carrega Alessandro; Rabbani Ramin",
+      "author_ids": "36633941300;58122114400",
+      "authorAffiliationIds": "60025153;60025153",
+      "corresponding": "Carrega A.",
+      "keywords": "6G | blueprint | NFV | orchestration | process automation | security",
+      "abstract": "The End-to-End Proactive Security Connectivity Manager (ePEM) system is introduced as a cutting-edge connectivity manager designed to orchestrate and secure end-to-end services within the Holistic, Omnipresent, Resilient Services for future 6G wireless and computing Ecosystems (HORSE) security infrastructure for future Sixth-Generation (6G) networks. It plays a pivotal role in managing Network Function Virtualization (NFV) and applicative services, providing observability and data simplification to improve decision-making and security management. ePEM employs meta-actions for security contingency planning and maintains a comprehensive database of the network's logical topology. Built on a modular architecture, it supports various Network Function (xNF) and ecosystems, using blueprint profiles to standardise the operations for network elements.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Graphics and Computer-Aided Design",
+              "percentile": 37,
+              "rank": 83,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 32,
+              "rank": 367,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "subjects": [
+            {
+              "subject": "Computer Graphics and Computer-Aided Design",
+              "percentile": 31,
+              "rank": 87,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 30,
+              "rank": 355,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85174385000",
+      "title": "Intent-Driven Distributed Applications Management Over Compute and Network Resources in the Computing Continuum",
+      "doi": "10.1109/DCOSS-IoT58021.2023.00074",
+      "venue": "Proceedings 19th International Conference on Distributed Computing in Smart Systems and the Internet of Things Dcoss Iot 2023",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2023,
+      "volume": null,
+      "issue_id": null,
+      "pages": "429-436",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101183572",
+      "authors": "Zafeiropoulos Anastasios; Fotopoulou Eleni; Vassilakis Constantinos; Tzanettis Ioannis; Lombardo Chiara; Carrega Alesssandro; Bruschi Roberto",
+      "author_ids": "24333644200;8727584800;55627877790;57480145000;50061523000;36633941300;8555973600",
+      "authorAffiliationIds": "60104215;60002947;60002947;60002947;124426043;124426043;124426043",
+      "corresponding": "Zafeiropoulos A.",
+      "keywords": "computing continuum | distributed applications | intent-driven orchestration | network operating support system | system of systems",
+      "abstract": "Intent-driven orchestration enables organizations to achieve greater automation, integration, and intelligence of their compute and network resources by defining their objectives and policies in a more abstract and holistic way, while letting the orchestration system handle the coordination, optimization, and adaptation of the resources in response to changing needs and conditions. The trend for the development of intent-driven orchestration mechanisms has been growing in recent years as the deployment of distributed applications in the computing continuum has become more complex and diverse. In this manuscript we detail a novel approach for the management of distributed applications in the computing continuum. A hierarchical decision making scheme is proposed where an entity in a specific level of the hierarchy has the responsibility for the management of the overall application or a part of it, without having the control of all the management actions. The control is distributed across various entities that have to collaborate towards some joint objectives. Both compute and network resources management is considered that may be provided by the same or different infrastructure providers.",
+      "citations": 10,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85132527635",
+      "title": "Automating Mitigation of Amplification Attacks in NFV Services",
+      "doi": "10.1109/TNSM.2022.3172880",
+      "venue": "IEEE Transactions on Network and Service Management",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2022,
+      "volume": "19",
+      "issue_id": "3",
+      "pages": "2382-2396",
+      "issn": null,
+      "eIssn": "19324537",
+      "source_id": "7200153156",
+      "authors": "Repetto Matteo; Bruno Gianmarco; Yusupov Jalolliddin; Lamanna Guerino; Ertl Benjamin; Carrega Alessandro",
+      "author_ids": "57194639871;36701007300;57196119190;35324928200;58101305100;36633941300",
+      "authorAffiliationIds": "60021199;118424337;60112930;128779023;126321704;60103966",
+      "corresponding": "Repetto M.",
+      "keywords": "5G | Amplification attacks | ARIMA | DDoS | eBPF | NFV",
+      "abstract": "The combination of virtualization techniques with capillary computing and storage resources allows the instantiation of Virtual Network Functions throughout the network infrastructure, which brings more agility in the development and operation of network services. Beside forwarding and routing, this can be also used for additional functions, e.g., for security purposes. In this paper, we present a framework to systematically create security analytics for virtualized network services, specifically targeting the detection of cyber-attacks. Our framework largely automates the deployment of security sidecars into existing service templates and their interconnection to an external analytics platform. Notably, it leverages code augmentation techniques to dynamically inject and remove inspection probes without affecting service operation. We describe the implementation of a use case for the detection of DNS amplification attacks in virtualized 5G networks, and provide extensive evaluation of our innovative inspection and detection mechanisms. Our results demonstrate better efficiency with respect to existing network monitoring tools in terms of CPU usage, as well as good accuracy in detecting attacks even with variable traffic patterns.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 90,
+              "rank": 95,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 89,
+              "rank": 57,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 84,
+              "rank": 116,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 83,
+              "rank": 64,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85136797445",
+      "title": "Trading off Power Consumption and Delay in the Execution of Network Functions by Dynamic Activation of Processing Units",
+      "doi": "10.1109/NetSoft54395.2022.9844039",
+      "venue": "Proceedings of the 2022 IEEE International Conference on Network Softwarization Network Softwarization Coming of Age New Challenges and Opportunities Netsoft 2022",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2022,
+      "volume": null,
+      "issue_id": null,
+      "pages": "1-6",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101104270",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Carrega Alessandro; Davoli Franco; Lombardo Chiara",
+      "author_ids": "7006403406;8555973600;36633941300;57220364548;50061523000",
+      "authorAffiliationIds": "60025153-60103966;60025153-60103966;60025153;60025153-60103966;60103966",
+      "corresponding": "Bolla R.",
+      "keywords": "Energy efficiency | hardware offloading | MEC",
+      "abstract": "Beside increasing flexibility and programmability, the current network 'softwarization' trend is believed to be beneficial also in respect of energy efficiency, owing to the consolidation of resources made possible by virtualized networking components. However, the widespread use of general-purpose hardware may jeopardize energy saving, unless proper control strategies are put in operation. In this context, the paper addresses a 'smart sleeping' control problem, where computing resources in multi-core processors executing network functions are modelled as multi-server queues, and the number of active processing units (either physical or virtual) can be dynamically adjusted by parametric control over a time scale compatible with the long-term dynamics of the traffic flows that require processing. We show that, on average, up to 25% of processing capacity of a network node can be turned off in the presence of bursty traffic with low load without significantly affecting packet latency.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85128222612",
+      "title": "A Reference Architecture for Management of Security Operations in Digital Service Chains",
+      "doi": "10.1007/978-3-031-04036-8_1",
+      "venue": "Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics",
+      "type": "Book Series",
+      "sub_type": "Book Chapter",
+      "year": 2022,
+      "volume": "13300 LNCS",
+      "issue_id": null,
+      "pages": "1-31",
+      "issn": "03029743",
+      "eIssn": "16113349",
+      "source_id": "25674",
+      "authors": "Carrega Alessandro; Grieco Giovanni; Striccoli Domenico; Papoutsakis Manos; Lima Tomas; Carretero José Ignacio; Repetto Matteo",
+      "author_ids": "36633941300;57211760048;55911429000;56465037000;57576679400;57576472000;57194639871",
+      "authorAffiliationIds": "60103966;60027299;60027299;60019181;125934390;120313275;60021199",
+      "corresponding": "Carrega A.",
+      "keywords": "Analytics pipeline | Cybersecurity architecture | Detection | Digital service chain",
+      "abstract": "Modern computing paradigms (i.e., cloud, edge, Internet of Things) and ubiquitous connectivity have brought the notion of pervasive computing to an unforeseeable level, which boosts service-oriented architectures and microservices patterns to create digital services with data-centric models. However, the resulting agility in service creation and management has not been followed by a similar evolution in cybersecurity patterns, which still largely rest on more conventional device- and infrastructure-centric models. In this Chapter, we describe the implementation of the GUARD Platform, which represents the core element of a modern cybersecurity framework for building detection and analytics services for complex digital service chains. We briefly review the logical components and how they address scientific and technological challenges behind the limitations of existing cybersecurity tools. We also provide validation and performance analysis that show the feasibility and efficiency of our implementation.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 48,
+              "rank": 70,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 46,
+              "rank": 129,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 46,
+              "rank": 126,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 34,
+              "rank": 84,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85128187559",
+      "title": "Monitoring Network Flows in Containerized Environments",
+      "doi": "10.1007/978-3-031-04036-8_2",
+      "venue": "Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics",
+      "type": "Book Series",
+      "sub_type": "Book Chapter",
+      "year": 2022,
+      "volume": "13300 LNCS",
+      "issue_id": null,
+      "pages": "32-55",
+      "issn": "03029743",
+      "eIssn": "16113349",
+      "source_id": "25674",
+      "authors": "Repetto Matteo; Carrega Alessandro",
+      "author_ids": "57194639871;36633941300",
+      "authorAffiliationIds": "60021199;60103966",
+      "corresponding": "Repetto M.",
+      "keywords": "Cloud computing | Cloud-native applications | eBPF | Network flow monitoring",
+      "abstract": "With the progressive implementation of digital services over virtualized infrastructures and smart devices, the inspection of network traffic becomes more challenging than ever, because of the difficulty to run legacy cybersecurity tools in novel cloud models and computing paradigms. The main issues concern i) the portability of the service across heterogeneous public and private infrastructures, that usually lack hardware and software acceleration for efficient packet processing, and ii) the difficulty to integrate monolithic appliances in modular and agile containerized environments. In this Chapter, we investigate the usage of the extended Berkeley Packet Filter (eBPF) for effective and efficient packet inspection in virtualized environments. Our preliminary implementation demonstrates that we can achieve the same performance as well-known packet inspection tools, but with far less resource consumption. This motivates further research work to extend the capability of our framework and to integrate it in Kubernetes.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 48,
+              "rank": 70,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 46,
+              "rank": 129,
+              "quartile": "Q3"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 46,
+              "rank": 126,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Theoretical Computer Science",
+              "percentile": 34,
+              "rank": 84,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85129012912",
+      "title": "An Effective and Efficient Approach to Improve Visibility Over Network Communications",
+      "doi": "10.22667/JOWUA.2021.12.31.089",
+      "venue": "Journal of Wireless Mobile Networks Ubiquitous Computing and Dependable Applications",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "12",
+      "issue_id": "4",
+      "pages": "89-108",
+      "issn": "20935374",
+      "eIssn": "20935382",
+      "source_id": "21100262490",
+      "authors": "Zuppelli Marco; Carrega Alessandro; Repetto Matteo",
+      "author_ids": "57219265208;36633941300;57194639871",
+      "authorAffiliationIds": "60021199;60103966;60021199-128051712",
+      "corresponding": "Zuppelli M.",
+      "keywords": "eBPF | network covert channels | network monitoring",
+      "abstract": "Modern applications and services increasingly leverage network infrastructures, cyber-physical systems and distributed computing paradigms to offer unprecedented pervasive and immersive experience to users. Unfortunately, the massive usage of virtualization models, the mix of public and private infrastructures, and the large adoption of service-oriented architectures make the deployment and operation of traditional cyber-security appliances difficult. Although cyber-security architectures are already migrating towards distributed models and smarter detectors to account for ever-evolving forms of malware and attacks, they still miss effective and efficient mechanisms to programmatically inspect these new environments. In this paper, we investigate the use of the extended Berkeley Packet Filter for inspecting network communications. We show how this framework can be employed to selectively gather various information describing a network conversation (e.g., packet headers), in order to spot emerging threats like malicious software taking advantage of hidden communications. Results indicate that our approach can be used to inspect network traffic in a more efficient way com-pared to other traditional mechanisms.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 66,
+              "rank": 182,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Science (miscellaneous)",
+              "percentile": 63,
+              "rank": 64,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 62,
+              "rank": 372,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Computer Science (miscellaneous)",
+              "percentile": 77,
+              "rank": 21,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 63,
+              "rank": 131,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 62,
+              "rank": 280,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85106904683",
+      "title": "An Autonomous Cybersecurity Framework for Next-generation Digital Service Chains",
+      "doi": "10.1007/s10922-021-09607-7",
+      "venue": "Journal of Network and Systems Management",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "29",
+      "issue_id": "4",
+      "pages": null,
+      "issn": "10647570",
+      "eIssn": "15737705",
+      "source_id": "27287",
+      "authors": "Repetto Matteo; Striccoli Domenico; Piro Giuseppe; Carrega Alessandro; Boggia Gennaro; Bolla Raffaele",
+      "author_ids": "57194639871;55911429000;29068119300;36633941300;6603152330;7006403406",
+      "authorAffiliationIds": "60021199;60027299-60103966;60027299-60103966;60103966;60027299-60103966;60103966-60025153",
+      "corresponding": "Repetto M.",
+      "keywords": "Access control | Cybersecurity framework | Digital service chains | Identity management | Threat identification",
+      "abstract": "Today, the digital economy is pushing new business models, based on the creation of value chains for data processing, through the interconnection of processes, products, services, software, and things across different domains and organizations. Despite the growing availability of communication infrastructures, computing paradigms, and software architectures that already effectively support the implementation of distributed multi-domain value chains, a comprehensive architecture is still missing that effectively fulfills all related security issues: mutual trustworthiness of entities in partially unknown topologies, identification and mitigation of advanced multi-vector threats, identity management and access control, management and propagation of sensitive data. In order to fill this gap, this work proposes a new methodological approach to design and implement heterogeneous security services for distributed systems that combine together digital resources and components from multiple domains. The framework is designed to support both existing and new security services, and focuses on three novel aspects: (i) full automation of the processes that manage the whole system, i.e., threat detection, collection of information and reaction to attacks and system anomalies; (ii) dynamic adaptation of operations and security tasks to newest attack patterns, and (iii) real-time adjustment of the level of detail of inspection and monitoring processes. The overall architecture as well as the functions and relationships of its logical components are described in detail, presenting also a concrete use case as an example of application of the proposed framework.",
+      "citations": 17,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 84,
+              "rank": 85,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 82,
+              "rank": 86,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 81,
+              "rank": 43,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Strategy and Management",
+              "percentile": 80,
+              "rank": 100,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Strategy and Management",
+              "percentile": 72,
+              "rank": 125,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Information Systems",
+              "percentile": 68,
+              "rank": 112,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 66,
+              "rank": 122,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 64,
+              "rank": 60,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85112070400",
+      "title": "Evaluating ML-based DDoS Detection with Grid Search Hyperparameter Optimization",
+      "doi": "10.1109/NetSoft51509.2021.9492633",
+      "venue": "Proceedings of the 2021 IEEE Conference on Network Softwarization Accelerating Network Softwarization in the Cognitive Age Netsoft 2021",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": null,
+      "issue_id": null,
+      "pages": "402-408",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101055105",
+      "authors": "Sanchez Odnan Ref; Repello Matteo; Carrega Alessandro; Bolla Raffaele",
+      "author_ids": "57193711034;57194639871;36633941300;7006403406",
+      "authorAffiliationIds": "124426043;60021199;124426043;124426043-60025153",
+      "corresponding": "Sanchez O.R.",
+      "keywords": "DDoS Detection | Machine Learning | Network Security",
+      "abstract": "Distributed Denial of Service (DDoS) attacks disrupt global network services by mainly overwhelming the victim host with requests originating from multiple traffic sources. DDoS attacks are currently on the rise due to the ease of execution and rental of distributed architectures such as the Internet of Things (IoT) and cloud infrastructures, which could potentially result in substantial revenue losses. Therefore, the detection and prevention of DDoS attacks are currently topics of high interest. In this study, we use traffic flow information to determine if a specific flow is associated with a DDoS attack. We used traditional Machine Learning (ML) methods in developing our DDoS detector and applied an exhaustive hyperparameter search to optimize their detection capability. Using lightweight approaches is suitable for resource-constrained environments such as IoT to reduce computing overhead. Our evaluation shows that most algorithms provide satisfactory results, with Random Forests achieving as high as 99% of detection accuracy, which is similar to the performance of current deep learning solutions for DDoS detection.",
+      "citations": 26,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85112051507",
+      "title": "Leveraging the 5G architecture to mitigate amplification attacks",
+      "doi": "10.1109/NetSoft51509.2021.9492545",
+      "venue": "Proceedings of the 2021 IEEE Conference on Network Softwarization Accelerating Network Softwarization in the Cognitive Age Netsoft 2021",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": null,
+      "issue_id": null,
+      "pages": "443-449",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101055105",
+      "authors": "Repetto Matteo; Carrega Alessandro; Lamanna Guerino; Yusupov Jaloliddin; Toscano Orazio; Bruno Gianmarco; Nuovo Michele; Cappelli Marco",
+      "author_ids": "57194639871;36633941300;35324928200;57196119190;57226600670;36701007300;57226608295;57226594088",
+      "authorAffiliationIds": "126689000;126688931;126689594;126689982;126690412;126690412;126690412;126690412",
+      "corresponding": "Repetto M.",
+      "keywords": "Covert channels | Detection | EBPF | Stegomalware | Syscall tracing",
+      "abstract": "Volumetric (Distributed) Denial of Service attacks remain one of the major threats for any organization, capable of saturating most Internet access links through the usage of botnets and amplification techniques. The only effective mitigation mechanism today is the redirection of the network traffic towards scrubbing centers; this protects the Internet pipe of the victim, but does not prevent wasting resources in other parts of the network.In this paper, we leverage the cloud-native design of the 5G architecture to monitor traffic statistics at the edge of the network, which are then processed by a powerful Analytics ToolKit (ATk). Our work is based on the framework designed by the ASTRID project, which allows to automatically change the inspection probes while chasing a better balance between the granularity of the collected data and the overhead. We demonstrate our approach for an NTP amplification attack; the ATk is first trained with historical data and then used to detect deviations from the expected traffic profile, by switching between normal/warning/alert states. Our preliminary results show that it can correctly distinguish between periodical fluctuations of requests and attacks and tolerate a few data losses.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85112043430",
+      "title": "Feature Selection Evaluation towards a Lightweight Deep Learning DDoS Detector",
+      "doi": "10.1109/ICC42927.2021.9500458",
+      "venue": "IEEE International Conference on Communications",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2021,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "15503607",
+      "eIssn": null,
+      "source_id": "33201",
+      "authors": "Sanchez Odnan Ref; Repetto Matteo; Carrega Alessandro; Bolla Raffaele; Pajo Jane Frances",
+      "author_ids": "57193711034;57194639871;36633941300;7006403406;57189657677",
+      "authorAffiliationIds": "124426043;124426043;124426043;124426043;124426043",
+      "corresponding": "Sanchez O.R.",
+      "keywords": "ANOVA | DDoS Detection | Deep Learning | Feature Selection",
+      "abstract": "Today's networks and services undoubtedly require a high level of protection from cyber threats and attacks. State-of-the-art solutions that implement Machine Learning (ML) have shown to improve the accuracy and confidence in threat detection compared to previous approaches, making it suitable for detecting today's sophisticated attacks such as Distributed Denial of Service (DDoS). However, in real-world deployments, input data streams take large bandwidth and processing capacity, especially for Deep Learning (DL) solutions that require extensive input data. On the other hand, deployment environments usually have limited bandwidth and computing resources, such as in the Internet of Things (IoT). Thus, a lightweight detection solution that satisfies such constraints is needed. In this paper, we utilize a feature reduction approach for our DL-based DDoS detector based on the Analysis of Variance (ANOVA), which is used to identify important data features and reduce the data inputs needed for detection. Our result shows that we can reduce the data input needed by up to 84.21% while only reducing 0.1% detection accuracy. We also provide a detailed analysis of the characteristics of DDoS attacks using ANOVA and compared our work with recent DL-based DDoS detection systems to demonstrate that our results are comparable to existing approaches.",
+      "citations": 26,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85090920156",
+      "title": "An architecture to manage security operations for digital service chains",
+      "doi": "10.1016/j.future.2020.08.044",
+      "venue": "Future Generation Computer Systems",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2021,
+      "volume": "115",
+      "issue_id": null,
+      "pages": "251-266",
+      "issn": "0167739X",
+      "eIssn": null,
+      "source_id": "12264",
+      "authors": "Repetto Matteo; Carrega Alessandro; Rapuzzi Riccardo",
+      "author_ids": "57194639871;36633941300;24470264700",
+      "authorAffiliationIds": "60021199;60103966;60103966",
+      "corresponding": "Repetto M.",
+      "keywords": "Cyber-security paradigms | Digital services | Security architectures | Service mesh",
+      "abstract": "Evolving business models are progressively pushing for increasing digitalization of existing and novel processes. The ICT industry is already addressing this need by massive introduction of virtualization paradigms and tight integration with the physical environment, which allow the creation of multi-domain and complex business service chains. Emerging technologies undoubtedly bring more agility in service deployment and operation but also break traditional security models, which have not been conceived for dynamic and multi-tenancy environments. In this paper, we briefly elaborate on existing gaps and research challenges towards advanced assurance and protection of trustworthy and reliable business chains spanning multiple administrative domains and heterogeneous infrastructures. We consolidate our analysis in a reference architecture, which includes all functional elements to effectively tackle the dynamic and agile nature of emerging ICT paradigms.",
+      "citations": 28,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 98,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 97,
+              "rank": 15,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Software",
+              "percentile": 94,
+              "rank": 26,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "subjects": [
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 99,
+              "rank": 2,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 98,
+              "rank": 5,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Software",
+              "percentile": 97,
+              "rank": 10,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85082874943",
+      "title": "Coupling energy efficiency and quality for consolidation of cloud workloads",
+      "doi": "10.1016/j.comnet.2020.107210",
+      "venue": "Computer Networks",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2020,
+      "volume": "174",
+      "issue_id": null,
+      "pages": null,
+      "issn": "13891286",
+      "eIssn": null,
+      "source_id": "26811",
+      "authors": "Carrega Alessandro; Repetto Matteo",
+      "author_ids": "36633941300;57194639871",
+      "authorAffiliationIds": "124199660;60021199",
+      "corresponding": "Carrega A.",
+      "keywords": "Elastic cloud applications | Energy efficiency | Infrastructure-as-a-service cloud model | Quality of service | Workload consolidation",
+      "abstract": "Efficient usage of IT equipment in Data Centers requires modulating their power-consumption according to the actual workload. The most effective strategy to this aim consists in consolidating as many applications as possible on the smallest number of servers, so that idle devices can be shut down or put in low-power states. Usually, this process is driven by computing and networking resources requested by each application (e.g., CPU and RAM) and applies a certain degree of overcommitment, assuming that such resources are not fully used continuously. However, this approach is critical with real workload patterns, which usually change over time; as a matter of fact, consolidation in real scenarios often leads to either low efficiency or violations of Quality of Service (QoS) constraints, depending on the level of overcommitment. In this paper, we investigate a novel consolidation strategy based on an enhanced system model for the Infrastructure-as-a-Service cloud paradigm, which targets a better trade-off between Energy Efficiency and Quality of Service. We explicitly target modular cloud applications, which design is split into multiple components deployed in Virtual Machine (VM)s or containers. Our consolidation strategy allows to “freeze” parts of the application which are not currently used, making them available when requested with minimal latency. This improves energy saving with respect to other approaches, especially when idle VMs are present for backup or redundancy purposes, without degrading the service level. We compare multiple heuristics available in Optaplanner to solve our consolidation problem, and investigate improvements with respect to a more traditional approach. Our evaluation includes both simulations and experimentation in a real test-bed. The comparison shows that the Late Acceptance algorithm on average finds better solutions than other alternatives and energy efficiency improves up to 40% with respect to more conventional strategies, with deterioration of QoS indexes below 1%.",
+      "citations": 7,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 82,
+              "rank": 96,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 87,
+              "rank": 42,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85091965833",
+      "title": "Programmable data gathering for detecting stegomalware",
+      "doi": "10.1109/NetSoft48620.2020.9165537",
+      "venue": "Proceedings of the 2020 IEEE Conference on Network Softwarization Bridging the Gap Between AI and Network Softwarization Netsoft 2020",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": null,
+      "issue_id": null,
+      "pages": "422-429",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101022771",
+      "authors": "Carrega Alessandro; Caviglione Luca; Repetto Matteo; Zuppelli Marco",
+      "author_ids": "36633941300;8301144200;57194639871;57219265208",
+      "authorAffiliationIds": ";125183870;125183870;125183870",
+      "corresponding": "Carrega A.",
+      "keywords": "Covert channels | Detection | EBPF | Stegomalware | Syscall tracing",
+      "abstract": "The 'arm race' against malware developers requires to collect a wide variety of performance measurements, for instance to face threats leveraging information hiding and steganography. Unfortunately, this process could be time-consuming, lack of scalability and cause performance degradations within computing and network nodes. Moreover, since the detection of steganographic threats is poorly generalizable, being able to collect attack-independent indicators is of prime importance. To this aim, the paper proposes to take advantage of the extended Berkeley Packet Filter to gather data for detecting stegomalware. To prove the effectiveness of the approach, it also reports some preliminary experimental results obtained as the joint outcome of two H2020 Projects, namely ASTRID and SIMARGL.",
+      "citations": 19,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85084765311",
+      "title": "A novel cyber-security framework leveraging programmable capabilities in digital services",
+      "doi": null,
+      "venue": "Ceur Workshop Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2020,
+      "volume": "2597",
+      "issue_id": null,
+      "pages": "201-211",
+      "issn": "16130073",
+      "eIssn": null,
+      "source_id": "21100218356",
+      "authors": "Repetto Matteo; Carrega Alessandro; Duzha Armend",
+      "author_ids": "57194639871;36633941300;57193886968",
+      "authorAffiliationIds": "60021199;60103966;119210749",
+      "corresponding": "Repetto M.",
+      "keywords": null,
+      "abstract": "The introduction of new computing and networking paradigms, which leverage virtualization and service-oriented architectures, has brought far more agility than ever in the creation and concatenation of digital services. Yet it raises new security and privacy concerns that cannot be properly tackled by existing tools and models. In this paper, we briefly review the main characteristics of emerging digital services, point out open cyber-security challenges, and discuss the need to include cyber-security programmable capabilities in every digital component. We also describe a novel framework for managing such functions and implement multiple security services for complex business chains.",
+      "citations": 4,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 11,
+              "rank": 214,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 21,
+              "rank": 179,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85098619322",
+      "title": "Data Log Management for Cyber-Security Programmability of Cloud Services and Applications",
+      "doi": "10.1145/3338511.3357351",
+      "venue": "Cysarm 2019 Proceedings of the 1st ACM Workshop on Workshop on Cyber Security Arms Race",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": "47-52",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101033192",
+      "authors": "Carrega Alessandro; Repetto Matteo",
+      "author_ids": "36633941300;57194639871",
+      "authorAffiliationIds": "60103966;60103966",
+      "corresponding": "Carrega A.",
+      "keywords": "cloud | cyber-security | data inspection | log management | programmability",
+      "abstract": "In last years, the security appliance is becoming a more important and critical challenge considering the growing complexity and diversification of cyber-attacks. The current solutions are often too cumbersome to be run in virtual services and Internet of Things (IoT) devices. Therefore, it is necessary to evolve to a more cooperative models, which collect security-related data from a large set of heterogeneous sources for centralized analysis and correlation. In this paper, we outline a flexible abstraction layer for access to security context. It is conceived to program and gather data from lightweight inspection and enforcement hooks deployed in cloud applications and IoT devices. We provide a description of its implementation, by reviewing the main software components and their role. Finally, we test this abstraction layer with a performance evaluation of a Proof of Concept (PoC) implementation with the aim to evaluate the effectiveness to collect data / logs from virtual services and IoT to enable a centralized security analysis.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85082989789",
+      "title": "Automated Security Management for Virtual Services",
+      "doi": "10.1109/NFV-SDN47374.2019.9040069",
+      "venue": "IEEE Conference on Network Function Virtualization and Software Defined Networks Nfv Sdn 2019 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100977411",
+      "authors": "Repetto M.; Carrega A.; Yusupov J.; Valenza F.; Risso F.; Lamanna G.",
+      "author_ids": "57194639871;36633941300;57196119190;56875326800;7003461626;35324928200",
+      "authorAffiliationIds": "60103966;60103966;60012162;60012162;60012162;114775333",
+      "corresponding": "Repetto M.",
+      "keywords": null,
+      "abstract": "The virtualization of applications and network functions facilitates the dynamic creation of compound services, automating both the provisioning of computing/networking/storage resources and their life-cycle management. Virtualization of security appliances is a common approach to protect such services, but can neither offer broad visibility across the whole deployed service nor implement coordinated and fine-grained enforcement actions. This paper proposes a novel security framework based on the integration of lightweight and programmable monitoring and enforcement hooks in each virtual function, which are collectively controlled by a common logic for prevention, detection, reaction, and mitigation of security threats. Our framework keeps direct control over the functionalities of the security hooks, and leverages standard orchestration tools for management actions on the service graph. It can be automatically instantiated by common orchestration operations, hence seamlessly integrating with the deployment process of service graphs.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85082986657",
+      "title": "Towards Novel Security Architectures for Network Functions Virtualization",
+      "doi": "10.1109/NFV-SDN47374.2019.9040068",
+      "venue": "IEEE Conference on Network Function Virtualization and Software Defined Networks Nfv Sdn 2019 Proceedings",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100977411",
+      "authors": "Repetto M.; Carrega A.; Lamanna G.",
+      "author_ids": "57194639871;36633941300;35324928200",
+      "authorAffiliationIds": "60103966;60103966;114775333",
+      "corresponding": "Repetto M.",
+      "keywords": null,
+      "abstract": "The definition of elastic network services that can be orchestrated at run-time brings unprecedented agility and dynamicity in network operation, but also complicates security management. As a matter of fact, cyber-security appliances are still largely stuck to traditional paradigms, based on relatively static topologies and the security perimeter model. The uptake of service-oriented architectures and microservices is now suggesting to compose security services by orchestrating monitoring, inspection, and enforcement capabilities, which are natively implemented in each elementary component (virtual functions, software-defined network equipment). In this paper, we describe and evaluate a novel framework for monitoring, inspection and enforcement that provides a broad and heterogeneous security context for centralized analytics, correlation and detection. Our work represents the preliminary step towards the creation of true Security-as-a-Service (SecaaS) paradigms in virtualized environments, through programmatic composition of common capabilities available in each virtual function.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85075400505",
+      "title": "An architecture to manage security services for cloud applications",
+      "doi": "10.1109/CCCS.2019.8888061",
+      "venue": "2019 4th International Conference on Computing Communications and Security Icccs 2019",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100936372",
+      "authors": "Repetto M.; Carrega A.; Lamanna G.",
+      "author_ids": "57194639871;36633941300;35324928200",
+      "authorAffiliationIds": "60103966;114775333;60103966",
+      "corresponding": "Repetto M.",
+      "keywords": "cloud computing | Security architectures | software orchestration",
+      "abstract": "The uptake of virtualization and cloud technologies has pushed novel development and operation models for the software, bringing more agility and automation. Unfortunately, cyber-security paradigms have not evolved at the same pace and are not yet able to effectively tackle the progressive disappearing of a sharp security perimeter. In this paper, we describe a novel cyber-security architecture for cloud-based distributed applications and network services. We propose a security orchestrator that controls pervasive, lightweight, and programmable security hooks embedded in the virtual functions that compose the cloud application, pursuing better visibility and more automation in this domain. Our approach improves existing management practice for service orchestration, by decoupling the management of the business logic from that of security. We also describe the current implementation stage for a programmable monitoring, inspection, and enforcement framework, which represents the ground technology for the realization of the whole architecture.",
+      "citations": 5,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85065417399",
+      "title": "Energy efficiency for edge multimedia elastic applications",
+      "doi": "10.1007/s11042-018-7050-x",
+      "venue": "Multimedia Tools and Applications",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2019,
+      "volume": "78",
+      "issue_id": "17",
+      "pages": "24739-24764",
+      "issn": "13807501",
+      "eIssn": "15737721",
+      "source_id": "25627",
+      "authors": "Carrega Alessandro; Portomauro Giancarlo; Repetto Matteo; Robino Giorgio",
+      "author_ids": "36633941300;15128054100;57194639871;57202572872",
+      "authorAffiliationIds": "128686803;60025153;128686803;128686803",
+      "corresponding": "Carrega A.",
+      "keywords": "Edge computing | Elastic transcoding | Energy-efficiency | Quality of service",
+      "abstract": "With the rise of edge computing paradigms, multimedia applications will have to tackle unprecedented management issues, pursuing an optimal balance between performance, Quality of Service (QoS), and power consumption. In this paper, we investigate a novel paradigm to deploy multimedia elastic applications at the edge in a very energy-efficient manner. Our approach is based on pre-provisioning virtual resources that remain “frozen” until the application scales out. Frozen resources are treated in a special way by the infrastructure, leveraging aggressive power-saving mechanisms that keep negligible their impact on energy consumption and performance. We report extensive measurements on QoS and power consumption that we carried out in a real testbed, which is the first working implementation of the proposed paradigm. Our work shows how resource utilization and performance can be increased by leveraging SDN technologies and conscious setting of cloud parameters. We investigate the trade-off between performance and power consumption (i.e., energy efficiency), in relation to different consolidation strategies. Finally, we measure power consumption and estimate energy saving for an elastic video transcoding application deployed at the network edge.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Media Technology",
+              "percentile": 92,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 85,
+              "rank": 79,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Software",
+              "percentile": 84,
+              "rank": 79,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 83,
+              "rank": 39,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "subjects": [
+            {
+              "subject": "Media Technology",
+              "percentile": 80,
+              "rank": 14,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 70,
+              "rank": 92,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Hardware and Architecture",
+              "percentile": 64,
+              "rank": 56,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Software",
+              "percentile": 59,
+              "rank": 152,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85064968198",
+      "title": "An abstraction layer for cybersecurity context",
+      "doi": "10.1109/ICCNC.2019.8685665",
+      "venue": "2019 International Conference on Computing Networking and Communications Icnc 2019",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2019,
+      "volume": null,
+      "issue_id": null,
+      "pages": "214-218",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100904759",
+      "authors": "Bolla R.; Carrega A.; Repetto M.",
+      "author_ids": "7006403406;36633941300;57194639871",
+      "authorAffiliationIds": "60025153;60103966;60103966",
+      "corresponding": "Bolla R.",
+      "keywords": null,
+      "abstract": "The growing complexity and diversification of cyber-attacks are largely reflected in the increasing sophistication of security appliances, which are often too cumbersome to be run in virtual services and IoT devices. Hence, the design of cyber-security frameworks is today looking at more cooperative models, which collect security-related data from a large set of heterogeneous sources for centralized analysis and correlation.In this paper, we outline a flexible abstraction layer for access to security context. It is conceived to program and gather data from lightweight inspection and enforcement hooks deployed in cloud applications and IoT devices. We also provide a preliminary description of its implementation, by reviewing the main software components and their role.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85060217743",
+      "title": "Situational Awareness in Virtual Networks: The ASTRID Approach",
+      "doi": "10.1109/CloudNet.2018.8549540",
+      "venue": "Proceedings of the 2018 IEEE 7th International Conference on Cloud Networking Cloudnet 2018",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100895317",
+      "authors": "Carrega A.; Repetto M.; Risso F.; Covaci S.; Zafeiropoulos A.; Giannetsos T.; Toscano O.",
+      "author_ids": "36633941300;57194639871;7003461626;6701384755;24333644200;24605106000;57226600670",
+      "authorAffiliationIds": "60103966;60103966;60012162;60011604;60159730;60021097;113659619",
+      "corresponding": "Carrega A.",
+      "keywords": null,
+      "abstract": "Cloud-based services often follow the same logical structure of private networks. The lack of physical boundaries and the dependence on third party's infrastructural security mechanisms often undermine the confidence in the overall security level of virtualized applications. Integrating software instances of common security middleboxes into cloud networks helps overcome most suspicions, but leads to inefficient solutions. In this paper, we describe the vision behind the ASTRID project. The novelty of our concept lies in decoupling detection algorithms from monitoring and inspection tasks, seeking better integration with virtualization frameworks. We briefly elaborate on the overall conceptual architecture and the foundation of its implementation components. Additionally, we give insights on the expected impacts and opportunities brought by this novel paradigm over the existing approaches.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85057963469",
+      "title": "Boosting energy efficiency and quality of service through orchestration tools",
+      "doi": "10.1109/MCC.2018.064181119",
+      "venue": "IEEE Cloud Computing",
+      "type": "Trade Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "5",
+      "issue_id": "6",
+      "pages": "38-47",
+      "issn": null,
+      "eIssn": "23256095",
+      "source_id": "21100373966",
+      "authors": "Carrega Alessandro; Portomauro Giancarlo; Repetto Matteo; Robino Giorgio",
+      "author_ids": "36633941300;15128054100;57194639871;57202572872",
+      "authorAffiliationIds": "60103966;60025153;60103966;60103966",
+      "corresponding": "Carrega A.",
+      "keywords": "cloud data centers | energy efficiency | quality of service",
+      "abstract": "In this paper, we describe a novel paradigm to pre-provision virtual machines (VMs) in an energy-efficient manner for cloud elastic applications. Our approach is based on the definition of dynamic context for VMs, which can be easily updated by software orchestration tools. We show the feasibility of our approach and improvement over existing state of the art with an experimental setup.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Computer Science (miscellaneous)",
+              "percentile": 90,
+              "rank": 6,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 86,
+              "rank": 83,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 85,
+              "rank": 44,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Software",
+              "percentile": 82,
+              "rank": 63,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85056419869",
+      "title": "Balancing QoS and power consumption in programmable 5G infrastructures",
+      "doi": "10.1002/ett.3425",
+      "venue": "Transactions on Emerging Telecommunications Technologies",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "29",
+      "issue_id": "11",
+      "pages": null,
+      "issn": "21615748",
+      "eIssn": "21613915",
+      "source_id": "21100389313",
+      "authors": "Carrega Alessandro; Portomauro Giancarlo; Repetto Matteo; Robino Giorgio",
+      "author_ids": "36633941300;15128054100;57194639871;57202572872",
+      "authorAffiliationIds": "60103966;60103966;60103966;60103966",
+      "corresponding": "Carrega A.",
+      "keywords": null,
+      "abstract": "The advent of fifth generation is promising to push far more intelligence than today to the network boundary, hence boosting novel computing models based on fog/edge paradigms. The need for proximity in computation, coupled with various forms of mobility, will be responsible for dynamic shifting of workload within the system, with large fluctuations in resource usage. This eventually turns into poor energy efficiency of the whole infrastructure. However, improving efficiency usually deteriorates quality of service, hence the dilemma about how to balance these two contrasting aspects. In this paper, we propose a framework that leverages the increasing programmability of ICT infrastructures to pursue a linear relationship between power consumption and workload, while safeguarding quality of service. Our approach is based on workload consolidation and extensions to existing cloud management software. We collected both real measurements from an experimental testbed and performance analysis from simulations to evaluate the consolidation strategy in more complex environments.",
+      "citations": 2,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 87,
+              "rank": 129,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 65,
+              "rank": 229,
+              "quartile": "Q2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85062178077",
+      "title": "Cloud Applications Consolidation through Context Information and Heuristic optimization",
+      "doi": "10.1109/ATNAC.2018.8615406",
+      "venue": "2018 28th International Telecommunication Networks and Applications Conference Itnac 2018",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101179363",
+      "authors": "Carrega Alessandro; Repetto Matteo",
+      "author_ids": "36633941300;57194639871",
+      "authorAffiliationIds": "121101656;121101656",
+      "corresponding": "Carrega A.",
+      "keywords": null,
+      "abstract": "Resource consolidation has been proposed as an effective mechanism to save energy in data centers. Several algorithms have been developed for this purpose, which use the minimal number of servers and network switches, and power off unused equipment. Consolidation algorithms usually take into account static service constraints (Central Processing Unit - CPU, Random Access Memory - RAM, disk, bandwidth), but do not consider dynamic context information, as CPU utilization and the specific role of each Virtual Machines (VMs) in the running application (e.g., core component, backup replica, member of a pool of workers for load balancing).In this paper, we describe and evaluate a novel heuristic-based consolidation strategy that explicitly considers context information. Our approach avoids running idle VMs that are pre-provisioned for availability and redundancy purposes, hence pursuing a better linear relationship between power consumption and actual computation than other existing algorithms. We demonstrate through simulations, by comparing different heuristics, the optimal trade-off between service level and energy efficiency achieved by our approach.",
+      "citations": 1,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85062170633",
+      "title": "Towards Prediction of Power Consumption of Virtual Machines for Varying Loads",
+      "doi": "10.1109/ATNAC.2018.8615319",
+      "venue": "2018 28th International Telecommunication Networks and Applications Conference Itnac 2018",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21101179363",
+      "authors": "Salam Humaira Abdul; Davoli Franco; Carrega Alessandro; Timm-Giel Andreas",
+      "author_ids": "57207039310;57220364548;36633941300;6506281575",
+      "authorAffiliationIds": "60025153-60010338;60025153;121101656;60010338",
+      "corresponding": "Salam H.A.",
+      "keywords": "power modeling | power profiling | regression model | Virtual machine",
+      "abstract": "Power management and load balancing in data centers are becoming critical with the growing size of the infrastructure. In front of an increasing number of cloud networks, virtual machines (VMs) and containers, smart management and control decisions are required, in order to instantiate or mobilize these virtual components. As regards reducing power consumption, it is also essential to consolidate virtual resources on the minimum possible number of servers compatible with performance requirements. In such a dynamic scenario, estimating the power that can be ascribed to a specific virtual component and its relation with the offered workload could be beneficial for optimized resource scheduling. Predicting the power consumption caused by a specific virtual component is however challenging. In this paper, two power models that relate a VM workload with the fraction of power consumed attributable to the VM are developed based on power profiling of a server. The accuracy of the proposed models is improved approximately by 3% compared to other existing models.",
+      "citations": 5,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85048837677",
+      "title": "OpenStack extensions for QoS and energy efficiency in edge computing",
+      "doi": "10.1109/FMEC.2018.8364044",
+      "venue": "2018 3rd International Conference on Fog and Mobile Edge Computing Fmec 2018",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2018,
+      "volume": null,
+      "issue_id": null,
+      "pages": "50-57",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100865173",
+      "authors": "Carrega Alessandro; Repetto Matteo; Robino Giorgio; Portomauro Giancarlo",
+      "author_ids": "36633941300;57194639871;57202572872;15128054100",
+      "authorAffiliationIds": "60103966;60103966;60103966;60025153",
+      "corresponding": "Carrega A.",
+      "keywords": "Energy efficiency | mobile edge computing | QoS",
+      "abstract": "Mobility has always been a big challenge in cellular networks, because it is responsible for traffic fluctuations that eventually result into inconstant resource usage and the need for proper Quality of Service management. When applications get deployed at the network edge, the challenges even grow because software is harder to hand-over than traffic streams. Cloud technologies have been designed with different specifications, and should be properly revised to balance efficiency and effectiveness in distributed and capillary infrastructures. In this paper, we propose some extensions to OpenStack for power management and Quality of Service. Our framework provides additional APIs for setting the service level and interacting with power-saving mechanisms. It is designed to be easily integrated with modern software orchestration tools and workload consolidation algorithms. We report real measurements from an experimental proof-of-concept.",
+      "citations": 8,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85056789461",
+      "title": "Improving efficiency of edge computing infrastructures through orchestration models",
+      "doi": "10.3390/computers7020036",
+      "venue": "Computers",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2018,
+      "volume": "7",
+      "issue_id": "2",
+      "pages": null,
+      "issn": null,
+      "eIssn": "2073431X",
+      "source_id": "21100886391",
+      "authors": "Bolla Raffaele; Carrega Alessandro; Repetto Matteo; Robino Giorgio",
+      "author_ids": "7006403406;36633941300;57194639871;57202572872",
+      "authorAffiliationIds": "60025153;60103966;60103966;60103966",
+      "corresponding": "Bolla R.",
+      "keywords": "Edge computing | Energy efficiency | QoS",
+      "abstract": "Edge computing is an effective paradigm for proximity in computation, but must inexorably face mobility issues and traffic fluctuations. While software orchestration may provide effective service handover between different edge infrastructures, seamless operation with negligible service disruption necessarily requires pre-provisioning and the need to leave some network functions idle for most of the time, which eventually results in large energy waste and poor efficiency. Existing consolidation algorithms are largely ineffective in these conditions because they lack context, i.e., the knowledge of which resources are effectively used and which ones are just provisioned for other purposes (i.e., redundancy, resilience, scaling, migration). Though the concept is rather straightforward, its feasibility in real environments must be demonstrated. Motivated by the lack of energy-efficiency mechanisms in cloud management software, we have developed a set of extensions to OpenStack for power management and Quality of Service, explicitly targeting the introduction of more context for applications. In this paper, we briefly describe the overall architecture and evaluate its efficiency and effectiveness. We analyze performance metrics and their relationship with power consumption, hence extending the analysis to specific aspects that cannot be investigated by software simulations. We also show how the usage of context information can greatly improve the effectiveness of workload consolidation in terms of energy saving.",
+      "citations": 4,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Science (miscellaneous)",
+              "percentile": 85,
+              "rank": 26,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 83,
+              "rank": 90,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 71,
+              "rank": 55,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 40,
+              "rank": 175,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Human-Computer Interaction",
+              "percentile": 35,
+              "rank": 66,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85032455194",
+      "title": "Corrections to: \"Green Networking With Packet Processing Engines: Modeling and Optimization\"",
+      "doi": "10.1109/TNET.2017.2761892",
+      "venue": "IEEE ACM Transactions on Networking",
+      "type": "Journal",
+      "sub_type": "Article in Press",
+      "year": 2017,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": "10636692",
+      "eIssn": null,
+      "source_id": "27237",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Carrega Alessandro; Davoli Franco; Pajo Jane Frances",
+      "author_ids": "7006403406;8555973600;36633941300;57220364548;57189657677",
+      "authorAffiliationIds": "60025153;60103966;60025153;60025153;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "Genetic expression | Green communications | Servers | Telecommunication services | Telecommunication traffic",
+      "abstract": "Presents corrections to the paper, “Green networking with packet processing engines: Modeling and optimization,” (Bolla, R., et al), IEEE/ACM Trans. Netw., vol. 22, no. 1, pp. 110–123, Feb. 2014.",
+      "citations": 6,
+      "quartile": [
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 86,
+              "rank": 92,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 84,
+              "rank": 87,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 84,
+              "rank": 44,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Software",
+              "percentile": 79,
+              "rank": 75,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85040237525",
+      "title": "Energy-Aware Consolidation Scheme for Data Center Cloud Applications",
+      "doi": "10.23919/ITC.2017.8065706",
+      "venue": "Proceedings of the 29th International Teletraffic Congress Itc 2017",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": "2",
+      "issue_id": null,
+      "pages": "24-29",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100795279",
+      "authors": "Carrega Alessandro; Repetto Matteo",
+      "author_ids": "36633941300;57194639871",
+      "authorAffiliationIds": "60025153;60103966",
+      "corresponding": "Carrega A.",
+      "keywords": null,
+      "abstract": "The consolidation of resources is one of the most efficient strategies to reduce the power consumption in data centers. Various algorithms have been proposed in order to reduce the total number of required servers and network devices. The practice developed in response to the problem of server sprawl, a situation in which multiple, under-utilized servers (and/or network devices) take up more space and consume more resources than the ones justified by their workload; with the effect to power off unused equipment. Generally, consolidation mechanisms consider different parameters related to the services neglecting the specific function of the Virtual Machines (VMs) in the application framework (e.g., core component, backup replica, member of a set of workers for load balancing). In this work, we develop a new consolidation algorithm that takes into account the particular function of each VM with the aim to apply power saving mechanisms without compromising the desired service level. The results of the simulations show that it is possible to obtain significant energy savings. In particular, we show, with different heuristics, the optimal trade-off between service level and power efficiency achieved by the proposed model.",
+      "citations": 6,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85032191940",
+      "title": "A Middleware for Mobile Edge Computing",
+      "doi": "10.1109/MCC.2017.3791021",
+      "venue": "IEEE Cloud Computing",
+      "type": "Trade Journal",
+      "sub_type": "Article",
+      "year": 2017,
+      "volume": "4",
+      "issue_id": "4",
+      "pages": "26-37",
+      "issn": null,
+      "eIssn": "23256095",
+      "source_id": "21100373966",
+      "authors": "Carrega A.; Repetto M.; Gouvas P.; Zafeiropoulos A.",
+      "author_ids": "36633941300;57194639871;55887996800;24333644200",
+      "authorAffiliationIds": "60025153;116607453;60159730;60159730",
+      "corresponding": "Carrega A.",
+      "keywords": "distributed cloud computing | distributed software development and deployment | mobile edge computing",
+      "abstract": "Telecom operators have recently started to deploy massive computing and storage resources at the very edge of their access networks, hence evolving their infrastructures into large, distributed, and capillary computing environments, capable of placing applications very close to users and terminals and well-suited to effectively fulfill the challenging requirements for delay-sensitive applications. Edge computing is the emerging paradigm that pervasively brings computing in the environment, by shifting processing from data centers to the network edge, allowing a large class of applications in growing fields, like Big Data and the Internet of Things, to be deployed in a very effective way. In this paper, we propose middleware for running applications over heterogeneous environments, made of telecom networks and legacy data centers. We briefly review an emerging architecture for edge computing and describe an integrated solution for developing and deploying modular applications in an automatic way.",
+      "citations": 25,
+      "quartile": [
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Computer Science (miscellaneous)",
+              "percentile": 84,
+              "rank": 9,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 82,
+              "rank": 49,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 80,
+              "rank": 109,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Software",
+              "percentile": 77,
+              "rank": 85,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85017380629",
+      "title": "A network-centric architecture for building the cloud continuum",
+      "doi": "10.1109/ICCNC.2017.7876215",
+      "venue": "2017 International Conference on Computing Networking and Communications Icnc 2017",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": null,
+      "issue_id": null,
+      "pages": "701-705",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100806001",
+      "authors": "Carrega A.; Repetto M.",
+      "author_ids": "36633941300;57194639871",
+      "authorAffiliationIds": "60025153;116607453",
+      "corresponding": "Carrega A.",
+      "keywords": null,
+      "abstract": "The growing interest in distributed, context-aware and data-sensitive applications is pushing the evolution of computing infrastructures from centralized to distributed models, which could effectively tackle the execution of complex software frameworks over geographical scale. The concept of cloud continuum that extends computing infrastructures beyond the data center boundary will require new architectural paradigms that overcome the evident limitations intrinsic in mere cloud federation and that enable effective and efficient interaction between the cloud and the physical environment. In this paper, we discuss why and how telecommunication networks could be the most effective infrastructure to create a distributed, pervasive, carrier-grade cloud continuum, by acting as the core federation paradigm for the dynamic and flexible composition of data centers, networks and IoT platforms.",
+      "citations": 4,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-85030153378",
+      "title": "Green and heuristics-based consolidation scheme for data center cloud applications",
+      "doi": "10.1007/978-3-319-67639-5_17",
+      "venue": "Communications in Computer and Information Science",
+      "type": "Book Series",
+      "sub_type": "Conference Paper",
+      "year": 2017,
+      "volume": "766",
+      "issue_id": null,
+      "pages": "230-250",
+      "issn": "18650929",
+      "eIssn": null,
+      "source_id": "17700155007",
+      "authors": "Carrega Alessandro; Repetto Matteo",
+      "author_ids": "36633941300;57194639871",
+      "authorAffiliationIds": "60025153;60103966",
+      "corresponding": "Carrega A.",
+      "keywords": "Cloud applications | Consolidation | Energy-aware | Green | Heuristics | Optimization | Virtual machines",
+      "abstract": "The consolidation of resources is one of the most efficient strategies to reduce the power consumption in data centers. Various algorithms have been proposed in order to reduce the total number of required servers and network devices. The practice developed in response to the problem of server sprawl, a situation in which multiple, under-utilized servers (and/or network devices) take up more space and consume more resources than can be justified by their workload; with the effect to power off unused equipment. Generally, consolidation mechanisms consider different parameters related to the services neglecting the specific function of the Virtual Machines (VMs) in the application framework (e.g., core component, backup replica, member of a set of workers for load balancing). In this work, we developed a new consolidation algorithm that takes into account the particular function of each VM with the aim to apply power saving mechanisms without compromising the desired service level. The results of the simulations show that it is possible to obtain significant values of energy saving. In particular, we show, with different heuristics, the optimal trade-off between service level and power efficiency achieved by the proposed model.",
+      "citations": 0,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Mathematics (all)",
+              "percentile": 30,
+              "rank": 287,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 13,
+              "rank": 211,
+              "quartile": "Q4"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "subjects": [
+            {
+              "subject": "Mathematics (all)",
+              "percentile": 32,
+              "rank": 225,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 22,
+              "rank": 162,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-85009113608",
+      "title": "Exploiting novel software development paradigms to increase the sustainability of data centers",
+      "doi": "10.1145/2996890.3007878",
+      "venue": "Proceedings 9th IEEE ACM International Conference on Utility and Cloud Computing Ucc 2016",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2016,
+      "volume": null,
+      "issue_id": null,
+      "pages": "310-315",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100791244",
+      "authors": "Carrega A.; Repetto M.",
+      "author_ids": "36633941300;57194639871",
+      "authorAffiliationIds": "60025153;116607453",
+      "corresponding": "Carrega A.",
+      "keywords": "Consolidation algorithms | Energy efficiency | Green data centers | Software development paradigms",
+      "abstract": "The application of effective energy management strategies in data centers is often hindered by the substantial conict between the interests of cloud users and infrastructure owners. As a matter of fact, cloud users require that the service level they are paying for is tightly met, whereas data center owners try to cut down their operational expenses. In this paper, we propose a novel consolidation algorithm that exploits emerging software development paradigms. Our approach enables cloud users to indicate their willingness to apply energy saving mechanisms to some of their virtual resources, hence giving infrastructure managers the ability to apply more efficient workload consolidation and to switch their hardware to very low-power states. The result is an optimal trade-off between energy consumption and performance.",
+      "citations": 8,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84959168219",
+      "title": "A Game for Energy-Aware Allocation of Virtualized Network Functions",
+      "doi": "10.1155/2016/4067186",
+      "venue": "Journal of Electrical and Computer Engineering",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2016,
+      "volume": "2016",
+      "issue_id": null,
+      "pages": null,
+      "issn": "20900147",
+      "eIssn": "20900155",
+      "source_id": "21100197510",
+      "authors": "Bruschi Roberto; Carrega Alessandro; Davoli Franco",
+      "author_ids": "8555973600;36633941300;57220364548",
+      "authorAffiliationIds": "60025153;60025153;60025153",
+      "corresponding": "Bruschi R.",
+      "keywords": null,
+      "abstract": "Network Functions Virtualization (NFV) is a network architecture concept where network functionality is virtualized and separated into multiple building blocks that may connect or be chained together to implement the required services. The main advantages consist of an increase in network flexibility and scalability. Indeed, each part of the service chain can be allocated and reallocated at runtime depending on demand. In this paper, we present and evaluate an energy-aware Game-Theory-based solution for resource allocation of Virtualized Network Functions (VNFs) within NFV environments. We consider each VNF as a player of the problem that competes for the physical network node capacity pool, seeking the minimization of individual cost functions. The physical network nodes dynamically adjust their processing capacity according to the incoming workload, by means of an Adaptive Rate (AR) strategy that aims at minimizing the product of energy consumption and processing delay. On the basis of the result of the nodes' AR strategy, the VNFs' resource sharing costs assume a polynomial form in the workflows, which admits a unique Nash Equilibrium (NE). We examine the effect of different (unconstrained and constrained) forms of the nodes' optimization problem on the equilibrium and compare the power consumption and delay achieved with energy-aware and non-energy-aware strategy profiles.",
+      "citations": 18,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Signal Processing",
+              "percentile": 67,
+              "rank": 64,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 66,
+              "rank": 332,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 65,
+              "rank": 84,
+              "quartile": "Q2"
+            }
+          ]
+        },
+        {
+          "year": 2016,
+          "subjects": [
+            {
+              "subject": "Computer Science (all)",
+              "percentile": 52,
+              "rank": 94,
+              "quartile": "Q2"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 45,
+              "rank": 356,
+              "quartile": "Q3"
+            },
+            {
+              "subject": "Signal Processing",
+              "percentile": 38,
+              "rank": 58,
+              "quartile": "Q3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84933540050",
+      "title": "SDN-Enabled Energy-Efficient Network Management",
+      "doi": "10.1002/9781118759257.ch17",
+      "venue": "Green Communications Principles Concepts and Practice",
+      "type": "Book",
+      "sub_type": "Book Chapter",
+      "year": 2015,
+      "volume": null,
+      "issue_id": null,
+      "pages": "323-338",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100805008",
+      "authors": "Jarschel Michael; Hoßfeld Tobias; Davoli Franco; Bolla Raffaele; Bruschi Roberto; Carrega Alessandro",
+      "author_ids": "36872674700;57218403122;57220364548;7006403406;8555973600;36633941300",
+      "authorAffiliationIds": "60012689-60098468;60012689-60014264;60025153-60103966;60025153-60103966;60103966;60025153-60103966",
+      "corresponding": "Jarschel M.",
+      "keywords": "Energy consumption | Energy-efficient network management | Green abstraction layer | Network functions virtualization | Power management primitives | Software defined networking",
+      "abstract": "The continuing increase in demand for online and cloud services as well as the development of new more resource-intensive applications poses a significant challenge to the network infrastructure. The resulting rise in energy costs and ecological considerations have made it apparent that a future network infrastructure needs to be as energy efficient as possible, while at the same time flexible enough to handle the ever-changing traffic demands it is exposed to. This requires a flexible adaption of resources in the network devices themselves - the power management primitives - as well as a network-wide optimization of traffic loads. Software defined networking provides a way to introduce this flexibility into the network. This chapter illustrates how both approaches can be integrated to form an energy-efficient network management system.",
+      "citations": 3,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84873962195",
+      "title": "Green networking with packet processing engines: Modeling and optimization",
+      "doi": "10.1109/TNET.2013.2242485",
+      "venue": "IEEE ACM Transactions on Networking",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2014,
+      "volume": "22",
+      "issue_id": "1",
+      "pages": "110-123",
+      "issn": "10636692",
+      "eIssn": null,
+      "source_id": "27237",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Carrega Alessandro; Davoli Franco",
+      "author_ids": "7006403406;8555973600;36633941300;57220364548",
+      "authorAffiliationIds": ";60103966;;",
+      "corresponding": "Bolla R.",
+      "keywords": "Adaptive rate | Forwarding engine | Green networking | Low power idle | Multipipeline",
+      "abstract": "With the aim of controlling power consumption in metro/transport and core networks, we consider energy-aware devices able to reduce their energy requirements by adapting their performance. In particular, we focus on state-of-the-art packet processing engines, which generally represent the most energy-consuming components of network devices, and which are often composed of a number of parallel pipelines to 'divide and conquer' the incoming traffic load. Our goal is to control both the power configuration of pipelines and the way to distribute traffic flows among them. We propose an analytical model to accurately represent the impact of green network technologies (i.e., low power idle and adaptive rate) on network- and energy-aware performance indexes. The model has been validated with experimental results, performed by using energy-aware software routers loaded by real-world traffic traces. The achieved results demonstrate how the proposed model can effectively represent energy- and network-aware performance indexes. On this basis, we propose a constrained optimization policy, which seeks the best tradeoff between power consumption and packet latency times. The procedure aims at dynamically adapting the energy-aware device configuration to minimize energy consumption while coping with incoming traffic volumes and meeting network performance constraints. In order to deeply understand the impact of such policy, a number of tests have been performed by using experimental data from software router architectures and real-world traffic traces. © 2013 IEEE.",
+      "citations": 48,
+      "quartile": [
+        {
+          "year": 2014,
+          "subjects": [
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 91,
+              "rank": 56,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Science Applications",
+              "percentile": 90,
+              "rank": 48,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 90,
+              "rank": 23,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Software",
+              "percentile": 88,
+              "rank": 44,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84891602988",
+      "title": "A closed-form model for the IEEE 802.3az network and power performance",
+      "doi": "10.1109/JSAC.2014.140103",
+      "venue": "IEEE Journal on Selected Areas in Communications",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2014,
+      "volume": "32",
+      "issue_id": "1",
+      "pages": "16-27",
+      "issn": "07338716",
+      "eIssn": null,
+      "source_id": "18902",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Carrega Alessandro; Davoli Franco; Lago Paolo",
+      "author_ids": "7006403406;8555973600;36633941300;57220364548;55757292600",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "Energy management | Ethernet networks | Queue modeling",
+      "abstract": "We propose an analytical model able to accurately estimate both power consumption and network performance indexes of Energy Efficient Ethernet (EEE) links working at the three available speeds under various traffic load patterns and packet size distributions. The model is sufficiently flexible and accurate to consider different traffic parameters; among others, the packet size distribution, the average burst inter-arrival rate, the burst size distribution, etc. With relatively low complexity, since it addresses stationary queue behavior, the analysis allows obtaining the average energy consumption of the link and, unlike previous works, the mean latency time experienced by incoming packets in closed form, without any upper or lower bound approximations. This aspect makes the model suitable to be adopted in optimization frameworks for network design and control purposes. The numerical results of the model are validated against measurements on a real test bench. © 2013 IEEE.",
+      "citations": 21,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 99,
+              "rank": 4,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 99,
+              "rank": 8,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2014,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 98,
+              "rank": 4,
+              "quartile": "Q1"
+            },
+            {
+              "subject": "Electrical and Electronic Engineering",
+              "percentile": 98,
+              "rank": 12,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84870487685",
+      "title": "Traffic merging for energy-efficient datacenter networks",
+      "doi": null,
+      "venue": "Simulation Series",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2012,
+      "volume": "44",
+      "issue_id": "BOOK 12",
+      "pages": "8-12",
+      "issn": "07359276",
+      "eIssn": null,
+      "source_id": "12193",
+      "authors": "Carrega Alessandro; Singh Suresh; Bruschi Roberto; Bolla Raffaele",
+      "author_ids": "36633941300;57202910580;8555973600;7006403406",
+      "authorAffiliationIds": "60025153;60023908;60103966;60025153",
+      "corresponding": "Carrega A.",
+      "keywords": null,
+      "abstract": "Numerous studies have shown that datacenter networks typically see loads of between 5% - 25% but the energy draw of these networks is equal to operating them at maximum load. In this paper, we propose a novel way to make these networks more energy proportional - that is, the energy draw scales with the network load. We propose the idea of traffic aggregation, in which low traffic from N links is combined together to create H < N streams of high traffic. These streams are fed to H switch interfaces which run at maximum rate while the remaining interfaces are switched to the lowest possible one. We show that this merging can be accomplished with minimal latency and energy costs (less than 0.1W) while simultaneously allowing us a deterministic way of switching link rates between maximum and minimum. Using simulations based on previously developed traffic models, we show that 49% energy savings are obtained for 5% of the load while we get an energy savings of 22% for a 50% load. Hence, forasmuch as the packet losses are statistically insignificant, the results show that energy-proportional datacenter networks are indeed possible.",
+      "citations": 1,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 2,
+              "rank": 535,
+              "quartile": "Q4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84866989182",
+      "title": "Traffic merging for energy-efficient datacenter networks",
+      "doi": null,
+      "venue": "Proceedings of the 2012 International Symposium on Performance Evaluation of Computer and Telecommunication Systems Spects 12 Part of Summersim 2012 Multiconference",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2012,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100216999",
+      "authors": "Carrega Alessandro; Singh Suresh; Bruschi Roberto; Bolla Raffaele",
+      "author_ids": "36633941300;57202910580;8555973600;7006403406",
+      "authorAffiliationIds": "60025153;60023908;60103966;60025153",
+      "corresponding": "Carrega A.",
+      "keywords": null,
+      "abstract": "Numerous studies have shown that datacenter networks typically see loads of between 5% - 25% but the energy draw of these networks is equal to operating them at maximum load. In this paper, we propose a novel way to make these networks more energy proportional - that is, the energy draw scales with the network load. We propose the idea of traffic aggregation, in which low traffic from N links is combined together to create H < N streams of high traffic. These streams are fed to H switch interfaces which run at maximum rate while the remaining interfaces are switched to the lowest possible one. We show that this merging can be accomplished with minimal latency and energy costs (less than 0.1W) while simultaneously allowing us a deterministic way of switching link rates between maximum and minimum. Using simulations based on previously developed traffic models, we show that 49% energy savings are obtained for 5% of the load while we get an energy savings of 22% for a 50% load. Hence, forasmuch as the packet losses are statistically insignificant, the results show that energy-proportional datacenter networks are indeed possible. © 2012 Society for Modeling & Sim.",
+      "citations": 14,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-84862013433",
+      "title": "Cutting the energy bills of Internet Service Providers and telecoms through power management: An impact analysis",
+      "doi": "10.1016/j.comnet.2012.04.003",
+      "venue": "Computer Networks",
+      "type": "Journal",
+      "sub_type": "Article",
+      "year": 2012,
+      "volume": "56",
+      "issue_id": "10",
+      "pages": "2320-2342",
+      "issn": "13891286",
+      "eIssn": null,
+      "source_id": "26811",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Carrega Alessandro; Davoli Franco; Suino Diego; Vassilakis Constantinos; Zafeiropoulos Anastasios",
+      "author_ids": "7006403406;8555973600;36633941300;57220364548;7801389022;55627877790;24333644200",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153;60023916;101742284;101742284",
+      "corresponding": "Bolla R.",
+      "keywords": "Energy saving | Green networking | Impact model | Power management",
+      "abstract": "The energy consumption of the Information and Communication Technology (ICT) sector has been increasing recently; this sector is estimated to account for 2% of the total energy consumption. An even more aggressively increasing trend is the volume of Internet traffic and the number of connected devices. Thus, reducing the energy needs of the Internet is recognised as one of the main challenges that the ICT sector will have to face in the near future to reduce its overall energy footprint. Introducing energy-efficient techniques, both at the device level and the network level, is required. The main goal of this work is to quantitatively evaluate the potential energy savings from applying energy-efficient techniques, while examining the trade-off between network performance and the achieved energy savings. We introduce a categorisation of the energy-aware design space, focusing on the existing techniques in the device data plane, and contribute an analytical framework to represent the impact of energy-aware technologies and solutions for network devices. Our energy profile model represents the diverse energy-aware states of the network devices and is applied over two reference scenarios, one of a large-scale Telco (Telecom Italia) and one of a medium size Internet Service Provider (GRNET), to evaluate the impact of each energy-aware technology and the energy savings potential at the Home, Access, Metro/Transport and Core parts of each network. The results show the estimates of energy savings exceed 60% in many cases, while maintaining the same quality of service as in the energy-agnostic case. © 2012 Elsevier B.V. All rights reserved.",
+      "citations": 76,
+      "quartile": [
+        {
+          "year": 2025,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 82,
+              "rank": 96,
+              "quartile": "Q1"
+            }
+          ]
+        },
+        {
+          "year": 2012,
+          "subjects": [
+            {
+              "subject": "Computer Networks and Communications",
+              "percentile": 80,
+              "rank": 40,
+              "quartile": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scopus_id": "2-s2.0-84861550699",
+      "title": "Applying traffic merging to datacenter networks",
+      "doi": "10.1145/2208828.2208831",
+      "venue": "Proceedings of the 3rd International Conference on Future Energy Systems Where Energy Computing and Communication Meet E Energy 2012",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2012,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "21100202903",
+      "authors": "Carrega Alessandro; Singh Suresh; Bolla Raffaele; Bruschi Roberto",
+      "author_ids": "36633941300;57202910580;7006403406;8555973600",
+      "authorAffiliationIds": "60025153;60023908;60025153;60103966",
+      "corresponding": "Carrega A.",
+      "keywords": "Design | Experimentation",
+      "abstract": "The problem of reducing energy usage in datacenter networks is an important one. However, we would like to achieve this goal without compromising throughput and loss characteristics of these networks. Studies have shown that data-center networks typically see loads of between 5% - 25% but the energy draw of these networks is equal to operating them at maximum load. To this end we examine the problem of reducing the energy consumption of datacenter networks by merging traffic. The key idea is that low traffic from N links is merged together to create K ≤ N streams of high traffic. These streams are fed to K switch interfaces which run at maximum rate while the remaining interfaces are switched to the lowest possible rate. We show that this merging can be accomplished with minimal latency and energy costs (less than 0.1W total) while simultaneously allowing us a deterministic way of switching link rates between maximum and minimum. We examine the idea of traffic merging using three different datacenter networks flattened butterfly, mesh and hypercube networks. In addition to analysis, we simulate these networks and utilizing previously developed traffic models we show that 49% energy savings are obtained for 5% per-link load while we get 20% savings for a 50% load for the flattened butterfly and somewhat lower savings are obtained for the other two networks. The packet losses are statistically insignificant and the maximum latency increase is less than 3μs. The results show that energy-proportional datacenter networks are indeed possible. © 2012 ACM.",
+      "citations": 12,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-79960594927",
+      "title": "Green network technologies and the art of trading-off",
+      "doi": "10.1109/INFCOMW.2011.5928827",
+      "venue": "2011 IEEE Conference on Computer Communications Workshops INFOCOM Wkshps 2011",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2011,
+      "volume": null,
+      "issue_id": null,
+      "pages": "301-306",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "19900192532",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Carrega Alessandro; Davoli Franco",
+      "author_ids": "7006403406;8555973600;36633941300;57220364548",
+      "authorAffiliationIds": "60025153;60103966;60025153;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "adaptive rate | green networking | low power idle",
+      "abstract": "In this contribution, we focus on energy-aware devices able to reduce their energy requirements by adapting their performance. We propose an analytical model to accurately represent the impact of green network technologies (i.e., low power idle and adaptive rate) on network- and energy-aware performance indexes. The model has been validated with experimental results, performed by using energy-aware software routers and real-world traffic traces. The achieved results demonstrate how the proposed model can effectively represent energy- and network-aware performance indexes. Moreover, also an optimization procedure based on the model has been proposed and experimentally evaluated. The procedure aims at dynamically adapting the energy-aware device configuration to minimize energy consumption, while coping with incoming traffic volumes and meeting network performance constraints. © 2011 IEEE.",
+      "citations": 32,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-79955955548",
+      "title": "Power scaling in network devices",
+      "doi": "10.1145/1921206.1921216",
+      "venue": "Proceedings of the ACM Conext Student Workshop Conext 2010",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2010,
+      "volume": null,
+      "issue_id": null,
+      "pages": null,
+      "issn": null,
+      "eIssn": null,
+      "source_id": "19800188026",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Carrega Alessandro",
+      "author_ids": "7006403406;8555973600;36633941300",
+      "authorAffiliationIds": "60025153;60103966;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": null,
+      "abstract": "The largest part of routers and switches, today deployed in production networks, has very limited energy saving capabilities, and substantially requires the same amount of energy both when working at full speed or when being idle. In order to dynamically adapt such energy requirements to the real device work load, current approaches foster the introduction of low power idle and power scaling primitives in entire devices, internal components and network interfaces. Starting from these considerations, we propose an analysis of the theoretical and technological limitations in adopting such kind of mechanisms. The results achieved show that the power scaling allows a linear trade-off between consumption and network performance, but the time to switch between two power states may cause a non negligible service interruption. © 2010 ACM.",
+      "citations": 0,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-79251583198",
+      "title": "Theoretical and technological limitations of power scaling in network devices",
+      "doi": "10.1109/ATNAC.2010.5680253",
+      "venue": "2010 Australasian Telecommunication Networks and Applications Conference Atnac 2010",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2010,
+      "volume": null,
+      "issue_id": null,
+      "pages": "37-42",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "19700187509",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Carrega Alessandro; Davoli Franco",
+      "author_ids": "7006403406;8555973600;36633941300;57220364548",
+      "authorAffiliationIds": "60025153;60103966;60025153;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "Dynamic power scaling | Green networking | Power management",
+      "abstract": "The largest part of routers and switches, today deployed in production networks, has very limited energy saving capabilities, and substantially requires the same amount of energy both when working at full speed or when being idle. In order to dynamically adapt such energy requirements to the real device work load, current approaches foster the introduction of low power idle and power scaling primitives in entire devices, internal components and network interfaces. Starting from these considerations, we focus on power scaling, and we propose an analysis of the theoretical and technological limitations in adopting such kind of mechanisms. Thus, our contribution is twofold. On one hand, we performed several tests to identify the technological limitations in a software router based on off-the-shelf hardware, which already includes such capabilities. The results achieved show that the power scaling allows a linear trade-off between consumption and network performance, but the time to switch between two power states may cause a non negligible service interruption. On the other hand, regarding the theoretical limitations, we consider the trade-off between the benefit in dynamically adapting the power states within short time-scales and the overhead needed to choose and select the new power state. ©2010 IEEE.",
+      "citations": 12,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-78649264193",
+      "title": "GreenSim: An open source tool for evaluating the energy savings through resource dynamic adaptation",
+      "doi": null,
+      "venue": "Proceedings of the 2010 International Symposium on Performance Evaluation of Computer and Telecommunication Systems Spects 2010",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2010,
+      "volume": null,
+      "issue_id": null,
+      "pages": "89-95",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "19700182432",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Carrega Alessandro",
+      "author_ids": "7006403406;8555973600;36633941300",
+      "authorAffiliationIds": "60025153;60103966;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "Burst analysis | Green simulator | Networking | Packet processing engine | Performance evaluation | Simulation",
+      "abstract": "Due to the continuous growth of customer population, the spreading of broadband access, the increase in energy price, and the expanding number of services being offered by telecoms and providers, energy efficiency issue has become a high-priority objective for wired networks and services infrastructures. Current network devices are well-known to be over-dimensioned for rush-hour traffic loads, and to have Oat energy requirements with respect to their real utilization. Recent studies suggested to reduce the energy consumption of networks and networked devices through the introduction of adaptive capabilities, which allow to modulate energy requirements according to network-aware performance (i.e., delays, packet losses, etc.). However, at the today's state of the art, the real impact of these power management techniques is not clear, and requires further studies and researches. Based on this context, we focus on development of a new simulator called \"GreenSim\", that aims at analyzing and evaluating the impact of adaptive energy saving techniques both on network- and energy-sides in the presence of real traffic traces and data. The results achieved with the proposed simulator demonstrate that these green technologies, when applied to packet processing engines inside network devices, can save up more that 40% of energy consumption in the presence of real Internet traffic profiles, while maintaining an acceptable network performance level.",
+      "citations": 2,
+      "quartile": null
+    },
+    {
+      "scopus_id": "2-s2.0-79951936971",
+      "title": "An analytical model for designing and controlling new-generation green devices",
+      "doi": "10.1109/GLOCOMW.2010.5700166",
+      "venue": "2010 IEEE Globecom Workshops GC 10",
+      "type": "Conference Proceeding",
+      "sub_type": "Conference Paper",
+      "year": 2010,
+      "volume": null,
+      "issue_id": null,
+      "pages": "1388-1393",
+      "issn": null,
+      "eIssn": null,
+      "source_id": "19700188271",
+      "authors": "Bolla Raffaele; Bruschi Roberto; Carrega Alessandro; Davoli Franco",
+      "author_ids": "7006403406;8555973600;36633941300;57220364548",
+      "authorAffiliationIds": "60025153;60025153;60025153;60025153",
+      "corresponding": "Bolla R.",
+      "keywords": "Green networks | Low power idle | Power scaling",
+      "abstract": "In this paper, we focus on energy-aware devices able to reduce their energy requirements by adapting their performance. We consider the device to be able to save energy through two main energy-aware primitives, namely, low power idle and power scaling. In such an environment, we propose a novel and original model for accurately representing how the joint usage of the previously cited primitives can impact on both energy consumption and network performance. As shown by the results achieved, the proposed model can be effectively applied in order to design and control energy-aware hardware of next-generation network devices. ©2010 IEEE.",
+      "citations": 7,
+      "quartile": null
+    }
+  ],
+  "iris_products": [
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1269875",
+      "authors": "Carrega, A.; Davoli, F.; Rabbani, R.",
+      "legacy_id": 666961,
+      "year": 2025,
+      "miur_type": "273",
+      "title": "B5G/6G Cyber Security Testbed",
+      "type": "04.01 - Contributo in atti di convegno"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1214395",
+      "authors": "Baldini, G.; Bolla, R.; Bruschi, R.; Carrega, A.; Davoli, F.; Lombardo, C.; Rabbani, R.",
+      "legacy_id": 591966,
+      "year": 2024,
+      "miur_type": "262",
+      "title": "Toward Sustainable O-RAN Deployment: An In-Depth Analysis of Power Consumption",
+      "scopus_id": "2-s2.0-85198749396",
+      "doi": "10.1109/TGCN.2024.3426108",
+      "isi_id": "WOS:001494086200023",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "4",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1206456",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; Carrega, Alessandro; Davoli, Franco; Lombardo, Chiara; Siccardi, Beatrice",
+      "legacy_id": 581889,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "A Stochastic Knapsack Model for Energy Efficient Management of Multi-Server Queues",
+      "scopus_id": "2-s2.0-85197369833",
+      "doi": "10.1109/balkancom61808.2024.10557204",
+      "isi_id": "WOS:001259417100039",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1250377",
+      "authors": "Carrega, Alessandro; Rabbani, Ramin",
+      "legacy_id": 642911,
+      "year": 2024,
+      "miur_type": "273",
+      "title": "ePEM: An End-to-End Proactive Secure Connectivity Manager for 6G Orchestrator Solutions",
+      "scopus_id": "2-s2.0-105002851823",
+      "doi": "10.1109/camad62243.2024.10942805",
+      "isi_id": "WOS:001481504800094",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1214437",
+      "authors": "Zafeiropoulos, Anastasios; Fotopoulou, Eleni; Vassilakis, Constantinos; Tzanettis, Ioannis; Lombardo, Chiara; Carrega, Alessandro; Bruschi, Roberto",
+      "legacy_id": 592027,
+      "year": 2023,
+      "miur_type": "273",
+      "title": "Intent-Driven Distributed Applications Management Over Compute and Network Resources in the Computing Continuum",
+      "scopus_id": "2-s2.0-85174385000",
+      "doi": "10.1109/dcoss-iot58021.2023.00074",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "10"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1106418",
+      "authors": "Repetto, Matteo; Bruno, Gianmarco; Yusupov, Jalolliddin; Lamanna, Guerino; Ertl, Benjamin; Carrega, Alessandro",
+      "legacy_id": 452856,
+      "year": 2022,
+      "miur_type": "262",
+      "title": "Automating Mitigation of Amplification Attacks in NFV Services",
+      "scopus_id": "2-s2.0-85132527635",
+      "doi": "10.1109/TNSM.2022.3172880",
+      "isi_id": "WOS:000866556800032",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1214442",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; Carrega, Alessandro; Davoli, Franco; Lombardo, Chiara",
+      "legacy_id": 592049,
+      "year": 2022,
+      "miur_type": "273",
+      "title": "Trading off Power Consumption and Delay in the Execution of Network Functions by Dynamic Activation of Processing Units",
+      "scopus_id": "2-s2.0-85136797445",
+      "doi": "10.1109/netsoft54395.2022.9844039",
+      "isi_id": "WOS:000854018800001",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1106419",
+      "authors": "Carrega, A.; Grieco, G.; Striccoli, D.; Papoutsakis, M.; Lima, T.; Carretero, J. I.; Repetto, M.",
+      "legacy_id": 452858,
+      "year": 2022,
+      "miur_type": "268",
+      "title": "A Reference Architecture for Management of Security Operations in Digital Service Chains",
+      "scopus_id": "2-s2.0-85128222612",
+      "doi": "10.1007/978-3-031-04036-8_1",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1106420",
+      "authors": "Repetto, M.; Carrega, A.",
+      "legacy_id": 452857,
+      "year": 2022,
+      "miur_type": "268",
+      "title": "Monitoring Network Flows in Containerized Environments",
+      "scopus_id": "2-s2.0-85128187559",
+      "doi": "10.1007/978-3-031-04036-8_2",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076775",
+      "authors": "Repetto, M.; Carrega, A.; Rapuzzi, R.",
+      "legacy_id": 414007,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "An architecture to manage security operations for digital service chains",
+      "scopus_id": "2-s2.0-85090920156",
+      "doi": "10.1016/j.future.2020.08.044",
+      "isi_id": "WOS:000591438600011",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "15",
+      "citations_scopus": "28"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1090564",
+      "authors": "Sanchez, O. R.; Repetto, M.; Carrega, A.; Bolla, R.; Pajo, J. F.",
+      "legacy_id": 429097,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "Feature Selection Evaluation towards a Lightweight Deep Learning DDoS Detector",
+      "scopus_id": "2-s2.0-85112043430",
+      "doi": "10.1109/ICC42927.2021.9500458",
+      "isi_id": "WOS:000719386001059",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "17",
+      "citations_scopus": "26"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1077946",
+      "authors": "Repetto, M.; Striccoli, D.; Piro, G.; Carrega, A.; Boggia, G.; Bolla, R.",
+      "legacy_id": 415320,
+      "year": 2021,
+      "miur_type": "262",
+      "title": "An Autonomous Cybersecurity Framework for Next-generation Digital Service Chains",
+      "scopus_id": "2-s2.0-85106904683",
+      "doi": "10.1007/s10922-021-09607-7",
+      "isi_id": "WOS:000653772400001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "7",
+      "citations_scopus": "17"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076799",
+      "authors": "Repetto, M.; Carrega, A.; Lamanna, G.; Yusupov, J.; Toscano, O.; Bruno, G.; Nuovo, M.; Cappelli, M.",
+      "legacy_id": 414033,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "Leveraging the 5G architecture to mitigate amplification attacks",
+      "scopus_id": "2-s2.0-85112051507",
+      "doi": "10.1109/NetSoft51509.2021.9492545",
+      "isi_id": "WOS:000718599000070",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1090566",
+      "authors": "Sanchez, O. R.; Repello, M.; Carrega, A.; Bolla, R.",
+      "legacy_id": 429099,
+      "year": 2021,
+      "miur_type": "273",
+      "title": "Evaluating ML-based DDoS Detection with Grid Search Hyperparameter Optimization",
+      "scopus_id": "2-s2.0-85112070400",
+      "doi": "10.1109/NetSoft51509.2021.9492633",
+      "isi_id": "WOS:000718599000064",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "19",
+      "citations_scopus": "26"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076818",
+      "authors": "Repetto, M.; Carrega, A.; Duzha, A.",
+      "legacy_id": 414052,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "A novel cyber-security framework leveraging programmable capabilities in digital services",
+      "scopus_id": "2-s2.0-85084765311",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076769",
+      "authors": "Carrega, A.; Repetto, M.",
+      "legacy_id": 414000,
+      "year": 2020,
+      "miur_type": "262",
+      "title": "Coupling energy efficiency and quality for consolidation of cloud workloads",
+      "scopus_id": "2-s2.0-85082874943",
+      "doi": "10.1016/j.comnet.2020.107210",
+      "isi_id": "WOS:000535451800002",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "5",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076793",
+      "authors": "Carrega, A.; Caviglione, L.; Repetto, M.; Zuppelli, M.",
+      "legacy_id": 414028,
+      "year": 2020,
+      "miur_type": "273",
+      "title": "Programmable data gathering for detecting stegomalware",
+      "scopus_id": "2-s2.0-85091965833",
+      "doi": "10.1109/NetSoft48620.2020.9165537",
+      "isi_id": "WOS:000623436400068",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "13",
+      "citations_scopus": "19"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076808",
+      "authors": "Carrega, A.; Repetto, M.",
+      "legacy_id": 414044,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Data Log Management for Cyber-Security Programmability of Cloud Services and Applications",
+      "scopus_id": "2-s2.0-85098619322",
+      "doi": "10.1145/3338511.3357351",
+      "isi_id": "WOS:000548250800006",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076777",
+      "authors": "Repetto, M.; Carrega, A.; Lamanna, G.",
+      "legacy_id": 414010,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "An architecture to manage security services for cloud applications",
+      "scopus_id": "2-s2.0-85075400505",
+      "doi": "10.1109/CCCS.2019.8888061",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076779",
+      "authors": "Repetto, M.; Carrega, A.; Yusupov, J.; Valenza, F.; Risso, F.; Lamanna, G.",
+      "legacy_id": 414013,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Automated Security Management for Virtual Services",
+      "scopus_id": "2-s2.0-85082989789",
+      "doi": "10.1109/NFV-SDN47374.2019.9040069",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076771",
+      "authors": "Carrega, A.; Portomauro, G.; Repetto, M.; Robino, G.",
+      "legacy_id": 414003,
+      "year": 2019,
+      "miur_type": "262",
+      "title": "Energy efficiency for edge multimedia elastic applications",
+      "scopus_id": "2-s2.0-85065417399",
+      "doi": "10.1007/s11042-018-7050-x",
+      "isi_id": "WOS:000482419900049",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076786",
+      "authors": "Repetto, M.; Carrega, A.; Lamanna, G.",
+      "legacy_id": 414020,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "Towards Novel Security Architectures for Network Functions Virtualization",
+      "scopus_id": "2-s2.0-85082986657",
+      "doi": "10.1109/NFV-SDN47374.2019.9040068",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1003567",
+      "authors": "Bolla, Raffaele; Carrega, A.; Matteo, Repetto",
+      "legacy_id": 329669,
+      "year": 2019,
+      "miur_type": "273",
+      "title": "An abstraction layer for cybersecurity context",
+      "scopus_id": "2-s2.0-85064968198",
+      "doi": "10.1109/ICCNC.2019.8685665",
+      "isi_id": "WOS:000469493200040",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "1"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076765",
+      "authors": "Carrega, A.; Portomauro, G.; Repetto, M.; Robino, G.",
+      "legacy_id": 413998,
+      "year": 2018,
+      "miur_type": "262",
+      "title": "Boosting energy efficiency and quality of service through orchestration tools",
+      "scopus_id": "2-s2.0-85057963469",
+      "doi": "10.1109/MCC.2018.064181119",
+      "isi_id": "WOS:000451964200007",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "1",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076797",
+      "authors": "Carrega, A.; Repetto, M.; Robino, G.; Portomauro, G.",
+      "legacy_id": 414031,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "OpenStack extensions for QoS and energy efficiency in edge computing",
+      "scopus_id": "2-s2.0-85048837677",
+      "doi": "10.1109/FMEC.2018.8364044",
+      "isi_id": "WOS:000444770700012",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "5",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/995689",
+      "authors": "Abdul Salam, H.; Davoli, F.; Carrega, A.; Timm-Giel, A.",
+      "legacy_id": 320641,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Towards Prediction of Power Consumption of Virtual Machines for Varying Loads",
+      "scopus_id": "2-s2.0-85062170633",
+      "doi": "10.1109/ATNAC.2018.8615319",
+      "isi_id": "WOS:000459862300080",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076812",
+      "authors": "Carrega, A; Repetto, M",
+      "legacy_id": 414015,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Cloud Applications Consolidation through Context Information and Heuristic Optimization",
+      "isi_id": "WOS:000459862300050",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076763",
+      "authors": "Carrega, A.; Portomauro, G.; Repetto, M.; Robino, G.",
+      "legacy_id": 413995,
+      "year": 2018,
+      "miur_type": "262",
+      "title": "Balancing QoS and power consumption in programmable 5G infrastructures",
+      "scopus_id": "2-s2.0-85056419869",
+      "doi": "10.1002/ett.3425",
+      "isi_id": "WOS:000449992000002",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "2",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/979902",
+      "authors": "Salam, Ha; Davoli, F; Carrega, A; Timm-Giel, A",
+      "legacy_id": 302908,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Towards Prediction of Power Consumption of Virtual Machines for Varying Loads",
+      "scopus_id": "2-s2.0-85062170633",
+      "isi_id": "WOS:000459862300080",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "5"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/934460",
+      "authors": "Bolla, Raffaele; Carrega, Alessandro; Repetto, Matteo; Robino, Giorgio",
+      "legacy_id": 250987,
+      "year": 2018,
+      "miur_type": "262",
+      "title": "Improving efficiency of edge computing infrastructures through orchestration models",
+      "scopus_id": "2-s2.0-85056789461",
+      "doi": "10.3390/computers7020036",
+      "isi_id": "WOS:000436492500017",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "3",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076791",
+      "authors": "Carrega, A.; Repetto, M.; Risso, F.; Covaci, S.; Zafeiropoulos, A.; Giannetsos, T.; Toscano, O.",
+      "legacy_id": 414026,
+      "year": 2018,
+      "miur_type": "273",
+      "title": "Situational Awareness in Virtual Networks: The ASTRID Approach",
+      "scopus_id": "2-s2.0-85060217743",
+      "doi": "10.1109/CloudNet.2018.8549540",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "4"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076757",
+      "authors": "Carrega, A.; Repetto, M.; Gouvas, P.; Zafeiropoulos, A.",
+      "legacy_id": 413989,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "A Middleware for Mobile Edge Computing",
+      "scopus_id": "2-s2.0-85032191940",
+      "doi": "10.1109/MCC.2017.3791021",
+      "isi_id": "WOS:000417334400006",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "18",
+      "citations_scopus": "25"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/881384",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; Carrega, Alessandro; Davoli, Franco; Pajo, Jane Frances",
+      "legacy_id": 192237,
+      "year": 2017,
+      "miur_type": "262",
+      "title": "Corrections to: \"Green Networking With Packet Processing Engines: Modeling and Optimization\"",
+      "scopus_id": "2-s2.0-85032455194",
+      "doi": "10.1109/TNET.2017.2761892",
+      "type": "01.01 - Articolo su rivista",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076773",
+      "authors": "Carrega, A.; Repetto, M.",
+      "legacy_id": 414005,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "A network-centric architecture for building the cloud continuum",
+      "scopus_id": "2-s2.0-85017380629",
+      "doi": "10.1109/ICCNC.2017.7876215",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076805",
+      "authors": "Carrega, A.; Repetto, M.",
+      "legacy_id": 414040,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "Energy-Aware Consolidation Scheme for Data Center Cloud Applications",
+      "scopus_id": "2-s2.0-85040237525",
+      "doi": "10.23919/ITC.2017.8065706",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "6"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076816",
+      "authors": "Carrega, A.; Repetto, M.",
+      "legacy_id": 414050,
+      "year": 2017,
+      "miur_type": "273",
+      "title": "Green and heuristics-based consolidation scheme for data center cloud applications",
+      "scopus_id": "2-s2.0-85030153378",
+      "doi": "10.1007/978-3-319-67639-5_17",
+      "isi_id": "WOS:000432814200017",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/1076801",
+      "authors": "Carrega, A.; Repetto, M.",
+      "legacy_id": 414037,
+      "year": 2016,
+      "miur_type": "273",
+      "title": "Exploiting novel software development paradigms to increase the sustainability of data centers",
+      "scopus_id": "2-s2.0-85009113608",
+      "doi": "10.1145/2996890.3007878",
+      "isi_id": "WOS:000405576700042",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "3",
+      "citations_scopus": "8"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/838422",
+      "authors": "Bruschi, Roberto; Carrega, Alessandro; Davoli, Franco",
+      "legacy_id": 145027,
+      "year": 2016,
+      "miur_type": "262",
+      "title": "A Game for Energy-Aware Allocation of Virtualized Network Functions",
+      "scopus_id": "2-s2.0-84959168219",
+      "doi": "10.1155/2016/4067186",
+      "isi_id": "WOS:000377484000001",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "16",
+      "citations_scopus": "18"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/750400",
+      "authors": "M., Jarschel; T., Hoßfeld; Davoli, Franco; Bolla, Raffaele; Bruschi, Roberto; Carrega, Alessandro",
+      "legacy_id": 10882,
+      "year": 2015,
+      "miur_type": "268",
+      "title": "SDN-enabled energy-efficient network management",
+      "scopus_id": "2-s2.0-84933540050",
+      "doi": "10.1002/9781118759257.ch17",
+      "isi_id": "WOS:000383051700018",
+      "type": "02.01 - Contributo in volume (Capitolo o saggio)",
+      "citations_isi": "4",
+      "citations_scopus": "3"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/586325",
+      "authors": "Bolla, Raffaele; Bruschi, R.; Carrega, A.; Davoli, Franco",
+      "legacy_id": 97698,
+      "year": 2014,
+      "miur_type": "262",
+      "title": "Green networking with packet processing engines: Modeling and optimization",
+      "scopus_id": "2-s2.0-84873962195",
+      "doi": "10.1109/TNET.2013.2242485",
+      "isi_id": "WOS:000331966900009",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "34",
+      "citations_scopus": "48"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/631841",
+      "authors": "Bolla, Raffaele; Bruschi, R.; Carrega, A.; Davoli, Franco; Lago, P.",
+      "legacy_id": 99344,
+      "year": 2014,
+      "miur_type": "262",
+      "title": "A closed-form model for the IEEE 802.3az network and power performance",
+      "scopus_id": "2-s2.0-84891602988",
+      "doi": "10.1109/JSAC.2014.140103.",
+      "isi_id": "WOS:000329060000003",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "20",
+      "citations_scopus": "21"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/522449",
+      "authors": "Carrega, Alessandro; S., Singh; Bolla, Raffaele; Bruschi, Roberto",
+      "legacy_id": 93836,
+      "year": 2012,
+      "miur_type": "273",
+      "title": "Applying traffic merging to datacenter networks",
+      "scopus_id": "2-s2.0-84861550699",
+      "doi": "10.1145/2208828.2208831",
+      "isi_id": "WOS:000361466800003",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "0",
+      "citations_scopus": "12"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/522453",
+      "authors": "Carrega, Alessandro; S., Singh; Bruschi, Roberto; Bolla, Raffaele",
+      "legacy_id": 93840,
+      "year": 2012,
+      "miur_type": "273",
+      "title": "Traffic merging for energy-efficient datacenter networks",
+      "scopus_id": "2-s2.0-84867025138",
+      "isi_id": "WOS:000309598200002",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "19"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/522450",
+      "authors": "Bolla, Raffaele; Bruschi, R.; Carrega, Alessandro; Davoli, Franco; Suino, D.; Vassilakis, C.; Zafeiropoulos, A.",
+      "legacy_id": 93837,
+      "year": 2012,
+      "miur_type": "262",
+      "title": "Cutting the energy bills of Internet Service Providers and telecoms through power management: An impact analysis",
+      "scopus_id": "2-s2.0-84862013433",
+      "doi": "10.1016/j.comnet.2012.04.003",
+      "isi_id": "WOS:000306209200002",
+      "type": "01.01 - Articolo su rivista",
+      "citations_isi": "66",
+      "citations_scopus": "76"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/326552",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; Carrega, Alessandro; Davoli, Franco",
+      "legacy_id": 72322,
+      "year": 2011,
+      "miur_type": "273",
+      "title": "Green Network Technologies and the Art of Trading-off",
+      "scopus_id": "2-s2.0-79960594927",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "32"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/326551",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; Carrega, A.; Davoli, Franco",
+      "legacy_id": 72321,
+      "year": 2010,
+      "miur_type": "273",
+      "title": "An Analytical Model for Designing and Controlling New-Generation Green Devices",
+      "scopus_id": "2-s2.0-79951936971",
+      "isi_id": "WOS:000291611300263",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "4",
+      "citations_scopus": "7"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/522491",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; Carrega, Alessandro",
+      "legacy_id": 93860,
+      "year": 2010,
+      "miur_type": "273",
+      "title": "Power scaling in network devices",
+      "scopus_id": "2-s2.0-79955955548",
+      "doi": "10.1145/1921206.1921216",
+      "isi_id": "WOS:000296337100007",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "0"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/326547",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; Carrega, A.",
+      "legacy_id": 72318,
+      "year": 2010,
+      "miur_type": "273",
+      "title": "GreenSim: An Open Source Tool for Evaluating the Energy Savings through Dynamic Adaptation",
+      "scopus_id": "2-s2.0-78649264193",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_scopus": "2"
+    },
+    {
+      "link": "https://unige.iris.cineca.it/handle/11567/522492",
+      "authors": "Bolla, Raffaele; Bruschi, Roberto; Carrega, Alessandro; Davoli, Franco",
+      "legacy_id": 93861,
+      "year": 2010,
+      "miur_type": "273",
+      "title": "Theoretical and technological limitations of power scaling in network devices",
+      "scopus_id": "2-s2.0-79251583198",
+      "isi_id": "WOS:000296337100007",
+      "type": "04.01 - Contributo in atti di convegno",
+      "citations_isi": "2",
+      "citations_scopus": "12"
+    }
+  ],
+  "retrieved_at": "2025-11-14T15:17:14.939701"
+}
