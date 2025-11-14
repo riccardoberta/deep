@@ -482,6 +482,44 @@ def _write_metadata(run_dir: Path, metadata: Dict[str, Any]) -> None:
     metadata_path = run_dir / "metadata.json"
     metadata_path.write_text(json.dumps(metadata, indent=2), encoding="utf-8")
 
+
+def _json_summary(value: Any) -> str:
+    if isinstance(value, dict):
+        return f"{len(value)} keys"
+    if isinstance(value, list):
+        return f"{len(value)} items"
+    return json.dumps(value, ensure_ascii=False)
+
+
+def _build_json_tree(value: Any, label: str = "value", level: int = 0) -> html.Details | html.Div:
+    if isinstance(value, dict):
+        if not value:
+            return html.Div(f"{label}: {{}}", className="text-muted")
+        children = [_build_json_tree(val, str(key), level + 1) for key, val in value.items()]
+        return html.Details(
+            [html.Summary(f"{label} – {_json_summary(value)}"), html.Div(children, style={"paddingLeft": "1rem"})],
+            open=level == 0,
+        )
+    if isinstance(value, list):
+        if not value:
+            return html.Div(f"{label}: []", className="text-muted")
+        children = [_build_json_tree(item, f"[{index}]", level + 1) for index, item in enumerate(value)]
+        return html.Details(
+            [html.Summary(f"{label} – {_json_summary(value)}"), html.Div(children, style={"paddingLeft": "1rem"})],
+            open=False,
+        )
+    return html.Div(
+        [
+            html.Span(f"{label}: ", className="fw-semibold"),
+            html.Code(json.dumps(value, ensure_ascii=False)),
+        ],
+        style={"marginBottom": "0.35rem"},
+    )
+
+
+def _member_detail_component(payload: Dict[str, Any]) -> html.Div:
+    return html.Div(_build_json_tree(payload), style={"maxHeight": "380px", "overflow": "auto"})
+
 RUN_OPTIONS_INITIAL = _run_dropdown_options()
 DEFAULT_RUN_SELECTION = RUN_OPTIONS_INITIAL[0]["value"] if RUN_OPTIONS_INITIAL else None
 RUN_STORE_INITIAL = _load_run_store_for_value(DEFAULT_RUN_SELECTION)
@@ -491,6 +529,7 @@ DEFAULT_PREVIEW_COLUMNS, DEFAULT_PREVIEW_DATA, DEFAULT_PREVIEW_MESSAGE = _build_
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.title = "DEEP"
+app._favicon = "logo.png"
 
 
 def _import_file_card() -> dbc.Card:
@@ -673,7 +712,11 @@ def _member_table_card() -> dbc.Card:
                     sort_mode="single",
                     page_action="none",
                     row_selectable=False,
+                    cell_selectable=True,
                 ),
+                html.Hr(),
+                html.H6("Member details", className="mt-3"),
+                html.Div("Select a member using the magnifier icon.", id="member-detail"),
             ]
         ),
         className="shadow-sm",
@@ -720,15 +763,27 @@ def _build_exploring_tab() -> dbc.Container:
 
 
 
+header = html.Div(
+    dbc.Row(
+        [
+            dbc.Col(html.Img(src="/assets/logo.png", style={"height": "64px"}), width="auto"),
+            dbc.Col(
+                [
+                    html.H1("DEEP", className="mb-1"),
+                    html.Div("DITEN Evaluation and Evidence Platform", className="text-muted fs-5"),
+                ],
+                width="auto",
+            ),
+        ],
+        align="center",
+        className="g-3",
+    ),
+    className="mb-4",
+)
+
 app.layout = dbc.Container(
     [
-        html.Div(
-            [
-                html.H1("DEEP", className="mb-1"),
-                html.Div("DITEN Evaluation and Evidence Platform", className="text-muted fs-5"),
-            ],
-            className="mb-4",
-        ),
+        header,
         dbc.Card(
             dbc.CardBody(
                 dcc.Tabs(
@@ -1056,6 +1111,21 @@ def trigger_summary_download(n_clicks: int, run_store: Dict[str, Any]):
     if not path.exists():
         return dash.no_update
     return dcc.send_file(path, filename=path.name)
+
+
+@app.callback(
+    Output("member-detail", "children"),
+    Input("member-table", "active_cell"),
+    State("run-store", "data"),
+)
+def show_member_detail(active_cell: Optional[Dict[str, Any]], run_store: Dict[str, Any]):
+    if not active_cell or active_cell.get("column_id") != "inspect":
+        return dash.no_update
+    payloads = (run_store or {}).get("payloads") or []
+    row_index = active_cell.get("row")
+    if row_index is None or row_index < 0 or row_index >= len(payloads):
+        return dash.no_update
+    return _member_detail_component(payloads[row_index])
 
 
 def main() -> None:  # pragma: no cover - manual start
