@@ -68,6 +68,14 @@ class DataPreparation:
             row[f"conferences_{label}"] = metric.get("conferences", "")
             row[f"h_index_{label}"] = metric.get("hindex", "")
 
+        scores = payload.get("scores") or {}
+        for indicator, key in [("articles", "Art"), ("citations", "Cit"), ("hindex", "H")]:
+            block = scores.get(indicator) or {}
+            row[f"score_{key}"] = block.get("score", "")
+            for level, col in [("ii_fascia", "II"), ("i_fascia", "I"), ("commissario", "Comm")]:
+                lvl = block.get(level) or {}
+                row[f"ratio_{key}_{col}"] = lvl.get("ratio", "")
+
         return row
 
     @staticmethod

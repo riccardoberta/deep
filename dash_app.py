@@ -31,6 +31,9 @@ from collaborations import CollaborationBuilder
 from data_preparation import DataPreparation
 from export import Exporter
 from importer import Importer
+from thresholds import compute_scores, load_thresholds
+
+_THRESHOLDS = load_thresholds()
 
 load_dotenv()
 
@@ -430,7 +433,24 @@ def _load_run_store_for_value(value: Optional[str]) -> Dict[str, Any]:
 
 
 def _run_dropdown_options() -> List[Dict[str, str]]:
-    return [{"label": path.name, "value": str(path.resolve())} for path in _list_run_directories(SETTINGS.data_dir)]
+    options = []
+    for path in _list_run_directories(SETTINGS.data_dir):
+        meta_path = path / "metadata.json"
+        try:
+            meta = json.loads(meta_path.read_text(encoding="utf-8")) if meta_path.exists() else {}
+        except Exception:
+            meta = {}
+        input_file = Path(meta.get("input_file", "")).stem or path.name
+        count = meta.get("source_count", "?")
+        # path.name is like "2026_04_10_3" → "2026/04/10 #3"
+        parts = path.name.split("_")
+        if len(parts) == 4:
+            date_label = f"{parts[0]}/{parts[1]}/{parts[2]} #{parts[3]}"
+        else:
+            date_label = path.name
+        label = f"{date_label} – {input_file} ({count} membri)"
+        options.append({"label": label, "value": str(path.resolve())})
+    return options
 
 
 def _sync_run_dropdown(preferred: Optional[str]) -> Tuple[List[Dict[str, str]], Optional[str]]:
@@ -483,42 +503,229 @@ def _write_metadata(run_dir: Path, metadata: Dict[str, Any]) -> None:
     metadata_path.write_text(json.dumps(metadata, indent=2), encoding="utf-8")
 
 
-def _json_summary(value: Any) -> str:
-    if isinstance(value, dict):
-        return f"{len(value)} keys"
-    if isinstance(value, list):
-        return f"{len(value)} items"
-    return json.dumps(value, ensure_ascii=False)
+_TREE_KEY_STYLE   = {"color": "#0550ae", "fontWeight": "500", "fontFamily": "monospace", "fontSize": "0.72rem"}
+_TREE_INDENT      = {"paddingLeft": "1.1rem", "borderLeft": "2px solid #e9ecef", "marginLeft": "2px", "marginTop": "2px"}
+_TREE_ITEM_STYLE  = {"marginBottom": "3px", "lineHeight": "1.5"}
+_TREE_SUMMARY_STYLE = {"cursor": "pointer", "userSelect": "none", "listStyle": "none", "display": "flex",
+                       "alignItems": "center", "gap": "4px", "marginBottom": "2px"}
 
 
-def _build_json_tree(value: Any, label: str = "value", level: int = 0) -> html.Details | html.Div:
+def _tree_leaf_value(value: Any) -> html.Span:
+    if value is None:
+        return html.Span("null", style={"color": "#6c757d", "fontFamily": "monospace", "fontSize": "0.72rem"})
+    if isinstance(value, bool):
+        return html.Span(str(value).lower(), style={"color": "#d63384", "fontFamily": "monospace", "fontSize": "0.72rem"})
+    if isinstance(value, (int, float)):
+        return html.Span(str(value), style={"color": "#b45309", "fontFamily": "monospace", "fontSize": "0.72rem"})
+    text = str(value)
+    display = f'"{text}"' if len(text) <= 120 else f'"{text[:120]}…"'
+    return html.Span(display, style={"color": "#198754", "fontFamily": "monospace", "fontSize": "0.72rem", "wordBreak": "break-all"})
+
+
+def _build_json_tree(value: Any, label: str = "value", level: int = 0) -> html.Div | html.Details:
+    # ── Dict ──────────────────────────────────────────────────────────────────
     if isinstance(value, dict):
         if not value:
-            return html.Div(f"{label}: {{}}", className="text-muted")
+            return html.Div([
+                html.Span(label, style=_TREE_KEY_STYLE),
+                html.Span(": {}", style={"color": "#6c757d", "fontFamily": "monospace", "fontSize": "0.72rem"}),
+            ], style=_TREE_ITEM_STYLE)
+
         children = [_build_json_tree(val, str(key), level + 1) for key, val in value.items()]
+        inner = html.Div(children, style=_TREE_INDENT)
+
+        # Root level: skip wrapper, render children directly
+        if level == 0:
+            return html.Div(children)
+
         return html.Details(
-            [html.Summary(f"{label} – {_json_summary(value)}"), html.Div(children, style={"paddingLeft": "1rem"})],
-            open=level == 0,
+            [
+                html.Summary(html.Span(label, style=_TREE_KEY_STYLE), style=_TREE_SUMMARY_STYLE),
+                inner,
+            ],
+            open=level <= 1,
+            style=_TREE_ITEM_STYLE,
         )
+
+    # ── List ──────────────────────────────────────────────────────────────────
     if isinstance(value, list):
         if not value:
-            return html.Div(f"{label}: []", className="text-muted")
-        children = [_build_json_tree(item, f"[{index}]", level + 1) for index, item in enumerate(value)]
+            return html.Div([
+                html.Span(label, style=_TREE_KEY_STYLE),
+                html.Span(": []", style={"color": "#6c757d", "fontFamily": "monospace", "fontSize": "0.72rem"}),
+            ], style=_TREE_ITEM_STYLE)
+
+        children = [_build_json_tree(item, f"[{i}]", level + 1) for i, item in enumerate(value)]
+        inner = html.Div(children, style=_TREE_INDENT)
+
         return html.Details(
-            [html.Summary(f"{label} – {_json_summary(value)}"), html.Div(children, style={"paddingLeft": "1rem"})],
-            open=False,
+            [
+                html.Summary(html.Span(label, style=_TREE_KEY_STYLE), style=_TREE_SUMMARY_STYLE),
+                inner,
+            ],
+            open=level <= 1,
+            style=_TREE_ITEM_STYLE,
         )
+
+    # ── Leaf ──────────────────────────────────────────────────────────────────
     return html.Div(
         [
-            html.Span(f"{label}: ", className="fw-semibold"),
-            html.Code(json.dumps(value, ensure_ascii=False)),
+            html.Span(label, style=_TREE_KEY_STYLE),
+            html.Span(": ", style={"color": "#6c757d", "fontFamily": "monospace", "fontSize": "0.72rem"}),
+            _tree_leaf_value(value),
         ],
-        style={"marginBottom": "0.35rem"},
+        style=_TREE_ITEM_STYLE,
+    )
+
+
+def _score_color(score: Optional[float]) -> str:
+    if score is None:   return "secondary"
+    if score >= 1.2:    return "success"
+    if score >= 0.8:    return "primary"
+    if score >= 0.4:    return "warning"
+    return "danger"
+
+
+def _ratio_color(ratio: Optional[float]) -> str:
+    if ratio is None:   return "text-muted"
+    if ratio >= 1.0:    return "text-success fw-semibold"
+    if ratio >= 0.7:    return "text-warning fw-semibold"
+    return "text-danger fw-semibold"
+
+
+def _ratio_text(ratio: Optional[float]) -> str:
+    return f"{ratio:.2f}" if ratio is not None else "N/D"
+
+
+def _level_row(row_label: str, level: Dict[str, Any]) -> html.Tr:
+    years     = level.get("years")
+    value     = level.get("value")
+    threshold = level.get("threshold")
+    ratio     = level.get("ratio")
+
+    label_text = f"{row_label} ({years}a)" if years else row_label
+
+    if value is None or threshold is None:
+        formula = html.Span("N/D", className="text-muted small")
+    else:
+        ratio_str = f"{ratio:.2f}" if ratio is not None else "—"
+        formula = html.Span(
+            [
+                html.Span(f"{value}", className="fw-semibold"),
+                html.Span(" / ", className="text-muted"),
+                html.Span(f"{threshold}", className="fw-semibold"),
+                html.Span(" = ", className="text-muted"),
+                html.Span(ratio_str, className=f"fw-bold {_ratio_color(ratio)}"),
+            ]
+        )
+
+    return html.Tr([
+        html.Td(label_text, className="text-muted small pe-3", style={"whiteSpace": "nowrap"}),
+        html.Td(formula, className="small text-end"),
+    ])
+
+
+def _indicator_card(label: str, block: Dict[str, Any]) -> dbc.Col:
+    score = block.get("score")
+    score_text = f"{score:.1f}" if score is not None else "N/D"
+    color = _score_color(score)
+
+    ratio_rows = [
+        _level_row("II fascia",   block.get("ii_fascia")   or {}),
+        _level_row("I fascia",    block.get("i_fascia")    or {}),
+        _level_row("Commissario", block.get("commissario") or {}),
+    ]
+
+    return dbc.Col(
+        dbc.Card(
+            [
+                dbc.CardHeader(
+                    dbc.Row(
+                        [
+                            dbc.Col(html.Span(label, className="fw-bold small"), className="align-self-center"),
+                            dbc.Col(
+                                dbc.Badge(score_text, color=color, className="float-end", style={"fontSize": "0.875rem"}),
+                                className="text-end",
+                            ),
+                        ],
+                        align="center",
+                    ),
+                    className="py-2 px-3",
+                ),
+                dbc.CardBody(
+                    html.Table(
+                        html.Tbody(ratio_rows),
+                        className="w-100 mb-0",
+                    ),
+                    className="py-2 px-3",
+                ),
+            ],
+            color=color,
+            outline=True,
+        ),
+        md=4,
     )
 
 
 def _member_detail_component(payload: Dict[str, Any]) -> html.Div:
-    return html.Div(_build_json_tree(payload), style={"maxHeight": "380px", "overflow": "auto"})
+    ssd = payload.get("ssd")
+    metrics = payload.get("scopus_metrics", [])
+
+    # Always recompute from live metrics so the display is never stale
+    # even when the payload was generated with an older scores format.
+    scores = compute_scores(ssd, metrics, _THRESHOLDS)
+
+    scores_panel = dbc.Card(
+        dbc.CardBody(
+            [
+                html.H6("Soglie bibliometriche (D.M. 589/2018)", className="mb-2"),
+                html.Div(
+                    f"SSD: {ssd}" if ssd else "SSD non disponibile",
+                    className="text-muted small mb-2",
+                ),
+                dbc.Row(
+                    [
+                        _indicator_card("Articoli",  scores["articles"]),
+                        _indicator_card("Citazioni", scores["citations"]),
+                        _indicator_card("H-index",   scores["hindex"]),
+                    ],
+                    className="g-2",
+                ),
+                html.Div(
+                    [
+                        dbc.Badge("0.0 sotto II fascia", color="danger",    className="me-1 mt-2"),
+                        dbc.Badge("0.4 II fascia",       color="warning",   className="me-1 mt-2"),
+                        dbc.Badge("0.8 I fascia",        color="primary",   className="me-1 mt-2"),
+                        dbc.Badge("1.2 Commissario",     color="success",   className="me-1 mt-2"),
+                        html.Span(" · rapporto: ", className="text-muted small ms-1 me-1"),
+                        html.Span("≥ 1.0", className="text-success small fw-semibold me-1"),
+                        html.Span("soglia superata,", className="text-muted small me-1"),
+                        html.Span("0.7–1.0", className="text-warning small fw-semibold me-1"),
+                        html.Span("vicino,", className="text-muted small me-1"),
+                        html.Span("< 0.7", className="text-danger small fw-semibold me-1"),
+                        html.Span("lontano", className="text-muted small"),
+                    ],
+                    className="mt-2",
+                ),
+            ]
+        ),
+        className="mb-3",
+    )
+
+    raw_panel = dbc.Card(
+        dbc.CardBody(
+            [
+                html.H6("Raw data", className="mb-3 text-muted"),
+                html.Div(
+                    _build_json_tree(payload),
+                    style={"fontFamily": "monospace", "fontSize": "0.72rem", "lineHeight": "1.6"},
+                ),
+            ]
+        ),
+        className="mb-3",
+    )
+
+    return html.Div([scores_panel, raw_panel])
 
 RUN_OPTIONS_INITIAL = _run_dropdown_options()
 DEFAULT_RUN_SELECTION = RUN_OPTIONS_INITIAL[0]["value"] if RUN_OPTIONS_INITIAL else None
@@ -532,158 +739,233 @@ app.title = "DEEP"
 app._favicon = "logo.png"
 
 
-def _import_file_card() -> dbc.Card:
-    return dbc.Card(
+def _build_import_tab() -> dbc.Container:
+    left_panel = dbc.Card(
         dbc.CardBody(
             [
-                html.H5("Input Selection", className="mb-3"),
-                dcc.Dropdown(
-                    id="input-file-dropdown",
-                    options=_input_file_options(),
-                    value=DEFAULT_INPUT_FILE,
-                    placeholder="Select a workbook from the input folder",
-                    clearable=False,
-                ),
+                # ── Input Selection ──────────────────────────────────────
+                html.H5("Input Selection", className="mb-2"),
                 dbc.Row(
                     [
+                        dbc.Col(
+                            dcc.Dropdown(
+                                id="input-file-dropdown",
+                                options=_input_file_options(),
+                                value=DEFAULT_INPUT_FILE,
+                                placeholder="Select a workbook from the input folder",
+                                clearable=False,
+                            ),
+                        ),
                         dbc.Col(
                             dcc.Upload(
                                 id="upload-input-file",
-                                children=dbc.Button("Upload workbook", color="secondary", className="w-100 mt-3"),
+                                children=dbc.Button("Upload", color="secondary", className="w-100"),
                                 multiple=False,
                                 accept=".xlsx,.xlsm",
                             ),
-                            md=6,
+                            width="auto",
                         ),
                         dbc.Col(
                             dbc.Button(
-                                "Delete selected",
+                                "Remove",
                                 id="delete-input-btn",
                                 color="danger",
                                 outline=True,
-                                className="w-100 mt-3",
+                                className="w-100",
                                 disabled=DEFAULT_INPUT_FILE is None,
                             ),
-                            md=6,
+                            width="auto",
                         ),
                     ],
-                    className="g-2",
+                    className="g-2 align-items-center",
                 ),
-                dbc.Alert("Previewing workbook", id="input-preview-message", color="light", className="mt-3 mb-2"),
-                dash_table.DataTable(
-                    id="input-preview-table",
-                    columns=DEFAULT_PREVIEW_COLUMNS,
-                    data=DEFAULT_PREVIEW_DATA,
-                    style_table={"maxHeight": "420px", "overflowY": "auto", "overflowX": "auto"},
-                    style_cell={"textAlign": "left", "padding": "6px", "fontSize": 12},
-                    page_action="none",
-                    cell_selectable=False,
-                ),
-            ]
-        ),
-        className="h-100 shadow-sm",
-    )
-
-
-def _import_options_card() -> dbc.Card:
-    return dbc.Card(
-        dbc.CardBody(
-            [
-                html.H5("Import Settings", className="mb-3"),
-                dbc.Label("Year windows"),
-                dbc.Input(id="year-windows", type="text", value=SETTINGS.year_windows),
-                dbc.Label("Data sources", className="mt-3"),
-                dbc.Checklist(
-                    id="fetch-options",
-                    options=[
-                        {"label": "Fetch Scopus", "value": "scopus"},
-                        {"label": "Fetch UNIGE", "value": "unige"},
-                        {"label": "Fetch IRIS", "value": "iris"},
-                    ],
-                    value=[
-                        option
-                        for option, flag in {
-                            "scopus": SETTINGS.fetch_scopus,
-                            "unige": SETTINGS.fetch_unige,
-                            "iris": SETTINGS.fetch_iris,
-                        }.items()
-                        if flag
-                    ],
-                    switch=True,
-                ),
-                html.Hr(),
+                html.Hr(className="my-3"),
+                # ── Import Settings ──────────────────────────────────────
+                html.H5("Import Settings", className="mb-2"),
                 dbc.Row(
                     [
+                        dbc.Col(dbc.Label("Time windows", className="mb-0"), width="auto", className="align-self-center"),
+                        dbc.Col(dbc.Input(id="year-windows", type="text", value=SETTINGS.year_windows), md=3),
+                        dbc.Col(dbc.Label("Data sources", className="mb-0"), width="auto", className="align-self-center ms-3"),
                         dbc.Col(
-                            dbc.Button("Start Import", id="start-import", color="primary", className="w-100"),
-                            md=6,
-                        ),
-                        dbc.Col(
-                            dbc.Button(
-                                "Stop Import",
-                                id="stop-import",
-                                color="danger",
-                                outline=True,
-                                className="w-100",
-                                disabled=True,
+                            dbc.Checklist(
+                                id="fetch-options",
+                                options=[
+                                    {"label": "UNIGE",  "value": "unige"},
+                                    {"label": "IRIS",   "value": "iris"},
+                                    {"label": "Scopus", "value": "scopus"},
+                                ],
+                                value=[
+                                    opt for opt, flag in {
+                                        "scopus": SETTINGS.fetch_scopus,
+                                        "unige":  SETTINGS.fetch_unige,
+                                        "iris":   SETTINGS.fetch_iris,
+                                    }.items() if flag
+                                ],
+                                switch=True,
+                                inline=True,
                             ),
-                            md=6,
                         ),
                     ],
-                    className="g-2 mb-3",
+                    className="g-2 align-items-center",
                 ),
-                html.Div(id="import-status-text", className="text-muted fw-semibold"),
-            ]
-        ),
-        className="h-100 shadow-sm",
-    )
-
-
-def _import_status_card() -> dbc.Card:
-    return dbc.Card(
-        dbc.CardBody(
-            [
-                html.H5("Import Log", className="mb-3"),
-                dbc.Textarea(
-                    id="import-log",
-                    readOnly=True,
-                    style={"height": "260px"},
-                    className="shadow-sm",
+                dbc.Row(
+                    [
+                        dbc.Col(dbc.Button("Start Import", id="start-import", color="primary"), width="auto"),
+                        dbc.Col(dbc.Button("Stop Import", id="stop-import", color="danger", outline=True, disabled=True), width="auto"),
+                        dbc.Col(html.Div(id="import-status-text", className="text-muted fw-semibold align-self-center")),
+                    ],
+                    className="g-2 align-items-center mt-2",
                 ),
             ]
         ),
         className="shadow-sm",
     )
 
+    right_panel = dbc.Card(
+        dbc.CardBody(
+            [
+                html.H5("Import Log", className="mb-2"),
+                html.Pre(
+                    id="import-log",
+                    style={
+                        "flex": "1",
+                        "minHeight": "180px",
+                        "overflowY": "auto",
+                        "backgroundColor": "#f8f9fa",
+                        "border": "1px solid #dee2e6",
+                        "borderRadius": "4px",
+                        "padding": "10px 12px",
+                        "fontSize": "0.68rem",
+                        "fontFamily": "monospace",
+                        "lineHeight": "1.6",
+                        "color": "#212529",
+                        "whiteSpace": "pre-wrap",
+                        "wordBreak": "break-word",
+                        "margin": "0",
+                    },
+                ),
+            ],
+            style={"height": "100%", "display": "flex", "flexDirection": "column"},
+        ),
+        className="shadow-sm h-100",
+    )
 
-def _run_controls_card(dropdown_options: List[Dict[str, str]]) -> dbc.Card:
+    preview_panel = dbc.Card(
+        dbc.CardBody(
+            [
+                html.H5("Input Preview", className="mb-2"),
+                dbc.Alert("", id="input-preview-message", color="light", className="mb-2 py-1 small"),
+                dash_table.DataTable(
+                    id="input-preview-table",
+                    columns=DEFAULT_PREVIEW_COLUMNS,
+                    data=DEFAULT_PREVIEW_DATA,
+                    style_as_list_view=True,
+                    style_table={"maxHeight": "340px", "overflowY": "auto", "overflowX": "auto"},
+                    style_header={
+                        "backgroundColor": "#f8f9fa",
+                        "fontWeight": "600",
+                        "fontSize": 10,
+                        "color": "#495057",
+                        "borderBottom": "2px solid #dee2e6",
+                        "borderTop": "none",
+                        "padding": "8px 10px",
+                    },
+                    style_cell={
+                        "textAlign": "left",
+                        "padding": "7px 10px",
+                        "fontSize": 10,
+                        "color": "#212529",
+                        "borderBottom": "1px solid #f0f0f0",
+                        "fontFamily": "inherit",
+                    },
+                    style_data_conditional=[
+                        {"if": {"state": "active"}, "backgroundColor": "rgba(13,110,253,0.06)", "border": "none"},
+                    ],
+                    page_action="none",
+                    cell_selectable=False,
+                ),
+            ]
+        ),
+        className="shadow-sm mt-3",
+    )
+
+    return dbc.Container(
+        [
+            dbc.Row(
+                [
+                    dbc.Col(left_panel,  md=7),
+                    dbc.Col(right_panel, md=5),
+                ],
+                className="g-3 pt-3",
+            ),
+            preview_panel,
+        ],
+        fluid=True,
+        className="px-3 pb-3",
+    )
+
+
+def _select_data_bar(dropdown_options: List[Dict[str, str]]) -> dbc.Card:
     return dbc.Card(
         dbc.CardBody(
             [
-                html.H5("Run Controls", className="mb-3"),
-                dcc.Dropdown(
-                    id="run-dropdown",
-                    options=dropdown_options,
-                    value=dropdown_options[0]["value"] if dropdown_options else None,
-                    placeholder="Select a run to explore",
-                    clearable=False,
-                ),
+                dcc.Download(id="download-summary"),
+                # Hidden elements kept for callback compatibility
+                html.Div(id="current-run-label", style={"display": "none"}),
+                html.Div(id="run-action-message", style={"display": "none"}),
                 dbc.Row(
                     [
-                        dbc.Col(dbc.Button("Rebuild Outputs", id="regen-run-btn", color="secondary", className="w-100"), md=6),
-                        dbc.Col(dbc.Button("Delete Run", id="delete-run-btn", color="danger", outline=True, className="w-100"), md=6),
+                        dbc.Col(
+                            html.H5("Select data", className="mb-0"),
+                            width="auto",
+                            className="align-self-center",
+                        ),
+                        dbc.Col(
+                            dcc.Dropdown(
+                                id="run-dropdown",
+                                options=dropdown_options,
+                                value=dropdown_options[0]["value"] if dropdown_options else None,
+                                placeholder="Select a run to explore",
+                                clearable=False,
+                            ),
+                        ),
+                        dbc.Col(
+                            dbc.Button("Download", id="download-summary-btn", color="success", size="sm"),
+                            width="auto",
+                        ),
+                        dbc.Col(
+                            dbc.Button("Rebuild", id="regen-run-btn", color="secondary", size="sm"),
+                            width="auto",
+                        ),
+                        dbc.Col(
+                            dbc.Button("Delete", id="delete-run-btn", color="danger", outline=True, size="sm"),
+                            width="auto",
+                        ),
                     ],
-                    className="g-2 mt-2 mb-3",
+                    align="center",
+                    className="g-2",
                 ),
-                dbc.Alert(id="current-run-label", color="secondary", className="mb-3"),
-                html.Div(id="run-meta", className="text-muted mb-3"),
-                dbc.Button("Download Results", id="download-summary-btn", color="success", className="me-2"),
-                dcc.Download(id="download-summary"),
-                dbc.Alert(DEFAULT_RUN_MESSAGE, id="run-action-message", color="light", className="mt-3"),
-            ]
+            ],
+            className="py-2",
         ),
-        className="h-100 shadow-sm",
+        className="shadow-sm mb-0",
     )
+
+
+# Base conditional styles for the member table (no row selected).
+# Re-used by callbacks to reset or update the highlight.
+_TABLE_STYLE_BASE: List[Dict[str, Any]] = [
+    {"if": {"row_index": "odd"}, "backgroundColor": "#fafafa"},
+    # Suppress the default active-cell blue border so only the row highlight is visible.
+    {"if": {"state": "active"}, "backgroundColor": "rgba(0,0,0,0)", "border": "1px solid transparent"},
+]
+
+
+def _table_style_with_row(row_index: int) -> List[Dict[str, Any]]:
+    return _TABLE_STYLE_BASE + [
+        {"if": {"row_index": row_index}, "backgroundColor": "rgba(13,110,253,0.10)", "borderTop": "1px solid rgba(13,110,253,0.25)", "borderBottom": "1px solid rgba(13,110,253,0.25)"},
+    ]
 
 
 def _member_table_card() -> dbc.Card:
@@ -694,69 +976,87 @@ def _member_table_card() -> dbc.Card:
                 dash_table.DataTable(
                     id="member-table",
                     columns=[
-                        {"name": "", "id": "inspect"},
+                        {"name": "",        "id": "inspect"},
                         {"name": "Surname", "id": "surname"},
-                        {"name": "Name", "id": "name"},
-                        {"name": "Unit", "id": "unit"},
-                        {"name": "SSD", "id": "ssd"},
-                        {"name": "Role", "id": "role"},
-                        {"name": "Products", "id": "products"},
-                        {"name": "Citations", "id": "citations"},
-                        {"name": "H-index", "id": "h_index"},
+                        {"name": "Name",    "id": "name"},
+                        {"name": "SSD",     "id": "ssd"},
                     ],
                     data=[],
-                    style_table={"height": "500px", "overflowY": "auto", "overflowX": "auto"},
-                    style_cell={"textAlign": "left", "padding": "8px"},
-                    style_header={"backgroundColor": "#f8f9fa", "fontWeight": "bold"},
+                    style_as_list_view=True,
+                    style_table={"overflowX": "auto"},
+                    style_header={
+                        "backgroundColor": "#f8f9fa",
+                        "fontWeight": "600",
+                        "fontSize": 11,
+                        "color": "#495057",
+                        "borderBottom": "2px solid #dee2e6",
+                        "borderTop": "none",
+                        "padding": "8px 10px",
+                    },
+                    style_cell={
+                        "textAlign": "left",
+                        "padding": "8px 10px",
+                        "fontSize": 11,
+                        "color": "#212529",
+                        "borderBottom": "1px solid #f0f0f0",
+                        "fontFamily": "inherit",
+                        "cursor": "default",
+                    },
+                    style_cell_conditional=[
+                        {"if": {"column_id": "inspect"}, "width": "36px", "textAlign": "center", "cursor": "pointer", "color": "#6c757d"},
+                        {"if": {"column_id": "ssd"},     "maxWidth": "160px", "overflow": "hidden", "textOverflow": "ellipsis", "color": "#6c757d", "fontSize": 10},
+                    ],
+                    style_data_conditional=_TABLE_STYLE_BASE,
                     sort_action="native",
                     sort_mode="single",
                     page_action="none",
                     row_selectable=False,
                     cell_selectable=True,
+                    tooltip_data=[],
+                    tooltip_duration=None,
                 ),
-                html.Hr(),
-                html.H6("Member details", className="mt-3"),
-                html.Div("Select a member using the magnifier icon.", id="member-detail"),
             ]
         ),
-        className="shadow-sm",
+        className="shadow-sm h-100",
     )
 
 
-def _build_import_tab() -> dbc.Container:
-    return dbc.Container(
-        [
-            dbc.Row(
-                [
-                    dbc.Col(_import_file_card(), md=7),
-                    dbc.Col(_import_options_card(), md=5),
-                ],
-                className="g-3",
-            ),
-            dbc.Row(
-                dbc.Col(_import_status_card(), md=12),
-                className="mt-2",
-            ),
-        ],
-        fluid=True,
-        className="py-4",
+def _member_detail_card() -> dbc.Card:
+    return dbc.Card(
+        dbc.CardBody(
+            [
+                html.H5("Member details", className="mb-3"),
+                dcc.Loading(
+                    html.Div("Select a member using the magnifier icon.", id="member-detail"),
+                    id="member-detail-loading",
+                    type="circle",
+                    color="#0d6efd",
+                    delay_show=0,
+                ),
+            ],
+            style={"overflowY": "auto"},
+        ),
+        className="shadow-sm h-100",
     )
-
 
 
 def _build_exploring_tab() -> dbc.Container:
     return dbc.Container(
         [
             dbc.Row(
+                dbc.Col(_select_data_bar(_run_dropdown_options()), md=12),
+                className="g-0 pt-3 pb-2",
+            ),
+            dbc.Row(
                 [
-                    dbc.Col(_run_controls_card(_run_dropdown_options()), md=4),
-                    dbc.Col(_member_table_card(), md=8),
+                    dbc.Col(_member_table_card(),  md=4),
+                    dbc.Col(_member_detail_card(), md=8),
                 ],
-                className="g-3",
+                className="g-3 align-items-stretch",
             ),
         ],
         fluid=True,
-        className="py-4",
+        className="px-3",
     )
 
 
@@ -770,7 +1070,7 @@ header = html.Div(
             dbc.Col(
                 [
                     html.H1("DEEP", className="mb-1"),
-                    html.Div("DITEN Evaluation and Evidence Platform", className="text-muted fs-5"),
+                    html.Div("DITEN Evaluation and Evidence Platform", className="text-muted", style={"fontSize": "1.125rem"}),
                 ],
                 width="auto",
             ),
@@ -898,7 +1198,7 @@ def manage_input_files(
 
 @app.callback(
     Output("import-status-text", "children"),
-    Output("import-log", "value"),
+    Output("import-log", "children"),
     Output("run-store", "data"),
     Output("import-poll-interval", "disabled"),
     Output("start-import", "disabled"),
@@ -1054,9 +1354,8 @@ def handle_run_actions(
 
 @app.callback(
     Output("current-run-label", "children"),
-    Output("run-meta", "children"),
     Output("member-table", "data"),
-    Output("member-table", "selected_rows"),
+    Output("member-table", "style_data_conditional"),
     Input("run-store", "data"),
 )
 def update_run_view(run_store: Dict[str, Any]):
@@ -1064,22 +1363,20 @@ def update_run_view(run_store: Dict[str, Any]):
     payloads = run_data.get("payloads") or []
     rows: List[Dict[str, Any]] = []
     for payload in payloads:
-        summary_row = DATA_PREPARER._build_summary_row(payload)
         rows.append(
             {
                 "inspect": "🔍",
                 "surname": payload.get("surname", ""),
                 "name": payload.get("name", ""),
-                "unit": payload.get("unit", ""),
                 "ssd": payload.get("ssd", ""),
-                "role": payload.get("role", ""),
-                "products": summary_row.get("products", ""),
-                "citations": summary_row.get("citations", ""),
-                "h_index": summary_row.get("h_index", ""),
+                "role": payload.get("grade") or payload.get("role", ""),
             }
         )
-    label = f"Current run: {run_data.get('run_dir') or 'none'}"
-    return label, _format_run_meta(run_data), rows, []
+    metadata = run_data.get("metadata") or {}
+    input_file = metadata.get("input_file", "")
+    count = metadata.get("source_count", len(payloads))
+    label = f"{input_file}  –  {count} membri" if input_file else (f"{count} membri" if payloads else "Nessun dato")
+    return label, rows, _TABLE_STYLE_BASE
 
 
 @app.callback(
@@ -1115,17 +1412,19 @@ def trigger_summary_download(n_clicks: int, run_store: Dict[str, Any]):
 
 @app.callback(
     Output("member-detail", "children"),
+    Output("member-table", "style_data_conditional", allow_duplicate=True),
     Input("member-table", "active_cell"),
     State("run-store", "data"),
+    prevent_initial_call=True,
 )
 def show_member_detail(active_cell: Optional[Dict[str, Any]], run_store: Dict[str, Any]):
     if not active_cell or active_cell.get("column_id") != "inspect":
-        return dash.no_update
+        return dash.no_update, dash.no_update
     payloads = (run_store or {}).get("payloads") or []
     row_index = active_cell.get("row")
     if row_index is None or row_index < 0 or row_index >= len(payloads):
-        return dash.no_update
-    return _member_detail_component(payloads[row_index])
+        return dash.no_update, dash.no_update
+    return _member_detail_component(payloads[row_index]), _table_style_with_row(row_index)
 
 
 def main() -> None:  # pragma: no cover - manual start

@@ -208,3 +208,8 @@ __marimo__/
 
 # macOS
 .DS_Store
+
+# DEEP runtime directories – never commit run data or credentials
+data/
+input/
+.claude/

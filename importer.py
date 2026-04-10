@@ -10,6 +10,7 @@ from typing import Any, Callable, Dict, Iterable, List, Optional, Tuple
 from aggregate import Aggregate
 from member import Member
 from scopus import ScopusClient
+from thresholds import ThresholdRow, compute_scores, load_thresholds
 from unige import UnigeClient
 
 
@@ -39,6 +40,7 @@ class Importer:
 
     def run(self) -> Tuple[Path, List[Dict[str, Any]], Dict[str, Any]]:
         members = Aggregate(self.input_workbook).load_members()
+        thresholds = load_thresholds()
         run_dir = self._next_run_directory(self.data_dir)
         source_dir = run_dir / "source"
         source_dir.mkdir(parents=True, exist_ok=True)
@@ -101,6 +103,7 @@ class Importer:
                     scopus_payload,
                     unige_raw,
                     iris_products,
+                    thresholds,
                 )
                 json_path = self._member_json_path(source_dir, member)
                 with json_path.open("w", encoding="utf-8") as handle:
@@ -142,6 +145,7 @@ class Importer:
         scopus_payload: Dict[str, Any],
         unige_raw: Optional[Dict[str, Any]],
         iris_products: Optional[List[Dict[str, Any]]],
+        thresholds: Optional[Dict[str, ThresholdRow]] = None,
     ) -> Dict[str, Any]:
         processed_unige = self._process_unige(unige_raw)
         processed_iris = self._process_iris_products(iris_products)
@@ -149,6 +153,9 @@ class Importer:
         scopus_metrics = scopus_payload.get("scopus_metrics", []) if scopus_payload else []
         scopus_products = scopus_payload.get("scopus_products", []) if scopus_payload else []
         retrieved_at = scopus_payload.get("retrieved_at") if scopus_payload else None
+
+        ssd_for_scoring = processed_unige.get("ssd") or member.ssd
+        scores = compute_scores(ssd_for_scoring, scopus_metrics, thresholds or {})
 
         payload = {
             "surname": member.surname,
@@ -161,12 +168,13 @@ class Importer:
             "unige_id": normalized_unige_id or member.unige_id,
             "scopus_id": member.scopus_id,
             "role": processed_unige.get("role"),
-            "grade": processed_unige.get("grade"),
-            "ssd": processed_unige.get("ssd"),
+            "grade": processed_unige.get("grade") or member.grade,
+            "ssd": processed_unige.get("ssd") or member.ssd,
             "location": processed_unige.get("location"),
             "career": processed_unige.get("career"),
             "responsibilities": processed_unige.get("responsibilities"),
             "teaching": processed_unige.get("teaching"),
+            "scores": scores,
             "scopus_metrics": scopus_metrics,
             "scopus_products": scopus_products,
             "iris_products": processed_iris,

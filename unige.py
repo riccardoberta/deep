@@ -23,7 +23,7 @@ class UnigeClient:
     AUTH_URL = "https://webservices.unige.it/v3/auth"
     PERSON_URL_TEMPLATE = "https://webservices.unige.it/v3/persona/{identifier}"
     PERSON_LIST_URL = "https://webservices.unige.it/v3/persona/list"
-    IRIS_URL_TEMPLATE = "https://webservices.unige.it/v3/iris/{identifier}"
+    IRIS_URL_TEMPLATE = "https://webservices.unige.it/v3/iris/products/{identifier}"
 
     def __init__(
         self,

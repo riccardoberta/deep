@@ -11,5 +11,7 @@ class Member:
     scopus_id: str
     unit: Optional[str] = None
     unige_id: Optional[str] = None
+    grade: Optional[str] = None
+    ssd: Optional[str] = None
     scopus: Optional[Dict[str, object]] = field(default=None, repr=False)
     unige: Optional[Dict[str, object]] = field(default=None, repr=False)
