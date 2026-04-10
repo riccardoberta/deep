@@ -503,23 +503,24 @@ def _write_metadata(run_dir: Path, metadata: Dict[str, Any]) -> None:
     metadata_path.write_text(json.dumps(metadata, indent=2), encoding="utf-8")
 
 
-_TREE_KEY_STYLE   = {"color": "#0550ae", "fontWeight": "500", "fontFamily": "monospace", "fontSize": "0.72rem"}
+_TREE_KEY_STYLE   = {"color": "#0550ae", "fontWeight": "500", "fontFamily": "monospace", "fontSize": "0.85rem"}
 _TREE_INDENT      = {"paddingLeft": "1.1rem", "borderLeft": "2px solid #e9ecef", "marginLeft": "2px", "marginTop": "2px"}
 _TREE_ITEM_STYLE  = {"marginBottom": "3px", "lineHeight": "1.5"}
-_TREE_SUMMARY_STYLE = {"cursor": "pointer", "userSelect": "none", "listStyle": "none", "display": "flex",
-                       "alignItems": "center", "gap": "4px", "marginBottom": "2px"}
+_TREE_SUMMARY_STYLE = {"cursor": "pointer", "userSelect": "none", "marginBottom": "2px", "paddingLeft": "2px"}
+# Dict keys that are collapsed by default even at level 1
+_TREE_COLLAPSED_KEYS = {"teaching", "scores", "career", "location", "scopus_metrics", "iris_products"}
 
 
 def _tree_leaf_value(value: Any) -> html.Span:
     if value is None:
-        return html.Span("null", style={"color": "#6c757d", "fontFamily": "monospace", "fontSize": "0.72rem"})
+        return html.Span("null", style={"color": "#6c757d", "fontFamily": "monospace", "fontSize": "0.85rem"})
     if isinstance(value, bool):
-        return html.Span(str(value).lower(), style={"color": "#d63384", "fontFamily": "monospace", "fontSize": "0.72rem"})
+        return html.Span(str(value).lower(), style={"color": "#d63384", "fontFamily": "monospace", "fontSize": "0.85rem"})
     if isinstance(value, (int, float)):
-        return html.Span(str(value), style={"color": "#b45309", "fontFamily": "monospace", "fontSize": "0.72rem"})
+        return html.Span(str(value), style={"color": "#b45309", "fontFamily": "monospace", "fontSize": "0.85rem"})
     text = str(value)
-    display = f'"{text}"' if len(text) <= 120 else f'"{text[:120]}…"'
-    return html.Span(display, style={"color": "#198754", "fontFamily": "monospace", "fontSize": "0.72rem", "wordBreak": "break-all"})
+    display = text if len(text) <= 120 else f'{text[:120]}…'
+    return html.Span(display, style={"color": "#198754", "fontFamily": "monospace", "fontSize": "0.85rem", "wordBreak": "break-all"})
 
 
 def _build_json_tree(value: Any, label: str = "value", level: int = 0) -> html.Div | html.Details:
@@ -528,7 +529,7 @@ def _build_json_tree(value: Any, label: str = "value", level: int = 0) -> html.D
         if not value:
             return html.Div([
                 html.Span(label, style=_TREE_KEY_STYLE),
-                html.Span(": {}", style={"color": "#6c757d", "fontFamily": "monospace", "fontSize": "0.72rem"}),
+                html.Span(": {}", style={"color": "#6c757d", "fontFamily": "monospace", "fontSize": "0.85rem"}),
             ], style=_TREE_ITEM_STYLE)
 
         children = [_build_json_tree(val, str(key), level + 1) for key, val in value.items()]
@@ -543,7 +544,7 @@ def _build_json_tree(value: Any, label: str = "value", level: int = 0) -> html.D
                 html.Summary(html.Span(label, style=_TREE_KEY_STYLE), style=_TREE_SUMMARY_STYLE),
                 inner,
             ],
-            open=level <= 1,
+            open=level <= 1 and label not in _TREE_COLLAPSED_KEYS,
             style=_TREE_ITEM_STYLE,
         )
 
@@ -552,7 +553,7 @@ def _build_json_tree(value: Any, label: str = "value", level: int = 0) -> html.D
         if not value:
             return html.Div([
                 html.Span(label, style=_TREE_KEY_STYLE),
-                html.Span(": []", style={"color": "#6c757d", "fontFamily": "monospace", "fontSize": "0.72rem"}),
+                html.Span(": []", style={"color": "#6c757d", "fontFamily": "monospace", "fontSize": "0.85rem"}),
             ], style=_TREE_ITEM_STYLE)
 
         children = [_build_json_tree(item, f"[{i}]", level + 1) for i, item in enumerate(value)]
@@ -563,7 +564,7 @@ def _build_json_tree(value: Any, label: str = "value", level: int = 0) -> html.D
                 html.Summary(html.Span(label, style=_TREE_KEY_STYLE), style=_TREE_SUMMARY_STYLE),
                 inner,
             ],
-            open=level <= 1,
+            open=False,
             style=_TREE_ITEM_STYLE,
         )
 
@@ -571,7 +572,7 @@ def _build_json_tree(value: Any, label: str = "value", level: int = 0) -> html.D
     return html.Div(
         [
             html.Span(label, style=_TREE_KEY_STYLE),
-            html.Span(": ", style={"color": "#6c757d", "fontFamily": "monospace", "fontSize": "0.72rem"}),
+            html.Span(": ", style={"color": "#6c757d", "fontFamily": "monospace", "fontSize": "0.85rem"}),
             _tree_leaf_value(value),
         ],
         style=_TREE_ITEM_STYLE,
@@ -631,9 +632,9 @@ def _indicator_card(label: str, block: Dict[str, Any]) -> dbc.Col:
     color = _score_color(score)
 
     ratio_rows = [
-        _level_row("II fascia",   block.get("ii_fascia")   or {}),
-        _level_row("I fascia",    block.get("i_fascia")    or {}),
-        _level_row("Commissario", block.get("commissario") or {}),
+        _level_row("Associate Prof.",  block.get("ii_fascia")   or {}),
+        _level_row("Full Prof.",       block.get("i_fascia")    or {}),
+        _level_row("Commissioner",     block.get("commissario") or {}),
     ]
 
     return dbc.Col(
@@ -678,32 +679,32 @@ def _member_detail_component(payload: Dict[str, Any]) -> html.Div:
     scores_panel = dbc.Card(
         dbc.CardBody(
             [
-                html.H6("Soglie bibliometriche (D.M. 589/2018)", className="mb-2"),
+                html.H6("Bibliometric Indicators", className="mb-2"),
                 html.Div(
                     f"SSD: {ssd}" if ssd else "SSD non disponibile",
                     className="text-muted small mb-2",
                 ),
                 dbc.Row(
                     [
-                        _indicator_card("Articoli",  scores["articles"]),
-                        _indicator_card("Citazioni", scores["citations"]),
+                        _indicator_card("Articles",  scores["articles"]),
+                        _indicator_card("Citations", scores["citations"]),
                         _indicator_card("H-index",   scores["hindex"]),
                     ],
                     className="g-2",
                 ),
                 html.Div(
                     [
-                        dbc.Badge("0.0 sotto II fascia", color="danger",    className="me-1 mt-2"),
-                        dbc.Badge("0.4 II fascia",       color="warning",   className="me-1 mt-2"),
-                        dbc.Badge("0.8 I fascia",        color="primary",   className="me-1 mt-2"),
-                        dbc.Badge("1.2 Commissario",     color="success",   className="me-1 mt-2"),
-                        html.Span(" · rapporto: ", className="text-muted small ms-1 me-1"),
+                        dbc.Badge("0.0 below Associate Prof.", color="danger",    className="me-1 mt-2"),
+                        dbc.Badge("0.4 Associate Prof.",      color="warning",   className="me-1 mt-2"),
+                        dbc.Badge("0.8 Full Prof.",           color="primary",   className="me-1 mt-2"),
+                        dbc.Badge("1.2 Commissioner",         color="success",   className="me-1 mt-2"),
+                        html.Span(" · ratio: ", className="text-muted small ms-1 me-1"),
                         html.Span("≥ 1.0", className="text-success small fw-semibold me-1"),
-                        html.Span("soglia superata,", className="text-muted small me-1"),
+                        html.Span("threshold met,", className="text-muted small me-1"),
                         html.Span("0.7–1.0", className="text-warning small fw-semibold me-1"),
-                        html.Span("vicino,", className="text-muted small me-1"),
+                        html.Span("close,", className="text-muted small me-1"),
                         html.Span("< 0.7", className="text-danger small fw-semibold me-1"),
-                        html.Span("lontano", className="text-muted small"),
+                        html.Span("below", className="text-muted small"),
                     ],
                     className="mt-2",
                 ),
@@ -715,10 +716,9 @@ def _member_detail_component(payload: Dict[str, Any]) -> html.Div:
     raw_panel = dbc.Card(
         dbc.CardBody(
             [
-                html.H6("Raw data", className="mb-3 text-muted"),
                 html.Div(
                     _build_json_tree(payload),
-                    style={"fontFamily": "monospace", "fontSize": "0.72rem", "lineHeight": "1.6"},
+                    style={"fontFamily": "monospace", "fontSize": "0.85rem", "lineHeight": "1.6"},
                 ),
             ]
         ),
@@ -865,7 +865,7 @@ def _build_import_tab() -> dbc.Container:
                     style_header={
                         "backgroundColor": "#f8f9fa",
                         "fontWeight": "600",
-                        "fontSize": 10,
+                        "fontSize": 13,
                         "color": "#495057",
                         "borderBottom": "2px solid #dee2e6",
                         "borderTop": "none",
@@ -874,7 +874,7 @@ def _build_import_tab() -> dbc.Container:
                     style_cell={
                         "textAlign": "left",
                         "padding": "7px 10px",
-                        "fontSize": 10,
+                        "fontSize": 13,
                         "color": "#212529",
                         "borderBottom": "1px solid #f0f0f0",
                         "fontFamily": "inherit",
@@ -987,7 +987,7 @@ def _member_table_card() -> dbc.Card:
                     style_header={
                         "backgroundColor": "#f8f9fa",
                         "fontWeight": "600",
-                        "fontSize": 11,
+                        "fontSize": 13,
                         "color": "#495057",
                         "borderBottom": "2px solid #dee2e6",
                         "borderTop": "none",
@@ -996,7 +996,7 @@ def _member_table_card() -> dbc.Card:
                     style_cell={
                         "textAlign": "left",
                         "padding": "8px 10px",
-                        "fontSize": 11,
+                        "fontSize": 13,
                         "color": "#212529",
                         "borderBottom": "1px solid #f0f0f0",
                         "fontFamily": "inherit",
