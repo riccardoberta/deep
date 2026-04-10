@@ -70,14 +70,15 @@ class Importer:
                 unige_client = None
 
         payloads: List[Dict[str, Any]] = []
+        total = len(members)
         aborted = False
         try:
-            for member in members:
+            for index, member in enumerate(members, 1):
                 if self.should_stop and self.should_stop():
                     self._log("⏹️ Import cancelled by user.")
                     aborted = True
                     break
-                self._log(f"🔍 Processing {member.name} {member.surname}")
+                self._log(f"🔍 Processing {member.name} {member.surname} ({index}/{total})")
 
                 scopus_payload: Dict[str, Any] = {}
                 if scopus_client:

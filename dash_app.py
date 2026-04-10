@@ -830,7 +830,7 @@ def _build_import_tab() -> dbc.Container:
                     id="import-log",
                     style={
                         "flex": "1",
-                        "minHeight": "180px",
+                        "minHeight": "0",
                         "overflowY": "auto",
                         "backgroundColor": "#f8f9fa",
                         "border": "1px solid #dee2e6",
