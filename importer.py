@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import re
 import shutil
+import time
 from datetime import datetime
 from pathlib import Path
 from typing import Any, Callable, Dict, Iterable, List, Optional, Tuple
@@ -72,13 +73,21 @@ class Importer:
         payloads: List[Dict[str, Any]] = []
         total = len(members)
         aborted = False
+        loop_start = time.monotonic()
         try:
             for index, member in enumerate(members, 1):
                 if self.should_stop and self.should_stop():
                     self._log("⏹️ Import cancelled by user.")
                     aborted = True
                     break
-                self._log(f"🔍 Processing {member.name} {member.surname} ({index}/{total})")
+                if index > 1:
+                    elapsed = time.monotonic() - loop_start
+                    avg = elapsed / (index - 1)
+                    remaining = avg * (total - index + 1)
+                    eta_str = f" · ETA {int(remaining // 60):02d}:{int(remaining % 60):02d}"
+                else:
+                    eta_str = ""
+                self._log(f"🔍 Processing {member.name} {member.surname} ({index}/{total}{eta_str})")
 
                 scopus_payload: Dict[str, Any] = {}
                 if scopus_client:

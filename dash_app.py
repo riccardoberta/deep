@@ -15,6 +15,12 @@ import dash
 import dash_bootstrap_components as dbc
 from dash import Dash, Input, Output, State, dash_table, dcc, html, no_update
 
+try:
+    import plotly.graph_objects as _go
+    _PLOTLY_AVAILABLE = True
+except ImportError:
+    _PLOTLY_AVAILABLE = False
+
 try:  # pragma: no cover - cosmetic tweak
     from flask.cli import show_server_banner as _show_server_banner
 
@@ -29,8 +35,9 @@ from openpyxl import load_workbook
 
 from collaborations import CollaborationBuilder
 from data_preparation import DataPreparation
-from export import Exporter
+from export import generate_member_pdf
 from importer import Importer
+from analyser import load_all_runs, query_llm
 from thresholds import compute_scores, load_thresholds
 
 _THRESHOLDS = load_thresholds()
@@ -310,7 +317,6 @@ class ImportManager:
 SETTINGS = _load_settings()
 IMPORT_MANAGER = ImportManager(sleep_seconds=SETTINGS.sleep_seconds, data_dir=SETTINGS.data_dir)
 DATA_PREPARER = DataPreparation()
-EXPORTER = Exporter()
 
 
 def _perform_elaborations(
@@ -341,13 +347,6 @@ def _perform_elaborations(
         logger("🔗 Collaboration graph generated.")
     except Exception as exc:  # pragma: no cover
         logger(f"⚠️ Collaboration graph failed: {exc}")
-
-    try:
-        markdown_dir = EXPORTER.export(payloads, run_dir)
-        logger(f"📄 Export completed: {markdown_dir}")
-        outputs_written = True
-    except Exception as exc:  # pragma: no cover
-        logger(f"⚠️ Export failed: {exc}")
 
     if outputs_written:
         metadata["last_outputs_updated_at"] = datetime.now(UTC).isoformat()
@@ -579,6 +578,37 @@ def _build_json_tree(value: Any, label: str = "value", level: int = 0) -> html.D
     )
 
 
+def _radar_chart(payload: Dict[str, Any]) -> Optional[dcc.Graph]:
+    if not _PLOTLY_AVAILABLE:
+        return None
+    scores = payload.get("scores") or {}
+    a_score = (scores.get("articles")  or {}).get("score")
+    c_score = (scores.get("citations") or {}).get("score")
+    h_score = (scores.get("hindex")    or {}).get("score")
+    if all(v is None for v in [a_score, c_score, h_score]):
+        return None
+    cats   = ["Articles", "Citations", "H-index", "Articles"]
+    vals   = [a_score or 0, c_score or 0, h_score or 0, a_score or 0]
+    fig = _go.Figure(_go.Scatterpolar(
+        r=vals, theta=cats, fill="toself",
+        fillcolor="rgba(13,110,253,0.15)",
+        line=dict(color="#0d6efd", width=2),
+    ))
+    fig.update_layout(
+        polar=dict(
+            radialaxis=dict(visible=True, range=[0, 1.4],
+                            tickvals=[0.4, 0.8, 1.2], tickfont=dict(size=10)),
+            angularaxis=dict(tickfont=dict(size=12)),
+        ),
+        showlegend=False,
+        margin=dict(l=40, r=40, t=10, b=10),
+        height=240,
+        paper_bgcolor="rgba(0,0,0,0)",
+        plot_bgcolor="rgba(0,0,0,0)",
+    )
+    return dcc.Graph(figure=fig, config={"displayModeBar": False})
+
+
 def _score_color(score: Optional[float]) -> str:
     if score is None:   return "secondary"
     if score >= 1.2:    return "success"
@@ -713,6 +743,12 @@ def _member_detail_component(payload: Dict[str, Any]) -> html.Div:
         className="mb-3",
     )
 
+    radar = _radar_chart(payload)
+    radar_panel = dbc.Card(
+        dbc.CardBody(radar),
+        className="mb-3",
+    ) if radar else None
+
     raw_panel = dbc.Card(
         dbc.CardBody(
             [
@@ -725,7 +761,11 @@ def _member_detail_component(payload: Dict[str, Any]) -> html.Div:
         className="mb-3",
     )
 
-    return html.Div([scores_panel, raw_panel])
+    panels = [scores_panel]
+    if radar_panel:
+        panels.append(radar_panel)
+    panels.append(raw_panel)
+    return html.Div(panels)
 
 RUN_OPTIONS_INITIAL = _run_dropdown_options()
 DEFAULT_RUN_SELECTION = RUN_OPTIONS_INITIAL[0]["value"] if RUN_OPTIONS_INITIAL else None
@@ -972,7 +1012,15 @@ def _member_table_card() -> dbc.Card:
     return dbc.Card(
         dbc.CardBody(
             [
-                html.H5("Members", className="mb-3"),
+                html.H5("Members", className="mb-2"),
+                dbc.Input(
+                    id="member-search",
+                    placeholder="Search by name or SSD…",
+                    type="text",
+                    size="sm",
+                    className="mb-2",
+                    debounce=False,
+                ),
                 dash_table.DataTable(
                     id="member-table",
                     columns=[
@@ -1025,7 +1073,18 @@ def _member_detail_card() -> dbc.Card:
     return dbc.Card(
         dbc.CardBody(
             [
-                html.H5("Member details", className="mb-3"),
+                dbc.Row(
+                    [
+                        dbc.Col(html.H5("Member details", className="mb-0"), className="align-self-center"),
+                        dbc.Col(
+                            dbc.Button("Download PDF", id="member-pdf-btn",
+                                       color="secondary", size="sm", disabled=True),
+                            width="auto",
+                        ),
+                    ],
+                    className="g-2 mb-3 align-items-center",
+                ),
+                dcc.Download(id="member-pdf-download"),
                 dcc.Loading(
                     html.Div("Select a member using the magnifier icon.", id="member-detail"),
                     id="member-detail-loading",
@@ -1054,13 +1113,231 @@ def _build_exploring_tab() -> dbc.Container:
                 ],
                 className="g-3 align-items-stretch",
             ),
+            dbc.Row(
+                dbc.Col(_build_comparison_card(), md=12),
+                className="g-0 pb-3",
+            ),
         ],
         fluid=True,
         className="px-3",
     )
 
 
+_DEFAULT_OLLAMA_URL   = os.getenv("OLLAMA_URL",   "http://localhost:11434")
+_DEFAULT_OLLAMA_MODEL = os.getenv("OLLAMA_MODEL",  "llama3")
+_OLLAMA_STARTUP_WAIT  = 10  # seconds to wait for ollama to start
 
+
+def _ensure_ollama() -> Optional[str]:
+    """
+    Check that Ollama is reachable.  If not, try to start it via `ollama serve`.
+    Returns None on success, or an error string if Ollama cannot be reached.
+    """
+    import subprocess
+    import time
+    import urllib.request
+    import urllib.error
+
+    url = _DEFAULT_OLLAMA_URL.rstrip("/") + "/api/version"
+
+    def _ping() -> bool:
+        try:
+            urllib.request.urlopen(url, timeout=3)
+            return True
+        except Exception:
+            return False
+
+    if _ping():
+        return None  # already running
+
+    # Not running — try to start it
+    try:
+        subprocess.Popen(
+            ["ollama", "serve"],
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+        )
+    except FileNotFoundError:
+        return "Ollama is not installed. Download it from https://ollama.com and try again."
+    except Exception as exc:
+        return f"Failed to start Ollama: {exc}"
+
+    # Wait up to _OLLAMA_STARTUP_WAIT seconds for it to become responsive
+    deadline = time.time() + _OLLAMA_STARTUP_WAIT
+    while time.time() < deadline:
+        time.sleep(1)
+        if _ping():
+            return None  # started successfully
+
+    return (
+        f"Ollama was launched but did not respond within {_OLLAMA_STARTUP_WAIT}s. "
+        "Try running 'ollama serve' manually in a terminal."
+    )
+
+
+def _build_analysing_tab() -> dbc.Container:
+    controls_card = dbc.Card(
+        dbc.CardBody(
+            [
+                dbc.Row(
+                    [
+                        dbc.Col(html.H5("Ask a question about your data", className="mb-0"), className="align-self-center"),
+                        dbc.Col(
+                            html.Span(
+                                f"Model: {_DEFAULT_OLLAMA_MODEL}",
+                                id="analysis-model-label",
+                                className="text-muted small",
+                            ),
+                            width="auto",
+                            className="align-self-center",
+                        ),
+                    ],
+                    className="g-2 mb-3 align-items-center",
+                ),
+                # Hidden input keeps the model value accessible to the callback
+                dbc.Input(id="analysis-model", type="hidden", value=_DEFAULT_OLLAMA_MODEL),
+                dbc.Row(
+                    [
+                        dbc.Col(
+                            dbc.Textarea(
+                                id="analysis-question",
+                                placeholder=(
+                                    "e.g. Show all members with h-index above 30, sorted by h-index\n"
+                                    "e.g. Show members whose article count in the last 5 years grew "
+                                    "the most across imports"
+                                ),
+                                style={"resize": "none", "height": "100%", "minHeight": "90px"},
+                            ),
+                            md=10,
+                            style={"display": "flex", "flexDirection": "column"},
+                        ),
+                        dbc.Col(
+                            dbc.Button(
+                                "Ask",
+                                id="analysis-ask-btn",
+                                color="primary",
+                                style={"height": "100%", "width": "100%"},
+                            ),
+                            md=2,
+                            style={"display": "flex"},
+                        ),
+                    ],
+                    className="g-2",
+                    style={"alignItems": "stretch"},
+                ),
+                html.Div(id="analysis-status", className="text-muted small mt-2"),
+            ]
+        ),
+        className="shadow-sm mb-3",
+    )
+
+    result_card = dbc.Card(
+        dbc.CardBody(
+            [
+                dbc.Row(
+                    [
+                        dbc.Col(html.H6("Results", className="mb-0"), className="align-self-center"),
+                        dbc.Col(
+                            dbc.Button("Download Excel", id="analysis-download-btn",
+                                       color="success", size="sm", disabled=True),
+                            width="auto",
+                        ),
+                    ],
+                    className="g-2 mb-2 align-items-center",
+                ),
+                dcc.Loading(
+                    html.Div(
+                        "Ask a question above to see results here.",
+                        id="analysis-result",
+                        className="text-muted",
+                    ),
+                    id="analysis-result-loading",
+                    type="circle",
+                    color="#0d6efd",
+                    delay_show=200,
+                ),
+                dcc.Download(id="analysis-download"),
+            ]
+        ),
+        className="shadow-sm",
+    )
+
+    history_card = dbc.Card(
+        dbc.CardBody(
+            [
+                dbc.Row(
+                    [
+                        dbc.Col(html.H6("History", className="mb-0"), className="align-self-center"),
+                        dbc.Col(
+                            dbc.Button("Clear", id="analysis-clear-history-btn",
+                                       color="danger", outline=True, size="sm"),
+                            width="auto",
+                        ),
+                    ],
+                    className="g-2 mb-2 align-items-center",
+                ),
+                html.Div(id="analysis-history-panel", className="text-muted small",
+                         children="No questions asked yet."),
+            ]
+        ),
+        className="shadow-sm mt-3",
+    )
+
+    return dbc.Container(
+        [
+            dbc.Row(dbc.Col(controls_card,  md=12), className="g-0 pt-3 pb-2"),
+            dbc.Row(dbc.Col(result_card,    md=12), className="g-0"),
+            dbc.Row(dbc.Col(history_card,   md=12), className="g-0"),
+        ],
+        fluid=True,
+        className="px-3 pb-3",
+    )
+
+
+
+def _build_summary_tab() -> dbc.Container:
+    return dbc.Container(
+        [
+            dbc.Row(dbc.Col(dbc.Card(
+                dbc.CardBody(html.Div(id="summary-content", className="text-muted",
+                                     children="Select a run in the Exploring tab to see the department summary.")),
+                className="shadow-sm",
+            ), md=12), className="g-0 pt-3"),
+        ],
+        fluid=True,
+        className="px-3 pb-3",
+    )
+
+
+def _build_comparison_card() -> dbc.Card:
+    return dbc.Card(
+        dbc.CardBody(
+            [
+                html.H5("Compare members", className="mb-2"),
+                dbc.Row(
+                    [
+                        dbc.Col(
+                            dcc.Dropdown(
+                                id="compare-members-dropdown",
+                                options=[],
+                                multi=True,
+                                placeholder="Select members to compare…",
+                                clearable=True,
+                            ),
+                        ),
+                        dbc.Col(
+                            dbc.Button("Compare", id="compare-btn", color="primary", size="sm"),
+                            width="auto",
+                            className="align-self-center",
+                        ),
+                    ],
+                    className="g-2 align-items-center",
+                ),
+                html.Div(id="comparison-result", className="mt-3"),
+            ]
+        ),
+        className="shadow-sm mt-3",
+    )
 
 
 header = html.Div(
@@ -1090,14 +1367,19 @@ app.layout = dbc.Container(
                     id="main-tabs",
                     value="tab-import",
                     children=[
-                        dcc.Tab(label="Importing", value="tab-import", children=_build_import_tab()),
-                        dcc.Tab(label="Exploring", value="tab-exploring", children=_build_exploring_tab()),
+                        dcc.Tab(label="Importing",  value="tab-import",     children=_build_import_tab()),
+                        dcc.Tab(label="Exploring",  value="tab-exploring",  children=_build_exploring_tab()),
+                        dcc.Tab(label="Analysing",  value="tab-analysing",  children=_build_analysing_tab()),
+                        dcc.Tab(label="Summary",    value="tab-summary",    children=_build_summary_tab()),
                     ],
                 )
             ),
             className="shadow-sm",
         ),
         dcc.Store(id="run-store", data=RUN_STORE_INITIAL),
+        dcc.Store(id="selected-member-idx", data=None),
+        dcc.Store(id="analysis-history", data=[]),
+        dcc.Store(id="analysis-result-store", data=None),
         dcc.Interval(id="import-poll-interval", interval=2_000, disabled=True),
     ],
     fluid=True,
@@ -1357,25 +1639,30 @@ def handle_run_actions(
     Output("member-table", "data"),
     Output("member-table", "style_data_conditional"),
     Input("run-store", "data"),
+    Input("member-search", "value"),
 )
-def update_run_view(run_store: Dict[str, Any]):
+def update_run_view(run_store: Dict[str, Any], search: Optional[str]):
     run_data = run_store or {}
     payloads = run_data.get("payloads") or []
+    q = (search or "").strip().lower()
     rows: List[Dict[str, Any]] = []
     for payload in payloads:
-        rows.append(
-            {
-                "inspect": "🔍",
-                "surname": payload.get("surname", ""),
-                "name": payload.get("name", ""),
-                "ssd": payload.get("ssd", ""),
-                "role": payload.get("grade") or payload.get("role", ""),
-            }
-        )
+        surname = payload.get("surname", "")
+        name    = payload.get("name", "")
+        ssd     = payload.get("ssd", "")
+        if q and not any(q in s.lower() for s in [surname, name, ssd]):
+            continue
+        rows.append({
+            "inspect": "🔍",
+            "surname": surname,
+            "name":    name,
+            "ssd":     ssd,
+            "role":    payload.get("grade") or payload.get("role", ""),
+        })
     metadata = run_data.get("metadata") or {}
     input_file = metadata.get("input_file", "")
     count = metadata.get("source_count", len(payloads))
-    label = f"{input_file}  –  {count} membri" if input_file else (f"{count} membri" if payloads else "Nessun dato")
+    label = f"{input_file}  –  {count} members" if input_file else (f"{count} members" if payloads else "No data")
     return label, rows, _TABLE_STYLE_BASE
 
 
@@ -1413,18 +1700,394 @@ def trigger_summary_download(n_clicks: int, run_store: Dict[str, Any]):
 @app.callback(
     Output("member-detail", "children"),
     Output("member-table", "style_data_conditional", allow_duplicate=True),
+    Output("selected-member-idx", "data"),
+    Output("member-pdf-btn", "disabled"),
     Input("member-table", "active_cell"),
     State("run-store", "data"),
     prevent_initial_call=True,
 )
 def show_member_detail(active_cell: Optional[Dict[str, Any]], run_store: Dict[str, Any]):
     if not active_cell or active_cell.get("column_id") != "inspect":
-        return dash.no_update, dash.no_update
+        return dash.no_update, dash.no_update, dash.no_update, dash.no_update
     payloads = (run_store or {}).get("payloads") or []
     row_index = active_cell.get("row")
     if row_index is None or row_index < 0 or row_index >= len(payloads):
-        return dash.no_update, dash.no_update
-    return _member_detail_component(payloads[row_index]), _table_style_with_row(row_index)
+        return dash.no_update, dash.no_update, dash.no_update, dash.no_update
+    return (
+        _member_detail_component(payloads[row_index]),
+        _table_style_with_row(row_index),
+        row_index,
+        False,
+    )
+
+
+def _make_result_table(result_df) -> dash_table.DataTable:
+    columns = [{"name": col, "id": col} for col in result_df.columns]
+    data = result_df.fillna("").astype(str).to_dict("records")
+    return dash_table.DataTable(
+        columns=columns,
+        data=data,
+        style_as_list_view=True,
+        style_table={"overflowX": "auto"},
+        style_header={
+            "backgroundColor": "#f8f9fa",
+            "fontWeight": "600",
+            "fontSize": 13,
+            "color": "#495057",
+            "borderBottom": "2px solid #dee2e6",
+            "borderTop": "none",
+            "padding": "8px 10px",
+        },
+        style_cell={
+            "textAlign": "left",
+            "padding": "8px 10px",
+            "fontSize": 13,
+            "color": "#212529",
+            "borderBottom": "1px solid #f0f0f0",
+            "fontFamily": "inherit",
+        },
+        style_data_conditional=_TABLE_STYLE_BASE,
+        sort_action="native",
+        sort_mode="single",
+        page_action="none",
+        cell_selectable=False,
+    )
+
+
+def _history_panel(history: List[Dict[str, Any]]) -> html.Div:
+    if not history:
+        return html.Div("No questions asked yet.", className="text-muted small")
+    items = []
+    for entry in reversed(history):
+        ts    = entry.get("timestamp", "")
+        q     = entry.get("question", "")
+        code  = entry.get("code", "")
+        n     = entry.get("n_rows", 0)
+        result_json = entry.get("result_json")
+
+        code_block = html.Details(
+            [
+                html.Summary("Generated code", style={"cursor": "pointer", "color": "#6c757d", "fontSize": "0.8rem"}),
+                html.Pre(code, style={"fontSize": "0.75rem", "backgroundColor": "#f8f9fa",
+                                      "padding": "8px", "borderRadius": "4px", "overflowX": "auto", "marginTop": "4px"}),
+            ]
+        )
+        result_block = []
+        if result_json:
+            try:
+                import pandas as _pd
+                rdf = _pd.read_json(result_json, orient="records")
+                result_block = [_make_result_table(rdf)]
+            except Exception:
+                pass
+
+        items.append(html.Div(
+            [
+                html.Div(
+                    [html.Span(f"{ts} · ", className="text-muted"), html.Strong(q)],
+                    className="mb-1",
+                    style={"fontSize": "0.85rem"},
+                ),
+                html.Div(f"{n} row(s)", className="text-muted", style={"fontSize": "0.75rem"}),
+                code_block,
+                *result_block,
+            ],
+            style={"borderLeft": "3px solid #dee2e6", "paddingLeft": "10px", "marginBottom": "16px"},
+        ))
+    return html.Div(items)
+
+
+@app.callback(
+    Output("analysis-result", "children"),
+    Output("analysis-status", "children"),
+    Output("analysis-history", "data"),
+    Output("analysis-result-store", "data"),
+    Output("analysis-download-btn", "disabled"),
+    Input("analysis-ask-btn", "n_clicks"),
+    State("analysis-question", "value"),
+    State("analysis-model", "value"),
+    State("analysis-history", "data"),
+    prevent_initial_call=True,
+)
+def run_analysis(
+    n_clicks: Optional[int],
+    question: Optional[str],
+    model: Optional[str],
+    history: Optional[List],
+):
+    _no = dash.no_update
+    if not n_clicks:
+        return _no, _no, _no, _no, _no
+
+    question = (question or "").strip()
+    if not question:
+        return html.Div("Please enter a question.", className="text-muted"), "", _no, _no, True
+
+    model = (model or _DEFAULT_OLLAMA_MODEL).strip() or _DEFAULT_OLLAMA_MODEL
+
+    ollama_err = _ensure_ollama()
+    if ollama_err:
+        return dbc.Alert(f"⚠️ {ollama_err}", color="danger"), "Ollama unavailable.", _no, _no, True
+
+    try:
+        df, records = load_all_runs(SETTINGS.data_dir)
+    except Exception as exc:
+        return dbc.Alert(f"Failed to load run data: {exc}", color="danger"), "Error loading data.", _no, _no, True
+
+    if df.empty:
+        return dbc.Alert("No run data found. Run an import first.", color="warning"), "", _no, _no, True
+
+    try:
+        result_df, code = query_llm(
+            question,
+            df,
+            records,
+            ollama_url=_DEFAULT_OLLAMA_URL,
+            model=model,
+        )
+    except Exception as exc:
+        return dbc.Alert(str(exc), color="danger"), "LLM query failed.", _no, _no, True
+
+    if result_df.empty:
+        return dbc.Alert("The query returned no rows.", color="warning"), f"0 rows — model: {model}", _no, _no, True
+
+    table = _make_result_table(result_df)
+    code_block = html.Details(
+        [
+            html.Summary("Generated code", style={"cursor": "pointer", "color": "#6c757d", "userSelect": "none"}),
+            html.Pre(code, style={"fontSize": "0.75rem", "backgroundColor": "#f8f9fa",
+                                  "padding": "8px", "borderRadius": "4px", "overflowX": "auto", "marginTop": "6px"}),
+        ],
+        style={"marginTop": "12px"},
+    )
+
+    result_json = result_df.to_json(orient="records")
+    from datetime import datetime as _dt
+    ts = _dt.now().strftime("%H:%M:%S")
+    new_entry = {"timestamp": ts, "question": question, "code": code,
+                 "n_rows": len(result_df), "result_json": result_json}
+    updated_history = list(history or []) + [new_entry]
+    if len(updated_history) > 10:
+        updated_history = updated_history[-10:]
+
+    result_store = {"result_json": result_json, "filename": "analysis_result.xlsx"}
+
+    return (
+        html.Div([code_block, table]),
+        f"{len(result_df)} row(s) — model: {model}",
+        updated_history,
+        result_store,
+        False,
+    )
+
+
+@app.callback(
+    Output("member-pdf-download", "data"),
+    Input("member-pdf-btn", "n_clicks"),
+    State("selected-member-idx", "data"),
+    State("run-store", "data"),
+    prevent_initial_call=True,
+)
+def download_member_pdf(
+    n_clicks: Optional[int],
+    member_idx: Optional[int],
+    run_store: Dict[str, Any],
+):
+    if not n_clicks or member_idx is None:
+        return dash.no_update
+    payloads = (run_store or {}).get("payloads") or []
+    if member_idx < 0 or member_idx >= len(payloads):
+        return dash.no_update
+    payload = payloads[member_idx]
+    try:
+        pdf_bytes = generate_member_pdf(payload)
+    except Exception:
+        return dash.no_update
+    surname  = re.sub(r"[^A-Za-z0-9_-]", "_", payload.get("surname", "member"))
+    name_    = re.sub(r"[^A-Za-z0-9_-]", "_", payload.get("name", ""))
+    filename = f"{surname}_{name_}_profile.pdf".strip("_")
+    import base64 as _b64
+    encoded = _b64.b64encode(pdf_bytes).decode("ascii")
+    return {"base64": True, "content": encoded, "filename": filename, "type": "application/pdf"}
+
+
+@app.callback(
+    Output("analysis-history-panel", "children"),
+    Input("analysis-history", "data"),
+)
+def update_history_panel(history: Optional[List]):
+    return _history_panel(history or [])
+
+
+@app.callback(
+    Output("analysis-history", "data", allow_duplicate=True),
+    Input("analysis-clear-history-btn", "n_clicks"),
+    prevent_initial_call=True,
+)
+def clear_history(n_clicks: Optional[int]):
+    if not n_clicks:
+        return dash.no_update
+    return []
+
+
+@app.callback(
+    Output("analysis-download", "data"),
+    Input("analysis-download-btn", "n_clicks"),
+    State("analysis-result-store", "data"),
+    prevent_initial_call=True,
+)
+def download_analysis(n_clicks: Optional[int], result_store: Optional[Dict[str, Any]]):
+    if not n_clicks or not result_store:
+        return dash.no_update
+    result_json = result_store.get("result_json")
+    if not result_json:
+        return dash.no_update
+    import pandas as pd_
+    result_df = pd_.read_json(result_json, orient="records")
+    return dcc.send_data_frame(result_df.to_excel, "analysis_result.xlsx", index=False)
+
+
+@app.callback(
+    Output("summary-content", "children"),
+    Input("run-store", "data"),
+)
+def update_summary(run_store: Dict[str, Any]):
+    run_data = run_store or {}
+    payloads = run_data.get("payloads") or []
+    if not payloads:
+        return html.Div("No run selected. Choose a run in the Exploring tab.", className="text-muted")
+
+    total = len(payloads)
+    grade_counts: Dict[str, int] = {}
+    ssd_counts:   Dict[str, int] = {}
+    h_vals, cit_vals, prod_vals = [], [], []
+
+    for p in payloads:
+        grade = p.get("grade") or p.get("role") or "Unknown"
+        grade_counts[grade] = grade_counts.get(grade, 0) + 1
+        ssd = p.get("ssd") or "Unknown"
+        ssd_counts[ssd] = ssd_counts.get(ssd, 0) + 1
+        for m in p.get("scopus_metrics") or []:
+            if (m.get("period") or "").startswith("05 years"):
+                if m.get("hindex")          is not None: h_vals.append(float(m["hindex"]))
+                if m.get("citations")       is not None: cit_vals.append(float(m["citations"]))
+                if m.get("total_products")  is not None: prod_vals.append(float(m["total_products"]))
+
+    def _avg(lst): return f"{sum(lst)/len(lst):.1f}" if lst else "N/A"
+
+    # Grade distribution
+    grade_rows = [html.Tr([html.Td(g, className="pe-4"), html.Td(str(c), className="fw-semibold")],
+                          style={"borderBottom": "1px solid #f0f0f0"})
+                  for g, c in sorted(grade_counts.items(), key=lambda x: -x[1])]
+
+    # Top 10 SSDs
+    top_ssds = sorted(ssd_counts.items(), key=lambda x: -x[1])[:10]
+    ssd_rows = [html.Tr([html.Td(s, className="pe-4"), html.Td(str(c), className="fw-semibold")],
+                        style={"borderBottom": "1px solid #f0f0f0"})
+                for s, c in top_ssds]
+
+    metadata = run_data.get("metadata") or {}
+    run_dir = run_data.get("run_dir") or ""
+    run_name = Path(run_dir).name if run_dir else "—"
+
+    return html.Div([
+        dbc.Row([
+            dbc.Col(dbc.Card(dbc.CardBody([
+                html.H6("Members",  className="text-muted mb-1"),
+                html.H3(total, className="mb-0"),
+            ]), className="text-center shadow-sm"), md=3),
+            dbc.Col(dbc.Card(dbc.CardBody([
+                html.H6("Avg H-index (5y)", className="text-muted mb-1"),
+                html.H3(_avg(h_vals), className="mb-0"),
+            ]), className="text-center shadow-sm"), md=3),
+            dbc.Col(dbc.Card(dbc.CardBody([
+                html.H6("Avg Citations (5y)", className="text-muted mb-1"),
+                html.H3(_avg(cit_vals), className="mb-0"),
+            ]), className="text-center shadow-sm"), md=3),
+            dbc.Col(dbc.Card(dbc.CardBody([
+                html.H6("Avg Products (5y)", className="text-muted mb-1"),
+                html.H3(_avg(prod_vals), className="mb-0"),
+            ]), className="text-center shadow-sm"), md=3),
+        ], className="g-3 mb-4"),
+        dbc.Row([
+            dbc.Col([
+                html.H6("Grade distribution", className="mb-2"),
+                html.Table(html.Tbody(grade_rows), className="w-100"),
+            ], md=4),
+            dbc.Col([
+                html.H6("Top SSDs", className="mb-2"),
+                html.Table(html.Tbody(ssd_rows), className="w-100"),
+            ], md=8),
+        ], className="g-3"),
+        html.Div(f"Run: {run_name}", className="text-muted small mt-3"),
+    ])
+
+
+@app.callback(
+    Output("compare-members-dropdown", "options"),
+    Input("run-store", "data"),
+)
+def populate_compare_dropdown(run_store: Dict[str, Any]):
+    payloads = (run_store or {}).get("payloads") or []
+    return [
+        {"label": f"{p.get('surname', '')} {p.get('name', '')}", "value": i}
+        for i, p in enumerate(payloads)
+    ]
+
+
+@app.callback(
+    Output("comparison-result", "children"),
+    Input("compare-btn", "n_clicks"),
+    State("compare-members-dropdown", "value"),
+    State("run-store", "data"),
+    prevent_initial_call=True,
+)
+def compare_members(n_clicks: Optional[int], selected: Optional[List[int]], run_store: Dict[str, Any]):
+    if not n_clicks or not selected:
+        return dash.no_update
+    payloads = (run_store or {}).get("payloads") or []
+    chosen = [payloads[i] for i in selected if 0 <= i < len(payloads)]
+    if not chosen:
+        return html.Div("No members selected.", className="text-muted")
+
+    _METRIC_LABELS = [
+        ("H-index (5y)",   "scopus_metrics", "hindex",         "05 years"),
+        ("H-index (10y)",  "scopus_metrics", "hindex",         "10 years"),
+        ("Citations (5y)", "scopus_metrics", "citations",      "05 years"),
+        ("Products (5y)",  "scopus_metrics", "total_products", "05 years"),
+        ("Score articles",  "scores", "articles_score",  None),
+        ("Score citations", "scores", "citations_score", None),
+        ("Score h-index",   "scores", "hindex_score",    None),
+    ]
+
+    def _get_val(p, src, field, period_prefix):
+        if src == "scopus_metrics":
+            for m in p.get("scopus_metrics") or []:
+                if period_prefix and (m.get("period") or "").startswith(period_prefix):
+                    v = m.get(field)
+                    return str(v) if v is not None else "—"
+            return "—"
+        if src == "scores":
+            # field is e.g. "articles_score" → scores.articles.score
+            indicator = field.replace("_score", "")
+            v = ((p.get("scores") or {}).get(indicator) or {}).get("score")
+            return str(v) if v is not None else "—"
+        return "—"
+
+    header_row = html.Tr([html.Th("Metric")] + [
+        html.Th(f"{p.get('surname','')} {p.get('name','')}") for p in chosen
+    ])
+    body_rows = []
+    for label, src, field, period_prefix in _METRIC_LABELS:
+        cells = [html.Td(label, className="fw-semibold pe-3 text-muted small")]
+        cells += [html.Td(_get_val(p, src, field, period_prefix), className="small") for p in chosen]
+        body_rows.append(html.Tr(cells, style={"borderBottom": "1px solid #f0f0f0"}))
+
+    return html.Table(
+        [html.Thead(header_row), html.Tbody(body_rows)],
+        className="w-100",
+        style={"fontSize": "0.85rem"},
+    )
 
 
 def main() -> None:  # pragma: no cover - manual start

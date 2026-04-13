@@ -1,10 +1,346 @@
 from __future__ import annotations
 
 import re
-import textwrap
 from pathlib import Path
-from typing import Any, Dict, List, Sequence
+from typing import Any, Dict, List, Optional, Sequence
 
+from fpdf import FPDF
+
+
+# ---------------------------------------------------------------------------
+# On-demand per-member PDF
+# ---------------------------------------------------------------------------
+
+def generate_member_pdf(payload: Dict[str, Any]) -> bytes:
+    """Return A4 PDF bytes for a single member profile."""
+
+    # ── Palette ──────────────────────────────────────────────────────────────
+    C_BLUE   = (13,  110, 253)
+    C_DARK   = (33,   37,  41)
+    C_GRAY   = (108, 117, 125)
+    C_LIGHT  = (248, 249, 250)
+    C_WHITE  = (255, 255, 255)
+    C_GREEN  = (25,  135,  84)
+    C_ORANGE = (253, 126,  20)
+    C_RED    = (220,  53,  69)
+
+    class _PDF(FPDF):
+        def footer(self) -> None:
+            self.set_y(-12)
+            self.set_font("Helvetica", "", 7)
+            self.set_text_color(*C_GRAY)
+            name = _safe(f"{payload.get('surname','')} {payload.get('name','')}".strip())
+            self.cell(0, 5, f"{name}  -  page {self.page_no()}", align="C")
+
+    pdf = _PDF(format="A4")
+    pdf.set_auto_page_break(auto=True, margin=20)
+    pdf.add_page()
+
+    W  = 180   # usable width
+    LM = 15    # left margin
+
+    # ── Helpers ──────────────────────────────────────────────────────────────
+
+    def _safe(value: Any, max_len: int = 200) -> str:
+        if value is None:
+            return ""
+        text = str(value)
+        # encode to latin-1 replacing unmappable chars
+        return text[:max_len].encode("latin-1", "replace").decode("latin-1")
+
+    def _section(title: str) -> None:
+        pdf.ln(3)
+        pdf.set_font("Helvetica", "B", 11)
+        pdf.set_text_color(*C_BLUE)
+        pdf.set_x(LM)
+        pdf.cell(W, 7, _safe(title), ln=True)
+        pdf.set_draw_color(*C_BLUE)
+        pdf.set_line_width(0.5)
+        pdf.line(LM, pdf.get_y(), LM + W, pdf.get_y())
+        pdf.set_draw_color(200, 200, 200)
+        pdf.set_line_width(0.2)
+        pdf.set_text_color(*C_DARK)
+        pdf.ln(3)
+
+    def _kv(label: str, value: Any, w_label: float = 38) -> None:
+        if value is None or value == "":
+            return
+        pdf.set_x(LM)
+        pdf.set_font("Helvetica", "B", 9)
+        pdf.set_text_color(*C_GRAY)
+        pdf.cell(w_label, 5, _safe(label) + ":", ln=False)
+        pdf.set_font("Helvetica", "", 9)
+        pdf.set_text_color(*C_DARK)
+        pdf.multi_cell(W - w_label, 5, _safe(value))
+
+    def _bullet(text: Any, indent: int = 4) -> None:
+        pdf.set_font("Helvetica", "", 9)
+        pdf.set_text_color(*C_DARK)
+        pdf.set_x(LM + indent)
+        pdf.cell(4, 5, "-", ln=False)
+        pdf.multi_cell(W - indent - 4, 5, _safe(text))
+
+    def _score_color(score: Optional[float]):
+        if score is None: return C_GRAY
+        if score >= 1.2:  return C_GREEN
+        if score >= 0.8:  return C_BLUE
+        if score >= 0.4:  return C_ORANGE
+        return C_RED
+
+    # ── Header bar ───────────────────────────────────────────────────────────
+    pdf.set_fill_color(*C_BLUE)
+    pdf.rect(0, 0, 210, 44, "F")
+
+    full_name = _safe(f"{payload.get('surname','')} {payload.get('name','')}".strip() or "Member Profile")
+    pdf.set_text_color(*C_WHITE)
+    pdf.set_font("Helvetica", "B", 20)
+    pdf.set_xy(LM, 8)
+    pdf.cell(W, 10, full_name, ln=True)
+
+    grade = payload.get("grade") or payload.get("role", "")
+    ssd   = payload.get("ssd", "")
+    sub   = " · ".join(p for p in [grade, ssd] if p)
+    if sub:
+        pdf.set_font("Helvetica", "", 11)
+        pdf.set_text_color(200, 220, 255)
+        pdf.set_xy(LM, 21)
+        pdf.cell(W, 6, _safe(sub), ln=True)
+
+    unit = payload.get("unit", "")
+    if unit:
+        pdf.set_font("Helvetica", "", 9)
+        pdf.set_text_color(160, 185, 240)
+        pdf.set_xy(LM, 30)
+        pdf.cell(W, 6, _safe(unit), ln=True)
+
+    pdf.set_text_color(*C_DARK)
+    pdf.set_y(50)
+
+    # ── Overview ─────────────────────────────────────────────────────────────
+    _section("Overview")
+    _kv("Unit",       unit)
+    _kv("Scopus ID",  payload.get("scopus_id"))
+    _kv("UNIGE ID",   payload.get("unige_id"))
+    ret = (payload.get("retrieved_at") or "")[:10]
+    if ret:
+        _kv("Retrieved", ret)
+
+    # ── Contact ──────────────────────────────────────────────────────────────
+    contact = [(lbl, payload.get(key)) for lbl, key in [
+        ("Email", "email"), ("Phone", "phone"),
+        ("Website", "website"), ("Page", "page"),
+    ] if payload.get(key)]
+    location = payload.get("location") or []
+    if contact or location:
+        _section("Contact")
+        for label, value in contact:
+            _kv(label, value)
+        for loc in location:
+            if isinstance(loc, dict):
+                parts = [
+                    loc.get("building"),
+                    f"Floor {loc.get('floor')}" if loc.get("floor") else None,
+                    loc.get("room"),
+                ]
+                loc_str = ", ".join(p for p in parts if p)
+                if loc_str:
+                    _kv("Office", loc_str)
+
+    # ── Career ───────────────────────────────────────────────────────────────
+    career = payload.get("career") or []
+    if career:
+        _section("Career")
+        for entry in career:
+            if not isinstance(entry, dict):
+                continue
+            role  = entry.get("role") or ""
+            from_ = str(entry.get("from") or "")[:10]
+            to_   = str(entry.get("to")   or "")[:10] if entry.get("to") else "present"
+            period = f"({from_} -> {to_})" if from_ else ""
+            _bullet(f"{role}  {period}".strip())
+
+    # ── Bibliometric Metrics ─────────────────────────────────────────────────
+    metrics = payload.get("scopus_metrics") or []
+    if metrics:
+        _section("Bibliometric Metrics")
+        col_w = [68, 28, 30, 26, 28]
+        headers = ["Period", "Products", "Citations", "H-index", "Journals"]
+
+        pdf.set_fill_color(*C_LIGHT)
+        pdf.set_font("Helvetica", "B", 8)
+        pdf.set_text_color(*C_GRAY)
+        pdf.set_x(LM)
+        for w, h in zip(col_w, headers):
+            pdf.cell(w, 6, h, border="B", align="C", fill=True)
+        pdf.ln()
+
+        pdf.set_font("Helvetica", "", 8)
+        for i, m in enumerate(metrics):
+            if not isinstance(m, dict):
+                continue
+            pdf.set_fill_color(248, 249, 250) if i % 2 == 0 else pdf.set_fill_color(255, 255, 255)
+            period = _safe(m.get("period") or "", 50)
+            pdf.set_text_color(*C_DARK)
+            pdf.set_x(LM)
+            pdf.cell(col_w[0], 5, period, fill=True)
+            for key, w in [
+                ("total_products", col_w[1]),
+                ("citations",      col_w[2]),
+                ("hindex",         col_w[3]),
+                ("journals",       col_w[4]),
+            ]:
+                val = m.get(key)
+                txt = str(int(val)) if val is not None else "-"
+                pdf.cell(w, 5, txt, align="C", fill=True)
+            pdf.ln()
+        pdf.ln(2)
+
+    # ── Threshold Scores ─────────────────────────────────────────────────────
+    scores_data = payload.get("scores") or {}
+    if scores_data:
+        _section("Threshold Scores  (D.M. 589/2018)")
+
+        def _ratio_str(level: Dict) -> str:
+            v = level.get("value")
+            t = level.get("threshold")
+            r = level.get("ratio")
+            if v is None or t is None:
+                return "N/D"
+            ratio_s = f"{r:.2f}" if r is not None else "-"
+            return f"{v} / {t} = {ratio_s}"
+
+        for indicator, label in [
+            ("articles",  "Articles"),
+            ("citations", "Citations"),
+            ("hindex",    "H-index"),
+        ]:
+            block = scores_data.get(indicator) or {}
+            score = block.get("score")
+
+            pdf.set_x(LM)
+            pdf.set_font("Helvetica", "B", 9)
+            pdf.set_text_color(*C_DARK)
+            pdf.cell(32, 6, label, ln=False)
+
+            score_txt = f"{score:.1f}" if score is not None else "N/D"
+            pdf.set_font("Helvetica", "B", 9)
+            pdf.set_text_color(*_score_color(score))
+            pdf.cell(14, 6, score_txt, align="C", ln=False)
+
+            pdf.set_font("Helvetica", "", 8)
+            pdf.set_text_color(*C_GRAY)
+            for level_key, level_name in [
+                ("ii_fascia",    "Assoc. Prof."),
+                ("i_fascia",     "Full Prof."),
+                ("commissario",  "Commissioner"),
+            ]:
+                level = block.get(level_key) or {}
+                ratio = _ratio_str(level)
+                pdf.cell(26, 6, f"{level_name}:", ln=False)
+                pdf.set_text_color(*C_DARK)
+                pdf.cell(36, 6, ratio, ln=False)
+                pdf.set_text_color(*C_GRAY)
+            pdf.ln()
+
+    # ── Responsibilities ──────────────────────────────────────────────────────
+    responsibilities = payload.get("responsibilities") or []
+    if responsibilities:
+        _section("Responsibilities")
+        for resp in responsibilities:
+            if not isinstance(resp, dict):
+                _bullet(str(resp))
+                continue
+            title  = resp.get("title") or resp.get("role") or ""
+            unit_r = resp.get("unit") or ""
+            from_  = str(resp.get("from") or "")[:10]
+            to_    = str(resp.get("to")   or "")[:10] if resp.get("to") else "present"
+            period = f"({from_} -> {to_})" if from_ else ""
+            text_parts = [p for p in [title, unit_r, period] if p]
+            _bullet("  ".join(text_parts))
+
+    # ── Teaching ─────────────────────────────────────────────────────────────
+    teaching = payload.get("teaching") or {}
+    if teaching:
+        _section("Teaching")
+        for year in sorted(teaching.keys(), reverse=True):
+            courses = teaching[year]
+            n = len(courses)
+            pdf.set_font("Helvetica", "B", 9)
+            pdf.set_text_color(*C_BLUE)
+            pdf.set_x(LM)
+            pdf.cell(W, 5, f"{year}  ({n} course{'s' if n != 1 else ''})", ln=True)
+            pdf.set_text_color(*C_DARK)
+            for course in courses:
+                if isinstance(course, dict):
+                    name   = course.get("course") or course.get("name") or ""
+                    degree = course.get("degree") or ""
+                    text   = name + (f"  –  {degree}" if degree else "")
+                else:
+                    text = str(course)
+                _bullet(text, indent=6)
+
+    # ── Scopus publications ───────────────────────────────────────────────────
+    scopus_products = payload.get("scopus_products") or []
+    if scopus_products:
+        _section(f"Publications – Scopus  ({len(scopus_products)})")
+        for i, prod in enumerate(scopus_products, 1):
+            if not isinstance(prod, dict):
+                continue
+            title  = _safe(prod.get("title") or "Untitled", 180)
+            year   = prod.get("year") or ""
+            venue  = _safe(prod.get("venue") or "", 80)
+            cit    = prod.get("citations")
+            type_  = _safe(prod.get("type") or prod.get("sub_type") or "", 30)
+
+            pdf.set_x(LM)
+            pdf.set_font("Helvetica", "B", 8)
+            pdf.set_text_color(*C_DARK)
+            pdf.multi_cell(W, 5, f"{i}.  {title}")
+
+            meta: List[str] = []
+            if year:    meta.append(str(year))
+            if venue:   meta.append(venue)
+            if cit is not None: meta.append(f"Cited: {int(cit)}")
+            if type_:   meta.append(type_)
+            if meta:
+                pdf.set_x(LM + 6)
+                pdf.set_font("Helvetica", "", 7)
+                pdf.set_text_color(*C_GRAY)
+                pdf.multi_cell(W - 6, 4, " · ".join(meta))
+            pdf.ln(1)
+
+    # ── IRIS publications ─────────────────────────────────────────────────────
+    iris_products = payload.get("iris_products") or []
+    if iris_products:
+        if pdf.get_y() > 220:
+            pdf.add_page()
+        _section(f"Publications – IRIS  ({len(iris_products)})")
+        for i, prod in enumerate(iris_products, 1):
+            if not isinstance(prod, dict):
+                continue
+            title = _safe(prod.get("title") or prod.get("name") or "Untitled", 180)
+            year  = prod.get("year") or ""
+            type_ = _safe(prod.get("type") or "", 40)
+
+            pdf.set_x(LM)
+            pdf.set_font("Helvetica", "B", 8)
+            pdf.set_text_color(*C_DARK)
+            pdf.multi_cell(W, 5, f"{i}.  {title}")
+
+            meta = [p for p in [str(year) if year else None, type_ or None] if p]
+            if meta:
+                pdf.set_x(LM + 6)
+                pdf.set_font("Helvetica", "", 7)
+                pdf.set_text_color(*C_GRAY)
+                pdf.multi_cell(W - 6, 4, " · ".join(meta))
+            pdf.ln(1)
+
+    return bytes(pdf.output())
+
+
+# ---------------------------------------------------------------------------
+# Markdown export (kept for optional use)
+# ---------------------------------------------------------------------------
 
 class Exporter:
     def export(self, payloads: Sequence[Dict[str, Any]], run_dir: Path) -> Path:
@@ -13,31 +349,30 @@ class Exporter:
     def _export_markdown(self, payloads: Sequence[Dict[str, Any]], run_dir: Path) -> Path:
         md_dir = run_dir / "markdown"
         md_dir.mkdir(parents=True, exist_ok=True)
-        pdf_dir = run_dir / "pdf"
-        pdf_dir.mkdir(parents=True, exist_ok=True)
         for index, payload in enumerate(payloads):
-            filename = f"{self._slugify(payload.get('surname', ''))}_{self._slugify(payload.get('name', ''))}_{payload.get('scopus_id', '') or index}.md"
+            filename = (
+                f"{self._slugify(payload.get('surname', ''))}_"
+                f"{self._slugify(payload.get('name', ''))}_"
+                f"{payload.get('scopus_id', '') or index}.md"
+            )
             md_path = md_dir / filename
             lines = self._build_markdown_lines(payload)
             self._write_markdown(md_path, lines)
-            pdf_path = pdf_dir / f"{md_path.stem}.pdf"
-            self._write_pdf(pdf_path, lines)
         return md_dir
 
     def _build_markdown_lines(self, payload: Dict[str, Any]) -> List[str]:
         lines: List[str] = []
         full_name = f"{payload.get('surname', '')} {payload.get('name', '')}".strip()
-        title = full_name or "Member Profile"
-        lines.append(f"# {title}")
+        lines.append(f"# {full_name or 'Member Profile'}")
         lines.append("")
 
         overview_pairs = [
-            ("Unit", payload.get("unit")),
-            ("Role", payload.get("role")),
-            ("Grade", payload.get("grade")),
-            ("SSD", payload.get("ssd")),
-            ("Scopus ID", payload.get("scopus_id")),
-            ("UNIGE ID", payload.get("unige_id")),
+            ("Unit",         payload.get("unit")),
+            ("Role",         payload.get("role")),
+            ("Grade",        payload.get("grade")),
+            ("SSD",          payload.get("ssd")),
+            ("Scopus ID",    payload.get("scopus_id")),
+            ("UNIGE ID",     payload.get("unige_id")),
             ("Retrieved at", payload.get("retrieved_at")),
         ]
         overview_lines = [
@@ -51,10 +386,10 @@ class Exporter:
             lines.append("")
 
         contact_info = [
-            ("Email", payload.get("email")),
-            ("Phone", payload.get("phone")),
+            ("Email",   payload.get("email")),
+            ("Phone",   payload.get("phone")),
             ("Website", payload.get("website")),
-            ("Page", payload.get("page")),
+            ("Page",    payload.get("page")),
         ]
         contact_lines = [
             f"- **{label}:** {self._format_value(value)}"
@@ -80,25 +415,6 @@ class Exporter:
                 lines.append(f"- {self._format_career(entry)}")
             lines.append("")
 
-        responsibilities = payload.get("responsibilities") or []
-        if responsibilities:
-            lines.append("## Responsibilities")
-            for idx, entry in enumerate(responsibilities):
-                lines.extend(self._format_responsibility_block(entry))
-                if idx < len(responsibilities) - 1:
-                    lines.append("")
-            lines.append("")
-
-        teaching = payload.get("teaching") or {}
-        if teaching:
-            lines.append("## Teaching")
-            for year in sorted(teaching.keys(), reverse=True):
-                lessons = teaching[year]
-                lines.append(f"### {year}")
-                for lesson in lessons:
-                    lines.append(f"- {self._format_teaching(lesson)}")
-                lines.append("")
-
         metrics = payload.get("scopus_metrics") or []
         if metrics:
             lines.append("## Scopus Metrics")
@@ -111,8 +427,7 @@ class Exporter:
             lines.append("## Scopus Products")
             for idx, product in enumerate(products, start=1):
                 lines.append(f"{idx}.")
-                product_lines = self._format_product_block(product)
-                for line in product_lines:
+                for line in self._format_product_block(product):
                     lines.append(f"   {line}")
             lines.append("")
 
@@ -126,15 +441,7 @@ class Exporter:
             self._format_value(entry.get("floor")),
             self._format_value(entry.get("room")),
         ]
-        extras = [
-            f"{key}: {self._format_value(value)}"
-            for key, value in entry.items()
-            if key not in {"building", "floor", "room"} and value
-        ]
         result = ", ".join(part for part in components if part)
-        if extras:
-            extras_str = "; ".join(extras)
-            result = f"{result} ({extras_str})" if result else extras_str
         return result or "-"
 
     def _format_career(self, entry: Any) -> str:
@@ -144,46 +451,7 @@ class Exporter:
             self._format_value(entry.get("role")),
             self._format_range(entry.get("from"), entry.get("to")),
         ]
-        extras = [
-            f"{key}: {self._format_value(value)}"
-            for key, value in entry.items()
-            if key not in {"role", "from", "to"} and value
-        ]
-        result = ", ".join(part for part in parts if part)
-        if extras:
-            extras_str = "; ".join(extras)
-            result = f"{result} ({extras_str})" if result else extras_str
-        return result or "-"
-
-    def _format_responsibility_block(self, entry: Any) -> List[str]:
-        if not isinstance(entry, dict):
-            return [f"- {self._to_text(entry)}"]
-
-        fields = [
-            ("Title", self._format_value(entry.get("title"))),
-            ("Unit", self._format_value(entry.get("unit"))),
-            ("Role", self._format_value(entry.get("role"))),
-            ("Period", self._format_range(entry.get("from"), entry.get("to"))),
-        ]
-        lines: List[str] = []
-        for label, value in fields:
-            if value not in ("", None):
-                prefix = "- " if not lines else "  - "
-                lines.append(f"{prefix}**{label}:** {value}")
-
-        extras = [
-            (key, self._format_value(value))
-            for key, value in entry.items()
-            if key not in {"title", "unit", "role", "from", "to"} and value
-        ]
-        for key, value in extras:
-            prefix = "- " if not lines else "  - "
-            label = re.sub(r"_+", " ", key).title()
-            lines.append(f"{prefix}**{label}:** {value}")
-
-        if not lines:
-            lines.append("- Responsibility")
-        return lines
+        return ", ".join(part for part in parts if part) or "-"
 
     def _format_teaching(self, entry: Any) -> str:
         if not isinstance(entry, dict):
@@ -192,16 +460,7 @@ class Exporter:
             self._format_value(entry.get("course")),
             self._format_value(entry.get("degree")),
         ]
-        extras = [
-            f"{key}: {self._format_value(value)}"
-            for key, value in entry.items()
-            if key not in {"course", "degree"} and value
-        ]
-        result = ", ".join(part for part in parts if part)
-        if extras:
-            extras_str = "; ".join(extras)
-            result = f"{result} ({extras_str})" if result else extras_str
-        return result or "-"
+        return ", ".join(part for part in parts if part) or "-"
 
     def _format_metric(self, metric: Any) -> str:
         if not isinstance(metric, dict):
@@ -212,8 +471,6 @@ class Exporter:
             parts.append(str(period))
         for label, key in [
             ("Docs", "total_products"),
-            ("Journals", "journals"),
-            ("Conferences", "conferences"),
             ("Citations", "citations"),
             ("H-index", "hindex"),
         ]:
@@ -225,248 +482,14 @@ class Exporter:
     def _format_product_block(self, product: Any) -> List[str]:
         if not isinstance(product, dict):
             return [f"- {self._to_text(product)}"]
-
-        ordered_fields = [
-            ("Title", self._format_value(product.get("title"))),
-            ("Venue", self._format_value(product.get("venue"))),
-            ("Year", self._format_value(product.get("year"))),
-            ("Type", self._format_value(product.get("type"))),
-            ("Subtype", self._format_value(product.get("sub_type"))),
-            ("Citations", self._format_value(product.get("citations"))),
-            ("DOI", self._format_value(product.get("doi"))),
-            ("Scopus ID", self._format_value(product.get("scopus_id"))),
-            ("ISSN", self._format_value(product.get("issn"))),
-            ("eISSN", self._format_value(product.get("eIssn"))),
-            ("Volume", self._format_value(product.get("volume"))),
-            ("Issue", self._format_value(product.get("issue_id"))),
-            ("Pages", self._format_value(product.get("pages"))),
-            ("Authors", self._format_value(product.get("authors"))),
-            ("Keywords", self._format_value(product.get("keywords"))),
-            ("Quartile", product.get("quartile")),
+        fields = [
+            ("Title",    self._format_value(product.get("title"))),
+            ("Venue",    self._format_value(product.get("venue"))),
+            ("Year",     self._format_value(product.get("year"))),
+            ("Type",     self._format_value(product.get("type"))),
+            ("Citations",self._format_value(product.get("citations"))),
         ]
-
-        lines: List[str] = []
-        for label, value in ordered_fields:
-            if value in (None, ""):
-                continue
-            if label == "Quartile":
-                lines.extend(self._format_quartile_block(value))
-            else:
-                lines.append(f"- **{label}:** {value}")
-
-        extras = [
-            (key, value)
-            for key, value in product.items()
-            if key
-            not in {
-                "title",
-                "venue",
-                "year",
-                "type",
-                "sub_type",
-                "citations",
-                "doi",
-                "scopus_id",
-                "issn",
-                "eIssn",
-                "volume",
-                "issue_id",
-                "pages",
-                "authors",
-                "keywords",
-                "quartile",
-                "abstract",
-            }
-            and value not in (None, "")
-        ]
-        for key, value in extras:
-            label = re.sub(r"_+", " ", key).title()
-            lines.append(f"- **{label}:** {self._format_value(value)}")
-
-        return lines or ["- -"]
-
-    def _write_pdf(self, path: Path, lines: Sequence[str]) -> None:
-        prepared = self._prepare_pdf_lines(lines)
-        wrapped = self._wrap_pdf_lines(prepared)
-        if not wrapped:
-            wrapped = [""]
-
-        page_width = 595  # A4 width in points
-        page_height = 842  # A4 height in points
-        margin = 40
-        line_height = 14
-        max_lines = max(1, int((page_height - 2 * margin) / line_height))
-        pages: List[List[str]] = [
-            wrapped[index : index + max_lines] for index in range(0, len(wrapped), max_lines)
-        ]
-        if not pages:
-            pages = [[]]
-
-        builder = _SimplePDFBuilder()
-        catalog_id = builder.reserve()
-        pages_id = builder.reserve()
-        font_id = builder.add_object("<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>")
-
-        page_ids: List[int] = []
-        for page_lines in pages:
-            stream = self._build_pdf_stream(page_lines, margin, page_height, line_height)
-            content_id = builder.add_stream(stream)
-            page_obj = (
-                f"<< /Type /Page /Parent {pages_id} 0 R /MediaBox [0 0 {page_width} {page_height}] "
-                f"/Contents {content_id} 0 R "
-                f"/Resources << /Font << /F1 {font_id} 0 R >> >> >>"
-            )
-            page_id = builder.add_object(page_obj)
-            page_ids.append(page_id)
-
-        kids = " ".join(f"{pid} 0 R" for pid in page_ids)
-        pages_obj = f"<< /Type /Pages /Kids [{kids}] /Count {len(page_ids)} >>"
-        builder.set_object(pages_id, pages_obj)
-        builder.set_object(catalog_id, f"<< /Type /Catalog /Pages {pages_id} 0 R >>")
-        builder.write(path, catalog_id)
-
-    def _build_pdf_stream(
-        self,
-        lines: Sequence[str],
-        margin: int,
-        page_height: int,
-        line_height: int,
-    ) -> str:
-        parts = [
-            "BT",
-            "/F1 11 Tf",
-            f"{line_height} TL",
-            f"{margin} {page_height - margin} Td",
-        ]
-        for line in lines:
-            parts.append(f"({self._pdf_escape(line)}) Tj")
-            parts.append("T*")
-        parts.append("ET")
-        return "\n".join(parts)
-
-    def _prepare_pdf_lines(self, lines: Sequence[str]) -> List[str]:
-        prepared: List[str] = []
-        for line in lines:
-            prepared.append(self._markdown_to_pdf_line(line or ""))
-        return prepared
-
-    def _wrap_pdf_lines(self, lines: Sequence[str], width: int = 90) -> List[str]:
-        wrapped: List[str] = []
-        for line in lines:
-            wrapped.extend(self._wrap_line_for_pdf(line, width))
-        return wrapped
-
-    def _wrap_line_for_pdf(self, line: str, width: int) -> List[str]:
-        if not line:
-            return [""]
-        indent_len = len(line) - len(line.lstrip(" "))
-        indent = " " * indent_len
-        text = line[indent_len:]
-        effective_width = max(20, width - indent_len)
-        wrapper = textwrap.TextWrapper(
-            width=effective_width,
-            replace_whitespace=False,
-            drop_whitespace=False,
-        )
-        chunks = wrapper.wrap(text)
-        if not chunks:
-            return [indent]
-        return [indent + chunk for chunk in chunks]
-
-    @staticmethod
-    def _pdf_escape(text: str) -> str:
-        escaped = (
-            text.replace("\\", "\\\\")
-            .replace("(", "\\(")
-            .replace(")", "\\)")
-        )
-        return escaped.encode("latin-1", "replace").decode("latin-1")
-
-    def _markdown_to_pdf_line(self, line: str) -> str:
-        text = self._format_value(line)
-        if not text:
-            return ""
-
-        stripped = text.lstrip()
-        indent = len(text) - len(stripped)
-        prefix = " " * indent
-
-        if stripped.startswith("#"):
-            hash_count = len(stripped) - len(stripped.lstrip("#"))
-            content = stripped[hash_count:].strip()
-            content = content.upper() if hash_count == 1 else content
-            return prefix + content
-
-        bullet_prefix = "• "
-        if stripped.startswith("- "):
-            content = stripped[2:].strip()
-            return prefix + bullet_prefix + self._strip_markdown_inline(content)
-
-        ordered_match = re.match(r"(\d+)\.\s+(.*)", stripped)
-        if ordered_match:
-            number, rest = ordered_match.groups()
-            cleaned = self._strip_markdown_inline(rest.strip())
-            return prefix + f"{number}. {cleaned}"
-
-        return prefix + self._strip_markdown_inline(stripped)
-
-    @staticmethod
-    def _strip_markdown_inline(text: str) -> str:
-        cleaned = re.sub(r"\*\*(.+?)\*\*", r"\1", text)
-        cleaned = re.sub(r"\*(.+?)\*", r"\1", cleaned)
-        cleaned = re.sub(r"`(.+?)`", r"\1", cleaned)
-        cleaned = re.sub(r"__(.+?)__", r"\1", cleaned)
-        cleaned = re.sub(r"_(.+?)_", r"\1", cleaned)
-        cleaned = re.sub(r"\[(.+?)\]\((.+?)\)", r"\1 (\2)", cleaned)
-        return cleaned
-
-    def _format_quartile_block(self, data: Any) -> List[str]:
-        if not data:
-            return []
-        if isinstance(data, str):
-            return ["- **Quartile:**", f"  - {self._format_value(data)}"]
-
-        lines: List[str] = ["- **Quartile:**"]
-        items = data if isinstance(data, list) else [data]
-        for item in items:
-            if not isinstance(item, dict):
-                lines.append(f"  - {self._format_value(item)}")
-                continue
-
-            subjects = item.get("subjects")
-            subject_texts: List[str] = []
-            if isinstance(subjects, list) and subjects:
-                for subject in subjects:
-                    if not isinstance(subject, dict):
-                        subject_texts.append(self._format_value(subject))
-                        continue
-                    name = (
-                        self._format_value(subject.get("subject"))
-                        or self._format_value(subject.get("name"))
-                        or "Subject"
-                    )
-                    details: List[str] = []
-                    quartile = self._format_value(subject.get("quartile"))
-                    if quartile:
-                        details.append(quartile)
-                    rank = subject.get("rank")
-                    if rank not in (None, ""):
-                        details.append(f"rank {rank}")
-                    percentile = subject.get("percentile")
-                    if percentile not in (None, ""):
-                        details.append(f"percentile {percentile}")
-                    detail_text = f" ({', '.join(details)})" if details else ""
-                    subject_texts.append(f"{name}{detail_text}")
-            else:
-                subject_texts.append("(no subjects)")
-
-            year = self._format_value(item.get("year"))
-            if year:
-                lines.append(f"  {year}:")
-            for subject_text in subject_texts:
-                lines.append(f"  - {subject_text}")
-
-        return lines
+        return [f"- **{l}:** {v}" for l, v in fields if v] or ["- -"]
 
     @staticmethod
     def _format_range(start: Any, end: Any) -> str:
@@ -477,23 +500,13 @@ class Exporter:
             match = re.search(r"\d{4}-\d{2}-\d{2}", text)
             if match:
                 return match.group(0)
-            slash = re.search(r"\d{4}/\d{2}/\d{2}", text)
-            if slash:
-                return slash.group(0).replace("/", "-")
-            parts = re.split(r"[T\s]", text, maxsplit=1)
-            if parts:
-                candidate = parts[0]
-                if re.fullmatch(r"\d{4}-\d{2}-\d{2}", candidate):
-                    return candidate
             return text
 
-        start_clean = _clean(start)
-        end_clean = _clean(end)
-        if not start_clean and not end_clean:
-            return ""
-        if start_clean and end_clean:
-            return f"{start_clean} → {end_clean}"
-        return start_clean or end_clean
+        start_c = _clean(start)
+        end_c   = _clean(end)
+        if start_c and end_c:
+            return f"{start_c} → {end_c}"
+        return start_c or end_c
 
     @staticmethod
     def _write_markdown(path: Path, lines: Sequence[str]) -> None:
@@ -517,61 +530,8 @@ class Exporter:
         if value is None:
             return ""
         text = str(value)
-        return Exporter._normalize_caps(text)
-
-    @staticmethod
-    def _normalize_caps(text: str) -> str:
-        letters = [char for char in text if char.isalpha()]
-        if not letters:
-            return text
-        has_whitespace = any(char.isspace() for char in text)
-        if all(char.isupper() for char in letters) and has_whitespace:
-            lowered = text.lower()
-            return re.sub(
-                r"\b([a-z])",
-                lambda match: match.group(1).upper(),
-                lowered,
-            )
+        letters = [c for c in text if c.isalpha()]
+        if letters and all(c.isupper() for c in letters) and any(c.isspace() for c in text):
+            text = text.lower()
+            text = re.sub(r"\b([a-z])", lambda m: m.group(1).upper(), text)
         return text
-
-
-class _SimplePDFBuilder:
-    def __init__(self) -> None:
-        self._objects: List[bytes] = []
-
-    def reserve(self) -> int:
-        self._objects.append(b"")
-        return len(self._objects)
-
-    def add_object(self, content: str) -> int:
-        self._objects.append(content.encode("utf-8"))
-        return len(self._objects)
-
-    def add_stream(self, stream: str) -> int:
-        data = stream.encode("utf-8")
-        obj = f"<< /Length {len(data)} >>\nstream\n{stream}\nendstream".encode("utf-8")
-        self._objects.append(obj)
-        return len(self._objects)
-
-    def set_object(self, object_id: int, content: str) -> None:
-        self._objects[object_id - 1] = content.encode("utf-8")
-
-    def write(self, path: Path, root_id: int) -> None:
-        with path.open("wb") as handle:
-            handle.write(b"%PDF-1.4\n%\xe2\xe3\xcf\xd3\n")
-            offsets: List[int] = []
-            for index, obj in enumerate(self._objects, start=1):
-                offsets.append(handle.tell())
-                handle.write(f"{index} 0 obj\n".encode("utf-8"))
-                handle.write(obj)
-                handle.write(b"\nendobj\n")
-            xref_pos = handle.tell()
-            handle.write(f"xref\n0 {len(self._objects) + 1}\n".encode("utf-8"))
-            handle.write(b"0000000000 65535 f \n")
-            for offset in offsets:
-                handle.write(f"{offset:010d} 00000 n \n".encode("utf-8"))
-            handle.write(b"trailer\n")
-            handle.write(f"<< /Size {len(self._objects) + 1} /Root {root_id} 0 R >>\n".encode("utf-8"))
-            handle.write(b"startxref\n")
-            handle.write(f"{xref_pos}\n".encode("utf-8"))
-            handle.write(b"%%EOF")
