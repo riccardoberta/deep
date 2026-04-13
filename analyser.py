@@ -54,18 +54,94 @@ def _teaching_years(teaching: Any) -> Optional[str]:
 # ---------------------------------------------------------------------------
 # load_all_runs: one flat row per (run × member) with ALL scalar fields
 # ---------------------------------------------------------------------------
+def _payload_to_row(payload: Dict[str, Any], date_str: str, run_idx: int, run_label: str) -> Dict[str, Any]:
+    """Convert one payload dict to a flat DataFrame row."""
+    mbs: Dict[str, Dict[str, Any]] = {}
+    for entry in payload.get("scopus_metrics") or []:
+        suffix = _suffix_for_period(entry.get("period", ""))
+        if suffix:
+            mbs[suffix] = entry
+
+    scores   = payload.get("scores") or {}
+    career   = payload.get("career") or []
+    teaching = payload.get("teaching") or {}
+    location = payload.get("location") or []
+
+    def _score(indicator: str) -> Optional[float]:
+        v = (scores.get(indicator) or {}).get("score")
+        return float(v) if v is not None else None
+
+    latest_role = career[0].get("role") if career else None
+    latest_from = career[0].get("from")  if career else None
+
+    return {
+        "run_date":          date_str,
+        "run_index":         run_idx,
+        "run_label":         run_label,
+        "surname":           payload.get("surname", ""),
+        "name":              payload.get("name", ""),
+        "unit":              payload.get("unit", ""),
+        "grade":             payload.get("grade", ""),
+        "role":              payload.get("role", ""),
+        "ssd":               payload.get("ssd", ""),
+        "ssd_name":          payload.get("ssd_name", ""),
+        "scopus_id":         payload.get("scopus_id", ""),
+        "unige_id":          payload.get("unige_id", ""),
+        "email":             payload.get("email", ""),
+        "phone":             payload.get("phone", ""),
+        "page":              payload.get("page", ""),
+        "website":           payload.get("website", ""),
+        "building":          location[0].get("building") if location else None,
+        "floor":             location[0].get("floor")    if location else None,
+        "room":              location[0].get("room")     if location else None,
+        "current_role":      latest_role,
+        "role_since":        latest_from,
+        "career_entries":    len(career),
+        "teaching_courses":  _count_courses(teaching),
+        "teaching_years":    _teaching_years(teaching),
+        "products_5y":       _get_metric(mbs, "5y",  "total_products"),
+        "products_10y":      _get_metric(mbs, "10y", "total_products"),
+        "products_15y":      _get_metric(mbs, "15y", "total_products"),
+        "products_abs":      _get_metric(mbs, "abs", "total_products"),
+        "citations_5y":      _get_metric(mbs, "5y",  "citations"),
+        "citations_10y":     _get_metric(mbs, "10y", "citations"),
+        "citations_15y":     _get_metric(mbs, "15y", "citations"),
+        "citations_abs":     _get_metric(mbs, "abs", "citations"),
+        "h_index_5y":        _get_metric(mbs, "5y",  "hindex"),
+        "h_index_10y":       _get_metric(mbs, "10y", "hindex"),
+        "h_index_15y":       _get_metric(mbs, "15y", "hindex"),
+        "h_index_abs":       _get_metric(mbs, "abs", "hindex"),
+        "score_articles":    _score("articles"),
+        "score_citations":   _score("citations"),
+        "score_hindex":      _score("hindex"),
+        "scopus_products":   len(payload.get("scopus_products") or []),
+        "iris_products":     len(payload.get("iris_products")   or []),
+        "retrieved_at":      payload.get("retrieved_at", ""),
+    }
+
+
+def df_from_payloads(
+    payloads: List[Dict[str, Any]],
+    run_label: str = "selected",
+    run_date:  str = "",
+    run_index: int = 0,
+) -> tuple[pd.DataFrame, List[Dict[str, Any]]]:
+    """Build a (df, records) pair from an already-loaded list of payloads."""
+    rows: List[Dict[str, Any]] = []
+    records: List[Dict[str, Any]] = []
+    for payload in payloads:
+        enriched = dict(payload)
+        enriched["run_date"]  = run_date
+        enriched["run_label"] = run_label
+        records.append(enriched)
+        rows.append(_payload_to_row(payload, run_date, run_index, run_label))
+    return pd.DataFrame(rows), records
+
+
 def load_all_runs(data_dir: Path) -> tuple[pd.DataFrame, List[Dict[str, Any]]]:
     """
     Walk every data/<YYYY_MM_DD_N>/source/*.json file under *data_dir*.
-
-    Returns
-    -------
-    df : pd.DataFrame
-        One row per (run, member).  All scalar/countable fields are columns.
-    records : list[dict]
-        Full raw payloads with two extra keys injected: ``run_date`` and
-        ``run_label``.  Useful for queries on nested structures (career,
-        teaching, location, scopus_products, iris_products).
+    Returns (df, records) where df has one row per (run × member).
     """
     run_pattern = re.compile(r"^(\d{4}_\d{2}_\d{2})_(\d+)$")
     rows: List[Dict[str, Any]] = []
@@ -98,85 +174,11 @@ def load_all_runs(data_dir: Path) -> tuple[pd.DataFrame, List[Dict[str, Any]]]:
             except Exception:
                 continue
 
-            # --- Inject run info into raw record ---
             enriched = dict(payload)
             enriched["run_date"]  = date_str
             enriched["run_label"] = run_label
             records.append(enriched)
-
-            # --- Index metrics by period suffix ---
-            mbs: Dict[str, Dict[str, Any]] = {}
-            for entry in payload.get("scopus_metrics") or []:
-                suffix = _suffix_for_period(entry.get("period", ""))
-                if suffix:
-                    mbs[suffix] = entry
-
-            scores   = payload.get("scores") or {}
-            career   = payload.get("career") or []
-            teaching = payload.get("teaching") or {}
-            location = payload.get("location") or []
-
-            def score(indicator: str) -> Optional[float]:
-                v = (scores.get(indicator) or {}).get("score")
-                return float(v) if v is not None else None
-
-            # Latest career entry (first in list = most recent)
-            latest_role = career[0].get("role") if career else None
-            latest_from = career[0].get("from")  if career else None
-
-            rows.append({
-                # ── Run info ─────────────────────────────────────────────
-                "run_date":          date_str,
-                "run_index":         run_idx,
-                "run_label":         run_label,
-                # ── Identity ─────────────────────────────────────────────
-                "surname":           payload.get("surname", ""),
-                "name":              payload.get("name", ""),
-                "unit":              payload.get("unit", ""),
-                "grade":             payload.get("grade", ""),
-                "role":              payload.get("role", ""),
-                "ssd":               payload.get("ssd", ""),
-                "scopus_id":         payload.get("scopus_id", ""),
-                "unige_id":          payload.get("unige_id", ""),
-                # ── Contact ──────────────────────────────────────────────
-                "email":             payload.get("email", ""),
-                "phone":             payload.get("phone", ""),
-                "page":              payload.get("page", ""),
-                "website":           payload.get("website", ""),
-                # ── Location (first entry) ────────────────────────────────
-                "building":          location[0].get("building") if location else None,
-                "floor":             location[0].get("floor")    if location else None,
-                "room":              location[0].get("room")     if location else None,
-                # ── Career (latest entry) ─────────────────────────────────
-                "current_role":      latest_role,
-                "role_since":        latest_from,
-                "career_entries":    len(career),
-                # ── Teaching ─────────────────────────────────────────────
-                "teaching_courses":  _count_courses(teaching),
-                "teaching_years":    _teaching_years(teaching),
-                # ── Bibliometrics ─────────────────────────────────────────
-                "products_5y":       _get_metric(mbs, "5y",  "total_products"),
-                "products_10y":      _get_metric(mbs, "10y", "total_products"),
-                "products_15y":      _get_metric(mbs, "15y", "total_products"),
-                "products_abs":      _get_metric(mbs, "abs", "total_products"),
-                "citations_5y":      _get_metric(mbs, "5y",  "citations"),
-                "citations_10y":     _get_metric(mbs, "10y", "citations"),
-                "citations_15y":     _get_metric(mbs, "15y", "citations"),
-                "citations_abs":     _get_metric(mbs, "abs", "citations"),
-                "h_index_5y":        _get_metric(mbs, "5y",  "hindex"),
-                "h_index_10y":       _get_metric(mbs, "10y", "hindex"),
-                "h_index_15y":       _get_metric(mbs, "15y", "hindex"),
-                "h_index_abs":       _get_metric(mbs, "abs", "hindex"),
-                # ── Threshold scores ──────────────────────────────────────
-                "score_articles":    score("articles"),
-                "score_citations":   score("citations"),
-                "score_hindex":      score("hindex"),
-                # ── Publication counts ────────────────────────────────────
-                "scopus_products":   len(payload.get("scopus_products") or []),
-                "iris_products":     len(payload.get("iris_products")   or []),
-                # ── Retrieval ────────────────────────────────────────────
-                "retrieved_at":      payload.get("retrieved_at", ""),
-            })
+            rows.append(_payload_to_row(payload, date_str, run_idx, run_label))
 
     return pd.DataFrame(rows), records
 
@@ -208,29 +210,34 @@ def _extract_code(text: str) -> str:
 # Schema description injected into the prompt
 # ---------------------------------------------------------------------------
 _SCHEMA_DESCRIPTION = """
-`df` columns (one row per run × member):
-  run_date, run_index, run_label          – which import this row comes from
-  surname, name, unit, grade, role, ssd   – identity & academic role
-  scopus_id, unige_id                     – system identifiers
-  email, phone, page, website             – contact info
-  building, floor, room                   – office location (first address)
+`df` is a pandas DataFrame with one row per (run × member). All columns are scalars.
+  run_date, run_index, run_label           – which import this row comes from
+  surname, name, unit, grade, role, ssd, ssd_name – identity & academic role (ssd = code, ssd_name = full name)
+  scopus_id, unige_id                      – system identifiers
+  email, phone, page, website              – contact info
+  building, floor, room                    – office location (first address)
   current_role, role_since, career_entries – current career position
-  teaching_courses, teaching_years        – total courses taught & years active
-  products_5y/10y/15y/abs                 – publication counts per window
-  citations_5y/10y/15y/abs               – citation counts per window
-  h_index_5y/10y/15y/abs                 – h-index per window
-  score_articles, score_citations, score_hindex  – threshold scores (0/0.4/0.8/1.2)
-  scopus_products, iris_products          – number of products in each archive
-  retrieved_at                            – timestamp of data retrieval
+  teaching_courses, teaching_years         – total courses taught & years active
+  products_5y / products_10y / products_15y / products_abs   – INTEGER publication counts per window
+  citations_5y / citations_10y / citations_15y / citations_abs – INTEGER citation counts per window
+  h_index_5y / h_index_10y / h_index_15y / h_index_abs       – FLOAT h-index per window
+  score_articles, score_citations, score_hindex               – FLOAT threshold scores (0..1.4)
+  scopus_products  – INTEGER: total number of Scopus publications (len of list)
+  iris_products    – INTEGER: total number of IRIS publications (len of list)
+  retrieved_at     – timestamp of data retrieval
+
+IMPORTANT: always prefer `df` for numeric comparisons and aggregations.
+Use `df["scopus_products"]` and `df["iris_products"]` for counts — they are integers.
 
 `records` is a list of raw payload dicts (one per run × member).
-Each dict has the same run_date/run_label keys plus all nested fields:
-  career   – list of {role, from, to}
-  teaching – dict of year → list of courses
-  location – list of {building, floor, room}
-  scopus_products / iris_products – full publication lists
-Use `records` when you need to look inside nested structures.
-To convert a filtered subset back to a DataFrame: pd.DataFrame([...]).
+  Use `records` ONLY when you need to access nested/list fields not present in `df`:
+    career          – list of {role, from, to}
+    teaching        – dict of year → list of courses
+    location        – list of {building, floor, room}
+    scopus_products – LIST of full publication objects (NOT a count)
+    iris_products   – LIST of full publication objects (NOT a count)
+  WARNING: in `records`, scopus_products and iris_products are LISTS, not integers.
+  To convert a filtered subset back to a DataFrame: pd.DataFrame([...]).
 """.strip()
 
 
@@ -265,9 +272,11 @@ Sample rows from `df` (first 3):
 User question: {question}
 
 Instructions:
-- You have access to `df` (pandas DataFrame) and `records` (list of dicts).
-- Also available: the `pd` alias.
-- Store the final answer in a variable named `result_df` (must be a DataFrame).
+- You have access to `df` (pandas DataFrame) and `records` (list of dicts). Also available: `pd`.
+- ALWAYS use `df` for numeric operations (counts, comparisons, sorting, filtering by value).
+  In `df`, scopus_products and iris_products are INTEGER counts — use them directly.
+- Use `records` ONLY if you need to inspect content inside nested lists (career, teaching, publication details).
+- Store the final answer in a variable named `result_df` (must be a pandas DataFrame).
 - Do NOT import any module. Do NOT use open(), exec(), eval(), os, sys or subprocess.
 - Include surname and name in the result; keep only columns relevant to the answer.
 - Output ONLY the Python code wrapped in triple backticks.

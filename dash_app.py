@@ -37,7 +37,7 @@ from collaborations import CollaborationBuilder
 from data_preparation import DataPreparation
 from export import generate_member_pdf
 from importer import Importer
-from analyser import load_all_runs, query_llm
+from analyser import df_from_payloads, load_all_runs, query_llm
 from thresholds import compute_scores, load_thresholds
 
 _THRESHOLDS = load_thresholds()
@@ -420,6 +420,35 @@ def _build_run_store(run_dir: Path | None, payloads: List[Dict[str, Any]], metad
     }
 
 
+def _history_file(run_value: Optional[str]) -> Optional[Path]:
+    """Return the path to the persistent history JSON for a given run value."""
+    if not run_value:
+        return None
+    if run_value == "__all__":
+        return SETTINGS.data_dir / "_history_all.json"
+    return Path(run_value) / "analysis_history.json"
+
+
+def _load_history(run_value: Optional[str]) -> List[Dict[str, Any]]:
+    hf = _history_file(run_value)
+    if not hf or not hf.exists():
+        return []
+    try:
+        return json.loads(hf.read_text(encoding="utf-8"))
+    except Exception:
+        return []
+
+
+def _save_history(run_value: Optional[str], history: List[Dict[str, Any]]) -> None:
+    hf = _history_file(run_value)
+    if not hf:
+        return
+    try:
+        hf.write_text(json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8")
+    except Exception:
+        pass
+
+
 def _load_run_store_for_value(value: Optional[str]) -> Dict[str, Any]:
     if not value:
         return {"run_dir": None, "payloads": [], "metadata": {}}
@@ -664,7 +693,7 @@ def _indicator_card(label: str, block: Dict[str, Any]) -> dbc.Col:
     ratio_rows = [
         _level_row("Associate Prof.",  block.get("ii_fascia")   or {}),
         _level_row("Full Prof.",       block.get("i_fascia")    or {}),
-        _level_row("Commissioner",     block.get("commissario") or {}),
+        _level_row("Evaluator",     block.get("commissario") or {}),
     ]
 
     return dbc.Col(
@@ -727,7 +756,7 @@ def _member_detail_component(payload: Dict[str, Any]) -> html.Div:
                         dbc.Badge("0.0 below Associate Prof.", color="danger",    className="me-1 mt-2"),
                         dbc.Badge("0.4 Associate Prof.",      color="warning",   className="me-1 mt-2"),
                         dbc.Badge("0.8 Full Prof.",           color="primary",   className="me-1 mt-2"),
-                        dbc.Badge("1.2 Commissioner",         color="success",   className="me-1 mt-2"),
+                        dbc.Badge("1.2 Evaluator",         color="success",   className="me-1 mt-2"),
                         html.Span(" · ratio: ", className="text-muted small ms-1 me-1"),
                         html.Span("≥ 1.0", className="text-success small fw-semibold me-1"),
                         html.Span("threshold met,", className="text-muted small me-1"),
@@ -778,13 +807,89 @@ app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.title = "DEEP"
 app._favicon = "logo.png"
 
+# ---------------------------------------------------------------------------
+# Authentication – Flask-session-based login
+# ---------------------------------------------------------------------------
+_server = app.server
+_server.secret_key = os.getenv("APP_SECRET_KEY", "dev-secret-key")
+_APP_USERNAME = os.getenv("APP_USERNAME", "admin")
+_APP_PASSWORD = os.getenv("APP_PASSWORD", "deep2024")
+
+_LOGIN_HTML = """<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DEEP – Login</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {{ background: #f0f2f5; }}
+    .card {{ border: none; border-radius: 12px; }}
+  </style>
+</head>
+<body>
+<div class="d-flex justify-content-center align-items-center" style="min-height:100vh">
+  <div class="card shadow-sm p-4" style="width:360px">
+    <div class="text-center mb-4">
+      <h4 class="fw-bold text-primary mb-0">DEEP</h4>
+      <small class="text-muted">DITEN Evaluation and Evidence Platform</small>
+    </div>
+    {error}
+    <form method="post" action="/login">
+      <div class="mb-3">
+        <label class="form-label small fw-semibold">Username</label>
+        <input type="text" name="username" class="form-control" autofocus required>
+      </div>
+      <div class="mb-3">
+        <label class="form-label small fw-semibold">Password</label>
+        <input type="password" name="password" class="form-control" required>
+      </div>
+      <button type="submit" class="btn btn-primary w-100">Sign in</button>
+    </form>
+  </div>
+</div>
+</body>
+</html>"""
+
+_LOGIN_ERROR = '<div class="alert alert-danger py-2 small">Invalid username or password.</div>'
+
+from flask import request as _freq, session as _fsession, redirect as _fredirect
+
+
+@_server.route("/login", methods=["GET", "POST"])
+def _login():
+    if _freq.method == "POST":
+        if (
+            _freq.form.get("username") == _APP_USERNAME
+            and _freq.form.get("password") == _APP_PASSWORD
+        ):
+            _fsession["authenticated"] = True
+            return _fredirect(_freq.args.get("next") or "/")
+        return _LOGIN_HTML.format(error=_LOGIN_ERROR), 401
+    return _LOGIN_HTML.format(error=""), 200
+
+
+@_server.route("/logout")
+def _logout():
+    _fsession.clear()
+    return _fredirect("/login")
+
+
+@_server.before_request
+def _require_login():
+    public = {"/login", "/logout"}
+    if _freq.path in public or _freq.path.startswith("/_dash") or _freq.path.startswith("/assets"):
+        return None
+    if not _fsession.get("authenticated"):
+        return _fredirect(f"/login?next={_freq.path}")
+
 
 def _build_import_tab() -> dbc.Container:
     left_panel = dbc.Card(
         dbc.CardBody(
             [
-                # ── Input Selection ──────────────────────────────────────
-                html.H5("Input Selection", className="mb-2"),
+                # ── Member list ──────────────────────────────────────────
+                html.H5("Member list", className="mb-2"),
                 dbc.Row(
                     [
                         dbc.Col(
@@ -820,8 +925,8 @@ def _build_import_tab() -> dbc.Container:
                     className="g-2 align-items-center",
                 ),
                 html.Hr(className="my-3"),
-                # ── Import Settings ──────────────────────────────────────
-                html.H5("Import Settings", className="mb-2"),
+                # ── Settings ─────────────────────────────────────────────
+                html.H5("Settings", className="mb-2"),
                 dbc.Row(
                     [
                         dbc.Col(dbc.Label("Time windows", className="mb-0"), width="auto", className="align-self-center"),
@@ -894,7 +999,7 @@ def _build_import_tab() -> dbc.Container:
     preview_panel = dbc.Card(
         dbc.CardBody(
             [
-                html.H5("Input Preview", className="mb-2"),
+                html.H5("Preview", className="mb-2"),
                 dbc.Alert("", id="input-preview-message", color="light", className="mb-2 py-1 small"),
                 dash_table.DataTable(
                     id="input-preview-table",
@@ -1021,17 +1126,20 @@ def _member_table_card() -> dbc.Card:
                     className="mb-2",
                     debounce=False,
                 ),
-                dash_table.DataTable(
+                html.Div(
+                  dash_table.DataTable(
                     id="member-table",
+
                     columns=[
                         {"name": "",        "id": "inspect"},
                         {"name": "Surname", "id": "surname"},
                         {"name": "Name",    "id": "name"},
                         {"name": "SSD",     "id": "ssd"},
+                        {"name": "_payload_idx", "id": "_payload_idx", "hidden": True},
                     ],
                     data=[],
                     style_as_list_view=True,
-                    style_table={"overflowX": "auto"},
+                    style_table={"overflowX": "auto", "minWidth": "100%"},
                     style_header={
                         "backgroundColor": "#f8f9fa",
                         "fontWeight": "600",
@@ -1062,10 +1170,12 @@ def _member_table_card() -> dbc.Card:
                     cell_selectable=True,
                     tooltip_data=[],
                     tooltip_duration=None,
+                  ),
+                  style={"maxHeight": "930px", "overflowY": "auto", "overflowX": "hidden"},
                 ),
-            ]
+            ],
         ),
-        className="shadow-sm h-100",
+        className="shadow-sm",
     )
 
 
@@ -1175,13 +1285,48 @@ def _ensure_ollama() -> Optional[str]:
     )
 
 
+def _data_selector_card(
+    dropdown_id: str,
+    options: List[Dict[str, str]],
+    include_all: bool = False,
+) -> dbc.Card:
+    all_options = ([{"label": "All runs", "value": "__all__"}] if include_all else []) + options
+    default = "__all__" if include_all else (options[0]["value"] if options else None)
+    return dbc.Card(
+        dbc.CardBody(
+            dbc.Row(
+                [
+                    dbc.Col(
+                        html.H5("Select data", className="mb-0"),
+                        width="auto",
+                        className="align-self-center",
+                    ),
+                    dbc.Col(
+                        dcc.Dropdown(
+                            id=dropdown_id,
+                            options=all_options,
+                            value=default,
+                            placeholder="Select a run",
+                            clearable=False,
+                        ),
+                    ),
+                ],
+                align="center",
+                className="g-2",
+            ),
+            className="py-2",
+        ),
+        className="shadow-sm mb-0",
+    )
+
+
 def _build_analysing_tab() -> dbc.Container:
     controls_card = dbc.Card(
         dbc.CardBody(
             [
                 dbc.Row(
                     [
-                        dbc.Col(html.H5("Ask a question about your data", className="mb-0"), className="align-self-center"),
+                        dbc.Col(html.H5("Ask a question", className="mb-0"), className="align-self-center"),
                         dbc.Col(
                             html.Span(
                                 f"Model: {_DEFAULT_OLLAMA_MODEL}",
@@ -1236,7 +1381,7 @@ def _build_analysing_tab() -> dbc.Container:
             [
                 dbc.Row(
                     [
-                        dbc.Col(html.H6("Results", className="mb-0"), className="align-self-center"),
+                        dbc.Col(html.H5("Results", className="mb-0"), className="align-self-center"),
                         dbc.Col(
                             dbc.Button("Download Excel", id="analysis-download-btn",
                                        color="success", size="sm", disabled=True),
@@ -1267,7 +1412,7 @@ def _build_analysing_tab() -> dbc.Container:
             [
                 dbc.Row(
                     [
-                        dbc.Col(html.H6("History", className="mb-0"), className="align-self-center"),
+                        dbc.Col(html.H5("History", className="mb-0"), className="align-self-center"),
                         dbc.Col(
                             dbc.Button("Clear", id="analysis-clear-history-btn",
                                        color="danger", outline=True, size="sm"),
@@ -1276,16 +1421,21 @@ def _build_analysing_tab() -> dbc.Container:
                     ],
                     className="g-2 mb-2 align-items-center",
                 ),
-                html.Div(id="analysis-history-panel", className="text-muted small",
+                html.Div(id="analysis-history-panel", className="text-muted",
                          children="No questions asked yet."),
             ]
         ),
         className="shadow-sm mt-3",
     )
 
+    _run_opts = _run_dropdown_options()
     return dbc.Container(
         [
-            dbc.Row(dbc.Col(controls_card,  md=12), className="g-0 pt-3 pb-2"),
+            dbc.Row(
+                dbc.Col(_data_selector_card("analysing-run-dropdown", _run_opts, include_all=True), md=12),
+                className="g-0 pt-3 pb-2",
+            ),
+            dbc.Row(dbc.Col(controls_card,  md=12), className="g-0 pb-2"),
             dbc.Row(dbc.Col(result_card,    md=12), className="g-0"),
             dbc.Row(dbc.Col(history_card,   md=12), className="g-0"),
         ],
@@ -1296,13 +1446,18 @@ def _build_analysing_tab() -> dbc.Container:
 
 
 def _build_summary_tab() -> dbc.Container:
+    _run_opts = _run_dropdown_options()
     return dbc.Container(
         [
+            dbc.Row(
+                dbc.Col(_data_selector_card("summary-run-dropdown", _run_opts), md=12),
+                className="g-0 pt-3 pb-2",
+            ),
             dbc.Row(dbc.Col(dbc.Card(
                 dbc.CardBody(html.Div(id="summary-content", className="text-muted",
-                                     children="Select a run in the Exploring tab to see the department summary.")),
+                                     children="Select a run above to see the department summary.")),
                 className="shadow-sm",
-            ), md=12), className="g-0 pt-3"),
+            ), md=12), className="g-0"),
         ],
         fluid=True,
         className="px-3 pb-3",
@@ -1334,6 +1489,8 @@ def _build_comparison_card() -> dbc.Card:
                     className="g-2 align-items-center",
                 ),
                 html.Div(id="comparison-result", className="mt-3"),
+                dbc.Button("Export Excel", id="comparison-export-btn", color="success",
+                           size="sm", className="mt-2", disabled=True),
             ]
         ),
         className="shadow-sm mt-3",
@@ -1350,6 +1507,11 @@ header = html.Div(
                     html.Div("DITEN Evaluation and Evidence Platform", className="text-muted", style={"fontSize": "1.125rem"}),
                 ],
                 width="auto",
+            ),
+            dbc.Col(
+                html.A("Logout", href="/logout", className="btn btn-outline-secondary btn-sm"),
+                width="auto",
+                className="ms-auto",
             ),
         ],
         align="center",
@@ -1380,6 +1542,10 @@ app.layout = dbc.Container(
         dcc.Store(id="selected-member-idx", data=None),
         dcc.Store(id="analysis-history", data=[]),
         dcc.Store(id="analysis-result-store", data=None),
+        dcc.Store(id="ssd-export-store", data=None),
+        dcc.Store(id="comparison-export-store", data=None),
+        dcc.Download(id="ssd-export-download"),
+        dcc.Download(id="comparison-export-download"),
         dcc.Interval(id="import-poll-interval", interval=2_000, disabled=True),
     ],
     fluid=True,
@@ -1489,6 +1655,8 @@ def manage_input_files(
     Output("run-dropdown", "options"),
     Output("run-dropdown", "value"),
     Output("run-action-message", "children"),
+    Output("analysing-run-dropdown", "options"),
+    Output("summary-run-dropdown", "options"),
     Input("start-import", "n_clicks"),
     Input("stop-import", "n_clicks"),
     Input("import-poll-interval", "n_intervals"),
@@ -1535,6 +1703,7 @@ def handle_run_actions(
                 dropdown_options,
                 dropdown_value,
                 DEFAULT_RUN_MESSAGE if action_message is no_update else action_message,
+                no_update, no_update,
             )
         if not selected_input_file:
             return (
@@ -1548,6 +1717,7 @@ def handle_run_actions(
                 dropdown_options,
                 dropdown_value,
                 DEFAULT_RUN_MESSAGE if action_message is no_update else action_message,
+                no_update, no_update,
             )
 
         fetch_scopus = "scopus" in (fetch_options or [])
@@ -1576,6 +1746,7 @@ def handle_run_actions(
                 dropdown_options,
                 dropdown_value,
                 DEFAULT_RUN_MESSAGE if action_message is no_update else action_message,
+                no_update, no_update,
             )
 
     if triggered == "run-dropdown":
@@ -1620,6 +1791,13 @@ def handle_run_actions(
         else (DEFAULT_RUN_MESSAGE if dropdown_value in (None, no_update) else no_update)
     )
 
+    if dropdown_options is no_update:
+        analysing_opts = no_update
+        summary_opts   = no_update
+    else:
+        analysing_opts = [{"label": "All runs", "value": "__all__"}] + dropdown_options
+        summary_opts   = dropdown_options
+
     return (
         _format_import_status(state),
         "\n".join(state.get("logs") or []),
@@ -1631,6 +1809,8 @@ def handle_run_actions(
         dropdown_options,
         dropdown_value,
         final_message,
+        analysing_opts,
+        summary_opts,
     )
 
 
@@ -1646,18 +1826,20 @@ def update_run_view(run_store: Dict[str, Any], search: Optional[str]):
     payloads = run_data.get("payloads") or []
     q = (search or "").strip().lower()
     rows: List[Dict[str, Any]] = []
-    for payload in payloads:
+    for i, payload in enumerate(payloads):
         surname = payload.get("surname", "")
         name    = payload.get("name", "")
-        ssd     = payload.get("ssd", "")
-        if q and not any(q in s.lower() for s in [surname, name, ssd]):
+        ssd      = payload.get("ssd", "")
+        ssd_name = payload.get("ssd_name", "")
+        if q and not any(q in s.lower() for s in [surname, name, ssd, ssd_name]):
             continue
         rows.append({
-            "inspect": "🔍",
-            "surname": surname,
-            "name":    name,
-            "ssd":     ssd,
-            "role":    payload.get("grade") or payload.get("role", ""),
+            "inspect":       "🔍",
+            "surname":       surname,
+            "name":          name,
+            "ssd":           f"{ssd} {ssd_name}".strip() if ssd_name else ssd,
+            "role":          payload.get("grade") or payload.get("role", ""),
+            "_payload_idx":  i,
         })
     metadata = run_data.get("metadata") or {}
     input_file = metadata.get("input_file", "")
@@ -1704,19 +1886,27 @@ def trigger_summary_download(n_clicks: int, run_store: Dict[str, Any]):
     Output("member-pdf-btn", "disabled"),
     Input("member-table", "active_cell"),
     State("run-store", "data"),
+    State("member-table", "data"),
     prevent_initial_call=True,
 )
-def show_member_detail(active_cell: Optional[Dict[str, Any]], run_store: Dict[str, Any]):
+def show_member_detail(
+    active_cell: Optional[Dict[str, Any]],
+    run_store: Dict[str, Any],
+    table_data: Optional[List[Dict[str, Any]]],
+):
     if not active_cell or active_cell.get("column_id") != "inspect":
         return dash.no_update, dash.no_update, dash.no_update, dash.no_update
     payloads = (run_store or {}).get("payloads") or []
-    row_index = active_cell.get("row")
-    if row_index is None or row_index < 0 or row_index >= len(payloads):
+    table_row = active_cell.get("row")
+    if table_row is None or not table_data or table_row >= len(table_data):
+        return dash.no_update, dash.no_update, dash.no_update, dash.no_update
+    payload_idx = table_data[table_row].get("_payload_idx", table_row)
+    if payload_idx < 0 or payload_idx >= len(payloads):
         return dash.no_update, dash.no_update, dash.no_update, dash.no_update
     return (
-        _member_detail_component(payloads[row_index]),
-        _table_style_with_row(row_index),
-        row_index,
+        _member_detail_component(payloads[payload_idx]),
+        _table_style_with_row(table_row),
+        payload_idx,
         False,
     )
 
@@ -1756,7 +1946,7 @@ def _make_result_table(result_df) -> dash_table.DataTable:
 
 def _history_panel(history: List[Dict[str, Any]]) -> html.Div:
     if not history:
-        return html.Div("No questions asked yet.", className="text-muted small")
+        return html.Div("No questions asked yet.", className="text-muted")
     items = []
     for entry in reversed(history):
         ts    = entry.get("timestamp", "")
@@ -1772,14 +1962,16 @@ def _history_panel(history: List[Dict[str, Any]]) -> html.Div:
                                       "padding": "8px", "borderRadius": "4px", "overflowX": "auto", "marginTop": "4px"}),
             ]
         )
-        result_block = []
-        if result_json:
-            try:
-                import pandas as _pd
-                rdf = _pd.read_json(result_json, orient="records")
-                result_block = [_make_result_table(rdf)]
-            except Exception:
-                pass
+        result_block = html.Details(
+            [
+                html.Summary("Results", style={"cursor": "pointer", "color": "#6c757d", "fontSize": "0.8rem"}),
+                html.Div(
+                    _make_result_table(__import__("pandas").read_json(result_json, orient="records"))
+                    if result_json else html.Span("—", className="text-muted"),
+                    style={"marginTop": "4px"},
+                ),
+            ]
+        ) if result_json else html.Div()
 
         items.append(html.Div(
             [
@@ -1790,7 +1982,7 @@ def _history_panel(history: List[Dict[str, Any]]) -> html.Div:
                 ),
                 html.Div(f"{n} row(s)", className="text-muted", style={"fontSize": "0.75rem"}),
                 code_block,
-                *result_block,
+                result_block,
             ],
             style={"borderLeft": "3px solid #dee2e6", "paddingLeft": "10px", "marginBottom": "16px"},
         ))
@@ -1806,6 +1998,7 @@ def _history_panel(history: List[Dict[str, Any]]) -> html.Div:
     Input("analysis-ask-btn", "n_clicks"),
     State("analysis-question", "value"),
     State("analysis-model", "value"),
+    State("analysing-run-dropdown", "value"),
     State("analysis-history", "data"),
     prevent_initial_call=True,
 )
@@ -1813,6 +2006,7 @@ def run_analysis(
     n_clicks: Optional[int],
     question: Optional[str],
     model: Optional[str],
+    run_value: Optional[str],
     history: Optional[List],
 ):
     _no = dash.no_update
@@ -1830,7 +2024,23 @@ def run_analysis(
         return dbc.Alert(f"⚠️ {ollama_err}", color="danger"), "Ollama unavailable.", _no, _no, True
 
     try:
-        df, records = load_all_runs(SETTINGS.data_dir)
+        if not run_value or run_value == "__all__":
+            df, records = load_all_runs(SETTINGS.data_dir)
+            scope_label = "all runs"
+        else:
+            run_store = _load_run_store_for_value(run_value)
+            payloads  = run_store.get("payloads") or []
+            run_name  = Path(run_value).name
+            parts     = run_name.split("_")
+            run_label = (
+                f"{parts[0]}/{parts[1]}/{parts[2]} #{parts[3]}"
+                if len(parts) == 4 else run_name
+            )
+            date_str  = "_".join(parts[:3]) if len(parts) >= 3 else ""
+            run_index = int(parts[3]) if len(parts) == 4 else 0
+            df, records = df_from_payloads(payloads, run_label=run_label,
+                                           run_date=date_str, run_index=run_index)
+            scope_label = f"run {run_label}"
     except Exception as exc:
         return dbc.Alert(f"Failed to load run data: {exc}", color="danger"), "Error loading data.", _no, _no, True
 
@@ -1849,7 +2059,7 @@ def run_analysis(
         return dbc.Alert(str(exc), color="danger"), "LLM query failed.", _no, _no, True
 
     if result_df.empty:
-        return dbc.Alert("The query returned no rows.", color="warning"), f"0 rows — model: {model}", _no, _no, True
+        return dbc.Alert("The query returned no rows.", color="warning"), f"0 rows — {scope_label} — model: {model}", _no, _no, True
 
     table = _make_result_table(result_df)
     code_block = html.Details(
@@ -1863,18 +2073,20 @@ def run_analysis(
 
     result_json = result_df.to_json(orient="records")
     from datetime import datetime as _dt
-    ts = _dt.now().strftime("%H:%M:%S")
+    ts = _dt.now().strftime("%Y-%m-%d %H:%M:%S")
     new_entry = {"timestamp": ts, "question": question, "code": code,
                  "n_rows": len(result_df), "result_json": result_json}
-    updated_history = list(history or []) + [new_entry]
-    if len(updated_history) > 10:
-        updated_history = updated_history[-10:]
+    # Merge in-memory history with whatever is on disk (handles page-refresh gaps)
+    disk_history = _load_history(run_value)
+    base = history if history is not None else disk_history
+    updated_history = list(base) + [new_entry]
+    _save_history(run_value, updated_history)
 
     result_store = {"result_json": result_json, "filename": "analysis_result.xlsx"}
 
     return (
         html.Div([code_block, table]),
-        f"{len(result_df)} row(s) — model: {model}",
+        f"{len(result_df)} row(s) — {scope_label} — model: {model}",
         updated_history,
         result_store,
         False,
@@ -1912,6 +2124,15 @@ def download_member_pdf(
 
 
 @app.callback(
+    Output("analysis-history", "data", allow_duplicate=True),
+    Input("analysing-run-dropdown", "value"),
+    prevent_initial_call="initial_duplicate",
+)
+def load_history_for_run(run_value: Optional[str]):
+    return _load_history(run_value)
+
+
+@app.callback(
     Output("analysis-history-panel", "children"),
     Input("analysis-history", "data"),
 )
@@ -1922,11 +2143,18 @@ def update_history_panel(history: Optional[List]):
 @app.callback(
     Output("analysis-history", "data", allow_duplicate=True),
     Input("analysis-clear-history-btn", "n_clicks"),
+    State("analysing-run-dropdown", "value"),
     prevent_initial_call=True,
 )
-def clear_history(n_clicks: Optional[int]):
+def clear_history(n_clicks: Optional[int], run_value: Optional[str]):
     if not n_clicks:
         return dash.no_update
+    hf = _history_file(run_value)
+    if hf and hf.exists():
+        try:
+            hf.unlink()
+        except Exception:
+            pass
     return []
 
 
@@ -1947,80 +2175,258 @@ def download_analysis(n_clicks: Optional[int], result_store: Optional[Dict[str, 
     return dcc.send_data_frame(result_df.to_excel, "analysis_result.xlsx", index=False)
 
 
+def _summary_score_badge(val: Optional[float]) -> html.Span:
+    if val is None:
+        return html.Span("—", className="text-muted")
+    if val >= 1.2:  color = "success"
+    elif val >= 0.8: color = "primary"
+    elif val >= 0.4: color = "warning"
+    else:            color = "danger"
+    return dbc.Badge(f"{val:.2f}", color=color, className="me-1")
+
+
+def _metrics_from_payload(p: Dict[str, Any]) -> Dict[str, Optional[float]]:
+    """Extract flat numeric metrics from one payload."""
+    mbs: Dict[str, Dict[str, Any]] = {}
+    for m in p.get("scopus_metrics") or []:
+        period = (m.get("period") or "").strip()
+        for prefix, sfx in [("05 years", "5y"), ("10 years", "10y"), ("15 years", "15y")]:
+            if period.startswith(prefix):
+                mbs[sfx] = m
+        if period.lower() == "absolute":
+            mbs["abs"] = m
+
+    def _m(sfx: str, key: str) -> Optional[float]:
+        v = mbs.get(sfx, {}).get(key)
+        return float(v) if v is not None else None
+
+    live_scores = compute_scores(p.get("ssd"), p.get("scopus_metrics") or [], _THRESHOLDS)
+    def _s(ind: str) -> Optional[float]:
+        v = (live_scores.get(ind) or {}).get("score")
+        return float(v) if v is not None else None
+
+    return {
+        "h_5y":   _m("5y",  "hindex"),  "h_10y":  _m("10y", "hindex"),
+        "h_15y":  _m("15y", "hindex"),  "h_abs":  _m("abs", "hindex"),
+        "c_5y":   _m("5y",  "citations"), "c_10y": _m("10y", "citations"),
+        "c_15y":  _m("15y", "citations"), "c_abs": _m("abs", "citations"),
+        "p_5y":   _m("5y",  "total_products"), "p_10y": _m("10y", "total_products"),
+        "p_15y":  _m("15y", "total_products"), "p_abs": _m("abs", "total_products"),
+        "s_art":  _s("articles"),
+        "s_cit":  _s("citations"),
+        "s_h":    _s("hindex"),
+    }
+
+
+def _avgs(rows: List[Dict[str, Optional[float]]], key: str) -> Optional[float]:
+    vals = [r[key] for r in rows if r.get(key) is not None]
+    return sum(vals) / len(vals) if vals else None
+
+
+def _fmt(v: Optional[float], decimals: int = 1) -> str:
+    return f"{v:.{decimals}f}" if v is not None else "—"
+
+
+def _dept_metrics_table(rows: List[Dict[str, Optional[float]]]) -> html.Table:
+    _TH = {"backgroundColor": "#f8f9fa", "fontWeight": "600", "fontSize": 12,
+           "color": "#495057", "padding": "6px 10px", "borderBottom": "2px solid #dee2e6",
+           "textAlign": "center", "whiteSpace": "nowrap"}
+    _TD = {"padding": "6px 10px", "fontSize": 13, "borderBottom": "1px solid #f0f0f0",
+           "textAlign": "center", "color": "#212529"}
+    _TDL = {**_TD, "textAlign": "left", "fontWeight": "600", "color": "#495057"}
+
+    def _score_cell(key: str) -> html.Td:
+        return html.Td(_summary_score_badge(_avgs(rows, key)), style=_TD)
+
+    def _num_cell(key: str, dec: int = 1) -> html.Td:
+        return html.Td(_fmt(_avgs(rows, key), dec), style=_TD)
+
+    header = html.Thead(html.Tr([
+        html.Th("", style=_TH),
+        html.Th("5y",  style=_TH), html.Th("10y", style=_TH),
+        html.Th("15y", style=_TH), html.Th("Abs", style=_TH),
+        html.Th("Score", style={**_TH, "borderLeft": "2px solid #dee2e6"}),
+    ]))
+    body = html.Tbody([
+        html.Tr([
+            html.Td("H-index",   style=_TDL),
+            _num_cell("h_5y", 1), _num_cell("h_10y", 1),
+            _num_cell("h_15y", 1), _num_cell("h_abs", 1),
+            html.Td(_summary_score_badge(_avgs(rows, "s_h")),
+                    style={**_TD, "borderLeft": "2px solid #dee2e6"}),
+        ], style={"backgroundColor": "#fafafa"}),
+        html.Tr([
+            html.Td("Citations", style=_TDL),
+            _num_cell("c_5y", 0), _num_cell("c_10y", 0),
+            _num_cell("c_15y", 0), _num_cell("c_abs", 0),
+            html.Td(_summary_score_badge(_avgs(rows, "s_cit")),
+                    style={**_TD, "borderLeft": "2px solid #dee2e6"}),
+        ]),
+        html.Tr([
+            html.Td("Products",  style=_TDL),
+            _num_cell("p_5y", 1), _num_cell("p_10y", 1),
+            _num_cell("p_15y", 1), _num_cell("p_abs", 1),
+            html.Td(_summary_score_badge(_avgs(rows, "s_art")),
+                    style={**_TD, "borderLeft": "2px solid #dee2e6"}),
+        ], style={"backgroundColor": "#fafafa"}),
+    ])
+    return html.Table([header, body], className="w-100",
+                      style={"borderCollapse": "collapse", "fontSize": 13})
+
+
+def _ssd_breakdown_table(ssd_metrics: Dict[str, List[Dict]]) -> html.Table:
+    _TH = {"backgroundColor": "#f8f9fa", "fontWeight": "600", "fontSize": 11,
+           "color": "#495057", "padding": "5px 8px", "borderBottom": "2px solid #dee2e6",
+           "textAlign": "center", "whiteSpace": "nowrap"}
+    _TD = {"padding": "5px 8px", "fontSize": 12, "borderBottom": "1px solid #f0f0f0",
+           "textAlign": "center", "color": "#212529"}
+    _TDL = {**_TD, "textAlign": "left", "fontWeight": "600", "color": "#495057",
+            "maxWidth": "140px", "overflow": "hidden", "textOverflow": "ellipsis",
+            "whiteSpace": "nowrap"}
+
+    header = html.Thead(html.Tr([
+        html.Th("SSD",        style={**_TH, "textAlign": "left"}),
+        html.Th("N",          style=_TH),
+        html.Th("H 5y",       style=_TH), html.Th("H 10y",   style=_TH), html.Th("H 15y",   style=_TH),
+        html.Th("Cit 5y",     style=_TH), html.Th("Cit 10y", style=_TH), html.Th("Cit 15y", style=_TH),
+        html.Th("Prod 5y",    style=_TH), html.Th("Prod 10y",style=_TH), html.Th("Prod 15y",style=_TH),
+        html.Th("Sc. Art.",   style={**_TH, "borderLeft": "2px solid #dee2e6"}),
+        html.Th("Sc. Cit.",   style=_TH),
+        html.Th("Sc. H",      style=_TH),
+    ]))
+
+    def _score_avg(rows: List[Dict]) -> float:
+        vals = [v for k in ("s_art", "s_cit", "s_h") for v in [_avgs(rows, k)] if v is not None]
+        return sum(vals) / len(vals) if vals else -1.0
+
+    body_rows = []
+    for i, (ssd, rows) in enumerate(
+        sorted(ssd_metrics.items(), key=lambda x: -_score_avg(x[1]))
+    ):
+        bg = "#fafafa" if i % 2 == 0 else "#ffffff"
+        body_rows.append(html.Tr([
+            html.Td(ssd,       style={**_TDL, "backgroundColor": bg}),
+            html.Td(len(rows), style={**_TD,  "backgroundColor": bg, "fontWeight": "600"}),
+            html.Td(_fmt(_avgs(rows, "h_5y"),   1), style={**_TD, "backgroundColor": bg}),
+            html.Td(_fmt(_avgs(rows, "h_10y"),  1), style={**_TD, "backgroundColor": bg}),
+            html.Td(_fmt(_avgs(rows, "h_15y"),  1), style={**_TD, "backgroundColor": bg}),
+            html.Td(_fmt(_avgs(rows, "c_5y"),   0), style={**_TD, "backgroundColor": bg}),
+            html.Td(_fmt(_avgs(rows, "c_10y"),  0), style={**_TD, "backgroundColor": bg}),
+            html.Td(_fmt(_avgs(rows, "c_15y"),  0), style={**_TD, "backgroundColor": bg}),
+            html.Td(_fmt(_avgs(rows, "p_5y"),   1), style={**_TD, "backgroundColor": bg}),
+            html.Td(_fmt(_avgs(rows, "p_10y"),  1), style={**_TD, "backgroundColor": bg}),
+            html.Td(_fmt(_avgs(rows, "p_15y"),  1), style={**_TD, "backgroundColor": bg}),
+            html.Td(_summary_score_badge(_avgs(rows, "s_art")),
+                    style={**_TD, "backgroundColor": bg, "borderLeft": "2px solid #dee2e6"}),
+            html.Td(_summary_score_badge(_avgs(rows, "s_cit")),
+                    style={**_TD, "backgroundColor": bg}),
+            html.Td(_summary_score_badge(_avgs(rows, "s_h")),
+                    style={**_TD, "backgroundColor": bg}),
+        ]))
+
+    return html.Table([header, html.Tbody(body_rows)], className="w-100",
+                      style={"borderCollapse": "collapse", "fontSize": 12})
+
+
+def _build_ssd_export_data(ssd_metrics: Dict[str, List[Dict]]) -> Optional[str]:
+    """Serialise the SSD breakdown as a JSON string for the export store."""
+    def _score_avg(rows):
+        vals = [v for k in ("s_art", "s_cit", "s_h") for v in [_avgs(rows, k)] if v is not None]
+        return round(sum(vals) / len(vals), 3) if vals else None
+
+    records = []
+    for ssd, rows in sorted(ssd_metrics.items(), key=lambda x: -(_score_avg(x[1]) or -1)):
+        records.append({
+            "SSD": ssd,
+            "N": len(rows),
+            "H 5y":    _avgs(rows, "h_5y"),
+            "H 10y":   _avgs(rows, "h_10y"),
+            "H 15y":   _avgs(rows, "h_15y"),
+            "Cit 5y":  _avgs(rows, "c_5y"),
+            "Cit 10y": _avgs(rows, "c_10y"),
+            "Cit 15y": _avgs(rows, "c_15y"),
+            "Prod 5y":  _avgs(rows, "p_5y"),
+            "Prod 10y": _avgs(rows, "p_10y"),
+            "Prod 15y": _avgs(rows, "p_15y"),
+            "Score articles":  _avgs(rows, "s_art"),
+            "Score citations": _avgs(rows, "s_cit"),
+            "Score h-index":   _avgs(rows, "s_h"),
+        })
+    return json.dumps(records)
+
+
 @app.callback(
     Output("summary-content", "children"),
-    Input("run-store", "data"),
+    Output("ssd-export-store", "data"),
+    Input("summary-run-dropdown", "value"),
 )
-def update_summary(run_store: Dict[str, Any]):
-    run_data = run_store or {}
+def update_summary(selected_run: Optional[str]):
+    _no = dash.no_update
+    if not selected_run:
+        return html.Div("Select a run above to see the department summary.", className="text-muted"), _no
+    run_data = _load_run_store_for_value(selected_run)
     payloads = run_data.get("payloads") or []
     if not payloads:
-        return html.Div("No run selected. Choose a run in the Exploring tab.", className="text-muted")
+        return html.Div("No data found for the selected run.", className="text-muted"), _no
 
-    total = len(payloads)
-    grade_counts: Dict[str, int] = {}
-    ssd_counts:   Dict[str, int] = {}
-    h_vals, cit_vals, prod_vals = [], [], []
+    all_rows: List[Dict[str, Optional[float]]] = []
+    ssd_metrics: Dict[str, List[Dict]] = {}
 
     for p in payloads:
-        grade = p.get("grade") or p.get("role") or "Unknown"
-        grade_counts[grade] = grade_counts.get(grade, 0) + 1
-        ssd = p.get("ssd") or "Unknown"
-        ssd_counts[ssd] = ssd_counts.get(ssd, 0) + 1
-        for m in p.get("scopus_metrics") or []:
-            if (m.get("period") or "").startswith("05 years"):
-                if m.get("hindex")          is not None: h_vals.append(float(m["hindex"]))
-                if m.get("citations")       is not None: cit_vals.append(float(m["citations"]))
-                if m.get("total_products")  is not None: prod_vals.append(float(m["total_products"]))
+        m = _metrics_from_payload(p)
+        all_rows.append(m)
+        ssd      = p.get("ssd") or "Unknown"
+        ssd_name = p.get("ssd_name", "")
+        ssd_key  = f"{ssd} {ssd_name}".strip() if ssd_name else ssd
+        ssd_metrics.setdefault(ssd_key, []).append(m)
 
-    def _avg(lst): return f"{sum(lst)/len(lst):.1f}" if lst else "N/A"
-
-    # Grade distribution
-    grade_rows = [html.Tr([html.Td(g, className="pe-4"), html.Td(str(c), className="fw-semibold")],
-                          style={"borderBottom": "1px solid #f0f0f0"})
-                  for g, c in sorted(grade_counts.items(), key=lambda x: -x[1])]
-
-    # Top 10 SSDs
-    top_ssds = sorted(ssd_counts.items(), key=lambda x: -x[1])[:10]
-    ssd_rows = [html.Tr([html.Td(s, className="pe-4"), html.Td(str(c), className="fw-semibold")],
-                        style={"borderBottom": "1px solid #f0f0f0"})
-                for s, c in top_ssds]
-
-    metadata = run_data.get("metadata") or {}
-    run_dir = run_data.get("run_dir") or ""
+    total    = len(payloads)
+    n_ssds   = len(ssd_metrics)
+    run_dir  = run_data.get("run_dir") or ""
     run_name = Path(run_dir).name if run_dir else "—"
 
     return html.Div([
+        # ── KPI strip ────────────────────────────────────────────────────────
         dbc.Row([
             dbc.Col(dbc.Card(dbc.CardBody([
-                html.H6("Members",  className="text-muted mb-1"),
+                html.Div("Members", className="text-muted small mb-1"),
                 html.H3(total, className="mb-0"),
-            ]), className="text-center shadow-sm"), md=3),
+            ]), className="text-center shadow-sm"), md=2),
             dbc.Col(dbc.Card(dbc.CardBody([
-                html.H6("Avg H-index (5y)", className="text-muted mb-1"),
-                html.H3(_avg(h_vals), className="mb-0"),
-            ]), className="text-center shadow-sm"), md=3),
-            dbc.Col(dbc.Card(dbc.CardBody([
-                html.H6("Avg Citations (5y)", className="text-muted mb-1"),
-                html.H3(_avg(cit_vals), className="mb-0"),
-            ]), className="text-center shadow-sm"), md=3),
-            dbc.Col(dbc.Card(dbc.CardBody([
-                html.H6("Avg Products (5y)", className="text-muted mb-1"),
-                html.H3(_avg(prod_vals), className="mb-0"),
-            ]), className="text-center shadow-sm"), md=3),
+                html.Div("SSDs", className="text-muted small mb-1"),
+                html.H3(n_ssds, className="mb-0"),
+            ]), className="text-center shadow-sm"), md=2),
         ], className="g-3 mb-4"),
-        dbc.Row([
-            dbc.Col([
-                html.H6("Grade distribution", className="mb-2"),
-                html.Table(html.Tbody(grade_rows), className="w-100"),
-            ], md=4),
-            dbc.Col([
-                html.H6("Top SSDs", className="mb-2"),
-                html.Table(html.Tbody(ssd_rows), className="w-100"),
-            ], md=8),
-        ], className="g-3"),
-        html.Div(f"Run: {run_name}", className="text-muted small mt-3"),
-    ])
+
+        # ── Department averages ───────────────────────────────────────────────
+        dbc.Card(dbc.CardBody([
+            html.H5("Department averages", className="mb-3"),
+            html.P(
+                "Score column shows the average threshold score (D.M. 589/2018): "
+                "≥1.2 Evaluator · ≥0.8 Full Prof. · ≥0.4 Assoc. Prof.",
+                className="text-muted small mb-3",
+            ),
+            _dept_metrics_table(all_rows),
+        ]), className="shadow-sm mb-4"),
+
+        # ── By SSD ───────────────────────────────────────────────────────────
+        dbc.Card(dbc.CardBody([
+            dbc.Row([
+                dbc.Col(html.H5("SSD", className="mb-0"), className="align-self-center"),
+                dbc.Col(
+                    dbc.Button("Export Excel", id="ssd-export-btn", color="success",
+                               size="sm", disabled=False),
+                    width="auto",
+                ),
+            ], className="g-2 mb-3 align-items-center"),
+            html.Div(
+                _ssd_breakdown_table(ssd_metrics),
+                style={"overflowX": "auto"},
+            ),
+        ]), className="shadow-sm mb-3"),
+
+        html.Div(f"Run: {run_name}", className="text-muted small"),
+    ]), _build_ssd_export_data(ssd_metrics)
 
 
 @app.callback(
@@ -2037,57 +2443,184 @@ def populate_compare_dropdown(run_store: Dict[str, Any]):
 
 @app.callback(
     Output("comparison-result", "children"),
+    Output("comparison-export-store", "data"),
+    Output("comparison-export-btn", "disabled"),
     Input("compare-btn", "n_clicks"),
-    State("compare-members-dropdown", "value"),
+    Input("compare-members-dropdown", "value"),
     State("run-store", "data"),
     prevent_initial_call=True,
 )
 def compare_members(n_clicks: Optional[int], selected: Optional[List[int]], run_store: Dict[str, Any]):
-    if not n_clicks or not selected:
-        return dash.no_update
+    _no = dash.no_update
+    if not selected:
+        return html.Div(), None, True
     payloads = (run_store or {}).get("payloads") or []
     chosen = [payloads[i] for i in selected if 0 <= i < len(payloads)]
     if not chosen:
-        return html.Div("No members selected.", className="text-muted")
+        return html.Div("No members selected.", className="text-muted"), None, True
 
-    _METRIC_LABELS = [
-        ("H-index (5y)",   "scopus_metrics", "hindex",         "05 years"),
-        ("H-index (10y)",  "scopus_metrics", "hindex",         "10 years"),
-        ("Citations (5y)", "scopus_metrics", "citations",      "05 years"),
-        ("Products (5y)",  "scopus_metrics", "total_products", "05 years"),
-        ("Score articles",  "scores", "articles_score",  None),
-        ("Score citations", "scores", "citations_score", None),
-        ("Score h-index",   "scores", "hindex_score",    None),
+    live_scores_list = [
+        compute_scores(p.get("ssd"), p.get("scopus_metrics") or [], _THRESHOLDS)
+        for p in chosen
     ]
 
-    def _get_val(p, src, field, period_prefix):
-        if src == "scopus_metrics":
-            for m in p.get("scopus_metrics") or []:
-                if period_prefix and (m.get("period") or "").startswith(period_prefix):
-                    v = m.get(field)
-                    return str(v) if v is not None else "—"
-            return "—"
-        if src == "scores":
-            # field is e.g. "articles_score" → scores.articles.score
-            indicator = field.replace("_score", "")
-            v = ((p.get("scores") or {}).get(indicator) or {}).get("score")
-            return str(v) if v is not None else "—"
+    _TH  = {"padding": "6px 10px", "fontSize": 12, "fontWeight": "600",
+             "backgroundColor": "#f8f9fa", "color": "#495057",
+             "borderBottom": "2px solid #dee2e6", "whiteSpace": "nowrap"}
+    _TD  = {"padding": "5px 10px", "fontSize": 12, "borderBottom": "1px solid #f0f0f0",
+             "textAlign": "center", "color": "#212529"}
+    _TDL = {**_TD, "textAlign": "left", "color": "#6c757d", "fontWeight": "600"}
+    _TDG = {**_TDL, "backgroundColor": "#f8f9fa", "fontSize": 11,
+             "color": "#0d6efd", "paddingTop": "8px"}
+
+    def _metric_val(p, field, period_prefix):
+        for m in p.get("scopus_metrics") or []:
+            if (m.get("period") or "").startswith(period_prefix):
+                v = m.get(field)
+                return str(v) if v is not None else "—"
         return "—"
 
-    header_row = html.Tr([html.Th("Metric")] + [
-        html.Th(f"{p.get('surname','')} {p.get('name','')}") for p in chosen
-    ])
-    body_rows = []
-    for label, src, field, period_prefix in _METRIC_LABELS:
-        cells = [html.Td(label, className="fw-semibold pe-3 text-muted small")]
-        cells += [html.Td(_get_val(p, src, field, period_prefix), className="small") for p in chosen]
-        body_rows.append(html.Tr(cells, style={"borderBottom": "1px solid #f0f0f0"}))
+    def _score_badge(score):
+        if score is None:
+            return html.Span("—", className="text-muted")
+        if score >= 1.2:   color = "success"
+        elif score >= 0.8: color = "primary"
+        elif score >= 0.4: color = "warning"
+        else:              color = "danger"
+        return dbc.Badge(f"{score:.1f}", color=color)
 
-    return html.Table(
-        [html.Thead(header_row), html.Tbody(body_rows)],
-        className="w-100",
-        style={"fontSize": "0.85rem"},
+    def _ratio_cell(block, level_key):
+        lvl = (block or {}).get(level_key) or {}
+        v, t, r = lvl.get("value"), lvl.get("threshold"), lvl.get("ratio")
+        if v is None or t is None:
+            return html.Td("—", style=_TD)
+        text = f"{v}/{t}"
+        ratio_color = "#198754" if r and r >= 1 else "#dc3545"
+        ratio_span = html.Span(f" ={r:.2f}" if r is not None else "", style={"color": ratio_color, "fontWeight": "600"})
+        return html.Td([text, ratio_span], style=_TD)
+
+    def _group_header(label):
+        return html.Tr(
+            html.Td(label, colSpan=1 + len(chosen), style=_TDG)
+        )
+
+    def _simple_row(label, cells_content, bg=None):
+        style = {**_TDL, **({"backgroundColor": bg} if bg else {})}
+        return html.Tr(
+            [html.Td(label, style=style)] + cells_content,
+            style={"borderBottom": "1px solid #f0f0f0"},
+        )
+
+    headers = html.Tr(
+        [html.Th("", style=_TH)] +
+        [html.Th(f"{p.get('surname','')} {p.get('name','')}", style={**_TH, "textAlign": "center"})
+         for p in chosen]
     )
+
+    rows = []
+
+    # ── Bibliometric metrics ──────────────────────────────────────────────────
+    rows.append(_group_header("Bibliometric metrics"))
+    for label, field, period in [
+        ("H-index 5y",    "hindex",         "05 years"),
+        ("H-index 10y",   "hindex",         "10 years"),
+        ("H-index 15y",   "hindex",         "15 years"),
+        ("Citations 10y", "citations",      "10 years"),
+        ("Citations 15y", "citations",      "15 years"),
+        ("Products 5y",   "total_products", "05 years"),
+        ("Products 10y",  "total_products", "10 years"),
+    ]:
+        cells = [html.Td(_metric_val(p, field, period), style=_TD) for p in chosen]
+        rows.append(_simple_row(label, cells))
+
+    # ── Score + ratios per indicator ──────────────────────────────────────────
+    for ind_key, ind_label in [("articles", "Articles"), ("citations", "Citations"), ("hindex", "H-index")]:
+        rows.append(_group_header(f"Threshold scores — {ind_label}"))
+
+        # Score row
+        score_cells = [
+            html.Td(_score_badge((ls.get(ind_key) or {}).get("score")), style=_TD)
+            for ls in live_scores_list
+        ]
+        rows.append(_simple_row("Score", score_cells, bg="#fff8f0"))
+
+        # Ratio rows per level
+        for level_key, level_label in [
+            ("ii_fascia",    "Assoc. Prof."),
+            ("i_fascia",     "Full Prof."),
+            ("commissario",  "Evaluator"),
+        ]:
+            ratio_cells = [_ratio_cell(ls.get(ind_key), level_key) for ls in live_scores_list]
+            rows.append(_simple_row(level_label, ratio_cells))
+
+    # Build flat records for Excel export
+    export_records = []
+    for p, ls in zip(chosen, live_scores_list):
+        name = f"{p.get('surname','')} {p.get('name','')}".strip()
+        rec: Dict[str, Any] = {"Member": name, "SSD": p.get("ssd", "")}
+        for field, period in [
+            ("H-index 5y",    ("hindex",         "05 years")),
+            ("H-index 10y",   ("hindex",         "10 years")),
+            ("H-index 15y",   ("hindex",         "15 years")),
+            ("Citations 10y", ("citations",      "10 years")),
+            ("Citations 15y", ("citations",      "15 years")),
+            ("Products 5y",   ("total_products", "05 years")),
+            ("Products 10y",  ("total_products", "10 years")),
+        ]:
+            met, pfx = period
+            rec[field] = next(
+                (m.get(met) for m in (p.get("scopus_metrics") or [])
+                 if (m.get("period") or "").startswith(pfx)),
+                None,
+            )
+        for ind in ["articles", "citations", "hindex"]:
+            block = ls.get(ind) or {}
+            rec[f"Score {ind}"] = block.get("score")
+            for lk, ll in [("ii_fascia", "Assoc.Prof"), ("i_fascia", "Full Prof"), ("commissario", "Evaluator")]:
+                lvl = block.get(lk) or {}
+                rec[f"{ind.capitalize()} {ll} ratio"] = lvl.get("ratio")
+        export_records.append(rec)
+
+    return (
+        html.Div(
+            html.Table(
+                [html.Thead(headers), html.Tbody(rows)],
+                className="w-100",
+                style={"borderCollapse": "collapse", "fontSize": "0.85rem"},
+            ),
+            style={"overflowX": "auto"},
+        ),
+        json.dumps(export_records),
+        False,
+    )
+
+
+@app.callback(
+    Output("ssd-export-download", "data"),
+    Input("ssd-export-btn", "n_clicks"),
+    State("ssd-export-store", "data"),
+    prevent_initial_call=True,
+)
+def download_ssd_export(n_clicks: Optional[int], store_json: Optional[str]):
+    if not n_clicks or not store_json:
+        return dash.no_update
+    import pandas as _pd
+    df = _pd.DataFrame(json.loads(store_json))
+    return dcc.send_data_frame(df.to_excel, "ssd_summary.xlsx", index=False)
+
+
+@app.callback(
+    Output("comparison-export-download", "data"),
+    Input("comparison-export-btn", "n_clicks"),
+    State("comparison-export-store", "data"),
+    prevent_initial_call=True,
+)
+def download_comparison_export(n_clicks: Optional[int], store_json: Optional[str]):
+    if not n_clicks or not store_json:
+        return dash.no_update
+    import pandas as _pd
+    df = _pd.DataFrame(json.loads(store_json))
+    return dcc.send_data_frame(df.to_excel, "member_comparison.xlsx", index=False)
 
 
 def main() -> None:  # pragma: no cover - manual start

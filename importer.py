@@ -180,6 +180,7 @@ class Importer:
             "role": processed_unige.get("role"),
             "grade": processed_unige.get("grade") or member.grade,
             "ssd": processed_unige.get("ssd") or member.ssd,
+            "ssd_name": processed_unige.get("ssd_name"),
             "location": processed_unige.get("location"),
             "career": processed_unige.get("career"),
             "responsibilities": processed_unige.get("responsibilities"),
@@ -212,6 +213,7 @@ class Importer:
             "role": None,
             "grade": None,
             "ssd": None,
+            "ssd_name": None,
             "location": [],
             "career": [],
             "responsibilities": [],
@@ -230,14 +232,10 @@ class Importer:
         result["role"] = raw.get("ruolo")
         result["grade"] = raw.get("inquadramento")
 
-        codice_ssd = raw.get("codice_ssd")
-        ssd_descr = raw.get("ssd")
-        if codice_ssd and ssd_descr:
-            result["ssd"] = f"{codice_ssd} ({ssd_descr})"
-        elif codice_ssd:
-            result["ssd"] = codice_ssd
-        elif ssd_descr:
-            result["ssd"] = ssd_descr
+        codice_ssd = (raw.get("codice_ssd") or "").strip() or None
+        ssd_descr  = re.sub(r"^[\s\-(]+|[\s\-)]+$", "", raw.get("ssd") or "").strip() or None
+        result["ssd"]      = codice_ssd
+        result["ssd_name"] = ssd_descr
 
         result["location"] = self._process_locations(raw.get("localizzazione"))
         result["teaching"] = self._process_teaching(raw.get("Docenze"))

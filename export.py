@@ -38,14 +38,23 @@ def generate_member_pdf(payload: Dict[str, Any]) -> bytes:
 
     W  = 180   # usable width
     LM = 15    # left margin
+    pdf.set_left_margin(LM)
+    pdf.set_right_margin(LM)
 
     # ── Helpers ──────────────────────────────────────────────────────────────
 
-    def _safe(value: Any, max_len: int = 200) -> str:
+    _UNICODE_MAP = str.maketrans({
+        "\u2013": "-", "\u2014": "-", "\u2019": "'", "\u2018": "'",
+        "\u201c": '"', "\u201d": '"', "\u2022": "-", "\u2192": "->",
+        "\u00e0": "a", "\u00e8": "e", "\u00e9": "e", "\u00ec": "i",
+        "\u00f2": "o", "\u00f9": "u", "\u00c0": "A", "\u00c8": "E",
+        "\u00c9": "E", "\u00cc": "I", "\u00d2": "O", "\u00d9": "U",
+    })
+
+    def _safe(value: Any, max_len: int = 300) -> str:
         if value is None:
             return ""
-        text = str(value)
-        # encode to latin-1 replacing unmappable chars
+        text = str(value).translate(_UNICODE_MAP)
         return text[:max_len].encode("latin-1", "replace").decode("latin-1")
 
     def _section(title: str) -> None:
@@ -198,7 +207,7 @@ def generate_member_pdf(payload: Dict[str, Any]) -> bytes:
     # ── Threshold Scores ─────────────────────────────────────────────────────
     scores_data = payload.get("scores") or {}
     if scores_data:
-        _section("Threshold Scores  (D.M. 589/2018)")
+        _section("Threshold Scores (D.M. 589/2018)")
 
         def _ratio_str(level: Dict) -> str:
             v = level.get("value")
@@ -206,41 +215,44 @@ def generate_member_pdf(payload: Dict[str, Any]) -> bytes:
             r = level.get("ratio")
             if v is None or t is None:
                 return "N/D"
-            ratio_s = f"{r:.2f}" if r is not None else "-"
-            return f"{v} / {t} = {ratio_s}"
+            ratio_s = f"={r:.2f}" if r is not None else ""
+            return f"{v}/{t}{ratio_s}"
 
-        for indicator, label in [
+        # table header
+        cw = [30, 14, 46, 46, 44]   # Indicator | Score | Assoc.Prof | Full Prof | Evaluator
+        pdf.set_x(LM)
+        pdf.set_font("Helvetica", "B", 8)
+        pdf.set_text_color(*C_GRAY)
+        pdf.set_fill_color(*C_LIGHT)
+        for w, h in zip(cw, ["Indicator", "Score", "Assoc. Prof.", "Full Prof.", "Evaluator"]):
+            pdf.cell(w, 6, h, border="B", align="C", fill=True)
+        pdf.ln()
+
+        pdf.set_font("Helvetica", "", 8)
+        for i, (indicator, label) in enumerate([
             ("articles",  "Articles"),
             ("citations", "Citations"),
             ("hindex",    "H-index"),
-        ]:
+        ]):
             block = scores_data.get(indicator) or {}
             score = block.get("score")
-
-            pdf.set_x(LM)
-            pdf.set_font("Helvetica", "B", 9)
-            pdf.set_text_color(*C_DARK)
-            pdf.cell(32, 6, label, ln=False)
-
             score_txt = f"{score:.1f}" if score is not None else "N/D"
-            pdf.set_font("Helvetica", "B", 9)
-            pdf.set_text_color(*_score_color(score))
-            pdf.cell(14, 6, score_txt, align="C", ln=False)
 
+            pdf.set_fill_color(248, 249, 250) if i % 2 == 0 else pdf.set_fill_color(255, 255, 255)
+            pdf.set_x(LM)
+            pdf.set_text_color(*C_DARK)
+            pdf.set_font("Helvetica", "B", 8)
+            pdf.cell(cw[0], 5, label, fill=True)
+            pdf.set_font("Helvetica", "B", 8)
+            pdf.set_text_color(*_score_color(score))
+            pdf.cell(cw[1], 5, score_txt, align="C", fill=True)
             pdf.set_font("Helvetica", "", 8)
-            pdf.set_text_color(*C_GRAY)
-            for level_key, level_name in [
-                ("ii_fascia",    "Assoc. Prof."),
-                ("i_fascia",     "Full Prof."),
-                ("commissario",  "Commissioner"),
-            ]:
+            for j, level_key in enumerate(["ii_fascia", "i_fascia", "commissario"]):
                 level = block.get(level_key) or {}
-                ratio = _ratio_str(level)
-                pdf.cell(26, 6, f"{level_name}:", ln=False)
                 pdf.set_text_color(*C_DARK)
-                pdf.cell(36, 6, ratio, ln=False)
-                pdf.set_text_color(*C_GRAY)
+                pdf.cell(cw[2 + j], 5, _ratio_str(level), align="C", fill=True)
             pdf.ln()
+        pdf.ln(2)
 
     # ── Responsibilities ──────────────────────────────────────────────────────
     responsibilities = payload.get("responsibilities") or []
@@ -262,6 +274,13 @@ def generate_member_pdf(payload: Dict[str, Any]) -> bytes:
     teaching = payload.get("teaching") or {}
     if teaching:
         _section("Teaching")
+
+        def _clean_course_name(raw: str) -> str:
+            return re.sub(r"\s*\(\d+\)\s*$", "", raw).strip().title()
+
+        def _clean_degree(raw: str) -> str:
+            return re.sub(r"^[A-Z0-9\-]+ [A-Z]? ?- ", "", raw).strip().title()
+
         for year in sorted(teaching.keys(), reverse=True):
             courses = teaching[year]
             n = len(courses)
@@ -271,69 +290,127 @@ def generate_member_pdf(payload: Dict[str, Any]) -> bytes:
             pdf.cell(W, 5, f"{year}  ({n} course{'s' if n != 1 else ''})", ln=True)
             pdf.set_text_color(*C_DARK)
             for course in courses:
-                if isinstance(course, dict):
-                    name   = course.get("course") or course.get("name") or ""
-                    degree = course.get("degree") or ""
-                    text   = name + (f"  –  {degree}" if degree else "")
-                else:
-                    text = str(course)
-                _bullet(text, indent=6)
+                if not isinstance(course, dict):
+                    _bullet(_safe(str(course)), indent=6)
+                    continue
+                raw_name   = course.get("course") or course.get("name") or ""
+                raw_degree = course.get("degree") or ""
+                name   = _safe(_clean_course_name(raw_name))
+                degree = _safe(_clean_degree(raw_degree))
+                lbl_w  = 22
+                pdf.set_x(LM + 6)
+                pdf.set_font("Helvetica", "B", 8)
+                pdf.set_text_color(*C_GRAY)
+                pdf.cell(lbl_w, 4, "Title:", ln=False)
+                pdf.set_font("Helvetica", "B", 8)
+                pdf.set_text_color(*C_DARK)
+                pdf.multi_cell(W - 6 - lbl_w, 4, name)
+                if degree:
+                    pdf.set_x(LM + 6)
+                    pdf.set_font("Helvetica", "B", 8)
+                    pdf.set_text_color(*C_GRAY)
+                    pdf.cell(lbl_w, 4, "Programme:", ln=False)
+                    pdf.set_font("Helvetica", "", 8)
+                    pdf.set_text_color(*C_DARK)
+                    pdf.multi_cell(W - 6 - lbl_w, 4, degree)
+                pdf.ln(1)
+
+    # ── Publication helpers ───────────────────────────────────────────────────
+
+    def _fmt_authors_scopus(raw: str) -> str:
+        """'Fedeli Alessandro; Randazzo Andrea' -> 'A. Fedeli, A. Randazzo'"""
+        parts = []
+        for person in (raw or "").split(";"):
+            tokens = person.strip().split()
+            if len(tokens) >= 2:
+                initials = " ".join(t[0] + "." for t in tokens[1:] if t)
+                parts.append(f"{initials} {tokens[0]}")
+            elif tokens:
+                parts.append(tokens[0])
+        return ", ".join(parts)
+
+    def _fmt_authors_iris(raw: str) -> str:
+        """'Lastname, Firstname; Lastname, Firstname' -> 'F. Lastname, F. Lastname'"""
+        parts = []
+        for person in (raw or "").split(";"):
+            person = person.strip()
+            if "," in person:
+                last, *firsts = person.split(",")
+                initials = " ".join(f[0].strip() + "." for f in firsts if f.strip())
+                parts.append(f"{initials} {last.strip()}")
+            else:
+                parts.append(person)
+        return ", ".join(parts)
+
+    def _ieee_meta(num: int, authors: str, venue: str,
+                   vol: str, issue: str, pages: str, year: Any, doi: str,
+                   cit: Any) -> str:
+        line = f"[{num}] {authors}"
+        if venue:
+            line += f", {venue}"
+        if vol:
+            line += f", vol. {vol}"
+        if issue:
+            line += f", no. {issue}"
+        if pages:
+            line += f", pp. {pages}"
+        if year:
+            line += f", {year}"
+        line += "."
+        if doi:
+            line += f" doi: {doi}"
+        if cit is not None:
+            line += f"  [Cited: {int(cit)}]"
+        return line
+
+    def _pub_entry(num: int, authors: str, title: str, venue: str,
+                   vol: str, issue: str, pages: str, year: Any, doi: str,
+                   cit: Any) -> None:
+        # Build suffix (everything after the title)
+        suffix = ""
+        if venue:  suffix += f", {venue}"
+        if vol:    suffix += f", vol. {vol}"
+        if issue:  suffix += f", no. {issue}"
+        if pages:  suffix += f", pp. {pages}"
+        if year:   suffix += f", {year}"
+        suffix += "."
+        if doi:    suffix += f" doi: {doi}"
+        if cit is not None: suffix += f"  [Cited: {int(cit)}]"
+
+        pdf.set_x(LM)
+        pdf.set_text_color(*C_DARK)
+        # Prefix: [N] authors, "
+        pdf.set_font("Helvetica", "", 8)
+        pdf.write(4.5, _safe(f"[{num}] {authors}, \"", 250))
+        # Title in bold
+        pdf.set_font("Helvetica", "B", 8)
+        pdf.write(4.5, _safe(title, 300))
+        # Closing quote + rest in regular
+        pdf.set_font("Helvetica", "", 8)
+        pdf.write(4.5, _safe(f"\"{suffix}", 300))
+        pdf.ln(5)
 
     # ── Scopus publications ───────────────────────────────────────────────────
     scopus_products = payload.get("scopus_products") or []
     if scopus_products:
-        _section(f"Publications – Scopus  ({len(scopus_products)})")
+        _section(f"Publications - Scopus ({len(scopus_products)})")
         for i, prod in enumerate(scopus_products, 1):
             if not isinstance(prod, dict):
                 continue
-            title  = _safe(prod.get("title") or "Untitled", 180)
-            year   = prod.get("year") or ""
-            venue  = _safe(prod.get("venue") or "", 80)
-            cit    = prod.get("citations")
-            type_  = _safe(prod.get("type") or prod.get("sub_type") or "", 30)
+            _pub_entry(
+                i,
+                authors=_fmt_authors_scopus(prod.get("authors") or ""),
+                title=prod.get("title") or "Untitled",
+                venue=prod.get("venue") or "",
+                vol=str(prod.get("volume") or ""),
+                issue=str(prod.get("issue_id") or ""),
+                pages=str(prod.get("pages") or ""),
+                year=prod.get("year") or "",
+                doi=prod.get("doi") or "",
+                cit=prod.get("citations"),
+            )
 
-            pdf.set_x(LM)
-            pdf.set_font("Helvetica", "B", 8)
-            pdf.set_text_color(*C_DARK)
-            pdf.multi_cell(W, 5, f"{i}.  {title}")
 
-            meta: List[str] = []
-            if year:    meta.append(str(year))
-            if venue:   meta.append(venue)
-            if cit is not None: meta.append(f"Cited: {int(cit)}")
-            if type_:   meta.append(type_)
-            if meta:
-                pdf.set_x(LM + 6)
-                pdf.set_font("Helvetica", "", 7)
-                pdf.set_text_color(*C_GRAY)
-                pdf.multi_cell(W - 6, 4, " · ".join(meta))
-            pdf.ln(1)
-
-    # ── IRIS publications ─────────────────────────────────────────────────────
-    iris_products = payload.get("iris_products") or []
-    if iris_products:
-        if pdf.get_y() > 220:
-            pdf.add_page()
-        _section(f"Publications – IRIS  ({len(iris_products)})")
-        for i, prod in enumerate(iris_products, 1):
-            if not isinstance(prod, dict):
-                continue
-            title = _safe(prod.get("title") or prod.get("name") or "Untitled", 180)
-            year  = prod.get("year") or ""
-            type_ = _safe(prod.get("type") or "", 40)
-
-            pdf.set_x(LM)
-            pdf.set_font("Helvetica", "B", 8)
-            pdf.set_text_color(*C_DARK)
-            pdf.multi_cell(W, 5, f"{i}.  {title}")
-
-            meta = [p for p in [str(year) if year else None, type_ or None] if p]
-            if meta:
-                pdf.set_x(LM + 6)
-                pdf.set_font("Helvetica", "", 7)
-                pdf.set_text_color(*C_GRAY)
-                pdf.multi_cell(W - 6, 4, " · ".join(meta))
-            pdf.ln(1)
 
     return bytes(pdf.output())
 
