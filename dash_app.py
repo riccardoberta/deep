@@ -1664,14 +1664,15 @@ def _build_collaboration_tab() -> dbc.Container:
                         "Click a node or edge for details.",
                         className="text-muted small mb-2",
                     ),
-                    dbc.Row([
-                        dbc.Col(graph_component, width=True),
-                        dbc.Col(
-                            html.Div(id="collab-legend",
-                                     style={"lineHeight": "2.2", "whiteSpace": "nowrap"}),
-                            width="auto",
-                        ),
-                    ], className="g-2 align-items-start"),
+                    html.Div([
+                        html.Div(graph_component, style={"flex": "1", "minWidth": "0"}),
+                        html.Div(id="collab-legend", style={
+                            "flexShrink": "0",
+                            "paddingLeft": "12px",
+                            "lineHeight": "2.2",
+                            "whiteSpace": "nowrap",
+                        }),
+                    ], style={"display": "flex", "alignItems": "flex-start"}),
                     html.Div(id="collab-node-info",
                              className="mt-2 text-muted small"),
                 ]), className="shadow-sm"),
