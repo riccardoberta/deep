@@ -2566,28 +2566,36 @@ def _ssd_breakdown_table(
         avg_s = f"{avg:.{dec}f}"
         return f"{avg_s} / {thresh}" if thresh is not None else avg_s
 
-    # Two-row header: group row + column row
-    _span2 = {"rowSpan": 2, "verticalAlign": "bottom"}
+    # Two-row header:
+    #   row 1 – group labels (Prodotti / Citazioni / H-index / Score)
+    #   row 2 – fascia labels aligned under each metric column
+    _span2 = {"rowSpan": 2, "verticalAlign": "middle"}
+    _cs3   = {"colSpan": 3, "textAlign": "center"}
     group_row = html.Tr([
-        html.Th("SSD", style={**_TH, "textAlign": "left", **_span2}),
-        html.Th("N",   style={**_TH, **_span2}),
-        html.Th("Prodotti",  style={**_TH, "colSpan": 3, **_BL}),
-        html.Th("Sc.", style={**_TH, **_span2}),
-        html.Th("Citazioni", style={**_TH, "colSpan": 3, **_BL}),
-        html.Th("Sc.", style={**_TH, **_span2}),
-        html.Th("H-index",   style={**_TH, "colSpan": 3, **_BL}),
-        html.Th("Sc.", style={**_TH, **_span2}),
+        html.Th("SSD", style={**_TH, "textAlign": "left",  **_span2}),
+        html.Th("N",   style={**_TH, "textAlign": "center", **_span2}),
+        html.Th("Prodotti",  style={**_TH, **_cs3, **_BL}),
+        html.Th("Citazioni", style={**_TH, **_cs3, **_BL}),
+        html.Th("H-index",   style={**_TH, **_cs3, **_BL}),
+        html.Th("Score",     style={**_TH, "colSpan": 3, **_BL}),
     ])
     fascia_row = html.Tr([
-        html.Th("II (5a)",  style={**_THS, **_BL}),
-        html.Th("I (10a)",  style=_THS),
-        html.Th("C (10a)",  style=_THS),
-        html.Th("II (10a)", style={**_THS, **_BL}),
-        html.Th("I (15a)",  style=_THS),
-        html.Th("C (15a)",  style=_THS),
-        html.Th("II (10a)", style={**_THS, **_BL}),
-        html.Th("I (15a)",  style=_THS),
-        html.Th("C (15a)",  style=_THS),
+        # Prodotti
+        html.Th("II fascia (5a)",  style={**_THS, **_BL}),
+        html.Th("I fascia (10a)",  style=_THS),
+        html.Th("Comm. (10a)",     style=_THS),
+        # Citazioni
+        html.Th("II fascia (10a)", style={**_THS, **_BL}),
+        html.Th("I fascia (15a)",  style=_THS),
+        html.Th("Comm. (15a)",     style=_THS),
+        # H-index
+        html.Th("II fascia (10a)", style={**_THS, **_BL}),
+        html.Th("I fascia (15a)",  style=_THS),
+        html.Th("Comm. (15a)",     style=_THS),
+        # Score
+        html.Th("Prodotti",   style={**_THS, **_BL}),
+        html.Th("Citazioni",  style=_THS),
+        html.Th("H-index",    style=_THS),
     ])
     header = html.Thead([group_row, fascia_row])
 
@@ -2612,20 +2620,21 @@ def _ssd_breakdown_table(
         body_rows.append(html.Tr([
             html.Td(ssd,       style={**_TDL, "backgroundColor": bg}),
             html.Td(len(rows), style={**_TD,  "backgroundColor": bg, "fontWeight": "600"}),
-            # Products
+            # Prodotti – ratio columns
             _td(_vt(_avgs(rows, "p_5y"),  t[0], 1), _BL),
             _td(_vt(_avgs(rows, "p_10y"), t[3], 1)),
             _td(_vt(_avgs(rows, "p_10y"), t[6], 1)),
-            _td(_summary_score_badge(_avgs(rows, "s_art"))),
-            # Citations
+            # Citazioni – ratio columns
             _td(_vt(_avgs(rows, "c_10y"), t[1], 0), _BL),
             _td(_vt(_avgs(rows, "c_15y"), t[4], 0)),
             _td(_vt(_avgs(rows, "c_15y"), t[7], 0)),
-            _td(_summary_score_badge(_avgs(rows, "s_cit"))),
-            # H-index
+            # H-index – ratio columns
             _td(_vt(_avgs(rows, "h_10y"), t[2], 1), _BL),
             _td(_vt(_avgs(rows, "h_15y"), t[5], 1)),
             _td(_vt(_avgs(rows, "h_15y"), t[8], 1)),
+            # Score badges – all at the end
+            _td(_summary_score_badge(_avgs(rows, "s_art")), _BL),
+            _td(_summary_score_badge(_avgs(rows, "s_cit"))),
             _td(_summary_score_badge(_avgs(rows, "s_h"))),
         ]))
 
