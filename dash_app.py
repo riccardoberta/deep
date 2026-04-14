@@ -2543,26 +2543,52 @@ def _dept_metrics_table(rows: List[Dict[str, Optional[float]]]) -> html.Table:
                       style={"borderCollapse": "collapse", "fontSize": 13})
 
 
-def _ssd_breakdown_table(ssd_metrics: Dict[str, List[Dict]]) -> html.Table:
+def _ssd_breakdown_table(
+    ssd_metrics: Dict[str, List[Dict]],
+    thresholds: Optional[Dict] = None,
+) -> html.Table:
     _TH = {"backgroundColor": "#f8f9fa", "fontWeight": "600", "fontSize": 11,
            "color": "#495057", "padding": "5px 8px", "borderBottom": "2px solid #dee2e6",
            "textAlign": "center", "whiteSpace": "nowrap"}
+    _THS = {**_TH, "color": "#6c757d", "fontWeight": "400"}   # sub-header style
     _TD = {"padding": "5px 8px", "fontSize": 12, "borderBottom": "1px solid #f0f0f0",
            "textAlign": "center", "color": "#212529"}
     _TDL = {**_TD, "textAlign": "left", "fontWeight": "600", "color": "#495057",
             "maxWidth": "140px", "overflow": "hidden", "textOverflow": "ellipsis",
             "whiteSpace": "nowrap"}
+    _BL = {"borderLeft": "2px solid #dee2e6"}   # section separator
 
-    header = html.Thead(html.Tr([
-        html.Th("SSD",        style={**_TH, "textAlign": "left"}),
-        html.Th("N",          style=_TH),
-        html.Th("H 5y",       style=_TH), html.Th("H 10y",   style=_TH), html.Th("H 15y",   style=_TH),
-        html.Th("Cit 5y",     style=_TH), html.Th("Cit 10y", style=_TH), html.Th("Cit 15y", style=_TH),
-        html.Th("Prod 5y",    style=_TH), html.Th("Prod 10y",style=_TH), html.Th("Prod 15y",style=_TH),
-        html.Th("Sc. Art.",   style={**_TH, "borderLeft": "2px solid #dee2e6"}),
-        html.Th("Sc. Cit.",   style=_TH),
-        html.Th("Sc. H",      style=_TH),
-    ]))
+    def _vt(avg: Optional[float], thresh: Optional[int], dec: int = 1) -> str:
+        """Format as 'avg / thresh'; falls back to plain avg when no threshold."""
+        if avg is None:
+            return "—"
+        avg_s = f"{avg:.{dec}f}"
+        return f"{avg_s} / {thresh}" if thresh is not None else avg_s
+
+    # Two-row header: group row + column row
+    _span2 = {"rowSpan": 2, "verticalAlign": "bottom"}
+    group_row = html.Tr([
+        html.Th("SSD", style={**_TH, "textAlign": "left", **_span2}),
+        html.Th("N",   style={**_TH, **_span2}),
+        html.Th("Prodotti",  style={**_TH, "colSpan": 3, **_BL}),
+        html.Th("Sc.", style={**_TH, **_span2}),
+        html.Th("Citazioni", style={**_TH, "colSpan": 3, **_BL}),
+        html.Th("Sc.", style={**_TH, **_span2}),
+        html.Th("H-index",   style={**_TH, "colSpan": 3, **_BL}),
+        html.Th("Sc.", style={**_TH, **_span2}),
+    ])
+    fascia_row = html.Tr([
+        html.Th("II (5a)",  style={**_THS, **_BL}),
+        html.Th("I (10a)",  style=_THS),
+        html.Th("C (10a)",  style=_THS),
+        html.Th("II (10a)", style={**_THS, **_BL}),
+        html.Th("I (15a)",  style=_THS),
+        html.Th("C (15a)",  style=_THS),
+        html.Th("II (10a)", style={**_THS, **_BL}),
+        html.Th("I (15a)",  style=_THS),
+        html.Th("C (15a)",  style=_THS),
+    ])
+    header = html.Thead([group_row, fascia_row])
 
     def _score_avg(rows: List[Dict]) -> float:
         vals = [v for k in ("s_art", "s_cit", "s_h") for v in [_avgs(rows, k)] if v is not None]
@@ -2573,24 +2599,33 @@ def _ssd_breakdown_table(ssd_metrics: Dict[str, List[Dict]]) -> html.Table:
         sorted(ssd_metrics.items(), key=lambda x: -_score_avg(x[1]))
     ):
         bg = "#fafafa" if i % 2 == 0 else "#ffffff"
+        code = ssd.strip().split()[0]
+        t = (thresholds or {}).get(code) or (None,) * 9
+        # t indices: [0]=art_ii [1]=cit_ii [2]=h_ii [3]=art_i [4]=cit_i [5]=h_i
+        #            [6]=art_c  [7]=cit_c  [8]=h_c
+
+        def _td(content, extra=None):
+            s = {**_TD, "backgroundColor": bg, **(extra or {})}
+            return html.Td(content, style=s)
+
         body_rows.append(html.Tr([
             html.Td(ssd,       style={**_TDL, "backgroundColor": bg}),
             html.Td(len(rows), style={**_TD,  "backgroundColor": bg, "fontWeight": "600"}),
-            html.Td(_fmt(_avgs(rows, "h_5y"),   1), style={**_TD, "backgroundColor": bg}),
-            html.Td(_fmt(_avgs(rows, "h_10y"),  1), style={**_TD, "backgroundColor": bg}),
-            html.Td(_fmt(_avgs(rows, "h_15y"),  1), style={**_TD, "backgroundColor": bg}),
-            html.Td(_fmt(_avgs(rows, "c_5y"),   0), style={**_TD, "backgroundColor": bg}),
-            html.Td(_fmt(_avgs(rows, "c_10y"),  0), style={**_TD, "backgroundColor": bg}),
-            html.Td(_fmt(_avgs(rows, "c_15y"),  0), style={**_TD, "backgroundColor": bg}),
-            html.Td(_fmt(_avgs(rows, "p_5y"),   1), style={**_TD, "backgroundColor": bg}),
-            html.Td(_fmt(_avgs(rows, "p_10y"),  1), style={**_TD, "backgroundColor": bg}),
-            html.Td(_fmt(_avgs(rows, "p_15y"),  1), style={**_TD, "backgroundColor": bg}),
-            html.Td(_summary_score_badge(_avgs(rows, "s_art")),
-                    style={**_TD, "backgroundColor": bg, "borderLeft": "2px solid #dee2e6"}),
-            html.Td(_summary_score_badge(_avgs(rows, "s_cit")),
-                    style={**_TD, "backgroundColor": bg}),
-            html.Td(_summary_score_badge(_avgs(rows, "s_h")),
-                    style={**_TD, "backgroundColor": bg}),
+            # Products
+            _td(_vt(_avgs(rows, "p_5y"),  t[0], 1), _BL),
+            _td(_vt(_avgs(rows, "p_10y"), t[3], 1)),
+            _td(_vt(_avgs(rows, "p_10y"), t[6], 1)),
+            _td(_summary_score_badge(_avgs(rows, "s_art"))),
+            # Citations
+            _td(_vt(_avgs(rows, "c_10y"), t[1], 0), _BL),
+            _td(_vt(_avgs(rows, "c_15y"), t[4], 0)),
+            _td(_vt(_avgs(rows, "c_15y"), t[7], 0)),
+            _td(_summary_score_badge(_avgs(rows, "s_cit"))),
+            # H-index
+            _td(_vt(_avgs(rows, "h_10y"), t[2], 1), _BL),
+            _td(_vt(_avgs(rows, "h_15y"), t[5], 1)),
+            _td(_vt(_avgs(rows, "h_15y"), t[8], 1)),
+            _td(_summary_score_badge(_avgs(rows, "s_h"))),
         ]))
 
     return html.Table([header, html.Tbody(body_rows)], className="w-100",
@@ -2599,26 +2634,40 @@ def _ssd_breakdown_table(ssd_metrics: Dict[str, List[Dict]]) -> html.Table:
 
 
 
-def _build_ssd_export_data(ssd_metrics: Dict[str, List[Dict]]) -> Optional[str]:
+def _build_ssd_export_data(
+    ssd_metrics: Dict[str, List[Dict]],
+    thresholds: Optional[Dict] = None,
+) -> Optional[str]:
     """Serialise the SSD breakdown as a JSON string for the export store."""
     def _score_avg(rows):
         vals = [v for k in ("s_art", "s_cit", "s_h") for v in [_avgs(rows, k)] if v is not None]
         return round(sum(vals) / len(vals), 3) if vals else None
 
+    def _ratio(avg, thresh):
+        if avg is None or not thresh:
+            return None
+        return round(avg / thresh, 2)
+
     records = []
     for ssd, rows in sorted(ssd_metrics.items(), key=lambda x: -(_score_avg(x[1]) or -1)):
+        code = ssd.strip().split()[0]
+        t = (thresholds or {}).get(code) or (None,) * 9
         records.append({
             "SSD": ssd,
             "N": len(rows),
-            "H 5y":    _avgs(rows, "h_5y"),
-            "H 10y":   _avgs(rows, "h_10y"),
-            "H 15y":   _avgs(rows, "h_15y"),
-            "Cit 5y":  _avgs(rows, "c_5y"),
-            "Cit 10y": _avgs(rows, "c_10y"),
-            "Cit 15y": _avgs(rows, "c_15y"),
-            "Prod 5y":  _avgs(rows, "p_5y"),
-            "Prod 10y": _avgs(rows, "p_10y"),
-            "Prod 15y": _avgs(rows, "p_15y"),
+            # Products
+            "Prod avg 5y":   _avgs(rows, "p_5y"),  "Prod soglia II":  t[0], "Prod ratio II":  _ratio(_avgs(rows, "p_5y"),  t[0]),
+            "Prod avg 10y":  _avgs(rows, "p_10y"), "Prod soglia I":   t[3], "Prod ratio I":   _ratio(_avgs(rows, "p_10y"), t[3]),
+                                                    "Prod soglia C":   t[6], "Prod ratio C":   _ratio(_avgs(rows, "p_10y"), t[6]),
+            # Citations
+            "Cit avg 10y":   _avgs(rows, "c_10y"), "Cit soglia II":   t[1], "Cit ratio II":   _ratio(_avgs(rows, "c_10y"), t[1]),
+            "Cit avg 15y":   _avgs(rows, "c_15y"), "Cit soglia I":    t[4], "Cit ratio I":    _ratio(_avgs(rows, "c_15y"), t[4]),
+                                                    "Cit soglia C":    t[7], "Cit ratio C":    _ratio(_avgs(rows, "c_15y"), t[7]),
+            # H-index
+            "H avg 10y":     _avgs(rows, "h_10y"), "H soglia II":     t[2], "H ratio II":     _ratio(_avgs(rows, "h_10y"), t[2]),
+            "H avg 15y":     _avgs(rows, "h_15y"), "H soglia I":      t[5], "H ratio I":      _ratio(_avgs(rows, "h_15y"), t[5]),
+                                                    "H soglia C":      t[8], "H ratio C":      _ratio(_avgs(rows, "h_15y"), t[8]),
+            # Scores
             "Score articles":  _avgs(rows, "s_art"),
             "Score citations": _avgs(rows, "s_cit"),
             "Score h-index":   _avgs(rows, "s_h"),
@@ -2691,13 +2740,13 @@ def update_summary(selected_run: Optional[str]):
                 ),
             ], className="g-2 mb-3 align-items-center"),
             html.Div(
-                _ssd_breakdown_table(ssd_metrics),
+                _ssd_breakdown_table(ssd_metrics, _THRESHOLDS),
                 style={"overflowX": "auto"},
             ),
         ]), className="shadow-sm mb-3"),
 
         html.Div(f"Run: {run_name}", className="text-muted small"),
-    ]), _build_ssd_export_data(ssd_metrics)
+    ]), _build_ssd_export_data(ssd_metrics, _THRESHOLDS)
 
 
 @app.callback(
