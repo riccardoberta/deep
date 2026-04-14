@@ -2715,8 +2715,7 @@ def update_summary(selected_run: Optional[str]):
         return html.Div("No data found for the selected run.", className="text-muted"), _no
 
     all_rows: List[Dict[str, Optional[float]]] = []
-    ssd_metrics:  Dict[str, List[Dict]] = {}
-    unit_metrics: Dict[str, List[Dict]] = {}
+    ssd_metrics: Dict[str, List[Dict]] = {}
 
     for p in payloads:
         m = _metrics_from_payload(p)
@@ -2725,12 +2724,9 @@ def update_summary(selected_run: Optional[str]):
         ssd_name = p.get("ssd_name", "")
         ssd_key  = f"{ssd} {ssd_name}".strip() if ssd_name else ssd
         ssd_metrics.setdefault(ssd_key, []).append(m)
-        unit = (p.get("unit") or "Unknown").strip() or "Unknown"
-        unit_metrics.setdefault(unit, []).append(m)
 
     total    = len(payloads)
     n_ssds   = len(ssd_metrics)
-    n_units  = len(unit_metrics)
     run_dir  = run_data.get("run_dir") or ""
     run_name = Path(run_dir).name if run_dir else "—"
 
@@ -2745,10 +2741,6 @@ def update_summary(selected_run: Optional[str]):
                 html.Div("SSDs", className="text-muted small mb-1"),
                 html.H3(n_ssds, className="mb-0"),
             ]), className="text-center shadow-sm"), md=2),
-            dbc.Col(dbc.Card(dbc.CardBody([
-                html.Div("Units", className="text-muted small mb-1"),
-                html.H3(n_units, className="mb-0"),
-            ]), className="text-center shadow-sm"), md=2),
         ], className="g-3 mb-4"),
 
         # ── Department averages ───────────────────────────────────────────────
@@ -2760,15 +2752,6 @@ def update_summary(selected_run: Optional[str]):
                 className="text-muted small mb-3",
             ),
             _dept_metrics_table(all_rows),
-        ]), className="shadow-sm mb-4"),
-
-        # ── By Unit ──────────────────────────────────────────────────────────
-        dbc.Card(dbc.CardBody([
-            html.H5("Unit", className="mb-3"),
-            html.Div(
-                _breakdown_table(unit_metrics, col_label="Unit"),
-                style={"overflowX": "auto"},
-            ),
         ]), className="shadow-sm mb-4"),
 
         # ── By SSD ───────────────────────────────────────────────────────────
