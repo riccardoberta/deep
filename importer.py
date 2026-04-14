@@ -10,7 +10,7 @@ from typing import Any, Callable, Dict, Iterable, List, Optional, Tuple
 from aggregate import Aggregate
 from member import Member
 from scopus import ScopusClient
-from thresholds import ThresholdRow, compute_scores, load_thresholds
+from thresholds import ThresholdRow, _find_threshold, compute_scores, load_thresholds
 from unige import UnigeClient
 
 
@@ -135,7 +135,7 @@ class Importer:
                     fetch_status={"scopus_ok": scopus_ok, "unige_ok": unige_ok, "scores_ok": None},
                 )
                 ssd_used = payload.get("ssd")
-                if ssd_used and ssd_used.strip() not in thresholds:
+                if ssd_used and _find_threshold(thresholds, ssd_used) is None:
                     self._log(f"⚠️ Soglie non trovate per SSD '{ssd_used}' ({member.name} {member.surname})")
                 with json_path.open("w", encoding="utf-8") as handle:
                     json.dump(payload, handle, indent=2, ensure_ascii=False)

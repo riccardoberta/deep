@@ -77,10 +77,16 @@ def load_thresholds(xlsx_path: Path | str = _DEFAULT_XLSX) -> Dict[str, Threshol
 def _find_threshold(
     thresholds: Dict[str, ThresholdRow], ssd_str: str
 ) -> Optional[ThresholdRow]:
-    """Return the threshold row for *ssd_str*, or None if not found."""
+    """Return the threshold row for *ssd_str*, or None if not found.
+
+    Accepts both bare codes ("MEDS-16/A") and strings that include a
+    description after the code ("MEDS-16/A (Malattie odontostomatologiche)").
+    """
     if not ssd_str:
         return None
-    return thresholds.get(ssd_str.strip())
+    # Keep only the first token (code before any space or parenthesis)
+    code = ssd_str.strip().split()[0].rstrip("(")
+    return thresholds.get(code)
 
 
 def _get_metric(metrics: List[Dict[str, Any]], period_prefix: str, field: str) -> Optional[int]:
