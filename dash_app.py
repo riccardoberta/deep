@@ -2569,15 +2569,14 @@ def _ssd_breakdown_table(
     # Two-row header:
     #   row 1 – group labels (Prodotti / Citazioni / H-index / Score)
     #   row 2 – fascia labels aligned under each metric column
-    _span2 = {"rowSpan": 2, "verticalAlign": "middle"}
-    _cs3   = {"colSpan": 3, "textAlign": "center"}
+    _th_mid = {**_TH, "verticalAlign": "middle"}
     group_row = html.Tr([
-        html.Th("SSD", style={**_TH, "textAlign": "left",  **_span2}),
-        html.Th("N",   style={**_TH, "textAlign": "center", **_span2}),
-        html.Th("Prodotti",  style={**_TH, **_cs3, **_BL}),
-        html.Th("Citazioni", style={**_TH, **_cs3, **_BL}),
-        html.Th("H-index",   style={**_TH, **_cs3, **_BL}),
-        html.Th("Score",     style={**_TH, "colSpan": 3, **_BL}),
+        html.Th("SSD", rowSpan=2, style={**_th_mid, "textAlign": "left"}),
+        html.Th("N",   rowSpan=2, style={**_th_mid, "textAlign": "center"}),
+        html.Th("Prodotti",  colSpan=3, style={**_TH, **_BL}),
+        html.Th("Citazioni", colSpan=3, style={**_TH, **_BL}),
+        html.Th("H-index",   colSpan=3, style={**_TH, **_BL}),
+        html.Th("Score",     colSpan=3, style={**_TH, **_BL}),
     ])
     fascia_row = html.Tr([
         # Prodotti
@@ -2593,9 +2592,9 @@ def _ssd_breakdown_table(
         html.Th("I fascia (15a)",  style=_THS),
         html.Th("Comm. (15a)",     style=_THS),
         # Score
-        html.Th("Prodotti",   style={**_THS, **_BL}),
-        html.Th("Citazioni",  style=_THS),
-        html.Th("H-index",    style=_THS),
+        html.Th("Prodotti",  style={**_THS, **_BL}),
+        html.Th("Citazioni", style=_THS),
+        html.Th("H-index",   style=_THS),
     ])
     header = html.Thead([group_row, fascia_row])
 
