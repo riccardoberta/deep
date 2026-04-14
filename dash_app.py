@@ -2928,10 +2928,12 @@ if _CYTO_AVAILABLE:
         edge_data: Optional[Dict],
         selected_run: Optional[str],
     ):
-        if node_data:
+        triggered = (dash.ctx.triggered[0]["prop_id"] if dash.ctx.triggered else "")
+
+        if "tapNodeData" in triggered and node_data:
             return f"{node_data.get('full_name','')}  ·  SSD: {node_data.get('ssd','')}"
 
-        if edge_data and selected_run:
+        if "tapEdgeData" in triggered and edge_data and selected_run:
             sid1 = str(edge_data.get("source", ""))
             sid2 = str(edge_data.get("target", ""))
 
