@@ -13,6 +13,14 @@ from typing import Any, Callable, Dict, Iterable, List, Optional, Tuple
 
 import dash
 import dash_bootstrap_components as dbc
+try:
+    import dash_cytoscape as cyto
+    cyto.load_extra_layouts()
+    _CYTO_AVAILABLE = True
+except ImportError:
+    cyto = None  # type: ignore
+    _CYTO_AVAILABLE = False
+
 from dash import Dash, Input, Output, State, dash_table, dcc, html, no_update
 
 try:
@@ -295,6 +303,7 @@ class ImportManager:
             should_stop=self._stop_event.is_set,
         )
 
+        run_dir: Optional[Path] = None
         try:
             run_dir, payloads, metadata = importer.run()
             if metadata:
@@ -312,6 +321,13 @@ class ImportManager:
                 else:
                     self._status = "failed" if self._error else "completed"
                 self._finished_at = datetime.now(UTC).isoformat()
+                if run_dir is not None:
+                    try:
+                        (run_dir / "import.log").write_text(
+                            "\n".join(self._logs), encoding="utf-8"
+                        )
+                    except Exception:
+                        pass
 
 
 SETTINGS = _load_settings()
@@ -371,15 +387,24 @@ def _latest_run_dir(base_dir: Path) -> Optional[Path]:
 def _list_run_directories(base_dir: Path) -> List[Path]:
     if not base_dir.is_dir():
         return []
-    pattern = re.compile(r"^(\d{4}_\d{2}_\d{2})_(\d+)$")
-    candidates: List[Tuple[str, int, Path]] = []
-    for child in base_dir.iterdir():
-        if child.is_dir():
-            match = pattern.match(child.name)
-            if match:
-                candidates.append((match.group(1), int(match.group(2)), child))
-    candidates.sort(key=lambda item: (item[0], item[1]), reverse=True)
-    return [item[2] for item in candidates]
+    pattern = re.compile(r"^\d{4}_\d{2}_\d{2}")
+    candidates = [
+        child for child in base_dir.iterdir()
+        if child.is_dir() and pattern.match(child.name)
+    ]
+
+    def _sort_key(p: Path) -> str:
+        meta = p / "metadata.json"
+        try:
+            created_at = json.loads(meta.read_text(encoding="utf-8")).get("created_at", "")
+            if created_at:
+                return created_at
+        except Exception:
+            pass
+        return str(p.stat().st_mtime)
+
+    candidates.sort(key=_sort_key, reverse=True)
+    return candidates
 
 
 def _load_payloads_from_dir(run_dir: Path) -> List[Dict[str, Any]]:
@@ -470,13 +495,15 @@ def _run_dropdown_options() -> List[Dict[str, str]]:
             meta = {}
         input_file = Path(meta.get("input_file", "")).stem or path.name
         count = meta.get("source_count", "?")
-        # path.name is like "2026_04_10_3" → "2026/04/10 #3"
+        # path.name is like "2026_04_10_diten" → "2026/04/10 – diten"
         parts = path.name.split("_")
-        if len(parts) == 4:
-            date_label = f"{parts[0]}/{parts[1]}/{parts[2]} #{parts[3]}"
+        if len(parts) >= 4:
+            date_label = f"{parts[0]}/{parts[1]}/{parts[2]} – {'_'.join(parts[3:])}"
+        elif len(parts) == 3:
+            date_label = f"{parts[0]}/{parts[1]}/{parts[2]}"
         else:
             date_label = path.name
-        label = f"{date_label} – {input_file} ({count} membri)"
+        label = f"{date_label} ({count} membri)"
         options.append({"label": label, "value": str(path.resolve())})
     return options
 
@@ -974,8 +1001,7 @@ def _build_import_tab() -> dbc.Container:
                 html.Pre(
                     id="import-log",
                     style={
-                        "flex": "1",
-                        "minHeight": "0",
+                        "height": "300px",
                         "overflowY": "auto",
                         "backgroundColor": "#f8f9fa",
                         "border": "1px solid #dee2e6",
@@ -1039,7 +1065,7 @@ def _build_import_tab() -> dbc.Container:
         [
             dbc.Row(
                 [
-                    dbc.Col(left_panel,  md=7),
+                    dbc.Col(html.Div(left_panel, id="import-left-panel"), md=7),
                     dbc.Col(right_panel, md=5),
                 ],
                 className="g-3 pt-3",
@@ -1135,7 +1161,7 @@ def _member_table_card() -> dbc.Card:
                         {"name": "Surname", "id": "surname"},
                         {"name": "Name",    "id": "name"},
                         {"name": "SSD",     "id": "ssd"},
-                        {"name": "_payload_idx", "id": "_payload_idx", "hidden": True},
+                        {"name": "_payload_idx", "id": "_payload_idx"},
                     ],
                     data=[],
                     style_as_list_view=True,
@@ -1159,8 +1185,12 @@ def _member_table_card() -> dbc.Card:
                         "cursor": "default",
                     },
                     style_cell_conditional=[
-                        {"if": {"column_id": "inspect"}, "width": "36px", "textAlign": "center", "cursor": "pointer", "color": "#6c757d"},
-                        {"if": {"column_id": "ssd"},     "maxWidth": "160px", "overflow": "hidden", "textOverflow": "ellipsis", "color": "#6c757d", "fontSize": 10},
+                        {"if": {"column_id": "inspect"},     "width": "36px", "textAlign": "center", "cursor": "pointer", "color": "#6c757d"},
+                        {"if": {"column_id": "ssd"},         "maxWidth": "160px", "overflow": "hidden", "textOverflow": "ellipsis", "color": "#6c757d", "fontSize": 10},
+                        {"if": {"column_id": "_payload_idx"}, "display": "none"},
+                    ],
+                    style_header_conditional=[
+                        {"if": {"column_id": "_payload_idx"}, "display": "none"},
                     ],
                     style_data_conditional=_TABLE_STYLE_BASE,
                     sort_action="native",
@@ -1445,6 +1475,211 @@ def _build_analysing_tab() -> dbc.Container:
 
 
 
+_COLLAB_PALETTE = [
+    "#0d6efd", "#198754", "#dc3545", "#fd7e14", "#6f42c1",
+    "#20c997", "#d63384", "#0dcaf0", "#ffc107", "#6c757d",
+]
+
+_COLLAB_STYLESHEET = [
+    {"selector": "node", "style": {
+        "label": "data(label)",
+        "width": "data(size)", "height": "data(size)",
+        "background-color": "data(color)",
+        "color": "#fff",
+        "font-size": "10px",
+        "text-valign": "center",
+        "text-halign": "center",
+        "text-wrap": "wrap",
+        "text-max-width": "60px",
+        "border-width": 2,
+        "border-color": "#fff",
+    }},
+    {"selector": "node:selected", "style": {
+        "border-width": 3,
+        "border-color": "#000",
+        "font-size": "12px",
+    }},
+    {"selector": "edge", "style": {
+        "width": "mapData(weight, 1, 20, 1, 8)",
+        "line-color": "#dee2e6",
+        "opacity": 0.8,
+        "curve-style": "bezier",
+    }},
+    {"selector": "edge:selected", "style": {
+        "line-color": "#0d6efd",
+        "label": "data(label)",
+        "font-size": "9px",
+        "color": "#0d6efd",
+    }},
+]
+
+
+def _compute_collab_elements(
+    payloads: List[Dict[str, Any]],
+    active_ssds: Optional[List[str]] = None,
+    min_weight: int = 1,
+) -> Tuple[List[Dict], List[Dict], List[str], Dict[str, str]]:
+    """
+    Return (nodes, edges, all_ssd_list, ssd_color_map).
+    active_ssds=None means all SSDs are shown.
+    Edges with weight < min_weight are excluded.
+    """
+    import math
+
+    # Build a stable SSD → color map from ALL payloads (before filtering)
+    all_ssds = sorted({p.get("ssd") or "Unknown" for p in payloads})
+    ssd_color = {ssd: _COLLAB_PALETTE[i % len(_COLLAB_PALETTE)] for i, ssd in enumerate(all_ssds)}
+
+    # Filter by active SSDs
+    shown = set(active_ssds) if active_ssds is not None else set(all_ssds)
+    filtered = [p for p in payloads if (p.get("ssd") or "Unknown") in shown]
+
+    # Index filtered members by scopus_id
+    members: Dict[str, Dict] = {}
+    for p in filtered:
+        sid = p.get("scopus_id")
+        if sid:
+            members[str(sid)] = p
+
+    # Count co-authored papers between pairs (only within filtered members)
+    edge_counts: Dict[Tuple[str, str], int] = {}
+    for p in filtered:
+        sid = str(p.get("scopus_id") or "")
+        if not sid:
+            continue
+        for prod in p.get("scopus_products") or []:
+            ids = str(prod.get("author_ids") or "")
+            coauthors = [
+                i.strip() for i in ids.split(";")
+                if i.strip() and i.strip() != sid and i.strip() in members
+            ]
+            for cid in coauthors:
+                if sid < cid:  # count each pair once only
+                    edge_counts[(sid, cid)] = edge_counts.get((sid, cid), 0) + 1
+
+    def _node_size(p: Dict) -> int:
+        n = len(p.get("scopus_products") or [])
+        return int(20 + 40 * min(math.log1p(n) / math.log1p(200), 1.0))
+
+    nodes = [
+        {
+            "data": {
+                "id": sid,
+                "label": f"{p.get('surname','')} {p.get('name','')[:1]}.",
+                "ssd": p.get("ssd") or "Unknown",
+                "full_name": f"{p.get('surname','')} {p.get('name','')}",
+                "color": ssd_color.get(p.get("ssd") or "Unknown", "#6c757d"),
+                "size": _node_size(p),
+            }
+        }
+        for sid, p in members.items()
+    ]
+
+    edges = [
+        {
+            "data": {
+                "source": s1, "target": s2,
+                "weight": count,
+                "label": str(count),
+            }
+        }
+        for (s1, s2), count in edge_counts.items()
+        if count >= min_weight
+    ]
+
+    return nodes, edges, all_ssds, ssd_color
+
+
+def _build_collaboration_tab() -> dbc.Container:
+    _run_opts = _run_dropdown_options()
+    if _CYTO_AVAILABLE:
+        graph_component = cyto.Cytoscape(
+            id="collab-graph",
+            elements=[],
+            layout={"name": "cose", "idealEdgeLength": 120,
+                    "nodeRepulsion": 8000, "gravity": 0.3},
+            style={"width": "100%", "height": "560px",
+                   "border": "1px solid #dee2e6", "borderRadius": "6px",
+                   "backgroundColor": "#f8f9fa"},
+            stylesheet=_COLLAB_STYLESHEET,
+            responsive=True,
+            userZoomingEnabled=True,
+            userPanningEnabled=True,
+            boxSelectionEnabled=False,
+        )
+    else:
+        graph_component = html.Div(
+            "Install dash-cytoscape to enable this view (pip install dash-cytoscape).",
+            className="text-muted small",
+            id="collab-graph",
+        )
+
+    return dbc.Container([
+        dbc.Row(
+            dbc.Col(_data_selector_card("collab-run-dropdown", _run_opts), md=12),
+            className="g-0 pt-3 pb-2",
+        ),
+        dbc.Row([
+            dbc.Col(
+                dbc.Card(dbc.CardBody([
+                    html.H6("SSDs", className="mb-2"),
+                    dbc.Button(
+                        "Select all",
+                        id="collab-select-all-btn",
+                        color="link",
+                        size="sm",
+                        className="p-0 mb-2 text-decoration-none",
+                    ),
+                    dbc.Checklist(
+                        id="collab-ssd-checklist",
+                        options=[],
+                        value=[],
+                        inline=False,
+                        className="small",
+                    ),
+                    html.Hr(className="my-3"),
+                    html.H6("Min. co-authored papers", className="mb-2"),
+                    dbc.InputGroup([
+                        dbc.Button("−", id="collab-weight-dec", color="secondary",
+                                   size="sm", style={"width": "32px"}),
+                        dbc.Input(
+                            id="collab-min-weight-input",
+                            type="number", min=1, max=20, step=1, value=1,
+                            style={"textAlign": "center",
+                                   "MozAppearance": "textfield"},
+                            className="no-spinners",
+                        ),
+                        dbc.Button("+", id="collab-weight-inc", color="secondary",
+                                   size="sm", style={"width": "32px"}),
+                    ], size="sm"),
+                ]), className="shadow-sm h-100"),
+                md=2,
+            ),
+            dbc.Col(
+                dbc.Card(dbc.CardBody([
+                    html.P(
+                        "Nodes = members (size ∝ Scopus publications, color = SSD). "
+                        "Edges = co-authored papers (thickness ∝ count). "
+                        "Click a node or edge for details.",
+                        className="text-muted small mb-2",
+                    ),
+                    dbc.Row([
+                        dbc.Col(graph_component, width=True),
+                        dbc.Col(
+                            html.Div(id="collab-legend",
+                                     style={"lineHeight": "2.2", "whiteSpace": "nowrap"}),
+                            width="auto",
+                        ),
+                    ], className="g-2 align-items-start"),
+                    html.Div(id="collab-node-info",
+                             className="mt-2 text-muted small"),
+                ]), className="shadow-sm"),
+                md=10,
+            ),
+        ], className="g-3"),
+    ], fluid=True, className="px-3 pb-3")
+
+
 def _build_summary_tab() -> dbc.Container:
     _run_opts = _run_dropdown_options()
     return dbc.Container(
@@ -1529,10 +1764,11 @@ app.layout = dbc.Container(
                     id="main-tabs",
                     value="tab-import",
                     children=[
-                        dcc.Tab(label="Importing",  value="tab-import",     children=_build_import_tab()),
-                        dcc.Tab(label="Exploring",  value="tab-exploring",  children=_build_exploring_tab()),
-                        dcc.Tab(label="Analysing",  value="tab-analysing",  children=_build_analysing_tab()),
-                        dcc.Tab(label="Summary",    value="tab-summary",    children=_build_summary_tab()),
+                        dcc.Tab(label="Collect",   value="tab-import",         children=_build_import_tab()),
+                        dcc.Tab(label="Members",   value="tab-exploring",      children=_build_exploring_tab()),
+                        dcc.Tab(label="Query",     value="tab-analysing",      children=_build_analysing_tab()),
+                        dcc.Tab(label="Network",   value="tab-collaboration",  children=_build_collaboration_tab()),
+                        dcc.Tab(label="Overview",  value="tab-summary",        children=_build_summary_tab()),
                     ],
                 )
             ),
@@ -1657,6 +1893,7 @@ def manage_input_files(
     Output("run-action-message", "children"),
     Output("analysing-run-dropdown", "options"),
     Output("summary-run-dropdown", "options"),
+    Output("collab-run-dropdown", "options"),
     Input("start-import", "n_clicks"),
     Input("stop-import", "n_clicks"),
     Input("import-poll-interval", "n_intervals"),
@@ -1703,7 +1940,7 @@ def handle_run_actions(
                 dropdown_options,
                 dropdown_value,
                 DEFAULT_RUN_MESSAGE if action_message is no_update else action_message,
-                no_update, no_update,
+                no_update, no_update, no_update,
             )
         if not selected_input_file:
             return (
@@ -1717,7 +1954,7 @@ def handle_run_actions(
                 dropdown_options,
                 dropdown_value,
                 DEFAULT_RUN_MESSAGE if action_message is no_update else action_message,
-                no_update, no_update,
+                no_update, no_update, no_update,
             )
 
         fetch_scopus = "scopus" in (fetch_options or [])
@@ -1746,7 +1983,7 @@ def handle_run_actions(
                 dropdown_options,
                 dropdown_value,
                 DEFAULT_RUN_MESSAGE if action_message is no_update else action_message,
-                no_update, no_update,
+                no_update, no_update, no_update,
             )
 
     if triggered == "run-dropdown":
@@ -1794,9 +2031,11 @@ def handle_run_actions(
     if dropdown_options is no_update:
         analysing_opts = no_update
         summary_opts   = no_update
+        collab_opts    = no_update
     else:
         analysing_opts = [{"label": "All runs", "value": "__all__"}] + dropdown_options
         summary_opts   = dropdown_options
+        collab_opts    = dropdown_options
 
     return (
         _format_import_status(state),
@@ -1811,6 +2050,7 @@ def handle_run_actions(
         final_message,
         analysing_opts,
         summary_opts,
+        collab_opts,
     )
 
 
@@ -1948,7 +2188,7 @@ def _history_panel(history: List[Dict[str, Any]]) -> html.Div:
     if not history:
         return html.Div("No questions asked yet.", className="text-muted")
     items = []
-    for entry in reversed(history):
+    for real_idx, entry in reversed(list(enumerate(history))):
         ts    = entry.get("timestamp", "")
         q     = entry.get("question", "")
         code  = entry.get("code", "")
@@ -1975,11 +2215,19 @@ def _history_panel(history: List[Dict[str, Any]]) -> html.Div:
 
         items.append(html.Div(
             [
-                html.Div(
-                    [html.Span(f"{ts} · ", className="text-muted"), html.Strong(q)],
-                    className="mb-1",
-                    style={"fontSize": "0.85rem"},
-                ),
+                dbc.Row([
+                    dbc.Col(
+                        [html.Span(f"{ts} · ", className="text-muted"), html.Strong(q)],
+                        style={"fontSize": "0.85rem"},
+                    ),
+                    dbc.Col(
+                        dbc.Button("×", id={"type": "history-delete-btn", "index": real_idx},
+                                   color="link", size="sm",
+                                   style={"color": "#6c757d", "padding": "0 4px", "fontSize": "1rem",
+                                          "lineHeight": "1", "textDecoration": "none"}),
+                        width="auto",
+                    ),
+                ], className="g-1 align-items-start mb-1"),
                 html.Div(f"{n} row(s)", className="text-muted", style={"fontSize": "0.75rem"}),
                 code_block,
                 result_block,
@@ -2032,14 +2280,15 @@ def run_analysis(
             payloads  = run_store.get("payloads") or []
             run_name  = Path(run_value).name
             parts     = run_name.split("_")
-            run_label = (
-                f"{parts[0]}/{parts[1]}/{parts[2]} #{parts[3]}"
-                if len(parts) == 4 else run_name
-            )
+            if len(parts) >= 4:
+                run_label = f"{parts[0]}/{parts[1]}/{parts[2]} – {'_'.join(parts[3:])}"
+            elif len(parts) == 3:
+                run_label = f"{parts[0]}/{parts[1]}/{parts[2]}"
+            else:
+                run_label = run_name
             date_str  = "_".join(parts[:3]) if len(parts) >= 3 else ""
-            run_index = int(parts[3]) if len(parts) == 4 else 0
             df, records = df_from_payloads(payloads, run_label=run_label,
-                                           run_date=date_str, run_index=run_index)
+                                           run_date=date_str, run_index=0)
             scope_label = f"run {run_label}"
     except Exception as exc:
         return dbc.Alert(f"Failed to load run data: {exc}", color="danger"), "Error loading data.", _no, _no, True
@@ -2138,6 +2387,25 @@ def load_history_for_run(run_value: Optional[str]):
 )
 def update_history_panel(history: Optional[List]):
     return _history_panel(history or [])
+
+
+@app.callback(
+    Output("analysis-history", "data", allow_duplicate=True),
+    Input({"type": "history-delete-btn", "index": dash.ALL}, "n_clicks"),
+    State("analysis-history", "data"),
+    State("analysing-run-dropdown", "value"),
+    prevent_initial_call=True,
+)
+def delete_history_entry(n_clicks_list: List, history: Optional[List], run_value: Optional[str]):
+    if not any(n for n in (n_clicks_list or []) if n):
+        return dash.no_update
+    triggered = dash.ctx.triggered_id
+    if not triggered or triggered.get("type") != "history-delete-btn":
+        return dash.no_update
+    idx = triggered["index"]
+    updated = [e for i, e in enumerate(history or []) if i != idx]
+    _save_history(run_value, updated)
+    return updated
 
 
 @app.callback(
@@ -2328,6 +2596,8 @@ def _ssd_breakdown_table(ssd_metrics: Dict[str, List[Dict]]) -> html.Table:
                       style={"borderCollapse": "collapse", "fontSize": 12})
 
 
+
+
 def _build_ssd_export_data(ssd_metrics: Dict[str, List[Dict]]) -> Optional[str]:
     """Serialise the SSD breakdown as a JSON string for the export store."""
     def _score_avg(rows):
@@ -2380,10 +2650,10 @@ def update_summary(selected_run: Optional[str]):
         ssd_key  = f"{ssd} {ssd_name}".strip() if ssd_name else ssd
         ssd_metrics.setdefault(ssd_key, []).append(m)
 
-    total    = len(payloads)
-    n_ssds   = len(ssd_metrics)
-    run_dir  = run_data.get("run_dir") or ""
-    run_name = Path(run_dir).name if run_dir else "—"
+    total       = len(payloads)
+    n_ssds      = len(ssd_metrics)
+    run_dir     = run_data.get("run_dir") or ""
+    run_name    = Path(run_dir).name if run_dir else "—"
 
     return html.Div([
         # ── KPI strip ────────────────────────────────────────────────────────
@@ -2595,6 +2865,163 @@ def compare_members(n_clicks: Optional[int], selected: Optional[List[int]], run_
     )
 
 
+if _CYTO_AVAILABLE:
+    @app.callback(
+        Output("collab-node-info", "children"),
+        Input("collab-graph", "tapNodeData"),
+        Input("collab-graph", "tapEdgeData"),
+        State("collab-run-dropdown", "value"),
+        prevent_initial_call=True,
+    )
+    def collab_graph_tap(
+        node_data: Optional[Dict],
+        edge_data: Optional[Dict],
+        selected_run: Optional[str],
+    ):
+        if node_data:
+            return f"{node_data.get('full_name','')}  ·  SSD: {node_data.get('ssd','')}"
+
+        if edge_data and selected_run:
+            sid1 = str(edge_data.get("source", ""))
+            sid2 = str(edge_data.get("target", ""))
+
+            run_data = _load_run_store_for_value(selected_run)
+            payloads = run_data.get("payloads") or []
+
+            # Collect all products from the member who owns sid1
+            shared: List[Dict] = []
+            seen_titles: set = set()
+            for p in payloads:
+                if str(p.get("scopus_id") or "") != sid1:
+                    continue
+                for prod in p.get("scopus_products") or []:
+                    ids = {i.strip() for i in str(prod.get("author_ids") or "").split(";")}
+                    if sid2 in ids:
+                        t = prod.get("title") or ""
+                        if t not in seen_titles:
+                            seen_titles.add(t)
+                            shared.append(prod)
+
+            if not shared:
+                return f"Co-authored papers: {edge_data.get('weight', '?')} (details unavailable)"
+
+            name1 = next(
+                (f"{p.get('surname','')} {p.get('name','')}".strip()
+                 for p in payloads if str(p.get("scopus_id") or "") == sid1), sid1
+            )
+            name2 = next(
+                (f"{p.get('surname','')} {p.get('name','')}".strip()
+                 for p in payloads if str(p.get("scopus_id") or "") == sid2), sid2
+            )
+
+            rows = []
+            for prod in sorted(shared, key=lambda x: -(int(x.get("year") or 0))):
+                title   = prod.get("title") or "—"
+                year    = prod.get("year") or "—"
+                venue   = prod.get("venue") or ""
+                doi     = prod.get("doi") or ""
+                doi_link = html.A(doi, href=f"https://doi.org/{doi}", target="_blank",
+                                  style={"fontSize": "11px"}) if doi else None
+                rows.append(html.Li([
+                    html.Span(f"({year}) ", className="text-muted",
+                              style={"fontSize": "11px"}),
+                    html.Strong(title, style={"fontSize": "12px"}),
+                    html.Span(f"  —  {venue}", className="text-muted",
+                              style={"fontSize": "11px"}) if venue else None,
+                    html.Span([" · ", doi_link]) if doi_link else None,
+                ], className="mb-1"))
+
+            return html.Div([
+                html.Div(
+                    f"{len(shared)} co-authored paper(s): {name1} & {name2}",
+                    className="fw-semibold mb-2",
+                    style={"fontSize": "12px"},
+                ),
+                html.Ul(rows, style={"paddingLeft": "18px", "marginBottom": 0}),
+            ], style={"maxHeight": "220px", "overflowY": "auto",
+                      "border": "1px solid #dee2e6", "borderRadius": "6px",
+                      "padding": "8px", "marginTop": "6px"})
+
+        return ""
+
+
+if _CYTO_AVAILABLE:
+    @app.callback(
+        Output("collab-graph", "elements"),
+        Output("collab-ssd-checklist", "options"),
+        Output("collab-ssd-checklist", "value"),
+        Output("collab-legend", "children"),
+        Input("collab-run-dropdown", "value"),
+        Input("collab-ssd-checklist", "value"),
+        Input("collab-min-weight-input", "value"),
+    )
+    def update_collab_tab(
+        selected_run: Optional[str],
+        active_ssds: Optional[List[str]],
+        min_weight: Optional[int],
+    ):
+        _empty = ([], [], [], [])
+        if not selected_run:
+            return _empty
+
+        run_data = _load_run_store_for_value(selected_run)
+        payloads = run_data.get("payloads") or []
+        if not payloads:
+            return _empty
+
+        # On run change, reset SSD checklist to all SSDs
+        triggered = dash.ctx.triggered_id
+        _, _, all_ssds, ssd_color = _compute_collab_elements(payloads)
+        if triggered == "collab-run-dropdown":
+            active_ssds = all_ssds
+
+        ssd_options = [{"label": s, "value": s} for s in all_ssds]
+
+        nodes, edges, _, _ = _compute_collab_elements(
+            payloads,
+            active_ssds=active_ssds,
+            min_weight=int(min_weight or 1),
+        )
+
+        legend = [
+            html.Div([
+                html.Span("●", style={"color": ssd_color[s], "marginRight": "5px",
+                                      "fontSize": "15px"}),
+                html.Span(s, style={"fontSize": "11px"}),
+            ], style={"whiteSpace": "nowrap"})
+            for s in all_ssds
+        ]
+
+        return nodes + edges, ssd_options, active_ssds, legend
+
+    @app.callback(
+        Output("collab-ssd-checklist", "value", allow_duplicate=True),
+        Output("collab-select-all-btn", "children"),
+        Input("collab-select-all-btn", "n_clicks"),
+        State("collab-ssd-checklist", "options"),
+        State("collab-ssd-checklist", "value"),
+        prevent_initial_call=True,
+    )
+    def toggle_select_all(n_clicks, options, current_value):
+        all_vals = [o["value"] for o in (options or [])]
+        if set(current_value or []) >= set(all_vals):
+            return [], "Select all"
+        return all_vals, "Deselect all"
+
+    @app.callback(
+        Output("collab-min-weight-input", "value"),
+        Input("collab-weight-dec", "n_clicks"),
+        Input("collab-weight-inc", "n_clicks"),
+        State("collab-min-weight-input", "value"),
+        prevent_initial_call=True,
+    )
+    def adjust_min_weight(_dec, _inc, current):
+        val = int(current or 1)
+        if dash.ctx.triggered_id == "collab-weight-dec":
+            return max(1, val - 1)
+        return min(20, val + 1)
+
+
 @app.callback(
     Output("ssd-export-download", "data"),
     Input("ssd-export-btn", "n_clicks"),
@@ -2621,6 +3048,65 @@ def download_comparison_export(n_clicks: Optional[int], store_json: Optional[str
     import pandas as _pd
     df = _pd.DataFrame(json.loads(store_json))
     return dcc.send_data_frame(df.to_excel, "member_comparison.xlsx", index=False)
+
+
+_IMPORT_LOG_RESIZE_JS = """
+function resizeImportLog() {
+    var el = document.getElementById('import-log');
+    var left = document.getElementById('import-left-panel');
+    if (el && left) {
+        var cardBody = el.closest('.card-body');
+        var title = cardBody ? cardBody.querySelector('h5') : null;
+        var titleH = title ? title.offsetHeight + 8 : 40;
+        var padding = cardBody ? (
+            parseInt(getComputedStyle(cardBody).paddingTop || 0) +
+            parseInt(getComputedStyle(cardBody).paddingBottom || 0)
+        ) : 24;
+        var targetH = left.offsetHeight - titleH - padding;
+        el.style.height = Math.max(targetH, 100) + 'px';
+    }
+}
+"""
+
+app.clientside_callback(
+    _IMPORT_LOG_RESIZE_JS + """
+    function(log_content) {
+        resizeImportLog();
+        var el = document.getElementById('import-log');
+        if (el) { el.scrollTop = el.scrollHeight; }
+        return window.dash_clientside.no_update;
+    }
+    """,
+    Output("import-log", "style"),
+    Input("import-log", "children"),
+    prevent_initial_call=True,
+)
+
+app.clientside_callback(
+    _IMPORT_LOG_RESIZE_JS + """
+    function(tab_value) {
+        setTimeout(resizeImportLog, 50);
+        return window.dash_clientside.no_update;
+    }
+    """,
+    Output("import-log", "className"),
+    Input("main-tabs", "value"),
+    prevent_initial_call=False,
+)
+
+
+@app.callback(
+    Output("run-dropdown",          "options", allow_duplicate=True),
+    Output("analysing-run-dropdown","options", allow_duplicate=True),
+    Output("summary-run-dropdown",  "options", allow_duplicate=True),
+    Output("collab-run-dropdown",   "options", allow_duplicate=True),
+    Input("main-tabs", "value"),
+    prevent_initial_call=True,
+)
+def refresh_dropdowns_on_tab_change(_tab):
+    opts = _run_dropdown_options()
+    analysing_opts = [{"label": "All runs", "value": "__all__"}] + opts
+    return opts, analysing_opts, opts, opts
 
 
 def main() -> None:  # pragma: no cover - manual start

@@ -42,7 +42,7 @@ class Importer:
     def run(self) -> Tuple[Path, List[Dict[str, Any]], Dict[str, Any]]:
         members = Aggregate(self.input_workbook).load_members()
         thresholds = load_thresholds()
-        run_dir = self._next_run_directory(self.data_dir)
+        run_dir = self._next_run_directory(self.data_dir, self.input_workbook)
         source_dir = run_dir / "source"
         source_dir.mkdir(parents=True, exist_ok=True)
 
@@ -70,9 +70,18 @@ class Importer:
                     unige_client.close()
                 unige_client = None
 
+        # Load any payloads already fetched in a previous run today
+        existing: Dict[str, Dict[str, Any]] = {}
+        for p in source_dir.glob("*.json"):
+            try:
+                existing[p.name] = json.loads(p.read_text(encoding="utf-8"))
+            except Exception:
+                pass
+
         payloads: List[Dict[str, Any]] = []
         total = len(members)
         aborted = False
+        fetch_count = 0
         loop_start = time.monotonic()
         try:
             for index, member in enumerate(members, 1):
@@ -80,9 +89,18 @@ class Importer:
                     self._log("⏹️ Import cancelled by user.")
                     aborted = True
                     break
-                if index > 1:
+
+                json_path = self._member_json_path(source_dir, member)
+                prior = existing.get(json_path.name)
+                if self._is_complete(prior, self.fetch_scopus, self.fetch_unige):
+                    self._log(f"⏭️ Skipping {member.name} {member.surname} ({index}/{total}) — already imported")
+                    payloads.append(prior)  # type: ignore[arg-type]
+                    continue
+
+                fetch_count += 1
+                if fetch_count > 1:
                     elapsed = time.monotonic() - loop_start
-                    avg = elapsed / (index - 1)
+                    avg = elapsed / (fetch_count - 1)
                     remaining = avg * (total - index + 1)
                     eta_str = f" · ETA {int(remaining // 60):02d}:{int(remaining % 60):02d}"
                 else:
@@ -90,22 +108,23 @@ class Importer:
                 self._log(f"🔍 Processing {member.name} {member.surname} ({index}/{total}{eta_str})")
 
                 scopus_payload: Dict[str, Any] = {}
+                scopus_ok = not self.fetch_scopus
                 if scopus_client:
                     try:
                         scopus_payload = scopus_client.fetch_profile(member.scopus_id)
+                        scopus_ok = True
                     except Exception as exc:  # pragma: no cover
                         self._log(f"⚠️ Scopus fetch failed for {member.scopus_id}: {exc}")
 
                 canonical_unige_id = self._sanitize_unige_id(member.unige_id)
                 unige_raw = self._lookup_unige_entry(unige_map, canonical_unige_id)
+                unige_ok = not self.fetch_unige or unige_client is not None
                 iris_products: List[Dict[str, Any]] = []
                 if self.fetch_iris and unige_client and canonical_unige_id:
                     try:
                         iris_products = unige_client.get_member_iris_products(canonical_unige_id)
                     except Exception as exc:  # pragma: no cover
-                        self._log(
-                            f"⚠️ IRIS fetch failed for {member.unige_id}: {exc}"
-                        )
+                        self._log(f"⚠️ IRIS fetch failed for {member.unige_id}: {exc}")
 
                 payload = self._build_payload(
                     member,
@@ -114,8 +133,8 @@ class Importer:
                     unige_raw,
                     iris_products,
                     thresholds,
+                    fetch_status={"scopus_ok": scopus_ok, "unige_ok": unige_ok, "scores_ok": None},
                 )
-                json_path = self._member_json_path(source_dir, member)
                 with json_path.open("w", encoding="utf-8") as handle:
                     json.dump(payload, handle, indent=2, ensure_ascii=False)
 
@@ -148,6 +167,24 @@ class Importer:
         else:
             print(message)
 
+    @staticmethod
+    def _is_complete(
+        payload: Optional[Dict[str, Any]],
+        fetch_scopus: bool,
+        fetch_unige: bool,
+    ) -> bool:
+        """Return True if a previously saved payload already has all requested data."""
+        if payload is None:
+            return False
+        status = payload.get("_fetch_status", {})
+        if fetch_scopus and not status.get("scopus_ok", False):
+            return False
+        if fetch_unige and not status.get("unige_ok", False):
+            return False
+        if not status.get("scores_ok", True):
+            return False
+        return True
+
     def _build_payload(
         self,
         member: Member,
@@ -156,6 +193,7 @@ class Importer:
         unige_raw: Optional[Dict[str, Any]],
         iris_products: Optional[List[Dict[str, Any]]],
         thresholds: Optional[Dict[str, ThresholdRow]] = None,
+        fetch_status: Optional[Dict[str, bool]] = None,
     ) -> Dict[str, Any]:
         processed_unige = self._process_unige(unige_raw)
         processed_iris = self._process_iris_products(iris_products)
@@ -190,6 +228,13 @@ class Importer:
             "scopus_products": scopus_products,
             "iris_products": processed_iris,
             "retrieved_at": retrieved_at,
+            "_fetch_status": {
+                **(fetch_status or {"scopus_ok": True, "unige_ok": True}),
+                "scores_ok": any(
+                    scores.get(ind, {}).get("score") is not None
+                    for ind in ("articles", "citations", "hindex")
+                ),
+            },
         }
 
         return self._normalize_whitespace(payload)
@@ -484,18 +529,14 @@ class Importer:
         cleaned = re.sub(r"[^a-z0-9_]", "", cleaned)
         return cleaned or default
 
-    def _next_run_directory(self, base: Path) -> Path:
+    def _next_run_directory(self, base: Path, input_workbook: str) -> Path:
         base.mkdir(parents=True, exist_ok=True)
         date_prefix = datetime.now().strftime("%Y_%m_%d")
-        pattern = re.compile(rf"{date_prefix}_(\d+)$")
-        indices = [
-            int(match.group(1))
-            for path in base.iterdir()
-            if path.is_dir() and (match := pattern.match(path.name))
-        ]
-        run_number = max(indices) + 1 if indices else 1
-        run_dir = base / f"{date_prefix}_{run_number}"
-        run_dir.mkdir(parents=True, exist_ok=False)
+        stem = Path(input_workbook).stem.strip()
+        file_part = re.sub(r'[\s<>:"/\\|?*\x00-\x1f]+', "_", stem)
+        file_part = file_part.strip("_") or "import"
+        run_dir = base / f"{date_prefix}_{file_part}"
+        run_dir.mkdir(parents=True, exist_ok=True)
         return run_dir
 
     def _member_json_path(self, base_dir: Path, member: Member) -> Path:
