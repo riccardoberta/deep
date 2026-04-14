@@ -2559,12 +2559,19 @@ def _ssd_breakdown_table(
             "whiteSpace": "nowrap"}
     _BL = {"borderLeft": "2px solid #dee2e6"}   # section separator
 
-    def _vt(avg: Optional[float], thresh: Optional[int], dec: int = 1) -> str:
-        """Format as 'avg / thresh'; falls back to plain avg when no threshold."""
+    def _vt(avg: Optional[float], thresh: Optional[int], dec: int = 1):
+        """Bold ratio result on top, 'value / threshold' in small text below."""
         if avg is None:
             return "—"
         avg_s = f"{avg:.{dec}f}"
-        return f"{avg_s} / {thresh}" if thresh is not None else avg_s
+        if thresh is None:
+            return html.Span(avg_s, style={"fontWeight": "600"})
+        ratio = avg / thresh
+        return html.Div([
+            html.Div(f"{ratio:.2f}", style={"fontWeight": "700", "fontSize": 13}),
+            html.Div(f"{avg_s} / {thresh}",
+                     style={"fontSize": 10, "color": "#6c757d", "lineHeight": "1.2"}),
+        ], style={"lineHeight": "1.4"})
 
     # Two-row header:
     #   row 1 – group labels (Prodotti / Citazioni / H-index / Score)
