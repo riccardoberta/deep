@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import json
 import re
-import shutil
 import time
 from datetime import datetime
 from pathlib import Path
@@ -135,6 +134,9 @@ class Importer:
                     thresholds,
                     fetch_status={"scopus_ok": scopus_ok, "unige_ok": unige_ok, "scores_ok": None},
                 )
+                ssd_used = payload.get("ssd")
+                if ssd_used and ssd_used.strip() not in thresholds:
+                    self._log(f"⚠️ Soglie non trovate per SSD '{ssd_used}' ({member.name} {member.surname})")
                 with json_path.open("w", encoding="utf-8") as handle:
                     json.dump(payload, handle, indent=2, ensure_ascii=False)
 
@@ -142,10 +144,6 @@ class Importer:
         finally:
             if unige_client:
                 unige_client.close()
-
-        if aborted:
-            self._cleanup_run_directory(run_dir)
-            return run_dir, payloads, {}
 
         metadata = {
             "input_file": Path(self.input_workbook).name,
@@ -155,6 +153,7 @@ class Importer:
             "fetch_iris": bool(self.fetch_iris),
             "created_at": datetime.utcnow().isoformat(),
             "source_count": len(payloads),
+            **({"aborted": True} if aborted else {}),
         }
         metadata_path = run_dir / "metadata.json"
         metadata_path.write_text(json.dumps(metadata, indent=2), encoding="utf-8")
@@ -543,11 +542,3 @@ class Importer:
         surname_slug = self._slugify(member.surname)
         name_slug = self._slugify(member.name)
         return base_dir / f"{surname_slug}_{name_slug}_{member.scopus_id}.json"
-
-    @staticmethod
-    def _cleanup_run_directory(run_dir: Path) -> None:
-        try:
-            if run_dir.exists():
-                shutil.rmtree(run_dir)
-        except Exception:
-            pass

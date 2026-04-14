@@ -495,6 +495,7 @@ def _run_dropdown_options() -> List[Dict[str, str]]:
             meta = {}
         input_file = Path(meta.get("input_file", "")).stem or path.name
         count = meta.get("source_count", "?")
+        aborted = meta.get("aborted", False)
         # path.name is like "2026_04_10_diten" → "2026/04/10 – diten"
         parts = path.name.split("_")
         if len(parts) >= 4:
@@ -503,7 +504,7 @@ def _run_dropdown_options() -> List[Dict[str, str]]:
             date_label = f"{parts[0]}/{parts[1]}/{parts[2]}"
         else:
             date_label = path.name
-        label = f"{date_label} ({count} membri)"
+        label = f"⚠️ {date_label} ({count} membri, interrotto)" if aborted else f"{date_label} ({count} membri)"
         options.append({"label": label, "value": str(path.resolve())})
     return options
 
