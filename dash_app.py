@@ -2559,8 +2559,13 @@ def _ssd_breakdown_table(
             "whiteSpace": "nowrap"}
     _BL = {"borderLeft": "2px solid #dee2e6"}   # section separator
 
+    def _ratio_color(ratio: float) -> str:
+        if ratio >= 1.5:  return "#198754"   # green  – well above threshold
+        if ratio >= 1.0:  return "#fd7e14"   # orange – meets threshold
+        return "#dc3545"                      # red    – below threshold
+
     def _vt(avg: Optional[float], thresh: Optional[int], dec: int = 1):
-        """Bold ratio result on top, 'value / threshold' in small text below."""
+        """Bold coloured ratio on top, 'value / threshold' in small text below."""
         if avg is None:
             return "—"
         avg_s = f"{avg:.{dec}f}"
@@ -2568,7 +2573,10 @@ def _ssd_breakdown_table(
             return html.Span(avg_s, style={"fontWeight": "600"})
         ratio = avg / thresh
         return html.Div([
-            html.Div(f"{ratio:.2f}", style={"fontWeight": "700", "fontSize": 13}),
+            html.Div(f"{ratio:.2f}", style={
+                "fontWeight": "700", "fontSize": 13,
+                "color": _ratio_color(ratio),
+            }),
             html.Div(f"{avg_s} / {thresh}",
                      style={"fontSize": 10, "color": "#6c757d", "lineHeight": "1.2"}),
         ], style={"lineHeight": "1.4"})
