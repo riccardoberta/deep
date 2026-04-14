@@ -2544,28 +2544,30 @@ def _dept_metrics_table(rows: List[Dict[str, Optional[float]]]) -> html.Table:
                       style={"borderCollapse": "collapse", "fontSize": 13})
 
 
-def _ssd_breakdown_table(
-    ssd_metrics: Dict[str, List[Dict]],
+def _breakdown_table(
+    groups: Dict[str, List[Dict]],
+    col_label: str = "SSD",
     thresholds: Optional[Dict] = None,
+    get_thresh_code: Optional[Any] = None,   # callable(group_key) → str | None
 ) -> html.Table:
+    """Generic metric breakdown table, usable for SSD or Unit groupings."""
     _TH = {"backgroundColor": "#f8f9fa", "fontWeight": "600", "fontSize": 11,
            "color": "#495057", "padding": "5px 8px", "borderBottom": "2px solid #dee2e6",
            "textAlign": "center", "whiteSpace": "nowrap"}
-    _THS = {**_TH, "color": "#6c757d", "fontWeight": "400"}   # sub-header style
+    _THS = {**_TH, "color": "#6c757d", "fontWeight": "400"}
     _TD = {"padding": "5px 8px", "fontSize": 12, "borderBottom": "1px solid #f0f0f0",
            "textAlign": "center", "color": "#212529"}
     _TDL = {**_TD, "textAlign": "left", "fontWeight": "600", "color": "#495057",
-            "maxWidth": "140px", "overflow": "hidden", "textOverflow": "ellipsis",
+            "maxWidth": "160px", "overflow": "hidden", "textOverflow": "ellipsis",
             "whiteSpace": "nowrap"}
-    _BL = {"borderLeft": "2px solid #dee2e6"}   # section separator
+    _BL = {"borderLeft": "2px solid #dee2e6"}
 
     def _ratio_color(ratio: float) -> str:
-        if ratio >= 1.5:  return "#198754"   # green  – well above threshold
-        if ratio >= 1.0:  return "#fd7e14"   # orange – meets threshold
-        return "#dc3545"                      # red    – below threshold
+        if ratio >= 1.5: return "#198754"
+        if ratio >= 1.0: return "#fd7e14"
+        return "#dc3545"
 
     def _vt(avg: Optional[float], thresh: Optional[int], dec: int = 1):
-        """Bold coloured ratio on top, 'value / threshold' in small text below."""
         if avg is None:
             return "—"
         avg_s = f"{avg:.{dec}f}"
@@ -2581,32 +2583,25 @@ def _ssd_breakdown_table(
                      style={"fontSize": 10, "color": "#6c757d", "lineHeight": "1.2"}),
         ], style={"lineHeight": "1.4"})
 
-    # Two-row header:
-    #   row 1 – group labels (Prodotti / Citazioni / H-index / Score)
-    #   row 2 – fascia labels aligned under each metric column
     _th_mid = {**_TH, "verticalAlign": "middle"}
     group_row = html.Tr([
-        html.Th("SSD", rowSpan=2, style={**_th_mid, "textAlign": "left"}),
-        html.Th("N",   rowSpan=2, style={**_th_mid, "textAlign": "center"}),
+        html.Th(col_label,   rowSpan=2, style={**_th_mid, "textAlign": "left"}),
+        html.Th("N",         rowSpan=2, style={**_th_mid, "textAlign": "center"}),
         html.Th("Prodotti",  colSpan=3, style={**_TH, **_BL}),
         html.Th("Citazioni", colSpan=3, style={**_TH, **_BL}),
         html.Th("H-index",   colSpan=3, style={**_TH, **_BL}),
         html.Th("Score",     colSpan=3, style={**_TH, **_BL}),
     ])
     fascia_row = html.Tr([
-        # Prodotti
         html.Th("II fascia (5a)",  style={**_THS, **_BL}),
         html.Th("I fascia (10a)",  style=_THS),
         html.Th("Comm. (10a)",     style=_THS),
-        # Citazioni
         html.Th("II fascia (10a)", style={**_THS, **_BL}),
         html.Th("I fascia (15a)",  style=_THS),
         html.Th("Comm. (15a)",     style=_THS),
-        # H-index
         html.Th("II fascia (10a)", style={**_THS, **_BL}),
         html.Th("I fascia (15a)",  style=_THS),
         html.Th("Comm. (15a)",     style=_THS),
-        # Score
         html.Th("Prodotti",  style={**_THS, **_BL}),
         html.Th("Citazioni", style=_THS),
         html.Th("H-index",   style=_THS),
@@ -2618,35 +2613,29 @@ def _ssd_breakdown_table(
         return sum(vals) / len(vals) if vals else -1.0
 
     body_rows = []
-    for i, (ssd, rows) in enumerate(
-        sorted(ssd_metrics.items(), key=lambda x: -_score_avg(x[1]))
+    for i, (key, rows) in enumerate(
+        sorted(groups.items(), key=lambda x: -_score_avg(x[1]))
     ):
         bg = "#fafafa" if i % 2 == 0 else "#ffffff"
-        code = ssd.strip().split()[0]
-        t = (thresholds or {}).get(code) or (None,) * 9
-        # t indices: [0]=art_ii [1]=cit_ii [2]=h_ii [3]=art_i [4]=cit_i [5]=h_i
-        #            [6]=art_c  [7]=cit_c  [8]=h_c
+        code = get_thresh_code(key) if get_thresh_code else None
+        t = (thresholds or {}).get(code) if code else None
+        t = t or (None,) * 9
 
-        def _td(content, extra=None):
-            s = {**_TD, "backgroundColor": bg, **(extra or {})}
-            return html.Td(content, style=s)
+        def _td(content, extra=None, _bg=bg):
+            return html.Td(content, style={**_TD, "backgroundColor": _bg, **(extra or {})})
 
         body_rows.append(html.Tr([
-            html.Td(ssd,       style={**_TDL, "backgroundColor": bg}),
+            html.Td(key,       style={**_TDL, "backgroundColor": bg}),
             html.Td(len(rows), style={**_TD,  "backgroundColor": bg, "fontWeight": "600"}),
-            # Prodotti – ratio columns
             _td(_vt(_avgs(rows, "p_5y"),  t[0], 1), _BL),
             _td(_vt(_avgs(rows, "p_10y"), t[3], 1)),
             _td(_vt(_avgs(rows, "p_10y"), t[6], 1)),
-            # Citazioni – ratio columns
             _td(_vt(_avgs(rows, "c_10y"), t[1], 0), _BL),
             _td(_vt(_avgs(rows, "c_15y"), t[4], 0)),
             _td(_vt(_avgs(rows, "c_15y"), t[7], 0)),
-            # H-index – ratio columns
             _td(_vt(_avgs(rows, "h_10y"), t[2], 1), _BL),
             _td(_vt(_avgs(rows, "h_15y"), t[5], 1)),
             _td(_vt(_avgs(rows, "h_15y"), t[8], 1)),
-            # Score badges – all at the end
             _td(_summary_score_badge(_avgs(rows, "s_art")), _BL),
             _td(_summary_score_badge(_avgs(rows, "s_cit"))),
             _td(_summary_score_badge(_avgs(rows, "s_h"))),
@@ -2654,6 +2643,18 @@ def _ssd_breakdown_table(
 
     return html.Table([header, html.Tbody(body_rows)], className="w-100",
                       style={"borderCollapse": "collapse", "fontSize": 12})
+
+
+def _ssd_breakdown_table(
+    ssd_metrics: Dict[str, List[Dict]],
+    thresholds: Optional[Dict] = None,
+) -> html.Table:
+    return _breakdown_table(
+        ssd_metrics,
+        col_label="SSD",
+        thresholds=thresholds,
+        get_thresh_code=lambda k: k.strip().split()[0],
+    )
 
 
 
@@ -2714,7 +2715,8 @@ def update_summary(selected_run: Optional[str]):
         return html.Div("No data found for the selected run.", className="text-muted"), _no
 
     all_rows: List[Dict[str, Optional[float]]] = []
-    ssd_metrics: Dict[str, List[Dict]] = {}
+    ssd_metrics:  Dict[str, List[Dict]] = {}
+    unit_metrics: Dict[str, List[Dict]] = {}
 
     for p in payloads:
         m = _metrics_from_payload(p)
@@ -2723,11 +2725,14 @@ def update_summary(selected_run: Optional[str]):
         ssd_name = p.get("ssd_name", "")
         ssd_key  = f"{ssd} {ssd_name}".strip() if ssd_name else ssd
         ssd_metrics.setdefault(ssd_key, []).append(m)
+        unit = (p.get("unit") or "Unknown").strip() or "Unknown"
+        unit_metrics.setdefault(unit, []).append(m)
 
-    total       = len(payloads)
-    n_ssds      = len(ssd_metrics)
-    run_dir     = run_data.get("run_dir") or ""
-    run_name    = Path(run_dir).name if run_dir else "—"
+    total    = len(payloads)
+    n_ssds   = len(ssd_metrics)
+    n_units  = len(unit_metrics)
+    run_dir  = run_data.get("run_dir") or ""
+    run_name = Path(run_dir).name if run_dir else "—"
 
     return html.Div([
         # ── KPI strip ────────────────────────────────────────────────────────
@@ -2740,6 +2745,10 @@ def update_summary(selected_run: Optional[str]):
                 html.Div("SSDs", className="text-muted small mb-1"),
                 html.H3(n_ssds, className="mb-0"),
             ]), className="text-center shadow-sm"), md=2),
+            dbc.Col(dbc.Card(dbc.CardBody([
+                html.Div("Units", className="text-muted small mb-1"),
+                html.H3(n_units, className="mb-0"),
+            ]), className="text-center shadow-sm"), md=2),
         ], className="g-3 mb-4"),
 
         # ── Department averages ───────────────────────────────────────────────
@@ -2751,6 +2760,15 @@ def update_summary(selected_run: Optional[str]):
                 className="text-muted small mb-3",
             ),
             _dept_metrics_table(all_rows),
+        ]), className="shadow-sm mb-4"),
+
+        # ── By Unit ──────────────────────────────────────────────────────────
+        dbc.Card(dbc.CardBody([
+            html.H5("Unit", className="mb-3"),
+            html.Div(
+                _breakdown_table(unit_metrics, col_label="Unit"),
+                style={"overflowX": "auto"},
+            ),
         ]), className="shadow-sm mb-4"),
 
         # ── By SSD ───────────────────────────────────────────────────────────
