@@ -34,8 +34,17 @@ class ScopusClient:
         year_windows: Optional[Iterable[int]] = None,
         *,
         sleep_seconds: float = 3.0,
-        current_year: Optional[int] = None,
+        reference_year: Optional[int] = None,
+        refresh: bool = True,
     ) -> None:
+        """
+        reference_year: last year included in the rolling windows (e.g. 2025 for
+            the last complete year, or the current year to include the year to
+            date). A window of N years covers reference_year-N+1 .. reference_year
+            (exactly N calendar years).
+        refresh: when True (default) every Scopus API call bypasses the local
+            pybliometrics cache so each import fetches fresh data.
+        """
         load_dotenv()
         resolved_api_key = api_key or os.getenv("SCOPUS_API_KEY")
         resolved_email = email or os.getenv("SCOPUS_EMAIL")
@@ -46,7 +55,9 @@ class ScopusClient:
         self.email = resolved_email
         self.year_windows = list(year_windows or YEAR_WINDOWS_DEFAULT)
         self.sleep_seconds = sleep_seconds
-        self.current_year = current_year or datetime.now().year
+        self.current_year = datetime.now().year
+        self.reference_year = int(reference_year) if reference_year else self.current_year
+        self.refresh = refresh
 
         self.config_path = Path("~/.pybliometrics/config.ini").expanduser()
         self._ensure_config()
@@ -59,8 +70,8 @@ class ScopusClient:
         if not scopus_id:
             raise ValueError("Scopus ID must not be empty.")
 
-        author = AuthorRetrieval(scopus_id)
-        search = ScopusSearch(f"AU-ID({scopus_id})")
+        author = AuthorRetrieval(scopus_id, refresh=self.refresh)
+        search = ScopusSearch(f"AU-ID({scopus_id})", refresh=self.refresh)
         docs = search.results or []
 
         total_docs = len(docs)
@@ -91,7 +102,7 @@ class ScopusClient:
 
                 if year is not None:
                     for window in self.year_windows:
-                        if year >= self.current_year - window:
+                        if self._in_window(year, window):
                             window_stats = stats[window]
                             window_stats["docs"] += 1
                             window_stats["citations"] += cited
@@ -164,16 +175,17 @@ class ScopusClient:
         ]
 
         for window in self.year_windows:
+            start_year, end_year = self.window_bounds(window)
             metrics.append(
                 {
-                    "period": f"{window:02d} years ({self.current_year - window}-{self.current_year})",
+                    "period": f"{window:02d} years ({start_year}-{end_year})",
                     "hindex": window_h_indexes[window],
                     "total_products": stats[window]["docs"],
                     "journals": stats[window]["journals"],
                     "conferences": stats[window]["conferences"],
                     "citations": stats[window]["citations"],
-                    "start": self.current_year - window,
-                    "end": self.current_year,
+                    "start": start_year,
+                    "end": end_year,
                 }
             )
 
@@ -200,6 +212,14 @@ class ScopusClient:
             "scopus_metrics": metrics,
             "scopus_products": papers,
         }
+
+    def window_bounds(self, window: int) -> tuple[int, int]:
+        """Inclusive (start, end) calendar years covered by a window of `window` years."""
+        return self.reference_year - int(window) + 1, self.reference_year
+
+    def _in_window(self, year: int, window: int) -> bool:
+        start_year, end_year = self.window_bounds(window)
+        return start_year <= year <= end_year
 
     @staticmethod
     def _compute_h_index(citation_counts: Iterable[int]) -> int:
@@ -249,7 +269,7 @@ class ScopusClient:
             return {}
 
         try:
-            serial = SerialTitleISSN(primary_identifier, view="CITESCORE")
+            serial = SerialTitleISSN(primary_identifier, view="CITESCORE", refresh=self.refresh)
         except Exception:
             for identifier in identifiers:
                 self._source_cache[identifier] = {}

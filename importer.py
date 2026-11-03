@@ -20,6 +20,7 @@ class Importer:
         input_workbook: str,
         year_windows: Iterable[int],
         *,
+        reference_year: Optional[int] = None,
         sleep_seconds: float,
         fetch_scopus: bool,
         fetch_unige: bool,
@@ -30,6 +31,7 @@ class Importer:
     ) -> None:
         self.input_workbook = input_workbook
         self.year_windows = year_windows
+        self.reference_year = int(reference_year) if reference_year else datetime.now().year
         self.sleep_seconds = sleep_seconds
         self.fetch_scopus = fetch_scopus
         self.fetch_unige = fetch_unige
@@ -51,6 +53,8 @@ class Importer:
                 scopus_client = ScopusClient(
                     year_windows=self.year_windows,
                     sleep_seconds=self.sleep_seconds,
+                    reference_year=self.reference_year,
+                    refresh=True,
                 )
             except Exception as exc:  # pragma: no cover
                 self._log(f"⚠️ Unable to initialise Scopus client: {exc}")
@@ -148,6 +152,7 @@ class Importer:
         metadata = {
             "input_file": Path(self.input_workbook).name,
             "year_windows": [int(value) for value in self.year_windows],
+            "reference_year": int(self.reference_year),
             "fetch_scopus": bool(self.fetch_scopus),
             "fetch_unige": bool(self.fetch_unige),
             "fetch_iris": bool(self.fetch_iris),

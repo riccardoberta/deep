@@ -6,7 +6,7 @@ DEEP is a web application that helps the DITEN department collect, organise, and
 
 **Data collection**
 - Reads the department roster from an Excel workbook (`.xlsx` / `.xlsm`) placed in `INPUT_FOLDER`. The workbook can have an explicit header row (`Surname`, `Name`, `Unit`, `Role`, `SSD`, `scopus_id`, `unige_id`) or rely on column order.
-- Fetches Scopus metrics (H-index, publications, citations) over configurable rolling windows (default 5, 10, 15 years).
+- Fetches Scopus metrics (H-index, publications, citations) fresh at every import (the pybliometrics cache is bypassed) over configurable rolling windows (default 5, 10, 15 years). A window of N years covers exactly N calendar years ending with the configurable reference year (e.g. reference year 2025 → last 5 years = 2021–2025; the current year → up to today).
 - Fetches UNIGE data (academic role, SSD, location, teaching, responsibilities) via the official REST API; falls back to the values declared in the input file when UNIGE is unavailable.
 - Computes D.M. 589/2018 threshold scores (0.0 / 0.4 / 0.8 / 1.2) for three indicators (articles, citations, H-index) and three levels (Associato, Ordinario, Commissario/Evaluator), storing both scores and value/threshold ratios.
 - Saves each import as a self-contained run folder named `YYYY_MM_DD_<filename>` under `DATA_DIR`; a second import on the same day with the same file overwrites the previous one. Each run includes per-member JSON payloads, an XLSX summary, a co-authorship graph, and a full import log.
@@ -62,6 +62,7 @@ Create a `.env` file in the project root (never commit it). The application load
 | `INPUT_FOLDER`    | No       | Directory scanned for roster workbooks.                                  | `./input` |
 | `DATA_DIR`        | No       | Root directory for run output folders.                                   | `data`    |
 | `YEAR_WINDOWS`    | No       | Comma-separated rolling windows (years) for Scopus stats.                | `15,10,5` |
+| `REFERENCE_YEAR`  | No       | Default last year included in the windows (UI default; editable per import). | current year |
 | `SLEEP_SECONDS`   | No       | Delay between Scopus requests to respect rate limits.                    | `3.0`     |
 | `FETCH_SCOPUS`    | No       | Set to `false` to skip Scopus enrichment (useful for offline testing).   | `true`    |
 | `FETCH_UNIGE`     | No       | Set to `false` to skip UNIGE enrichment.                                 | `true`    |

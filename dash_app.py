@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import base64
+import io
 import json
 import os
 import re
@@ -64,6 +65,7 @@ def _env_bool(name: str, default: bool) -> bool:
 class AppSettings:
     input_folder: Path
     year_windows: str
+    reference_year: int
     sleep_seconds: float
     fetch_scopus: bool
     fetch_unige: bool
@@ -78,12 +80,19 @@ def _load_settings() -> AppSettings:
     except (TypeError, ValueError):
         sleep_seconds = 3.0
 
+    raw_reference_year = os.getenv("REFERENCE_YEAR", "")
+    try:
+        reference_year = int(raw_reference_year) if raw_reference_year.strip() else datetime.now().year
+    except (TypeError, ValueError):
+        reference_year = datetime.now().year
+
     input_folder = Path(os.getenv("INPUT_FOLDER", "./input")).expanduser()
     input_folder.mkdir(parents=True, exist_ok=True)
     data_dir = Path(os.getenv("DATA_DIR", "data")).expanduser()
     return AppSettings(
         input_folder=input_folder,
         year_windows=os.getenv("YEAR_WINDOWS", "15,10,5"),
+        reference_year=reference_year,
         sleep_seconds=sleep_seconds,
         fetch_scopus=_env_bool("FETCH_SCOPUS", True),
         fetch_unige=_env_bool("FETCH_UNIGE", True),
@@ -237,6 +246,7 @@ class ImportManager:
         *,
         input_workbook: str,
         year_windows: Iterable[int],
+        reference_year: int,
         fetch_scopus: bool,
         fetch_unige: bool,
         fetch_iris: bool,
@@ -254,7 +264,7 @@ class ImportManager:
 
         thread = threading.Thread(
             target=self._run_import,
-            args=(input_workbook, tuple(year_windows), fetch_scopus, fetch_unige, fetch_iris),
+            args=(input_workbook, tuple(year_windows), int(reference_year), fetch_scopus, fetch_unige, fetch_iris),
             daemon=True,
         )
         self._thread = thread
@@ -282,6 +292,7 @@ class ImportManager:
         self,
         input_workbook: str,
         year_windows: Tuple[int, ...],
+        reference_year: int,
         fetch_scopus: bool,
         fetch_unige: bool,
         fetch_iris: bool,
@@ -294,6 +305,7 @@ class ImportManager:
         importer = Importer(
             input_workbook=input_workbook,
             year_windows=year_windows,
+            reference_year=reference_year,
             sleep_seconds=self.sleep_seconds,
             fetch_scopus=fetch_scopus,
             fetch_unige=fetch_unige,
@@ -357,8 +369,9 @@ def _perform_elaborations(
         logger("⚠️ Skipping results workbook: unable to determine input workbook.")
 
     windows = metadata.get("year_windows") or []
+    reference_year = metadata.get("reference_year") or _metadata_reference_year_fallback(metadata)
     try:
-        builder = CollaborationBuilder(windows, logger=logger)
+        builder = CollaborationBuilder(windows, reference_year=reference_year, logger=logger)
         builder.build(payloads, run_dir)
         logger("🔗 Collaboration graph generated.")
     except Exception as exc:  # pragma: no cover
@@ -369,14 +382,39 @@ def _perform_elaborations(
         _write_metadata(run_dir, metadata)
 
 
+def _metadata_reference_year_fallback(metadata: Dict[str, Any]) -> int:
+    """Runs created before the reference-year setting existed: use the run year."""
+    created = str(metadata.get("created_at") or "")
+    try:
+        return int(created[:4])
+    except ValueError:
+        return datetime.now().year
+
+
+def _parse_reference_year(value: Any) -> int:
+    if value is None or str(value).strip() == "":
+        raise ValueError("Reference year cannot be empty.")
+    try:
+        year = int(value)
+    except (TypeError, ValueError) as exc:
+        raise ValueError("Reference year must be a 4-digit year (e.g. 2025).") from exc
+    current_year = datetime.now().year
+    if year < 1950 or year > current_year:
+        raise ValueError(f"Reference year must be between 1950 and {current_year}.")
+    return year
+
+
 def _parse_year_windows(value: str) -> List[int]:
     parts = [part.strip() for part in (value or "").split(",") if part.strip()]
     if not parts:
         raise ValueError("Year windows cannot be empty.")
     try:
-        return [int(part) for part in parts]
+        windows = [int(part) for part in parts]
     except ValueError as exc:
         raise ValueError("Year windows must contain integers separated by commas.") from exc
+    if any(window <= 0 for window in windows):
+        raise ValueError("Year windows must be positive integers (e.g. 15,10,5).")
+    return windows
 
 
 def _latest_run_dir(base_dir: Path) -> Optional[Path]:
@@ -957,8 +995,20 @@ def _build_import_tab() -> dbc.Container:
                 html.H5("Settings", className="mb-2"),
                 dbc.Row(
                     [
-                        dbc.Col(dbc.Label("Time windows", className="mb-0"), width="auto", className="align-self-center"),
-                        dbc.Col(dbc.Input(id="year-windows", type="text", value=SETTINGS.year_windows), md=3),
+                        dbc.Col(dbc.Label("Reference year", className="mb-0"), width="auto", className="align-self-center"),
+                        dbc.Col(
+                            dbc.Input(
+                                id="reference-year",
+                                type="number",
+                                min=1950,
+                                max=datetime.now().year,
+                                step=1,
+                                value=SETTINGS.reference_year,
+                            ),
+                            md=2,
+                        ),
+                        dbc.Col(dbc.Label("Time windows", className="mb-0"), width="auto", className="align-self-center ms-3"),
+                        dbc.Col(dbc.Input(id="year-windows", type="text", value=SETTINGS.year_windows), md=2),
                         dbc.Col(dbc.Label("Data sources", className="mb-0"), width="auto", className="align-self-center ms-3"),
                         dbc.Col(
                             dbc.Checklist(
@@ -982,6 +1032,7 @@ def _build_import_tab() -> dbc.Container:
                     ],
                     className="g-2 align-items-center",
                 ),
+                html.Div(id="windows-help", className="form-text mt-1"),
                 dbc.Row(
                     [
                         dbc.Col(dbc.Button("Start Import", id="start-import", color="primary"), width="auto"),
@@ -1810,7 +1861,22 @@ def _format_run_meta(run_data: Dict[str, Any]) -> html.Div:
         return html.Div("No run selected.", className="text-muted")
     items = []
     if metadata.get("year_windows"):
-        items.append(html.Li(f"Year windows: {metadata['year_windows']}"))
+        if metadata.get("reference_year"):
+            reference_year = int(metadata["reference_year"])
+            spans = ", ".join(
+                f"{int(w)}y = {reference_year - int(w) + 1}–{reference_year}"
+                for w in metadata["year_windows"]
+            )
+            items.append(html.Li(f"Reference year: {reference_year}"))
+            items.append(html.Li(f"Time windows: {spans}"))
+        else:
+            run_year = _metadata_reference_year_fallback(metadata)
+            items.append(
+                html.Li(
+                    f"Time windows: {metadata['year_windows']} (legacy run: each window spans "
+                    f"N+1 years ending in {run_year}; re-import for exact N-year windows)"
+                )
+            )
     sources = [
         name
         for name, enabled in {
@@ -1904,6 +1970,7 @@ def manage_input_files(
     Input("regen-run-btn", "n_clicks"),
     State("input-file-dropdown", "value"),
     State("year-windows", "value"),
+    State("reference-year", "value"),
     State("fetch-options", "value"),
     State("run-store", "data"),
     prevent_initial_call=True,
@@ -1917,6 +1984,7 @@ def handle_run_actions(
     regen_clicks: Optional[int],
     selected_input_file: Optional[str],
     year_windows_value: str,
+    reference_year_value: Any,
     fetch_options: List[str],
     run_store: Dict[str, Any],
 ):
@@ -1929,6 +1997,7 @@ def handle_run_actions(
     if triggered == "start-import":
         try:
             windows = _parse_year_windows(year_windows_value)
+            reference_year = _parse_reference_year(reference_year_value)
         except ValueError as exc:
             has_file_now = _input_file_exists(selected_input_file)
             return (
@@ -1966,6 +2035,7 @@ def handle_run_actions(
             IMPORT_MANAGER.start(
                 input_workbook=selected_input_file,
                 year_windows=windows,
+                reference_year=reference_year,
                 fetch_scopus=fetch_scopus,
                 fetch_unige=fetch_unige,
                 fetch_iris=fetch_iris,
@@ -2208,7 +2278,7 @@ def _history_panel(history: List[Dict[str, Any]]) -> html.Div:
             [
                 html.Summary("Results", style={"cursor": "pointer", "color": "#6c757d", "fontSize": "0.8rem"}),
                 html.Div(
-                    _make_result_table(__import__("pandas").read_json(result_json, orient="records"))
+                    _make_result_table(__import__("pandas").read_json(io.StringIO(result_json), orient="records"))
                     if result_json else html.Span("—", className="text-muted"),
                     style={"marginTop": "4px"},
                 ),
@@ -2441,7 +2511,7 @@ def download_analysis(n_clicks: Optional[int], result_store: Optional[Dict[str, 
     if not result_json:
         return dash.no_update
     import pandas as pd_
-    result_df = pd_.read_json(result_json, orient="records")
+    result_df = pd_.read_json(io.StringIO(result_json), orient="records")
     return dcc.send_data_frame(result_df.to_excel, "analysis_result.xlsx", index=False)
 
 
@@ -3184,6 +3254,41 @@ def refresh_dropdowns_on_tab_change(_tab):
     opts = _run_dropdown_options()
     analysing_opts = [{"label": "All runs", "value": "__all__"}] + opts
     return opts, analysing_opts, opts, opts
+
+
+@app.callback(
+    Output("windows-help", "children"),
+    Input("reference-year", "value"),
+    Input("year-windows", "value"),
+)
+def describe_windows(reference_year_value: Any, year_windows_value: str):
+    """Live explanation of what the reference year and time windows will cover."""
+    current_year = datetime.now().year
+    try:
+        reference_year = _parse_reference_year(reference_year_value)
+        windows = _parse_year_windows(year_windows_value)
+    except ValueError as exc:
+        return html.Span(f"⚠️ {exc}", className="text-danger")
+
+    if reference_year == current_year:
+        scope = f"{current_year} is the current year, so windows include publications up to today (year in progress)."
+    else:
+        scope = (
+            f"Windows end with {reference_year}, the last complete year considered; "
+            f"publications dated after {reference_year} are excluded from the windows."
+        )
+    spans = "; ".join(
+        f"last {w} years = {reference_year - w + 1}–{reference_year}" for w in sorted(windows, reverse=True)
+    )
+    return [
+        html.Span(scope + " "),
+        html.Span(spans + ". ", className="fw-semibold"),
+        html.Span(
+            "Each window covers exactly N calendar years. Citation counts and the career h-index "
+            "are always fetched fresh from Scopus at import time (no local cache).",
+            className="text-muted",
+        ),
+    ]
 
 
 def main() -> None:  # pragma: no cover - manual start

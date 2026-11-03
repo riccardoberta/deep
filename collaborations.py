@@ -19,8 +19,10 @@ class CollaborationBuilder:
         self,
         year_windows: Iterable[int],
         *,
+        reference_year: Optional[int] = None,
         logger: Optional[Callable[[str], None]] = None,
     ) -> None:
+        self.reference_year = int(reference_year) if reference_year else datetime.utcnow().year
         self.year_windows = sorted(
             {int(window) for window in year_windows if int(window) > 0},
             reverse=True,
@@ -106,7 +108,7 @@ class CollaborationBuilder:
         windows: List[int],
         window_key_map: Dict[Optional[int], str],
     ) -> List[Dict[str, Any]]:
-        current_year = datetime.utcnow().year
+        reference_year = self.reference_year
         product_map: Dict[str, Dict[str, Any]] = {}
 
         for index, payload in enumerate(payloads):
@@ -136,7 +138,7 @@ class CollaborationBuilder:
                 stats["weight_overall"] += 1
                 if year is not None:
                     for window in windows:
-                        if year >= current_year - window:
+                        if reference_year - window < year <= reference_year:
                             stats["window_counts"][window] += 1
 
         edges: List[Dict[str, Any]] = []
